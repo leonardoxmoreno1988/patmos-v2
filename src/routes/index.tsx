@@ -10,6 +10,8 @@ import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { VerseToolbar } from "@/components/reader/verse-toolbar";
 import { noteKey, studyNotesQuery } from "@/lib/notes";
+import { EtsyBanner } from "@/components/reader/etsy-banner";
+import { NewsletterCard } from "@/components/reader/newsletter-card";
 
 export const Route = createFileRoute("/")({
   validateSearch: (search: Record<string, unknown>) => {
@@ -234,6 +236,8 @@ function Reader() {
                 </div>
               )}
             </div>
+
+            <NewsletterCard />
           </article>
 
         <aside className="space-y-6 lg:col-span-5 lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto scrollbar-none">
@@ -246,6 +250,7 @@ function Reader() {
               No hay comentario registrado para este capítulo.
             </p>
           )}
+          <EtsyBanner />
         </aside>
       </main>
 
