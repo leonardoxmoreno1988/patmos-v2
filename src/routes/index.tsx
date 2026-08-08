@@ -14,8 +14,8 @@ import { noteKey, studyNotesQuery } from "@/lib/notes";
 
 export const Route = createFileRoute("/")({
   validateSearch: (search: Record<string, unknown>) => {
-    const libro = typeof search.libro === "string" ? search.libro : "Juan";
-    const cap = Number(search.cap);
+    const libro = typeof search["libro"] === "string" ? (search["libro"] as string) : "Juan";
+    const cap = Number(search["cap"]);
     return {
       libro: BOOKS.some((b) => b.name === libro) ? libro : "Juan",
       cap: Number.isFinite(cap) && cap > 0 ? Math.floor(cap) : 3,
