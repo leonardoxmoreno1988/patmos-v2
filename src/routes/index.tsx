@@ -136,7 +136,7 @@ function Reader() {
   return (
     <div className="min-h-screen bg-background">
       <header className="sticky top-0 z-30 border-b border-border/50 bg-background/80 backdrop-blur-xl">
-        <div className="mx-auto grid max-w-6xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-4 py-3 sm:px-6 md:grid-cols-[auto_minmax(0,1fr)_auto]">
+        <div className="mx-auto grid max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-6 py-3 md:grid-cols-[auto_minmax(0,1fr)_auto]">
           <div className="flex min-w-0 items-center gap-2.5">
             <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground">
               <BookOpen className="h-[18px] w-[18px]" />
@@ -162,8 +162,8 @@ function Reader() {
         </div>
       </header>
 
-      <div className="sticky top-[61px] z-30 h-[80px] bg-background/70 px-4 py-4 backdrop-blur-md sm:px-6">
-        <nav className="mx-auto flex h-12 max-w-6xl items-center justify-between gap-4 sm:gap-6">
+      <div className="sticky top-[61px] z-30 h-[80px] bg-background/70 py-4 backdrop-blur-md">
+        <nav className="mx-auto flex h-12 max-w-7xl items-center justify-between gap-4 px-6 sm:gap-6">
           <div className="flex min-w-0 items-center gap-4 sm:gap-6">
             <Selector
               label="Libro"
@@ -206,7 +206,7 @@ function Reader() {
         </nav>
       </div>
 
-      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-4 pb-24 pt-12 sm:px-6 lg:grid-cols-12 lg:items-start lg:gap-16 lg:pt-14">
+      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
           <article className="lg:col-span-7">
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
