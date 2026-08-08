@@ -25,7 +25,7 @@ export function ThemeToggle() {
       type="button"
       onClick={toggle}
       aria-label={dark ? "Activar modo claro" : "Activar modo oscuro"}
-      className="grid h-10 w-10 shrink-0 place-items-center rounded-full border border-border/60 bg-surface text-muted-foreground shadow-[var(--shadow-soft)] transition-colors hover:text-foreground"
+      className="grid h-10 w-10 shrink-0 place-items-center rounded-lg bg-transparent p-2 text-muted-foreground transition-colors hover:bg-accent/50 hover:text-foreground"
     >
       {dark ? <Sun className="h-[18px] w-[18px]" /> : <Moon className="h-[18px] w-[18px]" />}
     </button>
