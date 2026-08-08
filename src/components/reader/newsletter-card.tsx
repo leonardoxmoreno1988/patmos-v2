@@ -9,10 +9,10 @@ export function NewsletterCard() {
     <section className="mt-12 space-y-4 rounded-2xl border border-border/70 bg-muted/50 p-8">
       <div>
         <span className="mb-1 block text-xs font-semibold uppercase tracking-wider text-muted-foreground">
-          Estudios bíblicos quincenales
+          Suscríbete al newsletter
         </span>
         <p className="font-sans text-lg font-medium leading-snug text-foreground">
-          Una exploración de la profecía bíblica y el cristianismo actual
+          Una exploración de la profecía bíblica y el cristianismo actual por Leonardo Moreno
         </p>
       </div>
 
