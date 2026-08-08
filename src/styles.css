@@ -176,3 +176,7 @@
   display: block;
   height: 0.75rem;
 }
+
+@theme inline {
+  --color-verse-highlight: var(--verse-highlight);
+}
