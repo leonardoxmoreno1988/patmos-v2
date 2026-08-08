@@ -154,5 +154,13 @@
   body {
     background-color: var(--color-background);
     color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
   }
+}
+
+@utility scripture {
+  font-family: var(--font-serif);
+  line-height: 1.8;
+  letter-spacing: -0.003em;
 }
