@@ -168,9 +168,9 @@ function Reader() {
         </div>
       </header>
 
-      <div className="sticky top-[61px] z-30 h-[76px] border-b border-border/50 bg-background/90 px-4 py-3.5 backdrop-blur-md sm:px-6">
-        <nav className="mx-auto flex h-[49px] max-w-6xl items-center justify-between gap-2 rounded-full border border-border/50 bg-surface/90 p-1.5 shadow-[var(--shadow-float)] backdrop-blur-md">
-          <div className="flex min-w-0 items-center gap-1">
+      <div className="sticky top-[61px] z-30 h-[80px] bg-background/70 px-4 py-4 backdrop-blur-md sm:px-6">
+        <nav className="mx-auto flex h-12 max-w-6xl items-center justify-between gap-4 sm:gap-6">
+          <div className="flex min-w-0 items-center gap-4 sm:gap-6">
             <Selector
               label="Libro"
               value={bookId}
@@ -178,7 +178,6 @@ function Reader() {
               onSelect={(v) => goTo(v, 1)}
               searchable
             />
-            <span className="h-5 w-px shrink-0 bg-border" />
             <Selector
               label="Capítulo"
               value={chapter}
@@ -191,12 +190,12 @@ function Reader() {
             />
           </div>
 
-          <div className="flex shrink-0 items-center gap-1">
+          <div className="flex shrink-0 items-center gap-3">
             <button
               type="button"
               onClick={prev}
               aria-label="Capítulo anterior"
-              className="grid h-11 w-11 place-items-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+              className="grid h-11 w-11 place-items-center rounded-full border border-border/70 bg-surface/90 text-muted-foreground shadow-[var(--shadow-soft)] backdrop-blur-md transition-colors hover:bg-accent hover:text-foreground"
             >
               <ChevronLeft className="h-[18px] w-[18px]" />
             </button>
@@ -204,7 +203,7 @@ function Reader() {
               type="button"
               onClick={next}
               aria-label="Capítulo siguiente"
-              className="flex h-11 items-center gap-1 rounded-full bg-primary px-5 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90"
+              className="flex h-11 items-center gap-1.5 rounded-full bg-primary px-5 py-2.5 text-sm font-medium text-primary-foreground shadow-[var(--shadow-soft)] transition-opacity hover:opacity-90"
             >
               <span className="hidden sm:inline">Siguiente</span>
               <ChevronRight className="h-[18px] w-[18px]" />
@@ -213,15 +212,15 @@ function Reader() {
         </nav>
       </div>
 
-      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-8 px-4 pb-16 pt-10 sm:px-6 lg:grid-cols-12 lg:items-start lg:pt-12">
-          <article className="rounded-2xl border border-border/50 bg-surface px-6 py-10 shadow-[var(--shadow-soft)] sm:px-12 sm:py-14 lg:col-span-7">
+      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-4 pb-24 pt-12 sm:px-6 lg:grid-cols-12 lg:items-start lg:gap-16 lg:pt-14">
+          <article className="lg:col-span-7">
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
             </p>
             <h1 className="scripture mt-3 text-3xl font-bold tracking-tight sm:text-4xl">
               {book.name} {chapter}
             </h1>
-            <div className="mt-8 h-px w-16 bg-border" />
+            <div className="mt-8 h-px w-16 bg-border/70" />
 
             <div className="mt-8">
               {bookData.isPending ? (
@@ -235,9 +234,9 @@ function Reader() {
                   Ningún versículo de este capítulo contiene «{query}».
                 </p>
               ) : (
-                <div className="scripture space-y-5 text-[1.0625rem] leading-[1.8] text-foreground sm:text-lg">
+                <div className="scripture space-y-6 text-[1.0625rem] leading-loose text-foreground sm:text-lg">
                   {paragraphs.map((group, i) => (
-                    <p key={i}>
+                    <p key={i} className="mb-6 last:mb-0">
                       {group.map((v) => (
                         <span key={v.verse}>
                           <VerseText
@@ -270,10 +269,7 @@ function Reader() {
               <NotesSkeleton />
             ) : (
               notes.map((n) => (
-                <div
-                  key={n.title}
-                  className="rounded-2xl border border-border/50 bg-surface p-6 shadow-[var(--shadow-soft)]"
-                >
+                <div key={n.title} className="rounded-2xl bg-muted/40 p-6">
                   <h3 className="text-[13px] font-semibold tracking-tight">{n.title}</h3>
                   <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{n.body}</p>
                 </div>
