@@ -3,7 +3,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { BookOpen, ChevronLeft, ChevronRight, Search, Sparkles } from "lucide-react";
 
-import { booksQuery, chapterQuery, TRANSLATION } from "@/lib/bible";
+import { BOOKS, bookQuery, TRANSLATION, type Verse } from "@/lib/bible";
 import { buildNotes } from "@/lib/commentary";
 import { Selector } from "@/components/reader/selector";
 import { ThemeToggle } from "@/components/reader/theme-toggle";
@@ -16,41 +16,67 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Lee cualquier capítulo de la Biblia (RVR1960) en una interfaz limpia y espaciosa, con notas de estudio y contexto por libro.",
+          "Lee cualquier capítulo de la Biblia (Reina-Valera 1865) en una interfaz limpia y espaciosa, con notas de estudio y contexto por libro.",
       },
       { property: "og:title", content: "Comentario Bíblico" },
       {
         property: "og:description",
         content: "Lectura bíblica minimalista con comentario y notas de estudio.",
       },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
   component: Reader,
 });
 
+function VerseText({ verse }: { verse: Verse }) {
+  return (
+    <>
+      <sup className="mr-1.5 select-none font-sans text-xs text-verse-number">{verse.verse}</sup>
+      {verse.segments.map((s, i) =>
+        s.italic ? (
+          <em key={i} className="italic text-muted-foreground">
+            {s.text}
+          </em>
+        ) : (
+          <span key={i}>{s.text}</span>
+        ),
+      )}{" "}
+    </>
+  );
+}
+
 function Reader() {
-  const [bookId, setBookId] = useState(43);
+  const [bookId, setBookId] = useState(44);
   const [chapter, setChapter] = useState(3);
   const [query, setQuery] = useState("");
 
-  const books = useQuery(booksQuery);
-  const book = books.data?.find((b) => b.bookid === bookId);
-  const chapterCount = book?.chapters ?? 1;
-
-  const verses = useQuery(chapterQuery(bookId, chapter));
+  const book = BOOKS.find((b) => b.bookid === bookId);
+  const bookData = useQuery(bookQuery(bookId));
+  const chapters = bookData.data ?? [];
+  const chapterCount = chapters.length || 1;
+  const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
+  const verses = current?.verses ?? [];
 
   const filteredVerses = useMemo(() => {
     const q = query.trim().toLowerCase();
-    if (!q || !verses.data) return verses.data ?? [];
-    return verses.data.filter((v) => v.text.toLowerCase().includes(q));
-  }, [verses.data, query]);
+    if (!q) return verses;
+    return verses.filter((v) => v.text.toLowerCase().includes(q));
+  }, [verses, query]);
+
+  const paragraphs = useMemo(() => {
+    const groups: Verse[][] = [];
+    for (const v of filteredVerses) {
+      if (!groups.length || v.paragraph || query.trim()) groups.push([v]);
+      else groups[groups.length - 1].push(v);
+    }
+    return groups;
+  }, [filteredVerses, query]);
 
   const notes = useMemo(
-    () =>
-      verses.data && book
-        ? buildNotes(bookId, book.name, chapter, verses.data)
-        : [],
-    [verses.data, book, bookId, chapter],
+    () => (verses.length && book ? buildNotes(bookId, book.name, chapter, verses) : []),
+    [verses, book, bookId, chapter],
   );
 
   const goTo = (nextBook: number, nextChapter: number) => {
@@ -62,15 +88,13 @@ function Reader() {
 
   const prev = () => {
     if (chapter > 1) return goTo(bookId, chapter - 1);
-    const idx = books.data?.findIndex((b) => b.bookid === bookId) ?? 0;
-    const prevBook = books.data?.[idx - 1];
-    if (prevBook) goTo(prevBook.bookid, prevBook.chapters);
+    const prevBook = BOOKS[bookId - 2];
+    if (prevBook) goTo(prevBook.bookid, 1);
   };
 
   const next = () => {
     if (chapter < chapterCount) return goTo(bookId, chapter + 1);
-    const idx = books.data?.findIndex((b) => b.bookid === bookId) ?? 0;
-    const nextBook = books.data?.[idx + 1];
+    const nextBook = BOOKS[bookId];
     if (nextBook) goTo(nextBook.bookid, 1);
   };
 
@@ -109,7 +133,7 @@ function Reader() {
             <Selector
               label="Libro"
               value={bookId}
-              options={(books.data ?? []).map((b) => ({ value: b.bookid, label: b.name }))}
+              options={BOOKS.map((b) => ({ value: b.bookid, label: b.name }))}
               onSelect={(v) => goTo(v, 1)}
               searchable
             />
@@ -152,7 +176,7 @@ function Reader() {
         <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_20rem] lg:items-start">
           <article className="rounded-2xl border border-border/50 bg-surface px-6 py-10 shadow-[var(--shadow-soft)] sm:px-12 sm:py-14">
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
-              {TRANSLATION.replace("RV", "Reina-Valera ")}
+              Reina-Valera 1865
             </p>
             <h1 className="scripture mt-3 text-3xl font-bold tracking-tight sm:text-4xl">
               {book?.name ?? "…"} {chapter}
@@ -160,24 +184,23 @@ function Reader() {
             <div className="mt-8 h-px w-16 bg-border" />
 
             <div className="mt-8">
-              {verses.isPending ? (
+              {bookData.isPending ? (
                 <ChapterSkeleton />
-              ) : verses.isError ? (
+              ) : bookData.isError ? (
                 <p className="text-sm text-muted-foreground">
-                  No pudimos cargar este capítulo. Revisa tu conexión e inténtalo de nuevo.
+                  No pudimos cargar este libro. Revisa tu conexión e inténtalo de nuevo.
                 </p>
-              ) : filteredVerses.length === 0 ? (
+              ) : paragraphs.length === 0 ? (
                 <p className="text-sm text-muted-foreground">
                   Ningún versículo de este capítulo contiene «{query}».
                 </p>
               ) : (
-                <div className="scripture space-y-4 text-[1.0625rem] text-foreground sm:text-lg">
-                  {filteredVerses.map((v) => (
-                    <p key={v.verse} className="flex gap-3">
-                      <span className="mt-1 shrink-0 select-none font-sans text-xs font-semibold tabular-nums text-verse-number">
-                        {v.verse}
-                      </span>
-                      <span>{v.text}</span>
+                <div className="scripture space-y-5 text-[1.0625rem] leading-[1.8] text-foreground sm:text-lg">
+                  {paragraphs.map((group, i) => (
+                    <p key={i}>
+                      {group.map((v) => (
+                        <VerseText key={v.verse} verse={v} />
+                      ))}
                     </p>
                   ))}
                 </div>
@@ -190,7 +213,7 @@ function Reader() {
               <Sparkles className="h-4 w-4 text-muted-foreground" />
               <h2 className="text-sm font-semibold tracking-tight">Notas de estudio</h2>
             </div>
-            {verses.isPending ? (
+            {bookData.isPending ? (
               <NotesSkeleton />
             ) : (
               notes.map((n) => (
