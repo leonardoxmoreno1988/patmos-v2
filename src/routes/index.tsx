@@ -137,16 +137,16 @@ function Reader() {
             </span>
             <span className="flex min-w-0 items-baseline">
               <span className="truncate text-[15px] font-semibold tracking-tight">
-                Comentario Bíblico
+                Patmos
               </span>
-              <span className="ml-2 shrink-0 text-xs font-normal text-muted-foreground">
-                · RV 1865
+              <span className="ml-2 shrink-0 text-xs font-normal text-muted-foreground md:text-sm">
+                · Comentario Bíblico
               </span>
             </span>
           </div>
 
           <div className="order-last col-span-2 flex w-full justify-center md:order-none md:col-span-1">
-            <label className="mx-auto flex w-full items-center gap-2 rounded-full border border-border/50 bg-muted/50 px-4 py-2 text-sm transition-shadow focus-within:ring-1 focus-within:ring-muted-foreground/40 md:w-72">
+            <label className="mx-auto flex h-12 w-full items-center gap-2 rounded-full border border-border/50 bg-muted/50 px-4 text-sm transition-shadow focus-within:ring-1 focus-within:ring-muted-foreground/40 md:h-10 md:w-72">
               <Search className="h-4 w-4 shrink-0 text-muted-foreground" />
               <input
                 value={query}
