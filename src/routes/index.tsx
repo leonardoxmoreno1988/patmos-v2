@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { BookOpen, ChevronLeft, ChevronRight, Search, Sparkles } from "lucide-react";
 
@@ -9,9 +9,18 @@ import { Selector } from "@/components/reader/selector";
 import { ThemeToggle } from "@/components/reader/theme-toggle";
 import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
+import { VerseToolbar } from "@/components/reader/verse-toolbar";
 import { noteKey, studyNotesQuery } from "@/lib/notes";
 
 export const Route = createFileRoute("/")({
+  validateSearch: (search: Record<string, unknown>) => {
+    const libro = typeof search["libro"] === "string" ? (search["libro"] as string) : "Juan";
+    const cap = Number(search["cap"]);
+    return {
+      libro: BOOKS.some((b) => b.name === libro) ? libro : "Juan",
+      cap: Number.isFinite(cap) && cap > 0 ? Math.floor(cap) : 3,
+    };
+  },
   head: () => ({
     meta: [
       { title: "Comentario Bíblico — Lectura serena y notas de estudio" },
@@ -32,9 +41,30 @@ export const Route = createFileRoute("/")({
   component: Reader,
 });
 
-function VerseText({ verse }: { verse: Verse }) {
+function VerseText({
+  verse,
+  selected,
+  onSelect,
+}: {
+  verse: Verse;
+  selected: boolean;
+  onSelect: () => void;
+}) {
   return (
-    <>
+    <span
+      role="button"
+      tabIndex={0}
+      onClick={onSelect}
+      onKeyDown={(e) => {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          onSelect();
+        }
+      }}
+      className={`cursor-pointer rounded-lg px-0.5 transition-colors ${
+        selected ? "bg-verse-highlight" : "hover:bg-accent/50"
+      }`}
+    >
       <sup className="mr-1.5 select-none font-sans text-xs text-verse-number">{verse.verse}</sup>
       {verse.segments.map((s, i) =>
         s.italic ? (
@@ -44,17 +74,20 @@ function VerseText({ verse }: { verse: Verse }) {
         ) : (
           <span key={i}>{s.text}</span>
         ),
-      )}{" "}
-    </>
+      )}
+    </span>
   );
 }
 
 function Reader() {
-  const [bookId, setBookId] = useState(43);
-  const [chapter, setChapter] = useState(3);
+  const { libro, cap } = Route.useSearch();
+  const navigate = useNavigate({ from: Route.fullPath });
   const [query, setQuery] = useState("");
+  const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
 
-  const book = BOOKS.find((b) => b.bookid === bookId);
+  const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[42]!;
+  const bookId = book.bookid;
+  const chapter = cap;
   const bookData = useQuery(bookQuery(bookId));
   const studyNotes = useQuery(studyNotesQuery);
   const chapters = bookData.data ?? [];
@@ -79,14 +112,18 @@ function Reader() {
   }, [filteredVerses, query]);
 
   const notes = useMemo(
-    () => (verses.length && book ? buildNotes(bookId, book.name, chapter, verses) : []),
-    [verses, book, bookId, chapter],
+    () => (verses.length ? buildNotes(bookId, book.name, chapter, verses) : []),
+    [verses, book.name, bookId, chapter],
   );
 
+  const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
+
   const goTo = (nextBook: number, nextChapter: number) => {
-    setBookId(nextBook);
-    setChapter(nextChapter);
+    const target = BOOKS.find((b) => b.bookid === nextBook);
+    if (!target) return;
     setQuery("");
+    setSelectedVerse(null);
+    void navigate({ search: { libro: target.name, cap: nextChapter } });
     if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
@@ -132,7 +169,7 @@ function Reader() {
       </header>
 
       <div className="sticky top-[61px] z-20 px-4 py-4 sm:px-6">
-        <nav className="mx-auto flex max-w-6xl items-center justify-between gap-2 rounded-full border border-border/50 bg-surface/95 p-1.5 shadow-[var(--shadow-float)] backdrop-blur-xl">
+        <nav className="mx-auto flex max-w-6xl items-center justify-between gap-2 rounded-full border border-border/50 bg-surface/80 p-1.5 shadow-[var(--shadow-float)] backdrop-blur-md">
           <div className="flex min-w-0 items-center gap-1">
             <Selector
               label="Libro"
@@ -159,7 +196,7 @@ function Reader() {
               type="button"
               onClick={prev}
               aria-label="Capítulo anterior"
-              className="grid h-9 w-9 place-items-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+              className="grid h-11 w-11 place-items-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
             >
               <ChevronLeft className="h-[18px] w-[18px]" />
             </button>
@@ -167,7 +204,7 @@ function Reader() {
               type="button"
               onClick={next}
               aria-label="Capítulo siguiente"
-              className="flex h-9 items-center gap-1 rounded-full bg-primary px-4 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90"
+              className="flex h-11 items-center gap-1 rounded-full bg-primary px-5 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90"
             >
               <span className="hidden sm:inline">Siguiente</span>
               <ChevronRight className="h-[18px] w-[18px]" />
@@ -183,7 +220,7 @@ function Reader() {
               Reina-Valera 1865
             </p>
             <h1 className="scripture mt-3 text-3xl font-bold tracking-tight sm:text-4xl">
-              {book?.name ?? "…"} {chapter}
+              {book.name} {chapter}
             </h1>
             <div className="mt-8 h-px w-16 bg-border" />
 
@@ -203,7 +240,15 @@ function Reader() {
                   {paragraphs.map((group, i) => (
                     <p key={i}>
                       {group.map((v) => (
-                        <VerseText key={v.verse} verse={v} />
+                        <span key={v.verse}>
+                          <VerseText
+                            verse={v}
+                            selected={selectedVerse === v.verse}
+                            onSelect={() =>
+                              setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
+                            }
+                          />{" "}
+                        </span>
                       ))}
                     </p>
                   ))}
@@ -212,7 +257,7 @@ function Reader() {
             </div>
           </article>
 
-          {book && studyNotes.data?.[noteKey(book.name, chapter)] ? (
+          {studyNotes.data?.[noteKey(book.name, chapter)] ? (
             <div className="lg:col-start-1">
               <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} />
             </div>
@@ -239,6 +284,14 @@ function Reader() {
           </aside>
         </div>
       </main>
+
+      {selectedVerse !== null && selectedVerseData ? (
+        <VerseToolbar
+          reference={`${book.name} ${chapter}:${selectedVerse}`}
+          text={selectedVerseData.text}
+          onClose={() => setSelectedVerse(null)}
+        />
+      ) : null}
     </div>
   );
 }
