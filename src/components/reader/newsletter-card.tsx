@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Mail } from "lucide-react";
 
 export function NewsletterCard() {
   const [email, setEmail] = useState("");
@@ -20,17 +21,20 @@ export function NewsletterCard() {
           e.preventDefault();
           if (email.trim()) setSent(true);
         }}
-        className="mt-4 flex max-w-md flex-col items-center gap-2 rounded-2xl border border-border/80 bg-surface p-1.5 shadow-[var(--shadow-soft)] sm:flex-row sm:rounded-full"
+        className="mt-4 flex w-full max-w-xl flex-col items-center gap-2 rounded-2xl border border-border/80 bg-surface p-1.5 shadow-[var(--shadow-soft)] sm:flex-row sm:rounded-full"
       >
-        <input
+        <div className="flex w-full min-w-0 items-center px-4">
+          <Mail className="mr-2 h-4 w-4 shrink-0 text-muted-foreground" />
+          <input
           type="email"
           required
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           placeholder="tu@email.com"
           aria-label="Correo electrónico"
-          className="w-full bg-transparent px-4 py-2 text-sm text-foreground outline-none placeholder:text-muted-foreground"
-        />
+            className="w-full min-w-0 bg-transparent py-2 text-sm text-foreground outline-none placeholder:text-muted-foreground"
+          />
+        </div>
         <button
           type="submit"
           className="w-full whitespace-nowrap rounded-xl bg-primary px-6 py-2.5 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90 sm:w-auto sm:rounded-full"
