@@ -213,9 +213,8 @@ function Reader() {
         </nav>
       </div>
 
-      <main className="mx-auto max-w-6xl px-4 pb-24 pt-4 sm:px-6">
-        <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_20rem] lg:items-start">
-          <article className="rounded-2xl border border-border/50 bg-surface px-6 py-10 shadow-[var(--shadow-soft)] sm:px-12 sm:py-14">
+      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-8 px-4 pb-16 pt-10 sm:px-6 lg:grid-cols-12 lg:items-start lg:pt-14">
+          <article className="rounded-2xl border border-border/50 bg-surface px-6 py-10 shadow-[var(--shadow-soft)] sm:px-12 sm:py-14 lg:col-span-7">
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
             </p>
@@ -257,13 +256,12 @@ function Reader() {
             </div>
           </article>
 
+        <aside className="space-y-6 lg:col-span-5 lg:sticky lg:top-32 lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
           {studyNotes.data?.[noteKey(book.name, chapter)] ? (
-            <div className="lg:col-start-1">
-              <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} />
-            </div>
+            <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} />
           ) : null}
 
-          <aside className="space-y-3 lg:sticky lg:top-40">
+          <div className="space-y-3">
             <div className="flex items-center gap-2 px-1">
               <Sparkles className="h-4 w-4 text-muted-foreground" />
               <h2 className="text-sm font-semibold tracking-tight">Notas de estudio</h2>
@@ -274,15 +272,15 @@ function Reader() {
               notes.map((n) => (
                 <div
                   key={n.title}
-                  className="rounded-2xl border border-border/50 bg-surface p-5 shadow-[var(--shadow-soft)]"
+                  className="rounded-2xl border border-border/50 bg-surface p-6 shadow-[var(--shadow-soft)]"
                 >
                   <h3 className="text-[13px] font-semibold tracking-tight">{n.title}</h3>
                   <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{n.body}</p>
                 </div>
               ))
             )}
-          </aside>
-        </div>
+          </div>
+        </aside>
       </main>
 
       {selectedVerse !== null && selectedVerseData ? (
