@@ -135,8 +135,13 @@ function Reader() {
             <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground">
               <BookOpen className="h-[18px] w-[18px]" />
             </span>
-            <span className="truncate text-[15px] font-semibold tracking-tight">
-              Comentario Bíblico
+            <span className="flex min-w-0 items-center">
+              <span className="truncate text-[15px] font-semibold tracking-tight">
+                Comentario Bíblico
+              </span>
+              <span className="ml-2.5 inline-flex shrink-0 items-center rounded-full border border-border/80 bg-muted px-2.5 py-0.5 text-xs font-semibold tracking-wider text-muted-foreground">
+                RV 1865
+              </span>
             </span>
           </div>
 
