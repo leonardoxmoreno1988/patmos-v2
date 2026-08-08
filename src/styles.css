@@ -164,3 +164,15 @@
   line-height: 1.8;
   letter-spacing: -0.003em;
 }
+
+.study-note b,
+.study-note strong {
+  font-weight: 600;
+  color: var(--color-foreground);
+}
+
+.study-note br {
+  content: "";
+  display: block;
+  height: 0.75rem;
+}
