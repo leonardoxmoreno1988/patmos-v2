@@ -8,6 +8,8 @@ import { buildNotes } from "@/lib/commentary";
 import { Selector } from "@/components/reader/selector";
 import { ThemeToggle } from "@/components/reader/theme-toggle";
 import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
+import { StudyNoteCard } from "@/components/reader/study-note-card";
+import { noteKey, studyNotesQuery } from "@/lib/notes";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -54,6 +56,7 @@ function Reader() {
 
   const book = BOOKS.find((b) => b.bookid === bookId);
   const bookData = useQuery(bookQuery(bookId));
+  const studyNotes = useQuery(studyNotesQuery);
   const chapters = bookData.data ?? [];
   const chapterCount = chapters.length || 1;
   const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
@@ -208,6 +211,12 @@ function Reader() {
               )}
             </div>
           </article>
+
+          {book && studyNotes.data?.[noteKey(book.name, chapter)] ? (
+            <div className="lg:col-start-1">
+              <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} />
+            </div>
+          ) : null}
 
           <aside className="space-y-3 lg:sticky lg:top-40">
             <div className="flex items-center gap-2 px-1">
