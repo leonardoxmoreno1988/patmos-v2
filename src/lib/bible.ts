@@ -44,7 +44,7 @@ function parseInline(raw: string): Segment[] {
   while ((m = re.exec(raw))) {
     const before = raw.slice(last, m.index);
     if (before) segments.push({ text: clean(before) });
-    const inner = clean(m[1]);
+    const inner = clean(m[1] ?? "");
     if (inner) segments.push({ text: inner, italic: true });
     last = m.index + m[0].length;
   }
@@ -72,12 +72,10 @@ export function parseUsfm(source: string): Chapter[] {
     if (!verse) return;
     verse.segments = parseInline(buffer);
     verse.text = verse.segments.map((s) => s.text).join("").replace(/\s{2,}/g, " ").trim();
-    if (verse.segments.length) {
-      const first = verse.segments[0];
-      first.text = first.text.replace(/^\s+/, "");
-      const lastSeg = verse.segments[verse.segments.length - 1];
-      lastSeg.text = lastSeg.text.replace(/\s+$/, "");
-    }
+    const first = verse.segments[0];
+    const lastSeg = verse.segments[verse.segments.length - 1];
+    if (first) first.text = first.text.replace(/^\s+/, "");
+    if (lastSeg) lastSeg.text = lastSeg.text.replace(/\s+$/, "");
     if (verse.text) current?.verses.push(verse);
     verse = null;
     buffer = "";

@@ -68,8 +68,9 @@ function Reader() {
   const paragraphs = useMemo(() => {
     const groups: Verse[][] = [];
     for (const v of filteredVerses) {
-      if (!groups.length || v.paragraph || query.trim()) groups.push([v]);
-      else groups[groups.length - 1].push(v);
+      const last = groups[groups.length - 1];
+      if (!last || v.paragraph || query.trim()) groups.push([v]);
+      else last.push(v);
     }
     return groups;
   }, [filteredVerses, query]);
