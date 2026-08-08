@@ -2,9 +2,9 @@ import { NotebookPen } from "lucide-react";
 
 export function StudyNoteCard({ html }: { html: string }) {
   return (
-    <section className="mt-8 rounded-2xl border border-border/70 bg-surface/80 p-6 shadow-[var(--shadow-soft)]">
+    <section className="mt-8 rounded-2xl bg-muted/40 p-6">
       <div className="flex items-center gap-2">
-        <span className="grid h-7 w-7 place-items-center rounded-lg bg-accent text-foreground">
+        <span className="grid h-7 w-7 place-items-center rounded-lg bg-accent/70 text-foreground">
           <NotebookPen className="h-[15px] w-[15px]" />
         </span>
         <span className="text-[11px] font-semibold uppercase tracking-[0.14em] text-muted-foreground">
