@@ -213,9 +213,8 @@ function Reader() {
         </nav>
       </div>
 
-      <main className="mx-auto max-w-6xl px-4 pb-24 pt-4 sm:px-6">
-        <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_20rem] lg:items-start">
-          <article className="rounded-2xl border border-border/50 bg-surface px-6 py-10 shadow-[var(--shadow-soft)] sm:px-12 sm:py-14">
+      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-8 px-4 pb-16 pt-10 sm:px-6 lg:grid-cols-12 lg:items-start lg:pt-14">
+          <article className="rounded-2xl border border-border/50 bg-surface px-6 py-10 shadow-[var(--shadow-soft)] sm:px-12 sm:py-14 lg:col-span-7">
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
             </p>
