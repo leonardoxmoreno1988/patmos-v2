@@ -168,8 +168,8 @@ function Reader() {
         </div>
       </header>
 
-      <div className="sticky top-[61px] z-20 px-4 py-4 sm:px-6">
-        <nav className="mx-auto flex max-w-6xl items-center justify-between gap-2 rounded-full border border-border/50 bg-surface/80 p-1.5 shadow-[var(--shadow-float)] backdrop-blur-md">
+      <div className="sticky top-[61px] z-30 h-[76px] border-b border-border/50 bg-background/90 px-4 py-3.5 backdrop-blur-md sm:px-6">
+        <nav className="mx-auto flex h-[49px] max-w-6xl items-center justify-between gap-2 rounded-full border border-border/50 bg-surface/90 p-1.5 shadow-[var(--shadow-float)] backdrop-blur-md">
           <div className="flex min-w-0 items-center gap-1">
             <Selector
               label="Libro"
@@ -213,7 +213,7 @@ function Reader() {
         </nav>
       </div>
 
-      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-8 px-4 pb-16 pt-10 sm:px-6 lg:grid-cols-12 lg:items-start lg:pt-14">
+      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-8 px-4 pb-16 pt-10 sm:px-6 lg:grid-cols-12 lg:items-start lg:pt-12">
           <article className="rounded-2xl border border-border/50 bg-surface px-6 py-10 shadow-[var(--shadow-soft)] sm:px-12 sm:py-14 lg:col-span-7">
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
@@ -256,7 +256,7 @@ function Reader() {
             </div>
           </article>
 
-        <aside className="space-y-6 lg:col-span-5 lg:sticky lg:top-32 lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
+        <aside className="space-y-6 lg:col-span-5 lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto scrollbar-none">
           {studyNotes.data?.[noteKey(book.name, chapter)] ? (
             <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} />
           ) : null}
