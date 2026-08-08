@@ -1,10 +1,9 @@
 import { useMemo, useState } from "react";
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { BookOpen, ChevronLeft, ChevronRight, Search, Sparkles } from "lucide-react";
+import { BookOpen, ChevronLeft, ChevronRight, Search } from "lucide-react";
 
 import { BOOKS, bookQuery, TRANSLATION, type Verse } from "@/lib/bible";
-import { buildNotes } from "@/lib/commentary";
 import { Selector } from "@/components/reader/selector";
 import { ThemeToggle } from "@/components/reader/theme-toggle";
 import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
@@ -110,11 +109,6 @@ function Reader() {
     }
     return groups;
   }, [filteredVerses, query]);
-
-  const notes = useMemo(
-    () => (verses.length ? buildNotes(bookId, book.name, chapter, verses) : []),
-    [verses, book.name, bookId, chapter],
-  );
 
   const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
 
@@ -256,26 +250,15 @@ function Reader() {
           </article>
 
         <aside className="space-y-6 lg:col-span-5 lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto scrollbar-none">
-          {studyNotes.data?.[noteKey(book.name, chapter)] ? (
+          {studyNotes.isPending ? (
+            <NotesSkeleton />
+          ) : studyNotes.data?.[noteKey(book.name, chapter)] ? (
             <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} />
-          ) : null}
-
-          <div className="space-y-3">
-            <div className="flex items-center gap-2 px-1">
-              <Sparkles className="h-4 w-4 text-muted-foreground" />
-              <h2 className="text-sm font-semibold tracking-tight">Notas de estudio</h2>
-            </div>
-            {bookData.isPending ? (
-              <NotesSkeleton />
-            ) : (
-              notes.map((n) => (
-                <div key={n.title} className="rounded-2xl bg-muted/40 p-6">
-                  <h3 className="text-[13px] font-semibold tracking-tight">{n.title}</h3>
-                  <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{n.body}</p>
-                </div>
-              ))
-            )}
-          </div>
+          ) : (
+            <p className="py-4 text-sm italic text-muted-foreground/70">
+              No hay comentario registrado para este capítulo.
+            </p>
+          )}
         </aside>
       </main>
 
