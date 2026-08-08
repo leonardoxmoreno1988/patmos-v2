@@ -48,7 +48,7 @@ function VerseText({ verse }: { verse: Verse }) {
 }
 
 function Reader() {
-  const [bookId, setBookId] = useState(44);
+  const [bookId, setBookId] = useState(43);
   const [chapter, setChapter] = useState(3);
   const [query, setQuery] = useState("");
 
