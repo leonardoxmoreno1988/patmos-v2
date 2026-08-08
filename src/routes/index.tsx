@@ -4,7 +4,7 @@ import { useQuery } from "@tanstack/react-query";
 import { BookOpen, ChevronLeft, ChevronRight, Search } from "lucide-react";
 
 import { BOOKS, bookQuery, TRANSLATION, type Verse } from "@/lib/bible";
-import { ReferenceSelector } from "@/components/reader/reference-selector";
+import { Selector } from "@/components/reader/selector";
 import { ThemeToggle } from "@/components/reader/theme-toggle";
 import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
@@ -135,18 +135,18 @@ function Reader() {
             <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground">
               <BookOpen className="h-[18px] w-[18px]" />
             </span>
-            <span className="flex min-w-0 items-baseline">
+            <span className="flex min-w-0 items-center">
               <span className="truncate text-[15px] font-semibold tracking-tight">
                 Comentario Bíblico
               </span>
-              <span className="ml-2 shrink-0 text-xs font-normal text-muted-foreground">
-                · RV 1865
+              <span className="ml-2.5 inline-flex shrink-0 items-center rounded-full border border-border/80 bg-muted px-2.5 py-0.5 text-xs font-semibold tracking-wider text-muted-foreground">
+                RV 1865
               </span>
             </span>
           </div>
 
           <div className="order-last col-span-2 flex justify-center md:order-none md:col-span-1">
-            <label className="flex w-72 max-w-full items-center gap-2 rounded-full border border-border/50 bg-muted/50 px-4 py-2 text-sm transition-shadow focus-within:ring-1 focus-within:ring-muted-foreground/40">
+            <label className="flex w-72 max-w-full items-center gap-2 rounded-full bg-muted/80 px-4 py-2 text-sm transition-shadow focus-within:ring-1 focus-within:ring-muted-foreground/50">
               <Search className="h-4 w-4 shrink-0 text-muted-foreground" />
               <input
                 value={query}
@@ -163,23 +163,32 @@ function Reader() {
 
       <div className="sticky top-[61px] z-30 h-[80px] bg-background/70 py-4 backdrop-blur-md">
         <nav className="mx-auto flex h-12 max-w-7xl items-center justify-between gap-4 px-6 sm:gap-6">
-          <div className="-ml-4 flex min-w-0 items-center">
-            <ReferenceSelector
-              books={BOOKS}
-              bookId={bookId}
-              bookName={book.name}
-              chapter={chapter}
-              chapterCount={chapterCount}
-              onSelect={goTo}
+          <div className="flex min-w-0 items-center gap-4 sm:gap-6">
+            <Selector
+              label="Libro"
+              value={bookId}
+              options={BOOKS.map((b) => ({ value: b.bookid, label: b.name }))}
+              onSelect={(v) => goTo(v, 1)}
+              searchable
+            />
+            <Selector
+              label="Capítulo"
+              value={chapter}
+              options={Array.from({ length: chapterCount }, (_, i) => ({
+                value: i + 1,
+                label: String(i + 1),
+              }))}
+              onSelect={(v) => goTo(bookId, v)}
+              columns={5}
             />
           </div>
 
-          <div className="-mr-2 flex shrink-0 items-center gap-1">
+          <div className="flex shrink-0 items-center gap-3">
             <button
               type="button"
               onClick={prev}
               aria-label="Capítulo anterior"
-              className="grid h-11 w-11 place-items-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+              className="grid h-11 w-11 place-items-center rounded-full border border-border/70 bg-surface/90 text-muted-foreground shadow-[var(--shadow-soft)] backdrop-blur-md transition-colors hover:bg-accent hover:text-foreground"
             >
               <ChevronLeft className="h-[18px] w-[18px]" />
             </button>
@@ -187,8 +196,9 @@ function Reader() {
               type="button"
               onClick={next}
               aria-label="Capítulo siguiente"
-              className="grid h-11 w-11 place-items-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+              className="flex h-11 items-center gap-1.5 rounded-full bg-primary px-5 py-2.5 text-sm font-medium text-primary-foreground shadow-[var(--shadow-soft)] transition-opacity hover:opacity-90"
             >
+              <span className="hidden sm:inline">Siguiente</span>
               <ChevronRight className="h-[18px] w-[18px]" />
             </button>
           </div>
