@@ -1,6 +1,6 @@
-import { Image as ImageIcon } from "lucide-react";
+import bannerAsset from "@/assets/banner-etsy.png.asset.json";
 
-const ETSY_URL = "https://www.etsy.com";
+const ETSY_URL = "https://www.etsy.com/shop/PatmosStore";
 
 export function EtsyBanner() {
   return (
@@ -8,12 +8,14 @@ export function EtsyBanner() {
       href={ETSY_URL}
       target="_blank"
       rel="noopener noreferrer"
-      className="mt-6 flex aspect-[4/3] max-h-64 w-full cursor-pointer flex-col items-center justify-center gap-2 rounded-2xl border border-border/60 bg-muted/70 p-4 text-center transition-colors hover:bg-muted"
+      className="mt-6 block cursor-pointer overflow-hidden rounded-2xl border border-border/60 shadow-sm transition-opacity hover:opacity-95"
     >
-      <ImageIcon className="h-5 w-5 text-muted-foreground" />
-      <span className="text-xs font-medium text-muted-foreground">
-        Espacio Banner Etsy (JPG/GIF)
-      </span>
+      <img
+        src={bannerAsset.url}
+        alt="Patmos — arte bíblico majestuoso, ver más en Etsy"
+        loading="lazy"
+        className="h-auto w-full object-cover"
+      />
     </a>
   );
 }
