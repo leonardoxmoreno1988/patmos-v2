@@ -182,3 +182,11 @@
 @theme inline {
   --color-verse-highlight: var(--verse-highlight);
 }
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
