@@ -60,11 +60,13 @@ function VerseText({
           onSelect();
         }
       }}
-      className={`cursor-pointer rounded-lg px-0.5 transition-colors ${
+      className={`-mx-2 block cursor-pointer rounded-lg px-2 py-1 transition-colors ${
         selected ? "bg-verse-highlight" : "hover:bg-accent/50"
       }`}
     >
-      <sup className="mr-1.5 select-none font-sans text-xs text-verse-number">{verse.verse}</sup>
+      <sup className="mr-2 inline-block select-none font-sans text-xs font-medium text-verse-number">
+        {verse.verse}
+      </sup>
       {verse.segments.map((s, i) =>
         s.italic ? (
           <em key={i} className="italic text-muted-foreground">
@@ -99,16 +101,6 @@ function Reader() {
     if (!q) return verses;
     return verses.filter((v) => v.text.toLowerCase().includes(q));
   }, [verses, query]);
-
-  const paragraphs = useMemo(() => {
-    const groups: Verse[][] = [];
-    for (const v of filteredVerses) {
-      const last = groups[groups.length - 1];
-      if (!last || v.paragraph || query.trim()) groups.push([v]);
-      else last.push(v);
-    }
-    return groups;
-  }, [filteredVerses, query]);
 
   const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
 
@@ -146,8 +138,8 @@ function Reader() {
             </span>
           </div>
 
-          <div className="order-last col-span-2 md:order-none md:col-span-1">
-            <label className="flex items-center gap-2 rounded-full border border-border/60 bg-surface px-4 py-2 shadow-[var(--shadow-soft)] transition-shadow focus-within:shadow-[var(--shadow-float)]">
+          <div className="order-last col-span-2 flex justify-center md:order-none md:col-span-1">
+            <label className="flex w-72 max-w-full items-center gap-2 rounded-full bg-muted/80 px-4 py-2 text-sm transition-shadow focus-within:ring-1 focus-within:ring-muted-foreground/50">
               <Search className="h-4 w-4 shrink-0 text-muted-foreground" />
               <input
                 value={query}
@@ -223,26 +215,21 @@ function Reader() {
                 <p className="text-sm text-muted-foreground">
                   No pudimos cargar este libro. Revisa tu conexión e inténtalo de nuevo.
                 </p>
-              ) : paragraphs.length === 0 ? (
+              ) : filteredVerses.length === 0 ? (
                 <p className="text-sm text-muted-foreground">
                   Ningún versículo de este capítulo contiene «{query}».
                 </p>
               ) : (
-                <div className="scripture space-y-6 text-[1.0625rem] leading-loose text-foreground sm:text-lg">
-                  {paragraphs.map((group, i) => (
-                    <p key={i} className="mb-6 last:mb-0">
-                      {group.map((v) => (
-                        <span key={v.verse}>
-                          <VerseText
-                            verse={v}
-                            selected={selectedVerse === v.verse}
-                            onSelect={() =>
-                              setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
-                            }
-                          />{" "}
-                        </span>
-                      ))}
-                    </p>
+                <div className="scripture space-y-3 text-[1.0625rem] leading-relaxed text-foreground sm:text-lg">
+                  {filteredVerses.map((v) => (
+                    <VerseText
+                      key={v.verse}
+                      verse={v}
+                      selected={selectedVerse === v.verse}
+                      onSelect={() =>
+                        setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
+                      }
+                    />
                   ))}
                 </div>
               )}
