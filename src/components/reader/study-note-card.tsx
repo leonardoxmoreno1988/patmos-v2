@@ -8,7 +8,7 @@ export function StudyNoteCard({ html }: { html: string }) {
           <NotebookPen className="h-[15px] w-[15px]" />
         </span>
         <span className="text-[11px] font-semibold uppercase tracking-[0.14em] text-muted-foreground">
-          Estudio &amp; Comentario
+          Notas de Estudio
         </span>
       </div>
       <div
