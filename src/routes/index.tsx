@@ -107,15 +107,17 @@ function Reader() {
 
   const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
 
-  const notesContent = studyNotes.isPending ? (
-    <NotesSkeleton />
-  ) : studyNotes.data?.[noteKey(book.name, chapter)] ? (
-    <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} />
-  ) : (
-    <p className="py-4 text-sm italic text-muted-foreground/70">
-      No hay comentario registrado para este capítulo.
-    </p>
-  );
+  const renderNotes = (bare = false) =>
+    studyNotes.isPending ? (
+      <NotesSkeleton />
+    ) : studyNotes.data?.[noteKey(book.name, chapter)] ? (
+      <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} bare={bare} />
+    ) : (
+      <p className="py-4 text-sm italic text-muted-foreground/70">
+        No hay comentario registrado para este capítulo.
+      </p>
+    );
+  const notesContent = renderNotes();
 
   const goTo = (nextBook: number, nextChapter: number) => {
     const target = BOOKS.find((b) => b.bookid === nextBook);
@@ -262,7 +264,7 @@ function Reader() {
       </main>
 
       <NotesDrawer>
-        {notesContent}
+        {renderNotes(true)}
         <div className="mt-6">
           <EtsyBanner />
         </div>
@@ -275,6 +277,12 @@ function Reader() {
           onClose={() => setSelectedVerse(null)}
         />
       ) : null}
+
+      <footer className="mt-20 border-t border-border py-8 text-center font-sans text-xs text-muted-foreground">
+        <div className="mx-auto max-w-7xl px-6">
+          © 2026 Patmos, Notas de Estudio. Todos los derechos reservados.
+        </div>
+      </footer>
     </div>
   );
 }
