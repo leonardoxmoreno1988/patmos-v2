@@ -11,6 +11,7 @@ import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { VerseToolbar } from "@/components/reader/verse-toolbar";
 import { noteKey, studyNotesQuery } from "@/lib/notes";
 import { EtsyBanner } from "@/components/reader/etsy-banner";
+import { NotesDrawer } from "@/components/reader/notes-drawer";
 // import { NewsletterCard } from "@/components/reader/newsletter-card";
 
 export const Route = createFileRoute("/")({
@@ -105,6 +106,16 @@ function Reader() {
   }, [verses, query]);
 
   const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
+
+  const notesContent = studyNotes.isPending ? (
+    <NotesSkeleton />
+  ) : studyNotes.data?.[noteKey(book.name, chapter)] ? (
+    <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} />
+  ) : (
+    <p className="py-4 text-sm italic text-muted-foreground/70">
+      No hay comentario registrado para este capítulo.
+    </p>
+  );
 
   const goTo = (nextBook: number, nextChapter: number) => {
     const target = BOOKS.find((b) => b.bookid === nextBook);
@@ -244,19 +255,18 @@ function Reader() {
             {/* <NewsletterCard /> */}
           </article>
 
-        <aside className="space-y-6 lg:col-span-5 lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto scrollbar-none">
-          {studyNotes.isPending ? (
-            <NotesSkeleton />
-          ) : studyNotes.data?.[noteKey(book.name, chapter)] ? (
-            <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} />
-          ) : (
-            <p className="py-4 text-sm italic text-muted-foreground/70">
-              No hay comentario registrado para este capítulo.
-            </p>
-          )}
+        <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto scrollbar-none">
+          {notesContent}
           <EtsyBanner />
         </aside>
       </main>
+
+      <NotesDrawer>
+        {notesContent}
+        <div className="mt-6">
+          <EtsyBanner />
+        </div>
+      </NotesDrawer>
 
       {selectedVerse !== null && selectedVerseData ? (
         <VerseToolbar
