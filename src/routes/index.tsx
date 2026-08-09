@@ -140,7 +140,7 @@ function Reader() {
                 Patmos
               </span>
               <span className="ml-2 shrink-0 text-xs font-normal text-muted-foreground md:text-sm">
-                · Comentario Bíblico
+                · Notas de Estudio
               </span>
             </span>
           </div>
