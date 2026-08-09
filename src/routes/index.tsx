@@ -11,6 +11,7 @@ import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { VerseToolbar } from "@/components/reader/verse-toolbar";
 import { noteKey, studyNotesQuery } from "@/lib/notes";
 import { EtsyBanner } from "@/components/reader/etsy-banner";
+import { NotesDrawer } from "@/components/reader/notes-drawer";
 // import { NewsletterCard } from "@/components/reader/newsletter-card";
 
 export const Route = createFileRoute("/")({
