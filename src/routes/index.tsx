@@ -217,6 +217,19 @@ function Reader() {
           </div>
 
           <div className="flex items-center gap-2">
+            {lastOrigin ? (
+              <button
+                type="button"
+                onClick={goBack}
+                className="flex items-center gap-1.5 rounded-full bg-muted px-3 py-1.5 text-xs font-medium text-foreground transition-colors hover:bg-accent"
+              >
+                <ArrowLeft className="h-3.5 w-3.5" />
+                <span className="hidden sm:inline">
+                  Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
+                </span>
+                <span className="sm:hidden">Volver</span>
+              </button>
+            ) : null}
             <Link
               to="/newsletter"
               className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground dark:hover:text-white"
