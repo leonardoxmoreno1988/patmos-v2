@@ -7,9 +7,15 @@ interface SiteHeaderProps {
   showSearch?: boolean;
   query?: string;
   setQuery?: (q: string) => void;
+  rightLink?: { to: string; label: string };
 }
 
-export function SiteHeader({ showSearch, query, setQuery }: SiteHeaderProps) {
+export function SiteHeader({
+  showSearch,
+  query,
+  setQuery,
+  rightLink = { to: "/newsletter", label: "Newsletter" },
+}: SiteHeaderProps) {
   return (
     <header className="sticky top-0 z-30 border-b border-border/50 bg-background/80 backdrop-blur-xl">
       <div className="mx-auto grid max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-6 py-2 sm:py-3 md:grid-cols-[auto_minmax(0,1fr)_auto]">
@@ -45,10 +51,10 @@ export function SiteHeader({ showSearch, query, setQuery }: SiteHeaderProps) {
 
         <div className="flex items-center gap-2">
           <Link
-            to="/newsletter"
-            className="text-sm font-medium text-[#000f37] transition-colors hover:text-foreground dark:text-white dark:hover:text-white/80"
+            to={rightLink.to}
+            className="cursor-pointer text-sm font-medium text-[#000f37] transition-opacity hover:opacity-80 dark:text-[#BBBECE]"
           >
-            Newsletter
+            {rightLink.label}
           </Link>
           <ThemeToggle />
         </div>
@@ -56,3 +62,4 @@ export function SiteHeader({ showSearch, query, setQuery }: SiteHeaderProps) {
     </header>
   );
 }
+
