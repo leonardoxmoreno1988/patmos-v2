@@ -139,8 +139,6 @@ function Reader() {
         No hay comentario registrado para este capítulo.
       </p>
     );
-  const notesContent = renderNotes();
-
   const goTo = (nextBook: number, nextChapter: number) => {
     const target = BOOKS.find((b) => b.bookid === nextBook);
     if (!target) return;
@@ -174,6 +172,7 @@ function Reader() {
   };
 
   const lastOrigin = history[history.length - 1];
+  const notesContent = renderNotes();
 
   const prev = () => {
     if (chapter > 1) return goTo(bookId, chapter - 1);
