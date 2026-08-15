@@ -16,11 +16,11 @@ import { NotesDrawer } from "@/components/reader/notes-drawer";
 
 export const Route = createFileRoute("/")({
   validateSearch: (search: Record<string, unknown>) => {
-    const libro = typeof search["libro"] === "string" ? (search["libro"] as string) : "Juan";
+    const libro = typeof search["libro"] === "string" ? (search["libro"] as string) : "Génesis";
     const cap = Number(search["cap"]);
     return {
-      libro: BOOKS.some((b) => b.name === libro) ? libro : "Juan",
-      cap: Number.isFinite(cap) && cap > 0 ? Math.floor(cap) : 3,
+      libro: BOOKS.some((b) => b.name === libro) ? libro : "Génesis",
+      cap: Number.isFinite(cap) && cap > 0 ? Math.floor(cap) : 1,
     };
   },
   head: () => ({
@@ -89,7 +89,7 @@ function Reader() {
   const [query, setQuery] = useState("");
   const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
 
-  const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[42]!;
+  const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
   const bookId = book.bookid;
   const chapter = cap;
   const bookData = useQuery(bookQuery(bookId));
@@ -230,7 +230,7 @@ function Reader() {
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
             </p>
-            <h1 className="scripture mt-3 text-3xl font-bold tracking-tight sm:text-4xl">
+            <h1 className="scripture mt-3 text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
               {book.name} {chapter}
             </h1>
             <div className="mt-8 h-px w-16 bg-border/70" />

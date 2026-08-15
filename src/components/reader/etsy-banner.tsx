@@ -1,4 +1,4 @@
-import bannerAsset from "@/assets/banner-etsy.png.asset.json";
+import bannerAsset from "@/assets/patmos-banner.jpg.asset.json";
 
 const ETSY_URL = "https://www.etsy.com/shop/PatmosStore";
 
