@@ -307,7 +307,7 @@ function Reader() {
         </nav>
       </div>
 
-      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
+      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-4 sm:pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
           <article className="lg:col-span-7">
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
