@@ -99,10 +99,10 @@ function NewsletterPage() {
               </svg>
             </span>
             <span className="flex min-w-0 items-baseline">
-              <span className="truncate text-[15px] font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">
+              <span className="truncate text-[15px] font-semibold tracking-tight text-foreground dark:text-white">
                 Notas de Estudio
               </span>
-              <span className="ml-2 shrink-0 text-xs font-normal text-neutral-400 md:text-sm">
+              <span className="ml-2 shrink-0 text-xs font-normal text-muted-foreground md:text-sm">
                 · por L. Moreno
               </span>
             </span>
@@ -111,7 +111,7 @@ function NewsletterPage() {
           <Link
             to="/"
             search={{ libro: "Juan", cap: 3 }}
-            className="flex items-center gap-1.5 text-xs font-medium text-neutral-500 transition-colors hover:text-neutral-900 dark:text-neutral-400 dark:hover:text-white"
+            className="flex items-center gap-1.5 text-xs font-medium text-muted-foreground transition-colors hover:text-foreground dark:hover:text-white"
           >
             <ArrowLeft className="h-3.5 w-3.5" />
             Volver al lector
@@ -122,10 +122,10 @@ function NewsletterPage() {
       <main className="mx-auto max-w-3xl px-4 py-12">
         <section className="space-y-16">
           <div className="space-y-4 text-center">
-            <h1 className="font-serif text-3xl font-bold tracking-tight text-neutral-900 dark:text-neutral-100 sm:text-4xl">
+            <h1 className="font-serif text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
               Una exploración de la profecía bíblica y el cristianismo actual
             </h1>
-            <p className="mx-auto mt-4 max-w-xl text-base text-neutral-600 dark:text-neutral-400 sm:text-lg">
+            <p className="mx-auto mt-4 max-w-xl text-base text-muted-foreground sm:text-lg">
               Un informe sobre propaganda anticristiana y otros engaños
               relevantes. Suscríbete aquí:
             </p>
@@ -135,7 +135,7 @@ function NewsletterPage() {
                 e.preventDefault();
                 if (email.trim()) setSent(true);
               }}
-              className="mx-auto mt-8 flex max-w-md flex-col gap-2 rounded-2xl border border-neutral-900 bg-background p-1.5 dark:border-neutral-400 sm:flex-row"
+              className="mx-auto mt-8 flex max-w-md flex-col gap-2 rounded-2xl border border-foreground bg-background p-1.5 sm:flex-row"
             >
               <input
                 type="email"
@@ -143,11 +143,11 @@ function NewsletterPage() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="tu@email.com"
-                className="w-full bg-transparent px-4 py-3 text-sm text-neutral-800 outline-none placeholder:text-neutral-400 dark:text-neutral-100"
+                className="w-full bg-transparent px-4 py-3 text-sm text-foreground outline-none placeholder:text-muted-foreground"
               />
               <button
                 type="submit"
-                className="whitespace-nowrap rounded-xl bg-neutral-900 px-6 py-3 text-sm font-medium text-white transition-opacity hover:opacity-90 dark:bg-white dark:text-neutral-900 sm:rounded-full"
+                className="whitespace-nowrap rounded-xl bg-primary px-6 py-3 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90 sm:rounded-full"
               >
                 {sent ? "¡Gracias!" : "Suscribirme"}
               </button>
@@ -157,7 +157,7 @@ function NewsletterPage() {
               href="https://newsletter.notasdeestudio.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="mt-3 block text-center text-xs text-neutral-500 hover:underline"
+              className="mt-3 block text-center text-xs text-muted-foreground hover:underline"
             >
               Puede leer el archivo del newsletter desde este enlace ↗
             </a>
@@ -170,10 +170,10 @@ function NewsletterPage() {
               className="h-32 w-32 shrink-0 rounded-[2rem] object-cover"
             />
             <div className="text-center sm:text-left">
-              <h2 className="text-xl font-bold text-neutral-900 dark:text-neutral-100">
+              <h2 className="text-xl font-bold text-foreground dark:text-white">
                 Leonardo Moreno
               </h2>
-              <p className="text-sm leading-relaxed text-neutral-600 dark:text-neutral-300">
+              <p className="text-sm leading-relaxed text-muted-foreground">
                 Estudiante de teología en TBDI, premilenialista, pretribulacionista,
                 amante de la profecía bíblica y seguidor de Jesús. Escribo sobre los
                 66 libros de la Biblia, las falsas doctrinas y el gnosticismo en el
@@ -183,14 +183,14 @@ function NewsletterPage() {
           </div>
 
           <div>
-            <h3 className="mb-8 text-center text-xs font-semibold uppercase tracking-widest text-neutral-400">
+            <h3 className="mb-8 text-center text-xs font-semibold uppercase tracking-widest text-muted-foreground">
               Reseñas ({reviews.length})
             </h3>
             <div className="columns-1 gap-4 space-y-4 md:columns-2">
               {reviews.map((review, idx) => (
                   <div
                     key={idx}
-                    className="break-inside-avoid space-y-3 rounded-2xl border-none bg-neutral-200/60 p-5 shadow-none dark:bg-neutral-800"
+                    className="break-inside-avoid space-y-3 rounded-2xl border-none bg-muted p-5 shadow-none"
                   >
                   <div className="flex gap-0.5">
                     {Array.from({ length: 5 }).map((_, i) => (
@@ -200,10 +200,10 @@ function NewsletterPage() {
                       />
                     ))}
                   </div>
-                  <p className="text-sm leading-relaxed text-neutral-700 dark:text-neutral-300">
+                  <p className="text-sm leading-relaxed text-foreground/80">
                     “{review.text}”
                   </p>
-                  <p className="text-xs font-medium text-neutral-500 dark:text-neutral-400">
+                  <p className="text-xs font-medium text-muted-foreground">
                     — {review.author}
                   </p>
                 </div>
