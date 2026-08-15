@@ -1,7 +1,7 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { BookOpen, ChevronLeft, ChevronRight, Search } from "lucide-react";
+import { ArrowLeft, BookOpen, ChevronLeft, ChevronRight, Search } from "lucide-react";
 
 import { BOOKS, bookQuery, TRANSLATION, type Verse } from "@/lib/bible";
 import { Selector } from "@/components/reader/selector";
@@ -46,14 +46,17 @@ export const Route = createFileRoute("/")({
 function VerseText({
   verse,
   selected,
+  flashing,
   onSelect,
 }: {
   verse: Verse;
   selected: boolean;
+  flashing?: boolean;
   onSelect: () => void;
 }) {
   return (
     <span
+      id={`verse-${verse.verse}`}
       role="button"
       tabIndex={0}
       onClick={onSelect}
@@ -63,8 +66,8 @@ function VerseText({
           onSelect();
         }
       }}
-      className={`-mx-2 block cursor-pointer rounded-lg px-2 py-1 transition-colors ${
-        selected ? "bg-verse-highlight" : "hover:bg-accent/50"
+      className={`-mx-2 block scroll-mt-44 cursor-pointer rounded-lg px-2 py-1 transition-colors duration-700 ${
+        selected || flashing ? "bg-verse-highlight" : "hover:bg-accent/50"
       }`}
     >
       <sup className="mr-2 inline-block select-none font-sans text-xs font-medium text-verse-number">
@@ -88,6 +91,9 @@ function Reader() {
   const navigate = useNavigate({ from: Route.fullPath });
   const [query, setQuery] = useState("");
   const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
+  const [history, setHistory] = useState<{ book: string; chapter: number; verse: number }[]>([]);
+  const [flashVerse, setFlashVerse] = useState<number | null>(null);
+  const pendingVerse = useRef<number | null>(null);
 
   const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
   const bookId = book.bookid;
@@ -107,18 +113,32 @@ function Reader() {
 
   const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
 
+  useEffect(() => {
+    const target = pendingVerse.current;
+    if (target === null || verses.length === 0) return;
+    pendingVerse.current = null;
+    const el = document.getElementById(`verse-${target}`);
+    if (!el) return;
+    el.scrollIntoView({ behavior: "smooth", block: "center" });
+    setFlashVerse(target);
+    const t = setTimeout(() => setFlashVerse(null), 2000);
+    return () => clearTimeout(t);
+  }, [verses, libro, cap]);
+
   const renderNotes = (bare = false) =>
     studyNotes.isPending ? (
       <NotesSkeleton />
     ) : studyNotes.data?.[noteKey(book.name, chapter)] ? (
-      <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} bare={bare} />
+      <StudyNoteCard
+        html={studyNotes.data[noteKey(book.name, chapter)]!}
+        bare={bare}
+        onRefClick={goToReference}
+      />
     ) : (
       <p className="py-4 text-sm italic text-muted-foreground/70">
         No hay comentario registrado para este capítulo.
       </p>
     );
-  const notesContent = renderNotes();
-
   const goTo = (nextBook: number, nextChapter: number) => {
     const target = BOOKS.find((b) => b.bookid === nextBook);
     if (!target) return;
@@ -127,6 +147,32 @@ function Reader() {
     void navigate({ search: { libro: target.name, cap: nextChapter } });
     if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
   };
+
+  const goToVerse = (bookName: string, nextChapter: number, verse: number) => {
+    setQuery("");
+    setSelectedVerse(null);
+    pendingVerse.current = verse;
+    void navigate({ search: { libro: bookName, cap: nextChapter } });
+  };
+
+  const goToReference = (ref: { book: string; chapter: number; verse: number }) => {
+    if (!BOOKS.some((b) => b.name === ref.book)) return;
+    setHistory((h) => [
+      ...h,
+      { book: book.name, chapter, verse: selectedVerse ?? 1 },
+    ]);
+    goToVerse(ref.book, ref.chapter, ref.verse);
+  };
+
+  const goBack = () => {
+    const last = history[history.length - 1];
+    if (!last) return;
+    setHistory((h) => h.slice(0, -1));
+    goToVerse(last.book, last.chapter, last.verse);
+  };
+
+  const lastOrigin = history[history.length - 1];
+  const notesContent = renderNotes();
 
   const prev = () => {
     if (chapter > 1) return goTo(bookId, chapter - 1);
@@ -171,6 +217,19 @@ function Reader() {
           </div>
 
           <div className="flex items-center gap-2">
+            {lastOrigin ? (
+              <button
+                type="button"
+                onClick={goBack}
+                className="flex items-center gap-1.5 rounded-full bg-muted px-3 py-1.5 text-xs font-medium text-foreground transition-colors hover:bg-accent"
+              >
+                <ArrowLeft className="h-3.5 w-3.5" />
+                <span className="hidden sm:inline">
+                  Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
+                </span>
+                <span className="sm:hidden">Volver</span>
+              </button>
+            ) : null}
             <Link
               to="/newsletter"
               className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground dark:hover:text-white"
@@ -253,6 +312,7 @@ function Reader() {
                       key={v.verse}
                       verse={v}
                       selected={selectedVerse === v.verse}
+                      flashing={flashVerse === v.verse}
                       onSelect={() =>
                         setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
                       }
