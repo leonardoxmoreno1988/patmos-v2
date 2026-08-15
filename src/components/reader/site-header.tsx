@@ -17,7 +17,7 @@ export function SiteHeader({
   rightLink = { to: "/newsletter", label: "Newsletter" },
 }: SiteHeaderProps) {
   return (
-    <header className="sticky top-0 z-30 border-b border-border/50 bg-background/80 backdrop-blur-xl">
+    <header className="relative z-30 border-b border-border/50 bg-background/80 backdrop-blur-xl sm:sticky sm:top-0">
       <div className="mx-auto grid max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-6 py-2 sm:py-3 md:grid-cols-[auto_minmax(0,1fr)_auto]">
         <div className="flex min-w-0 items-center gap-2.5">
           <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground">
