@@ -77,49 +77,8 @@ function NewsletterPage() {
 
   return (
     <div className="min-h-screen bg-background">
-      <header className="bg-background">
-        <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-3">
-          <Link
-            to="/"
-            search={{ libro: "Génesis", cap: 1 }}
-            className="flex min-w-0 items-center gap-2.5 text-foreground no-underline"
-          >
-            <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="18"
-                height="18"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z" />
-                <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
-              </svg>
-            </span>
-            <span className="flex min-w-0 items-baseline">
-              <span className="truncate text-[15px] font-semibold tracking-tight text-foreground dark:text-white">
-                Notas de Estudio
-              </span>
-              <span className="ml-2 shrink-0 text-xs font-normal text-muted-foreground md:text-sm">
-                · por L. Moreno
-              </span>
-            </span>
-          </Link>
+      <SiteHeader />
 
-          <Link
-            to="/"
-            search={{ libro: "Génesis", cap: 1 }}
-            className="flex items-center gap-1.5 text-xs font-medium text-muted-foreground transition-colors hover:text-foreground dark:hover:text-white"
-          >
-            <ArrowLeft className="h-3.5 w-3.5" />
-            Volver al lector
-          </Link>
-        </div>
-      </header>
 
       <main className="mx-auto max-w-3xl px-4 py-12">
         <section className="space-y-16">
