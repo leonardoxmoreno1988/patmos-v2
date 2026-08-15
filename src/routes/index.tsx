@@ -113,16 +113,22 @@ function Reader() {
 
   const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
 
+  const scrollToVerse = (verse: number) => {
+    if (typeof window === "undefined") return;
+    const el = document.getElementById(`verse-${verse}`);
+    if (!el) return;
+    el.scrollIntoView({ behavior: "smooth", block: "center" });
+    setFlashVerse(verse);
+    window.setTimeout(() => setFlashVerse(null), 2000);
+  };
+
   useEffect(() => {
     const target = pendingVerse.current;
     if (target === null || verses.length === 0) return;
     pendingVerse.current = null;
-    const el = document.getElementById(`verse-${target}`);
-    if (!el) return;
-    el.scrollIntoView({ behavior: "smooth", block: "center" });
-    setFlashVerse(target);
-    const t = setTimeout(() => setFlashVerse(null), 2000);
-    return () => clearTimeout(t);
+    const t = window.setTimeout(() => scrollToVerse(target), 60);
+    return () => window.clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [verses, libro, cap]);
 
   const renderNotes = (bare = false) =>
@@ -149,6 +155,12 @@ function Reader() {
   };
 
   const goToVerse = (bookName: string, nextChapter: number, verse: number) => {
+    if (bookName === book.name && nextChapter === chapter) {
+      setQuery("");
+      setSelectedVerse(null);
+      requestAnimationFrame(() => scrollToVerse(verse));
+      return;
+    }
     setQuery("");
     setSelectedVerse(null);
     pendingVerse.current = verse;
