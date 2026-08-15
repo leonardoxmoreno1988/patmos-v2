@@ -239,7 +239,7 @@ function Reader() {
         </div>
       </header>
 
-      <div className="sticky top-[120px] z-30 min-h-[60px] bg-background/70 py-2.5 backdrop-blur-md sm:top-[64px] sm:min-h-[80px] sm:py-4">
+      <div className="sticky top-[108px] z-30 min-h-[60px] bg-background/70 py-2 backdrop-blur-md sm:top-[64px] sm:min-h-[80px] sm:py-4">
         <nav className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-6 sm:flex-nowrap sm:gap-4">
           <div className="flex w-full min-w-0 items-center justify-between gap-3 sm:w-auto sm:justify-start">
             <div className="flex items-center gap-3 sm:gap-4">
