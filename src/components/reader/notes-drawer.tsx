@@ -9,7 +9,7 @@ import {
   DrawerTrigger,
 } from "@/components/ui/drawer";
 
-export function NotesDrawer({ children }: { children: ReactNode }) {
+export function NotesDrawer({ children, title }: { children: ReactNode; title?: string }) {
   return (
     <Drawer>
       <DrawerTrigger asChild>
@@ -27,7 +27,12 @@ export function NotesDrawer({ children }: { children: ReactNode }) {
         <DrawerDescription className="sr-only">
           Comentario del capítulo seleccionado
         </DrawerDescription>
-        <div className="max-h-[85vh] overflow-y-auto p-6 pt-0">{children}</div>
+        <div className="max-h-[85vh] overflow-y-auto p-6 pt-0">
+          {title ? (
+            <p className="mb-4 font-serif text-xl font-bold text-foreground">{title}</p>
+          ) : null}
+          {children}
+        </div>
       </DrawerContent>
     </Drawer>
   );
