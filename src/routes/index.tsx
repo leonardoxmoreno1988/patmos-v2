@@ -200,23 +200,23 @@ function Reader() {
   return (
     <div className="min-h-screen bg-background">
       <header className="sticky top-0 z-30 border-b border-border/50 bg-background/80 backdrop-blur-xl">
-        <div className="mx-auto grid max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-6 py-3 md:grid-cols-[auto_minmax(0,1fr)_auto]">
+        <div className="mx-auto grid max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-6 py-2 sm:py-3 md:grid-cols-[auto_minmax(0,1fr)_auto]">
           <div className="flex min-w-0 items-center gap-2.5">
             <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground">
               <BookOpen className="h-[18px] w-[18px]" />
             </span>
             <span className="flex min-w-0 items-baseline">
-              <span className="truncate text-[15px] font-semibold tracking-tight text-foreground dark:text-white">
+              <span className="min-w-0 truncate text-[15px] font-semibold tracking-tight text-foreground dark:text-white">
                 Notas de Estudio
               </span>
-              <span className="ml-2 shrink-0 text-xs font-normal text-muted-foreground md:text-sm">
+              <span className="ml-2 hidden shrink-0 text-xs font-normal text-muted-foreground sm:inline md:text-sm">
                 · por L. Moreno
               </span>
             </span>
           </div>
 
           <div className="order-last col-span-2 flex w-full justify-center md:order-none md:col-span-1">
-            <label className="mx-auto flex h-12 w-full items-center gap-2 rounded-full border-none bg-muted/50 px-4 text-sm shadow-none outline-none focus-within:ring-0 md:h-10 md:w-72">
+            <label className="mx-auto flex h-10 w-full items-center gap-2 rounded-full border-none bg-muted/50 px-4 text-sm shadow-none outline-none focus-within:ring-0 md:w-72">
               <Search className="h-4 w-4 shrink-0 text-muted-foreground" />
               <input
                 value={query}
@@ -239,60 +239,75 @@ function Reader() {
         </div>
       </header>
 
-      <div className="sticky top-[61px] z-30 h-[80px] bg-background/70 py-4 backdrop-blur-md">
-        <nav className="mx-auto flex h-12 max-w-7xl items-center justify-between gap-4 px-6 sm:gap-6">
-          <div className="flex min-w-0 items-center gap-4 sm:gap-6">
-            <Selector
-              label="Libro"
-              value={bookId}
-              options={BOOKS.map((b) => ({ value: b.bookid, label: b.name }))}
-              onSelect={(v) => goTo(v, 1)}
-              searchable
-            />
-            <Selector
-              label="Capítulo"
-              value={chapter}
-              options={Array.from({ length: chapterCount }, (_, i) => ({
-                value: i + 1,
-                label: String(i + 1),
-              }))}
-              onSelect={(v) => goTo(bookId, v)}
-              columns={5}
-            />
-            {lastOrigin ? (
+      <div className="sticky top-[113px] z-30 min-h-[60px] bg-background/70 py-2 backdrop-blur-md sm:top-[64px] sm:min-h-[80px] sm:py-4">
+        <nav className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-6 sm:flex-nowrap sm:gap-4">
+          <div className="flex w-full min-w-0 items-center justify-between gap-3 sm:w-auto sm:justify-start">
+            <div className="flex items-center gap-3 sm:gap-4">
+              <Selector
+                label="Libro"
+                value={bookId}
+                options={BOOKS.map((b) => ({ value: b.bookid, label: b.name }))}
+                onSelect={(v) => goTo(v, 1)}
+                searchable
+              />
+              <Selector
+                label="Capítulo"
+                value={chapter}
+                options={Array.from({ length: chapterCount }, (_, i) => ({
+                  value: i + 1,
+                  label: String(i + 1),
+                }))}
+                onSelect={(v) => goTo(bookId, v)}
+                columns={5}
+              />
+              {lastOrigin ? (
+                <button
+                  type="button"
+                  onClick={goBack}
+                  className="ml-2 hidden cursor-pointer items-center gap-1.5 whitespace-nowrap text-xs font-medium text-neutral-400 transition-colors hover:text-white sm:inline-flex"
+                >
+                  <ArrowLeft className="h-3.5 w-3.5" />
+                  Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
+                </button>
+              ) : null}
+            </div>
+
+            <div className="flex shrink-0 items-center gap-2">
               <button
                 type="button"
-                onClick={goBack}
-                className="ml-2 inline-flex cursor-pointer items-center gap-1.5 text-xs font-medium text-neutral-400 transition-colors hover:text-white"
+                onClick={prev}
+                aria-label="Capítulo anterior"
+                className="grid h-11 w-11 place-items-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
               >
-                <ArrowLeft className="h-3.5 w-3.5" />
-                Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
+                <ChevronLeft className="h-[18px] w-[18px]" />
               </button>
-            ) : null}
+              <button
+                type="button"
+                onClick={next}
+                aria-label="Capítulo siguiente"
+                className="grid h-11 w-11 place-items-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+              >
+                <ChevronRight className="h-[18px] w-[18px]" />
+              </button>
+            </div>
           </div>
 
-          <div className="flex shrink-0 items-center gap-3">
+          {lastOrigin ? (
             <button
               type="button"
-              onClick={prev}
-              aria-label="Capítulo anterior"
-              className="grid h-11 w-11 place-items-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+              onClick={goBack}
+              className="inline-flex w-full items-center justify-between whitespace-nowrap rounded-lg bg-neutral-100 px-3 py-1.5 text-xs font-medium text-neutral-600 transition-colors hover:bg-neutral-200 mt-2 dark:bg-neutral-800/80 dark:text-neutral-300 sm:hidden"
             >
-              <ChevronLeft className="h-[18px] w-[18px]" />
+              <span className="inline-flex items-center gap-1.5">
+                <ArrowLeft className="h-3.5 w-3.5" />
+                Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
+              </span>
             </button>
-            <button
-              type="button"
-              onClick={next}
-              aria-label="Capítulo siguiente"
-              className="grid h-11 w-11 place-items-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
-            >
-              <ChevronRight className="h-[18px] w-[18px]" />
-            </button>
-          </div>
+          ) : null}
         </nav>
       </div>
 
-      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
+      <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-4 sm:pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
           <article className="lg:col-span-7">
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
