@@ -312,6 +312,7 @@ function Reader() {
                       key={v.verse}
                       verse={v}
                       selected={selectedVerse === v.verse}
+                      flashing={flashVerse === v.verse}
                       onSelect={() =>
                         setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
                       }
