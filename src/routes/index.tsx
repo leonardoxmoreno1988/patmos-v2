@@ -260,6 +260,16 @@ function Reader() {
               onSelect={(v) => goTo(bookId, v)}
               columns={5}
             />
+            {lastOrigin ? (
+              <button
+                type="button"
+                onClick={goBack}
+                className="ml-2 inline-flex cursor-pointer items-center gap-1.5 text-xs font-medium text-neutral-400 transition-colors hover:text-white"
+              >
+                <ArrowLeft className="h-3.5 w-3.5" />
+                Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
+              </button>
+            ) : null}
           </div>
 
           <div className="flex shrink-0 items-center gap-3">
