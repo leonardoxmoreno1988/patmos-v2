@@ -131,13 +131,12 @@ function Reader() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [verses, libro, cap]);
 
-  const renderNotes = (bare = false) =>
+  const renderNotes = () =>
     studyNotes.isPending ? (
       <NotesSkeleton />
     ) : studyNotes.data?.[noteKey(book.name, chapter)] ? (
       <StudyNoteCard
         html={studyNotes.data[noteKey(book.name, chapter)]!}
-        bare={bare}
         onRefClick={goToReference}
       />
     ) : (
@@ -343,7 +342,7 @@ function Reader() {
       </main>
 
       <NotesDrawer title={`${book.name} ${chapter}`}>
-        {renderNotes(true)}
+        {renderNotes()}
         <div className="mt-6">
           <EtsyBanner />
         </div>
