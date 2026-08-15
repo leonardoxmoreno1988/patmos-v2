@@ -1,6 +1,8 @@
 import { useState } from "react";
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { Star } from "lucide-react";
+import { ArrowLeft, Star } from "lucide-react";
+
+import profileAsset from "@/assets/leonardo-moreno.png.asset.json";
 
 export const Route = createFileRoute("/newsletter")({
   head: () => ({
@@ -96,16 +98,22 @@ function NewsletterPage() {
                 <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
               </svg>
             </span>
-            <span className="truncate text-[15px] font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">
-              Notas de Estudio
+            <span className="flex min-w-0 items-baseline">
+              <span className="truncate text-[15px] font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">
+                Notas de Estudio
+              </span>
+              <span className="ml-2 shrink-0 text-xs font-normal text-neutral-400 md:text-sm">
+                · por L. Moreno
+              </span>
             </span>
           </Link>
 
           <Link
             to="/"
             search={{ libro: "Juan", cap: 3 }}
-            className="text-sm font-medium text-neutral-600 transition-colors hover:text-neutral-900 dark:text-neutral-300 dark:hover:text-white"
+            className="flex items-center gap-1.5 text-xs font-medium text-neutral-500 transition-colors hover:text-neutral-900 dark:text-neutral-400 dark:hover:text-white"
           >
+            <ArrowLeft className="h-3.5 w-3.5" />
             Volver al lector
           </Link>
         </div>
@@ -127,7 +135,7 @@ function NewsletterPage() {
                 e.preventDefault();
                 if (email.trim()) setSent(true);
               }}
-              className="mx-auto mt-8 flex max-w-md flex-col gap-2 rounded-2xl border border-neutral-200 bg-neutral-100 p-1.5 dark:border-neutral-700 dark:bg-neutral-800 sm:flex-row"
+              className="mx-auto mt-8 flex max-w-md flex-col gap-2 rounded-2xl border border-neutral-200 bg-neutral-100 p-1.5 shadow-sm transition-shadow hover:shadow-md dark:border-neutral-700 dark:bg-neutral-800 sm:flex-row"
             >
               <input
                 type="email"
@@ -155,27 +163,37 @@ function NewsletterPage() {
             </a>
           </div>
 
-          <div className="rounded-2xl border border-neutral-200 bg-neutral-50 p-6 dark:border-neutral-800 dark:bg-neutral-900/50 sm:p-8">
-            <h2 className="text-xl font-semibold text-neutral-900 dark:text-neutral-100">
-              Leonardo Moreno
-            </h2>
-            <p className="mt-3 text-sm leading-relaxed text-neutral-600 dark:text-neutral-300">
-              Estudiante de teología en TBDI, premilenialista, pretribulacionista,
-              amante de la profecía bíblica y seguidor de Jesús. Escribo sobre los
-              66 libros de la Biblia, las falsas doctrinas y el gnosticismo en el
-              cine.
-            </p>
+          <div className="flex flex-col items-center gap-6 rounded-3xl border border-neutral-200/80 bg-neutral-50 p-6 dark:border-neutral-800 dark:bg-neutral-900/60 sm:flex-row sm:items-start sm:p-8">
+            <img
+              src={profileAsset.url}
+              alt="Leonardo Moreno"
+              className="h-24 w-24 shrink-0 rounded-2xl border-2 border-white object-cover shadow-sm dark:border-neutral-800 sm:h-28 sm:w-28"
+            />
+            <div className="text-center sm:text-left">
+              <h2 className="text-xl font-bold text-neutral-900 dark:text-neutral-100">
+                Leonardo Moreno
+              </h2>
+              <span className="-mt-0.5 mb-2 block text-xs font-medium text-neutral-400">
+                Estudiante de Teología & Divulgador
+              </span>
+              <p className="text-sm leading-relaxed text-neutral-600 dark:text-neutral-300">
+                Estudiante de teología en TBDI, premilenialista, pretribulacionista,
+                amante de la profecía bíblica y seguidor de Jesús. Escribo sobre los
+                66 libros de la Biblia, las falsas doctrinas y el gnosticismo en el
+                cine.
+              </p>
+            </div>
           </div>
 
           <div>
             <h3 className="mb-8 text-center text-xs font-semibold uppercase tracking-widest text-neutral-400">
               Reseñas ({reviews.length})
             </h3>
-            <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
+            <div className="columns-1 gap-4 space-y-4 md:columns-2">
               {reviews.map((review, idx) => (
                 <div
                   key={idx}
-                  className="space-y-3 rounded-2xl border border-neutral-200/80 bg-white p-5 shadow-sm dark:border-neutral-800 dark:bg-neutral-900"
+                  className="break-inside-avoid space-y-3 rounded-2xl border border-neutral-200/80 bg-white p-5 shadow-sm dark:border-neutral-800 dark:bg-neutral-900"
                 >
                   <div className="flex gap-0.5">
                     {Array.from({ length: 5 }).map((_, i) => (
