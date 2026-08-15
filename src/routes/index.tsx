@@ -1,11 +1,11 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
+import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { ArrowLeft, BookOpen, ChevronLeft, ChevronRight, Search } from "lucide-react";
+import { ArrowLeft, ChevronLeft, ChevronRight } from "lucide-react";
 
 import { BOOKS, bookQuery, TRANSLATION, type Verse } from "@/lib/bible";
 import { Selector } from "@/components/reader/selector";
-import { ThemeToggle } from "@/components/reader/theme-toggle";
+import { SiteHeader } from "@/components/reader/site-header";
 import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { VerseToolbar } from "@/components/reader/verse-toolbar";
@@ -13,6 +13,7 @@ import { noteKey, studyNotesQuery } from "@/lib/notes";
 import { EtsyBanner } from "@/components/reader/etsy-banner";
 import { NotesDrawer } from "@/components/reader/notes-drawer";
 // import { NewsletterCard } from "@/components/reader/newsletter-card";
+
 
 export const Route = createFileRoute("/")({
   validateSearch: (search: Record<string, unknown>) => {
@@ -199,45 +200,8 @@ function Reader() {
 
   return (
     <div className="min-h-screen bg-background">
-      <header className="sticky top-0 z-30 border-b border-border/50 bg-background/80 backdrop-blur-xl">
-        <div className="mx-auto grid max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-6 py-2 sm:py-3 md:grid-cols-[auto_minmax(0,1fr)_auto]">
-          <div className="flex min-w-0 items-center gap-2.5">
-            <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground">
-              <BookOpen className="h-[18px] w-[18px]" />
-            </span>
-            <span className="flex min-w-0 items-baseline">
-              <span className="min-w-0 truncate text-[15px] font-semibold tracking-tight text-foreground dark:text-white">
-                Notas de Estudio
-              </span>
-              <span className="ml-2 hidden shrink-0 text-xs font-normal text-muted-foreground sm:inline md:text-sm">
-                · por L. Moreno
-              </span>
-            </span>
-          </div>
+      <SiteHeader showSearch query={query} setQuery={setQuery} />
 
-          <div className="order-last col-span-2 flex w-full justify-center md:order-none md:col-span-1">
-            <label className="mx-auto flex h-10 w-full items-center gap-2 rounded-full border-none bg-muted/50 px-4 text-sm shadow-none outline-none focus-within:ring-0 md:w-72">
-              <Search className="h-4 w-4 shrink-0 text-muted-foreground" />
-              <input
-                value={query}
-                onChange={(e) => setQuery(e.target.value)}
-                placeholder="Buscar en este capítulo…"
-                className="w-full min-w-0 border-none bg-transparent text-sm outline-none ring-0 placeholder:text-muted-foreground"
-              />
-            </label>
-          </div>
-
-          <div className="flex items-center gap-2">
-            <Link
-              to="/newsletter"
-              className="text-sm font-medium text-[#000f37] transition-colors hover:text-foreground dark:text-muted-foreground dark:hover:text-white"
-            >
-              Newsletter
-            </Link>
-            <ThemeToggle />
-          </div>
-        </div>
-      </header>
 
       <div className="sticky top-[113px] z-30 min-h-[60px] bg-background/70 py-2 backdrop-blur-md sm:top-[64px] sm:min-h-[80px] sm:py-4">
         <nav className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-6 sm:flex-nowrap sm:gap-4">
