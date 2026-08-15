@@ -247,7 +247,7 @@ function Reader() {
                   Ningún versículo de este capítulo contiene «{query}».
                 </p>
               ) : (
-                <div className="scripture space-y-5 text-[1.0625rem] leading-[1.95] text-foreground sm:text-lg">
+                <div className="space-y-5 font-sans text-[1.0625rem] leading-[1.95] text-foreground sm:text-lg">
                   {filteredVerses.map((v) => (
                     <VerseText
                       key={v.verse}
@@ -271,7 +271,7 @@ function Reader() {
         </aside>
       </main>
 
-      <NotesDrawer>
+      <NotesDrawer title={`${book.name} ${chapter}`}>
         {renderNotes(true)}
         <div className="mt-6">
           <EtsyBanner />
@@ -288,7 +288,7 @@ function Reader() {
 
       <footer className="mt-20 border-t border-border py-8 text-center font-sans text-xs text-muted-foreground">
         <div className="mx-auto max-w-7xl px-6">
-          © 2026 Patmos, Notas de Estudio. Todos los derechos reservados.
+          © 2026 Notas de Estudio. Todos los derechos reservados.
         </div>
       </footer>
     </div>

@@ -189,6 +189,8 @@ function NewsletterPage() {
                       <Star
                         key={i}
                         className="h-4 w-4 fill-amber-400 text-amber-400"
+                        strokeLinejoin="miter"
+                        strokeLinecap="square"
                       />
                     ))}
                   </div>
@@ -204,6 +206,12 @@ function NewsletterPage() {
           </div>
         </section>
       </main>
+
+      <footer className="mt-20 border-t border-border py-8 text-center font-sans text-xs text-muted-foreground">
+        <div className="mx-auto max-w-7xl px-6">
+          © 2026 Notas de Estudio. Todos los derechos reservados.
+        </div>
+      </footer>
     </div>
   );
 }
