@@ -8,7 +8,7 @@ export function EtsyBanner() {
       href={ETSY_URL}
       target="_blank"
       rel="noopener noreferrer"
-      className="mt-6 block cursor-pointer overflow-hidden rounded-2xl border border-border/60 shadow-sm transition-opacity hover:opacity-95"
+      className="mt-6 block cursor-pointer overflow-hidden rounded-none border border-border/60 shadow-sm transition-opacity hover:opacity-95"
     >
       <img
         src={bannerAsset.url}
