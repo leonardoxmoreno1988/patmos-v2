@@ -1,8 +1,10 @@
 import { useState } from "react";
-import { createFileRoute, Link } from "@tanstack/react-router";
-import { ArrowLeft, Star } from "lucide-react";
+import { createFileRoute } from "@tanstack/react-router";
+import { Star } from "lucide-react";
 
+import { SiteHeader } from "@/components/reader/site-header";
 import profileAsset from "@/assets/leonardo-moreno.png.asset.json";
+
 
 export const Route = createFileRoute("/newsletter")({
   head: () => ({
