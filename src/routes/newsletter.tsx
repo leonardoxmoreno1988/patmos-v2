@@ -162,7 +162,7 @@ function NewsletterPage() {
               className="h-32 w-32 shrink-0 rounded-[2rem] object-cover"
             />
             <div className="text-center sm:text-left">
-              <h2 className="text-xl font-bold text-foreground dark:text-white">
+              <h2 className="font-serif text-xl font-bold text-foreground dark:text-white">
                 Leonardo Moreno
               </h2>
               <p className="text-sm leading-relaxed text-muted-foreground">
@@ -175,7 +175,7 @@ function NewsletterPage() {
           </div>
 
           <div>
-            <h3 className="mb-8 text-center text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+            <h3 className="mb-8 text-center font-serif text-xs font-semibold uppercase tracking-widest text-muted-foreground">
               Reseñas ({reviews.length})
             </h3>
             <div className="columns-1 gap-4 space-y-4 md:columns-2">
