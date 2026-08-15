@@ -334,7 +334,7 @@ function Reader() {
             {/* <NewsletterCard /> */}
           </article>
 
-        <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto scrollbar-none">
+        <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto lg:border lg:border-[#000f37] lg:bg-transparent scrollbar-none dark:lg:border-[#7c7b82]">
           {notesContent}
           <EtsyBanner />
         </aside>
