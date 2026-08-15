@@ -86,10 +86,11 @@ function NewsletterPage() {
             <h1 className="font-sans text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
               Una exploración de la profecía bíblica y el cristianismo actual
             </h1>
-            <p className="mx-auto mt-4 max-w-xl font-sans text-base font-normal text-muted-foreground sm:text-lg">
+            <p className="mx-auto mt-4 max-w-xl font-sans text-base font-normal text-[#000f37] dark:text-[#e2e8f0] sm:text-lg">
               Un informe sobre propaganda anticristiana y otros engaños
               relevantes. Suscríbete aquí:
             </p>
+
 
             <form
               onSubmit={(e) => {
