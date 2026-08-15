@@ -153,14 +153,6 @@ function NewsletterPage() {
               </button>
             </form>
 
-            <a
-              href="https://newsletter.notasdeestudio.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-3 block text-center text-xs text-muted-foreground hover:underline"
-            >
-              Puede leer el archivo del newsletter desde este enlace ↗
-            </a>
           </div>
 
           <div className="flex flex-col items-center gap-6 sm:flex-row sm:items-start">

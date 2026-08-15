@@ -230,7 +230,7 @@ function Reader() {
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
             </p>
-            <h1 className="scripture mt-3 text-3xl font-bold tracking-tight sm:text-4xl">
+            <h1 className="scripture mt-3 text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
               {book.name} {chapter}
             </h1>
             <div className="mt-8 h-px w-16 bg-border/70" />
