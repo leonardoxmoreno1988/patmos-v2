@@ -77,7 +77,7 @@ function NewsletterPage() {
 
   return (
     <div className="min-h-screen bg-background">
-      <SiteHeader />
+      <SiteHeader rightLink={{ to: "/", label: "← Volver al lector" }} />
 
 
       <main className="mx-auto max-w-3xl px-4 py-12">
@@ -86,7 +86,7 @@ function NewsletterPage() {
             <h1 className="font-sans text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
               Una exploración de la profecía bíblica y el cristianismo actual
             </h1>
-            <p className="mx-auto mt-4 max-w-xl font-sans text-base font-normal text-[#000f37] dark:text-[#e2e8f0] sm:text-lg">
+            <p className="mx-auto mt-4 max-w-xl font-sans text-base font-normal text-[#000f37] dark:text-[#BBBECE] sm:text-lg">
               Un informe sobre propaganda anticristiana y otros engaños
               relevantes. Suscríbete aquí:
             </p>
@@ -127,7 +127,7 @@ function NewsletterPage() {
               <h2 className="font-sans text-xl font-bold text-foreground dark:text-white">
                 Leonardo Moreno
               </h2>
-              <p className="font-sans text-sm font-normal leading-relaxed text-[#000f37] dark:text-[#e2e8f0]">
+              <p className="font-sans text-sm font-normal leading-relaxed text-[#000f37] dark:text-[#BBBECE]">
                 Estudiante de teología en TBDI, premilenialista, pretribulacionista,
                 amante de la profecía bíblica y seguidor de Jesús. Escribo sobre los
                 66 libros de la Biblia, las falsas doctrinas y el gnosticismo en el
@@ -145,7 +145,7 @@ function NewsletterPage() {
               {reviews.map((review, idx) => (
                   <div
                     key={idx}
-                    className="break-inside-avoid space-y-3 rounded-2xl border-none bg-muted p-5 shadow-none"
+                    className="break-inside-avoid space-y-3 rounded-2xl border-none bg-muted p-5 shadow-none dark:bg-[#232232]"
                   >
                   <div className="flex gap-0.5">
                     {Array.from({ length: 5 }).map((_, i) => (
@@ -157,10 +157,10 @@ function NewsletterPage() {
                       />
                     ))}
                   </div>
-                  <p className="font-sans text-sm font-normal leading-relaxed text-foreground/80">
+                  <p className="font-sans text-sm font-normal leading-relaxed text-foreground/80 dark:text-white">
                     “{review.text}”
                   </p>
-                  <p className="font-sans text-xs font-normal text-muted-foreground">
+                  <p className="font-sans text-xs font-normal text-muted-foreground dark:text-[#BBBECE]">
                     — {review.author}
                   </p>
                 </div>
@@ -169,6 +169,7 @@ function NewsletterPage() {
           </div>
         </section>
       </main>
+
 
       <footer className="mt-20 border-t border-border py-8 text-center font-sans text-xs text-muted-foreground">
         <div className="mx-auto max-w-7xl px-6">
