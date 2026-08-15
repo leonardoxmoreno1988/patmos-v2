@@ -217,13 +217,13 @@ function Reader() {
           </div>
 
           <div className="order-last col-span-2 flex w-full justify-center md:order-none md:col-span-1">
-            <label className="mx-auto flex h-12 w-full items-center gap-2 rounded-full border border-border/50 bg-muted/50 px-4 text-sm transition-shadow focus-within:ring-1 focus-within:ring-muted-foreground/40 md:h-10 md:w-72">
+            <label className="mx-auto flex h-12 w-full items-center gap-2 rounded-full border-none bg-muted/50 px-4 text-sm shadow-none outline-none focus-within:ring-0 md:h-10 md:w-72">
               <Search className="h-4 w-4 shrink-0 text-muted-foreground" />
               <input
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 placeholder="Buscar en este capítulo…"
-                className="w-full min-w-0 bg-transparent text-sm outline-none placeholder:text-muted-foreground"
+                className="w-full min-w-0 border-none bg-transparent text-sm outline-none ring-0 placeholder:text-muted-foreground"
               />
             </label>
           </div>
@@ -301,7 +301,7 @@ function Reader() {
             <h1 className="scripture mt-3 text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
               {book.name} {chapter}
             </h1>
-            <div className="mt-8 h-px w-16 bg-border/70" />
+            <div className="mt-8 h-px w-16 bg-[#000f37]/20 dark:bg-[#7c7b82]/50" />
 
             <div className="mt-8">
               {bookData.isPending ? (
@@ -334,7 +334,7 @@ function Reader() {
             {/* <NewsletterCard /> */}
           </article>
 
-        <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto scrollbar-none">
+        <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto lg:border lg:border-[#000f37] lg:bg-transparent scrollbar-none dark:lg:border-[#7c7b82]">
           {notesContent}
           <EtsyBanner />
         </aside>
