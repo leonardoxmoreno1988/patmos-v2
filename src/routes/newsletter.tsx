@@ -75,7 +75,7 @@ function NewsletterPage() {
 
   return (
     <div className="min-h-screen bg-background">
-      <header className="sticky top-0 z-30 border-b border-border/50 bg-background/80 backdrop-blur-xl">
+      <header className="bg-background">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-3">
           <Link
             to="/"
@@ -135,7 +135,7 @@ function NewsletterPage() {
                 e.preventDefault();
                 if (email.trim()) setSent(true);
               }}
-              className="mx-auto mt-8 flex max-w-md flex-col gap-2 rounded-2xl border border-neutral-200 bg-neutral-100 p-1.5 shadow-sm transition-shadow hover:shadow-md dark:border-neutral-700 dark:bg-neutral-800 sm:flex-row"
+              className="mx-auto mt-8 flex max-w-md flex-col gap-2 rounded-2xl border border-neutral-200/50 bg-neutral-100 p-1.5 shadow-sm transition-shadow hover:shadow-md dark:border-neutral-700 dark:bg-neutral-800 sm:flex-row"
             >
               <input
                 type="email"
@@ -163,11 +163,11 @@ function NewsletterPage() {
             </a>
           </div>
 
-          <div className="flex flex-col items-center gap-6 rounded-3xl border border-neutral-200/80 bg-neutral-50 p-6 dark:border-neutral-800 dark:bg-neutral-900/60 sm:flex-row sm:items-start sm:p-8">
+          <div className="flex flex-col items-center gap-6 sm:flex-row sm:items-start">
             <img
               src={profileAsset.url}
               alt="Leonardo Moreno"
-              className="h-24 w-24 shrink-0 rounded-2xl border-2 border-white object-cover shadow-sm dark:border-neutral-800 sm:h-28 sm:w-28"
+              className="h-24 w-24 shrink-0 rounded-3xl object-cover shadow-sm sm:h-28 sm:w-28"
             />
             <div className="text-center sm:text-left">
               <h2 className="text-xl font-bold text-neutral-900 dark:text-neutral-100">
