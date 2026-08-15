@@ -79,7 +79,7 @@ function NewsletterPage() {
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-3">
           <Link
             to="/"
-            search={{ libro: "Juan", cap: 3 }}
+            search={{ libro: "Génesis", cap: 1 }}
             className="flex min-w-0 items-center gap-2.5 text-foreground no-underline"
           >
             <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground">
@@ -110,7 +110,7 @@ function NewsletterPage() {
 
           <Link
             to="/"
-            search={{ libro: "Juan", cap: 3 }}
+            search={{ libro: "Génesis", cap: 1 }}
             className="flex items-center gap-1.5 text-xs font-medium text-muted-foreground transition-colors hover:text-foreground dark:hover:text-white"
           >
             <ArrowLeft className="h-3.5 w-3.5" />
