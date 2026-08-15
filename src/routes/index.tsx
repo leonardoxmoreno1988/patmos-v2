@@ -206,10 +206,10 @@ function Reader() {
               <BookOpen className="h-[18px] w-[18px]" />
             </span>
             <span className="flex min-w-0 items-baseline">
-              <span className="truncate text-[15px] font-semibold tracking-tight text-foreground dark:text-white">
+              <span className="min-w-0 truncate text-[15px] font-semibold tracking-tight text-foreground dark:text-white">
                 Notas de Estudio
               </span>
-              <span className="ml-2 shrink-0 text-xs font-normal text-muted-foreground md:text-sm">
+              <span className="ml-2 hidden shrink-0 text-xs font-normal text-muted-foreground sm:inline md:text-sm">
                 · por L. Moreno
               </span>
             </span>
