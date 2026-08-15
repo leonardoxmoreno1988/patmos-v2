@@ -131,13 +131,12 @@ function Reader() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [verses, libro, cap]);
 
-  const renderNotes = (bare = false) =>
+  const renderNotes = () =>
     studyNotes.isPending ? (
       <NotesSkeleton />
     ) : studyNotes.data?.[noteKey(book.name, chapter)] ? (
       <StudyNoteCard
         html={studyNotes.data[noteKey(book.name, chapter)]!}
-        bare={bare}
         onRefClick={goToReference}
       />
     ) : (
@@ -334,14 +333,16 @@ function Reader() {
             {/* <NewsletterCard /> */}
           </article>
 
-        <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto lg:border lg:border-[#000f37] lg:bg-transparent scrollbar-none dark:lg:border-[#7c7b82]">
-          {notesContent}
+        <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto scrollbar-none">
+          <div className="rounded-none border border-[#000f37] bg-transparent p-6 dark:border-[#7c7b82]">
+            {notesContent}
+          </div>
           <EtsyBanner />
         </aside>
       </main>
 
       <NotesDrawer title={`${book.name} ${chapter}`}>
-        {renderNotes(true)}
+        {renderNotes()}
         <div className="mt-6">
           <EtsyBanner />
         </div>
