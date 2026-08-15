@@ -216,7 +216,7 @@ function Reader() {
           </div>
 
           <div className="order-last col-span-2 flex w-full justify-center md:order-none md:col-span-1">
-            <label className="mx-auto flex h-12 w-full items-center gap-2 rounded-full border-none bg-muted/50 px-4 text-sm shadow-none outline-none focus-within:ring-0 md:h-10 md:w-72">
+            <label className="mx-auto flex h-10 w-full items-center gap-2 rounded-full border-none bg-muted/50 px-4 text-sm shadow-none outline-none focus-within:ring-0 md:w-72">
               <Search className="h-4 w-4 shrink-0 text-muted-foreground" />
               <input
                 value={query}
