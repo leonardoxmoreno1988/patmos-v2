@@ -163,11 +163,11 @@ function NewsletterPage() {
             </a>
           </div>
 
-          <div className="flex flex-col items-center gap-6 rounded-3xl border border-neutral-200/80 bg-neutral-50 p-6 dark:border-neutral-800 dark:bg-neutral-900/60 sm:flex-row sm:items-start sm:p-8">
+          <div className="flex flex-col items-center gap-6 sm:flex-row sm:items-start">
             <img
               src={profileAsset.url}
               alt="Leonardo Moreno"
-              className="h-24 w-24 shrink-0 rounded-2xl border-2 border-white object-cover shadow-sm dark:border-neutral-800 sm:h-28 sm:w-28"
+              className="h-24 w-24 shrink-0 rounded-3xl object-cover shadow-sm sm:h-28 sm:w-28"
             />
             <div className="text-center sm:text-left">
               <h2 className="text-xl font-bold text-neutral-900 dark:text-neutral-100">
