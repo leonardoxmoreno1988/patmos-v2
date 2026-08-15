@@ -67,7 +67,7 @@ function VerseText({
           onSelect();
         }
       }}
-      className={`-mx-2 block scroll-mt-44 cursor-pointer rounded-lg px-2 py-1 transition-colors duration-700 ${
+      className={`-mx-2 block scroll-mt-44 cursor-pointer rounded-lg px-2 py-1 text-lg leading-relaxed transition-colors duration-700 lg:text-[20px] lg:leading-[1.75] ${
         selected || flashing ? "bg-verse-highlight" : "hover:bg-accent/50"
       }`}
     >
@@ -203,7 +203,7 @@ function Reader() {
       <SiteHeader showSearch query={query} setQuery={setQuery} />
 
 
-      <div className="sticky top-[113px] z-30 min-h-[60px] bg-background/70 py-2 backdrop-blur-md sm:top-[64px] sm:min-h-[80px] sm:py-4">
+      <div className="sticky top-0 z-30 bg-background/95 py-2 backdrop-blur-md border-b border-neutral-200/50 dark:border-neutral-800/50 sm:top-[64px] sm:min-h-[80px] sm:py-4 sm:bg-background/70 sm:border-0">
         <nav className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-6 sm:flex-nowrap sm:gap-4">
           <div className="flex w-full min-w-0 items-center justify-between gap-3 sm:w-auto sm:justify-start">
             <div className="flex items-center gap-3 sm:gap-4">
@@ -293,7 +293,7 @@ function Reader() {
                   Ningún versículo de este capítulo contiene «{query}».
                 </p>
               ) : (
-                <div className="space-y-3.5 font-sans text-lg leading-[1.95] tracking-[-0.01em] text-foreground">
+                <div className="space-y-3.5 font-sans tracking-[-0.01em] text-foreground">
                   {filteredVerses.map((v) => (
                     <VerseText
                       key={v.verse}
