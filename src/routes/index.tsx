@@ -170,7 +170,15 @@ function Reader() {
             </label>
           </div>
 
-          <ThemeToggle />
+          <div className="flex items-center gap-2">
+            <Link
+              to="/newsletter"
+              className="text-sm font-medium text-neutral-600 transition-colors hover:text-neutral-900 dark:text-neutral-300 dark:hover:text-white"
+            >
+              Newsletter
+            </Link>
+            <ThemeToggle />
+          </div>
         </div>
       </header>
 
