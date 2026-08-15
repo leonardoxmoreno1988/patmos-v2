@@ -149,10 +149,10 @@ function Reader() {
               <BookOpen className="h-[18px] w-[18px]" />
             </span>
             <span className="flex min-w-0 items-baseline">
-              <span className="truncate text-[15px] font-semibold tracking-tight text-neutral-900 dark:text-neutral-100">
+              <span className="truncate text-[15px] font-semibold tracking-tight text-foreground dark:text-white">
                 Notas de Estudio
               </span>
-              <span className="ml-2 shrink-0 text-xs font-normal text-neutral-400 md:text-sm">
+              <span className="ml-2 shrink-0 text-xs font-normal text-muted-foreground md:text-sm">
                 · por L. Moreno
               </span>
             </span>
@@ -173,7 +173,7 @@ function Reader() {
           <div className="flex items-center gap-2">
             <Link
               to="/newsletter"
-              className="text-sm font-medium text-neutral-600 transition-colors hover:text-neutral-900 dark:text-neutral-300 dark:hover:text-white"
+              className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground dark:hover:text-white"
             >
               Newsletter
             </Link>
