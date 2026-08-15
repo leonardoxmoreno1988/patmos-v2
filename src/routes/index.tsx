@@ -293,7 +293,7 @@ function Reader() {
                   Ningún versículo de este capítulo contiene «{query}».
                 </p>
               ) : (
-                <div className="space-y-3.5 font-sans text-[1.0625rem] leading-[1.95] tracking-[-0.01em] text-foreground sm:text-lg">
+                <div className="space-y-3.5 font-sans text-lg leading-[1.95] tracking-[-0.01em] text-foreground">
                   {filteredVerses.map((v) => (
                     <VerseText
                       key={v.verse}

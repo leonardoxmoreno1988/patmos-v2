@@ -97,7 +97,7 @@ function NewsletterPage() {
                 e.preventDefault();
                 if (email.trim()) setSent(true);
               }}
-              className="mx-auto mt-8 flex max-w-md flex-col items-center gap-2 rounded-full border border-neutral-900 bg-transparent p-1.5 dark:border-neutral-400 sm:flex-row"
+              className="mx-auto mt-8 flex w-full max-w-md flex-col items-center gap-3 sm:flex-row sm:gap-2 sm:rounded-full sm:border sm:border-neutral-900 sm:bg-transparent sm:p-1.5 sm:dark:border-neutral-400"
             >
               <input
                 type="email"
@@ -105,11 +105,11 @@ function NewsletterPage() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="tu@email.com"
-                className="w-full rounded-full bg-transparent px-5 py-2.5 font-sans text-sm font-normal text-foreground outline-none placeholder:text-muted-foreground"
+                className="w-full rounded-full border border-neutral-900 bg-transparent px-5 py-3.5 font-sans text-sm font-normal text-foreground outline-none placeholder:text-muted-foreground dark:border-neutral-400 sm:border-none sm:bg-transparent sm:py-2.5"
               />
               <button
                 type="submit"
-                className="whitespace-nowrap rounded-full bg-primary px-6 py-3 font-sans text-sm font-bold text-primary-foreground transition-opacity hover:opacity-90"
+                className="w-full whitespace-nowrap rounded-full bg-white px-6 py-3.5 font-sans text-sm font-bold text-neutral-900 transition-opacity hover:opacity-90 sm:w-auto sm:bg-primary sm:py-3 sm:text-primary-foreground"
               >
                 {sent ? "¡Gracias!" : "Suscribirme"}
               </button>
