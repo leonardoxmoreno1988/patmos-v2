@@ -97,7 +97,7 @@ function NewsletterPage() {
                 e.preventDefault();
                 if (email.trim()) setSent(true);
               }}
-              className="mx-auto mt-8 flex max-w-md flex-col gap-2 rounded-2xl border border-foreground bg-background p-1.5 sm:flex-row"
+              className="mx-auto mt-8 flex max-w-md flex-col items-center gap-2 rounded-full border border-neutral-900 bg-transparent p-1.5 dark:border-neutral-400 sm:flex-row"
             >
               <input
                 type="email"
@@ -105,11 +105,11 @@ function NewsletterPage() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="tu@email.com"
-                className="w-full bg-transparent px-4 py-3 font-sans text-sm font-normal text-foreground outline-none placeholder:text-muted-foreground"
+                className="w-full rounded-full bg-transparent px-5 py-2.5 font-sans text-sm font-normal text-foreground outline-none placeholder:text-muted-foreground"
               />
               <button
                 type="submit"
-                className="whitespace-nowrap rounded-xl bg-primary px-6 py-3 font-sans text-sm font-bold text-primary-foreground transition-opacity hover:opacity-90 sm:rounded-full"
+                className="whitespace-nowrap rounded-full bg-primary px-6 py-3 font-sans text-sm font-bold text-primary-foreground transition-opacity hover:opacity-90"
               >
                 {sent ? "¡Gracias!" : "Suscribirme"}
               </button>
@@ -121,13 +121,13 @@ function NewsletterPage() {
             <img
               src={profileAsset.url}
               alt="Leonardo Moreno"
-              className="h-32 w-32 shrink-0 rounded-[2rem] object-cover"
+              className="h-20 w-20 shrink-0 rounded-[2rem] object-cover sm:h-24 sm:w-24"
             />
             <div className="text-center sm:text-left">
               <h2 className="font-sans text-xl font-bold text-foreground dark:text-white">
                 Leonardo Moreno
               </h2>
-              <p className="font-sans text-sm font-normal leading-relaxed text-[#000f37] dark:text-[#BBBECE]">
+              <p className="font-sans text-base font-normal leading-relaxed text-[#000f37] dark:text-[#BBBECE]">
                 Estudiante de teología en TBDI, premilenialista, pretribulacionista,
                 amante de la profecía bíblica y seguidor de Jesús. Escribo sobre los
                 66 libros de la Biblia, las falsas doctrinas y el gnosticismo en el
@@ -145,7 +145,7 @@ function NewsletterPage() {
               {reviews.map((review, idx) => (
                   <div
                     key={idx}
-                    className="break-inside-avoid space-y-3 rounded-2xl border-none bg-muted p-5 shadow-none dark:bg-[#232232]"
+                    className="break-inside-avoid space-y-3 rounded-lg border-none bg-muted p-5 shadow-none dark:bg-[#232232]"
                   >
                   <div className="flex gap-0.5">
                     {Array.from({ length: 5 }).map((_, i) => (
