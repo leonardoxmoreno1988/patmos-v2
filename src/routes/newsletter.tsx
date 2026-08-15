@@ -135,7 +135,7 @@ function NewsletterPage() {
                 e.preventDefault();
                 if (email.trim()) setSent(true);
               }}
-              className="mx-auto mt-8 flex max-w-md flex-col gap-2 rounded-2xl border border-neutral-200/50 bg-neutral-100 p-1.5 shadow-sm transition-shadow hover:shadow-md dark:border-neutral-700 dark:bg-neutral-800 sm:flex-row"
+              className="mx-auto mt-8 flex max-w-md flex-col gap-2 rounded-2xl border border-neutral-900 bg-background p-1.5 dark:border-neutral-400 sm:flex-row"
             >
               <input
                 type="email"
@@ -173,9 +173,6 @@ function NewsletterPage() {
               <h2 className="text-xl font-bold text-neutral-900 dark:text-neutral-100">
                 Leonardo Moreno
               </h2>
-              <span className="-mt-0.5 mb-2 block text-xs font-medium text-neutral-400">
-                Estudiante de Teología & Divulgador
-              </span>
               <p className="text-sm leading-relaxed text-neutral-600 dark:text-neutral-300">
                 Estudiante de teología en TBDI, premilenialista, pretribulacionista,
                 amante de la profecía bíblica y seguidor de Jesús. Escribo sobre los
@@ -193,7 +190,7 @@ function NewsletterPage() {
               {reviews.map((review, idx) => (
                   <div
                     key={idx}
-                    className="break-inside-avoid space-y-3 rounded-2xl bg-neutral-100/80 p-5 dark:bg-neutral-800/50"
+                    className="break-inside-avoid space-y-3 rounded-2xl border-none bg-neutral-200/60 p-5 shadow-none dark:bg-neutral-800"
                   >
                   <div className="flex gap-0.5">
                     {Array.from({ length: 5 }).map((_, i) => (
