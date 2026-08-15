@@ -91,6 +91,9 @@ function Reader() {
   const navigate = useNavigate({ from: Route.fullPath });
   const [query, setQuery] = useState("");
   const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
+  const [history, setHistory] = useState<{ book: string; chapter: number; verse: number }[]>([]);
+  const [flashVerse, setFlashVerse] = useState<number | null>(null);
+  const pendingVerse = useRef<number | null>(null);
 
   const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
   const bookId = book.bookid;
@@ -110,11 +113,27 @@ function Reader() {
 
   const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
 
+  useEffect(() => {
+    const target = pendingVerse.current;
+    if (target === null || verses.length === 0) return;
+    pendingVerse.current = null;
+    const el = document.getElementById(`verse-${target}`);
+    if (!el) return;
+    el.scrollIntoView({ behavior: "smooth", block: "center" });
+    setFlashVerse(target);
+    const t = setTimeout(() => setFlashVerse(null), 2000);
+    return () => clearTimeout(t);
+  }, [verses, libro, cap]);
+
   const renderNotes = (bare = false) =>
     studyNotes.isPending ? (
       <NotesSkeleton />
     ) : studyNotes.data?.[noteKey(book.name, chapter)] ? (
-      <StudyNoteCard html={studyNotes.data[noteKey(book.name, chapter)]!} bare={bare} />
+      <StudyNoteCard
+        html={studyNotes.data[noteKey(book.name, chapter)]!}
+        bare={bare}
+        onRefClick={goToReference}
+      />
     ) : (
       <p className="py-4 text-sm italic text-muted-foreground/70">
         No hay comentario registrado para este capítulo.
@@ -130,6 +149,31 @@ function Reader() {
     void navigate({ search: { libro: target.name, cap: nextChapter } });
     if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
   };
+
+  const goToVerse = (bookName: string, nextChapter: number, verse: number) => {
+    setQuery("");
+    setSelectedVerse(null);
+    pendingVerse.current = verse;
+    void navigate({ search: { libro: bookName, cap: nextChapter } });
+  };
+
+  const goToReference = (ref: { book: string; chapter: number; verse: number }) => {
+    if (!BOOKS.some((b) => b.name === ref.book)) return;
+    setHistory((h) => [
+      ...h,
+      { book: book.name, chapter, verse: selectedVerse ?? 1 },
+    ]);
+    goToVerse(ref.book, ref.chapter, ref.verse);
+  };
+
+  const goBack = () => {
+    const last = history[history.length - 1];
+    if (!last) return;
+    setHistory((h) => h.slice(0, -1));
+    goToVerse(last.book, last.chapter, last.verse);
+  };
+
+  const lastOrigin = history[history.length - 1];
 
   const prev = () => {
     if (chapter > 1) return goTo(bookId, chapter - 1);
