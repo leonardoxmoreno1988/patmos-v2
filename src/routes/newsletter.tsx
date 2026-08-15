@@ -167,7 +167,7 @@ function NewsletterPage() {
             <img
               src={profileAsset.url}
               alt="Leonardo Moreno"
-              className="h-24 w-24 shrink-0 rounded-3xl object-cover shadow-sm sm:h-28 sm:w-28"
+              className="h-32 w-32 shrink-0 rounded-[2rem] object-cover"
             />
             <div className="text-center sm:text-left">
               <h2 className="text-xl font-bold text-neutral-900 dark:text-neutral-100">
@@ -191,10 +191,10 @@ function NewsletterPage() {
             </h3>
             <div className="columns-1 gap-4 space-y-4 md:columns-2">
               {reviews.map((review, idx) => (
-                <div
-                  key={idx}
-                  className="break-inside-avoid space-y-3 rounded-2xl border border-neutral-200/80 bg-white p-5 shadow-sm dark:border-neutral-800 dark:bg-neutral-900"
-                >
+                  <div
+                    key={idx}
+                    className="break-inside-avoid space-y-3 rounded-2xl bg-neutral-100/80 p-5 dark:bg-neutral-800/50"
+                  >
                   <div className="flex gap-0.5">
                     {Array.from({ length: 5 }).map((_, i) => (
                       <Star
