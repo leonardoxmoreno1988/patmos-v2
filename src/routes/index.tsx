@@ -260,6 +260,16 @@ function Reader() {
               onSelect={(v) => goTo(bookId, v)}
               columns={5}
             />
+            {lastOrigin ? (
+              <button
+                type="button"
+                onClick={goBack}
+                className="ml-2 inline-flex cursor-pointer items-center gap-1.5 text-xs font-medium text-neutral-400 transition-colors hover:text-white"
+              >
+                <ArrowLeft className="h-3.5 w-3.5" />
+                Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
+              </button>
+            ) : null}
           </div>
 
           <div className="flex shrink-0 items-center gap-3">
@@ -285,16 +295,6 @@ function Reader() {
 
       <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
           <article className="lg:col-span-7">
-            {lastOrigin ? (
-              <button
-                type="button"
-                onClick={goBack}
-                className="animate-fade-in mb-4 inline-flex cursor-pointer items-center gap-1.5 rounded-full bg-primary px-3 py-1.5 text-xs font-medium text-primary-foreground shadow-md transition-opacity hover:opacity-90"
-              >
-                <ArrowLeft className="h-3.5 w-3.5" />
-                Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
-              </button>
-            ) : null}
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
             </p>
@@ -315,7 +315,7 @@ function Reader() {
                   Ningún versículo de este capítulo contiene «{query}».
                 </p>
               ) : (
-                <div className="space-y-5 font-sans text-[1.0625rem] leading-[1.95] tracking-[-0.01em] text-foreground sm:text-lg">
+                <div className="space-y-3.5 font-sans text-[1.0625rem] leading-[1.95] tracking-[-0.01em] text-foreground sm:text-lg">
                   {filteredVerses.map((v) => (
                     <VerseText
                       key={v.verse}
