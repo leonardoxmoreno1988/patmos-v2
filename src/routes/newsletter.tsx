@@ -135,7 +135,7 @@ function NewsletterPage() {
                 e.preventDefault();
                 if (email.trim()) setSent(true);
               }}
-              className="mx-auto mt-8 flex max-w-md flex-col gap-2 rounded-2xl border border-neutral-200 bg-neutral-100 p-1.5 shadow-sm transition-shadow hover:shadow-md dark:border-neutral-700 dark:bg-neutral-800 sm:flex-row"
+              className="mx-auto mt-8 flex max-w-md flex-col gap-2 rounded-2xl border border-neutral-200/50 bg-neutral-100 p-1.5 shadow-sm transition-shadow hover:shadow-md dark:border-neutral-700 dark:bg-neutral-800 sm:flex-row"
             >
               <input
                 type="email"
