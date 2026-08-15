@@ -10,7 +10,7 @@ export function StudyNoteCard({
 }) {
   return (
     <div
-      className="study-note font-sans text-base leading-relaxed text-foreground/80"
+      className="study-note font-sans text-base leading-relaxed text-[#000f37] dark:text-foreground/80"
       onClick={(e) => {
         const ref = readRefFromEvent(e.target);
         if (ref && onRefClick) {
