@@ -122,10 +122,10 @@ function NewsletterPage() {
       <main className="mx-auto max-w-3xl px-4 py-12">
         <section className="space-y-16">
           <div className="space-y-4 text-center">
-            <h1 className="font-serif text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
+            <h1 className="font-sans text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
               Una exploración de la profecía bíblica y el cristianismo actual
             </h1>
-            <p className="mx-auto mt-4 max-w-xl font-sans text-base text-muted-foreground sm:text-lg">
+            <p className="mx-auto mt-4 max-w-xl font-sans text-base font-normal text-muted-foreground sm:text-lg">
               Un informe sobre propaganda anticristiana y otros engaños
               relevantes. Suscríbete aquí:
             </p>
@@ -143,11 +143,11 @@ function NewsletterPage() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder="tu@email.com"
-                className="w-full bg-transparent px-4 py-3 font-sans text-sm text-foreground outline-none placeholder:text-muted-foreground"
+                className="w-full bg-transparent px-4 py-3 font-sans text-sm font-normal text-foreground outline-none placeholder:text-muted-foreground"
               />
               <button
                 type="submit"
-                className="whitespace-nowrap rounded-xl bg-primary px-6 py-3 font-sans text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90 sm:rounded-full"
+                className="whitespace-nowrap rounded-xl bg-primary px-6 py-3 font-sans text-sm font-bold text-primary-foreground transition-opacity hover:opacity-90 sm:rounded-full"
               >
                 {sent ? "¡Gracias!" : "Suscribirme"}
               </button>
@@ -162,10 +162,10 @@ function NewsletterPage() {
               className="h-32 w-32 shrink-0 rounded-[2rem] object-cover"
             />
             <div className="text-center sm:text-left">
-              <h2 className="font-serif text-xl font-bold text-foreground dark:text-white">
+              <h2 className="font-sans text-xl font-bold text-foreground dark:text-white">
                 Leonardo Moreno
               </h2>
-              <p className="font-sans text-sm leading-relaxed text-muted-foreground">
+              <p className="font-sans text-sm font-normal leading-relaxed text-muted-foreground">
                 Estudiante de teología en TBDI, premilenialista, pretribulacionista,
                 amante de la profecía bíblica y seguidor de Jesús. Escribo sobre los
                 66 libros de la Biblia, las falsas doctrinas y el gnosticismo en el
@@ -175,7 +175,7 @@ function NewsletterPage() {
           </div>
 
           <div>
-            <h3 className="mb-8 text-center font-serif text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+            <h3 className="mb-8 text-center font-sans text-xs font-bold uppercase tracking-widest text-muted-foreground">
               Reseñas ({reviews.length})
             </h3>
             <div className="columns-1 gap-4 space-y-4 md:columns-2">
@@ -194,10 +194,10 @@ function NewsletterPage() {
                       />
                     ))}
                   </div>
-                  <p className="font-sans text-sm leading-relaxed text-foreground/80">
+                  <p className="font-sans text-sm font-normal leading-relaxed text-foreground/80">
                     “{review.text}”
                   </p>
-                  <p className="font-sans text-xs font-medium text-muted-foreground">
+                  <p className="font-sans text-xs font-normal text-muted-foreground">
                     — {review.author}
                   </p>
                 </div>

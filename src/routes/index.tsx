@@ -230,7 +230,7 @@ function Reader() {
           <div className="flex items-center gap-2">
             <Link
               to="/newsletter"
-              className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground dark:hover:text-white"
+              className="text-sm font-medium text-[#000f37] transition-colors hover:text-foreground dark:text-muted-foreground dark:hover:text-white"
             >
               Newsletter
             </Link>
