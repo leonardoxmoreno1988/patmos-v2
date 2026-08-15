@@ -127,12 +127,13 @@ function NewsletterPage() {
               <h2 className="font-sans text-xl font-bold text-foreground dark:text-white">
                 Leonardo Moreno
               </h2>
-              <p className="font-sans text-sm font-normal leading-relaxed text-muted-foreground">
+              <p className="font-sans text-sm font-normal leading-relaxed text-[#000f37] dark:text-[#e2e8f0]">
                 Estudiante de teología en TBDI, premilenialista, pretribulacionista,
                 amante de la profecía bíblica y seguidor de Jesús. Escribo sobre los
                 66 libros de la Biblia, las falsas doctrinas y el gnosticismo en el
                 cine.
               </p>
+
             </div>
           </div>
 
