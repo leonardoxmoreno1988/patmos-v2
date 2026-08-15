@@ -1,7 +1,7 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { BookOpen, ChevronLeft, ChevronRight, Search } from "lucide-react";
+import { ArrowLeft, BookOpen, ChevronLeft, ChevronRight, Search } from "lucide-react";
 
 import { BOOKS, bookQuery, TRANSLATION, type Verse } from "@/lib/bible";
 import { Selector } from "@/components/reader/selector";
@@ -46,14 +46,17 @@ export const Route = createFileRoute("/")({
 function VerseText({
   verse,
   selected,
+  flashing,
   onSelect,
 }: {
   verse: Verse;
   selected: boolean;
+  flashing?: boolean;
   onSelect: () => void;
 }) {
   return (
     <span
+      id={`verse-${verse.verse}`}
       role="button"
       tabIndex={0}
       onClick={onSelect}
@@ -63,8 +66,8 @@ function VerseText({
           onSelect();
         }
       }}
-      className={`-mx-2 block cursor-pointer rounded-lg px-2 py-1 transition-colors ${
-        selected ? "bg-verse-highlight" : "hover:bg-accent/50"
+      className={`-mx-2 block scroll-mt-44 cursor-pointer rounded-lg px-2 py-1 transition-colors duration-700 ${
+        selected || flashing ? "bg-verse-highlight" : "hover:bg-accent/50"
       }`}
     >
       <sup className="mr-2 inline-block select-none font-sans text-xs font-medium text-verse-number">
