@@ -301,7 +301,7 @@ function Reader() {
             <h1 className="scripture mt-3 text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
               {book.name} {chapter}
             </h1>
-            <div className="mt-8 h-px w-16 bg-border/70" />
+            <div className="mt-8 h-px w-16 bg-[#000f37]/20 dark:bg-[#7c7b82]/50" />
 
             <div className="mt-8">
               {bookData.isPending ? (
