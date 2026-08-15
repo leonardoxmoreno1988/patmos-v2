@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { createFileRoute, useNavigate } from "@tanstack/react-router";
+import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { BookOpen, ChevronLeft, ChevronRight, Search } from "lucide-react";
 
@@ -170,7 +170,15 @@ function Reader() {
             </label>
           </div>
 
-          <ThemeToggle />
+          <div className="flex items-center gap-2">
+            <Link
+              to="/newsletter"
+              className="text-sm font-medium text-neutral-600 transition-colors hover:text-neutral-900 dark:text-neutral-300 dark:hover:text-white"
+            >
+              Newsletter
+            </Link>
+            <ThemeToggle />
+          </div>
         </div>
       </header>
 
