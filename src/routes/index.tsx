@@ -197,7 +197,7 @@ function Reader() {
       <SiteHeader />
 
 
-      <div className="sticky top-0 z-30 bg-background/95 py-2 backdrop-blur-md border-b border-neutral-200/50 dark:border-neutral-800/50 sm:top-[56px] sm:py-2 sm:bg-background/70 sm:border-0">
+      <div className="sticky top-0 z-30 bg-background/95 py-2 backdrop-blur-md border-y border-[#000f37]/15 dark:border-[#7c7b82]/30 sm:top-[64px] lg:top-[68px] sm:py-2 sm:bg-background/70">
         <nav className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-6 sm:flex-nowrap sm:gap-4">
           <div className="flex w-full min-w-0 items-center justify-between gap-3 sm:w-auto sm:justify-start">
             <div className="flex items-center gap-3 sm:gap-4">
@@ -266,7 +266,7 @@ function Reader() {
       </div>
 
       <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-4 sm:pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
-          <article id="bible-text-section" className="scroll-mt-[7rem] lg:col-span-7">
+          <article id="bible-text-section" className="scroll-mt-[8rem] lg:col-span-7">
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
             </p>
@@ -311,7 +311,7 @@ function Reader() {
             {/* <NewsletterCard /> */}
           </article>
 
-        <section id="study-notes-section" className="scroll-mt-[7rem] lg:hidden">
+        <section id="study-notes-section" className="scroll-mt-[8rem] lg:hidden">
           <div className="mt-10 w-full border-t border-[#000f37] pt-8 dark:border-[#7c7b82]" />
           <h2 className="mb-3 font-serif text-lg font-bold text-foreground lg:text-[20px]">
             Notas
@@ -327,7 +327,7 @@ function Reader() {
           <EtsyBanner />
         </section>
 
-        <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[7.5rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
+        <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
           <div className="rounded-none border border-[#000f37] bg-transparent p-6 dark:border-[#7c7b82]">
             <h2 className="mb-3 font-serif text-lg font-bold text-foreground lg:text-[20px]">
               Notas
