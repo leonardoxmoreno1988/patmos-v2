@@ -197,7 +197,7 @@ function Reader() {
       <SiteHeader />
 
 
-      <div className="sticky top-0 z-30 border-t border-[#000f37]/15 bg-background/95 py-2 backdrop-blur-md dark:border-[#7c7b82]/30 sm:top-[64px] sm:bg-background/70 lg:top-[68px]">
+      <div className="sticky top-0 z-30 bg-background/95 py-2 backdrop-blur-md sm:top-[64px] sm:bg-background/70 lg:top-[68px]">
         <nav className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-6 sm:flex-nowrap sm:gap-4">
           <div className="flex w-full min-w-0 items-center justify-between gap-3 sm:w-auto sm:justify-start">
             <div className="flex items-center gap-3 sm:gap-4">
@@ -267,7 +267,7 @@ function Reader() {
 
       <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-4 sm:pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
           <article id="bible-text-section" className="scroll-mt-[8rem] lg:col-span-7">
-            <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
+            <p className="mb-2 text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground sm:mb-3">
               Reina-Valera 1865
             </p>
             <div className="mb-6 flex flex-wrap items-baseline justify-between gap-2">
