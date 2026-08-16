@@ -11,7 +11,6 @@ import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { VerseToolbar } from "@/components/reader/verse-toolbar";
 import { noteKey, studyNotesQuery } from "@/lib/notes";
 import { EtsyBanner } from "@/components/reader/etsy-banner";
-import { NotesDrawer } from "@/components/reader/notes-drawer";
 // import { NewsletterCard } from "@/components/reader/newsletter-card";
 
 
@@ -272,13 +271,22 @@ function Reader() {
       </div>
 
       <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-4 sm:pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
-          <article className="lg:col-span-7">
+          <article id="bible-text-section" className="scroll-mt-24 lg:col-span-7">
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
             </p>
-            <h1 className="scripture mt-3 text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
-              {book.name} {chapter}
-            </h1>
+            <div className="mt-3 flex flex-wrap items-end justify-between gap-3">
+              <h1 className="scripture text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
+                {book.name} {chapter}
+              </h1>
+              <button
+                type="button"
+                onClick={() => scrollToId("study-notes-section")}
+                className="inline-flex items-center whitespace-nowrap rounded-full border border-[#000f37]/20 px-3 py-1.5 font-sans text-xs font-medium text-muted-foreground transition-colors hover:text-foreground dark:border-[#7c7b82]/50 lg:hidden"
+              >
+                Ir a las notas ↓
+              </button>
+            </div>
             <div className="mt-8 h-px w-16 bg-[#000f37]/20 dark:bg-[#7c7b82]/50" />
 
             <div className="mt-8">
@@ -312,20 +320,31 @@ function Reader() {
             {/* <NewsletterCard /> */}
           </article>
 
+        <section
+          id="study-notes-section"
+          className="scroll-mt-24 space-y-6 lg:hidden"
+        >
+          <p className="font-serif text-xl font-bold text-foreground">
+            {book.name} {chapter}
+          </p>
+          {notesContent}
+          <button
+            type="button"
+            onClick={() => scrollToId("bible-text-section")}
+            className="inline-flex items-center whitespace-nowrap rounded-full border border-[#000f37]/20 px-3 py-1.5 font-sans text-xs font-medium text-muted-foreground transition-colors hover:text-foreground dark:border-[#7c7b82]/50"
+          >
+            ↑ Volver al texto
+          </button>
+          <EtsyBanner />
+        </section>
+
         <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto scrollbar-none">
           <div className="rounded-none border border-[#000f37] bg-transparent p-6 dark:border-[#7c7b82]">
-            {notesContent}
+            {renderNotes()}
           </div>
           <EtsyBanner />
         </aside>
       </main>
-
-      <NotesDrawer title={`${book.name} ${chapter}`}>
-        {renderNotes()}
-        <div className="mt-6">
-          <EtsyBanner />
-        </div>
-      </NotesDrawer>
 
       {selectedVerse !== null && selectedVerseData ? (
         <VerseToolbar
