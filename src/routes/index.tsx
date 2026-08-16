@@ -197,7 +197,7 @@ function Reader() {
       <SiteHeader />
 
 
-      <div className="sticky top-0 z-30 bg-background/95 py-2 backdrop-blur-md border-y border-[#000f37]/15 dark:border-[#7c7b82]/30 sm:top-[64px] lg:top-[68px] sm:py-2 sm:bg-background/70">
+      <div className="sticky top-0 z-30 border-t border-[#000f37]/15 bg-background/95 py-2 backdrop-blur-md dark:border-[#7c7b82]/30 sm:top-[64px] sm:bg-background/70 lg:top-[68px]">
         <nav className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-6 sm:flex-nowrap sm:gap-4">
           <div className="flex w-full min-w-0 items-center justify-between gap-3 sm:w-auto sm:justify-start">
             <div className="flex items-center gap-3 sm:gap-4">
@@ -270,7 +270,7 @@ function Reader() {
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
             </p>
-            <div className="flex flex-wrap items-baseline justify-between gap-2">
+            <div className="mb-6 flex flex-wrap items-baseline justify-between gap-2">
               <h1 className="scripture text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
                 {book.name} {chapter}
               </h1>
@@ -282,7 +282,6 @@ function Reader() {
                 Ir a las notas ↓
               </button>
             </div>
-            <div className="mt-8 h-px w-16 bg-[#000f37]/20 dark:bg-[#7c7b82]/50" />
 
             <div className="mt-8">
               {bookData.isPending ? (
