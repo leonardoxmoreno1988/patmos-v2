@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { ArrowLeft, ChevronLeft, ChevronRight } from "lucide-react";
@@ -89,7 +89,6 @@ function VerseText({
 function Reader() {
   const { libro, cap } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
-  const [query, setQuery] = useState("");
   const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
   const [history, setHistory] = useState<{ book: string; chapter: number; verse: number }[]>([]);
   const [flashVerse, setFlashVerse] = useState<number | null>(null);
@@ -104,12 +103,6 @@ function Reader() {
   const chapterCount = chapters.length || 1;
   const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
   const verses = current?.verses ?? [];
-
-  const filteredVerses = useMemo(() => {
-    const q = query.trim().toLowerCase();
-    if (!q) return verses;
-    return verses.filter((v) => v.text.toLowerCase().includes(q));
-  }, [verses, query]);
 
   const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
 
@@ -152,7 +145,6 @@ function Reader() {
   const goTo = (nextBook: number, nextChapter: number) => {
     const target = BOOKS.find((b) => b.bookid === nextBook);
     if (!target) return;
-    setQuery("");
     setSelectedVerse(null);
     void navigate({ search: { libro: target.name, cap: nextChapter } });
     if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
@@ -160,12 +152,10 @@ function Reader() {
 
   const goToVerse = (bookName: string, nextChapter: number, verse: number) => {
     if (bookName === book.name && nextChapter === chapter) {
-      setQuery("");
       setSelectedVerse(null);
       requestAnimationFrame(() => scrollToVerse(verse));
       return;
     }
-    setQuery("");
     setSelectedVerse(null);
     pendingVerse.current = verse;
     void navigate({ search: { libro: bookName, cap: nextChapter } });
@@ -204,7 +194,7 @@ function Reader() {
 
   return (
     <div className="min-h-screen bg-background">
-      <SiteHeader showSearch query={query} setQuery={setQuery} />
+      <SiteHeader />
 
 
       <div className="sticky top-0 z-30 bg-background/95 py-2 backdrop-blur-md border-b border-neutral-200/50 dark:border-neutral-800/50 sm:top-[64px] sm:min-h-[80px] sm:py-4 sm:bg-background/70 sm:border-0">
@@ -301,13 +291,9 @@ function Reader() {
                 <p className="text-sm text-muted-foreground">
                   No pudimos cargar este libro. Revisa tu conexión e inténtalo de nuevo.
                 </p>
-              ) : filteredVerses.length === 0 ? (
-                <p className="text-sm text-muted-foreground">
-                  Ningún versículo de este capítulo contiene «{query}».
-                </p>
               ) : (
                 <div className="space-y-3.5 font-sans tracking-[-0.01em] text-foreground">
-                  {filteredVerses.map((v) => (
+                  {verses.map((v) => (
                     <VerseText
                       key={v.verse}
                       verse={v}
@@ -327,13 +313,10 @@ function Reader() {
 
         <section id="study-notes-section" className="scroll-mt-24 lg:hidden">
           <div className="mt-10 w-full border-t border-[#000f37] pt-8 dark:border-[#7c7b82]" />
-          <p className="mb-1 font-sans text-[11px] font-bold uppercase tracking-widest text-primary/70 dark:text-primary-foreground/70">
-            NOTAS DE ESTUDIO
-          </p>
-          <p className="font-serif text-xl font-bold text-foreground">
-            {book.name} {chapter}
-          </p>
-          <div className="mt-2 space-y-6">{notesContent}</div>
+          <h2 className="mb-4 font-serif text-2xl font-bold text-foreground">
+            Notas
+          </h2>
+          <div className="space-y-6">{notesContent}</div>
           <button
             type="button"
             onClick={() => scrollToId("bible-text-section")}
@@ -346,6 +329,9 @@ function Reader() {
 
         <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[9.5rem] lg:self-start lg:max-h-[calc(100vh-11rem)] lg:overflow-y-auto scrollbar-none">
           <div className="rounded-none border border-[#000f37] bg-transparent p-6 dark:border-[#7c7b82]">
+            <h2 className="mb-4 font-serif text-2xl font-bold text-foreground">
+              Notas
+            </h2>
             {renderNotes()}
           </div>
           <EtsyBanner />
