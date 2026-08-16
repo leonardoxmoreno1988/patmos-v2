@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { ArrowLeft, ChevronLeft, ChevronRight } from "lucide-react";
@@ -89,7 +89,6 @@ function VerseText({
 function Reader() {
   const { libro, cap } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
-  const [query, setQuery] = useState("");
   const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
   const [history, setHistory] = useState<{ book: string; chapter: number; verse: number }[]>([]);
   const [flashVerse, setFlashVerse] = useState<number | null>(null);
@@ -104,12 +103,6 @@ function Reader() {
   const chapterCount = chapters.length || 1;
   const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
   const verses = current?.verses ?? [];
-
-  const filteredVerses = useMemo(() => {
-    const q = query.trim().toLowerCase();
-    if (!q) return verses;
-    return verses.filter((v) => v.text.toLowerCase().includes(q));
-  }, [verses, query]);
 
   const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
 
@@ -152,7 +145,6 @@ function Reader() {
   const goTo = (nextBook: number, nextChapter: number) => {
     const target = BOOKS.find((b) => b.bookid === nextBook);
     if (!target) return;
-    setQuery("");
     setSelectedVerse(null);
     void navigate({ search: { libro: target.name, cap: nextChapter } });
     if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
@@ -160,12 +152,10 @@ function Reader() {
 
   const goToVerse = (bookName: string, nextChapter: number, verse: number) => {
     if (bookName === book.name && nextChapter === chapter) {
-      setQuery("");
       setSelectedVerse(null);
       requestAnimationFrame(() => scrollToVerse(verse));
       return;
     }
-    setQuery("");
     setSelectedVerse(null);
     pendingVerse.current = verse;
     void navigate({ search: { libro: bookName, cap: nextChapter } });
