@@ -325,18 +325,19 @@ function Reader() {
             {/* <NewsletterCard /> */}
           </article>
 
-        <section
-          id="study-notes-section"
-          className="scroll-mt-24 space-y-6 lg:hidden"
-        >
+        <section id="study-notes-section" className="scroll-mt-24 lg:hidden">
+          <div className="mt-10 w-full border-t border-[#000f37] pt-8 dark:border-[#7c7b82]" />
+          <p className="mb-1 font-sans text-[11px] font-bold uppercase tracking-widest text-primary/70 dark:text-primary-foreground/70">
+            NOTAS DE ESTUDIO
+          </p>
           <p className="font-serif text-xl font-bold text-foreground">
             {book.name} {chapter}
           </p>
-          {notesContent}
+          <div className="mt-2 space-y-6">{notesContent}</div>
           <button
             type="button"
             onClick={() => scrollToId("bible-text-section")}
-            className="inline-flex items-center whitespace-nowrap rounded-full border border-[#000f37]/20 px-3 py-1.5 font-sans text-xs font-medium text-muted-foreground transition-colors hover:text-foreground dark:border-[#7c7b82]/50"
+            className="my-6 inline-flex items-center whitespace-nowrap rounded-full border border-[#000f37]/20 px-3 py-1.5 font-sans text-xs font-medium text-muted-foreground transition-colors hover:text-foreground dark:border-[#7c7b82]/50"
           >
             ↑ Volver al texto
           </button>
