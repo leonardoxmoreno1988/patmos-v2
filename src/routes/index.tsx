@@ -270,7 +270,7 @@ function Reader() {
             <p className="text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground">
               Reina-Valera 1865
             </p>
-            <div className="flex flex-wrap items-baseline justify-between gap-2">
+            <div className="mb-6 flex flex-wrap items-baseline justify-between gap-2">
               <h1 className="scripture text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
                 {book.name} {chapter}
               </h1>
@@ -282,7 +282,6 @@ function Reader() {
                 Ir a las notas ↓
               </button>
             </div>
-            <div className="mt-8 h-px w-16 bg-[#000f37]/20 dark:bg-[#7c7b82]/50" />
 
             <div className="mt-8">
               {bookData.isPending ? (
