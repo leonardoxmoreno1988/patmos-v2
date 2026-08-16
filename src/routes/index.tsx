@@ -116,12 +116,15 @@ function Reader() {
   const scrollToVerse = (verse: number) => {
     if (typeof window === "undefined") return;
     const el = document.getElementById(`verse-${verse}`);
-    if (typeof window === "undefined") return;
-    const el = document.getElementById(`verse-${verse}`);
     if (!el) return;
     el.scrollIntoView({ behavior: "smooth", block: "center" });
     setFlashVerse(verse);
     window.setTimeout(() => setFlashVerse(null), 2000);
+  };
+
+  const scrollToId = (id: string) => {
+    if (typeof window === "undefined") return;
+    document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
   };
 
   useEffect(() => {
