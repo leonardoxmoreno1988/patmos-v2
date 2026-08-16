@@ -197,7 +197,7 @@ function Reader() {
       <SiteHeader />
 
 
-      <div className="sticky top-0 z-30 bg-background/95 py-2 backdrop-blur-md border-y border-[#000f37]/15 dark:border-[#7c7b82]/30 sm:top-[64px] lg:top-[68px] sm:py-2 sm:bg-background/70">
+      <div className="sticky top-0 z-30 border-t border-[#000f37]/15 bg-background/95 py-2 backdrop-blur-md dark:border-[#7c7b82]/30 sm:top-[64px] sm:bg-background/70 lg:top-[68px]">
         <nav className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-6 sm:flex-nowrap sm:gap-4">
           <div className="flex w-full min-w-0 items-center justify-between gap-3 sm:w-auto sm:justify-start">
             <div className="flex items-center gap-3 sm:gap-4">
