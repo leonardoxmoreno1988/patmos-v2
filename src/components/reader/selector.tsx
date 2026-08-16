@@ -42,7 +42,7 @@ export function Selector({
       <PopoverTrigger asChild>
         <button
           type="button"
-          className="flex h-11 shrink-0 max-w-[120px] items-center gap-2 rounded-full border border-border/70 bg-surface/90 px-3 py-2.5 text-sm font-medium text-foreground shadow-[var(--shadow-soft)] backdrop-blur-md transition-colors hover:bg-accent sm:max-w-none sm:px-5"
+          className="flex h-11 shrink-0 max-w-[120px] items-center gap-2 rounded-full border border-[#000f37]/30 bg-transparent px-3 py-2.5 text-sm font-medium text-[#000f37] shadow-none transition-colors hover:bg-accent sm:max-w-none sm:px-5 dark:border-[#7c7b82]/60 dark:bg-transparent dark:text-white"
         >
           <span className="hidden text-xs font-normal uppercase tracking-wide text-muted-foreground sm:inline">
             {label}
