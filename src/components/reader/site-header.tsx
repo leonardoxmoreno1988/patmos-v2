@@ -11,8 +11,8 @@ export function SiteHeader({
   rightLink = { to: "/newsletter", label: "Newsletter" },
 }: SiteHeaderProps) {
   return (
-    <header className="relative z-30 border-b border-border/50 bg-background/80 backdrop-blur-xl sm:sticky sm:top-0">
-      <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-2">
+    <header className="relative z-30 border-b border-border/50 bg-background/80 backdrop-blur-xl sm:sticky sm:top-0 sm:h-[56px] sm:items-center">
+      <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-2 sm:py-0">
         <div className="flex min-w-0 items-center gap-2.5">
           <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground">
             <BookOpen className="h-[18px] w-[18px]" />
