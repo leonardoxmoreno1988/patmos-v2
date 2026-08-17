@@ -6,7 +6,7 @@ export function StudyNoteCard({
 }: {
   html: string;
   bare?: boolean;
-  onRefClick?: (ref: ScriptureRef) => void;
+  onRefClick?: (ref: ScriptureRef & { originId?: string }) => void;
 }) {
   return (
     <div
