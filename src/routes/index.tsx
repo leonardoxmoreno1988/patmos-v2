@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { ArrowLeft, ChevronLeft, ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
 
 import { BOOKS, bookQuery, TRANSLATION, type Verse } from "@/lib/bible";
 import { Selector } from "@/components/reader/selector";
@@ -90,9 +90,12 @@ function Reader() {
   const { libro, cap } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
   const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
-  const [history, setHistory] = useState<{ book: string; chapter: number; verse: number }[]>([]);
+  const [history, setHistory] = useState<
+    { book: string; chapter: number; verse: number; originId?: string }[]
+  >([]);
   const [flashVerse, setFlashVerse] = useState<number | null>(null);
   const pendingVerse = useRef<number | null>(null);
+  const pendingElId = useRef<string | null>(null);
 
   const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
   const bookId = book.bookid;
@@ -129,6 +132,19 @@ function Reader() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [verses, libro, cap]);
 
+  useEffect(() => {
+    const id = pendingElId.current;
+    if (!id || typeof window === "undefined") return;
+    const t = window.setTimeout(() => {
+      const el = document.getElementById(id);
+      if (!el) return;
+      pendingElId.current = null;
+      el.scrollIntoView({ behavior: "smooth", block: "center" });
+    }, 80);
+    return () => window.clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [libro, cap, studyNotes.data, verses]);
+
   const renderNotes = () =>
     studyNotes.isPending ? (
       <NotesSkeleton />
@@ -161,11 +177,21 @@ function Reader() {
     void navigate({ search: { libro: bookName, cap: nextChapter } });
   };
 
-  const goToReference = (ref: { book: string; chapter: number; verse: number }) => {
+  const goToReference = (ref: {
+    book: string;
+    chapter: number;
+    verse: number;
+    originId?: string;
+  }) => {
     if (!BOOKS.some((b) => b.name === ref.book)) return;
     setHistory((h) => [
       ...h,
-      { book: book.name, chapter, verse: selectedVerse ?? 1 },
+      {
+        book: book.name,
+        chapter,
+        verse: selectedVerse ?? 1,
+        ...(ref.originId ? { originId: ref.originId } : {}),
+      },
     ]);
     goToVerse(ref.book, ref.chapter, ref.verse);
   };
@@ -174,6 +200,19 @@ function Reader() {
     const last = history[history.length - 1];
     if (!last) return;
     setHistory((h) => h.slice(0, -1));
+    if (last.originId) {
+      setSelectedVerse(null);
+      if (last.book === book.name && last.chapter === chapter) {
+        const el = document.getElementById(last.originId);
+        if (el) {
+          el.scrollIntoView({ behavior: "smooth", block: "center" });
+          return;
+        }
+      }
+      pendingElId.current = last.originId;
+      void navigate({ search: { libro: last.book, cap: last.chapter } });
+      return;
+    }
     goToVerse(last.book, last.chapter, last.verse);
   };
 
@@ -222,10 +261,9 @@ function Reader() {
                 <button
                   type="button"
                   onClick={goBack}
-                  className="ml-2 hidden cursor-pointer items-center gap-1.5 whitespace-nowrap text-xs font-medium text-neutral-400 transition-colors hover:text-white sm:inline-flex"
+                  className="ml-2 hidden cursor-pointer whitespace-nowrap font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:inline"
                 >
-                  <ArrowLeft className="h-3.5 w-3.5" />
-                  Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
+                  Volver
                 </button>
               ) : null}
             </div>
@@ -254,12 +292,9 @@ function Reader() {
             <button
               type="button"
               onClick={goBack}
-              className="inline-flex w-full items-center justify-between whitespace-nowrap rounded-lg bg-neutral-100 px-3 py-1.5 text-xs font-medium text-neutral-600 transition-colors hover:bg-neutral-200 mt-2 dark:bg-neutral-800/80 dark:text-neutral-300 sm:hidden"
+              className="mt-2 inline-block cursor-pointer whitespace-nowrap font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:hidden"
             >
-              <span className="inline-flex items-center gap-1.5">
-                <ArrowLeft className="h-3.5 w-3.5" />
-                Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
-              </span>
+              Volver
             </button>
           ) : null}
         </nav>
@@ -277,7 +312,7 @@ function Reader() {
               <button
                 type="button"
                 onClick={() => scrollToId("study-notes-section")}
-                className="cursor-pointer font-sans text-xs font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 lg:hidden"
+                className="cursor-pointer font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 lg:hidden"
               >
                 Ir a las notas
               </button>
