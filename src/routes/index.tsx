@@ -277,9 +277,9 @@ function Reader() {
               <button
                 type="button"
                 onClick={() => scrollToId("study-notes-section")}
-                className="inline-flex items-center whitespace-nowrap rounded-full border border-[#000f37]/20 px-3 py-1.5 font-sans text-xs font-medium text-muted-foreground transition-colors hover:text-foreground dark:border-[#7c7b82]/50 lg:hidden"
+                className="cursor-pointer font-sans text-xs font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 lg:hidden"
               >
-                Ir a las notas ↓
+                Ir a las notas
               </button>
             </div>
 
@@ -316,13 +316,6 @@ function Reader() {
             Notas
           </h2>
           <div className="space-y-6">{notesContent}</div>
-          <button
-            type="button"
-            onClick={() => scrollToId("bible-text-section")}
-            className="my-6 inline-flex items-center whitespace-nowrap rounded-full border border-[#000f37]/20 px-3 py-1.5 font-sans text-xs font-medium text-muted-foreground transition-colors hover:text-foreground dark:border-[#7c7b82]/50"
-          >
-            ↑ Volver al texto
-          </button>
           <EtsyBanner />
         </section>
 
