@@ -20,24 +20,28 @@ const LINK_CLASS =
 
 /** Wraps scripture references inside a sanitized HTML string with clickable anchors. */
 export function linkifyScriptureRefs(html: string): string {
+  let n = 0;
   return html
     .split(/(<[^>]*>)/g)
     .map((part) => {
       if (part.startsWith("<")) return part;
       return part.replace(REF_RE, (match, pre, book, chapter, verse, range) => {
         const label = `${book} ${chapter}:${verse}${range ? range.replace(/\s/g, "") : ""}`;
-        return `${pre}<a role="button" tabindex="0" class="${LINK_CLASS}" data-ref-book="${book}" data-ref-chapter="${chapter}" data-ref-verse="${verse}">${label}</a>`;
+        const id = `ref-link-${n++}`;
+        return `${pre}<a id="${id}" role="button" tabindex="0" class="${LINK_CLASS}" data-ref-book="${book}" data-ref-chapter="${chapter}" data-ref-verse="${verse}">${label}</a>`;
       });
     })
     .join("");
 }
 
-export function readRefFromEvent(target: EventTarget | null): ScriptureRef | null {
+export function readRefFromEvent(
+  target: EventTarget | null,
+): (ScriptureRef & { originId?: string }) | null {
   const el = (target as HTMLElement | null)?.closest?.("[data-ref-book]") as HTMLElement | null;
   if (!el) return null;
   const book = el.dataset["refBook"];
   const chapter = Number(el.dataset["refChapter"]);
   const verse = Number(el.dataset["refVerse"]);
   if (!book || !Number.isFinite(chapter) || !Number.isFinite(verse)) return null;
-  return { book, chapter, verse };
+  return { book, chapter, verse, ...(el.id ? { originId: el.id } : {}) };
 }
