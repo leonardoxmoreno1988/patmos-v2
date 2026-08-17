@@ -261,10 +261,9 @@ function Reader() {
                 <button
                   type="button"
                   onClick={goBack}
-                  className="ml-2 hidden cursor-pointer items-center gap-1.5 whitespace-nowrap text-xs font-medium text-neutral-400 transition-colors hover:text-white sm:inline-flex"
+                  className="ml-2 hidden cursor-pointer whitespace-nowrap font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:inline"
                 >
-                  <ArrowLeft className="h-3.5 w-3.5" />
-                  Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
+                  Volver
                 </button>
               ) : null}
             </div>
@@ -293,12 +292,9 @@ function Reader() {
             <button
               type="button"
               onClick={goBack}
-              className="inline-flex w-full items-center justify-between whitespace-nowrap rounded-lg bg-neutral-100 px-3 py-1.5 text-xs font-medium text-neutral-600 transition-colors hover:bg-neutral-200 mt-2 dark:bg-neutral-800/80 dark:text-neutral-300 sm:hidden"
+              className="mt-2 inline-block cursor-pointer whitespace-nowrap font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:hidden"
             >
-              <span className="inline-flex items-center gap-1.5">
-                <ArrowLeft className="h-3.5 w-3.5" />
-                Volver a {lastOrigin.book} {lastOrigin.chapter}:{lastOrigin.verse}
-              </span>
+              Volver
             </button>
           ) : null}
         </nav>
@@ -316,7 +312,7 @@ function Reader() {
               <button
                 type="button"
                 onClick={() => scrollToId("study-notes-section")}
-                className="cursor-pointer font-sans text-xs font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 lg:hidden"
+                className="cursor-pointer font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 lg:hidden"
               >
                 Ir a las notas
               </button>
