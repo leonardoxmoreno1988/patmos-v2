@@ -90,9 +90,12 @@ function Reader() {
   const { libro, cap } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
   const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
-  const [history, setHistory] = useState<{ book: string; chapter: number; verse: number }[]>([]);
+  const [history, setHistory] = useState<
+    { book: string; chapter: number; verse: number; originId?: string }[]
+  >([]);
   const [flashVerse, setFlashVerse] = useState<number | null>(null);
   const pendingVerse = useRef<number | null>(null);
+  const pendingElId = useRef<string | null>(null);
 
   const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
   const bookId = book.bookid;
@@ -129,6 +132,19 @@ function Reader() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [verses, libro, cap]);
 
+  useEffect(() => {
+    const id = pendingElId.current;
+    if (!id || typeof window === "undefined") return;
+    const t = window.setTimeout(() => {
+      const el = document.getElementById(id);
+      if (!el) return;
+      pendingElId.current = null;
+      el.scrollIntoView({ behavior: "smooth", block: "center" });
+    }, 80);
+    return () => window.clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [libro, cap, studyNotes.data, verses]);
+
   const renderNotes = () =>
     studyNotes.isPending ? (
       <NotesSkeleton />
@@ -161,11 +177,21 @@ function Reader() {
     void navigate({ search: { libro: bookName, cap: nextChapter } });
   };
 
-  const goToReference = (ref: { book: string; chapter: number; verse: number }) => {
+  const goToReference = (ref: {
+    book: string;
+    chapter: number;
+    verse: number;
+    originId?: string;
+  }) => {
     if (!BOOKS.some((b) => b.name === ref.book)) return;
     setHistory((h) => [
       ...h,
-      { book: book.name, chapter, verse: selectedVerse ?? 1 },
+      {
+        book: book.name,
+        chapter,
+        verse: selectedVerse ?? 1,
+        ...(ref.originId ? { originId: ref.originId } : {}),
+      },
     ]);
     goToVerse(ref.book, ref.chapter, ref.verse);
   };
@@ -174,6 +200,19 @@ function Reader() {
     const last = history[history.length - 1];
     if (!last) return;
     setHistory((h) => h.slice(0, -1));
+    if (last.originId) {
+      setSelectedVerse(null);
+      if (last.book === book.name && last.chapter === chapter) {
+        const el = document.getElementById(last.originId);
+        if (el) {
+          el.scrollIntoView({ behavior: "smooth", block: "center" });
+          return;
+        }
+      }
+      pendingElId.current = last.originId;
+      void navigate({ search: { libro: last.book, cap: last.chapter } });
+      return;
+    }
     goToVerse(last.book, last.chapter, last.verse);
   };
 
