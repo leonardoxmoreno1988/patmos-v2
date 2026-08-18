@@ -8,7 +8,6 @@ import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
-import { VerseToolbar } from "@/components/reader/verse-toolbar";
 import { noteKey, studyNotesQuery } from "@/lib/notes";
 import { EtsyBanner } from "@/components/reader/etsy-banner";
 // import { NewsletterCard } from "@/components/reader/newsletter-card";
@@ -45,29 +44,16 @@ export const Route = createFileRoute("/")({
 
 function VerseText({
   verse,
-  selected,
   flashing,
-  onSelect,
 }: {
   verse: Verse;
-  selected: boolean;
   flashing?: boolean;
-  onSelect: () => void;
 }) {
   return (
     <span
       id={`verse-${verse.verse}`}
-      role="button"
-      tabIndex={0}
-      onClick={onSelect}
-      onKeyDown={(e) => {
-        if (e.key === "Enter" || e.key === " ") {
-          e.preventDefault();
-          onSelect();
-        }
-      }}
       className={`-mx-2 block scroll-mt-44 cursor-pointer rounded-lg px-2 py-1 text-lg leading-relaxed transition-colors duration-700 lg:text-[20px] lg:leading-[1.75] ${
-        selected || flashing ? "bg-verse-highlight" : "hover:bg-accent/50"
+        flashing ? "bg-verse-highlight" : "hover:bg-accent/50"
       }`}
     >
       <sup className="mr-2 inline-block select-none font-sans text-xs font-medium text-verse-number">
@@ -89,7 +75,6 @@ function VerseText({
 function Reader() {
   const { libro, cap } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
-  const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
   const [history, setHistory] = useState<
     { book: string; chapter: number; verse: number; originId?: string }[]
   >([]);
@@ -106,8 +91,6 @@ function Reader() {
   const chapterCount = chapters.length || 1;
   const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
   const verses = current?.verses ?? [];
-
-  const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
 
   const scrollToVerse = (verse: number) => {
     if (typeof window === "undefined") return;
@@ -161,18 +144,15 @@ function Reader() {
   const goTo = (nextBook: number, nextChapter: number) => {
     const target = BOOKS.find((b) => b.bookid === nextBook);
     if (!target) return;
-    setSelectedVerse(null);
     void navigate({ search: { libro: target.name, cap: nextChapter } });
     if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   const goToVerse = (bookName: string, nextChapter: number, verse: number) => {
     if (bookName === book.name && nextChapter === chapter) {
-      setSelectedVerse(null);
       requestAnimationFrame(() => scrollToVerse(verse));
       return;
     }
-    setSelectedVerse(null);
     pendingVerse.current = verse;
     void navigate({ search: { libro: bookName, cap: nextChapter } });
   };
@@ -189,7 +169,7 @@ function Reader() {
       {
         book: book.name,
         chapter,
-        verse: selectedVerse ?? 1,
+        verse: 1,
         ...(ref.originId ? { originId: ref.originId } : {}),
       },
     ]);
@@ -201,7 +181,6 @@ function Reader() {
     if (!last) return;
     setHistory((h) => h.slice(0, -1));
     if (last.originId) {
-      setSelectedVerse(null);
       if (last.book === book.name && last.chapter === chapter) {
         const el = document.getElementById(last.originId);
         if (el) {
@@ -245,7 +224,6 @@ function Reader() {
                 value={bookId}
                 options={BOOKS.map((b) => ({ value: b.bookid, label: b.name }))}
                 onSelect={(v) => goTo(v, 1)}
-                searchable
               />
               <Selector
                 label="Capítulo"
@@ -261,7 +239,7 @@ function Reader() {
                 <button
                   type="button"
                   onClick={goBack}
-                  className="ml-2 hidden cursor-pointer whitespace-nowrap font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:inline"
+                  className="ml-2 hidden cursor-pointer whitespace-nowrap font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:inline"
                 >
                   Volver
                 </button>
@@ -292,7 +270,7 @@ function Reader() {
             <button
               type="button"
               onClick={goBack}
-              className="mt-2 inline-block cursor-pointer whitespace-nowrap font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:hidden"
+              className="mt-2 inline-block cursor-pointer whitespace-nowrap font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:hidden"
             >
               Volver
             </button>
@@ -312,7 +290,7 @@ function Reader() {
               <button
                 type="button"
                 onClick={() => scrollToId("study-notes-section")}
-                className="cursor-pointer font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 lg:hidden"
+                className="cursor-pointer font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 lg:hidden"
               >
                 Ir a las notas
               </button>
@@ -331,11 +309,7 @@ function Reader() {
                     <VerseText
                       key={v.verse}
                       verse={v}
-                      selected={selectedVerse === v.verse}
                       flashing={flashVerse === v.verse}
-                      onSelect={() =>
-                        setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
-                      }
                     />
                   ))}
                 </div>
@@ -365,15 +339,7 @@ function Reader() {
         </aside>
       </main>
 
-      {selectedVerse !== null && selectedVerseData ? (
-        <VerseToolbar
-          reference={`${book.name} ${chapter}:${selectedVerse}`}
-          text={selectedVerseData.text}
-          onClose={() => setSelectedVerse(null)}
-        />
-      ) : null}
-
-      <footer className="mt-20 border-t border-border py-8 text-center font-sans text-xs text-muted-foreground">
+      <footer className="mt-20 border-t-0 border-border py-8 text-center font-sans text-xs text-muted-foreground">
         <div className="mx-auto max-w-7xl px-6">
           © 2026 Notas de Estudio. Todos los derechos reservados.
         </div>
