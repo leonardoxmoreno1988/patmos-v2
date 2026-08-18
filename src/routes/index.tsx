@@ -52,10 +52,11 @@ function VerseText({
   return (
     <span
       id={`verse-${verse.verse}`}
-      className={`-mx-2 block scroll-mt-44 cursor-pointer rounded-lg px-2 py-1 text-lg leading-relaxed transition-colors duration-700 lg:text-[20px] lg:leading-[1.75] ${
-        flashing ? "bg-verse-highlight" : "hover:bg-accent/50"
+      className={`-mx-2 block scroll-mt-44 cursor-text select-text rounded-lg px-2 py-1 text-lg leading-relaxed lg:text-[20px] lg:leading-[1.75] ${
+        flashing ? "bg-verse-highlight" : ""
       }`}
     >
+
       <sup className="mr-2 inline-block select-none font-sans text-xs font-medium text-verse-number">
         {verse.verse}
       </sup>
