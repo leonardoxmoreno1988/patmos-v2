@@ -1,5 +1,4 @@
 import { Link } from "@tanstack/react-router";
-import { BookOpen } from "lucide-react";
 
 import { ThemeToggle } from "./theme-toggle";
 
@@ -13,19 +12,14 @@ export function SiteHeader({
   return (
     <header className="relative z-30 bg-background/80 backdrop-blur-xl sm:sticky sm:top-0">
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-2 sm:py-3.5 lg:py-4">
-        <div className="flex min-w-0 items-center gap-2.5">
-          <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-primary text-primary-foreground">
-            <BookOpen className="h-[18px] w-[18px]" />
+        <Link to="/" search={{ libro: "Génesis", cap: 1 }} className="flex min-w-0 items-center gap-2.5 cursor-pointer">
+          <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-[#000f37] font-serif text-xs font-bold tracking-tighter text-white sm:h-8 sm:w-8 sm:text-sm dark:border dark:border-neutral-700 dark:bg-neutral-800 dark:text-neutral-100">
+            LM
           </span>
-          <span className="flex min-w-0 items-baseline">
-            <span className="min-w-0 truncate text-[15px] font-semibold tracking-tight text-foreground dark:text-white">
-              Notas de Estudio
-            </span>
-            <span className="ml-2 hidden shrink-0 text-xs font-normal text-muted-foreground sm:inline md:text-sm">
-              · por L. Moreno
-            </span>
+          <span className="min-w-0 truncate font-serif text-base font-bold tracking-tight text-foreground sm:text-lg dark:text-white">
+            L. Moreno | Notas
           </span>
-        </div>
+        </Link>
 
         <div className="flex items-center gap-2">
           <Link
@@ -40,4 +34,5 @@ export function SiteHeader({
     </header>
   );
 }
+
 
