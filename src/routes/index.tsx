@@ -144,18 +144,15 @@ function Reader() {
   const goTo = (nextBook: number, nextChapter: number) => {
     const target = BOOKS.find((b) => b.bookid === nextBook);
     if (!target) return;
-    setSelectedVerse(null);
     void navigate({ search: { libro: target.name, cap: nextChapter } });
     if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   const goToVerse = (bookName: string, nextChapter: number, verse: number) => {
     if (bookName === book.name && nextChapter === chapter) {
-      setSelectedVerse(null);
       requestAnimationFrame(() => scrollToVerse(verse));
       return;
     }
-    setSelectedVerse(null);
     pendingVerse.current = verse;
     void navigate({ search: { libro: bookName, cap: nextChapter } });
   };
@@ -172,7 +169,7 @@ function Reader() {
       {
         book: book.name,
         chapter,
-        verse: selectedVerse ?? 1,
+        verse: 1,
         ...(ref.originId ? { originId: ref.originId } : {}),
       },
     ]);
@@ -184,7 +181,6 @@ function Reader() {
     if (!last) return;
     setHistory((h) => h.slice(0, -1));
     if (last.originId) {
-      setSelectedVerse(null);
       if (last.book === book.name && last.chapter === chapter) {
         const el = document.getElementById(last.originId);
         if (el) {
@@ -228,7 +224,6 @@ function Reader() {
                 value={bookId}
                 options={BOOKS.map((b) => ({ value: b.bookid, label: b.name }))}
                 onSelect={(v) => goTo(v, 1)}
-                searchable
               />
               <Selector
                 label="Capítulo"
@@ -244,7 +239,7 @@ function Reader() {
                 <button
                   type="button"
                   onClick={goBack}
-                  className="ml-2 hidden cursor-pointer whitespace-nowrap font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:inline"
+                  className="ml-2 hidden cursor-pointer whitespace-nowrap font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:inline"
                 >
                   Volver
                 </button>
@@ -275,7 +270,7 @@ function Reader() {
             <button
               type="button"
               onClick={goBack}
-              className="mt-2 inline-block cursor-pointer whitespace-nowrap font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:hidden"
+              className="mt-2 inline-block cursor-pointer whitespace-nowrap font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:hidden"
             >
               Volver
             </button>
@@ -295,7 +290,7 @@ function Reader() {
               <button
                 type="button"
                 onClick={() => scrollToId("study-notes-section")}
-                className="cursor-pointer font-sans text-[12px] font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 lg:hidden"
+                className="cursor-pointer font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 lg:hidden"
               >
                 Ir a las notas
               </button>
@@ -314,11 +309,7 @@ function Reader() {
                     <VerseText
                       key={v.verse}
                       verse={v}
-                      selected={selectedVerse === v.verse}
                       flashing={flashVerse === v.verse}
-                      onSelect={() =>
-                        setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
-                      }
                     />
                   ))}
                 </div>
@@ -348,15 +339,7 @@ function Reader() {
         </aside>
       </main>
 
-      {selectedVerse !== null && selectedVerseData ? (
-        <VerseToolbar
-          reference={`${book.name} ${chapter}:${selectedVerse}`}
-          text={selectedVerseData.text}
-          onClose={() => setSelectedVerse(null)}
-        />
-      ) : null}
-
-      <footer className="mt-20 border-t border-border py-8 text-center font-sans text-xs text-muted-foreground">
+      <footer className="mt-20 border-t-0 border-border py-8 text-center font-sans text-xs text-muted-foreground">
         <div className="mx-auto max-w-7xl px-6">
           © 2026 Notas de Estudio. Todos los derechos reservados.
         </div>
