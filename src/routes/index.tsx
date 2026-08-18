@@ -322,7 +322,7 @@ function Reader() {
 
         <section id="study-notes-section" className="scroll-mt-[8rem] lg:hidden">
           <div className="mt-10 w-full border-t border-[#000f37] pt-8 dark:border-[#7c7b82]" />
-          <h2 className="mb-3 font-serif text-lg font-bold text-foreground lg:text-[20px]">
+          <h2 className="mb-3 font-sans text-lg font-bold text-foreground lg:text-[20px]">
             Notas
           </h2>
           <div className="space-y-6">{notesContent}</div>
@@ -331,7 +331,7 @@ function Reader() {
 
         <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
           <div className="rounded-none border border-[#000f37] bg-transparent p-6 dark:border-[#7c7b82]">
-            <h2 className="mb-3 font-serif text-lg font-bold text-foreground lg:text-[20px]">
+            <h2 className="mb-3 font-sans text-lg font-bold text-foreground lg:text-[20px]">
               Notas
             </h2>
             {renderNotes()}
