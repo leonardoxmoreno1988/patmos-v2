@@ -235,12 +235,13 @@ function Reader() {
                 }))}
                 onSelect={(v) => goTo(bookId, v)}
                 columns={5}
+                groupByTestament={false}
               />
               {lastOrigin ? (
                 <button
                   type="button"
                   onClick={goBack}
-                  className="ml-2 hidden cursor-pointer whitespace-nowrap font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:inline"
+                  className="ml-2 hidden cursor-pointer whitespace-nowrap font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] sm:inline"
                 >
                   Volver
                 </button>
@@ -271,7 +272,7 @@ function Reader() {
             <button
               type="button"
               onClick={goBack}
-              className="mt-2 inline-block cursor-pointer whitespace-nowrap font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 sm:hidden"
+              className="mt-2 inline-block cursor-pointer whitespace-nowrap font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] sm:hidden"
             >
               Volver
             </button>
@@ -291,7 +292,7 @@ function Reader() {
               <button
                 type="button"
                 onClick={() => scrollToId("study-notes-section")}
-                className="cursor-pointer font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 transition-opacity hover:opacity-75 dark:text-neutral-200 lg:hidden"
+                className="cursor-pointer font-sans text-sm font-medium text-[#000f37] underline underline-offset-4 decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] lg:hidden"
               >
                 Ir a las notas
               </button>

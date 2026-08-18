@@ -17,12 +17,14 @@ export function Selector({
   options,
   onSelect,
   columns = 1,
+  groupByTestament = true,
 }: {
   label: string;
   value: number;
   options: Option[];
   onSelect: (value: number) => void;
   columns?: number;
+  groupByTestament?: boolean;
 }) {
   const [open, setOpen] = useState(false);
 
@@ -37,36 +39,40 @@ export function Selector({
     [options],
   );
 
+  const renderGrid = (items: Option[]) => (
+    <div
+      className="gap-1"
+      style={{
+        display: "grid",
+        gridTemplateColumns: `repeat(${columns}, minmax(0, 1fr))`,
+      }}
+    >
+      {items.map((o) => (
+        <button
+          key={o.value}
+          type="button"
+          onClick={() => {
+            onSelect(o.value);
+            setOpen(false);
+          }}
+          className={`flex min-h-11 items-center justify-between gap-2 rounded-xl px-3 py-2 text-left text-sm transition-colors hover:bg-accent ${
+            o.value === value ? "bg-accent font-medium" : ""
+          }`}
+        >
+          <span className="truncate">{o.label}</span>
+          {o.value === value && <Check className="h-4 w-4 shrink-0" />}
+        </button>
+      ))}
+    </div>
+  );
+
   const renderGroup = (title: string, items: Option[]) =>
     items.length > 0 ? (
       <div className="space-y-1">
         <p className="sticky top-0 z-10 bg-popover px-3 py-2 text-[11px] font-medium uppercase tracking-wider text-muted-foreground">
           {title}
         </p>
-        <div
-          className="gap-1"
-          style={{
-            display: "grid",
-            gridTemplateColumns: `repeat(${columns}, minmax(0, 1fr))`,
-          }}
-        >
-          {items.map((o) => (
-            <button
-              key={o.value}
-              type="button"
-              onClick={() => {
-                onSelect(o.value);
-                setOpen(false);
-              }}
-              className={`flex min-h-11 items-center justify-between gap-2 rounded-xl px-3 py-2 text-left text-sm transition-colors hover:bg-accent ${
-                o.value === value ? "bg-accent font-medium" : ""
-              }`}
-            >
-              <span className="truncate">{o.label}</span>
-              {o.value === value && <Check className="h-4 w-4 shrink-0" />}
-            </button>
-          ))}
-        </div>
+        {renderGrid(items)}
       </div>
     ) : null;
 
@@ -89,12 +95,18 @@ export function Selector({
         className="w-[min(22rem,calc(100vw-2rem))] rounded-2xl border-border/60 p-2 shadow-[var(--shadow-float)]"
       >
         <div className="max-h-72 space-y-2 overflow-y-auto">
-          {renderGroup("Antiguo Testamento", oldTestament)}
-          {renderGroup("Nuevo Testamento", newTestament)}
-          {oldTestament.length === 0 && newTestament.length === 0 && (
-            <p className="px-3 py-6 text-center text-sm text-muted-foreground">
-              Sin resultados
-            </p>
+          {groupByTestament ? (
+            <>
+              {renderGroup("Antiguo Testamento", oldTestament)}
+              {renderGroup("Nuevo Testamento", newTestament)}
+              {oldTestament.length === 0 && newTestament.length === 0 && (
+                <p className="px-3 py-6 text-center text-sm text-muted-foreground">
+                  Sin resultados
+                </p>
+              )}
+            </>
+          ) : (
+            renderGrid(options)
           )}
         </div>
       </PopoverContent>
