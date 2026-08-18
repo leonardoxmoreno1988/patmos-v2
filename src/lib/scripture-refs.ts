@@ -16,7 +16,7 @@ const REF_RE = new RegExp(
 );
 
 const LINK_CLASS =
-  "text-primary font-medium underline decoration-primary/30 underline-offset-2 hover:decoration-primary cursor-pointer transition-colors";
+  "font-medium underline underline-offset-2 text-[#000f37] decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] cursor-pointer";
 
 /** Wraps scripture references inside a sanitized HTML string with clickable anchors. */
 export function linkifyScriptureRefs(html: string): string {
