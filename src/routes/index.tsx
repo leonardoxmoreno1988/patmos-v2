@@ -8,7 +8,6 @@ import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
-import { VerseToolbar } from "@/components/reader/verse-toolbar";
 import { noteKey, studyNotesQuery } from "@/lib/notes";
 import { EtsyBanner } from "@/components/reader/etsy-banner";
 // import { NewsletterCard } from "@/components/reader/newsletter-card";
@@ -45,29 +44,16 @@ export const Route = createFileRoute("/")({
 
 function VerseText({
   verse,
-  selected,
   flashing,
-  onSelect,
 }: {
   verse: Verse;
-  selected: boolean;
   flashing?: boolean;
-  onSelect: () => void;
 }) {
   return (
     <span
       id={`verse-${verse.verse}`}
-      role="button"
-      tabIndex={0}
-      onClick={onSelect}
-      onKeyDown={(e) => {
-        if (e.key === "Enter" || e.key === " ") {
-          e.preventDefault();
-          onSelect();
-        }
-      }}
       className={`-mx-2 block scroll-mt-44 cursor-pointer rounded-lg px-2 py-1 text-lg leading-relaxed transition-colors duration-700 lg:text-[20px] lg:leading-[1.75] ${
-        selected || flashing ? "bg-verse-highlight" : "hover:bg-accent/50"
+        flashing ? "bg-verse-highlight" : "hover:bg-accent/50"
       }`}
     >
       <sup className="mr-2 inline-block select-none font-sans text-xs font-medium text-verse-number">
@@ -89,7 +75,6 @@ function VerseText({
 function Reader() {
   const { libro, cap } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
-  const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
   const [history, setHistory] = useState<
     { book: string; chapter: number; verse: number; originId?: string }[]
   >([]);
@@ -106,8 +91,6 @@ function Reader() {
   const chapterCount = chapters.length || 1;
   const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
   const verses = current?.verses ?? [];
-
-  const selectedVerseData = verses.find((v) => v.verse === selectedVerse);
 
   const scrollToVerse = (verse: number) => {
     if (typeof window === "undefined") return;
