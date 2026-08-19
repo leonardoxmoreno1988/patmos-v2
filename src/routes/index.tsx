@@ -306,7 +306,7 @@ function Reader() {
                   No pudimos cargar este libro. Revisa tu conexión e inténtalo de nuevo.
                 </p>
               ) : (
-                <div className="space-y-3.5 font-sans tracking-[-0.01em] text-foreground">
+                <div className="space-y-1.5 font-sans tracking-[-0.01em] text-foreground">
                   {verses.map((v) => (
                     <VerseText
                       key={v.verse}
