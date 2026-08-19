@@ -17,8 +17,13 @@ export function SiteHeader({
           <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-[#000f37] text-white sm:h-8 sm:w-8 dark:border-0 dark:bg-white dark:text-[#000f37]">
             <Feather className="h-4 w-4 stroke-[1.75] sm:h-[18px] sm:w-[18px]" />
           </span>
-          <span className="min-w-0 truncate font-sans text-base font-bold tracking-tight text-foreground sm:text-lg dark:text-white">
-            L. Moreno | Notas
+          <span className="flex flex-col justify-center gap-0.5">
+            <span className="font-sans text-base font-bold leading-none tracking-tight text-foreground sm:text-lg">
+              Notas Bíblicas
+            </span>
+            <span className="font-sans text-[11px] font-medium leading-none text-muted-foreground/80 sm:text-xs dark:text-neutral-400">
+              Por Leonardo Moreno
+            </span>
           </span>
         </Link>
 
@@ -35,6 +40,7 @@ export function SiteHeader({
     </header>
   );
 }
+
 
 
 
