@@ -57,7 +57,7 @@ export function Selector({
             onSelect(o.value);
             setOpen(false);
           }}
-          className={`flex min-h-11 items-center justify-between gap-2 rounded-xl px-3 py-2 text-left transition-colors hover:bg-accent ${itemClassName} ${
+          className={`flex min-h-11 items-center justify-between gap-2 rounded-xl px-3 py-2 text-left text-base transition-colors hover:bg-accent sm:text-[17px] ${itemClassName} ${
             o.value === value ? "bg-accent font-semibold" : ""
           }`}
         >
