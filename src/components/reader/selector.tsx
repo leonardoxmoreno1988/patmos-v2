@@ -57,7 +57,7 @@ export function Selector({
             onSelect(o.value);
             setOpen(false);
           }}
-          className={`flex min-h-11 items-center justify-between gap-2 rounded-xl px-3 py-2 text-left text-base transition-colors hover:bg-accent sm:text-[17px] ${itemClassName} ${
+          className={`flex min-h-11 items-center justify-between gap-2 rounded-xl text-left text-[16px] sm:text-[17px] font-medium py-2.5 px-3 transition-colors hover:bg-accent ${itemClassName} ${
             o.value === value ? "bg-accent font-semibold" : ""
           }`}
         >
@@ -71,7 +71,7 @@ export function Selector({
   const renderGroup = (title: string, items: Option[]) =>
     items.length > 0 ? (
       <div className="space-y-1">
-        <p className="sticky top-0 z-10 bg-popover px-3 py-2 text-[11px] font-medium uppercase tracking-wider text-muted-foreground">
+        <p className="sticky top-0 z-10 bg-popover text-[11px] font-bold tracking-wider text-muted-foreground/70 uppercase pt-3 pb-1 px-3">
           {title}
         </p>
         {renderGrid(items)}
