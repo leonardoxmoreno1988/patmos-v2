@@ -17,13 +17,8 @@ export function SiteHeader({
           <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-[#000f37] text-white sm:h-8 sm:w-8 dark:border-0 dark:bg-white dark:text-[#000f37]">
             <BookOpen className="h-4 w-4 stroke-[1.75] sm:h-[18px] sm:w-[18px]" />
           </span>
-          <span className="flex flex-col justify-center gap-0.5">
-            <span className="font-sans text-sm font-bold leading-snug tracking-tight text-foreground sm:text-base">
-              Reina Valera 1865
-            </span>
-            <span className="font-sans text-sm font-bold leading-snug tracking-tight text-foreground sm:text-base">
-              + Notas
-            </span>
+          <span className="font-sans text-base font-bold tracking-tight text-foreground whitespace-nowrap sm:text-lg">
+            RV 1865 + Notas
           </span>
         </Link>
 
