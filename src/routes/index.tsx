@@ -52,7 +52,7 @@ function VerseText({
   return (
     <span
       id={`verse-${verse.verse}`}
-      className={`-mx-2 block scroll-mt-44 cursor-text select-text rounded-lg px-2 py-1 text-[17px] leading-relaxed text-foreground sm:text-[18px] lg:text-[19px] ${
+      className={`-mx-2 block scroll-mt-44 cursor-text select-text rounded-lg px-2 py-1 text-[18px] sm:text-[19px] leading-relaxed text-foreground font-sans ${
         flashing ? "bg-verse-highlight" : ""
       }`}
     >
