@@ -52,7 +52,7 @@ function VerseText({
   return (
     <span
       id={`verse-${verse.verse}`}
-      className={`-mx-2 block scroll-mt-44 cursor-text select-text rounded-lg px-2 py-1 text-lg leading-relaxed lg:text-[20px] lg:leading-[1.75] ${
+      className={`-mx-2 block scroll-mt-44 cursor-text select-text rounded-lg px-2 py-1 text-base leading-relaxed sm:text-lg lg:text-xl ${
         flashing ? "bg-verse-highlight" : ""
       }`}
     >
@@ -236,6 +236,7 @@ function Reader() {
                 onSelect={(v) => goTo(bookId, v)}
                 columns={5}
                 groupByTestament={false}
+                itemClassName="text-base font-medium"
               />
               {lastOrigin ? (
                 <button
@@ -343,7 +344,16 @@ function Reader() {
 
       <footer className="mt-20 border-t-0 border-border py-8 text-center font-sans text-xs text-muted-foreground">
         <div className="mx-auto max-w-7xl px-6">
-          © 2026 Notas de Estudio. Todos los derechos reservados.
+          © 2026 Notas de Estudio por{" "}
+          <a
+            href="https://www.ritualypropaganda.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-medium text-foreground underline underline-offset-2 transition-opacity hover:opacity-80"
+          >
+            Leonardo Moreno
+          </a>
+          . Todos los derechos reservados.
         </div>
       </footer>
     </div>

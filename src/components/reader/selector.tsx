@@ -18,6 +18,7 @@ export function Selector({
   onSelect,
   columns = 1,
   groupByTestament = true,
+  itemClassName = "text-sm sm:text-base",
 }: {
   label: string;
   value: number;
@@ -25,6 +26,7 @@ export function Selector({
   onSelect: (value: number) => void;
   columns?: number;
   groupByTestament?: boolean;
+  itemClassName?: string;
 }) {
   const [open, setOpen] = useState(false);
 
@@ -55,8 +57,8 @@ export function Selector({
             onSelect(o.value);
             setOpen(false);
           }}
-          className={`flex min-h-11 items-center justify-between gap-2 rounded-xl px-3 py-2 text-left text-sm transition-colors hover:bg-accent ${
-            o.value === value ? "bg-accent font-medium" : ""
+          className={`flex min-h-11 items-center justify-between gap-2 rounded-xl px-3 py-2 text-left transition-colors hover:bg-accent ${itemClassName} ${
+            o.value === value ? "bg-accent font-semibold" : ""
           }`}
         >
           <span className="truncate">{o.label}</span>
