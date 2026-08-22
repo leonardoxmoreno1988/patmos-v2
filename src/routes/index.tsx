@@ -1,12 +1,11 @@
 import { useEffect, useRef, useState } from "react";
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
-import { useQuery } from "@tanstack/react-query";
+import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 import { BOOKS, bookQuery, TRANSLATION, type Verse } from "@/lib/bible";
 import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
-import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { canonicalBook } from "@/lib/scripture-refs";
@@ -86,12 +85,14 @@ function Reader() {
   const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
   const bookId = book.bookid;
   const chapter = cap;
-  const bookData = useQuery(bookQuery(bookId));
+  const bookData = useQuery({ ...bookQuery(bookId), placeholderData: keepPreviousData });
   const studyNotes = useQuery(studyNotesQuery);
   const chapters = bookData.data ?? [];
   const chapterCount = chapters.length || 1;
   const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
   const verses = current?.verses ?? [];
+  const loading =
+    bookData.isFetching || bookData.isPlaceholderData || studyNotes.isFetching;
 
   const scrollToVerse = (verse: number) => {
     if (typeof window === "undefined") return;
@@ -130,14 +131,12 @@ function Reader() {
   }, [libro, cap, studyNotes.data, verses]);
 
   const renderNotes = () =>
-    studyNotes.isPending ? (
-      <NotesSkeleton />
-    ) : getNote(studyNotes.data, book.name, chapter) ? (
+    getNote(studyNotes.data, book.name, chapter) ? (
       <StudyNoteCard
         html={getNote(studyNotes.data, book.name, chapter)!}
         onRefClick={goToReference}
       />
-    ) : (
+    ) : studyNotes.isPending ? null : (
       <p className="py-4 text-sm italic text-muted-foreground/70">
         No hay comentario registrado para este capítulo.
       </p>
@@ -213,6 +212,12 @@ function Reader() {
 
   return (
     <div className="min-h-screen bg-background">
+      <div
+        aria-hidden
+        className={`fixed inset-x-0 top-0 z-50 h-[2px] origin-left bg-[#000f37] transition-opacity duration-200 dark:bg-white ${
+          loading ? "opacity-100" : "opacity-0"
+        }`}
+      />
       <SiteHeader />
 
 
@@ -296,10 +301,12 @@ function Reader() {
               </button>
             </div>
 
-            <div className="mt-8">
-              {bookData.isPending ? (
-                <ChapterSkeleton />
-              ) : bookData.isError ? (
+            <div
+              className={`mt-8 transition-opacity duration-200 ${
+                loading ? "pointer-events-none opacity-40" : "opacity-100"
+              }`}
+            >
+              {bookData.isError ? (
                 <p className="text-sm text-muted-foreground">
                   No pudimos cargar este libro. Revisa tu conexión e inténtalo de nuevo.
                 </p>
@@ -323,7 +330,13 @@ function Reader() {
           <h2 className="mb-3 font-sans text-lg font-bold text-foreground lg:text-[20px]">
             Notas
           </h2>
-          <div className="space-y-6">{notesContent}</div>
+          <div
+            className={`space-y-6 transition-opacity duration-200 ${
+              loading ? "pointer-events-none opacity-40" : "opacity-100"
+            }`}
+          >
+            {notesContent}
+          </div>
         </section>
 
         <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
@@ -331,7 +344,13 @@ function Reader() {
             <h2 className="mb-3 font-sans text-lg font-bold text-foreground lg:text-[20px]">
               Notas
             </h2>
-            {renderNotes()}
+            <div
+              className={`transition-opacity duration-200 ${
+                loading ? "pointer-events-none opacity-40" : "opacity-100"
+              }`}
+            >
+              {renderNotes()}
+            </div>
           </div>
         </aside>
       </main>
