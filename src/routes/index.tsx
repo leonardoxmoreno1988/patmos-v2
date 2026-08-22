@@ -283,9 +283,6 @@ function Reader() {
 
       <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-4 sm:pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
           <article id="bible-text-section" className="scroll-mt-[8rem] lg:col-span-7">
-            <p className="mb-2 text-xs font-medium uppercase tracking-[0.18em] text-muted-foreground sm:mb-3">
-              Reina-Valera 1865
-            </p>
             <div className="mb-6 flex flex-wrap items-baseline justify-between gap-2">
               <h1 className="scripture text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
                 {book.name} {chapter}
@@ -332,7 +329,7 @@ function Reader() {
         </section>
 
         <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
-          <div className="rounded-none border border-[#000f37] bg-transparent p-6 dark:border-[#7c7b82]">
+          <div className="h-full border-l border-[#000f37]/15 bg-transparent py-0 pl-6 shadow-none dark:border-[#7c7b82]/30 lg:pl-8">
             <h2 className="mb-3 font-sans text-lg font-bold text-foreground lg:text-[20px]">
               Notas
             </h2>
