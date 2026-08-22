@@ -295,10 +295,12 @@ function Reader() {
               </button>
             </div>
 
-            <div className="mt-8">
-              {bookData.isPending ? (
-                <ChapterSkeleton />
-              ) : bookData.isError ? (
+            <div
+              className={`mt-8 transition-opacity duration-200 ${
+                loading ? "pointer-events-none opacity-40" : "opacity-100"
+              }`}
+            >
+              {bookData.isError ? (
                 <p className="text-sm text-muted-foreground">
                   No pudimos cargar este libro. Revisa tu conexión e inténtalo de nuevo.
                 </p>
@@ -322,7 +324,13 @@ function Reader() {
           <h2 className="mb-3 font-sans text-lg font-bold text-foreground lg:text-[20px]">
             Notas
           </h2>
-          <div className="space-y-6">{notesContent}</div>
+          <div
+            className={`space-y-6 transition-opacity duration-200 ${
+              loading ? "pointer-events-none opacity-40" : "opacity-100"
+            }`}
+          >
+            {notesContent}
+          </div>
         </section>
 
         <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
@@ -330,7 +338,13 @@ function Reader() {
             <h2 className="mb-3 font-sans text-lg font-bold text-foreground lg:text-[20px]">
               Notas
             </h2>
-            {renderNotes()}
+            <div
+              className={`transition-opacity duration-200 ${
+                loading ? "pointer-events-none opacity-40" : "opacity-100"
+              }`}
+            >
+              {renderNotes()}
+            </div>
           </div>
         </aside>
       </main>
