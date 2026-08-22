@@ -18,7 +18,7 @@ export function SiteHeader({
             <BookOpen className="h-4 w-4 stroke-[1.75] sm:h-[18px] sm:w-[18px]" />
           </span>
           <span className="font-sans text-base sm:text-lg font-bold tracking-tight text-foreground whitespace-nowrap">
-            RV 1865 + Notas
+            RV1865 + Notas
           </span>
         </Link>
 
