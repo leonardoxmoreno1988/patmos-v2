@@ -9,7 +9,6 @@ import { SiteHeader } from "@/components/reader/site-header";
 import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { noteKey, studyNotesQuery } from "@/lib/notes";
-import { NewsletterCard } from "@/components/reader/newsletter-card";
 
 
 export const Route = createFileRoute("/")({
@@ -315,7 +314,6 @@ function Reader() {
               )}
             </div>
 
-            {/* <NewsletterCard /> */}
           </article>
 
         <section id="study-notes-section" className="scroll-mt-[8rem] lg:hidden">
@@ -324,7 +322,6 @@ function Reader() {
             Notas
           </h2>
           <div className="space-y-6">{notesContent}</div>
-          <NewsletterCard />
         </section>
 
         <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
@@ -334,7 +331,6 @@ function Reader() {
             </h2>
             {renderNotes()}
           </div>
-          <NewsletterCard />
         </aside>
       </main>
 

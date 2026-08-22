@@ -96,7 +96,7 @@ export function Selector({
         align="start"
         className="w-[min(22rem,calc(100vw-2rem))] rounded-2xl border-border/60 p-2 shadow-[var(--shadow-float)]"
       >
-        <div className="max-h-72 space-y-2 overflow-y-auto">
+        <div className="max-h-[23.5rem] space-y-2 overflow-y-auto">
           {groupByTestament ? (
             <>
               {renderGroup("Antiguo Testamento", oldTestament)}
