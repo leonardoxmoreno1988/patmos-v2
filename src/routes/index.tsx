@@ -327,7 +327,7 @@ function Reader() {
         </section>
 
         <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
-          <div className="h-full border-l border-[#000f37] bg-transparent py-0 pl-6 shadow-none dark:border-[#bcbecd] lg:pl-8">
+          <div className="min-h-full border-l border-[#000f37] bg-transparent pt-0 pb-16 pl-6 shadow-none dark:border-[#bcbecd] lg:pl-8">
             <h2 className="mb-3 font-sans text-lg font-bold text-foreground lg:text-[20px]">
               Notas
             </h2>
