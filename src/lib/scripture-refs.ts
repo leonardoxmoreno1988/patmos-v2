@@ -8,10 +8,21 @@ export interface ScriptureRef {
 
 const escape = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
-const NAMES = BOOKS.map((b) => b.name).sort((a, b) => b.length - a.length);
+/** Legacy / alternate spellings mapped to the canonical book name. */
+export const BOOK_ALIASES: Record<string, string> = {
+  Hechos: "Actos",
+  "Hechos de los Apóstoles": "Actos",
+  "Actos de los Apóstoles": "Actos",
+};
+
+export const canonicalBook = (name: string) => BOOK_ALIASES[name] ?? name;
+
+const NAMES = [...BOOKS.map((b) => b.name), ...Object.keys(BOOK_ALIASES)].sort(
+  (a, b) => b.length - a.length,
+);
 
 const REF_RE = new RegExp(
-  `(^|[^\\p{L}\\p{N}])(${NAMES.map(escape).join("|")})\\s+(\\d+)\\s*[:.]\\s*(\\d+)(\\s*[-–]\\s*\\d+)?`,
+  `(^|[^\\p{L}\\p{N}])(${NAMES.map(escape).join("|")})\\s+(\\d+)(\\s*[:.]\\s*(\\d+)(\\s*[-–]\\s*\\d+)?)?`,
   "gu",
 );
 
