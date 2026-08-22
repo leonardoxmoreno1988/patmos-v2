@@ -60,5 +60,5 @@ export function readRefFromEvent(
   const chapter = Number(el.dataset["refChapter"]);
   const verse = Number(el.dataset["refVerse"]);
   if (!book || !Number.isFinite(chapter) || !Number.isFinite(verse)) return null;
-  return { book, chapter, verse, ...(el.id ? { originId: el.id } : {}) };
+  return { book: canonicalBook(book), chapter, verse, ...(el.id ? { originId: el.id } : {}) };
 }
