@@ -9,8 +9,7 @@ import { SiteHeader } from "@/components/reader/site-header";
 import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { noteKey, studyNotesQuery } from "@/lib/notes";
-import { EtsyBanner } from "@/components/reader/etsy-banner";
-// import { NewsletterCard } from "@/components/reader/newsletter-card";
+import { NewsletterCard } from "@/components/reader/newsletter-card";
 
 
 export const Route = createFileRoute("/")({
@@ -325,17 +324,17 @@ function Reader() {
             Notas
           </h2>
           <div className="space-y-6">{notesContent}</div>
-          <EtsyBanner />
+          <NewsletterCard />
         </section>
 
         <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
-          <div className="h-full border-l-2 border-[#000f37] bg-transparent py-0 pl-6 shadow-none dark:border-white lg:pl-8">
+          <div className="h-full border-l border-[#000f37] bg-transparent py-0 pl-6 shadow-none dark:border-[#bcbecd] lg:pl-8">
             <h2 className="mb-3 font-sans text-lg font-bold text-foreground lg:text-[20px]">
               Notas
             </h2>
             {renderNotes()}
           </div>
-          <EtsyBanner />
+          <NewsletterCard />
         </aside>
       </main>
 
