@@ -131,14 +131,12 @@ function Reader() {
   }, [libro, cap, studyNotes.data, verses]);
 
   const renderNotes = () =>
-    studyNotes.isPending ? (
-      <NotesSkeleton />
-    ) : getNote(studyNotes.data, book.name, chapter) ? (
+    getNote(studyNotes.data, book.name, chapter) ? (
       <StudyNoteCard
         html={getNote(studyNotes.data, book.name, chapter)!}
         onRefClick={goToReference}
       />
-    ) : (
+    ) : studyNotes.isPending ? null : (
       <p className="py-4 text-sm italic text-muted-foreground/70">
         No hay comentario registrado para este capítulo.
       </p>
