@@ -8,10 +8,21 @@ export interface ScriptureRef {
 
 const escape = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
-const NAMES = BOOKS.map((b) => b.name).sort((a, b) => b.length - a.length);
+/** Legacy / alternate spellings mapped to the canonical book name. */
+export const BOOK_ALIASES: Record<string, string> = {
+  Hechos: "Actos",
+  "Hechos de los Apóstoles": "Actos",
+  "Actos de los Apóstoles": "Actos",
+};
+
+export const canonicalBook = (name: string) => BOOK_ALIASES[name] ?? name;
+
+const NAMES = [...BOOKS.map((b) => b.name), ...Object.keys(BOOK_ALIASES)].sort(
+  (a, b) => b.length - a.length,
+);
 
 const REF_RE = new RegExp(
-  `(^|[^\\p{L}\\p{N}])(${NAMES.map(escape).join("|")})\\s+(\\d+)\\s*[:.]\\s*(\\d+)(\\s*[-–]\\s*\\d+)?`,
+  `(^|[^\\p{L}\\p{N}])(${NAMES.map(escape).join("|")})\\s+(\\d+)(\\s*[:.]\\s*(\\d+)(\\s*[-–]\\s*\\d+)?)?`,
   "gu",
 );
 
@@ -25,11 +36,17 @@ export function linkifyScriptureRefs(html: string): string {
     .split(/(<[^>]*>)/g)
     .map((part) => {
       if (part.startsWith("<")) return part;
-      return part.replace(REF_RE, (match, pre, book, chapter, verse, range) => {
-        const label = `${book} ${chapter}:${verse}${range ? range.replace(/\s/g, "") : ""}`;
-        const id = `ref-link-${n++}`;
-        return `${pre}<a id="${id}" role="button" tabindex="0" class="${LINK_CLASS}" data-ref-book="${book}" data-ref-chapter="${chapter}" data-ref-verse="${verse}">${label}</a>`;
-      });
+      return part.replace(
+        REF_RE,
+        (_match, pre, book, chapter, _vpart, verse, range) => {
+          const target = canonicalBook(book);
+          const label = verse
+            ? `${book} ${chapter}:${verse}${range ? String(range).replace(/\s/g, "") : ""}`
+            : `${book} ${chapter}`;
+          const id = `ref-link-${n++}`;
+          return `${pre}<a id="${id}" role="button" tabindex="0" class="${LINK_CLASS}" data-ref-book="${target}" data-ref-chapter="${chapter}" data-ref-verse="${verse ?? 1}">${label}</a>`;
+        },
+      );
     })
     .join("");
 }
@@ -43,5 +60,5 @@ export function readRefFromEvent(
   const chapter = Number(el.dataset["refChapter"]);
   const verse = Number(el.dataset["refVerse"]);
   if (!book || !Number.isFinite(chapter) || !Number.isFinite(verse)) return null;
-  return { book, chapter, verse, ...(el.id ? { originId: el.id } : {}) };
+  return { book: canonicalBook(book), chapter, verse, ...(el.id ? { originId: el.id } : {}) };
 }

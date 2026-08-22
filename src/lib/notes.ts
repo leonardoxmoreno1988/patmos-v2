@@ -60,7 +60,19 @@ export async function fetchStudyNotes(): Promise<NotesMap> {
   return map;
 }
 
-export const noteKey = (bookName: string, chapter: number) => `${bookName}-${chapter}`;
+/** Legacy spreadsheet keys that should resolve to the current canonical book name. */
+const KEY_ALIASES: Record<string, string> = { Hechos: "Actos" };
+
+export const noteKey = (bookName: string, chapter: number) =>
+  `${KEY_ALIASES[bookName] ?? bookName}-${chapter}`;
+
+/** Reads a note allowing legacy book spellings (e.g. "Hechos-2" for "Actos-2"). */
+export const getNote = (map: NotesMap | undefined, bookName: string, chapter: number) => {
+  if (!map) return undefined;
+  const canonical = KEY_ALIASES[bookName] ?? bookName;
+  const legacy = Object.entries(KEY_ALIASES).find(([, v]) => v === canonical)?.[0];
+  return map[`${canonical}-${chapter}`] ?? (legacy ? map[`${legacy}-${chapter}`] : undefined);
+};
 
 export const studyNotesQuery = {
   queryKey: ["study-notes"],
