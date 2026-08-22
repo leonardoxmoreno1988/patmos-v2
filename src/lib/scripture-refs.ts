@@ -36,11 +36,17 @@ export function linkifyScriptureRefs(html: string): string {
     .split(/(<[^>]*>)/g)
     .map((part) => {
       if (part.startsWith("<")) return part;
-      return part.replace(REF_RE, (match, pre, book, chapter, verse, range) => {
-        const label = `${book} ${chapter}:${verse}${range ? range.replace(/\s/g, "") : ""}`;
-        const id = `ref-link-${n++}`;
-        return `${pre}<a id="${id}" role="button" tabindex="0" class="${LINK_CLASS}" data-ref-book="${book}" data-ref-chapter="${chapter}" data-ref-verse="${verse}">${label}</a>`;
-      });
+      return part.replace(
+        REF_RE,
+        (_match, pre, book, chapter, _vpart, verse, range) => {
+          const target = canonicalBook(book);
+          const label = verse
+            ? `${book} ${chapter}:${verse}${range ? String(range).replace(/\s/g, "") : ""}`
+            : `${book} ${chapter}`;
+          const id = `ref-link-${n++}`;
+          return `${pre}<a id="${id}" role="button" tabindex="0" class="${LINK_CLASS}" data-ref-book="${target}" data-ref-chapter="${chapter}" data-ref-verse="${verse ?? 1}">${label}</a>`;
+        },
+      );
     })
     .join("");
 }
