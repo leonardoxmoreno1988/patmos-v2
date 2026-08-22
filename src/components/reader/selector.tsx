@@ -17,7 +17,6 @@ export function Selector({
   options,
   onSelect,
   columns = 1,
-  groupByTestament = true,
   itemClassName = "text-sm sm:text-base",
 }: {
   label: string;
