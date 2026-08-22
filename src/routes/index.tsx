@@ -85,12 +85,14 @@ function Reader() {
   const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
   const bookId = book.bookid;
   const chapter = cap;
-  const bookData = useQuery(bookQuery(bookId));
+  const bookData = useQuery({ ...bookQuery(bookId), placeholderData: keepPreviousData });
   const studyNotes = useQuery(studyNotesQuery);
   const chapters = bookData.data ?? [];
   const chapterCount = chapters.length || 1;
   const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
   const verses = current?.verses ?? [];
+  const loading =
+    bookData.isFetching || bookData.isPlaceholderData || studyNotes.isFetching;
 
   const scrollToVerse = (verse: number) => {
     if (typeof window === "undefined") return;
