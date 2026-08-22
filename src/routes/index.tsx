@@ -212,6 +212,12 @@ function Reader() {
 
   return (
     <div className="min-h-screen bg-background">
+      <div
+        aria-hidden
+        className={`fixed inset-x-0 top-0 z-50 h-[2px] origin-left bg-[#000f37] transition-opacity duration-200 dark:bg-white ${
+          loading ? "opacity-100" : "opacity-0"
+        }`}
+      />
       <SiteHeader />
 
 
