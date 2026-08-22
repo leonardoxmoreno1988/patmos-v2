@@ -13,7 +13,8 @@ import { noteKey, studyNotesQuery } from "@/lib/notes";
 
 export const Route = createFileRoute("/")({
   validateSearch: (search: Record<string, unknown>) => {
-    const libro = typeof search["libro"] === "string" ? (search["libro"] as string) : "Génesis";
+    const raw = typeof search["libro"] === "string" ? (search["libro"] as string) : "Génesis";
+    const libro = canonicalBook(raw);
     const cap = Number(search["cap"]);
     return {
       libro: BOOKS.some((b) => b.name === libro) ? libro : "Génesis",
