@@ -329,7 +329,7 @@ function Reader() {
         </section>
 
         <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
-          <div className="h-full border-l border-[#000f37]/15 bg-transparent py-0 pl-6 shadow-none dark:border-[#7c7b82]/30 lg:pl-8">
+          <div className="h-full border-l-2 border-[#000f37] bg-transparent py-0 pl-6 shadow-none dark:border-white lg:pl-8">
             <h2 className="mb-3 font-sans text-lg font-bold text-foreground lg:text-[20px]">
               Notas
             </h2>
@@ -339,8 +339,8 @@ function Reader() {
         </aside>
       </main>
 
-      <footer className="mt-20 border-t-0 border-border py-8 text-center font-sans text-xs text-muted-foreground">
-        <div className="mx-auto max-w-7xl px-6">
+      <footer className="mt-20 border-t-0 border-border py-8 text-center font-sans text-xs leading-relaxed text-muted-foreground sm:text-sm sm:leading-normal">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6">
           © 2026 Notas de Estudio por{" "}
           <a
             href="https://www.ritualypropaganda.com/"

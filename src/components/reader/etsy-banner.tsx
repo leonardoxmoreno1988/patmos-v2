@@ -1,4 +1,4 @@
-import bannerAsset from "@/assets/patmos-banner.jpg.asset.json";
+import bannerAsset from "@/assets/etsy-ad.png.asset.json";
 
 const ETSY_URL = "https://www.etsy.com/shop/PatmosStore";
 
@@ -8,11 +8,11 @@ export function EtsyBanner() {
       href={ETSY_URL}
       target="_blank"
       rel="noopener noreferrer"
-      className="mt-6 block cursor-pointer overflow-hidden rounded-none border border-border/60 transition-opacity hover:opacity-95"
+      className="my-6 block w-full cursor-pointer overflow-hidden rounded-xl transition-opacity hover:opacity-95"
     >
       <img
         src={bannerAsset.url}
-        alt="Patmos — arte bíblico majestuoso, ver más en Etsy"
+        alt="Descarga arte digital bíblico en alta definición — ver tienda en Etsy"
         loading="lazy"
         className="h-auto w-full object-cover"
       />
