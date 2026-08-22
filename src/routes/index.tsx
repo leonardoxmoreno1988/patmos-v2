@@ -8,7 +8,8 @@ import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { ChapterSkeleton, NotesSkeleton } from "@/components/reader/skeletons";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
-import { noteKey, studyNotesQuery } from "@/lib/notes";
+import { getNote, studyNotesQuery } from "@/lib/notes";
+import { canonicalBook } from "@/lib/scripture-refs";
 
 
 export const Route = createFileRoute("/")({
@@ -131,9 +132,9 @@ function Reader() {
   const renderNotes = () =>
     studyNotes.isPending ? (
       <NotesSkeleton />
-    ) : studyNotes.data?.[noteKey(book.name, chapter)] ? (
+    ) : getNote(studyNotes.data, book.name, chapter) ? (
       <StudyNoteCard
-        html={studyNotes.data[noteKey(book.name, chapter)]!}
+        html={getNote(studyNotes.data, book.name, chapter)!}
         onRefClick={goToReference}
       />
     ) : (
