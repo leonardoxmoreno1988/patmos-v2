@@ -1,5 +1,5 @@
-import { useMemo, useState } from "react";
-import { Check, ChevronDown } from "lucide-react";
+import { useState } from "react";
+import { ChevronDown } from "lucide-react";
 import {
   Popover,
   PopoverContent,
@@ -32,15 +32,6 @@ export function Selector({
 
   const current = options.find((o) => o.value === value);
 
-  const oldTestament = useMemo(
-    () => options.filter((o) => o.value <= 39),
-    [options],
-  );
-  const newTestament = useMemo(
-    () => options.filter((o) => o.value >= 40),
-    [options],
-  );
-
   const renderGrid = (items: Option[]) => (
     <div
       className="gap-1"
@@ -62,21 +53,10 @@ export function Selector({
           }`}
         >
           <span className="truncate">{o.label}</span>
-          {o.value === value && <Check className="h-4 w-4 shrink-0" />}
         </button>
       ))}
     </div>
   );
-
-  const renderGroup = (title: string, items: Option[]) =>
-    items.length > 0 ? (
-      <div className="space-y-1">
-        <p className="sticky top-0 z-10 bg-popover text-[11px] font-bold tracking-wider text-muted-foreground/70 uppercase pt-3 pb-1 px-3">
-          {title}
-        </p>
-        {renderGrid(items)}
-      </div>
-    ) : null;
 
   return (
     <Popover open={open} onOpenChange={setOpen}>
@@ -97,19 +77,7 @@ export function Selector({
         className="w-[min(22rem,calc(100vw-2rem))] rounded-2xl border-border/60 p-2 shadow-[var(--shadow-float)]"
       >
         <div className="max-h-[23.5rem] space-y-2 overflow-y-auto">
-          {groupByTestament ? (
-            <>
-              {renderGroup("Antiguo Testamento", oldTestament)}
-              {renderGroup("Nuevo Testamento", newTestament)}
-              {oldTestament.length === 0 && newTestament.length === 0 && (
-                <p className="px-3 py-6 text-center text-sm text-muted-foreground">
-                  Sin resultados
-                </p>
-              )}
-            </>
-          ) : (
-            renderGrid(options)
-          )}
+          {renderGrid(options)}
         </div>
       </PopoverContent>
     </Popover>
