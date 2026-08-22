@@ -6,7 +6,7 @@ export function NewsletterCard() {
   const [sent, setSent] = useState(false);
 
   return (
-    <section className="mt-12 rounded-[8px] border border-[#000f37]/10 bg-[#f4f5f8] p-6 text-[#000f37] dark:border-neutral-800 dark:bg-[#161620] dark:text-white">
+    <section className="mt-12 rounded-[8px] border-0 bg-[#f4f5f8] p-6 text-[#000f37] dark:bg-[#2e2c43] dark:text-white">
       <span className="block text-[11px] font-bold uppercase tracking-wider opacity-70">
         Actualizaciones de estudio
       </span>
