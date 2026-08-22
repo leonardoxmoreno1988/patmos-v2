@@ -140,4 +140,5 @@ export const bookQuery = (bookid: number) => ({
   queryKey: ["bible", "book", bookid],
   queryFn: () => fetchBook(bookid),
   staleTime: Infinity,
+  gcTime: Infinity,
 });
