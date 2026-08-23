@@ -61,8 +61,8 @@
   --color-sidebar-ring: var(--sidebar-ring);
   --color-surface: var(--surface);
   --color-verse-number: var(--verse-number);
-  --font-sans: "Helvetica", "Arial", sans-serif;
-  --font-serif: "Literata", Georgia, serif;
+  --font-sans: "Inter", sans-serif;
+  --font-serif: "Inter", sans-serif;
   --shadow-float: var(--shadow-float);
   --shadow-soft: var(--shadow-soft);
 }
@@ -161,11 +161,6 @@
   }
 }
 
-@utility scripture {
-  font-family: var(--font-serif);
-  line-height: 1.8;
-  letter-spacing: -0.003em;
-}
 
 .study-note b,
 .study-note strong {
