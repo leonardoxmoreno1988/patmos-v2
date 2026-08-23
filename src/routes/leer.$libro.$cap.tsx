@@ -3,41 +3,29 @@ import { createFileRoute, useNavigate } from "@tanstack/react-router";
 import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
-import { BOOKS, bookQuery, TRANSLATION, type Verse } from "@/lib/bible";
+import { BOOKS, bookQuery, bookFromSlug, slugifyBook, type Verse } from "@/lib/bible";
 import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { getNote, studyNotesQuery } from "@/lib/notes";
-import { canonicalBook } from "@/lib/scripture-refs";
 
 
 export const Route = createFileRoute("/leer/$libro/$cap")({
-  validateSearch: (search: Record<string, unknown>) => {
-    const raw = typeof search["libro"] === "string" ? (search["libro"] as string) : "Génesis";
-    const libro = canonicalBook(raw);
-    const cap = Number(search["cap"]);
+  head: ({ params }) => {
+    const book = bookFromSlug(params.libro)?.name ?? "Génesis";
+    const title = `${book} ${params.cap} — RV1865 + Notas`;
+    const description = `Lee ${book} ${params.cap} en la Reina-Valera 1865 con notas de estudio y referencias cruzadas.`;
     return {
-      libro: BOOKS.some((b) => b.name === libro) ? libro : "Génesis",
-      cap: Number.isFinite(cap) && cap > 0 ? Math.floor(cap) : 1,
+      meta: [
+        { title },
+        { name: "description", content: description },
+        { property: "og:title", content: title },
+        { property: "og:description", content: description },
+        { property: "og:type", content: "article" },
+        { name: "twitter:card", content: "summary_large_image" },
+      ],
     };
   },
-  head: () => ({
-    meta: [
-      { title: "Comentario Bíblico — Lectura serena y notas de estudio" },
-      {
-        name: "description",
-        content:
-          "Lee cualquier capítulo de la Biblia (Reina-Valera 1865) en una interfaz limpia y espaciosa, con notas de estudio y contexto por libro.",
-      },
-      { property: "og:title", content: "Comentario Bíblico" },
-      {
-        property: "og:description",
-        content: "Lectura bíblica minimalista con comentario y notas de estudio.",
-      },
-      { property: "og:type", content: "website" },
-      { name: "twitter:card", content: "summary_large_image" },
-    ],
-  }),
   component: Reader,
 });
 
@@ -73,7 +61,9 @@ function VerseText({
 }
 
 function Reader() {
-  const { libro, cap } = Route.useSearch();
+  const params = Route.useParams();
+  const libro = bookFromSlug(params.libro)?.name ?? "Génesis";
+  const cap = Math.max(1, Math.floor(Number(params.cap)) || 1);
   const navigate = useNavigate({ from: Route.fullPath });
   const [history, setHistory] = useState<
     { book: string; chapter: number; verse: number; originId?: string }[]
@@ -144,7 +134,7 @@ function Reader() {
   const goTo = (nextBook: number, nextChapter: number) => {
     const target = BOOKS.find((b) => b.bookid === nextBook);
     if (!target) return;
-    void navigate({ search: { libro: target.name, cap: nextChapter } });
+    void navigate({ params: { libro: slugifyBook(target.name), cap: String(nextChapter) } });
     if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
@@ -154,7 +144,7 @@ function Reader() {
       return;
     }
     pendingVerse.current = verse;
-    void navigate({ search: { libro: bookName, cap: nextChapter } });
+    void navigate({ params: { libro: slugifyBook(bookName), cap: String(nextChapter) } });
   };
 
   const goToReference = (ref: {
@@ -189,7 +179,7 @@ function Reader() {
         }
       }
       pendingElId.current = last.originId;
-      void navigate({ search: { libro: last.book, cap: last.chapter } });
+      void navigate({ params: { libro: slugifyBook(last.book), cap: String(last.chapter) } });
       return;
     }
     goToVerse(last.book, last.chapter, last.verse);
