@@ -142,7 +142,7 @@ function BookCard({ book, notes }: { book: BookInfo; notes: NotesMap | undefined
     <Link
       to="/leer/$libro/$cap"
       params={{ libro: slugifyBook(book.name), cap: "1" }}
-      className="group relative flex h-full flex-col overflow-hidden rounded-md border border-[#000f37]/10 bg-transparent pb-2 transition-colors hover:bg-neutral-100 dark:border-white/10 dark:hover:bg-neutral-800/60"
+      className="group relative flex h-full flex-col overflow-hidden rounded-md border border-[#000f37]/10 bg-transparent transition-colors hover:bg-neutral-100 dark:border-white/10 dark:hover:bg-neutral-800/60"
     >
       <div className="flex flex-1 flex-col gap-2 px-3 pt-3">
         <div className="flex items-start justify-between gap-2">
