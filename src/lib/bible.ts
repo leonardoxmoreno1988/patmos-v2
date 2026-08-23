@@ -142,3 +142,38 @@ export const bookQuery = (bookid: number) => ({
   staleTime: Infinity,
   gcTime: Infinity,
 });
+
+/** URL-safe slug for a book name, e.g. "1 Samuel" -> "1-samuel". */
+export function slugifyBook(name: string): string {
+  return name
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+export function bookFromSlug(slug: string): BookInfo | undefined {
+  const s = slugifyBook(decodeURIComponent(slug));
+  return BOOKS.find((b) => slugifyBook(b.name) === s);
+}
+
+export interface BookGroup {
+  label: string;
+  books: BookInfo[];
+}
+
+const GROUPS: { label: string; from: number; to: number }[] = [
+  { label: "PENTATEUCO", from: 1, to: 5 },
+  { label: "HISTÓRICOS", from: 6, to: 17 },
+  { label: "POÉTICOS", from: 18, to: 22 },
+  { label: "PROFETAS", from: 23, to: 39 },
+  { label: "EVANGELIOS E HISTORIA", from: 40, to: 44 },
+  { label: "EPÍSTOLAS", from: 45, to: 65 },
+  { label: "PROFECÍA", from: 66, to: 66 },
+];
+
+export const BOOK_GROUPS: BookGroup[] = GROUPS.map((g) => ({
+  label: g.label,
+  books: BOOKS.filter((b) => b.bookid >= g.from && b.bookid <= g.to),
+}));
