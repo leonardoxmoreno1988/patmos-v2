@@ -288,7 +288,7 @@ function Reader() {
    <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-4 sm:pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
      <article id="bible-text-section" className="scroll-mt-[8rem] lg:col-span-7">
       <div className="mb-6 flex flex-wrap items-baseline justify-between gap-2">
-       <h1 className="scripture text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
+       <h1 className="text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
         {book.name} {chapter}
        </h1>
        <button

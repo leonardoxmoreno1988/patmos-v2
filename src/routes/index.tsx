@@ -69,7 +69,7 @@ function Home() {
 
    <main className="mx-auto max-w-6xl px-6">
     <section className="py-20 text-center md:py-24">
-     <h1 className="scripture text-4xl font-bold tracking-tight text-[#000f37] md:text-6xl dark:text-white">
+     <h1 className="text-4xl font-bold tracking-tight text-[#000f37] md:text-6xl dark:text-white">
       RV1865 + Notas
      </h1>
      <p className="mx-auto mt-4 max-w-2xl text-lg text-neutral-600 md:text-xl dark:text-neutral-400">
