@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as NewsletterRouteImport } from './routes/newsletter'
+import { Route as LeerLibroCapRouteImport } from './routes/leer.$libro.$cap'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -22,31 +23,40 @@ const NewsletterRoute = NewsletterRouteImport.update({
   path: '/newsletter',
   getParentRoute: () => rootRouteImport,
 } as any)
+const LeerLibroCapRoute = LeerLibroCapRouteImport.update({
+  id: '/leer/$libro/$cap',
+  path: '/leer/$libro/$cap',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/newsletter': typeof NewsletterRoute
+  '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/newsletter': typeof NewsletterRoute
+  '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/newsletter': typeof NewsletterRoute
+  '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/newsletter'
+  fullPaths: '/' | '/newsletter' | '/leer/$libro/$cap'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/newsletter'
-  id: '__root__' | '/' | '/newsletter'
+  to: '/' | '/newsletter' | '/leer/$libro/$cap'
+  id: '__root__' | '/' | '/newsletter' | '/leer/$libro/$cap'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   NewsletterRoute: typeof NewsletterRoute
+  LeerLibroCapRoute: typeof LeerLibroCapRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -65,12 +75,20 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof NewsletterRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/leer/$libro/$cap': {
+      id: '/leer/$libro/$cap'
+      path: '/leer/$libro/$cap'
+      fullPath: '/leer/$libro/$cap'
+      preLoaderRoute: typeof LeerLibroCapRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   NewsletterRoute: NewsletterRoute,
+  LeerLibroCapRoute: LeerLibroCapRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
