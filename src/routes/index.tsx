@@ -98,22 +98,13 @@ function Home() {
         </section>
 
         <section className="pb-24">
-          <div className="space-y-12">
-            {BOOK_GROUPS.map((group) => (
-              <div key={group.label}>
-                <h2 className="mb-4 font-sans text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-                  {group.label}
-                </h2>
-                <ul className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6">
-                  {group.books.map((book) => (
-                    <li key={book.bookid}>
-                      <BookCard book={book} notes={notes} />
-                    </li>
-                  ))}
-                </ul>
-              </div>
+          <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
+            {BOOK_GROUPS.flatMap((group) => group.books).map((book) => (
+              <li key={book.bookid}>
+                <BookCard book={book} notes={notes} />
+              </li>
             ))}
-          </div>
+          </ul>
         </section>
       </main>
 
