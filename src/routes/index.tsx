@@ -129,36 +129,39 @@ function Home() {
 function BookCard({ book, notes }: { book: BookInfo; notes: NotesMap | undefined }) {
   const { total, done, pct } = progressFor(notes, book);
 
+  const badge =
+    pct === 100 ? (
+      <span className="shrink-0 rounded-full border border-emerald-200 bg-emerald-100 px-2 py-0.5 font-sans text-xs font-semibold text-emerald-800 dark:border-emerald-800 dark:bg-emerald-950/60 dark:text-emerald-300">
+        100%
+      </span>
+    ) : pct >= 1 ? (
+      <span className="shrink-0 rounded-full border border-orange-200 bg-orange-100 px-2 py-0.5 font-sans text-xs font-semibold text-orange-800 dark:border-orange-800 dark:bg-orange-950/60 dark:text-orange-300">
+        {pct}%
+      </span>
+    ) : (
+      <span className="shrink-0 font-sans text-xs text-neutral-400 dark:text-neutral-500">0%</span>
+    );
+
   return (
     <Link
       to="/leer/$libro/$cap"
       params={{ libro: slugifyBook(book.name), cap: "1" }}
-      className="group relative flex h-full flex-col overflow-hidden rounded-md border border-[#000f37]/10 bg-transparent transition-colors hover:bg-neutral-100 dark:border-white/10 dark:hover:bg-neutral-800/60"
+      className="group flex h-full flex-col rounded-md border border-[#000f37]/10 bg-transparent p-3 transition-all hover:border-neutral-300 dark:border-white/10 dark:hover:border-neutral-700 cursor-pointer"
     >
-      <div className="flex flex-1 flex-col gap-2 px-3 pt-3">
+      <div className="flex flex-1 flex-col gap-2">
         <div className="flex items-start justify-between gap-2">
           <span className="font-sans text-[15px] font-medium leading-tight text-foreground">
             {book.name}
           </span>
-          {pct === 0 ? (
-            <span className="shrink-0 font-sans text-xs text-muted-foreground">0%</span>
-          ) : pct === 100 ? (
-            <span className="shrink-0 rounded-full border border-emerald-200/50 bg-emerald-50 px-2 py-0.5 font-sans text-xs font-semibold text-emerald-600 dark:bg-emerald-950/40">
-              100%
-            </span>
-          ) : (
-            <span className="shrink-0 rounded-full bg-amber-50 px-2 py-0.5 font-sans text-xs font-medium text-amber-600 dark:bg-amber-950/40">
-              {pct}%
-            </span>
-          )}
+          {badge}
         </div>
         <span className="font-sans text-[11px] text-muted-foreground">
           {done}/{total} caps.
         </span>
       </div>
-      <div className="mt-3 h-1 overflow-hidden rounded-b-md bg-neutral-100 dark:bg-neutral-800">
+      <div className="mt-3 h-1 overflow-hidden rounded-full bg-neutral-100 dark:bg-neutral-800">
         <div
-          className={`h-full ${pct === 100 ? "bg-emerald-500" : "bg-amber-500"}`}
+          className={`h-full transition-all ${pct === 100 ? "bg-emerald-500" : pct >= 1 ? "bg-orange-500" : "bg-neutral-300 dark:bg-neutral-600"}`}
           style={{ width: `${pct}%` }}
         />
       </div>
