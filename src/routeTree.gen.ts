@@ -9,9 +9,15 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as IndexRouteImport } from './routes/index'
 import { Route as NewsletterRouteImport } from './routes/newsletter'
 import { Route as LeerLibroCapRouteImport } from './routes/leer.$libro.$cap'
 
+const IndexRoute = IndexRouteImport.update({
+  id: '/',
+  path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const NewsletterRoute = NewsletterRouteImport.update({
   id: '/newsletter',
   path: '/newsletter',
@@ -24,33 +30,44 @@ const LeerLibroCapRoute = LeerLibroCapRouteImport.update({
 } as any)
 
 export interface FileRoutesByFullPath {
+  '/': typeof IndexRoute
   '/newsletter': typeof NewsletterRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRoutesByTo {
+  '/': typeof IndexRoute
   '/newsletter': typeof NewsletterRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
+  '/': typeof IndexRoute
   '/newsletter': typeof NewsletterRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/newsletter' | '/leer/$libro/$cap'
+  fullPaths: '/' | '/newsletter' | '/leer/$libro/$cap'
   fileRoutesByTo: FileRoutesByTo
-  to: '/newsletter' | '/leer/$libro/$cap'
-  id: '__root__' | '/newsletter' | '/leer/$libro/$cap'
+  to: '/' | '/newsletter' | '/leer/$libro/$cap'
+  id: '__root__' | '/' | '/newsletter' | '/leer/$libro/$cap'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
+  IndexRoute: typeof IndexRoute
   NewsletterRoute: typeof NewsletterRoute
   LeerLibroCapRoute: typeof LeerLibroCapRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/': {
+      id: '/'
+      path: '/'
+      fullPath: '/'
+      preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/newsletter': {
       id: '/newsletter'
       path: '/newsletter'
@@ -69,6 +86,7 @@ declare module '@tanstack/react-router' {
 }
 
 const rootRouteChildren: RootRouteChildren = {
+  IndexRoute: IndexRoute,
   NewsletterRoute: NewsletterRoute,
   LeerLibroCapRoute: LeerLibroCapRoute,
 }
