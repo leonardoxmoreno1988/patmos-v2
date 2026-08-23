@@ -99,6 +99,15 @@ function Reader() {
   };
 
   useEffect(() => {
+    try {
+      window.localStorage.setItem("rv1865:last", JSON.stringify({ libro, cap }));
+    } catch {
+      /* ignore */
+    }
+  }, [libro, cap]);
+
+  useEffect(() => {
+
     const target = pendingVerse.current;
     if (target === null || verses.length === 0) return;
     pendingVerse.current = null;

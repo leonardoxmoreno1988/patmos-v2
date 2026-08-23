@@ -167,11 +167,22 @@ const GROUPS: { label: string; from: number; to: number }[] = [
   { label: "PENTATEUCO", from: 1, to: 5 },
   { label: "HISTÓRICOS", from: 6, to: 17 },
   { label: "POÉTICOS", from: 18, to: 22 },
-  { label: "PROFETAS", from: 23, to: 39 },
-  { label: "EVANGELIOS E HISTORIA", from: 40, to: 44 },
+  { label: "PROFETAS MAYORES", from: 23, to: 27 },
+  { label: "PROFETAS MENORES", from: 28, to: 39 },
+  { label: "EVANGELIOS Y ACTOS", from: 40, to: 44 },
   { label: "EPÍSTOLAS", from: 45, to: 65 },
   { label: "PROFECÍA", from: 66, to: 66 },
 ];
+
+/** Chapter totals per bookid (1-66), in canonical order. */
+export const CHAPTER_COUNTS: Record<number, number> = Object.fromEntries(
+  [
+    50, 40, 27, 36, 34, 24, 21, 4, 31, 24, 22, 25, 29, 36, 10, 13, 10, 42, 150, 31, 12, 8, 66, 52,
+    5, 48, 12, 14, 3, 9, 1, 4, 7, 3, 3, 3, 2, 14, 4, 28, 16, 24, 21, 28, 16, 16, 13, 6, 6, 4, 4, 5,
+    3, 6, 4, 3, 1, 13, 5, 5, 3, 5, 1, 1, 1, 22,
+  ].map((c, i) => [i + 1, c]),
+);
+
 
 export const BOOK_GROUPS: BookGroup[] = GROUPS.map((g) => ({
   label: g.label,
