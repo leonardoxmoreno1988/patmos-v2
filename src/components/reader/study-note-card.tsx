@@ -1,24 +1,24 @@
 import { linkifyScriptureRefs, readRefFromEvent, type ScriptureRef } from "@/lib/scripture-refs";
 
 export function StudyNoteCard({
-  html,
-  onRefClick,
+ html,
+ onRefClick,
 }: {
-  html: string;
-  bare?: boolean;
-  onRefClick?: (ref: ScriptureRef & { originId?: string }) => void;
+ html: string;
+ bare?: boolean;
+ onRefClick?: (ref: ScriptureRef & { originId?: string }) => void;
 }) {
-  return (
-    <div
-      className="study-note font-sans text-base leading-relaxed text-[#000f37] dark:text-foreground/80"
-      onClick={(e) => {
-        const ref = readRefFromEvent(e.target);
-        if (ref && onRefClick) {
-          e.preventDefault();
-          onRefClick(ref);
-        }
-      }}
-      dangerouslySetInnerHTML={{ __html: linkifyScriptureRefs(html) }}
-    />
-  );
+ return (
+  <div
+   className="study-note text-base leading-relaxed text-[#000f37] dark:text-foreground/80"
+   onClick={(e) => {
+    const ref = readRefFromEvent(e.target);
+    if (ref && onRefClick) {
+     e.preventDefault();
+     onRefClick(ref);
+    }
+   }}
+   dangerouslySetInnerHTML={{ __html: linkifyScriptureRefs(html) }}
+  />
+ );
 }
