@@ -11,7 +11,7 @@ import { getNote, studyNotesQuery } from "@/lib/notes";
 import { canonicalBook } from "@/lib/scripture-refs";
 
 
-export const Route = createFileRoute("/")({
+export const Route = createFileRoute("/leer/$libro/$cap")({
   validateSearch: (search: Record<string, unknown>) => {
     const raw = typeof search["libro"] === "string" ? (search["libro"] as string) : "Génesis";
     const libro = canonicalBook(raw);
