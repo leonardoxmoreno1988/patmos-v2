@@ -72,12 +72,9 @@ function Home() {
       <h1 className="text-4xl font-bold tracking-tight text-[#000f37] md:text-6xl dark:text-white">
        Biblia + Notas
       </h1>
-       <p className="mx-auto mt-4 max-w-2xl text-lg text-neutral-600 md:text-xl dark:text-neutral-400">
-        Análisis doctrinal y profético del texto bíblico Reina Valera 1865.
-       </p>
-     <p className="mt-6 text-sm font-semibold uppercase tracking-widest text-foreground opacity-70">
-      Por Leonardo Moreno
-     </p>
+        <p className="mx-auto mt-4 max-w-2xl text-lg text-neutral-600 md:text-xl dark:text-neutral-400">
+         Análisis doctrinal y profético del texto bíblico Reina Valera 1865.
+        </p>
 
      <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
       <Link
@@ -92,7 +89,7 @@ function Home() {
        params={{ libro: "revelacion", cap: "1" }}
        className="text-sm font-medium text-[#000f37] underline decoration-[#000f37] underline-offset-4 dark:text-white dark:decoration-white"
       >
-       Ver Revelación ({revelacion.pct}%)
+       Leer Revelación ({revelacion.pct}%)
       </Link>
      </div>
     </section>
