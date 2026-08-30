@@ -10,6 +10,7 @@ const escape = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
 /** Legacy / alternate spellings mapped to the canonical book name. */
 export const BOOK_ALIASES: Record<string, string> = {
+  Salmo: "Salmos",
   Hechos: "Actos",
   "Hechos de los Apóstoles": "Actos",
   "Actos de los Apóstoles": "Actos",
