@@ -61,7 +61,7 @@ export async function fetchStudyNotes(): Promise<NotesMap> {
 }
 
 /** Legacy spreadsheet keys that should resolve to the current canonical book name. */
-const KEY_ALIASES: Record<string, string> = { Hechos: "Actos" };
+const KEY_ALIASES: Record<string, string> = { Hechos: "Actos", Salmo: "Salmos" };
 
 export const noteKey = (bookName: string, chapter: number) =>
   `${KEY_ALIASES[bookName] ?? bookName}-${chapter}`;
