@@ -136,9 +136,9 @@ function Reader() {
     onRefClick={goToReference}
    />
   ) : studyNotes.isPending ? null : (
-   <p className="py-4 text-sm italic text-muted-foreground/70">
-    No hay comentario registrado para este capítulo.
-   </p>
+    <p className="py-4 text-sm italic text-muted-foreground/70">
+     Aún no hay notas registradas para este capítulo. Trabajo en progreso.
+    </p>
   );
  const goTo = (nextBook: number, nextChapter: number) => {
   const target = BOOKS.find((b) => b.bookid === nextBook);
