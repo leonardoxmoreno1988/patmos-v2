@@ -58,41 +58,41 @@ function Home() {
   }
  }, []);
 
- const revelacion = useMemo(() => {
-  const book = BOOK_GROUPS.flatMap((g) => g.books).find((b) => b.name === "Revelación");
-  return book ? progressFor(notes, book) : { total: 22, done: 0, pct: 0 };
- }, [notes]);
+ const mateo = useMemo(() => {
+   const book = BOOK_GROUPS.flatMap((g) => g.books).find((b) => b.name === "Mateo");
+   return book ? progressFor(notes, book) : { total: 28, done: 0, pct: 0 };
+  }, [notes]);
 
- return (
-  <div className="min-h-screen bg-background">
-   <SiteHeader />
+  return (
+   <div className="min-h-screen bg-background">
+    <SiteHeader />
 
-   <main className="mx-auto max-w-6xl px-6">
-    <section className="py-20 text-center md:py-24">
-      <h1 className="text-4xl font-bold tracking-tight text-[#000f37] md:text-6xl dark:text-white">
-       Biblia + Notas
-      </h1>
-         <p className="mx-auto mt-4 max-w-2xl text-lg text-neutral-600 md:text-xl dark:text-neutral-400">
-          Estudio doctrinal y profético del texto bíblico Reina Valera 1865.
-         </p>
+    <main className="mx-auto max-w-6xl px-6">
+     <section className="py-20 text-center md:py-24">
+       <h1 className="text-4xl font-bold tracking-tight text-[#000f37] md:text-6xl dark:text-white">
+        Biblia + Notas
+       </h1>
+          <p className="mx-auto mt-4 max-w-2xl text-lg text-neutral-600 md:text-xl dark:text-neutral-400">
+           Estudio doctrinal y profético del texto bíblico Reina Valera 1865.
+          </p>
 
-     <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
-      <Link
-       to="/leer/$libro/$cap"
-       params={{ libro: last.libro, cap: last.cap }}
-       className="inline-flex h-11 items-center justify-center rounded-full bg-[#000f37] px-7 text-sm font-medium text-white transition-opacity hover:opacity-90 dark:bg-white dark:text-[#000f37]"
-      >
-       Comenzar a leer
-      </Link>
-      <Link
-       to="/leer/$libro/$cap"
-       params={{ libro: "revelacion", cap: "1" }}
-       className="text-sm font-medium text-[#000f37] underline decoration-[#000f37] underline-offset-4 dark:text-white dark:decoration-white"
-      >
-       Leer Revelación ({revelacion.pct}%)
-      </Link>
-     </div>
-    </section>
+      <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
+       <Link
+        to="/leer/$libro/$cap"
+        params={{ libro: last.libro, cap: last.cap }}
+        className="inline-flex h-11 items-center justify-center rounded-full bg-[#000f37] px-7 text-sm font-medium text-white transition-opacity hover:opacity-90 dark:bg-white dark:text-[#000f37]"
+       >
+        Comenzar a leer
+       </Link>
+       <Link
+        to="/leer/$libro/$cap"
+        params={{ libro: "mateo", cap: "1" }}
+        className="text-sm font-medium text-[#000f37] underline decoration-[#000f37] underline-offset-4 dark:text-white dark:decoration-white"
+       >
+        Leer Mateo ({mateo.pct}%)
+       </Link>
+      </div>
+     </section>
 
     <section className="pb-24">
      <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
