@@ -105,6 +105,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       },
       { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
     ],
+    scripts: [
+      {
+        type: "text/javascript",
+        innerHTML: `!function(t,e){var o,n,p,r;e.__SV=window.posthog=void 0!==window.posthog&&void 0!==window.posthog.__SV?window.posthog:void 0,e.__SV=1;var i=document,s=window.posthog=window.posthog||[];if(!s.__SV){try{i=window.location.protocol+"//"+window.location.host+window.location.pathname}catch(t){}s.snippetVersion="v1.0",s.posthogConfig={api_host:"https://eu.i.posthog.com",autocapture:true,session_recording:{enabled:true}},o=function(t,e){var o=Array.prototype.slice.call(arguments,1);o.unshift(t),s.push(o)},n=["init","capture","identify","alias","page","pageview","register","register_once","unregister","opt_out_capturing","opt_in_capturing","is_feature_enabled","reloadFeatureFlags","onFeatureFlags","getFeatureFlag","getFeatureFlagPayload","group","setPersonProperties","resetPersonProperties","debug"];for(p=0;p<n.length;p++)r=n[p],s[r]=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t),s.push(e)}}(r);var a=i.createElement("script");a.type="text/javascript",a.async=true,a.src="https://eu.i.posthog.com/static/array.js";var c=i.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c),s.init("phc_BzubCxdmhVpCwpAwAFdK5KoFwGEDK6HBRcShx7dfTiLp",{api_host:"https://eu.i.posthog.com",autocapture:true,session_recording:{enabled:true}})}}(document,window.posthog||[]);`,
+      },
+    ],
   }),
   shellComponent: RootShell,
   component: RootComponent,
