@@ -53,14 +53,14 @@ export function VersePopover({ target }: { target: PreviewTarget }) {
         ...(above ? { bottom: `calc(100vh - ${rect.top}px + 10px)` } : { top: rect.bottom + 10 }),
         zIndex: 60,
       }}
-      className={`pointer-events-none rounded-xl border border-[#000f37]/15 bg-background p-4 shadow-lg transition-all duration-150 dark:border-white/20 ${
+      className={`pointer-events-none rounded-xl border-none bg-[#1c1b2d] p-4 shadow-[0_8px_30px_rgba(0,0,0,0.35)] transition-all duration-150 text-[#bbbece] ${
         mounted ? "translate-y-0 opacity-100" : "translate-y-1 opacity-0"
       }`}
     >
-      <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">
+      <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-[#85878c]">
         {label(target)}
       </p>
-      <p className="text-[15px] leading-relaxed text-foreground">
+      <p className="text-[15px] leading-relaxed text-[#bbbece]">
         {text ||
           (loading ? "Cargando…" : missing ? "Versículo no disponible." : "Cargando…")}
       </p>
@@ -114,7 +114,7 @@ export function VerseSheet({
         aria-modal="true"
         aria-label={label(target)}
         style={{ transform: `translateY(${open ? dragY : 400}px)` }}
-        className="absolute inset-x-0 bottom-0 rounded-t-2xl border-t border-[#000f37]/15 bg-background px-5 pb-8 pt-3 transition-transform duration-200 ease-out dark:border-white/20"
+        className="absolute inset-x-0 bottom-0 rounded-t-2xl border-none bg-[#1c1b2d] px-5 pb-8 pt-3 shadow-[0_-8px_30px_rgba(0,0,0,0.35)] transition-transform duration-200 ease-out text-[#bbbece]"
         onTouchStart={(e) => {
           startY = e.touches[0]?.clientY ?? 0;
         }}
@@ -128,16 +128,16 @@ export function VerseSheet({
         }}
       >
         <div className="mx-auto mb-4 h-1 w-10 rounded-full bg-muted-foreground/30" />
-        <p className="mb-2 text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">
+        <p className="mb-2 text-[11px] font-semibold uppercase tracking-wide text-[#85878c]">
           {label(target)}
         </p>
-        <p className="text-[17px] leading-relaxed text-foreground">
+        <p className="text-[17px] leading-relaxed text-[#bbbece]">
           {text || (loading ? "Cargando…" : missing ? "Versículo no disponible." : "Cargando…")}
         </p>
         <button
           type="button"
           onClick={onGoToChapter}
-          className="mt-6 flex h-12 w-full items-center justify-center rounded-full bg-[#000f37] text-sm font-medium text-white dark:bg-white dark:text-[#000f37]"
+          className="mt-6 flex h-12 w-full items-center justify-center rounded-full bg-white text-sm font-medium text-[#000f37]"
         >
           Ir al capítulo
         </button>
