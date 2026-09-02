@@ -45,7 +45,7 @@ function Highlight({ text, query }: { text: string; query: string }) {
 	return (
 		<>
 			{text.slice(0, i)}
-			<span className="bg-amber-200/70 text-foreground dark:bg-amber-400/30">
+			<span className="rounded bg-amber-500/20 px-1 font-medium text-amber-700 dark:text-amber-300">
 				{text.slice(i, i + query.length)}
 			</span>
 			{text.slice(i + query.length)}
