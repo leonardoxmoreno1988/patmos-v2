@@ -91,6 +91,7 @@
   --surface: #ffffff;
   --verse-number: #85878c;
   --verse-highlight: #e4ebff;
+  --search-snippet: #000f37;
   --shadow-float: 0 1px 2px oklch(0.2 0.05 260 / 0.05), 0 8px 24px -8px oklch(0.2 0.05 260 / 0.14);
   --shadow-soft: 0 1px 2px oklch(0.2 0.05 260 / 0.06);
   --chart-1: oklch(0.646 0.222 41.116);
@@ -131,6 +132,7 @@
   --surface: #1c1b2d;
   --verse-number: #666974;
   --verse-highlight: #2c3358;
+  --search-snippet: #e2e8f0;
   --shadow-float: 0 1px 2px oklch(0 0 0 / 0.3), 0 12px 32px -12px oklch(0 0 0 / 0.55);
   --shadow-soft: 0 1px 2px oklch(0 0 0 / 0.35);
   --chart-1: oklch(0.488 0.243 264.376);
@@ -176,6 +178,7 @@
 
 @theme inline {
   --color-verse-highlight: var(--verse-highlight);
+  --color-search-snippet: var(--search-snippet);
 }
 
 @utility scrollbar-none {

@@ -45,7 +45,7 @@ function Highlight({ text, query }: { text: string; query: string }) {
 	return (
 		<>
 			{text.slice(0, i)}
-			<span className="bg-amber-200/70 text-foreground dark:bg-amber-400/30">
+			<span className="rounded bg-amber-500/20 px-1 font-medium text-amber-700 dark:text-amber-300">
 				{text.slice(i, i + query.length)}
 			</span>
 			{text.slice(i + query.length)}
@@ -209,7 +209,10 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 					"sm:max-w-2xl",
 				)}
 			>
-				<Command shouldFilter={false} className="max-sm:h-full">
+				<Command
+					shouldFilter={false}
+					className="max-sm:h-full [&_[cmdk-group-heading]]:text-sm [&_[cmdk-group-heading]]:text-foreground/80"
+				>
 					<CommandInput
 						value={query}
 						onValueChange={setQuery}
@@ -223,10 +226,10 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 								type="button"
 								onClick={() => setFilter(f.key)}
 								className={cn(
-									"rounded-full px-3 py-1 text-sm font-medium transition-colors",
+									"rounded-full border px-3 py-1 text-sm font-medium transition-colors",
 									filter === f.key
-										? "bg-foreground text-background"
-										: "bg-muted text-muted-foreground hover:bg-muted/80",
+										? "border-transparent bg-foreground text-background"
+										: "border-foreground/15 bg-muted text-muted-foreground hover:bg-muted/80",
 								)}
 							>
 								{f.label}
@@ -266,7 +269,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 											<span className="block text-sm font-medium">
 												{h.book} {h.chapter}
 											</span>
-											<span className="block text-xs text-muted-foreground line-clamp-2">
+											<span className="block text-xs text-search-snippet line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
 											</span>
 										</span>
@@ -289,7 +292,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 											<span className="block text-sm font-medium">
 												{h.book} {h.chapter}:{h.verse}
 											</span>
-											<span className="block text-xs text-muted-foreground line-clamp-2">
+											<span className="block text-xs text-search-snippet line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
 											</span>
 										</span>
@@ -326,7 +329,7 @@ export function SearchTrigger({ onClick }: { onClick: () => void }) {
 		>
 			<Search className="h-4 w-4 shrink-0" />
 			<span className="hidden sm:inline">Buscar en las notas...</span>
-			<kbd className="ml-2 hidden items-center gap-0.5 rounded border border-foreground/15 px-1.5 py-0.5 text-[10px] font-medium sm:flex">
+			<kbd className="ml-2 hidden items-center gap-0.5 rounded border border-foreground/15 px-1.5 py-0.5 text-xs font-medium sm:flex">
 				<span>⌘</span>K
 			</kbd>
 		</button>
