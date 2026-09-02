@@ -269,7 +269,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 											<span className="block text-sm font-medium">
 												{h.book} {h.chapter}
 											</span>
-											<span className="block text-xs text-muted-foreground line-clamp-2">
+											<span className="block text-xs text-search-snippet line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
 											</span>
 										</span>
