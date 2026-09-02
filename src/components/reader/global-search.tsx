@@ -294,7 +294,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 											</span>
 											<span className="block text-xs text-search-snippet line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
-												</span>
+											</span>
 										</span>
 									</CommandItem>
 								))}
