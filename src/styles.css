@@ -176,6 +176,7 @@
 
 @theme inline {
   --color-verse-highlight: var(--verse-highlight);
+  --color-search-snippet: var(--search-snippet);
 }
 
 @utility scrollbar-none {
