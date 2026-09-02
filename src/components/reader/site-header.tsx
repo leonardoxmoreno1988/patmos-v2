@@ -37,8 +37,10 @@ export function SiteHeader({
       </span>
     </Link>
 
-    <div className="flex items-center gap-2">
-     {rightLink ? (
+     <div className="flex items-center gap-2">
+      <SearchTrigger onClick={() => setSearchOpen(true)} />
+      <GlobalSearch open={searchOpen} onOpenChange={setSearchOpen} />
+      {rightLink ? (
       <Link
        to={rightLink.to}
        className="cursor-pointer text-sm font-medium text-[#000f37] transition-opacity hover:opacity-80 dark:text-[#BBBECE]"
