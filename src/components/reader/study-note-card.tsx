@@ -19,10 +19,10 @@ function RefPreview({ target }: { target: ScriptureRef }) {
   const { text, loading, missing } = useVerseText(target);
   return (
     <>
-      <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-muted-foreground">
+      <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-[#85878c]">
         {target.book} {target.chapter}:{target.verse}
       </p>
-      <p className="text-[15px] leading-relaxed text-foreground">
+      <p className="text-[15px] leading-relaxed text-[#bbbece]">
         {text || (loading ? "Cargando…" : missing ? "Versículo no disponible." : "Cargando…")}
       </p>
     </>
@@ -62,7 +62,7 @@ function DesktopRefLink({
       <HoverCardContent
         side="top"
         align="center"
-        className="w-[340px] rounded-xl border-[#000f37]/15 p-4 shadow-lg dark:border-white/20"
+        className="w-[340px] rounded-xl border-none bg-[#1c1b2d] p-4 shadow-[0_8px_30px_rgba(0,0,0,0.35)] text-[#bbbece]"
       >
         <RefPreview target={token} />
       </HoverCardContent>
