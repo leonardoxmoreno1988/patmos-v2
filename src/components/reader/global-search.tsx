@@ -329,7 +329,7 @@ export function SearchTrigger({ onClick }: { onClick: () => void }) {
 		>
 			<Search className="h-4 w-4 shrink-0" />
 			<span className="hidden sm:inline">Buscar en las notas...</span>
-			<kbd className="ml-2 hidden items-center gap-0.5 rounded border border-foreground/15 px-1.5 py-0.5 text-[10px] font-medium sm:flex">
+			<kbd className="ml-2 hidden items-center gap-0.5 rounded border border-foreground/15 px-1.5 py-0.5 text-xs font-medium sm:flex">
 				<span>⌘</span>K
 			</kbd>
 		</button>
