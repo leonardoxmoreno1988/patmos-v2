@@ -70,6 +70,58 @@ function DesktopRefLink({
   );
 }
 
+function MobileRefButton({ token, onOpen }: { token: RefToken; onOpen: (t: PreviewTarget) => void }) {
+  return (
+    <button
+      type="button"
+      id={token.id}
+      className={LINK_CLASS}
+      onClick={() =>
+        onOpen({
+          book: token.book,
+          chapter: token.chapter,
+          verse: token.verse,
+          originId: token.id,
+        })
+      }
+    >
+      {token.label}
+    </button>
+  );
+}
+
+/** Converts sanitized note HTML into React nodes, swapping scripture anchors for interactive links. */
+function renderNodes(
+  nodes: NodeListOf<ChildNode> | ChildNode[],
+  renderRef: (token: RefToken, key: string) => ReactNode,
+  keyPrefix = "n",
+): ReactNode[] {
+  return Array.from(nodes).map((node, i) => {
+    const key = `${keyPrefix}-${i}`;
+    if (node.nodeType === 3) return node.textContent;
+    if (node.nodeType !== 1) return null;
+    const el = node as HTMLElement;
+    const tag = el.tagName.toLowerCase();
+
+    if (tag === "a" && el.dataset["refBook"]) {
+      return renderRef(
+        {
+          id: el.id,
+          label: el.textContent ?? "",
+          book: el.dataset["refBook"]!,
+          chapter: Number(el.dataset["refChapter"]),
+          verse: Number(el.dataset["refVerse"]),
+        },
+        key,
+      );
+    }
+
+    if (!ALLOWED_TAGS.has(tag)) return el.textContent;
+    if (tag === "br") return <br key={key} />;
+    return createElement(tag, { key }, renderNodes(el.childNodes, renderRef, key));
+  });
+}
+
 export function StudyNoteCard({
   html,
   onRefClick,
@@ -80,36 +132,27 @@ export function StudyNoteCard({
 }) {
   const isMobile = useIsMobile();
   const [sheet, setSheet] = useState<PreviewTarget | null>(null);
-  const tokens = useMemo(() => tokenize(html), [html]);
+  const linked = useMemo(() => linkifyScriptureRefs(html), [html]);
+
+  const body = useMemo(() => {
+    if (typeof window === "undefined") return null;
+    const doc = new DOMParser().parseFromString(`<body>${linked}</body>`, "text/html");
+    return renderNodes(doc.body.childNodes, (token, key) =>
+      isMobile ? (
+        <MobileRefButton key={key} token={token} onOpen={setSheet} />
+      ) : (
+        <DesktopRefLink key={key} token={token} {...(onRefClick ? { onRefClick } : {})} />
+      ),
+    );
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [linked, isMobile, onRefClick]);
 
   return (
     <>
       <div className="study-note text-base leading-relaxed text-[#000f37] dark:text-foreground/80">
-        {tokens.map((t, i) =>
-          t.kind === "html" ? (
-            <span key={i} dangerouslySetInnerHTML={{ __html: t.html }} />
-          ) : isMobile ? (
-            <button
-              key={i}
-              type="button"
-              id={t.id}
-              className={LINK_CLASS}
-              onClick={() =>
-                setSheet({
-                  book: t.book,
-                  chapter: t.chapter,
-                  verse: t.verse,
-                  originId: t.id,
-                })
-              }
-            >
-              {t.label}
-            </button>
-          ) : (
-            <DesktopRefLink key={i} token={t} {...(onRefClick ? { onRefClick } : {})} />
-          ),
-        )}
+        {body ?? <span dangerouslySetInnerHTML={{ __html: linked }} />}
       </div>
+
       {sheet ? (
         <VerseSheet
           target={sheet}
