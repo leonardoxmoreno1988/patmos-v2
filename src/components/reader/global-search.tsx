@@ -226,10 +226,10 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 								type="button"
 								onClick={() => setFilter(f.key)}
 								className={cn(
-									"rounded-full px-3 py-1 text-sm font-medium transition-colors",
+									"rounded-full border px-3 py-1 text-sm font-medium transition-colors",
 									filter === f.key
-										? "bg-foreground text-background"
-										: "bg-muted text-muted-foreground hover:bg-muted/80",
+										? "border-transparent bg-foreground text-background"
+										: "border-foreground/15 bg-muted text-muted-foreground hover:bg-muted/80",
 								)}
 							>
 								{f.label}
