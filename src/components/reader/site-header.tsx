@@ -1,7 +1,9 @@
+import { useEffect, useState } from "react";
 import { Link } from "@tanstack/react-router";
 import { BookOpen } from "lucide-react";
 
 import { ThemeToggle } from "./theme-toggle";
+import { GlobalSearch, SearchTrigger } from "./global-search";
 
 interface SiteHeaderProps {
  rightLink?: { to: string; label: string };
@@ -10,6 +12,19 @@ interface SiteHeaderProps {
 export function SiteHeader({
  rightLink,
 }: SiteHeaderProps) {
+ const [searchOpen, setSearchOpen] = useState(false);
+
+ useEffect(() => {
+  const onKey = (e: KeyboardEvent) => {
+   if (e.key.toLowerCase() === "k" && (e.metaKey || e.ctrlKey)) {
+    e.preventDefault();
+    setSearchOpen((v) => !v);
+   }
+  };
+  document.addEventListener("keydown", onKey);
+  return () => document.removeEventListener("keydown", onKey);
+ }, []);
+
  return (
   <header className="relative z-30 bg-background/80 backdrop-blur-xl sm:sticky sm:top-0">
    <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-2 sm:py-3.5 lg:py-4">
