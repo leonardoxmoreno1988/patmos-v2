@@ -209,7 +209,10 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 					"sm:max-w-2xl",
 				)}
 			>
-				<Command shouldFilter={false} className="max-sm:h-full">
+				<Command
+					shouldFilter={false}
+					className="max-sm:h-full [&_[cmdk-group-heading]]:text-sm [&_[cmdk-group-heading]]:text-foreground/80"
+				>
 					<CommandInput
 						value={query}
 						onValueChange={setQuery}
