@@ -206,7 +206,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 				className={cn(
 					"overflow-hidden p-0 gap-0",
 					"max-sm:h-[100dvh] max-sm:max-h-[100dvh] max-sm:w-screen max-sm:max-w-none max-sm:rounded-none max-sm:top-0 max-sm:left-0 max-sm:translate-x-0 max-sm:translate-y-0",
-					"sm:max-w-2xl",
+					"sm:max-w-5xl",
 				)}
 			>
 				<Command
