@@ -324,14 +324,11 @@ export function SearchTrigger({ onClick }: { onClick: () => void }) {
 		<button
 			type="button"
 			onClick={onClick}
-			aria-label="Buscar en las notas"
+			aria-label="Buscar"
 			className="flex h-9 items-center gap-2 rounded-full border border-foreground/15 px-3 text-sm text-muted-foreground transition-colors hover:border-foreground/30 sm:px-4"
 		>
 			<Search className="h-4 w-4 shrink-0" />
-			<span className="hidden sm:inline">Buscar en las notas...</span>
-			<kbd className="ml-2 hidden items-center gap-0.5 rounded border border-foreground/15 px-1.5 py-0.5 text-xs font-medium sm:flex">
-				<span>⌘</span>K
-			</kbd>
+			<span className="hidden sm:inline">Buscar...</span>
 		</button>
 	);
 }
