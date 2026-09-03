@@ -53,14 +53,14 @@ export function VersePopover({ target }: { target: PreviewTarget }) {
         ...(above ? { bottom: `calc(100vh - ${rect.top}px + 10px)` } : { top: rect.bottom + 10 }),
         zIndex: 60,
       }}
-      className={`pointer-events-none rounded-xl border-none bg-[#1c1b2d] p-4 shadow-[0_8px_30px_rgba(0,0,0,0.35)] transition-all duration-150 text-[#bbbece] ${
+      className={`pointer-events-none rounded-xl border-none bg-white p-4 shadow-[0_8px_30px_rgba(0,0,0,0.35)] transition-all duration-150 text-slate-900 dark:bg-[#1c1b2d] dark:text-[#bbbece] ${
         mounted ? "translate-y-0 opacity-100" : "translate-y-1 opacity-0"
       }`}
     >
-      <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-[#85878c]">
+      <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-slate-600 dark:text-[#85878c]">
         {label(target)}
       </p>
-      <p className="text-[15px] leading-relaxed text-[#bbbece]">
+      <p className="text-[15px] leading-relaxed text-slate-900 dark:text-[#bbbece]">
         {text ||
           (loading ? "Cargando…" : missing ? "Versículo no disponible." : "Cargando…")}
       </p>
