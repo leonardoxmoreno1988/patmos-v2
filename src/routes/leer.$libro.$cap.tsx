@@ -385,8 +385,9 @@ function Reader() {
       <div
        className={`transition-opacity duration-200 ${
         loading ? "pointer-events-none opacity-40" : "opacity-100"
-       }`}
+       } ${flashNotes ? "flash-target" : ""}`}
       >
+
        {renderNotes()}
       </div>
      </div>
