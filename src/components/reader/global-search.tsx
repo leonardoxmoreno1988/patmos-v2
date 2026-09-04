@@ -132,22 +132,22 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		<Dialog open={open} onOpenChange={onOpenChange}>
 			<DialogContent
 				className={cn(
-					"flex flex-col overflow-hidden p-0 gap-0",
-					"max-sm:h-[100dvh] max-sm:max-h-[100dvh] max-sm:w-screen max-sm:max-w-none max-sm:rounded-none max-sm:top-0 max-sm:left-0 max-sm:translate-x-0 max-sm:translate-y-0",
+					"flex flex-col overflow-hidden p-0 gap-0 h-full",
+					"max-sm:h-[100dvh] max-sm:max-h-none max-sm:w-screen max-sm:max-w-none max-sm:rounded-none max-sm:top-0 max-sm:left-0 max-sm:translate-x-0 max-sm:translate-y-0",
 					"sm:max-w-2xl sm:max-h-[80vh]",
 				)}
 			>
 				<Command
 					shouldFilter={false}
-					className="flex flex-col flex-1 max-sm:h-full [&_[cmdk-group-heading]]:text-sm [&_[cmdk-group-heading]]:text-foreground/80"
+					className="flex flex-col h-full [&_[cmdk-group-heading]]:text-sm [&_[cmdk-group-heading]]:text-foreground/80"
 				>
 					<CommandInput
 						value={query}
 						onValueChange={setQuery}
 						placeholder="Buscar..."
-						className="text-base"
+						className="text-base shrink-0"
 					/>
-					<div className="flex items-center gap-2 px-3 py-2">
+					<div className="flex shrink-0 items-center gap-2 px-3 py-2">
 						{filters.map((f) => (
 							<button
 								key={f.key}
@@ -232,7 +232,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 					</CommandList>
 
 					{hasMore ? (
-						<div className="border-t border-slate-100 bg-white/90 p-3 backdrop-blur-sm dark:border-slate-800/60 dark:bg-slate-900/90">
+						<div className="shrink-0 mt-auto border-t border-slate-100 bg-white/90 p-3 backdrop-blur-sm dark:border-slate-800/60 dark:bg-slate-900/90">
 							<button
 								type="button"
 								onClick={goToSearchPage}
