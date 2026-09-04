@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { useNavigate } from "@tanstack/react-router";
-import { useQuery, useQueryClient } from "@tanstack/react-query";
+import { useQuery } from "@tanstack/react-query";
 import { BookOpen, Search, NotebookPen, ArrowRight } from "lucide-react";
 
 import {
@@ -12,32 +12,16 @@ import {
 	CommandList,
 } from "@/components/ui/command";
 import { Dialog, DialogContent } from "@/components/ui/dialog";
-import { BOOKS, CHAPTER_COUNTS, slugifyBook, type Chapter } from "@/lib/bible";
+import { BOOKS, CHAPTER_COUNTS, slugifyBook } from "@/lib/bible";
 import { studyNotesQuery } from "@/lib/notes";
+import {
+	allBooksQuery,
+	norm,
+	searchNotes,
+	searchVerses,
+	type Hit,
+} from "@/lib/search";
 import { cn } from "@/lib/utils";
-
-const norm = (s: string) =>
-	s
-		.normalize("NFD")
-		.replace(/[\u0300-\u036f]/g, "")
-		.toLowerCase();
-
-const stripHtml = (html: string) =>
-	html
-		.replace(/<[^>]*>/g, " ")
-		.replace(/&nbsp;/g, " ")
-		.replace(/&amp;/g, "&")
-		.replace(/\s{2,}/g, " ")
-		.trim();
-
-/** Returns a short snippet around the first match, with the match wrapped in <mark>. */
-function snippet(text: string, query: string) {
-	const i = norm(text).indexOf(norm(query));
-	if (i < 0) return text.slice(0, 120);
-	const start = Math.max(0, i - 45);
-	const end = Math.min(text.length, i + query.length + 75);
-	return `${start > 0 ? "…" : ""}${text.slice(start, end)}${end < text.length ? "…" : ""}`;
-}
 
 function Highlight({ text, query }: { text: string; query: string }) {
 	const i = norm(text).indexOf(norm(query));
@@ -51,15 +35,6 @@ function Highlight({ text, query }: { text: string; query: string }) {
 			{text.slice(i + query.length)}
 		</>
 	);
-}
-
-interface Hit {
-	key: string;
-	book: string;
-	chapter: number;
-	verse?: number;
-	snippet: string;
-	score: number;
 }
 
 type Filter = "all" | "notes" | "bible";
@@ -83,8 +58,9 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 	const [query, setQuery] = useState("");
 	const [filter, setFilter] = useState<Filter>("all");
 	const navigate = useNavigate();
-	const queryClient = useQueryClient();
 	const notes = useQuery({ ...studyNotesQuery, enabled: open });
+	// Full Bible scan so the footer count matches the /buscar page exactly.
+	const allBooks = useQuery({ ...allBooksQuery, enabled: open });
 
 	useEffect(() => {
 		if (!open) {
@@ -97,61 +73,12 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 
 	const direct = useMemo(() => (q.length >= 2 ? parseReference(q) : null), [q]);
 
-	const allNoteHits = useMemo<Hit[]>(() => {
-		if (q.length < 3 || !notes.data) return [];
-		const out: Hit[] = [];
-		for (const [key, html] of Object.entries(notes.data)) {
-			const text = stripHtml(html);
-			const nText = norm(text);
-			const nq = norm(q);
-			const idx = key.lastIndexOf("-");
-			const bookName = key.slice(0, idx);
-			const chapter = Number(key.slice(idx + 1));
-			const titleMatch = norm(bookName).includes(nq) || String(chapter).includes(q);
-			const bodyMatch = nText.includes(nq);
-			if (titleMatch || bodyMatch) {
-				out.push({
-					key: `note-${key}`,
-					book: bookName,
-					chapter,
-					snippet: snippet(text, q),
-					score: (titleMatch ? 2 : 0) + (bodyMatch ? 1 : 0),
-				});
-			}
-		}
-		return out.sort((a, b) => b.score - a.score);
-	}, [notes.data, q]);
-
-	const allVerseHits = useMemo<Hit[]>(() => {
-		if (q.length < 3) return [];
-		const out: Hit[] = [];
-		for (const book of BOOKS) {
-			const cached = queryClient.getQueryData<Chapter[]>(["bible", "book", book.bookid]);
-			if (!cached) continue;
-			for (const ch of cached) {
-				for (const v of ch.verses) {
-					const nText = norm(v.text);
-					const nq = norm(q);
-					const titleMatch =
-						norm(book.name).includes(nq) ||
-						`${ch.chapter}:${v.verse}`.includes(q) ||
-						String(ch.chapter).includes(q);
-					const bodyMatch = nText.includes(nq);
-					if (titleMatch || bodyMatch) {
-						out.push({
-							key: `v-${book.bookid}-${ch.chapter}-${v.verse}`,
-							book: book.name,
-							chapter: ch.chapter,
-							verse: v.verse,
-							snippet: snippet(v.text, q),
-							score: (titleMatch ? 2 : 0) + (bodyMatch ? 1 : 0),
-						});
-					}
-				}
-			}
-		}
-		return out.sort((a, b) => b.score - a.score);
-	}, [q, queryClient, open]);
+	// Shared search utilities keep the modal 1:1 in sync with /buscar.
+	const allNoteHits = useMemo<Hit[]>(() => searchNotes(notes.data, q), [notes.data, q]);
+	const allVerseHits = useMemo<Hit[]>(
+		() => (allBooks.data ? searchVerses(allBooks.data, q) : []),
+		[allBooks.data, q],
+	);
 
 	const visibleNoteHits = useMemo(() => {
 		if (filter === "bible") return [];
