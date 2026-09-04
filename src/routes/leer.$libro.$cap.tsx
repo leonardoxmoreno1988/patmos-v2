@@ -71,8 +71,11 @@ function Reader() {
   { book: string; chapter: number; verse: number; originId?: string }[]
  >([]);
  const [flashVerse, setFlashVerse] = useState<number | null>(null);
+ const [flashNotes, setFlashNotes] = useState(false);
  const pendingVerse = useRef<number | null>(null);
  const pendingElId = useRef<string | null>(null);
+ const hash = useRouterState({ select: (s) => s.location.hash });
+
 
  const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
  const bookId = book.bookid;
