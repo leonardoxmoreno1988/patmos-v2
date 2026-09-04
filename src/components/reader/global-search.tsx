@@ -132,14 +132,14 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		<Dialog open={open} onOpenChange={onOpenChange}>
 			<DialogContent
 				className={cn(
-					"overflow-hidden p-0 gap-0",
+					"flex flex-col overflow-hidden p-0 gap-0",
 					"max-sm:h-[100dvh] max-sm:max-h-[100dvh] max-sm:w-screen max-sm:max-w-none max-sm:rounded-none max-sm:top-0 max-sm:left-0 max-sm:translate-x-0 max-sm:translate-y-0",
-					"sm:max-w-2xl",
+					"sm:max-w-2xl sm:max-h-[80vh]",
 				)}
 			>
 				<Command
 					shouldFilter={false}
-					className="max-sm:h-full [&_[cmdk-group-heading]]:text-sm [&_[cmdk-group-heading]]:text-foreground/80"
+					className="flex flex-col flex-1 max-sm:h-full [&_[cmdk-group-heading]]:text-sm [&_[cmdk-group-heading]]:text-foreground/80"
 				>
 					<CommandInput
 						value={query}
@@ -164,7 +164,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 							</button>
 						))}
 					</div>
-					<CommandList className="max-h-[60vh] max-sm:max-h-none max-sm:h-[calc(100dvh-3rem-44px)]">
+					<CommandList className="flex-1 overflow-y-auto min-h-0">
 						{empty ? <CommandEmpty>No se encontraron resultados.</CommandEmpty> : null}
 
 						{direct ? (
@@ -229,20 +229,20 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 							</CommandGroup>
 						) : null}
 
-						{hasMore ? (
-							<CommandGroup className="py-3">
-								<CommandItem
-									value="show-all"
-									onSelect={goToSearchPage}
-									className="mx-auto w-fit justify-center gap-2 rounded-full border border-slate-300 px-6 py-2.5 text-sm font-medium text-foreground transition-colors hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
-								>
-									Ver todos los {totalCount} resultados para &ldquo;{q}&rdquo;
-									<ArrowRight className="h-4 w-4 shrink-0 opacity-60" />
-								</CommandItem>
-							</CommandGroup>
-						) : null}
-
 					</CommandList>
+
+					{hasMore ? (
+						<div className="border-t border-slate-100 bg-white/90 p-3 backdrop-blur-sm dark:border-slate-800/60 dark:bg-slate-900/90">
+							<button
+								type="button"
+								onClick={goToSearchPage}
+								className="mx-auto flex w-fit items-center justify-center gap-2 rounded-full border border-slate-300 px-6 py-2.5 text-sm font-medium text-foreground transition-colors hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
+							>
+								Ver todos los {totalCount} resultados para &ldquo;{q}&rdquo;
+								<ArrowRight className="h-4 w-4 shrink-0 opacity-60" />
+							</button>
+						</div>
+					) : null}
 				</Command>
 			</DialogContent>
 		</Dialog>
