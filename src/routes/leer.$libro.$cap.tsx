@@ -41,8 +41,9 @@ function VerseText({
   <span
    id={`verse-${verse.verse}`}
    className={`-mx-2 block scroll-mt-44 cursor-text select-text rounded-lg px-2 py-1 text-[18px] sm:text-[19px] leading-relaxed text-foreground ${
-    flashing ? "bg-verse-highlight" : ""
+    flashing ? "flash-target" : ""
    }`}
+
   >
 
    <sup className="mr-2 inline-block select-none text-xs font-medium text-verse-number">
