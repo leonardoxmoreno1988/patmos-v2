@@ -139,7 +139,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 			>
 				<Command
 					shouldFilter={false}
-					className="max-sm:h-full [&_[cmdk-group-heading]]:text-sm [&_[cmdk-group-heading]]:text-foreground/80"
+					className="flex flex-col flex-1 max-sm:h-full [&_[cmdk-group-heading]]:text-sm [&_[cmdk-group-heading]]:text-foreground/80"
 				>
 					<CommandInput
 						value={query}
