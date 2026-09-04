@@ -132,9 +132,9 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		<Dialog open={open} onOpenChange={onOpenChange}>
 			<DialogContent
 				className={cn(
-					"flex flex-col overflow-hidden p-0 gap-0 h-[100dvh] sm:h-auto sm:max-h-[85vh]",
+					"flex flex-col overflow-hidden p-0 gap-0 h-[100dvh] w-full justify-between bg-white dark:bg-slate-900",
 					"max-sm:w-screen max-sm:max-w-none max-sm:rounded-none max-sm:top-0 max-sm:left-0 max-sm:translate-x-0 max-sm:translate-y-0",
-					"sm:max-w-2xl",
+					"sm:h-auto sm:max-h-[85vh] sm:max-w-2xl sm:rounded-2xl",
 				)}
 			>
 				<Command
@@ -232,7 +232,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 					</CommandList>
 
 				{hasMore ? (
-					<div className="shrink-0 border-t border-slate-100 bg-white/90 p-3 backdrop-blur-sm dark:border-slate-800 dark:bg-slate-900/90">
+					<div className="flex-shrink-0 mt-auto w-full border-t border-slate-100 bg-white p-4 dark:border-slate-800 dark:bg-slate-900">
 						<button
 							type="button"
 							onClick={goToSearchPage}
