@@ -16,6 +16,7 @@ import { BOOKS, CHAPTER_COUNTS, slugifyBook } from "@/lib/bible";
 import { studyNotesQuery } from "@/lib/notes";
 import {
 	allBooksQuery,
+	matchIndex,
 	norm,
 	searchNotes,
 	searchVerses,
@@ -24,15 +25,16 @@ import {
 import { cn } from "@/lib/utils";
 
 function Highlight({ text, query }: { text: string; query: string }) {
-	const i = norm(text).indexOf(norm(query));
-	if (i < 0 || !query) return <>{text}</>;
+	const q = query.trim();
+	const i = matchIndex(text, q);
+	if (i < 0) return <>{text}</>;
 	return (
 		<>
 			{text.slice(0, i)}
 			<span className="rounded bg-amber-500/20 px-1 font-medium text-amber-700 dark:text-amber-300">
-				{text.slice(i, i + query.length)}
+				{text.slice(i, i + q.length)}
 			</span>
-			{text.slice(i + query.length)}
+			{text.slice(i + q.length)}
 		</>
 	);
 }
