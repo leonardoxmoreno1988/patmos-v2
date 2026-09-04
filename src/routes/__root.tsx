@@ -108,12 +108,9 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     scripts: [
       {
         type: "text/javascript",
-        src: "https://plausible.io/js/pa-z3FVFI6YW81-gJHDLl1E9.js",
-        async: true,
-      },
-      {
-        type: "text/javascript",
-        innerHTML: `window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};plausible.init();`,
+        src: "https://cloud.umami.is/script.js",
+        defer: true,
+        "data-website-id": "bdfd0465-45a8-47d8-8cc0-076ed1c98361",
       },
     ],
   }),
