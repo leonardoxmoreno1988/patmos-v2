@@ -6,7 +6,7 @@ import { BookOpen, NotebookPen, Search } from "lucide-react";
 import { SiteHeader } from "@/components/reader/site-header";
 import { slugifyBook } from "@/lib/bible";
 import { studyNotesQuery } from "@/lib/notes";
-import { allBooksQuery, norm, searchNotes, searchVerses, type Hit } from "@/lib/search";
+import { allBooksQuery, matchIndex, searchNotes, searchVerses, type Hit } from "@/lib/search";
 import { cn } from "@/lib/utils";
 
 type Filter = "all" | "notes" | "bible";
@@ -48,15 +48,16 @@ export const Route = createFileRoute("/buscar")({
 });
 
 function Highlight({ text, query }: { text: string; query: string }) {
-	const i = query ? norm(text).indexOf(norm(query)) : -1;
+	const q = query.trim();
+	const i = matchIndex(text, q);
 	if (i < 0) return <>{text}</>;
 	return (
 		<>
 			{text.slice(0, i)}
 			<mark className="rounded bg-amber-500/25 px-0.5 font-semibold text-amber-800 dark:bg-amber-400/25 dark:text-amber-200">
-				{text.slice(i, i + query.length)}
+				{text.slice(i, i + q.length)}
 			</mark>
-			{text.slice(i + query.length)}
+			{text.slice(i + q.length)}
 		</>
 	);
 }
