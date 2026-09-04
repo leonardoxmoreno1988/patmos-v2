@@ -82,7 +82,6 @@ function parseReference(query: string) {
 export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChange: (v: boolean) => void }) {
 	const [query, setQuery] = useState("");
 	const [filter, setFilter] = useState<Filter>("all");
-	const [showAll, setShowAll] = useState(false);
 	const navigate = useNavigate();
 	const queryClient = useQueryClient();
 	const notes = useQuery({ ...studyNotesQuery, enabled: open });
@@ -91,13 +90,8 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		if (!open) {
 			setQuery("");
 			setFilter("all");
-			setShowAll(false);
 		}
 	}, [open]);
-
-	useEffect(() => {
-		setShowAll(false);
-	}, [filter, query]);
 
 	const q = query.trim();
 
@@ -161,23 +155,20 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 
 	const visibleNoteHits = useMemo(() => {
 		if (filter === "bible") return [];
-		if (filter === "notes" || showAll) return allNoteHits;
-		return allNoteHits.slice(0, 4);
-	}, [allNoteHits, filter, showAll]);
+		return allNoteHits.slice(0, 5);
+	}, [allNoteHits, filter]);
 
 	const visibleVerseHits = useMemo(() => {
 		if (filter === "notes") return [];
-		if (filter === "bible" || showAll) return allVerseHits;
-		return allVerseHits.slice(0, 4);
-	}, [allVerseHits, filter, showAll]);
+		return allVerseHits.slice(0, 5);
+	}, [allVerseHits, filter]);
 
 	const totalCount =
 		filter === "all" ? allNoteHits.length + allVerseHits.length :
 		filter === "notes" ? allNoteHits.length :
 		allVerseHits.length;
 
-	const visibleCount = visibleNoteHits.length + visibleVerseHits.length;
-	const hasMore = !showAll && visibleCount < totalCount;
+	const hasMore = q.length >= 3;
 
 	const go = (book: string, chapter: number, verse?: number) => {
 		onOpenChange(false);
@@ -188,11 +179,17 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		});
 	};
 
+	const goToSearchPage = () => {
+		onOpenChange(false);
+		navigate({ to: "/buscar", search: { q, filter, page: 1 } });
+	};
+
 	const empty =
 		q.length >= 2 &&
 		!direct &&
 		visibleNoteHits.length === 0 &&
 		visibleVerseHits.length === 0;
+
 
 	const filters: { key: Filter; label: string }[] = [
 		{ key: "all", label: "Todos" },
@@ -305,13 +302,15 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 							<CommandGroup>
 								<CommandItem
 									value="show-all"
-									onSelect={() => setShowAll(true)}
-									className="justify-center text-sm text-muted-foreground"
+									onSelect={goToSearchPage}
+									className="justify-center gap-2 text-sm font-medium text-foreground"
 								>
-									Ver todos los resultados para &ldquo;{q}&rdquo; ({totalCount})
+									Ver todos los {totalCount} resultados para &ldquo;{q}&rdquo;
+									<ArrowRight className="h-4 w-4 shrink-0 opacity-60" />
 								</CommandItem>
 							</CommandGroup>
 						) : null}
+
 					</CommandList>
 				</Command>
 			</DialogContent>
