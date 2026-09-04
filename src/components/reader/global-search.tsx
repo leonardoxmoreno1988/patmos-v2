@@ -170,14 +170,16 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 
 	const hasMore = q.length >= 3;
 
-	const go = (book: string, chapter: number, verse?: number) => {
+	const go = (book: string, chapter: number, verse?: number, notes = false) => {
 		onOpenChange(false);
 		navigate({
 			to: "/leer/$libro/$cap",
 			params: { libro: slugifyBook(book), cap: String(chapter) },
-			...(verse ? { hash: `verse-${verse}` } : {}),
+			...(verse ? { hash: `verse-${verse}` } : notes ? { hash: "notas" } : {}),
 		});
 	};
+
+
 
 	const goToSearchPage = () => {
 		onOpenChange(false);
@@ -258,7 +260,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 									<CommandItem
 										key={h.key}
 										value={h.key}
-										onSelect={() => go(h.book, h.chapter)}
+										onSelect={() => go(h.book, h.chapter, undefined, true)}
 										className="items-start gap-3"
 									>
 										<NotebookPen className="mt-0.5 h-4 w-4 shrink-0 opacity-60" />

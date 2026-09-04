@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from "react";
-import { createFileRoute, useNavigate } from "@tanstack/react-router";
+import { createFileRoute, useNavigate, useRouterState } from "@tanstack/react-router";
+
 import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
@@ -40,8 +41,9 @@ function VerseText({
   <span
    id={`verse-${verse.verse}`}
    className={`-mx-2 block scroll-mt-44 cursor-text select-text rounded-lg px-2 py-1 text-[18px] sm:text-[19px] leading-relaxed text-foreground ${
-    flashing ? "bg-verse-highlight" : ""
+    flashing ? "flash-target" : ""
    }`}
+
   >
 
    <sup className="mr-2 inline-block select-none text-xs font-medium text-verse-number">
@@ -69,8 +71,11 @@ function Reader() {
   { book: string; chapter: number; verse: number; originId?: string }[]
  >([]);
  const [flashVerse, setFlashVerse] = useState<number | null>(null);
+ const [flashNotes, setFlashNotes] = useState(false);
  const pendingVerse = useRef<number | null>(null);
  const pendingElId = useRef<string | null>(null);
+ const hash = useRouterState({ select: (s) => s.location.hash });
+
 
  const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
  const bookId = book.bookid;
@@ -128,6 +133,36 @@ function Reader() {
   return () => window.clearTimeout(t);
   // eslint-disable-next-line react-hooks/exhaustive-deps
  }, [libro, cap, studyNotes.data, verses]);
+
+ /** Deep linking: scrolls to and flashes the element referenced by the URL hash. */
+ useEffect(() => {
+  if (typeof window === "undefined") return;
+  const raw = (hash || window.location.hash).replace(/^#/, "");
+  if (!raw) return;
+  const t = window.setTimeout(() => {
+   const targets =
+    raw === "notas" || raw.startsWith("note")
+     ? ["study-notes-desktop", "study-notes-section"]
+     : [raw];
+   const el = targets
+    .map((id) => document.getElementById(id))
+    .find((n): n is HTMLElement => !!n && n.getClientRects().length > 0);
+   if (!el) return;
+   el.scrollIntoView({ behavior: "smooth", block: "center" });
+   const verseMatch = /^verse-(\d+)$/.exec(raw);
+   if (verseMatch) {
+    const n = Number(verseMatch[1]);
+    setFlashVerse(n);
+    window.setTimeout(() => setFlashVerse((c) => (c === n ? null : c)), 2400);
+   } else {
+    setFlashNotes(true);
+    window.setTimeout(() => setFlashNotes(false), 2400);
+   }
+  }, 120);
+  return () => window.clearTimeout(t);
+ }, [hash, libro, cap, verses, studyNotes.data]);
+
+
 
  const renderNotes = () =>
   getNote(studyNotes.data, book.name, chapter) ? (
@@ -332,22 +367,27 @@ function Reader() {
      <div
       className={`space-y-6 transition-opacity duration-200 ${
        loading ? "pointer-events-none opacity-40" : "opacity-100"
-      }`}
+      } ${flashNotes ? "flash-target" : ""}`}
      >
       {notesContent}
      </div>
     </section>
 
     <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
-     <div className="min-h-full border-l border-[#000f37] bg-transparent pt-0 pb-16 pl-6 shadow-none dark:border-[#bcbecd] lg:pl-8">
+     <div
+      id="study-notes-desktop"
+      className="min-h-full scroll-mt-[8rem] border-l border-[#000f37] bg-transparent pt-0 pb-16 pl-6 shadow-none dark:border-[#bcbecd] lg:pl-8"
+     >
+
       <h2 className="mb-3 text-lg font-bold text-foreground lg:text-[20px]">
        Notas
       </h2>
       <div
        className={`transition-opacity duration-200 ${
         loading ? "pointer-events-none opacity-40" : "opacity-100"
-       }`}
+       } ${flashNotes ? "flash-target" : ""}`}
       >
+
        {renderNotes()}
       </div>
      </div>

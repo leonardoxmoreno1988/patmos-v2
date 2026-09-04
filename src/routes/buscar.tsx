@@ -153,7 +153,7 @@ function SearchPage() {
 							<Link
 								to="/leer/$libro/$cap"
 								params={{ libro: slugifyBook(h.book), cap: String(h.chapter) }}
-								{...(h.verse ? { hash: `verse-${h.verse}` } : {})}
+								hash={h.verse ? `verse-${h.verse}` : "notas"}
 								className="flex items-start gap-3 py-4 transition-colors hover:bg-muted/40"
 							>
 								{h.verse ? (
