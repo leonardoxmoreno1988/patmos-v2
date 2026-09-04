@@ -132,9 +132,9 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		<Dialog open={open} onOpenChange={onOpenChange}>
 			<DialogContent
 				className={cn(
-					"flex flex-col overflow-hidden p-0 gap-0 h-full",
-					"max-sm:h-[100dvh] max-sm:max-h-none max-sm:w-screen max-sm:max-w-none max-sm:rounded-none max-sm:top-0 max-sm:left-0 max-sm:translate-x-0 max-sm:translate-y-0",
-					"sm:max-w-2xl sm:max-h-[80vh]",
+					"flex flex-col overflow-hidden p-0 gap-0 h-[100dvh] sm:h-auto sm:max-h-[85vh]",
+					"max-sm:w-screen max-sm:max-w-none max-sm:rounded-none max-sm:top-0 max-sm:left-0 max-sm:translate-x-0 max-sm:translate-y-0",
+					"sm:max-w-2xl",
 				)}
 			>
 				<Command
