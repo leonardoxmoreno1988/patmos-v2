@@ -134,6 +134,36 @@ function Reader() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
  }, [libro, cap, studyNotes.data, verses]);
 
+ /** Deep linking: scrolls to and flashes the element referenced by the URL hash. */
+ useEffect(() => {
+  if (typeof window === "undefined") return;
+  const raw = (hash || window.location.hash).replace(/^#/, "");
+  if (!raw) return;
+  const t = window.setTimeout(() => {
+   const targets =
+    raw === "notas" || raw.startsWith("note")
+     ? ["study-notes-desktop", "study-notes-section"]
+     : [raw];
+   const el = targets
+    .map((id) => document.getElementById(id))
+    .find((n): n is HTMLElement => !!n && n.getClientRects().length > 0);
+   if (!el) return;
+   el.scrollIntoView({ behavior: "smooth", block: "center" });
+   const verseMatch = /^verse-(\d+)$/.exec(raw);
+   if (verseMatch) {
+    const n = Number(verseMatch[1]);
+    setFlashVerse(n);
+    window.setTimeout(() => setFlashVerse((c) => (c === n ? null : c)), 2400);
+   } else {
+    setFlashNotes(true);
+    window.setTimeout(() => setFlashNotes(false), 2400);
+   }
+  }, 120);
+  return () => window.clearTimeout(t);
+ }, [hash, libro, cap, verses, studyNotes.data]);
+
+
+
  const renderNotes = () =>
   getNote(studyNotes.data, book.name, chapter) ? (
    <StudyNoteCard
