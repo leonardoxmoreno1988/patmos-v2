@@ -216,7 +216,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 					<CommandInput
 						value={query}
 						onValueChange={setQuery}
-						placeholder="Buscar en las notas..."
+						placeholder="Buscar..."
 						className="text-base"
 					/>
 					<div className="flex items-center gap-2 px-3 py-2">
