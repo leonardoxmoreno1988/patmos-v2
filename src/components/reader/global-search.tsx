@@ -229,20 +229,20 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 							</CommandGroup>
 						) : null}
 
-						{hasMore ? (
-							<CommandGroup className="py-3">
-								<CommandItem
-									value="show-all"
-									onSelect={goToSearchPage}
-									className="mx-auto w-fit justify-center gap-2 rounded-full border border-slate-300 px-6 py-2.5 text-sm font-medium text-foreground transition-colors hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
-								>
-									Ver todos los {totalCount} resultados para &ldquo;{q}&rdquo;
-									<ArrowRight className="h-4 w-4 shrink-0 opacity-60" />
-								</CommandItem>
-							</CommandGroup>
-						) : null}
-
 					</CommandList>
+
+					{hasMore ? (
+						<div className="border-t border-slate-100 bg-white/90 p-3 backdrop-blur-sm dark:border-slate-800/60 dark:bg-slate-900/90">
+							<button
+								type="button"
+								onClick={goToSearchPage}
+								className="mx-auto flex w-fit items-center justify-center gap-2 rounded-full border border-slate-300 px-6 py-2.5 text-sm font-medium text-foreground transition-colors hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
+							>
+								Ver todos los {totalCount} resultados para &ldquo;{q}&rdquo;
+								<ArrowRight className="h-4 w-4 shrink-0 opacity-60" />
+							</button>
+						</div>
+					) : null}
 				</Command>
 			</DialogContent>
 		</Dialog>
