@@ -232,7 +232,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 					</CommandList>
 
 					{hasMore ? (
-						<div className="border-t border-slate-100 bg-white/90 p-3 backdrop-blur-sm dark:border-slate-800/60 dark:bg-slate-900/90">
+						<div className="shrink-0 mt-auto border-t border-slate-100 bg-white/90 p-3 backdrop-blur-sm dark:border-slate-800/60 dark:bg-slate-900/90">
 							<button
 								type="button"
 								onClick={goToSearchPage}
