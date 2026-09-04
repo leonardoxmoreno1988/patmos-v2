@@ -164,7 +164,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 							</button>
 						))}
 					</div>
-					<CommandList className="flex-1 overflow-y-auto min-h-0">
+					<CommandList className="flex-1 min-h-0 max-h-none h-full overflow-y-auto">
 						{empty ? <CommandEmpty>No se encontraron resultados.</CommandEmpty> : null}
 
 						{direct ? (
