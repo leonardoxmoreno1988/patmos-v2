@@ -309,13 +309,15 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 							<CommandGroup>
 								<CommandItem
 									value="show-all"
-									onSelect={() => setShowAll(true)}
-									className="justify-center text-sm text-muted-foreground"
+									onSelect={goToSearchPage}
+									className="justify-center gap-2 text-sm font-medium text-foreground"
 								>
-									Ver todos los resultados para &ldquo;{q}&rdquo; ({totalCount})
+									Ver todos los {totalCount} resultados para &ldquo;{q}&rdquo;
+									<ArrowRight className="h-4 w-4 shrink-0 opacity-60" />
 								</CommandItem>
 							</CommandGroup>
 						) : null}
+
 					</CommandList>
 				</Command>
 			</DialogContent>
