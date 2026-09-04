@@ -219,7 +219,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 						placeholder="Buscar en las notas..."
 						className="text-base"
 					/>
-					<div className="flex items-center gap-2 border-b border-border/60 px-3 py-2">
+					<div className="flex items-center gap-2 px-3 py-2">
 						{filters.map((f) => (
 							<button
 								key={f.key}
@@ -266,7 +266,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 									>
 										<NotebookPen className="mt-0.5 h-4 w-4 shrink-0 opacity-60" />
 										<span className="min-w-0">
-											<span className="block text-sm font-medium">
+											<span className="block text-sm font-semibold">
 												{h.book} {h.chapter}
 											</span>
 											<span className="block text-sm text-search-snippet line-clamp-2">
@@ -289,7 +289,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 									>
 										<BookOpen className="mt-0.5 h-4 w-4 shrink-0 opacity-60" />
 										<span className="min-w-0">
-											<span className="block text-sm font-medium">
+											<span className="block text-sm font-semibold">
 												{h.book} {h.chapter}:{h.verse}
 											</span>
 											<span className="block text-sm text-search-snippet line-clamp-2">
