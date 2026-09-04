@@ -196,7 +196,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 
 	const filters: { key: Filter; label: string }[] = [
 		{ key: "all", label: "Todos" },
-		{ key: "notes", label: "Comentarios" },
+		{ key: "notes", label: "Notas" },
 		{ key: "bible", label: "Biblia" },
 	];
 
@@ -226,10 +226,10 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 								type="button"
 								onClick={() => setFilter(f.key)}
 								className={cn(
-									"rounded-full border px-3 py-1 text-sm font-medium transition-colors",
+									"rounded-full border-0 px-3 py-1 text-sm font-medium transition-colors",
 									filter === f.key
-										? "border-transparent bg-foreground text-background"
-										: "border-foreground/15 bg-muted text-muted-foreground hover:bg-muted/80",
+										? "bg-foreground text-background"
+										: "bg-muted text-muted-foreground hover:bg-muted/80",
 								)}
 							>
 								{f.label}
@@ -256,7 +256,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 						) : null}
 
 						{visibleNoteHits.length > 0 ? (
-							<CommandGroup heading="Comentarios y notas">
+							<CommandGroup heading="Notas de estudio">
 								{visibleNoteHits.map((h) => (
 									<CommandItem
 										key={h.key}
@@ -269,7 +269,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 											<span className="block text-sm font-medium">
 												{h.book} {h.chapter}
 											</span>
-											<span className="block text-xs text-search-snippet line-clamp-2">
+											<span className="block text-sm text-search-snippet line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
 											</span>
 										</span>
@@ -292,7 +292,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 											<span className="block text-sm font-medium">
 												{h.book} {h.chapter}:{h.verse}
 											</span>
-											<span className="block text-xs text-search-snippet line-clamp-2">
+											<span className="block text-sm text-search-snippet line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
 											</span>
 										</span>
