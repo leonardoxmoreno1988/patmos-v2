@@ -82,7 +82,6 @@ function parseReference(query: string) {
 export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChange: (v: boolean) => void }) {
 	const [query, setQuery] = useState("");
 	const [filter, setFilter] = useState<Filter>("all");
-	const [showAll, setShowAll] = useState(false);
 	const navigate = useNavigate();
 	const queryClient = useQueryClient();
 	const notes = useQuery({ ...studyNotesQuery, enabled: open });
@@ -91,13 +90,8 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		if (!open) {
 			setQuery("");
 			setFilter("all");
-			setShowAll(false);
 		}
 	}, [open]);
-
-	useEffect(() => {
-		setShowAll(false);
-	}, [filter, query]);
 
 	const q = query.trim();
 
@@ -174,7 +168,6 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		filter === "notes" ? allNoteHits.length :
 		allVerseHits.length;
 
-	const visibleCount = visibleNoteHits.length + visibleVerseHits.length;
 	const hasMore = q.length >= 3;
 
 	const go = (book: string, chapter: number, verse?: number) => {
