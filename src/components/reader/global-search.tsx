@@ -175,9 +175,10 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		navigate({
 			to: "/leer/$libro/$cap",
 			params: { libro: slugifyBook(book), cap: String(chapter) },
-			...(verse ? { hash: `verse-${verse}` } : {}),
+			hash: verse ? `verse-${verse}` : "notas",
 		});
 	};
+
 
 	const goToSearchPage = () => {
 		onOpenChange(false);
