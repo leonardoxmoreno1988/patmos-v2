@@ -10,12 +10,18 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as BuscarRouteImport } from './routes/buscar'
 import { Route as NewsletterRouteImport } from './routes/newsletter'
 import { Route as LeerLibroCapRouteImport } from './routes/leer.$libro.$cap'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const BuscarRoute = BuscarRouteImport.update({
+  id: '/buscar',
+  path: '/buscar',
   getParentRoute: () => rootRouteImport,
 } as any)
 const NewsletterRoute = NewsletterRouteImport.update({
@@ -31,30 +37,34 @@ const LeerLibroCapRoute = LeerLibroCapRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/buscar': typeof BuscarRoute
   '/newsletter': typeof NewsletterRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/buscar': typeof BuscarRoute
   '/newsletter': typeof NewsletterRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/buscar': typeof BuscarRoute
   '/newsletter': typeof NewsletterRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/newsletter' | '/leer/$libro/$cap'
+  fullPaths: '/' | '/buscar' | '/newsletter' | '/leer/$libro/$cap'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/newsletter' | '/leer/$libro/$cap'
-  id: '__root__' | '/' | '/newsletter' | '/leer/$libro/$cap'
+  to: '/' | '/buscar' | '/newsletter' | '/leer/$libro/$cap'
+  id: '__root__' | '/' | '/buscar' | '/newsletter' | '/leer/$libro/$cap'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  BuscarRoute: typeof BuscarRoute
   NewsletterRoute: typeof NewsletterRoute
   LeerLibroCapRoute: typeof LeerLibroCapRoute
 }
@@ -66,6 +76,13 @@ declare module '@tanstack/react-router' {
       path: '/'
       fullPath: '/'
       preLoaderRoute: typeof IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/buscar': {
+      id: '/buscar'
+      path: '/buscar'
+      fullPath: '/buscar'
+      preLoaderRoute: typeof BuscarRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/newsletter': {
@@ -87,6 +104,7 @@ declare module '@tanstack/react-router' {
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  BuscarRoute: BuscarRoute,
   NewsletterRoute: NewsletterRoute,
   LeerLibroCapRoute: LeerLibroCapRoute,
 }

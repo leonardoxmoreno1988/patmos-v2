@@ -161,15 +161,13 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 
 	const visibleNoteHits = useMemo(() => {
 		if (filter === "bible") return [];
-		if (filter === "notes" || showAll) return allNoteHits;
-		return allNoteHits.slice(0, 4);
-	}, [allNoteHits, filter, showAll]);
+		return allNoteHits.slice(0, 5);
+	}, [allNoteHits, filter]);
 
 	const visibleVerseHits = useMemo(() => {
 		if (filter === "notes") return [];
-		if (filter === "bible" || showAll) return allVerseHits;
-		return allVerseHits.slice(0, 4);
-	}, [allVerseHits, filter, showAll]);
+		return allVerseHits.slice(0, 5);
+	}, [allVerseHits, filter]);
 
 	const totalCount =
 		filter === "all" ? allNoteHits.length + allVerseHits.length :
@@ -177,7 +175,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		allVerseHits.length;
 
 	const visibleCount = visibleNoteHits.length + visibleVerseHits.length;
-	const hasMore = !showAll && visibleCount < totalCount;
+	const hasMore = q.length >= 3;
 
 	const go = (book: string, chapter: number, verse?: number) => {
 		onOpenChange(false);
@@ -188,11 +186,17 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		});
 	};
 
+	const goToSearchPage = () => {
+		onOpenChange(false);
+		navigate({ to: "/buscar", search: { q, filter, page: 1 } });
+	};
+
 	const empty =
 		q.length >= 2 &&
 		!direct &&
 		visibleNoteHits.length === 0 &&
 		visibleVerseHits.length === 0;
+
 
 	const filters: { key: Filter; label: string }[] = [
 		{ key: "all", label: "Todos" },
