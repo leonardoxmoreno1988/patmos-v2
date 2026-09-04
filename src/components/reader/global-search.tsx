@@ -132,9 +132,9 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 		<Dialog open={open} onOpenChange={onOpenChange}>
 			<DialogContent
 				className={cn(
-					"flex flex-col overflow-hidden p-0 gap-0 h-full",
-					"max-sm:h-[100dvh] max-sm:max-h-none max-sm:w-screen max-sm:max-w-none max-sm:rounded-none max-sm:top-0 max-sm:left-0 max-sm:translate-x-0 max-sm:translate-y-0",
-					"sm:max-w-2xl sm:max-h-[80vh]",
+					"flex flex-col overflow-hidden p-0 gap-0 h-[100dvh] sm:h-auto sm:max-h-[85vh]",
+					"max-sm:w-screen max-sm:max-w-none max-sm:rounded-none max-sm:top-0 max-sm:left-0 max-sm:translate-x-0 max-sm:translate-y-0",
+					"sm:max-w-2xl",
 				)}
 			>
 				<Command
@@ -231,18 +231,18 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 
 					</CommandList>
 
-					{hasMore ? (
-						<div className="shrink-0 mt-auto border-t border-slate-100 bg-white/90 p-3 backdrop-blur-sm dark:border-slate-800/60 dark:bg-slate-900/90">
-							<button
-								type="button"
-								onClick={goToSearchPage}
-								className="mx-auto flex w-fit items-center justify-center gap-2 rounded-full border border-slate-300 px-6 py-2.5 text-sm font-medium text-foreground transition-colors hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
-							>
-								Ver todos los {totalCount} resultados para &ldquo;{q}&rdquo;
-								<ArrowRight className="h-4 w-4 shrink-0 opacity-60" />
-							</button>
-						</div>
-					) : null}
+				{hasMore ? (
+					<div className="shrink-0 border-t border-slate-100 bg-white/90 p-3 backdrop-blur-sm dark:border-slate-800 dark:bg-slate-900/90">
+						<button
+							type="button"
+							onClick={goToSearchPage}
+							className="mx-auto flex w-fit items-center justify-center gap-2 rounded-full border border-slate-300 px-6 py-2.5 text-sm font-medium text-foreground transition-colors hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
+						>
+							Ver todos los {totalCount} resultados para &ldquo;{q}&rdquo;
+							<ArrowRight className="h-4 w-4 shrink-0 opacity-60" />
+						</button>
+					</div>
+				) : null}
 				</Command>
 			</DialogContent>
 		</Dialog>
