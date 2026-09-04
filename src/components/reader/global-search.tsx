@@ -170,14 +170,15 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 
 	const hasMore = q.length >= 3;
 
-	const go = (book: string, chapter: number, verse?: number) => {
+	const go = (book: string, chapter: number, verse?: number, notes = false) => {
 		onOpenChange(false);
 		navigate({
 			to: "/leer/$libro/$cap",
 			params: { libro: slugifyBook(book), cap: String(chapter) },
-			hash: verse ? `verse-${verse}` : "notas",
+			...(verse ? { hash: `verse-${verse}` } : notes ? { hash: "notas" } : {}),
 		});
 	};
+
 
 
 	const goToSearchPage = () => {
