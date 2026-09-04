@@ -164,7 +164,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 							</button>
 						))}
 					</div>
-					<CommandList className="max-h-[60vh] max-sm:max-h-none max-sm:h-[calc(100dvh-3rem-44px)]">
+					<CommandList className="flex-1 overflow-y-auto min-h-0">
 						{empty ? <CommandEmpty>No se encontraron resultados.</CommandEmpty> : null}
 
 						{direct ? (
