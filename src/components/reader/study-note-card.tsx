@@ -1,19 +1,21 @@
-import { createElement, useMemo, useState, type ReactNode } from "react";
+import { createElement, useEffect, useMemo, useState, type ReactNode } from "react";
 import { Link } from "@tanstack/react-router";
 
 import { HoverCard, HoverCardContent, HoverCardTrigger } from "@/components/ui/hover-card";
 import { slugifyBook } from "@/lib/bible";
 import { linkifyScriptureRefs, type ScriptureRef } from "@/lib/scripture-refs";
 import { useIsMobile } from "@/hooks/use-mobile";
+import { hydrateCitations } from "@/utils/hydrateCitations";
 import { useVerseText, VerseSheet, type PreviewTarget } from "./verse-preview";
 
 type RefToken = ScriptureRef & { id: string; label: string };
 
 const ALLOWED_TAGS = new Set(["b", "strong", "i", "em", "u", "br", "p", "ul", "ol", "li", "span"]);
 
-
 const LINK_CLASS =
   "font-medium underline underline-offset-2 text-[#000f37] decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] cursor-pointer";
+
+const CITATION_RE = /\{\{cita:[^}]+\}\}/g;
 
 function RefPreview({ target }: { target: ScriptureRef }) {
   const { text, loading, missing } = useVerseText(target);
@@ -122,6 +124,17 @@ function renderNodes(
   });
 }
 
+function NoteSkeleton() {
+  return (
+    <div className="space-y-3">
+      <div className="h-4 w-full animate-pulse rounded bg-muted" />
+      <div className="h-4 w-[92%] animate-pulse rounded bg-muted" />
+      <div className="h-4 w-[80%] animate-pulse rounded bg-muted" />
+      <div className="h-4 w-[60%] animate-pulse rounded bg-muted" />
+    </div>
+  );
+}
+
 export function StudyNoteCard({
   html,
   onRefClick,
@@ -132,10 +145,36 @@ export function StudyNoteCard({
 }) {
   const isMobile = useIsMobile();
   const [sheet, setSheet] = useState<PreviewTarget | null>(null);
-  const linked = useMemo(() => linkifyScriptureRefs(html), [html]);
+  const [linked, setLinked] = useState<string | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    const process = async () => {
+      const hasCitations = CITATION_RE.test(html);
+      CITATION_RE.lastIndex = 0;
+
+      if (!hasCitations) {
+        if (!cancelled) setLinked(linkifyScriptureRefs(html));
+        return;
+      }
+
+      try {
+        const hydrated = await hydrateCitations(html);
+        if (!cancelled) setLinked(linkifyScriptureRefs(hydrated));
+      } catch {
+        if (!cancelled) setLinked(linkifyScriptureRefs(html));
+      }
+    };
+
+    process();
+    return () => {
+      cancelled = true;
+    };
+  }, [html]);
 
   const body = useMemo(() => {
-    if (typeof window === "undefined") return null;
+    if (typeof window === "undefined" || linked === null) return null;
     const doc = new DOMParser().parseFromString(`<body>${linked}</body>`, "text/html");
     return renderNodes(doc.body.childNodes, (token, key) =>
       isMobile ? (
@@ -150,7 +189,7 @@ export function StudyNoteCard({
   return (
     <>
       <div className="study-note text-base leading-relaxed text-[#000f37] dark:text-foreground/80">
-        {body ?? <span dangerouslySetInnerHTML={{ __html: linked }} />}
+        {body ?? <NoteSkeleton />}
       </div>
 
       {sheet ? (
