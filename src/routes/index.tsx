@@ -69,9 +69,9 @@ function Home() {
 
     <main className="mx-auto max-w-6xl px-6">
      <section className="py-20 text-center md:py-24">
-       <h1 className="text-4xl font-bold tracking-tight text-[#000f37] md:text-6xl dark:text-white">
-        Biblia + Notas
-       </h1>
+        <h1 className="text-4xl font-bold tracking-tight text-[#000f37] md:text-6xl dark:text-white">
+         RV + Notas
+        </h1>
           <p className="mx-auto mt-4 max-w-2xl text-lg text-neutral-600 md:text-xl dark:text-neutral-400">
            Estudio doctrinal y profético del texto bíblico Reina Valera 1865.
           </p>
