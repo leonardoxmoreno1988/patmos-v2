@@ -32,9 +32,9 @@ export function SiteHeader({
      <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-[#000f37] text-white sm:h-8 sm:w-8 dark:border-0 dark:bg-white dark:text-[#000f37]">
       <BookOpen className="h-4 w-4 stroke-[1.75] sm:h-[18px] sm:w-[18px]" />
      </span>
-      <span className="text-base sm:text-lg font-bold tracking-tight text-foreground whitespace-nowrap">
-       Biblia + Notas
-      </span>
+       <span className="text-base sm:text-lg font-bold tracking-tight text-foreground whitespace-nowrap">
+        RV + Notas
+       </span>
     </Link>
 
      <div className="flex items-center gap-2">
