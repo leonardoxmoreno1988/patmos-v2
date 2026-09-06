@@ -111,6 +111,9 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 
 
 	const goToSearchPage = () => {
+		if (typeof window !== "undefined" && (window as typeof window & { umami?: { track: (event: string, data?: Record<string, unknown>) => void } }).umami) {
+			(window as typeof window & { umami?: { track: (event: string, data?: Record<string, unknown>) => void } }).umami!.track("Search", { query: q });
+		}
 		onOpenChange(false);
 		navigate({ to: "/buscar", search: { q, filter, page: 1 } });
 	};

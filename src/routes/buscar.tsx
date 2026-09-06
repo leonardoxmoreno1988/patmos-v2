@@ -109,7 +109,11 @@ function SearchPage() {
 					className="mt-4 flex items-center gap-2 rounded-full bg-muted px-4 py-2.5"
 					onSubmit={(e) => {
 						e.preventDefault();
-						setSearch({ q: input.trim() });
+						const term = input.trim();
+						if (typeof window !== "undefined" && (window as typeof window & { umami?: { track: (event: string, data?: Record<string, unknown>) => void } }).umami) {
+							(window as typeof window & { umami?: { track: (event: string, data?: Record<string, unknown>) => void } }).umami!.track("Search", { query: term });
+						}
+						setSearch({ q: term });
 					}}
 				>
 					<Search className="h-4 w-4 shrink-0 opacity-60" />
