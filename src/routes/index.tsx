@@ -73,7 +73,7 @@ function Home() {
          RV + Notas
         </h1>
              <p className="mx-auto mt-4 max-w-2xl text-lg text-neutral-600 md:text-xl dark:text-neutral-400">
-              Notas de estudio sobre el texto bíblico Reina Valera 1865.
+              Notas de estudio y análisis doctrinal sobre el texto bíblico Reina Valera 1865.
              </p>
 
       <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
