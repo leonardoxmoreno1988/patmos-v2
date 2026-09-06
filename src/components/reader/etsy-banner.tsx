@@ -8,6 +8,7 @@ export function EtsyBanner() {
       href={ETSY_URL}
       target="_blank"
       rel="noopener noreferrer"
+      data-umami-event="Etsy Click"
       className="my-6 block w-full cursor-pointer overflow-hidden rounded-xl transition-opacity hover:opacity-95"
     >
       <img
