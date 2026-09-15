@@ -200,7 +200,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 											<span className="block text-sm font-semibold text-foreground">
 												{h.book} {h.chapter}
 											</span>
-											<span className="block text-xs leading-relaxed text-muted-foreground line-clamp-2">
+<span className="block text-sm leading-relaxed text-muted-foreground line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
 											</span>
 										</span>
@@ -223,7 +223,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 											<span className="block text-sm font-semibold text-foreground">
 												{h.book} {h.chapter}:{h.verse}
 											</span>
-											<span className="block text-xs leading-relaxed text-muted-foreground line-clamp-2">
+											<span className="block text-sm leading-relaxed text-muted-foreground line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
 											</span>
 										</span>
