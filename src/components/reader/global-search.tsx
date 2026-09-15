@@ -31,7 +31,7 @@ function Highlight({ text, query }: { text: string; query: string }) {
 	return (
 		<>
 			{text.slice(0, i)}
-			<span className="rounded bg-amber-500/20 px-1 font-medium text-amber-700 dark:text-amber-300">
+			<span className="rounded bg-amber-500/20 px-1 font-medium text-amber-800 dark:text-amber-300">
 				{text.slice(i, i + q.length)}
 			</span>
 			{text.slice(i + q.length)}
@@ -142,7 +142,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 			>
 				<Command
 					shouldFilter={false}
-					className="flex flex-col h-full [&_[cmdk-group-heading]]:text-sm [&_[cmdk-group-heading]]:text-foreground/80"
+					className="flex flex-col h-full [&_[cmdk-group-heading]]:mt-2 [&_[cmdk-group-heading]]:px-2 [&_[cmdk-group-heading]]:py-1.5 [&_[cmdk-group-heading]]:text-[11px] [&_[cmdk-group-heading]]:font-semibold [&_[cmdk-group-heading]]:uppercase [&_[cmdk-group-heading]]:tracking-wider [&_[cmdk-group-heading]]:text-muted-foreground/60"
 				>
 					<CommandInput
 						value={query}
@@ -175,10 +175,10 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 								<CommandItem
 									value={`nav-${direct.book.name}-${direct.chapter}`}
 									onSelect={() => go(direct.book.name, direct.chapter, direct.verse)}
-									className="gap-3"
+									className="items-start gap-3 rounded-lg px-3 py-2.5 transition-colors hover:bg-foreground/[0.04] dark:hover:bg-white/[0.04]"
 								>
-									<ArrowRight className="h-4 w-4 shrink-0 opacity-60" />
-									<span className="font-medium">
+									<ArrowRight className="mt-0.5 h-4 w-4 shrink-0 opacity-60" />
+									<span className="text-sm font-semibold text-foreground">
 										{direct.book.name} {direct.chapter}
 										{direct.verse ? `:${direct.verse}` : ""}
 									</span>
@@ -193,14 +193,14 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 										key={h.key}
 										value={h.key}
 										onSelect={() => go(h.book, h.chapter, undefined, true)}
-										className="items-start gap-3"
+										className="items-start gap-3 rounded-lg px-3 py-2.5 transition-colors hover:bg-foreground/[0.04] dark:hover:bg-white/[0.04]"
 									>
 										<NotebookPen className="mt-0.5 h-4 w-4 shrink-0 opacity-60" />
 										<span className="min-w-0">
-											<span className="block text-sm font-semibold">
+											<span className="block text-sm font-semibold text-foreground">
 												{h.book} {h.chapter}
 											</span>
-											<span className="block text-sm text-search-snippet line-clamp-2">
+											<span className="block text-xs leading-relaxed text-muted-foreground line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
 											</span>
 										</span>
@@ -216,14 +216,14 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 										key={h.key}
 										value={h.key}
 										onSelect={() => go(h.book, h.chapter, h.verse)}
-										className="items-start gap-3"
+										className="items-start gap-3 rounded-lg px-3 py-2.5 transition-colors hover:bg-foreground/[0.04] dark:hover:bg-white/[0.04]"
 									>
 										<BookOpen className="mt-0.5 h-4 w-4 shrink-0 opacity-60" />
 										<span className="min-w-0">
-											<span className="block text-sm font-semibold">
+											<span className="block text-sm font-semibold text-foreground">
 												{h.book} {h.chapter}:{h.verse}
 											</span>
-											<span className="block text-sm text-search-snippet line-clamp-2">
+											<span className="block text-xs leading-relaxed text-muted-foreground line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
 											</span>
 										</span>
@@ -239,7 +239,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 						<button
 							type="button"
 							onClick={goToSearchPage}
-							className="mx-auto flex w-fit items-center justify-center gap-2 rounded-full border border-slate-300 px-6 py-2.5 text-sm font-medium text-foreground transition-colors hover:bg-slate-100 dark:border-slate-700 dark:hover:bg-slate-800"
+							className="mx-auto flex w-fit items-center justify-center gap-2 rounded-full border border-foreground/10 bg-foreground/[0.04] px-6 py-2.5 text-sm font-medium text-foreground transition-colors hover:border-foreground/20 hover:bg-foreground/[0.08] dark:border-white/10 dark:bg-white/5 dark:hover:border-white/20 dark:hover:bg-white/10"
 						>
 							Ver todos los {totalCount} resultados para &ldquo;{q}&rdquo;
 							<ArrowRight className="h-4 w-4 shrink-0 opacity-60" />
