@@ -393,9 +393,12 @@ function Reader() {
         {renderNotes()}
        </div>
       </div>
-      <EtsyArtCarousel />
-     </aside>
+      </aside>
    </main>
+
+   <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 mt-12 pt-8 border-t border-white/[0.08]">
+    <EtsyArtCarousel />
+   </div>
 
    <footer className="mt-20 border-t-0 border-border py-8 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm sm:leading-normal">
     <div className="mx-auto max-w-7xl px-4 sm:px-6">
