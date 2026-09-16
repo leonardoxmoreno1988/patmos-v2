@@ -57,7 +57,7 @@ export function EtsyArtCarousel() {
   return (
     <section aria-label="Láminas e ilustraciones teológicas" className="mt-0">
       <h2 className="mb-3 text-xs uppercase tracking-wider text-muted-foreground/70">
-        Láminas &amp; Ilustraciones Teológicas
+        Láminas &amp; Ilustraciones
       </h2>
       <div className="scrollbar-none -mx-4 flex gap-6 overflow-x-auto px-4 pb-4 sm:mx-0 sm:px-0">
         {ARTWORKS.map((artwork) => (
