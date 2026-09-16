@@ -8,6 +8,7 @@ import { BOOKS, bookQuery, bookFromSlug, slugifyBook, type Verse } from "@/lib/b
 import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
+import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { excerpt, plainText, seoHead } from "@/lib/seo";
 
