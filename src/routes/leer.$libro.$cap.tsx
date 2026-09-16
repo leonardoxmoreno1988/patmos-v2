@@ -374,8 +374,6 @@ function Reader() {
      >
        {notesContent}
       </div>
-      <EtsyArtCarousel />
-     </section>
 
     <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
      <div
