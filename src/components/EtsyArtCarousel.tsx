@@ -79,7 +79,7 @@ export function EtsyArtCarousel() {
               className="aspect-[4/3] w-full object-cover"
             />
             <div className="space-y-1.5 p-3">
-              <p className="mb-1 text-[18px] font-semibold leading-snug text-foreground">
+              <p className="mb-1 text-[16px] font-semibold leading-snug text-foreground">
                 {artwork.title}
               </p>
               <p className="text-[14px] text-muted-foreground">
