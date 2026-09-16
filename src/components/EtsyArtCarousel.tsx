@@ -17,37 +17,37 @@ type Artwork = {
 const ARTWORKS: Artwork[] = [
   {
     title: "La Creación — Génesis 1",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artCreacion,
     href: ETSY_SHOP,
   },
   {
     title: "El Buen Pastor — Salmo 23",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artSalmo23,
     href: ETSY_SHOP,
   },
   {
     title: "El Mar Rojo — Éxodo 14",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artMarRojo,
     href: ETSY_SHOP,
   },
   {
     title: "Jonás y el Gran Pez",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artJonas,
     href: ETSY_SHOP,
   },
   {
     title: "Natividad — Belén",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artBelen,
     href: ETSY_SHOP,
   },
   {
     title: "La Nueva Jerusalén — Apocalipsis 21",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artJerusalen,
     href: ETSY_SHOP,
   },
