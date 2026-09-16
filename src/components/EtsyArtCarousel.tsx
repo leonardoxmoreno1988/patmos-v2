@@ -120,7 +120,7 @@ export function EtsyArtCarousel() {
               <p className="text-[14px] text-muted-foreground">
                 {artwork.price}
               </p>
-              <p className="pt-1 text-[14px] font-medium text-primary hover:underline">
+              <p className="pt-1 text-[14px] font-medium text-white hover:underline">
                 Ver en Etsy →
               </p>
             </div>

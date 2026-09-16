@@ -397,7 +397,7 @@ function Reader() {
       </aside>
    </main>
 
-   <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 mt-12 pt-8 border-t border-border/60 dark:border-white/[0.08]">
+   <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 mt-12 pt-8">
     <EtsyArtCarousel />
    </div>
 
