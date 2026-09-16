@@ -103,7 +103,7 @@ export function EtsyArtCarousel() {
             rel="noopener noreferrer"
             data-umami-event="Etsy Click"
             data-umami-event-item={artwork.title}
-            className="group w-[240px] shrink-0 snap-start overflow-hidden rounded-lg border border-border bg-foreground/[0.03] transition-all hover:bg-foreground/[0.06] dark:border-white/10 dark:bg-white/[0.03] dark:hover:bg-white/[0.06] sm:w-[280px]"
+            className="group w-[240px] shrink-0 snap-start overflow-hidden rounded-lg bg-foreground/[0.03] transition-all hover:bg-foreground/[0.06] dark:bg-white/[0.03] dark:hover:bg-white/[0.06] sm:w-[280px]"
           >
             <img
               src={artwork.image}
@@ -120,7 +120,7 @@ export function EtsyArtCarousel() {
               <p className="text-[14px] text-muted-foreground">
                 {artwork.price}
               </p>
-              <p className="pt-1 text-[14px] font-medium text-primary hover:underline">
+              <p className="pt-1 text-[14px] font-medium text-white hover:underline">
                 Ver en Etsy →
               </p>
             </div>
