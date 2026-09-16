@@ -8,6 +8,7 @@ import { slugifyBook } from "@/lib/bible";
 import { studyNotesQuery } from "@/lib/notes";
 import { allBooksQuery, matchIndex, searchNotes, searchVerses, type Hit } from "@/lib/search";
 import { cn } from "@/lib/utils";
+import { seoHead } from "@/lib/seo";
 
 type Filter = "all" | "notes" | "bible";
 const PER_PAGE = 20;

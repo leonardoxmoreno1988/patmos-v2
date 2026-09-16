@@ -3,28 +3,18 @@ import { createFileRoute } from "@tanstack/react-router";
 import { Star } from "lucide-react";
 
 import { SiteHeader } from "@/components/reader/site-header";
+import { seoHead } from "@/lib/seo";
 import profileAsset from "@/assets/leonardo-moreno.png.asset.json";
 
 
 export const Route = createFileRoute("/newsletter")({
- head: () => ({
-  meta: [
-   { title: "Newsletter — Notas de Estudio" },
-   {
-    name: "description",
-    content:
-     "Suscríbete al newsletter de Notas de Estudio: una exploración de la profecía bíblica y el cristianismo actual por Leonardo Moreno.",
-   },
-   { property: "og:title", content: "Newsletter — Notas de Estudio" },
-   {
-    property: "og:description",
-    content:
-     "Una exploración de la profecía bíblica y el cristianismo actual.",
-   },
-   { property: "og:type", content: "website" },
-   { name: "twitter:card", content: "summary_large_image" },
-  ],
- }),
+ head: () =>
+  seoHead({
+   title: "Newsletter — Notas de Estudio",
+   description:
+    "Suscríbete al newsletter de Notas de Estudio: una exploración de la profecía bíblica y el cristianismo actual por Leonardo Moreno.",
+   canonical: "/newsletter",
+  }),
  component: NewsletterPage,
 });
 

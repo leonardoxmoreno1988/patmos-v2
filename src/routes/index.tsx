@@ -5,6 +5,7 @@ import { useQuery } from "@tanstack/react-query";
 import { BOOK_GROUPS, CHAPTER_COUNTS, slugifyBook, type BookInfo } from "@/lib/bible";
 import { getNote, studyNotesQuery, type NotesMap } from "@/lib/notes";
 import { SiteHeader } from "@/components/reader/site-header";
+import { seoHead } from "@/lib/seo";
 
 export const Route = createFileRoute("/")({
  head: () =>
