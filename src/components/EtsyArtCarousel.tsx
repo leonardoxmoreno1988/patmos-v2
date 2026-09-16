@@ -17,37 +17,37 @@ type Artwork = {
 const ARTWORKS: Artwork[] = [
   {
     title: "La Creación — Génesis 1",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artCreacion,
     href: ETSY_SHOP,
   },
   {
     title: "El Buen Pastor — Salmo 23",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artSalmo23,
     href: ETSY_SHOP,
   },
   {
     title: "El Mar Rojo — Éxodo 14",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artMarRojo,
     href: ETSY_SHOP,
   },
   {
     title: "Jonás y el Gran Pez",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artJonas,
     href: ETSY_SHOP,
   },
   {
     title: "Natividad — Belén",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artBelen,
     href: ETSY_SHOP,
   },
   {
     title: "La Nueva Jerusalén — Apocalipsis 21",
-    price: "Desde €12",
+    price: "Desde $6 USD",
     image: artJerusalen,
     href: ETSY_SHOP,
   },
@@ -78,12 +78,14 @@ export function EtsyArtCarousel() {
               height={768}
               className="aspect-[4/3] w-full object-cover"
             />
-            <div className="space-y-1 p-3">
-              <p className="text-sm font-medium text-foreground">
+            <div className="space-y-1.5 p-3">
+              <p className="mb-1 text-[18px] font-semibold leading-snug text-foreground">
                 {artwork.title}
               </p>
-              <p className="text-xs text-muted-foreground">{artwork.price}</p>
-              <p className="pt-1 text-xs font-medium text-muted-foreground transition-colors group-hover:text-foreground">
+              <p className="text-[14px] text-muted-foreground">
+                {artwork.price}
+              </p>
+              <p className="pt-1 text-[14px] font-medium text-primary hover:underline">
                 Ver en Etsy →
               </p>
             </div>
