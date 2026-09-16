@@ -8,6 +8,7 @@ import { BOOKS, bookQuery, bookFromSlug, slugifyBook, type Verse } from "@/lib/b
 import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
+import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { excerpt, plainText, seoHead } from "@/lib/seo";
 
@@ -371,9 +372,10 @@ function Reader() {
        loading ? "pointer-events-none opacity-40" : "opacity-100"
       } ${flashNotes ? "flash-target" : ""}`}
      >
-      {notesContent}
-     </div>
-    </section>
+       {notesContent}
+      </div>
+      <EtsyArtCarousel />
+     </section>
 
     <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
      <div
@@ -390,10 +392,11 @@ function Reader() {
        } ${flashNotes ? "flash-target" : ""}`}
       >
 
-       {renderNotes()}
+        {renderNotes()}
+       </div>
       </div>
-     </div>
-    </aside>
+      <EtsyArtCarousel />
+     </aside>
    </main>
 
    <footer className="mt-20 border-t-0 border-border py-8 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm sm:leading-normal">
