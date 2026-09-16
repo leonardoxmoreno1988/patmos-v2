@@ -27,23 +27,13 @@ export const Route = createFileRoute("/buscar")({
 			page: Math.max(1, Number(search["page"] ?? 1) || 1),
 		};
 	},
-	head: () => ({
-		meta: [
-			{ title: "Buscar — Biblia + Notas" },
-			{
-				name: "description",
-				content:
-					"Busca en el texto completo de la Reina-Valera 1865 y en las notas de estudio de Leonardo Moreno.",
-			},
-			{ property: "og:title", content: "Buscar — Biblia + Notas" },
-			{
-				property: "og:description",
-				content: "Busca versículos y notas de estudio en la Reina-Valera 1865.",
-			},
-			{ property: "og:type", content: "website" },
-			{ name: "twitter:card", content: "summary_large_image" },
-		],
-	}),
+	head: () =>
+		seoHead({
+			title: "Buscar — Biblia + Notas",
+			description:
+				"Busca en el texto completo de la Reina-Valera 1865 y en las notas de estudio de Leonardo Moreno.",
+			canonical: "/buscar",
+		}),
 	component: SearchPage,
 });
 

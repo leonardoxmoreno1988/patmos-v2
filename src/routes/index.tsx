@@ -7,23 +7,13 @@ import { getNote, studyNotesQuery, type NotesMap } from "@/lib/notes";
 import { SiteHeader } from "@/components/reader/site-header";
 
 export const Route = createFileRoute("/")({
- head: () => ({
-  meta: [
-   { title: "RV1865 + Notas — Biblia de estudio por Leonardo Moreno" },
-   {
-    name: "description",
-    content:
-     "Una exploración de la profecía bíblica y el cristianismo actual: lee la Reina-Valera 1865 con notas de estudio, libro por libro.",
-   },
-   { property: "og:title", content: "RV1865 + Notas" },
-   {
-    property: "og:description",
-    content: "Lectura bíblica serena con notas de estudio por Leonardo Moreno.",
-   },
-   { property: "og:type", content: "website" },
-   { name: "twitter:card", content: "summary_large_image" },
-  ],
- }),
+ head: () =>
+  seoHead({
+   title: "RV1865 + Notas — Biblia de estudio por Leonardo Moreno",
+   description:
+    "Una exploración de la profecía bíblica y el cristianismo actual: lee la Reina-Valera 1865 con notas de estudio, libro por libro.",
+   canonical: "/",
+  }),
  component: Home,
 });
 
