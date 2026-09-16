@@ -374,8 +374,9 @@ function Reader() {
      >
        {notesContent}
       </div>
+     </section>
 
-    <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
+     <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
      <div
       id="study-notes-desktop"
       className="min-h-full scroll-mt-[8rem] border-l border-[#000f37]/50 bg-transparent pt-0 pb-16 pl-6 shadow-none dark:border-[#bcbecd]/50 lg:pl-8"
