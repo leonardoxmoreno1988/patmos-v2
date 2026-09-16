@@ -55,11 +55,11 @@ const ARTWORKS: Artwork[] = [
 
 export function EtsyArtCarousel() {
   return (
-    <section aria-label="Láminas e ilustraciones teológicas" className="mt-12">
+    <section aria-label="Láminas e ilustraciones teológicas" className="mt-0">
       <h2 className="mb-3 text-xs uppercase tracking-wider text-muted-foreground/70">
         Láminas &amp; Ilustraciones Teológicas
       </h2>
-      <div className="scrollbar-none -mx-6 flex gap-4 overflow-x-auto px-6 pb-4 sm:mx-0 sm:px-0">
+      <div className="scrollbar-none -mx-4 flex gap-6 overflow-x-auto px-4 pb-4 sm:mx-0 sm:px-0">
         {ARTWORKS.map((artwork) => (
           <a
             key={artwork.title}
@@ -68,7 +68,7 @@ export function EtsyArtCarousel() {
             rel="noopener noreferrer"
             data-umami-event="Etsy Click"
             data-umami-event-item={artwork.title}
-            className="group w-[240px] shrink-0 snap-start overflow-hidden rounded-lg border border-border bg-foreground/[0.03] transition-all hover:bg-foreground/[0.06] dark:border-white/10 dark:bg-white/[0.03] dark:hover:bg-white/[0.06] sm:w-[260px]"
+            className="group w-[240px] shrink-0 snap-start overflow-hidden rounded-lg border border-border bg-foreground/[0.03] transition-all hover:bg-foreground/[0.06] dark:border-white/10 dark:bg-white/[0.03] dark:hover:bg-white/[0.06] sm:w-[280px]"
           >
             <img
               src={artwork.image}
