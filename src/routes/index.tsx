@@ -8,6 +8,7 @@ import { SiteHeader } from "@/components/reader/site-header";
 import { seoHead } from "@/lib/seo";
 
 export const Route = createFileRoute("/")({
+ staticData: { sitemap: true },
  head: () =>
   seoHead({
    title: "RV1865 + Notas — Biblia de estudio por Leonardo Moreno",

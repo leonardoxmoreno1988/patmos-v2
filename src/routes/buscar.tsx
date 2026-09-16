@@ -20,6 +20,7 @@ interface SearchParams {
 }
 
 export const Route = createFileRoute("/buscar")({
+	staticData: { sitemap: true },
 	validateSearch: (search: Record<string, unknown>): SearchParams => {
 		const filter = String(search["filter"] ?? "all");
 		return {

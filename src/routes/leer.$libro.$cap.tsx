@@ -13,6 +13,7 @@ import { excerpt, plainText, seoHead } from "@/lib/seo";
 
 
 export const Route = createFileRoute("/leer/$libro/$cap")({
+ staticData: { sitemap: true },
  loader: ({ context }) => context.queryClient.ensureQueryData(studyNotesQuery),
  head: ({ params, loaderData }) => {
   const book = bookFromSlug(params.libro)?.name ?? "Génesis";

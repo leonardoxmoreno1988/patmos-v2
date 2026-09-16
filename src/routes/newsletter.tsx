@@ -8,6 +8,7 @@ import profileAsset from "@/assets/leonardo-moreno.png.asset.json";
 
 
 export const Route = createFileRoute("/newsletter")({
+ staticData: { sitemap: true },
  head: () =>
   seoHead({
    title: "Newsletter — Notas de Estudio",
