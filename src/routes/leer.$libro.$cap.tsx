@@ -9,23 +9,24 @@ import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { getNote, studyNotesQuery } from "@/lib/notes";
+import { excerpt, plainText, seoHead } from "@/lib/seo";
 
 
 export const Route = createFileRoute("/leer/$libro/$cap")({
- head: ({ params }) => {
+ loader: ({ context }) => context.queryClient.ensureQueryData(studyNotesQuery),
+ head: ({ params, loaderData }) => {
   const book = bookFromSlug(params.libro)?.name ?? "Génesis";
-  const title = `${book} ${params.cap} — RV1865 + Notas`;
-  const description = `Lee ${book} ${params.cap} en la Reina-Valera 1865 con notas de estudio y referencias cruzadas.`;
-  return {
-   meta: [
-    { title },
-    { name: "description", content: description },
-    { property: "og:title", content: title },
-    { property: "og:description", content: description },
-    { property: "og:type", content: "article" },
-    { name: "twitter:card", content: "summary_large_image" },
-   ],
-  };
+  const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
+  const note = getNote(loaderData, book, chapter);
+  const description = note
+   ? excerpt(plainText(note), 150)
+   : `Lee ${book} ${chapter} en la Reina-Valera 1865 con notas de estudio y análisis doctrinal.`;
+  return seoHead({
+   title: `${book} ${chapter} - Notas de Estudio y Exégesis (RV1865)`,
+   description,
+   canonical: `/leer/${slugifyBook(book)}/${chapter}`,
+   ogType: "article",
+  });
  },
  component: Reader,
 });
