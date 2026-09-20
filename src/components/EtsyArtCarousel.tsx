@@ -65,7 +65,7 @@ const ARTWORKS: Artwork[] = [
     href: ETSY_SHOP,
   },
   {
-    title: "El Bautismo de Jesús — Mateo 3",
+    title: "Adán en el Edén — Génesis 2",
     image: artBautismo.url,
     href: ETSY_SHOP,
   },
