@@ -79,8 +79,8 @@ const ARTWORKS: Artwork[] = [
 export function EtsyArtCarousel() {
   return (
     <section aria-label="Láminas e ilustraciones teológicas" className="mt-0">
-      <h2 className="mb-3 text-xs uppercase tracking-wider text-muted-foreground/70">
-        Láminas &amp; Ilustraciones
+      <h2 className="mb-5 text-xs uppercase tracking-wider text-muted-foreground/70">
+        Descarga Digital
       </h2>
       <div className="scrollbar-none -mx-4 flex gap-6 overflow-x-auto px-4 pb-4 sm:mx-0 sm:px-0">
         {ARTWORKS.map((artwork) => (
@@ -98,8 +98,8 @@ export function EtsyArtCarousel() {
               alt={artwork.title}
               loading="lazy"
               width={800}
-              height={800}
-              className="aspect-square w-full object-cover"
+              height={600}
+              className="aspect-[4/3] w-full object-cover"
             />
             <div className="space-y-1 p-3">
               <p className="mb-1 text-sm font-semibold leading-snug text-foreground line-clamp-2">
