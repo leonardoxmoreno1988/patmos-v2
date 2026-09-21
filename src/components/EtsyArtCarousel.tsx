@@ -114,15 +114,15 @@ export function EtsyArtCarousel() {
                 height={600}
                 className="aspect-[4/3] w-full object-cover"
               />
-              <span className="absolute top-2 right-2 z-10 rounded-full border border-white/10 bg-black/60 px-2 py-0.5 text-[10px] font-medium text-white shadow-sm backdrop-blur-md">
-                {artwork.reference}
-              </span>
             </div>
             <div className="space-y-1 p-3">
-              <p className="mb-1 text-sm font-semibold leading-snug text-foreground line-clamp-2">
+              <p className="mb-0.5 text-sm font-semibold leading-snug text-foreground line-clamp-1">
                 {artwork.title}
               </p>
-              <p className="pt-1 text-xs font-medium text-muted-foreground transition-colors hover:text-foreground">
+              <p className="mb-2 text-xs font-normal text-muted-foreground/70">
+                {artwork.reference}
+              </p>
+              <p className="text-xs font-medium text-primary transition-colors hover:underline">
                 Ver en Etsy →
               </p>
             </div>
