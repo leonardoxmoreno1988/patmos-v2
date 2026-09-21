@@ -122,7 +122,7 @@ export function EtsyArtCarousel() {
               <p className="mb-2 text-xs font-normal text-muted-foreground/70">
                 {artwork.reference}
               </p>
-              <p className="text-xs font-medium text-primary transition-colors hover:underline">
+              <p className="text-xs font-medium text-primary transition-colors hover:underline dark:text-white dark:hover:text-white/90">
                 Ver en Etsy →
               </p>
             </div>
