@@ -14,63 +14,75 @@ const ETSY_SHOP = "https://www.etsy.com/shop/PatmosStore";
 
 type Artwork = {
   title: string;
+  reference: string;
   image: string;
   href: string;
 };
 
 const ARTWORKS: Artwork[] = [
   {
-    title: "Jonás y el Gran Pez — Jonás 2",
+    title: "Jonás y el Gran Pez",
+    reference: "Jonás 2",
     image: artJonas.url,
     href: ETSY_SHOP,
   },
   {
-    title: "El Becerro de Oro — Éxodo 32",
+    title: "El Becerro de Oro",
+    reference: "Éxodo 32",
     image: artBecerro.url,
     href: ETSY_SHOP,
   },
   {
-    title: "Daniel en el Foso de los Leones — Daniel 6",
+    title: "Daniel en el Foso de los Leones",
+    reference: "Daniel 6",
     image: artDaniel.url,
     href: ETSY_SHOP,
   },
   {
-    title: "El Arca de Noé — Génesis 7",
+    title: "El Arca de Noé",
+    reference: "Génesis 7",
     image: artArca.url,
     href: ETSY_SHOP,
   },
   {
-    title: "El Mar Rojo — Éxodo 14",
+    title: "El Mar Rojo",
+    reference: "Éxodo 14",
     image: artMarRojo.url,
     href: ETSY_SHOP,
   },
   {
-    title: "Caminando sobre el Agua — Mateo 14",
+    title: "Caminando sobre el Agua",
+    reference: "Mateo 14",
     image: artCamina.url,
     href: ETSY_SHOP,
   },
   {
-    title: "El Trono de Salomón — 1 Reyes 10",
+    title: "El Trono de Salomón",
+    reference: "1 Reyes 10",
     image: artSalomon.url,
     href: ETSY_SHOP,
   },
   {
-    title: "La Caída de Sodoma — Génesis 19",
+    title: "La Caída de Sodoma",
+    reference: "Génesis 19",
     image: artSodoma.url,
     href: ETSY_SHOP,
   },
   {
-    title: "La Crucifixión — Juan 19",
+    title: "La Crucifixión",
+    reference: "Juan 19",
     image: artCrucifixion.url,
     href: ETSY_SHOP,
   },
   {
-    title: "Adán en el Edén — Génesis 2",
+    title: "Adán en el Edén",
+    reference: "Génesis 2",
     image: artBautismo.url,
     href: ETSY_SHOP,
   },
   {
-    title: "David y Goliat — 1 Samuel 17",
+    title: "David y Goliat",
+    reference: "1 Samuel 17",
     image: artDavid.url,
     href: ETSY_SHOP,
   },
@@ -93,14 +105,19 @@ export function EtsyArtCarousel() {
             data-umami-event-item={artwork.title}
             className="group flex-none w-[220px] shrink-0 snap-start overflow-hidden rounded-lg bg-foreground/[0.03] transition-all hover:bg-foreground/[0.06] dark:bg-white/[0.03] dark:hover:bg-white/[0.06]"
           >
-            <img
-              src={artwork.image}
-              alt={artwork.title}
-              loading="lazy"
-              width={800}
-              height={600}
-              className="aspect-[4/3] w-full object-cover"
-            />
+            <div className="relative">
+              <img
+                src={artwork.image}
+                alt={artwork.title}
+                loading="lazy"
+                width={800}
+                height={600}
+                className="aspect-[4/3] w-full object-cover"
+              />
+              <span className="absolute top-2 right-2 z-10 rounded-full border border-white/10 bg-black/60 px-2 py-0.5 text-[10px] font-medium text-white shadow-sm backdrop-blur-md">
+                {artwork.reference}
+              </span>
+            </div>
             <div className="space-y-1 p-3">
               <p className="mb-1 text-sm font-semibold leading-snug text-foreground line-clamp-2">
                 {artwork.title}
