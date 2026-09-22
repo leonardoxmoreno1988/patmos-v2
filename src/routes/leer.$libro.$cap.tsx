@@ -67,17 +67,17 @@ function VerseText({
  onOpenNote?: () => void;
 }) {
  return (
-  <span
-   id={`verse-${verse.verse}`}
-   onClick={onSelect}
-   className={`-mx-2 block scroll-mt-44 cursor-pointer select-text px-2 py-1 text-[18px] sm:text-[19px] leading-relaxed text-foreground transition-colors ${
-    highlightClass || selected
-     ? "rounded-lg px-3 py-1.5"
-     : "rounded-none"
-   } ${highlightClass ?? ""} ${selected ? "ring-1 ring-inset ring-foreground/25" : ""} ${
-    flashing ? "flash-target" : ""
-   }`}
-  >
+   <span
+    id={`verse-${verse.verse}`}
+    onClick={onSelect}
+    className={`-mx-3 block scroll-mt-44 cursor-pointer select-text rounded-lg px-3 py-1.5 text-[18px] sm:text-[19px] leading-relaxed text-foreground transition-colors duration-150 ${
+     highlightClass || selected
+      ? ""
+      : "hover:bg-foreground/[0.04]"
+    } ${highlightClass ?? ""} ${selected ? "ring-1 ring-inset ring-foreground/25" : ""} ${
+     flashing ? "flash-target" : ""
+    }`}
+   >
 
    <sup className="mr-1 inline-block select-none text-xs font-medium text-verse-number">
     {verse.verse}
