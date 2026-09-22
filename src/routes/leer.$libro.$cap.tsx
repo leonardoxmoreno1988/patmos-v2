@@ -59,9 +59,11 @@ function VerseText({
   <span
    id={`verse-${verse.verse}`}
    onClick={onSelect}
-   className={`-mx-2 block scroll-mt-44 cursor-pointer select-text rounded-none px-2 py-1 text-[18px] sm:text-[19px] leading-relaxed text-foreground transition-colors ${
-    highlightClass ?? ""
-   } ${selected ? "ring-1 ring-inset ring-foreground/25" : ""} ${
+   className={`-mx-2 block scroll-mt-44 cursor-pointer select-text px-2 py-1 text-[18px] sm:text-[19px] leading-relaxed text-foreground transition-colors ${
+    highlightClass || selected
+     ? "rounded-lg px-3 py-1.5"
+     : "rounded-none"
+   } ${highlightClass ?? ""} ${selected ? "ring-1 ring-inset ring-foreground/25" : ""} ${
     flashing ? "flash-target" : ""
    }`}
   >
