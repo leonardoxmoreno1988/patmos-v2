@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { LogOut, User as UserIcon } from "lucide-react";
+import { Library, LogOut, User as UserIcon } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import {
@@ -12,11 +12,13 @@ import {
 import { useAuth } from "./auth-provider";
 import { AuthModal } from "./auth-modal";
 import { AccountModal } from "./account-modal";
+import { LibrarySheet } from "@/components/library/library-sheet";
 
 export function AuthNav() {
   const { user, displayName, loading, signOut } = useAuth();
   const [authOpen, setAuthOpen] = useState(false);
   const [accountOpen, setAccountOpen] = useState(false);
+  const [libraryOpen, setLibraryOpen] = useState(false);
 
   if (loading) {
     return <div className="h-8 w-20 animate-pulse rounded-full bg-foreground/5" />;
@@ -55,6 +57,10 @@ export function AuthNav() {
           </button>
         </DropdownMenuTrigger>
         <DropdownMenuContent align="end" className="w-48">
+          <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
+            <Library className="mr-2 h-4 w-4" />
+            Mi Biblioteca
+          </DropdownMenuItem>
           <DropdownMenuItem onSelect={() => setAccountOpen(true)}>
             <UserIcon className="mr-2 h-4 w-4" />
             Mi Cuenta
@@ -67,6 +73,7 @@ export function AuthNav() {
         </DropdownMenuContent>
       </DropdownMenu>
       <AccountModal open={accountOpen} onOpenChange={setAccountOpen} />
+      <LibrarySheet open={libraryOpen} onOpenChange={setLibraryOpen} />
     </>
   );
 }

@@ -121,6 +121,62 @@ export const chapterMarksQuery = (
   staleTime: 30_000,
 });
 
+export interface LibraryData {
+  bookmarks: UserBookmark[];
+  highlights: UserHighlight[];
+  notes: UserNote[];
+}
+
+export async function fetchLibrary(userId: string): Promise<LibraryData> {
+  const order = { column: "created_at", ascending: false } as const;
+  const [bookmarks, highlights, notes] = await Promise.all([
+    supabase
+      .from("user_bookmarks")
+      .select("id, book, chapter, verse, created_at")
+      .eq("user_id", userId)
+      .order(order.column, { ascending: order.ascending }),
+    supabase
+      .from("user_highlights")
+      .select("id, book, chapter, verse, color, created_at")
+      .eq("user_id", userId)
+      .order(order.column, { ascending: order.ascending }),
+    supabase
+      .from("user_notes")
+      .select("id, book, chapter, verse, content, created_at")
+      .eq("user_id", userId)
+      .order(order.column, { ascending: order.ascending }),
+  ]);
+
+  if (highlights.error) throw friendly(highlights.error);
+  if (notes.error) throw friendly(notes.error);
+
+  return {
+    bookmarks: bookmarks.error ? [] : ((bookmarks.data ?? []) as UserBookmark[]),
+    highlights: (highlights.data ?? []) as UserHighlight[],
+    notes: (notes.data ?? []) as UserNote[],
+  };
+}
+
+export const libraryQuery = (userId: string | null) => ({
+  queryKey: ["user-library", userId],
+  queryFn: () =>
+    userId
+      ? fetchLibrary(userId)
+      : Promise.resolve({ bookmarks: [], highlights: [], notes: [] } as LibraryData),
+  enabled: !!userId,
+  staleTime: 30_000,
+});
+
+type MarkTable = "user_bookmarks" | "user_highlights" | "user_notes";
+
+export async function deleteMarkById(table: MarkTable, id: string) {
+  const { data } = await supabase.auth.getSession();
+  const user_id = data.session?.user?.id;
+  if (!user_id) throw new Error("Inicia sesión para editar tu biblioteca.");
+  const { error } = await supabase.from(table).delete().eq("id", id).eq("user_id", user_id);
+  if (error) throw friendly(error);
+}
+
 interface Target {
   userId: string;
   book: string;
