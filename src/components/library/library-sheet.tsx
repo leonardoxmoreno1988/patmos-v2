@@ -109,7 +109,7 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
   return (
     <Sheet open={open} onOpenChange={onOpenChange}>
       <SheetContent side="right" className="flex w-full flex-col gap-0 sm:max-w-md">
-        <SheetHeader className="pb-2">
+        <SheetHeader className="mb-5">
           <SheetTitle>Mi Biblioteca</SheetTitle>
         </SheetHeader>
         <Tabs defaultValue="bookmarks" className="flex min-h-0 flex-1 flex-col px-4 pb-4">
