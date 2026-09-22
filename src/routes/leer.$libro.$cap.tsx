@@ -432,8 +432,9 @@ function Reader() {
             setSelectedVerse(v.verse);
             setOpenNoteVerse(v.verse);
            }}
-          />
-         ))}
+           />
+          );
+         })}
         </div>
        )}
       </div>
