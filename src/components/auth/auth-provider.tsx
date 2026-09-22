@@ -81,9 +81,10 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         email,
         password,
         options: {
-          data: displayName ? { display_name: displayName } : undefined,
-          emailRedirectTo:
-            typeof window !== "undefined" ? window.location.origin : undefined,
+          data: displayName ? { display_name: displayName } : {},
+          ...(typeof window !== "undefined"
+            ? { emailRedirectTo: window.location.origin }
+            : {}),
         },
       });
       if (error) throw error;
