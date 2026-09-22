@@ -87,16 +87,28 @@ export async function fetchChapterMarks(
       .eq("chapter", chapter),
   ]);
 
-  if (highlights.error) throw highlights.error;
-  if (notes.error) throw notes.error;
-  if (bookmarks.error) throw bookmarks.error;
+  if (highlights.error) throw friendly(highlights.error);
+  if (notes.error) throw friendly(notes.error);
+  // Los marcadores son opcionales: si la tabla aún no existe, seguimos sin ellos.
 
   return {
     highlights: byVerse(highlights.data as UserHighlight[] | null),
     notes: byVerse(notes.data as UserNote[] | null),
-    bookmarks: byVerse(bookmarks.data as UserBookmark[] | null),
+    bookmarks: bookmarks.error ? {} : byVerse(bookmarks.data as UserBookmark[] | null),
   };
 }
+
+function friendly(error: { message?: string; code?: string }): Error {
+  const code = error.code ?? "";
+  if (code === "42P01") {
+    return new Error("Falta crear esta tabla en la base de datos.");
+  }
+  if (code === "42501" || code === "PGRST301") {
+    return new Error("Inicia sesión de nuevo para guardar tus marcas.");
+  }
+  return new Error(error.message || "No pudimos guardar el cambio.");
+}
+
 
 export const chapterMarksQuery = (
   userId: string | null,
@@ -116,71 +128,73 @@ interface Target {
   verse: number;
 }
 
+// Siempre escribimos con el id de la sesión activa, para que coincida con auth.uid() en RLS.
+async function sessionUserId(fallback: string): Promise<string> {
+  const { data } = await supabase.auth.getSession();
+  const id = data.session?.user?.id;
+  if (!id) throw new Error("Inicia sesión para guardar tus marcas.");
+  return id || fallback;
+}
+
 export async function setHighlight(t: Target, color: HighlightColor) {
+  const user_id = await sessionUserId(t.userId);
   const { error } = await supabase.from("user_highlights").upsert(
-    {
-      user_id: t.userId,
-      book: t.book,
-      chapter: t.chapter,
-      verse: t.verse,
-      color,
-    },
+    { user_id, book: t.book, chapter: t.chapter, verse: t.verse, color },
     { onConflict: "user_id,book,chapter,verse" },
   );
-  if (error) throw error;
+  if (error) throw friendly(error);
 }
 
 export async function removeHighlight(t: Target) {
+  const user_id = await sessionUserId(t.userId);
   const { error } = await supabase
     .from("user_highlights")
     .delete()
-    .eq("user_id", t.userId)
+    .eq("user_id", user_id)
     .eq("book", t.book)
     .eq("chapter", t.chapter)
     .eq("verse", t.verse);
-  if (error) throw error;
+  if (error) throw friendly(error);
 }
 
 export async function saveNote(t: Target, content: string) {
+  const user_id = await sessionUserId(t.userId);
   const { error } = await supabase.from("user_notes").upsert(
-    {
-      user_id: t.userId,
-      book: t.book,
-      chapter: t.chapter,
-      verse: t.verse,
-      content,
-    },
+    { user_id, book: t.book, chapter: t.chapter, verse: t.verse, content },
     { onConflict: "user_id,book,chapter,verse" },
   );
-  if (error) throw error;
+  if (error) throw friendly(error);
 }
 
 export async function deleteNote(t: Target) {
+  const user_id = await sessionUserId(t.userId);
   const { error } = await supabase
     .from("user_notes")
     .delete()
-    .eq("user_id", t.userId)
+    .eq("user_id", user_id)
     .eq("book", t.book)
     .eq("chapter", t.chapter)
     .eq("verse", t.verse);
-  if (error) throw error;
+  if (error) throw friendly(error);
 }
 
 export async function toggleBookmark(t: Target, on: boolean) {
+  const user_id = await sessionUserId(t.userId);
   if (on) {
     const { error } = await supabase.from("user_bookmarks").upsert(
-      { user_id: t.userId, book: t.book, chapter: t.chapter, verse: t.verse },
+      { user_id, book: t.book, chapter: t.chapter, verse: t.verse },
       { onConflict: "user_id,book,chapter,verse" },
     );
-    if (error) throw error;
+    if (error) throw friendly(error);
     return;
   }
   const { error } = await supabase
     .from("user_bookmarks")
     .delete()
-    .eq("user_id", t.userId)
+    .eq("user_id", user_id)
     .eq("book", t.book)
     .eq("chapter", t.chapter)
     .eq("verse", t.verse);
-  if (error) throw error;
+  if (error) throw friendly(error);
 }
+
