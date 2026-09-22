@@ -122,6 +122,19 @@ function Reader() {
  const loading =
   bookData.isFetching || bookData.isPlaceholderData || studyNotes.isFetching;
 
+ const { user } = useAuth();
+ const userId = user?.id ?? null;
+ const marksQuery = useQuery(chapterMarksQuery(userId, book.name, chapter));
+ const marks = marksQuery.data ?? { highlights: {}, notes: {}, bookmarks: {} };
+ const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
+ const [authOpen, setAuthOpen] = useState(false);
+ const [openNoteVerse, setOpenNoteVerse] = useState<number | null>(null);
+
+ useEffect(() => {
+  setSelectedVerse(null);
+  setOpenNoteVerse(null);
+ }, [libro, cap]);
+
  const scrollToVerse = (verse: number) => {
   if (typeof window === "undefined") return;
   const el = document.getElementById(`verse-${verse}`);
