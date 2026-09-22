@@ -83,7 +83,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         options: {
           data: displayName ? { display_name: displayName } : {},
           ...(typeof window !== "undefined"
-            ? { emailRedirectTo: window.location.origin }
+            ? { emailRedirectTo: `${window.location.origin}/` }
             : {}),
         },
       });
@@ -97,7 +97,9 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     const { error } = await supabase.auth.signInWithOAuth({
       provider: "google",
       options:
-        typeof window !== "undefined" ? { redirectTo: window.location.origin } : {},
+        typeof window !== "undefined"
+          ? { redirectTo: `${window.location.origin}/` }
+          : {},
     });
     if (error) throw error;
   }, []);
