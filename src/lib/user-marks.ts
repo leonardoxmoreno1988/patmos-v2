@@ -87,16 +87,28 @@ export async function fetchChapterMarks(
       .eq("chapter", chapter),
   ]);
 
-  if (highlights.error) throw highlights.error;
-  if (notes.error) throw notes.error;
-  if (bookmarks.error) throw bookmarks.error;
+  if (highlights.error) throw friendly(highlights.error);
+  if (notes.error) throw friendly(notes.error);
+  // Los marcadores son opcionales: si la tabla aún no existe, seguimos sin ellos.
 
   return {
     highlights: byVerse(highlights.data as UserHighlight[] | null),
     notes: byVerse(notes.data as UserNote[] | null),
-    bookmarks: byVerse(bookmarks.data as UserBookmark[] | null),
+    bookmarks: bookmarks.error ? {} : byVerse(bookmarks.data as UserBookmark[] | null),
   };
 }
+
+function friendly(error: { message?: string; code?: string }): Error {
+  const code = error.code ?? "";
+  if (code === "42P01") {
+    return new Error("Falta crear esta tabla en la base de datos.");
+  }
+  if (code === "42501" || code === "PGRST301") {
+    return new Error("Inicia sesión de nuevo para guardar tus marcas.");
+  }
+  return new Error(error.message || "No pudimos guardar el cambio.");
+}
+
 
 export const chapterMarksQuery = (
   userId: string | null,
