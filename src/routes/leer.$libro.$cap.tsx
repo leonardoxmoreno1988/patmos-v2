@@ -410,7 +410,9 @@ function Reader() {
         </p>
        ) : (
         <div className="space-y-1.5 tracking-[-0.01em] text-foreground">
-         {verses.map((v) => (
+         {verses.map((v) => {
+          const noteContent = marks.notes[v.verse]?.content;
+          return (
           <VerseText
            key={v.verse}
            verse={v}
@@ -420,11 +422,9 @@ function Reader() {
             : {})}
            selected={selectedVerse === v.verse}
            hasNote={!!marks.notes[v.verse]}
-           notePreview={
-            marks.notes[v.verse]?.content
-             ? truncateWords(marks.notes[v.verse].content, 12)
-             : undefined
-           }
+           {...(noteContent
+            ? { notePreview: truncateWords(noteContent, 12) }
+            : {})}
            onSelect={() =>
             setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
            }
