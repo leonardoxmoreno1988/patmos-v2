@@ -50,6 +50,7 @@ export function SiteHeader({
       </Link>
      ) : null}
      <ThemeToggle />
+     <AuthNav />
     </div>
    </div>
   </header>
