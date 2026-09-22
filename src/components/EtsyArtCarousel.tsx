@@ -10,8 +10,6 @@ import artCrucifixion from "@/assets/etsy-art/crucifixion.jpg.asset.json";
 import artBautismo from "@/assets/etsy-art/bautismo.jpg.asset.json";
 import artDavid from "@/assets/etsy-art/david-goliat.jpg.asset.json";
 
-const ETSY_SHOP = "https://www.etsy.com/shop/PatmosStore";
-
 type Artwork = {
   title: string;
   reference: string;
