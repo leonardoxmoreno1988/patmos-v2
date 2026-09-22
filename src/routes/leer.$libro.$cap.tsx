@@ -397,6 +397,15 @@ function Reader() {
            key={v.verse}
            verse={v}
            flashing={flashVerse === v.verse}
+           {...(marks.highlights[v.verse]
+            ? { highlightClass: HIGHLIGHT_CLASS[marks.highlights[v.verse]!.color] }
+            : {})}
+           selected={selectedVerse === v.verse}
+           hasNote={!!marks.notes[v.verse]}
+           onSelect={() =>
+            setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
+           }
+           onOpenNote={() => setOpenNoteVerse(v.verse)}
           />
          ))}
         </div>
