@@ -218,7 +218,7 @@ export function NoteDialog({
   title: string;
   initial: string;
   onSave?: (content: string) => void;
-  onDelete?: () => void;
+  onDelete?: (() => void) | undefined;
   saving?: boolean;
   readOnly?: boolean;
 }) {
