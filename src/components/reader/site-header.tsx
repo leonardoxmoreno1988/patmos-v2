@@ -4,6 +4,7 @@ import { BookOpen } from "lucide-react";
 
 import { ThemeToggle } from "./theme-toggle";
 import { GlobalSearch, SearchTrigger } from "./global-search";
+import { AuthNav } from "@/components/auth/auth-nav";
 
 interface SiteHeaderProps {
  rightLink?: { to: string; label: string };
@@ -49,6 +50,7 @@ export function SiteHeader({
       </Link>
      ) : null}
      <ThemeToggle />
+     <AuthNav />
     </div>
    </div>
   </header>
