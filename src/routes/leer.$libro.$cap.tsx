@@ -6,7 +6,7 @@ import { ChevronLeft, ChevronRight, StickyNote } from "lucide-react";
 
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
-import { VerseActionBar, NoteDialog } from "@/components/reader/verse-tools";
+import { VerseActionBar } from "@/components/reader/verse-tools";
 import { HIGHLIGHT_CLASS, chapterMarksQuery } from "@/lib/user-marks";
 
 import { BOOKS, bookQuery, bookFromSlug, slugifyBook, type Verse } from "@/lib/bible";
