@@ -17,6 +17,15 @@ import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { excerpt, plainText, seoHead } from "@/lib/seo";
 
+function truncateWords(text: string, maxWords: number) {
+ const clean = text.replace(/\s+/g, " ").trim();
+ const words = clean.split(" ");
+ return words.length > maxWords
+  ? `${words.slice(0, maxWords).join(" ")}...`
+  : clean;
+}
+
+
 
 export const Route = createFileRoute("/leer/$libro/$cap")({
  staticData: { sitemap: true },
