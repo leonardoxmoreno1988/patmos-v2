@@ -28,17 +28,17 @@ export function SiteHeader({
 
  return (
   <header className="relative z-30 bg-background/80 backdrop-blur-xl sm:sticky sm:top-0">
-   <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-6 py-2 sm:py-3.5 lg:py-4">
+   <div className="mx-auto flex max-w-7xl items-center justify-between gap-2 px-4 py-2 sm:gap-4 sm:px-6 sm:py-3.5 lg:py-4">
     <Link to="/" className="flex min-w-0 items-center gap-2.5 cursor-pointer">
      <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-[#000f37] text-white sm:h-8 sm:w-8 dark:border-0 dark:bg-white dark:text-[#000f37]">
       <BookOpen className="h-4 w-4 stroke-[1.75] sm:h-[18px] sm:w-[18px]" />
      </span>
-       <span className="text-base sm:text-lg font-bold tracking-tight text-foreground whitespace-nowrap">
+       <span className="hidden text-base sm:inline sm:text-lg font-bold tracking-tight text-foreground whitespace-nowrap">
         RV + Notas
        </span>
     </Link>
 
-     <div className="flex items-center gap-2">
+     <div className="flex shrink-0 items-center gap-1.5 sm:gap-2">
       <SearchTrigger onClick={() => setSearchOpen(true)} />
       <GlobalSearch open={searchOpen} onOpenChange={setSearchOpen} />
       {rightLink ? (
