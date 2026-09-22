@@ -2,7 +2,12 @@ import { useEffect, useRef, useState } from "react";
 import { createFileRoute, useNavigate, useRouterState } from "@tanstack/react-router";
 
 import { keepPreviousData, useQuery } from "@tanstack/react-query";
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight, StickyNote } from "lucide-react";
+
+import { useAuth } from "@/components/auth/auth-provider";
+import { AuthModal } from "@/components/auth/auth-modal";
+import { VerseActionBar } from "@/components/reader/verse-tools";
+import { HIGHLIGHT_CLASS, chapterMarksQuery } from "@/lib/user-marks";
 
 import { BOOKS, bookQuery, bookFromSlug, slugifyBook, type Verse } from "@/lib/bible";
 import { Selector } from "@/components/reader/selector";
@@ -36,22 +41,47 @@ export const Route = createFileRoute("/leer/$libro/$cap")({
 function VerseText({
  verse,
  flashing,
+ highlightClass,
+ selected,
+ hasNote,
+ onSelect,
+ onOpenNote,
 }: {
  verse: Verse;
  flashing?: boolean;
+ highlightClass?: string;
+ selected?: boolean;
+ hasNote?: boolean;
+ onSelect?: () => void;
+ onOpenNote?: () => void;
 }) {
  return (
   <span
    id={`verse-${verse.verse}`}
-   className={`-mx-2 block scroll-mt-44 cursor-text select-text rounded-none px-2 py-1 text-[18px] sm:text-[19px] leading-relaxed text-foreground ${
+   onClick={onSelect}
+   className={`-mx-2 block scroll-mt-44 cursor-pointer select-text rounded-none px-2 py-1 text-[18px] sm:text-[19px] leading-relaxed text-foreground transition-colors ${
+    highlightClass ?? ""
+   } ${selected ? "ring-1 ring-inset ring-foreground/25" : ""} ${
     flashing ? "flash-target" : ""
    }`}
-
   >
 
    <sup className="mr-2 inline-block select-none text-xs font-medium text-verse-number">
     {verse.verse}
    </sup>
+   {hasNote ? (
+    <button
+     type="button"
+     aria-label={`Ver mi nota del versículo ${verse.verse}`}
+     onClick={(e) => {
+      e.stopPropagation();
+      onOpenNote?.();
+     }}
+     className="mr-1.5 inline-flex translate-y-[1px] items-center text-primary transition-opacity hover:opacity-70"
+    >
+     <StickyNote className="h-[13px] w-[13px]" />
+    </button>
+   ) : null}
    {verse.segments.map((s, i) =>
     s.italic ? (
      <em key={i} className="italic text-muted-foreground">
@@ -91,6 +121,19 @@ function Reader() {
  const verses = current?.verses ?? [];
  const loading =
   bookData.isFetching || bookData.isPlaceholderData || studyNotes.isFetching;
+
+ const { user } = useAuth();
+ const userId = user?.id ?? null;
+ const marksQuery = useQuery(chapterMarksQuery(userId, book.name, chapter));
+ const marks = marksQuery.data ?? { highlights: {}, notes: {}, bookmarks: {} };
+ const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
+ const [authOpen, setAuthOpen] = useState(false);
+ const [openNoteVerse, setOpenNoteVerse] = useState<number | null>(null);
+
+ useEffect(() => {
+  setSelectedVerse(null);
+  setOpenNoteVerse(null);
+ }, [libro, cap]);
 
  const scrollToVerse = (verse: number) => {
   if (typeof window === "undefined") return;
@@ -354,6 +397,18 @@ function Reader() {
            key={v.verse}
            verse={v}
            flashing={flashVerse === v.verse}
+           {...(marks.highlights[v.verse]
+            ? { highlightClass: HIGHLIGHT_CLASS[marks.highlights[v.verse]!.color] }
+            : {})}
+           selected={selectedVerse === v.verse}
+           hasNote={!!marks.notes[v.verse]}
+           onSelect={() =>
+            setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
+           }
+           onOpenNote={() => {
+            setSelectedVerse(v.verse);
+            setOpenNoteVerse(v.verse);
+           }}
           />
          ))}
         </div>
@@ -415,6 +470,29 @@ function Reader() {
      . Todos los derechos reservados.
     </div>
    </footer>
+
+   {selectedVerse !== null ? (
+    <VerseActionBar
+     userId={userId}
+     book={book.name}
+     chapter={chapter}
+     selection={{
+      verse: selectedVerse,
+      text: verses.find((v) => v.verse === selectedVerse)?.text ?? "",
+     }}
+     marks={marks}
+     initialNoteOpen={openNoteVerse === selectedVerse}
+     key={`${selectedVerse}-${openNoteVerse === selectedVerse}`}
+     onClose={() => {
+      setSelectedVerse(null);
+      setOpenNoteVerse(null);
+     }}
+     onRequireAuth={() => setAuthOpen(true)}
+    />
+   ) : null}
+
+
+   <AuthModal open={authOpen} onOpenChange={setAuthOpen} />
   </div>
  );
 }
