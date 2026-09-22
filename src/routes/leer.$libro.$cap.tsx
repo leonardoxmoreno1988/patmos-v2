@@ -17,6 +17,15 @@ import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { excerpt, plainText, seoHead } from "@/lib/seo";
 
+function truncateWords(text: string, maxWords: number) {
+ const clean = text.replace(/\s+/g, " ").trim();
+ const words = clean.split(" ");
+ return words.length > maxWords
+  ? `${words.slice(0, maxWords).join(" ")}...`
+  : clean;
+}
+
+
 
 export const Route = createFileRoute("/leer/$libro/$cap")({
  staticData: { sitemap: true },
@@ -44,6 +53,7 @@ function VerseText({
  highlightClass,
  selected,
  hasNote,
+ notePreview,
  onSelect,
  onOpenNote,
 }: {
@@ -52,6 +62,7 @@ function VerseText({
  highlightClass?: string;
  selected?: boolean;
  hasNote?: boolean;
+ notePreview?: string;
  onSelect?: () => void;
  onOpenNote?: () => void;
 }) {
@@ -68,7 +79,7 @@ function VerseText({
    }`}
   >
 
-   <sup className="mr-2 inline-block select-none text-xs font-medium text-verse-number">
+   <sup className="mr-1 inline-block select-none text-xs font-medium text-verse-number">
     {verse.verse}
    </sup>
    {hasNote ? (
@@ -79,9 +90,14 @@ function VerseText({
       e.stopPropagation();
       onOpenNote?.();
      }}
-     className="mr-1.5 inline-flex translate-y-[1px] items-center text-primary transition-opacity hover:opacity-70"
+     className="group/note relative mr-1 inline-flex translate-y-[1px] items-center align-baseline text-primary transition-opacity hover:opacity-80"
     >
-     <StickyNote className="h-[13px] w-[13px]" />
+     {notePreview ? (
+      <span className="pointer-events-none absolute bottom-full left-0 z-50 mb-2 max-w-[260px] truncate rounded-lg bg-foreground px-3 py-1.5 text-xs font-normal leading-snug text-background opacity-0 shadow-md shadow-black/10 transition-opacity duration-150 group-hover/note:opacity-100 dark:shadow-black/40 sm:max-w-[320px]">
+       {notePreview}
+      </span>
+     ) : null}
+     <StickyNote className="h-[13px] w-[13px]" fill="currentColor" />
     </button>
    ) : null}
    {verse.segments.map((s, i) =>
@@ -394,7 +410,9 @@ function Reader() {
         </p>
        ) : (
         <div className="space-y-1.5 tracking-[-0.01em] text-foreground">
-         {verses.map((v) => (
+         {verses.map((v) => {
+          const noteContent = marks.notes[v.verse]?.content;
+          return (
           <VerseText
            key={v.verse}
            verse={v}
@@ -404,6 +422,9 @@ function Reader() {
             : {})}
            selected={selectedVerse === v.verse}
            hasNote={!!marks.notes[v.verse]}
+           {...(noteContent
+            ? { notePreview: truncateWords(noteContent, 12) }
+            : {})}
            onSelect={() =>
             setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
            }
@@ -411,8 +432,9 @@ function Reader() {
             setSelectedVerse(v.verse);
             setOpenNoteVerse(v.verse);
            }}
-          />
-         ))}
+           />
+          );
+         })}
         </div>
        )}
       </div>
