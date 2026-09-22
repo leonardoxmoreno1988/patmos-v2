@@ -66,10 +66,6 @@ export async function fetchChapterMarks(
   book: string,
   chapter: number,
 ): Promise<ChapterMarks> {
-  const filter = <T>(q: T) =>
-    (q as never as { eq: (c: string, v: unknown) => unknown })["eq"];
-  void filter;
-
   const [highlights, notes, bookmarks] = await Promise.all([
     supabase
       .from("user_highlights")
