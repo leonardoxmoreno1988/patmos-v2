@@ -467,6 +467,33 @@ function Reader() {
      . Todos los derechos reservados.
     </div>
    </footer>
+
+   {selectedVerse !== null ? (
+    <VerseActionBar
+     userId={userId}
+     book={book.name}
+     chapter={chapter}
+     selection={{
+      verse: selectedVerse,
+      text: verses.find((v) => v.verse === selectedVerse)?.text ?? "",
+     }}
+     marks={marks}
+     onClose={() => setSelectedVerse(null)}
+     onRequireAuth={() => setAuthOpen(true)}
+    />
+   ) : null}
+
+   <NoteDialog
+    open={openNoteVerse !== null}
+    onOpenChange={(open) => {
+     if (!open) setOpenNoteVerse(null);
+    }}
+    title={`${book.name} ${chapter}:${openNoteVerse ?? ""}`}
+    initial={(openNoteVerse !== null && marks.notes[openNoteVerse]?.content) || ""}
+    readOnly
+   />
+
+   <AuthModal open={authOpen} onOpenChange={setAuthOpen} />
   </div>
  );
 }
