@@ -30,7 +30,7 @@ export function AuthNav() {
         <Button
           variant="outline"
           size="sm"
-          className="rounded-full shadow-none"
+          className="h-9 rounded-full border border-foreground/15 px-5 text-sm font-medium shadow-none"
           onClick={() => setAuthOpen(true)}
         >
           Iniciar Sesión
