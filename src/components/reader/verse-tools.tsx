@@ -35,6 +35,7 @@ interface Props {
   marks: ChapterMarks;
   onClose: () => void;
   onRequireAuth: () => void;
+  initialNoteOpen?: boolean;
 }
 
 export function VerseActionBar({
@@ -45,9 +46,10 @@ export function VerseActionBar({
   marks,
   onClose,
   onRequireAuth,
+  initialNoteOpen,
 }: Props) {
   const queryClient = useQueryClient();
-  const [noteOpen, setNoteOpen] = useState(false);
+  const [noteOpen, setNoteOpen] = useState(!!initialNoteOpen);
   const verse = selection.verse;
   const target = { userId: userId ?? "", book, chapter, verse };
   const currentColor = marks.highlights[verse]?.color;

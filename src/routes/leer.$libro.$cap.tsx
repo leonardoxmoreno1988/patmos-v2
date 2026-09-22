@@ -405,7 +405,10 @@ function Reader() {
            onSelect={() =>
             setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
            }
-           onOpenNote={() => setOpenNoteVerse(v.verse)}
+           onOpenNote={() => {
+            setSelectedVerse(v.verse);
+            setOpenNoteVerse(v.verse);
+           }}
           />
          ))}
         </div>
@@ -478,20 +481,16 @@ function Reader() {
       text: verses.find((v) => v.verse === selectedVerse)?.text ?? "",
      }}
      marks={marks}
-     onClose={() => setSelectedVerse(null)}
+     initialNoteOpen={openNoteVerse === selectedVerse}
+     key={`${selectedVerse}-${openNoteVerse === selectedVerse}`}
+     onClose={() => {
+      setSelectedVerse(null);
+      setOpenNoteVerse(null);
+     }}
      onRequireAuth={() => setAuthOpen(true)}
     />
    ) : null}
 
-   <NoteDialog
-    open={openNoteVerse !== null}
-    onOpenChange={(open) => {
-     if (!open) setOpenNoteVerse(null);
-    }}
-    title={`${book.name} ${chapter}:${openNoteVerse ?? ""}`}
-    initial={(openNoteVerse !== null && marks.notes[openNoteVerse]?.content) || ""}
-    readOnly
-   />
 
    <AuthModal open={authOpen} onOpenChange={setAuthOpen} />
   </div>
