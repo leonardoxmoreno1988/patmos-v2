@@ -1,3 +1,4 @@
+import type React from "react";
 import {
   createContext,
   useCallback,
@@ -32,7 +33,8 @@ interface AuthContextValue {
   deleteAccount: () => Promise<void>;
 }
 
-const AuthContext = createContext<AuthContextValue | null>(null);
+const g = globalThis as { __rvAuthCtx?: React.Context<AuthContextValue | null> };
+const AuthContext = (g.__rvAuthCtx ??= createContext<AuthContextValue | null>(null));
 
 function nameFromUser(user: User | null): string {
   if (!user) return "";
