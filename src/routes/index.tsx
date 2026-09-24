@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
-import { EBOOK_TITLE } from "@/lib/ebook";
+import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
 import { useQuery } from "@tanstack/react-query";
 
 import { BOOK_GROUPS, CHAPTER_COUNTS, slugifyBook, type BookInfo } from "@/lib/bible";
@@ -91,17 +91,31 @@ function Home() {
        </Link>
       </div>
 
-      <div className="mx-auto mt-12 flex max-w-2xl flex-col items-center gap-4 rounded-2xl border border-[#000f37]/10 bg-foreground/[0.02] px-6 py-6 sm:flex-row sm:justify-between sm:text-left dark:border-white/10">
-       <p className="text-sm leading-relaxed text-foreground sm:text-[15px]">
-        Obtén el E-book <span className="font-semibold">"{EBOOK_TITLE}"</span> al crear tu cuenta
-       </p>
-       <button
-        type="button"
-        onClick={() => (user ? void navigate({ to: "/welcome" }) : setSignupOpen(true))}
-        className="inline-flex h-10 shrink-0 cursor-pointer items-center justify-center rounded-full border border-[#000f37] px-5 text-sm font-medium text-[#000f37] transition-colors hover:bg-[#000f37] hover:text-white dark:border-white dark:text-white dark:hover:bg-white dark:hover:text-[#000f37]"
-       >
-        Crear cuenta y descargar E-book →
-       </button>
+      <div className="mx-auto mt-12 flex max-w-2xl flex-col gap-5 rounded-2xl border border-[#000f37]/10 bg-foreground/[0.02] p-5 sm:flex-row sm:items-center sm:justify-between sm:p-6 dark:border-white/10">
+        <div className="flex items-start gap-4 sm:items-center">
+          <img
+            src={EBOOK_COVER}
+            alt={EBOOK_TITLE}
+            className="h-20 w-14 shrink-0 rounded-md object-cover shadow-md"
+            loading="lazy"
+          />
+          <div className="min-w-0 text-left">
+            <span className="inline-block rounded-full bg-[#d9b36a]/15 px-2.5 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-[#8a6d2f] dark:bg-[#d9b36a]/15 dark:text-[#d9b36a]">
+              Recurso gratuito
+            </span>
+            <p className="mt-2 text-sm leading-relaxed text-foreground sm:text-[15px]">
+              Obtén el E-book <span className="font-semibold">"{EBOOK_TITLE}"</span> al crear tu
+              cuenta
+            </p>
+          </div>
+        </div>
+        <button
+          type="button"
+          onClick={() => (user ? void navigate({ to: "/welcome" }) : setSignupOpen(true))}
+          className="inline-flex h-10 w-full shrink-0 cursor-pointer items-center justify-center rounded-full bg-[#000f37] px-5 text-sm font-medium text-white shadow-sm transition-opacity hover:opacity-90 sm:w-auto dark:bg-white dark:text-[#000f37]"
+        >
+          Crear cuenta y descargar E-book →
+        </button>
       </div>
       <AuthModal open={signupOpen} onOpenChange={setSignupOpen} defaultTab="signup" />
      </section>
