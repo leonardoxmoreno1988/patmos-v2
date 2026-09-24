@@ -96,7 +96,7 @@ function Home() {
           <img
             src={EBOOK_COVER}
             alt={EBOOK_TITLE}
-            className="h-20 w-14 shrink-0 rounded-md object-cover shadow-md"
+            className="h-20 w-14 shrink-0 rounded-none object-cover shadow-md"
             loading="lazy"
           />
           <div className="min-w-0 text-left">
@@ -114,7 +114,7 @@ function Home() {
           onClick={() => (user ? void navigate({ to: "/welcome" }) : setSignupOpen(true))}
           className="inline-flex h-10 w-full shrink-0 cursor-pointer items-center justify-center rounded-full bg-[#000f37] px-5 text-sm font-medium text-white shadow-sm transition-opacity hover:opacity-90 sm:w-auto dark:bg-white dark:text-[#000f37]"
         >
-          Crear cuenta y descargar E-book →
+          Descargar libro
         </button>
       </div>
       <AuthModal open={signupOpen} onOpenChange={setSignupOpen} defaultTab="signup" />
