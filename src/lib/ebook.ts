@@ -1,6 +1,9 @@
+import coverAsset from "@/assets/ebook-cover.jpg.asset.json";
+
 export const EBOOK_URL =
   "https://drive.google.com/file/d/1gC_qykQa0p4zCXUbuYlXnH-CcvCzVpvn/view?usp=sharing";
-export const EBOOK_TITLE = "La Segunda Venida de Cristo y las Religiones del Mundo";
+export const EBOOK_TITLE = "La Segunda Venida de Cristo en las Religiones del Mundo";
+export const EBOOK_COVER = coverAsset.url;
 
 const key = (userId: string) => `rvnotas:welcomed:${userId}`;
 
