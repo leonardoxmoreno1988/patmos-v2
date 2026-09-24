@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { Library, LogOut, User as UserIcon } from "lucide-react";
+import { FileText, Library, LogOut, User as UserIcon } from "lucide-react";
+import { EBOOK_URL } from "@/lib/ebook";
 
 import { Button } from "@/components/ui/button";
 import {
@@ -60,6 +61,12 @@ export function AuthNav() {
           <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
             <Library className="mr-2 h-4 w-4" />
             Mi Biblioteca
+          </DropdownMenuItem>
+          <DropdownMenuItem asChild>
+            <a href={EBOOK_URL} target="_blank" rel="noopener noreferrer" data-umami-event="Ebook Download">
+              <FileText className="mr-2 h-4 w-4" />
+              Mi E-book
+            </a>
           </DropdownMenuItem>
           <DropdownMenuItem onSelect={() => setAccountOpen(true)}>
             <UserIcon className="mr-2 h-4 w-4" />

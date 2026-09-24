@@ -1,3 +1,4 @@
+import type React from "react";
 import {
   createContext,
   useCallback,
@@ -9,7 +10,10 @@ import {
 } from "react";
 import type { Session, User } from "@supabase/supabase-js";
 
+import { useNavigate } from "@tanstack/react-router";
+
 import { supabase } from "@/lib/supabase";
+import { hasSeenWelcome, markWelcomeSeen } from "@/lib/ebook";
 
 interface AuthContextValue {
   user: User | null;
@@ -29,7 +33,8 @@ interface AuthContextValue {
   deleteAccount: () => Promise<void>;
 }
 
-const AuthContext = createContext<AuthContextValue | null>(null);
+const g = globalThis as { __rvAuthCtx?: React.Context<AuthContextValue | null> };
+const AuthContext = (g.__rvAuthCtx ??= createContext<AuthContextValue | null>(null));
 
 function nameFromUser(user: User | null): string {
   if (!user) return "";
@@ -47,14 +52,26 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
 
+  const navigate = useNavigate();
+
   useEffect(() => {
     let active = true;
 
-    const { data: sub } = supabase.auth.onAuthStateChange((_event, nextSession) => {
+    const { data: sub } = supabase.auth.onAuthStateChange((event, nextSession) => {
       if (!active) return;
       setSession(nextSession);
       setUser(nextSession?.user ?? null);
       setLoading(false);
+      const u = nextSession?.user;
+      if (event === "SIGNED_IN" && u && !hasSeenWelcome(u.id)) {
+        const created = u.created_at ? Date.parse(u.created_at) : 0;
+        const isNew = Date.now() - created < 7 * 24 * 60 * 60 * 1000;
+        if (isNew) {
+          setTimeout(() => void navigate({ to: "/welcome" }), 0);
+        } else {
+          markWelcomeSeen(u.id);
+        }
+      }
     });
 
     supabase.auth.getSession().then(({ data }) => {
