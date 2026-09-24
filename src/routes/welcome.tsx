@@ -38,9 +38,6 @@ function Welcome() {
               className="max-h-[380px] w-auto max-w-[280px] rounded-xl object-cover shadow-xl md:max-h-[460px] md:max-w-[340px]"
               loading="eager"
             />
-            <p className="mt-5 max-w-[300px] text-center text-sm font-semibold leading-snug text-foreground md:max-w-[340px] md:text-left">
-              {EBOOK_TITLE}
-            </p>
           </div>
 
           {/* Text + actions */}
