@@ -108,14 +108,6 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       },
       { rel: "icon", href: "/favicon.png", type: "image/png" },
     ],
-    scripts: [
-      {
-        type: "text/javascript",
-        src: "https://cloud.umami.is/script.js",
-        defer: true,
-        "data-website-id": "bdfd0465-45a8-47d8-8cc0-076ed1c98361",
-      },
-    ],
   }),
   shellComponent: RootShell,
   component: RootComponent,
@@ -137,8 +129,28 @@ function RootShell({ children }: { children: ReactNode }) {
   );
 }
 
+function useUmamiOnInteraction() {
+  useEffect(() => {
+    const inject = () => {
+      const s = document.createElement("script");
+      s.src = "https://cloud.umami.is/script.js";
+      s.defer = true;
+      s.setAttribute("data-website-id", "bdfd0465-45a8-47d8-8cc0-076ed1c98361");
+      document.head.appendChild(s);
+    };
+    const events = ["mousemove", "scroll", "keydown", "touchstart", "click"] as const;
+    const onFirst = () => {
+      inject();
+      events.forEach((e) => window.removeEventListener(e, onFirst));
+    };
+    events.forEach((e) => window.addEventListener(e, onFirst, { passive: true }));
+    return () => events.forEach((e) => window.removeEventListener(e, onFirst));
+  }, []);
+}
+
 function RootComponent() {
   const { queryClient } = Route.useRouteContext();
+  useUmamiOnInteraction();
 
   return (
     <QueryClientProvider client={queryClient}>
