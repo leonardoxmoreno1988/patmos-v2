@@ -9,9 +9,10 @@ import { slugifyBook } from "@/lib/bible";
 import { useAuth } from "@/components/auth/auth-provider";
 import {
   HIGHLIGHT_SWATCH,
-  deleteMarkById,
+  deleteMarksByIds,
   libraryQuery,
   type HighlightColor,
+  type UserHighlight,
 } from "@/lib/user-marks";
 
 interface LibrarySheetProps {
@@ -21,11 +22,50 @@ interface LibrarySheetProps {
 
 interface Item {
   id: string;
+  ids?: string[];
   book: string;
   chapter: number;
   verse: number;
+  endVerse?: number;
   preview?: string;
   color?: HighlightColor;
+}
+
+// Agrupa versículos consecutivos del mismo libro, capítulo y color en una sola tarjeta.
+function groupHighlights(highlights: UserHighlight[]): Item[] {
+  const sorted = [...highlights].sort(
+    (a, b) =>
+      a.book.localeCompare(b.book) ||
+      a.chapter - b.chapter ||
+      a.verse - b.verse ||
+      a.created_at.localeCompare(b.created_at),
+  );
+  const groups: Item[] = [];
+  for (const h of sorted) {
+    const last = groups[groups.length - 1];
+    if (
+      last &&
+      last.book === h.book &&
+      last.chapter === h.chapter &&
+      last.color === h.color &&
+      last.endVerse === h.verse - 1
+    ) {
+      last.endVerse = h.verse;
+      last.ids!.push(h.id);
+      continue;
+    }
+    groups.push({
+      id: h.id,
+      ids: [h.id],
+      book: h.book,
+      chapter: h.chapter,
+      verse: h.verse,
+      endVerse: h.verse,
+      color: h.color,
+    });
+  }
+  // Los grupos más recientes primero (según el último versículo añadido al grupo).
+  return groups.reverse();
 }
 
 export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
@@ -35,8 +75,8 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
   const { data, isLoading } = useQuery(libraryQuery(user?.id ?? null));
 
   const remove = useMutation({
-    mutationFn: ({ table, id }: { table: "user_bookmarks" | "user_highlights" | "user_notes"; id: string }) =>
-      deleteMarkById(table, id),
+    mutationFn: ({ table, ids }: { table: "user_bookmarks" | "user_highlights" | "user_notes"; ids: string[] }) =>
+      deleteMarksByIds(table, ids),
     onSuccess: () => {
       void queryClient.invalidateQueries({ queryKey: ["user-library"] });
       void queryClient.invalidateQueries({ queryKey: ["user-marks"] });
