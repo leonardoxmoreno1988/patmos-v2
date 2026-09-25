@@ -27,11 +27,19 @@ export interface VerseSelection {
   text: string;
 }
 
+export function formatVerseList(nums: number[]): string {
+  const sorted = [...new Set(nums)].sort((a, b) => a - b);
+  if (sorted.length === 0) return "";
+  const contiguous = sorted.every((n, i) => i === 0 || n === sorted[i - 1]! + 1);
+  if (sorted.length > 1 && contiguous) return `${sorted[0]}–${sorted[sorted.length - 1]}`;
+  return sorted.join(", ");
+}
+
 interface Props {
   userId: string | null;
   book: string;
   chapter: number;
-  selection: VerseSelection;
+  selection: VerseSelection[];
   marks: ChapterMarks;
   onClose: () => void;
   onRequireAuth: () => void;
@@ -50,18 +58,25 @@ export function VerseActionBar({
 }: Props) {
   const queryClient = useQueryClient();
   const [noteOpen, setNoteOpen] = useState(!!initialNoteOpen);
-  const verse = selection.verse;
-  const target = { userId: userId ?? "", book, chapter, verse };
-  const currentColor = marks.highlights[verse]?.color;
-  const bookmarked = !!marks.bookmarks[verse];
-  const existingNote = marks.notes[verse]?.content ?? "";
+  const verseNums = selection.map((s) => s.verse).sort((a, b) => a - b);
+  const first = verseNums[0]!;
+  const label = `${book} ${chapter}:${formatVerseList(verseNums)}`;
+  const targets = verseNums.map((verse) => ({ userId: userId ?? "", book, chapter, verse }));
+  const firstTarget = targets[0]!;
+  const colors = verseNums.map((v) => marks.highlights[v]?.color);
+  const currentColor = colors.every((c) => c && c === colors[0]) ? colors[0] : undefined;
+  const anyHighlighted = colors.some(Boolean);
+  const bookmarked = verseNums.every((v) => !!marks.bookmarks[v]);
+  const existingNote = marks.notes[first]?.content ?? "";
 
-  const invalidate = () =>
-    queryClient.invalidateQueries({ queryKey: ["user-marks", userId, book, chapter] });
+  const invalidate = () => {
+    void queryClient.invalidateQueries({ queryKey: ["user-marks", userId, book, chapter] });
+    void queryClient.invalidateQueries({ queryKey: ["user-library", userId] });
+  };
 
   const run = useMutation({
-    mutationFn: async (action: () => Promise<void>) => action(),
-    onSuccess: () => void invalidate(),
+    mutationFn: async (action: () => Promise<unknown>) => action(),
+    onSuccess: () => invalidate(),
     onError: (error: Error) =>
       toast.error(error.message || "No pudimos guardar el cambio."),
   });
@@ -77,16 +92,23 @@ export function VerseActionBar({
   const pickColor = (color: HighlightColor) =>
     guard(() =>
       run.mutate(() =>
-        currentColor === color ? removeHighlight(target) : setHighlight(target, color),
+        Promise.all(
+          targets.map((t) =>
+            currentColor === color ? removeHighlight(t) : setHighlight(t, color),
+          ),
+        ),
       ),
     );
 
   const copyVerse = async () => {
     try {
-      await navigator.clipboard.writeText(
-        `"${selection.text}" (${book} ${chapter}:${verse}, RV1865)`,
-      );
-      toast.success("Versículo copiado");
+      const text = selection
+        .slice()
+        .sort((a, b) => a.verse - b.verse)
+        .map((s) => s.text)
+        .join(" ");
+      await navigator.clipboard.writeText(`"${text}" (${label}, RV1865)`);
+      toast.success(selection.length > 1 ? "Versículos copiados" : "Versículo copiado");
       onClose();
     } catch {
       toast.error("No pudimos copiar el versículo.");
@@ -97,8 +119,8 @@ export function VerseActionBar({
     <>
       <div className="pointer-events-none fixed inset-x-0 bottom-0 z-[60] flex justify-center px-4 pb-5">
         <div className="pointer-events-auto flex max-w-full items-center gap-1 overflow-x-auto rounded-full border border-border/60 bg-popover/95 px-2 py-2 shadow-[0_10px_40px_rgba(0,0,0,0.25)] backdrop-blur-md">
-          <span className="shrink-0 px-2 text-xs font-semibold text-muted-foreground">
-            {book} {chapter}:{verse}
+          <span className="shrink-0 whitespace-nowrap px-2 text-xs font-semibold text-muted-foreground">
+            {label}
           </span>
           <span className="mx-1 h-6 w-px shrink-0 bg-border/70" />
           {HIGHLIGHT_COLORS.map((color) => (
@@ -114,10 +136,12 @@ export function VerseActionBar({
               <span className={`h-5 w-5 rounded-full ${HIGHLIGHT_SWATCH[color]}`} />
             </button>
           ))}
-          {currentColor ? (
+          {anyHighlighted ? (
             <IconButton
               label="Quitar resaltado"
-              onClick={() => guard(() => run.mutate(() => removeHighlight(target)))}
+              onClick={() =>
+                guard(() => run.mutate(() => Promise.all(targets.map((t) => removeHighlight(t)))))
+              }
             >
               <Eraser className="h-[18px] w-[18px]" />
             </IconButton>
@@ -133,7 +157,11 @@ export function VerseActionBar({
           <IconButton
             label={bookmarked ? "Quitar marcador" : "Marcador"}
             active={bookmarked}
-            onClick={() => guard(() => run.mutate(() => toggleBookmark(target, !bookmarked)))}
+            onClick={() =>
+              guard(() =>
+                run.mutate(() => Promise.all(targets.map((t) => toggleBookmark(t, !bookmarked)))),
+              )
+            }
           >
             <Bookmark
               className={`h-[18px] w-[18px] ${bookmarked ? "fill-current" : ""}`}
@@ -151,18 +179,18 @@ export function VerseActionBar({
       <NoteDialog
         open={noteOpen}
         onOpenChange={setNoteOpen}
-        title={`${book} ${chapter}:${verse}`}
+        title={label}
         initial={existingNote}
         onSave={(content) =>
           run.mutate(
-            () => saveNote(target, content),
-            { onSuccess: () => { void invalidate(); setNoteOpen(false); toast.success("Nota guardada"); } },
+            () => saveNote(firstTarget, content, verseNums),
+            { onSuccess: () => { invalidate(); setNoteOpen(false); toast.success("Nota guardada"); } },
           )
         }
         onDelete={
           existingNote
             ? () =>
-                run.mutate(() => deleteNote(target), {
+                run.mutate(() => deleteNote(firstTarget), {
                   onSuccess: () => {
                     void invalidate();
                     setNoteOpen(false);
