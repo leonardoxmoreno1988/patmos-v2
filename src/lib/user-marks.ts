@@ -179,6 +179,15 @@ export async function deleteMarkById(table: MarkTable, id: string) {
   if (error) throw friendly(error);
 }
 
+export async function deleteMarksByIds(table: MarkTable, ids: string[]) {
+  if (ids.length === 0) return;
+  const { data } = await supabase.auth.getSession();
+  const user_id = data.session?.user?.id;
+  if (!user_id) throw new Error("Inicia sesión para editar tu biblioteca.");
+  const { error } = await supabase.from(table).delete().in("id", ids).eq("user_id", user_id);
+  if (error) throw friendly(error);
+}
+
 interface Target {
   userId: string;
   book: string;
