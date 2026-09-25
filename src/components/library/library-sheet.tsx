@@ -123,6 +123,7 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
                 <span className="min-w-0">
                   <span className="block text-sm font-semibold text-foreground">
                     {item.book} {item.chapter}:{item.verse}
+                    {item.endVerse && item.endVerse !== item.verse ? `–${item.endVerse}` : ""}
                   </span>
                   {item.preview ? (
                     <span className="mt-1 line-clamp-2 block text-sm text-muted-foreground">
@@ -134,7 +135,7 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
               <button
                 type="button"
                 aria-label="Eliminar"
-                onClick={() => remove.mutate({ table, id: item.id })}
+                onClick={() => remove.mutate({ table, ids: item.ids ?? [item.id] })}
                 className="shrink-0 cursor-pointer rounded-md p-2 text-muted-foreground transition-colors hover:bg-foreground/10 hover:text-foreground"
               >
                 <Trash2 className="h-4 w-4" />
@@ -164,7 +165,7 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
             </TabsContent>
             <TabsContent value="highlights">
               {renderList(
-                (data?.highlights ?? []).map((h) => ({ ...h, color: h.color })),
+                groupHighlights(data?.highlights ?? []),
                 "user_highlights",
                 "Aún no tienes resaltados guardados.",
               )}
