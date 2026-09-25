@@ -163,7 +163,7 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
           </TabsList>
           <div className="mt-4 min-h-0 flex-1 overflow-y-auto">
             <TabsContent value="bookmarks">
-              {renderList(data?.bookmarks ?? [], "user_bookmarks", "Aún no tienes marcadores guardados.")}
+              {renderList(groupContiguous(data?.bookmarks ?? []), "user_bookmarks", "Aún no tienes marcadores guardados.")}
             </TabsContent>
             <TabsContent value="highlights">
               {renderList(
