@@ -62,3 +62,7 @@ end $$;
 create index if not exists user_highlights_chapter_idx on public.user_highlights (user_id, book, chapter);
 create index if not exists user_notes_chapter_idx on public.user_notes (user_id, book, chapter);
 create index if not exists user_bookmarks_chapter_idx on public.user_bookmarks (user_id, book, chapter);
+
+-- Notas por rango de versículos (ejecutar si ya creaste las tablas antes).
+alter table public.user_notes add column if not exists end_verse int;
+alter table public.user_notes add column if not exists verses int[];

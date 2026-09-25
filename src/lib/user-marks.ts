@@ -39,6 +39,8 @@ export interface UserNote {
   chapter: number;
   verse: number;
   content: string;
+  end_verse?: number | null;
+  verses?: number[] | null;
   created_at: string;
 }
 
@@ -75,7 +77,7 @@ export async function fetchChapterMarks(
       .eq("chapter", chapter),
     supabase
       .from("user_notes")
-      .select("id, book, chapter, verse, content, created_at")
+      .select("*")
       .eq("user_id", userId)
       .eq("book", book)
       .eq("chapter", chapter),
@@ -142,7 +144,7 @@ export async function fetchLibrary(userId: string): Promise<LibraryData> {
       .order(order.column, { ascending: order.ascending }),
     supabase
       .from("user_notes")
-      .select("id, book, chapter, verse, content, created_at")
+      .select("*")
       .eq("user_id", userId)
       .order(order.column, { ascending: order.ascending }),
   ]);
@@ -213,12 +215,18 @@ export async function removeHighlight(t: Target) {
   if (error) throw friendly(error);
 }
 
-export async function saveNote(t: Target, content: string) {
+export async function saveNote(t: Target, content: string, verses: number[] = [t.verse]) {
   const user_id = await sessionUserId(t.userId);
-  const { error } = await supabase.from("user_notes").upsert(
-    { user_id, book: t.book, chapter: t.chapter, verse: t.verse, content },
-    { onConflict: "user_id,book,chapter,verse" },
-  );
+  const sorted = [...new Set(verses)].sort((a, b) => a - b);
+  const base = { user_id, book: t.book, chapter: t.chapter, verse: sorted[0] ?? t.verse, content };
+  const opts = { onConflict: "user_id,book,chapter,verse" };
+  let { error } = await supabase
+    .from("user_notes")
+    .upsert({ ...base, end_verse: sorted[sorted.length - 1] ?? t.verse, verses: sorted }, opts);
+  // Si aún no existen las columnas de rango, guardamos la nota en el primer versículo.
+  if (error && (error.code === "42703" || error.code === "PGRST204")) {
+    ({ error } = await supabase.from("user_notes").upsert(base, opts));
+  }
   if (error) throw friendly(error);
 }
 
