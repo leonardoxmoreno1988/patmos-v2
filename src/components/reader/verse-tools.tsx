@@ -184,7 +184,20 @@ export function VerseActionBar({
         onSave={(content) =>
           run.mutate(
             () => saveNote(firstTarget, content, verseNums),
-            { onSuccess: () => { invalidate(); setNoteOpen(false); toast.success("Nota guardada"); } },
+            {
+              onSuccess: (result) => {
+                invalidate();
+                setNoteOpen(false);
+                const rangeSaved = (result as { rangeSaved?: boolean } | undefined)?.rangeSaved;
+                if (verseNums.length > 1 && rangeSaved === false) {
+                  toast.warning(
+                    "Nota guardada solo en el primer versículo: falta actualizar la base de datos para guardar rangos.",
+                  );
+                } else {
+                  toast.success("Nota guardada");
+                }
+              },
+            },
           )
         }
         onDelete={
