@@ -63,7 +63,7 @@ function groupContiguous<T extends { id: string; book: string; chapter: number; 
       chapter: row.chapter,
       verse: row.verse,
       endVerse: row.verse,
-      color: row.color,
+      ...(row.color ? { color: row.color } : {}),
     });
   }
   // Los grupos más recientes primero (según el último versículo añadido al grupo).
