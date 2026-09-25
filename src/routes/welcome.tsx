@@ -35,7 +35,7 @@ function Welcome() {
             <img
               src={EBOOK_COVER}
               alt={`Portada del E-book "${EBOOK_TITLE}"`}
-              className="max-h-[380px] w-auto max-w-[280px] rounded-xl object-cover shadow-xl md:max-h-[460px] md:max-w-[340px]"
+              className="max-h-[380px] w-auto max-w-[280px] rounded-none object-cover shadow-xl md:max-h-[460px] md:max-w-[340px]"
               loading="eager"
             />
           </div>
@@ -57,7 +57,7 @@ function Welcome() {
                 data-umami-event="Ebook Download"
                 className="inline-flex h-12 items-center justify-center rounded-full bg-[#000f37] px-7 text-sm font-semibold text-white transition-opacity hover:opacity-90 dark:bg-white dark:text-[#000f37]"
               >
-                Descargar E-book Teológico Gratis (PDF)
+                Descargar E-Book Gratis
               </a>
               <Link
                 to="/"
