@@ -144,12 +144,12 @@ function Reader() {
  const userId = user?.id ?? null;
  const marksQuery = useQuery(chapterMarksQuery(userId, book.name, chapter));
  const marks = marksQuery.data ?? { highlights: {}, notes: {}, bookmarks: {} };
- const [selectedVerse, setSelectedVerse] = useState<number | null>(null);
+ const [selectedVerses, setSelectedVerses] = useState<number[]>([]);
  const [authOpen, setAuthOpen] = useState(false);
  const [openNoteVerse, setOpenNoteVerse] = useState<number | null>(null);
 
  useEffect(() => {
-  setSelectedVerse(null);
+  setSelectedVerses([]);
   setOpenNoteVerse(null);
  }, [libro, cap]);
 
@@ -420,16 +420,22 @@ function Reader() {
            {...(marks.highlights[v.verse]
             ? { highlightClass: HIGHLIGHT_CLASS[marks.highlights[v.verse]!.color] }
             : {})}
-           selected={selectedVerse === v.verse}
+           selected={selectedVerses.includes(v.verse)}
            hasNote={!!marks.notes[v.verse]}
            {...(noteContent
             ? { notePreview: truncateWords(noteContent, 12) }
             : {})}
-           onSelect={() =>
-            setSelectedVerse((cur) => (cur === v.verse ? null : v.verse))
-           }
+           onSelect={() => {
+            setOpenNoteVerse(null);
+            setSelectedVerses((cur) =>
+             cur.includes(v.verse)
+              ? cur.filter((n) => n !== v.verse)
+              : [...cur, v.verse].sort((a, b) => a - b),
+            );
+           }}
            onOpenNote={() => {
-            setSelectedVerse(v.verse);
+            const note = marks.notes[v.verse];
+            setSelectedVerses(note?.verses?.length ? [...note.verses] : [v.verse]);
             setOpenNoteVerse(v.verse);
            }}
            />
@@ -495,20 +501,20 @@ function Reader() {
     </div>
    </footer>
 
-   {selectedVerse !== null ? (
+   {selectedVerses.length > 0 ? (
     <VerseActionBar
      userId={userId}
      book={book.name}
      chapter={chapter}
-     selection={{
-      verse: selectedVerse,
-      text: verses.find((v) => v.verse === selectedVerse)?.text ?? "",
-     }}
+     selection={selectedVerses.map((n) => ({
+      verse: n,
+      text: verses.find((v) => v.verse === n)?.text ?? "",
+     }))}
      marks={marks}
-     initialNoteOpen={openNoteVerse === selectedVerse}
-     key={`${selectedVerse}-${openNoteVerse === selectedVerse}`}
+     initialNoteOpen={openNoteVerse !== null}
+     key={`note-${openNoteVerse ?? "none"}`}
      onClose={() => {
-      setSelectedVerse(null);
+      setSelectedVerses([]);
       setOpenNoteVerse(null);
      }}
      onRequireAuth={() => setAuthOpen(true)}
