@@ -224,7 +224,11 @@ export async function removeHighlight(t: Target) {
   if (error) throw friendly(error);
 }
 
-export async function saveNote(t: Target, content: string, verses: number[] = [t.verse]) {
+export async function saveNote(
+  t: Target,
+  content: string,
+  verses: number[] = [t.verse],
+): Promise<{ rangeSaved: boolean }> {
   const user_id = await sessionUserId(t.userId);
   const sorted = [...new Set(verses)].sort((a, b) => a - b);
   const base = { user_id, book: t.book, chapter: t.chapter, verse: sorted[0] ?? t.verse, content };
@@ -235,8 +239,11 @@ export async function saveNote(t: Target, content: string, verses: number[] = [t
   // Si aún no existen las columnas de rango, guardamos la nota en el primer versículo.
   if (error && (error.code === "42703" || error.code === "PGRST204")) {
     ({ error } = await supabase.from("user_notes").upsert(base, opts));
+    if (error) throw friendly(error);
+    return { rangeSaved: false };
   }
   if (error) throw friendly(error);
+  return { rangeSaved: true };
 }
 
 export async function deleteNote(t: Target) {
