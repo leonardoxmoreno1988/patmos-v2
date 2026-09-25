@@ -31,9 +31,11 @@ interface Item {
   color?: HighlightColor;
 }
 
-// Agrupa versículos consecutivos del mismo libro, capítulo y color en una sola tarjeta.
-function groupHighlights(highlights: UserHighlight[]): Item[] {
-  const sorted = [...highlights].sort(
+// Agrupa versículos consecutivos del mismo libro y capítulo (y color, si aplica) en una sola tarjeta.
+function groupContiguous<T extends { id: string; book: string; chapter: number; verse: number; created_at: string; color?: HighlightColor }>(
+  rows: T[],
+): Item[] {
+  const sorted = [...rows].sort(
     (a, b) =>
       a.book.localeCompare(b.book) ||
       a.chapter - b.chapter ||
@@ -41,27 +43,27 @@ function groupHighlights(highlights: UserHighlight[]): Item[] {
       a.created_at.localeCompare(b.created_at),
   );
   const groups: Item[] = [];
-  for (const h of sorted) {
+  for (const row of sorted) {
     const last = groups[groups.length - 1];
     if (
       last &&
-      last.book === h.book &&
-      last.chapter === h.chapter &&
-      last.color === h.color &&
-      last.endVerse === h.verse - 1
+      last.book === row.book &&
+      last.chapter === row.chapter &&
+      last.color === row.color &&
+      last.endVerse === row.verse - 1
     ) {
-      last.endVerse = h.verse;
-      last.ids!.push(h.id);
+      last.endVerse = row.verse;
+      last.ids!.push(row.id);
       continue;
     }
     groups.push({
-      id: h.id,
-      ids: [h.id],
-      book: h.book,
-      chapter: h.chapter,
-      verse: h.verse,
-      endVerse: h.verse,
-      color: h.color,
+      id: row.id,
+      ids: [row.id],
+      book: row.book,
+      chapter: row.chapter,
+      verse: row.verse,
+      endVerse: row.verse,
+      color: row.color,
     });
   }
   // Los grupos más recientes primero (según el último versículo añadido al grupo).
@@ -165,7 +167,7 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
             </TabsContent>
             <TabsContent value="highlights">
               {renderList(
-                groupHighlights(data?.highlights ?? []),
+                groupContiguous(data?.highlights ?? []),
                 "user_highlights",
                 "Aún no tienes resaltados guardados.",
               )}
