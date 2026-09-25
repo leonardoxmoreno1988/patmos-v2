@@ -174,7 +174,11 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
             </TabsContent>
             <TabsContent value="notes">
               {renderList(
-                (data?.notes ?? []).map((n) => ({ ...n, preview: n.content })),
+                (data?.notes ?? []).map((n) => ({
+                  ...n,
+                  preview: n.content,
+                  endVerse: n.end_verse ?? n.verses?.[n.verses.length - 1] ?? n.verse,
+                })),
                 "user_notes",
                 "Aún no tienes notas guardadas.",
               )}
