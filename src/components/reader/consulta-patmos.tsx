@@ -154,6 +154,7 @@ function ConsultaChat({
   const [purging, setPurging] = useState(false);
   const [copied, setCopied] = useState<string | null>(null);
   const [pendingExternal, setPendingExternal] = useState<string | null>(null);
+  const [scope, setScope] = useState<"passage" | "bible">(book ? "passage" : "bible");
   const abortRef = useRef<AbortController | null>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
@@ -241,7 +242,11 @@ function ConsultaChat({
         headers: { "Content-Type": "application/json", ...(await authHeaders()) },
         body: JSON.stringify({
           messages: [{ role: "user", content: `[Pasaje: ${passage}] ${t}` }],
-          readerContext: `<ACTIVE_READER_CONTEXT>\n[Libro: ${book} | Capítulo: ${chapter}]\n\n=== TEXTO BÍBLICO DEL CAPÍTULO ACTUAL ===\n${chapterText || "(no disponible)"}\n\n=== NOTAS DE ESTUDIO VISIBLES EN PANTALLA ===\n${chapterNotes || "(sin notas para este capítulo)"}\n</ACTIVE_READER_CONTEXT>`,
+          ...(scope === "passage"
+            ? {
+                readerContext: `<ACTIVE_READER_CONTEXT>\n[Libro: ${book} | Capítulo: ${chapter}]\n\n=== TEXTO BÍBLICO DEL CAPÍTULO ACTUAL ===\n${chapterText || "(no disponible)"}\n\n=== NOTAS DE ESTUDIO VISIBLES EN PANTALLA ===\n${chapterNotes || "(sin notas para este capítulo)"}\n</ACTIVE_READER_CONTEXT>`,
+              }
+            : {}),
         }),
       });
 
@@ -533,6 +538,41 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
             <RotateCcw className="h-3 w-3" /> Nueva Consulta
           </button>
         </div>
+      </div>
+
+      <div className="flex flex-col gap-1.5 border-b border-border px-5 pb-2.5 pt-1">
+        <div
+          role="tablist"
+          aria-label="Alcance del contexto"
+          className="flex w-full items-center gap-1 rounded-full bg-foreground/[0.05] p-1"
+        >
+          {(
+            [
+              { id: "passage" as const, label: `Pasaje Activo (${book} ${chapter})` },
+              { id: "bible" as const, label: "Toda la Biblia" },
+            ]
+          ).map((opt) => (
+            <button
+              key={opt.id}
+              type="button"
+              role="tab"
+              aria-selected={scope === opt.id}
+              onClick={() => setScope(opt.id)}
+              className={`min-w-0 flex-1 truncate rounded-full px-3 py-1.5 text-xs font-medium transition-colors ${
+                scope === opt.id
+                  ? "bg-background text-foreground shadow-sm"
+                  : "text-muted-foreground hover:text-foreground"
+              }`}
+            >
+              {opt.label}
+            </button>
+          ))}
+        </div>
+        {scope === "bible" ? (
+          <p className="px-1 text-[11px] text-muted-foreground">
+            Modo: Exégesis Libre y Teología Global
+          </p>
+        ) : null}
       </div>
 
       <Conversation className="min-h-0 flex-1">
