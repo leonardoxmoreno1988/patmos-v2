@@ -51,6 +51,8 @@ interface Props {
   book: string;
   chapter: number;
   verses: number[];
+  chapterText?: string;
+  chapterNotes?: string;
   onRequireAuth: () => void;
 }
 
@@ -231,6 +233,7 @@ function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & {
         headers: { "Content-Type": "application/json", ...(await authHeaders()) },
         body: JSON.stringify({
           messages: [{ role: "user", content: `[Pasaje: ${passage}] ${t}` }],
+          readerContext: `<ACTIVE_READER_CONTEXT>\n[Libro: ${book} | Capítulo: ${chapter}]\n\n=== TEXTO BÍBLICO DEL CAPÍTULO ACTUAL ===\n${chapterText || "(no disponible)"}\n\n=== NOTAS DE ESTUDIO VISIBLES EN PANTALLA ===\n${chapterNotes || "(sin notas para este capítulo)"}\n</ACTIVE_READER_CONTEXT>`,
         }),
       });
 

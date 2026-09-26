@@ -559,6 +559,8 @@ function Reader() {
     book={book.name}
     chapter={chapter}
     verses={selectedVerses}
+    chapterText={verses.map((v) => `${v.verse} ${v.text}`).join("\n")}
+    chapterNotes={plainText(getNote(studyNotes.data, book.name, chapter) ?? "")}
     onRequireAuth={() => {
      setConsultaOpen(false);
      setAuthOpen(true);
