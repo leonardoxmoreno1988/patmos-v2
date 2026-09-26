@@ -14,7 +14,7 @@ import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
-import { ConsultaPatmos, PatmosMark } from "@/components/reader/consulta-patmos";
+import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { excerpt, plainText, seoHead } from "@/lib/seo";
 
