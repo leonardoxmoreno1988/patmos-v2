@@ -112,14 +112,12 @@ export function AuthNav() {
            }}>
              <History /> Historial de Consultas
            </DropdownMenuItem>
-           <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
-              <Library /> Mi Biblioteca
-           </DropdownMenuItem>
-           <DropdownMenuItem asChild>
-              <a href={EBOOK_URL} target="_blank" rel="noopener noreferrer" data-umami-event="Ebook Download">
-                <Download /> Recursos
-              </a>
-           </DropdownMenuItem>
+            <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
+               <Library /> Mi Biblioteca
+            </DropdownMenuItem>
+            <DropdownMenuItem onSelect={() => setResourcesOpen(true)}>
+               <Download /> Recursos
+            </DropdownMenuItem>
            <DropdownMenuSeparator />
            <DropdownMenuItem onSelect={() => void openBilling()}>
              <CreditCard /> Suscripción PRO
