@@ -4,7 +4,7 @@ import { ArrowRight, BookOpen, Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
-import { getReadingProgress, type ReadingProgress } from "@/lib/reading-progress";
+import { useReadingProgress, type ReadingProgress } from "@/lib/reading-progress";
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
@@ -39,7 +39,7 @@ function Home() {
   const [consultaOpen, setConsultaOpen] = useState(false);
   const [consultaView, setConsultaView] = useState<"chat" | "history">("chat");
   const [consultaKey, setConsultaKey] = useState(0);
-  const [read, setRead] = useState<ReadingProgress>({});
+  const { read, loading: progressLoading } = useReadingProgress();
 
  const [last, setLast] = useState<{ libro: string; cap: string }>({
   libro: "genesis",
@@ -47,8 +47,7 @@ function Home() {
  });
 
  useEffect(() => {
-   setRead(getReadingProgress());
-  try {
+   try {
    const raw = window.localStorage.getItem("rv1865:last");
    if (!raw) return;
    const parsed = JSON.parse(raw) as { libro?: string; cap?: string };
@@ -129,7 +128,7 @@ function Home() {
      <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
       {BOOK_GROUPS.flatMap((group) => group.books).map((book) => (
        <li key={book.bookid}>
-         <BookCard book={book} read={read} />
+         <BookCard book={book} read={read} loading={progressLoading} />
        </li>
       ))}
      </ul>
@@ -159,7 +158,7 @@ function Home() {
  );
 }
 
-function BookCard({ book, read }: { book: BookInfo; read: ReadingProgress }) {
+function BookCard({ book, read, loading }: { book: BookInfo; read: ReadingProgress; loading: boolean }) {
   const { total, done, pct } = progressFor(read, book);
 
  const badge =
@@ -192,12 +191,16 @@ function BookCard({ book, read }: { book: BookInfo; read: ReadingProgress }) {
      {done}/{total} caps.
     </span>
    </div>
-   <div className="mt-3 h-1 overflow-hidden rounded-full bg-neutral-100 dark:bg-neutral-800">
-    <div
-     className={`h-full transition-all ${pct === 100 ? "bg-emerald-500" : pct >= 1 ? "bg-orange-500" : "bg-neutral-300 dark:bg-neutral-600"}`}
-     style={{ width: `${pct}%` }}
-    />
-   </div>
+    <div className="mt-3 h-1 overflow-hidden rounded-full bg-neutral-100 dark:bg-neutral-800">
+     {loading && pct === 0 ? (
+      <div className="h-full w-full animate-pulse bg-neutral-200 dark:bg-neutral-700" />
+     ) : (
+      <div
+       className={`h-full transition-all ${pct === 100 ? "bg-emerald-500" : pct >= 1 ? "bg-orange-500" : "bg-neutral-300 dark:bg-neutral-600"}`}
+       style={{ width: `${pct}%` }}
+      />
+     )}
+    </div>
   </Link>
  );
 }
