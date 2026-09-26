@@ -154,6 +154,7 @@ function ConsultaChat({
   const [purging, setPurging] = useState(false);
   const [copied, setCopied] = useState<string | null>(null);
   const [pendingExternal, setPendingExternal] = useState<string | null>(null);
+  const [scope, setScope] = useState<"passage" | "bible">(book ? "passage" : "bible");
   const abortRef = useRef<AbortController | null>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
@@ -241,7 +242,11 @@ function ConsultaChat({
         headers: { "Content-Type": "application/json", ...(await authHeaders()) },
         body: JSON.stringify({
           messages: [{ role: "user", content: `[Pasaje: ${passage}] ${t}` }],
-          readerContext: `<ACTIVE_READER_CONTEXT>\n[Libro: ${book} | Capítulo: ${chapter}]\n\n=== TEXTO BÍBLICO DEL CAPÍTULO ACTUAL ===\n${chapterText || "(no disponible)"}\n\n=== NOTAS DE ESTUDIO VISIBLES EN PANTALLA ===\n${chapterNotes || "(sin notas para este capítulo)"}\n</ACTIVE_READER_CONTEXT>`,
+          ...(scope === "passage"
+            ? {
+                readerContext: `<ACTIVE_READER_CONTEXT>\n[Libro: ${book} | Capítulo: ${chapter}]\n\n=== TEXTO BÍBLICO DEL CAPÍTULO ACTUAL ===\n${chapterText || "(no disponible)"}\n\n=== NOTAS DE ESTUDIO VISIBLES EN PANTALLA ===\n${chapterNotes || "(sin notas para este capítulo)"}\n</ACTIVE_READER_CONTEXT>`,
+              }
+            : {}),
         }),
       });
 
