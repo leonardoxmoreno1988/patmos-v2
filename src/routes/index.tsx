@@ -4,7 +4,8 @@ import { ArrowRight, BookOpen, Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
-import { useReadingProgress, type ReadingProgress } from "@/lib/reading-progress";
+import { useQuery } from "@tanstack/react-query";
+import { getNote, studyNotesQuery, type NotesMap } from "@/lib/notes";
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
@@ -25,9 +26,14 @@ export const Route = createFileRoute("/")({
  component: Home,
 });
 
-function progressFor(read: ReadingProgress, book: BookInfo) {
+/** Chapters with at least one study note, per book, from the global notes sheet. */
+function notesAvailability(notes: NotesMap | undefined, book: BookInfo) {
  const total = CHAPTER_COUNTS[book.bookid] ?? 0;
-  const done = (read[slugifyBook(book.name)] ?? []).filter((c) => Number.isInteger(c) && c >= 1 && c <= total).length;
+ if (!notes || !total) return { total, done: 0, pct: 0 };
+ let done = 0;
+ for (let cap = 1; cap <= total; cap++) {
+  if (getNote(notes, book.name, cap)) done++;
+ }
  return { total, done, pct: total ? Math.round((done / total) * 100) : 0 };
 }
 
@@ -39,7 +45,7 @@ function Home() {
   const [consultaOpen, setConsultaOpen] = useState(false);
   const [consultaView, setConsultaView] = useState<"chat" | "history">("chat");
   const [consultaKey, setConsultaKey] = useState(0);
-  const { read, loading: progressLoading } = useReadingProgress();
+  const { data: studyNotes, isLoading: notesLoading } = useQuery(studyNotesQuery);
 
  const [last, setLast] = useState<{ libro: string; cap: string }>({
   libro: "genesis",
@@ -128,7 +134,7 @@ function Home() {
      <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
       {BOOK_GROUPS.flatMap((group) => group.books).map((book) => (
        <li key={book.bookid}>
-         <BookCard book={book} read={read} loading={progressLoading} />
+         <BookCard book={book} notes={studyNotes} loading={notesLoading} />
        </li>
       ))}
      </ul>
@@ -158,8 +164,8 @@ function Home() {
  );
 }
 
-function BookCard({ book, read, loading }: { book: BookInfo; read: ReadingProgress; loading: boolean }) {
-  const { total, done, pct } = progressFor(read, book);
+function BookCard({ book, notes, loading }: { book: BookInfo; notes: NotesMap | undefined; loading: boolean }) {
+  const { total, done, pct } = notesAvailability(notes, book);
 
  const badge =
   pct === 100 ? (
