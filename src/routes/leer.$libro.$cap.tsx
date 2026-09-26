@@ -534,14 +534,14 @@ function Reader() {
               data-consulta-fab=""
               onClick={() => setConsultaOpen((o) => !o)}
      aria-label={consultaOpen ? "Cerrar Consultas Patmos" : "Abrir Consultas Patmos"}
-     className={
-      consultaOpen
-       ? "fixed bottom-6 z-[60] inline-flex h-11 items-center gap-2 rounded-full border border-foreground/15 bg-background/90 pl-3.5 pr-4 text-sm font-medium text-foreground shadow-lg backdrop-blur transition-colors hover:bg-foreground/[0.06] max-sm:hidden sm:right-[29.5rem]"
-       : "fixed bottom-6 right-6 z-40 inline-flex h-11 items-center gap-2 rounded-full border border-foreground/15 bg-background/90 pl-3.5 pr-4 text-sm font-medium text-foreground shadow-lg backdrop-blur transition-colors hover:bg-foreground/[0.06]"
-     }
-    >
-     <PatmosMark className="h-4 w-4" /> Consulta Patmos
-    </button>
+              className={
+                consultaOpen
+                  ? "fixed bottom-6 z-[60] inline-flex items-center rounded-full bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90 max-sm:hidden sm:right-[29.5rem]"
+                  : "fixed bottom-6 right-6 z-40 inline-flex items-center rounded-full bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90"
+              }
+            >
+              Consulta Patmos
+            </button>
    ) : null}
 
    <ConsultaPatmos
