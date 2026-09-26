@@ -47,7 +47,12 @@ ${context ? `\nFuentes de estudio relevantes (úsalas cuando apliquen):\n${conte
 
 export async function handleChat(request: Request) {
   const apiKey = process.env["OPENAI_API_KEY"];
-  if (!apiKey) return Response.json({ error: "Servicio no configurado." }, { status: 500 });
+  if (!apiKey) {
+    return Response.json(
+      { error: "El servicio de Consultas Patmos aún no está configurado." },
+      { status: 503 },
+    );
+  }
 
   const auth = await getUserClient(request);
   if (auth instanceof Response) return auth;

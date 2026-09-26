@@ -196,7 +196,10 @@ function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & {
         return;
       }
       if (res.status === 401) throw new Error("Inicia sesión de nuevo para consultar.");
-      if (!res.ok || !res.body) throw new Error("No pudimos completar la consulta. Inténtalo de nuevo.");
+      if (!res.ok || !res.body) {
+        const j = (await res.json().catch(() => null)) as { error?: string } | null;
+        throw new Error(j?.error ?? "No pudimos completar la consulta. Inténtalo de nuevo.");
+      }
 
       const isSSE = (res.headers.get("content-type") ?? "").includes("event-stream");
       const reader = res.body.getReader();
