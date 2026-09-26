@@ -3,6 +3,7 @@ import { useNavigate } from "@tanstack/react-router";
 import { Copy, CreditCard, History, Printer, RotateCcw, Check, ChevronLeft, Settings, Trash2 } from "lucide-react";
 
 import patmosMark from "@/assets/patmos-mark.png";
+import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
 import {
   Conversation,
   ConversationContent,
@@ -41,6 +42,7 @@ const CHECKOUT_URL = (userId: string) =>
 export function PatmosMark({ className }: { className?: string }) {
   return <img src={patmosMark} alt="" width={816} height={816} className={className} />;
 }
+
 
 interface Props {
   open: boolean;
@@ -99,11 +101,11 @@ export function ConsultaPatmos(props: Props) {
   return (
     <Sheet open={props.open} onOpenChange={props.onOpenChange}>
       <SheetContent side="right" className="flex w-full flex-col gap-0 p-0 sm:max-w-md">
-        <div className="flex items-start gap-3 border-b border-border px-5 pb-4 pt-5 pr-12">
-          <PatmosMark className="h-10 w-10 shrink-0" />
+        <div className="flex flex-col gap-2.5 border-b border-border px-5 pb-4 pt-5 pr-12">
+          <PatmosWordmark className="h-3.5" />
           <div className="min-w-0">
-            <SheetTitle className="text-lg font-bold tracking-tight">Consultas Patmos</SheetTitle>
-            <SheetDescription className="text-xs text-muted-foreground">
+            <SheetTitle className="text-base font-bold tracking-tight">Consultas Patmos</SheetTitle>
+            <SheetDescription className="mt-0.5 text-xs text-muted-foreground">
               Análisis Exegético y contexto histórico del texto
             </SheetDescription>
           </div>

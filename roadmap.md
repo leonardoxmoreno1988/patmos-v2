@@ -3,6 +3,8 @@
 ## In progress
 - [x] Floating "Consulta Patmos" FAB (bottom-right, toggles panel; header buttons removed); fixed so it stays clickable while the panel is open (scroll-lock pointer-events override)
 - [x] Internal Bible links in Consultas Patmos markdown navigate via SPA router (with #verse hash scroll); external http(s) links require confirmation dialog
+- [x] PATMOS typography logo in the Consultas Patmos panel header (shared `src/components/brand/patmos-wordmark.tsx`)
+- [x] PATMOS typography logo replaces book icon + "RV + Notas" in the site header; links to "/" and inverts to white in dark mode
 
 ## Waiting on user
 - [ ] Supabase SQL Editor: `alter table public.user_notes add column if not exists end_verse int;` + `verses int[];`
