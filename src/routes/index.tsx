@@ -128,7 +128,7 @@ function Home() {
      <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
       {BOOK_GROUPS.flatMap((group) => group.books).map((book) => (
        <li key={book.bookid}>
-         <BookCard book={book} read={read} />
+         <BookCard book={book} read={read} loading={progressLoading} />
        </li>
       ))}
      </ul>
@@ -158,7 +158,7 @@ function Home() {
  );
 }
 
-function BookCard({ book, read }: { book: BookInfo; read: ReadingProgress }) {
+function BookCard({ book, read, loading }: { book: BookInfo; read: ReadingProgress; loading: boolean }) {
   const { total, done, pct } = progressFor(read, book);
 
  const badge =
