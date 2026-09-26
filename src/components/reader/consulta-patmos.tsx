@@ -44,15 +44,16 @@ export function PatmosMark({ className }: { className?: string }) {
 }
 
 /**
- * Official PATMOS typography logo. The source SVG is a dark navy wordmark, so in
- * dark mode we flatten it to white with a filter instead of shipping a second file.
+ * Official PATMOS typography logo. The source SVG carries no intrinsic size, so we
+ * pin its viewBox ratio (105.62 x 14.77) and let the caller choose the height.
+ * It is a dark navy wordmark, so dark mode flattens it to white with a filter.
  */
 export function PatmosWordmark({ className }: { className?: string }) {
   return (
     <img
       src={patmosWordmark.url}
       alt="Patmos"
-      className={`h-4 w-auto self-start object-contain dark:brightness-0 dark:invert ${className ?? ""}`}
+      className={`w-auto self-start object-contain aspect-[105.62/14.77] dark:brightness-0 dark:invert ${className ?? "h-4"}`}
     />
   );
 }
