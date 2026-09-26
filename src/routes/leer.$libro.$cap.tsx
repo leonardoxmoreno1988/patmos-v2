@@ -132,8 +132,16 @@ function Reader() {
  const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
  const bookId = book.bookid;
  const chapter = cap;
- const bookData = useQuery({ ...bookQuery(bookId), placeholderData: keepPreviousData });
- const studyNotes = useQuery(studyNotesQuery);
+  const bookData = useQuery({ ...bookQuery(bookId), placeholderData: keepPreviousData });
+  // The loader already resolved the study notes on the server; seeding the
+  // client cache with that result keeps the first browser paint identical to
+  // the server HTML (otherwise the notes section hydrates empty and React
+  // throws a hydration mismatch that blanks the page).
+  const loaderNotes = Route.useLoaderData();
+  const studyNotes = useQuery({
+    ...studyNotesQuery,
+    ...(loaderNotes ? { initialData: loaderNotes } : {}),
+  });
  const chapters = bookData.data ?? [];
  const chapterCount = chapters.length || 1;
  const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
