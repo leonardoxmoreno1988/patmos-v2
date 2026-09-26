@@ -45,7 +45,7 @@ function Home() {
   const [consultaOpen, setConsultaOpen] = useState(false);
   const [consultaView, setConsultaView] = useState<"chat" | "history">("chat");
   const [consultaKey, setConsultaKey] = useState(0);
-  const { read, loading: progressLoading } = useReadingProgress();
+  const { data: studyNotes, isLoading: notesLoading } = useQuery(studyNotesQuery);
 
  const [last, setLast] = useState<{ libro: string; cap: string }>({
   libro: "genesis",
@@ -134,7 +134,7 @@ function Home() {
      <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
       {BOOK_GROUPS.flatMap((group) => group.books).map((book) => (
        <li key={book.bookid}>
-         <BookCard book={book} read={read} loading={progressLoading} />
+         <BookCard book={book} notes={studyNotes} loading={notesLoading} />
        </li>
       ))}
      </ul>
@@ -164,8 +164,8 @@ function Home() {
  );
 }
 
-function BookCard({ book, read, loading }: { book: BookInfo; read: ReadingProgress; loading: boolean }) {
-  const { total, done, pct } = progressFor(read, book);
+function BookCard({ book, notes, loading }: { book: BookInfo; notes: NotesMap | undefined; loading: boolean }) {
+  const { total, done, pct } = notesAvailability(notes, book);
 
  const badge =
   pct === 100 ? (
