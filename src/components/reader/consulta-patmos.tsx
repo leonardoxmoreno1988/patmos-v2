@@ -131,7 +131,15 @@ export function ConsultaPatmos(props: Props) {
   );
 }
 
-function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & { userId: string }) {
+function ConsultaChat({
+  userId,
+  book,
+  chapter,
+  verses,
+  chapterText,
+  chapterNotes,
+  onOpenChange,
+}: Props & { userId: string }) {
   const navigate = useNavigate();
   // Active session: only the messages of the current consultation (or one loaded
   // from Registros Históricos). Never a merge of the whole history.
