@@ -191,12 +191,16 @@ function BookCard({ book, read, loading }: { book: BookInfo; read: ReadingProgre
      {done}/{total} caps.
     </span>
    </div>
-   <div className="mt-3 h-1 overflow-hidden rounded-full bg-neutral-100 dark:bg-neutral-800">
-    <div
-     className={`h-full transition-all ${pct === 100 ? "bg-emerald-500" : pct >= 1 ? "bg-orange-500" : "bg-neutral-300 dark:bg-neutral-600"}`}
-     style={{ width: `${pct}%` }}
-    />
-   </div>
+    <div className="mt-3 h-1 overflow-hidden rounded-full bg-neutral-100 dark:bg-neutral-800">
+     {loading && pct === 0 ? (
+      <div className="h-full w-full animate-pulse bg-neutral-200 dark:bg-neutral-700" />
+     ) : (
+      <div
+       className={`h-full transition-all ${pct === 100 ? "bg-emerald-500" : pct >= 1 ? "bg-orange-500" : "bg-neutral-300 dark:bg-neutral-600"}`}
+       style={{ width: `${pct}%` }}
+      />
+     )}
+    </div>
   </Link>
  );
 }
