@@ -150,21 +150,22 @@ export async function handleChat(request: Request) {
     });
     const { data } = await supabase.rpc("match_documents", {
       query_embedding: embedding,
-      match_threshold: 0.75,
-      match_count: 5,
+      match_threshold: 0.3,
+      match_count: 15,
     });
-    context = ((data ?? []) as Array<{ content?: string }>)
-      .map((d) => d.content)
-      .filter(Boolean)
-      .join("\n---\n");
+    const docs = ((data ?? []) as MatchDocument[]).filter((d) => d.content);
+    if (docs.length > 0) {
+      context = `<SUPABASE_SECURE_CONTEXT>\n${formatArchiveBlocks(docs)}\n</SUPABASE_SECURE_CONTEXT>`;
+    }
   } catch (e) {
     console.error("patmos match_documents", e);
   }
 
   const result = streamText({
     model: openai.chat("gpt-4o"),
-    system: systemPrompt(context),
-    prompt: userQuery,
+    system: PATMOS_SYSTEM_PROMPT,
+    prompt: context ? `${userQuery}\n\n${context}` : userQuery,
+    temperature: 0,
     abortSignal: request.signal,
     onFinish: async ({ text }) => {
       if (!text) return;
