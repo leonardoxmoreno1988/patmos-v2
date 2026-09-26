@@ -525,7 +525,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
       </div>
 
       <Conversation className="min-h-0 flex-1">
-        <ConversationContent className="gap-6 px-5" onClickCapture={onLinkClick}>
+        <ConversationContent className="gap-6 px-5">
           {messages.length === 0 ? (
             <div className="flex flex-col items-center gap-5 pt-8 text-center">
               <PatmosMark className="h-16 w-16 opacity-90" />
@@ -559,7 +559,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                 {m.role === "assistant" ? (
                   <>
                     <div id={`patmos-${m.id}`}>
-                      <MessageResponse>{linkifyScriptureMarkdown(m.text)}</MessageResponse>
+                      <MessageResponse components={markdownComponents}>{linkifyScriptureMarkdown(m.text)}</MessageResponse>
                     </div>
                     {m.text && !(busy && m.id === messages[messages.length - 1]?.id) ? (
                       <div className="mt-2 flex gap-1 text-xs text-muted-foreground">
@@ -626,6 +626,43 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
           </PromptInputFooter>
         </PromptInput>
       </div>
+
+      <Dialog
+        open={pendingExternal !== null}
+        onOpenChange={(o) => {
+          if (!o) setPendingExternal(null);
+        }}
+      >
+        <DialogContent className="rounded-2xl sm:max-w-sm">
+          <DialogHeader>
+            <DialogTitle>¿Abrir enlace externo?</DialogTitle>
+            <DialogDescription>
+              {pendingExternal
+                ? `Este enlace lleva a un sitio fuera de RVNotas (${new URL(pendingExternal).hostname}) y se abrirá en una pestaña nueva.`
+                : "Este enlace lleva a un sitio fuera de RVNotas y se abrirá en una pestaña nueva."}
+            </DialogDescription>
+          </DialogHeader>
+          <DialogFooter className="gap-2">
+            <button
+              type="button"
+              onClick={() => setPendingExternal(null)}
+              className="rounded-full px-4 py-2 text-sm text-muted-foreground hover:bg-accent hover:text-foreground"
+            >
+              Cancelar
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                if (pendingExternal) window.open(pendingExternal, "_blank", "noopener,noreferrer");
+                setPendingExternal(null);
+              }}
+              className="rounded-full bg-[#000f37] px-4 py-2 text-sm font-medium text-white hover:opacity-90 dark:bg-[#d9b36a] dark:text-[#141321]"
+            >
+              Abrir enlace
+            </button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
     </>
   );
 }
