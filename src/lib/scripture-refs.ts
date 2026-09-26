@@ -52,6 +52,32 @@ export function linkifyScriptureRefs(html: string): string {
     .join("");
 }
 
+const slug = (name: string) =>
+  name
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+
+/** Turns scripture references in Markdown text into reader links (skips existing links). */
+export function linkifyScriptureMarkdown(md: string): string {
+  return md
+    .split(/(\[[^\]]*\]\([^)]*\))/g)
+    .map((part) => {
+      if (part.startsWith("[")) return part;
+      return part.replace(REF_RE, (match, pre, book, chapter, _v, verse, range) => {
+        const target = canonicalBook(book);
+        if (!BOOKS.some((b) => b.name === target)) return match;
+        const label = verse
+          ? `${book} ${chapter}:${verse}${range ? String(range).replace(/\s/g, "") : ""}`
+          : `${book} ${chapter}`;
+        return `${pre}[${label}](/leer/${slug(target)}/${chapter}${verse ? `#verse-${verse}` : ""})`;
+      });
+    })
+    .join("");
+}
+
 export function readRefFromEvent(
   target: EventTarget | null,
 ): (ScriptureRef & { originId?: string }) | null {
