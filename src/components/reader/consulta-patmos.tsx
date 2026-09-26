@@ -544,9 +544,11 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
           <button
             type="button"
             onClick={() => void openBilling()}
-            className="inline-flex items-center gap-1 rounded-full px-2 py-1 hover:bg-accent hover:text-foreground"
+            aria-label="Gestionar suscripción"
+            title="Gestionar suscripción"
+            className="inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-muted-foreground hover:bg-accent hover:text-foreground"
           >
-            <CreditCard className="h-3 w-3" /> Suscripción
+            <CreditCard className="h-3.5 w-3.5" />
           </button>
           <button
             type="button"
