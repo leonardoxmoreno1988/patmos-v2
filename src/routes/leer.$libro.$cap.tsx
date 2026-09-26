@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { createFileRoute, useNavigate, useRouterState } from "@tanstack/react-router";
 
 import { keepPreviousData, useQuery } from "@tanstack/react-query";
-import { ChevronLeft, ChevronRight, StickyNote } from "lucide-react";
+import { ChevronLeft, ChevronRight, MessageSquare, StickyNote } from "lucide-react";
 
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
@@ -544,13 +544,14 @@ function Reader() {
               data-consulta-fab=""
               onClick={() => setConsultaOpen((o) => !o)}
      aria-label={consultaOpen ? "Cerrar Consultas Patmos" : "Abrir Consultas Patmos"}
-              className={
-                consultaOpen
-                  ? "fixed bottom-6 z-[60] inline-flex items-center rounded-full bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90 max-sm:hidden sm:right-[29.5rem]"
-                  : "fixed bottom-6 right-6 z-40 inline-flex items-center rounded-full bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90"
-              }
-            >
-              Consulta Patmos
+               className={
+                 consultaOpen
+                   ? "fixed bottom-6 z-[60] inline-flex items-center gap-2 rounded-full bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90 max-sm:hidden sm:right-[29.5rem]"
+                   : "fixed bottom-6 right-6 z-40 inline-flex items-center gap-2 rounded-full bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90"
+               }
+             >
+               <MessageSquare className="h-4 w-4 shrink-0" aria-hidden="true" />
+               Consulta Patmos
             </button>
    ) : null}
 
