@@ -149,8 +149,8 @@ export async function handleChat(request: Request) {
 
   const openai = createOpenAI({ apiKey });
 
-  // Contexto semántico desde match_documents.
-  let context = "";
+  // Contexto semántico desde match_documents (umbral 0.30, 15 fragmentos).
+  let secureContext = "";
   try {
     const { embedding } = await embed({
       model: openai.embedding("text-embedding-3-small"),
@@ -162,17 +162,22 @@ export async function handleChat(request: Request) {
       match_count: 15,
     });
     const docs = ((data ?? []) as MatchDocument[]).filter((d) => d.content);
-    if (docs.length > 0) {
-      context = `<SUPABASE_SECURE_CONTEXT>\n${formatArchiveBlocks(docs)}\n</SUPABASE_SECURE_CONTEXT>`;
-    }
+    if (docs.length > 0) secureContext = formatArchiveBlocks(docs);
   } catch (e) {
     console.error("patmos match_documents", e);
   }
 
+  // One clean payload: what the reader sees, then the retrieved study material, then the question.
+  const prompt = [
+    `<ACTIVE_READER_CONTEXT>\n${activeReaderContext || "El lector no tiene ningún capítulo abierto en este momento."}\n</ACTIVE_READER_CONTEXT>`,
+    `<SUPABASE_SECURE_CONTEXT>\n${secureContext || "No hay material de estudio asociado a esta consulta."}\n</SUPABASE_SECURE_CONTEXT>`,
+    `<USER_QUERY>\n${userQuery}\n</USER_QUERY>`,
+  ].join("\n\n");
+
   const result = streamText({
     model: openai.chat("gpt-4o"),
     system: PATMOS_SYSTEM_PROMPT,
-    prompt: context ? `${userQuery}\n\n${context}` : userQuery,
+    prompt,
     temperature: 0,
     abortSignal: request.signal,
     onFinish: async ({ text }) => {
