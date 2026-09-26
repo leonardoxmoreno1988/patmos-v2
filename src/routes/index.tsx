@@ -138,7 +138,7 @@ function Home() {
     <AuthModal open={signupOpen} onOpenChange={setSignupOpen} defaultTab="signup" />
     <ConsultaPatmos key={consultaKey} open={consultaOpen} onOpenChange={(open) => {
       setConsultaOpen(open);
-      if (!open && search.consulta) void navigate({ to: "/", search: {} });
+      if (!open && search.consulta) void navigate({ to: "/", search: {}, replace: true });
     }} userId={user?.id ?? null} book="" chapter={0} verses={[]} initialScope="bible" initialView={consultaView} onRequireAuth={() => { setConsultaOpen(false); setSignupOpen(true); }} />
 
    <footer className="border-border py-8 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm">
