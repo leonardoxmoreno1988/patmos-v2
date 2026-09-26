@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { useNavigate } from "@tanstack/react-router";
-import { Copy, CreditCard, History, Printer, RotateCcw, Check, ChevronLeft } from "lucide-react";
+import { Copy, CreditCard, History, Printer, RotateCcw, Check, ChevronLeft, Settings, Trash2 } from "lucide-react";
 
 import patmosMark from "@/assets/patmos-mark.png";
 import {
@@ -17,6 +17,7 @@ import {
 } from "@/components/ai-elements/prompt-input";
 import { Shimmer } from "@/components/ai-elements/shimmer";
 import { Sheet, SheetContent, SheetDescription, SheetTitle } from "@/components/ui/sheet";
+import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { supabase } from "@/lib/supabase";
 import { linkifyScriptureMarkdown } from "@/lib/scripture-refs";
 
@@ -130,7 +131,9 @@ function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & {
   const [status, setStatus] = useState<Status>("ready");
   const [error, setError] = useState<string | null>(null);
   const [hasCredits, setHasCredits] = useState(true);
+  const [settingsOpen, setSettingsOpen] = useState(false);
   const [confirmPurge, setConfirmPurge] = useState(false);
+  const [purging, setPurging] = useState(false);
   const [copied, setCopied] = useState<string | null>(null);
   const abortRef = useRef<AbortController | null>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
@@ -167,6 +170,7 @@ function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & {
   const openHistory = () => {
     setView("history");
     setConfirmPurge(false);
+    setSettingsOpen(false);
     if (sessions === null) void fetchSessions();
   };
 
@@ -273,16 +277,24 @@ function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & {
   };
 
   const purge = async () => {
+    if (purging) return;
+    setPurging(true);
     stop();
-    setConfirmPurge(false);
     try {
       const res = await fetch("/api/history", { method: "DELETE", headers: await authHeaders() });
       if (!res.ok) throw new Error();
+      // Successful purge: empty the list, drop the active conversation, close the menu.
       setSessions([]);
       setMessages([]);
       setView("chat");
+      setConfirmPurge(false);
+      setSettingsOpen(false);
     } catch {
       setError("No pudimos borrar los Registros Históricos.");
+      setConfirmPurge(false);
+      setSettingsOpen(false);
+    } finally {
+      setPurging(false);
     }
   };
 
