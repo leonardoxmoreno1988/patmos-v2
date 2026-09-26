@@ -4,7 +4,8 @@ import { ArrowRight, BookOpen, Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
-import { useReadingProgress, type ReadingProgress } from "@/lib/reading-progress";
+import { useQuery } from "@tanstack/react-query";
+import { studyNotesQuery, type NotesMap } from "@/lib/notes";
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
@@ -25,9 +26,14 @@ export const Route = createFileRoute("/")({
  component: Home,
 });
 
-function progressFor(read: ReadingProgress, book: BookInfo) {
+/** Chapters with at least one study note, per book, from the global notes sheet. */
+function notesAvailability(notes: NotesMap | undefined, book: BookInfo) {
  const total = CHAPTER_COUNTS[book.bookid] ?? 0;
-  const done = (read[slugifyBook(book.name)] ?? []).filter((c) => Number.isInteger(c) && c >= 1 && c <= total).length;
+ if (!notes || !total) return { total, done: 0, pct: 0 };
+ let done = 0;
+ for (let cap = 1; cap <= total; cap++) {
+  if (getNote(notes, book.name, cap)) done++;
+ }
  return { total, done, pct: total ? Math.round((done / total) * 100) : 0 };
 }
 
