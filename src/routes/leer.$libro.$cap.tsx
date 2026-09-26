@@ -14,6 +14,7 @@ import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
+import { ConsultaPatmos, PatmosMark } from "@/components/reader/consulta-patmos";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { excerpt, plainText, seoHead } from "@/lib/seo";
 
@@ -147,6 +148,7 @@ function Reader() {
  const [selectedVerses, setSelectedVerses] = useState<number[]>([]);
  const [authOpen, setAuthOpen] = useState(false);
  const [openNoteVerse, setOpenNoteVerse] = useState<number | null>(null);
+ const [consultaOpen, setConsultaOpen] = useState(false);
 
  useEffect(() => {
   setSelectedVerses([]);
@@ -449,9 +451,18 @@ function Reader() {
 
     <section id="study-notes-section" className="scroll-mt-[8rem] lg:hidden">
      <div className="mt-10 w-full border-t border-[#000f37] pt-8 dark:border-[#7c7b82]" />
-     <h2 className="mb-3 text-lg font-bold text-foreground lg:text-[20px]">
-      Notas
-     </h2>
+     <div className="mb-3 flex items-center justify-between gap-3">
+      <h2 className="text-lg font-bold text-foreground lg:text-[20px]">
+       Notas
+      </h2>
+      <button
+       type="button"
+       onClick={() => setConsultaOpen(true)}
+       className="inline-flex h-8 items-center gap-1.5 rounded-full border border-foreground/15 px-3 text-xs font-medium text-foreground transition-colors hover:bg-foreground/[0.05]"
+      >
+       <PatmosMark className="h-4 w-4" /> Consulta Patmos
+      </button>
+     </div>
      <div
       className={`space-y-6 transition-opacity duration-200 ${
        loading ? "pointer-events-none opacity-40" : "opacity-100"
@@ -467,9 +478,18 @@ function Reader() {
       className="min-h-full scroll-mt-[8rem] border-l border-[#000f37]/50 bg-transparent pt-0 pb-16 pl-6 shadow-none dark:border-[#bcbecd]/50 lg:pl-8"
      >
 
-      <h2 className="mb-3 text-lg font-bold text-foreground lg:text-[20px]">
+      <div className="mb-3 flex items-center justify-between gap-3">
+      <h2 className="text-lg font-bold text-foreground lg:text-[20px]">
        Notas
       </h2>
+      <button
+       type="button"
+       onClick={() => setConsultaOpen(true)}
+       className="inline-flex h-8 items-center gap-1.5 rounded-full border border-foreground/15 px-3 text-xs font-medium text-foreground transition-colors hover:bg-foreground/[0.05]"
+      >
+       <PatmosMark className="h-4 w-4" /> Consulta Patmos
+      </button>
+     </div>
       <div
        className={`transition-opacity duration-200 ${
         loading ? "pointer-events-none opacity-40" : "opacity-100"
@@ -521,6 +541,29 @@ function Reader() {
     />
    ) : null}
 
+
+   {selectedVerses.length === 0 && !consultaOpen ? (
+    <button
+     type="button"
+     onClick={() => setConsultaOpen(true)}
+     className="fixed bottom-6 right-6 z-40 inline-flex h-11 items-center gap-2 rounded-full bg-[#000f37] px-4 text-sm font-medium text-white shadow-lg shadow-black/20 transition-opacity hover:opacity-90 dark:bg-[#1b192c] dark:text-[#e9e7f1] dark:ring-1 dark:ring-[#2a2839]"
+    >
+     <PatmosMark className="h-5 w-5" /> Consulta Patmos
+    </button>
+   ) : null}
+
+   <ConsultaPatmos
+    open={consultaOpen}
+    onOpenChange={setConsultaOpen}
+    userId={userId}
+    book={book.name}
+    chapter={chapter}
+    verses={selectedVerses}
+    onRequireAuth={() => {
+     setConsultaOpen(false);
+     setAuthOpen(true);
+    }}
+   />
 
    <AuthModal open={authOpen} onOpenChange={setAuthOpen} />
   </div>
