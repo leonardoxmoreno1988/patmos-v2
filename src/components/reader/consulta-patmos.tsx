@@ -170,6 +170,10 @@ function ConsultaChat({
       : ""
   }`;
 
+  // What the UI reflects: only "Pasaje Activo" shows the passage, everything
+  // else (global mode, or no chapter open) reads as whole-Scripture mode.
+  const usingPassage = scope === "passage" && Boolean(book);
+
   const fetchSessions = useCallback(async () => {
     try {
       const res = await fetch("/api/history", { headers: await authHeaders() });
@@ -523,7 +527,11 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
     <>
       <div className="flex items-center justify-between gap-2 px-5 py-2 text-xs text-muted-foreground">
          <span className="truncate">
-           {book ? <>Pasaje: <span className="font-medium text-foreground">{passage}</span></> : "Exégesis libre"}
+           {usingPassage ? (
+             <>Pasaje: <span className="font-medium text-foreground">{passage}</span></>
+           ) : (
+             <>Modo: <span className="font-medium text-foreground">Toda la Escritura</span></>
+           )}
          </span>
         <div className="flex shrink-0 items-center gap-1">
           <button
@@ -536,9 +544,11 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
           <button
             type="button"
             onClick={() => void openBilling()}
-            className="inline-flex items-center gap-1 rounded-full px-2 py-1 hover:bg-accent hover:text-foreground"
+            aria-label="Gestionar suscripción"
+            title="Gestionar suscripción"
+            className="inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-muted-foreground hover:bg-accent hover:text-foreground"
           >
-            <CreditCard className="h-3 w-3" /> Suscripción
+            <CreditCard className="h-3.5 w-3.5" />
           </button>
           <button
             type="button"
@@ -586,10 +596,12 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
             <div className="flex flex-col items-center gap-5 pt-8 text-center">
               <SacredScripturesIcon className="h-16 w-16 text-muted-foreground/70 dark:text-primary/35" />
               <p className="max-w-xs text-sm text-muted-foreground">
-                 {book ? `Plantea una duda sobre ${book} ${chapter} o cualquier pasaje de la Escritura.` : "Plantea una duda de estudio sobre cualquier pasaje de la Escritura."}
+                 {usingPassage
+                   ? `Plantea una duda sobre ${book} ${chapter}.`
+                   : "Consulta temas exegéticos y proféticos en toda la Escritura."}
               </p>
               <div className="flex w-full flex-col gap-2">
-                 {(book ? STARTERS : GLOBAL_STARTERS).map((s) => (
+                 {(usingPassage ? STARTERS : GLOBAL_STARTERS).map((s) => (
                   <button
                     key={s}
                     type="button"
