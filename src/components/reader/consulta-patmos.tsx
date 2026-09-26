@@ -137,7 +137,7 @@ function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & {
           Array.isArray(json) ? json : (json.history ?? json.data ?? []);
         if (cancelled) return;
         setMessages(
-          rows.flatMap((r, i) => {
+          [...rows].reverse().flatMap((r, i) => {
             const base = r.id ?? `h${i}`;
             const out: ChatMsg[] = [];
             if (r.user_query) out.push({ id: `${base}-u`, role: "user", text: r.user_query });
