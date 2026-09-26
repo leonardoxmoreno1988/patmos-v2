@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { createFileRoute, Link, useNavigate, useSearch } from "@tanstack/react-router";
 import { ArrowRight, BookOpen, Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -8,10 +8,8 @@ import { getReadingProgress, type ReadingProgress } from "@/lib/reading-progress
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
-import { useQuery } from "@tanstack/react-query";
 
 import { BOOK_GROUPS, CHAPTER_COUNTS, slugifyBook, type BookInfo } from "@/lib/bible";
-import { getNote, studyNotesQuery, type NotesMap } from "@/lib/notes";
 import { SiteHeader } from "@/components/reader/site-header";
 import { seoHead } from "@/lib/seo";
 
@@ -119,7 +117,6 @@ function Home() {
           onClick={() => (user ? void navigate({ to: "/welcome" }) : setSignupOpen(true))}
            className="h-10 w-full shrink-0 rounded-full px-5 sm:w-auto"
         >
-          Descargar libro
            Descargar libro <ArrowRight />
          </Button>
       </div>
@@ -182,7 +179,7 @@ function BookCard({ book, read }: { book: BookInfo; read: ReadingProgress }) {
   <Link
    to="/leer/$libro/$cap"
    params={{ libro: slugifyBook(book.name), cap: "1" }}
-   className="group flex h-full flex-col rounded-md border border-[#000f37]/10 bg-transparent p-3 transition-all hover:border-neutral-300 dark:border-white/10 dark:hover:border-neutral-700 cursor-pointer"
+    className="group flex h-full flex-col rounded-md border border-border bg-transparent p-3 transition-all hover:border-foreground/25 cursor-pointer"
   >
    <div className="flex flex-1 flex-col gap-2">
     <div className="flex items-start justify-between gap-2">
