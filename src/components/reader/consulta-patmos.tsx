@@ -363,7 +363,61 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
             <ChevronLeft className="h-3.5 w-3.5" /> Volver
           </button>
           <span className="text-sm font-semibold">Registros Históricos</span>
-          <span className="w-14" />
+          <Popover
+            open={settingsOpen}
+            onOpenChange={(next) => {
+              setSettingsOpen(next);
+              if (!next) setConfirmPurge(false);
+            }}
+          >
+            <PopoverTrigger asChild>
+              <button
+                type="button"
+                aria-label="Opciones de los Registros Históricos"
+                className="inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+              >
+                <Settings className="h-4 w-4" />
+              </button>
+            </PopoverTrigger>
+            <PopoverContent align="end" className="w-72 rounded-2xl p-1.5">
+              {confirmPurge ? (
+                <div className="p-2.5">
+                  <p className="text-sm leading-snug text-foreground">
+                    ¿Está seguro de que desea eliminar todo su historial de consultas?
+                  </p>
+                  <p className="mt-1.5 text-xs text-muted-foreground">
+                    Se borrarán todas las consultas guardadas. Esta acción no se puede deshacer.
+                  </p>
+                  <div className="mt-3 flex justify-end gap-1">
+                    <button
+                      type="button"
+                      onClick={() => setConfirmPurge(false)}
+                      className="rounded-full px-3 py-1.5 text-xs text-muted-foreground hover:bg-accent hover:text-foreground"
+                    >
+                      Cancelar
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => void purge()}
+                      disabled={purging}
+                      className="rounded-full bg-destructive px-3 py-1.5 text-xs font-medium text-destructive-foreground hover:opacity-90 disabled:opacity-60"
+                    >
+                      {purging ? "Borrando..." : "Sí, borrar todo"}
+                    </button>
+                  </div>
+                </div>
+              ) : (
+                <button
+                  type="button"
+                  onClick={() => setConfirmPurge(true)}
+                  className="flex w-full items-center gap-2 rounded-xl px-3 py-2 text-left text-sm text-destructive transition-colors hover:bg-destructive/10"
+                >
+                  <Trash2 className="h-3.5 w-3.5 shrink-0" />
+                  Limpiar registros históricos
+                </button>
+              )}
+            </PopoverContent>
+          </Popover>
         </div>
         <div className="min-h-0 flex-1 overflow-y-auto px-3 py-3">
           {sessions === null ? (
@@ -393,36 +447,6 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
             </ul>
           )}
         </div>
-        {sessions !== null && sessions.length > 0 ? (
-          <div className="border-t border-border px-5 py-3 text-xs">
-            {confirmPurge ? (
-              <span className="inline-flex items-center gap-1">
-                <button
-                  type="button"
-                  onClick={() => void purge()}
-                  className="rounded-full px-2 py-1 font-medium text-destructive hover:bg-destructive/10"
-                >
-                  Borrar todos los registros
-                </button>
-                <button
-                  type="button"
-                  onClick={() => setConfirmPurge(false)}
-                  className="rounded-full px-2 py-1 text-muted-foreground hover:bg-accent"
-                >
-                  Cancelar
-                </button>
-              </span>
-            ) : (
-              <button
-                type="button"
-                onClick={() => setConfirmPurge(true)}
-                className="rounded-full px-2 py-1 text-muted-foreground hover:bg-accent hover:text-foreground"
-              >
-                Borrar registros
-              </button>
-            )}
-          </div>
-        ) : null}
       </div>
     );
   }
