@@ -170,6 +170,10 @@ function ConsultaChat({
       : ""
   }`;
 
+  // What the UI reflects: only "Pasaje Activo" shows the passage, everything
+  // else (global mode, or no chapter open) reads as whole-Scripture mode.
+  const usingPassage = scope === "passage" && Boolean(book);
+
   const fetchSessions = useCallback(async () => {
     try {
       const res = await fetch("/api/history", { headers: await authHeaders() });
