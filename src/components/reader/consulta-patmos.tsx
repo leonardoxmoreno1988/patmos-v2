@@ -594,7 +594,9 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
             <div className="flex flex-col items-center gap-5 pt-8 text-center">
               <SacredScripturesIcon className="h-16 w-16 text-muted-foreground/70 dark:text-primary/35" />
               <p className="max-w-xs text-sm text-muted-foreground">
-                 {book ? `Plantea una duda sobre ${book} ${chapter} o cualquier pasaje de la Escritura.` : "Plantea una duda de estudio sobre cualquier pasaje de la Escritura."}
+                 {usingPassage
+                   ? `Plantea una duda sobre ${book} ${chapter}.`
+                   : "Consulta temas exegéticos y proféticos en toda la Escritura."}
               </p>
               <div className="flex w-full flex-col gap-2">
                  {(book ? STARTERS : GLOBAL_STARTERS).map((s) => (
