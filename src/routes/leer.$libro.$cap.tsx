@@ -529,9 +529,10 @@ function Reader() {
 
 
    {selectedVerses.length === 0 ? (
-    <button
-     type="button"
-     onClick={() => setConsultaOpen((o) => !o)}
+            <button
+              type="button"
+              data-consulta-fab=""
+              onClick={() => setConsultaOpen((o) => !o)}
      aria-label={consultaOpen ? "Cerrar Consultas Patmos" : "Abrir Consultas Patmos"}
      className={
       consultaOpen
