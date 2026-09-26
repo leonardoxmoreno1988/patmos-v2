@@ -14,7 +14,7 @@ import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
-import { ConsultaPatmos, PatmosMark } from "@/components/reader/consulta-patmos";
+import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { excerpt, plainText, seoHead } from "@/lib/seo";
 
@@ -132,8 +132,16 @@ function Reader() {
  const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
  const bookId = book.bookid;
  const chapter = cap;
- const bookData = useQuery({ ...bookQuery(bookId), placeholderData: keepPreviousData });
- const studyNotes = useQuery(studyNotesQuery);
+  const bookData = useQuery({ ...bookQuery(bookId), placeholderData: keepPreviousData });
+  // The loader already resolved the study notes on the server; seeding the
+  // client cache with that result keeps the first browser paint identical to
+  // the server HTML (otherwise the notes section hydrates empty and React
+  // throws a hydration mismatch that blanks the page).
+  const loaderNotes = Route.useLoaderData();
+  const studyNotes = useQuery({
+    ...studyNotesQuery,
+    ...(loaderNotes ? { initialData: loaderNotes } : {}),
+  });
  const chapters = bookData.data ?? [];
  const chapterCount = chapters.length || 1;
  const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
@@ -534,14 +542,14 @@ function Reader() {
               data-consulta-fab=""
               onClick={() => setConsultaOpen((o) => !o)}
      aria-label={consultaOpen ? "Cerrar Consultas Patmos" : "Abrir Consultas Patmos"}
-     className={
-      consultaOpen
-       ? "fixed bottom-6 z-[60] inline-flex h-11 items-center gap-2 rounded-full border border-foreground/15 bg-background/90 pl-3.5 pr-4 text-sm font-medium text-foreground shadow-lg backdrop-blur transition-colors hover:bg-foreground/[0.06] max-sm:hidden sm:right-[29.5rem]"
-       : "fixed bottom-6 right-6 z-40 inline-flex h-11 items-center gap-2 rounded-full border border-foreground/15 bg-background/90 pl-3.5 pr-4 text-sm font-medium text-foreground shadow-lg backdrop-blur transition-colors hover:bg-foreground/[0.06]"
-     }
-    >
-     <PatmosMark className="h-4 w-4" /> Consulta Patmos
-    </button>
+              className={
+                consultaOpen
+                  ? "fixed bottom-6 z-[60] inline-flex items-center rounded-full bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90 max-sm:hidden sm:right-[29.5rem]"
+                  : "fixed bottom-6 right-6 z-40 inline-flex items-center rounded-full bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90"
+              }
+            >
+              Consulta Patmos
+            </button>
    ) : null}
 
    <ConsultaPatmos

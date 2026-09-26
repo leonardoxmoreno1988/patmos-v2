@@ -94,6 +94,9 @@
   --warning: oklch(0.75 0.12 75);
   --verse-highlight: #e4ebff;
   --search-snippet: #000f37;
+  /* Floating action button: inverted high-contrast surface */
+  --fab: #0f172a;
+  --fab-foreground: #ffffff;
   --shadow-float: 0 1px 2px oklch(0.2 0.05 260 / 0.05), 0 8px 24px -8px oklch(0.2 0.05 260 / 0.14);
   --shadow-soft: 0 1px 2px oklch(0.2 0.05 260 / 0.06);
   --chart-1: oklch(0.646 0.222 41.116);
@@ -142,6 +145,9 @@
   --verse-number: #84809a;
   --verse-highlight: #3b3457;
   --search-snippet: #e9e7f1;
+  /* Floating action button: inverted — crisp white surface, dark text */
+  --fab: #f8fafc;
+  --fab-foreground: #0f172a;
   --shadow-float: 0 1px 2px oklch(0 0 0 / 0.3), 0 12px 32px -12px oklch(0 0 0 / 0.55);
   --shadow-soft: 0 1px 2px oklch(0 0 0 / 0.35);
   /* Charts: muted, harmonized with the violet-gold scheme */
@@ -191,6 +197,8 @@
   --color-search-snippet: var(--search-snippet);
   --color-success: var(--success);
   --color-warning: var(--warning);
+  --color-fab: var(--fab);
+  --color-fab-foreground: var(--fab-foreground);
 }
 
 @utility scrollbar-none {
