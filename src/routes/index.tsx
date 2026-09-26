@@ -78,7 +78,7 @@ function Home() {
     <SiteHeader />
 
     <main className="mx-auto max-w-6xl px-6">
-      <section className="border-b border-border py-16 text-center md:py-20">
+      <section className="py-16 text-center md:py-20">
          <h1 className="flex justify-center" aria-label="PATMOS">
            <PatmosWordmark className="h-10 sm:h-14" />
          </h1>
@@ -98,7 +98,7 @@ function Home() {
       </div>
       </section>
 
-      <section className="mx-auto max-w-4xl border-b border-border py-8 sm:py-10" aria-label="Recurso gratuito">
+      <section className="border-y border-border py-8 sm:py-10" aria-label="Recurso gratuito">
        <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
         <div className="flex items-start gap-4 sm:items-center">
           <img
