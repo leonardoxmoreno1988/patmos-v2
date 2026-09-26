@@ -170,7 +170,7 @@ export async function handleChat(request: Request) {
 
   // One clean payload: what the reader sees, then the retrieved study material, then the question.
   const prompt = [
-    `<ACTIVE_READER_CONTEXT>\n${activeReaderContext || "El lector no tiene ningún capítulo abierto en este momento."}\n</ACTIVE_READER_CONTEXT>`,
+    ...(activeReaderContext ? [`<ACTIVE_READER_CONTEXT>\n${activeReaderContext}\n</ACTIVE_READER_CONTEXT>`] : []),
     `<SUPABASE_SECURE_CONTEXT>\n${secureContext || "No hay material de estudio asociado a esta consulta."}\n</SUPABASE_SECURE_CONTEXT>`,
     `<USER_QUERY>\n${userQuery}\n</USER_QUERY>`,
   ].join("\n\n");

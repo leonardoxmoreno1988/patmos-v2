@@ -1,6 +1,8 @@
 import { useState } from "react";
-import { FileText, Library, LogOut, User as UserIcon } from "lucide-react";
-import { EBOOK_URL } from "@/lib/ebook";
+import { useNavigate } from "@tanstack/react-router";
+import { BookOpen, CreditCard, History, Library, LogOut, Settings } from "lucide-react";
+import { toast } from "sonner";
+import { supabase } from "@/lib/supabase";
 
 import { Button } from "@/components/ui/button";
 import {
@@ -17,9 +19,31 @@ import { LibrarySheet } from "@/components/library/library-sheet";
 
 export function AuthNav() {
   const { user, displayName, loading, signOut, isPremium } = useAuth();
+  const navigate = useNavigate();
   const [authOpen, setAuthOpen] = useState(false);
   const [accountOpen, setAccountOpen] = useState(false);
   const [libraryOpen, setLibraryOpen] = useState(false);
+
+  const openBilling = async () => {
+    const portal = window.open("", "_blank");
+    try {
+      const { data } = await supabase.auth.getSession();
+      const token = data.session?.access_token;
+      if (!token || !user) throw new Error();
+      const res = await fetch("/api/billing", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
+        body: JSON.stringify({ userId: user.id }),
+      });
+      const result = await res.json();
+      if (!res.ok || !result.url) throw new Error();
+      if (portal) portal.location.href = result.url;
+      else window.open(result.url, "_blank", "noopener,noreferrer");
+    } catch {
+      portal?.close();
+      toast.error("No pudimos abrir la gestión de suscripción.");
+    }
+  };
 
   if (loading) {
     return <div className="h-8 w-20 animate-pulse rounded-full bg-foreground/5" />;
@@ -47,11 +71,12 @@ export function AuthNav() {
     <>
       <DropdownMenu>
         <DropdownMenuTrigger asChild>
-          <button
+           <Button
             type="button"
-            className="flex cursor-pointer items-center gap-2 rounded-full py-1 pl-1 pr-2.5 text-sm font-medium text-foreground transition-colors hover:bg-foreground/5"
+             variant="ghost"
+             className="flex h-auto items-center gap-2 rounded-full py-1 pl-1 pr-2.5 text-sm font-medium text-foreground hover:bg-foreground/5"
           >
-            <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-[#000f37] text-xs font-semibold text-white dark:bg-white dark:text-[#000f37]">
+             <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-foreground text-xs font-semibold text-background">
               {initial}
             </span>
             <span className="hidden max-w-[10rem] truncate sm:inline">{displayName}</span>
@@ -60,26 +85,49 @@ export function AuthNav() {
                 PRO
               </span>
             ) : null}
-          </button>
+           </Button>
         </DropdownMenuTrigger>
-        <DropdownMenuContent align="end" className="w-48">
+         <DropdownMenuContent align="end" className="w-64 p-1.5">
+           <div className="px-2.5 py-2.5">
+             <div className="flex items-center gap-2">
+               <span className="min-w-0 truncate text-sm font-semibold text-foreground">{displayName}</span>
+               {isPremium ? <span className="shrink-0 rounded-md border border-pro-badge-border bg-pro-badge px-2 py-0.5 text-[10px] font-bold text-pro-badge-foreground">PRO</span> : null}
+             </div>
+             <p className="mt-0.5 truncate text-xs text-muted-foreground">{user.email}</p>
+           </div>
+           <DropdownMenuSeparator />
+           <DropdownMenuItem onSelect={() => {
+             let libro = "genesis";
+             let cap = "1";
+             try {
+               const saved = JSON.parse(localStorage.getItem("rv1865:last") ?? "null");
+               if (typeof saved?.libro === "string" && typeof saved?.cap === "string") {
+                 libro = saved.libro;
+                 cap = saved.cap;
+               }
+             } catch { /* use Génesis 1 */ }
+             void navigate({ to: "/leer/$libro/$cap", params: { libro, cap } });
+           }}>
+             <BookOpen /> Lector Bíblico
+           </DropdownMenuItem>
+           <DropdownMenuItem onSelect={() => {
+             void navigate({ to: "/", search: { consulta: "history" } });
+           }}>
+             <History /> Historial de Consultas
+           </DropdownMenuItem>
           <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
-            <Library className="mr-2 h-4 w-4" />
-            Mi Biblioteca
+             <Library /> Mi Biblioteca &amp; E-books
           </DropdownMenuItem>
-          <DropdownMenuItem asChild>
-            <a href={EBOOK_URL} target="_blank" rel="noopener noreferrer" data-umami-event="Ebook Download">
-              <FileText className="mr-2 h-4 w-4" />
-              Mi E-book
-            </a>
-          </DropdownMenuItem>
+           <DropdownMenuSeparator />
+           <DropdownMenuItem onSelect={() => void openBilling()}>
+             <CreditCard /> Suscripción PRO
+           </DropdownMenuItem>
           <DropdownMenuItem onSelect={() => setAccountOpen(true)}>
-            <UserIcon className="mr-2 h-4 w-4" />
-            Mi Cuenta
+             <Settings /> Ajustes de Cuenta
           </DropdownMenuItem>
           <DropdownMenuSeparator />
-          <DropdownMenuItem onSelect={() => void signOut()}>
-            <LogOut className="mr-2 h-4 w-4" />
+           <DropdownMenuItem className="text-destructive focus:text-destructive" onSelect={() => void signOut()}>
+             <LogOut />
             Cerrar Sesión
           </DropdownMenuItem>
         </DropdownMenuContent>
