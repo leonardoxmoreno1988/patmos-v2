@@ -599,7 +599,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                    : "Consulta temas exegéticos y proféticos en toda la Escritura."}
               </p>
               <div className="flex w-full flex-col gap-2">
-                 {(book ? STARTERS : GLOBAL_STARTERS).map((s) => (
+                 {(usingPassage ? STARTERS : GLOBAL_STARTERS).map((s) => (
                   <button
                     key={s}
                     type="button"
