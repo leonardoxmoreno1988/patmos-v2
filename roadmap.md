@@ -1,7 +1,7 @@
 # Roadmap
 
 ## In progress
-- [x] Floating "Consulta Patmos" FAB (bottom-right, toggles panel; header buttons removed)
+- [x] Floating "Consulta Patmos" FAB (bottom-right, toggles panel; header buttons removed); fixed so it stays clickable while the panel is open (scroll-lock pointer-events override)
 - [x] Internal Bible links in Consultas Patmos markdown navigate via SPA router (with #verse hash scroll); external http(s) links require confirmation dialog
 
 ## Waiting on user
