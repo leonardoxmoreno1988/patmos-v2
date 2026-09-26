@@ -16,7 +16,7 @@ import { AccountModal } from "./account-modal";
 import { LibrarySheet } from "@/components/library/library-sheet";
 
 export function AuthNav() {
-  const { user, displayName, loading, signOut } = useAuth();
+  const { user, displayName, loading, signOut, isPremium } = useAuth();
   const [authOpen, setAuthOpen] = useState(false);
   const [accountOpen, setAccountOpen] = useState(false);
   const [libraryOpen, setLibraryOpen] = useState(false);
@@ -55,6 +55,11 @@ export function AuthNav() {
               {initial}
             </span>
             <span className="hidden max-w-[10rem] truncate sm:inline">{displayName}</span>
+            {isPremium ? (
+              <span className="hidden rounded-md border border-pro-badge-border bg-pro-badge px-2 py-0.5 text-[10px] font-bold tracking-wider text-pro-badge-foreground sm:inline">
+                PRO
+              </span>
+            ) : null}
           </button>
         </DropdownMenuTrigger>
         <DropdownMenuContent align="end" className="w-48">

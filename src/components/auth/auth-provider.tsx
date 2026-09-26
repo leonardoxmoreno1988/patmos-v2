@@ -31,6 +31,7 @@ interface AuthContextValue {
   updateProfile: (displayName: string) => Promise<void>;
   changePassword: (newPassword: string) => Promise<void>;
   deleteAccount: () => Promise<void>;
+  isPremium: boolean;
 }
 
 const g = globalThis as { __rvAuthCtx?: React.Context<AuthContextValue | null> };
@@ -51,6 +52,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const [session, setSession] = useState<Session | null>(null);
   const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
+  const [isPremium, setIsPremium] = useState(false);
 
   const navigate = useNavigate();
 
@@ -86,6 +88,35 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       sub.subscription.unsubscribe();
     };
   }, []);
+
+  // Premium status: an active subscription row for this user, with the
+  // owner's account as a standing exception (requested explicitly).
+  const PREMIUM_EMAIL = "leonardo@ritualypropaganda.com";
+  const ACTIVE_STATUSES = ["active", "on_trial", "past_due"];
+
+  useEffect(() => {
+    let active = true;
+    if (!user) {
+      setIsPremium(false);
+      return;
+    }
+    if (user.email?.toLowerCase() === PREMIUM_EMAIL) {
+      setIsPremium(true);
+      return;
+    }
+    supabase
+      .from("subscriptions")
+      .select("status")
+      .eq("user_id", user.id)
+      .in("status", ACTIVE_STATUSES)
+      .limit(1)
+      .then(({ data }) => {
+        if (active) setIsPremium((data?.length ?? 0) > 0);
+      });
+    return () => {
+      active = false;
+    };
+  }, [user]);
 
   const signInWithEmail = useCallback(async (email: string, password: string) => {
     const { error } = await supabase.auth.signInWithPassword({ email, password });
@@ -158,11 +189,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       updateProfile,
       changePassword,
       deleteAccount,
+      isPremium,
     }),
     [
       user,
       session,
       loading,
+      isPremium,
       signInWithEmail,
       signUpWithEmail,
       signInWithGoogle,
