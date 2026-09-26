@@ -2,8 +2,6 @@ import { useNavigate } from "@tanstack/react-router";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import { Trash2 } from "lucide-react";
 import { toast } from "sonner";
-import { EBOOK_COVER, EBOOK_TITLE, EBOOK_URL } from "@/lib/ebook";
-import { Button } from "@/components/ui/button";
 
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
@@ -158,11 +156,10 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
           <SheetTitle>Mi Biblioteca</SheetTitle>
         </SheetHeader>
          <Tabs defaultValue="bookmarks" className="flex min-h-0 flex-1 flex-col px-4 pb-4">
-           <TabsList className="grid w-full grid-cols-4">
+          <TabsList className="grid w-full grid-cols-3">
             <TabsTrigger value="bookmarks">Marcadores</TabsTrigger>
             <TabsTrigger value="highlights">Resaltados</TabsTrigger>
             <TabsTrigger value="notes">Notas</TabsTrigger>
-             <TabsTrigger value="ebooks">E-books</TabsTrigger>
           </TabsList>
           <div className="mt-4 min-h-0 flex-1 overflow-y-auto">
             <TabsContent value="bookmarks">
@@ -186,18 +183,6 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
                 "Aún no tienes notas guardadas.",
               )}
             </TabsContent>
-             <TabsContent value="ebooks">
-               <div className="flex items-start gap-4 py-3">
-                 <img src={EBOOK_COVER} alt={EBOOK_TITLE} className="h-28 w-20 shrink-0 object-cover" />
-                 <div className="min-w-0">
-                   <p className="text-sm font-semibold text-foreground">{EBOOK_TITLE}</p>
-                   <p className="mt-1 text-xs text-muted-foreground">Recurso gratuito</p>
-                   <Button asChild size="sm" className="mt-4" data-umami-event="Ebook Download">
-                     <a href={EBOOK_URL} target="_blank" rel="noopener noreferrer">Descargar libro</a>
-                   </Button>
-                 </div>
-               </div>
-             </TabsContent>
           </div>
         </Tabs>
       </SheetContent>

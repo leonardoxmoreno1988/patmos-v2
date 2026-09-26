@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { createFileRoute, Link, useNavigate, useSearch } from "@tanstack/react-router";
-import { ArrowRight, BookOpen, Search } from "lucide-react";
+import { ArrowRight, BookOpen, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
@@ -87,13 +87,13 @@ function Home() {
          </p>
 
       <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
-        <Button asChild size="lg" className="h-11 rounded-full px-6">
+        <Button asChild size="lg" className="h-11 rounded-full px-6 dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100">
           <Link to="/leer/$libro/$cap" params={{ libro: last.libro, cap: last.cap }}>
             <BookOpen /> Continuar Lectura ({lastBook} {last.cap})
           </Link>
         </Button>
         <Button variant="outline" size="lg" className="h-11 rounded-full px-6" onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
-          <Search /> Consulta Exegética (Modo Libre)
+          <MessageSquare /> Consultar Patmos
         </Button>
       </div>
       </section>
@@ -120,7 +120,7 @@ function Home() {
          <Button
           type="button"
           onClick={() => (user ? void navigate({ to: "/welcome" }) : setSignupOpen(true))}
-           className="h-10 w-full shrink-0 rounded-full px-5 sm:w-auto"
+           className="h-10 w-full shrink-0 rounded-full px-5 sm:w-auto dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
         >
            Descargar libro <ArrowRight />
          </Button>
