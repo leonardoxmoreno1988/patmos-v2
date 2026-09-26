@@ -17,6 +17,7 @@ import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { excerpt, plainText, seoHead } from "@/lib/seo";
+import { recordReadChapter } from "@/lib/reading-progress";
 
 function truncateWords(text: string, maxWords: number) {
  const clean = text.replace(/\s+/g, " ").trim();
@@ -180,6 +181,7 @@ function Reader() {
  useEffect(() => {
   try {
    window.localStorage.setItem("rv1865:last", JSON.stringify({ libro, cap }));
+    recordReadChapter(slugifyBook(libro), cap);
   } catch {
    /* ignore */
   }
