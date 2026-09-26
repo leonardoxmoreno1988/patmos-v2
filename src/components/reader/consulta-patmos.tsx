@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useNavigate } from "@tanstack/react-router";
 import { Copy, CreditCard, History, Printer, RotateCcw, Check, ChevronLeft, Settings, Trash2 } from "lucide-react";
 
@@ -18,6 +18,14 @@ import {
 import { Shimmer } from "@/components/ai-elements/shimmer";
 import { Sheet, SheetContent, SheetDescription, SheetTitle } from "@/components/ui/sheet";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
 import { supabase } from "@/lib/supabase";
 import { linkifyScriptureMarkdown } from "@/lib/scripture-refs";
 
@@ -135,6 +143,7 @@ function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & {
   const [confirmPurge, setConfirmPurge] = useState(false);
   const [purging, setPurging] = useState(false);
   const [copied, setCopied] = useState<string | null>(null);
+  const [pendingExternal, setPendingExternal] = useState<string | null>(null);
   const abortRef = useRef<AbortController | null>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
@@ -337,17 +346,50 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
     w.print();
   };
 
-  const onLinkClick = (e: React.MouseEvent) => {
-    const a = (e.target as HTMLElement).closest("a");
-    const href = a?.getAttribute("href");
-    if (!href?.startsWith("/leer/")) return;
-    e.preventDefault();
-    e.stopPropagation();
-    const [path, hash] = href.split("#");
-    const [, , libro, cap] = path!.split("/");
-    onOpenChange(false);
-    void navigate({ to: "/leer/$libro/$cap", params: { libro: libro!, cap: cap! }, ...(hash ? { hash } : {}) });
-  };
+  const navigateInternal = useCallback(
+    (href: string) => {
+      onOpenChange(false);
+      const [path, hash] = href.split("#");
+      const leer = path?.match(/^\/leer\/([^/]+)\/([^/]+)/);
+      if (leer) {
+        void navigate({
+          to: "/leer/$libro/$cap",
+          params: { libro: leer[1]!, cap: leer[2]! },
+          ...(hash ? { hash } : {}),
+        });
+      } else {
+        void navigate({ href });
+      }
+    },
+    [navigate, onOpenChange],
+  );
+
+  // Internal links (/leer/...) navigate in-place; external http(s) links ask first.
+  const markdownComponents = useMemo(
+    () => ({
+      a: ({ href, children, ...rest }: React.AnchorHTMLAttributes<HTMLAnchorElement>) => (
+        <a
+          href={href}
+          {...rest}
+          onClick={(e) => {
+            if (!href) return;
+            if (href.startsWith("/") || href.startsWith("#")) {
+              e.preventDefault();
+              navigateInternal(href);
+              return;
+            }
+            if (/^https?:\/\//i.test(href)) {
+              e.preventDefault();
+              setPendingExternal(href);
+            }
+          }}
+        >
+          {children}
+        </a>
+      ),
+    }),
+    [navigateInternal],
+  );
 
   const lastIsUser = messages[messages.length - 1]?.role === "user";
 
@@ -483,7 +525,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
       </div>
 
       <Conversation className="min-h-0 flex-1">
-        <ConversationContent className="gap-6 px-5" onClickCapture={onLinkClick}>
+        <ConversationContent className="gap-6 px-5">
           {messages.length === 0 ? (
             <div className="flex flex-col items-center gap-5 pt-8 text-center">
               <PatmosMark className="h-16 w-16 opacity-90" />
@@ -517,7 +559,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                 {m.role === "assistant" ? (
                   <>
                     <div id={`patmos-${m.id}`}>
-                      <MessageResponse>{linkifyScriptureMarkdown(m.text)}</MessageResponse>
+                      <MessageResponse components={markdownComponents}>{linkifyScriptureMarkdown(m.text)}</MessageResponse>
                     </div>
                     {m.text && !(busy && m.id === messages[messages.length - 1]?.id) ? (
                       <div className="mt-2 flex gap-1 text-xs text-muted-foreground">
@@ -584,6 +626,43 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
           </PromptInputFooter>
         </PromptInput>
       </div>
+
+      <Dialog
+        open={pendingExternal !== null}
+        onOpenChange={(o) => {
+          if (!o) setPendingExternal(null);
+        }}
+      >
+        <DialogContent className="rounded-2xl sm:max-w-sm">
+          <DialogHeader>
+            <DialogTitle>¿Abrir enlace externo?</DialogTitle>
+            <DialogDescription>
+              {pendingExternal
+                ? `Este enlace lleva a un sitio fuera de RVNotas (${new URL(pendingExternal).hostname}) y se abrirá en una pestaña nueva.`
+                : "Este enlace lleva a un sitio fuera de RVNotas y se abrirá en una pestaña nueva."}
+            </DialogDescription>
+          </DialogHeader>
+          <DialogFooter className="gap-2">
+            <button
+              type="button"
+              onClick={() => setPendingExternal(null)}
+              className="rounded-full px-4 py-2 text-sm text-muted-foreground hover:bg-accent hover:text-foreground"
+            >
+              Cancelar
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                if (pendingExternal) window.open(pendingExternal, "_blank", "noopener,noreferrer");
+                setPendingExternal(null);
+              }}
+              className="rounded-full bg-[#000f37] px-4 py-2 text-sm font-medium text-white hover:opacity-90 dark:bg-[#d9b36a] dark:text-[#141321]"
+            >
+              Abrir enlace
+            </button>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
     </>
   );
 }
