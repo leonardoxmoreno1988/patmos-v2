@@ -1,5 +1,10 @@
 import { useEffect, useMemo, useState } from "react";
-import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
+import { createFileRoute, Link, useNavigate, useSearch } from "@tanstack/react-router";
+import { ArrowRight, BookOpen, Search } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
+import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
+import { getReadingProgress, type ReadingProgress } from "@/lib/reading-progress";
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
@@ -14,31 +19,29 @@ export const Route = createFileRoute("/")({
  staticData: { sitemap: true },
  head: () =>
   seoHead({
-   title: "RV1865 + Notas — Biblia de estudio por Leonardo Moreno",
+   title: "PATMOS — Exégesis y Biblia Reina Valera 1865",
    description:
-    "Una exploración de la profecía bíblica y el cristianismo actual: lee la Reina-Valera 1865 con notas de estudio, libro por libro.",
+     "Plataforma de investigación teológica, análisis profético y preservación del texto bíblico Reina Valera 1865.",
    canonical: "/",
   }),
  component: Home,
 });
 
-function progressFor(notes: NotesMap | undefined, book: BookInfo) {
+function progressFor(read: ReadingProgress, book: BookInfo) {
  const total = CHAPTER_COUNTS[book.bookid] ?? 0;
- let done = 0;
- if (notes && total) {
-  for (let c = 1; c <= total; c++) {
-   const note = getNote(notes, book.name, c);
-   if (note && note.trim() !== "") done++;
-  }
- }
+  const done = (read[slugifyBook(book.name)] ?? []).filter((c) => Number.isInteger(c) && c >= 1 && c <= total).length;
  return { total, done, pct: total ? Math.round((done / total) * 100) : 0 };
 }
 
 function Home() {
- const { data: notes } = useQuery(studyNotesQuery);
  const { user } = useAuth();
  const navigate = useNavigate();
+  const search = useSearch({ from: "/" }) as { consulta?: string };
  const [signupOpen, setSignupOpen] = useState(false);
+  const [consultaOpen, setConsultaOpen] = useState(false);
+  const [consultaView, setConsultaView] = useState<"chat" | "history">("chat");
+  const [consultaKey, setConsultaKey] = useState(0);
+  const [read, setRead] = useState<ReadingProgress>({});
 
  const [last, setLast] = useState<{ libro: string; cap: string }>({
   libro: "genesis",
@@ -46,6 +49,7 @@ function Home() {
  });
 
  useEffect(() => {
+   setRead(getReadingProgress());
   try {
    const raw = window.localStorage.getItem("rv1865:last");
    if (!raw) return;
@@ -56,42 +60,43 @@ function Home() {
   }
  }, []);
 
- const mateo = useMemo(() => {
-   const book = BOOK_GROUPS.flatMap((g) => g.books).find((b) => b.name === "Mateo");
-   return book ? progressFor(notes, book) : { total: 28, done: 0, pct: 0 };
-  }, [notes]);
+  useEffect(() => {
+    if (search.consulta === "history") {
+      setConsultaView("history");
+      setConsultaKey((k) => k + 1);
+      setConsultaOpen(true);
+    }
+  }, [search.consulta]);
+
+  const lastBook = BOOK_GROUPS.flatMap((g) => g.books).find((b) => slugifyBook(b.name) === last.libro)?.name ?? "Génesis";
 
   return (
    <div className="min-h-screen bg-background">
     <SiteHeader />
 
     <main className="mx-auto max-w-6xl px-6">
-     <section className="py-20 text-center md:py-24">
-        <h1 className="text-4xl font-bold tracking-tight text-[#000f37] md:text-6xl dark:text-white">
-         RV1865 + Notas
-        </h1>
-               <p className="mx-auto mt-4 max-w-2xl text-lg text-neutral-600 md:text-xl dark:text-neutral-400">
-                Notas de estudio, análisis doctrinal y profético del texto bíblico Reina Valera 1865.
-               </p>
+      <section className="border-b border-border py-16 text-center md:py-20">
+         <h1 className="flex justify-center" aria-label="PATMOS">
+           <PatmosWordmark className="h-10 sm:h-14" />
+         </h1>
+         <p className="mx-auto mt-6 max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
+           Plataforma de investigación teológica, análisis profético y preservación del texto bíblico Reina Valera 1865.
+         </p>
 
       <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
-       <Link
-        to="/leer/$libro/$cap"
-        params={{ libro: last.libro, cap: last.cap }}
-        className="inline-flex h-11 items-center justify-center rounded-full bg-[#000f37] px-7 text-sm font-medium text-white transition-opacity hover:opacity-90 dark:bg-white dark:text-[#000f37]"
-       >
-        Comenzar a leer
-       </Link>
-       <Link
-        to="/leer/$libro/$cap"
-        params={{ libro: "mateo", cap: "1" }}
-        className="text-sm font-medium text-[#000f37] underline decoration-[#000f37] underline-offset-4 dark:text-white dark:decoration-white"
-       >
-        Leer Mateo ({mateo.pct}%)
-       </Link>
+        <Button asChild size="lg" className="h-11 rounded-full px-6">
+          <Link to="/leer/$libro/$cap" params={{ libro: last.libro, cap: last.cap }}>
+            <BookOpen /> Continuar Lectura ({lastBook} {last.cap})
+          </Link>
+        </Button>
+        <Button variant="outline" size="lg" className="h-11 rounded-full px-6" onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
+          <Search /> Consulta Exegética (Modo Libre)
+        </Button>
       </div>
+      </section>
 
-      <div className="mx-auto mt-12 flex max-w-2xl flex-col gap-5 rounded-2xl border border-[#000f37]/10 bg-foreground/[0.02] p-5 sm:flex-row sm:items-center sm:justify-between sm:p-6 dark:border-white/10">
+      <section className="mx-auto max-w-4xl border-b border-border py-8 sm:py-10" aria-label="Recurso gratuito">
+       <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
         <div className="flex items-start gap-4 sm:items-center">
           <img
             src={EBOOK_COVER}
@@ -100,8 +105,8 @@ function Home() {
             loading="lazy"
           />
           <div className="min-w-0 text-left">
-            <span className="inline-block rounded-full bg-[#d9b36a]/15 px-2.5 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-[#8a6d2f] dark:bg-[#d9b36a]/15 dark:text-[#d9b36a]">
-              Recurso gratuito
+             <span className="text-[11px] font-semibold uppercase text-primary">
+               Recurso gratuito · E-book
             </span>
             <p className="mt-2 text-sm leading-relaxed text-foreground sm:text-[15px]">
               Obtén el E-book <span className="font-semibold">"{EBOOK_TITLE}"</span> al crear tu
@@ -109,27 +114,35 @@ function Home() {
             </p>
           </div>
         </div>
-        <button
+         <Button
           type="button"
           onClick={() => (user ? void navigate({ to: "/welcome" }) : setSignupOpen(true))}
-          className="inline-flex h-10 w-full shrink-0 cursor-pointer items-center justify-center rounded-full bg-[#000f37] px-5 text-sm font-medium text-white shadow-sm transition-opacity hover:opacity-90 sm:w-auto dark:bg-white dark:text-[#000f37]"
+           className="h-10 w-full shrink-0 rounded-full px-5 sm:w-auto"
         >
           Descargar libro
-        </button>
+           Descargar libro <ArrowRight />
+         </Button>
       </div>
-      <AuthModal open={signupOpen} onOpenChange={setSignupOpen} defaultTab="signup" />
      </section>
 
-    <section className="pb-24">
+     <section className="py-12 pb-24">
+      <div className="mb-7 flex items-end justify-between gap-4 border-b border-border pb-4">
+        <div><h2 className="text-xl font-semibold text-foreground">Lector Bíblico</h2><p className="mt-1 text-sm text-muted-foreground">Reina Valera 1865 · 66 libros</p></div>
+      </div>
      <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
       {BOOK_GROUPS.flatMap((group) => group.books).map((book) => (
        <li key={book.bookid}>
-        <BookCard book={book} notes={notes} />
+         <BookCard book={book} read={read} />
        </li>
       ))}
      </ul>
     </section>
    </main>
+    <AuthModal open={signupOpen} onOpenChange={setSignupOpen} defaultTab="signup" />
+    <ConsultaPatmos key={consultaKey} open={consultaOpen} onOpenChange={(open) => {
+      setConsultaOpen(open);
+      if (!open && search.consulta) void navigate({ to: "/", search: {} });
+    }} userId={user?.id ?? null} book="" chapter={0} verses={[]} initialScope="bible" initialView={consultaView} onRequireAuth={() => { setConsultaOpen(false); setSignupOpen(true); }} />
 
    <footer className="border-border py-8 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm">
     <div className="mx-auto max-w-6xl px-6">
@@ -149,8 +162,8 @@ function Home() {
  );
 }
 
-function BookCard({ book, notes }: { book: BookInfo; notes: NotesMap | undefined }) {
- const { total, done, pct } = progressFor(notes, book);
+function BookCard({ book, read }: { book: BookInfo; read: ReadingProgress }) {
+  const { total, done, pct } = progressFor(read, book);
 
  const badge =
   pct === 100 ? (
