@@ -527,7 +527,11 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
     <>
       <div className="flex items-center justify-between gap-2 px-5 py-2 text-xs text-muted-foreground">
          <span className="truncate">
-           {book ? <>Pasaje: <span className="font-medium text-foreground">{passage}</span></> : "Exégesis libre"}
+           {usingPassage ? (
+             <>Pasaje: <span className="font-medium text-foreground">{passage}</span></>
+           ) : (
+             <>Modo: <span className="font-medium text-foreground">Toda la Escritura</span></>
+           )}
          </span>
         <div className="flex shrink-0 items-center gap-1">
           <button
