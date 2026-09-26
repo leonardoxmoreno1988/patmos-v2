@@ -3,7 +3,6 @@ import { useNavigate } from "@tanstack/react-router";
 import { BookOpen, CreditCard, Download, History, Library, LogOut, Settings } from "lucide-react";
 import { toast } from "sonner";
 import { supabase } from "@/lib/supabase";
-import { EBOOK_URL } from "@/lib/ebook";
 
 import { Button } from "@/components/ui/button";
 import {
@@ -17,6 +16,7 @@ import { useAuth } from "./auth-provider";
 import { AuthModal } from "./auth-modal";
 import { AccountModal } from "./account-modal";
 import { LibrarySheet } from "@/components/library/library-sheet";
+import { ResourcesSheet } from "@/components/library/resources-sheet";
 
 export function AuthNav() {
   const { user, displayName, loading, signOut, isPremium } = useAuth();
@@ -24,6 +24,7 @@ export function AuthNav() {
   const [authOpen, setAuthOpen] = useState(false);
   const [accountOpen, setAccountOpen] = useState(false);
   const [libraryOpen, setLibraryOpen] = useState(false);
+  const [resourcesOpen, setResourcesOpen] = useState(false);
 
   const openBilling = async () => {
     const portal = window.open("", "_blank");
@@ -134,6 +135,7 @@ export function AuthNav() {
       </DropdownMenu>
       <AccountModal open={accountOpen} onOpenChange={setAccountOpen} />
       <LibrarySheet open={libraryOpen} onOpenChange={setLibraryOpen} />
+      <ResourcesSheet open={resourcesOpen} onOpenChange={setResourcesOpen} />
     </>
   );
 }
