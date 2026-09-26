@@ -52,7 +52,7 @@ export function PatmosWordmark({ className }: { className?: string }) {
     <img
       src={patmosWordmark.url}
       alt="Patmos"
-      className={`h-4 w-auto object-contain dark:brightness-0 dark:invert ${className ?? ""}`}
+      className={`h-4 w-auto self-start object-contain dark:brightness-0 dark:invert ${className ?? ""}`}
     />
   );
 }
