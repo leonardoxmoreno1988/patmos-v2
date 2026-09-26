@@ -101,14 +101,12 @@ export function ConsultaPatmos(props: Props) {
   return (
     <Sheet open={props.open} onOpenChange={props.onOpenChange}>
       <SheetContent side="right" className="flex w-full flex-col gap-0 p-0 sm:max-w-md">
-        <div className="flex flex-col gap-2.5 border-b border-border px-5 pb-4 pt-5 pr-12">
+        <div className="flex flex-col gap-1.5 border-b border-border px-5 pb-3.5 pt-4 pr-12">
+          <SheetTitle className="sr-only">Consultas Patmos</SheetTitle>
           <PatmosWordmark className="h-3.5" />
-          <div className="min-w-0">
-            <SheetTitle className="text-base font-bold tracking-tight">Consultas Patmos</SheetTitle>
-            <SheetDescription className="mt-0.5 text-xs text-muted-foreground">
-              Análisis Exegético y contexto histórico del texto
-            </SheetDescription>
-          </div>
+          <SheetDescription className="text-xs text-muted-foreground">
+            Análisis Exegético y contexto histórico del texto
+          </SheetDescription>
         </div>
         {props.userId ? (
           <ConsultaChat key={props.userId} {...props} userId={props.userId} />
