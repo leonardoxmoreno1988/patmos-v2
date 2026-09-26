@@ -53,7 +53,7 @@ interface HistorySession {
   id: string;
   user_query: string;
   bot_response: string;
-  created_at?: string;
+  created_at?: string | undefined;
 }
 
 async function authHeaders(): Promise<Record<string, string>> {
