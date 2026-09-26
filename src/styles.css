@@ -233,3 +233,9 @@
   border-radius: 0.5rem;
 }
 
+
+/* Keep the Consulta Patmos floating button clickable while the panel is open
+   (the panel's scroll lock sets pointer-events: none on body). */
+body[data-scroll-locked] [data-consulta-fab] {
+  pointer-events: auto;
+}
