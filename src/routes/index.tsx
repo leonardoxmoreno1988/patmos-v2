@@ -4,7 +4,7 @@ import { ArrowRight, BookOpen, Search } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
-import { getReadingProgress, type ReadingProgress } from "@/lib/reading-progress";
+import { useReadingProgress, type ReadingProgress } from "@/lib/reading-progress";
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
@@ -39,7 +39,7 @@ function Home() {
   const [consultaOpen, setConsultaOpen] = useState(false);
   const [consultaView, setConsultaView] = useState<"chat" | "history">("chat");
   const [consultaKey, setConsultaKey] = useState(0);
-  const [read, setRead] = useState<ReadingProgress>({});
+  const { read, loading: progressLoading } = useReadingProgress();
 
  const [last, setLast] = useState<{ libro: string; cap: string }>({
   libro: "genesis",
@@ -47,8 +47,7 @@ function Home() {
  });
 
  useEffect(() => {
-   setRead(getReadingProgress());
-  try {
+   try {
    const raw = window.localStorage.getItem("rv1865:last");
    if (!raw) return;
    const parsed = JSON.parse(raw) as { libro?: string; cap?: string };
