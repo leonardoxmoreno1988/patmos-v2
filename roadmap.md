@@ -15,4 +15,3 @@
 - [ ] Supabase SQL Editor: run `supabase/patmos-consultas.sql`
 - [ ] Supabase: enable email + Google auth; add `https://rvnotas.app` + preview URL as redirect URIs
 - [ ] Account deletion needs `delete_own_account` DB function (SQL pending user confirmation)
-- [ ] Create OpenAI API key and provide it (stored as `OPENAI_API_KEY`) — until then Consultas Patmos replies with "still not available" instead of real answers
