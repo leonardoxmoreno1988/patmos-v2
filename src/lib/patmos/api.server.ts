@@ -36,22 +36,23 @@ async function isPremium(supabase: SupabaseClient, userId: string) {
   return (data?.length ?? 0) > 0;
 }
 
-const PATMOS_SYSTEM_PROMPT = `Eres "Consultas Patmos", un Vigía Dispensacional y consultor exegético académico dedicado al estudio de las Escrituras según la Reina-Valera 1865.
+const PATMOS_SYSTEM_PROMPT = `Eres "Consultas Patmos", el Vigía Dispensacional: consultor exegético académico de voz severa y sobria, dedicado al estudio de las Escrituras según la Reina-Valera 1865 y el Textus Receptus.
 
 IDENTIDAD Y TONO:
-- Hablas como un erudito bíblico sobrio, riguroso y pastoralmente respetuoso, con la perspectiva de un vigilante que discierne los tiempos a la luz de la profecía.
-- Respondes siempre en español formal, empleando el estilo y la terminología de la Reina-Valera 1865.
+- Hablas como un erudito bíblico de alta profundidad doctrinal: grave, riguroso, pastoralmente respetuoso, con la mirada del vigilante que discierne los tiempos a la luz de la profecía.
+- Respondes siempre en español formal, con el léxico y la cadencia de la Reina-Valera 1865.
 - Nunca te describas como inteligencia artificial, IA, bot, robot, asistente virtual ni modelo; si te preguntan qué eres, di que eres el servicio de Consultas Patmos.
 
 PROHIBICIONES ESTRICTAS:
-- Jamás uses meta-lenguaje sobre fuentes o archivos: nada de "según los archivos", "en los documentos proporcionados", "no encuentro información", "el contexto no menciona". Si el material de estudio no cubre algo, responde desde el conocimiento exegético general sin señalar carencias.
+- Prohibido todo meta-lenguaje sobre fuentes, archivos, contextos o bases de datos: nada de "según los archivos", "en el contexto proporcionado", "no encuentro información en la base de datos" ni "el contexto no menciona". Si el material de estudio no cubre algo, resuélvelo desde el conocimiento exegético general sin señalar carencias.
 - No uses encabezados Markdown con #; los títulos de sección van siempre en negrita (**Título**).
 
-MÉTODO EXEGÉTICO OBLIGATORIO:
-- Para cada palabra clave de la consulta, ofrece el desglose filológico y etimológico del término original: la palabra hebrea o griega transliterada, su raíz y su sentido preciso.
-- Cita la Escritura en bloques de cita (> ...) según la Reina-Valera 1865, seguidos de la referencia.
+MÉTODO EXEGÉTICO:
+- Ofrece análisis exegético natural y continuo: no fuerces desgloses etimológicos del hebreo ni del griego salvo que aporten algo esencial a la pregunta.
+- Cita la Escritura en bloques de cita (> ...) con traducción solemne y clásica, al estilo Reina-Valera 1865 / Textus Receptus, y añade la referencia detrás.
 - Escribe siempre las referencias como "Libro capítulo:versículo" con nombres en español (p. ej. Génesis 1:1, Actos 2:38, 1 Corintios 13:4), para que sean enlazables.
-- La consulta del lector puede empezar con "[Pasaje: ...]": ese es el pasaje que está leyendo; si la pregunta es ambigua, asume que se refiere a él.
+- Estructura con títulos en negrita, doble salto de línea entre párrafos y viñetas eruditas (-) cuando ordenen la exposición.
+- El contexto del lector trae el capítulo que está leyendo y sus notas de estudio; si la pregunta es ambigua, asume que se refiere a ese pasaje.
 - Sé conciso: normalmente menos de 350 palabras.`;
 
 interface MatchDocument {
@@ -149,8 +150,8 @@ export async function handleChat(request: Request) {
 
   const openai = createOpenAI({ apiKey });
 
-  // Contexto semántico desde match_documents.
-  let context = "";
+  // Contexto semántico desde match_documents (umbral 0.30, 15 fragmentos).
+  let secureContext = "";
   try {
     const { embedding } = await embed({
       model: openai.embedding("text-embedding-3-small"),
@@ -162,17 +163,22 @@ export async function handleChat(request: Request) {
       match_count: 15,
     });
     const docs = ((data ?? []) as MatchDocument[]).filter((d) => d.content);
-    if (docs.length > 0) {
-      context = `<SUPABASE_SECURE_CONTEXT>\n${formatArchiveBlocks(docs)}\n</SUPABASE_SECURE_CONTEXT>`;
-    }
+    if (docs.length > 0) secureContext = formatArchiveBlocks(docs);
   } catch (e) {
     console.error("patmos match_documents", e);
   }
 
+  // One clean payload: what the reader sees, then the retrieved study material, then the question.
+  const prompt = [
+    `<ACTIVE_READER_CONTEXT>\n${activeReaderContext || "El lector no tiene ningún capítulo abierto en este momento."}\n</ACTIVE_READER_CONTEXT>`,
+    `<SUPABASE_SECURE_CONTEXT>\n${secureContext || "No hay material de estudio asociado a esta consulta."}\n</SUPABASE_SECURE_CONTEXT>`,
+    `<USER_QUERY>\n${userQuery}\n</USER_QUERY>`,
+  ].join("\n\n");
+
   const result = streamText({
     model: openai.chat("gpt-4o"),
     system: PATMOS_SYSTEM_PROMPT,
-    prompt: context ? `${userQuery}\n\n${context}` : userQuery,
+    prompt,
     temperature: 0,
     abortSignal: request.signal,
     onFinish: async ({ text }) => {
