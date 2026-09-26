@@ -97,6 +97,10 @@
   /* Floating action button: inverted high-contrast surface */
   --fab: #0f172a;
   --fab-foreground: #ffffff;
+  /* PRO badge: solid high-contrast blue pill */
+  --pro-badge: #2563eb;
+  --pro-badge-foreground: #ffffff;
+  --pro-badge-border: transparent;
   --shadow-float: 0 1px 2px oklch(0.2 0.05 260 / 0.05), 0 8px 24px -8px oklch(0.2 0.05 260 / 0.14);
   --shadow-soft: 0 1px 2px oklch(0.2 0.05 260 / 0.06);
   --chart-1: oklch(0.646 0.222 41.116);
@@ -148,6 +152,10 @@
   /* Floating action button: inverted — crisp white surface, dark text */
   --fab: #f8fafc;
   --fab-foreground: #0f172a;
+  /* PRO badge: translucent indigo tint, crisp in dark mode */
+  --pro-badge: oklch(0.511 0.262 276.966 / 0.2);
+  --pro-badge-foreground: oklch(0.673 0.182 276.935);
+  --pro-badge-border: oklch(0.585 0.233 277.117 / 0.3);
   --shadow-float: 0 1px 2px oklch(0 0 0 / 0.3), 0 12px 32px -12px oklch(0 0 0 / 0.55);
   --shadow-soft: 0 1px 2px oklch(0 0 0 / 0.35);
   /* Charts: muted, harmonized with the violet-gold scheme */
@@ -199,6 +207,9 @@
   --color-warning: var(--warning);
   --color-fab: var(--fab);
   --color-fab-foreground: var(--fab-foreground);
+  --color-pro-badge: var(--pro-badge);
+  --color-pro-badge-foreground: var(--pro-badge-foreground);
+  --color-pro-badge-border: var(--pro-badge-border);
 }
 
 @utility scrollbar-none {

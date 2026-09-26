@@ -31,6 +31,7 @@ interface AuthContextValue {
   updateProfile: (displayName: string) => Promise<void>;
   changePassword: (newPassword: string) => Promise<void>;
   deleteAccount: () => Promise<void>;
+  isPremium: boolean;
 }
 
 const g = globalThis as { __rvAuthCtx?: React.Context<AuthContextValue | null> };
