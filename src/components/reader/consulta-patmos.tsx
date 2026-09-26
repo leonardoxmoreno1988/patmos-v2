@@ -35,6 +35,11 @@ const STARTERS = [
   "Ver análisis del texto original (Reina Valera 1865)",
   "Referencias cruzadas clave para este pasaje",
 ];
+const GLOBAL_STARTERS = [
+  "¿Qué enseña la Escritura sobre el pacto con Abraham?",
+  "Analiza la esperanza de la resurrección en ambos Testamentos",
+  "Referencias cruzadas clave sobre la segunda venida de Cristo",
+];
 
 const CHECKOUT_URL = (userId: string) =>
   `https://patmos.lemonsqueezy.com/checkout/buy/4beafe1a-6811-457e-b7b5-02e216f8aeef?checkout[custom][user_id]=${encodeURIComponent(userId)}&embed=1`;
@@ -592,7 +597,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                  {book ? `Plantea una duda sobre ${book} ${chapter} o cualquier pasaje de la Escritura.` : "Plantea una duda de estudio sobre cualquier pasaje de la Escritura."}
               </p>
               <div className="flex w-full flex-col gap-2">
-                {STARTERS.map((s) => (
+                 {(book ? STARTERS : GLOBAL_STARTERS).map((s) => (
                   <button
                     key={s}
                     type="button"
