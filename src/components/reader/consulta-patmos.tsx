@@ -54,6 +54,8 @@ interface Props {
   chapterText?: string;
   chapterNotes?: string;
   onRequireAuth: () => void;
+  initialView?: "chat" | "history";
+  initialScope?: "passage" | "bible";
 }
 
 type Status = "ready" | "submitted" | "streaming" | "error";
@@ -139,12 +141,14 @@ function ConsultaChat({
   chapterText,
   chapterNotes,
   onOpenChange,
+  initialView,
+  initialScope,
 }: Props & { userId: string }) {
   const navigate = useNavigate();
   // Active session: only the messages of the current consultation (or one loaded
   // from Registros Históricos). Never a merge of the whole history.
   const [messages, setMessages] = useState<ChatMsg[]>([]);
-  const [view, setView] = useState<"chat" | "history">("chat");
+   const [view, setView] = useState<"chat" | "history">(initialView ?? "chat");
   const [sessions, setSessions] = useState<HistorySession[] | null>(null);
   const [status, setStatus] = useState<Status>("ready");
   const [error, setError] = useState<string | null>(null);
@@ -154,7 +158,7 @@ function ConsultaChat({
   const [purging, setPurging] = useState(false);
   const [copied, setCopied] = useState<string | null>(null);
   const [pendingExternal, setPendingExternal] = useState<string | null>(null);
-  const [scope, setScope] = useState<"passage" | "bible">(book ? "passage" : "bible");
+   const [scope, setScope] = useState<"passage" | "bible">(initialScope ?? (book ? "passage" : "bible"));
   const abortRef = useRef<AbortController | null>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
@@ -186,6 +190,10 @@ function ConsultaChat({
       setError("No pudimos cargar los Registros Históricos.");
     }
   }, []);
+
+  useEffect(() => {
+    if (initialView === "history") void fetchSessions();
+  }, [initialView, fetchSessions]);
 
   const openHistory = () => {
     setView("history");
@@ -241,7 +249,7 @@ function ConsultaChat({
         signal: ctrl.signal,
         headers: { "Content-Type": "application/json", ...(await authHeaders()) },
         body: JSON.stringify({
-          messages: [{ role: "user", content: `[Pasaje: ${passage}] ${t}` }],
+           messages: [{ role: "user", content: scope === "passage" ? `[Pasaje: ${passage}] ${t}` : t }],
           ...(scope === "passage"
             ? {
                 readerContext: `<ACTIVE_READER_CONTEXT>\n[Libro: ${book} | Capítulo: ${chapter}]\n\n=== TEXTO BÍBLICO DEL CAPÍTULO ACTUAL ===\n${chapterText || "(no disponible)"}\n\n=== NOTAS DE ESTUDIO VISIBLES EN PANTALLA ===\n${chapterNotes || "(sin notas para este capítulo)"}\n</ACTIVE_READER_CONTEXT>`,
@@ -512,9 +520,9 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
   return (
     <>
       <div className="flex items-center justify-between gap-2 px-5 py-2 text-xs text-muted-foreground">
-        <span className="truncate">
-          Pasaje: <span className="font-medium text-foreground">{passage}</span>
-        </span>
+         <span className="truncate">
+           {book ? <>Pasaje: <span className="font-medium text-foreground">{passage}</span></> : "Exégesis libre"}
+         </span>
         <div className="flex shrink-0 items-center gap-1">
           <button
             type="button"
@@ -548,7 +556,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
         >
           {(
             [
-              { id: "passage" as const, label: `Pasaje Activo (${book} ${chapter})` },
+               ...(book ? [{ id: "passage" as const, label: `Pasaje Activo (${book} ${chapter})` }] : []),
               { id: "bible" as const, label: "Toda la Biblia" },
             ]
           ).map((opt) => (
@@ -581,7 +589,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
             <div className="flex flex-col items-center gap-5 pt-8 text-center">
               <PatmosMark className="h-16 w-16 opacity-90" />
               <p className="max-w-xs text-sm text-muted-foreground">
-                Plantea una duda sobre {book} {chapter} o cualquier pasaje de la Escritura.
+                 {book ? `Plantea una duda sobre ${book} ${chapter} o cualquier pasaje de la Escritura.` : "Plantea una duda de estudio sobre cualquier pasaje de la Escritura."}
               </p>
               <div className="flex w-full flex-col gap-2">
                 {STARTERS.map((s) => (
