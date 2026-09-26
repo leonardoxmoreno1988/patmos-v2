@@ -45,18 +45,33 @@ Formato (Markdown): encabezados breves en negrita o ###; cita la Escritura en bl
 ${context ? `\nFuentes de estudio relevantes (úsalas cuando apliquen):\n${context}` : ""}`;
 }
 
-export async function handleChat(request: Request) {
-  const apiKey = process.env["OPENAI_API_KEY"];
-  if (!apiKey) {
-    return Response.json(
-      { error: "El servicio de Consultas Patmos aún no está configurado." },
-      { status: 503 },
-    );
-  }
+/**
+ * Shown when no model credentials are configured. Answering with a normal
+ * response (instead of a 5xx) keeps the reader working: the panel renders it
+ * as a plain reply and nothing is stored in the Registros Históricos.
+ */
+function notConfiguredResponse() {
+  return new Response(
+    "El servicio de Consultas Patmos todavía no está disponible, así que no puedo responder a tu consulta. Inténtalo más tarde.",
+    {
+      status: 200,
+      headers: {
+        "content-type": "text/plain; charset=utf-8",
+        "cache-control": "no-store, no-transform",
+        "x-patmos-configured": "false",
+      },
+    },
+  );
+}
 
+export async function handleChat(request: Request) {
   const auth = await getUserClient(request);
   if (auth instanceof Response) return auth;
   const { supabase, userId } = auth;
+
+  const apiKey = process.env["OPENAI_API_KEY"];
+  if (!apiKey) return notConfiguredResponse();
+
 
   let body: { messages?: Array<{ role: string; content: string }> };
   try {
