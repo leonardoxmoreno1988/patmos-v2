@@ -129,7 +129,7 @@ function Home() {
 
      <section className="py-12 pb-24">
       <div className="mb-7 flex items-end justify-between gap-4 border-b border-border pb-4">
-        <div><h2 className="text-xl font-semibold text-foreground">Lector Bíblico</h2><p className="mt-1 text-sm text-muted-foreground">Reina Valera 1865 · 66 libros</p></div>
+        <div><h2 className="text-xl font-semibold text-foreground">Progreso de las Notas</h2><p className="mt-1 text-sm text-muted-foreground">Reina Valera 1865 · 66 libros</p></div>
       </div>
      <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
       {BOOK_GROUPS.flatMap((group) => group.books).map((book) => (
