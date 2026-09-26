@@ -14,6 +14,7 @@ import { Route as BuscarRouteImport } from './routes/buscar'
 import { Route as NewsletterRouteImport } from './routes/newsletter'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as WelcomeRouteImport } from './routes/welcome'
+import { Route as ApiConsultaRouteImport } from './routes/api/consulta'
 import { Route as LeerLibroCapRouteImport } from './routes/leer.$libro.$cap'
 
 const IndexRoute = IndexRouteImport.update({
@@ -41,6 +42,11 @@ const WelcomeRoute = WelcomeRouteImport.update({
   path: '/welcome',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ApiConsultaRoute = ApiConsultaRouteImport.update({
+  id: '/api/consulta',
+  path: '/api/consulta',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const LeerLibroCapRoute = LeerLibroCapRouteImport.update({
   id: '/leer/$libro/$cap',
   path: '/leer/$libro/$cap',
@@ -53,6 +59,7 @@ export interface FileRoutesByFullPath {
   '/newsletter': typeof NewsletterRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/welcome': typeof WelcomeRoute
+  '/api/consulta': typeof ApiConsultaRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRoutesByTo {
@@ -61,6 +68,7 @@ export interface FileRoutesByTo {
   '/newsletter': typeof NewsletterRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/welcome': typeof WelcomeRoute
+  '/api/consulta': typeof ApiConsultaRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRoutesById {
@@ -70,6 +78,7 @@ export interface FileRoutesById {
   '/newsletter': typeof NewsletterRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/welcome': typeof WelcomeRoute
+  '/api/consulta': typeof ApiConsultaRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRouteTypes {
@@ -80,6 +89,7 @@ export interface FileRouteTypes {
     | '/newsletter'
     | '/sitemap.xml'
     | '/welcome'
+    | '/api/consulta'
     | '/leer/$libro/$cap'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -88,6 +98,7 @@ export interface FileRouteTypes {
     | '/newsletter'
     | '/sitemap.xml'
     | '/welcome'
+    | '/api/consulta'
     | '/leer/$libro/$cap'
   id:
     | '__root__'
@@ -96,6 +107,7 @@ export interface FileRouteTypes {
     | '/newsletter'
     | '/sitemap.xml'
     | '/welcome'
+    | '/api/consulta'
     | '/leer/$libro/$cap'
   fileRoutesById: FileRoutesById
 }
@@ -105,6 +117,7 @@ export interface RootRouteChildren {
   NewsletterRoute: typeof NewsletterRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   WelcomeRoute: typeof WelcomeRoute
+  ApiConsultaRoute: typeof ApiConsultaRoute
   LeerLibroCapRoute: typeof LeerLibroCapRoute
 }
 
@@ -145,6 +158,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof WelcomeRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/api/consulta': {
+      id: '/api/consulta'
+      path: '/api/consulta'
+      fullPath: '/api/consulta'
+      preLoaderRoute: typeof ApiConsultaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/leer/$libro/$cap': {
       id: '/leer/$libro/$cap'
       path: '/leer/$libro/$cap'
@@ -161,6 +181,7 @@ const rootRouteChildren: RootRouteChildren = {
   NewsletterRoute: NewsletterRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
   WelcomeRoute: WelcomeRoute,
+  ApiConsultaRoute: ApiConsultaRoute,
   LeerLibroCapRoute: LeerLibroCapRoute,
 }
 export const routeTree = rootRouteImport
