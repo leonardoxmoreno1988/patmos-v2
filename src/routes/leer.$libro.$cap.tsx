@@ -451,17 +451,10 @@ function Reader() {
 
     <section id="study-notes-section" className="scroll-mt-[8rem] lg:hidden">
      <div className="mt-10 w-full border-t border-[#000f37] pt-8 dark:border-[#7c7b82]" />
-     <div className="mb-3 flex items-center justify-between gap-3">
-      <h2 className="text-lg font-bold text-foreground lg:text-[20px]">
-       Notas
-      </h2>
-      <button
-       type="button"
-       onClick={() => setConsultaOpen(true)}
-       className="inline-flex h-8 items-center gap-1.5 rounded-full border border-foreground/15 px-3 text-xs font-medium text-foreground transition-colors hover:bg-foreground/[0.05]"
-      >
-       <PatmosMark className="h-4 w-4" /> Consulta Patmos
-      </button>
+      <div className="mb-3">
+       <h2 className="text-lg font-bold text-foreground lg:text-[20px]">
+        Notas
+       </h2>
      </div>
      <div
       className={`space-y-6 transition-opacity duration-200 ${
@@ -478,18 +471,11 @@ function Reader() {
       className="min-h-full scroll-mt-[8rem] border-l border-[#000f37]/50 bg-transparent pt-0 pb-16 pl-6 shadow-none dark:border-[#bcbecd]/50 lg:pl-8"
      >
 
-      <div className="mb-3 flex items-center justify-between gap-3">
-      <h2 className="text-lg font-bold text-foreground lg:text-[20px]">
-       Notas
-      </h2>
-      <button
-       type="button"
-       onClick={() => setConsultaOpen(true)}
-       className="inline-flex h-8 items-center gap-1.5 rounded-full border border-foreground/15 px-3 text-xs font-medium text-foreground transition-colors hover:bg-foreground/[0.05]"
-      >
-       <PatmosMark className="h-4 w-4" /> Consulta Patmos
-      </button>
-     </div>
+      <div className="mb-3">
+       <h2 className="text-lg font-bold text-foreground lg:text-[20px]">
+        Notas
+       </h2>
+      </div>
       <div
        className={`transition-opacity duration-200 ${
         loading ? "pointer-events-none opacity-40" : "opacity-100"
@@ -541,6 +527,17 @@ function Reader() {
     />
    ) : null}
 
+
+   {selectedVerses.length === 0 ? (
+    <button
+     type="button"
+     onClick={() => setConsultaOpen((o) => !o)}
+     aria-label={consultaOpen ? "Cerrar Consultas Patmos" : "Abrir Consultas Patmos"}
+     className="fixed bottom-6 right-6 z-40 inline-flex h-11 items-center gap-2 rounded-full border border-foreground/15 bg-background/90 pl-3.5 pr-4 text-sm font-medium text-foreground shadow-lg backdrop-blur transition-colors hover:bg-foreground/[0.06]"
+    >
+     <PatmosMark className="h-4 w-4" /> Consulta Patmos
+    </button>
+   ) : null}
 
    <ConsultaPatmos
     open={consultaOpen}
