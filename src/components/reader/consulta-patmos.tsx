@@ -3,7 +3,7 @@ import { useNavigate } from "@tanstack/react-router";
 import { Copy, CreditCard, History, Printer, RotateCcw, Check, ChevronLeft, Settings, Trash2 } from "lucide-react";
 
 import patmosMark from "@/assets/patmos-mark.png";
-import patmosWordmark from "@/assets/logo-patmos.svg.asset.json";
+import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
 import {
   Conversation,
   ConversationContent,
@@ -43,20 +43,6 @@ export function PatmosMark({ className }: { className?: string }) {
   return <img src={patmosMark} alt="" width={816} height={816} className={className} />;
 }
 
-/**
- * Official PATMOS typography logo. The source SVG carries no intrinsic size, so we
- * pin its viewBox ratio (105.62 x 14.77) and let the caller choose the height.
- * It is a dark navy wordmark, so dark mode flattens it to white with a filter.
- */
-export function PatmosWordmark({ className }: { className?: string }) {
-  return (
-    <img
-      src={patmosWordmark.url}
-      alt="Patmos"
-      className={`w-auto self-start object-contain aspect-[105.62/14.77] dark:brightness-0 dark:invert ${className ?? "h-4"}`}
-    />
-  );
-}
 
 interface Props {
   open: boolean;
