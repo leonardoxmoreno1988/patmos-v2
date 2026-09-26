@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
 import { useQuery } from "@tanstack/react-query";
-import { studyNotesQuery, type NotesMap } from "@/lib/notes";
+import { getNote, studyNotesQuery, type NotesMap } from "@/lib/notes";
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
