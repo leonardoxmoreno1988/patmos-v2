@@ -51,6 +51,8 @@ interface Props {
   book: string;
   chapter: number;
   verses: number[];
+  chapterText?: string;
+  chapterNotes?: string;
   onRequireAuth: () => void;
 }
 
@@ -129,7 +131,15 @@ export function ConsultaPatmos(props: Props) {
   );
 }
 
-function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & { userId: string }) {
+function ConsultaChat({
+  userId,
+  book,
+  chapter,
+  verses,
+  chapterText,
+  chapterNotes,
+  onOpenChange,
+}: Props & { userId: string }) {
   const navigate = useNavigate();
   // Active session: only the messages of the current consultation (or one loaded
   // from Registros Históricos). Never a merge of the whole history.
@@ -231,6 +241,7 @@ function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & {
         headers: { "Content-Type": "application/json", ...(await authHeaders()) },
         body: JSON.stringify({
           messages: [{ role: "user", content: `[Pasaje: ${passage}] ${t}` }],
+          readerContext: `<ACTIVE_READER_CONTEXT>\n[Libro: ${book} | Capítulo: ${chapter}]\n\n=== TEXTO BÍBLICO DEL CAPÍTULO ACTUAL ===\n${chapterText || "(no disponible)"}\n\n=== NOTAS DE ESTUDIO VISIBLES EN PANTALLA ===\n${chapterNotes || "(sin notas para este capítulo)"}\n</ACTIVE_READER_CONTEXT>`,
         }),
       });
 

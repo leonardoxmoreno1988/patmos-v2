@@ -111,7 +111,7 @@ export async function handleChat(request: Request) {
   if (!apiKey) return notConfiguredResponse();
 
 
-  let body: { messages?: Array<{ role: string; content: string }> };
+  let body: { messages?: Array<{ role: string; content: string }>; readerContext?: unknown };
   try {
     body = await request.json();
   } catch {
@@ -121,6 +121,14 @@ export async function handleChat(request: Request) {
   if (!userQuery || userQuery.length > 4000) {
     return Response.json({ error: "Solicitud inválida." }, { status: 400 });
   }
+  // Reader context: strip outer tags (re-added below) and cap size (~long chapters like Salmos 119).
+  const activeReaderContext =
+    typeof body.readerContext === "string"
+      ? body.readerContext
+          .replace(/<\/?ACTIVE_READER_CONTEXT>/g, "")
+          .trim()
+          .slice(0, 60000)
+      : "";
 
   // Paywall: 4 consultas diarias gratuitas.
   if (!(await isPremium(supabase, userId))) {
