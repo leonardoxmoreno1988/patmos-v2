@@ -1,8 +1,9 @@
 import { useState } from "react";
 import { useNavigate } from "@tanstack/react-router";
-import { BookOpen, CreditCard, History, Library, LogOut, Settings } from "lucide-react";
+import { BookOpen, CreditCard, Download, History, Library, LogOut, Settings } from "lucide-react";
 import { toast } from "sonner";
 import { supabase } from "@/lib/supabase";
+import { EBOOK_URL } from "@/lib/ebook";
 
 import { Button } from "@/components/ui/button";
 import {
@@ -111,9 +112,14 @@ export function AuthNav() {
            }}>
              <History /> Historial de Consultas
            </DropdownMenuItem>
-          <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
-             <Library /> Mi Biblioteca &amp; E-books
-          </DropdownMenuItem>
+           <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
+              <Library /> Mi Biblioteca
+           </DropdownMenuItem>
+           <DropdownMenuItem asChild>
+              <a href={EBOOK_URL} target="_blank" rel="noopener noreferrer" data-umami-event="Ebook Download">
+                <Download /> Recursos
+              </a>
+           </DropdownMenuItem>
            <DropdownMenuSeparator />
            <DropdownMenuItem onSelect={() => void openBilling()}>
              <CreditCard /> Suscripción PRO
