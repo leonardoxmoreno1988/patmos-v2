@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { useNavigate } from "@tanstack/react-router";
-import { Copy, CreditCard, Printer, RotateCcw, Check } from "lucide-react";
+import { Copy, CreditCard, History, Printer, RotateCcw, Check, ChevronLeft } from "lucide-react";
 
 import patmosMark from "@/assets/patmos-mark.png";
 import {
@@ -49,6 +49,12 @@ interface ChatMsg {
   role: "user" | "assistant";
   text: string;
 }
+interface HistorySession {
+  id: string;
+  user_query: string;
+  bot_response: string;
+  created_at?: string | undefined;
+}
 
 async function authHeaders(): Promise<Record<string, string>> {
   const { data } = await supabase.auth.getSession();
@@ -71,6 +77,13 @@ function extractDelta(payload: string): string {
   } catch {
     return payload;
   }
+}
+
+function formatTs(ts?: string): string {
+  if (!ts) return "";
+  const d = new Date(ts);
+  if (Number.isNaN(d.getTime())) return "";
+  return d.toLocaleDateString("es", { day: "numeric", month: "short" });
 }
 
 export function ConsultaPatmos(props: Props) {
@@ -109,9 +122,12 @@ export function ConsultaPatmos(props: Props) {
 
 function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & { userId: string }) {
   const navigate = useNavigate();
+  // Active session: only the messages of the current consultation (or one loaded
+  // from Registros Históricos). Never a merge of the whole history.
   const [messages, setMessages] = useState<ChatMsg[]>([]);
+  const [view, setView] = useState<"chat" | "history">("chat");
+  const [sessions, setSessions] = useState<HistorySession[] | null>(null);
   const [status, setStatus] = useState<Status>("ready");
-  const [loaded, setLoaded] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [hasCredits, setHasCredits] = useState(true);
   const [confirmPurge, setConfirmPurge] = useState(false);
@@ -125,42 +141,57 @@ function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & {
       : ""
   }`;
 
-  // Registros Históricos
-  useEffect(() => {
-    let cancelled = false;
-    (async () => {
-      try {
-        const res = await fetch("/api/history", { headers: await authHeaders() });
-        if (!res.ok) throw new Error(String(res.status));
-        const json = await res.json();
-        const rows: Array<{ id?: string; user_query?: string; bot_response?: string }> =
-          Array.isArray(json) ? json : (json.history ?? json.data ?? []);
-        if (cancelled) return;
-        setMessages(
-          [...rows].reverse().flatMap((r, i) => {
-            const base = r.id ?? `h${i}`;
-            const out: ChatMsg[] = [];
-            if (r.user_query) out.push({ id: `${base}-u`, role: "user", text: r.user_query });
-            if (r.bot_response) out.push({ id: `${base}-a`, role: "assistant", text: r.bot_response });
-            return out;
-          }),
-        );
-      } catch {
-        if (!cancelled) setError("No pudimos cargar los Registros Históricos.");
-      } finally {
-        if (!cancelled) setLoaded(true);
-      }
-    })();
-    return () => {
-      cancelled = true;
-    };
-  }, [userId]);
+  const fetchSessions = useCallback(async () => {
+    try {
+      const res = await fetch("/api/history", { headers: await authHeaders() });
+      if (!res.ok) throw new Error(String(res.status));
+      const json = await res.json();
+      const rows: Array<{ id?: string; user_query?: string; bot_response?: string; created_at?: string }> =
+        Array.isArray(json) ? json : (json.history ?? json.data ?? []);
+      setSessions(
+        rows
+          .filter((r) => r.user_query)
+          .map((r, i) => ({
+            id: r.id ?? `h${i}`,
+            user_query: r.user_query!,
+            bot_response: r.bot_response ?? "",
+            created_at: r.created_at,
+          })),
+      );
+    } catch {
+      setSessions([]);
+      setError("No pudimos cargar los Registros Históricos.");
+    }
+  }, []);
+
+  const openHistory = () => {
+    setView("history");
+    setConfirmPurge(false);
+    if (sessions === null) void fetchSessions();
+  };
+
+  const loadSession = (s: HistorySession) => {
+    stop();
+    setError(null);
+    setMessages([
+      { id: `${s.id}-u`, role: "user", text: s.user_query },
+      ...(s.bot_response ? [{ id: `${s.id}-a`, role: "assistant" as const, text: s.bot_response }] : []),
+    ]);
+    setView("chat");
+  };
+
+  const nuevaConsulta = () => {
+    stop();
+    setError(null);
+    setMessages([]);
+    setView("chat");
+  };
 
   const busy = status === "submitted" || status === "streaming";
 
   useEffect(() => {
-    if (!busy) textareaRef.current?.focus();
-  }, [busy, loaded]);
+    if (!busy && view === "chat") textareaRef.current?.focus();
+  }, [busy, view]);
 
   const stop = useCallback(() => {
     abortRef.current?.abort();
@@ -230,6 +261,8 @@ function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & {
         setMessages((m) => m.map((x) => (x.id === asstId ? { ...x, text: snapshot } : x)));
       }
       setStatus("ready");
+      // New session was persisted server-side; refresh the history list next time it opens.
+      setSessions(null);
     } catch (e) {
       if ((e as Error).name === "AbortError") return;
       setError((e as Error).message || "No pudimos completar la consulta.");
@@ -245,7 +278,9 @@ function ConsultaChat({ userId, book, chapter, verses, onOpenChange }: Props & {
     try {
       const res = await fetch("/api/history", { method: "DELETE", headers: await authHeaders() });
       if (!res.ok) throw new Error();
+      setSessions([]);
       setMessages([]);
+      setView("chat");
     } catch {
       setError("No pudimos borrar los Registros Históricos.");
     }
@@ -304,6 +339,82 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
 
   const lastIsUser = messages[messages.length - 1]?.role === "user";
 
+  if (view === "history") {
+    return (
+      <div className="flex min-h-0 flex-1 flex-col">
+        <div className="flex items-center justify-between gap-2 border-b border-border px-5 py-3">
+          <button
+            type="button"
+            onClick={() => setView("chat")}
+            className="inline-flex items-center gap-1 rounded-full px-2 py-1 text-xs text-muted-foreground hover:bg-accent hover:text-foreground"
+          >
+            <ChevronLeft className="h-3.5 w-3.5" /> Volver
+          </button>
+          <span className="text-sm font-semibold">Registros Históricos</span>
+          <span className="w-14" />
+        </div>
+        <div className="min-h-0 flex-1 overflow-y-auto px-3 py-3">
+          {sessions === null ? (
+            <Shimmer className="px-2 pt-4 text-sm">Consultando los registros...</Shimmer>
+          ) : sessions.length === 0 ? (
+            <p className="px-2 pt-6 text-center text-sm text-muted-foreground">
+              Aún no tienes consultas guardadas.
+            </p>
+          ) : (
+            <ul className="flex flex-col gap-1">
+              {sessions.map((s) => (
+                <li key={s.id}>
+                  <button
+                    type="button"
+                    onClick={() => loadSession(s)}
+                    className="flex w-full items-start justify-between gap-3 rounded-xl px-3 py-2.5 text-left transition-colors hover:bg-foreground/[0.05]"
+                  >
+                    <span className="min-w-0 flex-1 truncate text-sm text-foreground">
+                      {s.user_query}
+                    </span>
+                    {s.created_at ? (
+                      <span className="shrink-0 text-xs text-muted-foreground">{formatTs(s.created_at)}</span>
+                    ) : null}
+                  </button>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+        {sessions !== null && sessions.length > 0 ? (
+          <div className="border-t border-border px-5 py-3 text-xs">
+            {confirmPurge ? (
+              <span className="inline-flex items-center gap-1">
+                <button
+                  type="button"
+                  onClick={() => void purge()}
+                  className="rounded-full px-2 py-1 font-medium text-destructive hover:bg-destructive/10"
+                >
+                  Borrar todos los registros
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setConfirmPurge(false)}
+                  className="rounded-full px-2 py-1 text-muted-foreground hover:bg-accent"
+                >
+                  Cancelar
+                </button>
+              </span>
+            ) : (
+              <button
+                type="button"
+                onClick={() => setConfirmPurge(true)}
+                className="rounded-full px-2 py-1 text-muted-foreground hover:bg-accent hover:text-foreground"
+              >
+                Borrar registros
+              </button>
+            )}
+          </div>
+        ) : null}
+      </div>
+    );
+  }
+
   return (
     <>
       <div className="flex items-center justify-between gap-2 px-5 py-2 text-xs text-muted-foreground">
@@ -313,45 +424,31 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
         <div className="flex shrink-0 items-center gap-1">
           <button
             type="button"
+            onClick={openHistory}
+            className="inline-flex items-center gap-1 rounded-full px-2 py-1 hover:bg-accent hover:text-foreground"
+          >
+            <History className="h-3 w-3" /> Historial
+          </button>
+          <button
+            type="button"
             onClick={() => void openBilling()}
             className="inline-flex items-center gap-1 rounded-full px-2 py-1 hover:bg-accent hover:text-foreground"
           >
             <CreditCard className="h-3 w-3" /> Suscripción
           </button>
-          {messages.length > 0 ? (
-            confirmPurge ? (
-              <span className="inline-flex items-center gap-1">
-                <button
-                  type="button"
-                  onClick={() => void purge()}
-                  className="rounded-full px-2 py-1 font-medium text-destructive hover:bg-destructive/10"
-                >
-                  Borrar registros
-                </button>
-                <button
-                  type="button"
-                  onClick={() => setConfirmPurge(false)}
-                  className="rounded-full px-2 py-1 hover:bg-accent"
-                >
-                  Cancelar
-                </button>
-              </span>
-            ) : (
-              <button
-                type="button"
-                onClick={() => setConfirmPurge(true)}
-                className="inline-flex items-center gap-1 rounded-full px-2 py-1 hover:bg-accent hover:text-foreground"
-              >
-                <RotateCcw className="h-3 w-3" /> Nueva Consulta
-              </button>
-            )
-          ) : null}
+          <button
+            type="button"
+            onClick={nuevaConsulta}
+            className="inline-flex items-center gap-1 rounded-full px-2 py-1 hover:bg-accent hover:text-foreground"
+          >
+            <RotateCcw className="h-3 w-3" /> Nueva Consulta
+          </button>
         </div>
       </div>
 
       <Conversation className="min-h-0 flex-1">
         <ConversationContent className="gap-6 px-5" onClickCapture={onLinkClick}>
-          {loaded && messages.length === 0 ? (
+          {messages.length === 0 ? (
             <div className="flex flex-col items-center gap-5 pt-8 text-center">
               <PatmosMark className="h-16 w-16 opacity-90" />
               <p className="max-w-xs text-sm text-muted-foreground">
@@ -447,11 +544,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
             disabled={!hasCredits}
           />
           <PromptInputFooter className="justify-end">
-            <PromptInputSubmit
-              status={status}
-              onStop={stop}
-              disabled={(!busy && !loaded) || !hasCredits}
-            />
+            <PromptInputSubmit status={status} onStop={stop} disabled={!hasCredits} />
           </PromptInputFooter>
         </PromptInput>
       </div>
