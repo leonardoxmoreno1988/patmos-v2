@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useNavigate } from "@tanstack/react-router";
 import { Copy, CreditCard, History, Printer, RotateCcw, Check, ChevronLeft, Settings, Trash2 } from "lucide-react";
 
-import patmosMark from "@/assets/patmos-mark.png";
+import { SacredScripturesIcon } from "@/components/brand/sacred-scriptures-icon";
 import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
 import {
   Conversation,
@@ -44,9 +44,6 @@ const GLOBAL_STARTERS = [
 const CHECKOUT_URL = (userId: string) =>
   `https://patmos.lemonsqueezy.com/checkout/buy/4beafe1a-6811-457e-b7b5-02e216f8aeef?checkout[custom][user_id]=${encodeURIComponent(userId)}&embed=1`;
 
-export function PatmosMark({ className }: { className?: string }) {
-  return <img src={patmosMark} alt="" width={816} height={816} className={className} />;
-}
 
 
 interface Props {
@@ -581,18 +578,13 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
             </button>
           ))}
         </div>
-        {scope === "bible" ? (
-          <p className="px-1 text-[11px] text-muted-foreground">
-            Modo: Exégesis Libre y Teología Global
-          </p>
-        ) : null}
       </div>
 
       <Conversation className="min-h-0 flex-1">
         <ConversationContent className="gap-6 px-5">
           {messages.length === 0 ? (
             <div className="flex flex-col items-center gap-5 pt-8 text-center">
-              <PatmosMark className="h-16 w-16 opacity-90" />
+              <SacredScripturesIcon className="h-16 w-16 text-muted-foreground/70 dark:text-primary/35" />
               <p className="max-w-xs text-sm text-muted-foreground">
                  {book ? `Plantea una duda sobre ${book} ${chapter} o cualquier pasaje de la Escritura.` : "Plantea una duda de estudio sobre cualquier pasaje de la Escritura."}
               </p>
