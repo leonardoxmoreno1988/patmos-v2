@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "@tanstack/react-router";
-import { BookOpen } from "lucide-react";
+import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
 
 import { ThemeToggle } from "./theme-toggle";
 import { GlobalSearch, SearchTrigger } from "./global-search";
@@ -29,13 +29,8 @@ export function SiteHeader({
  return (
   <header className="relative z-30 bg-background/80 backdrop-blur-xl sm:sticky sm:top-0">
    <div className="mx-auto flex max-w-7xl items-center justify-between gap-2 px-4 py-2 sm:gap-4 sm:px-6 sm:py-3.5 lg:py-4">
-    <Link to="/" className="flex min-w-0 items-center gap-2.5 cursor-pointer">
-    <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-[#000f37] text-white sm:h-8 sm:w-8 sm:rounded-lg dark:border-0 dark:bg-white dark:text-[#000f37]">
-      <BookOpen className="h-5 w-5 stroke-[1.75] sm:h-[18px] sm:w-[18px]" />
-    </span>
-       <span className="hidden text-base sm:inline sm:text-lg font-bold tracking-tight text-foreground whitespace-nowrap">
-        RV + Notas
-       </span>
+    <Link to="/" className="flex min-w-0 shrink-0 items-center cursor-pointer" aria-label="Patmos — inicio">
+      <PatmosWordmark className="h-4 sm:h-5 lg:h-6" />
     </Link>
 
      <div className="flex shrink-0 items-center gap-1.5 sm:gap-2">
