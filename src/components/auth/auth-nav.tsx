@@ -88,13 +88,9 @@ export function AuthNav() {
            </Button>
         </DropdownMenuTrigger>
          <DropdownMenuContent align="end" className="w-64 p-1.5">
-           <div className="px-2.5 py-2.5">
-             <div className="flex items-center gap-2">
-               <span className="min-w-0 truncate text-sm font-semibold text-foreground">{displayName}</span>
-               {isPremium ? <span className="shrink-0 rounded-md border border-pro-badge-border bg-pro-badge px-2 py-0.5 text-[10px] font-bold text-pro-badge-foreground">PRO</span> : null}
-             </div>
-             <p className="mt-0.5 truncate text-xs text-muted-foreground">{user.email}</p>
-           </div>
+            <div className="px-2.5 pb-2 pt-1.5">
+              <p className="truncate text-xs text-muted-foreground">{user.email}</p>
+            </div>
            <DropdownMenuSeparator />
            <DropdownMenuItem onSelect={() => {
              let libro = "genesis";
