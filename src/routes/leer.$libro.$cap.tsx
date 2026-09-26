@@ -542,16 +542,6 @@ function Reader() {
    ) : null}
 
 
-   {selectedVerses.length === 0 && !consultaOpen ? (
-    <button
-     type="button"
-     onClick={() => setConsultaOpen(true)}
-     className="fixed bottom-6 right-6 z-40 inline-flex h-11 items-center gap-2 rounded-full bg-[#000f37] px-4 text-sm font-medium text-white shadow-lg shadow-black/20 transition-opacity hover:opacity-90 dark:bg-[#1b192c] dark:text-[#e9e7f1] dark:ring-1 dark:ring-[#2a2839]"
-    >
-     <PatmosMark className="h-5 w-5" /> Consulta Patmos
-    </button>
-   ) : null}
-
    <ConsultaPatmos
     open={consultaOpen}
     onOpenChange={setConsultaOpen}
