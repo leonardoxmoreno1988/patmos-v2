@@ -533,7 +533,11 @@ function Reader() {
      type="button"
      onClick={() => setConsultaOpen((o) => !o)}
      aria-label={consultaOpen ? "Cerrar Consultas Patmos" : "Abrir Consultas Patmos"}
-     className="fixed bottom-6 right-6 z-40 inline-flex h-11 items-center gap-2 rounded-full border border-foreground/15 bg-background/90 pl-3.5 pr-4 text-sm font-medium text-foreground shadow-lg backdrop-blur transition-colors hover:bg-foreground/[0.06]"
+     className={
+      consultaOpen
+       ? "fixed bottom-6 z-[60] inline-flex h-11 items-center gap-2 rounded-full border border-foreground/15 bg-background/90 pl-3.5 pr-4 text-sm font-medium text-foreground shadow-lg backdrop-blur transition-colors hover:bg-foreground/[0.06] max-sm:hidden sm:right-[29.5rem]"
+       : "fixed bottom-6 right-6 z-40 inline-flex h-11 items-center gap-2 rounded-full border border-foreground/15 bg-background/90 pl-3.5 pr-4 text-sm font-medium text-foreground shadow-lg backdrop-blur transition-colors hover:bg-foreground/[0.06]"
+     }
     >
      <PatmosMark className="h-4 w-4" /> Consulta Patmos
     </button>
