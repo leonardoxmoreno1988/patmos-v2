@@ -1,5 +1,3 @@
-import patmosWordmark from "@/assets/logo-patmos.svg.asset.json";
-
 /**
  * Official PATMOS typography logo, shared by the site header and the Consultas
  * Patmos panel so both stay pixel-identical. The source SVG carries no intrinsic
@@ -10,7 +8,7 @@ import patmosWordmark from "@/assets/logo-patmos.svg.asset.json";
 export function PatmosWordmark({ className }: { className?: string }) {
   return (
     <img
-      src={patmosWordmark.url}
+      src="/logo-patmos.svg"
       alt="Patmos"
       className={`w-auto self-start object-contain aspect-[105.62/14.77] dark:brightness-0 dark:invert ${className ?? "h-4"}`}
     />
