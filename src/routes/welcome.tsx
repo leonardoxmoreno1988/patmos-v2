@@ -10,7 +10,7 @@ export const Route = createFileRoute("/welcome")({
   staticData: { sitemap: false },
   head: () =>
     seoHead({
-      title: "¡Bienvenido a RVNotas! — Descarga tu E-book",
+      title: "¡Bienvenido a Patmos! — Descarga tu E-book",
       description: `Tu cuenta está lista. Descarga gratis el E-book "${EBOOK_TITLE}".`,
       canonical: "/welcome",
       noindex: true,
@@ -43,7 +43,7 @@ function Welcome() {
           {/* Text + actions */}
           <div className="flex flex-1 flex-col items-center text-center md:items-start md:text-left">
             <h1 className="text-3xl font-bold tracking-tight text-[#000f37] md:text-5xl dark:text-white">
-              ¡Bienvenido a RVNotas!
+              ¡Bienvenido a Patmos!
             </h1>
             <p className="mt-5 max-w-xl text-lg text-muted-foreground">
               Tu cuenta ha sido creada con éxito. Ya puedes acceder a todas las notas exegéticas y
