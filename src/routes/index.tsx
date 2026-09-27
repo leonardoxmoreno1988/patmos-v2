@@ -3,7 +3,6 @@ import { createFileRoute, Link, useNavigate, useSearch } from "@tanstack/react-r
 import { ArrowRight, BookOpen, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
-import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
 import { useQuery } from "@tanstack/react-query";
 import { getNote, studyNotesQuery, type NotesMap } from "@/lib/notes";
 import { useAuth } from "@/components/auth/auth-provider";
@@ -78,11 +77,9 @@ function Home() {
     <SiteHeader />
 
     <main className="mx-auto max-w-6xl px-6">
-      <section className="py-16 text-center md:py-20">
-         <h1 className="flex justify-center" aria-label="PATMOS">
-           <PatmosWordmark className="h-10 sm:h-14" />
-         </h1>
-         <p className="mx-auto mt-6 max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
+      <section className="py-14 text-center md:py-20">
+         <h1 className="sr-only">PATMOS — Exégesis y Notas de Estudio RV1865</h1>
+         <p className="mx-auto max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
            Plataforma de investigación teológica, análisis profético y preservación del texto bíblico Reina Valera 1865.
          </p>
 

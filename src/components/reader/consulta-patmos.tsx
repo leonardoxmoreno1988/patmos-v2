@@ -107,12 +107,12 @@ export function ConsultaPatmos(props: Props) {
   return (
     <Sheet open={props.open} onOpenChange={props.onOpenChange}>
       <SheetContent side="right" className="flex w-full flex-col gap-0 p-0 sm:max-w-md">
-        <div className="flex flex-col gap-1.5 border-b border-border px-5 pb-3.5 pt-4 pr-12">
+        <div className="border-b border-border px-5 pb-3 pt-4 pr-12">
           <SheetTitle className="sr-only">Consultas Patmos</SheetTitle>
-          <PatmosWordmark className="h-3.5" />
-          <SheetDescription className="text-xs text-muted-foreground">
+          <SheetDescription className="sr-only">
             Análisis Exegético y contexto histórico del texto
           </SheetDescription>
+          <PatmosWordmark className="h-3.5" />
         </div>
         {props.userId ? (
           <ConsultaChat key={props.userId} {...props} userId={props.userId} />
@@ -537,9 +537,12 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
           <button
             type="button"
             onClick={openHistory}
-            className="inline-flex items-center gap-1 rounded-full px-2 py-1 hover:bg-accent hover:text-foreground"
+            aria-label="Registros Históricos"
+            title="Historial"
+            className="inline-flex h-7 items-center justify-center gap-1 rounded-full px-2 hover:bg-accent hover:text-foreground"
           >
-            <History className="h-3 w-3" /> Historial
+            <History className="h-3.5 w-3.5 shrink-0" />
+            <span className="hidden sm:inline">Historial</span>
           </button>
           <button
             type="button"
@@ -553,9 +556,12 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
           <button
             type="button"
             onClick={nuevaConsulta}
-            className="inline-flex items-center gap-1 rounded-full px-2 py-1 hover:bg-accent hover:text-foreground"
+            aria-label="Nueva Consulta"
+            title="Nueva Consulta"
+            className="inline-flex h-7 items-center justify-center gap-1 rounded-full px-2 hover:bg-accent hover:text-foreground"
           >
-            <RotateCcw className="h-3 w-3" /> Nueva Consulta
+            <RotateCcw className="h-3.5 w-3.5 shrink-0" />
+            <span className="hidden sm:inline">Nueva Consulta</span>
           </button>
         </div>
       </div>
@@ -566,35 +572,38 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
           aria-label="Alcance del contexto"
           className="flex w-full items-center gap-1 rounded-full bg-foreground/[0.05] p-1"
         >
-          {(
-            [
-               ...(book ? [{ id: "passage" as const, label: `Pasaje Activo (${book} ${chapter})` }] : []),
-              { id: "bible" as const, label: "Toda la Biblia" },
-            ]
-          ).map((opt) => (
-            <button
-              key={opt.id}
-              type="button"
-              role="tab"
-              aria-selected={scope === opt.id}
-              onClick={() => setScope(opt.id)}
-              className={`min-w-0 flex-1 truncate rounded-full px-3 py-1.5 text-xs font-medium transition-colors ${
-                scope === opt.id
-                  ? "bg-background text-foreground shadow-sm"
-                  : "text-muted-foreground hover:text-foreground"
-              }`}
-            >
-              {opt.label}
-            </button>
-          ))}
+           {(
+             [
+                ...(book
+                  ? [{ id: "passage" as const, label: `Pasaje Activo (${book} ${chapter})`, short: "Pasaje Activo" }]
+                  : []),
+               { id: "bible" as const, label: "Toda la Biblia", short: "Toda la Biblia" },
+             ]
+           ).map((opt) => (
+             <button
+               key={opt.id}
+               type="button"
+               role="tab"
+               aria-selected={scope === opt.id}
+               onClick={() => setScope(opt.id)}
+               className={`min-w-0 flex-1 truncate rounded-full px-3 py-1.5 text-xs font-medium transition-colors ${
+                 scope === opt.id
+                   ? "bg-background text-foreground shadow-sm"
+                   : "text-muted-foreground hover:text-foreground"
+               }`}
+             >
+               <span className="truncate sm:hidden">{opt.short}</span>
+               <span className="hidden truncate sm:inline">{opt.label}</span>
+             </button>
+           ))}
         </div>
       </div>
 
       <Conversation className="min-h-0 flex-1">
         <ConversationContent className="gap-6 px-5">
           {messages.length === 0 ? (
-            <div className="flex flex-col items-center gap-5 pt-8 text-center">
-              <SacredScripturesIcon className="h-16 w-16 text-muted-foreground/70 dark:text-primary/35" />
+            <div className="flex flex-col items-center gap-3 pt-2 text-center sm:gap-5 sm:pt-8">
+              <SacredScripturesIcon className="h-11 w-11 text-muted-foreground/70 dark:text-primary/35 sm:h-16 sm:w-16" />
               <p className="max-w-xs text-sm text-muted-foreground">
                  {usingPassage
                    ? `Plantea una duda sobre ${book} ${chapter}.`
@@ -606,7 +615,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                     key={s}
                     type="button"
                     onClick={() => void send(s)}
-                    className="rounded-xl bg-foreground/[0.04] px-4 py-3 text-left text-sm text-foreground transition-colors hover:bg-foreground/[0.08]"
+                    className="rounded-xl bg-foreground/[0.04] px-4 py-2.5 text-left text-sm text-foreground transition-colors hover:bg-foreground/[0.08] sm:py-3"
                   >
                     {s}
                   </button>
@@ -682,7 +691,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
         <ConversationScrollButton />
       </Conversation>
 
-      <div className="border-t border-border p-4">
+      <div className="border-t border-border p-3 sm:p-4">
         <PromptInput onSubmit={({ text }) => void send(text)}>
           <PromptInputTextarea
             ref={textareaRef}
