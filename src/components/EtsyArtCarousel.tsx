@@ -1,15 +1,3 @@
-import artJonas from "@/assets/etsy-art/jonas.jpg.asset.json";
-import artBecerro from "@/assets/etsy-art/becerro-de-oro.jpg.asset.json";
-import artDaniel from "@/assets/etsy-art/daniel.jpg.asset.json";
-import artArca from "@/assets/etsy-art/arca-noe.jpg.asset.json";
-import artMarRojo from "@/assets/etsy-art/mar-rojo.jpg.asset.json";
-import artCamina from "@/assets/etsy-art/camina-sobre-agua.jpg.asset.json";
-import artSalomon from "@/assets/etsy-art/trono-salomon.jpg.asset.json";
-import artSodoma from "@/assets/etsy-art/sodoma.jpg.asset.json";
-import artCrucifixion from "@/assets/etsy-art/crucifixion.jpg.asset.json";
-import artBautismo from "@/assets/etsy-art/bautismo.jpg.asset.json";
-import artDavid from "@/assets/etsy-art/david-goliat.jpg.asset.json";
-
 type Artwork = {
   title: string;
   reference: string;
@@ -21,67 +9,67 @@ const ARTWORKS: Artwork[] = [
   {
     title: "Jonás y el Gran Pez",
     reference: "Jonás 2",
-    image: artJonas.url,
+    image: "/etsy-art/jonas.webp",
     href: "https://www.etsy.com/listing/4541664433/jonah-and-the-whale-digital-painting",
   },
   {
     title: "El Becerro de Oro",
     reference: "Éxodo 32",
-    image: artBecerro.url,
+    image: "/etsy-art/becerro-oro.webp",
     href: "https://www.etsy.com/listing/4569526660/adoration-of-the-golden-calf-biblical",
   },
   {
     title: "Daniel en el Foso de los Leones",
     reference: "Daniel 6",
-    image: artDaniel.url,
+    image: "/etsy-art/daniel.webp",
     href: "https://www.etsy.com/listing/4543525189/daniel-in-lions-den-oil-painting-print",
   },
   {
     title: "El Arca de Noé",
     reference: "Génesis 7",
-    image: artArca.url,
+    image: "/etsy-art/arca-noe.webp",
     href: "https://www.etsy.com/listing/4545827815/noahs-ark-oil-painting-print-stormy-sea",
   },
   {
     title: "El Mar Rojo",
     reference: "Éxodo 14",
-    image: artMarRojo.url,
+    image: "/etsy-art/mar-rojo.webp",
     href: "https://www.etsy.com/listing/4542083259/moses-parting-red-sea-oil-painting-print",
   },
   {
     title: "Caminando sobre el Agua",
     reference: "Mateo 14",
-    image: artCamina.url,
+    image: "/etsy-art/camina-sobre-agua.webp",
     href: "https://www.etsy.com/listing/4554387329/jesus-walking-on-water-impasto-oil",
   },
   {
     title: "El Trono de Salomón",
     reference: "1 Reyes 10",
-    image: artSalomon.url,
+    image: "/etsy-art/trono-salomon.webp",
     href: "https://www.etsy.com/listing/4544403417/king-solomon-throne-oil-texture-painting",
   },
   {
     title: "La Caída de Sodoma",
     reference: "Génesis 19",
-    image: artSodoma.url,
+    image: "/etsy-art/sodoma.webp",
     href: "https://www.etsy.com/listing/4549020689/lots-wife-pillar-of-salt-oil-painting",
   },
   {
     title: "La Crucifixión",
     reference: "Juan 19",
-    image: artCrucifixion.url,
+    image: "/etsy-art/crucifixion.webp",
     href: "https://www.etsy.com/listing/4546714509/crucifixion-oil-painting-golgotha-wall",
   },
   {
     title: "Adán en el Edén",
     reference: "Génesis 2",
-    image: artBautismo.url,
+    image: "/etsy-art/adam-eden.webp",
     href: "https://www.etsy.com/listing/4543370817/garden-of-eden-impasto-oil-painting",
   },
   {
     title: "David y Goliat",
     reference: "1 Samuel 17",
-    image: artDavid.url,
+    image: "/etsy-art/david-goliat.webp",
     href: "https://www.etsy.com/listing/4543227597/david-and-goliath-oil-painting-print",
   },
 ];
