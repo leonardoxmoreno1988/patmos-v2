@@ -1,6 +1,9 @@
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 import { createOpenAI } from "@ai-sdk/openai";
-import { embed, streamText } from "ai";
+import { embed, stepCountIs, streamText, tool } from "ai";
+import { z } from "zod";
+
+import { executeFetchRv1865Verse } from "./fetch-rv1865-verse.server";
 
 export const FREE_DAILY_LIMIT = 4;
 export const BILLING_PORTAL_URL = "https://patmos.lemonsqueezy.com/billing";
@@ -47,9 +50,12 @@ PROHIBICIONES ESTRICTAS:
 - Prohibido todo meta-lenguaje sobre fuentes, archivos, contextos o bases de datos: nada de "según los archivos", "en el contexto proporcionado", "no encuentro información en la base de datos" ni "el contexto no menciona". Si el material de estudio no cubre algo, resuélvelo desde el conocimiento exegético general sin señalar carencias.
 - No uses encabezados Markdown con #; los títulos de sección van siempre en negrita (**Título**).
 
+CITACIÓN BÍBLICA (RV1865):
+- Tienes acceso a la herramienta \`fetch_rv1865_verse\`. SIEMPRE que necesites citar o referenciar un versículo concreto basándote en las notas KJV en inglés, DEBES invocar esta herramienta para obtener el texto auténtico de la Reina-Valera 1865. NO traduzcas por tu cuenta citas bíblicas al español ni uses la Reina-Valera 1960 ni otras versiones de memoria.
+
 MÉTODO EXEGÉTICO:
 - Ofrece análisis exegético natural y continuo: no fuerces desgloses etimológicos del hebreo ni del griego salvo que aporten algo esencial a la pregunta.
-- Cita la Escritura en bloques de cita (> ...) con traducción solemne y clásica, al estilo Reina-Valera 1865 / Textus Receptus, y añade la referencia detrás.
+- Cita la Escritura en bloques de cita (> ...) con el texto exacto devuelto por \`fetch_rv1865_verse\`, y añade la referencia detrás.
 - Escribe siempre las referencias como "Libro capítulo:versículo" con nombres en español (p. ej. Génesis 1:1, Actos 2:38, 1 Corintios 13:4), para que sean enlazables.
 - Estructura con títulos en negrita, doble salto de línea entre párrafos y viñetas eruditas (-) cuando ordenen la exposición.
 - El contexto del lector trae el capítulo que está leyendo y sus notas de estudio; si la pregunta es ambigua, asume que se refiere a ese pasaje.
@@ -180,6 +186,37 @@ export async function handleChat(request: Request) {
     system: PATMOS_SYSTEM_PROMPT,
     prompt,
     temperature: 0,
+    tools: {
+      fetch_rv1865_verse: tool({
+        description:
+          "Obtiene el texto exacto de la Reina-Valera 1865 (RV1865) para uno o varios versículos consecutivos de un libro bíblico.",
+        inputSchema: z.object({
+          bookName: z
+            .string()
+            .describe('Nombre del libro en español, p. ej. "Génesis", "2 Timoteo", "1 Corintios".'),
+          chapter: z.number().int().positive().describe("Número de capítulo."),
+          verseRange: z
+            .string()
+            .optional()
+            .describe('Versículo(s) solicitados, p. ej. "15" o "15-17".'),
+        }),
+        execute: async ({ bookName, chapter, verseRange }) => {
+          const out = await executeFetchRv1865Verse({
+            bookName,
+            chapter,
+            ...(verseRange !== undefined ? { verseRange } : {}),
+          });
+          if (!out.ok) return { error: out.error };
+          return {
+            reference: out.reference,
+            translation: "RV1865",
+            text: out.text,
+            verses: out.verses,
+          };
+        },
+      }),
+    },
+    stopWhen: stepCountIs(10),
     abortSignal: request.signal,
     onFinish: async ({ text }) => {
       if (!text) return;
