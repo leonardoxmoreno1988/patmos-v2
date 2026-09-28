@@ -1,16 +1,10 @@
 import { BOOKS, CHAPTER_COUNTS, fetchBook } from "@/lib/bible";
-import { canonicalBook } from "@/lib/scripture-refs";
-
-const normName = (s: string) =>
-  s
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase()
-    .trim();
+import { resolveBookName } from "@/lib/scripture-refs";
 
 function findBook(bookName: string) {
-  const target = normName(canonicalBook(bookName.trim()));
-  return BOOKS.find((b) => normName(b.name) === target);
+  const canonical = resolveBookName(bookName);
+  if (!canonical) return undefined;
+  return BOOKS.find((b) => b.name === canonical);
 }
 
 function parseVerseRange(

@@ -8,15 +8,144 @@ export interface ScriptureRef {
 
 const escape = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
-/** Legacy / alternate spellings mapped to the canonical book name. */
+const normBookName = (s: string) =>
+  s
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .trim();
+
+/** Legacy / alternate spellings mapped to the canonical book name (linkify regex keys). */
 export const BOOK_ALIASES: Record<string, string> = {
   Salmo: "Salmos",
   Hechos: "Actos",
   "Hechos de los Apóstoles": "Actos",
   "Actos de los Apóstoles": "Actos",
+  Apocalipsis: "Revelación",
+  "Apocalipsis de Juan": "Revelación",
+  "Cantar de los Cantares": "Cantares",
+  "Cantares de Salomón": "Cantares",
 };
 
-export const canonicalBook = (name: string) => BOOK_ALIASES[name] ?? name;
+/** Alternate book names (Spanish, English, accent-less) → canonical `BOOKS.name`. */
+const BOOK_NAME_ALIASES: Array<[string, string]> = [
+  // Spanish variations
+  ["Apocalipsis", "Revelación"],
+  ["Apocalipsis de Juan", "Revelación"],
+  ["Salmo", "Salmos"],
+  ["Hechos", "Actos"],
+  ["Hechos de los Apóstoles", "Actos"],
+  ["Actos de los Apóstoles", "Actos"],
+  ["Cantar de los Cantares", "Cantares"],
+  ["Cantares de Salomón", "Cantares"],
+  ["Cantares de Salomon", "Cantares"],
+  // English OT
+  ["Genesis", "Génesis"],
+  ["Exodus", "Éxodo"],
+  ["Leviticus", "Levítico"],
+  ["Numbers", "Números"],
+  ["Deuteronomy", "Deuteronomio"],
+  ["Joshua", "Josué"],
+  ["Judges", "Jueces"],
+  ["Ruth", "Rut"],
+  ["1 Samuel", "1 Samuel"],
+  ["2 Samuel", "2 Samuel"],
+  ["I Samuel", "1 Samuel"],
+  ["II Samuel", "2 Samuel"],
+  ["1 Kings", "1 Reyes"],
+  ["2 Kings", "2 Reyes"],
+  ["I Kings", "1 Reyes"],
+  ["II Kings", "2 Reyes"],
+  ["1 Chronicles", "1 Crónicas"],
+  ["2 Chronicles", "2 Crónicas"],
+  ["I Chronicles", "1 Crónicas"],
+  ["II Chronicles", "2 Crónicas"],
+  ["Ezra", "Esdras"],
+  ["Nehemiah", "Nehemías"],
+  ["Esther", "Ester"],
+  ["Job", "Job"],
+  ["Psalms", "Salmos"],
+  ["Psalm", "Salmos"],
+  ["Proverbs", "Proverbios"],
+  ["Ecclesiastes", "Eclesiastés"],
+  ["Song of Solomon", "Cantares"],
+  ["Song of Songs", "Cantares"],
+  ["Canticles", "Cantares"],
+  ["Isaiah", "Isaías"],
+  ["Jeremiah", "Jeremías"],
+  ["Lamentations", "Lamentaciones"],
+  ["Ezekiel", "Ezequiel"],
+  ["Daniel", "Daniel"],
+  ["Hosea", "Oseas"],
+  ["Joel", "Joel"],
+  ["Amos", "Amós"],
+  ["Obadiah", "Abdías"],
+  ["Jonah", "Jonás"],
+  ["Micah", "Miqueas"],
+  ["Nahum", "Nahúm"],
+  ["Habakkuk", "Habacuc"],
+  ["Zephaniah", "Sofonías"],
+  ["Haggai", "Hageo"],
+  ["Zechariah", "Zacarías"],
+  ["Malachi", "Malaquías"],
+  // English NT
+  ["Matthew", "Mateo"],
+  ["Mark", "Marcos"],
+  ["Luke", "Lucas"],
+  ["John", "Juan"],
+  ["Acts", "Actos"],
+  ["Romans", "Romanos"],
+  ["1 Corinthians", "1 Corintios"],
+  ["2 Corinthians", "2 Corintios"],
+  ["I Corinthians", "1 Corintios"],
+  ["II Corinthians", "2 Corintios"],
+  ["Galatians", "Gálatas"],
+  ["Ephesians", "Efesios"],
+  ["Philippians", "Filipenses"],
+  ["Colossians", "Colosenses"],
+  ["1 Thessalonians", "1 Tesalonicenses"],
+  ["2 Thessalonians", "2 Tesalonicenses"],
+  ["I Thessalonians", "1 Tesalonicenses"],
+  ["II Thessalonians", "2 Tesalonicenses"],
+  ["1 Timothy", "1 Timoteo"],
+  ["2 Timothy", "2 Timoteo"],
+  ["I Timothy", "1 Timoteo"],
+  ["II Timothy", "2 Timoteo"],
+  ["Titus", "Tito"],
+  ["Philemon", "Filemón"],
+  ["Hebrews", "Hebreos"],
+  ["James", "Santiago"],
+  ["1 Peter", "1 Pedro"],
+  ["2 Peter", "2 Pedro"],
+  ["I Peter", "1 Pedro"],
+  ["II Peter", "2 Pedro"],
+  ["1 John", "1 Juan"],
+  ["2 John", "2 Juan"],
+  ["3 John", "3 Juan"],
+  ["I John", "1 Juan"],
+  ["II John", "2 Juan"],
+  ["III John", "3 Juan"],
+  ["Jude", "Judas"],
+  ["Revelation", "Revelación"],
+  ["Apocalypse", "Revelación"],
+];
+
+const NORMALIZED_BOOK_LOOKUP = new Map<string, string>(
+  [
+    ...BOOKS.map((b) => [normBookName(b.name), b.name] as const),
+    ...BOOK_NAME_ALIASES.map(([alias, canonical]) => [normBookName(alias), canonical] as const),
+    ...Object.entries(BOOK_ALIASES).map(([alias, canonical]) => [normBookName(alias), canonical] as const),
+  ],
+);
+
+/** Resolves a book name (any alias, English, accent-less) to a canonical `BOOKS.name`. */
+export function resolveBookName(input: string): string | null {
+  const key = normBookName(input);
+  if (!key) return null;
+  return NORMALIZED_BOOK_LOOKUP.get(key) ?? null;
+}
+
+export const canonicalBook = (name: string) => resolveBookName(name) ?? BOOK_ALIASES[name] ?? name;
 
 const NAMES = [...BOOKS.map((b) => b.name), ...Object.keys(BOOK_ALIASES)].sort(
   (a, b) => b.length - a.length,
