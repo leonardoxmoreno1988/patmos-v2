@@ -1,6 +1,6 @@
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 import { createOpenAI } from "@ai-sdk/openai";
-import { embed, stepCountIs, streamText, tool } from "ai";
+import { embedMany, stepCountIs, streamText, tool } from "ai";
 import { z } from "zod";
 
 import { executeFetchRv1865Verse } from "./fetch-rv1865-verse.server";
@@ -39,29 +39,37 @@ async function isPremium(supabase: SupabaseClient, userId: string) {
   return (data?.length ?? 0) > 0;
 }
 
-const PATMOS_SYSTEM_PROMPT = `Eres "Consultas Patmos", el Vigía Dispensacional: consultor exegético académico de voz severa y sobria, dedicado al estudio de las Escrituras según la Reina-Valera 1865 y el Textus Receptus.
+const PATMOS_SYSTEM_PROMPT = `Eres "Consultas Patmos", el Vigía Dispensacional: consultor exegético académico de voz severa, sobria y profunda, dedicado al estudio de las Escrituras según la Reina-Valera 1865, el Textus Receptus y el marco dispensacionalista clásico (KJV / Bible Believer).
 
 IDENTIDAD Y TONO:
 - Hablas como un erudito bíblico de alta profundidad doctrinal: grave, riguroso, pastoralmente respetuoso, con la mirada del vigilante que discierne los tiempos a la luz de la profecía.
-- Respondes siempre en español formal, con el léxico y la cadencia de la Reina-Valera 1865.
-- Nunca te describas como inteligencia artificial, IA, bot, robot, asistente virtual ni modelo; si te preguntan qué eres, di que eres el servicio de Consultas Patmos.
+- Respondes siempre en español formal, con el léxico y la cadencia clásica de la Reina-Valera 1865.
+- Jamás te identifiques como inteligencia artificial, IA, bot, modelo ni asistente virtual; ante cualquier pregunta sobre tu naturaleza, declara que eres el servicio de Consultas Patmos.
 
-PROHIBICIONES ESTRICTAS:
-- Prohibido todo meta-lenguaje sobre fuentes, archivos, contextos o bases de datos: nada de "según los archivos", "en el contexto proporcionado", "no encuentro información en la base de datos" ni "el contexto no menciona". Si el material de estudio no cubre algo, resuélvelo desde el conocimiento exegético general sin señalar carencias.
-- No uses encabezados Markdown con #; los títulos de sección van siempre en negrita (**Título**).
+MODO DE CONOCIMIENTO HÍBRIDO (MÁXIMA COBERTERA Y FLUIDEZ):
+1. PRIORIDAD: Si los fragmentos en <SUPABASE_SECURE_CONTEXT> o <ACTIVE_READER_CONTEXT> contienen información relevante para la consulta, utilízalos como tu fuente principal y sintetízalos con amplitud.
+2. COMPLEMENTO DISPENSACIONAL: Si el contexto de Supabase está vacío, es parcial o no cubre el tema específico, NO digas "el material no detalla" ni te niegues a responder. En su lugar, responde directamente utilizando la Teología Dispensacional Clásica (marco KJV 1611 / Textus Receptus / Lógica de división de dispensaciones), manteniendo siempre la voz sobria y académica de Consultas Patmos.
 
-CITACIÓN BÍBLICA (RV1865):
-- Tienes acceso a la herramienta \`fetch_rv1865_verse\`. SIEMPRE que necesites citar o referenciar un versículo concreto basándote en las notas KJV en inglés, DEBES invocar esta herramienta para obtener el texto auténtico de la Reina-Valera 1865. NO traduzcas por tu cuenta citas bíblicas al español ni uses la Reina-Valera 1960 ni otras versiones de memoria.
+PROHIBICIÓN DE META-LENGUAJE Y ANUNCIOS:
+- Prohibido el meta-lenguaje técnico: jamás digas "según los archivos", "en la base de datos", "el contexto no menciona", "según la inteligencia artificial" ni "los bloques provistos".
+- EJECUCIÓN SILENCIOSA DE HERRAMIENTAS: NO generes ninguna frase, conversación ni anuncio de relleno antes de invocar una herramienta. Queda ESTRICTAMENTE PROHIBIDO escribir frases como "Procederé a obtener...", "Permíteme buscar...", "Un momento por favor" o "Analizaremos el texto". Si decides usar \`fetch_rv1865_verse\`, invócala INMEDIATAMENTE sin emitir una sola palabra previa.
 
-MÉTODO EXEGÉTICO:
-- Ofrece análisis exegético natural y continuo: no fuerces desgloses etimológicos del hebreo ni del griego salvo que aporten algo esencial a la pregunta.
-- Cita la Escritura en bloques de cita (> ...) con el texto exacto devuelto por \`fetch_rv1865_verse\`, y añade la referencia detrás.
-- Escribe siempre las referencias como "Libro capítulo:versículo" con nombres en español (p. ej. Génesis 1:1, Actos 2:38, 1 Corintios 13:4), para que sean enlazables.
-- Estructura con títulos en negrita, doble salto de línea entre párrafos y viñetas eruditas (-) cuando ordenen la exposición.
-- El contexto del lector trae el capítulo que está leyendo y sus notas de estudio; si la pregunta es ambigua, asume que se refiere a ese pasaje.
-- Sé conciso: normalmente menos de 350 palabras.`;
+TERMINOLOGÍA OBLIGATORIA (RV1865):
+- Debes usar SIEMPRE los nombres auténticos de los libros según la Reina-Valera 1865 en tus respuestas y encabezados.
+- Escribe SIEMPRE "Revelación" en lugar de "Apocalipsis".
+- Escribe SIEMPRE "Actos" en lugar de "Hechos".
+- Queda estrictamente prohibido usar las palabras "Apocalipsis" o "Hechos" en cualquier parte de tu salida.
+
+CITACIÓN BÍBLICA:
+- Tienes acceso a la herramienta \`fetch_rv1865_verse\`. SIEMPRE que necesites citar o referenciar un versículo concreto, DEBES invocar esta herramienta para obtener el texto auténtico en español de la Reina-Valera 1865. NO traduzcas citas por tu cuenta ni uses la RV1960 de memoria.
+- Cita la Escritura en bloques de cita (> ...) con el texto exacto devuelto por la herramienta, seguido de la referencia con el formato "Libro capítulo:versículo" (ej. Génesis 1:1, Actos 2:38, Revelación 13:3).
+
+MÉTODO EXEGÉTICO Y ESTRUCTURA:
+- Desarrolla respuestas sustanciales, estructuradas con párrafos sobrios, viñetas y encabezados Markdown.
+- Aplica el marco dispensacional: distingue claramente a quién va dirigido el pasaje (Judíos, Gentiles o la Iglesia de Dios)`;
 
 interface MatchDocument {
+  id?: string;
   content?: string;
   type?: string;
   source?: string;
@@ -70,6 +78,81 @@ interface MatchDocument {
   chapter?: number | string;
   verse_start?: number;
   verse_end?: number;
+  similarity?: number;
+  metadata?: Record<string, any>;
+}
+
+const RAG_MATCH_THRESHOLD = 0.20; // Bajamos de 0.22 a 0.1 para capturar coincidencias cross-language (ES -> EN)
+const RAG_MAX_CHUNKS = 30;
+
+/** Topics that often need parallel OT/prophecy chunks beyond the literal user query. */
+function needsCrossRefExpansion(query: string): boolean {
+  const n = query
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
+  return /anticrist|herida|segunda venida|segundo adviento|parusia|profec|revelacion|apocalipsis|zacarias|daniel|ezekiel|isaias|jeremias|tipos?( del)? antiguo testamento|old testament type|venida del senor|bestia| cabeza | brazo | ojo /.test(
+    n,
+  );
+}
+
+/** Primary query plus supplementary embeddings for prophecy / OT-type cross-references. */
+function buildRagSearchQueries(userQuery: string): string[] {
+  const q = userQuery.trim();
+  if (!needsCrossRefExpansion(q)) return [q];
+  return [
+    q,
+    `${q} Old Testament types Zechariah Daniel parallel prophecy cross-reference typology`,
+    "Zechariah Daniel Old Testament prophecy types antichrist wound idol shepherd right eye arm dispensational cross-reference",
+  ];
+}
+
+function dedupeDocuments(docs: MatchDocument[]): MatchDocument[] {
+  const seen = new Set<string>();
+  const out: MatchDocument[] = [];
+  for (const doc of docs) {
+    const key = doc.content ?? "";
+    if (!key || seen.has(key)) continue;
+    seen.add(key);
+    out.push(doc);
+  }
+  return out;
+}
+
+async function retrieveStudyContext(
+  supabase: SupabaseClient,
+  openai: ReturnType<typeof createOpenAI>,
+  userQuery: string,
+): Promise<string> {
+  const queries = buildRagSearchQueries(userQuery);
+  const { embeddings } = await embedMany({
+    model: openai.embedding("text-embedding-3-small"),
+    values: queries,
+  });
+
+  const batches = await Promise.all(
+    embeddings.map((query_embedding) =>
+      supabase.rpc("match_documents", {
+        query_embedding,
+        match_threshold: RAG_MATCH_THRESHOLD,
+        match_count: 20,
+      }),
+    ),
+  );
+
+  const primaryDocs = dedupeDocuments(((batches[0]?.data ?? []) as MatchDocument[]).filter((d) => d.content));
+  const expansionDocs = dedupeDocuments(
+    batches
+      .slice(1)
+      .flatMap(({ data }) => ((data ?? []) as MatchDocument[]).filter((d) => d.content)),
+  );
+
+  const combined = dedupeDocuments([
+    ...primaryDocs.slice(0, 15),
+    ...expansionDocs.slice(0, 15),
+  ]).slice(0, RAG_MAX_CHUNKS);
+
+  return combined.length > 0 ? formatArchiveBlocks(combined) : "";
 }
 
 /** Formats retrieved study chunks as numbered ARCHIVE_BLOCK XML for the secure context. */
@@ -117,7 +200,6 @@ export async function handleChat(request: Request) {
   const apiKey = process.env["OPENAI_API_KEY"];
   if (!apiKey) return notConfiguredResponse();
 
-
   let body: { messages?: Array<{ role: string; content: string }>; readerContext?: unknown };
   try {
     body = await request.json();
@@ -128,7 +210,7 @@ export async function handleChat(request: Request) {
   if (!userQuery || userQuery.length > 4000) {
     return Response.json({ error: "Solicitud inválida." }, { status: 400 });
   }
-  // Reader context: strip outer tags (re-added below) and cap size (~long chapters like Salmos 119).
+
   const activeReaderContext =
     typeof body.readerContext === "string"
       ? body.readerContext
@@ -156,25 +238,14 @@ export async function handleChat(request: Request) {
 
   const openai = createOpenAI({ apiKey });
 
-  // Contexto semántico desde match_documents (umbral 0.30, 15 fragmentos).
+  // Contexto semántico enriquecido utilizando la función Multi-Query (Español + Inglés)
   let secureContext = "";
   try {
-    const { embedding } = await embed({
-      model: openai.embedding("text-embedding-3-small"),
-      value: userQuery,
-    });
-    const { data } = await supabase.rpc("match_documents", {
-      query_embedding: embedding,
-      match_threshold: 0.3,
-      match_count: 15,
-    });
-    const docs = ((data ?? []) as MatchDocument[]).filter((d) => d.content);
-    if (docs.length > 0) secureContext = formatArchiveBlocks(docs);
+    secureContext = await retrieveStudyContext(supabase, openai, userQuery);
   } catch (e) {
     console.error("patmos match_documents", e);
   }
 
-  // One clean payload: what the reader sees, then the retrieved study material, then the question.
   const prompt = [
     ...(activeReaderContext ? [`<ACTIVE_READER_CONTEXT>\n${activeReaderContext}\n</ACTIVE_READER_CONTEXT>`] : []),
     `<SUPABASE_SECURE_CONTEXT>\n${secureContext || "No hay material de estudio asociado a esta consulta."}\n</SUPABASE_SECURE_CONTEXT>`,
