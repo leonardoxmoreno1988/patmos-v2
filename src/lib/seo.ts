@@ -1,5 +1,5 @@
-export const SITE_URL = "https://rvnotas.app";
-export const SITE_NAME = "RV + Notas";
+export const SITE_URL = "https://www.patmosresearch.com";
+export const SITE_NAME = "Patmos"; // o "Patmos Research" según prefieras en títulos SEO
 
 export interface SeoInput {
  title: string;

@@ -136,10 +136,14 @@ export function AccountModal({ open, onOpenChange }: AccountModalProps) {
               {profileMsg ? (
                 <p className="text-sm text-muted-foreground">{profileMsg}</p>
               ) : null}
-              <Button type="submit" disabled={profileBusy || !name.trim()}>
-                {profileBusy ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
-                Guardar
-              </Button>
+              <Button 
+  type="submit" 
+  disabled={profileBusy || !name.trim()}
+  className="dark:bg-white dark:text-zinc-950 dark:hover:bg-zinc-200"
+>
+  {profileBusy ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
+  Guardar
+</Button>
             </form>
           </TabsContent>
 
@@ -171,10 +175,14 @@ export function AccountModal({ open, onOpenChange }: AccountModalProps) {
               </div>
               {passErr ? <p className="text-sm text-destructive">{passErr}</p> : null}
               {passMsg ? <p className="text-sm text-muted-foreground">{passMsg}</p> : null}
-              <Button type="submit" disabled={passBusy}>
-                {passBusy ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
-                Cambiar contraseña
-              </Button>
+              <Button 
+  type="submit" 
+  disabled={passBusy}
+  className="dark:bg-white dark:text-zinc-950 dark:hover:bg-zinc-200"
+>
+  {passBusy ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
+  Cambiar contraseña
+</Button>
             </form>
           </TabsContent>
 

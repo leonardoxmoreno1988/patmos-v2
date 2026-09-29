@@ -17,5 +17,5 @@
 ## Waiting on user
 - [ ] Supabase SQL Editor: `alter table public.user_notes add column if not exists end_verse int;` + `verses int[];`
 - [ ] Supabase SQL Editor: run `supabase/patmos-consultas.sql`
-- [ ] Supabase: enable email + Google auth; add `https://rvnotas.app` + preview URL as redirect URIs
+- [ ] Supabase: enable email + Google auth; add `https://www.patmosresearch.com` + preview URLs as redirect URIs
 - [ ] Account deletion needs `delete_own_account` DB function (SQL pending user confirmation)

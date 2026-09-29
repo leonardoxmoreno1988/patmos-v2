@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://rvnotas.app/sitemap.xml
+Sitemap: https://www.patmosresearch.com/sitemap.xml

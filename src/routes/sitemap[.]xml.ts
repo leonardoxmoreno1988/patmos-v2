@@ -10,7 +10,7 @@ import {
   type SitemapEntry,
 } from "@/lib/sitemap";
 
-const BASE_URL = "https://rvnotas.app";
+const BASE_URL = "https://www.patmosresearch.com";
 
 const CHAPTER_ROUTE_ID = "/leer/$libro/$cap";
 
