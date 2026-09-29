@@ -7,11 +7,18 @@ import { nitro } from "nitro/vite";
 export default defineConfig({
   plugins: [
     tanstackStart(),
-    nitro({ preset: "vercel" }),
+    nitro({
+      preset: "vercel",
+    }),
     tsconfigPaths(),
     tailwindcss(),
   ],
   ssr: {
-    external: ["framer-motion"],
+    external: [
+      "@supabase/supabase-js",
+      "@ai-sdk/openai",
+      "ai",
+      "framer-motion",
+    ],
   },
 });
