@@ -4,6 +4,19 @@ import tsconfigPaths from "vite-tsconfig-paths";
 import tailwindcss from "@tailwindcss/vite";
 import { nitro } from "nitro/vite";
 
+const exportAllPolyfill = `
+if (typeof globalThis.__exportAll === "undefined") {
+  globalThis.__exportAll = (target, source) => {
+    for (const key in source) {
+      if (key !== "default" && !Object.prototype.hasOwnProperty.call(target, key)) {
+        Object.defineProperty(target, key, { enumerable: true, get: () => source[key] });
+      }
+    }
+  };
+}
+var __exportAll = globalThis.__exportAll;
+`;
+
 export default defineConfig({
   plugins: [
     tanstackStart(),
@@ -11,12 +24,11 @@ export default defineConfig({
     tsconfigPaths(),
     tailwindcss(),
   ],
-  ssr: {
-    external: [
-      "@supabase/supabase-js",
-      "@ai-sdk/openai",
-      "ai",
-      "framer-motion",
-    ],
+  build: {
+    rollupOptions: {
+      output: {
+        banner: exportAllPolyfill,
+      },
+    },
   },
 });
