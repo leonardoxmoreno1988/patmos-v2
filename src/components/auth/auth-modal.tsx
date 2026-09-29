@@ -170,10 +170,14 @@ export function AuthModal({ open, onOpenChange, defaultTab = "signin" }: AuthMod
             ) : null}
             {info ? <p className="text-sm text-muted-foreground">{info}</p> : null}
 
-            <Button type="submit" className="w-full" disabled={busy}>
-              {busy ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
-              {tab === "signin" ? "Iniciar Sesión" : "Crear cuenta"}
-            </Button>
+            <Button 
+  type="submit" 
+  className="w-full dark:bg-white dark:text-zinc-950 dark:hover:bg-zinc-200" 
+  disabled={busy}
+>
+  {busy ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
+  {tab === "signin" ? "Iniciar Sesión" : "Crear cuenta"}
+</Button>
           </form>
         </Tabs>
 
