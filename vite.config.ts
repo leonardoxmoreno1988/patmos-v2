@@ -7,9 +7,7 @@ import { nitro } from "nitro/vite";
 export default defineConfig({
   plugins: [
     tanstackStart(),
-    nitro({
-      preset: "vercel",
-    }),
+    nitro({ preset: "vercel" }),
     tsconfigPaths(),
     tailwindcss(),
   ],
