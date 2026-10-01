@@ -100,7 +100,7 @@ function Home() {
         </Button>
       </div>
       </section>
-
+      <div className="hidden ...resto-de-tus-clases">
       <section className="border-y border-border py-8 sm:py-10" aria-label="Recurso gratuito">
        <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
         <div className="flex items-start gap-4 sm:items-center">
@@ -110,6 +110,7 @@ function Home() {
             className="h-20 w-14 shrink-0 rounded-none object-cover shadow-md"
             loading="lazy"
           />
+          
           <div className="min-w-0 text-left">
              <span className="text-[11px] font-semibold uppercase text-primary">
                Recurso gratuito · E-book
@@ -129,7 +130,7 @@ function Home() {
          </Button>
       </div>
      </section>
-
+     </div>
      <section className="py-12 pb-24">
       <div className="mb-7 flex items-end justify-between gap-4 border-b border-border pb-4">
         <div><h2 className="text-xl font-semibold text-foreground">Progreso de las Notas</h2><p className="mt-1 text-sm text-muted-foreground">Reina Valera 1865 · 66 libros</p></div>
