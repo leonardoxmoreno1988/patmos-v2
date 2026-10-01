@@ -1,54 +1,37 @@
-# patmos v2
+Patmos v2
 
-Create a modern, minimal, and ultra-clean Bible Reader and Commentary web app inspired by the aesthetic of Airbnb and Swarm (Foursquare).
+An AI-powered research platform leveraging Retrieval-Augmented Generation (RAG), vector embeddings, and multi-model LLM workflows to deliver fast, context-aware analysis and semantic search.
 
-Key Design & Aesthetic Guidelines:
+Live Application: patmosresearch.com
 
-- Vibe: Premium, spacious, modern, and uncluttered. Use warm neutral backgrounds (e.g., #FAF9F6 or #FFFFFF), dark charcoal text (#1A1A1A) for maximum legibility, and subtle slate/gray accents.
+Overview
+Patmos v2 is designed for intelligent research automation. By combining semantic search capabilities with high-performance vector databases, the platform retrieves relevant document contexts and generates precise, source-grounded insights. It handles end-to-end user authentication, payment subscriptions, and rate limiting to support a production-ready SaaS infrastructure.
 
-- Typography: Elegant serif font for Bible body text (e.g., Georgia or Merriweather) with generous line-height (1.8), and a crisp sans-serif font (Inter) for UI elements, labels, and navigation.
+Key Features
+Retrieval-Augmented Generation (RAG): Context-aware question answering powered by semantic vector search and hybrid retrieval.
 
-- UI Components: Rounded corners (rounded-2xl), soft borders (border-neutral-200/50), subtle floating shadows, and sleek pill-shaped controls.
+Multi-LLM Integration: Orchestrated workflows using OpenAI and Google Gemini APIs for flexible inference and processing.
 
-Layout Structure:
+Vector Storage & Database: Built on Supabase (PostgreSQL) for scalable vector embeddings, relational data storage, and Row-Level Security (RLS).
 
-1. Header: Minimalist top bar with a clean logo ("Comentario Bíblico"), a search bar input, and a theme toggle (light/dark mode).
+Caching & Rate Limiting: Serverless Redis infrastructure powered by Upstash to handle request throttling and optimize query response times.
 
-2. Navigation Bar: A floating or sticky pill bar containing:
+Monetization & Webhooks: Integrated billing pipeline using LemonSqueezy with automated webhook verification for subscription management.
 
-   - Book Selector dropdown
+Authentication: Secure user login and identity management supporting Google OAuth via Supabase Auth.
 
-   - Chapter Selector dropdown
+Tech Stack
+Frontend / Framework: Next.js / React, TypeScript, Tailwind CSS
 
-   - Quick "Previous" and "Next" chapter buttons with subtle arrow icons.
+AI & Embeddings: OpenAI API, Google Gemini API
 
-3. Reading Area:
+Database & Authentication: Supabase (PostgreSQL, Pgvector, Supabase Auth)
 
-   - Single column centered layout for reading on mobile/tablet.
+Caching & Performance: Upstash Redis
 
-   - On desktop, a two-column or clean main panel layout where the Bible text occupies the main reading canvas and study notes appear in a soft card section below or to the side.
+Payment Infrastructure: LemonSqueezy
 
-4. Add Lucide React icons for all interactive controls. Include subtle loading skeletons.
+Deployment & Hosting: Vercel
 
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://rvnotas.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/5b625881-fa84-45ee-8fec-cbfb62964dde).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+Environment Variables Configuration
+To run Patmos v2 locally, create a .env.local file in the root directory and configure the following key-value pairs:
