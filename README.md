@@ -1,4 +1,4 @@
-# rvnotas
+# patmos v2
 
 Create a modern, minimal, and ultra-clean Bible Reader and Commentary web app inspired by the aesthetic of Airbnb and Swarm (Foursquare).
 
