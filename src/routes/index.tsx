@@ -77,11 +77,17 @@ function Home() {
     <SiteHeader />
 
     <main className="mx-auto max-w-6xl px-6">
-      <section className="py-14 text-center md:py-20">
-         <h1 className="sr-only">PATMOS — Exégesis y Notas de Estudio RV1865</h1>
-         <p className="mx-auto max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
-           Plataforma de investigación teológica, análisis profético y preservación del texto bíblico Reina Valera 1865.
-         </p>
+  <section className="py-14 text-center md:py-20">
+    <h1 className="sr-only">PATMOS — Exégesis y Notas de Estudio RV1865</h1>
+    
+    {/* Título visible únicamente en desktop */}
+    <h2 className="hidden md:block text-3xl font-bold tracking-tight text-foreground mb-4 md:text-4xl">
+      RV1865 + Notas
+    </h2>
+
+    <p className="mx-auto max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
+      Plataforma de investigación teológica, análisis profético y preservación del texto bíblico Reina Valera 1865.
+    </p>
 
       <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
         <Button asChild size="lg" className="h-11 rounded-full px-6 dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100">
