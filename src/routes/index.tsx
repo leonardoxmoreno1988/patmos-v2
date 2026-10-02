@@ -80,10 +80,10 @@ function Home() {
   <section className="py-14 text-center md:py-20">
     <h1 className="sr-only">PATMOS — Exégesis y Notas de Estudio RV1865</h1>
     
-    {/* Título visible únicamente en desktop */}
-    <h2 className="hidden md:block text-3xl font-bold tracking-tight text-foreground mb-4 md:text-4xl">
-      RV1865 + Notas
-    </h2>
+   {/* Título visible únicamente en desktop */}
+<h2 className="hidden md:block text-5xl font-extrabold tracking-tight text-foreground mb-6 md:text-6xl lg:text-7xl">
+  RV1865 + Notas
+</h2>
 
     <p className="mx-auto max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
       Plataforma de investigación teológica, análisis profético y preservación del texto bíblico Reina Valera 1865.
