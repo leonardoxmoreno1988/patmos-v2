@@ -9,6 +9,7 @@ export default defineConfig({
     tanstackStart(),
     nitro({
       preset: "vercel",
+      noExternals: ["tslib"],
       rollupConfig: {
         output: {
           inlineDynamicImports: true,
@@ -18,7 +19,4 @@ export default defineConfig({
     tsconfigPaths(),
     tailwindcss(),
   ],
-  ssr: {
-    noExternal: ["tslib"],
-  },
 });
