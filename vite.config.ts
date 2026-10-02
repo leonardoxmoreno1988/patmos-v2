@@ -18,4 +18,7 @@ export default defineConfig({
     tsconfigPaths(),
     tailwindcss(),
   ],
+  ssr: {
+    noExternal: ["tslib"],
+  },
 });
