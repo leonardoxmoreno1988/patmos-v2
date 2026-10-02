@@ -81,7 +81,7 @@ function Home() {
     <h1 className="sr-only">PATMOS — Exégesis y Notas de Estudio RV1865</h1>
     
    {/* Título visible únicamente en desktop */}
-<h2 className="hidden md:block text-5xl font-extrabold tracking-tight text-foreground mb-6 md:text-6xl lg:text-7xl">
+<h2 className="hidden md:block text-4xl font-bold tracking-tight text-foreground mb-6 md:text-6xl lg:text-7xl">
   RV1865 + Notas
 </h2>
 
