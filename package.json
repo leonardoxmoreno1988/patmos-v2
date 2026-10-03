@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "NITRO_PRESET=vercel vite build && mkdir -p .vercel/output/functions/__server.func/node_modules && cp -R node_modules/tslib .vercel/output/functions/__server.func/node_modules/",
+    "build": "NITRO_PRESET=vercel vite build",
     "start": "vite preview"
   },
   "dependencies": {
