@@ -1,4 +1,62 @@
-import { __awaiter } from "tslib";
+this && this.__extends || (function() {
+	var extendStatics = function(d, b) {
+		extendStatics = Object.setPrototypeOf || { __proto__: [] } instanceof Array && function(d, b) {
+			d.__proto__ = b;
+		} || function(d, b) {
+			for (var p in b) if (Object.prototype.hasOwnProperty.call(b, p)) d[p] = b[p];
+		};
+		return extendStatics(d, b);
+	};
+	return function(d, b) {
+		if (typeof b !== "function" && b !== null) throw new TypeError("Class extends value " + String(b) + " is not a constructor or null");
+		extendStatics(d, b);
+		function __() {
+			this.constructor = d;
+		}
+		d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+	};
+})();
+var __assign = this && this.__assign || function() {
+	__assign = Object.assign || function(t) {
+		for (var s, i = 1, n = arguments.length; i < n; i++) {
+			s = arguments[i];
+			for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p)) t[p] = s[p];
+		}
+		return t;
+	};
+	return __assign.apply(this, arguments);
+};
+this && this.__rest;
+var __awaiter = this && this.__awaiter || function(thisArg, _arguments, P, generator) {
+	function adopt(value) {
+		return value instanceof P ? value : new P(function(resolve) {
+			resolve(value);
+		});
+	}
+	return new (P || (P = Promise))(function(resolve, reject) {
+		function fulfilled(value) {
+			try {
+				step(generator.next(value));
+			} catch (e) {
+				reject(e);
+			}
+		}
+		function rejected(value) {
+			try {
+				step(generator["throw"](value));
+			} catch (e) {
+				reject(e);
+			}
+		}
+		function step(result) {
+			result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected);
+		}
+		step((generator = generator.apply(thisArg, _arguments || [])).next());
+	});
+};
+this && this.__generator;
+this && this.__spreadArray;
+this && this.__read;
 //#region node_modules/@supabase/functions-js/dist/module/helper.js
 var resolveFetch = (customFetch) => {
 	if (customFetch) return (...args) => customFetch(...args);

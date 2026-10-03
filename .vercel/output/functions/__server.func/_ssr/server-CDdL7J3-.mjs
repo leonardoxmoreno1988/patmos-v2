@@ -1,532 +1,23 @@
 import { i as __toESM } from "../_runtime.mjs";
 import { n as toResponse, t as H3Event } from "../_libs/h3-v2+rou3+srvx.mjs";
+import { i as bookFromSlug, r as CHAPTER_COUNTS, s as slugifyBook, t as BOOKS } from "./bible-CwIUYS_X.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
-import { $ as isPromise, A as getScriptPreloadAttrs, C as createSerializationAdapter, F as waitForReason, H as executeRewriteInput, L as _getRenderedMatches, M as resolveManifestAssetLink, N as resolveManifestCssLink, S as toCrossJSONStream, U as invariant, X as hasKeys, Z as isDangerousProtocol, _ as defaultSerovalDeserializerPlugins, a as bindSsrResponseToRequest, b as fromJSON, c as disposeSsrResponse, d as normalizeSsrResponse, f as replaceSsrResponse, g as createRawStreamRPCPlugin, h as getNormalizedURL, i as mergeHeaders, j as getStylesheetHref, l as getSsrStatus, m as attachRouterServerSsrUtils, n as renderSsrHtmlResponse, nt as rootRouteId, o as createSsrStreamResponse, p as stripSsrResponseBody, r as transformReadableStreamWithRouter, rt as isNotFound, s as defineHandlerCallback, t as server_exports$2, tt as isRedirect, u as isSsrResponse, v as getScrollRestorationScriptForRouter, x as toCrossJSONAsync, y as makeSerovalPlugin } from "../_libs/@tanstack/router-core+[...].mjs";
+import { A as toCrossJSONStream, B as invariant, C as useRouter, D as fromJSON, F as resolveManifestAssetLink, I as resolveManifestCssLink, J as isNotFound, K as isRedirect, L as waitForReason, N as getScriptPreloadAttrs, P as getStylesheetHref, R as _getRenderedMatches, U as isDangerousProtocol, W as isPromise, _ as lazyRouteComponent, a as isSsrResponse, b as Link, c as stripSsrResponseBody, d as Scripts, f as HeadContent, g as Outlet, h as createRouter, i as disposeSsrResponse, k as toCrossJSONAsync, m as RouterProvider, n as bindSsrResponseToRequest, o as normalizeSsrResponse, q as rootRouteId, r as defineHandlerCallback, s as replaceSsrResponse, t as renderRouterToStream, v as createFileRoute, y as createRootRouteWithContext, z as executeRewriteInput } from "../_libs/@tanstack/react-router+[...].mjs";
 import { n as createServerHistory } from "../_libs/tanstack__history.mjs";
+import { a as defaultSerovalDeserializerPlugins, i as createRawStreamRPCPlugin, n as attachRouterServerSsrUtils, o as makeSerovalPlugin, r as getNormalizedURL, s as createSerializationAdapter, t as mergeHeaders } from "../_libs/@tanstack/router-core+[...].mjs";
 import { s as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
-import "../_libs/@tanstack/react-store+[...].mjs";
-import { t as require_server_node } from "../_libs/react-dom.mjs";
-import { t as isbot } from "../_libs/isbot.mjs";
-import { PassThrough, Readable } from "node:stream";
+import { c as studyNotesQuery, o as getNote, r as EBOOK_TITLE, t as AuthProvider } from "./notes-Dpau9YV6.mjs";
+import { r as QueryClientProvider } from "../_libs/tanstack__react-query.mjs";
+import { t as QueryClient } from "../_libs/tanstack__query-core.mjs";
+import { t as Toaster } from "../_libs/sonner.mjs";
 import { AsyncLocalStorage } from "node:async_hooks";
-//#region node_modules/.nitro/vite/services/ssr/assets/rolldown-runtime-BBjsoOtd.js
-var __defProp = Object.defineProperty;
-var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
-var __getOwnPropNames = Object.getOwnPropertyNames;
-var __hasOwnProp = Object.prototype.hasOwnProperty;
-var __exportAll = (all, no_symbols) => {
-	let target = {};
-	for (var name in all) __defProp(target, name, {
-		get: all[name],
-		enumerable: true
-	});
-	if (!no_symbols) __defProp(target, Symbol.toStringTag, { value: "Module" });
-	return target;
-};
-var __copyProps = (to, from, except, desc) => {
-	if (from && typeof from === "object" || typeof from === "function") for (var keys = __getOwnPropNames(from), i = 0, n = keys.length, key; i < n; i++) {
-		key = keys[i];
-		if (!__hasOwnProp.call(to, key) && key !== except) __defProp(to, key, {
-			get: ((k) => from[k]).bind(null, key),
-			enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable
-		});
-	}
-	return to;
-};
-var __reExport = (target, mod, secondTarget) => (__copyProps(target, mod, "default"), secondTarget && __copyProps(secondTarget, mod, "default"));
-//#endregion
-//#region node_modules/.nitro/vite/services/ssr/assets/server-CdxiqMkJ.js
+//#region node_modules/.nitro/vite/services/ssr/assets/server-CDdL7J3-.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
-var import_server_node = /* @__PURE__ */ __toESM(require_server_node());
-/**
-* React.use if available (React 19+), undefined otherwise.
-* Use dynamic lookup to avoid Webpack compilation errors with React 18.
-*/
-var reactUse = import_react.use;
-var useLayoutEffect = import_react.useEffect;
-var CatchBoundary = class extends import_react.Component {
-	constructor(..._args) {
-		super(..._args);
-		this.state = { error: 0 };
-		this.reset = () => {
-			this.setState({ error: 0 });
-		};
-	}
-	static getDerivedStateFromProps(props, state) {
-		const resetKey = props.getResetKey();
-		if (state.error && state.resetKey !== resetKey) return {
-			resetKey,
-			error: 0
-		};
-		return { resetKey };
-	}
-	static getDerivedStateFromError(error) {
-		return { error: [error] };
-	}
-	componentDidCatch(error, errorInfo) {
-		this.props.onCatch?.(error, errorInfo);
-	}
-	render() {
-		const error = this.state.error;
-		if (error) return import_react.createElement(this.props.errorComponent ?? ErrorComponent, {
-			error: error[0],
-			reset: this.reset
-		});
-		return this.props.children;
-	}
-};
-function ErrorComponent({ error }) {
-	const [show, setShow] = import_react.useState(false);
-	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
-		style: {
-			padding: ".5rem",
-			maxWidth: "100%"
-		},
-		children: [
-			/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
-				style: {
-					display: "flex",
-					alignItems: "center",
-					gap: ".5rem"
-				},
-				children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("strong", {
-					style: { fontSize: "1rem" },
-					children: "Something went wrong!"
-				}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("button", {
-					style: {
-						appearance: "none",
-						fontSize: ".6em",
-						border: "1px solid currentColor",
-						padding: ".1rem .2rem",
-						fontWeight: "bold",
-						borderRadius: ".25rem"
-					},
-					onClick: () => setShow((d) => !d),
-					children: show ? "Hide Error" : "Show Error"
-				})]
-			}),
-			/* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { style: { height: ".25rem" } }),
-			show ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", { children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)("pre", {
-				style: {
-					fontSize: ".7em",
-					border: "1px solid red",
-					borderRadius: ".25rem",
-					padding: ".3rem",
-					color: "red",
-					overflow: "auto"
-				},
-				children: error?.message ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)("code", { children: error.message }) : null
-			}) }) : null
-		]
-	});
-}
-var getSnapshot = () => true;
-var getServerSnapshot = () => false;
-/**
-* Render the children only after the JS has loaded client-side. Use an optional
-* fallback component if the JS is not yet loaded.
-*
-* @example
-* Render a Chart component if JS loads, renders a simple FakeChart
-* component server-side or if there is no JS. The FakeChart can have only the
-* UI without the behavior or be a loading spinner or skeleton.
-*
-* ```tsx
-* return (
-*   <ClientOnly fallback={<FakeChart />}>
-*     <Chart />
-*   </ClientOnly>
-* )
-* ```
-*/
-function ClientOnly({ children, fallback = null }) {
-	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(import_react.Fragment, { children: useHydrated() ? children : fallback });
-}
-/** @internal */
-function useHydrated(enabled = true) {
-	return import_react.useSyncExternalStore(subscribe, getSnapshot, enabled ? getServerSnapshot : getSnapshot);
-}
-function subscribe() {
-	return () => {};
-}
-var routerContext = import_react.createContext(null);
-/**
-* Access the current TanStack Router instance from React context.
-* Must be used within a `RouterProvider`.
-*
-* Options:
-* - `warn`: Log a warning if no router context is found (default: true).
-*
-* @returns The registered router instance.
-* @link https://tanstack.com/router/latest/docs/framework/react/api/router/useRouterHook
-*/
-function useRouter(opts) {
-	const value = import_react.useContext(routerContext);
-	if (!value);
-	return value;
-}
-var matchContext = import_react.createContext(void 0);
-var dummyMatchContext = import_react.createContext(void 0);
-function CatchNotFound(props) {
-	const router = useRouter();
-	{
-		const resetKey = `not-found-${router.stores.location.get().pathname}-${router.stores.status.get()}`;
-		return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CatchBoundary, {
-			getResetKey: () => resetKey,
-			onCatch: (error, errorInfo) => {
-				if (isNotFound(error)) props.onCatch?.(error, errorInfo);
-				else throw error;
-			},
-			errorComponent: ({ error }) => {
-				if (isNotFound(error)) return props.fallback?.(error);
-				else throw error;
-			},
-			children: props.children
-		});
-	}
-}
-function DefaultGlobalNotFound() {
-	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { children: "Not Found" });
-}
-/**
-* Server-only helper to emit a script tag exactly once during SSR.
-*/
-function ScriptOnce({ children }) {
-	const router = useRouter();
-	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)("script", {
-		nonce: router.options.ssr?.nonce,
-		dangerouslySetInnerHTML: { __html: children + ";document.currentScript.remove()" }
-	});
-}
-/**
-* Renders a not found component for a route when no matching route is found.
-*
-* @param router - The router instance containing the route configuration
-* @param route - The route that triggered the not found state
-* @param data - Additional data to pass to the not found component
-* @returns The rendered not found component or a default fallback component
-*/
-function renderRouteNotFound(router, route, data) {
-	if (!route.options.notFoundComponent) {
-		if (router.options.defaultNotFoundComponent) return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(router.options.defaultNotFoundComponent, { ...data });
-		return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(DefaultGlobalNotFound, {});
-	}
-	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(route.options.notFoundComponent, { ...data });
-}
-function ScrollRestoration() {
-	const script = getScrollRestorationScriptForRouter(useRouter());
-	if (!script) return null;
-	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ScriptOnce, { children: script });
-}
-function renderPending(router, route) {
-	const PendingComponent = route?.options.pendingComponent ?? router.options.defaultPendingComponent;
-	if (!PendingComponent) return null;
-	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(PendingComponent, {});
-}
-var canWrapInSuspense = (router, route, ssr) => !route.isRoot || route.options.shellComponent || route.options.wrapInSuspense || ssr === false || ssr === "data-only" || false;
-var Match = import_react.memo(function MatchImpl({ routeId }) {
-	const router = useRouter();
-	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(MatchView, {
-		router,
-		match: router.stores.byRoute.get(routeId).get()
-	});
-});
-function MatchView({ router, match }) {
-	const route = router.routesById[match.routeId];
-	const pendingElement = renderPending(router, route);
-	const routeErrorComponent = route.options.errorComponent ?? router.options.defaultErrorComponent;
-	const routeOnCatch = route.options.onCatch ?? router.options.defaultOnCatch;
-	const routeNotFoundComponent = route.isRoot ? route.options.notFoundComponent ?? router.options.notFoundRoute?.options.component : route.options.notFoundComponent;
-	const resolvedNoSsr = match.ssr === false || match.ssr === "data-only";
-	const wrapInSuspense = canWrapInSuspense(router, route, match.ssr) && (route.options.wrapInSuspense ?? pendingElement ?? (route.options.errorComponent?.preload || resolvedNoSsr));
-	let content = /* @__PURE__ */ (0, import_jsx_runtime.jsx)(MatchInner, { match });
-	if (resolvedNoSsr) content = /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ClientOnly, {
-		fallback: pendingElement,
-		children: content
-	});
-	if (routeNotFoundComponent) content = /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CatchNotFound, {
-		fallback: (error) => {
-			error.routeId ??= match.routeId;
-			if (error.routeId !== match.routeId) throw error;
-			return import_react.createElement(routeNotFoundComponent, error);
-		},
-		children: content
-	});
-	if (routeErrorComponent) content = /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CatchBoundary, {
-		getResetKey: () => match,
-		errorComponent: routeErrorComponent,
-		onCatch: (error, errorInfo) => {
-			if (isNotFound(error)) {
-				error.routeId ??= match.routeId;
-				throw error;
-			}
-			routeOnCatch?.(error, errorInfo);
-		},
-		children: content
-	});
-	if (wrapInSuspense) content = /* @__PURE__ */ (0, import_jsx_runtime.jsx)(import_react.Suspense, {
-		fallback: pendingElement,
-		children: content
-	});
-	const scrollRestoration = route.parentRoute?.id === "__root__" && router.options.scrollRestoration ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ScrollRestoration, {}) : null;
-	const ShellComponent = route.isRoot ? route.options.shellComponent : void 0;
-	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(matchContext.Provider, {
-		value: match.routeId,
-		children: ShellComponent ? /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(ShellComponent, { children: [content, scrollRestoration] }) : /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(import_jsx_runtime.Fragment, { children: [content, scrollRestoration] })
-	});
-}
-var MatchInner = import_react.memo(function MatchInnerImpl({ match }) {
-	const router = useRouter();
-	const routeId = match.routeId;
-	const route = router.routesById[routeId];
-	const key = import_react.useMemo(() => {
-		const remountDeps = (route.options.remountDeps ?? router.options.defaultRemountDeps)?.({
-			routeId,
-			loaderDeps: match.loaderDeps,
-			params: match._strictParams,
-			search: match._strictSearch
-		});
-		return remountDeps ? JSON.stringify(remountDeps) : void 0;
-	}, [
-		routeId,
-		match.loaderDeps,
-		match._strictParams,
-		match._strictSearch,
-		route.options.remountDeps,
-		router.options.defaultRemountDeps
-	]);
-	const out = import_react.useMemo(() => {
-		const Comp = route.options.component ?? router.options.defaultComponent;
-		return Comp ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Comp, {}, key) : /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Outlet, {});
-	}, [
-		key,
-		route.options.component,
-		router.options.defaultComponent
-	]);
-	if (match.status === "pending") {
-		if (router.ssr && !canWrapInSuspense(router, route, match.ssr)) return out;
-		if (router._tx) throw router._tx[5];
-		return renderPending(router, route);
-	}
-	if (match.status === "notFound") return renderRouteNotFound(router, route, match.error);
-	if (match.status === "error") return /* @__PURE__ */ (0, import_jsx_runtime.jsx)((route.options.errorComponent ?? router.options.defaultErrorComponent) || ErrorComponent, {
-		error: match.error,
-		reset: void 0,
-		info: { componentStack: "" }
-	});
-	return out;
-});
-/**
-* Render the next child match in the route tree. Typically used inside
-* a route component to render nested routes.
-*
-* @link https://tanstack.com/router/latest/docs/framework/react/api/router/outletComponent
-*/
-var Outlet = import_react.memo(function OutletImpl() {
-	const router = useRouter();
-	const routeId = import_react.useContext(matchContext);
-	let parentGlobalNotFound;
-	let parentNotFoundError;
-	let childRouteId;
-	{
-		const matches = router.stores.matches.get();
-		const parentIndex = matches.findIndex((match) => match.routeId === routeId);
-		const parentMatch = matches[parentIndex];
-		parentGlobalNotFound = !!parentMatch._notFound;
-		parentNotFoundError = parentMatch.error;
-		childRouteId = matches[parentIndex + 1]?.routeId;
-	}
-	if (parentGlobalNotFound) return renderRouteNotFound(router, router.routesById[routeId], parentNotFoundError);
-	if (!childRouteId) return null;
-	const nextMatch = /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Match, { routeId: childRouteId });
-	if (routeId === "__root__") return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(import_react.Suspense, {
-		fallback: renderPending(router),
-		children: nextMatch
-	});
-	return nextMatch;
-});
-function settleOwner(owner, rendered) {
-	const settle = owner[1];
-	owner.length = 0;
-	settle?.(rendered);
-}
-/**
-* Internal component that renders the router's active match tree with
-* suspense, error, and not-found boundaries. Rendered by `RouterProvider`.
-*/
-function Matches() {
-	const router = useRouter();
-	const rootRoute = router.routesById[rootRouteId];
-	renderPending(router, rootRoute);
-	const inner = /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(import_jsx_runtime.Fragment, { children: [false, /* @__PURE__ */ (0, import_jsx_runtime.jsx)(MatchesInner, {})] });
-	return router.options.InnerWrap ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(router.options.InnerWrap, { children: inner }) : inner;
-}
-function MatchesInner() {
-	const router = useRouter();
-	const acknowledgement = router._rendered;
-	const matches = router.stores.matches.get();
-	const match = matches[0];
-	const routeId = match?.routeId;
-	useLayoutEffect(() => {
-		if (acknowledgement[0] === matches) settleOwner(acknowledgement, true);
-	}, [acknowledgement, matches]);
-	const matchComponent = routeId ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Match, { routeId }) : null;
-	return router.options.disableGlobalCatchBoundary ? matchComponent : /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CatchBoundary, {
-		getResetKey: () => match,
-		onCatch: void 0,
-		children: matchComponent
-	});
-}
-/**
-* Low-level provider that places the router into React context and optionally
-* updates router options from props. Most apps should use `RouterProvider`.
-*/
-function RouterContextProvider({ router, children, ...rest }) {
-	if (hasKeys(rest)) router.update({
-		...router.options,
-		...rest,
-		context: {
-			...router.options.context,
-			...rest.context
-		}
-	});
-	const provider = /* @__PURE__ */ (0, import_jsx_runtime.jsx)(routerContext.Provider, {
-		value: router,
-		children
-	});
-	if (router.options.Wrap) return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(router.options.Wrap, { children: provider });
-	return provider;
-}
-/**
-* Renders the current match presentation and provides the router to the React
-* tree via context.
-*
-* Accepts mutable router options via props. Configure initialization-only
-* options with `createRouter`.
-*
-* @link https://tanstack.com/router/latest/docs/framework/react/api/router/createRouterFunction
-*/
-function RouterProvider({ router, ...rest }) {
-	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(RouterContextProvider, {
-		router,
-		...rest,
-		children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Matches, {})
-	});
-}
 function StartServer(props) {
 	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(RouterProvider, { router: props.router });
 }
-function RouterServer(props) {
-	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(RouterProvider, { router: props.router });
-}
-var renderRouterToString = async ({ router, responseHeaders, children }) => {
-	return renderSsrHtmlResponse({
-		router,
-		responseHeaders,
-		render: () => import_server_node.renderToString(children)
-	});
-};
-var defaultRenderHandler = defineHandlerCallback(({ router, responseHeaders }) => renderRouterToString({
-	router,
-	responseHeaders,
-	children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(RouterServer, { router })
-}));
-var renderRouterToStream = async ({ request, router, responseHeaders, children }) => {
-	const signal = request.signal;
-	if (signal.aborted) {
-		router.serverSsr?.cleanup();
-		throw signal.reason;
-	}
-	let rendererTeardown = false;
-	const bot = isbot(request.headers.get("User-Agent"));
-	const onError = (renderer) => (error, info) => {
-		if (!rendererTeardown && !signal.aborted) console.error(`Error in ${renderer}:`, error, info);
-	};
-	try {
-		if (typeof import_server_node.renderToReadableStream === "function") {
-			const stream = await import_server_node.renderToReadableStream(children, {
-				signal,
-				nonce: router.options.ssr?.nonce,
-				progressiveChunkSize: Number.POSITIVE_INFINITY,
-				onError: onError("renderToReadableStream")
-			});
-			const rendererAbort = bot ? new AbortController() : void 0;
-			const responseStream = transformReadableStreamWithRouter(router, stream, {
-				rendererSafePoint: "script-close",
-				signal,
-				onAbort: (reason) => {
-					rendererTeardown = true;
-					rendererAbort?.abort(reason);
-				}
-			});
-			if (rendererAbort) await waitForReason(stream.allReady, rendererAbort.signal);
-			return createSsrStreamResponse(router, new Response(responseStream, {
-				status: getSsrStatus(router),
-				headers: responseHeaders
-			}));
-		}
-		if (typeof import_server_node.renderToPipeableStream === "function") {
-			const reactAppPassthrough = new PassThrough();
-			let pipeable;
-			let resolveReady;
-			const ready = new Promise((resolve) => {
-				resolveReady = resolve;
-			});
-			const rendererAbort = new AbortController();
-			const abortPipeable = (reason) => {
-				if (rendererTeardown) return;
-				rendererTeardown = true;
-				rendererAbort.abort(reason);
-				try {
-					pipeable?.abort(reason);
-				} catch {}
-			};
-			try {
-				pipeable = import_server_node.renderToPipeableStream(children, {
-					nonce: router.options.ssr?.nonce,
-					progressiveChunkSize: Number.POSITIVE_INFINITY,
-					...bot ? { onAllReady: resolveReady } : { onShellReady: resolveReady },
-					onError: onError("renderToPipeableStream"),
-					onShellError: (error) => rendererAbort.abort(error)
-				});
-				const responseStream = transformReadableStreamWithRouter(router, Readable.toWeb(reactAppPassthrough), {
-					rendererSafePoint: "script-close",
-					signal,
-					onAbort: abortPipeable
-				});
-				await waitForReason(ready, rendererAbort.signal);
-				pipeable.pipe(reactAppPassthrough);
-				return createSsrStreamResponse(router, new Response(responseStream, {
-					status: getSsrStatus(router),
-					headers: responseHeaders
-				}));
-			} catch (error) {
-				abortPipeable(error);
-				throw error;
-			}
-		}
-		throw new Error("No renderToReadableStream or renderToPipeableStream found in react-dom/server. Ensure you are using a version of react-dom that supports streaming.");
-	} catch (error) {
-		router.serverSsr?.cleanup();
-		throw error;
-	}
-};
-var defaultStreamHandler$1 = defineHandlerCallback(({ request, router, responseHeaders }) => renderRouterToStream({
-	request,
-	router,
-	responseHeaders,
-	children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(RouterServer, { router })
-}));
-var server_exports$1 = /* @__PURE__ */ __exportAll({
-	RouterServer: () => RouterServer,
-	defaultRenderHandler: () => defaultRenderHandler,
-	defaultStreamHandler: () => defaultStreamHandler$1,
-	renderRouterToStream: () => renderRouterToStream,
-	renderRouterToString: () => renderRouterToString
-});
-__reExport(server_exports$1, server_exports$2);
-var defaultStreamHandler = (0, server_exports$1.defineHandlerCallback)(({ request, router, responseHeaders }) => renderRouterToStream({
+var defaultStreamHandler = defineHandlerCallback(({ request, router, responseHeaders }) => renderRouterToStream({
 	request,
 	router,
 	responseHeaders,
@@ -1853,8 +1344,8 @@ var getBaseManifest = getProdBaseManifest;
 var createEarlyHintsForRequest = createEarlyHintsCollector;
 async function loadEntries() {
 	const [routerEntry, startEntry, pluginAdapters] = await Promise.all([
-		import("./router-oxYdTyXd.mjs").then((n) => n.t),
-		import("./start-Du45U2xX.mjs"),
+		import("../_libs/_.mjs").then((n) => n.t),
+		import("./start-Dol0cQsq.mjs"),
 		import("./empty-plugin-adapters-D9UWiqvJ.mjs")
 	]);
 	return {
@@ -2322,4 +1813,538 @@ function createServerEntry(entry) {
 }
 var server_default = createServerEntry({ fetch });
 //#endregion
-export { Outlet as a, useRouter as c, __exportAll as d, getStartContext as i, useHydrated as l, createCsrfMiddleware as n, dummyMatchContext as o, createMiddleware as r, matchContext as s, server_exports as t, reactUse as u };
+//#region node_modules/.nitro/vite/services/ssr/assets/seo-BehQe1AG.js
+var SITE_URL = "https://www.patmosresearch.com";
+var SITE_NAME = "Patmos";
+/**
+* Reusable head() builder: title, description, canonical, Open Graph and
+* Twitter Card tags. Returns the exact shape TanStack Start's head() expects,
+* so routes just do: `head: () => seoHead({ ... })`.
+*/
+function seoHead({ title, description, canonical, ogImage, ogType = "website", noindex = false }) {
+	const url = canonical ? canonical.startsWith("http") ? canonical : `${SITE_URL}${canonical}` : void 0;
+	const meta = [
+		{ title },
+		{
+			name: "description",
+			content: description
+		},
+		{
+			property: "og:title",
+			content: title
+		},
+		{
+			property: "og:description",
+			content: description
+		},
+		{
+			property: "og:type",
+			content: ogType
+		},
+		{
+			property: "og:site_name",
+			content: SITE_NAME
+		},
+		{
+			name: "twitter:card",
+			content: "summary_large_image"
+		}
+	];
+	if (url) meta.push({
+		property: "og:url",
+		content: url
+	});
+	if (ogImage) {
+		meta.push({
+			property: "og:image",
+			content: ogImage
+		});
+		meta.push({
+			name: "twitter:image",
+			content: ogImage
+		});
+	}
+	if (noindex) meta.push({
+		name: "robots",
+		content: "noindex"
+	});
+	return {
+		meta,
+		links: url ? [{
+			rel: "canonical",
+			href: url
+		}] : []
+	};
+}
+/** Strips HTML tags and collapses whitespace, for meta descriptions. */
+function plainText(html) {
+	return html.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+}
+/** First `max` characters of plain text, cut on a word boundary. */
+function excerpt(text, max = 150) {
+	if (text.length <= max) return text;
+	const cut = text.slice(0, max);
+	return cut.slice(0, Math.max(cut.lastIndexOf(" "), 0)).trimEnd() + "…";
+}
+//#endregion
+//#region node_modules/.nitro/vite/services/ssr/assets/router-CLjC-zvP.js
+var __defProp = Object.defineProperty;
+var __exportAll = (all, no_symbols) => {
+	let target = {};
+	for (var name in all) __defProp(target, name, {
+		get: all[name],
+		enumerable: true
+	});
+	if (!no_symbols) __defProp(target, Symbol.toStringTag, { value: "Module" });
+	return target;
+};
+var getRouterInstance = () => getStartContext().getRouter();
+var styles_default = "/assets/styles-RRI06gCP.css";
+var Toaster$1 = ({ ...props }) => {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Toaster, {
+		className: "toaster group",
+		toastOptions: { classNames: {
+			toast: "group toast group-[.toaster]:bg-background group-[.toaster]:text-foreground group-[.toaster]:border-border group-[.toaster]:shadow-lg",
+			description: "group-[.toast]:text-muted-foreground",
+			actionButton: "group-[.toast]:bg-primary group-[.toast]:text-primary-foreground",
+			cancelButton: "group-[.toast]:bg-muted group-[.toast]:text-muted-foreground"
+		} },
+		...props
+	});
+};
+function reportLovableError(error, context = {}) {
+	if (typeof window === "undefined") return;
+	window.__lovableEvents?.captureException?.(error, {
+		source: "react_error_boundary",
+		route: window.location.pathname,
+		...context
+	}, {
+		mechanism: "react_error_boundary",
+		handled: false,
+		severity: "error"
+	});
+	const message = error instanceof Response ? `Response ${error.status}${error.url ? ` at ${error.url}` : ""}` : error instanceof Error ? error.message : String(error);
+	const stack = error instanceof Error ? error.stack : void 0;
+	window.__lovableReportRuntimeError?.({
+		message,
+		...stack !== void 0 && { stack },
+		filename: window.location.pathname
+	});
+}
+function NotFoundComponent() {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+		className: "flex min-h-screen items-center justify-center bg-background px-4",
+		children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+			className: "max-w-md text-center",
+			children: [
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h1", {
+					className: "text-7xl font-bold text-foreground",
+					children: "404"
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h2", {
+					className: "mt-4 text-xl font-semibold text-foreground",
+					children: "Page not found"
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+					className: "mt-2 text-sm text-muted-foreground",
+					children: "The page you're looking for doesn't exist or has been moved."
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+					className: "mt-6",
+					children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Link, {
+						to: "/",
+						className: "inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90",
+						children: "Go home"
+					})
+				})
+			]
+		})
+	});
+}
+function ErrorComponent({ error, reset }) {
+	console.error(error);
+	const router = useRouter();
+	(0, import_react.useEffect)(() => {
+		reportLovableError(error, { boundary: "tanstack_root_error_component" });
+	}, [error]);
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+		className: "flex min-h-screen items-center justify-center bg-background px-4",
+		children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+			className: "max-w-md text-center",
+			children: [
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h1", {
+					className: "text-xl font-semibold tracking-tight text-foreground",
+					children: "This page didn't load"
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+					className: "mt-2 text-sm text-muted-foreground",
+					children: "Something went wrong on our end. You can try refreshing or head back home."
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+					className: "mt-6 flex flex-wrap justify-center gap-2",
+					children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("button", {
+						onClick: () => {
+							router.invalidate();
+							reset();
+						},
+						className: "inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90",
+						children: "Try again"
+					}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("a", {
+						href: "/",
+						className: "inline-flex items-center justify-center rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-accent",
+						children: "Go home"
+					})]
+				})
+			]
+		})
+	});
+}
+var Route$10 = createRootRouteWithContext()({
+	staticData: { sitemap: false },
+	head: () => ({
+		meta: [
+			{ charSet: "utf-8" },
+			{
+				name: "viewport",
+				content: "width=device-width, initial-scale=1"
+			},
+			{ title: "Comentario Bíblico — Lectura y notas de estudio" },
+			{
+				name: "description",
+				content: "Lee la Biblia en un espacio limpio y sereno, con notas de estudio por capítulo."
+			},
+			{
+				property: "og:title",
+				content: "Comentario Bíblico"
+			},
+			{
+				property: "og:description",
+				content: "Lectura bíblica minimalista con comentario y notas de estudio."
+			},
+			{
+				property: "og:type",
+				content: "website"
+			},
+			{
+				name: "twitter:card",
+				content: "summary_large_image"
+			},
+			{
+				name: "twitter:site",
+				content: "@Lovable"
+			}
+		],
+		links: [
+			{
+				rel: "stylesheet",
+				href: styles_default
+			},
+			{
+				rel: "preconnect",
+				href: "https://fonts.googleapis.com"
+			},
+			{
+				rel: "preconnect",
+				href: "https://fonts.gstatic.com",
+				crossOrigin: "anonymous"
+			},
+			{
+				rel: "stylesheet",
+				href: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+			},
+			{
+				rel: "icon",
+				href: "/favicon.png",
+				type: "image/png"
+			}
+		]
+	}),
+	shellComponent: RootShell,
+	component: RootComponent,
+	notFoundComponent: NotFoundComponent,
+	errorComponent: ErrorComponent
+});
+function RootShell({ children }) {
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("html", {
+		lang: "en",
+		children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("head", { children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(HeadContent, {}) }), /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("body", { children: [children, /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Scripts, {})] })]
+	});
+}
+function useUmamiOnInteraction() {
+	(0, import_react.useEffect)(() => {
+		const inject = () => {
+			const s = document.createElement("script");
+			s.src = "https://cloud.umami.is/script.js";
+			s.defer = true;
+			s.setAttribute("data-website-id", "bdfd0465-45a8-47d8-8cc0-076ed1c98361");
+			document.head.appendChild(s);
+		};
+		const events = [
+			"mousemove",
+			"scroll",
+			"keydown",
+			"touchstart",
+			"click"
+		];
+		const onFirst = () => {
+			inject();
+			events.forEach((e) => window.removeEventListener(e, onFirst));
+		};
+		events.forEach((e) => window.addEventListener(e, onFirst, { passive: true }));
+		return () => events.forEach((e) => window.removeEventListener(e, onFirst));
+	}, []);
+}
+function RootComponent() {
+	const { queryClient } = Route$10.useRouteContext();
+	useUmamiOnInteraction();
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsx)(QueryClientProvider, {
+		client: queryClient,
+		children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(AuthProvider, { children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(Outlet, {}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Toaster$1, {})] })
+	});
+}
+var $$splitComponentImporter$4 = () => import("./routes-Bfg9X6Gv.mjs");
+var Route$9 = createFileRoute("/")({
+	staticData: { sitemap: true },
+	head: () => seoHead({
+		title: "PATMOS — Exégesis y Biblia Reina Valera 1865",
+		description: "Plataforma de investigación teológica, análisis profético y preservación del texto bíblico Reina Valera 1865.",
+		canonical: "/"
+	}),
+	component: lazyRouteComponent($$splitComponentImporter$4, "component")
+});
+/** Chapters with at least one study note, per book, from the global notes sheet. */
+var $$splitComponentImporter$3 = () => import("./buscar-B_fwzz5K.mjs");
+var Route$8 = createFileRoute("/buscar")({
+	staticData: { sitemap: true },
+	validateSearch: (search) => {
+		const filter = String(search["filter"] ?? "all");
+		return {
+			q: typeof search["q"] === "string" ? search["q"] : "",
+			filter: filter === "notes" || filter === "bible" ? filter : "all",
+			page: Math.max(1, Number(search["page"] ?? 1) || 1)
+		};
+	},
+	head: () => seoHead({
+		title: "Buscar — Biblia + Notas",
+		description: "Busca en el texto completo de la Reina-Valera 1865 y en las notas de estudio de Leonardo Moreno.",
+		canonical: "/buscar"
+	}),
+	component: lazyRouteComponent($$splitComponentImporter$3, "component")
+});
+var $$splitComponentImporter$2 = () => import("./newsletter-BnLcSdpb.mjs");
+var Route$7 = createFileRoute("/newsletter")({
+	staticData: { sitemap: true },
+	head: () => seoHead({
+		title: "Newsletter — Notas de Estudio",
+		description: "Suscríbete al newsletter de Notas de Estudio: una exploración de la profecía bíblica y el cristianismo actual por Leonardo Moreno.",
+		canonical: "/newsletter"
+	}),
+	component: lazyRouteComponent($$splitComponentImporter$2, "component")
+});
+function isSitemapRouteIncluded(route) {
+	if (!route || route.isRoot || route.options.staticData?.sitemap !== true) return false;
+	for (let ancestor = route.parentRoute; ancestor; ancestor = ancestor.parentRoute) if (ancestor.options.staticData?.sitemap === "exclude-subtree") return false;
+	return true;
+}
+function sitemapStaticPaths(router) {
+	const paths = /* @__PURE__ */ new Set();
+	for (const route of Object.values(router.routesById)) {
+		if (!isSitemapRouteIncluded(route) || /[$*]/.test(route.fullPath)) continue;
+		const path = sitemapPathForLocation(router, router.buildLocation({ to: route.fullPath }), route.id);
+		if (path !== void 0) paths.add(path);
+	}
+	return [...paths].sort();
+}
+function sitemapPathForLocation(router, location, routeId) {
+	if (!isSafeSitemapPath(location.pathname) || !isSafeSitemapPath(location.publicHref)) return void 0;
+	const result = router.getMatchedRoutes(location.pathname);
+	const [params, foundRoute] = Array.isArray(result) ? [result[1], result[2]] : [result.routeParams, result.parseError ? void 0 : result.foundRoute];
+	return params["**"] === void 0 && foundRoute?.id === routeId && isSitemapRouteIncluded(foundRoute) ? location.publicHref : void 0;
+}
+function isSafeSitemapPath(pathname) {
+	if (!pathname.startsWith("/") || pathname.startsWith("//") || /[?#\\]/.test(pathname)) return false;
+	try {
+		return decodeURI(new URL(pathname, "https://sitemap.invalid").pathname) === decodeURI(pathname);
+	} catch {
+		return false;
+	}
+}
+function sitemapXML(baseURL, entries) {
+	const origin = new URL(baseURL);
+	if (!/^https?:$/.test(origin.protocol) || origin.username || origin.password || origin.pathname !== "/" || origin.search || origin.hash) throw new Error("The sitemap base URL must be the public site origin");
+	const escape = (value) => value.replace(/[&<>"']/g, (character) => ({
+		"&": "&amp;",
+		"<": "&lt;",
+		">": "&gt;",
+		"\"": "&quot;",
+		"'": "&apos;"
+	})[character]);
+	const seen = /* @__PURE__ */ new Set();
+	const urls = [];
+	for (const entry of entries) {
+		if (!isSafeSitemapPath(entry.path)) throw new Error("Invalid sitemap path");
+		const url = new URL(entry.path, origin);
+		if (seen.has(url.href)) continue;
+		seen.add(url.href);
+		urls.push(`<url><loc>${escape(url.href)}</loc>${entry.lastmod ? `<lastmod>${escape(entry.lastmod)}</lastmod>` : ""}</url>`);
+	}
+	return `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.join("")}</urlset>`;
+}
+var BASE_URL = "https://www.patmosresearch.com";
+var CHAPTER_ROUTE_ID = "/leer/$libro/$cap";
+var Route$6 = createFileRoute("/sitemap.xml")({
+	staticData: { sitemap: false },
+	server: { handlers: { GET: async () => {
+		const router = await getRouterInstance();
+		const entries = sitemapStaticPaths(router).map((path) => ({ path }));
+		if (isSitemapRouteIncluded(router.routesById[CHAPTER_ROUTE_ID])) for (const book of BOOKS) {
+			const chapters = CHAPTER_COUNTS[book.bookid] ?? 0;
+			for (let chapter = 1; chapter <= chapters; chapter++) {
+				const path = sitemapPathForLocation(router, router.buildLocation({
+					to: CHAPTER_ROUTE_ID,
+					params: {
+						libro: slugifyBook(book.name),
+						cap: String(chapter)
+					},
+					search: () => ({}),
+					hash: ""
+				}), CHAPTER_ROUTE_ID);
+				if (path) entries.push({ path });
+			}
+		}
+		if (entries.length === 0) return new Response("No pages are included in this sitemap. Check route decisions and ancestor exclusions. Setting \"exclude-subtree\" on the root excludes the entire site.", {
+			status: 404,
+			headers: { "Cache-Control": "no-store" }
+		});
+		return new Response(sitemapXML(BASE_URL, entries), { headers: {
+			"Content-Type": "application/xml",
+			"Cache-Control": "public, max-age=3600"
+		} });
+	} } }
+});
+var $$splitComponentImporter$1 = () => import("./welcome-D9ij4FrP.mjs");
+var Route$5 = createFileRoute("/welcome")({
+	staticData: { sitemap: false },
+	head: () => seoHead({
+		title: "¡Bienvenido a Patmos! — Descarga tu E-book",
+		description: `Tu cuenta está lista. Descarga gratis el E-book "${EBOOK_TITLE}".`,
+		canonical: "/welcome",
+		noindex: true
+	}),
+	component: lazyRouteComponent($$splitComponentImporter$1, "component")
+});
+var Route$4 = createFileRoute("/api/billing")({
+	staticData: { sitemap: false },
+	server: { handlers: { POST: async ({ request }) => {
+		const { handleBilling } = await import("./api.server-DLYLy2vP.mjs");
+		return handleBilling(request);
+	} } }
+});
+var Route$3 = createFileRoute("/api/chat")({
+	staticData: { sitemap: false },
+	server: { handlers: { POST: async ({ request }) => {
+		const { handleChat } = await import("./api.server-DLYLy2vP.mjs");
+		return handleChat(request);
+	} } }
+});
+var Route$2 = createFileRoute("/api/consulta")({
+	staticData: { sitemap: false },
+	server: { handlers: { POST: async ({ request }) => {
+		const { handleConsulta } = await import("./consulta.server-g-SWHRnZ.mjs");
+		return handleConsulta(request);
+	} } }
+});
+var handle = async ({ request }) => {
+	const { handleHistory } = await import("./api.server-DLYLy2vP.mjs");
+	return handleHistory(request);
+};
+var Route$1 = createFileRoute("/api/history")({
+	staticData: { sitemap: false },
+	server: { handlers: {
+		GET: handle,
+		DELETE: handle
+	} }
+});
+var $$splitComponentImporter = () => import("./leer._libro._cap-s4wU6XOw.mjs");
+var Route = createFileRoute("/leer/$libro/$cap")({
+	staticData: { sitemap: true },
+	loader: ({ context }) => context.queryClient.ensureQueryData(studyNotesQuery),
+	head: ({ params, loaderData }) => {
+		const book = bookFromSlug(params.libro)?.name ?? "Génesis";
+		const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
+		const note = getNote(loaderData, book, chapter);
+		const description = note ? excerpt(plainText(note), 150) : `Lee ${book} ${chapter} en la Reina-Valera 1865 con notas de estudio y análisis doctrinal.`;
+		return seoHead({
+			title: `${book} ${chapter} - Notas de Estudio y Exégesis (RV1865)`,
+			description,
+			canonical: `/leer/${slugifyBook(book)}/${chapter}`,
+			ogType: "article"
+		});
+	},
+	component: lazyRouteComponent($$splitComponentImporter, "component")
+});
+var rootRouteChildren = {
+	IndexRoute: Route$9.update({
+		id: "/",
+		path: "/",
+		getParentRoute: () => Route$10
+	}),
+	BuscarRoute: Route$8.update({
+		id: "/buscar",
+		path: "/buscar",
+		getParentRoute: () => Route$10
+	}),
+	NewsletterRoute: Route$7.update({
+		id: "/newsletter",
+		path: "/newsletter",
+		getParentRoute: () => Route$10
+	}),
+	SitemapDotxmlRoute: Route$6.update({
+		id: "/sitemap.xml",
+		path: "/sitemap.xml",
+		getParentRoute: () => Route$10
+	}),
+	WelcomeRoute: Route$5.update({
+		id: "/welcome",
+		path: "/welcome",
+		getParentRoute: () => Route$10
+	}),
+	ApiBillingRoute: Route$4.update({
+		id: "/api/billing",
+		path: "/api/billing",
+		getParentRoute: () => Route$10
+	}),
+	ApiChatRoute: Route$3.update({
+		id: "/api/chat",
+		path: "/api/chat",
+		getParentRoute: () => Route$10
+	}),
+	ApiConsultaRoute: Route$2.update({
+		id: "/api/consulta",
+		path: "/api/consulta",
+		getParentRoute: () => Route$10
+	}),
+	ApiHistoryRoute: Route$1.update({
+		id: "/api/history",
+		path: "/api/history",
+		getParentRoute: () => Route$10
+	}),
+	LeerLibroCapRoute: Route.update({
+		id: "/leer/$libro/$cap",
+		path: "/leer/$libro/$cap",
+		getParentRoute: () => Route$10
+	})
+};
+var routeTree = Route$10._addFileChildren(rootRouteChildren)._addFileTypes();
+var router_exports = /* @__PURE__ */ __exportAll({ getRouter: () => getRouter });
+var getRouter = () => {
+	const queryClient = new QueryClient();
+	return createRouter({
+		routeTree,
+		context: { queryClient },
+		scrollRestoration: true,
+		defaultPreloadStaleTime: 0
+	});
+};
+//#endregion
+export { Route$8 as a, router_exports as c, Route as i, plainText as l, createCsrfMiddleware as n, __exportAll as o, createMiddleware as r, getRouter as s, server_exports as t };

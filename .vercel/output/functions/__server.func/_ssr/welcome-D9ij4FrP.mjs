@@ -1,9 +1,10 @@
 import { i as __toESM } from "../_runtime.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
+import { b as Link } from "../_libs/@tanstack/react-router+[...].mjs";
 import { s as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
-import { a as Link, c as markWelcomeSeen, d as useAuth, i as EBOOK_URL, n as EBOOK_COVER, r as EBOOK_TITLE } from "./notes-D-G9D8nd.mjs";
-import { v as SiteHeader } from "./site-header-Dovowwfd.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/welcome-bznWCFRQ.js
+import { i as EBOOK_URL, n as EBOOK_COVER, r as EBOOK_TITLE, s as markWelcomeSeen, u as useAuth } from "./notes-Dpau9YV6.mjs";
+import { v as SiteHeader } from "./site-header-a-tCyTrN.mjs";
+//#region node_modules/.nitro/vite/services/ssr/assets/welcome-D9ij4FrP.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 function Welcome() {

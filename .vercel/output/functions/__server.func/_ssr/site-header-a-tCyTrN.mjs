@@ -1,8 +1,9 @@
 import { i as __toESM } from "../_runtime.mjs";
 import { o as fetchBook, r as CHAPTER_COUNTS, s as slugifyBook, t as BOOKS } from "./bible-CwIUYS_X.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
+import { b as Link, x as useNavigate } from "../_libs/@tanstack/react-router+[...].mjs";
 import { n as Slot, s as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
-import { a as Link, d as useAuth, f as useNavigate, l as studyNotesQuery, o as RESOURCES, u as supabase } from "./notes-D-G9D8nd.mjs";
+import { a as RESOURCES, c as studyNotesQuery, l as supabase, u as useAuth } from "./notes-Dpau9YV6.mjs";
 import { i as useQueryClient, n as useQuery, t as useMutation } from "../_libs/tanstack__react-query.mjs";
 import { n as toast } from "../_libs/sonner.mjs";
 import { A as ArrowRight, C as Circle, D as Check, _ as History, b as CreditCard, c as Search, d as NotebookPen, f as Moon, g as Library, h as LoaderCircle, k as BookOpen, m as LogOut, n as Trash2, r as Sun, s as Settings, t as X, w as ChevronRight, y as Download } from "../_libs/lucide-react.mjs";
@@ -13,7 +14,7 @@ import { n as twMerge } from "../_libs/streamdown+[...].mjs";
 import { a as Label2, c as Root2, d as SubTrigger2, f as Trigger, i as ItemIndicator2, l as Separator2, n as Content2, o as Portal2, r as Item2, s as RadioItem2, t as CheckboxItem2, u as SubContent2 } from "../_libs/@radix-ui/react-dropdown-menu+[...].mjs";
 import { t as Root } from "../_libs/radix-ui__react-label.mjs";
 import { i as Trigger$1, n as List, r as Root2$1, t as Content } from "../_libs/radix-ui__react-tabs.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/site-header-Dovowwfd.js
+//#region node_modules/.nitro/vite/services/ssr/assets/site-header-a-tCyTrN.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 /**

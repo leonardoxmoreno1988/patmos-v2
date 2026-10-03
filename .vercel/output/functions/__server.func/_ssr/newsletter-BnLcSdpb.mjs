@@ -2,8 +2,8 @@ import { i as __toESM } from "../_runtime.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
 import { s as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
 import { a as Star } from "../_libs/lucide-react.mjs";
-import { v as SiteHeader } from "./site-header-Dovowwfd.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/newsletter-JXpBvslc.js
+import { v as SiteHeader } from "./site-header-a-tCyTrN.mjs";
+//#region node_modules/.nitro/vite/services/ssr/assets/newsletter-BnLcSdpb.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var leonardo_moreno_png_asset_default = {
