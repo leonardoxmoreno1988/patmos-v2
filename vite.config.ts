@@ -5,10 +5,19 @@ import tailwindcss from "@tailwindcss/vite";
 import { nitro } from "nitro/vite";
 
 export default defineConfig({
+  resolve: {
+    alias: {
+      tslib: "tslib/tslib.es6.mjs",
+    },
+  },
   ssr: {
     noExternal: [
-      /^@supabase\//,
       "tslib",
+      "@supabase/supabase-js",
+      "@supabase/functions-js",
+      "@supabase/postgrest-js",
+      "@supabase/realtime-js",
+      "@supabase/storage-js",
       "@tanstack/react-router",
       "@tanstack/react-start",
     ],
@@ -17,14 +26,7 @@ export default defineConfig({
     tanstackStart(),
     nitro({
       preset: "vercel",
-      noExternals: [
-        "tslib",
-        "@supabase/supabase-js",
-        "@supabase/functions-js",
-        "@supabase/postgrest-js",
-        "@supabase/realtime-js",
-        "@supabase/storage-js",
-      ],
+      noExternals: true,
     }),
     tsconfigPaths(),
     tailwindcss(),
