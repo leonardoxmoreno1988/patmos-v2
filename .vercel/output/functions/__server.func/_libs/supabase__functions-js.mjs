@@ -57,6 +57,9 @@ var __awaiter = this && this.__awaiter || function(thisArg, _arguments, P, gener
 this && this.__generator;
 this && this.__spreadArray;
 this && this.__read;
+this && this.__createBinding;
+this && this.__exportStar;
+this && this.__exportAll;
 //#region node_modules/@supabase/functions-js/dist/module/helper.js
 var resolveFetch = (customFetch) => {
 	if (customFetch) return (...args) => customFetch(...args);
