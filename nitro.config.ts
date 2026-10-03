@@ -88,13 +88,17 @@ var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
     }
     return to.concat(ar || Array.prototype.slice.call(from));
 };
+
+var tslib = { __extends, __assign, __rest, __awaiter, __generator, __spreadArray };
+var tslib_1 = tslib;
+var tslib_2 = tslib;
 `;
 
 const inlineTslibTransformPlugin = () => ({
   name: "inline-tslib-transform-plugin",
   renderChunk(code: string) {
-    if (/from\s+["']tslib["']/.test(code)) {
-      const cleaned = code.replace(/import\s*\{[^}]*\}\s*from\s*["']tslib["'];?/g, "");
+    if (/from\s*["']tslib["']/.test(code)) {
+      const cleaned = code.replace(/import\s+[\s\S]*?\s+from\s*["']tslib["'];?/g, "");
       return tslibHelpers + "\n" + cleaned;
     }
     return null;
