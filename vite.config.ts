@@ -6,7 +6,12 @@ import { nitro } from "nitro/vite";
 
 export default defineConfig({
   ssr: {
-    noExternal: ["tslib", "@tanstack/react-router", "@tanstack/react-start"],
+    noExternal: [
+      "tslib",
+      "/@supabase/",
+      "@tanstack/react-router",
+      "@tanstack/react-start",
+    ],
   },
   plugins: [
     tanstackStart(),
