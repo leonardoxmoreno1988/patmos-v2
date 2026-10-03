@@ -7,8 +7,8 @@ import { nitro } from "nitro/vite";
 export default defineConfig({
   ssr: {
     noExternal: [
+      /^@supabase\//,
       "tslib",
-      "/@supabase/",
       "@tanstack/react-router",
       "@tanstack/react-start",
     ],
@@ -17,6 +17,14 @@ export default defineConfig({
     tanstackStart(),
     nitro({
       preset: "vercel",
+      noExternals: [
+        "tslib",
+        "@supabase/supabase-js",
+        "@supabase/functions-js",
+        "@supabase/postgrest-js",
+        "@supabase/realtime-js",
+        "@supabase/storage-js",
+      ],
     }),
     tsconfigPaths(),
     tailwindcss(),
