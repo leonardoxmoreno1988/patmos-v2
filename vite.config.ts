@@ -5,11 +5,16 @@ import tailwindcss from "@tailwindcss/vite";
 import { nitro } from "nitro/vite";
 
 export default defineConfig({
+  ssr: {
+    noExternal: ["tslib"],
+  },
   plugins: [
     tanstackStart(),
     nitro({
       preset: "vercel",
-      noExternals: ["tslib"],
+      externals: {
+        inline: ["tslib"],
+      },
       rollupConfig: {
         output: {
           inlineDynamicImports: true,
