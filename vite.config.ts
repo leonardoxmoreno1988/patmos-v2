@@ -6,19 +6,31 @@ import { nitro } from "nitro/vite";
 import { createRequire } from "module";
 
 const require = createRequire(import.meta.url);
+const tslibPath = require.resolve("tslib/tslib.es6.mjs");
 
 export default defineConfig({
+  resolve: {
+    alias: {
+      tslib: tslibPath,
+    },
+  },
   plugins: [
     tanstackStart(),
     nitro({
       preset: "vercel",
       rollupConfig: {
+        external(id: string) {
+          if (id === "tslib" || id.startsWith("tslib") || id.includes("supabase")) {
+            return false;
+          }
+          return undefined;
+        },
         plugins: [
           {
-            name: "inline-tslib-plugin",
+            name: "force-inline-tslib",
             resolveId(source: string) {
               if (source === "tslib" || source.startsWith("tslib/")) {
-                return require.resolve("tslib/tslib.es6.mjs");
+                return tslibPath;
               }
               return null;
             },
