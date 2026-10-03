@@ -101,7 +101,7 @@ function Home() {
       </div>
       </section>
 
-      {/* 
+      { 
 <section className="border-y border-border py-8 sm:py-10" aria-label="Recurso gratuito">
    <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
     <div className="flex items-start gap-4 sm:items-center">
@@ -131,7 +131,7 @@ function Home() {
      </Button>
   </div>
  </section> 
-*/}
+}
 
      <section className="py-12 pb-24">
       <div className="mb-7 flex items-end justify-between gap-4 border-b border-border pb-4">
