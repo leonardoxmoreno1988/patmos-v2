@@ -8,37 +8,34 @@ import { createRequire } from "module";
 const require = createRequire(import.meta.url);
 const tslibPath = require.resolve("tslib/tslib.es6.mjs");
 
-export default defineConfig({
-  resolve: {
-    alias: {
-      tslib: tslibPath,
-    },
+const inlineTslibPlugin = () => ({
+  name: "force-inline-tslib",
+  resolveId(source: string) {
+    if (source === "tslib" || source.startsWith("tslib/")) {
+      return {
+        id: tslibPath,
+        external: false,
+      };
+    }
+    return null;
   },
+});
+
+export default defineConfig({
   plugins: [
     tanstackStart(),
     nitro({
       preset: "vercel",
       rollupConfig: {
-        external(id: string) {
-          if (id === "tslib" || id.startsWith("tslib") || id.includes("supabase")) {
-            return false;
-          }
-          return undefined;
-        },
-        plugins: [
-          {
-            name: "force-inline-tslib",
-            resolveId(source: string) {
-              if (source === "tslib" || source.startsWith("tslib/")) {
-                return tslibPath;
-              }
-              return null;
-            },
-          },
-        ],
+        plugins: [inlineTslibPlugin()],
       },
     }),
     tsconfigPaths(),
     tailwindcss(),
   ],
+  build: {
+    rollupOptions: {
+      plugins: [inlineTslibPlugin()],
+    },
+  },
 });
