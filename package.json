@@ -3,9 +3,10 @@
   "private": true,
   "sideEffects": false,
   "type": "module",
-  "scripts": {
+"scripts": {
     "dev": "vite",
-    "build": "NITRO_PRESET=vercel vite build",
+    "build": "NITRO_PRESET=vercel vite build && mkdir -p .vercel/output/functions/__server.func/node_modules && cp -R node_modules/tslib .vercel/output/functions/__server.func/node_modules/",
+    "postinstall": "node -e \"const fs=require('fs'); const p='node_modules/tslib/package.json'; if(fs.existsSync(p)){ const j=JSON.parse(fs.readFileSync(p)); j.exports['.'].import='./tslib.es6.js'; fs.writeFileSync(p, JSON.stringify(j,null,2)); }\"",
     "start": "vite preview"
   },
   "dependencies": {
