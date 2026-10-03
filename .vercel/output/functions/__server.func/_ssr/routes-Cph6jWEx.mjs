@@ -3,12 +3,12 @@ import { n as BOOK_GROUPS, r as CHAPTER_COUNTS, s as slugifyBook } from "./bible
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
 import { S as useSearch, b as Link, x as useNavigate } from "../_libs/@tanstack/react-router+[...].mjs";
 import { s as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
-import { c as studyNotesQuery, o as getNote, u as useAuth } from "./notes-Dpau9YV6.mjs";
+import { c as studyNotesQuery, o as getNote, u as useAuth } from "./notes-BgCmovsq.mjs";
 import { n as useQuery } from "../_libs/tanstack__react-query.mjs";
 import { k as BookOpen, p as MessageSquare } from "../_libs/lucide-react.mjs";
-import { n as Button, t as AuthModal, v as SiteHeader } from "./site-header-a-tCyTrN.mjs";
-import { t as ConsultaPatmos } from "./consulta-patmos-CFz3e5db.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/routes-Bfg9X6Gv.js
+import { n as Button, t as AuthModal, v as SiteHeader } from "./site-header-B8hZvSt8.mjs";
+import { t as ConsultaPatmos } from "./consulta-patmos-Dw_QpIE_.mjs";
+//#region node_modules/.nitro/vite/services/ssr/assets/routes-Cph6jWEx.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 /** Chapters with at least one study note, per book, from the global notes sheet. */

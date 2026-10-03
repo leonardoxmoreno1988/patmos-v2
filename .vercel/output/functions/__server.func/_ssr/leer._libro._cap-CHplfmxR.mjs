@@ -4,16 +4,16 @@ import { r as linkifyScriptureRefs, t as canonicalBook } from "./scripture-refs-
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
 import { b as Link, p as useRouterState, x as useNavigate } from "../_libs/@tanstack/react-router+[...].mjs";
 import { s as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
-import { c as studyNotesQuery, o as getNote, u as useAuth } from "./notes-Dpau9YV6.mjs";
-import { i as Route, l as plainText } from "./server-CDdL7J3-.mjs";
+import { c as studyNotesQuery, o as getNote, u as useAuth } from "./notes-BgCmovsq.mjs";
 import { i as useQueryClient, n as useQuery, t as useMutation } from "../_libs/tanstack__react-query.mjs";
 import { a as keepPreviousData } from "../_libs/tanstack__query-core.mjs";
 import { n as toast } from "../_libs/sonner.mjs";
+import { i as plainText, n as Route } from "./router-BGfEn2-O.mjs";
 import { E as ChevronDown, O as Bookmark, S as Copy, T as ChevronLeft, d as NotebookPen, i as StickyNote, n as Trash2, p as MessageSquare, t as X, v as Eraser, w as ChevronRight } from "../_libs/lucide-react.mjs";
-import { O as setHighlight, S as deleteNote, T as saveNote, b as chapterMarksQuery, c as DialogTitle, d as HIGHLIGHT_LABEL, f as HIGHLIGHT_SWATCH, i as DialogContent, k as toggleBookmark, l as HIGHLIGHT_CLASS, r as Dialog, s as DialogHeader, t as AuthModal, u as HIGHLIGHT_COLORS, v as SiteHeader, w as removeHighlight, x as cn } from "./site-header-a-tCyTrN.mjs";
-import { i as PopoverTrigger, n as Popover, r as PopoverContent, t as ConsultaPatmos } from "./consulta-patmos-CFz3e5db.mjs";
+import { O as setHighlight, S as deleteNote, T as saveNote, b as chapterMarksQuery, c as DialogTitle, d as HIGHLIGHT_LABEL, f as HIGHLIGHT_SWATCH, i as DialogContent, k as toggleBookmark, l as HIGHLIGHT_CLASS, r as Dialog, s as DialogHeader, t as AuthModal, u as HIGHLIGHT_COLORS, v as SiteHeader, w as removeHighlight, x as cn } from "./site-header-B8hZvSt8.mjs";
+import { i as PopoverTrigger, n as Popover, r as PopoverContent, t as ConsultaPatmos } from "./consulta-patmos-Dw_QpIE_.mjs";
 import { n as Root2, r as Trigger, t as Content2 } from "../_libs/radix-ui__react-hover-card.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/leer._libro._cap-s4wU6XOw.js
+//#region node_modules/.nitro/vite/services/ssr/assets/leer._libro._cap-CHplfmxR.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var HoverCard = Root2;

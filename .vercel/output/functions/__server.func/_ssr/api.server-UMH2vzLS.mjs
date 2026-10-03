@@ -1,10 +1,10 @@
+import { n as createClient } from "./dist-DtePOooj.mjs";
 import { o as fetchBook, r as CHAPTER_COUNTS, t as BOOKS } from "./bible-CwIUYS_X.mjs";
 import { i as resolveBookName } from "./scripture-refs-Cn_GoRyO.mjs";
-import { t as createClient } from "../_libs/supabase__supabase-js.mjs";
 import { Ct as tool, Jt as number, Qt as string, Yt as object } from "../_libs/@ai-sdk/gateway+[...].mjs";
 import { t as createOpenAI } from "../_libs/@ai-sdk/openai+[...].mjs";
 import { i as streamText, n as embedMany, r as isStepCount } from "../_libs/ai.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/api.server-DLYLy2vP.js
+//#region node_modules/.nitro/vite/services/ssr/assets/api.server-UMH2vzLS.js
 function findBook(bookName) {
 	const canonical = resolveBookName(bookName);
 	if (!canonical) return void 0;

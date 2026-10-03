@@ -3,11 +3,11 @@ import { n as linkifyScriptureMarkdown } from "./scripture-refs-Cn_GoRyO.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
 import { x as useNavigate } from "../_libs/@tanstack/react-router+[...].mjs";
 import { s as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
-import { l as supabase } from "./notes-Dpau9YV6.mjs";
+import { l as supabase } from "./notes-BgCmovsq.mjs";
 import { D as Check, S as Copy, T as ChevronLeft, _ as History, b as CreditCard, h as LoaderCircle, j as ArrowDown, l as RotateCcw, n as Trash2, o as Square, s as Settings, t as X, u as Printer, x as CornerDownLeft } from "../_libs/lucide-react.mjs";
 import { t as cva } from "../_libs/class-variance-authority+clsx.mjs";
 import { t as Xi } from "../_libs/streamdown+[...].mjs";
-import { _ as SheetTitle, a as DialogDescription, c as DialogTitle, g as SheetDescription, h as SheetContent, i as DialogContent, m as Sheet, n as Button, o as DialogFooter, p as PatmosWordmark, r as Dialog, s as DialogHeader, x as cn } from "./site-header-a-tCyTrN.mjs";
+import { _ as SheetTitle, a as DialogDescription, c as DialogTitle, g as SheetDescription, h as SheetContent, i as DialogContent, m as Sheet, n as Button, o as DialogFooter, p as PatmosWordmark, r as Dialog, s as DialogHeader, x as cn } from "./site-header-B8hZvSt8.mjs";
 import { n as useStickToBottomContext, t as StickToBottom } from "../_libs/use-stick-to-bottom.mjs";
 import { t as B } from "../_libs/@streamdown/cjk+[...].mjs";
 import { t as G } from "../_libs/shiki+streamdown__code.mjs";
@@ -16,7 +16,7 @@ import { t as f } from "../_libs/@streamdown/mermaid+[...].mjs";
 import { t as nanoid } from "../_libs/nanoid.mjs";
 import { t as motion } from "../_libs/motion.mjs";
 import { i as Trigger, n as Portal, r as Root2, t as Content2 } from "../_libs/radix-ui__react-popover.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/consulta-patmos-CFz3e5db.js
+//#region node_modules/.nitro/vite/services/ssr/assets/consulta-patmos-Dw_QpIE_.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 /**

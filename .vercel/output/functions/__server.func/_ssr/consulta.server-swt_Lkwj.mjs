@@ -1,7 +1,7 @@
-import { t as createClient } from "../_libs/supabase__supabase-js.mjs";
+import { n as createClient } from "./dist-DtePOooj.mjs";
 import { t as createOpenAI } from "../_libs/@ai-sdk/openai+[...].mjs";
 import { i as streamText, t as convertToModelMessages } from "../_libs/ai.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/consulta.server-g-SWHRnZ.js
+//#region node_modules/.nitro/vite/services/ssr/assets/consulta.server-swt_Lkwj.js
 var LOVABLE_AIG_RUN_ID_HEADER = "X-Lovable-AIG-Run-ID";
 function createLovableAiGatewayRunIdFetch(initialRunId) {
 	let runId = initialRunId?.trim() || void 0;

@@ -3,12 +3,12 @@ import { s as slugifyBook } from "./bible-CwIUYS_X.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
 import { b as Link, x as useNavigate } from "../_libs/@tanstack/react-router+[...].mjs";
 import { s as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
-import { c as studyNotesQuery } from "./notes-Dpau9YV6.mjs";
-import { a as Route$8 } from "./server-CDdL7J3-.mjs";
+import { c as studyNotesQuery } from "./notes-BgCmovsq.mjs";
 import { n as useQuery } from "../_libs/tanstack__react-query.mjs";
+import { r as Route$8 } from "./router-BGfEn2-O.mjs";
 import { c as Search, d as NotebookPen, k as BookOpen } from "../_libs/lucide-react.mjs";
-import { C as matchIndex, D as searchVerses, E as searchNotes, v as SiteHeader, x as cn, y as allBooksQuery } from "./site-header-a-tCyTrN.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/buscar-B_fwzz5K.js
+import { C as matchIndex, D as searchVerses, E as searchNotes, v as SiteHeader, x as cn, y as allBooksQuery } from "./site-header-B8hZvSt8.mjs";
+//#region node_modules/.nitro/vite/services/ssr/assets/buscar-QIG9tbbr.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var PER_PAGE = 20;
