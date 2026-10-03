@@ -86,7 +86,7 @@ function Home() {
 </h2>
 
     <p className="mx-auto max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
-      Plataforma de investigación teológica, análisis profético y preservación del texto bíblico Reina Valera 1865.
+      Plataforma de investigación teológica, análisis profético y estudio del texto bíblico Reina Valera 1865.
     </p>
 
       <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
