@@ -1,0 +1,1 @@
+import{p as e}from"./consulta-patmos-DdRCMfcj.js";export{e as Mermaid};

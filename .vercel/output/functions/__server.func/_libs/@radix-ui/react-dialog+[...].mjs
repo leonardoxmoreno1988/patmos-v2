@@ -2499,4 +2499,4 @@ function getState(open) {
 }
 __name(getState, "getState");
 //#endregion
-export { dispatchDiscreteCustomEvent as _, DialogOverlay as a, useLayoutEffect2 as b, hideOthers as c, Presence as d, Portal as f, Primitive as g, useCallbackRef$1 as h, DialogDescription as i, ReactRemoveScroll as l, DismissableLayer as m, DialogClose as n, DialogPortal as o, FocusScope as p, DialogContent as r, DialogTitle as s, Dialog as t, useFocusGuards as u, useControllableState as v, __rest as x, useId as y };
+export { __rest as S, dispatchDiscreteCustomEvent as _, DialogOverlay as a, useLayoutEffect2 as b, hideOthers as c, Presence as d, Portal as f, Primitive as g, useCallbackRef$1 as h, DialogDescription as i, ReactRemoveScroll as l, DismissableLayer as m, DialogClose as n, DialogPortal as o, FocusScope as p, DialogContent as r, DialogTitle as s, Dialog as t, useFocusGuards as u, useControllableState as v, __awaiter as x, useId as y };

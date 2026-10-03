@@ -1,1 +1,0 @@
-import{p as e}from"./consulta-patmos-CP4gmP55.js";export{e as Mermaid};
