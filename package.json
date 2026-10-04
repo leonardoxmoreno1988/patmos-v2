@@ -5,7 +5,7 @@
   "type": "module",
 "scripts": {
     "dev": "vite",
-    "build": "NITRO_PRESET=vercel vite build && mkdir -p .vercel/output/static .vercel/output/functions/__server.func/node_modules && cp -R dist/client/* .vercel/output/static/ && cp -R dist/server/* .vercel/output/functions/__server.func/ && cp -R node_modules/tslib .vercel/output/functions/__server.func/node_modules/ && node -e \"require('fs').writeFileSync('.vercel/output/config.json', JSON.stringify({version:3,routes:[{handle:'filesystem'},{src:'/(.*)',dest:'/__server'}]}))\" && node -e \"require('fs').writeFileSync('.vercel/output/functions/__server.func/.vc-config.json', JSON.stringify({runtime:'nodejs20.x',handler:'server.js',launcherType:'Nodejs'}))\"",
+    "build": "NITRO_PRESET=vercel vite build && mkdir -p .vercel/output/static .vercel/output/functions/__server.func/node_modules && cp -R dist/client/* .vercel/output/static/ && cp -R dist/server/* .vercel/output/functions/__server.func/ && cp -R node_modules/tslib .vercel/output/functions/__server.func/node_modules/ && node -e \"require('fs').writeFileSync('.vercel/output/config.json', JSON.stringify({version:3,routes:[{handle:'filesystem'},{src:'/(.*)',dest:'/__server'}]}))\" && node -e \"require('fs').writeFileSync('.vercel/output/functions/__server.func/.vc-config.json', JSON.stringify({runtime:'nodejs22.x',handler:'server.js',launcherType:'Nodejs'}))\"",
     "postinstall": "node -e \"const fs=require('fs'); const p='node_modules/tslib/package.json'; if(fs.existsSync(p)){ const j=JSON.parse(fs.readFileSync(p)); j.exports['.'].import='./tslib.es6.js'; fs.writeFileSync(p, JSON.stringify(j,null,2)); }\"",
     "start": "vite preview"
   },
