@@ -16,7 +16,7 @@ import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { getNote, studyNotesQuery } from "@/lib/notes";
-import { useI18n } from "@/i18n";
+import { getActiveLang, useI18n } from "@/i18n";
 import { excerpt, plainText, seoHead } from "@/lib/seo";
 import { recordReadChapter } from "@/lib/reading-progress";
 
@@ -32,7 +32,9 @@ function truncateWords(text: string, maxWords: number) {
 
 export const Route = createFileRoute("/leer/$libro/$cap")({
  staticData: { sitemap: true },
- loader: ({ context }) => context.queryClient.ensureQueryData(studyNotesQuery()),
+ // SSR and hydration always render Spanish (seeded below as initialData). Client-side navigations
+ // load the notes the reader will actually show, so English never waits on the Spanish sheet.
+ loader: ({ context }) => context.queryClient.ensureQueryData(studyNotesQuery(getActiveLang())),
  head: ({ params, loaderData }) => {
   const book = bookFromSlug(params.libro)?.name ?? "Génesis";
   const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
@@ -140,8 +142,9 @@ function Reader() {
   // The loader already resolved the study notes on the server; seeding the
   // client cache with that result keeps the first browser paint identical to
   // the server HTML (otherwise the notes section hydrates empty and React
-  // throws a hydration mismatch that blanks the page). The loader always loads
-  // Spanish notes, and the first render is always "es", so only that query is seeded.
+  // throws a hydration mismatch that blanks the page). On the server the loader
+  // loads Spanish notes and the first render is always "es", so only that query is
+  // seeded; English client navigations already put their notes in the cache.
   const loaderNotes = Route.useLoaderData();
   const studyNotes = useQuery({
     ...studyNotesQuery(lang),

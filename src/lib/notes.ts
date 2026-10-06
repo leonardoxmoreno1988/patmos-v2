@@ -115,4 +115,7 @@ export const studyNotesQuery = (lang: Lang = "es") => ({
   queryKey: ["study-notes", lang],
   queryFn: () => fetchStudyNotes(lang),
   staleTime: 1000 * 60 * 30,
+  // Keep parsed notes for the whole session: the reader loader awaits this query on every
+  // navigation, and a garbage-collected entry would block the route on a full re-download.
+  gcTime: Infinity,
 });

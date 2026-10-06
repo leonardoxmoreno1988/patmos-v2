@@ -22,6 +22,24 @@ function isLang(value: unknown): value is Lang {
   return typeof value === "string" && (LANGS as readonly string[]).includes(value);
 }
 
+/** The saved language choice; DEFAULT_LANG on the server or when storage is unavailable. */
+function getStoredLang(): Lang {
+  if (typeof window === "undefined") return DEFAULT_LANG;
+  try {
+    const stored = window.localStorage.getItem(KEY);
+    return isLang(stored) ? stored : DEFAULT_LANG;
+  } catch {
+    return DEFAULT_LANG;
+  }
+}
+
+// Language this tab is showing, for non-React code such as route loaders. Only the provider's
+// effect writes it, so it stays DEFAULT_LANG on the server; unlike localStorage it is per tab.
+let activeLang: Lang = DEFAULT_LANG;
+
+/** The language currently shown in this tab (DEFAULT_LANG on the server). */
+export const getActiveLang = (): Lang => activeLang;
+
 /**
  * Server and first client render always use DEFAULT_LANG; the stored choice is applied after mount
  * so SSR HTML and hydration match.
@@ -30,15 +48,11 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
   const [lang, setLangState] = useState<Lang>(DEFAULT_LANG);
 
   useEffect(() => {
-    try {
-      const stored = window.localStorage.getItem(KEY);
-      if (isLang(stored)) setLangState(stored);
-    } catch {
-      /* storage disabled: keep default */
-    }
+    setLangState(getStoredLang());
   }, []);
 
   useEffect(() => {
+    activeLang = lang;
     document.documentElement.lang = lang;
   }, [lang]);
 
