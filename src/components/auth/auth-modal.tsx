@@ -13,6 +13,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useAuth } from "./auth-provider";
+import { useI18n } from "@/i18n";
 
 function GoogleIcon() {
   return (
@@ -45,6 +46,7 @@ interface AuthModalProps {
 
 export function AuthModal({ open, onOpenChange, defaultTab = "signin" }: AuthModalProps) {
   const { signInWithEmail, signUpWithEmail, signInWithGoogle, user } = useAuth();
+  const { t } = useI18n();
   const [tab, setTab] = useState<"signin" | "signup">(defaultTab);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -87,11 +89,11 @@ export function AuthModal({ open, onOpenChange, defaultTab = "signin" }: AuthMod
           name.trim() || undefined,
         );
         if (needsConfirmation) {
-          setInfo("Revisa tu correo para confirmar la cuenta y luego inicia sesión.");
+          setInfo(t.authModal.confirmEmail);
         }
       }
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Algo salió mal. Intenta de nuevo.");
+      setError(err instanceof Error ? err.message : t.authModal.genericError);
     } finally {
       setBusy(false);
     }
@@ -103,7 +105,7 @@ export function AuthModal({ open, onOpenChange, defaultTab = "signin" }: AuthMod
     try {
       await signInWithGoogle();
     } catch (err) {
-      setError(err instanceof Error ? err.message : "No se pudo continuar con Google.");
+      setError(err instanceof Error ? err.message : t.authModal.googleError);
       setGoogleBusy(false);
     }
   }
@@ -112,45 +114,45 @@ export function AuthModal({ open, onOpenChange, defaultTab = "signin" }: AuthMod
     <Dialog open={open} onOpenChange={onOpenChange}>
       <DialogContent className="sm:max-w-[420px]">
         <DialogHeader>
-          <DialogTitle>Tu cuenta</DialogTitle>
+          <DialogTitle>{t.authModal.title}</DialogTitle>
           <DialogDescription>
-            Entra o crea una cuenta para guardar tu progreso de lectura.
+            {t.authModal.subtitle}
           </DialogDescription>
         </DialogHeader>
 
         <Tabs value={tab} onValueChange={(v) => setTab(v as "signin" | "signup")}>
           <TabsList className="grid w-full grid-cols-2">
-            <TabsTrigger value="signin">Iniciar Sesión</TabsTrigger>
-            <TabsTrigger value="signup">Registrarse</TabsTrigger>
+            <TabsTrigger value="signin">{t.authModal.signInTab}</TabsTrigger>
+            <TabsTrigger value="signup">{t.authModal.signUpTab}</TabsTrigger>
           </TabsList>
 
           <form onSubmit={handleSubmit} className="mt-4 space-y-4">
             <TabsContent value="signup" className="m-0 space-y-2">
-              <Label htmlFor="auth-name">Nombre</Label>
+              <Label htmlFor="auth-name">{t.authModal.name}</Label>
               <Input
                 id="auth-name"
                 value={name}
                 onChange={(e) => setName(e.target.value)}
-                placeholder="Tu nombre"
+                placeholder={t.authModal.namePlaceholder}
                 autoComplete="name"
               />
             </TabsContent>
 
             <div className="space-y-2">
-              <Label htmlFor="auth-email">Correo</Label>
+              <Label htmlFor="auth-email">{t.authModal.email}</Label>
               <Input
                 id="auth-email"
                 type="email"
                 required
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                placeholder="tu@correo.com"
+                placeholder={t.authModal.emailPlaceholder}
                 autoComplete="email"
               />
             </div>
 
             <div className="space-y-2">
-              <Label htmlFor="auth-password">Contraseña</Label>
+              <Label htmlFor="auth-password">{t.authModal.password}</Label>
               <Input
                 id="auth-password"
                 type="password"
@@ -176,14 +178,14 @@ export function AuthModal({ open, onOpenChange, defaultTab = "signin" }: AuthMod
   disabled={busy}
 >
   {busy ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
-  {tab === "signin" ? "Iniciar Sesión" : "Crear cuenta"}
+  {tab === "signin" ? t.authModal.signIn : t.authModal.createAccount}
 </Button>
           </form>
         </Tabs>
 
         <div className="flex items-center gap-3">
           <span className="h-px flex-1 bg-border" />
-          <span className="text-xs uppercase tracking-wider text-muted-foreground/70">o</span>
+          <span className="text-xs uppercase tracking-wider text-muted-foreground/70">{t.authModal.or}</span>
           <span className="h-px flex-1 bg-border" />
         </div>
 
@@ -195,7 +197,7 @@ export function AuthModal({ open, onOpenChange, defaultTab = "signin" }: AuthMod
           disabled={googleBusy}
         >
           {googleBusy ? <Loader2 className="h-4 w-4 animate-spin" /> : <GoogleIcon />}
-          Continuar con Google
+          {t.authModal.continueWithGoogle}
         </Button>
       </DialogContent>
     </Dialog>

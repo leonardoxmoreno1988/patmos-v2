@@ -29,17 +29,8 @@ import {
 } from "@/components/ui/dialog";
 import { supabase } from "@/lib/supabase";
 import { linkifyScriptureMarkdown } from "@/lib/scripture-refs";
-
-const STARTERS = [
-  "¿Cuál es el contexto histórico de este capítulo?",
-  "Ver análisis del texto original (Reina Valera 1865)",
-  "Referencias cruzadas clave para este pasaje",
-];
-const GLOBAL_STARTERS = [
-  "¿Qué enseña la Escritura sobre el pacto con Abraham?",
-  "Analiza la esperanza de la resurrección en ambos Testamentos",
-  "Referencias cruzadas clave sobre la segunda venida de Cristo",
-];
+import { localizeBookName } from "@/lib/bible";
+import { useI18n, type Lang } from "@/i18n";
 
 const CHECKOUT_URL = (userId: string) =>
   `https://patmos.lemonsqueezy.com/checkout/buy/4beafe1a-6811-457e-b7b5-02e216f8aeef?checkout[custom][user_id]=${encodeURIComponent(userId)}&embed=1`;
@@ -96,21 +87,22 @@ function extractDelta(payload: string): string {
   }
 }
 
-function formatTs(ts?: string): string {
+function formatTs(lang: Lang, ts?: string): string {
   if (!ts) return "";
   const d = new Date(ts);
   if (Number.isNaN(d.getTime())) return "";
-  return d.toLocaleDateString("es", { day: "numeric", month: "short" });
+  return d.toLocaleDateString(lang, { day: "numeric", month: "short" });
 }
 
 export function ConsultaPatmos(props: Props) {
+  const { t } = useI18n();
   return (
     <Sheet open={props.open} onOpenChange={props.onOpenChange}>
       <SheetContent side="right" className="flex w-full flex-col gap-0 p-0 sm:max-w-md">
         <div className="border-b border-border px-5 pb-3 pt-4 pr-12">
-          <SheetTitle className="sr-only">Consultas Patmos</SheetTitle>
+          <SheetTitle className="sr-only">{t.consulta.title}</SheetTitle>
           <SheetDescription className="sr-only">
-            Análisis Exegético y contexto histórico del texto
+            {t.consulta.description}
           </SheetDescription>
           <PatmosWordmark className="h-3.5" />
         </div>
@@ -119,14 +111,14 @@ export function ConsultaPatmos(props: Props) {
         ) : (
           <div className="flex flex-1 flex-col items-center justify-center gap-4 px-8 text-center">
             <p className="text-sm text-muted-foreground">
-              Inicia sesión para realizar consultas y conservar tus Registros Históricos.
+              {t.consulta.signInPrompt}
             </p>
             <button
               type="button"
               onClick={props.onRequireAuth}
               className="h-9 rounded-full bg-[#000f37] px-5 text-sm font-medium text-white hover:opacity-90 dark:bg-white dark:text-[#000f37]"
             >
-              Iniciar Sesión
+              {t.consulta.signIn}
             </button>
           </div>
         )}
@@ -147,6 +139,7 @@ function ConsultaChat({
   initialScope,
 }: Props & { userId: string }) {
   const navigate = useNavigate();
+  const { t, lang } = useI18n();
   // Active session: only the messages of the current consultation (or one loaded
   // from Registros Históricos). Never a merge of the whole history.
   const [messages, setMessages] = useState<ChatMsg[]>([]);
@@ -169,6 +162,8 @@ function ConsultaChat({
       ? `:${verses.length > 3 ? `${verses[0]}–${verses[verses.length - 1]}` : verses.join(", ")}`
       : ""
   }`;
+  // `passage` (canonical book name) goes to the model; this is only what the UI shows.
+  const passageLabel = passage.replace(book, localizeBookName(book, lang));
 
   // What the UI reflects: only "Pasaje Activo" shows the passage, everything
   // else (global mode, or no chapter open) reads as whole-Scripture mode.
@@ -193,9 +188,9 @@ function ConsultaChat({
       );
     } catch {
       setSessions([]);
-      setError("No pudimos cargar los Registros Históricos.");
+      setError(t.consulta.historyLoadError);
     }
-  }, []);
+  }, [t]);
 
   useEffect(() => {
     if (initialView === "history") void fetchSessions();
@@ -238,11 +233,11 @@ function ConsultaChat({
   }, []);
 
   const send = async (text: string) => {
-    const t = text.trim();
-    if (!t || busy) return;
+    const query = text.trim();
+    if (!query || busy) return;
     if (!hasCredits) return;
     setError(null);
-    const userMsg: ChatMsg = { id: crypto.randomUUID(), role: "user", text: t };
+    const userMsg: ChatMsg = { id: crypto.randomUUID(), role: "user", text: query };
     const asstId = crypto.randomUUID();
     setMessages((m) => [...m, userMsg]);
     setStatus("submitted");
@@ -255,7 +250,7 @@ function ConsultaChat({
         signal: ctrl.signal,
         headers: { "Content-Type": "application/json", ...(await authHeaders()) },
         body: JSON.stringify({
-           messages: [{ role: "user", content: scope === "passage" ? `[Pasaje: ${passage}] ${t}` : t }],
+           messages: [{ role: "user", content: scope === "passage" ? `[Pasaje: ${passage}] ${query}` : query }],
           ...(scope === "passage"
             ? {
                 readerContext: `<ACTIVE_READER_CONTEXT>\n[Libro: ${book} | Capítulo: ${chapter}]\n\n=== TEXTO BÍBLICO DEL CAPÍTULO ACTUAL ===\n${chapterText || "(no disponible)"}\n\n=== NOTAS DE ESTUDIO VISIBLES EN PANTALLA ===\n${chapterNotes || "(sin notas para este capítulo)"}\n</ACTIVE_READER_CONTEXT>`,
@@ -269,10 +264,10 @@ function ConsultaChat({
         setStatus("ready");
         return;
       }
-      if (res.status === 401) throw new Error("Inicia sesión de nuevo para consultar.");
+      if (res.status === 401) throw new Error(t.consulta.reauth);
       if (!res.ok || !res.body) {
         const j = (await res.json().catch(() => null)) as { error?: string } | null;
-        throw new Error(j?.error ?? "No pudimos completar la consulta. Inténtalo de nuevo.");
+        throw new Error(j?.error ?? t.consulta.queryError);
       }
 
       const isSSE = (res.headers.get("content-type") ?? "").includes("event-stream");
@@ -308,7 +303,7 @@ function ConsultaChat({
       setSessions(null);
     } catch (e) {
       if ((e as Error).name === "AbortError") return;
-      setError((e as Error).message || "No pudimos completar la consulta.");
+      setError((e as Error).message || t.consulta.queryErrorShort);
       setStatus("error");
     } finally {
       abortRef.current = null;
@@ -329,7 +324,7 @@ function ConsultaChat({
       setConfirmPurge(false);
       setSettingsOpen(false);
     } catch {
-      setError("No pudimos borrar los Registros Históricos.");
+      setError(t.consulta.historyPurgeError);
       setConfirmPurge(false);
       setSettingsOpen(false);
     } finally {
@@ -352,7 +347,7 @@ function ConsultaChat({
       else window.open(url, "_blank", "noopener");
     } catch {
       win?.close();
-      setError("No pudimos abrir la gestión de suscripción.");
+      setError(t.consulta.billingError);
     }
   };
 
@@ -366,11 +361,11 @@ function ConsultaChat({
     const html = document.getElementById(`patmos-${m.id}`)?.innerHTML ?? m.text;
     const w = window.open("", "_blank");
     if (!w) return;
-    w.document.write(`<!doctype html><html lang="es"><head><meta charset="utf-8"><title>Consultas Patmos — ${passage}</title>
+    w.document.write(`<!doctype html><html lang="${lang}"><head><meta charset="utf-8"><title>${t.consulta.title} — ${passageLabel}</title>
 <style>body{font-family:Georgia,serif;max-width:680px;margin:48px auto;padding:0 24px;color:#111;line-height:1.65}
 h1{font-size:20px;border-bottom:1px solid #ccc;padding-bottom:8px}blockquote{border-left:3px solid #b8964f;margin:12px 0;padding-left:12px;font-style:italic}
 a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
-<h1>Consultas Patmos · Análisis Exegético</h1><p class="meta">Pasaje: ${passage} · ${new Date().toLocaleDateString("es")}</p>${html}</body></html>`);
+<h1>${t.consulta.printHeading}</h1><p class="meta">${t.consulta.passageLabel} ${passageLabel} · ${new Date().toLocaleDateString(lang)}</p>${html}</body></html>`);
     w.document.close();
     w.focus();
     w.print();
@@ -432,9 +427,9 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
             onClick={() => setView("chat")}
             className="inline-flex items-center gap-1 rounded-full px-2 py-1 text-xs text-muted-foreground hover:bg-accent hover:text-foreground"
           >
-            <ChevronLeft className="h-3.5 w-3.5" /> Volver
+            <ChevronLeft className="h-3.5 w-3.5" /> {t.consulta.back}
           </button>
-          <span className="text-sm font-semibold">Registros Históricos</span>
+          <span className="text-sm font-semibold">{t.consulta.historyRecords}</span>
           <Popover
             open={settingsOpen}
             onOpenChange={(next) => {
@@ -445,7 +440,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
             <PopoverTrigger asChild>
               <button
                 type="button"
-                aria-label="Opciones de los Registros Históricos"
+                aria-label={t.consulta.historyOptions}
                 className="inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
               >
                 <Settings className="h-4 w-4" />
@@ -455,10 +450,10 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
               {confirmPurge ? (
                 <div className="p-2.5">
                   <p className="text-sm leading-snug text-foreground">
-                    ¿Está seguro de que desea eliminar todo su historial de consultas?
+                    {t.consulta.purgeConfirm}
                   </p>
                   <p className="mt-1.5 text-xs text-muted-foreground">
-                    Se borrarán todas las consultas guardadas. Esta acción no se puede deshacer.
+                    {t.consulta.purgeWarning}
                   </p>
                   <div className="mt-3 flex justify-end gap-1">
                     <button
@@ -466,7 +461,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                       onClick={() => setConfirmPurge(false)}
                       className="rounded-full px-3 py-1.5 text-xs text-muted-foreground hover:bg-accent hover:text-foreground"
                     >
-                      Cancelar
+                      {t.consulta.cancel}
                     </button>
                     <button
                       type="button"
@@ -474,7 +469,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                       disabled={purging}
                       className="rounded-full bg-destructive px-3 py-1.5 text-xs font-medium text-destructive-foreground hover:opacity-90 disabled:opacity-60"
                     >
-                      {purging ? "Borrando..." : "Sí, borrar todo"}
+                      {purging ? t.consulta.purging : t.consulta.purgeYes}
                     </button>
                   </div>
                 </div>
@@ -485,7 +480,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                   className="flex w-full items-center gap-2 rounded-xl px-3 py-2 text-left text-sm text-destructive transition-colors hover:bg-destructive/10"
                 >
                   <Trash2 className="h-3.5 w-3.5 shrink-0" />
-                  Limpiar registros históricos
+                  {t.consulta.purgeAction}
                 </button>
               )}
             </PopoverContent>
@@ -493,10 +488,10 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
         </div>
         <div className="min-h-0 flex-1 overflow-y-auto px-3 py-3">
           {sessions === null ? (
-            <Shimmer className="px-2 pt-4 text-sm">Consultando los registros...</Shimmer>
+            <Shimmer className="px-2 pt-4 text-sm">{t.consulta.loadingHistory}</Shimmer>
           ) : sessions.length === 0 ? (
             <p className="px-2 pt-6 text-center text-sm text-muted-foreground">
-              Aún no tienes consultas guardadas.
+              {t.consulta.emptyHistory}
             </p>
           ) : (
             <ul className="flex flex-col gap-1">
@@ -511,7 +506,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                       {s.user_query}
                     </span>
                     {s.created_at ? (
-                      <span className="shrink-0 text-xs text-muted-foreground">{formatTs(s.created_at)}</span>
+                      <span className="shrink-0 text-xs text-muted-foreground">{formatTs(lang, s.created_at)}</span>
                     ) : null}
                   </button>
                 </li>
@@ -528,27 +523,27 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
       <div className="flex items-center justify-between gap-2 px-5 py-2 text-xs text-muted-foreground">
          <span className="truncate">
            {usingPassage ? (
-             <>Pasaje: <span className="font-medium text-foreground">{passage}</span></>
+             <>{t.consulta.passageLabel} <span className="font-medium text-foreground">{passageLabel}</span></>
            ) : (
-             <>Modo: <span className="font-medium text-foreground">Toda la Escritura</span></>
+             <>{t.consulta.modeLabel} <span className="font-medium text-foreground">{t.consulta.allScripture}</span></>
            )}
          </span>
         <div className="flex shrink-0 items-center gap-1">
           <button
             type="button"
             onClick={openHistory}
-            aria-label="Registros Históricos"
-            title="Historial"
+            aria-label={t.consulta.historyRecords}
+            title={t.consulta.history}
             className="inline-flex h-7 items-center justify-center gap-1 rounded-full px-2 hover:bg-accent hover:text-foreground"
           >
             <History className="h-3.5 w-3.5 shrink-0" />
-            <span className="hidden sm:inline">Historial</span>
+            <span className="hidden sm:inline">{t.consulta.history}</span>
           </button>
           <button
             type="button"
             onClick={() => void openBilling()}
-            aria-label="Gestionar suscripción"
-            title="Gestionar suscripción"
+            aria-label={t.consulta.manageSubscription}
+            title={t.consulta.manageSubscription}
             className="inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-muted-foreground hover:bg-accent hover:text-foreground"
           >
             <CreditCard className="h-3.5 w-3.5" />
@@ -556,12 +551,12 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
           <button
             type="button"
             onClick={nuevaConsulta}
-            aria-label="Nueva Consulta"
-            title="Nueva Consulta"
+            aria-label={t.consulta.newQuery}
+            title={t.consulta.newQuery}
             className="inline-flex h-7 items-center justify-center gap-1 rounded-full px-2 hover:bg-accent hover:text-foreground"
           >
             <RotateCcw className="h-3.5 w-3.5 shrink-0" />
-            <span className="hidden sm:inline">Nueva Consulta</span>
+            <span className="hidden sm:inline">{t.consulta.newQuery}</span>
           </button>
         </div>
       </div>
@@ -569,15 +564,15 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
       <div className="flex flex-col gap-1.5 border-b border-border px-5 pb-2.5 pt-1">
         <div
           role="tablist"
-          aria-label="Alcance del contexto"
+          aria-label={t.consulta.scopeLabel}
           className="flex w-full items-center gap-1 rounded-full bg-foreground/[0.05] p-1"
         >
            {(
              [
                 ...(book
-                  ? [{ id: "passage" as const, label: `Pasaje Activo (${book} ${chapter})`, short: "Pasaje Activo" }]
+                  ? [{ id: "passage" as const, label: t.consulta.activePassageOf(`${localizeBookName(book, lang)} ${chapter}`), short: t.consulta.activePassage }]
                   : []),
-               { id: "bible" as const, label: "Toda la Biblia", short: "Toda la Biblia" },
+               { id: "bible" as const, label: t.consulta.allBible, short: t.consulta.allBible },
              ]
            ).map((opt) => (
              <button
@@ -606,11 +601,11 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
               <SacredScripturesIcon className="h-11 w-11 text-muted-foreground/70 dark:text-primary/35 sm:h-16 sm:w-16" />
               <p className="max-w-xs text-sm text-muted-foreground">
                  {usingPassage
-                   ? `Plantea una duda sobre ${book} ${chapter}.`
-                   : "Consulta temas exegéticos y proféticos en toda la Escritura."}
+                   ? t.consulta.askAboutPassage(`${localizeBookName(book, lang)} ${chapter}`)
+                   : t.consulta.askGlobal}
               </p>
               <div className="flex w-full flex-col gap-2">
-                 {(usingPassage ? STARTERS : GLOBAL_STARTERS).map((s) => (
+                 {(usingPassage ? t.consulta.starters : t.consulta.globalStarters).map((s) => (
                   <button
                     key={s}
                     type="button"
@@ -646,14 +641,14 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                           className="inline-flex items-center gap-1 rounded-full px-2 py-1 hover:bg-accent hover:text-foreground"
                         >
                           {copied === m.id ? <Check className="h-3 w-3" /> : <Copy className="h-3 w-3" />}
-                          {copied === m.id ? "Copiado" : "Copiar"}
+                          {copied === m.id ? t.consulta.copied : t.consulta.copy}
                         </button>
                         <button
                           type="button"
                           onClick={() => print(m)}
                           className="inline-flex items-center gap-1 rounded-full px-2 py-1 hover:bg-accent hover:text-foreground"
                         >
-                          <Printer className="h-3 w-3" /> Imprimir
+                          <Printer className="h-3 w-3" /> {t.consulta.print}
                         </button>
                       </div>
                     ) : null}
@@ -666,14 +661,14 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
           ))}
 
           {status === "submitted" || (status === "streaming" && lastIsUser) ? (
-            <Shimmer className="text-sm">Consultando las fuentes exegéticas...</Shimmer>
+            <Shimmer className="text-sm">{t.consulta.thinking}</Shimmer>
           ) : null}
 
           {!hasCredits ? (
             <div className="rounded-xl border border-[#d9b36a]/40 bg-[#d9b36a]/10 p-4 text-sm">
-              <p className="font-semibold text-foreground">Has alcanzado el límite de consultas</p>
+              <p className="font-semibold text-foreground">{t.consulta.limitTitle}</p>
               <p className="mt-1 text-muted-foreground">
-                Suscríbete a Patmos para continuar con tu Análisis Exegético sin límites.
+                {t.consulta.limitBody}
               </p>
               <a
                 href={CHECKOUT_URL(userId)}
@@ -681,7 +676,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                 rel="noopener noreferrer"
                 className="lemonsqueezy-button mt-3 inline-flex h-9 items-center rounded-full bg-[#000f37] px-4 text-sm font-medium text-white hover:opacity-90 dark:bg-[#d9b36a] dark:text-[#141321]"
               >
-                Ampliar consultas
+                {t.consulta.upgrade}
               </a>
             </div>
           ) : null}
@@ -695,7 +690,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
         <PromptInput onSubmit={({ text }) => void send(text)}>
           <PromptInputTextarea
             ref={textareaRef}
-            placeholder="Escribe una duda de estudio o pasaje..."
+            placeholder={t.consulta.inputPlaceholder}
             disabled={!hasCredits}
           />
           <PromptInputFooter className="justify-end">
@@ -712,11 +707,9 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
       >
         <DialogContent className="rounded-2xl sm:max-w-sm">
           <DialogHeader>
-            <DialogTitle>¿Abrir enlace externo?</DialogTitle>
+            <DialogTitle>{t.consulta.externalTitle}</DialogTitle>
             <DialogDescription>
-              {pendingExternal
-                ? `Este enlace lleva a un sitio fuera de RVNotas (${new URL(pendingExternal).hostname}) y se abrirá en una pestaña nueva.`
-                : "Este enlace lleva a un sitio fuera de RVNotas y se abrirá en una pestaña nueva."}
+              {t.consulta.externalBody(pendingExternal ? new URL(pendingExternal).hostname : undefined)}
             </DialogDescription>
           </DialogHeader>
           <DialogFooter className="gap-2">
@@ -725,7 +718,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
               onClick={() => setPendingExternal(null)}
               className="rounded-full px-4 py-2 text-sm text-muted-foreground hover:bg-accent hover:text-foreground"
             >
-              Cancelar
+              {t.consulta.cancel}
             </button>
             <button
               type="button"
@@ -735,7 +728,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
               }}
               className="rounded-full bg-[#000f37] px-4 py-2 text-sm font-medium text-white hover:opacity-90 dark:bg-[#d9b36a] dark:text-[#141321]"
             >
-              Abrir enlace
+              {t.consulta.openLink}
             </button>
           </DialogFooter>
         </DialogContent>
