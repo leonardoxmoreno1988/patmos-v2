@@ -25,6 +25,9 @@ export const Route = createFileRoute("/")({
  component: Home,
 });
 
+/** Free e-book banner on the home page; temporarily hidden. */
+const SHOW_EBOOK_BANNER = false;
+
 /** Chapters with at least one study note, per book, from the global notes sheet. */
 function notesAvailability(notes: NotesMap | undefined, book: BookInfo) {
  const total = CHAPTER_COUNTS[book.bookid] ?? 0;
@@ -104,36 +107,38 @@ function Home() {
           </div>
         </section>
   
-        {/* Sección del E-book gratuito reactivada */}
-        <section className="border-y border-border py-8 sm:py-10" aria-label="Recurso gratuito">
-          <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
-            <div className="flex items-start gap-4 sm:items-center">
-              <img
-                src={EBOOK_COVER}
-                alt={EBOOK_TITLE}
-                className="h-20 w-14 shrink-0 rounded-none object-cover shadow-md"
-                loading="lazy"
-              />
+        {/* Banner del E-book gratuito — oculto temporalmente; poner SHOW_EBOOK_BANNER en true para reactivarlo */}
+        {SHOW_EBOOK_BANNER && (
+          <section className="border-y border-border py-8 sm:py-10" aria-label="Recurso gratuito">
+            <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
+              <div className="flex items-start gap-4 sm:items-center">
+                <img
+                  src={EBOOK_COVER}
+                  alt={EBOOK_TITLE}
+                  className="h-20 w-14 shrink-0 rounded-none object-cover shadow-md"
+                  loading="lazy"
+                />
               
-              <div className="min-w-0 text-left">
-                <span className="text-[11px] font-semibold uppercase text-primary">
-                  Recurso gratuito · E-book
-                </span>
-                <p className="mt-2 text-sm leading-relaxed text-foreground sm:text-[15px]">
-                  Obtén el E-book <span className="font-semibold">"{EBOOK_TITLE}"</span> al crear tu cuenta
-                </p>
+                <div className="min-w-0 text-left">
+                  <span className="text-[11px] font-semibold uppercase text-primary">
+                    Recurso gratuito · E-book
+                  </span>
+                  <p className="mt-2 text-sm leading-relaxed text-foreground sm:text-[15px]">
+                    Obtén el E-book <span className="font-semibold">"{EBOOK_TITLE}"</span> al crear tu cuenta
+                  </p>
+                </div>
               </div>
-            </div>
   
-            <Button
-              type="button"
-              onClick={() => (user ? void navigate({ to: "/welcome" }) : setSignupOpen(true))}
-              className="h-10 w-full shrink-0 rounded-full px-5 sm:w-auto dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
-            >
-              Descargar libro <ArrowRight />
-            </Button>
-          </div>
-        </section>
+              <Button
+                type="button"
+                onClick={() => (user ? void navigate({ to: "/welcome" }) : setSignupOpen(true))}
+                className="h-10 w-full shrink-0 rounded-full px-5 sm:w-auto dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
+              >
+                Descargar libro <ArrowRight />
+              </Button>
+            </div>
+          </section>
+        )}
 
 
      <section className="py-12 pb-24">
