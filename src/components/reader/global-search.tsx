@@ -14,6 +14,7 @@ import {
 import { Dialog, DialogContent } from "@/components/ui/dialog";
 import { BOOKS, CHAPTER_COUNTS, slugifyBook } from "@/lib/bible";
 import { studyNotesQuery } from "@/lib/notes";
+import { useI18n } from "@/i18n";
 import {
 	allBooksQuery,
 	matchIndex,
@@ -57,6 +58,7 @@ function parseReference(query: string) {
 }
 
 export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChange: (v: boolean) => void }) {
+	const { t } = useI18n();
 	const [query, setQuery] = useState("");
 	const [filter, setFilter] = useState<Filter>("all");
 	const navigate = useNavigate();
@@ -147,7 +149,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 					<CommandInput
 						value={query}
 						onValueChange={setQuery}
-						placeholder="Buscar..."
+						placeholder={t.search.placeholder}
 						className="text-base shrink-0"
 					/>
 					<div className="flex shrink-0 items-center gap-2 px-3 py-2">
@@ -168,7 +170,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 						))}
 					</div>
 					<CommandList className="flex-1 min-h-0 max-h-none h-full overflow-y-auto">
-						{empty ? <CommandEmpty>No se encontraron resultados.</CommandEmpty> : null}
+						{empty ? <CommandEmpty>{t.search.empty}</CommandEmpty> : null}
 
 						{direct ? (
 							<CommandGroup heading="Navegación directa">
@@ -253,21 +255,22 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 }
 
 export function SearchTrigger({ onClick }: { onClick: () => void }) {
+	const { t } = useI18n();
 	return (
 		<>
 			<button
 				type="button"
 				onClick={onClick}
-				aria-label="Buscar"
+				aria-label={t.search.label}
 				className="hidden sm:flex h-9 items-center gap-2 rounded-full border border-foreground/15 px-4 text-sm text-muted-foreground transition-colors hover:border-foreground/30 min-w-[180px]"
 			>
 				<Search className="h-4 w-4 shrink-0" />
-				<span>Buscar...</span>
+				<span>{t.search.placeholder}</span>
 			</button>
 			<button
 				type="button"
 				onClick={onClick}
-				aria-label="Buscar"
+				aria-label={t.search.label}
 				className="grid sm:hidden h-10 w-10 shrink-0 place-items-center rounded-lg bg-transparent p-2 text-[#000f37] transition-colors hover:bg-accent/50 hover:text-foreground dark:text-white dark:hover:text-white/80"
 			>
 				<Search className="h-[18px] w-[18px]" />

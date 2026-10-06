@@ -12,6 +12,7 @@ import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
 import { BOOK_GROUPS, CHAPTER_COUNTS, bookFromSlug, slugifyBook, type BookInfo } from "@/lib/bible";
 import { SiteHeader } from "@/components/reader/site-header";
 import { seoHead } from "@/lib/seo";
+import { useI18n } from "@/i18n";
 
 export const Route = createFileRoute("/")({
  staticData: { sitemap: true },
@@ -41,6 +42,7 @@ function notesAvailability(notes: NotesMap | undefined, book: BookInfo) {
 
 function Home() {
  const { user } = useAuth();
+ const { t } = useI18n();
  const navigate = useNavigate();
   const search = useSearch({ from: "/" }) as { consulta?: string };
  const [signupOpen, setSignupOpen] = useState(false);
@@ -98,11 +100,11 @@ function Home() {
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <Button asChild size="lg" className="h-11 rounded-full px-6 dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100">
               <Link to="/leer/$libro/$cap" params={{ libro: last.libro, cap: last.cap }}>
-                <BookOpen /> Continuar Lectura ({lastBook} {last.cap})
+                <BookOpen /> {t.home.continueReading} ({lastBook} {last.cap})
               </Link>
             </Button>
             <Button variant="outline" size="lg" className="h-11 rounded-full px-6" onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
-              <MessageSquare /> Consultar Patmos
+              <MessageSquare /> {t.home.askPatmos}
             </Button>
           </div>
         </section>
