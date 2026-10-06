@@ -13,6 +13,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useAuth } from "./auth-provider";
+import { useI18n } from "@/i18n";
 
 interface AccountModalProps {
   open: boolean;
@@ -21,6 +22,7 @@ interface AccountModalProps {
 
 export function AccountModal({ open, onOpenChange }: AccountModalProps) {
   const { user, displayName, updateProfile, changePassword, deleteAccount } = useAuth();
+  const { t } = useI18n();
 
   const [name, setName] = useState(displayName);
   const [profileBusy, setProfileBusy] = useState(false);
@@ -60,9 +62,9 @@ export function AccountModal({ open, onOpenChange }: AccountModalProps) {
     setProfileBusy(true);
     try {
       await updateProfile(name.trim());
-      setProfileMsg("Nombre actualizado.");
+      setProfileMsg(t.account.nameUpdated);
     } catch (err) {
-      setProfileErr(err instanceof Error ? err.message : "No se pudo guardar.");
+      setProfileErr(err instanceof Error ? err.message : t.account.saveError);
     } finally {
       setProfileBusy(false);
     }
@@ -73,7 +75,7 @@ export function AccountModal({ open, onOpenChange }: AccountModalProps) {
     setPassErr(null);
     setPassMsg(null);
     if (password !== confirm) {
-      setPassErr("Las contraseñas no coinciden.");
+      setPassErr(t.account.passwordsMismatch);
       return;
     }
     setPassBusy(true);
@@ -81,9 +83,9 @@ export function AccountModal({ open, onOpenChange }: AccountModalProps) {
       await changePassword(password);
       setPassword("");
       setConfirm("");
-      setPassMsg("Contraseña actualizada.");
+      setPassMsg(t.account.passwordUpdated);
     } catch (err) {
-      setPassErr(err instanceof Error ? err.message : "No se pudo cambiar la contraseña.");
+      setPassErr(err instanceof Error ? err.message : t.account.passwordError);
     } finally {
       setPassBusy(false);
     }
@@ -97,9 +99,7 @@ export function AccountModal({ open, onOpenChange }: AccountModalProps) {
       onOpenChange(false);
     } catch (err) {
       setDeleteErr(
-        err instanceof Error
-          ? err.message
-          : "No se pudo eliminar la cuenta. Escríbenos y lo hacemos por ti.",
+        err instanceof Error ? err.message : t.account.deleteError,
       );
     } finally {
       setDeleteBusy(false);
@@ -110,26 +110,26 @@ export function AccountModal({ open, onOpenChange }: AccountModalProps) {
     <Dialog open={open} onOpenChange={onOpenChange}>
       <DialogContent className="sm:max-w-[460px]">
         <DialogHeader>
-          <DialogTitle>Mi Cuenta</DialogTitle>
+          <DialogTitle>{t.account.title}</DialogTitle>
           <DialogDescription>{user?.email}</DialogDescription>
         </DialogHeader>
 
         <Tabs defaultValue="perfil">
           <TabsList className="grid w-full grid-cols-3">
-            <TabsTrigger value="perfil">Perfil</TabsTrigger>
-            <TabsTrigger value="seguridad">Seguridad</TabsTrigger>
-            <TabsTrigger value="peligro">Peligro</TabsTrigger>
+            <TabsTrigger value="perfil">{t.account.profileTab}</TabsTrigger>
+            <TabsTrigger value="seguridad">{t.account.securityTab}</TabsTrigger>
+            <TabsTrigger value="peligro">{t.account.dangerTab}</TabsTrigger>
           </TabsList>
 
           <TabsContent value="perfil" className="mt-4">
             <form onSubmit={handleProfile} className="space-y-4">
               <div className="space-y-2">
-                <Label htmlFor="acc-name">Nombre visible</Label>
+                <Label htmlFor="acc-name">{t.account.displayName}</Label>
                 <Input
                   id="acc-name"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
-                  placeholder="Tu nombre"
+                  placeholder={t.account.namePlaceholder}
                 />
               </div>
               {profileErr ? <p className="text-sm text-destructive">{profileErr}</p> : null}
@@ -142,7 +142,7 @@ export function AccountModal({ open, onOpenChange }: AccountModalProps) {
   className="dark:bg-white dark:text-zinc-950 dark:hover:bg-zinc-200"
 >
   {profileBusy ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
-  Guardar
+  {t.account.save}
 </Button>
             </form>
           </TabsContent>
@@ -150,7 +150,7 @@ export function AccountModal({ open, onOpenChange }: AccountModalProps) {
           <TabsContent value="seguridad" className="mt-4">
             <form onSubmit={handlePassword} className="space-y-4">
               <div className="space-y-2">
-                <Label htmlFor="acc-pass">Nueva contraseña</Label>
+                <Label htmlFor="acc-pass">{t.account.newPassword}</Label>
                 <Input
                   id="acc-pass"
                   type="password"
@@ -162,7 +162,7 @@ export function AccountModal({ open, onOpenChange }: AccountModalProps) {
                 />
               </div>
               <div className="space-y-2">
-                <Label htmlFor="acc-pass2">Repetir contraseña</Label>
+                <Label htmlFor="acc-pass2">{t.account.repeatPassword}</Label>
                 <Input
                   id="acc-pass2"
                   type="password"
@@ -181,43 +181,44 @@ export function AccountModal({ open, onOpenChange }: AccountModalProps) {
   className="dark:bg-white dark:text-zinc-950 dark:hover:bg-zinc-200"
 >
   {passBusy ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
-  Cambiar contraseña
+  {t.account.changePassword}
 </Button>
             </form>
           </TabsContent>
 
           <TabsContent value="peligro" className="mt-4 space-y-4">
             <p className="text-sm text-muted-foreground">
-              Eliminar tu cuenta borra tu acceso de forma permanente. Esta acción no se
-              puede deshacer.
+              {t.account.deleteWarning}
             </p>
 
             {confirmStep === 0 ? (
               <Button variant="destructive" onClick={() => setConfirmStep(1)}>
-                Eliminar mi cuenta
+                {t.account.deleteAccount}
               </Button>
             ) : (
               <div className="space-y-3 rounded-lg border border-destructive/40 p-3">
                 <Label htmlFor="acc-confirm">
-                  Escribe <span className="font-semibold">ELIMINAR</span> para confirmar
+                  {t.account.typeToConfirmBefore}{" "}
+                  <span className="font-semibold">{t.account.confirmWord}</span>{" "}
+                  {t.account.typeToConfirmAfter}
                 </Label>
                 <Input
                   id="acc-confirm"
                   value={confirmText}
                   onChange={(e) => setConfirmText(e.target.value)}
-                  placeholder="ELIMINAR"
+                  placeholder={t.account.confirmWord}
                 />
                 <div className="flex gap-2">
                   <Button
                     variant="destructive"
-                    disabled={confirmText.trim().toUpperCase() !== "ELIMINAR" || deleteBusy}
+                    disabled={confirmText.trim().toUpperCase() !== t.account.confirmWord || deleteBusy}
                     onClick={handleDelete}
                   >
                     {deleteBusy ? <Loader2 className="h-4 w-4 animate-spin" /> : null}
-                    Confirmar eliminación
+                    {t.account.confirmDelete}
                   </Button>
                   <Button variant="ghost" onClick={() => setConfirmStep(0)}>
-                    Cancelar
+                    {t.account.cancel}
                   </Button>
                 </div>
               </div>

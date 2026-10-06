@@ -1,5 +1,6 @@
 import { RESOURCES } from "@/lib/ebook";
 import { Button } from "@/components/ui/button";
+import { useI18n } from "@/i18n";
 
 import {
   Sheet,
@@ -16,13 +17,14 @@ interface ResourcesSheetProps {
 
 /** Ventana de descargas: E-books y material de estudio gratuito. */
 export function ResourcesSheet({ open, onOpenChange }: ResourcesSheetProps) {
+  const { t } = useI18n();
   return (
     <Sheet open={open} onOpenChange={onOpenChange}>
       <SheetContent side="right" className="flex w-full flex-col gap-0 sm:max-w-md">
         <SheetHeader className="mb-5">
-          <SheetTitle>Recursos</SheetTitle>
+          <SheetTitle>{t.resources.title}</SheetTitle>
           <SheetDescription className="text-xs text-muted-foreground">
-            E-books y material de estudio para descargar.
+            {t.resources.subtitle}
           </SheetDescription>
         </SheetHeader>
         <ul className="flex min-h-0 flex-1 flex-col gap-3 overflow-y-auto">
@@ -33,13 +35,13 @@ export function ResourcesSheet({ open, onOpenChange }: ResourcesSheetProps) {
             >
               <img
                 src={resource.cover}
-                alt={`Portada de "${resource.title}"`}
+                alt={t.resources.coverAlt(resource.title)}
                 className="h-28 w-20 shrink-0 object-cover"
                 loading="lazy"
               />
               <div className="min-w-0">
                 <span className="text-[11px] font-semibold uppercase text-primary">
-                  Recurso gratuito
+                  {t.resources.freeResource}
                 </span>
                 <p className="mt-1 text-sm font-semibold leading-snug text-foreground">
                   {resource.title}
@@ -51,7 +53,7 @@ export function ResourcesSheet({ open, onOpenChange }: ResourcesSheetProps) {
                   data-umami-event="Ebook Download"
                 >
                   <a href={resource.url} target="_blank" rel="noopener noreferrer">
-                    Descargar libro
+                    {t.resources.downloadBook}
                   </a>
                 </Button>
               </div>

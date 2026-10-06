@@ -5,7 +5,8 @@ import { toast } from "sonner";
 
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { slugifyBook } from "@/lib/bible";
+import { localizeBookName, slugifyBook } from "@/lib/bible";
+import { useI18n } from "@/i18n";
 import { useAuth } from "@/components/auth/auth-provider";
 import {
   HIGHLIGHT_SWATCH,
@@ -72,6 +73,7 @@ function groupContiguous<T extends { id: string; book: string; chapter: number; 
 
 export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
   const { user } = useAuth();
+  const { t, lang } = useI18n();
   const navigate = useNavigate();
   const queryClient = useQueryClient();
   const { data, isLoading } = useQuery(libraryQuery(user?.id ?? null));
@@ -82,7 +84,7 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
     onSuccess: () => {
       void queryClient.invalidateQueries({ queryKey: ["user-library"] });
       void queryClient.invalidateQueries({ queryKey: ["user-marks"] });
-      toast.success("Eliminado");
+      toast.success(t.library.removed);
     },
     onError: (error: Error) => toast.error(error.message),
   });
@@ -102,7 +104,7 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
     emptyText: string,
   ) {
     if (isLoading) {
-      return <p className="px-1 py-8 text-sm text-muted-foreground">Cargando…</p>;
+      return <p className="px-1 py-8 text-sm text-muted-foreground">{t.library.loading}</p>;
     }
     if (items.length === 0) {
       return <p className="px-1 py-8 text-sm text-muted-foreground">{emptyText}</p>;
@@ -124,7 +126,7 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
                 ) : null}
                 <span className="min-w-0">
                   <span className="block text-sm font-semibold text-foreground">
-                    {item.book} {item.chapter}:{item.verse}
+                    {localizeBookName(item.book, lang)} {item.chapter}:{item.verse}
                     {item.endVerse && item.endVerse !== item.verse ? `–${item.endVerse}` : ""}
                   </span>
                   {item.preview ? (
@@ -136,7 +138,7 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
               </button>
               <button
                 type="button"
-                aria-label="Eliminar"
+                aria-label={t.library.remove}
                 onClick={() => remove.mutate({ table, ids: item.ids ?? [item.id] })}
                 className="shrink-0 cursor-pointer rounded-md p-2 text-muted-foreground transition-colors hover:bg-foreground/10 hover:text-foreground"
               >
@@ -153,23 +155,23 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
     <Sheet open={open} onOpenChange={onOpenChange}>
       <SheetContent side="right" className="flex w-full flex-col gap-0 sm:max-w-md">
         <SheetHeader className="mb-5">
-          <SheetTitle>Mi Biblioteca</SheetTitle>
+          <SheetTitle>{t.library.title}</SheetTitle>
         </SheetHeader>
          <Tabs defaultValue="bookmarks" className="flex min-h-0 flex-1 flex-col px-4 pb-4">
           <TabsList className="grid w-full grid-cols-3">
-            <TabsTrigger value="bookmarks">Marcadores</TabsTrigger>
-            <TabsTrigger value="highlights">Resaltados</TabsTrigger>
-            <TabsTrigger value="notes">Notas</TabsTrigger>
+            <TabsTrigger value="bookmarks">{t.library.bookmarks}</TabsTrigger>
+            <TabsTrigger value="highlights">{t.library.highlights}</TabsTrigger>
+            <TabsTrigger value="notes">{t.library.notes}</TabsTrigger>
           </TabsList>
           <div className="mt-4 min-h-0 flex-1 overflow-y-auto">
             <TabsContent value="bookmarks">
-              {renderList(groupContiguous(data?.bookmarks ?? []), "user_bookmarks", "Aún no tienes marcadores guardados.")}
+              {renderList(groupContiguous(data?.bookmarks ?? []), "user_bookmarks", t.library.emptyBookmarks)}
             </TabsContent>
             <TabsContent value="highlights">
               {renderList(
                 groupContiguous(data?.highlights ?? []),
                 "user_highlights",
-                "Aún no tienes resaltados guardados.",
+                t.library.emptyHighlights,
               )}
             </TabsContent>
             <TabsContent value="notes">
@@ -180,7 +182,7 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
                   endVerse: n.end_verse ?? n.verses?.[n.verses.length - 1] ?? n.verse,
                 })),
                 "user_notes",
-                "Aún no tienes notas guardadas.",
+                t.library.emptyNotes,
               )}
             </TabsContent>
           </div>
