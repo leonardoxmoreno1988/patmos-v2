@@ -1,3 +1,4 @@
+import type { Lang } from "@/i18n";
 import { BOOKS, fetchBook, type Chapter } from "./bible";
 import type { NotesMap } from "./notes";
 
@@ -116,7 +117,7 @@ export interface LoadedBook {
 }
 
 /** Fetches every book (bounded concurrency) so the search page can scan the whole Bible. */
-export async function fetchAllBooks(): Promise<LoadedBook[]> {
+export async function fetchAllBooks(lang: Lang = "es"): Promise<LoadedBook[]> {
 	const out: LoadedBook[] = [];
 	const queue = [...BOOKS];
 	const workers = Array.from({ length: 8 }, async () => {
@@ -124,7 +125,7 @@ export async function fetchAllBooks(): Promise<LoadedBook[]> {
 			const book = queue.shift();
 			if (!book) return;
 			try {
-				out.push({ bookid: book.bookid, name: book.name, chapters: await fetchBook(book.bookid) });
+				out.push({ bookid: book.bookid, name: book.name, chapters: await fetchBook(book.bookid, lang) });
 			} catch {
 				/* skip unavailable book */
 			}
@@ -134,9 +135,9 @@ export async function fetchAllBooks(): Promise<LoadedBook[]> {
 	return out.sort((a, b) => a.bookid - b.bookid);
 }
 
-export const allBooksQuery = {
-	queryKey: ["bible", "all-books"],
-	queryFn: fetchAllBooks,
+export const allBooksQuery = (lang: Lang = "es") => ({
+	queryKey: ["bible", "all-books", lang],
+	queryFn: () => fetchAllBooks(lang),
 	staleTime: Infinity,
 	gcTime: Infinity,
-};
+});

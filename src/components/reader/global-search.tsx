@@ -58,13 +58,13 @@ function parseReference(query: string) {
 }
 
 export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChange: (v: boolean) => void }) {
-	const { t } = useI18n();
+	const { t, lang } = useI18n();
 	const [query, setQuery] = useState("");
 	const [filter, setFilter] = useState<Filter>("all");
 	const navigate = useNavigate();
-	const notes = useQuery({ ...studyNotesQuery, enabled: open });
+	const notes = useQuery({ ...studyNotesQuery(lang), enabled: open });
 	// Full Bible scan so the footer count matches the /buscar page exactly.
-	const allBooks = useQuery({ ...allBooksQuery, enabled: open });
+	const allBooks = useQuery({ ...allBooksQuery(lang), enabled: open });
 
 	useEffect(() => {
 		if (!open) {

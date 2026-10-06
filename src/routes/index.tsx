@@ -42,14 +42,14 @@ function notesAvailability(notes: NotesMap | undefined, book: BookInfo) {
 
 function Home() {
  const { user } = useAuth();
- const { t } = useI18n();
+ const { t, lang } = useI18n();
  const navigate = useNavigate();
   const search = useSearch({ from: "/" }) as { consulta?: string };
  const [signupOpen, setSignupOpen] = useState(false);
   const [consultaOpen, setConsultaOpen] = useState(false);
   const [consultaView, setConsultaView] = useState<"chat" | "history">("chat");
   const [consultaKey, setConsultaKey] = useState(0);
-  const { data: studyNotes, isLoading: notesLoading } = useQuery(studyNotesQuery);
+  const { data: studyNotes, isLoading: notesLoading } = useQuery(studyNotesQuery(lang));
 
  const [last, setLast] = useState<{ libro: string; cap: string }>({
   libro: "genesis",

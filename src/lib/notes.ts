@@ -1,5 +1,10 @@
+import type { Lang } from "@/i18n";
+import { bookFromSlug } from "./bible";
+
 const CSV_URL =
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vQHY2r7RUsyLXl9ZjOxAkHpfDXNyuhHE0cutaWf2SlWssYDa3zKYZpuVrNRRd8gD6Rsz82Uv1SMb6SY/pub?output=csv";
+/** English notes served from public/notes/; same "Book-chapter,note" layout as the Spanish sheet. */
+const CSV_URL_EN = "/notes/notes_en.csv";
 
 /** Minimal RFC-4180 CSV parser (handles quoted fields, escaped quotes, newlines). */
 export function parseCsv(input: string): string[][] {
@@ -48,16 +53,43 @@ export function sanitizeNote(html: string) {
 
 export type NotesMap = Record<string, string>;
 
-export async function fetchStudyNotes(): Promise<NotesMap> {
-  const res = await fetch(CSV_URL);
-  if (!res.ok) throw new Error("No se pudieron cargar las notas de estudio");
-  const rows = parseCsv(await res.text());
+function notesFromCsv(csv: string, canonicalKeys: boolean): NotesMap {
   const map: NotesMap = {};
-  for (const [key, note] of rows.slice(1)) {
+  for (const [key, note] of parseCsv(csv).slice(1)) {
     if (!key || !note) continue;
-    map[key.trim()] = sanitizeNote(note);
+    map[canonicalKeys ? canonicalNoteKey(key.trim()) : key.trim()] = sanitizeNote(note);
   }
   return map;
+}
+
+/** "Exodus-3" or "Éxodo-3" -> "Éxodo-3", so English rows share the Spanish (canonical) keys. */
+function canonicalNoteKey(key: string) {
+  const dash = key.lastIndexOf("-");
+  const book = dash > 0 ? bookFromSlug(key.slice(0, dash)) : undefined;
+  return book ? `${book.name}${key.slice(dash)}` : key;
+}
+
+/** Returns null when the English file is missing or empty so callers fall back to Spanish. */
+async function fetchEnglishNotes(): Promise<NotesMap | null> {
+  try {
+    const res = await fetch(CSV_URL_EN);
+    // A missing static file can come back as the app's HTML 404 page instead of an error status.
+    if (!res.ok || res.headers.get("content-type")?.includes("text/html")) return null;
+    const map = notesFromCsv(await res.text(), true);
+    return Object.keys(map).length ? map : null;
+  } catch {
+    return null;
+  }
+}
+
+export async function fetchStudyNotes(lang: Lang = "es"): Promise<NotesMap> {
+  if (lang === "en") {
+    const english = await fetchEnglishNotes();
+    if (english) return english;
+  }
+  const res = await fetch(CSV_URL);
+  if (!res.ok) throw new Error("No se pudieron cargar las notas de estudio");
+  return notesFromCsv(await res.text(), false);
 }
 
 /** Legacy spreadsheet keys that should resolve to the current canonical book name. */
@@ -74,8 +106,8 @@ export const getNote = (map: NotesMap | undefined, bookName: string, chapter: nu
   return map[`${canonical}-${chapter}`] ?? (legacy ? map[`${legacy}-${chapter}`] : undefined);
 };
 
-export const studyNotesQuery = {
-  queryKey: ["study-notes"],
-  queryFn: fetchStudyNotes,
+export const studyNotesQuery = (lang: Lang = "es") => ({
+  queryKey: ["study-notes", lang],
+  queryFn: () => fetchStudyNotes(lang),
   staleTime: 1000 * 60 * 30,
-};
+});

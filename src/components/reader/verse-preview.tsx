@@ -3,6 +3,7 @@ import { useQuery } from "@tanstack/react-query";
 
 import { BOOKS, bookQuery } from "@/lib/bible";
 import type { ScriptureRef } from "@/lib/scripture-refs";
+import { useI18n } from "@/i18n";
 
 export interface PreviewTarget extends ScriptureRef {
   originId?: string;
@@ -11,7 +12,8 @@ export interface PreviewTarget extends ScriptureRef {
 
 export function useVerseText(ref: ScriptureRef | null) {
   const bookid = ref ? (BOOKS.find((b) => b.name === ref.book)?.bookid ?? 0) : 0;
-  const query = useQuery({ ...bookQuery(bookid), enabled: bookid > 0 });
+  const { lang } = useI18n();
+  const query = useQuery({ ...bookQuery(bookid, lang), enabled: bookid > 0 });
   const chapter = query.data?.find((c) => c.chapter === ref?.chapter);
   const verse = chapter?.verses.find((v) => v.verse === ref?.verse);
   return {

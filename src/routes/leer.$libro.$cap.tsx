@@ -16,6 +16,7 @@ import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { getNote, studyNotesQuery } from "@/lib/notes";
+import { useI18n } from "@/i18n";
 import { excerpt, plainText, seoHead } from "@/lib/seo";
 import { recordReadChapter } from "@/lib/reading-progress";
 
@@ -31,7 +32,7 @@ function truncateWords(text: string, maxWords: number) {
 
 export const Route = createFileRoute("/leer/$libro/$cap")({
  staticData: { sitemap: true },
- loader: ({ context }) => context.queryClient.ensureQueryData(studyNotesQuery),
+ loader: ({ context }) => context.queryClient.ensureQueryData(studyNotesQuery()),
  head: ({ params, loaderData }) => {
   const book = bookFromSlug(params.libro)?.name ?? "Génesis";
   const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
@@ -133,15 +134,17 @@ function Reader() {
  const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
  const bookId = book.bookid;
  const chapter = cap;
-  const bookData = useQuery({ ...bookQuery(bookId), placeholderData: keepPreviousData });
+  const { lang } = useI18n();
+  const bookData = useQuery({ ...bookQuery(bookId, lang), placeholderData: keepPreviousData });
   // The loader already resolved the study notes on the server; seeding the
   // client cache with that result keeps the first browser paint identical to
   // the server HTML (otherwise the notes section hydrates empty and React
-  // throws a hydration mismatch that blanks the page).
+  // throws a hydration mismatch that blanks the page). The loader always loads
+  // Spanish notes, and the first render is always "es", so only that query is seeded.
   const loaderNotes = Route.useLoaderData();
   const studyNotes = useQuery({
-    ...studyNotesQuery,
-    ...(loaderNotes ? { initialData: loaderNotes } : {}),
+    ...studyNotesQuery(lang),
+    ...(lang === "es" && loaderNotes ? { initialData: loaderNotes } : {}),
   });
  const chapters = bookData.data ?? [];
  const chapterCount = chapters.length || 1;

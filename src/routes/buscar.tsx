@@ -6,6 +6,7 @@ import { BookOpen, NotebookPen, Search } from "lucide-react";
 import { SiteHeader } from "@/components/reader/site-header";
 import { slugifyBook } from "@/lib/bible";
 import { studyNotesQuery } from "@/lib/notes";
+import { useI18n } from "@/i18n";
 import { allBooksQuery, matchIndex, searchNotes, searchVerses, type Hit } from "@/lib/search";
 import { cn } from "@/lib/utils";
 import { seoHead } from "@/lib/seo";
@@ -59,8 +60,9 @@ function SearchPage() {
 	const navigate = useNavigate({ from: "/buscar" });
 	const [input, setInput] = useState(q);
 
-	const notes = useQuery(studyNotesQuery);
-	const books = useQuery({ ...allBooksQuery, enabled: q.trim().length >= 3 });
+	const { lang } = useI18n();
+	const notes = useQuery(studyNotesQuery(lang));
+	const books = useQuery({ ...allBooksQuery(lang), enabled: q.trim().length >= 3 });
 
 	const query = q.trim();
 
