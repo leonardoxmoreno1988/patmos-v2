@@ -1,6 +1,16 @@
-import { useState } from "react";
+import { useState, type ReactNode } from "react";
 import { useNavigate } from "@tanstack/react-router";
-import { BookOpen, CreditCard, Download, History, Library, LogOut, Settings } from "lucide-react";
+import {
+  BookOpen,
+  CreditCard,
+  Download,
+  History,
+  Library,
+  LogIn,
+  LogOut,
+  Settings,
+  UserRound,
+} from "lucide-react";
 import { toast } from "sonner";
 import { supabase } from "@/lib/supabase";
 
@@ -17,12 +27,47 @@ import { AuthModal } from "./auth-modal";
 import { AccountModal } from "./account-modal";
 import { LibrarySheet } from "@/components/library/library-sheet";
 import { ResourcesSheet } from "@/components/library/resources-sheet";
-import { useI18n } from "@/i18n";
+import { LANGS, useI18n } from "@/i18n";
+import { useTheme } from "@/hooks/use-theme";
+import { cn } from "@/lib/utils";
+
+/** One pill of a segmented control inside the menu; selecting it keeps the menu open. */
+function MenuChoice({
+  active,
+  onSelect,
+  children,
+  lang,
+}: {
+  active: boolean;
+  onSelect: () => void;
+  children: ReactNode;
+  lang?: string;
+}) {
+  return (
+    <DropdownMenuItem
+      role="menuitemradio"
+      aria-checked={active}
+      lang={lang}
+      onSelect={(e) => {
+        e.preventDefault();
+        onSelect();
+      }}
+      className={cn(
+        "flex-1 justify-center rounded-full px-3 py-1 text-xs font-medium",
+        active ? "bg-background text-foreground shadow-sm" : "text-muted-foreground",
+      )}
+    >
+      {children}
+    </DropdownMenuItem>
+  );
+}
 
 export function AuthNav() {
   const { user, displayName, loading, signOut, isPremium } = useAuth();
   const navigate = useNavigate();
-  const { t } = useI18n();
+  const { t, lang, setLang } = useI18n();
+  // Called here (always rendered in the header) so the saved theme is applied on every page load.
+  const { theme, setTheme } = useTheme();
   const [authOpen, setAuthOpen] = useState(false);
   const [accountOpen, setAccountOpen] = useState(false);
   const [libraryOpen, setLibraryOpen] = useState(false);
@@ -50,20 +95,57 @@ export function AuthNav() {
   };
 
   if (loading) {
-    return <div className="h-8 w-20 animate-pulse rounded-full bg-foreground/5" />;
+    return <div className="h-9 w-9 animate-pulse rounded-full bg-foreground/5" />;
   }
+
+  const preferences = (
+    <div className="space-y-2 px-2.5 py-2">
+      <div>
+        <p className="mb-1.5 text-xs text-muted-foreground">{t.menu.language}</p>
+        <div role="group" aria-label={t.menu.language} className="flex gap-0.5 rounded-full bg-foreground/[0.05] p-0.5">
+          {LANGS.map((code) => (
+            <MenuChoice key={code} lang={code} active={lang === code} onSelect={() => setLang(code)}>
+              {code.toUpperCase()}
+            </MenuChoice>
+          ))}
+        </div>
+      </div>
+      <div>
+        <p className="mb-1.5 text-xs text-muted-foreground">{t.menu.theme}</p>
+        <div role="group" aria-label={t.menu.theme} className="flex gap-0.5 rounded-full bg-foreground/[0.05] p-0.5">
+          <MenuChoice active={theme === "light"} onSelect={() => setTheme("light")}>
+            {t.menu.light}
+          </MenuChoice>
+          <MenuChoice active={theme === "dark"} onSelect={() => setTheme("dark")}>
+            {t.menu.dark}
+          </MenuChoice>
+        </div>
+      </div>
+    </div>
+  );
 
   if (!user) {
     return (
       <>
-        <Button
-          variant="outline"
-          size="sm"
-          className="h-9 rounded-full border border-foreground/15 px-3.5 text-sm font-medium shadow-none sm:px-5"
-          onClick={() => setAuthOpen(true)}
-        >
-          {t.auth.signIn}
-        </Button>
+        <DropdownMenu>
+          <DropdownMenuTrigger asChild>
+            <Button
+              type="button"
+              variant="ghost"
+              aria-label={t.menu.open}
+              className="h-9 w-9 rounded-full border border-foreground/15 p-0 text-foreground hover:bg-foreground/5"
+            >
+              <UserRound className="h-[18px] w-[18px]" />
+            </Button>
+          </DropdownMenuTrigger>
+          <DropdownMenuContent align="end" className="w-64 p-1.5">
+            {preferences}
+            <DropdownMenuSeparator />
+            <DropdownMenuItem className="font-medium" onSelect={() => setAuthOpen(true)}>
+              <LogIn /> {t.auth.signIn}
+            </DropdownMenuItem>
+          </DropdownMenuContent>
+        </DropdownMenu>
         <AuthModal open={authOpen} onOpenChange={setAuthOpen} />
       </>
     );
@@ -75,12 +157,13 @@ export function AuthNav() {
     <>
       <DropdownMenu>
         <DropdownMenuTrigger asChild>
-           <Button
+          <Button
             type="button"
-             variant="ghost"
-             className="flex h-auto items-center gap-2 rounded-full py-1 pl-1 pr-2.5 text-sm font-medium text-foreground hover:bg-foreground/5"
+            variant="ghost"
+            aria-label={t.menu.open}
+            className="flex h-auto items-center gap-2 rounded-full py-1 pl-1 pr-2.5 text-sm font-medium text-foreground hover:bg-foreground/5"
           >
-             <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-foreground text-xs font-semibold text-background">
+            <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-foreground text-xs font-semibold text-background">
               {initial}
             </span>
             <span className="hidden max-w-[10rem] truncate sm:inline">{displayName}</span>
@@ -89,49 +172,58 @@ export function AuthNav() {
                 PRO
               </span>
             ) : null}
-           </Button>
+          </Button>
         </DropdownMenuTrigger>
-         <DropdownMenuContent align="end" className="w-64 p-1.5">
-            <div className="px-2.5 pb-2 pt-1.5">
+        <DropdownMenuContent align="end" className="w-64 p-1.5">
+          <div className="flex items-start justify-between gap-2 px-2.5 pb-2 pt-1.5">
+            <div className="min-w-0">
+              <p className="truncate text-sm font-medium text-foreground">{displayName}</p>
               <p className="truncate text-xs text-muted-foreground">{user.email}</p>
             </div>
-           <DropdownMenuSeparator />
-           <DropdownMenuItem onSelect={() => {
-             let libro = "genesis";
-             let cap = "1";
-             try {
-               const saved = JSON.parse(localStorage.getItem("rv1865:last") ?? "null");
-               if (typeof saved?.libro === "string" && typeof saved?.cap === "string") {
-                 libro = saved.libro;
-                 cap = saved.cap;
-               }
-             } catch { /* use Génesis 1 */ }
-             void navigate({ to: "/leer/$libro/$cap", params: { libro, cap } });
-           }}>
-             <BookOpen /> {t.auth.bibleReader}
-           </DropdownMenuItem>
-           <DropdownMenuItem onSelect={() => {
-             void navigate({ to: "/", search: { consulta: "history" } });
-           }}>
-             <History /> {t.auth.consultHistory}
-           </DropdownMenuItem>
-            <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
-               <Library /> {t.auth.myLibrary}
-            </DropdownMenuItem>
-            <DropdownMenuItem onSelect={() => setResourcesOpen(true)}>
-               <Download /> {t.auth.resources}
-            </DropdownMenuItem>
-           <DropdownMenuSeparator />
-           <DropdownMenuItem onSelect={() => void openBilling()}>
-             <CreditCard /> {t.auth.proSubscription}
-           </DropdownMenuItem>
-          <DropdownMenuItem onSelect={() => setAccountOpen(true)}>
-             <Settings /> {t.auth.accountSettings}
+            {isPremium ? (
+              <span className="shrink-0 rounded-md border border-pro-badge-border bg-pro-badge px-2 py-0.5 text-[10px] font-bold tracking-wider text-pro-badge-foreground">
+                PRO
+              </span>
+            ) : null}
+          </div>
+          <DropdownMenuSeparator />
+          {preferences}
+          <DropdownMenuSeparator />
+          <DropdownMenuItem onSelect={() => {
+            let libro = "genesis";
+            let cap = "1";
+            try {
+              const saved = JSON.parse(localStorage.getItem("rv1865:last") ?? "null");
+              if (typeof saved?.libro === "string" && typeof saved?.cap === "string") {
+                libro = saved.libro;
+                cap = saved.cap;
+              }
+            } catch { /* use Génesis 1 */ }
+            void navigate({ to: "/leer/$libro/$cap", params: { libro, cap } });
+          }}>
+            <BookOpen /> {t.auth.bibleReader}
+          </DropdownMenuItem>
+          <DropdownMenuItem onSelect={() => {
+            void navigate({ to: "/", search: { consulta: "history" } });
+          }}>
+            <History /> {t.auth.consultHistory}
+          </DropdownMenuItem>
+          <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
+            <Library /> {t.auth.myLibrary}
+          </DropdownMenuItem>
+          <DropdownMenuItem onSelect={() => setResourcesOpen(true)}>
+            <Download /> {t.auth.resources}
           </DropdownMenuItem>
           <DropdownMenuSeparator />
-           <DropdownMenuItem className="text-destructive focus:text-destructive" onSelect={() => void signOut()}>
-             <LogOut />
-            {t.auth.signOut}
+          <DropdownMenuItem onSelect={() => void openBilling()}>
+            <CreditCard /> {t.auth.proSubscription}
+          </DropdownMenuItem>
+          <DropdownMenuItem onSelect={() => setAccountOpen(true)}>
+            <Settings /> {t.auth.accountSettings}
+          </DropdownMenuItem>
+          <DropdownMenuSeparator />
+          <DropdownMenuItem className="text-destructive focus:text-destructive" onSelect={() => void signOut()}>
+            <LogOut /> {t.auth.signOut}
           </DropdownMenuItem>
         </DropdownMenuContent>
       </DropdownMenu>

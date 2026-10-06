@@ -2,11 +2,9 @@ import { useEffect, useState } from "react";
 import { Link } from "@tanstack/react-router";
 import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
 
-import { ThemeToggle } from "./theme-toggle";
 import { GlobalSearch, SearchTrigger } from "./global-search";
 import { AuthNav } from "@/components/auth/auth-nav";
 import { useI18n } from "@/i18n";
-import { LanguageToggle } from "./language-toggle";
 
 interface SiteHeaderProps {
  rightLink?: { to: string; label: string };
@@ -47,8 +45,6 @@ export function SiteHeader({
        {rightLink.label}
       </Link>
      ) : null}
-     <LanguageToggle />
-     <ThemeToggle />
      <AuthNav />
     </div>
    </div>

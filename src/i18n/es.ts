@@ -2,12 +2,13 @@ export const es = {
   header: {
     homeLabel: "Patmos — inicio",
   },
-  language: {
-    toggleLabel: "Cambiar idioma",
-  },
-  theme: {
-    enableLight: "Activar modo claro",
-    enableDark: "Activar modo oscuro",
+  menu: {
+    open: "Abrir menú",
+    // Bilingual on purpose: lets someone who can't read the current language find the switch.
+    language: "Idioma / Language",
+    theme: "Tema",
+    light: "Claro",
+    dark: "Oscuro",
   },
   auth: {
     signIn: "Iniciar Sesión",

@@ -4,12 +4,12 @@ export const en: Dictionary = {
   header: {
     homeLabel: "Patmos — home",
   },
-  language: {
-    toggleLabel: "Change language",
-  },
-  theme: {
-    enableLight: "Switch to light mode",
-    enableDark: "Switch to dark mode",
+  menu: {
+    open: "Open menu",
+    language: "Language / Idioma",
+    theme: "Theme",
+    light: "Light",
+    dark: "Dark",
   },
   auth: {
     signIn: "Sign In",
