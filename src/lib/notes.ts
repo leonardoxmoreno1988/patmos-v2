@@ -53,9 +53,14 @@ export function sanitizeNote(html: string) {
 
 export type NotesMap = Record<string, string>;
 
+/** True for "Book-chapter" keys ("Génesis-1", "Exodus-3"), false for a header cell like "ID". */
+const isNoteKey = (key: string | undefined) => !!key && /^.+-\d+$/.test(key.trim());
+
 function notesFromCsv(csv: string, canonicalKeys: boolean): NotesMap {
   const map: NotesMap = {};
-  for (const [key, note] of parseCsv(csv).slice(1)) {
+  const rows = parseCsv(csv);
+  // The Spanish sheet starts with an "ID,Nota" header; exported files may not.
+  for (const [key, note] of isNoteKey(rows[0]?.[0]) ? rows : rows.slice(1)) {
     if (!key || !note) continue;
     map[canonicalKeys ? canonicalNoteKey(key.trim()) : key.trim()] = sanitizeNote(note);
   }
