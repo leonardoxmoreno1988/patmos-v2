@@ -1,4 +1,4 @@
-import { BOOKS } from "./bible";
+import { BOOKS, CHAPTER_COUNTS } from "./bible";
 
 export interface ScriptureRef {
   book: string;
@@ -147,14 +147,29 @@ export function resolveBookName(input: string): string | null {
 
 export const canonicalBook = (name: string) => resolveBookName(name) ?? BOOK_ALIASES[name] ?? name;
 
-const NAMES = [...BOOKS.map((b) => b.name), ...Object.keys(BOOK_ALIASES)].sort(
-  (a, b) => b.length - a.length,
-);
+// Spanish names, English (KJV) names and their aliases, longest first so "1 John" wins over "John".
+const NAMES = [
+  ...new Set([
+    ...BOOKS.map((b) => b.name),
+    ...Object.keys(BOOK_ALIASES),
+    ...BOOK_NAME_ALIASES.map(([alias]) => alias),
+  ]),
+].sort((a, b) => b.length - a.length);
 
 const REF_RE = new RegExp(
   `(^|[^\\p{L}\\p{N}])(${NAMES.map(escape).join("|")})\\s+(\\d+)(\\s*[:.]\\s*(\\d+)(\\s*[-–]\\s*\\d+)?)?`,
   "gu",
 );
+
+const SINGLE_CHAPTER_BOOKS = new Set(
+  BOOKS.filter((b) => CHAPTER_COUNTS[b.bookid] === 1).map((b) => b.name),
+);
+
+/** "Jude 11" / "Judas 11" cites verse 11 of a one-chapter book, not chapter 11. */
+function refTarget(book: string, chapter: string, verse: string | undefined) {
+  if (!verse && SINGLE_CHAPTER_BOOKS.has(book)) return { chapter: "1", verse: chapter };
+  return { chapter, verse };
+}
 
 const LINK_CLASS =
   "font-medium underline underline-offset-2 text-[#000f37] decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] cursor-pointer";
@@ -173,8 +188,9 @@ export function linkifyScriptureRefs(html: string): string {
           const label = verse
             ? `${book} ${chapter}:${verse}${range ? String(range).replace(/\s/g, "") : ""}`
             : `${book} ${chapter}`;
+          const to = refTarget(target, chapter, verse);
           const id = `ref-link-${n++}`;
-          return `${pre}<a id="${id}" role="button" tabindex="0" class="${LINK_CLASS}" data-ref-book="${target}" data-ref-chapter="${chapter}" data-ref-verse="${verse ?? 1}">${label}</a>`;
+          return `${pre}<a id="${id}" role="button" tabindex="0" class="${LINK_CLASS}" data-ref-book="${target}" data-ref-chapter="${to.chapter}" data-ref-verse="${to.verse ?? 1}">${label}</a>`;
         },
       );
     })
@@ -201,7 +217,8 @@ export function linkifyScriptureMarkdown(md: string): string {
         const label = verse
           ? `${book} ${chapter}:${verse}${range ? String(range).replace(/\s/g, "") : ""}`
           : `${book} ${chapter}`;
-        return `${pre}[${label}](/leer/${slug(target)}/${chapter}${verse ? `#verse-${verse}` : ""})`;
+        const to = refTarget(target, chapter, verse);
+        return `${pre}[${label}](/leer/${slug(target)}/${to.chapter}${to.verse ? `#verse-${to.verse}` : ""})`;
       });
     })
     .join("");

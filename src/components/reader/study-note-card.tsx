@@ -7,6 +7,7 @@ import { linkifyScriptureRefs, type ScriptureRef } from "@/lib/scripture-refs";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { hydrateCitations } from "@/utils/hydrateCitations";
 import { useVerseText, VerseSheet, type PreviewTarget } from "./verse-preview";
+import { useI18n } from "@/i18n";
 
 type RefToken = ScriptureRef & { id: string; label: string };
 
@@ -144,6 +145,7 @@ export function StudyNoteCard({
   onRefClick?: (ref: ScriptureRef & { originId?: string }) => void;
 }) {
   const isMobile = useIsMobile();
+  const { lang } = useI18n();
   const [sheet, setSheet] = useState<PreviewTarget | null>(null);
   const [linked, setLinked] = useState<string | null>(null);
 
@@ -160,7 +162,7 @@ export function StudyNoteCard({
       }
 
       try {
-        const hydrated = await hydrateCitations(html);
+        const hydrated = await hydrateCitations(html, lang);
         if (!cancelled) setLinked(linkifyScriptureRefs(hydrated));
       } catch {
         if (!cancelled) setLinked(linkifyScriptureRefs(html));
@@ -171,7 +173,7 @@ export function StudyNoteCard({
     return () => {
       cancelled = true;
     };
-  }, [html]);
+  }, [html, lang]);
 
   const body = useMemo(() => {
     if (typeof window === "undefined" || linked === null) return null;

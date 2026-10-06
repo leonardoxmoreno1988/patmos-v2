@@ -1,4 +1,5 @@
-import { BOOKS, fetchBook } from "@/lib/bible";
+import type { Lang } from "@/i18n";
+import { BOOKS, bookName, fetchBook } from "@/lib/bible";
 import { canonicalBook } from "@/lib/scripture-refs";
 
 export interface ParsedReference {
@@ -38,9 +39,9 @@ export function parseReference(input: string): ParsedReference | null {
 	};
 }
 
-async function verseText(ref: ParsedReference): Promise<string | null> {
+async function verseText(ref: ParsedReference, lang: Lang): Promise<string | null> {
 	try {
-		const chapters = await fetchBook(BOOKS.find((b) => b.name === ref.book)!.bookid);
+		const chapters = await fetchBook(BOOKS.find((b) => b.name === ref.book)!.bookid, lang);
 		const chapter = chapters.find((c) => c.chapter === ref.chapter);
 		if (!chapter) return null;
 		const verses = chapter.verses.filter(
@@ -55,11 +56,12 @@ async function verseText(ref: ParsedReference): Promise<string | null> {
 
 /**
  * Replaces `{{cita:Ref|fragmento_opcional}}` placeholders in raw HTML with the
- * exact RV1865 wording from the local Bible data: `"Texto Oficial" (Referencia)`.
+ * exact wording from the local Bible data: `"Texto Oficial" (Referencia)` —
+ * RV1865 with Spanish book names, or the KJV with English names for `lang` "en".
  * When a fragment is given, only that substring is quoted, preserving the
  * official casing and punctuation found in the text (case-insensitive lookup).
  */
-export async function hydrateCitations(rawHtml: string): Promise<string> {
+export async function hydrateCitations(rawHtml: string, lang: Lang = "es"): Promise<string> {
 	const re = /\{\{cita:([^|}]+?)(?:\|([^}]*?))?\}\}/g;
 	const matches = [...rawHtml.matchAll(re)];
 	if (matches.length === 0) return rawHtml;
@@ -68,7 +70,7 @@ export async function hydrateCitations(rawHtml: string): Promise<string> {
 		matches.map(async (m) => {
 			const ref = parseReference(m[1] ?? "");
 			if (!ref) return m[0];
-			const full = await verseText(ref);
+			const full = await verseText(ref, lang);
 			if (!full) return m[0];
 			const fragment = m[2]?.trim();
 			let quote = full;
@@ -76,7 +78,9 @@ export async function hydrateCitations(rawHtml: string): Promise<string> {
 				const i = full.toLowerCase().indexOf(fragment.toLowerCase());
 				if (i >= 0) quote = full.slice(i, i + fragment.length);
 			}
-			return `"${quote}" (${ref.label})`;
+			const book = BOOKS.find((b) => b.name === ref.book)!;
+			const label = ref.label.replace(ref.book, bookName(book, lang));
+			return `"${quote}" (${label})`;
 		}),
 	);
 
