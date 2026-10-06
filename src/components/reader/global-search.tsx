@@ -12,7 +12,7 @@ import {
 	CommandList,
 } from "@/components/ui/command";
 import { Dialog, DialogContent } from "@/components/ui/dialog";
-import { BOOKS, CHAPTER_COUNTS, slugifyBook } from "@/lib/bible";
+import { BOOKS, CHAPTER_COUNTS, bookName, localizeBookName, slugifyBook, type BookInfo } from "@/lib/bible";
 import { studyNotesQuery } from "@/lib/notes";
 import { useI18n } from "@/i18n";
 import {
@@ -42,7 +42,7 @@ function Highlight({ text, query }: { text: string; query: string }) {
 
 type Filter = "all" | "notes" | "bible";
 
-/** Parses queries like "Joel 1" or "Revelación 22:3" into a direct navigation target. */
+/** Parses queries like "Joel 1", "Revelación 22:3" or "Exodus 3" into a direct navigation target. */
 function parseReference(query: string) {
 	const m = /^\s*(\d?\s?[a-záéíóúñ.]+(?:\s[a-záéíóúñ]+)?)\s*(\d+)?\s*(?::\s*(\d+))?\s*$/i.exec(
 		query,
@@ -50,8 +50,10 @@ function parseReference(query: string) {
 	if (!m) return null;
 	const name = norm(m[1] ?? "").trim();
 	if (!name) return null;
+	const names = (b: BookInfo) => [norm(b.name), norm(b.nameEn)];
 	const book =
-		BOOKS.find((b) => norm(b.name) === name) ?? BOOKS.find((b) => norm(b.name).startsWith(name));
+		BOOKS.find((b) => names(b).some((n) => n === name)) ??
+		BOOKS.find((b) => names(b).some((n) => n.startsWith(name)));
 	if (!book) return null;
 	const chapter = Math.min(Math.max(Number(m[2] ?? 1), 1), CHAPTER_COUNTS[book.bookid] ?? 1);
 	return { book, chapter, verse: m[3] ? Number(m[3]) : undefined };
@@ -128,9 +130,9 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 
 
 	const filters: { key: Filter; label: string }[] = [
-		{ key: "all", label: "Todos" },
-		{ key: "notes", label: "Notas" },
-		{ key: "bible", label: "Biblia" },
+		{ key: "all", label: t.search.filterAll },
+		{ key: "notes", label: t.search.filterNotes },
+		{ key: "bible", label: t.search.filterBible },
 	];
 
 	return (
@@ -173,7 +175,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 						{empty ? <CommandEmpty>{t.search.empty}</CommandEmpty> : null}
 
 						{direct ? (
-							<CommandGroup heading="Navegación directa">
+							<CommandGroup heading={t.search.directNav}>
 								<CommandItem
 									value={`nav-${direct.book.name}-${direct.chapter}`}
 									onSelect={() => go(direct.book.name, direct.chapter, direct.verse)}
@@ -181,7 +183,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 								>
 									<ArrowRight className="mt-0.5 h-4 w-4 shrink-0 opacity-60" />
 									<span className="text-sm font-semibold text-foreground">
-										{direct.book.name} {direct.chapter}
+										{bookName(direct.book, lang)} {direct.chapter}
 										{direct.verse ? `:${direct.verse}` : ""}
 									</span>
 								</CommandItem>
@@ -189,7 +191,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 						) : null}
 
 						{visibleNoteHits.length > 0 ? (
-							<CommandGroup heading="Notas de estudio">
+							<CommandGroup heading={t.search.studyNotes}>
 								{visibleNoteHits.map((h) => (
 									<CommandItem
 										key={h.key}
@@ -200,7 +202,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 										<NotebookPen className="mt-0.5 h-4 w-4 shrink-0 opacity-60" />
 										<span className="min-w-0">
 											<span className="block text-sm font-semibold text-foreground">
-												{h.book} {h.chapter}
+												{localizeBookName(h.book, lang)} {h.chapter}
 											</span>
 <span className="block text-sm leading-relaxed text-muted-foreground line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
@@ -212,7 +214,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 						) : null}
 
 						{visibleVerseHits.length > 0 ? (
-							<CommandGroup heading="Texto bíblico">
+							<CommandGroup heading={t.search.bibleText}>
 								{visibleVerseHits.map((h) => (
 									<CommandItem
 										key={h.key}
@@ -223,7 +225,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 										<BookOpen className="mt-0.5 h-4 w-4 shrink-0 opacity-60" />
 										<span className="min-w-0">
 											<span className="block text-sm font-semibold text-foreground">
-												{h.book} {h.chapter}:{h.verse}
+												{localizeBookName(h.book, lang)} {h.chapter}:{h.verse}
 											</span>
 											<span className="block text-sm leading-relaxed text-muted-foreground line-clamp-2">
 												<Highlight text={h.snippet} query={q} />
@@ -243,7 +245,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 							onClick={goToSearchPage}
 							className="mx-auto flex w-fit items-center justify-center gap-2 rounded-full border border-foreground/10 bg-foreground/[0.04] px-6 py-2.5 text-sm font-medium text-foreground transition-colors hover:border-foreground/20 hover:bg-foreground/[0.08] dark:border-white/10 dark:bg-white/5 dark:hover:border-white/20 dark:hover:bg-white/10"
 						>
-							Ver todos los {totalCount} resultados para &ldquo;{q}&rdquo;
+							{t.search.seeAll(totalCount, q)}
 							<ArrowRight className="h-4 w-4 shrink-0 opacity-60" />
 						</button>
 					</div>

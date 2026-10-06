@@ -1,3 +1,6 @@
+import { useI18n, type Lang } from "@/i18n";
+import { localizeBookName } from "@/lib/bible";
+
 type Artwork = {
   title: string;
   reference: string;
@@ -74,11 +77,18 @@ const ARTWORKS: Artwork[] = [
   },
 ];
 
+/** "Éxodo 32" -> "Exodus 32" in English; the chapter number is kept as is. */
+const localizeReference = (reference: string, lang: Lang) => {
+  const space = reference.lastIndexOf(" ");
+  return `${localizeBookName(reference.slice(0, space), lang)}${reference.slice(space)}`;
+};
+
 export function EtsyArtCarousel() {
+  const { t, lang } = useI18n();
   return (
-    <section aria-label="Láminas e ilustraciones teológicas" className="mt-0">
+    <section aria-label={t.etsy.region} className="mt-0">
       <h2 className="mb-5 text-xs uppercase tracking-wider text-muted-foreground/70">
-        Descarga Digital
+        {t.etsy.heading}
       </h2>
       <div className="scrollbar-none -mx-4 flex gap-6 overflow-x-auto px-4 pb-4 sm:mx-0 sm:px-0">
         {ARTWORKS.map((artwork) => (
@@ -106,10 +116,10 @@ export function EtsyArtCarousel() {
                 {artwork.title}
               </p>
               <p className="mb-2 text-xs font-normal text-muted-foreground/70">
-                {artwork.reference}
+                {localizeReference(artwork.reference, lang)}
               </p>
               <p className="text-xs font-medium text-primary transition-colors hover:underline dark:text-white dark:hover:text-white/90">
-                Ver en Etsy →
+                {t.etsy.viewOnEtsy}
               </p>
             </div>
           </a>

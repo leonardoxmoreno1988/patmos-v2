@@ -9,7 +9,7 @@ import { AuthModal } from "@/components/auth/auth-modal";
 import { VerseActionBar } from "@/components/reader/verse-tools";
 import { HIGHLIGHT_CLASS, chapterMarksQuery } from "@/lib/user-marks";
 
-import { BOOKS, bookQuery, bookFromSlug, slugifyBook, type Verse } from "@/lib/bible";
+import { BOOKS, bookName, bookQuery, bookFromSlug, slugifyBook, type Verse } from "@/lib/bible";
 import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
@@ -69,6 +69,7 @@ function VerseText({
  onSelect?: () => void;
  onOpenNote?: () => void;
 }) {
+ const { t } = useI18n();
  return (
    <span
     id={`verse-${verse.verse}`}
@@ -88,7 +89,7 @@ function VerseText({
    {hasNote ? (
     <button
      type="button"
-     aria-label={`Ver mi nota del versículo ${verse.verse}`}
+     aria-label={t.reader.viewMyNote(verse.verse)}
      onClick={(e) => {
       e.stopPropagation();
       onOpenNote?.();
@@ -134,7 +135,7 @@ function Reader() {
  const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
  const bookId = book.bookid;
  const chapter = cap;
-  const { lang } = useI18n();
+  const { t, lang } = useI18n();
   const bookData = useQuery({ ...bookQuery(bookId, lang), placeholderData: keepPreviousData });
   // The loader already resolved the study notes on the server; seeding the
   // client cache with that result keeps the first browser paint identical to
@@ -251,7 +252,7 @@ function Reader() {
    />
   ) : studyNotes.isPending ? null : (
     <p className="py-4 text-sm italic text-muted-foreground/70">
-     Aún no hay notas registradas para este capítulo. Trabajo en progreso.
+     {t.reader.noNotes}
     </p>
   );
  const goTo = (nextBook: number, nextChapter: number) => {
@@ -339,13 +340,13 @@ function Reader() {
      <div className="flex w-full min-w-0 items-center justify-between gap-3 sm:w-auto sm:justify-start">
       <div className="flex items-center gap-3 sm:gap-4">
        <Selector
-        label="Libro"
+        label={t.reader.book}
         value={bookId}
-        options={BOOKS.map((b) => ({ value: b.bookid, label: b.name }))}
+        options={BOOKS.map((b) => ({ value: b.bookid, label: bookName(b, lang) }))}
         onSelect={(v) => goTo(v, 1)}
        />
        <Selector
-        label="Capítulo"
+        label={t.reader.chapter}
         value={chapter}
         options={Array.from({ length: chapterCount }, (_, i) => ({
          value: i + 1,
@@ -362,7 +363,7 @@ function Reader() {
          onClick={goBack}
          className="ml-2 hidden cursor-pointer whitespace-nowrap text-sm font-medium text-[#000f37] underline underline-offset-4 decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] sm:inline"
         >
-         Volver
+         {t.reader.back}
         </button>
        ) : null}
       </div>
@@ -371,7 +372,7 @@ function Reader() {
        <button
         type="button"
         onClick={prev}
-        aria-label="Capítulo anterior"
+        aria-label={t.reader.prevChapter}
         className="grid h-11 w-11 place-items-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
        >
         <ChevronLeft className="h-[18px] w-[18px]" />
@@ -379,7 +380,7 @@ function Reader() {
        <button
         type="button"
         onClick={next}
-        aria-label="Capítulo siguiente"
+        aria-label={t.reader.nextChapter}
         className="grid h-11 w-11 place-items-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
        >
         <ChevronRight className="h-[18px] w-[18px]" />
@@ -393,7 +394,7 @@ function Reader() {
        onClick={goBack}
        className="mt-2 inline-block cursor-pointer whitespace-nowrap text-sm font-medium text-[#000f37] underline underline-offset-4 decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] sm:hidden"
       >
-       Volver
+       {t.reader.back}
       </button>
      ) : null}
     </nav>
@@ -403,14 +404,14 @@ function Reader() {
      <article id="bible-text-section" className="scroll-mt-[8rem] lg:col-span-7">
       <div className="mb-6 flex flex-wrap items-baseline justify-between gap-2">
        <h1 className="text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
-        {book.name} {chapter}
+        {bookName(book, lang)} {chapter}
        </h1>
        <button
         type="button"
         onClick={() => scrollToId("study-notes-section")}
         className="cursor-pointer text-sm font-medium text-[#000f37] underline underline-offset-4 decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] lg:hidden"
        >
-        Ir a las notas
+        {t.reader.goToNotes}
        </button>
       </div>
 
@@ -421,7 +422,7 @@ function Reader() {
       >
        {bookData.isError ? (
         <p className="text-sm text-muted-foreground">
-         No pudimos cargar este libro. Revisa tu conexión e inténtalo de nuevo.
+         {t.reader.loadError}
         </p>
        ) : (
         <div className="space-y-1.5 tracking-[-0.01em] text-foreground">
@@ -466,7 +467,7 @@ function Reader() {
      <div className="mt-10 w-full border-t border-[#000f37] pt-8 dark:border-[#7c7b82]" />
       <div className="mb-3">
        <h2 className="text-lg font-bold text-foreground lg:text-[20px]">
-        Notas
+        {t.reader.notes}
        </h2>
      </div>
      <div
@@ -486,7 +487,7 @@ function Reader() {
 
       <div className="mb-3">
        <h2 className="text-lg font-bold text-foreground lg:text-[20px]">
-        Notas
+        {t.reader.notes}
        </h2>
       </div>
       <div
@@ -507,7 +508,7 @@ function Reader() {
 
    <footer className="mt-20 border-t-0 border-border py-8 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm sm:leading-normal">
     <div className="mx-auto max-w-7xl px-4 sm:px-6">
-     © 2026 Notas de Estudio por{" "}
+     © 2026 {t.footer.notesBy}{" "}
      <a
       href="https://www.ritualypropaganda.com/"
       target="_blank"
@@ -516,7 +517,7 @@ function Reader() {
      >
       Leonardo Moreno
      </a>
-     . Todos los derechos reservados.
+     . {t.footer.rights}
     </div>
    </footer>
 
@@ -546,7 +547,7 @@ function Reader() {
               type="button"
               data-consulta-fab=""
               onClick={() => setConsultaOpen((o) => !o)}
-     aria-label={consultaOpen ? "Cerrar Consultas Patmos" : "Abrir Consultas Patmos"}
+     aria-label={consultaOpen ? t.reader.closeConsulta : t.reader.openConsulta}
                className={
                  consultaOpen
                    ? "fixed bottom-6 z-[60] inline-flex items-center gap-2 rounded-full bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90 max-sm:hidden sm:right-[29.5rem]"
@@ -554,7 +555,7 @@ function Reader() {
                }
              >
                <MessageSquare className="h-4 w-4 shrink-0" aria-hidden="true" />
-               Consulta Patmos
+               {t.reader.consulta}
             </button>
    ) : null}
 

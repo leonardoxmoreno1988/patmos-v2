@@ -17,13 +17,6 @@ export const HIGHLIGHT_SWATCH: Record<HighlightColor, string> = {
   pink: "bg-pink-400",
 };
 
-export const HIGHLIGHT_LABEL: Record<HighlightColor, string> = {
-  yellow: "Amarillo",
-  green: "Verde",
-  blue: "Azul",
-  pink: "Rosa",
-};
-
 export interface UserHighlight {
   id: string;
   book: string;

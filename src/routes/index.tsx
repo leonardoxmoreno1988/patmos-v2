@@ -9,7 +9,7 @@ import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
 
-import { BOOK_GROUPS, CHAPTER_COUNTS, bookFromSlug, slugifyBook, type BookInfo } from "@/lib/bible";
+import { BOOKS, BOOK_GROUPS, CHAPTER_COUNTS, bookFromSlug, bookName, slugifyBook, type BookInfo } from "@/lib/bible";
 import { SiteHeader } from "@/components/reader/site-header";
 import { seoHead } from "@/lib/seo";
 import { useI18n } from "@/i18n";
@@ -78,7 +78,7 @@ function Home() {
     }
   }, [search.consulta]);
 
-  const lastBook = bookFromSlug(last.libro)?.name ?? "Génesis";
+  const lastBook = bookName(bookFromSlug(last.libro) ?? BOOKS[0]!, lang);
 
   return (
     <div className="min-h-screen bg-background">
@@ -86,15 +86,15 @@ function Home() {
   
       <main className="mx-auto max-w-6xl px-6">
         <section className="py-14 text-center md:py-20">
-          <h1 className="sr-only">PATMOS — Exégesis y Notas de Estudio RV1865</h1>
+          <h1 className="sr-only">{t.home.srTitle}</h1>
           
           {/* Título visible únicamente en desktop */}
           <h2 className="hidden md:block font-bold tracking-tight text-foreground mb-6 text-4xl md:text-5xl lg:text-6xl">
-            RV1865 + Notas
+            {t.home.heroTitle}
           </h2>
   
           <p className="mx-auto max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
-            Plataforma de investigación teológica, análisis profético y estudio del texto bíblico Reina Valera 1865.
+            {t.home.heroDescription}
           </p>
   
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
@@ -111,7 +111,7 @@ function Home() {
   
         {/* Banner del E-book gratuito — oculto temporalmente; poner SHOW_EBOOK_BANNER en true para reactivarlo */}
         {SHOW_EBOOK_BANNER && (
-          <section className="border-y border-border py-8 sm:py-10" aria-label="Recurso gratuito">
+          <section className="border-y border-border py-8 sm:py-10" aria-label={t.home.ebookRegion}>
             <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
               <div className="flex items-start gap-4 sm:items-center">
                 <img
@@ -123,10 +123,10 @@ function Home() {
               
                 <div className="min-w-0 text-left">
                   <span className="text-[11px] font-semibold uppercase text-primary">
-                    Recurso gratuito · E-book
+                    {t.home.ebookEyebrow}
                   </span>
                   <p className="mt-2 text-sm leading-relaxed text-foreground sm:text-[15px]">
-                    Obtén el E-book <span className="font-semibold">"{EBOOK_TITLE}"</span> al crear tu cuenta
+                    {t.home.ebookPitchBefore} <span className="font-semibold">"{EBOOK_TITLE}"</span> {t.home.ebookPitchAfter}
                   </p>
                 </div>
               </div>
@@ -136,7 +136,7 @@ function Home() {
                 onClick={() => (user ? void navigate({ to: "/welcome" }) : setSignupOpen(true))}
                 className="h-10 w-full shrink-0 rounded-full px-5 sm:w-auto dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
               >
-                Descargar libro <ArrowRight />
+                {t.home.downloadBook} <ArrowRight />
               </Button>
             </div>
           </section>
@@ -145,7 +145,7 @@ function Home() {
 
      <section className="py-12 pb-24">
       <div className="mb-7 flex items-end justify-between gap-4 border-b border-border pb-4">
-        <div><h2 className="text-xl font-semibold text-foreground">Progreso de las Notas</h2><p className="mt-1 text-sm text-muted-foreground">Reina Valera 1865 · 66 libros</p></div>
+        <div><h2 className="text-xl font-semibold text-foreground">{t.home.notesProgress}</h2><p className="mt-1 text-sm text-muted-foreground">{t.home.notesProgressSubtitle}</p></div>
       </div>
      <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
       {BOOK_GROUPS.flatMap((group) => group.books).map((book) => (
@@ -164,7 +164,7 @@ function Home() {
 
    <footer className="border-border py-8 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm">
     <div className="mx-auto max-w-6xl px-6">
-     © 2026 Notas de Estudio por{" "}
+     © 2026 {t.footer.notesBy}{" "}
      <a
       href="https://www.ritualypropaganda.com/"
       target="_blank"
@@ -173,7 +173,7 @@ function Home() {
      >
       Leonardo Moreno
      </a>
-     . Todos los derechos reservados.
+     . {t.footer.rights}
     </div>
    </footer>
   </div>
@@ -181,6 +181,7 @@ function Home() {
 }
 
 function BookCard({ book, notes, loading }: { book: BookInfo; notes: NotesMap | undefined; loading: boolean }) {
+  const { t, lang } = useI18n();
   const { total, done, pct } = notesAvailability(notes, book);
 
  const badge =
@@ -205,12 +206,12 @@ function BookCard({ book, notes, loading }: { book: BookInfo; notes: NotesMap | 
    <div className="flex flex-1 flex-col gap-2">
     <div className="flex items-start justify-between gap-2">
      <span className="text-[15px] font-medium leading-tight text-foreground">
-      {book.name}
+      {bookName(book, lang)}
      </span>
      {badge}
     </div>
     <span className="text-[11px] text-muted-foreground">
-     {done}/{total} caps.
+     {t.home.chaptersDone(done, total)}
     </span>
    </div>
     <div className="mt-3 h-1 overflow-hidden rounded-full bg-neutral-100 dark:bg-neutral-800">

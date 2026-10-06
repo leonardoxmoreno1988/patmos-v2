@@ -17,10 +17,12 @@ import { AuthModal } from "./auth-modal";
 import { AccountModal } from "./account-modal";
 import { LibrarySheet } from "@/components/library/library-sheet";
 import { ResourcesSheet } from "@/components/library/resources-sheet";
+import { useI18n } from "@/i18n";
 
 export function AuthNav() {
   const { user, displayName, loading, signOut, isPremium } = useAuth();
   const navigate = useNavigate();
+  const { t } = useI18n();
   const [authOpen, setAuthOpen] = useState(false);
   const [accountOpen, setAccountOpen] = useState(false);
   const [libraryOpen, setLibraryOpen] = useState(false);
@@ -43,7 +45,7 @@ export function AuthNav() {
       else window.open(result.url, "_blank", "noopener,noreferrer");
     } catch {
       portal?.close();
-      toast.error("No pudimos abrir la gestión de suscripción.");
+      toast.error(t.auth.billingError);
     }
   };
 
@@ -60,7 +62,7 @@ export function AuthNav() {
           className="h-9 rounded-full border border-foreground/15 px-3.5 text-sm font-medium shadow-none sm:px-5"
           onClick={() => setAuthOpen(true)}
         >
-          Iniciar Sesión
+          {t.auth.signIn}
         </Button>
         <AuthModal open={authOpen} onOpenChange={setAuthOpen} />
       </>
@@ -106,30 +108,30 @@ export function AuthNav() {
              } catch { /* use Génesis 1 */ }
              void navigate({ to: "/leer/$libro/$cap", params: { libro, cap } });
            }}>
-             <BookOpen /> Lector Bíblico
+             <BookOpen /> {t.auth.bibleReader}
            </DropdownMenuItem>
            <DropdownMenuItem onSelect={() => {
              void navigate({ to: "/", search: { consulta: "history" } });
            }}>
-             <History /> Historial de Consultas
+             <History /> {t.auth.consultHistory}
            </DropdownMenuItem>
             <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
-               <Library /> Mi Biblioteca
+               <Library /> {t.auth.myLibrary}
             </DropdownMenuItem>
             <DropdownMenuItem onSelect={() => setResourcesOpen(true)}>
-               <Download /> Recursos
+               <Download /> {t.auth.resources}
             </DropdownMenuItem>
            <DropdownMenuSeparator />
            <DropdownMenuItem onSelect={() => void openBilling()}>
-             <CreditCard /> Suscripción PRO
+             <CreditCard /> {t.auth.proSubscription}
            </DropdownMenuItem>
           <DropdownMenuItem onSelect={() => setAccountOpen(true)}>
-             <Settings /> Ajustes de Cuenta
+             <Settings /> {t.auth.accountSettings}
           </DropdownMenuItem>
           <DropdownMenuSeparator />
            <DropdownMenuItem className="text-destructive focus:text-destructive" onSelect={() => void signOut()}>
              <LogOut />
-            Cerrar Sesión
+            {t.auth.signOut}
           </DropdownMenuItem>
         </DropdownMenuContent>
       </DropdownMenu>

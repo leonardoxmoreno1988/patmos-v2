@@ -45,6 +45,12 @@ export const BOOKS: BookInfo[] = RAW_BOOKS.map((b, i) => ({
 /** Display name of a book in the given UI language. */
 export const bookName = (book: BookInfo, lang: Lang) => (lang === "en" ? book.nameEn : book.name);
 
+/** Localizes a canonical (Spanish) book name; unknown names are returned unchanged. */
+export const localizeBookName = (name: string, lang: Lang) => {
+  const book = BOOKS.find((b) => b.name === name);
+  return book ? bookName(book, lang) : name;
+};
+
 export interface Segment {
   text: string;
   italic?: boolean;

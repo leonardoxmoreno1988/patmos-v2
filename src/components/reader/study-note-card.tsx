@@ -18,14 +18,14 @@ const LINK_CLASS =
 const CITATION_RE = /\{\{cita:[^}]+\}\}/g;
 
 function RefPreview({ target }: { target: ScriptureRef }) {
-  const { text, loading, missing } = useVerseText(target);
+  const { display, label } = useVerseText(target);
   return (
     <>
       <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-slate-600 dark:text-[#85878c]">
-        {target.book} {target.chapter}:{target.verse}
+        {label}
       </p>
       <p className="text-[15px] leading-relaxed text-slate-900 dark:text-[#bbbece]">
-        {text || (loading ? "Cargando…" : missing ? "Versículo no disponible." : "Cargando…")}
+        {display}
       </p>
     </>
   );

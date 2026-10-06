@@ -5,7 +5,6 @@ import { toast } from "sonner";
 
 import {
   HIGHLIGHT_COLORS,
-  HIGHLIGHT_LABEL,
   HIGHLIGHT_SWATCH,
   deleteNote,
   removeHighlight,
@@ -21,6 +20,8 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
+import { TRANSLATIONS, localizeBookName } from "@/lib/bible";
+import { useI18n } from "@/i18n";
 
 export interface VerseSelection {
   verse: number;
@@ -57,10 +58,12 @@ export function VerseActionBar({
   initialNoteOpen,
 }: Props) {
   const queryClient = useQueryClient();
+  const { t, lang } = useI18n();
   const [noteOpen, setNoteOpen] = useState(!!initialNoteOpen);
   const verseNums = selection.map((s) => s.verse).sort((a, b) => a - b);
   const first = verseNums[0]!;
-  const label = `${book} ${chapter}:${formatVerseList(verseNums)}`;
+  // `book` stays canonical for stored marks; only the visible label is localized.
+  const label = `${localizeBookName(book, lang)} ${chapter}:${formatVerseList(verseNums)}`;
   const targets = verseNums.map((verse) => ({ userId: userId ?? "", book, chapter, verse }));
   const firstTarget = targets[0]!;
   const colors = verseNums.map((v) => marks.highlights[v]?.color);
@@ -78,7 +81,7 @@ export function VerseActionBar({
     mutationFn: async (action: () => Promise<unknown>) => action(),
     onSuccess: () => invalidate(),
     onError: (error: Error) =>
-      toast.error(error.message || "No pudimos guardar el cambio."),
+      toast.error(error.message || t.verseTools.saveError),
   });
 
   const guard = (action: () => void) => {
@@ -93,8 +96,8 @@ export function VerseActionBar({
     guard(() =>
       run.mutate(() =>
         Promise.all(
-          targets.map((t) =>
-            currentColor === color ? removeHighlight(t) : setHighlight(t, color),
+          targets.map((target) =>
+            currentColor === color ? removeHighlight(target) : setHighlight(target, color),
           ),
         ),
       ),
@@ -107,11 +110,11 @@ export function VerseActionBar({
         .sort((a, b) => a.verse - b.verse)
         .map((s) => s.text)
         .join(" ");
-      await navigator.clipboard.writeText(`"${text}" (${label}, RV1865)`);
-      toast.success(selection.length > 1 ? "Versículos copiados" : "Versículo copiado");
+      await navigator.clipboard.writeText(`"${text}" (${label}, ${TRANSLATIONS[lang]})`);
+      toast.success(selection.length > 1 ? t.verseTools.copiedMany : t.verseTools.copiedOne);
       onClose();
     } catch {
-      toast.error("No pudimos copiar el versículo.");
+      toast.error(t.verseTools.copyError);
     }
   };
 
@@ -127,7 +130,7 @@ export function VerseActionBar({
             <button
               key={color}
               type="button"
-              aria-label={`Resaltar en ${HIGHLIGHT_LABEL[color]}`}
+              aria-label={t.verseTools.highlightIn(t.verseTools.colors[color])}
               onClick={() => pickColor(color)}
               className={`grid h-9 w-9 shrink-0 place-items-center rounded-full transition-transform hover:scale-105 ${
                 currentColor === color ? "ring-2 ring-foreground/60" : ""
@@ -138,9 +141,9 @@ export function VerseActionBar({
           ))}
           {anyHighlighted ? (
             <IconButton
-              label="Quitar resaltado"
+              label={t.verseTools.removeHighlight}
               onClick={() =>
-                guard(() => run.mutate(() => Promise.all(targets.map((t) => removeHighlight(t)))))
+                guard(() => run.mutate(() => Promise.all(targets.map((target) => removeHighlight(target)))))
               }
             >
               <Eraser className="h-[18px] w-[18px]" />
@@ -148,18 +151,18 @@ export function VerseActionBar({
           ) : null}
           <span className="mx-1 h-6 w-px shrink-0 bg-border/70" />
           <IconButton
-            label="Añadir nota"
+            label={t.verseTools.addNote}
             active={!!existingNote}
             onClick={() => guard(() => setNoteOpen(true))}
           >
             <NotebookPen className="h-[18px] w-[18px]" />
           </IconButton>
           <IconButton
-            label={bookmarked ? "Quitar marcador" : "Marcador"}
+            label={bookmarked ? t.verseTools.removeBookmark : t.verseTools.bookmark}
             active={bookmarked}
             onClick={() =>
               guard(() =>
-                run.mutate(() => Promise.all(targets.map((t) => toggleBookmark(t, !bookmarked)))),
+                run.mutate(() => Promise.all(targets.map((target) => toggleBookmark(target, !bookmarked)))),
               )
             }
           >
@@ -167,10 +170,10 @@ export function VerseActionBar({
               className={`h-[18px] w-[18px] ${bookmarked ? "fill-current" : ""}`}
             />
           </IconButton>
-          <IconButton label="Copiar versículo" onClick={() => void copyVerse()}>
+          <IconButton label={t.verseTools.copyVerse} onClick={() => void copyVerse()}>
             <Copy className="h-[18px] w-[18px]" />
           </IconButton>
-          <IconButton label="Cerrar" onClick={onClose}>
+          <IconButton label={t.verseTools.close} onClick={onClose}>
             <X className="h-[18px] w-[18px]" />
           </IconButton>
         </div>
@@ -190,11 +193,9 @@ export function VerseActionBar({
                 setNoteOpen(false);
                 const rangeSaved = (result as { rangeSaved?: boolean } | undefined)?.rangeSaved;
                 if (verseNums.length > 1 && rangeSaved === false) {
-                  toast.warning(
-                    "Nota guardada solo en el primer versículo: falta actualizar la base de datos para guardar rangos.",
-                  );
+                  toast.warning(t.verseTools.noteSavedFirstOnly);
                 } else {
-                  toast.success("Nota guardada");
+                  toast.success(t.verseTools.noteSaved);
                 }
               },
             },
@@ -207,7 +208,7 @@ export function VerseActionBar({
                   onSuccess: () => {
                     void invalidate();
                     setNoteOpen(false);
-                    toast.success("Nota eliminada");
+                    toast.success(t.verseTools.noteDeleted);
                   },
                 })
             : undefined
@@ -263,6 +264,7 @@ export function NoteDialog({
   saving?: boolean;
   readOnly?: boolean;
 }) {
+  const { t } = useI18n();
   const [value, setValue] = useState(initial);
 
   useEffect(() => {
@@ -273,14 +275,14 @@ export function NoteDialog({
     <Dialog open={open} onOpenChange={onOpenChange}>
       <DialogContent className="sm:max-w-lg">
         <DialogHeader>
-          <DialogTitle className="text-base">Mi nota · {title}</DialogTitle>
+          <DialogTitle className="text-base">{t.verseTools.myNote} · {title}</DialogTitle>
         </DialogHeader>
         <textarea
           value={value}
           readOnly={readOnly}
           onChange={(e) => setValue(e.target.value)}
           rows={7}
-          placeholder="Escribe tu nota personal sobre este versículo…"
+          placeholder={t.verseTools.notePlaceholder}
           className="w-full resize-none rounded-xl border border-border/60 bg-background p-3 text-sm leading-relaxed text-foreground outline-none focus:border-foreground/30"
         />
         {!readOnly ? (
@@ -291,7 +293,7 @@ export function NoteDialog({
                 onClick={onDelete}
                 className="inline-flex items-center gap-1.5 text-sm font-medium text-destructive hover:underline"
               >
-                <Trash2 className="h-4 w-4" /> Eliminar
+                <Trash2 className="h-4 w-4" /> {t.verseTools.delete}
               </button>
             ) : (
               <span />
@@ -302,7 +304,7 @@ export function NoteDialog({
               onClick={() => onSave?.(value.trim())}
               className="inline-flex h-10 items-center justify-center rounded-full bg-primary px-5 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90 disabled:opacity-50"
             >
-              {saving ? "Guardando…" : "Guardar nota"}
+              {saving ? t.verseTools.saving : t.verseTools.saveNote}
             </button>
           </div>
         ) : null}
