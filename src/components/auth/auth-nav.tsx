@@ -156,22 +156,17 @@ export function AuthNav() {
   return (
     <>
       <DropdownMenu>
+        {/* Avatar only; name, email and PRO badge are shown inside the menu. */}
         <DropdownMenuTrigger asChild>
           <Button
             type="button"
             variant="ghost"
-            aria-label={t.menu.open}
-            className="flex h-auto items-center gap-2 rounded-full py-1 pl-1 pr-2.5 text-sm font-medium text-foreground hover:bg-foreground/5"
+            aria-label={`${t.menu.open} (${displayName})`}
+            className="h-9 w-9 rounded-full p-1 hover:bg-foreground/5"
           >
             <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-foreground text-xs font-semibold text-background">
               {initial}
             </span>
-            <span className="hidden max-w-[10rem] truncate sm:inline">{displayName}</span>
-            {isPremium ? (
-              <span className="hidden rounded-md border border-pro-badge-border bg-pro-badge px-2 py-0.5 text-[10px] font-bold tracking-wider text-pro-badge-foreground sm:inline">
-                PRO
-              </span>
-            ) : null}
           </Button>
         </DropdownMenuTrigger>
         <DropdownMenuContent align="end" className="w-64 p-1.5">
