@@ -9,7 +9,7 @@ import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
 
-import { BOOK_GROUPS, CHAPTER_COUNTS, slugifyBook, type BookInfo } from "@/lib/bible";
+import { BOOK_GROUPS, CHAPTER_COUNTS, bookFromSlug, slugifyBook, type BookInfo } from "@/lib/bible";
 import { SiteHeader } from "@/components/reader/site-header";
 import { seoHead } from "@/lib/seo";
 
@@ -55,8 +55,11 @@ function Home() {
    try {
    const raw = window.localStorage.getItem("rv1865:last");
    if (!raw) return;
-   const parsed = JSON.parse(raw) as { libro?: string; cap?: string };
-   if (parsed?.libro && parsed?.cap) setLast({ libro: parsed.libro, cap: parsed.cap });
+   const parsed = JSON.parse(raw) as { libro?: string; cap?: string | number };
+   // Older entries stored the display name ("Éxodo"); bookFromSlug accepts names and slugs.
+   const book = parsed?.libro ? bookFromSlug(parsed.libro) : undefined;
+   const cap = Math.floor(Number(parsed?.cap));
+   if (book && cap >= 1) setLast({ libro: slugifyBook(book.name), cap: String(cap) });
   } catch {
    /* ignore */
   }
@@ -70,7 +73,7 @@ function Home() {
     }
   }, [search.consulta]);
 
-  const lastBook = BOOK_GROUPS.flatMap((g) => g.books).find((b) => slugifyBook(b.name) === last.libro)?.name ?? "Génesis";
+  const lastBook = bookFromSlug(last.libro)?.name ?? "Génesis";
 
   return (
     <div className="min-h-screen bg-background">

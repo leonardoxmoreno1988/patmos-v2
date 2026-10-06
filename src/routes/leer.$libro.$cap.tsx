@@ -180,7 +180,7 @@ function Reader() {
 
  useEffect(() => {
   try {
-   window.localStorage.setItem("rv1865:last", JSON.stringify({ libro, cap }));
+   window.localStorage.setItem("rv1865:last", JSON.stringify({ libro: slugifyBook(libro), cap: String(cap) }));
     recordReadChapter(slugifyBook(libro), cap);
   } catch {
    /* ignore */
