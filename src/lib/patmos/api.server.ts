@@ -3,7 +3,8 @@ import { createOpenAI } from "@ai-sdk/openai";
 import { embedMany, stepCountIs, streamText, tool } from "ai";
 import { z } from "zod";
 
-import { executeFetchRv1865Verse } from "./fetch-rv1865-verse.server";
+import type { Lang } from "@/i18n";
+import { executeFetchVerse } from "./fetch-rv1865-verse.server";
 
 export const FREE_DAILY_LIMIT = 4;
 export const BILLING_PORTAL_URL = "https://patmos.lemonsqueezy.com/billing";
@@ -67,6 +68,15 @@ CITACIÓN BÍBLICA:
 MÉTODO EXEGÉTICO Y ESTRUCTURA:
 - Desarrolla respuestas sustanciales, estructuradas con párrafos sobrios, viñetas y encabezados Markdown.
 - Aplica el marco dispensacional: distingue claramente a quién va dirigido el pasaje (Judíos, Gentiles o la Iglesia de Dios)`;
+
+/** Appended to the system prompt when the reader's UI language is English (lang = "en"). */
+const ENGLISH_RESPONSE_OVERRIDE = `
+
+LANGUAGE OVERRIDE (lang=en) — this section takes precedence over every earlier instruction about language, Bible version, book names and the citation tool:
+- Respond entirely in formal English, keeping the same sober, academic voice of Consultas Patmos.
+- Quote Scripture exclusively from the King James Version (KJV). Use the \`fetch_kjv_verse\` tool for every quotation, with the same silent-execution rule; never translate Reina-Valera 1865 text into English and never quote from memory.
+- Use the English KJV book names in quotations and headings (e.g. Genesis 1:1, Acts 2:38, Revelation 13:3).
+- Material in <ACTIVE_READER_CONTEXT> or <SUPABASE_SECURE_CONTEXT> may be in Spanish; use it as a source, but write your answer in English.`;
 
 interface MatchDocument {
   id?: string;
@@ -178,9 +188,11 @@ function formatArchiveBlocks(docs: MatchDocument[]): string {
  * response (instead of a 5xx) keeps the reader working: the panel renders it
  * as a plain reply and nothing is stored in the Registros Históricos.
  */
-function notConfiguredResponse() {
+function notConfiguredResponse(lang: Lang) {
   return new Response(
-    "El servicio de Consultas Patmos todavía no está disponible, así que no puedo responder a tu consulta. Inténtalo más tarde.",
+    lang === "en"
+      ? "The Consultas Patmos service is not available yet, so I can't answer your query. Please try again later."
+      : "El servicio de Consultas Patmos todavía no está disponible, así que no puedo responder a tu consulta. Inténtalo más tarde.",
     {
       status: 200,
       headers: {
@@ -197,15 +209,16 @@ export async function handleChat(request: Request) {
   if (auth instanceof Response) return auth;
   const { supabase, userId } = auth;
 
-  const apiKey = process.env["OPENAI_API_KEY"];
-  if (!apiKey) return notConfiguredResponse();
-
-  let body: { messages?: Array<{ role: string; content: string }>; readerContext?: unknown };
+  let body: { messages?: Array<{ role: string; content: string }>; readerContext?: unknown; lang?: unknown };
   try {
     body = await request.json();
   } catch {
     return Response.json({ error: "Solicitud inválida." }, { status: 400 });
   }
+  const lang: Lang = body.lang === "en" ? "en" : "es";
+
+  const apiKey = process.env["OPENAI_API_KEY"];
+  if (!apiKey) return notConfiguredResponse(lang);
   const userQuery = body.messages?.filter((m) => m.role === "user").pop()?.content?.trim() ?? "";
   if (!userQuery || userQuery.length > 4000) {
     return Response.json({ error: "Solicitud inválida." }, { status: 400 });
@@ -248,45 +261,58 @@ export async function handleChat(request: Request) {
 
   const prompt = [
     ...(activeReaderContext ? [`<ACTIVE_READER_CONTEXT>\n${activeReaderContext}\n</ACTIVE_READER_CONTEXT>`] : []),
-    `<SUPABASE_SECURE_CONTEXT>\n${secureContext || "No hay material de estudio asociado a esta consulta."}\n</SUPABASE_SECURE_CONTEXT>`,
+    `<SUPABASE_SECURE_CONTEXT>\n${secureContext || (lang === "en" ? "No study material is associated with this query." : "No hay material de estudio asociado a esta consulta.")}\n</SUPABASE_SECURE_CONTEXT>`,
     `<USER_QUERY>\n${userQuery}\n</USER_QUERY>`,
   ].join("\n\n");
 
+  // English swaps the RV1865 tool for the KJV one (read from this site's public/bible/en files),
+  // so the model cannot quote Spanish text in an English answer.
+  const origin = new URL(request.url).origin;
+  const verseTool = (toolLang: Lang) =>
+    tool({
+      description:
+        toolLang === "en"
+          ? "Returns the exact King James Version (KJV) text for one or more consecutive verses of a Bible book."
+          : "Obtiene el texto exacto de la Reina-Valera 1865 (RV1865) para uno o varios versículos consecutivos de un libro bíblico.",
+      inputSchema: z.object({
+        bookName: z
+          .string()
+          .describe(
+            toolLang === "en"
+              ? 'English book name, e.g. "Genesis", "2 Timothy", "1 Corinthians".'
+              : 'Nombre del libro en español, p. ej. "Génesis", "2 Timoteo", "1 Corintios".',
+          ),
+        chapter: z.number().int().positive().describe(toolLang === "en" ? "Chapter number." : "Número de capítulo."),
+        verseRange: z
+          .string()
+          .optional()
+          .describe(
+            toolLang === "en"
+              ? 'Requested verse(s), e.g. "15" or "15-17".'
+              : 'Versículo(s) solicitados, p. ej. "15" o "15-17".',
+          ),
+      }),
+      execute: async ({ bookName, chapter, verseRange }) => {
+        const out = await executeFetchVerse(
+          { bookName, chapter, ...(verseRange !== undefined ? { verseRange } : {}) },
+          { lang: toolLang, origin },
+        );
+        if (!out.ok) return { error: out.error };
+        return {
+          reference: out.reference,
+          translation: toolLang === "en" ? "KJV" : "RV1865",
+          text: out.text,
+          verses: out.verses,
+        };
+      },
+    });
+
   const result = streamText({
     model: openai.chat("gpt-4o"),
-    system: PATMOS_SYSTEM_PROMPT,
+    system: lang === "en" ? PATMOS_SYSTEM_PROMPT + ENGLISH_RESPONSE_OVERRIDE : PATMOS_SYSTEM_PROMPT,
     prompt,
     temperature: 0,
-    tools: {
-      fetch_rv1865_verse: tool({
-        description:
-          "Obtiene el texto exacto de la Reina-Valera 1865 (RV1865) para uno o varios versículos consecutivos de un libro bíblico.",
-        inputSchema: z.object({
-          bookName: z
-            .string()
-            .describe('Nombre del libro en español, p. ej. "Génesis", "2 Timoteo", "1 Corintios".'),
-          chapter: z.number().int().positive().describe("Número de capítulo."),
-          verseRange: z
-            .string()
-            .optional()
-            .describe('Versículo(s) solicitados, p. ej. "15" o "15-17".'),
-        }),
-        execute: async ({ bookName, chapter, verseRange }) => {
-          const out = await executeFetchRv1865Verse({
-            bookName,
-            chapter,
-            ...(verseRange !== undefined ? { verseRange } : {}),
-          });
-          if (!out.ok) return { error: out.error };
-          return {
-            reference: out.reference,
-            translation: "RV1865",
-            text: out.text,
-            verses: out.verses,
-          };
-        },
-      }),
-    },
+    tools: lang === "en" ? { fetch_kjv_verse: verseTool("en") } : { fetch_rv1865_verse: verseTool("es") },
     stopWhen: stepCountIs(10),
     abortSignal: request.signal,
     onFinish: async ({ text }) => {

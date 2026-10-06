@@ -170,12 +170,14 @@ export function parseUsfm(source: string): Chapter[] {
 
 /**
  * Spanish always reads RV1865; English reads only the local KJV. The KJV URL is same-origin and
- * relative, so English fetches are meant for the browser (server code keeps the default "es").
+ * relative, so server code must pass `origin` (e.g. the incoming request's origin) for English.
  */
-export async function fetchBook(bookid: number, lang: Lang = "es"): Promise<Chapter[]> {
+export async function fetchBook(bookid: number, lang: Lang = "es", origin = ""): Promise<Chapter[]> {
   const book = BOOKS.find((b) => b.bookid === bookid);
   if (!book) throw new Error("Libro no encontrado");
-  const res = await fetch(lang === "en" ? `${KJV_BASE}${book.code}.usfm` : `${BASE}${book.file}`);
+  const res = await fetch(
+    lang === "en" ? `${origin}${KJV_BASE}${book.code}.usfm` : `${BASE}${book.file}`,
+  );
   if (!res.ok) throw new Error("No se pudo cargar el libro");
   return parseUsfm(await res.text());
 }

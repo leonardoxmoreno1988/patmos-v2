@@ -232,6 +232,15 @@ function ConsultaChat({
     setStatus("ready");
   }, []);
 
+  // Model-facing payload. In English the chapter text is the KJV (the reader loads it by language)
+  // and headers are English; the server adds the respond-in-English instruction from `lang`.
+  const passageQuery = (query: string) =>
+    lang === "en" ? `[Passage: ${passageLabel}] ${query}` : `[Pasaje: ${passage}] ${query}`;
+  const readerContext = () =>
+    lang === "en"
+      ? `<ACTIVE_READER_CONTEXT>\n[Book: ${localizeBookName(book, "en")} | Chapter: ${chapter}]\n\n=== CURRENT CHAPTER BIBLE TEXT (KJV) ===\n${chapterText || "(not available)"}\n\n=== STUDY NOTES SHOWN ON SCREEN ===\n${chapterNotes || "(no notes for this chapter)"}\n</ACTIVE_READER_CONTEXT>`
+      : `<ACTIVE_READER_CONTEXT>\n[Libro: ${book} | Capítulo: ${chapter}]\n\n=== TEXTO BÍBLICO DEL CAPÍTULO ACTUAL ===\n${chapterText || "(no disponible)"}\n\n=== NOTAS DE ESTUDIO VISIBLES EN PANTALLA ===\n${chapterNotes || "(sin notas para este capítulo)"}\n</ACTIVE_READER_CONTEXT>`;
+
   const send = async (text: string) => {
     const query = text.trim();
     if (!query || busy) return;
@@ -250,12 +259,9 @@ function ConsultaChat({
         signal: ctrl.signal,
         headers: { "Content-Type": "application/json", ...(await authHeaders()) },
         body: JSON.stringify({
-           messages: [{ role: "user", content: scope === "passage" ? `[Pasaje: ${passage}] ${query}` : query }],
-          ...(scope === "passage"
-            ? {
-                readerContext: `<ACTIVE_READER_CONTEXT>\n[Libro: ${book} | Capítulo: ${chapter}]\n\n=== TEXTO BÍBLICO DEL CAPÍTULO ACTUAL ===\n${chapterText || "(no disponible)"}\n\n=== NOTAS DE ESTUDIO VISIBLES EN PANTALLA ===\n${chapterNotes || "(sin notas para este capítulo)"}\n</ACTIVE_READER_CONTEXT>`,
-              }
-            : {}),
+          lang,
+          messages: [{ role: "user", content: scope === "passage" ? passageQuery(query) : query }],
+          ...(scope === "passage" ? { readerContext: readerContext() } : {}),
         }),
       });
 

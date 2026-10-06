@@ -1,10 +1,11 @@
-import { BOOKS, CHAPTER_COUNTS, fetchBook } from "@/lib/bible";
+import type { Lang } from "@/i18n";
+import { BOOKS, CHAPTER_COUNTS, TRANSLATIONS, bookFromSlug, bookName, fetchBook } from "@/lib/bible";
 import { resolveBookName } from "@/lib/scripture-refs";
 
-function findBook(bookName: string) {
-  const canonical = resolveBookName(bookName);
-  if (!canonical) return undefined;
-  return BOOKS.find((b) => b.name === canonical);
+/** Accepts Spanish names and aliases ("Hechos") as well as English ones ("Revelation"). */
+function findBook(name: string) {
+  const canonical = resolveBookName(name);
+  return (canonical ? BOOKS.find((b) => b.name === canonical) : undefined) ?? bookFromSlug(name);
 }
 
 function parseVerseRange(
@@ -42,19 +43,26 @@ export type FetchRv1865VerseResult =
     }
   | { ok: false; error: string };
 
-/** Resolves RV1865 verse text for the chat tool `fetch_rv1865_verse`. */
-export async function executeFetchRv1865Verse(params: {
-  bookName: string;
-  chapter: number;
-  verseRange?: string;
-}): Promise<FetchRv1865VerseResult> {
-  const book = findBook(params.bookName);
-  if (!book) {
+/**
+ * Resolves verse text for the chat tools: `fetch_rv1865_verse` ("es") and `fetch_kjv_verse` ("en").
+ * English reads the local KJV files, so it needs the site `origin` to build an absolute URL.
+ */
+export async function executeFetchVerse(
+  params: { bookName: string; chapter: number; verseRange?: string },
+  { lang = "es", origin = "" }: { lang?: Lang; origin?: string } = {},
+): Promise<FetchRv1865VerseResult> {
+  const translation = TRANSLATIONS[lang];
+  const found = findBook(params.bookName);
+  if (!found) {
     return {
       ok: false,
-      error: `Libro no encontrado: "${params.bookName}". Usa el nombre canónico en español (p. ej. Génesis, 2 Timoteo, 1 Corintios).`,
+      error:
+        lang === "en"
+          ? `Book not found: "${params.bookName}". Use the KJV English name (e.g. Genesis, 2 Timothy, 1 Corinthians).`
+          : `Libro no encontrado: "${params.bookName}". Usa el nombre canónico en español (p. ej. Génesis, 2 Timoteo, 1 Corintios).`,
     };
   }
+  const book = { ...found, name: bookName(found, lang) };
 
   if (!Number.isInteger(params.chapter) || params.chapter < 1) {
     return { ok: false, error: `Capítulo inválido: ${params.chapter}.` };
@@ -73,11 +81,11 @@ export async function executeFetchRv1865Verse(params: {
 
   let chapters;
   try {
-    chapters = await fetchBook(book.bookid);
+    chapters = await fetchBook(book.bookid, lang, origin);
   } catch {
     return {
       ok: false,
-      error: `No se pudo cargar el texto de ${book.name} desde la fuente RV1865.`,
+      error: `No se pudo cargar el texto de ${book.name} desde la fuente ${translation}.`,
     };
   }
 
@@ -85,7 +93,7 @@ export async function executeFetchRv1865Verse(params: {
   if (!chapterData) {
     return {
       ok: false,
-      error: `El capítulo ${params.chapter} de ${book.name} no está disponible en RV1865.`,
+      error: `El capítulo ${params.chapter} de ${book.name} no está disponible en ${translation}.`,
     };
   }
 

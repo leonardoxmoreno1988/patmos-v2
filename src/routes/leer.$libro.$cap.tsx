@@ -566,7 +566,11 @@ function Reader() {
     book={book.name}
     chapter={chapter}
     verses={selectedVerses}
-    chapterText={verses.map((v) => `${v.verse} ${v.text}`).join("\n")}
+    // Right after a language switch the reader still shows the previous translation as placeholder
+    // data; send no chapter text then rather than RV1865 in an English (KJV) consultation.
+    chapterText={
+     bookData.isPlaceholderData ? "" : verses.map((v) => `${v.verse} ${v.text}`).join("\n")
+    }
     chapterNotes={plainText(getNote(studyNotes.data, book.name, chapter) ?? "")}
     onRequireAuth={() => {
      setConsultaOpen(false);
