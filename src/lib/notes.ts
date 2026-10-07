@@ -1,5 +1,5 @@
 import type { Lang } from "@/i18n";
-import { bookFromSlug } from "./bible";
+import { BOOKS, CHAPTER_COUNTS, bookFromSlug } from "./bible";
 
 const CSV_URL =
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vQHY2r7RUsyLXl9ZjOxAkHpfDXNyuhHE0cutaWf2SlWssYDa3zKYZpuVrNRRd8gD6Rsz82Uv1SMb6SY/pub?output=csv";
@@ -56,7 +56,7 @@ export type NotesMap = Record<string, string>;
 /** True for "Book-chapter" keys ("Génesis-1", "Exodus-3"), false for a header cell like "ID". */
 const isNoteKey = (key: string | undefined) => !!key && /^.+-\d+$/.test(key.trim());
 
-function notesFromCsv(csv: string, canonicalKeys: boolean): NotesMap {
+export function notesFromCsv(csv: string, canonicalKeys: boolean): NotesMap {
   const map: NotesMap = {};
   const rows = parseCsv(csv);
   // The Spanish sheet starts with an "ID,Nota" header; exported files may not.
@@ -110,6 +110,20 @@ export const getNote = (map: NotesMap | undefined, bookName: string, chapter: nu
   const legacy = Object.entries(KEY_ALIASES).find(([, v]) => v === canonical)?.[0];
   return map[`${canonical}-${chapter}`] ?? (legacy ? map[`${legacy}-${chapter}`] : undefined);
 };
+
+/** Chapters that have a note, per bookid. Feeds the home progress grid. */
+export type NotesCoverage = Record<number, number[]>;
+
+export function notesCoverage(map: NotesMap): NotesCoverage {
+  const out: NotesCoverage = {};
+  for (const book of BOOKS) {
+    const total = CHAPTER_COUNTS[book.bookid] ?? 0;
+    const chapters: number[] = [];
+    for (let cap = 1; cap <= total; cap++) if (getNote(map, book.name, cap)) chapters.push(cap);
+    if (chapters.length) out[book.bookid] = chapters;
+  }
+  return out;
+}
 
 export const studyNotesQuery = (lang: Lang = "es") => ({
   queryKey: ["study-notes", lang],

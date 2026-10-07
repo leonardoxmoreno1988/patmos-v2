@@ -1,10 +1,12 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { createFileRoute, Link, useNavigate, useSearch } from "@tanstack/react-router";
 import { ArrowRight, BookOpen, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
 import { useQuery } from "@tanstack/react-query";
-import { getNote, studyNotesQuery, type NotesMap } from "@/lib/notes";
+import { notesCoverage, studyNotesQuery, type NotesCoverage } from "@/lib/notes";
+import metaEs from "@/data/meta_es.json";
+import metaEn from "@/data/meta_en.json";
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
@@ -29,14 +31,19 @@ export const Route = createFileRoute("/")({
 /** Free e-book banner on the home page; temporarily hidden. */
 const SHOW_EBOOK_BANNER = false;
 
-/** Chapters with at least one study note, per book, from the global notes sheet. */
-function notesAvailability(notes: NotesMap | undefined, book: BookInfo) {
+/**
+ * Bundled snapshot of which chapters have notes (scripts/build-notes-meta.mjs). It renders the grid
+ * in the server HTML and on first paint, before the full notes have downloaded.
+ */
+const NOTES_META: Record<"es" | "en", NotesCoverage> = {
+ es: metaEs.chapters,
+ en: metaEn.chapters,
+};
+
+/** Chapters with at least one study note in a book (global editorial coverage). */
+function bookProgress(coverage: NotesCoverage, book: BookInfo) {
  const total = CHAPTER_COUNTS[book.bookid] ?? 0;
- if (!notes || !total) return { total, done: 0, pct: 0 };
- let done = 0;
- for (let cap = 1; cap <= total; cap++) {
-  if (getNote(notes, book.name, cap)) done++;
- }
+ const done = coverage[book.bookid]?.length ?? 0;
  return { total, done, pct: total ? Math.round((done / total) * 100) : 0 };
 }
 
@@ -49,7 +56,13 @@ function Home() {
   const [consultaOpen, setConsultaOpen] = useState(false);
   const [consultaView, setConsultaView] = useState<"chat" | "history">("chat");
   const [consultaKey, setConsultaKey] = useState(0);
-  const { data: studyNotes, isLoading: notesLoading } = useQuery(studyNotesQuery(lang));
+  // Full notes load in the background after mount (they also warm the reader's cache); once they
+  // arrive they replace the snapshot, so edits made to the sheet since the snapshot still show up.
+  const { data: liveNotes } = useQuery(studyNotesQuery(lang));
+  const coverage = useMemo(
+    () => (liveNotes ? notesCoverage(liveNotes) : NOTES_META[lang]),
+    [liveNotes, lang],
+  );
 
  const [last, setLast] = useState<{ libro: string; cap: string }>({
   libro: "genesis",
@@ -150,7 +163,7 @@ function Home() {
      <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
       {BOOK_GROUPS.flatMap((group) => group.books).map((book) => (
        <li key={book.bookid}>
-         <BookCard book={book} notes={studyNotes} loading={notesLoading} />
+         <BookCard book={book} coverage={coverage} />
        </li>
       ))}
      </ul>
@@ -180,9 +193,9 @@ function Home() {
  );
 }
 
-function BookCard({ book, notes, loading }: { book: BookInfo; notes: NotesMap | undefined; loading: boolean }) {
+function BookCard({ book, coverage }: { book: BookInfo; coverage: NotesCoverage }) {
   const { t, lang } = useI18n();
-  const { total, done, pct } = notesAvailability(notes, book);
+  const { total, done, pct } = bookProgress(coverage, book);
 
  const badge =
   pct === 100 ? (
@@ -215,14 +228,10 @@ function BookCard({ book, notes, loading }: { book: BookInfo; notes: NotesMap | 
     </span>
    </div>
     <div className="mt-3 h-1 overflow-hidden rounded-full bg-neutral-100 dark:bg-neutral-800">
-     {loading && pct === 0 ? (
-      <div className="h-full w-full animate-pulse bg-neutral-200 dark:bg-neutral-700" />
-     ) : (
-      <div
-       className={`h-full transition-all ${pct === 100 ? "bg-emerald-500" : pct >= 1 ? "bg-orange-500" : "bg-neutral-300 dark:bg-neutral-600"}`}
-       style={{ width: `${pct}%` }}
-      />
-     )}
+     <div
+      className={`h-full transition-all ${pct === 100 ? "bg-emerald-500" : pct >= 1 ? "bg-orange-500" : "bg-neutral-300 dark:bg-neutral-600"}`}
+      style={{ width: `${pct}%` }}
+     />
     </div>
   </Link>
  );
