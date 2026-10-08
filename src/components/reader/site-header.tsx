@@ -1,10 +1,14 @@
-import { useEffect, useState } from "react";
+import { lazy, Suspense, useEffect, useState } from "react";
 import { Link } from "@tanstack/react-router";
 import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
 
-import { GlobalSearch, SearchTrigger } from "./global-search";
+import { SearchTrigger } from "./search-trigger";
 import { AuthNav } from "@/components/auth/auth-nav";
 import { useI18n } from "@/i18n";
+
+// The search dialog (cmdk + search index) is only needed once the user opens it.
+const loadGlobalSearch = () => import("./global-search");
+const GlobalSearch = lazy(() => loadGlobalSearch().then((m) => ({ default: m.GlobalSearch })));
 
 interface SiteHeaderProps {
  rightLink?: { to: string; label: string };
@@ -15,6 +19,11 @@ export function SiteHeader({
 }: SiteHeaderProps) {
  const { t } = useI18n();
  const [searchOpen, setSearchOpen] = useState(false);
+ const [searchMounted, setSearchMounted] = useState(false);
+
+ useEffect(() => {
+  if (searchOpen) setSearchMounted(true);
+ }, [searchOpen]);
 
  useEffect(() => {
   const onKey = (e: KeyboardEvent) => {
@@ -35,8 +44,12 @@ export function SiteHeader({
     </Link>
 
      <div className="flex shrink-0 items-center gap-1.5 sm:gap-2">
-      <SearchTrigger onClick={() => setSearchOpen(true)} />
-      <GlobalSearch open={searchOpen} onOpenChange={setSearchOpen} />
+      <SearchTrigger onClick={() => setSearchOpen(true)} onIntent={() => void loadGlobalSearch()} />
+      {searchMounted || searchOpen ? (
+       <Suspense fallback={null}>
+        <GlobalSearch open={searchOpen} onOpenChange={setSearchOpen} />
+       </Suspense>
+      ) : null}
       {rightLink ? (
       <Link
        to={rightLink.to}

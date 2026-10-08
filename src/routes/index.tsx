@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { createFileRoute, Link, useNavigate, useSearch } from "@tanstack/react-router";
 import { ArrowRight, BookOpen, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
+import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
 import { useQuery } from "@tanstack/react-query";
 import { notesCoverage, studyNotesQuery, type NotesCoverage } from "@/lib/notes";
 import metaEs from "@/data/meta_es.json";
@@ -58,7 +58,17 @@ function Home() {
   const [consultaKey, setConsultaKey] = useState(0);
   // Full notes load in the background after mount (they also warm the reader's cache); once they
   // arrive they replace the snapshot, so edits made to the sheet since the snapshot still show up.
-  const { data: liveNotes } = useQuery(studyNotesQuery(lang));
+  // The download (~1.7 MB CSV) waits until the browser is idle so it doesn't compete with hydration.
+  const [idle, setIdle] = useState(false);
+  useEffect(() => {
+    if ("requestIdleCallback" in window) {
+      const id = window.requestIdleCallback(() => setIdle(true), { timeout: 3000 });
+      return () => window.cancelIdleCallback(id);
+    }
+    const id = setTimeout(() => setIdle(true), 1500);
+    return () => clearTimeout(id);
+  }, []);
+  const { data: liveNotes } = useQuery({ ...studyNotesQuery(lang), enabled: idle });
   const coverage = useMemo(
     () => (liveNotes ? notesCoverage(liveNotes) : NOTES_META[lang]),
     [liveNotes, lang],
@@ -116,7 +126,7 @@ function Home() {
                 <BookOpen /> {t.home.continueReading} ({lastBook} {last.cap})
               </Link>
             </Button>
-            <Button variant="outline" size="lg" className="h-11 rounded-full px-6" onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
+            <Button variant="outline" size="lg" className="h-11 rounded-full px-6" onPointerEnter={preloadConsulta} onFocus={preloadConsulta} onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
               <MessageSquare /> {t.home.askPatmos}
             </Button>
           </div>
@@ -170,7 +180,7 @@ function Home() {
     </section>
    </main>
     <AuthModal open={signupOpen} onOpenChange={setSignupOpen} defaultTab="signup" />
-    <ConsultaPatmos key={consultaKey} open={consultaOpen} onOpenChange={(open) => {
+    <LazyConsultaPatmos key={consultaKey} open={consultaOpen} onOpenChange={(open) => {
       setConsultaOpen(open);
       if (!open && search.consulta) void navigate({ to: "/", search: {}, replace: true });
     }} userId={user?.id ?? null} book="" chapter={0} verses={[]} initialScope="bible" initialView={consultaView} onRequireAuth={() => { setConsultaOpen(false); setSignupOpen(true); }} />

@@ -14,7 +14,7 @@ import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
-import { ConsultaPatmos } from "@/components/reader/consulta-patmos";
+import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { getActiveLang, useI18n } from "@/i18n";
 import { excerpt, plainText, seoHead } from "@/lib/seo";
@@ -549,6 +549,8 @@ function Reader() {
             <button
               type="button"
               data-consulta-fab=""
+              onPointerEnter={preloadConsulta}
+              onFocus={preloadConsulta}
               onClick={() => setConsultaOpen((o) => !o)}
      aria-label={consultaOpen ? t.reader.closeConsulta : t.reader.openConsulta}
                className={
@@ -562,7 +564,7 @@ function Reader() {
             </button>
    ) : null}
 
-   <ConsultaPatmos
+   <LazyConsultaPatmos
     open={consultaOpen}
     onOpenChange={setConsultaOpen}
     userId={userId}

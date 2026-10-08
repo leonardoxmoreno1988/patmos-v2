@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { useNavigate } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { BookOpen, Search, NotebookPen, ArrowRight } from "lucide-react";
+import { BookOpen, NotebookPen, ArrowRight } from "lucide-react";
 
 import {
 	Command,
@@ -253,30 +253,5 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 				</Command>
 			</DialogContent>
 		</Dialog>
-	);
-}
-
-export function SearchTrigger({ onClick }: { onClick: () => void }) {
-	const { t } = useI18n();
-	return (
-		<>
-			<button
-				type="button"
-				onClick={onClick}
-				aria-label={t.search.label}
-				className="hidden sm:flex h-9 items-center gap-2 rounded-full border border-foreground/15 px-4 text-sm text-muted-foreground transition-colors hover:border-foreground/30 min-w-[180px]"
-			>
-				<Search className="h-4 w-4 shrink-0" />
-				<span>{t.search.placeholder}</span>
-			</button>
-			<button
-				type="button"
-				onClick={onClick}
-				aria-label={t.search.label}
-				className="grid sm:hidden h-10 w-10 shrink-0 place-items-center rounded-lg bg-transparent p-2 text-[#000f37] transition-colors hover:bg-accent/50 hover:text-foreground dark:text-white dark:hover:text-white/80"
-			>
-				<Search className="h-[18px] w-[18px]" />
-			</button>
-		</>
 	);
 }
