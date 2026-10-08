@@ -13,7 +13,7 @@ import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
 
 import { BOOKS, BOOK_GROUPS, CHAPTER_COUNTS, bookFromSlug, bookName, slugifyBook, type BookInfo } from "@/lib/bible";
 import { SiteHeader } from "@/components/reader/site-header";
-import { seoHead } from "@/lib/seo";
+import { ORGANIZATION, SITE_NAME, SITE_URL, seoHead } from "@/lib/seo";
 import { useI18n } from "@/i18n";
 
 export const Route = createFileRoute("/")({
@@ -24,6 +24,22 @@ export const Route = createFileRoute("/")({
    description:
      "Plataforma de investigación teológica, análisis profético y preservación del texto bíblico Reina Valera 1865.",
    canonical: "/",
+   jsonLd: [
+    {
+     "@type": "WebSite",
+     "@id": `${SITE_URL}/#website`,
+     name: SITE_NAME,
+     url: `${SITE_URL}/`,
+     inLanguage: "es",
+     publisher: { "@id": `${SITE_URL}/#organization` },
+     potentialAction: {
+      "@type": "SearchAction",
+      target: { "@type": "EntryPoint", urlTemplate: `${SITE_URL}/buscar?q={search_term_string}` },
+      "query-input": "required name=search_term_string",
+     },
+    },
+    ORGANIZATION,
+   ],
   }),
  component: Home,
 });
@@ -112,9 +128,9 @@ function Home() {
           <h1 className="sr-only">{t.home.srTitle}</h1>
           
           {/* Título visible únicamente en desktop */}
-          <h2 className="hidden md:block font-bold tracking-tight text-foreground mb-6 text-4xl md:text-5xl lg:text-6xl">
+          <p aria-hidden="true" className="hidden md:block font-bold tracking-tight text-foreground mb-6 text-4xl md:text-5xl lg:text-6xl">
             {t.home.heroTitle}
-          </h2>
+          </p>
   
           <p className="mx-auto max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
             {t.home.heroDescription}

@@ -82,20 +82,13 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Comentario Bíblico — Lectura y notas de estudio" },
+      // Fallbacks for pages without their own head() (404/error); routes override via seoHead().
+      { title: "Patmos Research — Biblia Reina-Valera 1865 y notas de estudio" },
       {
         name: "description",
         content:
-          "Lee la Biblia en un espacio limpio y sereno, con notas de estudio por capítulo.",
+          "Plataforma de investigación teológica, análisis profético y preservación del texto bíblico Reina Valera 1865.",
       },
-      { property: "og:title", content: "Comentario Bíblico" },
-      {
-        property: "og:description",
-        content: "Lectura bíblica minimalista con comentario y notas de estudio.",
-      },
-      { property: "og:type", content: "website" },
-      { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@Lovable" },
     ],
     links: [
       {

@@ -30,12 +30,14 @@ export const Route = createFileRoute("/buscar")({
 			page: Math.max(1, Number(search["page"] ?? 1) || 1),
 		};
 	},
-	head: () =>
+	head: ({ match }) =>
 		seoHead({
 			title: "Buscar — Biblia + Notas",
 			description:
 				"Busca en el texto completo de la Reina-Valera 1865 y en las notas de estudio de Leonardo Moreno.",
 			canonical: "/buscar",
+			// Result pages (/buscar?q=...) are internal search output; keep them out of the index.
+			noindex: match.search.q.trim() !== "",
 		}),
 	component: SearchPage,
 });

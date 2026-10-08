@@ -17,7 +17,7 @@ import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { getActiveLang, useI18n } from "@/i18n";
-import { excerpt, plainText, seoHead } from "@/lib/seo";
+import { ORGANIZATION, SITE_URL, brandTitle, excerpt, plainText, seoHead } from "@/lib/seo";
 import { recordReadChapter } from "@/lib/reading-progress";
 
 function truncateWords(text: string, maxWords: number) {
@@ -40,13 +40,42 @@ export const Route = createFileRoute("/leer/$libro/$cap")({
   const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
   const note = getNote(loaderData, book, chapter);
   const description = note
-   ? excerpt(plainText(note), 150)
+   ? excerpt(plainText(note).replace(/\[\d+\]\s*/g, ""), 150) // drop "[1]"-style note markers
    : `Lee ${book} ${chapter} en la Reina-Valera 1865 con notas de estudio y análisis doctrinal.`;
+  const title = `${book} ${chapter} - Lectura y Estudio (RV1865)`;
+  const url = `${SITE_URL}/leer/${slugifyBook(book)}/${chapter}`;
   return seoHead({
-   title: `${book} ${chapter} - Notas de Estudio y Exégesis (RV1865)`,
+   title,
    description,
-   canonical: `/leer/${slugifyBook(book)}/${chapter}`,
+   canonical: url,
    ogType: "article",
+   jsonLd: [
+    {
+     "@type": "Article",
+     headline: brandTitle(title),
+     description,
+     url,
+     mainEntityOfPage: url,
+     inLanguage: "es",
+     image: `${SITE_URL}/og-image.png`,
+     author: { "@type": "Person", name: "Leonardo Moreno" },
+     publisher: ORGANIZATION,
+     isPartOf: { "@id": `${SITE_URL}/#website` },
+     about: {
+      "@type": "Chapter",
+      name: `${book} ${chapter}`,
+      position: chapter,
+      isPartOf: { "@type": "Book", name: `${book} — Biblia Reina-Valera 1865`, inLanguage: "es" },
+     },
+    },
+    {
+     "@type": "BreadcrumbList",
+     itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Inicio", item: `${SITE_URL}/` },
+      { "@type": "ListItem", position: 2, name: `${book} ${chapter}`, item: url },
+     ],
+    },
+   ],
   });
  },
  component: Reader,
