@@ -22,7 +22,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { useAuth } from "./auth-provider";
+import { isDemoUser, useAuth } from "./auth-provider";
 import { AuthModal } from "./auth-modal";
 import { AccountModal } from "./account-modal";
 import { LibrarySheet } from "@/components/library/library-sheet";
@@ -206,9 +206,11 @@ export function AuthNav() {
           <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
             <Library /> {t.auth.myLibrary}
           </DropdownMenuItem>
-          <DropdownMenuItem onSelect={() => setResourcesOpen(true)}>
-            <Download /> {t.auth.resources}
-          </DropdownMenuItem>
+          {!isDemoUser(user) && (
+            <DropdownMenuItem onSelect={() => setResourcesOpen(true)}>
+              <Download /> {t.auth.resources}
+            </DropdownMenuItem>
+          )}
           <DropdownMenuSeparator />
           <DropdownMenuItem onSelect={() => void openBilling()}>
             <CreditCard /> {t.auth.proSubscription}

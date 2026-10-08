@@ -7,7 +7,7 @@ import { useQuery } from "@tanstack/react-query";
 import { notesCoverage, studyNotesQuery, type NotesCoverage } from "@/lib/notes";
 import metaEs from "@/data/meta_es.json";
 import metaEn from "@/data/meta_en.json";
-import { useAuth } from "@/components/auth/auth-provider";
+import { isDemoUser, useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
 
@@ -123,7 +123,7 @@ function Home() {
         </section>
   
         {/* Banner del E-book gratuito — oculto temporalmente; poner SHOW_EBOOK_BANNER en true para reactivarlo */}
-        {SHOW_EBOOK_BANNER && (
+        {SHOW_EBOOK_BANNER && !isDemoUser(user) && (
           <section className="border-y border-border py-8 sm:py-10" aria-label={t.home.ebookRegion}>
             <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
               <div className="flex items-start gap-4 sm:items-center">

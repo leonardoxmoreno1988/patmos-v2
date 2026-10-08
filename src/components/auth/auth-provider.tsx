@@ -37,6 +37,13 @@ interface AuthContextValue {
 const g = globalThis as { __rvAuthCtx?: React.Context<AuthContextValue | null> };
 const AuthContext = (g.__rvAuthCtx ??= createContext<AuthContextValue | null>(null));
 
+// Demo account used for presentations: skips the e-book welcome flow and hides "Recursos".
+export const DEMO_EMAIL = "demo@patmosresearch.com";
+
+export function isDemoUser(user: User | null | undefined): boolean {
+  return user?.email?.toLowerCase() === DEMO_EMAIL;
+}
+
 function nameFromUser(user: User | null): string {
   if (!user) return "";
   const meta = user.user_metadata ?? {};
@@ -65,7 +72,12 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       setUser(nextSession?.user ?? null);
       setLoading(false);
       const u = nextSession?.user;
-      if (event === "SIGNED_IN" && u && !hasSeenWelcome(u.id)) {
+      if (event === "SIGNED_IN" && u && isDemoUser(u)) {
+        markWelcomeSeen(u.id);
+        if (window.location.pathname === "/welcome") {
+          setTimeout(() => void navigate({ to: "/" }), 0);
+        }
+      } else if (event === "SIGNED_IN" && u && !hasSeenWelcome(u.id)) {
         const created = u.created_at ? Date.parse(u.created_at) : 0;
         const isNew = Date.now() - created < 7 * 24 * 60 * 60 * 1000;
         if (isNew) {

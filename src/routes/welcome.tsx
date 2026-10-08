@@ -1,8 +1,8 @@
 import { useEffect } from "react";
-import { createFileRoute, Link } from "@tanstack/react-router";
+import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 
 import { SiteHeader } from "@/components/reader/site-header";
-import { useAuth } from "@/components/auth/auth-provider";
+import { isDemoUser, useAuth } from "@/components/auth/auth-provider";
 import { EBOOK_TITLE, EBOOK_URL, EBOOK_COVER, markWelcomeSeen } from "@/lib/ebook";
 import { seoHead } from "@/lib/seo";
 
@@ -20,9 +20,11 @@ export const Route = createFileRoute("/welcome")({
 
 function Welcome() {
   const { user } = useAuth();
+  const navigate = useNavigate();
 
   useEffect(() => {
     if (user) markWelcomeSeen(user.id);
+    if (isDemoUser(user)) void navigate({ to: "/", replace: true });
   }, [user]);
 
   return (
