@@ -12,7 +12,6 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as BuscarRouteImport } from './routes/buscar'
 import { Route as NewsletterRouteImport } from './routes/newsletter'
-import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as WelcomeRouteImport } from './routes/welcome'
 import { Route as ApiBillingRouteImport } from './routes/api/billing'
 import { Route as ApiChatRouteImport } from './routes/api/chat'
@@ -33,11 +32,6 @@ const BuscarRoute = BuscarRouteImport.update({
 const NewsletterRoute = NewsletterRouteImport.update({
   id: '/newsletter',
   path: '/newsletter',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
-  id: '/sitemap.xml',
-  path: '/sitemap.xml',
   getParentRoute: () => rootRouteImport,
 } as any)
 const WelcomeRoute = WelcomeRouteImport.update({
@@ -75,7 +69,6 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/buscar': typeof BuscarRoute
   '/newsletter': typeof NewsletterRoute
-  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/welcome': typeof WelcomeRoute
   '/api/billing': typeof ApiBillingRoute
   '/api/chat': typeof ApiChatRoute
@@ -87,7 +80,6 @@ export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/buscar': typeof BuscarRoute
   '/newsletter': typeof NewsletterRoute
-  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/welcome': typeof WelcomeRoute
   '/api/billing': typeof ApiBillingRoute
   '/api/chat': typeof ApiChatRoute
@@ -100,7 +92,6 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/buscar': typeof BuscarRoute
   '/newsletter': typeof NewsletterRoute
-  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/welcome': typeof WelcomeRoute
   '/api/billing': typeof ApiBillingRoute
   '/api/chat': typeof ApiChatRoute
@@ -114,7 +105,6 @@ export interface FileRouteTypes {
     | '/'
     | '/buscar'
     | '/newsletter'
-    | '/sitemap.xml'
     | '/welcome'
     | '/api/billing'
     | '/api/chat'
@@ -126,7 +116,6 @@ export interface FileRouteTypes {
     | '/'
     | '/buscar'
     | '/newsletter'
-    | '/sitemap.xml'
     | '/welcome'
     | '/api/billing'
     | '/api/chat'
@@ -138,7 +127,6 @@ export interface FileRouteTypes {
     | '/'
     | '/buscar'
     | '/newsletter'
-    | '/sitemap.xml'
     | '/welcome'
     | '/api/billing'
     | '/api/chat'
@@ -151,7 +139,6 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   BuscarRoute: typeof BuscarRoute
   NewsletterRoute: typeof NewsletterRoute
-  SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   WelcomeRoute: typeof WelcomeRoute
   ApiBillingRoute: typeof ApiBillingRoute
   ApiChatRoute: typeof ApiChatRoute
@@ -181,13 +168,6 @@ declare module '@tanstack/react-router' {
       path: '/newsletter'
       fullPath: '/newsletter'
       preLoaderRoute: typeof NewsletterRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/sitemap.xml': {
-      id: '/sitemap.xml'
-      path: '/sitemap.xml'
-      fullPath: '/sitemap.xml'
-      preLoaderRoute: typeof SitemapDotxmlRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/welcome': {
@@ -239,7 +219,6 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   BuscarRoute: BuscarRoute,
   NewsletterRoute: NewsletterRoute,
-  SitemapDotxmlRoute: SitemapDotxmlRoute,
   WelcomeRoute: WelcomeRoute,
   ApiBillingRoute: ApiBillingRoute,
   ApiChatRoute: ApiChatRoute,

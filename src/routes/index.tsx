@@ -13,11 +13,12 @@ import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
 
 import { BOOKS, BOOK_GROUPS, CHAPTER_COUNTS, bookFromSlug, bookName, slugifyBook, type BookInfo } from "@/lib/bible";
 import { SiteHeader } from "@/components/reader/site-header";
-import { ORGANIZATION, SITE_NAME, SITE_URL, seoHead } from "@/lib/seo";
+import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_NAME, SITE_URL, seoHead } from "@/lib/seo";
 import { useI18n } from "@/i18n";
 
 export const Route = createFileRoute("/")({
  staticData: { sitemap: true },
+ headers: () => PUBLIC_PAGE_HEADERS,
  head: () =>
   seoHead({
    title: "PATMOS — Exégesis y Biblia Reina Valera 1865",

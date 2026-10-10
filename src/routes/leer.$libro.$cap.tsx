@@ -17,7 +17,7 @@ import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
 import { getNote, studyNotesQuery } from "@/lib/notes";
 import { getActiveLang, useI18n } from "@/i18n";
-import { ORGANIZATION, SITE_URL, brandTitle, excerpt, plainText, seoHead } from "@/lib/seo";
+import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, brandTitle, excerpt, plainText, seoHead } from "@/lib/seo";
 import { recordReadChapter } from "@/lib/reading-progress";
 
 function truncateWords(text: string, maxWords: number) {
@@ -32,6 +32,7 @@ function truncateWords(text: string, maxWords: number) {
 
 export const Route = createFileRoute("/leer/$libro/$cap")({
  staticData: { sitemap: true },
+ headers: () => PUBLIC_PAGE_HEADERS,
  // SSR and hydration always render Spanish (seeded below as initialData). Client-side navigations
  // load the notes the reader will actually show, so English never waits on the Spanish sheet.
  loader: ({ context }) => context.queryClient.ensureQueryData(studyNotesQuery(getActiveLang())),

@@ -9,7 +9,7 @@ import { studyNotesQuery } from "@/lib/notes";
 import { useI18n } from "@/i18n";
 import { allBooksQuery, matchIndex, searchNotes, searchVerses, type Hit } from "@/lib/search";
 import { cn } from "@/lib/utils";
-import { seoHead } from "@/lib/seo";
+import { PUBLIC_PAGE_HEADERS, seoHead } from "@/lib/seo";
 
 type Filter = "all" | "notes" | "bible";
 const PER_PAGE = 20;
@@ -22,6 +22,7 @@ interface SearchParams {
 
 export const Route = createFileRoute("/buscar")({
 	staticData: { sitemap: true },
+	headers: () => PUBLIC_PAGE_HEADERS,
 	validateSearch: (search: Record<string, unknown>): SearchParams => {
 		const filter = String(search["filter"] ?? "all");
 		return {

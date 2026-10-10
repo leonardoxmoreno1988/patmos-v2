@@ -4,8 +4,11 @@ import viteReact from "@vitejs/plugin-react";
 import tsconfigPaths from "vite-tsconfig-paths";
 import tailwindcss from "@tailwindcss/vite";
 
+import { sitemapPlugin } from "./src/lib/sitemap-build.ts";
+
 export default defineConfig({
   plugins: [
+    sitemapPlugin(),
     tanstackStart(),
     viteReact(),
     tsconfigPaths(),

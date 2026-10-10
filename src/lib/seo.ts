@@ -131,3 +131,12 @@ export function excerpt(text: string, max = 150): string {
  const cut = text.slice(0, max);
  return cut.slice(0, Math.max(cut.lastIndexOf(" "), 0)).trimEnd() + "…";
 }
+
+/**
+ * Lets Vercel's CDN serve rendered public pages for a day (and stale for a week while it
+ * revalidates), so crawlers don't run the server function on every hit. Browsers still
+ * revalidate (max-age=0). SSR is anonymous (auth/lang live client-side), so it's safe to share.
+ */
+export const PUBLIC_PAGE_HEADERS = {
+ "Cache-Control": "public, max-age=0, s-maxage=86400, stale-while-revalidate=604800",
+};

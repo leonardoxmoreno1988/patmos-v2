@@ -3,12 +3,13 @@ import { createFileRoute } from "@tanstack/react-router";
 import { Star } from "lucide-react";
 
 import { SiteHeader } from "@/components/reader/site-header";
-import { seoHead } from "@/lib/seo";
+import { PUBLIC_PAGE_HEADERS, seoHead } from "@/lib/seo";
 import profileAsset from "@/assets/leonardo-moreno.png.asset.json";
 
 
 export const Route = createFileRoute("/newsletter")({
  staticData: { sitemap: true },
+ headers: () => PUBLIC_PAGE_HEADERS,
  head: () =>
   seoHead({
    title: "Newsletter — Notas de Estudio",
