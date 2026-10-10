@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "conocimiento-y-ciencia-brotan-de-sus"
 redirectFrom: "/2023/11/conocimiento-y-ciencia-brotan-de-sus.html"
 description: "Esta semana me fue muy complejo completar algún material, pero les comparto este esquema de versículos que nos sirve para la vida diaria: Pecado Romanos…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "pharmakeia-medicina"
 redirectFrom: "/2022/06/pharmakeia-medicina.html"
 description: "La palabra griega 'pharmakeia' se usa en las Escrituras para describir hechicería, brujería o magia. En el Nuevo Testamento la palabra aparece tres veces…"
+tags: ["Falsas Doctrinas"]
 ---
 
 Estimado lector,

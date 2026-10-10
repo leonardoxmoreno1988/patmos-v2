@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "angeles-no-guardaron-dignidad"
 redirectFrom: "/2022/04/angeles-no-guardaron-dignidad.html"
 description: "En el libro del Génesis, hay una advertencia relevante para la humanidad. La Biblia deja muy claro que hay otra especie pseudo-humana que fue manipulada…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,

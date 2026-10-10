@@ -6,6 +6,7 @@ author: "Texe Marrs"
 slug: "monumentosmisteriosos3"
 redirectFrom: "/2020/10/monumentosmisteriosos3.html"
 description: "\"Todas las sociedades secretas espirituales se suscriben a los misterios gnósticos; es decir, postulan una Sabiduría Divina que se puede lograr a través de los…"
+tags: ["Sociedad"]
 ---
 
 > **"Todas las sociedades secretas espirituales se suscriben a los misterios gnósticos; es decir, postulan una Sabiduría Divina que se puede lograr a través de los propios esfuerzos del hombre."**

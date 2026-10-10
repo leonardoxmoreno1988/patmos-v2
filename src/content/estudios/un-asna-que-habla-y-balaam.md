@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "un-asna-que-habla-y-balaam"
 redirectFrom: "/2025/05/un-asna-que-habla-y-balaam.html"
 description: "El profeta Balaam es un interesante ejemplo de un servidor de Dios que caminó en la peligrosa senda de la tibieza. No es estuvo tan comprometido con el Señor…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

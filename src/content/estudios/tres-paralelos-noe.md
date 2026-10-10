@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "tres-paralelos-noe"
 redirectFrom: "/2022/04/tres-paralelos-noe.html"
 description: "En Lucas 17, Jesús les da a los discípulos una descripción gráfica de los últimos tiempos y especialmente de los momentos previos a la Tribulación. Les dice a…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

@@ -6,6 +6,7 @@ author: "Colin Morris"
 slug: "ojo-que-todo-lo-ve"
 redirectFrom: "/2021/09/ojo-que-todo-lo-ve.html"
 description: "¿Por qué hay tantas fotos de celebridades ocultando un ojo? Definitivamente no es aleatorio. De hecho, el signo de un ojo tiene un significado profundo y…"
+tags: ["Cine y Cultura"]
 ---
 
 ¿Por qué hay tantas fotos de celebridades ocultando un ojo? Definitivamente no es aleatorio. De hecho, el **signo de un ojo** tiene un significado profundo y demuestra un hecho importante sobre los poderes fácticos. Este artículo analiza los orígenes y el significado del signo ineludible de Un Ojo.

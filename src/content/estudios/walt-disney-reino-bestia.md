@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "walt-disney-reino-bestia"
 redirectFrom: "/2022/04/walt-disney-reino-bestia.html"
 description: "Walt Disney irrumpió el panorama cultural estadounidense del siglo XX, produciendo una centena de dibujos animados que influyeron en el mundo. Cuando murió en…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,

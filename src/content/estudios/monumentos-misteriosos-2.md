@@ -6,6 +6,7 @@ author: "Texe Marrs"
 slug: "monumentos-misteriosos-2"
 redirectFrom: "/2020/06/monumentos-misteriosos-2.html"
 description: "\"La arquitectura es la voluntad de la época concebida en términos espirituales.\" - Ludwig Mies van der Rohe"
+tags: ["Sociedad"]
 ---
 
 > **"La arquitectura es la voluntad de la época concebida en términos espirituales."**  

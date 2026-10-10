@@ -6,6 +6,7 @@ author: "Ross Clark"
 slug: "la-guerra-contra-el-efectivo-el-plan"
 redirectFrom: "/2020/02/la-guerra-contra-el-efectivo-el-plan.html"
 description: "Constantemente se nos dice que estamos en la cúspide de una sociedad sin dinero. A la industria de servicios financieros le gustaría verlo de esa manera…"
+tags: ["Sociedad"]
 ---
 
 Constantemente se nos dice que estamos en la cúspide de una sociedad sin dinero. A la industria de servicios financieros le gustaría verlo de esa manera. Estamos siendo atraídos con tarjetas sin contacto, aplicaciones de pago por teléfono móvil, y métodos de transferencia bancaria: todo, aparentemente, para nuestra conveniencia.

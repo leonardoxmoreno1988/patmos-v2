@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "como-las-estrellas-del-alba-que-alaban"
 redirectFrom: "/2023/11/como-las-estrellas-del-alba-que-alaban.html"
 description: "En Judas 1:6 se habla de ángeles que abandonaron su morada, su habitación original, para cometer actos indebidos en el mundo terrenal (Génesis 6:12). Aquel…"
+tags: ["Apologética"]
 ---
 
 En Judas 1:6 se habla de ángeles que abandonaron su morada, su habitación original, para cometer actos indebidos en el mundo terrenal (Génesis 6:12). Aquel lugar de origen o morada celestial, es señalado arriba en las estrellas.  

@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "monte-de-los-olivos"
 redirectFrom: "/2022/08/monte-de-los-olivos.html"
 description: "El libro de Zacarías narra de forma impactante como Jesucristo descenderá del cielo y pondrá sus pies sobre un lugar en específico (Zacarías 14:4). Este lugar…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

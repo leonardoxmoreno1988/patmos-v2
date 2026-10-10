@@ -8,13 +8,14 @@ export interface EstudioSummary {
   updated?: string;
   author: string;
   readingMinutes: number;
+  tags: string[];
+  /** First image in the post (featured card, structured data). */
+  image?: string;
 }
 
 /** A full post: summary plus the rendered article HTML. */
 export interface Estudio extends EstudioSummary {
   html: string;
-  /** First image in the post, for structured data. */
-  image?: string;
 }
 
 const DATE_FORMAT = new Intl.DateTimeFormat("es", {

@@ -6,6 +6,7 @@ author: "Kevin Farringdon"
 slug: "posgenero-raices-ocultas"
 redirectFrom: "/2021/03/posgenero-raices-ocultas.html"
 description: "Recientemente, varios escritores han estado alertando a los cristianos sobre las formas en que su pensamiento se ha vuelto cautivo de las ideas de tipo…"
+tags: ["Sociedad"]
 ---
 
 Recientemente, varios escritores han estado alertando a los cristianos sobre las formas en que su pensamiento se ha vuelto cautivo de las ideas de tipo gnóstico sobre el cuerpo. En lugar de tratar el cuerpo como algo bueno, que está en proceso de ser redimido (Romanos 8:23), es fácil para los cristianos caer en la trampa de hablar sobre el cuerpo como si fuera una **prisión** de la cual debemos, en última instancia, **escapar**.

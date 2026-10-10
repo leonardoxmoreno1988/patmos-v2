@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "inteligencia-artificial-2"
 redirectFrom: "/2023/05/inteligencia-artificial-2.html"
 description: "El Anticristo usará la tecnología para empujar su agenda contra Dios. Vemos esto en Revelación 11, cuando el mundo usa la tecnología para glorificar la muerte…"
+tags: ["Sociedad"]
 ---
 
 Estimado lector,  

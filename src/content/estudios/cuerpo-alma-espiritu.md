@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "cuerpo-alma-espiritu"
 redirectFrom: "/2023/02/cuerpo-alma-espiritu.html"
 description: "Para comprender íntegramente la repercusión de la muerte de Cristo en la cruz, debemos entender nuestro estado vigente y quienes somos como creación de Dios…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

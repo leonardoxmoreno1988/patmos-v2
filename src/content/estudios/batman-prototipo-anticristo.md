@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "batman-prototipo-anticristo"
 redirectFrom: "/2022/03/Batman-prototipo-anticristo.html"
 description: "Después de 83 años de diversas adaptaciones, tanto infantiles como tipo PG-13, Batman puede ser percibido como uno de los héroes de ficción más emblemáticos, y…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,

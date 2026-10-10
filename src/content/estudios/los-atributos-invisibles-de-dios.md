@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "los-atributos-invisibles-de-dios"
 redirectFrom: "/2023/06/los-atributos-invisibles-de-dios.html"
 description: "Si Jesús es el único camino a Dios (Juan 14:6) ¿Qué pasa con el miembro de la tribu amazónica, el budista de algún rincón de Asia, o el habitante de una isla…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

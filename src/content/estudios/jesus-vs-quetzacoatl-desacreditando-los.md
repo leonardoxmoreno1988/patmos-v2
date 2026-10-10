@@ -6,6 +6,7 @@ author: "J.P. Holding"
 slug: "jesus-vs-quetzacoatl-desacreditando-los"
 redirectFrom: "/2021/04/jesus-vs-quetzacoatl-desacreditando-los.html"
 description: "De todos nuestros artículos sobre el “Cristo imitador pagano” hasta ahora, el de Quetzacoatl este que ser, y probablemente siempre será, el más inusual, porque…"
+tags: ["Apologética"]
 ---
 
 De todos nuestros artículos sobre el **“Cristo imitador pagano”** hasta ahora, el de Quetzacoatl este que ser, y probablemente siempre será, el más inusual, porque en realidad estamos discutiendo en contra de dos lados con ideas diferentes. Pero resulta que la misma solución simple los hunde a ambos.

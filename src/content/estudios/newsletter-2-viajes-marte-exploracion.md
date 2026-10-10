@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "newsletter-2-viajes-marte-exploracion"
 redirectFrom: "/2021/06/newsletter-2-viajes-marte-exploracion.html"
 description: "Un nueva meta tecnológica es tendencia en esta generación, la colonización de Marte, que promete prolongar la existencia de la humanidad más allá de nuestro…"
+tags: ["Sociedad"]
 ---
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7nT8mbvDJaG1ykgHyFYW84fWwnxHom9F1HyfK_U_0kO_QrmR6oo1IBxhduvSoFnIBk1tjO4fBpotovtv6lwfyBpL_juXrbHEAN57WQIeMWjBbLGXXPDBZXaaVaCO0CY7qTTDMOqKsEgg/s16000/mars.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7nT8mbvDJaG1ykgHyFYW84fWwnxHom9F1HyfK_U_0kO_QrmR6oo1IBxhduvSoFnIBk1tjO4fBpotovtv6lwfyBpL_juXrbHEAN57WQIeMWjBbLGXXPDBZXaaVaCO0CY7qTTDMOqKsEgg/s900/mars.jpg)

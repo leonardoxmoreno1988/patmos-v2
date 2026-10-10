@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "con-bocina-salterio-arpa-y-cimbalos"
 redirectFrom: "/2026/04/con-bocina-salterio-arpa-y-cimbalos.html"
 description: "La música es un lenguaje en sí mismo. Cuando el apóstol enseña en Efesios 5:19 y Colosenses 3:16 a cantar con \"salmos\", nos está mostrando un manual de…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "desde-los-cielos-hiciste-oir-juicio"
 redirectFrom: "/2026/04/desde-los-cielos-hiciste-oir-juicio.html"
 description: "El libro de los Salmos constituye el himnario más extenso de las Escrituras, esta compuesto por cantos, oraciones e himnos espirituales, y es donde se nos…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

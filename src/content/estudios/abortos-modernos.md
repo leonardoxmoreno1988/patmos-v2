@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "abortos-modernos"
 redirectFrom: "/2023/03/abortos-modernos.html"
 description: "La antigua práctica del sacrificio de niños se ha reanudado con el aborto legal en muchos países, solo que ya no es un ritual masivo, sino que está oculto a…"
+tags: ["Sociedad"]
 ---
 
 Estimado lector,  

@@ -6,6 +6,7 @@ author: "Kevin Farringdon"
 slug: "la-agenda-verde"
 redirectFrom: "/2021/09/la-agenda-verde.html"
 description: "Durante la última década, las Naciones Unidas se han re-inventado descaradamente en un gobierno global, esforzándose por obtener el marco legal, los recursos…"
+tags: ["Sociedad"]
 ---
 
 Durante la última década, las Naciones Unidas se han re-inventado descaradamente en un gobierno global, esforzándose por obtener el marco legal, los recursos financieros y el apoyo de base para implementar sus políticas. Se ha apoderado efectivamente del control legal y regulatorio en muchos países, a través de la **Agenda 21**, y ha desarrollado una Constitución, la **Carta de la Tierra**, para su visión sobre una sociedad global interdependiente transformada.

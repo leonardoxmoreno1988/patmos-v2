@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "el-prana-chi-para-sanacion"
 redirectFrom: "/2022/10/el-prana-chi-para-sanacion.html"
 description: "Debido a la apostasía actual, muchas iglesias han introducido un sincretismo entre el cristianismo y los métodos de sanación del medio oriente, atribuyéndolos…"
+tags: ["Falsas Doctrinas"]
 ---
 
 Estimado lector,  

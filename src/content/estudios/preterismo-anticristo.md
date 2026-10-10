@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "preterismo-anticristo"
 redirectFrom: "/2021/11/preterismo-anticristo.html"
 description: "La falsa doctrina del preterismo enseña que el Anticristo fue el emperador Tito Flavio Vespasiano (9-79 d.C.), que trajo la Gran Tribulación en la forma de la…"
+tags: ["Falsas Doctrinas"]
 ---
 
 Estimado lector,

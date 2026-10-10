@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "futuro-china-profecia"
 redirectFrom: "/2022/08/futuro-china-profecia.html"
 description: "Uno de los cambios colosales de este siglo ha sido el despertar económico y militar de China. Con una población de 1,400 millones, esta nación hace que su…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,  

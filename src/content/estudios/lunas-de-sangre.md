@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "lunas-de-sangre"
 redirectFrom: "/2022/03/lunas-de-sangre.html"
 description: "Desde los primeros días después de la creación, los seres humanos han estado fascinados por lo que vemos en el firmamento. Señales inusuales en los cielos…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "humanidad-2-0-restauracion"
 redirectFrom: "/2022/11/humanidad-2.0-restauracion.html"
 description: "El transhumanismo, o lo recientemente llamado, humanidad 2.0 es el intento de mejorar las habilidades físicas y/o mentales ya sea mediante modificación…"
+tags: ["Sociedad"]
 ---
 
 Estimado lector,  

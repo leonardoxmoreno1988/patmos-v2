@@ -6,6 +6,7 @@ author: "J.P. Holding"
 slug: "jesus-vs-baal"
 redirectFrom: "/2021/10/jesus-vs-baal.html"
 description: "Baal es una figura conocida del Antiguo Testamento que a veces se afirma, es otro paralelo de Cristo. Echemos un vistazo a esto: nuestra fuente es Orígenes del…"
+tags: ["Apologética"]
 ---
 
 **Baal** es una figura conocida del Antiguo Testamento que a veces se afirma, es otro paralelo de Cristo. Echemos un vistazo a esto: nuestra fuente es _Orígenes del Monoteísmo Bíblico de Smith_ \[104ff\].

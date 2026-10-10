@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "ciertamente-no-estas-en-el-medio"
 redirectFrom: "/2023/07/ciertamente-no-estas-en-el-medio.html"
 description: "Cuando el Señor Jesucristo estaba en una cruz sostenido por tres clavos, dos delincuentes lo acompañaban (Marcos 15:27). Dos transgresores de la ley romana…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

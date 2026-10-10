@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "elon-kanye-tweet"
 redirectFrom: "/2022/12/elon-kanye-tweet.html"
 description: "El mayor problema de un mundo en ceguera espiritual, no es la ignorancia de la figura de Jesucristo, sino desconocer lo que Él dijo de sí mismo y de lo que…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,  

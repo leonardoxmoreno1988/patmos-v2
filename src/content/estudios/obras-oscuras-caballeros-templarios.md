@@ -6,6 +6,7 @@ author: "Kevin Farringdon"
 slug: "obras-oscuras-caballeros-templarios"
 redirectFrom: "/2021/02/obras-oscuras-caballeros-templarios.html"
 description: "No mucha gente sabe que los orígenes de la masonería residen en un grupo que durante la época medieval eran conocidos como los Caballeros Templarios. Este…"
+tags: ["Sociedad"]
 ---
 
 No mucha gente sabe que los orígenes de la **masonería** residen en un grupo que durante la época medieval eran conocidos como los **Caballeros Templarios**. Este grupo controvertido inicialmente ayudó a cumplir con la solicitud del Papa Urbano II de conquistar las tierras santas (Jerusalén) en nombre del cristianismo solo para terminar siendo perseguido por la misma Iglesia que habían protegido durante cientos de años.  

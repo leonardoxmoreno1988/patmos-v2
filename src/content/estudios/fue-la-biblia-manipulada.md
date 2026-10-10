@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "fue-la-biblia-manipulada"
 redirectFrom: "/2022/05/fue-la-biblia-manipulada.html"
 description: "La razón por la que prefiero usar la versión Reina Valera 1865 de la Biblia es significativa, ya que se relaciona con un tema que, como es habitual, ha…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,

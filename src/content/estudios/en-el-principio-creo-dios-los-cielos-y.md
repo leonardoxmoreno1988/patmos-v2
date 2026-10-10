@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "en-el-principio-creo-dios-los-cielos-y"
 redirectFrom: "/2023/07/en-el-principio-creo-dios-los-cielos-y.html"
 description: "La primera línea del Génesis (1:1) demuestra quién es Dios de manera evidente. Hay siete palabras en el texto hebreo. Esta coincidencia es notable cuando uno…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

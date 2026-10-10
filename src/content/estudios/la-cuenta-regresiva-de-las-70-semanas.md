@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "la-cuenta-regresiva-de-las-70-semanas"
 redirectFrom: "/2022/01/la-cuenta-regresiva-de-las-70-semanas.html"
 description: "No muchas profecías en la Biblia son tan descriptivas en cuanto a tiempo como lo son las 70 semanas de Daniel, por lo que creo que esta publicación será útil…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "cuerpo-resurreccion"
 redirectFrom: "/2022/05/cuerpo-resurreccion.html"
 description: "Una de las verdades extraordinarias de la resurrección de Jesús es la promesa de que los cuerpos de los que confían en Él también resucitarán un día, como…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

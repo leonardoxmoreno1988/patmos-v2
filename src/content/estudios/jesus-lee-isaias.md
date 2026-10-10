@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "jesus-lee-isaias"
 redirectFrom: "/2022/05/jesus-lee-isaias.html"
 description: "Cuando Jesucristo enseñó hace más de 2,000 años, no fue reconocido como el mesías, los judíos, enceguecidos de religiosidad e intereses propios, lo clavaron en…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

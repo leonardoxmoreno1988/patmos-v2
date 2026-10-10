@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "no-creyendo-espiritu-enganoso"
 redirectFrom: "/2022/09/no-creyendo-espiritu-enganoso.html"
 description: "En la tradición católica, hay muchas apariciones reportadas de María, ángeles y/o santos apareciendo y entregando un mensaje de Dios. Es probable que en…"
+tags: ["Falsas Doctrinas"]
 ---
 
 Estimado lector,  

@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "diferencias-importantes"
 redirectFrom: "/2022/09/diferencias-importantes.html"
 description: "Los que unen el arrebatamiento y la Segunda Venida de Cristo al final de la Tribulación, se oponen a la idea de que pueda haber dos etapas o fases de un solo…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,  

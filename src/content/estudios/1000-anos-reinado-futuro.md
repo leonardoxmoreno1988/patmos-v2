@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "1000-anos-reinado-futuro"
 redirectFrom: "/2023/01/1000-anos-reinado-futuro.html"
 description: "En lo personal, no me resulta fácil presenciar escenas de desigualdad y pobreza, algo común en América Latina. Las diferencias socioeconómicas en muchos países…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,  

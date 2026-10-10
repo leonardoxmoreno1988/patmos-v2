@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "serpiente-escurridiza"
 redirectFrom: "/2022/12/serpiente-escurridiza.html"
 description: "Cuando la serpiente antigua se presentó en el capítulo tres de Génesis, no es estrictamente claro si tomó la de forma una serpiente literal o de sí el texto se…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

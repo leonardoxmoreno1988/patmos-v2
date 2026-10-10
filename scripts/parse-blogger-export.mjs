@@ -3,8 +3,9 @@
 //
 //   node scripts/parse-blogger-export.mjs [blogger-export.xml]
 //
-// Re-running overwrites the generated files; files for posts no longer in the export are left alone.
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
+// Re-running overwrites the generated files (keeping each file's `tags` line, which may be edited by
+// hand); files for posts no longer in the export are left alone.
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { XMLParser } from "fast-xml-parser";
 import TurndownService from "turndown";
@@ -118,6 +119,23 @@ function describe(html) {
   return `${cut.slice(0, cut.lastIndexOf(" ")).replace(/[\s,;:.]+$/, "")}…`;
 }
 
+/** Blogger labels -> tags: "APOLOGÉTICA" -> "Apologética"; issue numbers ("№ 89") are skipped. */
+const labelTags = (categories) =>
+  categories
+    .filter((c) => !c.scheme?.includes("#kind") && c.term && !c.term.startsWith("№"))
+    .map((c) =>
+      c.term
+        .trim()
+        .toLocaleLowerCase("es")
+        .replace(/^\p{L}/u, (l) => l.toLocaleUpperCase("es")),
+    );
+
+/** The `tags:` line of a post that was already imported, so hand-edited categories survive a re-import. */
+const existingTagsLine = (file) =>
+  existsSync(file)
+    ? /^tags: .*$/m.exec(readFileSync(file, "utf8").split(/\n---/)[0])?.[0]
+    : undefined;
+
 const yaml = (value) => JSON.stringify(value); // JSON strings are valid YAML double-quoted scalars
 
 mkdirSync(OUT_DIR, { recursive: true });
@@ -146,6 +164,7 @@ for (const entry of feed.entry ?? []) {
   // Blogger sometimes exports only the text above the jump break, ending in a "Read more »" link.
   if (/href="[^"]*#more"/.test(html)) truncated.push(redirectFrom);
   const published = text(entry.published);
+  const file = join(OUT_DIR, `${slug}.md`);
   const frontmatter = [
     "---",
     `title: ${yaml(decodeEntities(text(entry.title)).trim())}`,
@@ -155,10 +174,11 @@ for (const entry of feed.entry ?? []) {
     `slug: ${yaml(slug)}`,
     `redirectFrom: ${yaml(redirectFrom)}`,
     `description: ${yaml(describe(html))}`,
+    existingTagsLine(file) ?? `tags: ${JSON.stringify(labelTags(entry.category ?? []))}`,
     "---",
   ].join("\n");
 
-  writeFileSync(join(OUT_DIR, `${slug}.md`), `${frontmatter}\n\n${toMarkdown(html)}\n`);
+  writeFileSync(file, `${frontmatter}\n\n${toMarkdown(html)}\n`);
 }
 
 if (truncated.length > 0) {

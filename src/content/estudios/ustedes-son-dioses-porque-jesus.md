@@ -6,6 +6,7 @@ author: "Steven Bancarz"
 slug: "ustedes-son-dioses-porque-jesus"
 redirectFrom: "/2017/07/ustedes-son-dioses-porque-jesus.html"
 description: "Uno de los versos más confusos en el Nuevo Testamento que a menudo se tuerce en un contexto gnóstico / místico es algo que Jesús dice en Juan capítulo 10: \"Los…"
+tags: ["Apologética"]
 ---
 
 Uno de los versos más confusos en el **Nuevo Testamento** que a menudo se tuerce en un contexto gnóstico / místico es algo que **Jesús** dice en Juan capítulo 10:  

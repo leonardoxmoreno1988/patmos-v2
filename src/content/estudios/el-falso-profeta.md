@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "el-falso-profeta"
 redirectFrom: "/2022/01/el-falso-profeta.html"
 description: "La imagen del falso profeta puede parecer incierta, algunos lo atribuyen a falsos maestros, otros dicen que es el Papa, pero no ignoremos las descripciones…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

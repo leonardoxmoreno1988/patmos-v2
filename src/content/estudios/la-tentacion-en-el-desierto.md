@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "la-tentacion-en-el-desierto"
 redirectFrom: "/2023/11/la-tentacion-en-el-desierto.html"
 description: "Dado que la Biblia siempre da por sentada la existencia literal y personal de Satanás, los creyentes verdaderos de la Biblia también seguimos su ejemplo. Las…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

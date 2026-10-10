@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "interpretamos-las-escrituras"
 redirectFrom: "/2022/10/interpretamos-las-escrituras.html"
 description: "Los principios y bases de interpretación que debemos usar sobre las Escrituras son fundamentales para determinar qué significa un versículo o libro completo de…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

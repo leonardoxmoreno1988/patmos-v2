@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "numeros-apocalipsis"
 redirectFrom: "/2022/06/numeros-apocalipsis.html"
 description: "El libro de Revelación contiene 254 números. Eso es más de un número por cada dos versículos. La presencia de estas cifras (2, 3, 3 ½, 4, 5, 6, 7, 10, 12, 24…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

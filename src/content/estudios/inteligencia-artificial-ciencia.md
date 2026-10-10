@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "inteligencia-artificial-ciencia"
 redirectFrom: "/2023/04/inteligencia-artificial-ciencia.html"
 description: "Durante décadas, la inteligencia artificial ha ido avanzando a una velocidad vertiginosa, prometiendo revolucionar el futuro del ser humano como lo conocemos…"
+tags: ["Sociedad"]
 ---
 
 Estimado lector,  

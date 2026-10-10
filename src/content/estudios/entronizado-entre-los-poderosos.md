@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "entronizado-entre-los-poderosos"
 redirectFrom: "/2023/08/entronizado-entre-los-poderosos.html"
 description: "Esto podría considerarse una extensión del estudio de Revelación de la semana pasada y la parte 2 del newsletter № 47. “Jehová de los ejércitos, Dios de…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,  

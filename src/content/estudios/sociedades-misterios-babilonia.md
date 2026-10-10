@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "sociedades-misterios-babilonia"
 redirectFrom: "/2023/01/sociedades-misterios-babilonia.html"
 description: "Muchos creen que existe un grupo selecto de personas con riqueza, poder y alcance ilimitados. Tal grupo es conocido por muchos nombres: el \"gobierno en la…"
+tags: ["Sociedad"]
 ---
 
 Estimado lector,  

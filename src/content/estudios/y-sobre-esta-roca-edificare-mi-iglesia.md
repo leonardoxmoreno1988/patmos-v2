@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "y-sobre-esta-roca-edificare-mi-iglesia"
 redirectFrom: "/2023/11/y-sobre-esta-roca-edificare-mi-iglesia.html"
 description: "El catolicismo llegó a América hace más de 500 años. Tras levantar muchas iglesias, escuelas y conventos, más de seis generaciones viven la influencia del…"
+tags: ["Falsas Doctrinas"]
 ---
 
 Estimado lector,  

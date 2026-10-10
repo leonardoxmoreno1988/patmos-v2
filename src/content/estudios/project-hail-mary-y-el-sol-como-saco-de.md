@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "project-hail-mary-y-el-sol-como-saco-de"
 redirectFrom: "/2026/04/project-hail-mary-y-el-sol-como-saco-de.html"
 description: "Aunque la información bíblica sobre Satanás antes de su caída suele considerarse un tema de libre interpretación, analizar el lenguaje simbólico de la película…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,

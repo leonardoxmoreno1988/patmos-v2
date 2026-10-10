@@ -67,13 +67,14 @@ function compile(
     ...(meta.updated && meta.updated !== meta.date ? { updated: meta.updated } : {}),
     author: meta.author ?? DEFAULT_AUTHOR,
     readingMinutes: Math.max(1, Math.round(text.split(" ").length / WORDS_PER_MINUTE)),
+    tags: meta.tags,
     html,
     ...(image ? { image } : {}),
   };
   return { post, text };
 }
 
-const summary = ({ html: _html, image: _image, ...rest }: Estudio): EstudioSummary => rest;
+const summary = ({ html: _html, ...rest }: Estudio): EstudioSummary => rest;
 
 /**
  * Compiles src/content/estudios/*.md at build time, so no Markdown parser ships to the browser:

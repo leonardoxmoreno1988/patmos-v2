@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "como-trapo-de-inmundicia"
 redirectFrom: "/2026/07/como-trapo-de-inmundicia.html"
 description: "La Biblia establece que la ropa y la desnudez operan como tipos de la condición espiritual del hombre y de la provisión de Dios. La desnudez está…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

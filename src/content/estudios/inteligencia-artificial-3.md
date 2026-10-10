@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "inteligencia-artificial-3"
 redirectFrom: "/2023/06/inteligencia-artificial-3.html"
 description: "En esta última parte del estudio sobre la tecnología, es oportuno hablar acerca del fenómeno físico que lo hace posible, la electricidad. Fluido vital que…"
+tags: ["Sociedad"]
 ---
 
 Estimado lector,  

@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "aquel-que-desea-sentarse-en-el-trono"
 redirectFrom: "/2022/10/aquel-que-desea-sentarse-en-el-trono.html"
 description: "La Biblia declara que Satanás es el dios de este mundo y hasta que sea derrocado en la Segunda Venida de Cristo (Revelación 19:11-21), continuará usando un…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,  

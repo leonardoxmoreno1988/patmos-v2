@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "sobre-angeles-mensajeros"
 redirectFrom: "/2025/06/sobre-angeles-mensajeros.html"
 description: "El estudio de los ángeles es una parte importante de la teología que a menudo se malinterpreta. Las películas, las creencias de la iglesia católica y la…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

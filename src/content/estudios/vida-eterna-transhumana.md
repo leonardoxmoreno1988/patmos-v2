@@ -6,6 +6,7 @@ author: "Kevin Farringdon"
 slug: "vida-eterna-transhumana"
 redirectFrom: "/2020/10/vida-eterna-transhumana.html"
 description: "Esta generación es testigo del surgimiento de un nuevo movimiento social radical conocido como transhumanismo. Al expresar una fe inquebrantable en el avance…"
+tags: ["Sociedad"]
 ---
 
 [![Rostro femenino robótico que expone los circuitos y conexiones internas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqQr6XFnLeXUTVGw0GO2iMUTHcKMFHJ_haVybBga6f4PG3xu9tfp3KYZwNCEdYRktUiL5kY5ehHV16dofrpach8iZG22PnCezl8obd9ZPJuBdyHk3iSXF8Aa-l5eSg4uYPRqtrZ6NYJEk/s16000/transhumanismo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqQr6XFnLeXUTVGw0GO2iMUTHcKMFHJ_haVybBga6f4PG3xu9tfp3KYZwNCEdYRktUiL5kY5ehHV16dofrpach8iZG22PnCezl8obd9ZPJuBdyHk3iSXF8Aa-l5eSg4uYPRqtrZ6NYJEk/s590/transhumanismo.jpg)

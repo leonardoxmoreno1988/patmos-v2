@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "algunos-problemas-biblicos-con-el"
 redirectFrom: "/2025/05/algunos-problemas-biblicos-con-el.html"
 description: "El mormonismo, formalmente denominado como La Iglesia de Jesucristo de los Santos de los Últimos Días, representa un movimiento religioso con un importante…"
+tags: ["Falsas Doctrinas"]
 ---
 
 Estimado lector,  

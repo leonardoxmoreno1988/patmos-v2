@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "futuro-transhumanista"
 redirectFrom: "/2022/03/futuro-transhumanista.html"
 description: "Gracias a la profecía bíblica podemos asegurar que los intentos de fusionar la tecnología informática con cerebros humanos, tendrán consecuencias perjudiciales…"
+tags: ["Sociedad"]
 ---
 
 Estimado lector,

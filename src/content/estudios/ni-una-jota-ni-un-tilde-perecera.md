@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "ni-una-jota-ni-un-tilde-perecera"
 redirectFrom: "/2026/04/ni-una-jota-ni-un-tilde-perecera.html"
 description: "Cuando nos detenemos a observar la historia de la iglesia primitiva, es imposible no sentirnos sorprendidos. Lo que comenzó como un pensamiento lleno de…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

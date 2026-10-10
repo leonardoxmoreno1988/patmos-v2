@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "se-gozara-mucho-su-corazon"
 redirectFrom: "/2023/11/se-gozara-mucho-su-corazon.html"
 description: "Una de los cosas más complejas de sobrellevar en la vida cristiana es la falta de paz. Al estar bajo ataques constantes a la carne (Romanos 8:5-9) y la mente…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

@@ -6,6 +6,7 @@ author: "Kevin Farringdon"
 slug: "gigantes-encubrimiento-smithsoniano"
 redirectFrom: "/2021/08/gigantes-encubrimiento-smithsoniano.html"
 description: "Hay muchas traducciones y explicaciones modernas para historias contadas en la Biblia. Entre ellos se encuentran el relato de los gigantes que vivían entre los…"
+tags: ["Sociedad"]
 ---
 
 [![Instituto smithsoniano con dibujo de gigante detrás](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQ_ctTlvLuEJHRnEgMNzG6ocECbTbSBBAyrys_EjpPub96vfry2nqncyOirw0iujQQetCnSldT7vS9WtxZBdjxlBsDOddWmMA4J0v9DoSj9ZmguVSmHAVVbUKRZrxzqY-TP3w1EGTT_I/s16000/gigantes.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQ_ctTlvLuEJHRnEgMNzG6ocECbTbSBBAyrys_EjpPub96vfry2nqncyOirw0iujQQetCnSldT7vS9WtxZBdjxlBsDOddWmMA4J0v9DoSj9ZmguVSmHAVVbUKRZrxzqY-TP3w1EGTT_I/s641/gigantes.jpeg)

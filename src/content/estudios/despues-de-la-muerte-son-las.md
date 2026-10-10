@@ -6,6 +6,7 @@ author: "Kevin Farringdon"
 slug: "despues-de-la-muerte-son-las"
 redirectFrom: "/2021/06/despues-de-la-muerte-son-las.html"
 description: "En el éxito de ventas multimillonario de 1975, Vida Después de la Vida, Raymond Moody, ampliamente considerado como el padre de las experiencias cercanas a la…"
+tags: ["Falsas Doctrinas"]
 ---
 
 En el éxito de ventas multimillonario de 1975, _Vida Después de la Vida_, Raymond Moody, ampliamente considerado como el padre de las **experiencias cercanas a la muerte**, ofrece un retrato conmovedor del amor incondicional y la aceptación universal que emana de la frontera entre este mundo y el próximo.

@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "dagon-hibridos-del-mar"
 redirectFrom: "/2021/12/dagon-hibridos-del-mar.html"
 description: "El autor de novelas de terror H.P Lovecraft no limitó sus personajes a simples quimeras, él prefirió desarrollar todo un universo de criaturas míticas, dioses…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,

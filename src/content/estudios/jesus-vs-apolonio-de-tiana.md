@@ -6,6 +6,7 @@ author: "J.P. Holding"
 slug: "jesus-vs-apolonio-de-tiana"
 redirectFrom: "/2017/06/jesus-vs-apolonio-de-tiana.html"
 description: "En tiempos antiguos había una vez un Maestro. Este Maestro era un noble idealista que representaba la más alta conciencia e inteligencia que su sociedad tenía…"
+tags: ["Apologética"]
 ---
 
 En tiempos antiguos había una vez un **Maestro****.** Este Maestro era un noble idealista que representaba la más alta conciencia e inteligencia que su sociedad tenía para ofrecer; Se consideraba a sí mismo nombrado por Dios para su tarea, y operaba un ministerio con el objetivo de revolucionar la conducta.

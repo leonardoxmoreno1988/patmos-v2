@@ -6,6 +6,7 @@ author: "Mike Shreve"
 slug: "jesus-enseno-yoga"
 redirectFrom: "/2021/04/jesus-enseno-yoga.html"
 description: "Algunos no cristianos, especialmente aquellos comprometidos con una cosmovisión de la Nueva Era o del lejano oriente, podrían responder a esta pregunta…"
+tags: ["Apologética"]
 ---
 
 Algunos no cristianos, especialmente aquellos comprometidos con una cosmovisión de la **Nueva Era** o del lejano oriente, podrían responder a esta pregunta explicando: “La palabra 'yoga' significa yugo o unión y Jesús enseñó que debemos estar en yugo con Dios (en unión con Dios ), así que sí, debe haber enseñado **yoga**".

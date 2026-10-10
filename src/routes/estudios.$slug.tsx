@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState, type RefObject } from "react";
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { ArrowLeft, Link2, Share2 } from "lucide-react";
 import { toast } from "sonner";
@@ -59,9 +59,11 @@ export const Route = createFileRoute("/estudios/$slug")({
 
 function EstudioPage() {
   const post = Route.useLoaderData();
+  const articleRef = useRef<HTMLElement>(null);
 
   return (
     <div className="min-h-screen bg-background">
+      <ReadingProgress target={articleRef} />
       <SiteHeader />
 
       <main className="mx-auto max-w-2xl px-4 pb-20 pt-6 sm:px-6 sm:pt-10">
@@ -71,7 +73,7 @@ function EstudioPage() {
           </Link>
         </Button>
 
-        <article className="mt-6">
+        <article ref={articleRef} className="mt-6">
           <header className="border-b border-border pb-6">
             <h1 className="text-[28px] font-bold leading-tight tracking-tight text-foreground sm:text-4xl">
               {post.title}
@@ -105,6 +107,47 @@ function EstudioPage() {
           />
         </div>
       </main>
+    </div>
+  );
+}
+
+/** Thin bar fixed to the top of the viewport showing how much of the article has been scrolled past. */
+function ReadingProgress({ target }: { target: RefObject<HTMLElement | null> }) {
+  const barRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    let frame = 0;
+    const update = () => {
+      frame = 0;
+      const article = target.current;
+      const bar = barRef.current;
+      if (!article || !bar) return;
+      const { top, height } = article.getBoundingClientRect();
+      // 0 when the article's top reaches the top of the viewport, 1 when its end reaches the bottom.
+      const scrollable = height - window.innerHeight;
+      const progress = scrollable > 0 ? Math.min(1, Math.max(0, -top / scrollable)) : 1;
+      bar.style.transform = `scaleX(${progress})`;
+    };
+    const schedule = () => {
+      if (!frame) frame = requestAnimationFrame(update);
+    };
+    update();
+    window.addEventListener("scroll", schedule, { passive: true });
+    window.addEventListener("resize", schedule);
+    return () => {
+      cancelAnimationFrame(frame);
+      window.removeEventListener("scroll", schedule);
+      window.removeEventListener("resize", schedule);
+    };
+  }, [target]);
+
+  return (
+    <div aria-hidden="true" className="pointer-events-none fixed inset-x-0 top-0 z-50 h-0.5">
+      <div
+        ref={barRef}
+        className="h-full origin-left bg-foreground/70"
+        style={{ transform: "scaleX(0)" }}
+      />
     </div>
   );
 }

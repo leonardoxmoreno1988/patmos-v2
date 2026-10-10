@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "nueva-guerra-gog-magog"
 redirectFrom: "/2022/02/nueva-guerra-gog-magog.html"
 description: "Rusia continúa con la invasión de Ucrania. Kiev y Jarkov son los puntos actuales de lucha en estos momentos. La respuesta de Europa ha sido imponer sanciones…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

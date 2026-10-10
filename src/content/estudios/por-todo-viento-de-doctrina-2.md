@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "por-todo-viento-de-doctrina-2"
 redirectFrom: "/2026/04/por-todo-viento-de-doctrina-2.html"
 description: "Esta es la parte II del estudio de sectas. Los Testigos de Jehová son un grupo que comenzó como estudio bíblico en Pensilvania, EEUU, en la década de 1870. Se…"
+tags: ["Falsas Doctrinas"]
 ---
 
 Estimado lector,  

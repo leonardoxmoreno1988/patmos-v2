@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "pinocho-guillermo-del-toro"
 redirectFrom: "/2023/04/pinocho-guillermo-del-toro.html"
 description: "El director de cine Guillermo del Toro dijo que en su nueva película quería retratar al títere de madera como la figura del \"mesías imperfecto\" ¿Qué significa…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,  

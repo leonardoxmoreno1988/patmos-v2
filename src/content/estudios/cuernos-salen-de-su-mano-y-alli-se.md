@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "cuernos-salen-de-su-mano-y-alli-se"
 redirectFrom: "/2026/01/cuernos-salen-de-su-mano-y-alli-se.html"
 description: "Dios es llamado el cuerno de salvación en Salmos 18:2. Así como también se describe que cuernos salen de la mano del Señor en Habacuc 3:4. Como veremos, la…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

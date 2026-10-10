@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "moises-encuentros-cercanos"
 redirectFrom: "/2022/11/moises-encuentros-cercanos.html"
 description: "La película Encuentros Cercanos del Tercer Tipo (1977) contiene paralelos con la experiencia de Moisés en el monte Sinaí, y en general, grandes paralelos con…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,

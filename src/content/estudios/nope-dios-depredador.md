@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "nope-dios-depredador"
 redirectFrom: "/2022/08/nope-dios-depredador.html"
 description: "Desde el estreno de El Platillo Volador en 1950, la ciencia ficción se ha desarrollado tanto en efectos CGI como en su significado respecto al cristianismo. La…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,

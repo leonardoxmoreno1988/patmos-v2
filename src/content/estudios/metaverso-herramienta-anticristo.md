@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "metaverso-herramienta-anticristo"
 redirectFrom: "/2021/12/metaverso-herramienta-anticristo.html"
 description: "Con millones de vistas en internet, Facebook anunció el mes pasado que la compañía cambiaría su nombre a Meta Platforms Inc., o \"Meta\" para abreviar. El CEO…"
+tags: ["Sociedad"]
 ---
 
 Estimado lector,

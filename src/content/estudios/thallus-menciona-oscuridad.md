@@ -6,6 +6,7 @@ author: "Erik Manning"
 slug: "thallus-menciona-oscuridad"
 redirectFrom: "/2021/09/thallus-menciona-oscuridad.html"
 description: "Los escépticos nos dicen que una de las razones por las que no podemos confiar en los Evangelios es porque cometen muchos errores históricos. En particular…"
+tags: ["Apologética"]
 ---
 
 Los escépticos nos dicen que una de las razones por las que no podemos confiar en los Evangelios es porque cometen muchos errores históricos. En particular, los evangelistas nos cuentan historias lejanas que no han sido corroboradas por otros historiadores contemporáneos. Una de esas historias es la **oscuridad** que sucedió durante la **crucifixión** de Jesús, según Mateo, Marcos y Lucas.

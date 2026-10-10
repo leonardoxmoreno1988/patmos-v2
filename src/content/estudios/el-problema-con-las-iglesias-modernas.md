@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "el-problema-con-las-iglesias-modernas"
 redirectFrom: "/2023/04/el-problema-con-las-iglesias-modernas.html"
 description: "Existen diversas iglesias que se dedican a compartir enseñanzas de la Biblia usando medios y métodos modernos. A tales se le podría llamar, iglesias…"
+tags: ["Falsas Doctrinas"]
 ---
 
 Estimado lector,  

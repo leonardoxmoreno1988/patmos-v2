@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "papa-noel-y-algunos-hechos-sobre-navidad"
 redirectFrom: "/2023/01/papa-noel-y-algunos-hechos-sobre-navidad.html"
 description: "Lo que muchos niños entienden por Papá Noel, es en realidad una evolución del culto a San Nicolás, personaje que la historia describe como un famoso obispo que…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,  

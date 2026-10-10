@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "la-pelicula-junge-y-el-gnosticismo"
 redirectFrom: "/2025/11/la-pelicula-junge-y-el-gnosticismo.html"
 description: "La pelicula koreana de ciencia ficción, Jung-E, (2023), demuestra el culto moderno al luciferanismo gnóstico. Envuelta en una trama de I.A., amor maternal y…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,  

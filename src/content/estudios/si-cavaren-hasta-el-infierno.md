@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "si-cavaren-hasta-el-infierno"
 redirectFrom: "/2025/10/si-cavaren-hasta-el-infierno.html"
 description: "Lo máximo que ha descendido el hombre en la profundidad de la tierra es un poco más de 4 kilómetros, en la Mina de Oro Mponeng en Sudáfrica. Pero esto…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,  

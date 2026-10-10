@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "zacarias-14-predice-un-explosion-nuclear"
 redirectFrom: "/2022/05/zacarias-14-predice-un-explosion-nuclear.html"
 description: "Los residentes de Hiroshima, Japón, apenas comenzaban su rutina matutina cuando la primera bomba atómica del mundo arrasó la ciudad en expansión. La explosión…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

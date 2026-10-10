@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "piezas-rompecabezas"
 redirectFrom: "/2022/08/piezas-rompecabezas.html"
 description: "Ciertos hombres escogidos por Dios lograron predecir el futuro con precisión. Esto es gracias al espíritu de Dios que les permitió hacerlo, muchas veces…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,  

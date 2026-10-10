@@ -6,6 +6,7 @@ author: "Kevin Farringdon"
 slug: "ciencia-babilonica-tecnologia-y"
 redirectFrom: "/2021/05/ciencia-babilonica-tecnologia-y.html"
 description: "Cuando la serpiente le dijo a Adán y Eva que, si comían del Árbol del Conocimiento del Bien y del Mal, que se convertirían en dioses, él plantaría un…"
+tags: ["Sociedad"]
 ---
 
 Cuando la serpiente le dijo a **Adán y Eva** que, si comían del Árbol del Conocimiento del Bien y del Mal, que se convertirían en dioses, él plantaría un deseo generacional en la psique de la conciencia humana. Este deseo mantendría un dominio absoluto en las generaciones futuras y causaría un conflicto significativo entre los seres humanos y Dios. En algunos casos, el conflicto llegó al punto en que Dios literalmente tuvo que destruir la agenda del hombre, como se vio en la **Torre de Babel** y la destrucción del mundo antiguo durante la era antediluviana.

@@ -6,6 +6,7 @@ author: "Global Watch"
 slug: "blavatsky-madame-nueva-era"
 redirectFrom: "/2021/04/blavatsky-madame-nueva-era.html"
 description: "Helena P. Blavatsky puede describirse correctamente como la \"madre\" del movimiento de la Nueva Era, así como del ocultismo moderno y el neopaganismo. Blavatsky…"
+tags: ["Falsas Doctrinas"]
 ---
 
 Helena P. Blavatsky puede describirse correctamente como la "madre" del movimiento de la Nueva Era, así como del ocultismo moderno y el neopaganismo. **Blavatsky** fue una de las pocas mujeres francmasonas de alto rango y tuvo un papel decisivo en la fundación de la **Sociedad Teosófica**, así como una tremenda influencia en el futuro del ocultismo que vino después de ella y el movimiento hacia la globalización, especialmente en la religión.

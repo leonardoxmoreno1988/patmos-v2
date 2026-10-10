@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "oso-ruso"
 redirectFrom: "/2022/01/oso-ruso.html"
 description: "Las noticias recientes han mostrado el interés estratégico del presidente Putin en Ucrania, trayendo constantes rumores de guerra y un conflicto que tiene el…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

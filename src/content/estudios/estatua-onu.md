@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "estatua-onu"
 redirectFrom: "/2022/01/estatua-onu.html"
 description: "El mes pasado la ONU colocó una extraña estatua en su sede principal de New York, la cual trajo muchas comparaciones con la visión del profeta Daniel en Daniel…"
+tags: ["Sociedad"]
 ---
 
 Estimado lector,

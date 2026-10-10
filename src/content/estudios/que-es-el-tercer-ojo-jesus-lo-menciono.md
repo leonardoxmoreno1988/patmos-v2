@@ -6,6 +6,7 @@ author: "Mike Shreve"
 slug: "que-es-el-tercer-ojo-jesus-lo-menciono"
 redirectFrom: "/2021/05/que-es-el-tercer-ojo-jesus-lo-menciono.html"
 description: "La mayoría de los practicantes de yoga creen en siete centros de energía invisibles en el cuerpo llamados chakras. Curiosamente, una pequeña nota aquí al…"
+tags: ["Apologética"]
 ---
 
 La mayoría de los practicantes de yoga creen en siete centros de energía invisibles en el cuerpo llamados chakras. Curiosamente, una pequeña nota aquí al principio, el gurú con el que estudié en 1969-70 enseñó que los chakras eran simplemente "imaginarios y nada más". (1) Aparentemente, los consideraba solo una ayuda para la meditación, pero en realidad no existían. Por supuesto, muchos defensores de este concepto los consideran reales.  

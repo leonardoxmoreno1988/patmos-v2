@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "crecia-este-arbol-y-su-altura-llegaba"
 redirectFrom: "/2025/05/crecia-este-arbol-y-su-altura-llegaba.html"
 description: "Era el año 1998 cuando asistí al estreno de la película de Dragón Ball: El Árbol de la Esencia Sagrada, en una de las diversas visitas que hacíamos con mi…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,  

@@ -11,21 +11,33 @@ export interface EstudioMeta {
   author?: string;
   redirectFrom?: string;
   description: string;
+  /** Categories shown as filter chips on /estudios. */
+  tags: string[];
 }
 
-/** Reads the `key: value` frontmatter block (values may be JSON-quoted, as the importer writes them). */
+/**
+ * Reads the `key: value` frontmatter block. Values may be JSON-quoted strings or JSON arrays
+ * (`tags: ["Apologética"]`), as the importer writes them.
+ */
 function parseFrontmatter(
   source: string,
   file: string,
-): { fields: Record<string, string>; body: string } {
+): { fields: Record<string, string | string[]>; body: string } {
   const match = /^---\r?\n([\s\S]*?)\r?\n---\r?\n?/.exec(source);
   if (!match) throw new Error(`${file}: missing frontmatter`);
-  const fields: Record<string, string> = {};
+  const fields: Record<string, string | string[]> = {};
   for (const line of (match[1] ?? "").split(/\r?\n/)) {
     const field = /^([A-Za-z][\w-]*):\s*(.*)$/.exec(line);
     if (!field) continue;
     const [, key, raw] = field as unknown as [string, string, string];
-    fields[key] = raw.startsWith('"') ? (JSON.parse(raw) as string) : raw.replace(/^'(.*)'$/, "$1");
+    try {
+      fields[key] =
+        raw.startsWith('"') || raw.startsWith("[")
+          ? (JSON.parse(raw) as string | string[])
+          : raw.replace(/^'(.*)'$/, "$1");
+    } catch {
+      throw new Error(`${file}: invalid value for "${key}": ${raw}`);
+    }
   }
   return { fields, body: source.slice(match[0].length) };
 }
@@ -34,7 +46,18 @@ function parseFrontmatter(
 export function readEstudioFile(file: string): { meta: EstudioMeta; body: string } {
   const name = file.replace(/^.*[\\/]/, "");
   const { fields, body } = parseFrontmatter(readFileSync(file, "utf8"), name);
-  const { slug, title, date, updated, author, redirectFrom, description = "" } = fields;
+  const string = (key: string) => {
+    const value = fields[key];
+    if (value !== undefined && typeof value !== "string")
+      throw new Error(`${name}: "${key}" must be a string`);
+    return value;
+  };
+  const [slug, title, date, updated, author, redirectFrom] = (
+    ["slug", "title", "date", "updated", "author", "redirectFrom"] as const
+  ).map(string);
+  const description = string("description") ?? "";
+  const tags = fields["tags"] ?? [];
+  if (!Array.isArray(tags)) throw new Error(`${name}: "tags" must be a list, e.g. ["Apologética"]`);
   if (!slug || !title || !date) throw new Error(`${name}: frontmatter needs slug, title and date`);
   if (`${slug}.md` !== name) throw new Error(`${name}: slug "${slug}" doesn't match the file name`);
   const meta: EstudioMeta = {
@@ -42,6 +65,7 @@ export function readEstudioFile(file: string): { meta: EstudioMeta; body: string
     title,
     date,
     description,
+    tags: tags.map((tag) => tag.trim()).filter(Boolean),
     ...(updated ? { updated } : {}),
     ...(author ? { author } : {}),
     ...(redirectFrom ? { redirectFrom } : {}),

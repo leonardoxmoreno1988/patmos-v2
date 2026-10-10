@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "hombre-de-pecado"
 redirectFrom: "/2022/06/hombre-de-pecado.html"
 description: "Estamos experimentando el resultado de un mundo engañado. A medida que nos acercamos a la recta final, vemos cómo la filosofía luciferina invade la sociedad a…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,  

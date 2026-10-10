@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "fin-del-efectivo"
 redirectFrom: "/2022/01/fin-del-efectivo.html"
 description: "El economista Eswar Prasad es profesor de política comercial de la Universidad de Cornell y exjefe de la división de China del Fondo Monetario Internacional y…"
+tags: ["Sociedad"]
 ---
 
 Estimado lector,

@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "cronologia-de-los-eventos-por-venir"
 redirectFrom: "/2022/05/cronologia-de-los-eventos-por-venir.html"
 description: "En este newsletter explico la cronología de los eventos por venir y como las profecías detallan hechos importantes futuros, tanto antes como después de la…"
+tags: ["Escatología"]
 ---
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-qmcqVIlXL7nAXWBORHO_d4jwRIs32Qh_Z4NYhsMccykBI-oDI_2Sae_1LsRIQJeVgLmevgnmGLkZk98w3JyJgNaHGwFLTvZYT_3a3nCfkvlBzEPhpgr-k8aGA4NT1Wo7L4Y_5ga5zHBihC98pnF_9PW9WAULALVv5_yDqd_2nRscWyoLyzu46ep/s16000/caballo-blanco.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-qmcqVIlXL7nAXWBORHO_d4jwRIs32Qh_Z4NYhsMccykBI-oDI_2Sae_1LsRIQJeVgLmevgnmGLkZk98w3JyJgNaHGwFLTvZYT_3a3nCfkvlBzEPhpgr-k8aGA4NT1Wo7L4Y_5ga5zHBihC98pnF_9PW9WAULALVv5_yDqd_2nRscWyoLyzu46ep/s725/caballo-blanco.jpg)

@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "astronomia-tierra-sobre-nada"
 redirectFrom: "/2022/08/astronomia-tierra-sobre-nada.html"
 description: "Se ha dicho que la Biblia no es un libro de ciencia. Esto es cierto, los libros de ciencias se basan en las ideas de seres humanos que no lo saben todo y que a…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

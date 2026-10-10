@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "no-mires-arriba"
 redirectFrom: "/2022/02/no-mires-arriba.html"
 description: "Cuando una película reúne a cuatro ganadores del Oscar para hacer una sátira del fin del mundo, de por sentado que tiene un significado oculto. Don’t Look Up o…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,

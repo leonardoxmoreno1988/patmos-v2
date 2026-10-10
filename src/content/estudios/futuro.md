@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "futuro"
 redirectFrom: "/2022/04/futuro.html"
 description: "En sus muchos pasajes proféticos, la Biblia habla de naciones específicas, y algunos con nombres reconocibles. Israel está claramente identificado, al igual…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

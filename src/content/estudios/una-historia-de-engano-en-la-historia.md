@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "una-historia-de-engano-en-la-historia"
 redirectFrom: "/2023/08/una-historia-de-engano-en-la-historia.html"
 description: "Al ser un niño de los 80s, la película de misterio oscuro, La Historia Sin Fin, fue parte de la ficción que consumimos muchos en mi generación. Una generación…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,  

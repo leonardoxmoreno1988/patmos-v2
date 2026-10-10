@@ -6,6 +6,7 @@ author: "Fritz Springmeier"
 slug: "no-temere-mal-alguno"
 redirectFrom: "/2021/09/no-temere-mal-alguno.html"
 description: "¿Cómo pensaremos cuando nada tenga sentido? Las películas de Hollywood nos ayudan a mantenernos inmaduros para enfrentar el mundo real, los buenos siempre…"
+tags: ["Cine y Cultura"]
 ---
 
 ¿Cómo pensaremos cuando nada tenga sentido? Las películas de Hollywood nos ayudan a mantenernos inmaduros para enfrentar el mundo real, los buenos siempre ganan y los malos siempre pierden. Esta es una idea **espiritualmente inmadura**. Seguro que la Palabra dice: "Todo lo que el hombre siembre, eso también segará". Galatas 6: 7. Esta es la matemática básica: 1 + 1 = 2. Pero gran parte de la vida no es elemental. Lamento anunciarlo, pero el mundo suele ser más complejo que 1 + 1 = 2.

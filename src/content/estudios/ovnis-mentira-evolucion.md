@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "ovnis-mentira-evolucion"
 redirectFrom: "/2022/06/ovnis-mentira-evolucion.html"
 description: "Muchas personas en el mundo simpatizan con la idea de vida extraterrestre en otros planetas. Y esto incluye la convicción de que algún día civilizaciones más…"
+tags: ["Falsas Doctrinas"]
 ---
 
 Estimado lector,

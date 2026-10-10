@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "piedras-de-fuego"
 redirectFrom: "/2023/03/piedras-de-fuego.html"
 description: "Cuando rastreamos la cronología interdimensional de Satanás, las Escrituras enseñan que este atraviesa seis lugares en términos de su presencia física. Las dos…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,  

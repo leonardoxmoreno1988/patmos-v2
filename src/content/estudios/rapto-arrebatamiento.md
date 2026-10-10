@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "rapto-arrebatamiento"
 redirectFrom: "/2022/02/rapto-arrebatamiento.html"
 description: "Algunos suscriptores han mostrado interés sobre mi posición respecto al rapto o arrebatamiento de la iglesia. En la publicación de esta semana explico mi…"
+tags: ["Escatología"]
 ---
 
 Estimado lector,

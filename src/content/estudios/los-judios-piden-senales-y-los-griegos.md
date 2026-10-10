@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "los-judios-piden-senales-y-los-griegos"
 redirectFrom: "/2025/05/los-judios-piden-senales-y-los-griegos.html"
 description: "Cuando hablamos sobre los dones con señal (don de lenguas, milagros y sanaciones) es mi postura que no continúan en la iglesia, sino que se cesaron con los…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,

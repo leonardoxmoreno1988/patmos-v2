@@ -1,10 +1,11 @@
 import { useDeferredValue, useEffect, useMemo, useState } from "react";
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { Search, X } from "lucide-react";
+import { ArrowRight, Search, X } from "lucide-react";
 import estudios from "virtual:estudios";
 
 import { SiteHeader } from "@/components/reader/site-header";
 import { PatmosCta } from "@/components/estudios/patmos-cta";
+import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { formatEstudioDate, normalizeSearch, type EstudioSummary } from "@/lib/estudios";
 import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, seoHead } from "@/lib/seo";
@@ -43,18 +44,35 @@ export const Route = createFileRoute("/estudios/")({
   component: EstudiosIndex,
 });
 
-// Title, description and author are searchable right away; the full text (a separate chunk) loads
-// the first time the reader focuses or types in the search box.
+const PAGE_SIZE = 12;
+
+// Title, description, author and tags are searchable right away; the full text (a separate chunk)
+// loads the first time the reader focuses or types in the search box.
 const metaText = new Map(
   estudios.map((post) => [
     post.slug,
-    normalizeSearch(`${post.title} ${post.description} ${post.author}`),
+    normalizeSearch(`${post.title} ${post.description} ${post.author} ${post.tags.join(" ")}`),
   ]),
 );
 const loadContentIndex = () => import("virtual:estudios-search").then((m) => m.default);
 
+/** Every tag used by a post, most used first. */
+const TAGS = (() => {
+  const counts = new Map<string, number>();
+  for (const post of estudios)
+    for (const tag of post.tags) counts.set(tag, (counts.get(tag) ?? 0) + 1);
+  return [...counts.entries()]
+    .sort(([a, x], [b, y]) => y - x || a.localeCompare(b, "es"))
+    .map(([tag]) => tag);
+})();
+
+/** Blogger image URLs carry their size in the path ("/s1600/"); ask for one fit for a wide card. */
+const featuredImage = (url: string) => url.replace(/\/s\d+(-c)?\//, "/s1200/");
+
 function EstudiosIndex() {
   const [query, setQuery] = useState("");
+  const [tag, setTag] = useState<string | null>(null);
+  const [limit, setLimit] = useState(PAGE_SIZE);
   const [contentIndex, setContentIndex] = useState<Record<string, string> | null>(null);
   const [wantsContent, setWantsContent] = useState(false);
   const deferredQuery = useDeferredValue(query);
@@ -72,14 +90,25 @@ function EstudiosIndex() {
 
   const results = useMemo(() => {
     const terms = normalizeSearch(deferredQuery).split(/\s+/).filter(Boolean);
-    if (terms.length === 0) return estudios;
     return estudios.filter((post) => {
+      if (tag && !post.tags.includes(tag)) return false;
+      if (terms.length === 0) return true;
       const haystack = `${metaText.get(post.slug) ?? ""} ${contentIndex?.[post.slug] ?? ""}`;
       return terms.every((term) => haystack.includes(term));
     });
-  }, [deferredQuery, contentIndex]);
+  }, [deferredQuery, tag, contentIndex]);
 
   const searching = deferredQuery.trim().length > 0;
+  const filtered = searching || tag !== null;
+  // The latest post is featured on the unfiltered page; filtered views list every match in the grid.
+  const featured = filtered ? undefined : results[0];
+  const grid = featured ? results.slice(1) : results;
+  const visible = grid.slice(0, limit);
+
+  const selectTag = (next: string | null) => {
+    setTag(next);
+    setLimit(PAGE_SIZE);
+  };
 
   return (
     <div className="min-h-screen bg-background">
@@ -101,6 +130,7 @@ function EstudiosIndex() {
               value={query}
               onChange={(e) => {
                 setQuery(e.target.value);
+                setLimit(PAGE_SIZE);
                 setWantsContent(true);
               }}
               onFocus={() => setWantsContent(true)}
@@ -111,7 +141,10 @@ function EstudiosIndex() {
             {query ? (
               <button
                 type="button"
-                onClick={() => setQuery("")}
+                onClick={() => {
+                  setQuery("");
+                  setLimit(PAGE_SIZE);
+                }}
                 aria-label="Limpiar búsqueda"
                 className="absolute right-3 top-1/2 -translate-y-1/2 cursor-pointer rounded-full p-1 text-muted-foreground hover:text-foreground"
               >
@@ -119,34 +152,151 @@ function EstudiosIndex() {
               </button>
             ) : null}
           </div>
-          <p className="mt-3 text-sm text-muted-foreground" aria-live="polite">
-            {searching
-              ? `${results.length} ${results.length === 1 ? "resultado" : "resultados"}${contentIndex ? "" : " (buscando en el contenido…)"}`
+
+          {TAGS.length > 0 ? (
+            <div
+              role="group"
+              aria-label="Filtrar por categoría"
+              className="-mx-4 mt-4 flex gap-2 overflow-x-auto px-4 pb-1 scrollbar-none sm:mx-0 sm:flex-wrap sm:px-0"
+            >
+              {[null, ...TAGS].map((value) => (
+                <TagChip
+                  key={value ?? "*"}
+                  label={value ?? "Todos"}
+                  active={tag === value}
+                  onClick={() => selectTag(value)}
+                />
+              ))}
+            </div>
+          ) : null}
+
+          <p className="mt-4 text-sm text-muted-foreground" aria-live="polite">
+            {filtered
+              ? `${results.length} ${results.length === 1 ? "resultado" : "resultados"}${searching && !contentIndex ? " (buscando en el contenido…)" : ""}`
               : `${estudios.length} estudios`}
           </p>
         </section>
 
-        <PatmosCta
-          title="Profundiza con Patmos"
-          description="Lee la Reina-Valera 1865 con notas de estudio capítulo por capítulo, y haz tus preguntas exegéticas y proféticas al asistente de IA."
-          showAssistant
-        />
+        {featured ? <FeaturedEstudio post={featured} /> : null}
 
-        {results.length > 0 ? (
+        <div className={featured ? "mt-10" : undefined}>
+          <PatmosCta
+            title="Profundiza con Patmos"
+            description="Lee la Reina-Valera 1865 con notas de estudio capítulo por capítulo, y haz tus preguntas exegéticas y proféticas al asistente de IA."
+            showAssistant
+          />
+        </div>
+
+        {visible.length > 0 ? (
           <ul className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {results.map((post) => (
+            {visible.map((post) => (
               <li key={post.slug}>
                 <EstudioCard post={post} />
               </li>
             ))}
           </ul>
-        ) : (
+        ) : results.length === 0 ? (
           <p className="mt-16 text-center text-muted-foreground">
-            No encontramos estudios para “{deferredQuery.trim()}”.
+            {searching
+              ? `No encontramos estudios para “${deferredQuery.trim()}”${tag ? ` en ${tag}` : ""}.`
+              : "No hay estudios en esta categoría."}
           </p>
-        )}
+        ) : null}
+
+        {grid.length > visible.length ? (
+          <div className="mt-10 flex justify-center">
+            <Button
+              type="button"
+              variant="outline"
+              className="h-11 rounded-full px-6"
+              onClick={() => setLimit((n) => n + PAGE_SIZE)}
+            >
+              Cargar más estudios
+              <span className="text-muted-foreground">({grid.length - visible.length})</span>
+            </Button>
+          </div>
+        ) : null}
       </main>
     </div>
+  );
+}
+
+function TagChip({
+  label,
+  active,
+  onClick,
+}: {
+  label: string;
+  active: boolean;
+  onClick: () => void;
+}) {
+  return (
+    <button
+      type="button"
+      aria-pressed={active}
+      onClick={onClick}
+      className={`shrink-0 cursor-pointer rounded-full border px-3.5 py-1.5 text-sm transition-colors ${
+        active
+          ? "border-foreground bg-foreground text-background"
+          : "border-border text-muted-foreground hover:border-foreground/30 hover:text-foreground"
+      }`}
+    >
+      {label}
+    </button>
+  );
+}
+
+function EstudioMeta({ post }: { post: EstudioSummary }) {
+  return (
+    <>
+      <p className="font-medium text-foreground/80">{post.author}</p>
+      <p>
+        <time dateTime={post.date}>{formatEstudioDate(post.date)}</time>
+        {" · "}
+        {post.readingMinutes} min de lectura
+      </p>
+      {post.updated ? (
+        <p>
+          Actualizado el <time dateTime={post.updated}>{formatEstudioDate(post.updated)}</time>
+        </p>
+      ) : null}
+    </>
+  );
+}
+
+function FeaturedEstudio({ post }: { post: EstudioSummary }) {
+  return (
+    <Link
+      to="/estudios/$slug"
+      params={{ slug: post.slug }}
+      className="group grid overflow-hidden rounded-xl border border-border transition-colors hover:border-foreground/25 md:grid-cols-2"
+    >
+      {post.image ? (
+        <img
+          src={featuredImage(post.image)}
+          alt=""
+          className="aspect-[16/9] h-full w-full object-cover md:aspect-auto md:max-h-[380px]"
+        />
+      ) : null}
+      <div
+        className={`flex flex-col justify-center p-6 sm:p-8 ${post.image ? "" : "md:col-span-2"}`}
+      >
+        <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+          Último estudio{post.tags[0] ? ` · ${post.tags[0]}` : ""}
+        </p>
+        <h2 className="mt-3 text-2xl font-bold leading-tight tracking-tight text-foreground group-hover:underline group-hover:underline-offset-4 sm:text-3xl">
+          {post.title}
+        </h2>
+        <p className="mt-3 text-base leading-relaxed text-muted-foreground">{post.description}</p>
+        <div className="mt-5 space-y-0.5 text-sm text-muted-foreground">
+          <EstudioMeta post={post} />
+        </div>
+        <span className="mt-6 inline-flex items-center gap-1.5 text-sm font-medium text-foreground">
+          Leer estudio{" "}
+          <ArrowRight className="size-4 transition-transform group-hover:translate-x-0.5" />
+        </span>
+      </div>
+    </Link>
   );
 }
 
@@ -157,6 +307,9 @@ function EstudioCard({ post }: { post: EstudioSummary }) {
       params={{ slug: post.slug }}
       className="group flex h-full flex-col rounded-lg border border-border p-5 transition-colors hover:border-foreground/25"
     >
+      {post.tags.length > 0 ? (
+        <p className="mb-2 text-xs font-medium text-muted-foreground">{post.tags.join(" · ")}</p>
+      ) : null}
       <h2 className="text-lg font-semibold leading-snug text-foreground group-hover:underline group-hover:underline-offset-4">
         {post.title}
       </h2>
@@ -164,17 +317,7 @@ function EstudioCard({ post }: { post: EstudioSummary }) {
         {post.description}
       </p>
       <div className="mt-4 space-y-0.5 text-xs text-muted-foreground">
-        <p className="font-medium text-foreground/80">{post.author}</p>
-        <p>
-          <time dateTime={post.date}>{formatEstudioDate(post.date)}</time>
-          {" · "}
-          {post.readingMinutes} min de lectura
-        </p>
-        {post.updated ? (
-          <p>
-            Actualizado el <time dateTime={post.updated}>{formatEstudioDate(post.updated)}</time>
-          </p>
-        ) : null}
+        <EstudioMeta post={post} />
       </div>
     </Link>
   );

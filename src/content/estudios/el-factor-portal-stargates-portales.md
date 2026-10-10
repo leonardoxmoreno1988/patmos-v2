@@ -6,6 +6,7 @@ author: "Kevin Farringdon"
 slug: "el-factor-portal-stargates-portales"
 redirectFrom: "/2021/10/el-factor-portal-stargates-portales.html"
 description: "Los eruditos de la Biblia están de acuerdo en que el cielo, el mar y la tierra física contienen fuerzas espirituales detrás de barreras o 'puertas'. En el…"
+tags: ["Sociedad"]
 ---
 
 Los eruditos de la Biblia están de acuerdo en que el cielo, el mar y la tierra física contienen fuerzas espirituales detrás de barreras o **'puertas'**. En el Libro de Apocalipsis 9:14, leemos de “los cuatro ángeles que están atados en el gran río Éufrates". Asimismo, en Job 26:5, la traducción literal hebrea dice: "Los rephaim (ángeles caídos) son hechos para retorcerse debajo de las aguas".

@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "7000-anos-historia-humana"
 redirectFrom: "/2022/07/7000-anos-historia-humana.html"
 description: "Contrario a los postulados de que la historia humana involucra millones de años de evolución darwiniana, la Biblia enseña solo 7.000 años del ser humano sobre…"
+tags: ["Apologética"]
 ---
 
 Estimado lector,  

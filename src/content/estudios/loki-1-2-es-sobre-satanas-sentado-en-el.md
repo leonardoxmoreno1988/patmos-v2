@@ -6,6 +6,7 @@ author: "Leonardo Moreno"
 slug: "loki-1-2-es-sobre-satanas-sentado-en-el"
 redirectFrom: "/2023/11/loki-1-2-es-sobre-satanas-sentado-en-el.html"
 description: "La serie del dios nórdico, Loki, termina con este mismo sentándose en el trono de Dios, haciéndose pasar por Dios. Otra proyección de Satanás en la futura…"
+tags: ["Cine y Cultura"]
 ---
 
 Estimado lector,  
