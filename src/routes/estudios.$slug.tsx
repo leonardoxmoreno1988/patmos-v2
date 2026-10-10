@@ -104,6 +104,7 @@ function EstudioPage() {
           <PatmosCta
             title="Sigue estudiando en el Lector Bíblico"
             description="La Reina-Valera 1865 completa, con notas de estudio capítulo por capítulo y referencias cruzadas."
+            showIcon
           />
         </div>
       </main>
