@@ -22,7 +22,7 @@ Su apariencia puede ser tan similar a la de un hombre promedio que el autor de H
 > "De la hospitalidad no os olvidéis; porque por esta algunos hospedaron ángeles sin saberlo."  
 > –Hebreos 13:2
 
-**Entre todos los ángeles, Gabriel es el único que se nombra repetidamente en el antiguo y nuevo testamento. Su tarea principal es anunciar eventos que tienen que ver con la primera y segunda venida de Cristo (Daniel 8-9). Él trae los mensajes sobre el nacimiento del Mesías y revela también las profecías sobre su regreso a la tierra. Es conocido por anunciar a María el nacimiento virginal de su hijo Jesucristo (Lucas 1:26-28).  
+Entre todos los ángeles, Gabriel es el único que se nombra repetidamente en el antiguo y nuevo testamento. Su tarea principal es anunciar eventos que tienen que ver con la primera y segunda venida de Cristo (Daniel 8-9). Él trae los mensajes sobre el nacimiento del Mesías y revela también las profecías sobre su regreso a la tierra. Es conocido por anunciar a María el nacimiento virginal de su hijo Jesucristo (Lucas 1:26-28).  
   
 Los serafines son una clase de seres angelicales de los que se habla menos, solo se mencionan en Isaías 6:2-7. Su nombre, "los que queman", los conecta con el fuego purificador que limpia el pecado, como se ve en la visión de Isaías. Se les describe con seis alas, dos para cubrir su rostro, dos para sus pies y dos para volar, evidenciando humildad ante Dios. No son agentes de juicio, como lo serían **[los ángeles de Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html#capitulo16)**, sino agentes de la santidad de Dios.  
   
@@ -34,7 +34,7 @@ Los querubines son la clase de ángeles de los que recibimos más detalle en la 
 > "Y la figura de sus rostros era rostro de hombre; y rostro de león á la parte derecha en los cuatro; y á la izquierda rostro de buey en los cuatro; asimismo había en los cuatro rostro de águila. Tales eran sus rostros; y tenían sus alas extendidas por encima, cada uno dos, las cuales se juntaban; y las otras dos cubrían sus cuerpos. Y cada uno caminaba en derecho de su rostro: hacia donde el espíritu era que anduviesen, andaban; cuando andaban, no se volvían."  
 > –Ezequiel 1:10-12
 
-**Sin embargo, querubines y serafines comparten algunas características, como su relación con el fuego, múltiples alas y alabanza constante, pero son distintos en apariencia y función. Las cuatro caras de los querubines simbolizan su supervisión sobre toda la creación de Dios: los mamíferos, las aves y los humanos.  
+Sin embargo, querubines y serafines comparten algunas características, como su relación con el fuego, múltiples alas y alabanza constante, pero son distintos en apariencia y función. Las cuatro caras de los querubines simbolizan su supervisión sobre toda la creación de Dios: los mamíferos, las aves y los humanos.  
   
 La ausencia de anfibios, reptiles y peces entre sus caras contiene una razón importante, estas clases están conectadas con Satanás, que ocupa un dominio separado y caído como el dragón marino. Esto se vio a detalle en el reporte [№ 47 Aquella serpiente escurridiza y tortuosa](https://www.ritualypropaganda.com/2022/12/serpiente-escurridiza.html).  
   
@@ -53,7 +53,7 @@ Ya se mencionó que se le asocia con criaturas de sangre fría como peces, anfib
 > "Tú, querubín grande, que cubre, y yo te puse: en el santo monte de Dios estuviste: en medio de piedras de fuego anduviste. Acabado eras en todos tus caminos desde el día que fuiste creado, hasta que se halló maldad en tí."  
 > –Ezequiel 28:14-15
 
-**Dentro de este análisis de ángeles no podemos ignorar la aparición de lo que la Biblia describe como el "Ángel del Señor" o el "ángel de Jehová" (Génesis 16:7-13; Génesis 22:11-18; Éxodo 3:2-6; Jueces 13:3-21). Hablamos de intervenciones corporales de Jesucristo en el Antiguo Testamento, [muchos años antes](https://www.ritualypropaganda.com/2022/10/viajes-tiempo.html) de haber nacido del vientre de María. Un futuro análisis será enviado explorando este tema.  
+Dentro de este análisis de ángeles no podemos ignorar la aparición de lo que la Biblia describe como el "Ángel del Señor" o el "ángel de Jehová" (Génesis 16:7-13; Génesis 22:11-18; Éxodo 3:2-6; Jueces 13:3-21). Hablamos de intervenciones corporales de Jesucristo en el Antiguo Testamento, [muchos años antes](https://www.ritualypropaganda.com/2022/10/viajes-tiempo.html) de haber nacido del vientre de María. Un futuro análisis será enviado explorando este tema.  
   
 Los diversos roles de los ángeles, tanto en el cielo como en la Tierra, amplían nuestra comprensión del conflicto cósmico y la importancia de la adoración a Dios. La postura de los querubines cubriendo sus rostros y pies es una evidente lección de reverencia y humildad ante la santidad del Señor.  
   

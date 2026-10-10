@@ -138,7 +138,7 @@ La entrada de la puerta de los pilares está custodiada por dos niñas albinas c
 
   
 
-**Isis era la madre de Horus (discutido anteriormente) y era la diosa de la maternidad, la naturaleza y la magia. Hathor también se consideró como una deidad materna al mismo tiempo ser la diosa de la música, la danza y la fertilidad. Tanto Isis y Hathor se sabe que dan la bienvenida y proteger a los muertos durante el viaje al más allá, un concepto que es especialmente interesante en el contexto del vídeo.
+Isis era la madre de Horus (discutido anteriormente) y era la diosa de la maternidad, la naturaleza y la magia. Hathor también se consideró como una deidad materna al mismo tiempo ser la diosa de la música, la danza y la fertilidad. Tanto Isis y Hathor se sabe que dan la bienvenida y proteger a los muertos durante el viaje al más allá, un concepto que es especialmente interesante en el contexto del vídeo.
 
   
 
@@ -178,7 +178,7 @@ Mientras que hacia una investigación preliminar sobre este video, me encontré 
 >   
 > Dionisio había transmitido con éxito la idea del constante temor en que viven los grandes hombres. Cicerón utiliza esta historia como el último de una serie de ejemplos contrastantes para llegar a la conclusión de que se había estado moviendo hacia esta sexta disputacion, en el que el tema es que la virtud es suficiente para vivir una vida feliz. Cicerón le pregunta "¿A Dionisio no le quedo suficientemente claro que no puede haber nada feliz para el individuo sobre el cual el miedo siempre esta presente?" [fuente](http://en.wikipedia.org/wiki/Damocles)
 
-[](https://www.blogger.com/u/1/#)**  
+[](https://www.blogger.com/u/1/#)  
 La historia de la espada simboliza el constante peligro que enfrentan aquellos en posiciones de poder. Kanye está allí, en un estado de muerte inminente, a sabiendas de que puede ser ejecutado en cualquier momento. Inmediatamente después de que vemos la espada de Damocles, una figura aparece sosteniendo una daga y tratando de apuñalarlo. El asesinato no va a pasa por un cuchillo, sin embargo, otras dos figuras saltan de la nada con espadas para llevar a cabo la "matanza del Rey."  
   
 

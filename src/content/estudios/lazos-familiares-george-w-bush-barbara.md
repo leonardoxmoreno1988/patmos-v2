@@ -70,12 +70,12 @@ En ese mismo año Pauline y Nellie empezaron a trabajar como asistentes de Crowl
 > 
 >   
 > 
-> **
+>
 > 
 > **Los asistentes podrán ver con asiduidad en busca de signos de despertar, y en el momento que estos ocurra, todo estímulo debe cesar de inmediato, y se permitirá al candidato caer de nuevo en el sueño, pero apenas ha pasado esto la práctica anterior se reanuda. Esta alteración continua indefinidamente hasta que el candidato este en un estado que no es ni sueño ni vigilia, y en el que su Espíritu, liberado por perfecto agotamiento del cuerpo, impida la entrada a la ciudad del sueño y tenga comunión con el Altísimo y el Santísimo Señor Dios de su ser, Creador del cielo y de la tierra (Nota Jhonkbn: Esta es la descripción de Crowley sobre Lúcifer).**
 > 
 >   
-> La prueba dura termina por insuficiencia --- la ocurrencia del sueño invencible --- o por el éxito, en la cual la última vigilia es seguida por un rendimiento final del acto sexual. El Iniciado puede entonces dormir, o la práctica puede ser renovada y persistir hasta que la muerte termine con todo. La muerte más favorable es la que se produce durante el orgasmo, y se llama Mors Justi."**
+> La prueba dura termina por insuficiencia --- la ocurrencia del sueño invencible --- o por el éxito, en la cual la última vigilia es seguida por un rendimiento final del acto sexual. El Iniciado puede entonces dormir, o la práctica puede ser renovada y persistir hasta que la muerte termine con todo. La muerte más favorable es la que se produce durante el orgasmo, y se llama Mors Justi."
 
   
 Como está escrito: ¡Déjenme morir la muerte de los rectos, y mi postrimería sea como la suya!  

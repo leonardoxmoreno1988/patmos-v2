@@ -285,7 +285,7 @@ Apretón de manos masónico incrustado en griego 500 d.C.
 Este dibujo del antiguo dios babilónico, Nebo, de un diccionario de la Biblia, parece instruir a los adeptos sobre los puntos más finos del uso de signos de la mano o el intercambio de apretones misteriosos. De hecho, el título de Nebo era el "Intérprete de los Dioses", y se decía que era el dios del aprendizaje y de las letras. El rey bíblico Nabucodonosor en el libro de Daniel fue nombrado después de Nebo. Este corte está en el Museo Británico en Londres.  
   
 
-## **Apretones Masónicos Ilustrados En Publicaciones Oficiales**
+## Apretones Masónicos Ilustrados En Publicaciones Oficiales
 
   
 

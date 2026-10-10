@@ -9,7 +9,7 @@ description: "\"El camino al infierno en la tierra es recorrido por el camino a 
 tags: ["Sociedad"]
 ---
 
-> **"El camino al infierno en la tierra es recorrido por el camino a la utopía."** **\- Michael A. Hoffman II, Sociedades secretas y guerra psicológica.**
+> **"El camino al infierno en la tierra es recorrido por el camino a la utopía." \- Michael A. Hoffman II, Sociedades secretas y guerra psicológica.**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBlvHIotKUtUFUN6w6eQz6d_MVPNlrvx04ZbOTsSIFtNL2TUGuvEZQJ7c6dycn7RZ8haZiwifyFoFgwoJi92QLAJuVfOsqTyyt9CVqE8fkh6LfwhScB2HbCotU_CZNBBzWvb39Jil1qvo/s1600/cover-mm1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBlvHIotKUtUFUN6w6eQz6d_MVPNlrvx04ZbOTsSIFtNL2TUGuvEZQJ7c6dycn7RZ8haZiwifyFoFgwoJi92QLAJuVfOsqTyyt9CVqE8fkh6LfwhScB2HbCotU_CZNBBzWvb39Jil1qvo/s1600/cover-mm1.jpg)
 

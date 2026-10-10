@@ -38,7 +38,7 @@ L. Frank Baum, autor de El Mago de Oz era un miembro de la Sociedad Teosófica, 
 
   
 
-La Sociedad Teosófica es una organización oculta, basado principalmente en las enseñanzas de [Helena P. Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html), que trata de extraer las raíces comunes de todas las religiones a fin de formar una doctrina universal.**
+La Sociedad Teosófica es una organización oculta, basado principalmente en las enseñanzas de [Helena P. Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html), que trata de extraer las raíces comunes de todas las religiones a fin de formar una doctrina universal.
 
 >   
 > “Pero tal vez sea conveniente indicar de manera inequívoca que las enseñanzas, no obstante fragmentarias e incompletas, que figura en estos volúmenes, no pertenecen ni a la hindú, la de Zoroastro, el caldeo, ni la religión egipcia,. Ni con el budismo, el islam, el judaísmo ni el cristianismo exclusivamente. La Doctrina Secreta es la esencia de todos ellos. Surgido de que en sus orígenes, los diversos sistemas religiosos se fusionan ahora en su elemento original, de los cuales cada misterio y dogma ha crecido, desarrollado, y materializado “.  
@@ -108,8 +108,6 @@ Dos años después de escribir esos artículos, L. Frank Baum y su esposa Maud G
 
 > “Fue pura inspiración … Se me ocurrió nada más sacarlo de la nada. Creo que a veces el autor tiene un gran mensaje que transmitir y él tiene que utilizar el instrumento a la mano. Se me ocurrió que ese medio, y creo que la clave de la magia me fue dada para abrir las puertas a la simpatía y la comprensión, alegría, paz y felicidad. “  
 > \-L. Frank Baum, citado por Hearn 73
-
-****
 
 > El mago de Oz es muy apreciado dentro de la Sociedad Teosófica. En 1986, la revista The American Theosophist reconoció a Baum ser un teósofo “notable”, cuyo fondo representa la filosofía de la organización.“Aunque los lectores no han visto en sus cuentos de hadas su contenido Teosófica, es significativo que Baum se convirtiera en un famoso escritor de libros para niños después de haber entrado en contacto con la Teosofía. Las ideas teosóficas impregnan su obra y la inspiración proporcionada por ella. De hecho, el asistente puede ser considerado como una alegoría Teosófica, impregnada por las ideas teosóficas de principio a fin. La historia llegó a Baum como una inspiración, y él aceptó con cierto temor, como un regalo de afuera, o tal vez desde lo profundo de él mismo. “  
 > \-Interamericano Teósofo n º 74, 1986
@@ -187,7 +185,7 @@ Después de todo ha sido dicho y hecho, el cerebro, el corazón y el coraje nece
 >   
 > En la última escena, Toto persigue un gato causando a Dorothy correr tras él y, por tanto hacer un extraño viaje en globo. Esto es lo que conduce a la transformación final de Dorothy, el descubrimiento de sus poderes interiores. El viaje en globo es el representante de la religión tradicional, el mago le promete un viaje a la Divinidad. Toto tenía razón obligando a Dorothy subirse en el globo. De lo contrario nunca podría haber encontrado su magia. Este es un llamado para que escuchemos a nuestras intuiciones, nuestros instintos, aquellos trozos momentáneos de la imaginación que no aparecen aparentemente en ninguna parte.”
 
-**Como se indicó anteriormente, el Mago falso invita a Dorothy en su globo para volver a Kansas, su destino final. Ella sin embargo sigue a Toto (su intuición) al globo, que representa a las promesas vacías de las religiones organizadas. Esto conduce a la revelación final y, con la ayuda de la Bruja Buena del Norte (su guía divina), finalmente se entiende: todo lo que siempre quiso pudo encontrarse “en su propio patio trasero”.  
+Como se indicó anteriormente, el Mago falso invita a Dorothy en su globo para volver a Kansas, su destino final. Ella sin embargo sigue a Toto (su intuición) al globo, que representa a las promesas vacías de las religiones organizadas. Esto conduce a la revelación final y, con la ayuda de la Bruja Buena del Norte (su guía divina), finalmente se entiende: todo lo que siempre quiso pudo encontrarse “en su propio patio trasero”.  
   
 A fin de obtener la iluminación Dorothy tuvo que vencer a los brujos malvados de Oriente y Occidente – que estaban formando un eje del mal horizontal: el mundo material. Ella era sabia en escuchar los consejos de las brujas buenas del Norte y del Sur – el eje vertical: la dimensión espiritual.
 

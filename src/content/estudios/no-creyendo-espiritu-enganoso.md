@@ -18,7 +18,7 @@ Sin embargo, que una aparición sea auténtica no significa que sea un mensaje d
 > "Y no es maravilla; porque el mismo Satanás se transfigura en ángel de luz. Así que no es mucho, si sus ministros se transfiguren como ministros de justicia, cuyo fin será conforme a sus obras."  
 > –2 Corintios 11: 14-15
 
-**Pero tenemos un método infalible para diferenciar las mentiras o alteraciones de una verdad. Si las enseñanzas que se adjuntan a estas apariciones son contrarias a la Biblia, las apariciones mismas son entonces de naturaleza satánica.  
+Pero tenemos un método infalible para diferenciar las mentiras o alteraciones de una verdad. Si las enseñanzas que se adjuntan a estas apariciones son contrarias a la Biblia, las apariciones mismas son entonces de naturaleza satánica.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwDg6qU82y8NASm3hNUDeJe10YEsbVeodM6iH3CdKtiQEZhXyBltabv6enIbGCbo54Bx6JK0H1PLMsyhPSjnRMcP4yKRFYru7EOPvB6SzQM4SR4Lvuc7BXkb0DG7kUOerPEVHhQcj0gy3Q43QRnNnY3bLOCVlY6LAGZAtU1qhtxiK-Jj9cAbroV4AR/s16000/fatima-ninos.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwDg6qU82y8NASm3hNUDeJe10YEsbVeodM6iH3CdKtiQEZhXyBltabv6enIbGCbo54Bx6JK0H1PLMsyhPSjnRMcP4yKRFYru7EOPvB6SzQM4SR4Lvuc7BXkb0DG7kUOerPEVHhQcj0gy3Q43QRnNnY3bLOCVlY6LAGZAtU1qhtxiK-Jj9cAbroV4AR/s676/fatima-ninos.jpg)
@@ -62,7 +62,7 @@ No dudemos de que el culto a la Virgen de Fatima es solo una de las variantes de
 > “Nuestro Redentor, Jehová de los ejércitos es su nombre, Santo de Israel. Siéntate, calla, y entra en tinieblas, hija de los Caldeos; porque nunca más te llamarán Señora de reinos."  
 > –Isaías 47:4-5
 
-**¿Será que Dios reveló con 2.700 años de antelación que la Señora de los Reinos querría ser elevada como co-redentora? Dios nos dice que solo Él “declara el fin desde el principio”, por lo que no sería sorpresa de que Dios previó esta engañosa doctrina. Dios responde enfáticamente que sólo Él es el que restaura la naturaleza caída del hombre.  
+¿Será que Dios reveló con 2.700 años de antelación que la Señora de los Reinos querría ser elevada como co-redentora? Dios nos dice que solo Él “declara el fin desde el principio”, por lo que no sería sorpresa de que Dios previó esta engañosa doctrina. Dios responde enfáticamente que sólo Él es el que restaura la naturaleza caída del hombre.  
   
 En resumen, la doctrina de María como un tipo de diosa se refuta por el mismo Jesús cuando una mujer en la multitud proclamó: "Bienaventurado el vientre que te trajo, y los senos que mamaste" (Lucas 11:27). Y Jesucristo contesto claramente: "Antes bienaventurados los que oyen la palabra de Dios, y la guardan" (Lucas 11, 28). Para Jesús, la obediencia a la palabra de Dios era más importante que ser la mujer que dio a luz al Salvador.
 

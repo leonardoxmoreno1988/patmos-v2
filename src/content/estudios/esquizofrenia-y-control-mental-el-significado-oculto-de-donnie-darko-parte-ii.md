@@ -64,7 +64,7 @@ La doctora le dice que puede dejar de tomar sus medicamentos, y que solo eran pl
 
 > "Donnie, un ateo es alguien que niega la existencia de Dios, tu eres un agnóstico. Un agnóstico es alguien que cree que no hay evidencia de la existencia de Dios pero no la niega la posibilidad que Dios exista."
 
-**La doctora Thurman ha notado el cambio filosófico de Donnie, pero ella sigue siendo un espectador lejano que no ve todo el escenario (Frank/viajes en el tiempo/fin de mundo). Por lo que interpreta el gnosticismo de Donnie como agnosticismo. En las escenas finales se revela el destino final que culmina con el nuevo paradigma religioso de Donnie, este ocurre casualmente durante la noche de Halloween.
+La doctora Thurman ha notado el cambio filosófico de Donnie, pero ella sigue siendo un espectador lejano que no ve todo el escenario (Frank/viajes en el tiempo/fin de mundo). Por lo que interpreta el gnosticismo de Donnie como agnosticismo. En las escenas finales se revela el destino final que culmina con el nuevo paradigma religioso de Donnie, este ocurre casualmente durante la noche de Halloween.
 
   
 
@@ -128,7 +128,7 @@ Esta es también una referencia a Apocalipsis 19:11, que es exactamente una de l
 
 > "Y vi el cielo abierto, y he aquí, un caballo blanco; el que lo montaba se llama Fiel y Verdadero, y con justicia juzga y hace la guerra." -Apocalipsis 19:11
 
-**En la siguiente escena la madre de Donnie y su hermana se encuentran en un avión regresando del concurso de baile, su avión sobre-vuela sobre el portal y una de las turbinas se desprende para caer en el agujero de gusano. Donnie observa todo el escenario y según varias teorías sobre el film, parece ser él mismo quien tiene el poder de manipular el metal y dirigir la turbina. En ese instante el universo tangente desaparece y Donnie regresa a su habitación hace 28 días, 06 horas, 42 minutos y 12 segundos. Exactamente unos segundos antes de que la turbina caiga sobre su habitación.
+En la siguiente escena la madre de Donnie y su hermana se encuentran en un avión regresando del concurso de baile, su avión sobre-vuela sobre el portal y una de las turbinas se desprende para caer en el agujero de gusano. Donnie observa todo el escenario y según varias teorías sobre el film, parece ser él mismo quien tiene el poder de manipular el metal y dirigir la turbina. En ese instante el universo tangente desaparece y Donnie regresa a su habitación hace 28 días, 06 horas, 42 minutos y 12 segundos. Exactamente unos segundos antes de que la turbina caiga sobre su habitación.
 
   
 

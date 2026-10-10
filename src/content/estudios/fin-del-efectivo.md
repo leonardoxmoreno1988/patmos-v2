@@ -17,7 +17,7 @@ El economista Eswar Prasad es profesor de política comercial de la Universidad 
 
 > “Para muchos consumidores y empresas que se cambiaron a los pagos digitales, probablemente no haya marcha atrás, incluso si las preocupaciones relacionadas con la pandemia sobre la naturaleza táctil del dinero en efectivo disminuyeran.”
 
-**Él predice que la combinación mundial de criptomonedas, stablecoins y monedas digitales del banco central eventualmente conducirá a la muerte del efectivo. Prasad dice que este cambio tendrá ramificaciones no solo dentro del mundo económico, sino en toda la sociedad y que ha llegado el momento de un amplio debate público sobre qué ocupará su lugar.
+Él predice que la combinación mundial de criptomonedas, stablecoins y monedas digitales del banco central eventualmente conducirá a la muerte del efectivo. Prasad dice que este cambio tendrá ramificaciones no solo dentro del mundo económico, sino en toda la sociedad y que ha llegado el momento de un amplio debate público sobre qué ocupará su lugar.
 
   
 

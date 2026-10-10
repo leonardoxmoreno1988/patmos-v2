@@ -36,7 +36,7 @@ Aqui sentado escribiendo sobre los DuPont, se me vienen a la mente otras familia
 Una de las pistas de que la familia es parte de las principales familias satánicas, es la frecuencia con la que ocurren matrimonios entre descendientes de su mismo linaje. Pocas personas son conscientes de la importancia que tienen los linajes en los altos niveles del satanismo. A menos que una persona tenga la sangre correcta, ella o el no podrían elevarse a los altos niveles del satanismo. Los duPonts se han casado con los Balls y los Gardner. Estas familias estan envueltas con los Illuminati y con el satanismo. Por ejemplo, George W. Ball está en el comité directivo permanente del grupo Bilderberg y ha asistido a las reuniones de Bilderberg, (que yo sepa) a partir de la reunión original de 1954, además de en 1955, 1957, 1963, 1964, 1966, 1967, 1968, 1974, 1975. George W. Ball es también miembro de la CFR y la Comisión Trilateral. Eliza Cazenove (Gardner era hermana de una du Pont 1) orsey Cazenove (Gardner era un primo lejano). Will Gardner y Gardner Bessie DuPont eran primos de los Dupont. John W. Gardner es un Illuminatus 60 y está a cargo de la fundación Rockefeller Bros. He encontrado a los Gardner en el grueso del satanismo y la brujería.  
   
 
-## **Los Hechos Completos Son Difíciles De Descubrir**
+## Los Hechos Completos Son Difíciles De Descubrir
 
 En la libreria, investigué un libro llamado "DuPont" de William Dutton. El libro había sido un regalo a la libreria por parte de la compañia DuPont. También investigué sobre otro libro llamado "Alfred I. DuPont", por Jhosep Frazier Wall. Ese libro del autor J. Wall fue financiado para ser escrito por la fundación "Jessie Ball DuPont". Aunque aparentemente escolar en su apariencia, lo que no se dice en él, es que puede ser crucial para entender la historia de la familia duPont. Cuando ciertas familias valen billones, se pueden dar el lujo de atar sus historias, y no derramar los frijoles en cuanto a sus secretos. El 16 de Mayo de 1893, la prensa reportó la muerte de Alfred Victor DuPont, con un desfile de comentarios laudatorios. Alfred, (conocido como Fred), había hecho negocios en Louisville Kentucky, y era muy conocido en el área de la filantropía. El principal periódico de Lousville, "El Comercial", dió al público una historia totalmente ficticia sobre la muerte de Alfred DuPont con los más altos elogios.  
   
@@ -84,7 +84,7 @@ Jefferson, quien era un Gran Maestre Orientis Masón de la logia de las Nueve He
 Alexander Hamilton, cuyo rol en la conspiración es ahora conocido, fue abogado de DuPont en los Estados Unidos.  
   
 
-## **La Próxima Generación**
+## La Próxima Generación
 
 Durante el segundo año del matrimonio de Pierre Samuel con Made Lee Dee, Victor Made nació teniendo al Marqués de Mirabeau como su padrino. Victor Marie Du Pont (1767-1827), era un ayudante de campo del Illuminatus Lafayette desde 1789 hasta 1792. Si Victor era un masón en Francia antes de que la familia llegara a Estados Unidos en 1800, no lo sé. Victor Marie DuPont pronto se involucró en la masonería en los Estados Unidos después de llegar. Los siguientes son algunos de los aspectos más destacados de su carrera masónica secreta de acuerdo a los registros masónicos.  
   
@@ -99,7 +99,7 @@ Durante el segundo año del matrimonio de Pierre Samuel con Made Lee Dee, Victor
 Pierre Samuel tuvo otros dos hijos, Paul Francois, (quien murió a la edad de un mes), y Eleuthère lrénée. Eleuthère lrénée siguió los pasos de su padre en ser una iluminada. Eleuthère lrénée fué una prominente jacobina de reconocimiento público.  
   
 
-## **Los Jacobinos**
+## Los Jacobinos
 
 El Duque de Orleans, Gran Maestre de la logia de Oriente de Francia, quien es la cabeza de todos los masones franceses, junto con otros dos masones clave, Talleyrand y Mirabeau, comenzaron los Jacobinos. De acuerdo con el libro: "La Guerra del Anticristo con la Iglesia", (un libro hecho a partir de las lecturas de George Dillon, de Dublin, Irlanda: M.H. Gill e hijo, 1885) en las que las lecturas de Dillon acerca de la revolución francesa, declara que ambos, tanto Talleyrand como Mirabeau, eran dos Illuminatis clave. El nombre original de la logia de los jacobinos fué cambiado a Club Breton, y después a Club Jacobino. Los Jacobinos fueron básicamente un tipo de Francmasoneria iluminista.  
   
@@ -108,7 +108,7 @@ El presidente del club jacobino era el francmasón Georges Jacques Danton, quien
 Si uno enseña lo que estos hombres enseñaron, descubriran que fue lo que se conoció después como Comunismo y Socialismo. La idea original de la revolución francesa fue ideada por la jerarquía satánica. En Noviembre de 1793, los verdaderos colores de este negocio inspirado por el satanismo se pueden ver en la campaña contra la religión, donde se mataba a cualquiera que era un sacerdote en Francia, donde los Illuminati publicaban uno de sus mas significativos lemas en público, "La muerte es un sueño eterno." Los testigos dan testimonio de que Satanás tiene un plan muy detallado que confía a sus muy pocos elegidos en la parte superior. Mucho de lo que parece una coincidencia y parece no tener relación es en realidad un muy inteligente y (diabólico) plan. Eleuthère lrénée DuPont fue una impresora importante para los jacobinos. Élla era un deísta convencida y tambien adoraba a la naturaleza.  
   
 
-## **Unos Comerciantes De Pólvora Se Convierten En Directivos Del Banco Nacional**
+## Unos Comerciantes De Pólvora Se Convierten En Directivos Del Banco Nacional
 
 Mas tarde en los Estados Unidos, después de montar triunfalmente la más exitosa fábrica de pólvora en el mundo, Eleuthère Irénée DuPont fue seleccionada junto con su amigo Nicholas Biddle para ser directores de la creación de Hamilton, que es el Banco de los Estados Unidos. Recuerde que Astor fue seleccionado como director del Banco "Nacional".  
   
@@ -207,7 +207,7 @@ El ejército y la marina les convenció para implementar un contrato con la Comp
 Los DuPonts están envueltos en mucho secretismo, ese secretismo no es para nada conocido. Cuando Eugene DuPont, el jefe ejecutivo de la familia y del explosivo negocio de la pólvora fallecio a inicios de siglo, ninguno de los otros DuPonts tenía una vaga idea de cual era el valor estimado de la compañia. (Para ese tiempo los DuPonts tenian plantas en Iowa, Delaware, PA, y TN). Los DuPonts no han cambiado mucho en los tiempos modernos, excepto que sus activos estan diez veces mas ocultos que como estaban antes, y mucho mejor escondidos, no solo de extranjeros, sino de ellos mismos. Los DuPonts han hecho dinero en general de la manera dificil, trabajando y produciendo, a diferencia de las otras familias. Los DuPonts son dignos de elogio en cuanto este tema, aunque a veces han sido muy estrictos en lo que dan a sus trabajadores. Los DuPonts tambien han mostrado cualidades sorprendentes en lo que respecta en mantener viva a la dinastia. Parece que hay una creciente invisibilidad de la familia.  
   
 
-## **Golpeando El Filón**
+## Golpeando El Filón
 
 Una de las personas que malamente estuvo involucrada por un corto tiempo con los Illuminati, y que ahora es un cristiano me dijo que podía recordar el nombre de la "Sociedad Cincinnati" y que no sabían nada acerca de la organización, pero que tenía algo que ver con los Illuminati. Pero, ¿qué es esta organización?.  
   
@@ -236,7 +236,7 @@ Emile Francis duPont (1898- ) se graduó de Yale como muchos de los DuPonts lo h
   
 Aquellos de nosotros, que sabemos lo que esta gente quiere hacer, nos encogemos cuando vemos que algunos de los principales investigadores de alto rango de la genética están conectados con las familias satánicas. Todos los estadounidenses casi todos los días usan un producto de la DuPont. Cuando empecé a aprender lo que producian las industrias de los DuPont, me quedé absolutamente sorprendido. Todo lo que implica productos químicos está bajo su producción. Herbívoros y fertilizantes para la agricultura, cosméticos y medias de nylon para las mujeres, los productos químicos para todo tipo de producción industrial, textiles, todo tipo de productos de limpieza utilizados como cuando cuando tu ropa está seca limpia. La lista puede seguir y seguir. ¡La mayoría de nosotros usamos productos de los DuPont casi continuamente durante todo el día! General Motors, los explosivos y el monopolio de la pólvora, el monopolio químico (con sus decenas de miles de productos) da a los Dupont un apalancamiento financiero enorme. Los Dupont, obviamente, están en estrecha colaboración con la élite involucrados en el petróleo debido a que muchos de sus productos son de productos derivados del petróleo. En 1940, se estimó la familia poseía un total de US $ 5 mil millones. Hoy en día, su valor total debe ser muchos miles de millones de dólares, por no mencionar el enorme poder que ejercen. La supervivencia misma de los militares de Estados Unidos depende de los productos militares de los Dupont.  
 
-## **La Compañía Dupont Utilizada Como Una Herramienta Para Traernos El Nuevo Orden Mundial**
+## La Compañía Dupont Utilizada Como Una Herramienta Para Traernos El Nuevo Orden Mundial
 
 Además de todas las compañias DuPont, la compañia principal de los DuPonts es la de E.L DuPont de Nemours,(cuyos ingresos en 1991 fueron de $ 38,7 mil millones) - misma que está a cargo de muchos ejecutivos que no son Duponts, pues la familia Dupont tiene en silencio moviendo los hilos en el fondo. Muchos de los ejecutivos son hombres cuya filosofía de la vida coincide con la de los Dupont. Es muy claro que las empresas DuPont son utilizadas en gran forma  para movernos hacia el Nuevo Orden Mundial. El primer punto de este, se refiere a cómo los trabajadores de la DuPont están siendo adoctrinados. He recibido un vídeo de la Formación  en el Río Pecos cerca de Santa Fe, al que los trabajadores de la DuPont del este son enviados. También busqué un artículo de la revista acerca de este entrenamiento (adoctrinamiento) en el artículo "ir a tomar un salto (de la empresa)" (Successful Meetings junio de 1992, pp.59-62).  
   

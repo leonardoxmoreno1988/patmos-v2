@@ -61,7 +61,7 @@ Debido a que el símbolo del ojo está asociado con el sol, un representante de 
 
 > "El dios supremo Ahura Mazda también tiene un Ojo, o se dice que con sus ojos, el sol, la luna y las estrellas, lo ve todo." - Manly P. Hall, Las Enseñanzas Secretas de Todas Las Edades
 
-**En la mitología nórdica, Odin era conocido como el "Padre de todos" (o padre de los dioses). Fue representado como un anciano con un ojo.  
+En la mitología nórdica, Odin era conocido como el "Padre de todos" (o padre de los dioses). Fue representado como un anciano con un ojo.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqP2jUigxs_UcFbzQK67Foy8auRUNoPQswnwaPolO_WYi6P2hcpYX26hYZp85kYgnoc1x-dAXa2f2Grhe156RtWNciH6d48ABhuGxhnSt9e_7gaXXJTLWuwWHU6YlJG9w6sjzUa8zero/s16000/odin.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqP2jUigxs_UcFbzQK67Foy8auRUNoPQswnwaPolO_WYi6P2hcpYX26hYZp85kYgnoc1x-dAXa2f2Grhe156RtWNciH6d48ABhuGxhnSt9e_7gaXXJTLWuwWHU6YlJG9w6sjzUa8zero/s520/odin.jpg)
@@ -71,7 +71,7 @@ Una representación antigua de Odin.
   
 
 Odin es otra representación más de un dios sol creador de un solo ojo.  
-**> “El Creador Supremo e invisible de todas las cosas se llamaba _All Father_. Su regente en la naturaleza era Odin, el dios tuerto. Los noruegos consideraban a Balder el Hermoso como una deidad solar, y Odin a menudo está conectado con el orbe celestial, especialmente debido a su único ojo." - Ibídem.** 
+> “El Creador Supremo e invisible de todas las cosas se llamaba _All Father_. Su regente en la naturaleza era Odin, el dios tuerto. Los noruegos consideraban a Balder el Hermoso como una deidad solar, y Odin a menudo está conectado con el orbe celestial, especialmente debido a su único ojo." - Ibídem. 
 
 ## Ocultismo Occidental
 

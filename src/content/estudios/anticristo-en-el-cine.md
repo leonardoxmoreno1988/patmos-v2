@@ -50,9 +50,9 @@ No es sorpresa que algunos investigadores ya han hablado de las figuras mesiáni
 
 > "Sostengo que hay una fuerza misteriosa y convincente dentro de la imaginación humana creativa que da forma a personajes de ficción y tramas dramáticas a imagen y semejanza del personaje central y los eventos de los cuatro Evangelios de Mateo, Marcos, Lucas y Juan."  –Neil P. Hurley, Transfiguraciones Cinemáticas de Jesús
 
-**Pero donde las pocas personas que han analizado el tema llaman, “una figura mesiánica”, el cristiano nacido de nuevo puede concluir con seguridad que estas son maquinaciones bien orquestadas del dios de este mundo. Hablamos de un método de propaganda que se consolidó, usando hombres en busca de dinero y la aparición de nueva tecnología en el siglo XXI. Una nueva forma de paganismo que va directo al subconsciente de gran parte de la población mundial, quizás haciendo más tangible las advertencias de Jesús en Mateo 24:5:
+Pero donde las pocas personas que han analizado el tema llaman, “una figura mesiánica”, el cristiano nacido de nuevo puede concluir con seguridad que estas son maquinaciones bien orquestadas del dios de este mundo. Hablamos de un método de propaganda que se consolidó, usando hombres en busca de dinero y la aparición de nueva tecnología en el siglo XXI. Una nueva forma de paganismo que va directo al subconsciente de gran parte de la población mundial, quizás haciendo más tangible las advertencias de Jesús en Mateo 24:5:
 
-> **“Porque muchos vendrán en mi nombre, diciendo: 'Yo soy el Cristo', y engañarán a muchos.”** **–Mateo 24:5**
+> **“Porque muchos vendrán en mi nombre, diciendo: 'Yo soy el Cristo', y engañarán a muchos.” –Mateo 24:5**
 
 Uno de los recursos que consolidó la figura escondida de Jesús en el cine es lo que se conoce como el “Viaje del Héroe”, un conjunto de características recomendadas en el personaje y la trama que todo estudiante de cine, o aspirante de la escritura de ficción, ha estudiado en algún momento. El Viaje del Héroe genera un patrón dentro de una historia épica y que coincide en varios aspectos con la vida de Cristo. Si bien el autor de este libro, Joseph Campbell, no atribuye este patrón solo a Jesús sino a diferentes "cristos", semi-dioses y mitos y leyendas en todo el mundo, podemos entender por la Biblia que se han diseñado falsos cristos y dioses paganos a lo largo de la historia humana. Incluso, como veremos en este libro, se evidencia que la intención es difuminar la imagen del verdadero Cristo para presentar una nueva versión torcida de éste. No de Buda, ni de Mahoma, ni de Aquiles.
 
@@ -138,7 +138,7 @@ Eleven de _Stranger Things_ (2016-2022) es mostrada como un tipo de Cristo. En l
 
 El origen del estos personajes es diferente y único, si bien inicia su viaje en un mundo común y corriente, ellos no son parte de ese mundo, solo aguardan, al igual que hizo Jesús, llegue su momento de iniciar con su ministerio. Muchos de los films que veremos en este libro, plantean dudas existenciales profundas en términos religiosos, que remueven o modifican las bases del ser humano para llevarlos a un tipo de gnosticismo o la creencia de que el hombre puede ser su propio dios, este protagonista es el encargado de llevar al mundo hacia este imaginario.
 
-> **"Hijitos, han llegado los últimos tiempos; y así como ustedes oyeron que el anticristo viene, ahora han surgido muchos anticristos; por esto sabemos que han llegado los últimos tiempos.”** **–1 Juan 2:18**
+> **"Hijitos, han llegado los últimos tiempos; y así como ustedes oyeron que el anticristo viene, ahora han surgido muchos anticristos; por esto sabemos que han llegado los últimos tiempos.” –1 Juan 2:18**
 
 El Anticristo traerá un mensaje de revelación espiritual, tendrá un rol central para todos los seres humanos. Él será un tipo de redentor que con apariencia de piedad cautivará a las naciones, pero al mismo tiempo enseñará cosas completamente contrarias a las Escrituras. En todos los films mencionados, el protagonista alcanza su objetivo final que es instaurar su creencia luciferina, estableciéndose como el líder de un nuevo mundo y con un nuevo paradigma espiritual. 
 
@@ -578,11 +578,11 @@ Es evidente al ver al personaje de En Sabah Nur que posee algún tipo de complej
 
 > **"Todo lo que ellos construyeron será derrumbado, ¡Y de las cenizas de su mundo, construiremos uno mejor!"**
 
-> **"Les dirás que yo En Sabah Nur, desataré mi ira sobre ellos."  
+> "Les dirás que yo En Sabah Nur, desataré mi ira sobre ellos."  
 >   
 > "Pueden disparar sus flechas desde la torre de Babel, pero jamás podrán herir a dios."  
 >   
-> "Todo ha sido revelado."** 
+> "Todo ha sido revelado." 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhYMD0PDEK27X9jtMqYLQJZGV0IEynn82-Dxx50BtkKNZ4IFxcNR9jCxYVEumZE57IHuOZpdZP0Xd4ksvpV-LbAG99qL867lhTlLHTZK44jfofQHtpjxq74n6LP7VWQGtkSsvQ1wNU6ns/s16000/ultron.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhYMD0PDEK27X9jtMqYLQJZGV0IEynn82-Dxx50BtkKNZ4IFxcNR9jCxYVEumZE57IHuOZpdZP0Xd4ksvpV-LbAG99qL867lhTlLHTZK44jfofQHtpjxq74n6LP7VWQGtkSsvQ1wNU6ns/s548/ultron.jpg)
 
@@ -677,7 +677,7 @@ Gorr, el antagonista en _Thor: Amor y Trueno_ (2022), usa una espada como arma 
 
 Los objetos inertes y mundanos también ha sido utilizados en el cine para representar a YHVH (Jehová). Como menciona Glenn Erickson, quien sugirió que el planeta rebelde Zyra en la película _Cuando los mundos chocan_ (1951) era en realidad un Jesús oculto. Él argumentó:
 
-> **"El devoto productor George Pal retuvo la metáfora de Cristo en una Segunda Venida disfrazada… Bellus, que representa al Jehová del Antiguo Testamento, aplastará la Tierra hasta convertirla en polvo, matando a todas las almas vivientes. No es una simple inundación esta vez, amigos ... pero la Tierra tiene una segunda oportunidad, más o menos. Unas semanas antes de la llegada de Bellus, su luna Zyra, que representa a Jesucristo, pasará cerca de nuestro planeta, causando terremotos masivos, maremotos y otros estragos variados. Solo se salvarán los pocos tecnócratas elegidos que creen en la ciencia y sean lo suficientemente atrevidos como para construir arcas espaciales para volar a Zyra (2)".** **\-Gleen Erickson, Las características estructurales de la figura del Cristo cinematográfico (2004)**
+> **"El devoto productor George Pal retuvo la metáfora de Cristo en una Segunda Venida disfrazada… Bellus, que representa al Jehová del Antiguo Testamento, aplastará la Tierra hasta convertirla en polvo, matando a todas las almas vivientes. No es una simple inundación esta vez, amigos ... pero la Tierra tiene una segunda oportunidad, más o menos. Unas semanas antes de la llegada de Bellus, su luna Zyra, que representa a Jesucristo, pasará cerca de nuestro planeta, causando terremotos masivos, maremotos y otros estragos variados. Solo se salvarán los pocos tecnócratas elegidos que creen en la ciencia y sean lo suficientemente atrevidos como para construir arcas espaciales para volar a Zyra (2)". \-Gleen Erickson, Las características estructurales de la figura del Cristo cinematográfico (2004)**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPkhzINvAxQAwkDWicjYKNI6zb3qUlIbn2J9xwPp546Ym1gzCJjsARUmO1gTNWhoDd6X8DJqxTncg1bkaSXdQ5GYmSChUCnBOFhgzV4IM4J65KOPoJwe30A52KIM4quf7BDPlUAeXQFow/s16000/bellus.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPkhzINvAxQAwkDWicjYKNI6zb3qUlIbn2J9xwPp546Ym1gzCJjsARUmO1gTNWhoDd6X8DJqxTncg1bkaSXdQ5GYmSChUCnBOFhgzV4IM4J65KOPoJwe30A52KIM4quf7BDPlUAeXQFow/s490/bellus.jpg)
 
@@ -726,7 +726,7 @@ El General Zod, un extraterrestre del planeta Kriptón, intenta destruir el eje 
 
 En el film _Donnie Darko_ tenemos una alegoría similar, Donnie, quien representa al super-hombre o Anticristo, impide que el fin del mundo se lleve a cabo. Este juicio llega como la apertura de un agujero de gusano o puente de Einstein-Rosen. En el film, el agujero de gusano es literalmente la apertura de los cielos, el cual es una señal que representa la Segunda Venida de Jesucristo.
 
-> **"Luego vi el cielo abierto, y apareció un caballo blanco. Su jinete se llama Fiel y Verdadero. Con justicia dicta sentencia y hace la guerra.** **Sus ojos eran como llama de fuego, y había en su cabeza muchas diademas; y tenía un nombre escrito que ninguno conocía sino él mismo. Estaba vestido de una ropa teñida en sangre; y su nombre es: EL VERBO DE DIOS. Y los ejércitos celestiales, vestidos de lino finísimo, blanco y limpio, le seguían en caballos blancos. De su boca sale una espada aguda, para herir con ella a las naciones, y él las regirá con vara de hierro; y él pisa el lagar del vino del furor y de la ira del Dios Todopoderoso."** **\-Apocalipsis 19:11-16**
+> **"Luego vi el cielo abierto, y apareció un caballo blanco. Su jinete se llama Fiel y Verdadero. Con justicia dicta sentencia y hace la guerra. Sus ojos eran como llama de fuego, y había en su cabeza muchas diademas; y tenía un nombre escrito que ninguno conocía sino él mismo. Estaba vestido de una ropa teñida en sangre; y su nombre es: EL VERBO DE DIOS. Y los ejércitos celestiales, vestidos de lino finísimo, blanco y limpio, le seguían en caballos blancos. De su boca sale una espada aguda, para herir con ella a las naciones, y él las regirá con vara de hierro; y él pisa el lagar del vino del furor y de la ira del Dios Todopoderoso." \-Apocalipsis 19:11-16**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwzymGM9LY7TVZsUWWE0qYrSmyhYdvaHFrKW4HNGMkioP8SwyxgxJ4EOisjaB0NtA1qmcWqB3x9J9qi8DmLH4KEVrm8z_ReJtiCcyfnjHuN3sQzw9EDavQE1U3Ug1I_zCSxdZi_myWGok/s16000/black-hole.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwzymGM9LY7TVZsUWWE0qYrSmyhYdvaHFrKW4HNGMkioP8SwyxgxJ4EOisjaB0NtA1qmcWqB3x9J9qi8DmLH4KEVrm8z_ReJtiCcyfnjHuN3sQzw9EDavQE1U3Ug1I_zCSxdZi_myWGok/s512/black-hole.jpg)
 
@@ -764,7 +764,7 @@ Pero este no es el único evento profético dentro del universo cinematográfico
 
 Thanos en un alienígena que busca el equilibrio del universo entero, éste argumento hizo que dentro de las taquilleras y exitosas _Infinity Wars_ y _Endgame_, veamos un evento interesante. Thanos desea eliminar (asesinar) al 50% de la población del universo, cuando este lo logra usando las "gemas del destino", la mitad de los seres humanos se desintegran en unos pocos segundos, desatando el caos mundial, autos chocan, aviones caen, e incluso la mitad de los superhéroes desaparecen. Lo que pocos encontraron en esta escena, es la alegoría al rapto o arrebatamiento de la iglesia, descrita en 1 Tesalonicenses 4:16-17.
 
-**> "Porque el Señor mismo con voz de mando, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero. Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor."** 
+> "Porque el Señor mismo con voz de mando, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero. Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor." 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVDGmQKMSUrSpJZ0RH-8Na9TocVb5h3dIyzg5np4s8sJjV5LTG1xF2sdlUO94s1N4iZGyPp2tINKgFj-40RdSKlsMRJixHt_rwWavzKOwEYzxN-1dFsJBeNDIPYzLcutMTgE8odFU3wY8/s16000/nick-fury.gif)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVDGmQKMSUrSpJZ0RH-8Na9TocVb5h3dIyzg5np4s8sJjV5LTG1xF2sdlUO94s1N4iZGyPp2tINKgFj-40RdSKlsMRJixHt_rwWavzKOwEYzxN-1dFsJBeNDIPYzLcutMTgE8odFU3wY8/s498/nick-fury.gif)
 
@@ -843,7 +843,7 @@ El Anticristo morirá y resucitará. No se puede confirmar si será una resurrec
 
 El extraterrestre de Kriptón muere en la popular _Batman vs Superman_ (2016) de Zack Snyder. Un evento que dio pie a que en secuela llamada _La Liga de la Justicia_ (2017), este sea resucitado con tecnología extraterrestre “avanzada”. Superman resucitado sale del agua ¿Una referencia a la bestia que sale del mar en Apocalipsis 13:1-2?
 
-> **"****Después vi a una bestia que subía del mar. Tenía siete cabezas y diez cuernos, y una corona en cada cuerno; y escrito en cada cabeza había nombres que blasfemaban a Dios. Esta bestia se parecía a un leopardo, ¡pero tenía las patas de un oso y la boca de un león! Y el dragón le dio a la bestia su propio poder y trono y gran autoridad.** **Y vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada. Y la tierra entera se maravilló y seguía tras la bestia;"** –**Apocalipsis 13:1-3**
+> **"Después vi a una bestia que subía del mar. Tenía siete cabezas y diez cuernos, y una corona en cada cuerno; y escrito en cada cabeza había nombres que blasfemaban a Dios. Esta bestia se parecía a un leopardo, ¡pero tenía las patas de un oso y la boca de un león! Y el dragón le dio a la bestia su propio poder y trono y gran autoridad. Y vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada. Y la tierra entera se maravilló y seguía tras la bestia;"** –**Apocalipsis 13:1-3**
 
 > **"Y engaña a los moradores de la tierra con las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan imagen a la bestia que tiene la herida de espada, y vivió."** –**Apocalipsis 13:14**
 
@@ -870,7 +870,7 @@ Klaatu el extraterrestre, asesinado por la milicia, resucitado con la tecnologí
 
 El mago Harry Potter muere a manos de Voldemort para ir a un plano distinto de la realidad, que parece imitar el cielo bíblico, y luego resucitar gracias a la “piedra de la resurrección”. El lugar donde estuvo muerto varios minutos se llama “La cruz del rey”.
 
-> **"La historia de Harry Potter es, y siempre ha sido, una alegoría cristiana, una adaptación moderna de ficción de la vida de Cristo, la intención de introducir el personaje a una nueva generación... por lo que incluso un niño de 10 años será capaz de resolverlo."** **–Abigail Beauseigneur, ¿Es Harry Potter el hijo de Dios?**
+> **"La historia de Harry Potter es, y siempre ha sido, una alegoría cristiana, una adaptación moderna de ficción de la vida de Cristo, la intención de introducir el personaje a una nueva generación... por lo que incluso un niño de 10 años será capaz de resolverlo." –Abigail Beauseigneur, ¿Es Harry Potter el hijo de Dios?**
 
   
 
@@ -895,7 +895,7 @@ Al final de la Trilogía de Matrix, el protagonista y Anticristo Neo da su vida 
 
 Protagonizada también por Keanu Reeves, el film _Constantine_ (2005) retrata al protagonista muerto por unos minutos, descendiendo a los infiernos, como las Escrituras retratan a Jesucristo en Efesios 4:8-10 y 1 Pedro 3:18-19 descendiendo al Hades, con el fin de llevarse a los cautivos por la muerte hasta antes de su sacrificio. Casi al final del film Constantine vuelve a representar su muerte, extendiendo los brazos en forma de cruz.
 
-> **"Porque como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches."** **–Mateo 12:40** 
+> **"Porque como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches." –Mateo 12:40** 
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEiVNbCjz5hMsnfO3SaVILcYaxaxE3EoQMn4X4d3vsNYQ4bXqrYMdv5Mgk2Dck-f0Hmiy5b_Oz81Zd_MlzPVXY4jhP7KHoPL1_86ZwBj_6QzplpuXCoqefK4n3VVcz60K3-cmvA7IDmaxTOErvxTxjsJ94cKuLFBh6C154vK2xQ4qY-SOy0XiB7nTCd4=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEiVNbCjz5hMsnfO3SaVILcYaxaxE3EoQMn4X4d3vsNYQ4bXqrYMdv5Mgk2Dck-f0Hmiy5b_Oz81Zd_MlzPVXY4jhP7KHoPL1_86ZwBj_6QzplpuXCoqefK4n3VVcz60K3-cmvA7IDmaxTOErvxTxjsJ94cKuLFBh6C154vK2xQ4qY-SOy0XiB7nTCd4=s548)
 
@@ -1012,7 +1012,7 @@ El cazador de demonios Constantine se sacrifica cortándose ambas muñecas con v
 
 En la escena superior Satanás se manifiesta frente a Constantine antes de su muerte, pero ¿Por qué Satanás vestiría de blanco? La película astutamente relaciona a Satanás con Dios, quien es Santo y se representa con vestiduras blancas. La inversión del bien y el mal es una características del gnosticismo. Si tomamos en cuenta que Satanás significa, "el adversario", tendría sentido que desde la visión torcida de Lucifer, YHWH es su ancestral adversario.
 
-> **"¡Ay de los que a lo malo dicen bueno, y a lo bueno malo; que hacen de la luz tinieblas, y de las tinieblas luz; que ponen lo amargo por dulce, y lo dulce por amargo!¡Ay de los sabios en sus propios ojos, y de los que son prudentes delante de sí mismos!"** **–Isaías 5:20-21**
+> **"¡Ay de los que a lo malo dicen bueno, y a lo bueno malo; que hacen de la luz tinieblas, y de las tinieblas luz; que ponen lo amargo por dulce, y lo dulce por amargo!¡Ay de los sabios en sus propios ojos, y de los que son prudentes delante de sí mismos!" –Isaías 5:20-21**
 
 El derramamiento de sangre es muchas veces asociado a la figura del Anticristo en el cine. Referencia al calvario de Cristo y la importancia de su sangre en el plan de salvación de Dios. Esto puede ser muy evidente en personajes como Eleven de _Stranger Things_ o Goreng, en las escenas finales de _El Hoyo_, sin embargo la mayoría de los protagonistas mostrarán solo sutiles heridas como resultado de su batalla final con el antagonista.
 
@@ -1052,9 +1052,9 @@ El protagonista del _Club de la Pelea_ (1999) le muestra su herida por quemadura
 
 Superman, el Anticristo por excelencia, es apuñalado con kriptonita en su costado, para luego morir y resucitar.
 
-> **"Mas cuando llegaron a Jesús, como le vieron ya muerto, no le quebraron las piernas. Pero uno de los soldados le abrió el costado con una lanza, y al instante salió sangre y agua."** **–Juan 19:33-34**
+> **"Mas cuando llegaron a Jesús, como le vieron ya muerto, no le quebraron las piernas. Pero uno de los soldados le abrió el costado con una lanza, y al instante salió sangre y agua." –Juan 19:33-34**
 
->  **"Llenaré a la familia de David y a los habitantes de Jerusalén con un espíritu de bondad y compasión. Ellos me mirarán a mí, a quien ellos atravesaron con una lanza, y se lamentarán como si estuvieran sufriendo la muerte de un hijo único. Sentirán tanta amargura como quien sufre la muerte del hijo mayor."** **–Zacarías 12:10**
+>  **"Llenaré a la familia de David y a los habitantes de Jerusalén con un espíritu de bondad y compasión. Ellos me mirarán a mí, a quien ellos atravesaron con una lanza, y se lamentarán como si estuvieran sufriendo la muerte de un hijo único. Sentirán tanta amargura como quien sufre la muerte del hijo mayor." –Zacarías 12:10**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjacpD2IPutApWMQWV1_mZWk1lQy5yzlYpvjO4kwIXC-0uxOO3ajeEYZQ4rDsap_fkOIK8Fy_Nz2gOzJF_6Vzfyjo_4tmvUnNg3yM2uOwamzmS8dxLLL6TkoLJWqVIHOhJg4yzuR-q78v_h8F-UNfVtRB0JWqD6Kd-Hb79jGuXL1IDRn0cgV-_tPAGm/s16000/gladiator.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjacpD2IPutApWMQWV1_mZWk1lQy5yzlYpvjO4kwIXC-0uxOO3ajeEYZQ4rDsap_fkOIK8Fy_Nz2gOzJF_6Vzfyjo_4tmvUnNg3yM2uOwamzmS8dxLLL6TkoLJWqVIHOhJg4yzuR-q78v_h8F-UNfVtRB0JWqD6Kd-Hb79jGuXL1IDRn0cgV-_tPAGm/s548/gladiator.jpg)
 
@@ -1084,9 +1084,9 @@ Es interesante que las Escrituras también hacen referencia a las cicatrices del
 
 > **“Y me dijo Jehová: Toma aún los aperos de un pastor insensato; porque he aquí, yo levanto en la tierra a un pastor que no visitará las perdidas, ni buscará la pequeña, ni curará la perniquebrada, ni llevará la cansada a cuestas, sino que comerá la carne de la gorda, y romperá sus pezuñas. ¡Ay del pastor inútil que abandona el ganado! Hiera la espada su brazo, y su ojo derecho; del todo se secará su brazo, y su ojo derecho será enteramente oscurecido.”** –**Zacarías 11:15-17**
 
-> **"Vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada; y se maravilló toda la tierra en pos de la bestia, y adoraron al dragón que había dado autoridad a la bestia, y adoraron a la bestia, diciendo: ¿Quién como la bestia, y quién podrá luchar contra ella?"** **–Apocalipsis 13:3-4**
+> **"Vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada; y se maravilló toda la tierra en pos de la bestia, y adoraron al dragón que había dado autoridad a la bestia, y adoraron a la bestia, diciendo: ¿Quién como la bestia, y quién podrá luchar contra ella?" –Apocalipsis 13:3-4**
 
-> **"Y engaña a los moradores de la tierra con las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan imagen a la bestia que tiene la herida de espada, y vivió."** **–Apocalipsis 13:14**
+> **"Y engaña a los moradores de la tierra con las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan imagen a la bestia que tiene la herida de espada, y vivió." –Apocalipsis 13:14**
 
 El Anticristo, luego de resucitar, ser poseído por la bestia que sube del mar, y posiblemente después de tres años y medio de iniciada la Tribulación, perderá la visión de un ojo, y uno de sus brazos quedara inhabilitado. No sabemos detalles de cómo se reflejará eso en él, pero por Zacarías y Apocalipsis sabemos que será evidente en su cuerpo ya resucitado, como las cicatrices de un superviviente. La profecía lo señala sin duda como el pastor insensato o inútil, y tales cicatrices serán señal para el mundo inconverso de que el Anticristo está de su lado.
 
@@ -1161,4 +1161,4 @@ Como Horus en la mitología egipcia, el Anticristo será asesinado y resucitará
 
   
 
-\*\*Libro en progreso\*\*
+**Libro en progreso**

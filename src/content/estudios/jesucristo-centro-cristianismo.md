@@ -25,7 +25,7 @@ Contrario a esto, el remover a Jesús del cristianismo es teológicamente imposi
 > "Porque en él fueron creadas todas las cosas que están en los cielos, y que están en la tierra, visibles e invisibles, sean tronos, sean señoríos, sean principados, sean potestades: todo fué creado por él, y para él. Y él es ántes de todas las cosas; y todas las cosas subsisten en él;".  
 > –Colosenses 1:16-17
 
-**De igual forma, la Segunda Venida de Cristo manifestará que Él efectivamente es el centro de la historia. La aparición gloriosa (Tito 2:13; 1 Corintios 15:51-52) es el cumplimiento final de la promesa de nuestro Señor de regresar. También es la culminación de toda la profecía bíblica. La disputa final. Una vez que regrese, no habrá más necesidad de debatir sus afirmaciones o la validez del mensaje cristiano. Todo ojo verá al Rey venir en persona.  
+De igual forma, la Segunda Venida de Cristo manifestará que Él efectivamente es el centro de la historia. La aparición gloriosa (Tito 2:13; 1 Corintios 15:51-52) es el cumplimiento final de la promesa de nuestro Señor de regresar. También es la culminación de toda la profecía bíblica. La disputa final. Una vez que regrese, no habrá más necesidad de debatir sus afirmaciones o la validez del mensaje cristiano. Todo ojo verá al Rey venir en persona.  
   
 Revelación 19 es el capítulo más dramático de toda la Biblia. Es la piedra angular de la muerte y resurrección de Cristo. En este capítulo vemos al Salvador regresar a la Tierra en un caballo blanco para aplastar toda oposición satánica a la verdad. Él establecerá Su reino en la tierra en cumplimiento de las profecías del Antiguo Testamento y de Su propia promesa de regresar.  
   

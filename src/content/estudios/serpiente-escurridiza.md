@@ -34,7 +34,7 @@ El versículo menciona:
 > "Y la figura de sus rostros era rostros de hombre, y rostros de león a la parte derecha en todos cuatro; y rostros de buey a la izquierda en todos cuatro; y rostros de águila en todos cuatro."  
 > –Ezequiel 1:10
 
-**Esta imagen de los ángeles pareciera representar un tipo de clasificación de seres vivientes, el rostro león como los animales salvajes, el rostro de becerro como los animales domésticos, el rostro de águila como los animales voladores y el rostro hombre como la raza humana.  
+Esta imagen de los ángeles pareciera representar un tipo de clasificación de seres vivientes, el rostro león como los animales salvajes, el rostro de becerro como los animales domésticos, el rostro de águila como los animales voladores y el rostro hombre como la raza humana.  
   
 Si esta representación es correcta, se denota la falta de la categoría de seres reptiles/acuáticos. Siendo aún más relevante que Satanás, en ese tiempo Lucifer, fue un querubín desterrado del cielo por querer ser como Dios (Isaías 14:12-21).  
   
@@ -45,7 +45,7 @@ El profeta Isaías, quien también tiene una visión de los cuatro seres vivient
 > "EN aquel día Jehová visitará con su espada dura, grande, y fuerte, sobre el leviatán, serpiente rolliza, y sobre el leviatán, serpiente retuerta; y matará al dragón que está en la mar.”  
 > –Isaías 27:1
 
-**Dios permite que el profeta vea hacia el futuro, cuando Jesucristo derrotará a Satanás en lo que retrata Revelación 19. Pero lo que llama la atención del texto es que Dios describe a Satanás (Leviatán), como una serpiente retuerta y rolliza, y continúa la descripción señalándolo como un dragón que habita en el mar.  
+Dios permite que el profeta vea hacia el futuro, cuando Jesucristo derrotará a Satanás en lo que retrata Revelación 19. Pero lo que llama la atención del texto es que Dios describe a Satanás (Leviatán), como una serpiente retuerta y rolliza, y continúa la descripción señalándolo como un dragón que habita en el mar.  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/318/original/leviatan.jpg)  
   
@@ -72,14 +72,14 @@ Lo que es innegable también es que el engaño de la serpiente en el Edén produ
 > “Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado, para que todo aquel que en él cree, no se pierda, más tenga vida eterna."  
 > –Juan 3:14-15
 
-**Nacimos como hijos del diablo (Juan 8:42-44) pero ahora podemos ser hijos de Dios por medio de la muerte del salvador. Cristo remueve la naturaleza de la serpiente de nosotros, espiritual y fÍsicamente. El cuerpo y nuestra genética física cambiará en [el rapto y la resurrección de los muertos](https://www.ritualypropaganda.com/2022/02/rapto-arrebatamiento.html) (1 Corintios 15:53-55).  
+Nacimos como hijos del diablo (Juan 8:42-44) pero ahora podemos ser hijos de Dios por medio de la muerte del salvador. Cristo remueve la naturaleza de la serpiente de nosotros, espiritual y fÍsicamente. El cuerpo y nuestra genética física cambiará en [el rapto y la resurrección de los muertos](https://www.ritualypropaganda.com/2022/02/rapto-arrebatamiento.html) (1 Corintios 15:53-55).  
   
 Esta batalla entre la serpiente y Dios llega a su apogeo al final de siglo. Revelación describe una batalla en el cielo, donde el dragón o el Leviatán pelea contra Miguel en lo que será una batalla literal de estos dos ángeles y sus ejércitos, siendo Satanás temporalmente derrotado y arrojado a la Tierra.  
 
 > “Después hubo una batalla en el cielo: Miguel y sus ángeles lucharon contra el dragón, y el dragón y sus ángeles también lucharon, pero no pudieron vencer, y ya no hubo lugar para ellos en el cielo. Así fue expulsado el gran dragón, que es la serpiente antigua que se llama Diablo y Satanás, y que engaña a todo el mundo. Él y sus ángeles fueron arrojados a la tierra.”  
 > –Revelación 12:7-9
 
-**Nuevamente se describe al dragón o la serpiente antigua, con la capacidad de volar y librar una batalla contra los ángeles de Dios. El contexto del capítulo parece sugerir que esto se dará en el cielo terrestre que conocemos.  
+Nuevamente se describe al dragón o la serpiente antigua, con la capacidad de volar y librar una batalla contra los ángeles de Dios. El contexto del capítulo parece sugerir que esto se dará en el cielo terrestre que conocemos.  
   
 Una vez que el dragón cae a la Tierra, no le queda mucho tiempo hasta que se cumpla la profecía ya mencionada de Isaías 27:1. Es decir, el día del Señor, cuando Él "castigará con su grande y poderosa espada a Leviatán, esa serpiente escurridiza y tortuosa".  
   

@@ -153,7 +153,7 @@ En este caso Chris a traviesa este proceso de "disolver y coagular", de llevar s
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsnOkDDRzB8JFPWskA8mnyXcfq8t_RBlsddkVJV4nFpmIeBJffgbTmErgAbmeb1se2Kx30c5OQi2U9EoM9u8DsR08ReqjKOxZcXrcujj84O9zUW-wR-tswf9cjdW4ialWalqIdjbKLVLM/w640-h297/IMG_9031.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsnOkDDRzB8JFPWskA8mnyXcfq8t_RBlsddkVJV4nFpmIeBJffgbTmErgAbmeb1se2Kx30c5OQi2U9EoM9u8DsR08ReqjKOxZcXrcujj84O9zUW-wR-tswf9cjdW4ialWalqIdjbKLVLM/s688/IMG_9031.jpg)
 
-**La figura de una mariposa saliendo de un capullo le es mostrada a Chris. Una referencia a la mariposa monarca, donde se refiere el nombre de la programación.  
+La figura de una mariposa saliendo de un capullo le es mostrada a Chris. Una referencia a la mariposa monarca, donde se refiere el nombre de la programación.  
   
 
   

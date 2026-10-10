@@ -380,7 +380,7 @@ Si hay una contradicción entre una teoría y la escritura, usted tiene que dese
   
 En cualquier búsqueda de la verdad, haga su propia investigación, pruebe lo que está aprendiendo y póngalo en contraste con la Biblia, y lo más importante, siga la dirección de Dios. Él tiene un camino para ustedes, y Su camino siempre conducirá a la verdad.  
 
-Referencias**  
+Referencias  
   
 1: [http://www.dailymail.co.uk/sciencetech/article-2017818/Embryos-involving-genes-animals-mixed-humans-produced-secretively-past-years.html](http://www.dailymail.co.uk/sciencetech/article-2017818/Embryos-involving-genes-animals-mixed-humans-produced-secretively-past-years.html)  
   

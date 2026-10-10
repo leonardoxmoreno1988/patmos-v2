@@ -21,7 +21,7 @@ Cuando hablamos sobre los dones con señal (don de lenguas, milagros y sanacione
 2.  Milagros: manifestaciones tangibles y visibles que van en contra de las leyes de la física.
 3.  Sanaciones: que una persona tenga la capacidad de sanar enfermedades milagrosamente.
 
-Todos estos dones son lo que la Biblia describe como "señales": **
+Todos estos dones son lo que la Biblia describe como "señales": 
 
 > “Así que las lenguas por señal son, no a los que creen, sino a los incrédulos”  
 > –1 Corintios 14:22a.

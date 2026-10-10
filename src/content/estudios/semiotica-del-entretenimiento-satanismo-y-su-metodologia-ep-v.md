@@ -23,7 +23,7 @@ _"Satanás es el Dios de nuestro planeta y el único Dios..."_ 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW1OLo1y-SS20zOLKen0TQILRjpYNprtfAjMJbOzQiUluhmiF7PxM-HcScx_9dLp2qlrfmYRZxSdf6yV6lH06FbMrxAYqphGjd_3JBAR4EBrm5BiJljtiTB5B20I1p1zUz1AbxMly5CRw/s1600/drertth.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW1OLo1y-SS20zOLKen0TQILRjpYNprtfAjMJbOzQiUluhmiF7PxM-HcScx_9dLp2qlrfmYRZxSdf6yV6lH06FbMrxAYqphGjd_3JBAR4EBrm5BiJljtiTB5B20I1p1zUz1AbxMly5CRw/s1600/drertth.jpg)
 
-****Junto a este modelo (que tiene una mirada de**** ******"por favor matarme"****** ******en su rostro) se ven diagramas tomados de varios trabajos ocultos. El artículo que acompaña al photoshoot es básicamente un infomercial para la brujería, vendiéndolo como una herramienta para el empoderamiento femenino. A diferencia de "Limonade" de Beyoncé, el "empoderamiento" se entrelaza con la filosofía de la élite oculta (sin revelar nada de ella). El artículo contiene oraciones tales como: "La independencia de las mujeres es la gran fuerza de la brujería", "Siento que las brujas son relevantes porque las mujeres siguen siendo maltratadas" y "Fueron mujeres poderosas y no hay nada que de más miedo a un patriarcado que eso".******  
+Junto a este modelo (que tiene una mirada de "por favor matarme" en su rostro) se ven diagramas tomados de varios trabajos ocultos. El artículo que acompaña al photoshoot es básicamente un infomercial para la brujería, vendiéndolo como una herramienta para el empoderamiento femenino. A diferencia de "Limonade" de Beyoncé, el "empoderamiento" se entrelaza con la filosofía de la élite oculta (sin revelar nada de ella). El artículo contiene oraciones tales como: "La independencia de las mujeres es la gran fuerza de la brujería", "Siento que las brujas son relevantes porque las mujeres siguen siendo maltratadas" y "Fueron mujeres poderosas y no hay nada que de más miedo a un patriarcado que eso".  
 
   
 
@@ -51,11 +51,11 @@ _"Satanás es el Dios de nuestro planeta y el único Dios..."_ 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD1ILS6TN0lAi8x21f_AtP_cJUv25oOC6yqsxLgVel87aEle-lH90ypKLM_9wzFBcTjt41Gu-ChRtFL0tssHSWNO_HXxhCU4I8atYUtSQpFzJ1CilAAq-361m_-TMLV8pBTeOX-4KWdTE/s1600/rrree.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD1ILS6TN0lAi8x21f_AtP_cJUv25oOC6yqsxLgVel87aEle-lH90ypKLM_9wzFBcTjt41Gu-ChRtFL0tssHSWNO_HXxhCU4I8atYUtSQpFzJ1CilAAq-361m_-TMLV8pBTeOX-4KWdTE/s1600/rrree.jpg)
 
-****Mostrando la moda de control de la mente con rostros y multipersonalidades: La única manera de hacerse grande en Hollywood.****  
+Mostrando la moda de control de la mente con rostros y multipersonalidades: La única manera de hacerse grande en Hollywood.  
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVwNZCgMV55radmQ0KcbT_SlZ53aaQxtDGejzg0uO6pqoK1Zywi7GbmiM7DMVCqfbWo-oiRRUmDjmMmM3DTSPJAbGlrWU89M63M67Zpduo32V90cZ-t9wyFc3ODCsvPnj53cR6Rx0eSTE/s1600/westworld-gnosticismo.jpg)
 
-****La nueva serie de HBO, "Westworld" sobre inteligencia artificial utiliza la imagen del hombre de vitruvio o el [hombre dentro del pentagrama](http://symboldictionary.net/?p=1893). Un símbolo ancestral del ocultismo donde se glorifica al hombre como dios.****
+La nueva serie de HBO, "Westworld" sobre inteligencia artificial utiliza la imagen del hombre de vitruvio o el [hombre dentro del pentagrama](http://symboldictionary.net/?p=1893). Un símbolo ancestral del ocultismo donde se glorifica al hombre como dios.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSMVZRUilFO0Al2YguEjWmXwPO4o5eWcRPXIbtyUw2f1Ryu5zrZIl2iTH-0t_jyPwPerzoFbru8cJRIhc5oI8jaeu4W6E2Fi0XJhadQQjg4h6AXhRAZvIS080_WXyOYU7jriDWAqbGoXc/s1600/caballo-westworld.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSMVZRUilFO0Al2YguEjWmXwPO4o5eWcRPXIbtyUw2f1Ryu5zrZIl2iTH-0t_jyPwPerzoFbru8cJRIhc5oI8jaeu4W6E2Fi0XJhadQQjg4h6AXhRAZvIS080_WXyOYU7jriDWAqbGoXc/s1600/caballo-westworld.jpg)
 
@@ -97,7 +97,7 @@ _"Satanás es el Dios de nuestro planeta y el único Dios..."_ 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO2VWM2mOICEENFQrGHdgR8j6pV-3e7zfmTh4fF321KnLUshDEvtWUJVH6dzS_JJtwiEs3hLHMOsLyyvafpIKKbfy7M4PxcfVTRNoPJwQYEODdGuTocP7_XuSyV1jxc6MbZNDQ-DJHx1M/s1600/ojo-wesworld.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO2VWM2mOICEENFQrGHdgR8j6pV-3e7zfmTh4fF321KnLUshDEvtWUJVH6dzS_JJtwiEs3hLHMOsLyyvafpIKKbfy7M4PxcfVTRNoPJwQYEODdGuTocP7_XuSyV1jxc6MbZNDQ-DJHx1M/s1600/ojo-wesworld.jpg)
 
-****Teddy, otro robot y su interés amoroso tambien es torturado al ver como Dolores es abusada. El recurso del ojo es nuevamente otro símbolo del poder ocultista de la élite.****  
+Teddy, otro robot y su interés amoroso tambien es torturado al ver como Dolores es abusada. El recurso del ojo es nuevamente otro símbolo del poder ocultista de la élite.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC6Xv-O5D1aLypfx1_lxmhe3NGy7V5SJln4uJFqNsM9aP89GMe3-QCdqGfrFukl9Emhs-NS5-f3pX8P8tKwXDnEIw3k3nzG_3AxFeh-SwOqnuDrpqMgVh2ysa4P42Bw-4bR9DLF8n00Ao/s1600/laberinto-wesworld.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC6Xv-O5D1aLypfx1_lxmhe3NGy7V5SJln4uJFqNsM9aP89GMe3-QCdqGfrFukl9Emhs-NS5-f3pX8P8tKwXDnEIw3k3nzG_3AxFeh-SwOqnuDrpqMgVh2ysa4P42Bw-4bR9DLF8n00Ao/s1600/laberinto-wesworld.jpg)

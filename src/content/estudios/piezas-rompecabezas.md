@@ -16,7 +16,7 @@ Ciertos hombres escogidos por Dios lograron predecir el futuro con precisión. E
 > "Que era necesario que se cumpliesen todas las cosas que están escritas en la ley de Moisés, y en los profetas, y en los Salmos de mí.”  
 > –Lucas 24:44
 
-**Él mismo “les abrió el entendimiento para que comprendieran las Escrituras" (Lucas 24:45). Jesús estaba declarando que todo el Antiguo Testamento (ley, profetas, salmos) predijeron los detalles de su propia vida. Solo el evangelio de Mateo hace más de 60 referencias a estas profecías, enfatizando su cumplimiento en Cristo. Tales mensajes eran sobrenaturales, no naturales.  
+Él mismo “les abrió el entendimiento para que comprendieran las Escrituras" (Lucas 24:45). Jesús estaba declarando que todo el Antiguo Testamento (ley, profetas, salmos) predijeron los detalles de su propia vida. Solo el evangelio de Mateo hace más de 60 referencias a estas profecías, enfatizando su cumplimiento en Cristo. Tales mensajes eran sobrenaturales, no naturales.  
   
 En Génesis 3:15, Dios anuncia que en el futuro vendrá “[la simiente de la mujer](https://www.youtube.com/watch?v=XK3zTFJL3l0)”, y se menciona su cumplimiento en Gálatas 4:4, casi 4,000 años después, refiriéndose a Cristo como aquel “nacido de mujer”.  
   

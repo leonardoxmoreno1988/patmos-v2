@@ -37,7 +37,7 @@ El demandante era Michael Egan, quien asegura fue ultrajado repetidas veces por 
 > “Me llevaron a la casa, me amenazaron diciéndome que ellos tenían poder, que manejaban Hollywood, y que si al final del día yo no mantenía a este grupo feliz podían eliminarme. En la casa había bebidas con drogas, habían reglas de no usar ropa cerca al área de la piscina. Fui violado numerosas veces en esa casa por diferentes individuos, diferentes tipos de abuso sexual. Eras como un pedazo de carne para estas personas. Si tuviera que definir esa casa seria malvada.”  
 > —[fuente](http://www.20minutos.es/noticia/2116936/0/michael-egan-violacion-bryan-singer/trozo-carne/denuncia-2000/)
 
-[](https://www.blogger.com/u/2/#)**  
+[](https://www.blogger.com/u/2/#)  
   
 Michael Egan asegura que el abuso continuo por meses. En otra ocasión menciona que Singer forzó físicamente a Egan a darle sexo oral en una bañera, antes de sodomizarlo repetidamente. En 1999 cuando Egan tenía 17 años, asegura que fue enviando dos veces, por una semana cada vez, a otras fiestas en Kailua, Hawaii. En las mismas, el trabajo de Egan era también estar disponible para tener relaciones sexuales con el grupo elite de hombres. Según la demanda estas fiestas estaban llenas de armas, drogas, alcohol y sexo entre hombres adultos y varones menores de edad. Es ahí donde Singer le daba a Egan varias drogas como Cocaina, Xanax, Rohypnol, Vicodin, y una pastilla verde triangular que él cree que era Éxtasis.
 
@@ -53,20 +53,20 @@ Bryan Singer por su parte ha sostenido que todas las acusaciones son falsas y qu
 
 > “…Se ha vuelto más una metáfora para identidad sexual y orientación porque es más apropiado mirar a una persona y decir: ¿Eres un mutante? Tu no puedes siempre mirar a una persona y saber que es un mutante así como tú no puedes siempre mirar a una persona y saber si es gay.”
 
-**De igual forma el co-guionista de X-Men: First Class, Zack Stenz escribió en un comentario de facebook:  
+De igual forma el co-guionista de X-Men: First Class, Zack Stenz escribió en un comentario de facebook:  
 
 > “Yo ayude a escribir la película y puedo decirte que los derechos gay, la identidad judía post-holocausto y la alegoría de los derechos civiles fueron puestos a propósito. Joss Weldon diseño toda la línea histórica de “La Cura” en los cómics especialmente como una alegoría gay y Brian Singer incorporo sus propios sentimientos como hombre gay a las series (películas).”
 
-**Por otro lado el escritor, William Earnest admite en su peculiar y oportuno artículo: "[Dándole Sentido Gay a los X-Men](http://www.sagepub.com/upm-data/17549_Chapter_11.pdf)":  
+Por otro lado el escritor, William Earnest admite en su peculiar y oportuno artículo: "[Dándole Sentido Gay a los X-Men](http://www.sagepub.com/upm-data/17549_Chapter_11.pdf)":  
 
 > “Singer y sus guionistas equiparon sigilosamente a X-Men y X-Men2 con la retórica necesaria para volar por debajo del radar gay de muchos críticos y miembros de la audiencia.”
 
-**El actor gay Ian McKellen, quién interpreta al mutante Magneto en la serie de películas admite su negligente actitud hacia las Escrituras y lo que dice Dios acerca de la homosexualidad, teniendo como habito recurrente arrancar las páginas de la Biblia en los diversos hoteles que visita. McKellen menciona:  
+El actor gay Ian McKellen, quién interpreta al mutante Magneto en la serie de películas admite su negligente actitud hacia las Escrituras y lo que dice Dios acerca de la homosexualidad, teniendo como habito recurrente arrancar las páginas de la Biblia en los diversos hoteles que visita. McKellen menciona:  
 
 > "Sea cual sea el hotel donde me hospede, siempre reviso si tienen una Biblia. Y si la hay arranco una página. Voy a Levítico 18:22 y arranco es página, la cuál es dirigida contra los homosexuales... creo que hasta ahora debo haber arrancado unos cientos."  
 > —Ian Mckellen "Talk About Abomination" Citizen, Marzo 2012, p11.
 
-**Esta clase de actitud frente a la Biblia también es expresada la pagina web de la película, específicamente en una linea de tiempo fotográfica que narra la historia de los X-Men. En una de ellas vemos al representante del mensaje bíblico tratando de impedir la aceptación de los mutantes.
+Esta clase de actitud frente a la Biblia también es expresada la pagina web de la película, específicamente en una linea de tiempo fotográfica que narra la historia de los X-Men. En una de ellas vemos al representante del mensaje bíblico tratando de impedir la aceptación de los mutantes.
 
   
 
@@ -94,7 +94,7 @@ Es importante reconocer que Tresner esta describiendo al Mesías masónico, o lo
 > El significado masónico/iluminista de la X es simplemente este: Es la señal de Osiris, el gran dios sol egipcio.  
 > —Texe Marrs, Dark Majesty
 
-**Se dice que todos los símbolos ocultistas son provenientes del paganismo babilónico y egipcio. Esto no es un secreto si notamos que los rituales masónicos están llenos de [simbologia egipcia](http://www.bibliotecapleyades.net/sociopolitica/codex_magica/codex_magica11.htm). El ojo que todo lo ve es posiblemente el más importante, incluyendo el obelisco, las pirámides y su extraño culto a la muerte por mencionar algunos.
+Se dice que todos los símbolos ocultistas son provenientes del paganismo babilónico y egipcio. Esto no es un secreto si notamos que los rituales masónicos están llenos de [simbologia egipcia](http://www.bibliotecapleyades.net/sociopolitica/codex_magica/codex_magica11.htm). El ojo que todo lo ve es posiblemente el más importante, incluyendo el obelisco, las pirámides y su extraño culto a la muerte por mencionar algunos.
 
   
   
@@ -188,7 +188,7 @@ Este tipo de alteraciones genéticas son mencionadas en el capítulo 6 del Géne
 > "Había gigantes en la tierra en aquellos días, y también después que se llegaron los hijos de Dios a las hijas de los hombres, y les engendraron hijos. Estos fueron los valientes que desde la antiguedad fueron varones de renombre."  
 > \-Génesis 6:4
 
-**La creación de estos Nephilim se están tratando de replicar en secreto, financiadas por la élite con el fin de crear entidades mitad divinas mitad humanas, o como podemos concluir en base al dios de los illuminati, demonios con la habilidad de ocupar cuerpos físicos, accesibles a ser presentados en público como "salvadores" y que realizarán milagros asombrosos. Esto también es consecuente con la idea de "extraterrestres grises" y seres de apariencia reptil que han sido vistos en las bases militares subterráneas. Al final todo esto tiene que ver con manifestaciones demoníacas y un gran show montado sobre experimentos genéticos.
+La creación de estos Nephilim se están tratando de replicar en secreto, financiadas por la élite con el fin de crear entidades mitad divinas mitad humanas, o como podemos concluir en base al dios de los illuminati, demonios con la habilidad de ocupar cuerpos físicos, accesibles a ser presentados en público como "salvadores" y que realizarán milagros asombrosos. Esto también es consecuente con la idea de "extraterrestres grises" y seres de apariencia reptil que han sido vistos en las bases militares subterráneas. Al final todo esto tiene que ver con manifestaciones demoníacas y un gran show montado sobre experimentos genéticos.
 
 ## Mesías & Misticismo
 
@@ -207,7 +207,7 @@ Uno de los mutantes principales de la trama es Raven (Mistique), que bajo su ver
 
 **Al final de la película Mistique rescata a Logan adaptando la forma de William Striker. Una clara proyección de 2 Corintios 11:14 "Y no es maravilla, porque el mismo Satanás se disfraza como ángel de luz"**
 
-**Este proceso de identificación vuelve a ocurrir en las ultimas escenas, donde se expone un arma de sugestión llamada "disonancia cognitiva", que se caracteriza por enfrentar e invertir conceptos antagónicos o contrarios. El espectador promedio sabe que los ojos reptilianos representan a la serpiente, un enemigo, un ser que representa el mal, pero la película muestra que ella es el héroe que salva el futuro y rescata a Logan de su inevitable muerte. Al final el sujeto se sugestiona inconscientemente para redefinir el concepto de lo que él creía que es "malvado" y ahora ya no lo es. Muchas películas que incluyen un cristo cinemático utilizan este sistema para invertir el bien por el mal. Sin duda otra forma de gnosticismo.  
+Este proceso de identificación vuelve a ocurrir en las ultimas escenas, donde se expone un arma de sugestión llamada "disonancia cognitiva", que se caracteriza por enfrentar e invertir conceptos antagónicos o contrarios. El espectador promedio sabe que los ojos reptilianos representan a la serpiente, un enemigo, un ser que representa el mal, pero la película muestra que ella es el héroe que salva el futuro y rescata a Logan de su inevitable muerte. Al final el sujeto se sugestiona inconscientemente para redefinir el concepto de lo que él creía que es "malvado" y ahora ya no lo es. Muchas películas que incluyen un cristo cinemático utilizan este sistema para invertir el bien por el mal. Sin duda otra forma de gnosticismo.  
 
 ## Un Orden Mundial Humano/Mutante
 
@@ -215,7 +215,7 @@ Existe un mensaje "pro-paz mundial" que esta diseñado para condicionar a las pe
 
 > "El pasado, un nuevo e incierto mundo, un mundo de infinitas posibilidades e innumerables consecuencias. Incontables decisiones definen nuestro destino, cada decisión, cada momento, es una onda en el río del tiempo. Con suficientes hombres se cambia la corriente, porque el futuro jamas esta marcado."
 
-**Muy contrario a la filosofía de estos guionistas, Jesús enseño que el futuro sí está marcado y que no existen suficientes hombres como para detener su regreso. Es importante notar que este evento esta enlazado con el juicio a los que rechazaron la verdad y aceptaron la religión mundial del anticristo, es por esta razón que los Illuminati necesitan alejar a las personas de la profecía bíblica para introducirlos en la escatología gnóstica, un mundo que dirá "paz y seguridad" pero que al final les traerá la destrucción repentina. Miles de jóvenes y adultos son impulsados por este tipo de películas para adoptar una forma de pensamiento acorde con la élite satanista, no solo en lo que respecta a la agenda gay, sino al rechazo mismo de la salvación de Dios y su juicio sobre las naciones. Pablo de Tarso en su carta a la iglesia de Tesalónica hace una clara separación de estas dos formas de pensamiento:  
+Muy contrario a la filosofía de estos guionistas, Jesús enseño que el futuro sí está marcado y que no existen suficientes hombres como para detener su regreso. Es importante notar que este evento esta enlazado con el juicio a los que rechazaron la verdad y aceptaron la religión mundial del anticristo, es por esta razón que los Illuminati necesitan alejar a las personas de la profecía bíblica para introducirlos en la escatología gnóstica, un mundo que dirá "paz y seguridad" pero que al final les traerá la destrucción repentina. Miles de jóvenes y adultos son impulsados por este tipo de películas para adoptar una forma de pensamiento acorde con la élite satanista, no solo en lo que respecta a la agenda gay, sino al rechazo mismo de la salvación de Dios y su juicio sobre las naciones. Pablo de Tarso en su carta a la iglesia de Tesalónica hace una clara separación de estas dos formas de pensamiento:  
 
 > "Ustedes saben muy bien que el día del regreso del Señor llegará cuando menos se lo espere, como un ladrón que llega de noche. Cuando la gente diga: «Todo está en paz y tranquilo», entonces vendrá de repente sobre ellos la destrucción, como le vienen los dolores de parto a una mujer que está encinta; y no podrán escapar. Pero ustedes, hermanos, no están en la oscuridad, para que el día del regreso del Señor los sorprenda como un ladrón. Todos ustedes son de la luz y del día. No somos de la noche ni de la oscuridad; por eso no debemos dormir como los otros, sino mantenernos despiertos y en nuestro sano juicio."
 

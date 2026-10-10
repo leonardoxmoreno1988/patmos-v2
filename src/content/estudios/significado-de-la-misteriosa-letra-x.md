@@ -9,13 +9,13 @@ description: "\"Una X es un antiguo símbolo de cambio o transformación... asoc
 tags: ["Sociedad"]
 ---
 
-> **"Una X es un antiguo símbolo de cambio o transformación... asociado en el arte medieval y renacentista con la venida del Mesías que hará nuevas todas las cosas."****\- Jim Tresner, 33 °, Diario del Rito Escocés**
+> **"Una X es un antiguo símbolo de cambio o transformación... asociado en el arte medieval y renacentista con la venida del Mesías que hará nuevas todas las cosas."\- Jim Tresner, 33 °, Diario del Rito Escocés**
 
 [![x de los xmen con brazos cruzados de la masonería con faraon egipcio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvd2a94kbc3Vyl-qhxY3nxiBNlUYqY20PzVkOcvhaB_M1wREnfCsjvOCVu1jdRlCT4gqe-FSIwKAFys85P91wkKCBZyd8sTl8i56yJrgMY9zayPoH21F_p8D5jXAlGl3kWd0yPhMc1o9I/s1600/x-significado.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvd2a94kbc3Vyl-qhxY3nxiBNlUYqY20PzVkOcvhaB_M1wREnfCsjvOCVu1jdRlCT4gqe-FSIwKAFys85P91wkKCBZyd8sTl8i56yJrgMY9zayPoH21F_p8D5jXAlGl3kWd0yPhMc1o9I/s1600/x-significado.jpg)
 
   
 
-> **"El significado iluminista / masónico de la X es simplemente este: Es el signo de Osiris, el gran dios del sol (egipcio)."****\- Texe Marrs, Dark Majesty**
+> **"El significado iluminista / masónico de la X es simplemente este: Es el signo de Osiris, el gran dios del sol (egipcio)."\- Texe Marrs, Dark Majesty**
 
   
 La señal o **letra X**, tiene una larga historia de uso en las Religiones del Misterio Antiguo, en el judaísmo apóstata, en la Francmasonería y en el **ocultismo**. La élite de los **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** lo usa hasta nuestros días para simbolizar fenómenos clave y marcar eventos significativos.  
@@ -124,7 +124,7 @@ La X como signo de muerte
 Finalmente, como si quisieran el significado sombrío y horrible de la letra X en el ritual de la Masonería, hay que señalar que a su muerte, cuando el cuerpo del masón es dado en un entierro masónico por los hermanos reunidos, la X nuevamente entra en juego. El Monitor del Trabajo, Conferencias y Ceremonias de la Antigua Masonería para la Gran Logia del Estado de Nueva York en parte describe el ritual y la escena prescrita para los funerales:  
   
 
-> **"Los honores funerarios se dan extendiendo las manos hacia la tumba con las palmas hacia arriba, los hermanos repitiendo al unísono:****"A la tumba entregamos los restos mortales de nuestro difunto hermano". Luego los brazos se cruzan sobre el pecho, el izquierdo por encima de la derecha, los dedos tocan los hombros..." (10)**
+> **"Los honores funerarios se dan extendiendo las manos hacia la tumba con las palmas hacia arriba, los hermanos repitiendo al unísono:"A la tumba entregamos los restos mortales de nuestro difunto hermano". Luego los brazos se cruzan sobre el pecho, el izquierdo por encima de la derecha, los dedos tocan los hombros..." (10)**
 
   
 Entre las fotos e ilustraciones de esta sección, uno de los novelistas de terror Stephen King parece imitar exactamente este procedimiento funerario de cruzar los brazos (X), los dedos tocando el hombro opuesto. ¿Está King, el maestro de la literatura de la muerte, de hecho tomando la imagen de la muerte? ¿King cree que este acto ritual públicamente exhibido por él confiere al famoso novelista la "energía espiritual pura" mencionada por la autoridad masónica Jim Tresner, de grado 33°?  
@@ -135,7 +135,7 @@ Entre las fotos e ilustraciones de esta sección, uno de los novelistas de terro
 ¿De qué fuente se basan los masones para este simbolismo fúnebre del X? En mi libro, Dark Majesty, explico la conexión egipcia:  
   
 
-> **"En el antiguo Egipto, la marca de la "X" y el símbolo de los huesos cruzados en el símbolo de un X era muy prominente en contextos religiosos. Usted puede encontrar la X en las paredes de antiguos templos egipcios y pirámides... Es el signo de Osiris, el gran Dios sol..."****"Los antiguos faraones, cuando fueron enterrados, tenían las piernas cruzadas en forma de "X" como signo de devoción a Osiris ". (11)**
+> **"En el antiguo Egipto, la marca de la "X" y el símbolo de los huesos cruzados en el símbolo de un X era muy prominente en contextos religiosos. Usted puede encontrar la X en las paredes de antiguos templos egipcios y pirámides... Es el signo de Osiris, el gran Dios sol...""Los antiguos faraones, cuando fueron enterrados, tenían las piernas cruzadas en forma de "X" como signo de devoción a Osiris ". (11)**
 
   
 Hoy, como en el antiguo Egipto, Osiris el Dios del sol es adorado; Ahora el homenaje y la veneración proviene de los masones y sus compañeros iluministas. Estos hombres creen equivocadamente que son iluminados por su deidad solar, el Gran Arquitecto, Jahbuhlun o Lucifer.  
@@ -559,7 +559,7 @@ Pike explica la ilustración sugiriendo que la Fuerza (el poder bruto del pueblo
 
   
 
-> **MORALES Y DOGMA Página 80****Y por lo tanto, en varios dialectos africanos, son nombres del Sol, Airo, Ayero, eer, uiro, gurra y similares. El nombre real dado al Faraón, era PHRA, es decir, Pai-ra, el Sol.****La leyenda de la contienda entre Hor-ra y Set, o Set-nu-bi, igual que Bar o Bal, es más antigua que la de la contienda entre Osiris y Tifón; Tan antigua, al menos, como la decimonovena dinastía. Se llama en el Libro de los Muertos, "El día de la batalla entre Horus y Set". El mito posterior se conecta con Fenicia y Siria. El cuerpo de OSIRIS desembarcó en Gebal o Byblos, 60 millas sobre Tsur. Usted no dejará de notar que en el nombre de cada asesino de Khurum, el del dios malvado Bal se encuentra.****Har-oeri era el Dios del TIEMPO, así como de la Vida. La leyenda egipcia era que el rey de Byblos cortó el tamarisco que contenía el cuerpo de OSIRIS, e hizo de él una columna para su palacio. Isis, empleada en el palacio, obtuvo la posesión de la columna, tomó el cuerpo de él y se lo llevó.****Apuleio la describe como "una hembra hermosa, sobre cuyo cuello divino su pelo largo y grueso colgaba en graciosos rizos"; Y en la procesión, las mujeres con peines de marfil parecían vestir y adornar el cabello real de la diosa. La palmera y la lámpara en forma de bote aparecieron en la procesión. Si el símbolo del que estamos hablando no es una mera invención moderna, es a estas cosas a las que alude.**
+> **MORALES Y DOGMA Página 80Y por lo tanto, en varios dialectos africanos, son nombres del Sol, Airo, Ayero, eer, uiro, gurra y similares. El nombre real dado al Faraón, era PHRA, es decir, Pai-ra, el Sol.La leyenda de la contienda entre Hor-ra y Set, o Set-nu-bi, igual que Bar o Bal, es más antigua que la de la contienda entre Osiris y Tifón; Tan antigua, al menos, como la decimonovena dinastía. Se llama en el Libro de los Muertos, "El día de la batalla entre Horus y Set". El mito posterior se conecta con Fenicia y Siria. El cuerpo de OSIRIS desembarcó en Gebal o Byblos, 60 millas sobre Tsur. Usted no dejará de notar que en el nombre de cada asesino de Khurum, el del dios malvado Bal se encuentra.Har-oeri era el Dios del TIEMPO, así como de la Vida. La leyenda egipcia era que el rey de Byblos cortó el tamarisco que contenía el cuerpo de OSIRIS, e hizo de él una columna para su palacio. Isis, empleada en el palacio, obtuvo la posesión de la columna, tomó el cuerpo de él y se lo llevó.Apuleio la describe como "una hembra hermosa, sobre cuyo cuello divino su pelo largo y grueso colgaba en graciosos rizos"; Y en la procesión, las mujeres con peines de marfil parecían vestir y adornar el cabello real de la diosa. La palmera y la lámpara en forma de bote aparecieron en la procesión. Si el símbolo del que estamos hablando no es una mera invención moderna, es a estas cosas a las que alude.**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggLJH6BdqvgBY3_BKJNDA9AFPaMT5-ZjNCls5P2NC3oZ-BluVPSvwt_gBJzXqkJZNx3q3VoEVXv1QtgIGyE851J3lMCQLPzGsFbDWE2BLhfxHncLDn7b_F_PMn6JPaL9gGVdY-b4CUQmE/s1600/ccodex_97.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggLJH6BdqvgBY3_BKJNDA9AFPaMT5-ZjNCls5P2NC3oZ-BluVPSvwt_gBJzXqkJZNx3q3VoEVXv1QtgIGyE851J3lMCQLPzGsFbDWE2BLhfxHncLDn7b_F_PMn6JPaL9gGVdY-b4CUQmE/s1600/ccodex_97.jpg)
 

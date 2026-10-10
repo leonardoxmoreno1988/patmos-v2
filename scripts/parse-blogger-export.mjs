@@ -47,14 +47,71 @@ const NEWSLETTER_FOOTER =
   /^.*?(?:(?:\*\*|__)?PD:(?:\*\*|__)?\s*(?:\*\*|__)?Este \p{L}+ fue enviado|Este \p{L}+ fue enviado vía email\.?\s*Suscríbase aquí)[\s\S]*$/mu;
 
 /**
- * HTML -> Markdown, without the newsletter footer. Turndown also leaves bare "**"/"_" lines where
- * Blogger wrapped block elements in <b>/<i>.
+ * Repairs the bold markers Turndown produces from Blogger's markup, block by block (a block is a
+ * paragraph, or a paragraph inside a blockquote). Blogger often wrapped whole blocks or several
+ * paragraphs in one <b>, which leaves markers that don't pair up and show as literal "**":
+ * - adjacent spans are merged: "**a****b**" -> "**ab**", "**a** **b**" -> "**a b**"
+ * - an unmatched marker is dropped (the leading one, else the trailing one, else the last)
+ * - spaces just inside a pair move outside it: "** texto **" -> " **texto** "
+ * - bold around punctuation only is dropped: "DUPONTS**.**" -> "DUPONTS."
+ * - bold running from a paragraph into the blockquote after it (which Markdown can't render) is
+ *   dropped, and markers separated from their text by a line break move next to it
+ * Horizontal whitespace includes the non-breaking spaces Blogger is full of.
  */
+function repairBold(block) {
+  let out = block
+    // "**> cita" (a <b> around a blockquote): the marker belongs to no line in particular.
+    .replace(/^\*\*((?:[^\S\n]*>)+)/gm, "$1")
+    .replace(/\*{4,}/g, "")
+    .replace(/\*\*[^\S\n]+\*\*/g, " ")
+    // "E**[xaminando…](…)**": an opening marker right after a letter can't open; start at the word.
+    .replace(/(\p{L}+)\*\*(?=\[)/gu, "**$1");
+  const count = () => (out.match(/\*\*/g) ?? []).length;
+  if (count() % 2) {
+    const leading = /^((?:[^\S\n]*>)*[^\S\n]*)\*\*/;
+    const trailing = /\*\*([^\S\n]*)$/;
+    if (leading.test(out)) out = out.replace(leading, "$1");
+    else if (trailing.test(out)) out = out.replace(trailing, "$1");
+    else {
+      const last = out.lastIndexOf("**");
+      out = out.slice(0, last) + out.slice(last + 2);
+    }
+  }
+  let result = "";
+  let rest = out;
+  for (let open = rest.indexOf("**"); open !== -1; open = rest.indexOf("**")) {
+    const close = rest.indexOf("**", open + 2);
+    if (close === -1) break;
+    const inner = rest.slice(open + 2, close);
+    const [, lead, core, trail] = /^(\s*)([\s\S]*?)(\s*)$/.exec(inner);
+    const before = rest.slice(0, open);
+    const opensInQuote = /(?:^|\n)[^\S\n]*>[^\n]*$/.test(before);
+    const crossesIntoQuote = !opensInQuote && /\n[^\S\n]*>/.test(core);
+    const bold = core && !crossesIntoQuote && !/^[\p{P}\s]+$/u.test(core) ? `**${core}**` : core;
+    result += before + lead + bold + trail;
+    rest = rest.slice(close + 2);
+  }
+  return result + rest;
+}
+
+// Blocks are separated by blank lines, including blank blockquote lines ("> ").
+const BLOCK_BREAK = /(\n(?:[^\S\n]*>)*[^\S\n]*\n)/;
+
+/** HTML -> Markdown, without the newsletter footer and with Blogger's stray bold markers repaired. */
 const toMarkdown = (html) =>
   turndown
     .turndown(html)
     .replace(NEWSLETTER_FOOTER, "")
-    .replace(/^[ \t]*(?:\*\*|__|_|\*)[ \t]*$/gm, "")
+    // A few posts typed the asterisks literally ("\*\*Libro en progreso\*\*").
+    .replace(/\\\*\\\*(\S(?:[^*\n]*\S)?)\\\*\\\*/g, "**$1**")
+    // Headings are bold already; "### **\nTítulo**" (bold split by Blogger) -> "### Título".
+    .replace(/^(#{1,6})[^\S\n]+\*\*[^\S\n]*\n([^\n]+?)\*\*[^\S\n]*$/gm, "$1 $2")
+    .replace(/^(#{1,6}[^\S\n].*)$/gm, (heading) => heading.replace(/\*\*/g, ""))
+    // Bare "**"/"_" lines (also inside blockquotes) where Blogger wrapped block elements in <b>/<i>.
+    .replace(/^((?:[^\S\n]*>)*)[^\S\n]*(?:\*\*|__|_|\*)+[^\S\n]*$/gm, "$1")
+    .split(BLOCK_BREAK)
+    .map((part, i) => (i % 2 ? part : repairBold(part)))
+    .join("")
     .replace(/\n{3,}/g, "\n\n")
     .trim();
 

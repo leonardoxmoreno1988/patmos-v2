@@ -84,7 +84,7 @@ de la primera dama Nancy Reagan, dice que "el gran trino está formado por tres 
   
 
   
-Quigley ilustra el gran trino en su libro, _¿Qué dice Joan? - Mis siete años como astróloga de la Casa Blanca para Nancy y Ronald Reagan. **(**_**5)** Como resultado, el símbolo astrológico del gran trino es un triángulo dentro de un círculo.  
+Quigley ilustra el gran trino en su libro, _¿Qué dice Joan? - Mis siete años como astróloga de la Casa Blanca para Nancy y Ronald Reagan. (_**5)** Como resultado, el símbolo astrológico del gran trino es un triángulo dentro de un círculo.  
   
 Esta es la misma configuración de símbolos adaptada por el fundador de Alcohólicos Anónimos (AA) Bill Wilson para ser el logo oficial de AA. Mi extensa investigación de los documentos de vida de Bill Wilson era que fue un ocultista. Despreciaba el cristianismo y adoptó el concepto de AA de la adoración de un "Poder Superior" sin nombre para sustituir a Jesús. A Wilson se le ocurrió el logotipo de AA de un sueño que tenía en el que vio la imagen del triángulo dentro de un círculo y sabía que iba a convertirse en el logotipo de AA. **(6)**  
   
@@ -412,7 +412,7 @@ Esta portada de una de las muchas publicaciones de Star Wars, representa un pers
 
   
 
-Anuncio de página completa para Phoenix Wealth Management, una empresa de inversión. Para información sobre el Fénix como símbolo, vea el capítulo en el Codex Magica, E**[xaminando el águila de dos cabezas](http://www.ritualypropaganda.com/2017/06/codex-significado-aguila-dos-cabezas_19.html)** (p.341).  
+Anuncio de página completa para Phoenix Wealth Management, una empresa de inversión. Para información sobre el Fénix como símbolo, vea el capítulo en el Codex Magica, **E[xaminando el águila de dos cabezas](http://www.ritualypropaganda.com/2017/06/codex-significado-aguila-dos-cabezas_19.html)** (p.341).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xOQjx48lwro9Fua-pxhoFH9xnILiPhfbCribUT1KcGkTdOhOkmJzkKpMam1xh3VBekLD6LECz2vv7-31DsJafYWI9c6lXOFydnblYIfzR6CQHl8DX-qmuN4ccyuemhgNvraJT9yVtPU/s1600/ecodex_96.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xOQjx48lwro9Fua-pxhoFH9xnILiPhfbCribUT1KcGkTdOhOkmJzkKpMam1xh3VBekLD6LECz2vv7-31DsJafYWI9c6lXOFydnblYIfzR6CQHl8DX-qmuN4ccyuemhgNvraJT9yVtPU/s1600/ecodex_96.jpg)

@@ -97,7 +97,7 @@ Es implícito que estas películas tienen la intención de preparar psicológica
 
 > "Y uno de los ancianos me dijo: No llores: he aquí el león de la tribu de Judá, la raíz de David, ha vencido para abrir el libro y desatar sus siete sellos." -Apocalipsis 5:05
 
-**Cuando el mensajero le menciona a Leónidas que el "dios-rey Jerxes" solo desea "una ofrenda de tierra y agua" realmente simboliza la sumisión al dios-rey de la Biblia. Asi es, Jerxes simboliza al Dios cristiano, el cuál al igual de las creencias gnósticas es representado como un ser vil, despiadado y esclavista. Parte del mensaje en 300 es que la sumisión a Dios es para débiles y que el hombre rebelde y armado del tipo Leónidas son los que merecen admiración.  
+Cuando el mensajero le menciona a Leónidas que el "dios-rey Jerxes" solo desea "una ofrenda de tierra y agua" realmente simboliza la sumisión al dios-rey de la Biblia. Asi es, Jerxes simboliza al Dios cristiano, el cuál al igual de las creencias gnósticas es representado como un ser vil, despiadado y esclavista. Parte del mensaje en 300 es que la sumisión a Dios es para débiles y que el hombre rebelde y armado del tipo Leónidas son los que merecen admiración.  
   
 La historia continua y vemos al emisario de Jerxes acercándose a los espartanos. Este menciona:  
 
@@ -128,7 +128,7 @@ Isaías dice:
 
 > "Venid ahora, y razonemos juntos, dice Jehová: si vuestros pecados fueren como la grana, quedarán blancos como la nieve, aunque sean rojos como el carmesí, vendrán a ser como blanca lana." -Isaías 1:18
 
-**Jerxes: 
+Jerxes: 
 
 > **"Tus rivales atenienses se arrodillarán a tus pies, si primero, te arrodillas ante mí."**
 
@@ -238,6 +238,6 @@ En diversas formas esto puede ser confuso para el espectador, el personaje de Le
 
 > "Para que, ante el nombre de Jesús, se doble toda rodilla en el cielo y en la tierra y debajo de la tierra, y toda lengua confiese que Jesucristo es el Señor para la gloria de Dios Padre." -Filipenses 2:10-11
 
-**En Conclusión, "300" sumerge al espectador a una supuesta batalla por la libertad y la justicia, pero entre sus sangrientas escenas de acción existe otra batalla muy común en las grandes producciones de Hollywood: La batalla contra el cristianismo. Diversas sociedades gnósticas han logrado manipular la industria del cine con el fin de preparar a las masas para una gran rebelión. Para poder introducir este culto luciferino se han desarrollado diferentes técnicas psicológicas y creado diversos mensajes herméticos. Pese a que de cierta forma estos mensajes llegan a ser muy evidentes, muchos "buscadores de la verdad" se han sentido identificados con la gnosis, tomándolo como solución a la gran falta de espiritualidad en el mundo. Lo que debemos entender es que esta "solución" es dada por los mismos que han creado el problema. En otras palabras, varios están siendo llevados a una supuesta lucha contra el gobierno satanista, sin embargo, terminan practicando las mismas doctrinas provenientes de Lucifer.  
+En Conclusión, "300" sumerge al espectador a una supuesta batalla por la libertad y la justicia, pero entre sus sangrientas escenas de acción existe otra batalla muy común en las grandes producciones de Hollywood: La batalla contra el cristianismo. Diversas sociedades gnósticas han logrado manipular la industria del cine con el fin de preparar a las masas para una gran rebelión. Para poder introducir este culto luciferino se han desarrollado diferentes técnicas psicológicas y creado diversos mensajes herméticos. Pese a que de cierta forma estos mensajes llegan a ser muy evidentes, muchos "buscadores de la verdad" se han sentido identificados con la gnosis, tomándolo como solución a la gran falta de espiritualidad en el mundo. Lo que debemos entender es que esta "solución" es dada por los mismos que han creado el problema. En otras palabras, varios están siendo llevados a una supuesta lucha contra el gobierno satanista, sin embargo, terminan practicando las mismas doctrinas provenientes de Lucifer.  
   
 La única razón por la que esta mentira del hombre como propio Dios tiene tanta importancia y es financiada de diversas formas es porque destruye completamente el mensaje de salvación. Este es por supuesto el verdadero significado de la muerte de Cristo. Al llevar a las masas a una propia auto-iluminación están dirigiendo a la sociedad en una deliberada y muy planificada nueva babilonia ¿Está la élite satanista consiente de este hecho? Por supuesto, pero a diferencia de Dios que requiere que te arrodilles, ellos requieren que "cenes en el infierno".

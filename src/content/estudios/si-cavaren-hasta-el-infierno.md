@@ -22,12 +22,12 @@ Hablamos de un lugar designado para los condenados, y que funciona como prisión
 > "Si cavaren hasta el infierno, de allá los tomará mi mano; y si subieren hasta el cielo, de allá los haré descender"  
 > –Amos 9:2
 
-**Otros pasajes indican que el infierno está ubicado "en el corazón de la tierra" (Mateo 12:40; Hechos 2:27-31; Proverbios 7:27; Isaías 5:14; Ezequiel 31:16-27). La Biblia deja claro que el centro de la tierra [está ardiendo](https://www.livescience.com/51249-earth-core-contains-brimstone.html) a grandes temperaturas.  
+Otros pasajes indican que el infierno está ubicado "en el corazón de la tierra" (Mateo 12:40; Hechos 2:27-31; Proverbios 7:27; Isaías 5:14; Ezequiel 31:16-27). La Biblia deja claro que el centro de la tierra [está ardiendo](https://www.livescience.com/51249-earth-core-contains-brimstone.html) a grandes temperaturas.  
 
 > "Tierra de la cual saldrá pan, y debajo de ella estará como convertida en fuego."  
 > –Job 28:5
 
-**Aunque es evidente que solo quienes mueren sin ser salvos terminan en el infierno (Salmo 55:15), este lugar físico ya se ha abierto antes para [tragarse a Coré](https://inspiredscripture.com/numbers-16/media/image2.jpg) y sus seguidores rebeldes (Números 16:33), y se abrirá de nuevo en la futura Tribulación para liberar una plaga de demonios (Revelación 9:2, Revelación 11:7).  
+Aunque es evidente que solo quienes mueren sin ser salvos terminan en el infierno (Salmo 55:15), este lugar físico ya se ha abierto antes para [tragarse a Coré](https://inspiredscripture.com/numbers-16/media/image2.jpg) y sus seguidores rebeldes (Números 16:33), y se abrirá de nuevo en la futura Tribulación para liberar una plaga de demonios (Revelación 9:2, Revelación 11:7).  
   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ltVOl3QfbD7-xfpBaptKXlDvnba8LPva6PY1tEVoj3j3aN6twFbHtl8D5DwGnIG-PpH-68leE3E7O4ZniJHjf7v5LKiCMqi01DcIiUcRBXWqquMLsWAj78xkD8ObjQBPM7NKm_-Cg8rw2IIhzu7VOQmaVYEJvXVQBNGTjtsP7nLtbkkn-veYw4EdOQI/s16000/sheol.jpg)  
   
@@ -50,7 +50,7 @@ Cuando descendió a las partes más bajas de la tierra (Efesios 4:9), llevó cau
 > "Y el que subió, ¿qué es, sino que también había descendido primero a las partes inferiores de la tierra?"  
 > –Efesios 4:8
 
-**En el Hades Cristo también predicó a los espíritus encarcelados (1 Pedro 3:19). Estos espíritus provienen de la época de Noé (1 Pedro 3:20) y podrían ser los hijos caídos de Dios (Génesis 6:2-4), ya que a los ángeles también se les llama espíritus (Hebreos 1:7), y sabemos que los ángeles caídos están reservados para juicio en [prisiones eternas](http://www.ritualypropaganda.com/2022/04/angeles-no-guardaron-dignidad.html) (2 Pedro 2:4; Judas 6).  
+En el Hades Cristo también predicó a los espíritus encarcelados (1 Pedro 3:19). Estos espíritus provienen de la época de Noé (1 Pedro 3:20) y podrían ser los hijos caídos de Dios (Génesis 6:2-4), ya que a los ángeles también se les llama espíritus (Hebreos 1:7), y sabemos que los ángeles caídos están reservados para juicio en [prisiones eternas](http://www.ritualypropaganda.com/2022/04/angeles-no-guardaron-dignidad.html) (2 Pedro 2:4; Judas 6).  
   
 También es posible que tales espíritus encarcelados sean los descendientes de “los hijos de Dios” y “las hijas de los hombres”, llamados Nefilim (Génesis 6:1-4).  
   

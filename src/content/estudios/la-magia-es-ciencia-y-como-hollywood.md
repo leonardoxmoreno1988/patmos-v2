@@ -177,7 +177,7 @@ Después de robar el cubo, Schmidt es visitado por Nazis para ver los avances de
 > "Y suponemos que espera ganar esta guerra con magia..."  
 > "Ciencia! pero entiendo su confusión, el poder causa ese efecto en los hombres primitivos."
 
-**Luego se rebela contra los propios Nazis y los asesina, creando su propio ejército y con sus propios métodos de conquista mundial. La intención de interpretar la magia como ciencia es muy constante durante el avance de la película y como también hemos visto en casi todas las últimas producciones de Marvel, en el caso de Iron Man es mediante el [transhumanismo](http://www.ritualypropaganda.com/2017/07/transhumanismo-industria-musical-y-el-futuro.html) y su vinculo con el dios Prometeus.
+Luego se rebela contra los propios Nazis y los asesina, creando su propio ejército y con sus propios métodos de conquista mundial. La intención de interpretar la magia como ciencia es muy constante durante el avance de la película y como también hemos visto en casi todas las últimas producciones de Marvel, en el caso de Iron Man es mediante el [transhumanismo](http://www.ritualypropaganda.com/2017/07/transhumanismo-industria-musical-y-el-futuro.html) y su vinculo con el dios Prometeus.
 
 ##   
 El Aprendiz de Brujo (2010)
@@ -210,7 +210,7 @@ Mientras que Baltazar instruye a Dave, su archirrival Maxim Horvath va en busca 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyNYSgrj71fM7-En8Sa5OqKE0aKVdBYVym8dqK-MZTAxgJUex6L62QRMmwHXJf0jTfRipR8MlR5m5lz9rMh4q5iXasreLQ6jNZotBeUzdKgpmORF-dxMvuF6dq99g5wgrx1jZZHrjB_Ej0/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyNYSgrj71fM7-En8Sa5OqKE0aKVdBYVym8dqK-MZTAxgJUex6L62QRMmwHXJf0jTfRipR8MlR5m5lz9rMh4q5iXasreLQ6jNZotBeUzdKgpmORF-dxMvuF6dq99g5wgrx1jZZHrjB_Ej0/)
 
-**El ojo que todo lo ve. A la derecha el título "Magia Ancestral"  
+El ojo que todo lo ve. A la derecha el título "Magia Ancestral"  
 
   
 
@@ -257,8 +257,8 @@ Es conocido principalmente por ser el fundador de la Iglesia de Satán, fue un i
   
 
 Fue una escritora, ocultista y teósofa rusa. Fue también una de las fundadoras de la Sociedad Teosófica y contribuyó a la difusión de la Teosofía moderna. Sus doctrinas forman parte de la actual enseñanza masónica y nueva era, así como lo es la canalización de seres de otras galaxias.  
-**> "La magia considerada como una ciencia es el conocimiento de los principios y la forma mediante la cual puede ser la omnisciencia y la omnipotencia del Espíritu y de su control sobre las fuerzas de la naturaleza adquiridos por el individuo, a pesar de que todavía está dentro de su propio cuerpo . Considerada como un arte, la magia es la aplicación de este conocimiento a la práctica."  
-> \- Helena Blavatsky - Isis Unveiled** 
+> "La magia considerada como una ciencia es el conocimiento de los principios y la forma mediante la cual puede ser la omnisciencia y la omnipotencia del Espíritu y de su control sobre las fuerzas de la naturaleza adquiridos por el individuo, a pesar de que todavía está dentro de su propio cuerpo . Considerada como un arte, la magia es la aplicación de este conocimiento a la práctica."  
+> \- Helena Blavatsky - Isis Unveiled 
 
 ## Aleister Crowley
 
@@ -270,7 +270,7 @@ Autodenominado The Great Beast ([La Gran Bestia](http://www.ritualypropaganda.co
 > "Sin lugar a dudas, la magia es una de las más sutiles y más difíciles de las ciencias y las artes. Hay más probabilidad para los errores de comprensión, juicio y práctica que en cualquier otra rama de la física."  
 > \- Aleister Crowley - 777 And Other Qabalistic Writings
 
-**En conclusión, estas las doctrinas ocultistas están siendo reveladas a un público muy sugestionable y de poco pensamiento crítico. La gran manipulación de Hollywood por esta élite satanista a desarrollado lo que Alice Baile nombró como "Externalización de la Jerarquía" . Un tiempo donde las enseñanzas místicas de todas las edades sería reveladas a las masas para su aceptación. Para lograr este fin es necesario que los medios y varias formas de entretenimiento moldeen los paradigmas y las creencias acerca del entorno científico. Este es el verdadero fin de la manipulación del cine y la industria musical por los illuminati.  
+En conclusión, estas las doctrinas ocultistas están siendo reveladas a un público muy sugestionable y de poco pensamiento crítico. La gran manipulación de Hollywood por esta élite satanista a desarrollado lo que Alice Baile nombró como "Externalización de la Jerarquía" . Un tiempo donde las enseñanzas místicas de todas las edades sería reveladas a las masas para su aceptación. Para lograr este fin es necesario que los medios y varias formas de entretenimiento moldeen los paradigmas y las creencias acerca del entorno científico. Este es el verdadero fin de la manipulación del cine y la industria musical por los illuminati.  
   
 El engaño de la magia como ciencia es solo una idea en el vasto concepto para la aceptación del iluminismo, también interpretado como satanismo. Debemos entender que el satanismo no solo se trata del sacrificio de gallinas o el encender velas negras, la aceptación de la doctrina satánica vendrá encubierta de sabiduría y evolución humana, conjuntamente con la idea del hombre como propio Dios, es por eso la necesidad del concepto "magia como ciencia" ya que conllevaría a supuestas formas de desarrollo científico. Nada mas lejano de la realidad. Una sociedad que practica abiertamente el ocultismo y la magia es lo que el nuevo orden mundial necesita, personas canalizando espíritus y/o demonios de diferentes eras iniciando lo que se denomina "La Era del Acuario", un falso "despertar" para el hombre moderno, un engañoso milenio de paz en la tierra que ocultamente funcionaría para preparar el gobierno y la llegada del anticristo o el cristo masón. El fruto del árbol prohibido está siendo repartido y posiblemente será aceptado en la sociedad como la nueva religión, una nueva ciencia que como en el Edén te prometerá abrirte los ojos y convertirte en tu propio Dios. Solo una mente consciente de la verdad de Cristo podrá identificar el fruto y entrar por la puerta angosta de la salvación.
 

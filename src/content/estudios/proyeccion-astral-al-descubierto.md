@@ -81,7 +81,7 @@ Entonces vemos que este espíritu guía se presentó con una gran cantidad de de
 
 miedo o son de una vibración baja, entonces se manifestarán entidades de miedo en el astral", debido a que esta mujer llamó a su espíritu guía de forma amorosa: "Sólo de pensar en él en cualquier mometo, siento mariposas en el estómago intensamente y siento que estoy enamorada". Así que ella no "manifiesto" esta experiencia por miedo. Ella realmente creía que tenía una asociación romántica con su espíritu guía, y éste trajo consigo a una serie de demonios para hacer turnos y violarla, cuando ella ni siquiera estaba en un estado de temor antes de todo.  
 **[  
-](http://a%20user%20on%20a%20forum/)****[Una usuaria en un foro](http://www.godlikeproductions.com/forum1/message1186809/pg1?regp=bm9fMTQ0NjM1NTYyMg==)** da algunas descripciones gráficas de algunas de sus experiencias sobre haber sido violada por demonios astrales, y describe el cambio de forma que hacen para engañarla:  
+](http://a%20user%20on%20a%20forum/)[Una usuaria en un foro](http://www.godlikeproductions.com/forum1/message1186809/pg1?regp=bm9fMTQ0NjM1NTYyMg==)** da algunas descripciones gráficas de algunas de sus experiencias sobre haber sido violada por demonios astrales, y describe el cambio de forma que hacen para engañarla:  
   
 
 > "PASÉ ALREDEDOR DE UNA HORA SIENDO SODOMIZADA POR LOS DEMONIOS ASTRALES. ESTE FUE UN ESCENARIO BASTANTE SIMILAR. SIEMPRE ES UNA ESCENA TAN FAMILIAR. MIENTRAS ESTOY SIENDO ATACADA, ME AGACHO Y TRATO DE AGARRAR LO QUE ME ESTÁ PENETRANDO Y ES UN TUBO CIRCULAR DE ALGÚN TIPO, PERO LUEGO CAMBIA DE FORMA Y SE CONVIERTE EN UN BRAZO Y SIGO EL BRAZO Y ALCANZO LA MANO Y LAS INSTRUCCIONES SON DE MORDERLO, Y YO NO QUIERO MORDER, ASÍ QUE LO LAMO, NO PUEDO DEJAR DE HACERLO... ES EMBARAZOSO."
@@ -117,7 +117,7 @@ Ella describen su [otra experiencia](http://www.psychic-experiences.com/real-psy
 
 "Hace unas noches que no me sentía bien y tenía un dolor de cabeza y decidí dormir un poco. Me quedé dormida, pero luego me miré a mí mismo de una vista inclinada hacia arriba y me vi a mí mismo dormida. Mis brazos entumecidos y mis dedos con un hormigueo. Una presencia de algún tipo me agarró y realizó todos los actos de maltrato posibles en mí. Intenté gritar, pero no tenía voz, luchamos en mi habitación y yo intentaba alejarme de la puerta pero estaba fuera de mi alcance. Se sentía tan real, esto ocurrió incluso una vez más el año pasado".  
 **[  
-](http://www.godlikeproductions.com/forum1/message1009266/pg1)****[Otra historia](http://www.godlikeproductions.com/forum1/message1009266/pg1)** describe la violación y la parálisis:  
+](http://www.godlikeproductions.com/forum1/message1009266/pg1)[Otra historia](http://www.godlikeproductions.com/forum1/message1009266/pg1)** describe la violación y la parálisis:  
   
 "Me acosté para una breve siesta... fui llevado al astral o mas bien arrastrado. Floté hasta una chica que tenía caras cambiantes. Ella o debería decir "eso" abría su boca muy amplia y se puso al lado de esta. Su piel se estiró como un elástico casi como el ancho de un brazo. Entonces llegó a mí y trató de hacer lo mismo en mi piel, que no era tan elástica. Lo siguiente es que se acerca bastante a mí y comienza a hacerlo conmigo. Yo empecé un poco a participar, y luego algo se insertó en mi ano... lo sé (¿por qué el cuerpo astral tendría un ano?) Luego empiezo a ir y venir suavemente y luego muy duro, hace que todo el cuerpo vaya hacia adelante. Ya estoy acostumbrada a esto.  
   

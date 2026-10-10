@@ -9,9 +9,9 @@ description: "\"¡Cómo se corta y rompe el martillo de toda la tierra! ¡cómo 
 tags: ["Sociedad"]
 ---
 
-> **"¡Cómo se corta y rompe el martillo de toda la tierra! ¡cómo se convierte Babilonia en desolación entre las naciones! ... Esta es la obra del Señor Dios de los ejércitos ..."- Jeremías 50:23, 25  
+> "¡Cómo se corta y rompe el martillo de toda la tierra! ¡cómo se convierte Babilonia en desolación entre las naciones! ... Esta es la obra del Señor Dios de los ejércitos ..."- Jeremías 50:23, 25  
 >   
-> "El comunismo fue únicamente la invención de los judíos."- Sir Winston Churchill, London Illustrated Herald (8 de febrero de 1920)**
+> "El comunismo fue únicamente la invención de los judíos."- Sir Winston Churchill, London Illustrated Herald (8 de febrero de 1920)
 
   
 
@@ -98,7 +98,7 @@ El puño cerrado o apretado es, en la Filosofía Iluminista, el símbolo del sec
 El Dr. Peter Ruckman, en su fascinante estudio de las cosas ocultistas negras y malvadas, titulado burdamente _Black is Beautiful_, comenta sobre el puño levantado y apretado:  
   
 
-> **"Encontrará este "saludo" dado por todos los miembros del Partido Comunista en Nueva York, en la década de 1920 y por la Brigada (estalinista) Abraham Lincoln, durante la guerra civil en España en la década de 1930.****Por algún capricho del "destino", este saludo fue adoptado por los Panteras Negras en Estados Unidos durante la década de 1960 ... los seguidores de Martin Luther King lo llamaron el "ALZA DEL PODER NEGRO". (14)**
+> **"Encontrará este "saludo" dado por todos los miembros del Partido Comunista en Nueva York, en la década de 1920 y por la Brigada (estalinista) Abraham Lincoln, durante la guerra civil en España en la década de 1930.Por algún capricho del "destino", este saludo fue adoptado por los Panteras Negras en Estados Unidos durante la década de 1960 ... los seguidores de Martin Luther King lo llamaron el "ALZA DEL PODER NEGRO". (14)**
 
   
 Los líderes liberales afroamericanos continúan empleando este saludo hasta el día de hoy. Jesse Jackson lo hace casi como una respuesta automática.  
@@ -106,7 +106,7 @@ Los líderes liberales afroamericanos continúan empleando este saludo hasta el 
 El saludo con el puño cerrado, o el signo de la mano, es bien conocido en la masonería. El primer signo, o _Due-guard_, en el ritual del Grado del Maestro Selecto es levantar ambos brazos en una posición de "L" (cuadrada) con los puños apretados. La conferencia para este grado en _Richardson's Monitor of Freemasonry_ afirma:  
   
 
-> **"Los signos de un Maestro Selecto se dan de la siguiente manera: El primero es similar al signo de un** **Maestro Masón****. Los puños están apretados, en alusión a una de las penalidades de la obligación, que es tener ambas manos cortadas como muñón."**
+> **"Los signos de un Maestro Selecto se dan de la siguiente manera: El primero es similar al signo de un Maestro Masón. Los puños están apretados, en alusión a una de las penalidades de la obligación, que es tener ambas manos cortadas como muñón."**
 
   
 Que interesante. Irónicamente, según los masones, el símbolo del puño cerrado se relaciona con la mano cortada como muñón. Comunistas por ahí: tal vez deberías escuchar lo que tus compinches en la masonería te están enseñando.  
@@ -167,7 +167,7 @@ En Escandinavia, el dios principal, Odin, tenía ropa, símbolos de escudo y run
   
 Robin era el dios de las brujas en el bosque y cuando se realizaban sacrificios humanos, estaban dedicados a Robin Redbreast (Robin Pecho Rojo), o al asesinado Cock Robin.  
   
-Actualizado a tiempos más recientes, encontramos que en su libro de ocultismo, _A Treatise On The Seven Rays_, la directora de Lucis Trust, Alice Bailey, enseñó la importancia oculta de los colores. "Los tres rayos principales", dijo, "son rojos, azules y amarillos". El color rojo, explicó Bailey, tiene que ver con "voluntad o poder". **(19)  
+Actualizado a tiempos más recientes, encontramos que en su libro de ocultismo, _A Treatise On The Seven Rays_, la directora de Lucis Trust, Alice Bailey, enseñó la importancia oculta de los colores. "Los tres rayos principales", dijo, "son rojos, azules y amarillos". El color rojo, explicó Bailey, tiene que ver con "voluntad o poder". (19)  
 
 En _El Simbolismo del Color_, Faber Birren señala la primacía del color rojo. Él nota:  
   

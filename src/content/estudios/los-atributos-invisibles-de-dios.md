@@ -28,14 +28,14 @@ La complejidad de [las estrellas](https://www.ritualypropaganda.com/2022/11/evan
 > "Porque las cosas invisibles de él, entendidas son desde la creación del mundo, por medio de las cosas que son hechas, se ven claramente, es a saber, su eterno poder y divinidad, para que queden sin excusa."  
 > –Romanos 1:20
 
-**Entonces, todos son responsables de comprender esto. La Biblia dice que ningún ser humano en toda la historia ha tenido una excusa para negar la existencia de Dios.  
+Entonces, todos son responsables de comprender esto. La Biblia dice que ningún ser humano en toda la historia ha tenido una excusa para negar la existencia de Dios.  
   
 Pero incluso si uno naciera ciego, sordo o parapléjico, Romanos 2 habla de otra evidencia importante: la luz de la conciencia.  
 
 > "Porque cuando los Gentiles que no tienen la ley, hacen naturalmente las cosas de la ley, los tales aunque no tengan la ley, a sí mismos son ley: Mostrando la obra de la ley escrita en sus corazones, dando testimonio juntamente sus conciencias; y acusándose mientras tanto, o también excusándose sus pensamientos, unos con otros,"  
 > –Romanos 2:14-15
 
-**La gente sabe inherentemente que está mal asesinar (Éxodo 20:13). ¿De dónde proviene este conocimiento? Si la evolución fuera cierta, no existiría una noción compartida de la maldad.  
+La gente sabe inherentemente que está mal asesinar (Éxodo 20:13). ¿De dónde proviene este conocimiento? Si la evolución fuera cierta, no existiría una noción compartida de la maldad.  
   
 Si bien es evidente que a muchas personas se les puede cauterizar la consciencia (1 Timoteo 4:2), desde el principio, todos saben que es intrínsecamente malo quitarle la vida a otra persona.  
   

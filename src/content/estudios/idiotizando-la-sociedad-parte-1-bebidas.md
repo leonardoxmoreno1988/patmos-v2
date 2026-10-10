@@ -157,11 +157,11 @@ Los funcionarios públicos que han trabajado para Monsanto:
 Muchas leyes (aprobadas por los antiguos empleados de Monsanto) han facilitado la introducción y consumo de alimentos genéticamente modificados por el público.  
   
 
-> **"Según las estadísticas actuales, el 45% de maíz y 85% de la soja en los Estados Unidos son genéticamente modificados (GM). Se estima que en un 70-75% de los alimentos procesados que se encuentran en los supermercados, se cree que contienen ingredientes transgénicos.  
+> "Según las estadísticas actuales, el 45% de maíz y 85% de la soja en los Estados Unidos son genéticamente modificados (GM). Se estima que en un 70-75% de los alimentos procesados que se encuentran en los supermercados, se cree que contienen ingredientes transgénicos.  
 >   
-> Otros alimentos son genéticamente modificados de canola, la papaya, la endibia, papas, arroz, calabaza o zapallo, melón, remolacha, lino, tomate y aceite de colza. Un cultivo no alimentario, que es comúnmente es el algodón GM. GM hormona de crecimiento utilizadas en el ganado bovino (rBGH o Prosilac) fue uno de los primeros productos modificados genéticamente autorizados en el suministro de alimentos de la nación. La FDA aprobó la rBGH de Monsanto en 1993. "**  
-> **  
-> \- Anna M. Salant, los alimentos genéticamente modificados**
+> Otros alimentos son genéticamente modificados de canola, la papaya, la endibia, papas, arroz, calabaza o zapallo, melón, remolacha, lino, tomate y aceite de colza. Un cultivo no alimentario, que es comúnmente es el algodón GM. GM hormona de crecimiento utilizadas en el ganado bovino (rBGH o Prosilac) fue uno de los primeros productos modificados genéticamente autorizados en el suministro de alimentos de la nación. La FDA aprobó la rBGH de Monsanto en 1993. "  
+>
+> \- Anna M. Salant, los alimentos genéticamente modificados
 
    
 Aunque todavía es posible determinar los efectos a largo plazo de los alimentos modificados genéticamente en el cuerpo humano, algunos datos han sido establecidas. los alimentos genéticamente modificados contienen menos nutrientes y más importante aún, son "químicamente ambiente".  
@@ -211,7 +211,7 @@ Muchos estudios se han realizado sobre los efectos del fluoruro en el cuerpo hum
 > "En 1995, neurotoxicología y ex director de la toxicología en Forsyth Dental Center en Boston, el Dr. Phyllis Mullenix publicó un estudio mostrando que el fluoruro se acumula en el cerebro de los animales cuando son expuestos a niveles moderados. El daño cerebral se produce y las normas son.. el comportamiento de los animales se vieron afectados negativamente. La descendencia de las hembras preñadas que recibieron dosis relativamente bajas de fluoruro mostraron efectos permanentes en el cerebro que se consideraban como la hiperactividad. En animales jóvenes y animales adultos tratados con fluoruro el efecto fue contrario - La hipoactividad o lentitud. efectos tóxicos de fluoruro en el sistema nervioso central fueron confirmados posteriormente por la investigación del gobierno previamente clasificados. Dos nuevos estudios epidemiológicos tienden a confirmar que los efectos neurotóxicos de fluoruro en el cerebro han demostrado que los niños expuestos a altos niveles de flúor tuvieron menor coeficiente intelectual."  
 > [\- Fuente](http://www.holisticmed.com/fluoride/)
 
-[](https://www.blogger.com/u/1/#)**
+[](https://www.blogger.com/u/1/#)
 
   
 
@@ -223,17 +223,17 @@ Un efecto secundario menos conocidos, pero muy importante el flúor es la calcif
 
   
 
-> **  
+>
 > "Hasta la década de 1990, no se han realizado investigaciones para determinar los efectos del fluoruro sobre la glándula pineal - una pequeña glándula situada entre los dos hemisferios del cerebro que regula la producción de la hormona melatonina. La melatonina es una hormona que ayuda a regular el inicio de la pubertad y ayuda a proteger el cuerpo contra el daño celular causado por los radicales libres.  
 >   
 > Se sabe ahora - gracias a una meticulosa investigación de la Dra. Jennifer Luke, de la Universidad de Surrey en Inglaterra - que la glándula pineal es el objetivo principal de la acumulación de flúor en el organismo.  
 >   
 > Los tejidos blandos de la glándula pineal adulto contiene más fluoruro que cualquier otro tejido blando del cuerpo - un nivel de fluoruro (~ 300 ppm) puede inhibir las enzimas.  
 >   
-> La glándula pineal también contiene tejido duro (cristales hyroxyapatite), y es en este tejido duro donde se acumula más fluoruro (hasta 21.000 ppm) que cualquier otro tejido duro en el cuerpo (por ejemplo, los dientes y huesos)."**
+> La glándula pineal también contiene tejido duro (cristales hyroxyapatite), y es en este tejido duro donde se acumula más fluoruro (hasta 21.000 ppm) que cualquier otro tejido duro en el cuerpo (por ejemplo, los dientes y huesos)."
 > 
-> **  
-> [\- Fuente](http://www.icnr.com/articles/fluoride-deposition.html)**
+>
+> [\- Fuente](http://www.icnr.com/articles/fluoride-deposition.html)
 
 **[](https://www.blogger.com/u/1/#)**
 
@@ -258,7 +258,7 @@ El aspartamo es un edulcorante artificial utilizado en los productos "sin azúca
 > "Donald Rumsfeld, fue el equipo de transición del presidente Ronald Reagan y el día después de que asumió el cargo, nombró un Comisionado de la FDA para que aprobara el aspartamo. La FDA ha establecido una Comisión de Investigación de los mejores científicos que tenían, dijo que el aspártamo es seguro y no causa tumores cerebrales, y la petición para su aprobación fue retirada. El nuevo Comisionado de la FDA, Arthur Hull Hayes, estaba en contra de la Comisión de Investigación y luego fue a trabajar para la agencia del fabricante de relaciones públicas, Burson Marsteller, con rumores de $ 1,000.00 por día, y se negó a hablar con los medios de comunicación desde entonces. "  
 > [\- Fuente](http://www.newswithviews.com/NWVexclusive/exclusive15.htm)
 
-[](https://www.blogger.com/u/1/#)**
+[](https://www.blogger.com/u/1/#)
 
   
 Años después de su aprobación por la FDA, los científicos todavía están tratando de prohibir este producto.  

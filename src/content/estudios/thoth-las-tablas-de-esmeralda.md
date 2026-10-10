@@ -161,7 +161,7 @@ Suena un poco familiar. Eso es porque para los luciferinos y satanistas, la ilum
 También puede llegar a los 'Maestros' (ángeles caídos) para que su guía y la sabiduría divina le ayuden a ascender a la conciencia superior. Cuanto más profundo es su entendimiento de los Misterios y cuanto más tiempo se dedica a oraciones, meditaciones y rituales, más divino se convertirá hasta llegar a la unidad con la "Luz" y convertirse en inmortal. Esta es la esencia de las enseñanzas de las Tablas de Esmeralda, y se puede encontrar en cualquier templo de los Francmasones y en la iglesia Satánica. Y este paradigma es un fraude completo, como se verá evidentemente en futuros artículos.  
   
 
-> **"Conclúyanos, receptores de tus misterios; ¿Por que? ¡Nuestro Señor y Maestro es el Todo-Uno!"** **(La Biblia Satánica, pg 186).** 
+> **"Conclúyanos, receptores de tus misterios; ¿Por que? ¡Nuestro Señor y Maestro es el Todo-Uno!" (La Biblia Satánica, pg 186).** 
 
   
 Con la filosofía Luciferiana y las referencias a los ángeles caídos, al infierno y a Satanás, necesitamos empezar a cuestionar la identidad real de Thoth. Echemos un vistazo más profundo a las cosas:  
@@ -172,7 +172,7 @@ Thoth en el satanismo moderno
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjilAPqLnUhnEuCVyVGquc3N5UamfWUe5HJEX_Bdi-3RI-lgn6-f24mgPJpvFzOKMt3fBoPYXQ-mnAsF6p5Pqxft69bbYsGIjAmWqW1tGyuDYRpX2sTkW0Tdd3rxuUMYw3zh-tHs65HVHU/s1600/thoth2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjilAPqLnUhnEuCVyVGquc3N5UamfWUe5HJEX_Bdi-3RI-lgn6-f24mgPJpvFzOKMt3fBoPYXQ-mnAsF6p5Pqxft69bbYsGIjAmWqW1tGyuDYRpX2sTkW0Tdd3rxuUMYw3zh-tHs65HVHU/s1600/thoth2.jpg)Not sólo las Tablas de Esmeralda glorifican a los ángeles caídos, a Satanás, al lucerfianismo, y el **[Ministerio de la Dicha de Satanás](http://www.angelfire.com/empire/serpentis666/DEMONSI.html)**, Thoth es uno de los demonios más activos y es un príncipe coronado en el Infierno:  
   
 
-> **"THOTH también conocido como "Hermes" \[griego\], "Mercurio" \[romano\],"Tehuti","Ningishzidda" y" Quetzalcoatl" \[Centroamérica\].****Signo del Zodiaco: Gemini- Cancer****Tarjeta de Tarot: 3 de Rods****Planetas: Mercurio, Luna****Colores de vela: Plata, Rojo****Metal: Mercurio****Elemento: Aire****Rango: REGISTRADOR DE ESCRITOS Y DOCUMENTOS LEGALES EN EL INFIERNO; LA GRAN OFICINA****\* La información anterior fue dictada por Thoth, personalmente.****Thoth es un Demonio muy alto e importante. Él es uno de los 7 hijos de Satanás. Es el más brillante e intelectual de los dioses. Es muy simpático, extremadamente carismático y amistoso. Es el más ocupado de todos los Demonios y puede ser difícil conseguir que aparezca en una convocatoria a menos que uno sea importante para él".** 
+> **"THOTH también conocido como "Hermes" \[griego\], "Mercurio" \[romano\],"Tehuti","Ningishzidda" y" Quetzalcoatl" \[Centroamérica\].Signo del Zodiaco: Gemini- CancerTarjeta de Tarot: 3 de RodsPlanetas: Mercurio, LunaColores de vela: Plata, RojoMetal: MercurioElemento: AireRango: REGISTRADOR DE ESCRITOS Y DOCUMENTOS LEGALES EN EL INFIERNO; LA GRAN OFICINA\* La información anterior fue dictada por Thoth, personalmente.Thoth es un Demonio muy alto e importante. Él es uno de los 7 hijos de Satanás. Es el más brillante e intelectual de los dioses. Es muy simpático, extremadamente carismático y amistoso. Es el más ocupado de todos los Demonios y puede ser difícil conseguir que aparezca en una convocatoria a menos que uno sea importante para él".** 
 
   
 Esto viene de una Alta Sacerdotisa en la Iglesia de Satanás, quien afirma haber estado en contacto personalmente con Thoth.  
@@ -240,7 +240,7 @@ Contrario a cómo está representado en la cultura pop y las enseñanzas de la N
 Las Tablas de Esmeralda son casi tan luciferianas como son posibles y están llenas de referencias a las "llamas eternas", Satanás, los "Maestros" y contienen cantos demoníacos tan misteriosos que sólo Dios sabe qué espíritus demoníacos invocan. Por ejemplo, en la tabla X vemos instrucciones de los Señores de Amenti:  
   
 
-> "AHORA HOMBRE, ESTAS PALABRAS LE DEJO. UTILÍCELO Y ENCONTRARÁ LA ENERGÍA EN SU SONIDO. DIGA LA PALABRA: "ZIN-URU" Y ENCONTRARÁ EL PODER **.**
+> "AHORA HOMBRE, ESTAS PALABRAS LE DEJO. UTILÍCELO Y ENCONTRARÁ LA ENERGÍA EN SU SONIDO. DIGA LA PALABRA: "ZIN-URU" Y ENCONTRARÁ EL PODER .
 
   
 O en la Tabla Esmeralda VI, Thoth convoca a dioses demoníacos: "Por sus nombres los llamo para que me ayuden, me liberen y me salvaguarden de la oscuridad de la noche: UNTANAS, QUERTAS, CHIETAL, GOYANA, HUERTAL, SEMVETA-ARDAL. Por sus nombres te imploro, me liberas de las tinieblas y me llenas de LUZ". O en la tableta XII: "Llámame cuando me necesites. Usa mi nombre tres veces seguidas: Chequetet, Arelich, Volmalites.  

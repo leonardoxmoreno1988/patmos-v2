@@ -40,7 +40,7 @@ Los líderes de esta rebelión han estado operando en secreto durante milenios y
 > "Y la mujer estaba vestida de púrpura y escarlata, y adornada de oro, de piedras preciosas y de perlas, y tenía en la mano un cáliz de oro lleno de abominaciones y de la inmundicia de su fornicación; 5 y en su frente un nombre escrito, un misterio: BABILONIA LA GRANDE, LA MADRE DE LAS RAMERAS Y DE LAS ABOMINACIONES DE LA TIERRA."  
 > –Revelación 17:4-5
 
-**Las [tablillas cuneiformes sumerias](https://es.wikipedia.org/wiki/Escritura_cuneiforme) hablan de estas sociedades secretas. En Egipto, los faraones pertenecían a sociedades secretas, como las Escuelas de Misterios de Egipto. A lo largo de la historia, han existido cientos de estas sociedades.  
+Las [tablillas cuneiformes sumerias](https://es.wikipedia.org/wiki/Escritura_cuneiforme) hablan de estas sociedades secretas. En Egipto, los faraones pertenecían a sociedades secretas, como las Escuelas de Misterios de Egipto. A lo largo de la historia, han existido cientos de estas sociedades.  
   
 En las culturas griega y romana, estos grupos ocultos aristocráticos se conocían como los "clubes de misterios seculares" y desempeñaban un papel importante en la política, la religión y la historia, exactamente como lo hacen hoy.  
   

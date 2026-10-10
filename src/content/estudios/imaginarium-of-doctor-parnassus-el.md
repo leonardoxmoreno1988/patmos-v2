@@ -64,7 +64,7 @@ Encontrado por el grupo viajero del Parnassus colgado bajo un puente, Tony Liar 
 
   
 
-[![](https://vigilantcitizen.com/wp-content/uploads/2010/04/parn18.jpg)](http://vigilantcitizen.com/wp-content/uploads/2010/04/parn18.jpg)**
+[![](https://vigilantcitizen.com/wp-content/uploads/2010/04/parn18.jpg)](http://vigilantcitizen.com/wp-content/uploads/2010/04/parn18.jpg)
 
 **Para ilustrar su punto acerca de ser modernos, Tony muestra una foto en una revista de una niña haciendo el símbolo "a-ok" frente a sus ojos ... interesante.**
 
@@ -74,7 +74,7 @@ Tony dice a Parnassus no ocultar su "cosa de control mental", a ser audaz y lleg
   
   
 
-[![](https://vigilantcitizen.com/wp-content/uploads/2010/04/parnassus-61-e1270398986741.jpg)](http://vigilantcitizen.com/wp-content/uploads/2010/04/parnassus-61-e1270398986741.jpg)**
+[![](https://vigilantcitizen.com/wp-content/uploads/2010/04/parnassus-61-e1270398986741.jpg)](http://vigilantcitizen.com/wp-content/uploads/2010/04/parnassus-61-e1270398986741.jpg)
 
 **Un patrón de tablero de ajedrez masónico tridimensional lidera el camino hacia el "espejo mágico", la puerta de entrada al plano espiritual. ¿La Francmasonería "empaquetó" los antiguos Misterios de una manera que sea atractiva a la clase alta?**
 
@@ -82,7 +82,7 @@ Tony dice a Parnassus no ocultar su "cosa de control mental", a ser audaz y lleg
 El nuevo escenario se encuentra en un elegante centro comercial. También hay un cambio de filosofía: en vez de pedir donaciones, hay caja llena de dinero que dice "Por favor, tome generosamente". La estrategia de marketing vale la pena y los que experimentan el "otro lado del espejo" vuelve totalmente “satisfechos”, dejando atrás su dinero, abrigos de piel y joyas. El propio Tony finalmente experimenta las alegrías del plano espiritual y se encuentra subiendo la escalera hacia la iluminación.  
   
 
-[![](https://vigilantcitizen.com/wp-content/uploads/2010/04/parnassus-13-e1270398263476.jpg)](http://vigilantcitizen.com/wp-content/uploads/2010/04/parnassus-13-e1270398263476.jpg)**
+[![](https://vigilantcitizen.com/wp-content/uploads/2010/04/parnassus-13-e1270398263476.jpg)](http://vigilantcitizen.com/wp-content/uploads/2010/04/parnassus-13-e1270398263476.jpg)
 
 **Tony es aquí interpretado por Jude Law, uno de los tres actores que sustituyen a Heath Ledger tras su muerte prematura.**
 

@@ -57,7 +57,7 @@ Casualmente el corto comienza con otro tétrico personaje.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMoQrxjpv_n2S96n_GXybJF2Q79fsHRusWA7lKYddsIZ5vvi75hYdKSkbu8lot8iTZtXB07V2uO7YN41mVU2-IXfaxgx2MYnVjy-02KjzAiYx6arOLaLoBRofK-pNevIFXByJnYexf84/s1600/bush.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMoQrxjpv_n2S96n_GXybJF2Q79fsHRusWA7lKYddsIZ5vvi75hYdKSkbu8lot8iTZtXB07V2uO7YN41mVU2-IXfaxgx2MYnVjy-02KjzAiYx6arOLaLoBRofK-pNevIFXByJnYexf84/s1600/bush.jpg)
 
-****En la escena recreada del corto también vemos diferentes símbolos que aluden a la agenda satanista illuminati, entre ellos la teoría de la evolución.**** 
+En la escena recreada del corto también vemos diferentes símbolos que aluden a la agenda satanista illuminati, entre ellos la teoría de la evolución. 
 
   
 Sobre la cabeza de Bush vemos gráficamente la teoría de Charles Darwin sobre la evolución del hombre, la cual es enseñada bajo ley estudiantil a los niños en todas las escuelas. Lo que realmente se esta haciendo con esta falsa teoría es rebajar al ser humano a un simple animal evolucionado, el cuál debe terminar inevitablemente en un despertar de conciancia o "iluminación" (ver la última figura del cuadro).  
@@ -111,7 +111,7 @@ El Salmo 23 es muy usado en el cristianismo para reconocer la presencia de Dios 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQPOANl-Ts5fQArn_WwgwAxBuDbP7wW0pFs_xt2Flax0qP8X5r4tvyo6Ztu7P4NVMsHOxrKX7GPRTcwimHchT9akXczk0MChu0lRqfIeqUdKOoWDZ4VjJ1QHSIJD-31I9VypYANIQ9fIw/s1600/twintowers.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQPOANl-Ts5fQArn_WwgwAxBuDbP7wW0pFs_xt2Flax0qP8X5r4tvyo6Ztu7P4NVMsHOxrKX7GPRTcwimHchT9akXczk0MChu0lRqfIeqUdKOoWDZ4VjJ1QHSIJD-31I9VypYANIQ9fIw/s1600/twintowers.jpg)
 
-****Al lado de la escuela también vemos las torres gemelas colapsando mediante una demolición controlada como el 9/11.**** 
+Al lado de la escuela también vemos las torres gemelas colapsando mediante una demolición controlada como el 9/11. 
 
   
 
@@ -141,7 +141,7 @@ Junto con estas escenas vemos diversas referencias a una tercera guerra mundial,
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb84aKVGlFg4Bo_NE6YuzrWwOeK1LJLPziAKwzxyJRznuE5yh2K-qCx6qQeBjqyJ5RdaUCu_TyZF0N6vaxYRXF3qLyctO4UPYf0NhtWXRaJ-lFet4s-1RGNmdpTDnL0vUzxTlYOB6zbQs/s1600/market-plunge-war-corevage.jpg)](https://www.blogger.com/u/1/#)
 
-****Frente a sus ojos corren las palabras "Market Plunge" (Colapso del Mercado) y "War Coverage" (Guerra encubierta).****   
+Frente a sus ojos corren las palabras "Market Plunge" (Colapso del Mercado) y "War Coverage" (Guerra encubierta).   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlX8xG4AXm-vH97PCTDDAH8z08wEbajHM_Q5CADE_lQcH4SWpMG0XzLdGguXxZtj_9TLiAR9POGrpUwyMpi1YnpNzWIVZmRxFTc1GAoX3IGj6pc_QQ-0RSnXWDkkhSQDu7kv2Wny_foNM/s1600/blackvigin.jpg)](https://www.blogger.com/u/1/#)
 
@@ -193,11 +193,11 @@ Esto podría resultar muy confuso pero básicamente estamos viendo la unión de 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEMzugWH6DKtboPQ2SEHRpjFfY2n6TV16cdQsRkI9ag_3oAAaSuv1P0o_ndeCapQGA8ch4MTAzaIuOsVVkUu70saOiIaU14uX4wum5QRTi60sYPJDfI-7r0QD8F6tzF5-yxIcrKcla1Ew/s1600/adn.jpg)](https://www.blogger.com/u/1/#)
 
-****Luego de la unión de opuestos se muestra el ingreso del anticristo a la tierra mediante un portal con forma de ADN, lo que sugiere que este tendrá un cuerpo físico manipulado.****   
+Luego de la unión de opuestos se muestra el ingreso del anticristo a la tierra mediante un portal con forma de ADN, lo que sugiere que este tendrá un cuerpo físico manipulado.   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4056X8Aw6Bv_X8GDQL-iVhRE7ODMjBkYtGqPO8bD3J7gpsaPOKPmi5xQORL5vNwNBgtB3iaOZ7-DSCLtvbNy22sXHlH5FSkjTqtMpVaj3zO5hJ-I0ZTe4PMY7XJPSsi_xhvzQNvRtKII/s1600/smiths.jpg)](https://www.blogger.com/u/1/#)
 
-****La llegada del anticristo también parece traer devastación sobre las naciones y reducción de la población.****   
+La llegada del anticristo también parece traer devastación sobre las naciones y reducción de la población.   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf15UdpprNXyNp7gSub0OsmYSvBz0GwzGBPJxwsK7jWI4RRMtCHAzsrPxpgNP3s1eLZr0W3XLzCZ5-KGx-EF-25tVI6R1D3-JttDkyDk_1VSP38ABZ7CB6HbtJ5wgt8WlngCFljpPxKI4/s1600/death.jpg)](https://www.blogger.com/u/1/#)
 

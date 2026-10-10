@@ -17,7 +17,7 @@ Uno de los 13 linajes Satánicos que gobiernan el mundo es el **Linaje Rockefell
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnezo7wTmytnZMLp1dvBKOu4jQvsWNUsQFtGjgM3apJqLYWvYF_FUKUMFHpmopNZNh6Xpq24fGirAqiiD3Q0XgwOqqG8fM-ttAB9tXbeRXoIOu78c_UHdxPC38rSE4syRVTnt5cQwv6f8/s1600/rockefeller.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnezo7wTmytnZMLp1dvBKOu4jQvsWNUsQFtGjgM3apJqLYWvYF_FUKUMFHpmopNZNh6Xpq24fGirAqiiD3Q0XgwOqqG8fM-ttAB9tXbeRXoIOu78c_UHdxPC38rSE4syRVTnt5cQwv6f8/s1600/rockefeller.jpg)  
   
-INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS**.** 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. 8: LOS ONASSIS. 9: LOS REYNOLDS. **10: LOS ROCKEFELLER.** 11: LOS ROTHSCHILD. 12: LOS RUSSELL. 13:  LOS VAN DUYN.  
+INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS. 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. 8: LOS ONASSIS. 9: LOS REYNOLDS. **10: LOS ROCKEFELLER.** 11: LOS ROTHSCHILD. 12: LOS RUSSELL. 13:  LOS VAN DUYN.  
   
 Familias de la Realeza Europea: Los Merovingios.  
 Familias Interconectadas: -Krupp -Disney -McDonald  

@@ -53,13 +53,13 @@ Ideas muy extrañas, ¿verdad? ¡Sí estoy de acuerdo! Sin embargo, miles de mil
 Primero, debemos mirar este pasaje dentro del texto circundante (interpretación contextual). Esto es necesario para una exégesis adecuada, el método correcto de interpretar un pasaje bíblico. Escuche lo que Jesús dice inmediatamente antes:  
   
 
-> **“****No guarden tesoros para ustedes aquí en la tierra, donde la polilla y el óxido los dañarán, y donde los ladrones entran a robárselos. Más bien, guarden tesoros para ustedes en el cielo donde ni la polilla ni el óxido los dañarán y donde los ladrones no pueden entrar a robárselos. Pues donde esté tu tesoro, allí estará tu corazón.****”**  
+> **“No guarden tesoros para ustedes aquí en la tierra, donde la polilla y el óxido los dañarán, y donde los ladrones entran a robárselos. Más bien, guarden tesoros para ustedes en el cielo donde ni la polilla ni el óxido los dañarán y donde los ladrones no pueden entrar a robárselos. Pues donde esté tu tesoro, allí estará tu corazón.”**  
 > \- Mateo 6: 19-21
 
 Ahora escuche lo que Jesús dijo inmediatamente después de nuestro versículo enfatizado:  
   
 
-> **“****Nadie puede servir a dos patrones al mismo tiempo. Odiará a uno y amará al otro, o se dedicará a uno y despreciará al otro. Ustedes no pueden servir al mismo tiempo a Dios y a las riquezas. Por eso les digo: no se preocupen por la comida ni por la bebida que necesitan para vivir, ni tampoco por la ropa que se van a poner. Ciertamente la vida es más que la comida y el cuerpo más que la ropa."**  
+> **“Nadie puede servir a dos patrones al mismo tiempo. Odiará a uno y amará al otro, o se dedicará a uno y despreciará al otro. Ustedes no pueden servir al mismo tiempo a Dios y a las riquezas. Por eso les digo: no se preocupen por la comida ni por la bebida que necesitan para vivir, ni tampoco por la ropa que se van a poner. Ciertamente la vida es más que la comida y el cuerpo más que la ropa."**  
 > **\- Mateo 6: 24-25**
 
   
@@ -72,7 +72,7 @@ Mateo 6: 22-23 dice:
 
   
 
-> **“****La lámpara del cuerpo son los ojos. Si miras a otros con ganas de ayudarles, todo tu cuerpo estará lleno de luz. Pero si con tus ojos los miras con envidia, entonces todo tu cuerpo estará lleno de oscuridad. Si la única luz que tienes es la oscuridad, ¡qué horrible oscuridad tendrás!****".**  
+> **“La lámpara del cuerpo son los ojos. Si miras a otros con ganas de ayudarles, todo tu cuerpo estará lleno de luz. Pero si con tus ojos los miras con envidia, entonces todo tu cuerpo estará lleno de oscuridad. Si la única luz que tienes es la oscuridad, ¡qué horrible oscuridad tendrás!".**  
 > **\- Mateo 6: 22–23**
 
   

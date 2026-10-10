@@ -57,7 +57,7 @@ En estas imágenes perturbadoras están la raíz de la extraordinaria condición
   
   
 
-> **"Me han dicho que fui abusada y para mí en este momento en el tiempo, es demasiado. Me entra por un oído y sale por el otro. No es bueno re-traumatisarme y decirme algo que yo no quiero saber. En cualquier caso, habría un switch (cambio de alters).  
+> "Me han dicho que fui abusada y para mí en este momento en el tiempo, es demasiado. Me entra por un oído y sale por el otro. No es bueno re-traumatisarme y decirme algo que yo no quiero saber. En cualquier caso, habría un switch (cambio de alters).  
 >   
 > Kim tiene buenas razones para temer saber acerca de su pasado, ya que es posible que si se adquiere un exceso de información, no será capaz de hacerle frente y "desaparecer". Ya ha sucedido dos veces antes. (Omega)  
 >   
@@ -69,7 +69,7 @@ En estas imágenes perturbadoras están la raíz de la extraordinaria condición
 >   
 > "Judy no cree en el DID", explica Kim. "Ella es sólo una adolescente yllama a nuestro terapeuta loca cuando trata de explicarle. Ella es tan joven, ni siquiera piensa que Aimee es su hija. Ella sabe de mí y piensa que soy una mala madre porque siempre estoy dejando a Aimee. Para ella, es totalmente normal el "ir y venir". Probablemente piensa que usted van y viene también".  
 >   
-> Hay ciertos "disparadores" que puede obligar a un cambio gradual y Kim ha aprendido lo que son, a fin de evitarlos. Pero no le impide cambiar hasta tres o cuatro veces al día"**
+> Hay ciertos "disparadores" que puede obligar a un cambio gradual y Kim ha aprendido lo que son, a fin de evitarlos. Pero no le impide cambiar hasta tres o cuatro veces al día"
 > 
 >  **\- The Independent, "Kim Noble, una mujer dividida"**
 
@@ -164,11 +164,11 @@ Por la superposición de los traumas que se muestra en "Sucede" con los aspectos
   
   
 
-> **"La Cábala es sinónimo de hermetismo o magia hermética. La Cábala judía-era magia de los Babilonios. Los magos negros lo llevaron a Europa. Comenzó a recibir un aviso difundido en Europa después del período de la Ilustración. La gran pirámide de acuerdo a lo oculto es un símbolo del Árbol Cabalístico de la Vida y las ramas forman las cuatro corrientes o líneas de la base de la pirámide. Debido a que la Cábala es la base de la magia hermética, los sistemas de los Illuminati serán bastante constantes en la composición interna del árbol de la vida y el árbol del mal en un esclavo. (...)  
+> "La Cábala es sinónimo de hermetismo o magia hermética. La Cábala judía-era magia de los Babilonios. Los magos negros lo llevaron a Europa. Comenzó a recibir un aviso difundido en Europa después del período de la Ilustración. La gran pirámide de acuerdo a lo oculto es un símbolo del Árbol Cabalístico de la Vida y las ramas forman las cuatro corrientes o líneas de la base de la pirámide. Debido a que la Cábala es la base de la magia hermética, los sistemas de los Illuminati serán bastante constantes en la composición interna del árbol de la vida y el árbol del mal en un esclavo. (...)  
 >   
 > Las habitaciones del árbol de la vida tienen nombre. En esencia, todas las víctimas de la jerarquía Illuminati, tiene el árbol cabalístico de la vida depositada en ellos. Este árbol se encuentra por debajo de los otros árboles. Los círculos que componen el Árbol de la Vida cabalístico internos se llaman habitaciones o quads por los diferentes sobrevivientes. Los alters pueden utilizar el árbol de la vida interna para trabajar la magia interior. También recuerda a los alteres profundos el control del culto. Los círculos de los árboles son habitaciones que pueden ser adquiridos. Mountain Cábala es una montaña figurativa en la Cábala ".  
 >   
-> \- Fritz Springmeier, la fórmula de los Illuminati para crear un esclavo de control mental**
+> \- Fritz Springmeier, la fórmula de los Illuminati para crear un esclavo de control mental
 
   
 Esta pieza, titulada "Siete Niveles" es otro relato muy detallado del proceso de disociación.  

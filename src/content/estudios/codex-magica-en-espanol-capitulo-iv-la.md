@@ -9,7 +9,7 @@ description: "\"Debido a que la Trinidad superior del ser humano debe estar pres
 tags: ["Sociedad"]
 ---
 
-> **"Debido a que la Trinidad superior del ser humano debe estar presente antes de que la unión del alma puede tener lugar... el creador Real Arco Mundial sólo se puede darse en grupos de tres... Sus manos derechas son entonces elevadas por encima de la cabeza o se pronuncia en un aliento suave la palabra: Jah-buh-lun, Je-ho-vah, D-I-O-S."****\- C.C. Zain, Masonería Antigua**
+> **"Debido a que la Trinidad superior del ser humano debe estar presente antes de que la unión del alma puede tener lugar... el creador Real Arco Mundial sólo se puede darse en grupos de tres... Sus manos derechas son entonces elevadas por encima de la cabeza o se pronuncia en un aliento suave la palabra: Jah-buh-lun, Je-ho-vah, D-I-O-S."\- C.C. Zain, Masonería Antigua**
 
   
 
@@ -17,12 +17,12 @@ tags: ["Sociedad"]
 
   
 
-> **"El más grande, pero más terrible momento en la vida de un masón... Los tres funcionarios supremos de la logia, con tres llaves separadas, desbloquean la caja de madera con el "secreto de los secretos" y le dan a leer una hoja de papel, sobre el que está escrito el nombre de "Dios", el cuál es... JAH-BUL-ON."****\- D.C. Yermak**
+> **"El más grande, pero más terrible momento en la vida de un masón... Los tres funcionarios supremos de la logia, con tres llaves separadas, desbloquean la caja de madera con el "secreto de los secretos" y le dan a leer una hoja de papel, sobre el que está escrito el nombre de "Dios", el cuál es... JAH-BUL-ON."\- D.C. Yermak**
 
 **Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 
-## **El eje de la muerte**
+## El eje de la muerte
 
 Durante mis muchos años de exposición de las mentiras y los males de la Francmasonería, la Ordo Templi Orientis, los Rosacruces, y otras sociedades secretas de culto, he sido cuestionado por muchos masones.  
   
@@ -35,14 +35,14 @@ Su queja es típica:
 Por supuesto, es súper fácil, casi como quitarle el dulce a un niño, el desengañar al llorón y quejoso mason que grita que usted o yo hemos calumniado a los masones, negando los "atributos cristianos" de su orden. Después de todo, hay decenas de puntos que pueden dar ese golpe a la tonta idea de que la logia masónica o los grupos similares son ni siquiera vagamente "cristianos" en la naturaleza. Sin embargo, la forma más fácil de manejar una reclamación de este tipo es preguntarle al mason si ha alcanzado el nivel ritual Mason del Real Arco o su equivalente (grado 13 en el Rito Escocés). Si responde "sí", entonces él está en un gran problema.  
   
 
-## **¿Qué pasa con Jahbuhlun?**
+## ¿Qué pasa con Jahbuhlun?
 
 Entonces le pregunté por el nombre de su sagrado dios revelado en el ritual grado del Real Arco; es decir, le pregunté por Jahbuhlun. Y por lo general, puedo oír ya sea un tartamudeo largo e ininterrumpido, o de lo contrario simplemente un gran jadeo. En general, esto termina la discusión allí mismo. Un mason definitivamente no quiere hablar públicamente sobre ese nombre, Jahbuhlun. Todo menos eso. Bamm! El se va. Y puedo entender por qué.  
   
 Ed Decker, un amigo mío, que es un ex-mason y ex-mormón, ahora dirige un ministerio cristiano destinado a ayudar a los hombres que salen de estos cultos. En un libro de Ed, titulado, _El Lado Oscuro de la Masonería_, se menciona que el Mason no está en conocimiento del sagrado nombre de su dios y luego tardíamente descubre que el nombre de esta deidad definitivamente no es Jesús, el nombre ante todo nombre (Filipenses 2: 9-11).  
   
 
-## **El Nombre de Perdido de Dios**
+## El Nombre de Perdido de Dios
 
 A los masones de la logia azul, que abarcan los tres primeros grados de la Masonería, se les instruye sobre que están buscando la Palabra Perdida o el Nombre de Dios perdido... No es hasta que alcancen el nivel de Masonería del Real Arco (séptimo grado, del rito de York ) que descubren que el nombre de Dios perdido no se había perdido después de todo. Es a este nivel que aprenden el nombre "sagrado" del dios de la masonería.  
   
@@ -59,7 +59,7 @@ C.C Zain, un masón que es parte de un grupo llamado "La Hermandad de la Luz", e
 Curiosamente, en el drama ritual, se dice que los tres masones que pronuncian la palabra Jahbuhlun! han llegado de Babilonia. Por lo tanto, tenemos un grado ritual —el número 13 en el Rito Escocés y el 7 en el rito de York— en la que tres "maestros" volvieron de Babilonia para instruir al candidato sobre la manera de construir el Arco Real (simbólicamente, la forma de reconstruir el templo judío en Jerusalén y así establecer el reino de la élite y su diablo/dios en la tierra).  
   
 
-## **La palabra perdida y encontrada**
+## La palabra perdida y encontrada
 
   
 Por otra parte, los tres mensajeros de Babilonia informan al candidato que el verdadero nombre de Dios, el nombre que se había perdido durante tanto tiempo, no es Jesús, sino Jahbuhlun. Se omite convenientemente el hecho de que este es, de hecho, el nombre de una monstruoso dios diabólico, y que el nombre es en realidad un compuesto profano y blasfemo de Yahvéh, Baal, y Osiris, u On.  
@@ -71,7 +71,7 @@ No es de extrañar que la autoridad masónica W. L. Wilmshurst, en su bien consi
 El grado del Arco Real, hace hincapié en que Wilmshurst ofrece "un sumamente alto nivel de pensamiento y enseñanza" para la vida del mason. **(5)**  
   
 
-## **¿Nacido de nuevo o poseído por demonios?**
+## ¿Nacido de nuevo o poseído por demonios?
 
 ¿Qué quiere decir Wimshurst cuando dice que el adepto ha alcanzado un "nuevo orden de la vida"?Creo que el candidato recibe una falsificada experiencia del nuevo nacimiento, recibiendo el mismo el espíritu de Lucifer en su seno como resultado del ajuste a los requisitos de este grado.  
   
@@ -80,7 +80,7 @@ Al aceptar al diablo dios Jahbuhlun como el sagrado nombre de Dios, el hombre qu
 Ahora, un nuevo y fatal símbolo (que termina en la muerte espiritual) se enseña en este grado y es el que usted encontrará en las fotografías de este capítulo. Cabe destacar que sólo suelen verse iniciados y adeptos de más alto nivel dando esta señal; y a su vez, mostrándose como discípulos poseídos de Satanás. A esto le llamo _la mano oculta de los hombres de Jahbuhlun_.  
   
 
-## **Desde Washington hasta Rothschild**
+## Desde Washington hasta Rothschild
 
   
 Lamentablemente, el primer presidente de Estados Unidos, George Washington, exhibió este signo, si el pintor de uno de sus retratos más famosos se toma en cuenta. Presidentes posteriores, hombres como Franklin Pierce y Rutherford Hayes, fueron discípulos de Jahbuhlun, al igual que el presidente Teddy Roosevelt.  
@@ -88,7 +88,7 @@ Lamentablemente, el primer presidente de Estados Unidos, George Washington, exhi
 También tenemos comunistas como Karl Marx, Vladimir Lenin, Stalin que dan la señal, además de Napoleón, Salomon de Rothschild, y muchos otros cuyas imágenes y fotografías se encontrarán en las páginas siguientes, a medida que realizan este signo diabólico.  
   
 
-## **Vino de un cráneo humano**
+## Vino de un cráneo humano
 
   
 Muchas otras facetas y actividades relacionadas con los rituales de este grado son tan luciferinos y aceptados como una forma de adoración a Lucifer. Durante la iniciación en el séptimo grado del Real Arco Mason (Rito de York) o el grado 13 (Scottish Rite), los candidatos beben vino de un cráneo humano.  
@@ -100,7 +100,7 @@ Así que vemos que el recién descubierto dios mason, Jahbuhlun (Jah-Baal-On), e
 El intentar en vano de combinar el nombre del verdadero Dios con la de los falsos dioses como Baal y On es particularmente muy grave para el verdadero Dios en el cielo. Sin embargo, el mason hace exactamente esto con Jahbuhlun y luego agrava su grave error al adoptar como uno de sus principales logos el signo de la doble cabeza de águila (¡Simbolizando un cuerpo de Dios, y dos cabezas!) **(7)**  
   
 
-## **La Triple Tau**
+## La Triple Tau
 
 Sin embargo, otra prueba del engaño de Jahbuhlun es el símbolo de la Triple Tau, que es el símbolo más importante del grado de Real Arco. Compuesto por tres símbolos de interconexión tau (T), estos tres se dicen que representan una tríada de poderes sagrados, el poder judío del rey, sacerdote y profeta. En otras palabras, el mason asume una trinidad de poderes espirituales judíos En realidad, esta trinidad de los judíos está en competencia con el verdadero Dios de la Biblia: Padre, Hijo y Espíritu Santo.  
   
@@ -119,7 +119,7 @@ Igualmente blasfemo es la conferencia sobre el séptimo, o grado del Arco Real, 
 En otras palabras, en el ritual de este grado el masón no sólo ha reconocido al diablo, bajo la apariencia de Jahbuhlun, como su sagrado Señor, sino que ahora está declarando que él, él mismo, un simple hombre, es el gran YO SOY! En otras palabras, está diciendo, "¡yo soy Dios!"  
   
 
-## **Descubriendo de la mano oculta**
+## Descubriendo de la mano oculta
 
 Ahora ves por qué he titulado este capítulo, "La mano oculta de los Hombres de Jahbuhlun."  
   
@@ -138,7 +138,7 @@ El nombre y la identidad del Dios oculto se deben disimulado a toda costa, y por
 
   
 
-## **Cómo realizar la señal**
+## Cómo realizar la señal
 
 La figura 34 mostrada aquí fue tomada directamente del _Ritual Masónico y Monitor de Duncan_ (3ª edición). Representa al mason del Real Arco llevando a cabo en la señal mágica del Maestro del Segundo Velo, que de manera informal y más informativamente que llamo aquí la Señal de la Mano Oculta de los Hombres de Jahbuhlun.  
   

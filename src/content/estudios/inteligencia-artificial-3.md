@@ -16,7 +16,7 @@ En esta última parte del estudio sobre la tecnología, es oportuno hablar acerc
 > “Y el resplandor fue como la luz; rayos brillantes salían de su mano, Y allí estaba escondido su poder.”  
 > –Habacuc 3:4
 
-**El rayo o el relámpago es la forma en la que la electricidad se manifiesta en la Biblia, mayormente bajo connotaciones negativas. La mayoría del tiempo la relación del rayo con Dios es como de una fuerza destructiva.  
+El rayo o el relámpago es la forma en la que la electricidad se manifiesta en la Biblia, mayormente bajo connotaciones negativas. La mayoría del tiempo la relación del rayo con Dios es como de una fuerza destructiva.  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/370/original/rayo.jpg)  
   
@@ -27,19 +27,19 @@ Pero Satanás también está conectado con el rayo, el relámpago y la electrici
 > “Y la semejanza de los animales, su parecer, era como de carbones de fuego encendidos, como parecer de hachas encendidas: el fuego discurría entre los animales, y el resplandor del fuego: y del fuego salían relámpagos. Y los animales corrían, y tornaban que parecían relámpagos.”  
 > ‭‭–Ezequiel‬ ‭1‬:‭13‬-‭14‬ ‭
 
-**Tales seres vivientes se manifiestan físicamente con elementos de la naturaleza, entre ello se encuentran los relámpagos, una fuerza eléctrica. Sabemos por Ezequiel 10, que estos seres controlan un tipo de transporte circular, y que se les llama querubines.  
+Tales seres vivientes se manifiestan físicamente con elementos de la naturaleza, entre ello se encuentran los relámpagos, una fuerza eléctrica. Sabemos por Ezequiel 10, que estos seres controlan un tipo de transporte circular, y que se les llama querubines.  
 
 > “Y alzando los querubines sus alas, alzáronse de la tierra delante de mis ojos: cuando ellos salían, también las ruedas estaban delante de ellos; y paráronse a la entrada de la puerta oriental de la casa de Jehová, y la gloria del Dios de Israel encima de sobre ellos. Estos eran los animales que ví debajo del Dios de Israel en el río de Cobar; y conocí que eran querubines.”  
 > ‭‭–Ezequiel‬ ‭10‬:‭19‬-‭20‬
 
-**Satanás es un querubín, eso también lo sabemos por Ezequiel 28, quien narra el pasado de Lucifer como un servidor del rango de los querubines, lo cual hace pensar, y fue explicado en [otro estudio](https://www.ritualypropaganda.com/2022/12/serpiente-escurridiza.html), que quizás Lucifer fue un quinto querubín.  
+Satanás es un querubín, eso también lo sabemos por Ezequiel 28, quien narra el pasado de Lucifer como un servidor del rango de los querubines, lo cual hace pensar, y fue explicado en [otro estudio](https://www.ritualypropaganda.com/2022/12/serpiente-escurridiza.html), que quizás Lucifer fue un quinto querubín.  
   
 Por eso Satanás, o el “querubín grande y protector” (Ezequiel 28:14), se vincula con el rayo, o es parte de sus habilidades sobrenaturales; a tal punto que una descarga eléctrica también fue parte de su caída.  
 
 > "Y les dijo: Yo veía a Satanás, como un rayo, que caía del cielo."  
 > –Lucas 10:18
 
-**Este es el origen del dios pagano griego Zeus, quien desciende a la Tierra con el poder del rayo. También expuesto en otros mitos como Thor, el dios nórdico del trueno. En todo el mundo la historia suma alrededor de [90 deidades](https://es.wikipedia.org/wiki/Anexo:Dioses_del_trueno) que tienen el poder de controlar el rayo.  
+Este es el origen del dios pagano griego Zeus, quien desciende a la Tierra con el poder del rayo. También expuesto en otros mitos como Thor, el dios nórdico del trueno. En todo el mundo la historia suma alrededor de [90 deidades](https://es.wikipedia.org/wiki/Anexo:Dioses_del_trueno) que tienen el poder de controlar el rayo.  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/371/original/zeus-rayo.jpeg)  
   
@@ -50,7 +50,7 @@ Su influencia mundial hizo también que el rayo sea un símbolo luciférico que 
 > "El rayo cayendo por encima del pentagrama significa la energía que entra por el chakra de la corona. El rayo satánico simboliza a Satanás como nuestro verdadero dios creador. El rayo es la fuerza vital la Bioelectricidad. En los símbolos, todos los puntos que apuntan hacia abajo en el satanismo Significan la energía que cae desde arriba, que nos da la vida, y nos potencia espiritualmente."  
 > –All about Satan
 
-**Cuando las SS de Hitler usaron el rayo para su emblema, consciente o inconscientemente, estaban glorificando a Satanás, así como lo hicieron la banda de heavy metal, Kiss, el personaje de ficción y hechicero, [Harry Potter](https://www.ritualypropaganda.com/2018/09/codex-magica-27-cayendo-como-rayo.html), o el músico David Bowie. Todos promueven a su manera el símbolo del rayo.  
+Cuando las SS de Hitler usaron el rayo para su emblema, consciente o inconscientemente, estaban glorificando a Satanás, así como lo hicieron la banda de heavy metal, Kiss, el personaje de ficción y hechicero, [Harry Potter](https://www.ritualypropaganda.com/2018/09/codex-magica-27-cayendo-como-rayo.html), o el músico David Bowie. Todos promueven a su manera el símbolo del rayo.  
   
 Esto también incluye a un grupo de superhéroes que portan el rayo, como [Black Adam](https://es.rollingstone.com/black-adam/), Thor y la reciente Flash, casi como si los "antiguos hombres de renombre" que vivieron en los tiempos de Noé (Génesis 6:4), volvieran a vivir desde la ciencia ficción para jóvenes.  
   

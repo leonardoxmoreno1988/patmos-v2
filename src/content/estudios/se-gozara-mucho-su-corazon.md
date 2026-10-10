@@ -26,7 +26,7 @@ Debemos recordar que todo este proceso se desarrolla en la mente, muchas veces s
 > "De nada estéis solícitos; sino que en todo dénse a conocer vuestras peticiones delante de Dios por la oración, y el ruego, con hacimiento de gracias. Y la paz de Dios, que sobrepuja todo entendimiento, guardará vuestros corazones y vuestros entendimientos en Cristo Jesús."  
 > –Filipenses 4:6-7
 
-**Por tanto, debemos cambiar nuestro hábito al siguiente ciclo donde tenemos una relación con Dios y un hábito de oración que nos aleje del pecado:  
+Por tanto, debemos cambiar nuestro hábito al siguiente ciclo donde tenemos una relación con Dios y un hábito de oración que nos aleje del pecado:  
   
 \[Con Paz\]: Afanes de la vida → Pecado Oración → Pensamientos positivos \[Gratitud\] → Pecado Oración → Se repite el ciclo  
   
@@ -43,14 +43,14 @@ Ahora, existe un factor profético para sobrellevar el desánimo y tener pensami
 > "Vosotros pues también ahora a la verdad tenéis tristeza; mas otra vez os veré, y se gozará vuestro corazón, y nadie quitará de vosotros vuestro gozo."  
 > –Juan 16:22
 
-**Por eso esperamos la [Segunda Venida de Cristo](https://www.ritualypropaganda.com/2022/08/monte-de-los-olivos.html), quien nos consolará y no volveremos a experimentar, pena, depresión, tristeza ni llanto (Isaías 65:17). Sino que seremos premiados y completos en Cristo (1 Corintios 9:24-25).  
+Por eso esperamos la [Segunda Venida de Cristo](https://www.ritualypropaganda.com/2022/08/monte-de-los-olivos.html), quien nos consolará y no volveremos a experimentar, pena, depresión, tristeza ni llanto (Isaías 65:17). Sino que seremos premiados y completos en Cristo (1 Corintios 9:24-25).  
   
 Por más que en esta tierra vivamos aflicciones por 80 o 90 años, nada se iguala con 1,000 años de perfección y gozo, seguidos de la ETERNIDAD, de la cual no sabemos mucho, pero se nos dice será increíble.  
 
 > "Y limpiará Dios toda lágrima de los ojos de ellos; y la muerte no será más; ni habrá más pesar, ni clamor, ni dolor; porque las primeras cosas son pasadas."  
 > –Revelación 21:4
 
-**Debido al pecado, el ser humano está hecho para enfocarse en lo malo que perciben sus sentidos, pero la Biblia nos enseña todo lo contrario, con un gran énfasis en ser valiente y [paciente](https://www.gotquestions.org/Espanol/paciencia-Biblia.html) en lo que se cumplen todas las profecías (Revelación 14:12).  
+Debido al pecado, el ser humano está hecho para enfocarse en lo malo que perciben sus sentidos, pero la Biblia nos enseña todo lo contrario, con un gran énfasis en ser valiente y [paciente](https://www.gotquestions.org/Espanol/paciencia-Biblia.html) en lo que se cumplen todas las profecías (Revelación 14:12).  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/422/original/time.jpg)  
   
@@ -61,7 +61,7 @@ Si pese a todo, aún le es difícil manejar el desánimo y la ansiedad, la Bibli
 > "Para que la prueba de vuestra fé, muy más preciosa que el oro, (el cual perece, mas empero es probado con fuego,) sea hallada en alabanza, y gloria, y honra, cuando Jesu Cristo fuere manifestado:"  
 > –1 Pedro 1:7
 
-**Cuando sintamos que el fuego de la prueba nos hace abatirnos (Daniel 3:16-30), recordemos que estamos en una carrera que deberá acabar, una carrera de resistencia por el premio del supremo llamamiento de Dios en Cristo Jesús (Filipenses‬ ‭3‬:‭13‬-‭14‬).  
+Cuando sintamos que el fuego de la prueba nos hace abatirnos (Daniel 3:16-30), recordemos que estamos en una carrera que deberá acabar, una carrera de resistencia por el premio del supremo llamamiento de Dios en Cristo Jesús (Filipenses‬ ‭3‬:‭13‬-‭14‬).  
   
 Saludos y buena semana.  
   

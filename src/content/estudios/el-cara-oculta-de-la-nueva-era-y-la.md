@@ -180,9 +180,9 @@ Ella aseguraba que había tenido experiencias con **[proyecciones astrales](http
  En su libro, “La Doctrina Secreta”, Blavatsky escribió:  
   
 
-> **“Lucifer representa la vida, el pensamiento, el progreso, la civilización, la independencia. Lucifer es el Logos, la Serpiente, el Salvador, y “es Lucifer quien es el Dios de nuestro planeta y el único Dios”  
+> “Lucifer representa la vida, el pensamiento, el progreso, la civilización, la independencia. Lucifer es el Logos, la Serpiente, el Salvador, y “es Lucifer quien es el Dios de nuestro planeta y el único Dios”  
 >   
-> Ella continúa: “La Virgen celestial que así se convierte en la Madre de los Dioses y los Demonios de una vez y para siempre, ya que ella es la deidad benefactora que siempre ama, pero en la antigüedad y la realidad, Lucifer o Lucíferius es lo mismo. Lucifer es la luz divina y terrestre, el Espíritu Sagrado y Satán en uno y al mismo tiempo”.**
+> Ella continúa: “La Virgen celestial que así se convierte en la Madre de los Dioses y los Demonios de una vez y para siempre, ya que ella es la deidad benefactora que siempre ama, pero en la antigüedad y la realidad, Lucifer o Lucíferius es lo mismo. Lucifer es la luz divina y terrestre, el Espíritu Sagrado y Satán en uno y al mismo tiempo”.
 
   
 Cuando muere Blavatsky en 1891, Annie Besant, una feminista militante (Nota Trinity: como ya sabemos, el movimiento feminista fue creado y financiado por illuminarias conocidas como la Fundación Rockefeller), co masona y un miembro de la Sociedad Socialista Fabiana de Inglaterra se convirtió en la líder de este movimiento.  
@@ -450,15 +450,15 @@ Alice Bailey escribió en 1957:
   
 
 >  **“el movimiento masónico es el custodio de la ley; es la casa de los Misterios y el sitio de la iniciación. Contiene en su simbolismo el ritual de la deidad y la forma de salvación está pictóricamente preservada en su trabajo. Es una organización mucho más oculta de lo que puede parecer y su objetivo es ser la escuela de formación para los ocultistas avanzados del futuro. En sus ceremoniales se ocultan las fuerzas conectadas con el crecimiento y la vida de los reinos de la naturaleza y el desplegamiento de los aspectos divinos del hombre.”**  
->  **“Cuando la nueva religión universal se haya impuesto y la naturaleza del esoterismo se haya comprendido, será empleada por los organismos esotéricos, los organismos masónicos y los organismos de la Nueva Iglesia como centros de iniciación. Estos tres grupos convergen como sus santuarios internos. No hay disociación entre la Única Iglesia Universal, la logia interna sagrado de todos los verdaderos masones, y los círculo más internos de las sociedades esotéricas”.****\- Fritz Springmeier - Ser Sabios Como Serpientes**
+>  **“Cuando la nueva religión universal se haya impuesto y la naturaleza del esoterismo se haya comprendido, será empleada por los organismos esotéricos, los organismos masónicos y los organismos de la Nueva Iglesia como centros de iniciación. Estos tres grupos convergen como sus santuarios internos. No hay disociación entre la Única Iglesia Universal, la logia interna sagrado de todos los verdaderos masones, y los círculo más internos de las sociedades esotéricas”.\- Fritz Springmeier - Ser Sabios Como Serpientes**
 
   
  ¿Ha sido subestimada la masonería como religión mundial?. Al menos un autor masónico, que ha investigado a fondo sobre el tema llegó a la conclusión de que el poder religioso de la masonería ha sido subestimado y escribe:  
   
 
-> **“en el pasado, la masonería fue condenada como una sustituto superficial de la religión. Esto es algo que la masonería siempre ha negado pero, de hecho, la masonería revitalizada por medio de la nueva era será una forma evolucionada paralela de aproximación del hombre a Dios y la masonería y la religión cooperarán de ese modo fácilmente”.  
+> “en el pasado, la masonería fue condenada como una sustituto superficial de la religión. Esto es algo que la masonería siempre ha negado pero, de hecho, la masonería revitalizada por medio de la nueva era será una forma evolucionada paralela de aproximación del hombre a Dios y la masonería y la religión cooperarán de ese modo fácilmente”.  
 >   
-> \- Albert Pike, El Espíritu de la Masonería**
+> \- Albert Pike, El Espíritu de la Masonería
 
   
   

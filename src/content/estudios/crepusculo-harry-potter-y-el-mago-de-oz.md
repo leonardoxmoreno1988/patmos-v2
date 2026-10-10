@@ -33,13 +33,13 @@ Uno de los temas implica el concepto oculto de un íncubo. De acuerdo con los sa
 Mientras que la edad de Edward y la naturaleza parece que plantean grandes banderas rojas, estas preocupaciones son arrojadas al viento por el discernimiento. Mientras que Edward y su familia se muestran como los vampiros en todos los sentidos, que aman y odian a la oscuridad a la luz y que poseen diferentes habilidades diabólicas como la percepción extrasensorial y la escritura automática, en el fondo, Meyer les retrata como los demonios de buen corazón y de confianza. A pesar de que Edward y su familia vampira fácilmente beben la sangre de los animales... supuestamente, con un poco de auto-control, son capaces de resistir a beber la sangre de los seres humanos. Sin embargo, Dios repetidamente prohíbe la práctica ocultista de beber cualquier tipo de sangre, como los siguientes pasajes tanto del Antiguo como del Nuevo Testamento dan testimonio:  
   
 
-> **"Sólo que no comeréis carne con vida, es decir, su sangre."-Génesis 9:4  
+> "Sólo que no comeréis carne con vida, es decir, su sangre."-Génesis 9:4  
 >   
-> "Porque en cuanto a la vida de toda carne, su sangre es su vida. Por tanto, dije a los hijos de Israel: No comeréis la sangre de ninguna carne, porque la vida de toda carne es su sangre; cualquiera que la coma será exterminado." -Levítico 17:14**
+> "Porque en cuanto a la vida de toda carne, su sangre es su vida. Por tanto, dije a los hijos de Israel: No comeréis la sangre de ninguna carne, porque la vida de toda carne es su sangre; cualquiera que la coma será exterminado." -Levítico 17:14
 > 
->  **"Sólo que ustedes no comerán la sangre; la derramarán sobre la tierra como el agua." -Deuteronomio 12:16  
+>  "Sólo que ustedes no comerán la sangre; la derramarán sobre la tierra como el agua." -Deuteronomio 12:16  
 >   
-> "Sólo asegúrese de no comer la sangre, porque la sangre es la vida, y no comerás la vida con la carne." -Deuteronomio 12:23**
+> "Sólo asegúrese de no comer la sangre, porque la sangre es la vida, y no comerás la vida con la carne." -Deuteronomio 12:23
 > 
 >  **"sino que les escribamos que se abstengan de cosas contaminadas por los ídolos, de fornicación, de lo estrangulado y de sangre." -Hechos 15:20**
 
@@ -89,8 +89,8 @@ MTV también admitió lo siguiente:
 
 > "Un número sorprendente de jóvenes brujas hablaron con Noticias MTV y también dijeron que sintieron curiosidad acerca de su fe a través de desviarla a la cultura pop, como "El campamento de Neve Campbell", "The Craft" y la serie de "Harry Potter". (Supongo que algunos grupos cristianos estaban en lo cierto sobre eso.)"
 
-**El Teólogo, Alan D. Ingalls, advirtió sobre el proceso de desensibilización que Harry Potter y otras producciones ocultan en nuestra juventud:  
-**> "Harry Potter trata de lo oculto y sus prácticas como neutrales y en algunos casos útiles. La magia enseñada en 'Hogwarts' puede ser utilizado por las brujas y los magos buenos y por aquellos en el lado oscuro también. La implicación es que el poder, venga de donde venga, es neutral. De hecho, los libros hacen más que magia considerada como neutral. "Muggles", personajes que se muestran sin ningún tipo de poder mágico, se tratan con condescendencia que van de la lástima al desprecio absoluto. Por el contrario, esos personajes con habilidades mágicas son claramente superiores a los que no, incluso entre las brujas y los magos más tolerantes".** 
+El Teólogo, Alan D. Ingalls, advirtió sobre el proceso de desensibilización que Harry Potter y otras producciones ocultan en nuestra juventud:  
+> "Harry Potter trata de lo oculto y sus prácticas como neutrales y en algunos casos útiles. La magia enseñada en 'Hogwarts' puede ser utilizado por las brujas y los magos buenos y por aquellos en el lado oscuro también. La implicación es que el poder, venga de donde venga, es neutral. De hecho, los libros hacen más que magia considerada como neutral. "Muggles", personajes que se muestran sin ningún tipo de poder mágico, se tratan con condescendencia que van de la lástima al desprecio absoluto. Por el contrario, esos personajes con habilidades mágicas son claramente superiores a los que no, incluso entre las brujas y los magos más tolerantes". 
 
 ## La Mentira de la Magia Blanca
 
@@ -111,11 +111,11 @@ Incluso Doreen Valiente, la sacerdotisa wicca alta que ha tenido más influencia
 
 > "La distinción entre la magia blanca y negra no tiene ninguna validez." (Doreen Valiente, El ABC de la Magia (New York: St. Martins Press, 1973, p. 271)
 
-**Starling, otro líder de la Wicca, admitió:  
+Starling, otro líder de la Wicca, admitió:  
 
 > "En realidad, esto podría ofender a algunos, pero esconde una de las grandes verdades de la brujería, que no es blanca o negra, sólo hay magia ..." (Starling, mensaje # 1420, 22 de noviembre de 2001, publicado en Perspectivas de Pagan.)
 
-**Este reconocimiento está en realidad de acuerdo con la Palabra de Dios, que establece que toda la magia tal tiene sus raíces en el poder de Satanás (1 Juan 5:19, **[Apocalipsis](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** 12:9). La magia "blanca" es simplemente una táctica que Satanás usa para atraer a su presa desprevenida, como él los lleva a creer que pueden usar los poderes ocultos con fines altruistas. La Palabra de Dios revela que Satanás no suelen aparecer en toda su deformidad desnuda, pero aparece con más frecuencia como un ángel de la luz:  
+Este reconocimiento está en realidad de acuerdo con la Palabra de Dios, que establece que toda la magia tal tiene sus raíces en el poder de Satanás (1 Juan 5:19, **[Apocalipsis](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** 12:9). La magia "blanca" es simplemente una táctica que Satanás usa para atraer a su presa desprevenida, como él los lleva a creer que pueden usar los poderes ocultos con fines altruistas. La Palabra de Dios revela que Satanás no suelen aparecer en toda su deformidad desnuda, pero aparece con más frecuencia como un ángel de la luz:  
 
 > "Y no es maravilla, porque el mismo Satanás se disfraza como ángel de luz. Por lo tanto, no es de extrañar que sus servidores, también, se disfrazan como ministros de justicia. Cuyo fin será conforme a sus obras."  
 > \-2 Corintios 11:14-15
@@ -127,7 +127,7 @@ Incluso Doreen Valiente, la sacerdotisa wicca alta que ha tenido más influencia
 **La Biblia Satánica, Anton LaVey.**
 
 Incluso Anton LaVey, fundador de la Iglesia de Satán en 1966, admitió en su "Biblia Satánica" que no hay ninguna diferencia real entre la magia "blanca" y la magia "negra", afirmando que...  
-**> "La magia blanca supuestamente se utilizada solamente para propósitos buenos o altruistas, y la magia negra, se nos dice, se utiliza sólo por razones egoístas o malas. El satanismo no establece esa línea divisoria."** 
+> "La magia blanca supuestamente se utilizada solamente para propósitos buenos o altruistas, y la magia negra, se nos dice, se utiliza sólo por razones egoístas o malas. El satanismo no establece esa línea divisoria." 
 
 LaVey también declaró:  
 
@@ -141,7 +141,7 @@ Es de vital importancia estar "conscientes" de las "maquinaciones" de Satanás (
 > "Porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los poderes de tinieblas de este siglo presente, contra huestes espirituales de maldad en los lugares celestiales."  
 > \-Efesios 6:12
 
-**En estos espíritus engañadores están la raíz del acondicionamiento de la masas y de la juventud del mundo a través de producciones diabólicas como Crepúsculo y Harry Potter. Tales espíritus han sido durante mucho tiempo activos y están utilizando muchos de los agentes humanos como canales para transmitir sus mentiras en su esfuerzo por transformar la visión del mundo a través de los medios de comunicación.  
+En estos espíritus engañadores están la raíz del acondicionamiento de la masas y de la juventud del mundo a través de producciones diabólicas como Crepúsculo y Harry Potter. Tales espíritus han sido durante mucho tiempo activos y están utilizando muchos de los agentes humanos como canales para transmitir sus mentiras en su esfuerzo por transformar la visión del mundo a través de los medios de comunicación.  
   
 Incluso la idea del Mago de Oz, que hay brujas "buenas" y "malas", se canalizó a través de un ocultista con el nombre de Frank Baum (desde 1851 hasta 1919).  
   
@@ -157,7 +157,7 @@ Baum, un ocultista que pertenecía a la Sociedad Teosófica de Helena Blavatsky 
 
 > "Fue pura inspiración .... Se me ocurrió nada más sacarlo de la nada. Creo que a veces el gran escritor tiene un mensaje que debe transmitir y que tiene que utilizar el instrumento de la mano. Yo pasé a ser ese medio, y creo que la llave mágica se me ha dado para abrir las puertas a la simpatía y la comprensión de la alegría, la paz y la felicidad."
 
-**(Michael Patrick Hearn edición, El Mago de Oz anotado, Nueva York. Clarkson N. Potter, 1973)  
+(Michael Patrick Hearn edición, El Mago de Oz anotado, Nueva York. Clarkson N. Potter, 1973)  
 El mensaje canalizado de Baum no sólo enseña a los niños que hay "brujas buenas", sino que el mensaje de Glinda (la "buena" bruja) era que Dorothy no tenía que buscar fuera de sí misma en busca de respuestas. "Siempre has tenido el poder..." Esto, mi amigo, es básicamente el mismo mensaje que se transmite a través de las películas basadas en lo oculto de nuestros días, es decir, "No es necesario volver a Dios, ya tenemos el poder interno. Sólo tenemos que aprovechar este poder latente a través de la meditación, los encantamientos, la canalización, etc".
 
   
@@ -173,12 +173,12 @@ Meyer afirma que fue obligada a escribir después de que la historia de Crepúsc
 > "Me desperté (en ese 02 de junio) a partir de un sueño muy vívido. En mi sueño, dos personas estaban teniendo una intensa conversación en un prado en el bosque. Una de estas personas era la típica chica. La otra persona era fantásticamente hermosa, brillante, un vampiro. Ellos estaban discutiendo las dificultades inherentes a los hechos que A) que se enamoraron el uno al otro mientras que B) el vampiro se sentía particularmente atraído por el olor de su sangre, y estaba teniendo un momento difícil al contenerse de matarla de inmediato... he escrito tanto como puedo recordar, llamando a los personajes "él" y "ella".  
 > (Fuente: www.stepheniemeyer.com)
 
-**Este sueño fue tan importante para la saga de Crepúsculo, que Meyer produjo una transcripción de su sueño en el capítulo 13 del libro Crepúsculo, titulada "Confesiones". Meyer afirma que en algún momento después de haber "recibido" el sueño revelador oyó voces incesantes en su cabeza que no se detendrían hasta que ella escribiera.  
+Este sueño fue tan importante para la saga de Crepúsculo, que Meyer produjo una transcripción de su sueño en el capítulo 13 del libro Crepúsculo, titulada "Confesiones". Meyer afirma que en algún momento después de haber "recibido" el sueño revelador oyó voces incesantes en su cabeza que no se detendrían hasta que ella escribiera.  
 
 > **"Bella y Edward \[el vampiro\] eran, literalmente, las voces en mi cabeza. Simplemente no las podía callar. Me quedaba hasta tarde como yo podría tratando de teclear todas las cosas de mi mente, y después arrastrarme exhausta en la cama ... sólo para que otra conversación se inicie en mi cabeza. "(Ibid)**
 > 
-> **  
-> Con tanta furia hizo la historia que a veces dijo "no puedo escribir lo suficientemente rápido." Ella terminó la obra oscura, y a pesar de que fue su primer libro, lo hiso en sólo tres meses. Meyer también ha dicho: "Estoy muy ansiosa de finalmente tener a Crepúsculo en los estantes, y con un poco de miedo también. En general, ha sido una verdadera labor de amor, el amor por Edward y Bella y todo el resto de mis amigos imaginarios, y estoy muy contento de que otras personas las conocerán ahora". Meyer también declaró que los personajes de Twilight "fueron tan reales para mí, que quería que otras personas las conozcan."(Ibid)**
+>
+> Con tanta furia hizo la historia que a veces dijo "no puedo escribir lo suficientemente rápido." Ella terminó la obra oscura, y a pesar de que fue su primer libro, lo hiso en sólo tres meses. Meyer también ha dicho: "Estoy muy ansiosa de finalmente tener a Crepúsculo en los estantes, y con un poco de miedo también. En general, ha sido una verdadera labor de amor, el amor por Edward y Bella y todo el resto de mis amigos imaginarios, y estoy muy contento de que otras personas las conocerán ahora". Meyer también declaró que los personajes de Twilight "fueron tan reales para mí, que quería que otras personas las conozcan."(Ibid)
 
 Lamentablemente, si la verdad se conoce, y los fans de Twilight son realmente conscientes de la naturaleza oscura y maligna detrás de la saga de Crepúsculo, correrían - y no a pie - a la salida más cercana! Parece como si la entidad espiritual que aparece como Edward en sus sueños, y se comunicaba con ella cuando estaba consciente, reveló su verdadera naturaleza mucho más de lo que Meyer había pactado.
 
@@ -238,7 +238,7 @@ Para Rowling, la comunicación espiritual con las fuerzas oscuras es más visual
 
 > "Y me encanta escribir los diálogos. Los diálogos viene a mí como si yo sólo escuchara una conversación" (enero de perfil: JK Rowling, por Linda Richards, Fuente: www.januarymagazine.com).
 
-**Mientras Satanás aparece para premiar a algunos de sus funcionarios así (temporalmente)... Stephenie Meyer pasó de no haber escrito un solo libro a convertirse en un autor de renombre. JK Rowling pasó de harapos a la riqueza, el bienestar de coleccionar sellos a convertirse en la "mujer más rica del mundo" ... Jesús advirtió, "¿Qué provecho tiene voluntad de una persona, si ganare todo el mundo y perdiere su alma?" (Marcos 8:36 ) Jesús también advirtió de la inminente juicio, "pero cualquiera que haga tropezar a uno de estos pequeños que creen en mí, sería mejor para él que una piedra de molino colgara de su cuello, y se hundan en lo profundo de la del mar." (Mateo 18:6)
+Mientras Satanás aparece para premiar a algunos de sus funcionarios así (temporalmente)... Stephenie Meyer pasó de no haber escrito un solo libro a convertirse en un autor de renombre. JK Rowling pasó de harapos a la riqueza, el bienestar de coleccionar sellos a convertirse en la "mujer más rica del mundo" ... Jesús advirtió, "¿Qué provecho tiene voluntad de una persona, si ganare todo el mundo y perdiere su alma?" (Marcos 8:36 ) Jesús también advirtió de la inminente juicio, "pero cualquiera que haga tropezar a uno de estos pequeños que creen en mí, sería mejor para él que una piedra de molino colgara de su cuello, y se hundan en lo profundo de la del mar." (Mateo 18:6)
 
   
 

@@ -34,7 +34,7 @@ La película inicia con el nacimiento de Kal'el en el planeta Krypton. Estos pri
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbr0TXPEN_mmIh3q6eGYDmm_PxBRFKl6GgBt74JzhU_U8oM5LtEGtiwZBPyrSjus7_sWiOAPLdKN5cMisn8OXvXBtmt-S_zNK6B8DzS2USJhpjHSEqQWrXUuBqkJ7UBvg7aDvIyuRgbVM/s1600/nacimiento.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbr0TXPEN_mmIh3q6eGYDmm_PxBRFKl6GgBt74JzhU_U8oM5LtEGtiwZBPyrSjus7_sWiOAPLdKN5cMisn8OXvXBtmt-S_zNK6B8DzS2USJhpjHSEqQWrXUuBqkJ7UBvg7aDvIyuRgbVM/s1600/nacimiento.jpg)
 
-**El futuro Cristo mesiánico ha nacido.  
+El futuro Cristo mesiánico ha nacido.  
 
 Previamente, Jor'el expone el insensato error del concejo al usar la energía del núcleo de Krypton para subsistir, razón por la que se esta destruyendo su planeta. Él los amonesta asegurando que debieron "ver a las estrellas" y buscar otros planetas para lograr su supervivencia. Esto aunque suene ajeno a nuestros tiempos expone una forma de pensamiento filosófico y muy antibíblico. La futura "evacuación" del planeta es también vista en películas como "Oblivion" y "AfterEarth", todas en historias y contextos gnósticos muy persuasivos.
 
@@ -51,7 +51,7 @@ En medio de este apocalipsis kryptoniano, el General Zod se revela e intenta tom
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh95dDpLpOo5nXbhXxfqFtEcgoKTHDSo6WdYxZJD_Er2EKUzVbwOJSDjCTUubkSj_hCIwOD47kJ-M238WJXaXWDTlHiwi_xUSWJ2SMk1VqWMi5E55HQi3Hj-3iFNEl3DdjqhDPs5qN-YA/s1600/nave2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh95dDpLpOo5nXbhXxfqFtEcgoKTHDSo6WdYxZJD_Er2EKUzVbwOJSDjCTUubkSj_hCIwOD47kJ-M238WJXaXWDTlHiwi_xUSWJ2SMk1VqWMi5E55HQi3Hj-3iFNEl3DdjqhDPs5qN-YA/s1600/nave2.jpg)
 
-**"Yo veía a Satanás caer del cielo como un rayo." Lucas 10:18  
+"Yo veía a Satanás caer del cielo como un rayo." Lucas 10:18  
 
   
 
@@ -85,7 +85,7 @@ Uno de los recursos de la narrativa son los repentinos flashbacks de Clark Kent 
 
 > "Cuando el mundo descubra lo que puedes hacer todo va a cambiar","La creencias la nociones de lo que significa ser humano cambiarán","La personas le temen a lo que no entienden","Tu eres la respuesta hijo, la respuesta sobre si estamos solos en el universo"
 
-**En ese mismo contexto, una consternada madre del compañero rescatado le dice a Jhonatan Kent sobre los increíbles poderes de Clark:
+En ese mismo contexto, una consternada madre del compañero rescatado le dice a Jhonatan Kent sobre los increíbles poderes de Clark:
 
 > **"Es un acto de dios Jhonatan, esto fue providencia"**
 
@@ -93,7 +93,7 @@ Mientras que para los que no conocen la "verdad" esta es una referencia divina o
 
 > "¿Dios me hizo esto a mi?"
 
-**En otros de los flashbacks el padre de Clark se encuentra a punto de ser arrastrado y muerto por un tornado. Cuando este intenta rescatarlo el mismo Jhonatan lo detiene, dejándole entender que se deben de hacer sacrificios si desean mantener su secreto kryptoniano.  
+En otros de los flashbacks el padre de Clark se encuentra a punto de ser arrastrado y muerto por un tornado. Cuando este intenta rescatarlo el mismo Jhonatan lo detiene, dejándole entender que se deben de hacer sacrificios si desean mantener su secreto kryptoniano.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCohuWu3PiurhjBlYlO5YtfKSn3YEjruLpGYJdfAnqpGUOz3MxA1vkXmc7P4jbh-ioT1n4gZQgz3MY5_KudY9bT1rLdjcpyF4emgRPop2VN4h9GdEBpN_dS7-wLmdSBeyHkqJEho0gvR0/s1600/tornado.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCohuWu3PiurhjBlYlO5YtfKSn3YEjruLpGYJdfAnqpGUOz3MxA1vkXmc7P4jbh-ioT1n4gZQgz3MY5_KudY9bT1rLdjcpyF4emgRPop2VN4h9GdEBpN_dS7-wLmdSBeyHkqJEho0gvR0/s1600/tornado.jpg)
@@ -105,11 +105,11 @@ En verdad existe en hollywood otras intenciones fuera de su taquilla o el deseo 
 
 > "El uso planificado de propaganda y otras acciones psicológicas con la finalidad primordial de influir en las opiniones, emociones, actitudes y comportamiento ... de los grupos de tal manera que contribuya a los objetivos ...." "Se usan varias técnicas, por cualquier conjunto de grupos y tiene como objetivo influenciar el sistema de los valores de la audiencia, en sus de creencias, emociones, motivos, razonamiento, o comportamiento."
 
-**En 1928, Edward Bernays vio el inmenso potencial de las películas para uniformar el pensamiento:  
+En 1928, Edward Bernays vio el inmenso potencial de las películas para uniformar el pensamiento:  
 
 > "El cine americano es el mayor portador inconsciente de propaganda en el mundo de hoy. Se trata de un gran distribuidor de ideas y opiniones. La película puede estandarizar las ideas y los hábitos de una nación. Porque las imágenes son creadas para satisfacer las demandas del mercado, que reflejan, enfatizan y exageran aún más las amplia tendencias populares, en lugar de estimular nuevas ideas y opiniones. La película se vale sólo de ideas y hechos que están en boga. Como el periódico busca proveer de noticias, esta busca proveer de entretenimiento." - Edward Bernays, Propaganda
 
-**El mayor peligro e incluso lo que algunos cristianos desconocen, es que la aceptación de vida extraterrestre es uno de los principios básicos para aceptar la futura religión mundial del anticristo, por tanto es inevitable pasar de un pensamiento "cristiano bíblico" a uno con menos fe y más ciencia. Uno que diga: "Yo creo en extraterrestres y eso no atenta contra mi creencia en Cristo". Esta forma de pensamiento se aleja de las escrituras y abre las manos a otras falsas doctrinas como la nueva era o la ciencia cristiana. Recomiendo leer el artículo: [La Farsa Extraterrestre Predisponiendo A Las Masas Para La Aceptación De Vida En Otros Planetas](http://contraelnwo.blogspot.com/2012/06/la-farsa-extraterrestre-predisponiendo.html).  
+El mayor peligro e incluso lo que algunos cristianos desconocen, es que la aceptación de vida extraterrestre es uno de los principios básicos para aceptar la futura religión mundial del anticristo, por tanto es inevitable pasar de un pensamiento "cristiano bíblico" a uno con menos fe y más ciencia. Uno que diga: "Yo creo en extraterrestres y eso no atenta contra mi creencia en Cristo". Esta forma de pensamiento se aleja de las escrituras y abre las manos a otras falsas doctrinas como la nueva era o la ciencia cristiana. Recomiendo leer el artículo: [La Farsa Extraterrestre Predisponiendo A Las Masas Para La Aceptación De Vida En Otros Planetas](http://contraelnwo.blogspot.com/2012/06/la-farsa-extraterrestre-predisponiendo.html).  
   
 Este escepticismo arraigado en la película se refleja también cuando Luis Lane intenta publicar un artículo sobre su contacto con Kal'el. El director del diario "El Planeta" le explica lo ridículo que sería publicar una nota sobre "alienígenas y naves espaciales". Encajando en el perfil de miles de personas escépticas y "religiosos" incrédulos -Casualmente el diario se llama "El Planeta"-. Luis Lane termina filtrando su artículo a un extraño blogger de poca reputación, retratando nuevamente un hecho real sobre las teorías extraterrestres que circulan en Internet; A través de las versiones "no oficiales" es posible conocer quién es el personaje de Kal'el y su verdadero origen no terrestre.  
   
@@ -179,7 +179,7 @@ El ejército de EE.UU expresa su preocupación por tener a un ser de otro planet
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZOAuUl0OG7yqB4Mtv3Jim_AV3GrTSv6G0tgpTA1PvHnUYvW6_K9broP_b7ARB-NsoNL5_rDYFSFLNf67ysKQ7a5EmAASAhL73YSH4soDblU7WclZGsopsbvndDt4pncMr4iHKUI0T-1M/s1600/man.of.steel.zod.feature.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZOAuUl0OG7yqB4Mtv3Jim_AV3GrTSv6G0tgpTA1PvHnUYvW6_K9broP_b7ARB-NsoNL5_rDYFSFLNf67ysKQ7a5EmAASAhL73YSH4soDblU7WclZGsopsbvndDt4pncMr4iHKUI0T-1M/s1600/man.of.steel.zod.feature.jpg)
 
-**Capitan Zod, el demiurgo eugenista.  
+Capitan Zod, el demiurgo eugenista.  
 
 Otro de los personajes comparable al contexto bíblico es el del Capitán Zod, una imagen gnóstica y distorsionada del Dios de la Biblia. Si bien Superman es el anticristo (el que toma el lugar de Cristo) su rival es lo que en el gnosticismo denomina el Demiurgo, el Dios opresor, sectarista, egoista y asesino. Esta personaje es retratado también como el Dios de los judíos o del antiguo testamento. Por tanto, lo que vemos en Meen of Steel es nuevamente la inversión de la historia del bien por el mal, la de Sátanas por Dios, la de Cristo por el anticristo, etc.
 
@@ -221,7 +221,7 @@ Superman uniendo fuerzas con ejército norteamericano se disponen a evitar la in
   
 
 Tras analizar la película y su contexto espiritual, podemos concluir que el mensaje mesiánico no es exactamente un secreto muy bien guardado. A diferencia de otras películas gnósticas, Man of Steel ha sido cubierto por muchos medios periodísticos que no han dudado en tocar el tema crístico, revelando superficialmente el parecido simbólico del superhéroe con Jesucristo. La conclusión final obviamente no define si Kal'el esconde a un soterrado Cristo o si esta trabajando para preparar el camino de un futuro anticristo. Para el mundo, el "hombre de acero" es solo una buena película con guiños cristianos que entretiene y hace más aceptable la lucha del bien contra el mal. Muy contrario a esto, la Biblia menciona en Mateo 24:  
-**> "Entonces, si alguno os dijere: Mirad, aquí está el Cristo, o mirad, allí está, no lo creáis. Porque se levantarán falsos Cristos, y falsos profetas, y harán grandes señales y prodigios, de tal manera que engañarán, si fuere posible, aun a los escogidos" -Mateo 24:23** 
+> "Entonces, si alguno os dijere: Mirad, aquí está el Cristo, o mirad, allí está, no lo creáis. Porque se levantarán falsos Cristos, y falsos profetas, y harán grandes señales y prodigios, de tal manera que engañarán, si fuere posible, aun a los escogidos" -Mateo 24:23 
 
 Si bien Clark Kent es un personaje ficticio, no cabe duda que cumple con las características de un falso Cristo que vislumbra con diversas señales y prodigios. Pero, ¿A qué se debe la necesidad de crear -consiente o inconscientemente- estas figuras mesiánicas. La compleja verdad es que el mundo no encuentra muy atractivo un Jesús que nació, hablo sobre el arrepentimiento y murió crucificado; El mundo prefiere un Jesús extraterrestre con spandex, que vuela, tiene superfuerza y nunca muere. Si algo ha demostrado la historia es que no existe corazón mas seducido a la idolatría que el del ser humano, creando una inmensa demanda de falsos mesías que fue aprovechada por Satanás y su religión pagana (super héroes, dioses griegos, extraterrestres). El "hombre de acero" no es solo un personaje anticristiano, en su traje bicolor y su escudo alquimista encierra la esencia de la usurpación y el engaño, algo que nos obliga a recordar las palabras de Jesús y hacerlas propias:  
 

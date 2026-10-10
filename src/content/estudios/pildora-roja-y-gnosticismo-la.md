@@ -36,7 +36,7 @@ La historia se invierte aún más cuando Sophia descubre lo que Yahveh ha hecho,
 > "Y la mujer respondió a la serpiente: Del fruto de los árboles del huerto podemos comer; pero del fruto del árbol que está en medio del huerto dijo Dios: No comeréis de él, ni le tocaréis, para que no muráis. Entonces la serpiente dijo a la mujer: No moriréis; sino que sabe Dios que el día que comáis de él, serán abiertos vuestros ojos, y seréis como Dios, sabiendo el bien y el mal.Y vio la mujer que el árbol era bueno para comer, y que era agradable a los ojos, y árbol codiciable para alcanzar la sabiduría; y tomó de su fruto, y comió; y dio también a su marido, el cual comió así como ella.  
 > \- Génesis 3:2,6
 
-**Tomando en cuenta este marcado trasfondo filosófico, debemos reconocer que la película "Matrix" hace una alusión directa al mito de la Pistis Sophia. La Matrix es el mundo material creado por el Demiurgo (Dios), que nos mantiene prisioneros de la "verdad" o la verdadera "iluminación". Entendiendo este punto, se puede profundizar en el significado del film.  
+Tomando en cuenta este marcado trasfondo filosófico, debemos reconocer que la película "Matrix" hace una alusión directa al mito de la Pistis Sophia. La Matrix es el mundo material creado por el Demiurgo (Dios), que nos mantiene prisioneros de la "verdad" o la verdadera "iluminación". Entendiendo este punto, se puede profundizar en el significado del film.  
 
 # Neo, El Salvador
 
@@ -45,7 +45,7 @@ Thomas Anderson (Keanu Reeves) interpreta a un programador/hacker con un problem
   
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIBmK7H3B1i4-7b0-gRm8ogLZSh2bG4pDUK0lhchXntFY1a8_-EoyRBDSD5ylccD0O-ZJM_OSmE8-X5QWKrWr03U7mASzaWHgNRpDjEWDt42zBt1mw9R0G7cGFWjxpapZXVaNAKhXrVPg/s1600/nrodormido.jpg)](https://www.blogger.com/u/2/#)  
-**Neo, el prospecto a iniciado y la figura mesiánica.  
+Neo, el prospecto a iniciado y la figura mesiánica.  
 
 En esta primera parte ya podemos ver algunos paralelismo con la historia gnóstica, ya que Neo Anderson es una alegoría a Adan, ignorante y atrapado en una prisión material donde solo es uno más del millón en la Matrix. En esta forma el iniciado nunca podría llegar a ser auto-dependiente, él necesita ser "despertado", -en un sentido literal por la primera escena donde Anderson se encuentra durmiendo frente a su computador-. Muchos de los films gnósticos usan un medio de comunicación entre la deidad y el iniciado, en esta película es por medio de la computadora que Morpheo puede "despertarlo". En este sentido, Morpheo representa a Lúcifer.
 
@@ -64,7 +64,7 @@ Durante unos segundos se aprecia que el número de apartamento de Neo es "101". 
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDaN45eTnHsbbSNAUUDTQtzM1bMag70g-z-FxFIV8gX3-e-zZhmfahLbMmblx-Ljaxmrj-iiJoweHenQm86a8ioP5-esVvXQSP1-tpLkMJoXZtA4qVQfp0AXudf6PNPJzDoGwUcDxLSks/s1600/conejoblanco.jpg)](https://www.blogger.com/u/2/#)
 
-**El conejo blanco y la búsqueda de que tan hondo es el agujero de conejo es el inicio del luciferismo.  
+El conejo blanco y la búsqueda de que tan hondo es el agujero de conejo es el inicio del luciferismo.  
 
 Luego de su primer y breve encuentro con Trinity, Neo vuelve a su trabajo normal, donde Morpheo le advierte sobre los agentes de la Matrix. Neo es arrestado y esto nos lleva a una escena muy simbólica en las teorías de conspiración.
 
@@ -216,7 +216,7 @@ El iniciado ahora no necesita esquivar balas, él tiene el poder de detenerlas c
 
 Como hemos visto, el gnosticismo se caracteriza por ser de carácter iniciático, lo que significa que existen conocimientos secretos que solo pueden darse a personas muy especiales, que hayan sido “elegidos”. Este conocimiento liberador produce salvación, de ahí que Morfeo, ofrece a Neo el conocimiento que lo liberará de Matrix, al tomar la pastilla roja. Para el gnóstico la “gnosis” produce salvación, no la fe.  
   
-El reconocido director de Holywood Richard Staney menciona:**
+El reconocido director de Holywood Richard Staney menciona:
 
 > "Supongo que uno podría ver la totalidad de los medios de comunicación en la actualidad como una especie de extensión de la fe gnóstica... tal vez el propio cine está actuando como una especie de mano creadora para el apocalipsis." - Kinokaze #1, 1994
 

@@ -57,7 +57,7 @@ Ante esto, recordemos que Efesios 4:14 advierte a los creyentes que no se dejen 
 > "Que ya no seamos niños, inconstantes y llevados en derredor por todo viento de doctrina, con artificio de los hombres, que engañan con astucia de error."  
 > –Efesios 4:14
 
-**En 2 Timoteo 3:7 se describe también a los que "siempre aprenden, pero nunca pueden acabar de llegar al conocimiento de la verdad".  
+En 2 Timoteo 3:7 se describe también a los que "siempre aprenden, pero nunca pueden acabar de llegar al conocimiento de la verdad".  
   
 En resumen, comprender estas características nos ayuda a discernir la verdad del error. Nos desafía a permanecer firmes en la Biblia como la autoridad final y a enseñar la verdad con firmeza.  
   

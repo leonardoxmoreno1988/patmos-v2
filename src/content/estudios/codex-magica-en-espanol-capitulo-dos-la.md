@@ -9,7 +9,7 @@ description: "\"Todos mis métodos son racionales, solamente mis objetivos está
 tags: ["Sociedad"]
 ---
 
-> **"Todos mis métodos son racionales, solamente mis objetivos están desquiciados."****\- Capitán Ahab en Moby Dick de Herman Melville**
+> **"Todos mis métodos son racionales, solamente mis objetivos están desquiciados."\- Capitán Ahab en Moby Dick de Herman Melville**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO_V4CRcPtq64VZFoDi6K1Yd0nL6sdHXsU4hWHyFJv4pa8Cx46JPruNCT0HG2UUhnQqFjLRQc7XFUWyVCnuBpLW-iS0ZeeIxqE80mmjRt_N-RNb8f34zRIwPblNGGFelzN8CQTCvFpVZ4/s1600/sicopatas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO_V4CRcPtq64VZFoDi6K1Yd0nL6sdHXsU4hWHyFJv4pa8Cx46JPruNCT0HG2UUhnQqFjLRQc7XFUWyVCnuBpLW-iS0ZeeIxqE80mmjRt_N-RNb8f34zRIwPblNGGFelzN8CQTCvFpVZ4/s1600/sicopatas.jpg)
 
@@ -166,7 +166,7 @@ Y luego, a partir de los escombros quemados, como el ave Fénix que renace de la
 Las Escrituras proféticas nos dicen que este plan grandioso - la Gran Obra de los Illuminati nunca se completará en un buen término. El Reino no se convertirá en la provincia de los rebeldes y ni de su oscuro maestro, Satanás. Aquí está la gloriosa declaración de Dios Todopoderoso de cómo todo se terminará:  
   
 
-> **"El séptimo ángel tocó la trompeta, y hubo grandes voces en el cielo, que decían: Los reinos del mundo han venido a ser los reinos de nuestro Señor y de Cristo, y él reinará por siempre jamás ...****Y las naciones se enfurecieron, y vino tu ira y llegó el tiempo de juzgar a los muertos y de dar la recompensa a tus siervos los profetas, a los santos y a los que temen tu nombre, a los pequeños y a los grandes, y de destruir a los que destruyen la tierra.****\- Apocalipsis 11:15, 18**
+> **"El séptimo ángel tocó la trompeta, y hubo grandes voces en el cielo, que decían: Los reinos del mundo han venido a ser los reinos de nuestro Señor y de Cristo, y él reinará por siempre jamás ...Y las naciones se enfurecieron, y vino tu ira y llegó el tiempo de juzgar a los muertos y de dar la recompensa a tus siervos los profetas, a los santos y a los que temen tu nombre, a los pequeños y a los grandes, y de destruir a los que destruyen la tierra.\- Apocalipsis 11:15, 18**
 
   
 La voluntad y el plan de Dios incomparable se mantendrá. Cristo y su pueblo reinarán triunfantes para siempre, el mal habrá de ser juzgado. Y para los Illuminati, los destructores de la tierra, los siervos de Satanás, Oppenheimer, pregonando el título de "destructor de mundos". Las Escrituras dan testimonio de su destino; ellos también, serán juzgados, para que Dios se encargue "de destruir a los que destruyen la tierra."  
@@ -339,7 +339,7 @@ Esta actitud indignante e imperiosa no toma por sorpresa aquellos de nosotros qu
 Según el Talmud, gentiles ni siquiera pueden ser considerados seres humanos:  
   
 
-> **"Los goyim (gentiles) no son hombres, sino bestias"****(Fol Baba Mezia. 1146).**
+> **"Los goyim (gentiles) no son hombres, sino bestias"(Fol Baba Mezia. 1146).**
 
   
 

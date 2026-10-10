@@ -33,7 +33,7 @@ El libro gnóstico de la teósofa Madame Blavastky menciona sobre los juegos de 
 > “Muchos misteriosos nombres sagrados en sánscrito transmiten al oído profano nada más que una palabra ordinaria, y a menudo vulgar, porque está oculta gramaticalmente o de otra manera (…) No es la palabra lo importante, sino las letras."  
 > –Madame Blavatsky, La Doctrina Secreta
 
-**Por lo que Santa, Satán e incluso el ente espiritual o falso dios del [movimiento nueva era](https://www.ritualypropaganda.com/2017/02/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados.html), llamado “Sanat Kumara”, comparten un significado en común, los tres hacen referencia al ángel caído, Lucifer.  
+Por lo que Santa, Satán e incluso el ente espiritual o falso dios del [movimiento nueva era](https://www.ritualypropaganda.com/2017/02/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados.html), llamado “Sanat Kumara”, comparten un significado en común, los tres hacen referencia al ángel caído, Lucifer.  
   
 Pero en realidad la Navidad se trata de una joven pareja judía que, en un momento de inestabilidad socioeconómica, sigue la orden de un censo que estaba realizando el Imperio Romano.  
   
@@ -56,14 +56,14 @@ La profecía más asombrosa de su nacimiento venidero llega a través de Miqueas
 > “Mas tú, Belen Efrata, pequeña para ser en los millares de Judá, de tí me saldrá el que será Señor en Israel; y sus salidas son desde el principio, desde los dias de la eternidad.”  
 > –Miqueas 5:2
 
-**Este nacimiento luego fue anunciado por ángeles, quienes hablaron a un [grupo selecto de pastores](https://www.bible.com/es/bible/176/LUK.2.8-21.TLA) que proporcionaban corderos para los sacrificios del Templo en esa época. Lo que estos hombres no entendían a cabalidad era que nacería el definitivo Cordero de Dios (Lucas 2:1-18).  
+Este nacimiento luego fue anunciado por ángeles, quienes hablaron a un [grupo selecto de pastores](https://www.bible.com/es/bible/176/LUK.2.8-21.TLA) que proporcionaban corderos para los sacrificios del Templo en esa época. Lo que estos hombres no entendían a cabalidad era que nacería el definitivo Cordero de Dios (Lucas 2:1-18).  
   
 Como los corderos destinados al sacrificio del Templo nacían en estos rebaños especiales, eran inspeccionados para asegurarse de que fueran perfectos, sin ningún defecto para el sacrificio de los sacerdotes en el [Segundo Templo](https://es.wikipedia.org/wiki/Segundo_Templo). El apóstol Pedro se refiere a Cristo precisamente de esta manera:  
 
 > “Sabiendo que habéis sido rescatados de vuestra vana conversación, (la cual recibisteis de vuestros padres,) no con cosas corruptibles, como oro o plata; Mas con la sangre preciosa de Cristo, como de un cordero sin mancha, y sin contaminación: Ya preordinado ciertamente de ántes de la fundación del mundo, pero manifestado en los postrimeros tiempos por amor de vosotros,”  
 > –1 Pedro 1:18-20
 
-**Algunas han postulado que los “pañales” mencionados en Lucas 2:7 eran las piezas de tela que los pastores del Templo usaban para limpiar a los corderos recién nacidos antes de inspeccionarlos.  
+Algunas han postulado que los “pañales” mencionados en Lucas 2:7 eran las piezas de tela que los pastores del Templo usaban para limpiar a los corderos recién nacidos antes de inspeccionarlos.  
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwfcHeYarjD9ySncOlrmsTDXVMTjChHyLeXd5b58OFVIyJdp6R9MjqV_er51ou35ULZQwXAoB66pNlrBmQVKVioS9Lh042u_-fSm_X2p-iTo3xWKTVgXzyALwx0C4qMNCoX2kxy9CfXhZ1tJf-45WSEOhDs0foDujHekob1MsxUVit87MlG2Nt2F7F/s16000/nacimiento.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwfcHeYarjD9ySncOlrmsTDXVMTjChHyLeXd5b58OFVIyJdp6R9MjqV_er51ou35ULZQwXAoB66pNlrBmQVKVioS9Lh042u_-fSm_X2p-iTo3xWKTVgXzyALwx0C4qMNCoX2kxy9CfXhZ1tJf-45WSEOhDs0foDujHekob1MsxUVit87MlG2Nt2F7F/s800/nacimiento.jpg)  
   
@@ -72,7 +72,7 @@ Más tarde, cuando Jesús creció y comenzó su ministerio público, se acercó 
 > “Y mirando a Jesús que andaba por allí, dijo: He aquí el Cordero de Dios.”  
 > –Juan 1:36
 
-**El paralelismo que se hace con un animal de sacrificio expone el objetivo real de su Primera Venida. Si bien sabemos que su nacimiento no ocurrió un 25 de diciembre, lo importante es que en un momento preciso en la línea de tiempo de la historia humana, en la ciudad de David, el Hijo de Dios vino y caminó sobre la Tierra.  
+El paralelismo que se hace con un animal de sacrificio expone el objetivo real de su Primera Venida. Si bien sabemos que su nacimiento no ocurrió un 25 de diciembre, lo importante es que en un momento preciso en la línea de tiempo de la historia humana, en la ciudad de David, el Hijo de Dios vino y caminó sobre la Tierra.  
   
 Gracias por leer el newsletter de esta semana, no olvide que puede compartir el material con sus familiares y cercanos.
 

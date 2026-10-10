@@ -75,7 +75,7 @@ Quizás podemos sentirnos impotentes frente a las grandes corporaciones que se c
 Aquí hay algunas cosas que hacer para mantenerlo a usted y a su familia segura. Lleve esta lista de productos OMG cuando usted esté haciendo compras y compártalo con todos los que pueda. Deje de apoyar a las empresas que ponen sus ganancias por encima del bienestar de sus consumidores.  
   
 
-### **Comprar Orgánico**
+### Comprar Orgánico
 
   
 A los orgánicos certificados no se les permite contener ningún tipo de OGM. Las frutas y verduras orgánicas tienen un código numérico en ellos que siempre empieza con el número nueve.  

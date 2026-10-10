@@ -19,17 +19,17 @@ El 12 de diciembre de 1972 **Marie-Hélène de Rothschild**, miembro de la famil
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZG94A3nsjAhms0otYHoGkRFnpi9J1W-GYpWX0g9awIQia-JycH-G0OMHG5BZyXHEyH992YueFM0Rkmb2_SiWQFrfo5KfPv9dVS1bcz7auFI0ELWDXNyAr5J-c6bxDe532JUXoOIfihFM/s1600/oltursa.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZG94A3nsjAhms0otYHoGkRFnpi9J1W-GYpWX0g9awIQia-JycH-G0OMHG5BZyXHEyH992YueFM0Rkmb2_SiWQFrfo5KfPv9dVS1bcz7auFI0ELWDXNyAr5J-c6bxDe532JUXoOIfihFM/s1600/oltursa.jpg)
 
-**La invitación está escrita al revés. Se requiere un espejo para ser leída. La inversión es importante en un estado mental pseudo-satánico.  
+La invitación está escrita al revés. Se requiere un espejo para ser leída. La inversión es importante en un estado mental pseudo-satánico.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQiHh8AJpDHEtxpgY0kPU5opB-PT60yo8UNRMx55mjn7cEdsCNfMV-Tb35w7NDFObgaHAS9HeHz4R_lWA0rvJJsAUoh22Y4SCT46o5KXcZ2b03ueNmcv2Hrz8r1l5lku7_UeCxsgPW-dk/s1600/2a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQiHh8AJpDHEtxpgY0kPU5opB-PT60yo8UNRMx55mjn7cEdsCNfMV-Tb35w7NDFObgaHAS9HeHz4R_lWA0rvJJsAUoh22Y4SCT46o5KXcZ2b03ueNmcv2Hrz8r1l5lku7_UeCxsgPW-dk/s1600/2a.jpg)
 
-**El Château de Ferrières estaba iluminado en rojo para que pareciese como si estuviera en llamas. Escenas de la película de Roman Polanski sobre Satanás “La novena puerta” fueron filmadas allí. En “Eyes Wide Shut”, el ritual oculto se realiza en otra mansión Rothschild, Torres Mentmore en el Reino Unido.  
+El Château de Ferrières estaba iluminado en rojo para que pareciese como si estuviera en llamas. Escenas de la película de Roman Polanski sobre Satanás “La novena puerta” fueron filmadas allí. En “Eyes Wide Shut”, el ritual oculto se realiza en otra mansión Rothschild, Torres Mentmore en el Reino Unido.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDXl8cPh18xJRIGKIk8xjoHBdmwvMnjnR2ARnsJuKXRMWaItPsJoKaipbIueq0sBix0eUvjhomiwy6MNreN0OrtIiJMsui9omYHxRIYVotJfexIfWdKzBKkD6W12ii2CfG5PNKQbFY4qM/s1600/3a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDXl8cPh18xJRIGKIk8xjoHBdmwvMnjnR2ARnsJuKXRMWaItPsJoKaipbIueq0sBix0eUvjhomiwy6MNreN0OrtIiJMsui9omYHxRIYVotJfexIfWdKzBKkD6W12ii2CfG5PNKQbFY4qM/s1600/3a.jpg)
 
-**Un invitado con una máscara de rostro múltiple. Una máscara similar se observa en Eyes Wide Shut (¿la película fue inspirada en fiestas Rothschild?). ¿Esta fiesta “delega” en el libertinaje representado en la película?.  
+Un invitado con una máscara de rostro múltiple. Una máscara similar se observa en Eyes Wide Shut (¿la película fue inspirada en fiestas Rothschild?). ¿Esta fiesta “delega” en el libertinaje representado en la película?.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLGFEpWXS_V6Fx7Ahw2T5u25vSljfGtT-k5aactWY-d5vl4Njrf30Hzx_7x30aZSb5TdZ0l7fSuczfX4QSmDYCBeUBkKlNYt9MUgoow8hF1iTYmDyKhzm-aIV8KzzLdp7koB03njMrlyY/s1600/4a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLGFEpWXS_V6Fx7Ahw2T5u25vSljfGtT-k5aactWY-d5vl4Njrf30Hzx_7x30aZSb5TdZ0l7fSuczfX4QSmDYCBeUBkKlNYt9MUgoow8hF1iTYmDyKhzm-aIV8KzzLdp7koB03njMrlyY/s1600/4a.jpg)

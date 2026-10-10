@@ -74,7 +74,7 @@ Nina vive en un pequeño departamento de Nueva York con su madre, Erica, de quie
 
 [![nina durmiendo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5c6kvreu2VnWRZjNLPQ1rUM_AyDCLffUjew_LlYTK1OgCz44S8W4vB5b2PtaCTij9ywl4QpmD8ST0w-vv1JKKlNzG9_U6xrpmzVkbVetLk4E9iBOIVUCK2Y6b3xoyLX0rMtUF6qlMD6lC/s1600/blackwan11-e1299875198894.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5c6kvreu2VnWRZjNLPQ1rUM_AyDCLffUjew_LlYTK1OgCz44S8W4vB5b2PtaCTij9ywl4QpmD8ST0w-vv1JKKlNzG9_U6xrpmzVkbVetLk4E9iBOIVUCK2Y6b3xoyLX0rMtUF6qlMD6lC/s1600/blackwan11-e1299875198894.jpg)
 
-**La habitación de Nina. Observe las mariposas en la pared, una referencia a la programación Monarca. Junto a la ventana hay un gran conejo blanco, un símbolo de control mental que se origina en _Alicia en el país de las maravillas_, un cuento de hadas utilizado en la programación de esclavos** **MK. Al seguir al conejo blanco, Alicia es llevada a un mundo alternativo, el País de las Maravillas, que, en términos de control, se refiere al estado disociativo de un esclavo.**
+**La habitación de Nina. Observe las mariposas en la pared, una referencia a la programación Monarca. Junto a la ventana hay un gran conejo blanco, un símbolo de control mental que se origina en _Alicia en el país de las maravillas_, un cuento de hadas utilizado en la programación de esclavos MK. Al seguir al conejo blanco, Alicia es llevada a un mundo alternativo, el País de las Maravillas, que, en términos de control, se refiere al estado disociativo de un esclavo.**
 
 La madre de Nina, una bailarina de ballet jubilada que no se convirtió en una estrella, actúa más como manejadora de control mental que como madre. Obviamente tiene problemas mentales y mantiene un control estricto sobre todos los aspectos de la vida de Nina. Los esclavos monarcas de la vida real a menudo comienzan su vida difícil como víctimas de abuso ritual en su propia casa. Los símbolos relacionados con el control mental en la casa de Nina probablemente reflejan esta triste realidad, incluida su habitación rosada e infantil.  
 
@@ -82,13 +82,13 @@ La madre de Nina, una bailarina de ballet jubilada que no se convirtió en una e
 
 [![nina asustada](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsdaoXGL_w_eAJIN96BBOYlaTljJB9wOldu2SJeTMAtdTW7TRBGX-nDFP84JwNZeh1wB_QcLKjLf9ix2h78RKpNxVq7hnFCIk3ymEJH7GXAQHi8QsKqXAVn-Uilbwt9AG-tpGVt2S0rzik/s1600/blackswan31-e1299875500353.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsdaoXGL_w_eAJIN96BBOYlaTljJB9wOldu2SJeTMAtdTW7TRBGX-nDFP84JwNZeh1wB_QcLKjLf9ix2h78RKpNxVq7hnFCIk3ymEJH7GXAQHi8QsKqXAVn-Uilbwt9AG-tpGVt2S0rzik/s1600/blackswan31-e1299875500353.jpg)
 
-****Cada noche, Erica Sayers coloca la caja de música al lado de Nina a fin de crear a la pequeña bailarina. Esto es muy simbólico en el estado de control mental de Nina.****
+Cada noche, Erica Sayers coloca la caja de música al lado de Nina a fin de crear a la pequeña bailarina. Esto es muy simbólico en el estado de control mental de Nina.
 
   
 
 [![nataly portman desnuda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaHnOC_R9vmxc80-dNkKG0U8c2c8XQ8Y_CB-rmASRl5-1YgfZ-r1-rpfNigul4jbwG38sM_OZ29Oj_yJqY0iFKBB7e8cAsWOrh7eUTeSMlfMVzyICXY5uCYak44nwxhV_rPoPtGP5P12BR/s1600/blackswan21-e1299875531724.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaHnOC_R9vmxc80-dNkKG0U8c2c8XQ8Y_CB-rmASRl5-1YgfZ-r1-rpfNigul4jbwG38sM_OZ29Oj_yJqY0iFKBB7e8cAsWOrh7eUTeSMlfMVzyICXY5uCYak44nwxhV_rPoPtGP5P12BR/s1600/blackswan21-e1299875531724.jpg)
 
- ****Erica, la madre de Nina, fuerza a desnudarse a su hija adulta. Esta escena inquietante muestra de la sumisión total de Nina a su madre y también la no saludable "familiaridad" sexual entre las dos.****
+ Erica, la madre de Nina, fuerza a desnudarse a su hija adulta. Esta escena inquietante muestra de la sumisión total de Nina a su madre y también la no saludable "familiaridad" sexual entre las dos.
 
   
 
@@ -97,7 +97,7 @@ Otras personas en la vida de Nina, al parecer, se aprovechan de su debilidad y "
 
 [![enfermo sexual](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzznegCaZstikl3LV5nckCeZ6MKYAPm07CAif0rncwSOej1NQDctTWHl11_Vj5JeywWngZenJP8o-rXXAPgIpK9gx-utWLTAovXU1msUx-d_40QTQo746gVI8Ue9ds7aD2HeNH56AALuVl/s1600/blackwan51-e1299875555461.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzznegCaZstikl3LV5nckCeZ6MKYAPm07CAif0rncwSOej1NQDctTWHl11_Vj5JeywWngZenJP8o-rXXAPgIpK9gx-utWLTAovXU1msUx-d_40QTQo746gVI8Ue9ds7aD2HeNH56AALuVl/s1600/blackwan51-e1299875555461.jpg)
 
-****Un viejo pervertido hace gestos obscenos a Nina cuando viajen en el tren. Esta escena perturbadora dice mucho sobre la relación de Nina a la sexualidad. Los depredadores sexuales a veces tienen la capacidad de olfatear y aprovecharse de las víctimas de abuso sexual.****
+Un viejo pervertido hace gestos obscenos a Nina cuando viajen en el tren. Esta escena perturbadora dice mucho sobre la relación de Nina a la sexualidad. Los depredadores sexuales a veces tienen la capacidad de olfatear y aprovecharse de las víctimas de abuso sexual.
 
   
 
@@ -112,7 +112,7 @@ Volviendo a la historia, Thomas, el director de ballet, está buscando una nueva
 
  [![cisne negro maquillaje](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi29SPphO8mT0mqLxg8C2Y5ucLDfvBFxw1yvuBoIMeUz_h6c6ZPOvGRA63nKaCdqSx2jkYlnNZ5bGs-IZ-pVoUFO8wYnR2TDtM6ec8_78WG2lKWjywKDpKF1f6c24t-xMNXJ39U76alrSE/s1600/blackswan171-e1299875952944.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi29SPphO8mT0mqLxg8C2Y5ucLDfvBFxw1yvuBoIMeUz_h6c6ZPOvGRA63nKaCdqSx2jkYlnNZ5bGs-IZ-pVoUFO8wYnR2TDtM6ec8_78WG2lKWjywKDpKF1f6c24t-xMNXJ39U76alrSE/s1600/blackswan171-e1299875952944.jpg)
 
-****Thomas "sacando" el Cisne Negro de Nina.****
+Thomas "sacando" el Cisne Negro de Nina.
 
   
 
@@ -158,7 +158,7 @@ Esta situación refleja la cruda realidad detrás de abuso ritual en la vida rea
 
   
 
-****Thomas presentando a la nueva reina de los cisnes, Nina.****
+Thomas presentando a la nueva reina de los cisnes, Nina.
 
 ## Beth MacIntyre : La estrella que fue dejada de lado
 
@@ -203,19 +203,19 @@ La "fuerza" de El Cisne Negro es simbólicamente representado por las alas negra
 
 [![angel caido](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsHp8CqZvTNHSKOXXmsLoJj37dsbXoBvKc3k66y2nEuQgavCy7cFvY0NIdFFLjS-8H8RAsiCCKGX-Q-sUMEyIwa0EjlbfygmI6t1O30Y-tzYFOH-JzQaeNo3Lk89Ma7L42hM5mJ9gMQ4hf/s1600/blackwan71-e1299876132991.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsHp8CqZvTNHSKOXXmsLoJj37dsbXoBvKc3k66y2nEuQgavCy7cFvY0NIdFFLjS-8H8RAsiCCKGX-Q-sUMEyIwa0EjlbfygmI6t1O30Y-tzYFOH-JzQaeNo3Lk89Ma7L42hM5mJ9gMQ4hf/s1600/blackwan71-e1299876132991.jpg)
 
-********Poco después de ser coronada "Reina de los cisnes", Nina se siente fascinada por esta estatua espeluznante. Poco sabe ella que representa lo que está a punto de llegar a ser.********   
+Poco después de ser coronada "Reina de los cisnes", Nina se siente fascinada por esta estatua espeluznante. Poco sabe ella que representa lo que está a punto de llegar a ser.   
 
   
 
 [![poseida por demonio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMwFj_-CEmcMuCMdoju9BXVcqVdqC6lRNhsUEJpFfYqejp8ywVN4vVNlNBmQYjq8HikM99KulOUJCd3hy7axNM2D3MyJU0XhIiTyOyevfTc7xATZAoebq9n3YQel3ATWA7YgZyjIRpAeM/s1600/blackswan121-e1299876153325.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMwFj_-CEmcMuCMdoju9BXVcqVdqC6lRNhsUEJpFfYqejp8ywVN4vVNlNBmQYjq8HikM99KulOUJCd3hy7axNM2D3MyJU0XhIiTyOyevfTc7xATZAoebq9n3YQel3ATWA7YgZyjIRpAeM/s1600/blackswan121-e1299876153325.jpg)
 
-****Alas Negras en la espalda de Lily (interpretado por Mila Kunis), mientras que ella "da placer" a Nina. Las alas negras representan la "fuerza" que está en comunión con Nina. Es penetrante, no solo dándole un orgasmo, sino también tomando su vida.****
+Alas Negras en la espalda de Lily (interpretado por Mila Kunis), mientras que ella "da placer" a Nina. Las alas negras representan la "fuerza" que está en comunión con Nina. Es penetrante, no solo dándole un orgasmo, sino también tomando su vida.
 
   
 
  [![angel caido](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwHjh7ws36x0ksFde5BmeOSaCpS7VEU9z5cINT3ECfE6c2njEryMvznn2tajCmk26xmvbm1E3hq7CWV98vkYnkdRUGTU6mt9qrjGi9i07OTpRqEey0yJ7oVAvIJy5TnXyxBJO_4vq_nfnr/s1600/blackwan81-e1299876209443.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwHjh7ws36x0ksFde5BmeOSaCpS7VEU9z5cINT3ECfE6c2njEryMvznn2tajCmk26xmvbm1E3hq7CWV98vkYnkdRUGTU6mt9qrjGi9i07OTpRqEey0yJ7oVAvIJy5TnXyxBJO_4vq_nfnr/s1600/blackwan81-e1299876209443.jpg)
 
-****Nina al final de su "perfecta" actuación como el Cisne Negro. Ella se muestra brevemente con alas negras, simbolizando que se ha convertido en "uno" con el Cisne Negro.****
+Nina al final de su "perfecta" actuación como el Cisne Negro. Ella se muestra brevemente con alas negras, simbolizando que se ha convertido en "uno" con el Cisne Negro.
 
   
 
@@ -244,7 +244,7 @@ Los espejos son utilizados en la película para reflejar simbólicamente el verd
 
 [![nina fragmentacion de la mente](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0gnieq24_2UkY3L-SfWa6ILwKGSYWqY_fd1I6LjcQ8wJVq3BXE20LD4r6NQrD0SfdS8GJKXPPj4TDzvhhcYIGlW0uHC3fcU0fpO_g6kolUN0bqwhfs92dc8y-H4vnqqsI_0Ad66qSMDFH/s1600/blackwan151-e1299876355247.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0gnieq24_2UkY3L-SfWa6ILwKGSYWqY_fd1I6LjcQ8wJVq3BXE20LD4r6NQrD0SfdS8GJKXPPj4TDzvhhcYIGlW0uHC3fcU0fpO_g6kolUN0bqwhfs92dc8y-H4vnqqsI_0Ad66qSMDFH/s1600/blackwan151-e1299876355247.jpg)
 
-****Justo antes de su gran actuación como el Cisne Negro, Nina lucha contra sí misma en su camerino. Durante la pelea entre Nina y el Cisne Negro, se rompe un espejo, lo que representa el colapso de la frontera psicológica que separa ambas entidades. Al romper el espejo, Nina se convierte en el Cisne Negro.****
+Justo antes de su gran actuación como el Cisne Negro, Nina lucha contra sí misma en su camerino. Durante la pelea entre Nina y el Cisne Negro, se rompe un espejo, lo que representa el colapso de la frontera psicológica que separa ambas entidades. Al romper el espejo, Nina se convierte en el Cisne Negro.
 
   
 
@@ -260,7 +260,7 @@ El proceso, sin embargo, la consume. Al permitir que el Cisne Negro la posea com
 
  [![sacrificio ritual](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJnx6_8fbScgOZsmfcvLw80AND6cIw_Aza-wMf1OwegamTMjzIqHSCK8xre6xWvNnuAEdvaUaSfp85mlQ8dc0j5ehEBtbRfe-rvn75N-iIc81qwmUgmFDcgHbVe40aXhljf71Ntz6mS-qH/s1600/blackswan161-e1299876379822.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJnx6_8fbScgOZsmfcvLw80AND6cIw_Aza-wMf1OwegamTMjzIqHSCK8xre6xWvNnuAEdvaUaSfp85mlQ8dc0j5ehEBtbRfe-rvn75N-iIc81qwmUgmFDcgHbVe40aXhljf71Ntz6mS-qH/s1600/blackswan161-e1299876379822.jpg)
 
-****Niña muere al final de su actuación. Sus últimas palabras a Tomás: "Yo era perfecta".****   
+Niña muere al final de su actuación. Sus últimas palabras a Tomás: "Yo era perfecta".   
   
 
 ¿Esto te recuerda a alguien más?
@@ -269,13 +269,13 @@ El proceso, sin embargo, la consume. Al permitir que el Cisne Negro la posea com
 
 [![lady gaga sangre](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9WtJtMMJoKc11ywzzs0UswIuIhEEHGZO3BbzMznB2OBudHF16hTTV0LQCY_lgrJYrZmJviLnF2w_bDNF0ArKrYf8kBfdT6bsMKXTf5WAc35T2tCxr_QR815Qsc96qGCCZ_gqxkwXnI67d/s1600/lady-gaga-mtv-vmas-2009-500x6001-e1299876405952.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9WtJtMMJoKc11ywzzs0UswIuIhEEHGZO3BbzMznB2OBudHF16hTTV0LQCY_lgrJYrZmJviLnF2w_bDNF0ArKrYf8kBfdT6bsMKXTf5WAc35T2tCxr_QR815Qsc96qGCCZ_gqxkwXnI67d/s1600/lady-gaga-mtv-vmas-2009-500x6001-e1299876405952.jpg)
 
-****Lady Gaga "sacrificándose" en su actuación en los VMA 2009.****  
+Lady Gaga "sacrificándose" en su actuación en los VMA 2009.  
 
 ## Cisnes Negros en la vida real
 
 [![beyonce alter ego](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxNIdy9Rl0Ij5b4vzGAULpxDiDGUwf9476AfHssaSRZXjuQ7Q753y8L4Ek22R6OsunphrwWcX0OjaXCTseUxEy3XCkBne3vqNgWlCZ32svgk_DrCFTgXCjaF0WAGjG5Z_inr4nw-2bJVjk/s1600/bey21-e1299876431815.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxNIdy9Rl0Ij5b4vzGAULpxDiDGUwf9476AfHssaSRZXjuQ7Q753y8L4Ek22R6OsunphrwWcX0OjaXCTseUxEy3XCkBne3vqNgWlCZ32svgk_DrCFTgXCjaF0WAGjG5Z_inr4nw-2bJVjk/s1600/bey21-e1299876431815.jpg)
 
-****Beyoncé y Sasha Fierce, un equivalente de la música pop del Cisne Blanco**** ****y Negro.****
+Beyoncé y Sasha Fierce, un equivalente de la música pop del Cisne Blanco y Negro.
 
   
 
@@ -294,14 +294,14 @@ Un ejemplo reciente de una función de auto-destrucción es el Joker de Heath Le
   
 
 > **Jack Nicholson advirtió a Heath Ledger sobre el papel de 'Joker'  
-> ****Heath Ledger pensó que el exigente papel del Joker fue un sueño hecho realidad - pero ahora algunos piensan que fue una pesadilla que llevaron a su trágica muerte.  
-> ****Jack Nicholson, quien interpretó al Joker en 1989 - y que estaba furioso, porque no fue consultado sobre el papel espeluznante - ofrece un comentario críptico cuando se le dijo que Ledger había muerto.  
-> ****"Bueno", dijo Nicholson a los periodistas en Londres la madrugada del miércoles, "le advertí."  
-> ****Aunque el comentario es ambiguo, no hay duda que el papel en la película destinada como éxito de taquilla de este verano tuvo un final aterrador.  
-> ****Ledger dijo recientemente a la prensa que "dormía un promedio de dos horas por noche" durante la interpretaciòn de "un psicópata, asesino en masa, payaso esquizofrénico con cero empatía ...  
-> ****"No podía dejar de pensar. Mi cuerpo estaba exhausto, y mi mente seguia. "  
-> ****Los medicamentos con receta no ayudan, dijo.  
-> ****\- NY Daily News, [Fuente](http://www.nydailynews.com/news/2008/01/24/2008-01-24_jack_nicholson_warned_heath_ledger_on_jo.html)**
+> Heath Ledger pensó que el exigente papel del Joker fue un sueño hecho realidad - pero ahora algunos piensan que fue una pesadilla que llevaron a su trágica muerte.  
+> Jack Nicholson, quien interpretó al Joker en 1989 - y que estaba furioso, porque no fue consultado sobre el papel espeluznante - ofrece un comentario críptico cuando se le dijo que Ledger había muerto.  
+> "Bueno", dijo Nicholson a los periodistas en Londres la madrugada del miércoles, "le advertí."  
+> Aunque el comentario es ambiguo, no hay duda que el papel en la película destinada como éxito de taquilla de este verano tuvo un final aterrador.  
+> Ledger dijo recientemente a la prensa que "dormía un promedio de dos horas por noche" durante la interpretaciòn de "un psicópata, asesino en masa, payaso esquizofrénico con cero empatía ...  
+> "No podía dejar de pensar. Mi cuerpo estaba exhausto, y mi mente seguia. "  
+> Los medicamentos con receta no ayudan, dijo.  
+> \- NY Daily News, [Fuente](http://www.nydailynews.com/news/2008/01/24/2008-01-24_jack_nicholson_warned_heath_ledger_on_jo.html)**
 
   
   
@@ -313,7 +313,7 @@ Otro ejemplo de un actor que muere en misteriosas circunstancias después de jug
 
 [![el cuervo sacrificio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyfbnBByn4u_0qzqIkEiCnr3jzUGaCqKDVoMcPaamN9mqRHT0YU1XGwTKPCVd_VpY5ly1dXT9xAVZBeQESfzjBSMen6kTFj_I4nQBwTZuNSnrz59GInmGfJuFV4YW593n6jVEsfAQ31Ukf/s1600/Brandon-Lee-In-The-Crow1-e1299876462474.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyfbnBByn4u_0qzqIkEiCnr3jzUGaCqKDVoMcPaamN9mqRHT0YU1XGwTKPCVd_VpY5ly1dXT9xAVZBeQESfzjBSMen6kTFj_I4nQBwTZuNSnrz59GInmGfJuFV4YW593n6jVEsfAQ31Ukf/s1600/Brandon-Lee-In-The-Crow1-e1299876462474.jpg)
 
-****Brandon Lee murió misteriosamente durante el rodaje de El Cuervo. La historia oficial de su muerte sigue siendo muy discutido. La escena en la que murió fue muy simbólico.****
+Brandon Lee murió misteriosamente durante el rodaje de El Cuervo. La historia oficial de su muerte sigue siendo muy discutido. La escena en la que murió fue muy simbólico.
 
   
 

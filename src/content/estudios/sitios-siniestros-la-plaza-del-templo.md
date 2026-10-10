@@ -136,7 +136,7 @@ Estos dos pentagramas aparecen en la entrada del Museo de la historia y arte de 
 > "En el simbolismo, una figura invertida siempre significa una gran fuerza conquistadora. La persona promedio ni siquiera sospecha las propiedades ocultas del los emblemáticos pentáculos."  
 > \-Manly p. Hall, las enseñanzas secretas de todas las edades
 
-**El pentagrama en un círculo a la izquierda es especialmente significativo ya que se utiliza en rituales de magia negra.  
+El pentagrama en un círculo a la izquierda es especialmente significativo ya que se utiliza en rituales de magia negra.  
 
 > **"El mago negro no puede utilizar los símbolos de la magia blanca sin traer sobre sí las fuerzas de la magia blanca, que sería fatal para sus planes. Por lo tanto él debe distorsionar los hierogramas por lo que tipifica el hecho oculto de que él mismo está distorsionando los principios por los que se destacan los símbolos. La magia negra no es un arte fundamental; es el mal uso de un arte. Por lo tanto no tiene símbolos propios. Simplemente toma las figuras emblemáticas de la magia blanca y por la inversión y la reversión les dan un significado que es lo contrario.**
 > 
@@ -186,7 +186,7 @@ La punta inferior del pentagrama es alargado. Este detalle que pasa desapercibid
 
 > "Cuando se gira la estrella en posición vertical y la punta superior corresponde a la parte inferior, significa la caída de la estrella de la mañana".-Manly p. Hall, las enseñanzas secretas de todas las edades
 
-**Después de establecer este hecho, se puede solucionar fácilmente el enigma de la luz y la sombra. Lucifer, el portador de la luz, se considera la fuente de luz del universo. La figura que representa Jesucristo bloquea la fuente de luz en la Tierra y por tanto lo que significa que el cristianismo tiene un efecto de oscurecimiento en la humanidad. Así que esta configuración, que al parecer celebra la venida de Cristo sobre la Tierra representa en realidad todo lo contrario.
+Después de establecer este hecho, se puede solucionar fácilmente el enigma de la luz y la sombra. Lucifer, el portador de la luz, se considera la fuente de luz del universo. La figura que representa Jesucristo bloquea la fuente de luz en la Tierra y por tanto lo que significa que el cristianismo tiene un efecto de oscurecimiento en la humanidad. Así que esta configuración, que al parecer celebra la venida de Cristo sobre la Tierra representa en realidad todo lo contrario.
 
   
 
@@ -212,7 +212,7 @@ Otra característica extraña del centro de visitantes es la disposición anteri
 
 > 1 - El hombre se unió a Eva, su mujer, y ella concibió y dio a luz a Caín. Entonces dijo: "He procreado un varón, con la ayuda del Señor".2 - Más tarde dio a luz a Abel, el hermano de Caín, Abel fue pastor de ovejas y Caín agricultor.3 - Al cabo de un tiempo, Caín presentó como ofrenda al Señor algunos frutos del suelo,4 - mientras que Abel le ofreció las primicias y lo mejor de su rebaño. El Señor miró con agrado a Abel y su ofrenda,5 - pero no miró a Caín ni su ofrenda. Caín se mostró muy resentido y agachó la cabeza.6 - El Señor le dijo: "¿Por qué estás resentido y tienes la cabeza baja?7 - Si obras bien podrás mantenerla erguida; si obras mal, el pecado está agazapado a la puerta y te acecha, pero tú debes dominarlo".8 - Caín dijo a su hermano Abel: "Vamos afuera". Y cuando estuvieron en el campo, se abalanzó sobre su hermano y lo mató.-Génesis, capítulo IV
 
-**Para resumir la historia, Caín y Abel fueron los hijos de Adán y Eva. Abel estuvo a cargo de las ovejas, mientras que Caín tomó el cuidado de la tierra. Cuando llegó el momento para dar ofrendas a Dios, Abel mató a un cordero en sacrificio mientras que Caín dio los frutos de la tierra. Dios acepto el regalo de Abel pero rechazo los frutos de Cain (la razón para esto es confusa). Caín entonces cayó en tentación y, en definitiva, mató a su hermano.  
+Para resumir la historia, Caín y Abel fueron los hijos de Adán y Eva. Abel estuvo a cargo de las ovejas, mientras que Caín tomó el cuidado de la tierra. Cuando llegó el momento para dar ofrendas a Dios, Abel mató a un cordero en sacrificio mientras que Caín dio los frutos de la tierra. Dios acepto el regalo de Abel pero rechazo los frutos de Cain (la razón para esto es confusa). Caín entonces cayó en tentación y, en definitiva, mató a su hermano.  
   
 La escultura muestra a la iglesia Mormona retratando a Adán y Eva ofreciendo fruta a Dios mientras un cordero (regalo de Abel) se sienta allí vivo y disfrutando de su estado no sacrificado. Uno no puede dejar de preguntarse: ¿Qué representa esta pieza si no es una sensación de resentimiento (incluso un desafío) hacia un Dios cruel e injusto? ¿Por qué nos retratan la ofrenda de Caín, que fue rechazada por Dios? El significado de esta disposición cae justo en las creencias de los luciferianos, que ven a Dios como un tirano testarudo. Las figuras bíblicas y mitológicas que desafían a Dios se celebran por la doctrina luciferiana. Lucifer, el portador de la luz se considera el oculto Salvador de la humanidad que trajo el regalo de la piedad a los seres humanos.
 

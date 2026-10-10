@@ -70,7 +70,7 @@ Bacon fue el jefe de una sociedad secreta que incluía a los más brillantes int
 Bacon, orquestó el asentamiento de una red de sociedades secretas en Estados Unidos.  
   
 
-> **"Los alquimistas, cabalistas, místicos, y los Rosacruces eran los instrumentos incisivos del plan de Bacon. Los representantes de estos grupos emigraron a las colonias en una fecha temprana y establecieron su organización en los lugares adecuados."****"Las cofradías se reunieron en habitaciones similares a edificios públicos, practicaron sus rituales exactamente de acuerdo a la moda en Europa y en Inglaterra."**
+> **"Los alquimistas, cabalistas, místicos, y los Rosacruces eran los instrumentos incisivos del plan de Bacon. Los representantes de estos grupos emigraron a las colonias en una fecha temprana y establecieron su organización en los lugares adecuados.""Las cofradías se reunieron en habitaciones similares a edificios públicos, practicaron sus rituales exactamente de acuerdo a la moda en Europa y en Inglaterra."**
 
   
 La Guerra de la Independencia es un ejemplo perfecto de la "revolución popular", siendo realmente nada de eso.  

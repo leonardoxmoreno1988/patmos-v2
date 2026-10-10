@@ -32,7 +32,7 @@ Sobre esto, Elon Musk responde:
 
 > "Jesús enseño amor, amabilidad y perdón. Solía pensar que dar la otra mejilla era débil y tonto, pero yo era el tonto por no apreciar su profunda sabiduría."
 
-**Tales publicaciones llegan a ser relevantes al sumar casi 160 millones de seguidores entre las dos cuentas. Fans y seguidores de diferentes edades y confesiones religiosas.  
+Tales publicaciones llegan a ser relevantes al sumar casi 160 millones de seguidores entre las dos cuentas. Fans y seguidores de diferentes edades y confesiones religiosas.  
   
 Kanye West ha abordado sus batallas respecto a su [salud mental](https://elpais.com/gente/2020-07-24/la-salud-mental-de-kanye-west-deja-en-suspenso-su-futuro.html). Pero nuevamente resurgió en los titulares por una serie de comentarios racistas y antisemitas en las redes sociales, que finalmente llevaron a la cancelación de su cuenta de Twitter hace dos días.  
   
@@ -60,7 +60,7 @@ En toda esta escena de falsos cristos raelianos, falsos profetas, antisemitismo 
 
 > “Porque como el Padre tiene vida en sí mismo, así también ha dado al Hijo el tener vida en sí mismo; y también le dio autoridad de hacer juicio, por cuanto es el Hijo del Hombre".
 
-**La posición de Jesucristo en el universo es de relevancia clave en las Escrituras, Él tiene vida en sí mismo, sin las diversas dependencias que atraviesa cualquier otro mortal.  
+La posición de Jesucristo en el universo es de relevancia clave en las Escrituras, Él tiene vida en sí mismo, sin las diversas dependencias que atraviesa cualquier otro mortal.  
   
 En algún momento de la eternidad, Dios otorgo a Cristo la capacidad de ser igual a Él y tener la autoridad para traer el juicio sobre el mundo rebelde y su sistema de autodestrucción babilónico.  
   

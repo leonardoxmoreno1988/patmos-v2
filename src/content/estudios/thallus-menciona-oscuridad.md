@@ -51,7 +51,7 @@ Ni Plinio ni Séneca vivieron en Judea o cerca de Judea durante la época de Jes
 
 > “También se producen eclipses de sol inusualmente largos y portentosos, como cuando el César, el dictador, fue asesinado; y en la guerra contra Antonio, el sol permaneció oscuro durante casi un año”.
 
-**Esto no es lo que llamarías una historia muy completa de extraños períodos de oscuridad en todo el Imperio Romano. Los críticos exageran el caso aquí.  
+Esto no es lo que llamarías una historia muy completa de extraños períodos de oscuridad en todo el Imperio Romano. Los críticos exageran el caso aquí.  
   
 
 ## ¿Realmente Guardaron Silencio Los Historiadores Sobre La Oscuridad Durante La Crucifixión?
@@ -62,7 +62,7 @@ Hay un oscuro historiador romano del primer siglo llamado Thallus. Como muchos h
 
 > "En todo el mundo hubo una oscuridad terrible, y las rocas se partieron por un terremoto, y muchos lugares en Judea y otros lugares quedaron destruidos. Thallus, en el tercer libro de sus historias, explica la oscuridad como un eclipse de Sol, lo cual me parece irrazonable".
 
-**Julius argumentó que habría sido físicamente imposible debido al momento. Muchos eruditos están de acuerdo en que Thallus estaba escribiendo en los años 50, por lo que esta sería la primera referencia a Jesús fuera del Nuevo Testamento y antes de que Marcos sea fechado tradicionalmente.
+Julius argumentó que habría sido físicamente imposible debido al momento. Muchos eruditos están de acuerdo en que Thallus estaba escribiendo en los años 50, por lo que esta sería la primera referencia a Jesús fuera del Nuevo Testamento y antes de que Marcos sea fechado tradicionalmente.
 
   
 
@@ -86,11 +86,11 @@ Además, ¿por qué Julius Africanus argumentó que Thallus interpreta erróneam
 
 > “Si Thallus hubiera estado escribiendo simplemente como un cronógrafo que menciona un eclipse que ocurrió en el decimoquinto año del reinado de Tiberio, Julius Africanus no habría dicho que estaba equivocado, sino que lo habría usado como evidencia para confirmar la tradición cristiana." (Jesús el Nazareno, págs. 91-92)
 
-**Tertuliano, escribiendo en 197 d.C., también dice que este evento estaba en los archivos romanos. ¿Podría haberse referido a los escritos de Thallus? Es una pregunta interesante. Tertuliano escribió:  
+Tertuliano, escribiendo en 197 d.C., también dice que este evento estaba en los archivos romanos. ¿Podría haberse referido a los escritos de Thallus? Es una pregunta interesante. Tertuliano escribió:  
 
 > “Y sin embargo, clavado en la cruz, exhibió muchas señales notables, por las cuales su muerte se distinguió de todas las demás. Por su propia voluntad, Él con una palabra apartó de Él Su espíritu, anticipándose a la obra del verdugo. A la misma hora, también, se retiró la luz del día, cuando el sol en ese mismo momento estaba en su resplandor meridiano. Aquellos que no sabían que esto había sido predicho acerca de Cristo, sin duda pensaron que era un eclipse. Ustedes mismos tienen el relato del mundo presagiado todavía en sus archivos".
 
-**Tertuliano menciona a Thallus por su nombre en la misma obra. Se necesitan coraje o mucha estupidez para desafiar a los escépticos a buscar en los archivos para corroborar este evento si no sucedió.  
+Tertuliano menciona a Thallus por su nombre en la misma obra. Se necesitan coraje o mucha estupidez para desafiar a los escépticos a buscar en los archivos para corroborar este evento si no sucedió.  
   
 Por estas razones, parece más probable que el comentario de Thallus pueda tomarse como la evidencia más antigua que tenemos de Jesús fuera del Nuevo Testamento. Y es una confirmación temprana de algo que sucedió durante la crucifixión de Jesús.  
   

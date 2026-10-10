@@ -24,7 +24,7 @@ El Capitolio es visto por el estadounidense promedio como el asiento de la democ
 El Capitolio, al igual que todo Washington DC, ha sido casi totalmente diseñado por los masones e integra dentro de su arquitectura y obras de arte las "claves de la masonería".  
   
 
-> **"El Capitolio de los Estados Unidos, en Washington, D.C., fue la creación de una sucesión de arquitectos que eran casi todos masones. Originalmente diseñado por William Thornton (1759-1828), el trabajo fue completado por el hermano Benjamin Latrobe (un alumno del arquitecto inglés Samuel Pepys Cockerell, 1754-1827) que también lo rediseñó después de la Guerra de 1812. Las alas flanqueantes y las grandes cúpulas** **fueron agregados más adelante por el hermano Thomas Ustick Walter." - phoenixmasonry.org**
+> **"El Capitolio de los Estados Unidos, en Washington, D.C., fue la creación de una sucesión de arquitectos que eran casi todos masones. Originalmente diseñado por William Thornton (1759-1828), el trabajo fue completado por el hermano Benjamin Latrobe (un alumno del arquitecto inglés Samuel Pepys Cockerell, 1754-1827) que también lo rediseñó después de la Guerra de 1812. Las alas flanqueantes y las grandes cúpulas fueron agregados más adelante por el hermano Thomas Ustick Walter." - phoenixmasonry.org**
 
   
   
@@ -33,7 +33,7 @@ El Capitolio, al igual que todo Washington DC, ha sido casi totalmente diseñado
 
 **La colocación de la piedra angular por Washington en traje masónico.**
 
-> **"La piedra angular del edificio del Capitolio de los EE.UU. fue colocada con honores masónicos el 18 de septiembre de 1793 bajo los auspicios de la Gran Logia de Maryland. En la ceremonia, presidió el presidente George Washington. Worshipful Brother Washington fue asistido por R.W. Bro. Joseph Clarke, Gran Maestro Pro. Tem De Maryland, Wor. Elisha C. Dick, Maestro de Alejandría Logía No. 22 de Virginia (casa de Washington Lodge) y Wor. Valentine Reintzel, Maestro de la Logia No. 9 de Maryland (ahora Potomac Lodge No. 5 del Distrito de Colombia)."****\-Ibid.**
+> **"La piedra angular del edificio del Capitolio de los EE.UU. fue colocada con honores masónicos el 18 de septiembre de 1793 bajo los auspicios de la Gran Logia de Maryland. En la ceremonia, presidió el presidente George Washington. Worshipful Brother Washington fue asistido por R.W. Bro. Joseph Clarke, Gran Maestro Pro. Tem De Maryland, Wor. Elisha C. Dick, Maestro de Alejandría Logía No. 22 de Virginia (casa de Washington Lodge) y Wor. Valentine Reintzel, Maestro de la Logia No. 9 de Maryland (ahora Potomac Lodge No. 5 del Distrito de Colombia)."\-Ibid.**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEgsLGGqyvY7_jtKcJvcuOkiTE6KZZjAHpDnv5U8zzMw8xJjrP_NmAeN5xbUsB6TX6tpcd3dwy8X01wP2QRsNjirB4qSgykl3Z3u5HnOcFJy94m3rzshdHSlmPmyUj7-R2KgPiL7n3Jao/s1600/g-washington-mason.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEgsLGGqyvY7_jtKcJvcuOkiTE6KZZjAHpDnv5U8zzMw8xJjrP_NmAeN5xbUsB6TX6tpcd3dwy8X01wP2QRsNjirB4qSgykl3Z3u5HnOcFJy94m3rzshdHSlmPmyUj7-R2KgPiL7n3Jao/s1600/g-washington-mason.jpg)
 

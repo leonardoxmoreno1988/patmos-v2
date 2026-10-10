@@ -19,7 +19,7 @@ tags: ["Apologética"]
   
 
 > **“He aquí yo os envío como ovejas en medio de lobos; sed, pues, astutos como serpientes, y sencillos como palomas”  
-> ****\-Mateo 10:16**
+> \-Mateo 10:16**
 
 Por muchos años las serpientes fueron usadas por muchas culturas, algunas para representar a sus dioses paganos y su vínculo con el conocimiento “secreto”. Esto por supuesto no debe sorprendernos ya que la misma serpiente del Edén le ofrece a Eva “el conocimiento del bien y del mal”. Una aptitud que no se le podría negar a la serpiente es que es sabia, astuta, y posee una gran fascinación por crear estrategias y trampas para evitar que la gente conozca de Dios. Es en esta forma de reptil que Lucifer engaño a muchos y continúa haciéndolo.  
   
@@ -28,7 +28,7 @@ Pero, ¿Qué de bueno tendría una serpiente? Tomando la raíz de la expresión 
 Otra actitud que Jesús requería de sus discípulos era conocer las estrategias del enemigo. Al decirles ser “astutos como serpientes” hacia una referencia directa a “manténgase alertas de lo que hacen las serpientes”. Esto también lo podemos ver en 2 Corintios:  
 
 > **“Para que Satanás no gane ventaja alguna sobre nosotros; pues no ignoramos sus maquinaciones.”  
-> ****\- Corintios 2:11**
+> \- Corintios 2:11**
 
 Esto toma más sentido cuando leemos las palabras previas “He aquí yo os envío como ovejas en medio de lobos…”. Una persona ignorante de las maquinaciones del enemigo dejaría de ser prudente, no podría ser cautelosa y debido a su divagancia otros serían más astutas. La única forma de movernos en medio de los lobos –ganando ventaja- es actuando con sabiduría y reconociendo en que lugar estamos. Solo conociendo el territorio completo podremos saber qué área le pertenece a Satanás y cual a Dios. El conocimiento sobre los planes de la serpiente no nos vuelve parte de este, sino nos da la oportunidad de ser cautelosos como el enemigo y anticipar sus movimientos. Esto estrictamente bajo las enseñanzas de Cristo y la dirección de la Palabra de Dios.  
   

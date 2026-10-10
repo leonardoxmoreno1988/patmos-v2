@@ -22,7 +22,7 @@ Uno de los versos más confusos en el **Nuevo Testamento** que a menudo se tuerc
 Jesús les respondió:  
   
 
-> **"¿Y no está escrito en la ley de ustedes: “Yo dije, ustedes son dioses”? Si se llamó dioses a aquellos a quienes vino la palabra de Dios (y la Escritura no puede ser quebrantada), ¿ustedes dicen “Tú blasfemas” a quien el Padre santificó y envió al mundo, sólo porque dije: “Hijo de Dios soy?****”**  
+> **"¿Y no está escrito en la ley de ustedes: “Yo dije, ustedes son dioses”? Si se llamó dioses a aquellos a quienes vino la palabra de Dios (y la Escritura no puede ser quebrantada), ¿ustedes dicen “Tú blasfemas” a quien el Padre santificó y envió al mundo, sólo porque dije: “Hijo de Dios soy?”**  
 >  **- Juan 10: 31-36**
 
   
@@ -59,7 +59,7 @@ En este artículo vamos a responder a algunas preguntas:
 Mientras algunos especulan que este versículo podría estar refiriéndose a la nación entera de Israel, ángeles / elohim inferiores, o los dioses falsos de las naciones paganas, la opinión más generalmente aceptada es que el salmista estaba escribiendo a los jueces terrenales, y veremos que esto es verdad cuando leemos el Salmo 82: 6 en su contexto:  
   
 
-> **"Dios preside el consejo celestial;entre los dioses dicta sentencia: «¿Hasta cuándo defenderán la injusticia y favorecerán a los impíos? Selah, Defiendan la causa del huérfano y del desvalido;al pobre y al oprimido háganles justicia. Salven al menesteroso y al necesitado; líbrenlos de la mano de los impíos. »Ellos no saben nada, no entienden nada. Deambulan en la oscuridad;se estremecen todos los cimientos de la tierra. »Yo les he dicho: “Ustedes son dioses;todos ustedes son hijos del Altísimo”. Pero morirán como cualquier mortal;caerán como cualquier otro gobernante». Levántate, oh Dios, y juzga a la tierra,pues tuyas son todas las naciones."****\- Salmo 82: 1-8**
+> **"Dios preside el consejo celestial;entre los dioses dicta sentencia: «¿Hasta cuándo defenderán la injusticia y favorecerán a los impíos? Selah, Defiendan la causa del huérfano y del desvalido;al pobre y al oprimido háganles justicia. Salven al menesteroso y al necesitado; líbrenlos de la mano de los impíos. »Ellos no saben nada, no entienden nada. Deambulan en la oscuridad;se estremecen todos los cimientos de la tierra. »Yo les he dicho: “Ustedes son dioses;todos ustedes son hijos del Altísimo”. Pero morirán como cualquier mortal;caerán como cualquier otro gobernante». Levántate, oh Dios, y juzga a la tierra,pues tuyas son todas las naciones."\- Salmo 82: 1-8**
 
   
 Observe cómo en los versículos 2, 3 y 4 Dios les está diciendo que hagan un mejor trabajo restaurando la justicia en la tierra. Juzguen justamente, den justicia a los débiles, mantengan el derecho de los afligidos. Para alguien que quiere decir este versículo se refiere a toda la humanidad, la persona promedio no tiene la autoridad para mantener los derechos de otra persona. Esa es una función legal y judicial, que es el trabajo de los jueces, reyes y magistrados.  

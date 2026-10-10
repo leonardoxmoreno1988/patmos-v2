@@ -17,7 +17,7 @@ tags: ["Cine y Cultura"]
   
 Según narra la historia, en Julio de 1959 el Papa Juan XXIII sostuvo un encuentro cercano del tercer tipo en uno de sus paseos por los jardines de Castel Gandolfo. ¿Qué relación existe entre el Vaticano, Hollywood y el **fenómeno OVNI**? Veamos la tercera parte de la farsa extraterrestre y el porque de la nueva filosofía religiosa.  
 
-****[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRdf2Z76Y6uyBnyrETAdZouCzzk64o8CgYhMwQ7xgxTnSs78nCTwKKzBLGhiMCatxgsmtXXPPDfq3JWmUunMm5wE75OxTEedN_pyBNSvQw_9eyv6qRhUB2QorO_pjjxWhrhz8Rq7P8vT0/s1600/fe3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRdf2Z76Y6uyBnyrETAdZouCzzk64o8CgYhMwQ7xgxTnSs78nCTwKKzBLGhiMCatxgsmtXXPPDfq3JWmUunMm5wE75OxTEedN_pyBNSvQw_9eyv6qRhUB2QorO_pjjxWhrhz8Rq7P8vT0/s1600/fe3.jpg)****
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRdf2Z76Y6uyBnyrETAdZouCzzk64o8CgYhMwQ7xgxTnSs78nCTwKKzBLGhiMCatxgsmtXXPPDfq3JWmUunMm5wE75OxTEedN_pyBNSvQw_9eyv6qRhUB2QorO_pjjxWhrhz8Rq7P8vT0/s1600/fe3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRdf2Z76Y6uyBnyrETAdZouCzzk64o8CgYhMwQ7xgxTnSs78nCTwKKzBLGhiMCatxgsmtXXPPDfq3JWmUunMm5wE75OxTEedN_pyBNSvQw_9eyv6qRhUB2QorO_pjjxWhrhz8Rq7P8vT0/s1600/fe3.jpg)
 
 Durante los últimos años no ha habido tema tan aludido por la Iglesia Católica Romana como fue el de los extraterrestres y su conciliación con la fe cristiana. Muchas de sus conclusiones han dejado sorprendidos incluso a los católicos más eruditos, quienes no han pensado dos veces en aplaudir estas modernas revelaciones "científicas" a cargo de la Santa Sede. Personajes como el Monseñor Conrado Balducci o el jesuita José Gabriel Funes, director actual del Observatorio Vaticano, se han pronunciado sobre este tabú filosófico solo con el fin de romper dogmas y abrir esta posibilidad de que no estamos solos en el universo. Por otro lado, cuando uno conoce los verdaderos objetivos detrás del trono de San Pedro, encontraremos intereses acordes a lo ya mencionado en la Parte I y Parte II de este complejo artículo, una programación predictiva que sugiere el próximo escenario a gran escala. A continuación, solo algunos de los tantos profetas que prepararon y preparan la venida del falso mesías cósmico.
 
@@ -34,7 +34,7 @@ Uno de los relatos que han repercutido en la temática OVNIs/Vaticano, incluyen 
 >   
 > Rezamos y cuando levantamos nuestras cabezas, el ser todavía estaba allí. Esto nos comprobó que no era una visión lo que vimos. El Santo Padre se levantó y caminó hacia el ser.
 
-> **[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD6iSZqregRLHQ79e7VSZC5js8AWHuI8-mmxi6b7FSvi_1LJsj18f3tQvcv8fYsPs4ElEWxDlE_am0JNzATNooxgR4jY3MS2nVjbDR7k_MtecQ1APIC6Fn9ovAAHNDJp8vwzxLk74lc_c/s1600/juan+xxiii+contacto+extraterrestre.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD6iSZqregRLHQ79e7VSZC5js8AWHuI8-mmxi6b7FSvi_1LJsj18f3tQvcv8fYsPs4ElEWxDlE_am0JNzATNooxgR4jY3MS2nVjbDR7k_MtecQ1APIC6Fn9ovAAHNDJp8vwzxLk74lc_c/s1600/juan+xxiii+contacto+extraterrestre.jpg)  
+> [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD6iSZqregRLHQ79e7VSZC5js8AWHuI8-mmxi6b7FSvi_1LJsj18f3tQvcv8fYsPs4ElEWxDlE_am0JNzATNooxgR4jY3MS2nVjbDR7k_MtecQ1APIC6Fn9ovAAHNDJp8vwzxLk74lc_c/s1600/juan+xxiii+contacto+extraterrestre.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD6iSZqregRLHQ79e7VSZC5js8AWHuI8-mmxi6b7FSvi_1LJsj18f3tQvcv8fYsPs4ElEWxDlE_am0JNzATNooxgR4jY3MS2nVjbDR7k_MtecQ1APIC6Fn9ovAAHNDJp8vwzxLk74lc_c/s1600/juan+xxiii+contacto+extraterrestre.jpg)  
 > Los dos estuvieron alrededor de 20 minutos uno frente al otro; se los veía gesticular como si hablaran, pero no se sentían sonidos de voces. Ellos no me llamaron, por lo que permanecí donde estaba y no pude oír nada de lo que hablaron.  
 >   
 > Luego, el ser se dio la vuelta y caminó hacia su nave y enseguida se elevó. Su Santidad dio media vuelta hacia mi y me dijo:  
@@ -43,7 +43,7 @@ Uno de los relatos que han repercutido en la temática OVNIs/Vaticano, incluyen 
 >   
 > Juan XXIII nunca quiso contarme lo que hablaron en esa experiencia; después que el ser extraterrestre retornó a su nave y despegó, el Papa y yo continuamos nuestro paseo como si nada hubiese pasado."  
 >   
-> Loris Francesco Copovilla Secretario personal del Papa Juan XXIII Diario "The Sun" 1985**  
+> Loris Francesco Copovilla Secretario personal del Papa Juan XXIII Diario "The Sun" 1985  
 
 Si esta historia es real o no, tuvo repercusión el los medios y es usada por muchas personas para ratificar la presencia de "hermanos siderales" --por que no, cristianos(?)-- como seres incluidos en la creación de Dios. Pero a todo esto, ¿Quién fue el Papa Juan XXIII? Entre uno de sus mayores méritos asignados se encuentra la convocación del Concilio Vaticano II, el cuál fue uno de los mayores acontecimientos de la Iglesia Católica en la era moderna. Este a su vez fue uno de los eventos ecuménicos más grandes de la historia de Roma, en este concilio se reunieron diversos líderes de diferentes denominaciones cristianas y etnias, dando paso a un tiempo nuevo de "unidad" entre creyentes. Si usted no lo sabe, el ecumenismo es una herramienta satánica que es y será usada para traer la nueva religión mundial del anticristo. No es una casualidad que el mencionado Papa envuelto con el contacto [OVNI](https://www.ritualypropaganda.com/2017/02/las-propiedades-extra-dimensionales-de.html) sea el que convoque esta unificación entre iglesias. La Iglesia católica, a través del Concilio Vaticano II, estableció, entre otros puntos los siguientes:  
 
@@ -53,7 +53,7 @@ Si esta historia es real o no, tuvo repercusión el los medios y es usada por mu
 -   Los católicos, en su acción ecuménica, deben, sin duda, preocuparse de los hermanos separados, orando con ellos, tratando con ellos de las cosas de la Iglesia y adelantándose a su encuentro (Decreto Unitatis redintegratio 4).
 -   Es necesario que los católicos reconozcan con gozo y aprecien los bienes verdaderamente cristianos, procedentes del patrimonio común, que se encuentran entre los hermanos separados (Decreto Unitatis redintegratio 4).
 
-****[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0HBUE9M1dYO-wNmieG6j9RG68vv8_JgI2MRWmwLIue527nyo6wWaVXGyBQXpxR_SYoh_pXuGH2h5clqxf8zFBGIirogCgz9KNk_NDC1axOyun8FaxVBcJSDrJGfDK3f6MYC-m53Riy7I/s1600/ECUMENISMO.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0HBUE9M1dYO-wNmieG6j9RG68vv8_JgI2MRWmwLIue527nyo6wWaVXGyBQXpxR_SYoh_pXuGH2h5clqxf8zFBGIirogCgz9KNk_NDC1axOyun8FaxVBcJSDrJGfDK3f6MYC-m53Riy7I/s1600/ECUMENISMO.jpg)****
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0HBUE9M1dYO-wNmieG6j9RG68vv8_JgI2MRWmwLIue527nyo6wWaVXGyBQXpxR_SYoh_pXuGH2h5clqxf8zFBGIirogCgz9KNk_NDC1axOyun8FaxVBcJSDrJGfDK3f6MYC-m53Riy7I/s1600/ECUMENISMO.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0HBUE9M1dYO-wNmieG6j9RG68vv8_JgI2MRWmwLIue527nyo6wWaVXGyBQXpxR_SYoh_pXuGH2h5clqxf8zFBGIirogCgz9KNk_NDC1axOyun8FaxVBcJSDrJGfDK3f6MYC-m53Riy7I/s1600/ECUMENISMO.jpg)
 
 **Juan Pablo II junto a diferentes líderes religiosos en el "Primer Encuentro Inter Religioso de Oración por la Paz" (1986).**
 
@@ -66,7 +66,7 @@ Si deseas comprender el papel del Vaticano y el movimiento ecuménico recomiendo
 
 El Monseñor Corrado Balducci, ufólogo oficial del Vaticano, teólogo, demonólogo y uno de los mayores exorcistas del Vaticano fue una figura llamativa hace algunos años (antes de su muerte en 2008) sobre el contacto extraterrestre.
 
-****[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisU6qypMi3zpI0Gb9S1iVmj8unnilId0JFf7kGkMeRYUrinQLfJFwG5dyqETBhOTvZVPcntsHHwvqBlMXxF3HCjB4aBWnOS4r25qhOYapylELxT7SGN6QqlcF4PXaPEklCafnaoiKqX70/s400/Bald1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisU6qypMi3zpI0Gb9S1iVmj8unnilId0JFf7kGkMeRYUrinQLfJFwG5dyqETBhOTvZVPcntsHHwvqBlMXxF3HCjB4aBWnOS4r25qhOYapylELxT7SGN6QqlcF4PXaPEklCafnaoiKqX70/s1600/Bald1.jpg)****
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisU6qypMi3zpI0Gb9S1iVmj8unnilId0JFf7kGkMeRYUrinQLfJFwG5dyqETBhOTvZVPcntsHHwvqBlMXxF3HCjB4aBWnOS4r25qhOYapylELxT7SGN6QqlcF4PXaPEklCafnaoiKqX70/s400/Bald1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisU6qypMi3zpI0Gb9S1iVmj8unnilId0JFf7kGkMeRYUrinQLfJFwG5dyqETBhOTvZVPcntsHHwvqBlMXxF3HCjB4aBWnOS4r25qhOYapylELxT7SGN6QqlcF4PXaPEklCafnaoiKqX70/s1600/Bald1.jpg)
 
 **Monsignor Corrado Balducci**
 
@@ -76,7 +76,7 @@ Balducci en diversas entrevistas aseguraba que el contacto extraterrestre era re
 
 > "Es probable que existan otros seres, lo que no sería extraño, entre la naturaleza humana y la angelical (preternatural), de las cuales tenemos certeza teológica, aunque hay una discrepancia muy grande al respecto (?) Y aparte del hombre, cuyo espíritu está subordinado a la materia, y los ángeles que sólo son espíritu, es probable que existan seres que tengan espíritu además de cuerpo y materia, de modo similar a nosotros. Es posible que exista aquello que denominamos OVNIs, así como pueden existir las personas que aparecen junto a estas naves, las cuales no sólo tendrían ciencia sino además una habilidad natural superior a la nuestra."
 
-**Es interesante como el Monseñor Balducci resalta la naturaleza física de estas entidades, asegurando que poseen un cuerpo y un espíritu al igual que nosotros. En una máxima muestra de ironía, al mayor demonólogo del Vaticano, con un libro titulado "El Diablo Existe y como reconocerlo", no se le ocurre pensar que estas manifestaciones pueden ser demonios en un elaborado disfraz. ¿Por qué evitar esta conclusión? Hablar sobre la verdad espiritual de este fenómenos impediría que pudiera estrechar sus conclusiones con otros ufólogos e investigadores seculares. Entre ellos, el masón y arqueólogo Zecharia Sitchin.
+Es interesante como el Monseñor Balducci resalta la naturaleza física de estas entidades, asegurando que poseen un cuerpo y un espíritu al igual que nosotros. En una máxima muestra de ironía, al mayor demonólogo del Vaticano, con un libro titulado "El Diablo Existe y como reconocerlo", no se le ocurre pensar que estas manifestaciones pueden ser demonios en un elaborado disfraz. ¿Por qué evitar esta conclusión? Hablar sobre la verdad espiritual de este fenómenos impediría que pudiera estrechar sus conclusiones con otros ufólogos e investigadores seculares. Entre ellos, el masón y arqueólogo Zecharia Sitchin.
 
   
 

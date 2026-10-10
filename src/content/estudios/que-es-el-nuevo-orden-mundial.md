@@ -39,9 +39,9 @@ El escritor británico y futurista HG Wells fue más allá en la década de 1940
 Años más tarde, en su discurso titulado "Hacia un nuevo orden mundial", emitido el 11 de septiembre de 1990, el presidente George H. W. Bush describió sus objetivos para el gobierno de la post Guerra Fría en cooperación con los estados post soviéticos. Él afirmó:  
   
 
-> **"Tenemos ante nosotros la mayor oportunidad de forjar para nosotros y las futuras generaciones, un nuevo orden mundial. Un mundo que sea gobernado por la ley, y no por la ley de la jungla que gobierna la conducta de las naciones. Cuando lo consigamos, y lo vamos a conseguir, tenemos una oportunidad para este nuevo orden mundial. Un orden, en el cual una “confiable” organización de las Naciones Unidas, puede desenvolver su rol para mantener la paz, y cumplir la promesa y la visión de los fundadores de la ONU…"  
+> "Tenemos ante nosotros la mayor oportunidad de forjar para nosotros y las futuras generaciones, un nuevo orden mundial. Un mundo que sea gobernado por la ley, y no por la ley de la jungla que gobierna la conducta de las naciones. Cuando lo consigamos, y lo vamos a conseguir, tenemos una oportunidad para este nuevo orden mundial. Un orden, en el cual una “confiable” organización de las Naciones Unidas, puede desenvolver su rol para mantener la paz, y cumplir la promesa y la visión de los fundadores de la ONU…"  
 >   
-> \- George Bush, 11 de Septiembre de 1990.**
+> \- George Bush, 11 de Septiembre de 1990.
 
   
 En los años siguientes muchos presidentes, personajes políticos y líderes religiosos utilizaron el término en un contexto para una reforma mundial y el final de los problemas mundiales. En un **[conferencia en Washington](https://www.youtube.com/watch?v=gJDwUHE5x90)**, Bill Clinton recordó a los norteamericanos el plan a largo plazo del que George H. W. Bush había hablado hace años, estableciendo la necesidad de ese nuevo orden internacional. El papa Francisco en una **[carta dirigida a los obispos católicos](http://www.acontecercristiano.net/2015/09/papa-francisco-pide-un-nuevo-gobierno-mundial.html)** dijo que necesitábamos un "sistema de gobierno mundial" para hacerle frente al cambio climático.  
@@ -50,7 +50,7 @@ En los años siguientes muchos presidentes, personajes políticos y líderes rel
 El presidente Barack Obama mencionó en uno de sus discursos en Berlín:  
   
 
-> **"Parte de la preocupación de la gente es sólo en el sentido de que todo el mundo del viejo orden no está llevando a cabo lo que debió y que todavía no estamos donde tenemos que estar en función de un nuevo orden que se base en un conjunto diferente de principios, basado en un sentido de humanidad común, que se base en las economías funcionando para todas las personas."****\- Barack Obama, 23 de Julio del 2014**
+> **"Parte de la preocupación de la gente es sólo en el sentido de que todo el mundo del viejo orden no está llevando a cabo lo que debió y que todavía no estamos donde tenemos que estar en función de un nuevo orden que se base en un conjunto diferente de principios, basado en un sentido de humanidad común, que se base en las economías funcionando para todas las personas."\- Barack Obama, 23 de Julio del 2014**
 
   
 La llegada del gobierno mundial se está creando en la arena política bajo la bandera de las Naciones Unidas, a través de organizaciones como la Comisión Trilateral , Consejo de Relaciones Exteriores, el Instituto Real de Asuntos Internacionales, los Bilderberger, y el Club de Roma cuya miembros incluyen a muchos líderes mundiales, personalidades de los medios y otras personas influyentes. El objetivo publicado por el Consejo de Relaciones Exteriores, por ejemplo, es un gobierno mundial. Y aunque la mayoría nunca ha oído hablar de muchos de estos grupos, existen, y son muy influyentes.  
@@ -59,7 +59,7 @@ La llegada del gobierno mundial se está creando en la arena política bajo la b
 
 [Los Illuminati y el Nuevo Orden Mundial](http://www.tiemposprofeticos.org/los-illuminatis-y-el-nuevo-orden-mundial/)  
 [La Profecía Bíblica y El Nuevo Orden Mundial (Video)](http://www.ritualypropaganda.com/2016/02/profecia-biblica-nuevo-orden-mundial.html)  
-[H.G. Wells Profeta Del Nuevo Orden Mundial](http://www.ritualypropaganda.com/2011/05/hg-wells-profeta-del-nuevo-orden.html)**  
+[H.G. Wells Profeta Del Nuevo Orden Mundial](http://www.ritualypropaganda.com/2011/05/hg-wells-profeta-del-nuevo-orden.html)  
   
   
 
@@ -69,7 +69,7 @@ Han surgido muchas sociedades secretas durante la historia que han aportado para
   
   
 
-### **Los Illuminati de Baviera**
+### Los Illuminati de Baviera
 
 Sociedad que fue fundada en la década de 1760 por un hombre llamado Adam Weishaupt, quién desertó de la iglesia católica y organizó la sociedad de **[los Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)**, financiado por los banqueros internacionales. Desde entonces, de acuerdo con los Illuminati, su principal meta ha sido lograr un "gobierno mundial " y someter a todas las religiones y los gobiernos en el proceso. Por tanto, a los Illuminati se les atribuyen todas las guerras desde la Revolución Francesa como si hubieran sido fomentada por ellos en la búsqueda de sus objetivos.
 
@@ -83,7 +83,7 @@ En la década de 1780, el Gobierno de Baviera se enteró de las actividades subv
 
   
 
-### **La Franmasonería**
+### La Franmasonería
 
 La Francmasonería es una organización fraternal que se encuentra en todo el mundo. Sus miembros están unidos por ideales compartidos de carácter tanto moral y metafísico, y , en la mayoría de sus ramas, por una creencia común en un Ser Supremo. La Francmasonería es un arte esotérico, que en ciertos aspectos su trabajo interno generalmente no se revela al público. Los masones dan numerosas razones para esto, una de las cuales es que la masonería utiliza un sistema de iniciación de grados para explorar cuestiones éticas y filosóficas y este sistema es menos eficaz si el observador sabe de antemano lo que va a pasar. A menudo se llama a sí mismo "un sistema peculiar de la moralidad velado en alegorías e ilustrado por símbolos."  
   
@@ -97,7 +97,7 @@ _A la izquierda los 33 grados de Rito Escocés, a la derecha los 13 grados de ri
 La agenda para el establecimiento de un gobierno mundial se menciona a veces por los conocedores masónicos como el "Gran Plan" o simplemente "el Plan". La mayoría de los masones que son conscientes de ello creen sinceramente que este "Gran Plan" algún día dará comienzo a una nueva era de paz y de la cooperación mundiales. Está sociedad está dividida en 33 grados para el Rito de York y 13 para el rito Escocés.  
   
 
-### **Los Caballeros Templarios**
+### Los Caballeros Templarios
 
 El orden de los Templarios fue fundada por Hugo de Payens, un noble francés de la región de Champagne, junto con ocho de sus compañeros, en Jerusalén alrededor de 1119. Originalmente consistía en un grupo de caballeros que protegió a los peregrinos cristianos que viajan a la Tierra Santa contra los ataques de bandidos y piratas sarracenos, después de que los cruzados tomaron Jerusalén en 1099.  
   
@@ -111,8 +111,7 @@ _Ilustración de los Caballeros Templarios en su tarea de defender Tierra Santa.
 
 ¿Qué pasó con los caballeros después de su encarcelamiento? algunos dicen que se escondieron y continuaron su trabajo en secreto, sólo para reaparecer en Europa durante la década de 1700 como los masones modernos (Sí, al parecer los masones heredaron su conocimiento de los Templarios). En ese momento, los masones eran arquitectos y constructores, contratados por los reyes de Inglaterra, Escocia y Francia para construir grandes castillos y catedrales. Ellos fundaron logias donde podrían comer y mantener sus herramientas. Y desarrollaron saludos secretos, palabras en código y otros signos para poder distinguirse entre ellos.  
 
-### **  
-La Nobleza Negra**
+### La Nobleza Negra
 
 La Nobleza Negra es el término utilizado para describir un linaje familiar que es anterior incluso a los Illuminati, los jesuitas y otras órdenes secretas que muchos autores hacen referencia a la conspiración. Llegaron a la prominencia en Venecia alrededor del siglo noveno y se hizo conocido por su uso de tácticas sucias para lograr lo que querían, fraude, asesinato, violación, genocidio, terrorismo... casi cualquier cosa sea posible para proteger su riqueza y mantener al hombre común en los que creían que debía ser la esclavitud financiera.  
   
@@ -123,7 +122,7 @@ Este grupo llegó a ser tan poderosa que incluso la Iglesia Católica Romana, qu
 
   
 
-### **El Grupo Bilderberg** 
+### El Grupo Bilderberg 
 
 El Grupo Bilderberg o conferencia Bilderberg, es una conferencia privada anual de 120 a 150 personas de la élite política de Europa y América del Norte, expertos de la industria, las finanzas, la academia y los medios de comunicación, fue establecido en 1954.
 
@@ -139,7 +138,7 @@ El miembro fundador Dr. Joseph Retinger, (economista, filósofo y político comu
 
   
 
-### **Los Jesuitas**
+### Los Jesuitas
 
   
 La Compañía de Jesús, más comúnmente conocida como los Jesuitas, es una sociedad dentro de la Iglesia Católica Romana que fue fundada por Ignacio de Loyola y instituida por el Papa Pablo III. El propósito de los jesuitas es la propagación de la fe católica por cualquier medio posible. Uno de los principales propósitos de los jesuitas es el dialogo ecuménico, que es en su profundo sentido, la unión de todas las religiones en una sola.
@@ -155,7 +154,7 @@ Su supuesta influencia sobre los monarcas y personalidades condujo a la envidia 
 
   
 
-### **Las Naciones Unidas**
+### Las Naciones Unidas
 
   
 Las Naciones Unidas (ONU) es una organización intergubernamental para promover la cooperación internacional. La sustitución de la ineficaz Liga de las Naciones, la organización se estableció el 24 de octubre 1945, después de la Segunda Guerra Mundial con el fin de evitar otro tales conflictos. En su fundación, la ONU contaba con 51 estados miembros; en la actualidad hay 193.
@@ -169,7 +168,7 @@ _Mikhail Gorbachov, secretario general soviético, se dirige a la Asamblea Gener
 Las Naciones Unidas no intenta mantener una discreción en su plan por alcanzar un solo gobierno mundial, El 25 de septiembre del 2015 pusieron en marcha un conjunto de 17 objetivos mundiales que tiene interés el alcanzar en los siguientes 15 años. El sitio web donde se promueve este plan se lanzó ese año, y se puede encontrar **[aquí mismo](http://www.globalgoals.org/)**. El nombre dado a esta nueva agenda es "la Agenda 2030", donde la ONU ha dicho abiertamente que estos "objetivos globales" son una "nueva agenda universal" para la humanidad. Prácticamente todos los países del planeta han firmado por su propia voluntad este nuevo plan a gran escala, y se espera que las demás participen, ya sea bajo aprobación o sin esta.  
   
 
-### **La Comisión Trilateral**
+### La Comisión Trilateral
 
   
 La Comisión Trilateral fue fundada por David Rockefeller y Zbigniew Brzezinski en Julio de 1973 y se compone de aproximadamente 325 negocios de élite, la banca y la política. La Comisión Trilateral se propaga como una cooperación económica entre Estados Unidos, Europa y Japón , pero en realidad es otra sociedad/organización secreta - ésta se especializa en la creación de la interdependencia económica trilateral necesaria para traer el sistema del Nuevo Orden Mundial de la moneda mundial y gobernanza mundial. Este grupo está detrás de la creación de la estructura y el poder necesarios para estos bancos y corporaciones multinacionales que asumen el control global, que dominará las poblaciones, los gobiernos y las economías del mundo.
@@ -185,7 +184,7 @@ En su libro _Más allá de la presidencia Carter_, publicado en 1980 por los pre
 
   
 
-### **El Sionismo**
+### El Sionismo
 
 El sionismo es una ideología política judía que promueve celosamente la existencia de Israel como su país de origen religioso. Desde la declaración de Balfour en 1917 que firmó Israel por el Baron de Rothschild, los judíos sionistas han cometido genocidios perpetuos contra los no judíos (en su mayoría musulmanes) palestinos nativos y tienen como deseo acabar con ellos. Hoy en día Israel ha acumulado increíble influencia política/financiera, y muchos han señalado acertadamente que la América moderna y Gran Bretaña actúan como meros satélites de Israel y de su política.
 
@@ -201,7 +200,7 @@ Los bancos más grandes, incluyendo la Reserva Federal que en realidad esclaviza
 Los judíos sionistas en su conjunto se convertirán en su propio mesías prometido y se adjudicarán la gobernanza de la población. Se alcanzará la dominación del mundo por la disolución de otras razas, por la abolición de las fronteras, la aniquilación de la monarquía y por el establecimiento de una república mundial en el que los judíos de todas partes ejercer el privilegio de la ciudadanía. Esto es lo que su libro sagrado "El Talmud" les dice, y eso es lo que creen.  
   
 
-### **El Bohemian Club**
+### El Bohemian Club
 
   
 El Bohemian Club es un club exclusivo y privado para hombres situado al norte de San Francisco, California. Cada año a mediados de Julio alberga un campamento de tres semanas en lo que se conoce como el Bohemian Grove, un bosque de secoya de 2.700 acres en el norte de California, a la que asisten algunas de las personas más poderosas del mundo.  
@@ -215,7 +214,7 @@ Desde la fundación del club, la mascota de la Bohemian Grove ha sido un búho, 
 
   
 
-### **El Movimiento Nueva Era**
+### El Movimiento Nueva Era
 
   
 La ocultista y teósofa Alice Bailey, fue una de las fundadoras del llamado movimiento de la Nueva Era, ella profetizó en 1940 la victoria final de los aliados de la Segunda Guerra Mundial sobre las Potencias del Eje y el establecimiento por los aliados de un [**nuevo orden mundial**](http://apocalipsisyactualidad.blogspot.pe/2013/12/nuevo-orden-mundial-comienza-gestarse.html) político y religioso. Vio a un gobierno federal como la culminación de los tiempos y que sería guiado por los "maestros de la sabiduría antigua", con la intención de preparar a la humanidad para la venida del Cristo místico, y el amanecer de la Era de Acuario. 
@@ -315,7 +314,7 @@ En uso del sol naciente o del término "un nuevo amanecer" está siendo populari
 
 [Símbolos en el Dinero de América](https://www.philadelphiafed.org/education/teachers/publications/symbols-on-american-money/)  
 [Los Símbolos en el Billete de Un Dolar](http://famguardian.org/subjects/MoneyBanking/Money/SymbolsOnTheDollar.pdf)  
-[Uno de los Símbolos Más Potentes: El Amanecer de Un Nuevo Día](http://www.evilyoshida.com/thread-469.html)**  
+[Uno de los Símbolos Más Potentes: El Amanecer de Un Nuevo Día](http://www.evilyoshida.com/thread-469.html)  
   
 
 ## La Profecía Bíblica
@@ -334,7 +333,7 @@ En su visión apocalíptica en el libro de Apocalipsis, el apóstol Juan ve la "
 Nabucodonosor, rey de Babilonia, tenía sueños aterradores y no sabía lo que significaban. La Biblia menciona que sus magos, astrólogos y adivinos no podían interpretarlos. Daniel era uno de los cautivos que las fuerzas de Nabucodonosor se había llevado de Israel a Babilonia. Nabucodonosor llamó a Daniel para ver si podía explicarle aquellos sueños.  
   
 
-> **"Tú, oh rey, veías, y he aquí una gran imagen. Esta imagen, que era muy grande, y cuya gloria era muy sublime, estaba en pie delante de ti, y su aspectoera terrible. La cabeza de esta imagen era de fino oro; sus pechos y sus brazos, de plata; su vientre y sus muslos, de bronce; sus piernas de hierro; sus pies, en parte de hierro, y en parte de barro cocido. Estabas mirando, hasta que una piedra fue cortada, no con manos, la cual hirió a la imagen en sus pies de hierro y de barro cocido, y los desmenuzó. Entonces fue también desmenuzado el hierro, el barro cocido, el bronce, la plata y el oro, y se tornaron como tamo de las eras del verano; y los levantó el viento, y nunca más se les halló lugar. Mas la piedra que hirió a la imagen, fue hecha un gran monte, que llenó toda la tierra."****\- Daniel 2:31-35**
+> **"Tú, oh rey, veías, y he aquí una gran imagen. Esta imagen, que era muy grande, y cuya gloria era muy sublime, estaba en pie delante de ti, y su aspectoera terrible. La cabeza de esta imagen era de fino oro; sus pechos y sus brazos, de plata; su vientre y sus muslos, de bronce; sus piernas de hierro; sus pies, en parte de hierro, y en parte de barro cocido. Estabas mirando, hasta que una piedra fue cortada, no con manos, la cual hirió a la imagen en sus pies de hierro y de barro cocido, y los desmenuzó. Entonces fue también desmenuzado el hierro, el barro cocido, el bronce, la plata y el oro, y se tornaron como tamo de las eras del verano; y los levantó el viento, y nunca más se les halló lugar. Mas la piedra que hirió a la imagen, fue hecha un gran monte, que llenó toda la tierra."\- Daniel 2:31-35**
 
   
 Dios le muestra a Daniel lo que Nabucodonosor había soñado. Luego mostró a Daniel lo que significaban los sueños.  
@@ -356,7 +355,7 @@ Años después los medo-persas dieron paso a los griegos (el vientre y los muslo
 
 [El Sueño de Nabucodonosor](http://www.tiemposprofeticos.org/el-sueno-de-nabucodonosor/)  
 [El Libro de Daniel Capítulo 5](https://www.youtube.com/watch?v=fM3BBkbbYyY)  
-[¿Qué dice la Biblia Sobre el Nuevo Orden Mundial?](http://www.tiemposprofeticos.org/que-dice-la-biblia-acerca-de-el-nuevo-orden-mundial/)**  
+[¿Qué dice la Biblia Sobre el Nuevo Orden Mundial?](http://www.tiemposprofeticos.org/que-dice-la-biblia-acerca-de-el-nuevo-orden-mundial/)  
   
   
 

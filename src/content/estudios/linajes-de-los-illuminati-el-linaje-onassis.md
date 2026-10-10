@@ -19,7 +19,7 @@ En este 8vo capítulo de "**Linajes De Los Illuminati**" el **Linaje Onassis** e
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjiR5BozyL0nCxJtbpOpXNZzqKJShuWGCtIbCn0DPNz2GL3XfJO7pQdzL2aPzSr_C2vqzH9wDriJ_M9RhrlAypIhyvVtTzYg0F840Zy-sG7N0GDqyo_v0fHeTtLL4MF7pygrRdHRXrmz0/s1600/onassis.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjiR5BozyL0nCxJtbpOpXNZzqKJShuWGCtIbCn0DPNz2GL3XfJO7pQdzL2aPzSr_C2vqzH9wDriJ_M9RhrlAypIhyvVtTzYg0F840Zy-sG7N0GDqyo_v0fHeTtLL4MF7pygrRdHRXrmz0/s1600/onassis.jpg)
 
   
-INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS. 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. **8:** **LOS ONASSIS**. 9: LOS REYNOLDS. 10: LOS ROCKEFELLER. 11: LOS ROTHSCHILD. 12: LOS RUSSELL. 13: LOS VAN DUYN.  
+INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS. 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. **8: LOS ONASSIS**. 9: LOS REYNOLDS. 10: LOS ROCKEFELLER. 11: LOS ROTHSCHILD. 12: LOS RUSSELL. 13: LOS VAN DUYN.  
   
   
 Familias de la Realeza Europea: Los Merovingios.  

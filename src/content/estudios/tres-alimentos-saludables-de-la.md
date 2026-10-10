@@ -44,16 +44,16 @@ Zaatar es una mezcla de especias que se consume principalmente en el Medio Orien
 
 > **"Zaatar ha sido parte de la dieta mediterránea desde hace miles de años. Se consumió en el antiguo Egipto y, a lo largo de la historia, se ha mantenido como un elemento básico de muchas propiedades curativas.**  
 >   
-> **"Hay evidencia de que una planta za'atar fue conocida y utilizada en el antiguo Egipto, aunque su antiguo nombre aún no se ha determinado con certeza. Restos de spicata Thymbra, una variedad utilizada en preparaciones de za'atar moderna, fueron encontradas en la tumba de Tutankamón, y de acuerdo a Dioscórides, esta especie en particular, era conocida por los antiguos egipcios como saem.  
+> "Hay evidencia de que una planta za'atar fue conocida y utilizada en el antiguo Egipto, aunque su antiguo nombre aún no se ha determinado con certeza. Restos de spicata Thymbra, una variedad utilizada en preparaciones de za'atar moderna, fueron encontradas en la tumba de Tutankamón, y de acuerdo a Dioscórides, esta especie en particular, era conocida por los antiguos egipcios como saem.  
 >   
 > Plinio el Viejo menciona una hierba como un ingrediente de la Regale Unguentum ("Perfume Royal") utilizada por los reyes en el siglo primero de la CE.  
 >   
 > En la tradición judía, Saadia, Ibn Ezra (m. Alrededor del año 1164), Maimónides (1135-1204) y Abdías ben Abraham (1465-1515) se identificó el Ezov mencionado en la Biblia hebrea con la palabra árabe "za'atar". Ezov / za'atar está particularmente asociado con las ceremonias rituales de pureza, como la preparación de las cenizas de los Red Heifer (Números 19: 6) y la eliminación de las contaminaciones corporales (Levítico 14: 4, 6, 51-52; Números 20:18)."  
 >   
-> \- Lise Manniche. Un antiguo herbolario egipcio**
+> \- Lise Manniche. Un antiguo herbolario egipcio
 
   
-Como se indicó anteriormente, el renombrado filósofo del siglo 12, astrónomo y médico Maimónides era un gran fan de zaatar. Él regularmente lo prescribe a sus pacientes para curar diversas dolencias. Estudios recientes tienden a confirmar estas afirmaciones, el como el zaatar ha demostrado ser un poderoso antiséptico (mata cosas desagradables en su cuerpo) y un potente "alimento para el cerebro". Estas son algunas de las propiedades de cada ingrediente que se encuentra en zaatar.**
+Como se indicó anteriormente, el renombrado filósofo del siglo 12, astrónomo y médico Maimónides era un gran fan de zaatar. Él regularmente lo prescribe a sus pacientes para curar diversas dolencias. Estudios recientes tienden a confirmar estas afirmaciones, el como el zaatar ha demostrado ser un poderoso antiséptico (mata cosas desagradables en su cuerpo) y un potente "alimento para el cerebro". Estas son algunas de las propiedades de cada ingrediente que se encuentra en zaatar.
 
 >   
 > Beneficios del Zuma  
@@ -86,7 +86,7 @@ Como se indicó anteriormente, el renombrado filósofo del siglo 12, astrónomo 
 
 Olvidémonos de las ratas que comen zaatar por un segundo y centrémonos en las grandes mentes que fueron alimentados en su lugar. Si el zaatar era lo suficientemente bueno para la salud de los faraones egipcios, los hombres de la Biblia y los filósofos de renombre, es probable que sea lo suficientemente bueno para ti.  
   
-**¿Cómo conseguir y consumir zaatar?  
+¿Cómo conseguir y consumir zaatar?  
 
 El Zaatar se puede encontrar en la mayoría de los mercados de venta de productos de Oriente Medio. También puede solicitar en línea a través de Amazon.  
   
@@ -184,13 +184,13 @@ El polvo de la cúrcuma es un alimento básico en la cocina india y con frecuenc
 >   
 > \- Lisa Galán, Cúrcuma: "La Diosa de Oro"
 
-**> "No hay nada nuevo sobre el uso de la cúrcuma - sus poderes curativos se han conocido desde los albores de la civilización. La cúrcuma se ha usado durante siglos en Ayurveda, el sistema curativo natural de hace 5000 años de la India.  
+> "No hay nada nuevo sobre el uso de la cúrcuma - sus poderes curativos se han conocido desde los albores de la civilización. La cúrcuma se ha usado durante siglos en Ayurveda, el sistema curativo natural de hace 5000 años de la India.  
 >   
 > Fue alrededor de 500 a.c. que la cúrcuma surgió como una parte importante de la medicina ayurvédica. Ayurveda es un antiguo sistema indio de curación natural que todavía se practica hoy en día. Ayurveda se traduce como "la ciencia de la vida" - Ayur significa "vida" y veda que significa ". Ciencia o conocimiento" La inhalación de humos de la cúrcuma ardiente se dijo para aliviar la congestión, el jugo de la cúrcuma ayudado con la curación de heridas y contusiones, y pasta de cúrcuma se aplicó a todo tipo de enfermedades de la piel - de la viruela y la varicela a manchas y tejas. Literatura ayurvédica contiene más de 100 términos diferentes para la cúrcuma, incluyendo jayanti, lo que significa "aquel que es victorioso sobre las enfermedades", y matrimanika, que significa "tan hermosa como la luna."  
 >   
 > En la cultura india, la importancia de la cúrcuma va mucho más allá de la medicina. La religión hindú ve cúrcuma como auspicioso y sagrado. Hay una tradición día de la boda en el que una cadena, teñida de color amarillo con pasta de cúrcuma, se ata alrededor del cuello de la novia por su novio. Este collar, conocido como un sutra mangala, indica que la mujer está casada y es capaz de llevar una casa. La tradición continúa en las comunidades hindúes y ha sido comparado con el intercambio de anillos de boda occidental. En algunas partes del sur de la India, un trozo de rizoma de cúrcuma se usa como un amuleto para la protección contra los malos espíritus."  
 >   
-> \- Lisa Galán, Cúrcuma: "La Diosa de Oro"** **
+> \- Lisa Galán, Cúrcuma: "La Diosa de Oro" 
 
 > En la India, la cúrcuma se ha usado tradicionalmente por miles de años como un remedio para las dolencias de estómago y el hígado, así como por vía tópica para curar llagas, básicamente por su supuesta propiedad antimicrobiana. En el sistema Siddha (desde alrededor de 1900 aC) cúrcuma era una medicina para una serie de enfermedades y condiciones, incluyendo las de la piel, pulmonar y sistemas, dolores, dolores, heridas, esguinces, y trastornos hepáticos gastrointestinales. Un jugo fresco es de uso común en muchas enfermedades de la piel, incluyendo el eczema, la varicela, el herpes zóster, alergia, y sarna  
 >   
@@ -217,7 +217,7 @@ Estudios recientes no sólo están confirmando lo que los antiguos creían acerc
   
 Sí, esta es una lista bastante extensa ... y la investigación apenas ha comenzado.  
   
-**Cómo obtener y consumir cúrcuma  
+Cómo obtener y consumir cúrcuma  
 
 Debido al aumento de la popularidad de la comida india, la mayoría de los supermercados ahora llevan cúrcuma en polvo. Si usted vive cerca de un mercado de la venta de productos del sudeste asiático, es probable que pueda comprar un cubo de la especia por alrededor de cinco centavos. También puede solicitarlo sólo a través de sitios como Amazon - éste es bastante bueno  
   

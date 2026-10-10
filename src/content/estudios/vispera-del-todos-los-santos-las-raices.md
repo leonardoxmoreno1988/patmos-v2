@@ -75,7 +75,7 @@ Los romanos conquistan a los celtas y adoptan las costumbres espiritistas de la 
 **SIGLO VII**  
 El papa Bonifacio IV instituye el día de Todos los Santos, una fiesta anual para honrar a los mártires.  
 
-SIGLO XI**  
+SIGLO XI  
 Se establece el 2 de noviembre como fecha para celebrar el día de los Muertos.  
   
 **SIGLO XVIII**  

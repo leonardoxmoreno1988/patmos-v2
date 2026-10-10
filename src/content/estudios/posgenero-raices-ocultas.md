@@ -172,7 +172,7 @@ El movimiento posthumano está activo en muchos frentes, la trascendencia del g�
 
 Se hace referencia a "homosexualidad, bisexualidad, castración y travestismo andrógino", "hermafroditas" y "personas con variantes de género" como "un tercer sexo" y aquellos que tienen "genitales ambiguos" son vistos como una "intersexualidad" un "sexo indeterminado" que:
 
-> **"... ahora puede ser más frecuente que antes debido a los químicos ambientales que imitan el estrógeno e interfieren con el desarrollo genital fetal".**  **—Dumanoski, Myers, Colborn, 1997.**
+> **"... ahora puede ser más frecuente que antes debido a los químicos ambientales que imitan el estrógeno e interfieren con el desarrollo genital fetal". —Dumanoski, Myers, Colborn, 1997.**
 
 Otros términos de interés relevantes son transgénero, transexuales no operacionales, TG butch, femme queen, tercer género, drag king o queen, transboi, omni-género y pan-género.
 
@@ -185,7 +185,7 @@ Por lo tanto, se observa que los "activistas intersexuales", como la Intersex So
 Además, esto no es un simple subproducto accidental del uso de plásticos, etc., sino que se está haciendo a propósito a través de psicofarmacología, neuroquímicos, etc.
 
 > **“Los esfuerzos para tratar la depresión femenina y la agresión masculina, el autismo y el TDA nos darían formas de hacer que el cerebro sea más andrógino. Francis Fukuyama lamentó estas tendencias, la "masculinización" de los estados de ánimo depresivos de las mujeres por parte de los antidepresivos y la "feminización" de los niños con TDA con medicamentos estimulantes, en nuestro futuro posthumano, afirmando que fueron el resultado de la presión para conformarse con una personalidad "andrógina" en la sociedad estadounidense.”  
-> ****—Fukuyama, 2002: 52.**
+> —Fukuyama, 2002: 52.**
 
 También:
 

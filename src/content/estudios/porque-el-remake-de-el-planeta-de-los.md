@@ -47,7 +47,7 @@ Uno de los eventos esenciales que ocurren en el libro de Génesis es la caída d
 
 > "Un día, la serpiente le dijo a la mujer:—¿Así que Dios les dijo que no comieran de ningún árbol del jardín? La mujer le contestó:—¡Sí podemos comer de cualquier árbol del jardín! Lo que Dios nos dijo fue: “En medio del jardín hay un árbol, que no deben ni tocarlo. Tampoco vayan a comer de su fruto, pues si lo hacen morirán”.Pero la serpiente insistió:—Eso es mentira. No morirán. Dios bien sabe que, cuando ustedes coman del fruto de ese árbol, serán abiertos sus ojos, y serán como dioses sabiendo el bien y el mal." - Genesis 3:1
 
-**Cuando cancelan el proyecto Will Rodman lleva al bebe Cesar a su casa, y lo cría reconociendo que ha heredado las alteraciones genéticas de su madre. Sus ojos también brillan de color ámbar, lo que quizás es una referencia a las palabras de Satanás en el Génesis "y serán abiertos sus ojos " (Génesis 3:2).
+Cuando cancelan el proyecto Will Rodman lleva al bebe Cesar a su casa, y lo cría reconociendo que ha heredado las alteraciones genéticas de su madre. Sus ojos también brillan de color ámbar, lo que quizás es una referencia a las palabras de Satanás en el Génesis "y serán abiertos sus ojos " (Génesis 3:2).
 
   
 
@@ -87,7 +87,7 @@ El libro de Revelaciones menciona:
 
 > "De pronto se vio en el cielo algo también misterioso: apareció un gran dragón rojo, que tenía siete cabezas, diez cuernos y una corona en cada cabeza. Ese dragón arrastró con la cola a la tercera parte de las estrellas del cielo (ángeles), y las arrojó a la tierra" -Apocalipsis 12:3-4
 
-**Los cientos de simios salen del albergue y destruyen el laboratorio humano que aún contenía simios para experimentos, Cesar también les administra la droga y los dirige masivamente a la reserva natural de San Francisco. Una vez ahí ellos consiguen establecerse y evitar el exterminio militar. Paralelamente la droga que Gen-Sys había desarrollado se vuelve un virus peligroso que empieza a exterminar a la raza humana. La película termina con la propagación del virus y el inicio de la civilización de primates liderada por Cesar, quien ahora ha evolucionado lo suficiente como para hablar.  
+Los cientos de simios salen del albergue y destruyen el laboratorio humano que aún contenía simios para experimentos, Cesar también les administra la droga y los dirige masivamente a la reserva natural de San Francisco. Una vez ahí ellos consiguen establecerse y evitar el exterminio militar. Paralelamente la droga que Gen-Sys había desarrollado se vuelve un virus peligroso que empieza a exterminar a la raza humana. La película termina con la propagación del virus y el inicio de la civilización de primates liderada por Cesar, quien ahora ha evolucionado lo suficiente como para hablar.  
   
 En esta primera secuela de El Origen del Planeta de Los Simios una intensa propaganda gnóstica envuelve al personaje principal, un líder rebelde que a su vez representa la filosofía bíblica del anticristo, Cesar es también un símbolo de la frase propia de Charles Darwin "La supervivencia del más apto" o la "selección natural", donde solo el poder del intelecto y la evolución definen quienes serán las razas dominantes. La película es una forma de mercadotecnia oculta que contradice el mensaje de salvación a través de Cristo y lo reemplaza por el "conocimiento" o también como le denominaron los griegos: la gnosis.
 
@@ -118,7 +118,7 @@ Este punto de energía también llamado Ajna Center es "el pasaporte hacia la al
 
 > "Y se le permitió infundir aliento a la imagen de la bestia, para que la imagen hablase e hiciese matar a todo el que no la adorase. Y hacía que a todos, pequeños y grandes, ricos y pobres, libres y esclavos, se les pusiese una marca en la mano derecha, o en la frente" -Apocalipsis 13:15-16
 
-**Más tarde se ve que un remanente de humanos a logrado sobrevivir gracias a la inmunidad del virus, tratando de conseguir una fuente de electricidad que les permita reconstruir y comunicarse con el mundo exterior. Malcolm —un símbolo del ser humano moral— descubre que su única fuente de electricidad se encuentra en una presa, en los territorios que los simios han tomado. En ambos lados el pensamiento bélico y pro-guerra empieza manifestarse, el simio Koba quiere iniciar la guerra para exterminar a los humanos, por otro lado, Dreyfus, el líder de la resistencia también desea armarse para aniquilar la amenaza de los simios.
+Más tarde se ve que un remanente de humanos a logrado sobrevivir gracias a la inmunidad del virus, tratando de conseguir una fuente de electricidad que les permita reconstruir y comunicarse con el mundo exterior. Malcolm —un símbolo del ser humano moral— descubre que su única fuente de electricidad se encuentra en una presa, en los territorios que los simios han tomado. En ambos lados el pensamiento bélico y pro-guerra empieza manifestarse, el simio Koba quiere iniciar la guerra para exterminar a los humanos, por otro lado, Dreyfus, el líder de la resistencia también desea armarse para aniquilar la amenaza de los simios.
 
   
   

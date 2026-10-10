@@ -96,4 +96,4 @@ _"Y ahora está probado que Satanás, o el ardiente Dragón Rojo... Lucifer, o "
 
 **¿En que momento Optimus Prime paso de ser un héroe animado a un robot extraterrestre de aspecto demoníaco? Este modelo de 20 metros de altura fue montado en el estreno de "Tranformers: La Era de la Extinción".**
 
-**.**
+.

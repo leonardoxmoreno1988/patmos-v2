@@ -221,9 +221,9 @@ El libro de Apocalipsis menciona:
 
 >   
 > 
-> ****"Y el que está sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas. Y añadió: Escribe, porque estas palabras son fieles y verdaderas."**** 
+> "Y el que está sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas. Y añadió: Escribe, porque estas palabras son fieles y verdaderas." 
 
-> ****\- Apocalipsis 21:5****
+> \- Apocalipsis 21:5
 
   
 

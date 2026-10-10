@@ -95,7 +95,7 @@ La actriz **Celia Imrie** (El diario de Bridget Jones, Star Wars: Episodio I, La
 > 
 > [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQcajAUvpG82Gq0NcH7o0SiTjHKH5SATqxgDr-JaiGvbHKePpLJ1I7UsXfNNHW1RGHI1b39ly6yJGzyIGB0WYdFDJbG28YR7cTgvAVw-0LC401kSyjjqVmDyKMHgkWejCb4ZtF3URoskQ/s1600/doctor-control-mental.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQcajAUvpG82Gq0NcH7o0SiTjHKH5SATqxgDr-JaiGvbHKePpLJ1I7UsXfNNHW1RGHI1b39ly6yJGzyIGB0WYdFDJbG28YR7cTgvAVw-0LC401kSyjjqVmDyKMHgkWejCb4ZtF3URoskQ/s1600/doctor-control-mental.jpg)
 > 
-> **Brusco y frío: Psicólogo Guillermo Sargant utilizaba la terapia** **de electro-shocks en sus pacientes**
+> **Brusco y frío: Psicólogo Guillermo Sargant utilizaba la terapia de electro-shocks en sus pacientes**
 > 
 >   
 > 
@@ -263,4 +263,4 @@ La actriz **Celia Imrie** (El diario de Bridget Jones, Star Wars: Episodio I, La
 
   
 
-****Fuente traducida de [Daily Mail](http://www.dailymail.co.uk/femail/article-1372700/My-electric-shock-nightmare-hands-CIAs-evil-doctor-Calendar-Girls-star-Celia-Imrie.html#ixzz1ITEdML7o).****
+Fuente traducida de [Daily Mail](http://www.dailymail.co.uk/femail/article-1372700/My-electric-shock-nightmare-hands-CIAs-evil-doctor-Calendar-Girls-star-Celia-Imrie.html#ixzz1ITEdML7o).

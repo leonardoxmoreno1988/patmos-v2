@@ -16,7 +16,7 @@ Para comprender íntegramente la repercusión de la muerte de Cristo en la cruz,
 > "Y el mismo Dios de paz os santifique cabalmente; y que todo vuestro espíritu, y alma y cuerpo sean guardados irreprensibles para la venida del Señor nuestro Jesu Cristo."  
 > –1 Tesalonicenses 5:23
 
-**Esta composición también se evidencia al momento de la creación y la infusión de vida por parte de Dios (Génesis 2:7). No olvidando que cada parte tiene un propósito importante, el espíritu da al hombre la conciencia de Dios, el alma contiene nuestra propia consciencia, y el cuerpo nos da la conciencia del mundo que nos rodea.
+Esta composición también se evidencia al momento de la creación y la infusión de vida por parte de Dios (Génesis 2:7). No olvidando que cada parte tiene un propósito importante, el espíritu da al hombre la conciencia de Dios, el alma contiene nuestra propia consciencia, y el cuerpo nos da la conciencia del mundo que nos rodea.
 
 El espíritu viene por el aliento de vida, haciendo un símil con el comportamiento del viento (Juan 3:8). Pero el nuestro no es el único espíritu. La Biblia registra cinco tipos de espíritus, el de Dios (Juan 4:24), el del hombre, el de los animales (Eclesiastés 3:21), el de los demonios (Mateo 12:43) y el de los ángeles (Hebreos 1:7).
 
@@ -29,7 +29,7 @@ Las almas de Lázaro como del hombre rico tienen ojos y una clara percepción de
 > "Y aconteció, que murió el mendigo, y fué llevado por los ángeles al seno de Abraham; y murió también el rico, y fué sepultado. Y en el infierno, alzando sus ojos, estando en tormentos, vió a Abraham léjos, y a Lázaro en su seno. Entónces él, dando voces, dijo: Padre Abraham, ten misericordia de mí, y envía a Lázaro que moje la punta de su dedo en agua, y refresque mi lengua; porque soy atormentado en esta llama."  
 > –Lucas 16:22-24
 
-**Pero lo más importante es que el alma es eterna, una vez que morimos, deja atrás el cuerpo físico para ir a uno de dos lugares: el cielo o el infierno. El alma es lo que Jesucristo salvó en el calvario, por lo que ser salvo esta en referencia directa al destino eterno del alma, no al del cuerpo o al del espíritu.
+Pero lo más importante es que el alma es eterna, una vez que morimos, deja atrás el cuerpo físico para ir a uno de dos lugares: el cielo o el infierno. El alma es lo que Jesucristo salvó en el calvario, por lo que ser salvo esta en referencia directa al destino eterno del alma, no al del cuerpo o al del espíritu.
 
   
 

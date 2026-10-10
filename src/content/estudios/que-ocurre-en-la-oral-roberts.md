@@ -229,8 +229,8 @@ La masonería y la arquitectura están muy relacionadas, incluso desde sus oríg
 
 > **"He visitado el campus de la Universidad Oral Roberts (ORU) y me sorprendió al ver que la torre y otros edificios de arquitectura están diseñados en forma de la Nueva Era y símbolos masónicos."**
 > 
-> **  
-> \-Texe Marrs**
+>
+> \-Texe Marrs
 
    
 

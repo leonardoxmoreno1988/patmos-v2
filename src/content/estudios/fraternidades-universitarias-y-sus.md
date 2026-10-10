@@ -15,7 +15,7 @@ tags: ["Sociedad"]
 
   
 
-> **"Durante la semana del infierno, los postulantes son ridiculizados para "romperlos" en actos de sumisión a su fraternidad o hermandad. Fidelidad eterna es puesta en su lugar por votos y juramentos, algunos bajo pena de muerte."****\- Fritz Springmeier, 22 de mayo 2011.**
+> **"Durante la semana del infierno, los postulantes son ridiculizados para "romperlos" en actos de sumisión a su fraternidad o hermandad. Fidelidad eterna es puesta en su lugar por votos y juramentos, algunos bajo pena de muerte."\- Fritz Springmeier, 22 de mayo 2011.**
 
 Las **fraternidades universitarias** de América son una forma en la que los **Illuminati** obtienen y reclutan estudiantes universitarios. Las fraternidades fueron modeladas después de las sociedades secretas satánicas, principalmente la masonería.  
 

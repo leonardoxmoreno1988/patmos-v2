@@ -9,7 +9,7 @@ description: "\"El hombre malo, el hombre depravado, anda en perversidad de boca
 tags: ["Sociedad"]
 ---
 
-> **"El hombre malo, el hombre depravado, anda en perversidad de boca; guiña sus ojos, habla con sus pies, indica con sus dedos..."** **\- Proverbios 6: 12-13**
+> **"El hombre malo, el hombre depravado, anda en perversidad de boca; guiña sus ojos, habla con sus pies, indica con sus dedos..." \- Proverbios 6: 12-13**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghyphenhyphen2eJj2HLo6rNYsERau0LR69yBnVGdUVxMKOB96_FF3LywNJdRU_I8gnRdi960laDR53vFGF7h6DS44NuI9fvdYH5VmqAUcAlqfs9b2VIZVtE49uKR3ot55l4n5VSOkLhKa8XNoBA9Qs/s1600/claw-masoneria.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghyphenhyphen2eJj2HLo6rNYsERau0LR69yBnVGdUVxMKOB96_FF3LywNJdRU_I8gnRdi960laDR53vFGF7h6DS44NuI9fvdYH5VmqAUcAlqfs9b2VIZVtE49uKR3ot55l4n5VSOkLhKa8XNoBA9Qs/s1600/claw-masoneria.jpg)
 
@@ -47,7 +47,7 @@ Pero, por supuesto, hoy en día, todos los masones empiezan por ser iniciados en
 
 ### 
 
-## **¿Por qué son empleados por los altos niveles Iluministas?**
+## ¿Por qué son empleados por los altos niveles Iluministas?
 
 En este capítulo vamos a revelar un número de llluministas de alto rango que dan la señal de Compañero (2 °) Mason. Ahora bien, como este grado es de condición inferior, esto plantea la cuestión de por qué estos hombres famosos, aclamados públicamente como los evangelistas Billy Graham y Pat Robertson, así como la líder ocultista Annie Besant, el presidente ruso, Boris Yeltsin, y el financiero internacional Sir James Rothschild están todos mostrando el signo del Compañero. La respuesta es fascinante.  
   
@@ -56,7 +56,7 @@ Mackey escribe que el grado —y por lo tanto su principal signo— denota a l
 En esencia, el grado de Compañero representa al hombre creado para poseer progresivamente la sabiduría suprema de la serpiente. El hombre en su conjunto se convierte en Dios por medio de la razón. Por lo tanto, la promesa de la serpiente hecha a Adán y Eva se realiza: "Seréis como dioses".  
   
 
-## **La sabiduría de la Serpiente**
+## La sabiduría de la Serpiente
 
 Los que muestran esta señal, _La Señal de la Compañero_, a sus compañeros del artificio (el iluminista, secta de magia) son los elegidos y los ambiciosos de instruir a las masas en la sabiduría de la serpiente. Desde la sabiduría religiosa o espiritual, se considera esencial y de un alto orden en el reino de Satanás, que sus representantes  humanos en la tierra que son líderes en el campo de la demostración religiosa den esta señal de reconocimiento.  
   

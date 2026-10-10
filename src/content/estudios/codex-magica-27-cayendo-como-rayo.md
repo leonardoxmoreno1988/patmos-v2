@@ -9,7 +9,7 @@ description: "\"Y él les dijo: Yo veía a Satanás caer del cielo como un rayo.
 tags: ["Sociedad"]
 ---
 
-> **"Y él les dijo: Yo veía a Satanás caer del cielo como un rayo. He aquí, te doy poder para hollar serpientes y escorpiones, y sobre todo el poder del enemigo; y nada te dañará de ninguna manera."****\- Lucas 10: 18-19**
+> **"Y él les dijo: Yo veía a Satanás caer del cielo como un rayo. He aquí, te doy poder para hollar serpientes y escorpiones, y sobre todo el poder del enemigo; y nada te dañará de ninguna manera."\- Lucas 10: 18-19**
 
   
 

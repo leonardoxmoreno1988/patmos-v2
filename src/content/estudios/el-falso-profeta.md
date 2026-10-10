@@ -20,7 +20,7 @@ Marcos 13:22 habla de que vendrán muchos falsos profetas, los había en siglo I
 > "EMPERO hubo también falsos profetas entre el pueblo, así como habrá entre vosotros falsos enseñadores, que introducirán encubiertamente heregías de perdición, y negarán al Señor que los rescató, trayendo sobre sí mismos acelerada perdición."  
 > \-2 Pedro 2:1
 
-**Mucha de la identidad del falso profeta, o de los falsos profetas, se detalle en 2 de Pedro 2:1-19. Un promulgador de doctrinas ocultistas con paganismo ancestral y un interés en engañar a las masas. No tendrá problema en hacerse pasar como seguidor de Cristo e incluso, saliendo de las filas del cristianismo.  
+Mucha de la identidad del falso profeta, o de los falsos profetas, se detalle en 2 de Pedro 2:1-19. Un promulgador de doctrinas ocultistas con paganismo ancestral y un interés en engañar a las masas. No tendrá problema en hacerse pasar como seguidor de Cristo e incluso, saliendo de las filas del cristianismo.  
   
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEgfb8wV57ubWoj_BA1Lvq4rHVfTxU1_BTESRQIKqelKUPNbzao5uOCc0J1XdGFvW88Dn-Pr2eBYPQDY4B7H1mC4mVNRyX0Vopn65IKXV4L_yRKfMrkdFBfZPLMJx2ctxv-kb7RPST8IJA6irQWwYgEeRbqSFK5mcMxCDQwLhD3HqPKCj4PuNb9zotoQ=w640-h320)](https://blogger.googleusercontent.com/img/a/AVvXsEgfb8wV57ubWoj_BA1Lvq4rHVfTxU1_BTESRQIKqelKUPNbzao5uOCc0J1XdGFvW88Dn-Pr2eBYPQDY4B7H1mC4mVNRyX0Vopn65IKXV4L_yRKfMrkdFBfZPLMJx2ctxv-kb7RPST8IJA6irQWwYgEeRbqSFK5mcMxCDQwLhD3HqPKCj4PuNb9zotoQ=s431)

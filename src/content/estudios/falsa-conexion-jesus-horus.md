@@ -50,7 +50,7 @@ Maher solamente repetía las cosas que son asimiladas por muchas personas hoy en
 A menudo, los cristianos no están preparados para este tipo de encuentros, y algunos incluso se dejan llevar por esta línea de argumentación. La diatriba de Maher ofrece un buen resumen de estas afirmaciones, así que vamos a refutar, una línea a la vez.  
   
 
-### **Escrita en el año 1280 antes de Cristo, el _Libro de los Muertos_ describe a un Dios, Horus**.
+### Escrita en el año 1280 antes de Cristo, el _Libro de los Muertos_ describe a un Dios, Horus.
 
   
 De hecho, hay muchos "libros de los muertos". Sin embargo, no existe un único libro oficial de los muertos. Los libros son colecciones de antiguos hechizos egipcios que se creían ayudaban a los difuntos en su viaje al más allá. El  título "libro de los muertos" proviene de una etiqueta árabe que se refiriere al hecho de que los libros se encuentran sobre todo con momias (véase la Guía de Oxford de la mitología egipcia, "Literatura Funeraria"). Algunos de estos textos contienen viñetas que representan al dios Horus, pero no nos dicen mucho acerca de él.
@@ -68,12 +68,12 @@ Pero los primeros cristianos, incluso si hubieran querido basar los Evangelios s
 Otra parte del problema es que los paralelismos entre Jesús y Horus contienen medias verdades, distorsiones y falsedades de plano. Por ejemplo:  
   
 
-### **Afirmación falsa # 1: Horus es el hijo del dios Osiris, nacido de una madre virgen.**
+### Afirmación falsa # 1: Horus es el hijo del dios Osiris, nacido de una madre virgen.
 
   
 La madre de Horus se creía que era la diosa Isis. Su marido, el dios Osiris, murió a manos de su enemigo Seth, el dios del desierto, y posteriormente desmembrada. Isis logró recuperar todas las partes del cuerpo de Osiris a excepción de su falo, que fue lanzado en el Nilo y comido por el pez gato. (Yo no lo estoy inventando). Isis utilizó sus poderes para resucitar temporalmentea a Osiris y le diseñó un falo de oro. Entonces ella se embarazó, y Horus fue concebido. Sin embargo, esta historia puede ser clasificada, no es un nacimiento virginal.  
 
-### **Afirmación falsa # 2: Él fue bautizado en un río por Anup el Bautista, que fue decapitado después.**
+### Afirmación falsa # 2: Él fue bautizado en un río por Anup el Bautista, que fue decapitado después.
 
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbJssw6eBQuDUr-4aWe7uHTyzabRmAQviJrjHGWRBrQ2tSg9YHZh1-8DaX94BA6GVeXHDD-GRYtYfAdTONHQaLh0CL8-zniuWcTo0xqYz1xZtRmvX1-e8CoM_cKwWElsSOkM0hrReiXGY/s1600/anup-dios.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbJssw6eBQuDUr-4aWe7uHTyzabRmAQviJrjHGWRBrQ2tSg9YHZh1-8DaX94BA6GVeXHDD-GRYtYfAdTONHQaLh0CL8-zniuWcTo0xqYz1xZtRmvX1-e8CoM_cKwWElsSOkM0hrReiXGY/s1600/anup-dios.jpg)No hay ningún personaje llamado Anup el Bautista en la antigua mitología egipcia. Esta es la mezcla de un poeta Inglés del siglo 19 y egiptólogo aficionado por el nombre de Gerald Massey (ver recuadro 2). Massey es el autor de varios libros sobre el tema de la egiptología; Sin embargo, los egiptólogos profesionales han ignorado en gran medida su trabajo. De hecho, su escritura se mantiene tan poco visible en los círculos arqueológicos que es difícil encontrar referencias a él en las publicaciones modernas de buena reputación.  
@@ -83,7 +83,7 @@ En el libro _Cristo en Egipto: La conexión de Jesús-Horus y Los Orígenes Pag
 Existe alguna evidencia en pinturas de las tumbas egipcias y esculturas para apoyar la idea de que un bautizo ritual se llevó a cabo durante la coronación de los faraones, pero siempre se representa como si hubiera sido hecho por los dioses. Esto indica que puede haber sido entendida como un acontecimiento espiritual que probablemente nunca ocurrió en la realidad (cf. Alan Gardiner, "El bautismo de Faraón," El Diario de Arqueología Egipcia, vol. 36). Esto ocurrió sólo para los reyes (si es que e sucedido a ellos en absoluto), y uno busca en vano sin encontrar representaciones de Horus siendo bautizado por Anubis.  
   
 
-### **Afirmación falsa # 3: Al igual que Jesús, Horus fue tentado solo en el desierto.**
+### Afirmación falsa # 3: Al igual que Jesús, Horus fue tentado solo en el desierto.
 
   
 La guía complementaria a la película Zeitgeist esboza la base de esta afirmación, explicando, "como lo hace Satanás con Jesús, Set (también conocido como Seth) intenta matar a Horus. Set es el "dios del desierto 'que lucha contra Horus, mientras que Jesús es tentado en el desierto por Satanás" (p. 23).  
@@ -94,19 +94,19 @@ acuerdo con los relatos del Evangelio, Satanás no trató de matar a Jesús all�
 La relación entre Horus y Seth en la antigua religión egipcia era bastante diferente de la relación entre Jesús y Satanás. Mientras que Seth y Horus estaban a menudo en conflicto entre sí, se creía que su reconciliación fue lo que permitió a los faraones ser los gobernantes de un país unificado. Se creía que el faraón era un "Horus reconciliado con Seth, o un caballero en quien el espíritu de desorden se había integrado" (La Guía de Oxford de la mitología egipcia, "Seth"). En marcado contraste, nunca hay ninguna reconciliación entre Jesús y Satanás en las Escrituras.  
   
 
-### **Afirmación falsa # 4: curó a los enfermos, los ciegos, echó fuera demonios, y caminó sobre el agua.**
+### Afirmación falsa # 4: curó a los enfermos, los ciegos, echó fuera demonios, y caminó sobre el agua.
 
   
 El Metternich Stella, un monumento del siglo 4 aC, cuenta una historia en la que Horus es envenenado por Seth y devuelto a la vida por el dios Tot, a petición de su madre, Isis. Los antiguos egipcios utilizaban el hechizo que se describe en este monumento para curar a la gente. Se creía que el espíritu de Horus habitaría dentro de los enfermos, y que se curarían de la misma manera. Esta morada espiritual es muy distante al ministerio de sanidad física de Cristo. Horus no viajó por el campo poniendo las manos sobre los enfermos y restaurando su salud.  
 
-### **Afirmación falsa # 5: Levantó a Asar de entre los muertos. "Asar" se traduce en "Lázaro".**
+### Afirmación falsa # 5: Levantó a Asar de entre los muertos. "Asar" se traduce en "Lázaro".
 
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwZ75HTehHlOzJO1rSmiF0HwQIz9OXF56m8jZ5x2Jx7ixsI5liazT1PvH40WBdOCjRxGE9vIbcVX8xKVoicXspnfXCR7YRBHv78gcyfSqu2KdZ4CjIdUaH1xNamkkV6BgKVtHewEr_8gM/s1600/lazaro-jesus.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwZ75HTehHlOzJO1rSmiF0HwQIz9OXF56m8jZ5x2Jx7ixsI5liazT1PvH40WBdOCjRxGE9vIbcVX8xKVoicXspnfXCR7YRBHv78gcyfSqu2KdZ4CjIdUaH1xNamkkV6BgKVtHewEr_8gM/s1600/lazaro-jesus.jpg)El nombre de Osiris es una transliteración griega del nombre egipcio Asar. Como he mencionado anteriormente, Osiris es el padre de Horus, y, según el mito, fue asesinado por Seth y brevemente devuelto a la vida por Isis con el fin de concebir a Horus. No era Horus el que levantó a "Asar" de entre los muertos. Su madre levantó de los muertos a Osiris.  
   
 El nombre Lázaro, en realidad se deriva de la palabra hebrea Eleazar que significa "Dios ha ayudado". Este nombre era común entre los Judios de la época de Jesús. De hecho, dos figuras en el Nuevo Testamento llevan este nombre (cf. Juan 11, Lucas 16: 19-31). Así que no sólo Horus no resucitó a Osiris de entre los muertos, "asar" no se traduce a "Lázaro"  
 
-### **Afirmación falsa # 6: Oh, sí, él también tenía doce discípulos.**
+### Afirmación falsa # 6: Oh, sí, él también tenía doce discípulos.
 
   
 Una vez más, esta afirmación tiene su origen en la obra de Gerald Massey (Antiguo Egipto: La Luz del Mundo, libro 12) que muestra un mural que representa a "Los doce que recogen la cosecha", pero Horus no aparece en el mural .  
@@ -114,7 +114,7 @@ Una vez más, esta afirmación tiene su origen en la obra de Gerald Massey (Anti
 En los diversos mitos de Horus, hay indicios de los "cuatro hijos de Horus" o seis semi-dioses, que le seguían, y en ocasiones hubo varios números de seguidores humanos, pero ellos nunca sumaron doce. Sólo Massey llega a este número, y lo hace solamente por referencia al mural sin Horus en él.  
   
 
-### **Afirmación falsa # 7: La crucifixión de Jesús tuvo influencia de la crucifixión de Horus.**
+### Afirmación falsa # 7: La crucifixión de Jesús tuvo influencia de la crucifixión de Horus.
 
   
 En muchos de los libros y en los sitios web que tratan de hacer estecomparativo, se señala a menudo que hay varias representaciones antiguas de Horus de pie con los brazos abiertos en forma de cruz. Uno sólo  
@@ -126,7 +126,7 @@ puede responder a esto con un sincero "¿Y qué?" Una representación de una per
 Tenemos amplia evidencia de múltiples fuentes extra-bíblicas que los romanos alrededor de la época de Cristo practicaban la crucifixión como una forma de pena capital, es decir, este no tuvo influencia del mito Horus. No sólo eso, sino que los tenemos en los relatos de los testigos reales bíblicos de la crucifixión de Jesús. Por otra parte, no hay evidencia histórica en absoluto para sugerir que los antiguos egipcios hicieron uso de este tipo de castigo.  
   
 
-### **Afirmación falsa # 8: Y después de tres días, dos mujeres anunciaron que Horus, el salvador de la humanidad, había sido resucitado.**
+### Afirmación falsa # 8: Y después de tres días, dos mujeres anunciaron que Horus, el salvador de la humanidad, había sido resucitado.
 
   
 Como he explicado antes, la historia de la muerte de Horus niño y siendo devuelto a la vida se describe en la _Metternich Stella_, que de ninguna manera se asemeja a la muerte sacrificial de Jesús. Cristo no murió como un niño, ni devuelto a la vida porque su afligida madre que fue con un dios con cabeza de animal practicante de magia.  

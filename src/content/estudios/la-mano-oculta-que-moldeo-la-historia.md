@@ -49,9 +49,9 @@ A menos que todos los individuos mencionados en este artículo tuvieran una úlc
 El Grado del Arco Real (el décimotercer grado del Rito Escocés o el séptimo grado del Rito de York) es también conocido como el Masón del Secreto. Durante este nivel, se dice que los iniciados reciben grandes verdades Masónicas.  
   
 
-> **"Los miembros de este grado son denominados compañeros, y "tienen derecho a una explicación completa de los misterios de la Orden", mientras que en los grados anteriores son reconocidos por la denominación común y familiar de Hermanos, y mantenidos en un estado de profunda ignorancia del sublime secreto revelado en este Capítulo. Esto concuerda con la costumbre de Pitágoras, que distinguía así a sus alumnos. Después de un período de prueba de cinco años, como se dijo antes, ellos eran admitidos ante la presencia del preceptor, llamados sus compañeros, y permitidos de hablar libremente con él. Previo a la expiración de ese periodo dábales sus instrucciones desde detrás de una pantalla"  
+> "Los miembros de este grado son denominados compañeros, y "tienen derecho a una explicación completa de los misterios de la Orden", mientras que en los grados anteriores son reconocidos por la denominación común y familiar de Hermanos, y mantenidos en un estado de profunda ignorancia del sublime secreto revelado en este Capítulo. Esto concuerda con la costumbre de Pitágoras, que distinguía así a sus alumnos. Después de un período de prueba de cinco años, como se dijo antes, ellos eran admitidos ante la presencia del preceptor, llamados sus compañeros, y permitidos de hablar libremente con él. Previo a la expiración de ese periodo dábales sus instrucciones desde detrás de una pantalla"  
 >   
-> \-John Fellows, Investigación de Fellows sobre el Origen, Historia y Significado de la Masonería**
+> \-John Fellows, Investigación de Fellows sobre el Origen, Historia y Significado de la Masonería
 
   
 
@@ -92,11 +92,11 @@ El ritual de iniciación de este grado recrea el retorno a Jerusalén de los tre
 
   
 
-> **"Maestro del Segundo Velo: "Tres Mas Excelentes Maestros deben haber sido, o hasta aquí no podrían haber llegado, pero más lejos no pueden ir sin mis palabras, signo, y palabra de exhortación. Mis palabras son Sem, Jafet y Adoniram, mi signo es: (metiendo la mano en el pecho), es en imitación de uno dado por Dios a Moisés, cuando El mandó meter la mano en su seno, y al sacarla, se volvió tan leprosa como la nieve. Mi palabra de exhortación es aclaratoria de este signo, y se encuentra en los escritos de Moisés, viz., cuarto capítulo del Éxodo":  
+> "Maestro del Segundo Velo: "Tres Mas Excelentes Maestros deben haber sido, o hasta aquí no podrían haber llegado, pero más lejos no pueden ir sin mis palabras, signo, y palabra de exhortación. Mis palabras son Sem, Jafet y Adoniram, mi signo es: (metiendo la mano en el pecho), es en imitación de uno dado por Dios a Moisés, cuando El mandó meter la mano en su seno, y al sacarla, se volvió tan leprosa como la nieve. Mi palabra de exhortación es aclaratoria de este signo, y se encuentra en los escritos de Moisés, viz., cuarto capítulo del Éxodo":  
 >   
 > "Y el Señor dijo a Moisés: Mete ahora tu mano en tu seno. Y él puso su mano en su seno, y cuando la sacó, he aquí que su mano estaba leprosa como la nieve"  
 >   
-> Malcolm C. Duncan, Ritual Masónico y Monitor de Duncan**
+> Malcolm C. Duncan, Ritual Masónico y Monitor de Duncan
 
   
 Como se mencionó anteriormente, este gesto de la mano se dice que está inspirado por Éxodo 04:06. En este versículo bíblico, el corazón ("seno") es sinónimo de lo que somos, la mano representa lo que hacemos. Por lo tanto, se puede interpretar como: Lo que somos es lo que en última instancia hacemos. El simbólico significado de este gesto podría explicar la razón de por qué es tan ampliamente utilizado por Masones famosos. La mano oculta permite a los otros iniciados saber que el individuo representado es parte de esta Hermandad secreta y que sus acciones fueron inspiradas por la filosofía y creencias Masónicas. Además, la mano que ejecuta las acciones se esconde detrás de paño, lo que simbólicamente se puede referir a la naturaleza secreta de las acciones del Masón. Aquí están algunos de los hombres famosos que utilizaron esta señal con la mano.
@@ -123,11 +123,11 @@ En su ensayo sobre Napoleón y la Masonería, Tuckett afirma:
 > 
 >   
 > 
-> **
+>
 > 
 > **\-J.E.S. Tuckett, Napoleón I y la Masonería (fuente en inglés)**
 > 
-> **[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtFDWv5Lnr0Z3zngxil2b09cSfoww1Xq3yIcGuH37nJbS73LEmM9AVXS-yOoeIVmrRd-yf2NPNkQr9VeOlrrDCWoW2bLG-ayqU2t9DoaZZQuZ5CJXUleFVBI0d80_ess968-tlPJvUUP_k/s1600/Napoleans-Book-of-Fate-002.jpg)
+> [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtFDWv5Lnr0Z3zngxil2b09cSfoww1Xq3yIcGuH37nJbS73LEmM9AVXS-yOoeIVmrRd-yf2NPNkQr9VeOlrrDCWoW2bLG-ayqU2t9DoaZZQuZ5CJXUleFVBI0d80_ess968-tlPJvUUP_k/s1600/Napoleans-Book-of-Fate-002.jpg)
 
   
 
@@ -181,11 +181,11 @@ Wolfgang Amadeus Mozart está considerado como uno de los compositores de músic
 > 
 >   
 > 
-> **
+>
 > 
 > **\- Katherine Thompson, el Hilo Masónica en Mozart**
 > 
-> **
+>
 
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCfi_kQmBRdU-041mn3-KBZ46yBg8N77FUzfHnPO-m7xvh0fhKRpDb8fWhYf13avUoA3qGYHGBnG8mcu07acgQgOvLivX7NlQNq93eUkBwq2CCx6TACUCYnuDGbc0Fo82Ck_Fw4STtwLRf/s1600/masonicstpes.jpg)
 

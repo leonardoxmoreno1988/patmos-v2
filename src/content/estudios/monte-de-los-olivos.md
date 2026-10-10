@@ -17,7 +17,7 @@ El libro de Zacarías narra de forma impactante como Jesucristo descenderá del 
 > "Y afirmarse han sus piés en aquel día sobre el monte de las Olivas, que está en frente de Jerusalem a la parte del oriente; y el monte de las Olivas se partirá por medio de sí hacia el oriente y hacia el occidente, un muy grande valle; y la mitad del monte se apartará hacia el norte, y la otra mitad hacia el mediodía."  
 > —Zacarías 14:4
 
-**La profecía describe que cuando Jesucristo ponga sus pies sobre el Monte de los Olivos, este se partirá en dos. Podemos entender que en ese día ocurrirá un gran terremoto en Jerusalén, uno tan fuerte que la elevación natural se dividirá como nunca antes. Pero este será solo el inicio de grandes cambios en la topografía de Palestina (Zacarías 14:8). Aquí podemos ver el monte en la actualidad.  
+La profecía describe que cuando Jesucristo ponga sus pies sobre el Monte de los Olivos, este se partirá en dos. Podemos entender que en ese día ocurrirá un gran terremoto en Jerusalén, uno tan fuerte que la elevación natural se dividirá como nunca antes. Pero este será solo el inicio de grandes cambios en la topografía de Palestina (Zacarías 14:8). Aquí podemos ver el monte en la actualidad.  
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHnSsa5Yb04qdICGjDerst2BEc1-geUASzZEqiB2iiCyspB19X-XAblKo8Zj_g-oW7YHPP4Ut6ZHfeKsePCcCi5bpfzbW1cpLtPVfTJBf4djH8Dxku1yn_MOFEHOwTYjLSd-V1wBMuUa0mfR3w_aOwDz2ABE-iiG4zjETy8CiGgVkWntsVNjPM-2JE/s16000/monte-olivos.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHnSsa5Yb04qdICGjDerst2BEc1-geUASzZEqiB2iiCyspB19X-XAblKo8Zj_g-oW7YHPP4Ut6ZHfeKsePCcCi5bpfzbW1cpLtPVfTJBf4djH8Dxku1yn_MOFEHOwTYjLSd-V1wBMuUa0mfR3w_aOwDz2ABE-iiG4zjETy8CiGgVkWntsVNjPM-2JE/s700/monte-olivos.jpg)  
   
@@ -40,7 +40,7 @@ Aquel día, que es descrito en la Biblia como [el Día del Señor](https://www.g
 > "Y acontecerá que en ese día no habrá luz clara, ni oscura. Y será un día, el cual es conocido de Jehová, que ni será día, ni noche: mas acontecerá que al tiempo de la tarde habrá luz."  
 > —Zacarías 14:6-7
 
-**El regreso del Señor a la Tierra será algo que nuestros ojos nunca vieron, ni nuestros oídos jamás oyeron (1 Corintios 2:9). Cristo aparecerá desde las nubes del cielo con sus santos, ante la vista atónita del mundo entero, y mucho de lo que aún no entendemos sobre el Día del Señor se aclarará en ese día. Ya no vendrá como cordero a morir, sino como guerrero, sobre un caballo blanco y empuñando una espada para traer la justicia y el dominio eterno.  
+El regreso del Señor a la Tierra será algo que nuestros ojos nunca vieron, ni nuestros oídos jamás oyeron (1 Corintios 2:9). Cristo aparecerá desde las nubes del cielo con sus santos, ante la vista atónita del mundo entero, y mucho de lo que aún no entendemos sobre el Día del Señor se aclarará en ese día. Ya no vendrá como cordero a morir, sino como guerrero, sobre un caballo blanco y empuñando una espada para traer la justicia y el dominio eterno.  
   
 Gracias por leer el newsletter de esta semana. No olvide compartir el material con sus familiares y cercanos.
 

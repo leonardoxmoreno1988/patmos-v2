@@ -86,7 +86,7 @@ Parte de este pensamiento es estar obsesionados con tener relaciones sexuales, s
 
 > "Por esto Dios los entregó a pasiones vergonzosas; pues aun sus mujeres cambiaron el uso natural por el que es contra naturaleza, y de igual modo también los hombres, dejando el uso natural de la mujer, se encendieron en su lascivia unos con otros, cometiendo hechos vergonzosos hombres con hombres, y recibiendo en sí mismos la retribución debida a su extravío". -Romanos 1:26-27
 
-**En el caso de otras películas como "Love And Other Drugs" (De Amor Y Otras Drogas) los mismo conceptos se mantienen, mientras otra historia cuenta paralelamente la invensión del viagra por la industria farmacéutica. En "What's You Number" (Contando a Mis Exs) se habla sobre cuántos encuentros sexuales debería tener una mujer antes de casarse. Implantando subliminalmente la creencia de que si se mantienen en un número menor de 20, son moralmente aceptables.
+En el caso de otras películas como "Love And Other Drugs" (De Amor Y Otras Drogas) los mismo conceptos se mantienen, mientras otra historia cuenta paralelamente la invensión del viagra por la industria farmacéutica. En "What's You Number" (Contando a Mis Exs) se habla sobre cuántos encuentros sexuales debería tener una mujer antes de casarse. Implantando subliminalmente la creencia de que si se mantienen en un número menor de 20, son moralmente aceptables.
 
   
   

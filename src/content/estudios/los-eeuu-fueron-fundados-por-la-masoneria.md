@@ -39,7 +39,7 @@ La mayoría de los historiadores no le dirán esto. Pero había un historiador q
   
 Tenía acceso a los archivos masónicos en los Estados Unidos y Europa. Su libro es en realidad un retrato simpático de la masonería sin referencias a su naturaleza oculta. Sin embargo, como un francés Vichy, posteriormente ayudó a los nazis a identificar masones durante la Segunda Guerra Mundial. Fue encarcelado después de la guerra, pero fue indultado por Charles De Gaulle en 1952. Fay explica que en la década de 1770, Estados Unidos constaba de 13 colonias aisladas con diferentes gobiernos, afiliaciones religiosas, costumbres, perfiles raciales y estructuras sociales y políticas. Hubo intensas rivalidades y antagonismos de larga data. Una carta tardó tres semanas en llegar de Georgia a Massachusetts
 
-> **"La masonería se comprometió a sentar las bases de la unidad nacional en América, porque \[como sociedad secreta\] podía propagarse a través de las colonias y trabajar de manera constante y silenciosa, creando en una clase limitada pero muy prominente de un sentimiento de unidad americana sin la cual, no habría habido Estados Unidos". (Página 230)****"En 1760, no había pueblo, grande o pequeño, donde la Masonería no hubiera hilado su telaraña, donde estuviera predicando fraternidad y unidad". (230)**
+> **"La masonería se comprometió a sentar las bases de la unidad nacional en América, porque \[como sociedad secreta\] podía propagarse a través de las colonias y trabajar de manera constante y silenciosa, creando en una clase limitada pero muy prominente de un sentimiento de unidad americana sin la cual, no habría habido Estados Unidos". (Página 230)"En 1760, no había pueblo, grande o pequeño, donde la Masonería no hubiera hilado su telaraña, donde estuviera predicando fraternidad y unidad". (230)**
 
 Benjamin Franklin, que era el Gran Maestre de una logia francesa, recaudó millones de francos cruciales para financiar el ejército de George Washington. Fue el primero en presentar un proyecto concreto de colaboración militar y federación política a un Congreso que representaba a todas las colonias. Estableció una cadena de periódicos masónicos en todas las colonias. Puedes imaginar dónde encontró el dinero.  
   
@@ -51,7 +51,7 @@ Fay dice que George Washington y su ejército mantuvieron vivo el espíritu de l
 >   
 > Lord Stirling, los dos Putnams, el general Steuben, Montgomery, Jackson, Gist, Henry Knox y Ethan Allen eran masones. Todos se reunieron alrededor de su Maestro Masón Washington y todos se encontraron en el "Templo de la Virtud", una estructura grosera que forma una cuadrícula oblonga de cuarenta por sesenta pies, una historia en altura, una entrada única que estaba flanqueada por dos pilares... La atmósfera que rodeaba a Washington era masónica y se puede decir que el esquema de su mente era masónico" (p.250).
 
-**Fay apunta a un "curioso" grado de coordinación entre los masones en los ejércitos estadounidense y los británicos:
+Fay apunta a un "curioso" grado de coordinación entre los masones en los ejércitos estadounidense y los británicos:
 
 > "Parece incluso probable que la inolvidable y misteriosa laxitud de ciertas campañas militares inglesas en América, en particular las de los hermanos Howe, fuera deliberada y debida a el deseo masónico del general inglés de llegar a una solución pacífica... "(251)
 

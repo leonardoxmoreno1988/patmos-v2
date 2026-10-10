@@ -36,7 +36,7 @@ En una publicación del blog de la empresa, el equipo de diseño de Facebook, es
 
 > “El símbolo de Meta forma un bucle continuo que funciona a la perfección entre contextos 2D y 3D (...) Puede parecerse a una M de "Meta" y, a veces, también a un signo de infinito, que simboliza horizontes infinitos en el Metaverso."
 
-**Tal concepción del infinito es también compartido en el mundo del ocultismo (de origen egipcio y gnóstico), con un símbolo muy similar: el [ouroboros](https://en.wikipedia.org/wiki/Ouroboros), uroboros, o “la serpiente/dragón mordiendo su propia cola”. En el gnosticismo se describe al ouroboros como un dragón de doce partes que rodea al mundo con la cola en la boca.  
+Tal concepción del infinito es también compartido en el mundo del ocultismo (de origen egipcio y gnóstico), con un símbolo muy similar: el [ouroboros](https://en.wikipedia.org/wiki/Ouroboros), uroboros, o “la serpiente/dragón mordiendo su propia cola”. En el gnosticismo se describe al ouroboros como un dragón de doce partes que rodea al mundo con la cola en la boca.  
   
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEiTq39RxtwYQLkHS8t8s-iZacELbJT5G3JALGJa6m-cPhu5jHdoMibtv2zXzo-Gzav3o3M08y4lqZYB4L3ab8e12MpFdyiTUlacNqOHqvLbsi3-XOG7Nm8_ifsI3KJUiv2gFBkpubhj1muxI6yeaplKOtDsmXRwdUNqdsjZQNsb5B8RbkSjvnYqx3IP=w640-h502)](https://blogger.googleusercontent.com/img/a/AVvXsEiTq39RxtwYQLkHS8t8s-iZacELbJT5G3JALGJa6m-cPhu5jHdoMibtv2zXzo-Gzav3o3M08y4lqZYB4L3ab8e12MpFdyiTUlacNqOHqvLbsi3-XOG7Nm8_ifsI3KJUiv2gFBkpubhj1muxI6yeaplKOtDsmXRwdUNqdsjZQNsb5B8RbkSjvnYqx3IP=s564)

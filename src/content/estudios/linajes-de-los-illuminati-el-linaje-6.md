@@ -337,7 +337,7 @@ Para ilustrar que la religión Pagana del Nazismo es un ejemplo de los Satanista
 
   
 
-## **Los Rothschilds**
+## Los Rothschilds
 
 (Continuación de los artículos de los Rothschilds por Fritz Springmeier):  
   
@@ -373,7 +373,7 @@ La reciente Lala Madelyn Payseur Gatling Fulhum (1876-1972) fue mas tarde, la ca
 
   
 
-## **La Casa Rothschild**
+## La Casa Rothschild
 
 Si uno observa los entretelones de la historia, se encontrará con la Casa Rothschild. Ellos han endeudado Reyes, manipulado Reinos, creado guerras y moldeado cada forma del mundo internacional. Entre la jerarquia Illuminati, ellos son reverenciados como un poderoso linaje Satánico. Ellos son "leyendas vivientes".  
   
@@ -435,7 +435,7 @@ La Casa Rothschild necesitaba de una nueva escalera. La vieja, el Terrateniente,
 
   
 
-## **Los "Cinco Magos"**
+## Los "Cinco Magos"
 
 Cuando Mayer murió, la jefatura de la familia recayó en Nathan Rothschild de Inglaterra. Aunque Nathan no era el mayor, los 5 hermanos votaron unánimemente y Nathan fue elegido el más capaz para liderearlos. Nathan era un patán ensimismado muy inteligente y sin educación. Aunque el no era amable y era un hombre grosero (el podia maldecir como camionero), su dinero le permitió entrar en la alta sociedad Inglesa. Su fria visión de la vida y el poder es vista en su respuesta a un Mayor Inglés que estaba empezando a ser sentimental sobre las horribles muertes de una gran cantidad de soldados que habian muerto en la guerra. "Bueno", dijo Rothschild, "Si todos esos no hubieran muerto, usted probablemente seguría siendo un baterista". Hay una historia que dice que uno de los hijos de Nathan le preguntó cuántas naciones habian en el mundo y este le respondió, "Hay solo dos de las que tu tienes que preocuparte". Está la "Mishposhe", (Familia en Yiddish), y están las otras". La historia puede ser falsa, pero la actitud asumida es real.  
   
@@ -474,7 +474,7 @@ La mensajeria de Metternich también proveyeron algo muy importante a la familia
 
   
 
-## **"La nueva trinidad"**
+## "La nueva trinidad"
 
   
 
@@ -492,7 +492,7 @@ La Casa de Italia terminó de la misma manera. El primer hijo de Carl que se hab
 
   
 
-## **La Influencia De Rothschild En America**
+## La Influencia De Rothschild En America
 
 Este tema es tan masivo que solo será tocado de manera breve. En 1837, August Belmont, arribó a los Estados Unidos, durante el pánico de 1837. Parece ser que August Belmont fue un prestanombres de Rothschild. Belmont compró bienes del gobierno durante este periodo de Pánico y eventualmente su triunfo lo condujo a la Casa Blanca donde se convirtió en el "asesor financiero del Presidente de los Estados Unidos". Sus politicas ayudaron a las fuerzas del Norte contra el Sur en la Guerra Civil.  
   
@@ -500,7 +500,7 @@ Judah P. Benjamin, quien acorde a A. Ralph Epperson, fue un estratega de campañ
 
   
 
-## **La Casa Rothschild e Israel**
+## La Casa Rothschild e Israel
 
 La relación de los Rothschild con los Judios es decepcionante. En principio se puede ver a los Rothschilds como "pro-judios" y ellos han dado abundante caridad a los grupos y causas Judías. Pero su apoyo para con la raza Judía, en la mayoría de los casos, han sido usados para el sólo propósito de controlar la dirección de la fé y de beneficiarse de los Judios. Los Rothschilds han sido descritos como la "familia real" de los Judios. Muchos Rothschilds han sido apodados por las masas como "Reyes de los Judios". ¿Pero que tipo de Judaismo apoyan los Rothschilds?, ¿acaso apoyan al Judaismo ortodoxo quienes creen en el viejo testamento y están esperando el retorno del Mesías?, no. ¿Creen ellos acaso en los Judios mesiánicos quienes creen que Jesucristo regresará a salvar la humanidad?, tampoco. Los Rothschilds apoyan a aquellos Judios quienes han caido presas de las enseñanzas Gnósticas y ocultistas de la Cábala y apoyan al movimiento Sionista controlado. No todos los Sionistas son parte de la conspiración, pero sus lideres lo son, y los lideres de más alto rango de las cúpulas Sionistas son en última instancia los Rothschilds. Yo estoy decepcionado con algunos investigadores quienes han dicho que la conspiración es puramente Judía, y esta afirmación tan ciega les ha hecho que su investigación se salga de cauce y se eche totalmente a perder, contaminando todo su trabajo y llevando a pistas falsas y desinformación a los medios masivos populares. Estos investigadores están cegados al hecho de que la conspiración ha cegado y manipulado a la raza Judía mas que cualquier otro grupo en la historia del mundo. La jerarquía Judia simplemente se ha reclinado hacia atrás y ha permitido el ataque y el control de la raza Judía para el cumplimiento de la agenda Satánica. Estoy diciendo esto para dejarte ver que no soy antisemita. Yo pienso que hay gente que se llama asi misma "Cristiana" y hay otra que se llama asi misma "Judia" y sin embargo son parte de la conspiración. El llamar a la conspiración "Judia" es ignorante. Yo pienso que los Judios quienes están involucrados en la Cábala, Frankismo o Sabatismo, están todos envueltos en la brujeria. Esta creencia está reforzada por el uso que los Rothschilds le dan al Sello de Salomón, utilizándolo como sello de la familia. La ciudad donde los Rothschilds se originaron, Frankfurt, ha sido profundamente anti-semítica. Los Rothschilds estuvieron luchando constantemente para superar los limites que les ponían a su cultura. Es muy probable que ellos gestaran una amargura en sus corazones hacia la Sociedad "Cristiana". Esta amargura aunada a la necesidad de generar mas utilidades y adquirir poder, fueron mas o menos las razones por la que ellos forjaron la idea de proclamar e instaurar un Estado Judío. (Yo asumo que los lectores entienden que el Sionismo/concepto de la restauración de Israel es una estafa no-bíblica).  
   
@@ -554,7 +554,7 @@ Hay mucha actividad ocurriendo en la parte de los dias modernos de los Rothschil
 
   
 
-## **Su poder es extenso**
+## Su poder es extenso
 
 Peter Rupert Lord Carrington, quien es el Gerente de los Bilderbergs, ha sido el Director de la Corporación de Zinc de la Compañia Rio Tinto, perteneciente a los Rothschilds. El tambien es director del Banco de Barclay de parte de la Comisión Trilateral. Francois Mitterrand, quien ha dirigido a Francia, es un amigo extremadamente cercano de los Rothschilds. Yo hago alusión a estos dos hombres solo para mostrar la extensión que ejercen los Rothschilds detrás de escenas.  
   
@@ -564,13 +564,13 @@ Uno de mis amigos en Sudamérica fue testigo personal de la destrucción de Suda
 
   
 
-## **Los Linajes Son Secretos**
+## Los Linajes Son Secretos
 
 Uno de los principios que se debe tener en cuenta, es que el actual poder ocultista que los Rothschilds ostentan, está escondido en linajes secretos. Aunque los Rothschilds formen parte del linaje Rothschild, la gente debe buscar apellidos tales como Bauer, Bowers, Sassoons, y muchos otros apellidos. Las personas dentro de los Illuminati quienes tienen sangre Rothschild están conscientes de su secretismo ancestral, pero las personas del mundo de fuera no estarán conscientes nunca ni les será dicho de que llevan esta "poderosa" sangre ocultista.
 
   
 
-## **Por Encima de la Ley**
+## Por Encima de la Ley
 
 La historia de lo que pasó con BankCal, el cual era el Banco mas viejo en California, ilustra que tan poderosos son los Rothschilds en los Estados Unidos. A veces, la corrupción en la cúspide apesta tanto que no puedo estar sorprendido del todo. Los Estados Unidos tienen a la Comisión de Seguridad e Intercambio (SEC) para proteger a las personas de un fraude en el mercado de las acciones. Durante la década de 1980, hubo tres casos de fraude publicitados que la SEC reveló. Estos tres casos crearon la confianza en los Americanos de que el mercado accionario estaba honestamente dirigido. La historia de lo que Edmond Rothschild, (cuyo nombre completo era Edmond Adolphe Jules Jacques Maurice Baron de Rothschild) hizo con Banckal le demuestra al mundo que los Rothschilds no se rigen por las mismas reglas por las que se rige todo mundo. Ellos están literalmente por encima de la ley. Los Illuminati poderosos controlan la ley. En 1937, el CEO de Bankcal, De Breteville, le vendió a Edmond Rothschild 300,000 acciones de Bancal Tristate Corp. 22% del holding de la compañia para el Banco de California. De Breteville le había preguntado antes a dos primos Rothschilds Ingleses si querían comprar las acciones. Estos dos primos Ingleses llamaron entonces a dos primos Rothschilds Franceses, quienes a su vez le llamaron a Edmond a Ginebra, Suiza, para que diera su consejo y asesoramiento. Edmond les dijo que les ayudaría a comprar, y después de eso el adquirió las acciones. El pudo haberse volteado y repartido los beneficios con sus familiares. El mintió. Y durante los siguientes años, el continuaría mintiéndoles a numerosas personas sobre sus intenciones con el banco. De Breteville dijo: "El le mintió a su familia y me mintió a mi, había mano negra ocurriendo". El Banco de California tenía la única franquicia bancaria en el tiempo en que la hegemonía circundaba alrededor de tres estados del pacífico (OR, WA, CA).  
   
@@ -582,7 +582,7 @@ En Marzo de 1982, Mitsubichi comenzó una negociación en secreto para comprar e
 
   
 
-## **El Grupo De la Mesa Redonda**
+## El Grupo De la Mesa Redonda
 
 David Smith quien ha escrito el siguiente articulo de los Rothschilds para este libro me pidió una introducción sobre los Rothschilds y el Grupo de la Mesa Redonda. Los hombres que forman el Grupo de Milner de la Mesa Redonda por las varias pistas en sus vidas, son y han sido grandes Satanistas en secreto. Rhodes y Stead crearon la sociedad secreta que cuenta con un gran número de iniciados. Este circulo incluye a hombres tales como Albert (Lord) Grey, Arthur (Lord) Balfour, Sir Harry Jhonston y Lord Rothschild. Milner estaba en el Comité Ejecutivo de este grupo secreto. Carrol Quigley data el inicio del grupo en Marzo de 1891. Aparentemente, los Rothschilds ayudaron financieramente a esta sociedad secreta. De 1909 a 1913, esta sociedad secreta, a su vez, formó los grupos de la Mesa Redonda en las dependencias Británicas y de los Estados Unidos. Ocho de estos grupos de mesa redonda estuvieron funcionales aún en los 1970s. Sir Abe Bailey apoyó a la revista de los grupos de la Mesa Redonda llamada "La Mesa Redonda" en 1919, Sir Abe Bailey y los Astors financiaron la creación del Instituto Real de Asuntos Internacionales que a su vez creó a las organizaciones hijas tales como el Consejo de Relaciones Exteriores (CFR) en los Estados Unidos. El RIIA es a veces llamado Chatham House (Casa Chatham). El primer grupo de Mesa Redonda del grupo Rhode Milner es a veces llamado la Junta Cliveden, porque se reúnen con frecuencia en el Estado de Cliveden de los Astors. La biografía de Terence O´Brien describe las relaciones de Milner para con los Rothschilds como muy cercanas. Lord Alfred Milner (1854-1925), visitaba con frecuencia a los Rothschilds, se quedaba hasta muy noche con varios Rothschilds, e incluso pasaba noches enteras sin dormir con ellos, sin ninguna explicación o un porque. Milner también trabajó para Rothschild como director de Rio Tinto. Tres familias Illuminati se destacan en la creación de los grupos de la Mesa Redonda, las cuales se convirtieron en la RIIA y en la CFR y otros grupos similares. Estas familias fueron los Rothschilds, los Astors y los Greys. La familia Bailey tambien se destaca como una importante familia generacional Satánica. La RIIA y sus varias ramas tales como la CFR son muy poderosas hoy en dia. En mi libro de Ser Prudentes Como las Serpientes el lector podrá encontrar un gráfico mostrando el rol que juega la CFR en los procesos politicos de los Estados Unidos. 
 
@@ -624,7 +624,7 @@ El hermano de Lionel, Anthony - describió los Rothschild como "esclavos que se 
 
   
 
-## **Las Torres de Mentmore. Construidas por el Barón Mayer Rothschild**
+## Las Torres de Mentmore. Construidas por el Barón Mayer Rothschild
 
 El Barón Mayer de Rothschild fue miembro del Parlamento (aunque nunca pronunció un discurso), y le encantaba la cría de caballos y las carreras. Él era el miembro más "deportivo" de la familia. Cuando Lionel murió en 1879, una nueva generación de Rothschild británicos aparecieron en escena dirigida por el hijo aristocrático de Lionel, Nathaniel "Natty" de Rothschild. Natty tomó el control de la Nueva Corte, y del banco Británico de los Rothschild. Fue elegido miembro de la Cámara de los Comunes en 1865, y luego, en 1885, la Reina Victoria lo hizo Lord y él entró en la Cámara de los Lores - el primer Lord Rothschild. Natty era inteligente y extrovertido, era un hacedor de discursos adornado, a diferencia de su padre, Lionel, y su tío Mayer. "Sir Natty" ha sido descrito como snob, alto, y sin sentido del humor ", "uno de los tres hombres más rudos en Inglaterra, selectivo, contundente, reservado, de gran alcance y un hombre con un temperamento explosivo". Un perfecto representante de la clase dominante. Dijo uno de sus biógrafos: "A pesar de que Natty carecía de la inteligencia de su áspero y huraño abuelo \[Nathan, segundo jefe de los Rothschild\] tenía una fuerte personalidad y el aire de autoridad de un hombre que no está acostumbrado a ser contradicho." Sir Natty era un buen amigo de los Primeros Ministros Disraeli y Gladstone. Jugó el juego de la filantropía de los ricos muy bien. El poderoso jefe de New Tribunal era conocido por sus obras de caridad, especialmente para con los Judios - y fue llamado "Rey de los Judios", como han sido llamados muchos otros Rothschilds.  
   

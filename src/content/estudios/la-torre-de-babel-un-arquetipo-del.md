@@ -135,7 +135,7 @@ Este poder alcanza por supuesto las ramas del entretenimiento, entre ellas Holly
 
 [![](http://www.judiciaryreport.com/images/beyonce-10-29-10.png)](http://www.judiciaryreport.com/images/beyonce-10-29-10.png)
 
-****Solo un ejemplo de quien dirige  la industria musical**** 
+Solo un ejemplo de quien dirige  la industria musical 
 
   
 

@@ -238,7 +238,7 @@ Cristianos han visto los registros de membresía Charles T. Russell los cuales e
 21: "Los Nombres Sureños de Escocia". NY. Librería Pública, 1962, pg, 705.  
   
   
-**Cuestionando Viejas Asunciones.  
+Cuestionando Viejas Asunciones.  
 
 Hay suficiente evidencia circunstancial para llevar a uno a preguntarse muchas asunciones. Comienzo cuestionando la asunción de que los Presidentes de la Watchtower estaban desconectados unos con otros. Otra suposición que es cuestionable fue que la Sociedad de la Watchtower no tenía una agenda oculta.  
   
@@ -261,7 +261,7 @@ Ella era la escritora fantasma y la editora fantasma del trabajo de su marido Ch
 Primeras Portadas del Heraldo de la Watchtower.  
   
   
-**PISTAS.  
+PISTAS.  
 
 Desde luego, hay vislumbres de pistas para el investigador pero nada sólido. Parece ser que hay mucho más de Charles T. Russell que lo poco que se le ha contado al público. En los próximos breves capitulos, trataremos de dispersar algunos de los misterios que rodean al hombre.  
   
@@ -283,12 +283,12 @@ El Sistema de Seguridad de los Illuminati.
 La Russell Trust es la corporación legal de la Orden de la Skull and Bones, de ahi crearon una compañia host de seguridad bajo la corporación Wackenhuts. Un sistema de seguridad de seguridad llamado "Corporación Wackenhuts". Otra parte de este conglomerado es el Mundo de "Tecnologías de Wackenhuts Inc." o WWT.Inc. Wackenhut opera mundialmente. La Sede del Grupo Wackenhut está en Florida. Ellos tienen ramas de oficinas en lugares como Portland, Oregon. (En México el Grupo Wackenhut de servicios de seguridad S.A de C.V se encuentra en el Distrito Federal, en calzada de la viga 398 en el piso 4. el teléfono es 57414600, en el estado Venustiano Carranza. En Paraguay está en Nery Quevedo 315 esq. Hipolito Carron Asunción,Paraguay, Telefax: 663812. y así por toda Latinoamérica y el mundo, N.d.T). Wackenhut maneja toda la inteligencia relacionada con trabajos Super-Secretos clasificados como ULTRA para los Estados Unidos a nivel mundial. Ellos son los que protegen las bases Ovnis de arriba a abajo, junto con los grupos de Fuerzas Delta de la CIA y varias unidades de la MP. Su rama en Las Vegas provee seguridad para el complejo Ovni de Groom Lake. El periódico dominical de Las Vegas Review en su boletín del viernes 7/26/92 dió cuenta de 3 agentes de la Wackenhut quienes perdieron la vida en un accidente en helicóptero cerca de la base de Groom Lake. El número telefónico de "Mundo de Tecnologías de la Wackenhut" se conecta primero, a través de la Russell Trust, es el 702-646-4406, y será contestado por la Russell Trust. La junta de Directores de la Wackenhut son la CIA, el FBI, la División 5, la NSA, la ISA y los oficiales de la NRO. Las personas (chicas) que contestan los números telefónicos de la Wackenhut no tienen conocimiento de lo que trata realmente la Corporación Wackenhut. George Russell Wackenhut es el Jefe Ejecutivo de la Corporación. El trabajó para el FBI y los Cristianos Cientificos. Wackenhut tiene en su vecindario cerca de 40,000 empleados.  
   
   
-**MORIAH Y EL LIDERAZGO MORMÓN  
+MORIAH Y EL LIDERAZGO MORMÓN  
 
 **LAS 13 FAMILIAS DE LA CUSPIDE Y EL LIDERAZGO MORMON**   
 En lugar de tener un articulo de una familia individual en este momento, este articulo es en general de las 13 familias de la cúspide.  
   
-**CONTENIDO  
+CONTENIDO  
 
 En la primera parte de este articulo lidearemos con personas actuales. En la segunda parte de este articulo, discutiremos sobre los secretos internos del Satanismo dentro de las religiones en las que participan las 13 familias de las cúpulas.  
   

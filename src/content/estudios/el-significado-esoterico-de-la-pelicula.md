@@ -32,17 +32,17 @@ Paramount Pictures, quién hizo un notable esfuerzo estratégico por vender esta
 
 > "La película está inspirada en la historia de Noé. Aunque la licencia artística se ha tomado, creemos que esta película es fiel a la esencia, los valores y la integridad de la historia que es la piedra angular de la fe de millones de personas en todo el mundo." - Sitio web oficial
 
-**Muy contrario a esto el director Darren Aronofsky mencionó sobre el film:  
+Muy contrario a esto el director Darren Aronofsky mencionó sobre el film:  
 
 > "Noé es la película bíblica menos bíblica jamás hecha", "Y me importa una mierd@ las calificaciones! Mis películas están sobre las calificaciones." - [Fuente](https://www.digitalspy.com/movies/a556778/noah-studio-re-cut-was-86-minutes-long-ended-on-christian-rock-song/#~oAlECzgfsY2isG)
 
-**Según las fuentes oficiales, Paramount realizo su propia versión de la película, recortando muchas de las escenas del director para hacer un film más fiel a la historia bíblica, pero debido a una mala critica de The New Yorker al final la versión de Aronofsky fue la que llegaría a las salas de cine.  
+Según las fuentes oficiales, Paramount realizo su propia versión de la película, recortando muchas de las escenas del director para hacer un film más fiel a la historia bíblica, pero debido a una mala critica de The New Yorker al final la versión de Aronofsky fue la que llegaría a las salas de cine.  
   
 Luego de esta decisión, Paramount terminó en un gran dilema tras las críticas de prensa de las proyecciones iniciales, donde encontraron que muchos cristianos estaban molestos porque la película Noé no fue fiel a la narrativa bíblica. Esto no debería ser una gran sorpresa, ya que Aronofsky, promueve elementos ocultos y gnósticos como en sus otras películas. Añadiendo a esto el hecho de que él se refiere a la historia de Noé como un "gran fábula", y no tiene motivos para referirse a la historia con algún sentido de respeto o reverencia a Dios. Aronofsky admitió:  
 
 > "Yo no creo que es una historia religiosa... creo que es una gran fábula que es parte de muchas religiones diferentes y prácticas espirituales." -Darren Aronofsky, Variety 2012
 
-**Es claro que al final fue la versión de un egocéntrico Aronofsky la que se colocó por encima de la versión de Dios sobre la historia de Noé. Y si estaba esperando una historia bíblicamente fiel sobre redención y obediencia, usted va a ser profundamente decepcionado. Lo que veremos ahora es la exégesis invertida y manipulada de la mente del director sobre la historia de Génesis.
+Es claro que al final fue la versión de un egocéntrico Aronofsky la que se colocó por encima de la versión de Dios sobre la historia de Noé. Y si estaba esperando una historia bíblicamente fiel sobre redención y obediencia, usted va a ser profundamente decepcionado. Lo que veremos ahora es la exégesis invertida y manipulada de la mente del director sobre la historia de Génesis.
 
   
 
@@ -87,7 +87,7 @@ Luego de que el hombre es expulsado del Edén, Noé explica que un grupo de áng
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR-s5Z4QXLL1D0s999ZXmoRyGKbhWcItdAt-bUn8WdxKRwxyL2cekkc2dfFF1AYqiL0s-MWWOYN0OnkubzJP9vfsX05EPXwbk67gDilvOrVyUh6MZzd76sFVkCv8_GX8HR5H53YchxDqQ/s1600/caidos.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR-s5Z4QXLL1D0s999ZXmoRyGKbhWcItdAt-bUn8WdxKRwxyL2cekkc2dfFF1AYqiL0s-MWWOYN0OnkubzJP9vfsX05EPXwbk67gDilvOrVyUh6MZzd76sFVkCv8_GX8HR5H53YchxDqQ/s1600/caidos.jpg)
 
-**"Los Vigilantes" son arrojados a la Tierra como los ángeles caídos de Génesis 4:1.  
+"Los Vigilantes" son arrojados a la Tierra como los ángeles caídos de Génesis 4:1.  
 
   
 
@@ -97,7 +97,7 @@ Luego de que el hombre es expulsado del Edén, Noé explica que un grupo de áng
 
 El término "Los Vigilantes" es usado en el libro apócrifo de Enoc para describir a los ángeles caídos. Es interesante que en la película de Aronofsky estos ángeles no están en el abismo esperando el juicio final como enseña la Biblia, sino que luego de vivir aislados deciden ayudar a Noé a construir el arca y defenderlos de sus enemigos. Luego de que estos son asesinados por los hombres que intentan tomar el arca, son ascendidos nuevamente al cielo en forma de luz, siendo redimidos por "el creador". Adolphe Franck explica sobre la cosmología de la Cábala:
 
-**> "No hay nada absolutamente malo; nada es maldito para siempre, ni siquiera el arcángel del mal o la víbora,  como se le llama a veces. Llegará un momento en el que él recuperará su nombre y su naturaleza angelical".** 
+> "No hay nada absolutamente malo; nada es maldito para siempre, ni siquiera el arcángel del mal o la víbora,  como se le llama a veces. Llegará un momento en el que él recuperará su nombre y su naturaleza angelical". 
 
 Entendiendo la visión de Aronofsky sobre el libro de Génesis es claro que él no tiene ningún interés en la historia bíblica, sino en la versión cabalística y gnóstica de exponen las escuelas de misterio. Es en este sentido que podemos revelar a quién se refieren cuando mencionan a Dios como "el creador". Pero ¿Por qué obviar la palabra "Dios" y usar este calificativo? Esto se debe a que para los gnósticos el Dios que CREO el mundo material (Yahvé) es una deidad inferior, egoísta y asesino, que solo busca someter al ser humano mediante la obediencia. Este creador trata de mantener a Adán y Eva alejados del verdadero conocimiento de lo divino (el árbol de la ciencia del bien y del mal) y cuando desobedecen, monta en cólera y los expulsa del jardín.
 
@@ -193,6 +193,6 @@ Debemos saber que Hollywood, lejos de los millones que puede ganar por esta clas
 > "Como sucedió en tiempos de Noé, así sucederá también cuando regrese el Hijo del hombre. En aquellos tiempos antes del diluvio, y hasta el día en que Noé entró en la barca, la gente comía y bebía y se casaba. Pero cuando menos lo esperaban, vino el diluvio y se los llevó a todos. Así sucederá también cuando regrese el Hijo del hombre."  
 > \- Mateo 24:37-39
 
-**En la historia que vivió Noé y su familia, Dios nos profetiza de que forma Él le iba a dar una nueva oportunidad al hombre, ya que en muchos sentidos el arca representa la única forma de salvación que llego milenios después en la forma de Jesucristo. Y exactamente como el tiempo que vivimos ahora, donde la filosofía de un director es las que esta permeando los conceptos que se tienen de Dios, las personas de nuestro tiempo rehúsan entrar por esa puerta angosta de salvación. El que es fiel y verdadero le dice:  
-**> "Yo soy la puerta: el que por mí entre, se salvará... Yo soy el camino, la verdad y la vida; nadie puede ir al Padre si no es por medio de mí."  
-> \- Juan 10:9 - 14:6 .**
+En la historia que vivió Noé y su familia, Dios nos profetiza de que forma Él le iba a dar una nueva oportunidad al hombre, ya que en muchos sentidos el arca representa la única forma de salvación que llego milenios después en la forma de Jesucristo. Y exactamente como el tiempo que vivimos ahora, donde la filosofía de un director es las que esta permeando los conceptos que se tienen de Dios, las personas de nuestro tiempo rehúsan entrar por esa puerta angosta de salvación. El que es fiel y verdadero le dice:  
+> "Yo soy la puerta: el que por mí entre, se salvará... Yo soy el camino, la verdad y la vida; nadie puede ir al Padre si no es por medio de mí."  
+> \- Juan 10:9 - 14:6 .

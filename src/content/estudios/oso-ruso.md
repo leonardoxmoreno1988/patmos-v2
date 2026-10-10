@@ -33,7 +33,7 @@ Ezequiel escribe:
 > “Y FUÉ palabra de Jehová a mí, diciendo: Hijo del hombre, pon tu rostro contra Gog en tierra de Magog, príncipe de la cabecera de Mesec, y Tubal, y profetiza sobre él, Y dí: Así dijo el Señor Jehová: He aquí que yo a tí, Gog, príncipe de la cabecera de Mesec, y Tubal. Y yo te quebrantaré, y pondré anzuelos en tus quijadas, y sacarte he, a tí, y a todo tu ejército, tus caballos y tus caballeros vestidos de todo, todos ellos: grande multitud con paveses y escudos, teniendo espadas todos ellos. Persia, y Etiopía, y Libia con ellos, todos ellos con escudos y almetes.”  
 > \-Ezequiel 38:1-5
 
-**Los nombres y lugares que Ezequiel describe nos son extraños hoy en día, pero una mirada más cercana a las Escrituras y la historia nos ayudará a traducirlos a términos modernos.
+Los nombres y lugares que Ezequiel describe nos son extraños hoy en día, pero una mirada más cercana a las Escrituras y la historia nos ayudará a traducirlos a términos modernos.
 
   
 
@@ -63,7 +63,7 @@ Desde una perspectiva humana, Israel no puede superar este asalto. La única esp
 > "Y será en aquel tiempo, cuando vendrá Gog contra la tierra de Israel, dijo el Señor Jehová, que mi ira subirá por mi enojo. Porque he hablado en mi zelo, y en el fuego de mi ira, que en aquel tiempo habrá gran temblor sobre la tierra de Israel:"  
 > \-Ezequiel 38:18-19
 
-**Más adelante en el capítulo, hay una descripción de las víctimas masivas entre la coalición del norte y una serie de desastres naturales. El juicio de Dios vendrá en una serie de desastres aún más espectaculares y catastróficos que las plagas del antiguo Egipto (Mateo 24:21, Revelación 16).  
+Más adelante en el capítulo, hay una descripción de las víctimas masivas entre la coalición del norte y una serie de desastres naturales. El juicio de Dios vendrá en una serie de desastres aún más espectaculares y catastróficos que las plagas del antiguo Egipto (Mateo 24:21, Revelación 16).  
   
 Profecías como esta sobre el futuro de Rusia e Israel nos recuerdan que tenemos un Dios grande e impresionante, y nada está más allá de su poder. Incluso cuando parece que no hay esperanza, Dios puede entrar y cambiarlo todo.  
   

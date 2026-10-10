@@ -82,7 +82,7 @@ Al igual que los dioses sumerios, los de Tolkien fueron señores sobre los eleme
 Los cristianos están divididos en dos bandos con respecto a los libros de Tolkien. Un campo dice que hay vínculos entre su alegórico mito y la verdad bíblica, mientras que del otro campo destaca que "El Señor de los Anillos" fue escrito para engañar a la gente, dirigirlos fuera de Dios y hacia el ocultismo:  
   
 
-> **"Tristemente, muchos profesan ser cristianos a través de la mentira de que cualquier cosa hecha por un "cristiano" es aceptable, han aceptado el ocultismo. Tolkien se define como un cristiano. Satanás entonces tiene la aceptación de su obra ocultista "el señor de los anillos", de la gente crédula que creen que cualquier cosa hecha por un "cristiano" es aceptable ... "****"... Satanás ha usado a Tolkien y su serie de ataques ocultos en contra de los cristianos. El diablo logró que el ocultismo sea aceptado por ambos grupos, los perdidos y los que profesan ser cristianos.** **Las historias de ocultistas Tolkien se publicaron por primera vez en la década de 1950. Es interesante observar que Tolkien tomó 12 años para escribir sus historias ocultas y los liberó en el año 13. Era un verdadero ocultista y el diablo estaba contento y satisfecho de su obra "(3) John Ronald Reuel** **Tolkien (1892-1973) era un hombre de muchas contradicciones, por ejemplo: Ya en 1969, escribió una carta que afirma que "el propósito principal de la vida, para cada uno de nosotros, es aumentar de acuerdo a nuestra capacidad, nuestro conocimiento de Dios por todos los medios que tenemos, y que nos movamos en alabanza y gracia." (8) Sin embargo, el foco principal de su vida fue su mítica Tierra Media, a cargo de un distante e impersonal "Dios" que podría confundir más que aclarar la naturaleza del Dios de la Biblia.****En sus cartas personales (muchos de ellos están incluidos en un libro titulado Las cartas de JR R Tolkien), expresó su cautela hacia las prácticas ocultistas. Sin embargo, equipando a su equipo de héroes míticos - La Comunidad del Anillo - con los poderes paganos que Dios prohíbe. Por ejemplo, "Gandalf \[un asistente útil\] es capaz de usar la magia potente ... Para hacer frente a las fuerzas de la oscuridad, Gandalf el Gris puede llamar no sólo a su hechicería, sino también a su personal del poder y la espada Glamdring Elven." (9)**
+> **"Tristemente, muchos profesan ser cristianos a través de la mentira de que cualquier cosa hecha por un "cristiano" es aceptable, han aceptado el ocultismo. Tolkien se define como un cristiano. Satanás entonces tiene la aceptación de su obra ocultista "el señor de los anillos", de la gente crédula que creen que cualquier cosa hecha por un "cristiano" es aceptable ... ""... Satanás ha usado a Tolkien y su serie de ataques ocultos en contra de los cristianos. El diablo logró que el ocultismo sea aceptado por ambos grupos, los perdidos y los que profesan ser cristianos. Las historias de ocultistas Tolkien se publicaron por primera vez en la década de 1950. Es interesante observar que Tolkien tomó 12 años para escribir sus historias ocultas y los liberó en el año 13. Era un verdadero ocultista y el diablo estaba contento y satisfecho de su obra "(3) John Ronald Reuel Tolkien (1892-1973) era un hombre de muchas contradicciones, por ejemplo: Ya en 1969, escribió una carta que afirma que "el propósito principal de la vida, para cada uno de nosotros, es aumentar de acuerdo a nuestra capacidad, nuestro conocimiento de Dios por todos los medios que tenemos, y que nos movamos en alabanza y gracia." (8) Sin embargo, el foco principal de su vida fue su mítica Tierra Media, a cargo de un distante e impersonal "Dios" que podría confundir más que aclarar la naturaleza del Dios de la Biblia.En sus cartas personales (muchos de ellos están incluidos en un libro titulado Las cartas de JR R Tolkien), expresó su cautela hacia las prácticas ocultistas. Sin embargo, equipando a su equipo de héroes míticos - La Comunidad del Anillo - con los poderes paganos que Dios prohíbe. Por ejemplo, "Gandalf \[un asistente útil\] es capaz de usar la magia potente ... Para hacer frente a las fuerzas de la oscuridad, Gandalf el Gris puede llamar no sólo a su hechicería, sino también a su personal del poder y la espada Glamdring Elven." (9)**
 
   
 Tolkien le dijo una vez a un amigo jesuita: "El Señor de los Anillos es, por supuesto, una obra fundamentalmente religiosa y católica... el elemento religioso es absorbido en la historia y el simbolismo." (11) La gente salio defendiendo Tolkien, diciendo que era un estricto Católico Romano y por lo tanto los cristianos, deberían leer más sobre el catolicismo romano y, especialmente, la Orden de los Jesuitas. Ambos grupos "religiosos" no son más que grupos de fachada de los Illuminati - la fuerza que está controlando los acontecimientos políticos en el fondo, para crear un gobierno mundial, y para allanar el camino del "Anticristo".  
@@ -136,7 +136,7 @@ Otra alegoría que Tolkien utiliza es el de la Atlántida, el legendario contine
 
   
 
-****Mapa de Númenor de Tolkien, la isla que se hundió en el océano. Los cinco rincones de la isla forman también la forma de un pentagrama.****
+Mapa de Númenor de Tolkien, la isla que se hundió en el océano. Los cinco rincones de la isla forman también la forma de un pentagrama.
 
   
 
@@ -152,7 +152,7 @@ De hecho, Tolkien menciona algo que podría interpretarse como "canalización":
   
 
 > **"... La cosas parecieran que se escriben solas una vez que empiezan..."  
-> ****Las cartas de J. R. R Tolkien, página 91.**
+> Las cartas de J. R. R Tolkien, página 91.**
 
   
 
@@ -206,7 +206,7 @@ Un conjunto similar de símbolos se ha implementado por Tolkien para el reino de
 
   
 
-****Corona de Aragorn Figura.****
+Corona de Aragorn Figura.
 
   
 
@@ -266,7 +266,7 @@ Otra cosa interesante es el símbolo de Sauron utiliza - El Ojo que todo lo ve, 
 
   
 
-****"Ojo de Horus", o el "ojo de Lucifer", de origen masónico.****
+"Ojo de Horus", o el "ojo de Lucifer", de origen masónico.
 
   
 

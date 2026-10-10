@@ -15,7 +15,7 @@ tags: ["Cine y Cultura"]
 
   
   
-Quizás alguien que no esté relacionado con las técnicas **[control mental](http://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)** **illuminati** no entenderá por completo la complejidad de este video, pero será un aporte para comprender como Hollywood y la **industria musical** manejan a los supuestos artistas y de lo que deben hacer para alcanzar el éxito. **System of a Down** es uno de los pocos que habla sobre esto, y aún menos son los que entienden el significado de la canción "Aerials".  
+Quizás alguien que no esté relacionado con las técnicas **[control mental](http://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html) illuminati** no entenderá por completo la complejidad de este video, pero será un aporte para comprender como Hollywood y la **industria musical** manejan a los supuestos artistas y de lo que deben hacer para alcanzar el éxito. **System of a Down** es uno de los pocos que habla sobre esto, y aún menos son los que entienden el significado de la canción "Aerials".  
   
 [![captura del videoclip aerials de system of a down donde el niño se ve rodeado de elementos ocultos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2RafneFMUmNmCkalsKv_HFnptEHzZrqR3vE0M0QvkDWw-6rYr91XmuS3wU1VlShTxcHn7mebzLQ3mLn35S7wKNqq7OydhhjASD9p92TYYgp4U19Ytaryq8LqJekO-RDSijGrpqEsLyYoI/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2RafneFMUmNmCkalsKv_HFnptEHzZrqR3vE0M0QvkDWw-6rYr91XmuS3wU1VlShTxcHn7mebzLQ3mLn35S7wKNqq7OydhhjASD9p92TYYgp4U19Ytaryq8LqJekO-RDSijGrpqEsLyYoI/)  
 

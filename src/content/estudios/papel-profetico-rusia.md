@@ -62,7 +62,7 @@ Sin embargo, sabemos que las cuatro bestias de la visión de Daniel en Daniel 7 
 En una edición anterior nos habíamos centrado en la primera bestia (el león con alas de águila) como representante de la alianza angloamericana, pero ¿qué pasa con la segunda bestia en la visión. ¿Qué poder representa esto? ¿Hay alguna pista que nos proporcione para identificar este poder del tiempo del fin?  
   
 
->  **"Y he aquí otra bestia, un segundo, semejante a un oso, y se levantó de un lado, y tenía tres costillas en su boca entre los dientes del mismo; y le dijeron así: Levántate, devora mucha carne".****\- Daniel 7: 5**
+>  **"Y he aquí otra bestia, un segundo, semejante a un oso, y se levantó de un lado, y tenía tres costillas en su boca entre los dientes del mismo; y le dijeron así: Levántate, devora mucha carne".\- Daniel 7: 5**
 
   
 El oso ruso es una personificación nacional de Rusia, utilizada en caricaturas y artículos y obras dramáticas al menos desde el siglo XVII, y se relaciona por igual con la Rusia zarista, la Unión Soviética y la Federación Rusa. Los occidentales a menudo lo usaban y lo usan, especialmente en Gran Bretaña y luego también en los EE. UU., Y no siempre en un contexto halagador en ocasiones solía implicar que Rusia es "grande, brutal y torpe".  

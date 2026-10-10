@@ -16,7 +16,7 @@ La música es un lenguaje en sí mismo. Cuando el apóstol enseña en Efesios 5:
 > "Alabádle a son de bocina: alabádle con salterio y arpa. Alabádle con adufe y flauta: alabádle con cuerdas y órgano. Alabádle con címbalos resonantes: alabádle con címbalos de jubilación. Todo espíritu alabe a JEHOVÁ. Alelu-JAH."  
 > –Salmos 150:3-6
 
-**Vemos que el mandato es alabar al Señor con bocina, salterio, arpa, cuerdas, órganos y címbalos resonantes. La definición misma de un salmo implica que aparte de la voz se debe involucrar [instrumentos musicales](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsDg0aXY3pCBxhtNxWWgZl/gGVJ_htdlSEl), confirmando que a Dios le agradan los instrumentos creados para Su gloria.  
+Vemos que el mandato es alabar al Señor con bocina, salterio, arpa, cuerdas, órganos y címbalos resonantes. La definición misma de un salmo implica que aparte de la voz se debe involucrar [instrumentos musicales](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsDg0aXY3pCBxhtNxWWgZl/gGVJ_htdlSEl), confirmando que a Dios le agradan los instrumentos creados para Su gloria.  
   
 Solo en el Antiguo Testamento podemos ver el poder espiritual de la música en diversos relatos, como las melodías con las que David aliviaba el atormentado espíritu de Saúl, también el memorable y profético cántico de Débora en Jueces 5, y hasta la descripción de Dios mismo cantando en Sofonías 3:17.  
   
@@ -36,7 +36,7 @@ Un ejemplo se encuentra en Éxodo 32. Mientras Moisés descendía del monte, Jos
 > "Y oyendo Josué la voz del pueblo que gritaba, dijo a Moisés: Alarido de pelea hay en el campo. Y él respondió: No es alarido de respuesta de fuertes, ni alarido de respuesta de flacos: alarido de cantar oigo yo."  
 > –Éxodo 32:17-18
 
-**Por ejemplo, la música religiosa africana puede parecerse al sonido de una batalla, similares a espadas, cuchillos y lanzas, por lo que este festival musical entre los israelitas podría haber involucrado una influencia extranjera. Aquella gran multitud en el desierto tenía personas no hebreas (Éxodo 12:38).  
+Por ejemplo, la música religiosa africana puede parecerse al sonido de una batalla, similares a espadas, cuchillos y lanzas, por lo que este festival musical entre los israelitas podría haber involucrado una influencia extranjera. Aquella gran multitud en el desierto tenía personas no hebreas (Éxodo 12:38).  
   
 Es interesante que el uso de instrumentos para hacer música con acento en los tiempos débiles o backbeat se remonta a África, y podrían descender incluso hasta Cam. Gran parte de la música popular moderna utiliza el backbeat para marcar el ritmo, el cual como se mencionó, tiene su origen en el [vudú africano](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsEag0wOqXO2IE12jAU9zt/5jrt16yEEF4e).  
   
@@ -51,7 +51,7 @@ Nabucodonosor, un arquetipo del hijo de perdición (2 Tesalonicenses 2:3), utili
 > "Por lo cual en oyendo todos los pueblos el son de la bocina, del pífano, del atambor, de la arpa, del salterio, de la sinfonía, y de todo instrumento músico, todos los pueblos, naciones, y lenguajes se postraron, y adoraron la estatua de oro que el rey Nabucodonosor había levantado."  
 > –Daniel 3:7
 
-**Las dimensiones de la estatua, 6x6x6, constituían un monumento a la carnalidad y un símbolo [sexual fálico](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsFVLRLFdFZsck8hUoRdQ1/VecP7WEv6NcN) de rebelión contra Dios. Muy parecido a un obelisco egipcio. El sexo y el dinero son también parte de la industria musical del hoy.  
+Las dimensiones de la estatua, 6x6x6, constituían un monumento a la carnalidad y un símbolo [sexual fálico](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsFVLRLFdFZsck8hUoRdQ1/VecP7WEv6NcN) de rebelión contra Dios. Muy parecido a un obelisco egipcio. El sexo y el dinero son también parte de la industria musical del hoy.  
   
 Aquel concierto logró unificar en un mismo espíritu a persas, árabes, judíos, africanos, europeos y diversos pueblos de Oriente. Se sabe que una atmósfera sonora puede [alterar el sistema nervioso central](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsFxg9Xg1bfnn0CWsdQN85/BrjaYgXqbZJ-), creando el entorno necesario para someter y permitir que las masas sean conducidas a tener una actitud colectiva.  
   
@@ -64,7 +64,7 @@ La música ecuménica de Nabucodonosor es un prototipo de la musical actual y co
 > "Y voz de tañedores de arpas, y de músicos, y tañedores de flautas, y de trompeteros, no será más oída en ti; y todo artífice de cualquier oficio que fuere, no será más hallado en ti; y voz de muela no será más oída en ti;"  
 > –Revelación 18:22
 
-**Aquella ciudad pagana, representada también como una mujer prostituta, usará la industria musical para seducir a las naciones y ponerlas en contra del verdadero Dios (Revelación 18:2). Si la música que escuchamos tiene el mismo espíritu que la de esta metrópoli, estamos participando de algo que el Señor va a [destruir en el futuro](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsGsLZwWoJre7WKBeHNqYD/rl_UqzRghxCa).  
+Aquella ciudad pagana, representada también como una mujer prostituta, usará la industria musical para seducir a las naciones y ponerlas en contra del verdadero Dios (Revelación 18:2). Si la música que escuchamos tiene el mismo espíritu que la de esta metrópoli, estamos participando de algo que el Señor va a [destruir en el futuro](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsGsLZwWoJre7WKBeHNqYD/rl_UqzRghxCa).  
   
 En resumen, la música es un lenguaje universal que comunica un mensaje, ya sea un mensaje al espíritu de Dios en nosotros, o un mensaje a la carne, no existe un punto medio.  
   

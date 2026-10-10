@@ -47,7 +47,7 @@ Por ejemplo, en el libro “Vosotros Los gentiles” (1924) de Maurice Samuel es
 En 1928, Marcus Ravage, un biógrafo judío Rothschild escribió un ensayo titulado “El caso real contra los judíos” y decía:  
   
 
-> **“Todavía no habéis comenzado a apreciar la profundidad real de nuestra culpa. Somos intrusos. Somos perturbadores. Estamos apra subvertir. Hemos tomado vuestro mundo natural, vuestras ideas, vuestro destino, y hemos jugado con él para crear el caos. Hemos estado en el origen no sólo de la última gran guerra sino detrás de prácticamente todas ellas, no sólo de la rusa, sino de cada gran revolución de vuestra historia. Hemos creado discordia y confusión y frustración en vuestra vida personal y pública. Aun lo estamos haciendo. Nadie puede decir por cuanto tiempo aun seguiremos haciéndolo.”** **(THE CENTURY MAGAZINE, JANUARY 1928, Vol. 115, No. 3, pp. 346-350.)**
+> **“Todavía no habéis comenzado a apreciar la profundidad real de nuestra culpa. Somos intrusos. Somos perturbadores. Estamos apra subvertir. Hemos tomado vuestro mundo natural, vuestras ideas, vuestro destino, y hemos jugado con él para crear el caos. Hemos estado en el origen no sólo de la última gran guerra sino detrás de prácticamente todas ellas, no sólo de la rusa, sino de cada gran revolución de vuestra historia. Hemos creado discordia y confusión y frustración en vuestra vida personal y pública. Aun lo estamos haciendo. Nadie puede decir por cuanto tiempo aun seguiremos haciéndolo.” (THE CENTURY MAGAZINE, JANUARY 1928, Vol. 115, No. 3, pp. 346-350.)**
 
   
 La mayor parte de los judíos ( y liberales, gentes de izquierda, en general) son completamente ignorantes a la conspiración kabalista. Han sido engañados y manipulados por intereses espúreos e ideas de “justicia social” e “igualdad”:  
@@ -75,7 +75,7 @@ La exégesis kabalista continúa:
   
 
 > **“Muchos textos en la Kabala, incluyendo el Zohar, dicen que el objetivo no es destruir el mal sino devolverlo a su fuente, llevar la derecha con la izquierda, en una metáfora zohárica, “para juntar a destellos separados” en uno Luriánico. En el Hasidismo Chabad, se dice que el mal existe como parte de la revelación divina en sí misma. De hecho, pensar que el mal realmente está separado de Dios, es en sí mismo el Mal y la esencia del Mal, que es precisamente la ilusión de separación.  
-> ****“Alejar la idea de una la realidad de un mal separado y aceptando realmente que la sitra achtra (impureza, oculto, el mal) es un lado de la Divinidad, es fácil en el papel y muy dificil en la realidad. Todavía en la medida que sea posible hacer esto, la noción te cambia la vida en realidad. Todo tiene el sabor de la Divinidad”.**
+> “Alejar la idea de una la realidad de un mal separado y aceptando realmente que la sitra achtra (impureza, oculto, el mal) es un lado de la Divinidad, es fácil en el papel y muy dificil en la realidad. Todavía en la medida que sea posible hacer esto, la noción te cambia la vida en realidad. Todo tiene el sabor de la Divinidad”.**
 
   
 Los cabalistas también creen en la “redención mediante el pecado” por ejemplo, rechazar deliberadamente la Vieja Ley mediante el mal (adulterio, incesto, pedofilia…). La destrucción de la civilización (es decir, el caos) provocará el regreso del Mesías (anti-cristo) que reconstruirá el mundo de acuerdo con las especificaciones kabalistas, mientras los banqueros illuminati juegan a ser Dios  

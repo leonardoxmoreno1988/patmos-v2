@@ -48,7 +48,7 @@ Pese a que no conocemos todos sus misterios, la Biblia parece sugerir que las es
 > "Y dijo Dios: Sean lumbreras en la expansión de los cielos para apartar el día y la noche: y sean por señales, y para las estaciones, y para días y años;"  
 > –Génesis 1:14
 
-**Según el Evangelio en las estrellas, parte de estas señales mencionadas serían la historia completa de redención, tomando como eje principal la vida de Jesucristo. No solo considerando los 12 signos del zodiaco, sino las 88 constelaciones en su totalidad:
+Según el Evangelio en las estrellas, parte de estas señales mencionadas serían la historia completa de redención, tomando como eje principal la vida de Jesucristo. No solo considerando los 12 signos del zodiaco, sino las 88 constelaciones en su totalidad:
 
   
 

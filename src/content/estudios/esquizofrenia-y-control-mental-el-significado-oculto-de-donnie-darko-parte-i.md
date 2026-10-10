@@ -216,7 +216,7 @@ Cunningham, quien es respaldado por su escuela y en especial por una de sus prof
 
 > "Tienes razón en realidad. Estoy bastante... preocupado y estoy bastante confundido... y estoy asustado. Muy, muy asustado. Pero yo creo que eres el puto anticristo."
 
-**Este término es usado para dejar en claro la oposición de las nueva creencias espirituales de Donnie frente a lo que el mundo acepta como una verdad. En sus videos Cunningham describe que las drogas, el alcohol y el sexo premarital son "instrumentos del miedo". Lo curioso es que Donnie sucumbe a estas tres tentaciones antes de su muerte. Él bebe, fuma y llega a tener relaciones con Gretchen.  
+Este término es usado para dejar en claro la oposición de las nueva creencias espirituales de Donnie frente a lo que el mundo acepta como una verdad. En sus videos Cunningham describe que las drogas, el alcohol y el sexo premarital son "instrumentos del miedo". Lo curioso es que Donnie sucumbe a estas tres tentaciones antes de su muerte. Él bebe, fuma y llega a tener relaciones con Gretchen.  
   
 En el gnosticismo esta gran oposición se da por parte del cristianismo bíblico, basado en la salvación solo por medio de la fe. Quizás por esto Jim Cunningham tiene las iniciales JC (Jesucristo). Donnie es de muchas formas el héroe luciferiano que ve en el mensaje de Cristo una forma de esclavitud.
 

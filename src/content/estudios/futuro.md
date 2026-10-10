@@ -43,7 +43,7 @@ En resumen, todas las naciones necesitan volverse al verdadero Dios de la Biblia
 > “Y si se humillare mi pueblo sobre los cuales mi nombre es invocado, y oraren, y buscaren mi faz, y se convirtieren de sus caminos malos, entónces yo oiré desde los cielos, y perdonaré sus pecados, y sanaré su tierra.”  
 > –2 Crónicas 7:14
 
-**Dios menciona la necesidad de vivir como se debe vivir, humillarse y orar. La necesidad de apartarse de los malos hábitos, de las preocupaciones y de las distracciones. Y si lo hicieran, Dios dice que oirá desde el cielo, perdonará nuestros malos actos y sanará nuestra tierra.  
+Dios menciona la necesidad de vivir como se debe vivir, humillarse y orar. La necesidad de apartarse de los malos hábitos, de las preocupaciones y de las distracciones. Y si lo hicieran, Dios dice que oirá desde el cielo, perdonará nuestros malos actos y sanará nuestra tierra.  
   
 Gracias por leer el newsletter de esta semana. No olvide compartir el material con sus familiares y cercanos.  
   

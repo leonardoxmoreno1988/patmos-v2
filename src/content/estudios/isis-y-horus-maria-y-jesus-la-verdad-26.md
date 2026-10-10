@@ -137,7 +137,7 @@ El rito más conocido del culto a la Gran Madre fue el taurobolio. Sin embargo, 
 
   
 
-****Taurobolio. Grabado de Bernhard Rode.****  
+Taurobolio. Grabado de Bernhard Rode.  
 
 Durante la ceremonia, los iniciados se paraban o recostaban en un pozo mientas un toro era sacrificado en una plataforma encima de ellos. El iniciado se bañaría en la sangre tibia del animal moribundo. Se ha alegado que el taurobolio o taurobolium era una fuente del lenguaje cristiano acerca de ser lavado en la sangre del cordero (Apocalipsis 7:14) o rociado con la sangre de Jesús (1 Pedro 1: 2). También se ha citado como la fuente de las enseñanzas de Pablo en Romanos 6: 1-4, donde relaciona el bautismo con la identificación del cristiano de la muerte y resurrección de Cristo.  
   

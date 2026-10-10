@@ -91,14 +91,14 @@ La despoblación masiva es un objetivo reconocido de la gente de élite y muchos
 En 1988, el príncipe Felipe de Gran Bretaña expresó su deseo de que, en caso de ser reencarnado, él quiere ser "un virus mortal" que reduciría la población mundial. Más recientemente, Bill Gates dijo: "El mundo de hoy tiene 6800 millones las personas ... que se dirige hasta cerca de 9 millones de dólares. Ahora bien, si hacemos un gran trabajo sobre nuevas vacunas, atención médica, servicios de salud reproductiva, nosotros podemos bajar esto en un 10 o 15 por ciento. " Junto con las donaciones deducibles de impuestos-de enormes cantidades de dinero para ayudar a la causa de la despoblación," reuniones secretas " de la élite del mundo han tenido lugar para discutir estos temas:  
   
 
-> **"Algunos de los multimillonarios líderes en Estados Unidos se han reunido en secreto para considerar cómo su riqueza se podría utilizar para desacelerar el crecimiento de la población mundial y acelerar las mejoras en salud y educación.  
+> "Algunos de los multimillonarios líderes en Estados Unidos se han reunido en secreto para considerar cómo su riqueza se podría utilizar para desacelerar el crecimiento de la población mundial y acelerar las mejoras en salud y educación.  
 >   
 > Los filántropos que asistieron a una cumbre convocada a iniciativa de Bill Gates, el cofundador de Microsoft, discutieron sobre unir fuerzas para superar los obstáculos políticos y religiosos a los cambios.  
 >   
-> Descrito como el Club Bildenberg por una información privilegiada que incluía a David Rockefeller, Jr., el patriarca de la dinastía de los más ricos de Estados Unidos, Warren Buffett y George Soros, los financieros, Michael Bloomberg, el alcalde de Nueva York, y los magnates de los medios de comunicación Ted Turner y Oprah Winfrey."**
+> Descrito como el Club Bildenberg por una información privilegiada que incluía a David Rockefeller, Jr., el patriarca de la dinastía de los más ricos de Estados Unidos, Warren Buffett y George Soros, los financieros, Michael Bloomberg, el alcalde de Nueva York, y los magnates de los medios de comunicación Ted Turner y Oprah Winfrey."
 > 
-> **  
-> \- The Sunday Times, 24 de mayo 2009.**
+>
+> \- The Sunday Times, 24 de mayo 2009.
 
 La segunda regla ("Guía de la sabia reproducción - la mejora de la diversidad y de la aptitud"), básicamente, pide la inferencia de los legisladores en la gestión de las unidades familiares. Si leemos entre líneas, se requiere a la creación de las leyes de la estructuración del número de hijos por familia. Además, "la mejora de la diversidad y la forma física" se puede obtener con "crianza selectiva" o la esterilización de los miembros indeseables de la sociedad. Este se llamaba "eugenesia", hasta que se convirtió en políticamente incorrecto debido a los nazis.  
   
@@ -134,11 +134,11 @@ En "El destino secreto de América", Hall explica el antiguo sueño de un gobier
 Desde la erección del monumento el 22 de marzo de 1980, numerosos autores e investigadores han tratado de interpretar las razones detrás de estas orientaciones de la RTE. ¿Es que realmente consisten en un plan para un Nuevo Orden Mundial? Son simplemente las reglas a aplicar en caso de una catástrofe? El mejor lugar para obtener una respuesta exacta es pedir a los autores de las propias normas. Sin embargo, ya que han optado por permanecer en el anonimato, es imposible hacerlo. Lo hicieron, sin embargo, dejando una declaración tan importante, que ha sido pasado por alto por casi todos los investigadores de las Guidestones. Este texto sorprendente, que describe sus motivos con gran detalle, sólo se puede encontrar en un folleto producido por la Compañía de granito, que produjo el monumento. Desde el principio, es evidente que los autores del monumento no buscan la creación de un Nuevo Orden Mundial. Esto no es una "teoría de la conspiración" o hipótesis. Está escrito en términos claros e inequívocos. Así que aquí está, directamente de la pluma de los autores secreto, la explicación de las 10 reglas del Guidestones (partes en negrita se han destacado por mí mismo, hacer hincapié en las partes notables)  
   
 
-> **[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEileDVgqDmskLB2dWhcYqumvtGoxlhYfxBiDKYkSi2FrZxpQEeDuSpD9L-21RMUOljz9w8eMob6Vf_sVZ4fer7vZ0O2aVOLjzZkLAxi5n5qk9ggM1_NjHboDJMgPXjGUXVKVI2PfToUPlc/s0/guidestonesvocer2-e1289596608158.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEileDVgqDmskLB2dWhcYqumvtGoxlhYfxBiDKYkSi2FrZxpQEeDuSpD9L-21RMUOljz9w8eMob6Vf_sVZ4fer7vZ0O2aVOLjzZkLAxi5n5qk9ggM1_NjHboDJMgPXjGUXVKVI2PfToUPlc/s311/guidestonesvocer2-e1289596608158.jpg)
+> [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEileDVgqDmskLB2dWhcYqumvtGoxlhYfxBiDKYkSi2FrZxpQEeDuSpD9L-21RMUOljz9w8eMob6Vf_sVZ4fer7vZ0O2aVOLjzZkLAxi5n5qk9ggM1_NjHboDJMgPXjGUXVKVI2PfToUPlc/s0/guidestonesvocer2-e1289596608158.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEileDVgqDmskLB2dWhcYqumvtGoxlhYfxBiDKYkSi2FrZxpQEeDuSpD9L-21RMUOljz9w8eMob6Vf_sVZ4fer7vZ0O2aVOLjzZkLAxi5n5qk9ggM1_NjHboDJMgPXjGUXVKVI2PfToUPlc/s311/guidestonesvocer2-e1289596608158.jpg)
 > 
-> Portada de las Piedras Guías de Georgia** 
+> Portada de las Piedras Guías de Georgia 
 > 
-> **  
+>
 > "Es muy probable que la humanidad ahora posea los conocimientos necesarios para establecer un gobierno mundial efectivo. De alguna manera que el conocimiento debería estar ampliamente sembrado en la conciencia de toda la humanidad. Muy pronto los corazones de nuestra familia humana deben ser tocado y alegrado, entonces nosotros daremos la bienvenida a una regla global de la razón.”  
 >   
 > La conciencia de grupo de nuestra raza es ciega, perversa, y se distrae fácilmente por trivialidades, cuando debería estar centrado en los fundamentos. Estamos entrando en una época crítica. La presión demográfica pronto creará crisis política y económica en todo el mundo. Esto hace más difícil y, al mismo tiempo más necesaria la construcción de una sociedad mundial racional.  
@@ -184,7 +184,7 @@ Desde la erección del monumento el 22 de marzo de 1980, numerosos autores e inv
 > (…)  
 >   
 > "Si nuestras palabras inscritas son atenuados por el desgaste del viento y el sol y el tiempo, pedimos que los cortes profundamente. Si las piedras caen, o si se dispersa por las personas de poco entendimiento, les pedimos que las levanten de nuevo”  
-> "Invitamos a nuestros semejantes en todas las naciones a reflexionar sobre nuestro sencillo mensaje. Cuando estas metas son solicitadas algunos días por la generalidad de la humanidad, un orden mundial racional puede ser logrado para todos.”**
+> "Invitamos a nuestros semejantes en todas las naciones a reflexionar sobre nuestro sencillo mensaje. Cuando estas metas son solicitadas algunos días por la generalidad de la humanidad, un orden mundial racional puede ser logrado para todos.”
 
   
 
@@ -209,16 +209,16 @@ Entonces, ¿quién era este "pequeño grupo de estadounidenses que buscan la eda
 Esta es la historia de la orden de los Guidestones según lo dicho por el guía oficial:  
   
 
-> **"Lo que comenzó como de costumbre una tarde a mediados del verano ha terminado en la producción y el montaje de uno de los monumentos más singulares del mundo, producido en las condiciones más inusuales, Joe Fendley, presidente de Elbert Compañía de Acabados de Granito, Inc. en Elberton, Georgia, fue a pasar un viernes por la tarde en junio de 1979, como pasaba la mayoría de viernes por la tarde ... estudiando sus informes semanales y en general, cerrando la tienda para un fin de semana ... y entonces empezó todo .  
+> "Lo que comenzó como de costumbre una tarde a mediados del verano ha terminado en la producción y el montaje de uno de los monumentos más singulares del mundo, producido en las condiciones más inusuales, Joe Fendley, presidente de Elbert Compañía de Acabados de Granito, Inc. en Elberton, Georgia, fue a pasar un viernes por la tarde en junio de 1979, como pasaba la mayoría de viernes por la tarde ... estudiando sus informes semanales y en general, cerrando la tienda para un fin de semana ... y entonces empezó todo .  
 >   
 > Un hombre bien vestido entró a la la oficina de la calle Tate Fendley y dijo que quería comprar un monumento. Dado que todos los demás en la oficina estaba ocupados, Fendley decidió hablar con el propio extranjero y explicó que su empresa no vende directamente al público, pero sólo al por mayor.  
 >   
-> No se desanimó, el hombre de mediana edad que se identificó sólo como el señor Robert C. Cristian, dijo que quería saber el costo de la construcción de un monumento a la conservación de la humanidad y comenzó a contar a Fendley qué tipo de monumento era el que él quería. Con esto, se indicó el tamaño en medidas métricas.**
+> No se desanimó, el hombre de mediana edad que se identificó sólo como el señor Robert C. Cristian, dijo que quería saber el costo de la construcción de un monumento a la conservación de la humanidad y comenzó a contar a Fendley qué tipo de monumento era el que él quería. Con esto, se indicó el tamaño en medidas métricas.
 > 
-> **  
+>
 > Fendley admitió que su primera reacción al Sr. Cristian no fue muy buena, pero después de escuchar durante unos 20 minutos y aprender el gran tamaño del monumento que deseaba comprar y eregir, Fendley decidió que debería tomar a este hombre en serio ".  
 >   
-> \- Ibid.**
+> \- Ibid.
 
   
 
@@ -267,7 +267,7 @@ Es un hecho conocido que Thomas Paine fue uno de los principales miembros de la 
 >   
 > \- La Fraternitas Rosae Crucis, soul.org
 
-**En El Destino Secreto de América, Manly P. Hall describe a Thomas Paine como un cruzado importante para la marcha hacia un gobierno mundial ideal.  
+En El Destino Secreto de América, Manly P. Hall describe a Thomas Paine como un cruzado importante para la marcha hacia un gobierno mundial ideal.  
   
 
 > "De Thomas Paine se ha dicho que él hizo más para ganar la independencia de las colonias con su pluma que George Washington ejecutando con la espada. Sólo la completa reorganización, la religión y la educación nos llevaría aún hoy al estado perfeccionista que Tom Paine previno ".  

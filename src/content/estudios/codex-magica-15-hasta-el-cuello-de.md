@@ -9,7 +9,7 @@ description: "\"Cuando es su cuello el que está en el mesa de cortar, usted no 
 tags: ["Sociedad"]
 ---
 
-> **"Cuando es su cuello el que está en el mesa de cortar, usted no querrá una espada torpe."****\- Espectador** **anónimo** **en una ejecución por guillotina, París, Francia, 1789**
+> **"Cuando es su cuello el que está en el mesa de cortar, usted no querrá una espada torpe."\- Espectador anónimo en una ejecución por guillotina, París, Francia, 1789**
 
   
 

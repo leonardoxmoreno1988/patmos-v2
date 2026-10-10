@@ -63,11 +63,11 @@ En una de las escenas emotivas el agente "K" y "J" mencionan:
 > K: Te prometi los secretos del universo, solo eso.  
 > J: ¿Osea que hay algunos secretos del universo que aún no se?
 
-**De la misma forma que se envía un mensaje de doble sentido, la hermenéutica invertida es utilizada para cambiar paradigmas radicalmente. El arrepentimiento es uno de las enseñanzas cristianas más reconocidas y más impartidas por el mismo Jesús, por lo que describirla como una fuerza destructiva y más aún relacionarlo con la existencia de extraterretres es otra forma de propaganda gnóstica a gran escala. El libro de Lucas dice:  
+De la misma forma que se envía un mensaje de doble sentido, la hermenéutica invertida es utilizada para cambiar paradigmas radicalmente. El arrepentimiento es uno de las enseñanzas cristianas más reconocidas y más impartidas por el mismo Jesús, por lo que describirla como una fuerza destructiva y más aún relacionarlo con la existencia de extraterretres es otra forma de propaganda gnóstica a gran escala. El libro de Lucas dice:  
 
 > "Jesús les contestó: La gente sana no necesita médico, los enfermos sí. No he venido a llamar a los que se creen justos, sino a los que saben que son pecadores y necesitan arrepentirse." -Lucas 5: 31,32
 
-**Algo que es un patrón constante en estas películas es la co-participación de extraterrestres benignos peleando junto y a favor de la humanidad. En el caso de hombres de negro el personaje de Griffin es un extraterrestre que puede ver los diferentes futuros y ayuda a los hombres de negro a salvar el mundo.  
+Algo que es un patrón constante en estas películas es la co-participación de extraterrestres benignos peleando junto y a favor de la humanidad. En el caso de hombres de negro el personaje de Griffin es un extraterrestre que puede ver los diferentes futuros y ayuda a los hombres de negro a salvar el mundo.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGB2dWaIiVfOK7PUnrxqufY7-BN9yqiZ33EGpWnnkAFZ7cioWUrWbn7f53GSjdumUEThGhfKYP-zXDO8XxwpYZjaAROaW4giNFwOltxBhwQD8XTEtxQk9hXV1RBqF6QcrSfPhEIoS5oc/s1600/will-smith-josh-brolin-michael-stuhlbarg-men-in-black-3-600x398.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGB2dWaIiVfOK7PUnrxqufY7-BN9yqiZ33EGpWnnkAFZ7cioWUrWbn7f53GSjdumUEThGhfKYP-zXDO8XxwpYZjaAROaW4giNFwOltxBhwQD8XTEtxQk9hXV1RBqF6QcrSfPhEIoS5oc/s1600/will-smith-josh-brolin-michael-stuhlbarg-men-in-black-3-600x398.jpg)
@@ -76,9 +76,9 @@ En una de las escenas emotivas el agente "K" y "J" mencionan:
 
   
 
- **[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBq7yDnhh22TexXxuG2j2Mz2DvkUJyyrJ6jnrgTcB-oktBc2pxJxuqDA4A9SfO9zsqHfmBmExkWd66BGjNXv8N0yj268thE2jS6JgQ6vW0tBEk4L_i064Qd3-IL-xnHgCg0jsGcpiQ7HU/s1600/men-in-black-3-back-in-time.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBq7yDnhh22TexXxuG2j2Mz2DvkUJyyrJ6jnrgTcB-oktBc2pxJxuqDA4A9SfO9zsqHfmBmExkWd66BGjNXv8N0yj268thE2jS6JgQ6vW0tBEk4L_i064Qd3-IL-xnHgCg0jsGcpiQ7HU/s1600/men-in-black-3-back-in-time.jpg) 
+ [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBq7yDnhh22TexXxuG2j2Mz2DvkUJyyrJ6jnrgTcB-oktBc2pxJxuqDA4A9SfO9zsqHfmBmExkWd66BGjNXv8N0yj268thE2jS6JgQ6vW0tBEk4L_i064Qd3-IL-xnHgCg0jsGcpiQ7HU/s1600/men-in-black-3-back-in-time.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBq7yDnhh22TexXxuG2j2Mz2DvkUJyyrJ6jnrgTcB-oktBc2pxJxuqDA4A9SfO9zsqHfmBmExkWd66BGjNXv8N0yj268thE2jS6JgQ6vW0tBEk4L_i064Qd3-IL-xnHgCg0jsGcpiQ7HU/s1600/men-in-black-3-back-in-time.jpg) 
 
-**En la película Griffin explica mediante un juego de beistball como funcionan los futuros alternos y multiuniversos. Esto es una forma de hacer digerible las enseñanzas gnósticas a las masas.****  
+En la película Griffin explica mediante un juego de beistball como funcionan los futuros alternos y multiuniversos. Esto es una forma de hacer digerible las enseñanzas gnósticas a las masas.  
 Quizás algunos podrían preguntarse ¿Es acaso la ciencia algo demoníaco? La respuesta obviamente es no, sin embargo la meta de estas personas que están “en el poder” es convertir la ciencia y el contacto extraterrestre en una nueva religión mundial, que en términos de las propias doctrinas ocultistas usurpará el lugar de las religiones judío-cristianas. Esta pseudo-ciencia, que reciben los privilegiados en las sociedades secretas están diseñadas para promover el inicio de un “nuevo amanecer”.
 
   
@@ -100,7 +100,7 @@ Para prevenir la futura invasión alienígena Griffin y los hombres de negro deb
 > J: ¿La verdad?  
 > Griffin: La verdad es el único camino.
 
-**Esta es una reminiscencia a las palabras de Jesús en Juan 14:16 “Yo soy el camino, la verdad y la vida”. En la película, la verdad y el único camino es la existencia de seres extraterrestres y que necesitamos de su ayuda para salvar la tierra. También es una referencia a que esta “verdad” ya no puede ser mas encubierta y debe de ser revelada inevitablemente.
+Esta es una reminiscencia a las palabras de Jesús en Juan 14:16 “Yo soy el camino, la verdad y la vida”. En la película, la verdad y el único camino es la existencia de seres extraterrestres y que necesitamos de su ayuda para salvar la tierra. También es una referencia a que esta “verdad” ya no puede ser mas encubierta y debe de ser revelada inevitablemente.
 
   
 
@@ -176,11 +176,11 @@ En una de las escenas más simbólicas, Loki -el villano que desea esclavizar a 
 
 Loki se multiplica en varios clones holográficos (imitando la omnipresencia de Dios) para poder intimidar a las personas y gritar:  
 
-> **"!Arrodillense ante mi! !Arrodillense!  
+> "!Arrodillense ante mi! !Arrodillense!  
 > ¿No es más facil así? ¿No es este su estado natural?  
-> **
+>
 > 
-> **(...)**
+> (...)
 > 
 > **Ustedes han sido creados para ser gobernados, y al final siempre terminarán arrodillados."**
 
@@ -192,9 +192,9 @@ Al escuchar esto un anciano se levanta y menciona:
 
 Cuando Loki se propone a matarlo el Capitán América llega para salvar la situación. Esta parte de la película podría pasar desapercibida, pero realmente expone la visión gnóstica/illuminati del Dios bíblico. El arrodillarse siempre a sido una forma de reconocer a Dios como creador y declarar la sumisión ante su voluntad. Jesús se arrodillaba ante la presencia de Dios y muchas personas se arrodillaron frente a él.
 
-**> "Vengan, adoremos e inclinémonos. Arrodillémonos delante del Señor, nuestro creador,porque él es nuestro Dios". -Salmos 95:5-7** 
+> "Vengan, adoremos e inclinémonos. Arrodillémonos delante del Señor, nuestro creador,porque él es nuestro Dios". -Salmos 95:5-7 
 
-**> "Cuando Jesús estaba por emprender su camino a Jerusalén, un hombre se le acercó corriendo, se arrodilló y le preguntó: —Maestro bueno, ¿qué debo hacer para heredar la vida eterna?" -Marcos 10:16-18** 
+> "Cuando Jesús estaba por emprender su camino a Jerusalén, un hombre se le acercó corriendo, se arrodilló y le preguntó: —Maestro bueno, ¿qué debo hacer para heredar la vida eterna?" -Marcos 10:16-18 
 
 Lo que esta escena expresa, y en general todas en las que Loki se proclama como rey, es que someterse a la voluntad de Dios es para débiles. Según las doctrinas gnósticas, la rebelión al “Demiurgo” (Dios) es el camino que debemos tomar para alcanzar la libertad. Por otro lado, el Capitán América no solo representa a Lúcifer, el ángel caído que llega para “rescatar a la humanidad”. Sino él es el símbolo literal de EEUU y que se unirá como dice el libro de **[Apocalipsis](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** con la Nueva Babilonia.
 

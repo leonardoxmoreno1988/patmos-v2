@@ -95,11 +95,11 @@ El uso de los "términos" masones Jaquín y Boaz se originan en el relato bíbli
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDKYqrZG_no2ZsJNAjFB42PjGd8N_1OEdWTRQteY4k6Z2uZ2DdnUfVbDbxVtuNVpvzpI101hHoLBb_YyR5WzW6XwSh92AH5YPrtXt4ePzSKA0gc7EO3z88cSvX81nAdaWnZS5K4MimEPo/s1600/image00574.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDKYqrZG_no2ZsJNAjFB42PjGd8N_1OEdWTRQteY4k6Z2uZ2DdnUfVbDbxVtuNVpvzpI101hHoLBb_YyR5WzW6XwSh92AH5YPrtXt4ePzSKA0gc7EO3z88cSvX81nAdaWnZS5K4MimEPo/s1600/image00574.jpg)
 
-****Representación artística del Templo del Rey Salomón.**** 
+Representación artística del Templo del Rey Salomón. 
 
   
 
-La cuenta del Templo de Salomón es de gran importancia en la masonería, ya que cada detalle de la construcción tiene un importante significado esotérico. Los dos pilares actúan como un "portal de los misterios" de pie a cada lado de la entrada a un lugar sagrado.**
+La cuenta del Templo de Salomón es de gran importancia en la masonería, ya que cada detalle de la construcción tiene un importante significado esotérico. Los dos pilares actúan como un "portal de los misterios" de pie a cada lado de la entrada a un lugar sagrado.
 
 > "De acuerdo con los antiguos rabinos, Salomón fue un iniciado en las escuelas del Misterio y el Templo que él construyó era en realidad una casa de iniciación dotada de emblemas y filosófia pagana. Las granadas, las columnas de palmeras, los Pilares delante de la puerta, los querubines de Babilonia, y la disposición de las cámaras y cortinas, indican el Templo que fue modelado después de los santuarios de Egipto y la Atlántida".  
 >   
@@ -109,7 +109,7 @@ Por esta razón, Jaquín y Boaz son un lugar destacado en los edificios masónic
 
   
 
-> **"Has entrado en la Logia por dos Pilares. Representan los dos que habían en el pórtico del Templo, a cada lado de la gran puerta de entrada. Estos pilares, de bronce, cuatro dedos de anchura de espesor, fueron, según las más auténticas cuentas en el Primer Segundo Libro de los Reyes, con un capital de cinco codos de altura. El eje de cada una era de cuatro codos de diámetro. Un codo es un pie y 707/1000. Es decir, el eje de cada uno era un poco más de treinta pies y ocho pulgadas de altura, la capital de cada uno un poco más de ocho pies y seis pulgadas de altura y el diámetro de diez pulgadas de eje de dos metros. Las capitales fueron enriquecidos por las granadas de bronce, bronce cubierto por red, y adornado con coronas de bronce, y parece que han imitado la forma de la semilla de los vasos del Lirio Loto o Egipcio, un símbolo sagrado para los Hindúes y los Egipcios . El pilar o columna de la derecha, o en el sur, fue nombrado, como la palabra Hebrea que se representa en nuestra traducción de la Biblia, Jaquín, y el de la izquierda Boaz. Nuestros traductores dicen que la primera palabra significa, "Él se debe establecer", y el segundo, "En él está la fuerza".  
+> "Has entrado en la Logia por dos Pilares. Representan los dos que habían en el pórtico del Templo, a cada lado de la gran puerta de entrada. Estos pilares, de bronce, cuatro dedos de anchura de espesor, fueron, según las más auténticas cuentas en el Primer Segundo Libro de los Reyes, con un capital de cinco codos de altura. El eje de cada una era de cuatro codos de diámetro. Un codo es un pie y 707/1000. Es decir, el eje de cada uno era un poco más de treinta pies y ocho pulgadas de altura, la capital de cada uno un poco más de ocho pies y seis pulgadas de altura y el diámetro de diez pulgadas de eje de dos metros. Las capitales fueron enriquecidos por las granadas de bronce, bronce cubierto por red, y adornado con coronas de bronce, y parece que han imitado la forma de la semilla de los vasos del Lirio Loto o Egipcio, un símbolo sagrado para los Hindúes y los Egipcios . El pilar o columna de la derecha, o en el sur, fue nombrado, como la palabra Hebrea que se representa en nuestra traducción de la Biblia, Jaquín, y el de la izquierda Boaz. Nuestros traductores dicen que la primera palabra significa, "Él se debe establecer", y el segundo, "En él está la fuerza".  
 >   
 > Estas columnas eran imitaciones, por Khurum, el artista de Tiro, de las grandes columnas consagradas al viento y fuego, a la entrada del famoso templo de Malkarth, en la ciudad de Tiro. Es costumbre, en las Logias del Rito de York, ver un globo celeste en uno, y un globo terrestre en la otra, pero éstos no están garantizados, si el objetivo es imitar el original del Templo. El significado simbólico de estas columnas dejaremos por ahora sin explicación, sólo añadiré que los prendices mantengan sus herramientas de trabajo en la columna de Jaquín, y denle la etimología y el significado literal de los dos nombres.  
 >   
@@ -117,7 +117,7 @@ Por esta razón, Jaquín y Boaz son un lugar destacado en los edificios masónic
 >   
 > La palabra Boaz es Baaz que significa fuerte, fuerza, poder, refugio, fuente de fortaleza, una fortaleza. Probablemente quería decir activa y vivificante de energía y vigor; y Boaz, la estabilidad, permanencia, en el sentido pasivo".  
 >   
-> \- Albert Pike, Morals and Dogma**
+> \- Albert Pike, Morals and Dogma
 
   
 
@@ -179,9 +179,9 @@ La unión de los dos pilares que se dice que es para generar un tercer pilar, un
 
   
 
-****La combinación de las dos fuerzas opuestas de los dos pilares** 
+La combinación de las dos fuerzas opuestas de los dos pilares 
 
-**crean el pilar central: el hombre perfecto.**** 
+crean el pilar central: el hombre perfecto. 
 
   
 
@@ -197,11 +197,11 @@ En las enseñanzas cabalísticas, Jaquín y Boaz representan los dos pilares de 
 
   
 
-**> "En el misterioso árbol Sephirotico de los Judios, estos dos pilares simbolizan la Misericordia y la Severidad. De pie ante la puerta del Templo del Rey Salomón, estas columnas tenía la misma importancia simbólica como los obeliscos ante los santuarios de Egipto. Cuando se interpreta cabalísticamente, los nombres de los dos pilares significan "En la fuerza se establecerá mi casa. "En el esplendor de la iluminación mental y espiritual, el Sumo Sacerdote se situó entre los pilares como testigo mudo de la virtud perfecta del equilibrio - punto hipotético equidistante de todos los extremos. Él personificó la naturaleza divina del hombre en medio de su constitución compuesta - la misterioso Monada Pitágorica en la presencia de la Dualidad. Por un lado se alzaba el grandioso pilar del intelecto y, por otro, el descarado pilar de la carne. A medio camino entre estos dos está el Sabio glorificado, pero no se puede llegar a este alto estado sin sufrir en primer lugar la cruz hecha por la union de estos dos pilares. Los primeros Judios de vez en cuando representaban los dos pilares, Jaquín y Boaz, como las piernas de Jehová, lo que significa para el filósofo moderno que la Sabiduría y el Amor, en su sentido más exaltado, el apoyo a todo Orden de la Creación - tanto en lo mundano y supermundano.  
+> "En el misterioso árbol Sephirotico de los Judios, estos dos pilares simbolizan la Misericordia y la Severidad. De pie ante la puerta del Templo del Rey Salomón, estas columnas tenía la misma importancia simbólica como los obeliscos ante los santuarios de Egipto. Cuando se interpreta cabalísticamente, los nombres de los dos pilares significan "En la fuerza se establecerá mi casa. "En el esplendor de la iluminación mental y espiritual, el Sumo Sacerdote se situó entre los pilares como testigo mudo de la virtud perfecta del equilibrio - punto hipotético equidistante de todos los extremos. Él personificó la naturaleza divina del hombre en medio de su constitución compuesta - la misterioso Monada Pitágorica en la presencia de la Dualidad. Por un lado se alzaba el grandioso pilar del intelecto y, por otro, el descarado pilar de la carne. A medio camino entre estos dos está el Sabio glorificado, pero no se puede llegar a este alto estado sin sufrir en primer lugar la cruz hecha por la union de estos dos pilares. Los primeros Judios de vez en cuando representaban los dos pilares, Jaquín y Boaz, como las piernas de Jehová, lo que significa para el filósofo moderno que la Sabiduría y el Amor, en su sentido más exaltado, el apoyo a todo Orden de la Creación - tanto en lo mundano y supermundano.  
 >   
 > La columna de la derecha, que se llama Jaquín, tiene su fundamento en Chokmah, la Sabiduría derramada por Dios, los tres globos suspendidos de ella son todas las potencias masculinas. La columna de la izquierda se llama Boaz. Los tres globos en ella son potencias femeninas, ya que se basa en la comprensión, una potencia receptiva y maternal. Sabiduría,como se ha señalado, se considera como radiante o derramamiento, y la Comprensión como receptiva, o algo que es llenado por el fluir de la Sabiduría. Los tres pilares son en última instancia, unidos en MALCHUT, en el que todos los poderes de los mundos superiores se manifiesta".  
 >   
-> \- Levi, op. cit** 
+> \- Levi, op. cit 
 
 ## En La Cultura Popular y La Arquitectura
 

@@ -146,7 +146,7 @@ El camino destructivo, por lo tanto, es el camino de los Illuminati. Como he dem
 En Occult Geometry, A.S. Raleigh examina el símbolo del círculo. El escribe:  
   
 
-> **"Una forma del círculo es una serpiente con una cola en su boca ... Es el regreso a la Unidad ... El verdadero círculo simboliza la evolución,  el círculo de la serpiente,** **la involución****... es el poder que trae a la unidad de la diversidad ... Por lo tanto, el Círculo de la Serpiente es siempre el símbolo de lo destructivo." (9)**
+> **"Una forma del círculo es una serpiente con una cola en su boca ... Es el regreso a la Unidad ... El verdadero círculo simboliza la evolución,  el círculo de la serpiente, la involución... es el poder que trae a la unidad de la diversidad ... Por lo tanto, el Círculo de la Serpiente es siempre el símbolo de lo destructivo." (9)**
 
   
 Más adelante, en las fotos e ilustraciones presentadas en este capítulo, descubrirá la sorprendente obra de arte en la postal del Año Nuevo por el artista judío Alain Roth en 1915. El diseño muestra a la Serpiente Ouroboros (Satanás) rodeando y conquistando toda la tierra. ¿Feliz año nuevo?  

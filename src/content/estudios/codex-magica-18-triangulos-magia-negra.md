@@ -612,7 +612,7 @@ Duane Ackerman, CEO de BellSouth Corporation, sosteniendo su mano en lo que suti
 
   
 
-El gobernador de Texas, George W. Bush, en 1998 con el candidato presidencial ruso, el general Alexander Lebed intercambiaron un apretón de manos oculto mientras Lebed exhibe el enigmático signo del doble triángulo de la Logia que es similar al [**Real Saludo de un Maestro** **Masón**](http://www.ritualypropaganda.com/2016/12/codex-magica-viii-apreton-de-manos-illuminati.html) (_Ritual y Monitor Masónico de Duncan_, 3er) Ed., P.120).
+El gobernador de Texas, George W. Bush, en 1998 con el candidato presidencial ruso, el general Alexander Lebed intercambiaron un apretón de manos oculto mientras Lebed exhibe el enigmático signo del doble triángulo de la Logia que es similar al [**Real Saludo de un Maestro Masón**](http://www.ritualypropaganda.com/2016/12/codex-magica-viii-apreton-de-manos-illuminati.html) (_Ritual y Monitor Masónico de Duncan_, 3er) Ed., P.120).
 
   
 

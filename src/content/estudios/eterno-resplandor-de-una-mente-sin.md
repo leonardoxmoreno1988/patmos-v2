@@ -53,7 +53,7 @@ La película se abre con Joel Barish reportandose enfermo y decide tomar el tren
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgca-JZP9DS88oUs4Avnvgvdav5AiSY_AhmsZ50E9G8F0ZpSwHgnGgsi0TVReoqKuXpDceYnOmhOV4M8hxfsFnDw0JjThhtofX3hyphenhyphenUgeKE1QFQnk67fc7RDWjwaoNaO6PC-eqTxd8pfjGw/s400/cap094.bmp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgca-JZP9DS88oUs4Avnvgvdav5AiSY_AhmsZ50E9G8F0ZpSwHgnGgsi0TVReoqKuXpDceYnOmhOV4M8hxfsFnDw0JjThhtofX3hyphenhyphenUgeKE1QFQnk67fc7RDWjwaoNaO6PC-eqTxd8pfjGw/s400/cap094.bmp)
 
-**Joel lleva un diario, que en su mayoría está en blanco. Esta es su primera entrada en dos años: un hombre escondido y asustado debajo de las escaleras. El diario en blanco es un símbolo de la mente en blanco y Joel es el hombre escondido.  
+Joel lleva un diario, que en su mayoría está en blanco. Esta es su primera entrada en dos años: un hombre escondido y asustado debajo de las escaleras. El diario en blanco es un símbolo de la mente en blanco y Joel es el hombre escondido.  
   
 
  [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjqK0CGzhQKHQVo4-R7YP98zmYPiqo3ESfDY-QOHl58uaQ7dCBpFWU3jnxotXYdiVWJ6aOI6jBycYEVeVZWsp2-ySe6QFgNOifH9JUARtrFmFQVcPJwTTuat4q3xiRMXa8j2L3ieiYc8/s400/cap095.bmp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjqK0CGzhQKHQVo4-R7YP98zmYPiqo3ESfDY-QOHl58uaQ7dCBpFWU3jnxotXYdiVWJ6aOI6jBycYEVeVZWsp2-ySe6QFgNOifH9JUARtrFmFQVcPJwTTuat4q3xiRMXa8j2L3ieiYc8/s400/cap095.bmp)
@@ -130,7 +130,7 @@ La facil disposición de Clementine para ir con el Dr. Howard Mierzwiak de Lacun
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYKo1n323LWK9DrzN_OaTCyTlAcV7Lu1yYqlk_FKdb6aMMyviAqKwps24KO1HHUpRJ5ns6Goeu6KF8Fp3iUfwJWtsdIwGFiwDcAWskDzXcCXDcyTdZmwqDOn4uq1ow6GPWlCf-TDTZqBU/s400/cap101.bmp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYKo1n323LWK9DrzN_OaTCyTlAcV7Lu1yYqlk_FKdb6aMMyviAqKwps24KO1HHUpRJ5ns6Goeu6KF8Fp3iUfwJWtsdIwGFiwDcAWskDzXcCXDcyTdZmwqDOn4uq1ow6GPWlCf-TDTZqBU/s400/cap101.bmp)
 
-**Joel más tarde busca al doctor Mierzwiak para el mismo procedimiento.  
+Joel más tarde busca al doctor Mierzwiak para el mismo procedimiento.  
   
 
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYKo1n323LWK9DrzN_OaTCyTlAcV7Lu1yYqlk_FKdb6aMMyviAqKwps24KO1HHUpRJ5ns6Goeu6KF8Fp3iUfwJWtsdIwGFiwDcAWskDzXcCXDcyTdZmwqDOn4uq1ow6GPWlCf-TDTZqBU/s400/cap101.bmp)

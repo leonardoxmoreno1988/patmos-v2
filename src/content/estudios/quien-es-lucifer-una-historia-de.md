@@ -45,7 +45,7 @@ La historia continúa describiendo que algo pasó en el corazón de Lucifer, una
 
 > "!Cómo caíste del cielo, oh Lucero, hijo de la mañana! Cortado fuiste por tierra, tú que debilitabas a las naciones. Tú que decías en tu corazón: Subiré al cielo; en lo alto, junto a las estrellas de Dios, levantaré mi trono, y en el monte del testimonio me sentaré, a los lados del norte; sobre las alturas de las nubes subiré, y seré semejante al Altísimo."-Isaías 14:12,14
 
-**Las escrituras nos enseñan que este ser convenció a un tercio de los ángeles del cielo para apoyar su rebelión, propagando la mentira de que ellos también deberían compartir la gloria de Dios y dejar de vivir subyugados bajo los mandamientos que su creador había establecido. Con casi la mitad de los ángeles a su favor se inicio una batalla cósmica en el tercer cielo.
+Las escrituras nos enseñan que este ser convenció a un tercio de los ángeles del cielo para apoyar su rebelión, propagando la mentira de que ellos también deberían compartir la gloria de Dios y dejar de vivir subyugados bajo los mandamientos que su creador había establecido. Con casi la mitad de los ángeles a su favor se inicio una batalla cósmica en el tercer cielo.
 
    
 
@@ -224,7 +224,7 @@ A la izquierda Drácula, revestido con la armadura de un Dragón, a la derecha s
   
 
 El libro de Apocalipsis menciona:  
-**> "También apareció otra señal en el cielo: he aquí un gran dragón escarlata, que tenía siete cabezas y diez cuernos, y en sus cabezas siete diademas; y su cola arrastraba la tercera parte de las estrellas del cielo, y las arrojó sobre la tierra."-Apocalipsis 12:3-4** 
+> "También apareció otra señal en el cielo: he aquí un gran dragón escarlata, que tenía siete cabezas y diez cuernos, y en sus cabezas siete diademas; y su cola arrastraba la tercera parte de las estrellas del cielo, y las arrojó sobre la tierra."-Apocalipsis 12:3-4 
 
 De la misma forma sobre la aparición de Jesucristo menciona:  
 
@@ -251,7 +251,7 @@ Como consecuencia de su engaño Dios maldice a la figura serpentina de Satanás,
 
 > "Dios el Señor dijo entonces a la serpiente: «Por esto que has hecho, ¡Maldita seas entre todas las bestias y entre todos los animales del campo! ¡Te arrastrarás sobre tu vientre, y polvo comerás todos los días de tu vida!" - Génesis 3:14
 
-**Esto sin embargo no le quitaría su poder temporal, Lucifer (denominado luego en las Escrituras como Satanás) reclamó el dominio de la Tierra para él, y a causa de la elección del hombre, él las había ganado. La Biblia menciona que la pareja es su estado de pecaminosidad y muerte ya no tenía derecho al dominio de la creación, ni mucho menos al árbol de la vida (Génesis 3:24). La pareja fue desterrada del jardín y desde ese momento Lucifer ha tratado de levantar su propio gobierno mundial teniendo al ser humano como principal herramienta. Personajes como Nimrod, Nabucodonosor, Alejandro Magno, Napoleón, Hitler, entre otros, serian usados para estos fines de dominio mundial.
+Esto sin embargo no le quitaría su poder temporal, Lucifer (denominado luego en las Escrituras como Satanás) reclamó el dominio de la Tierra para él, y a causa de la elección del hombre, él las había ganado. La Biblia menciona que la pareja es su estado de pecaminosidad y muerte ya no tenía derecho al dominio de la creación, ni mucho menos al árbol de la vida (Génesis 3:24). La pareja fue desterrada del jardín y desde ese momento Lucifer ha tratado de levantar su propio gobierno mundial teniendo al ser humano como principal herramienta. Personajes como Nimrod, Nabucodonosor, Alejandro Magno, Napoleón, Hitler, entre otros, serian usados para estos fines de dominio mundial.
 
   
 
@@ -393,7 +393,7 @@ En el último ejemplo presentado de la película _Pleasentville_ esta inversión
 
   
 
-**> "¡Ay de los que llaman al mal bien y al bien mal, que tienen las tinieblas por luz y la luz por tinieblas, que tienen lo amargo por dulce y lo dulce por amargo!"- Isaías 5:20**  
+> "¡Ay de los que llaman al mal bien y al bien mal, que tienen las tinieblas por luz y la luz por tinieblas, que tienen lo amargo por dulce y lo dulce por amargo!"- Isaías 5:20  
 
 ## Nombres, Figuras y Características
 

@@ -16,7 +16,7 @@ Cuando rastreamos la cronología interdimensional de Satanás, las Escrituras en
 > “Y fué palabra de Jehová a mí, diciendo: Hijo del hombre, levanta endechas sobre el rey de Tiro, y decirle has: así dijo el Señor Jehová: Tú sellas la suma, lleno de sabiduría, y acabado de hermosura. En Edén, en el huerto de Dios, estuviste: toda piedra preciosa fué tu vestidura: sardio, topacio, diamante, turquesa, ónix, y berilo, zafiro, carbúnculo, y esmeralda, y oro: las obras de tus atambores y de tus pífanos estuvieron apercibidas en tí el día que fuiste creado. Tú, querubín grande, que cubre, y yo te puse: en el santo monte de Dios estuviste: en medio de piedras de fuego anduviste. Acabado eras en todos tus caminos desde el día que fuiste creado, hasta que se halló maldad en tí.”  
 > –Ezequiel 28:11-15
 
-**Si vemos el contexto previo, en los versículos 1-10, se le ordena a [Ezequiel](https://es.wikipedia.org/wiki/Ezequiel_\(profeta\)) que se dirija a un hombre llamado “príncipe de Tiro”. Pero el versículo 11 se transforma en una nueva profecía. Mientras que en los versículos 1-10, Ezequiel se dirigía a un individuo humano, ahora continúa refiriéndose a un ser superior, un ser angélico, Satanás, a quien se dirige como “el rey de Tiro”.
+Si vemos el contexto previo, en los versículos 1-10, se le ordena a [Ezequiel](https://es.wikipedia.org/wiki/Ezequiel_\(profeta\)) que se dirija a un hombre llamado “príncipe de Tiro”. Pero el versículo 11 se transforma en una nueva profecía. Mientras que en los versículos 1-10, Ezequiel se dirigía a un individuo humano, ahora continúa refiriéndose a un ser superior, un ser angélico, Satanás, a quien se dirige como “el rey de Tiro”.
 
   
 
@@ -28,7 +28,7 @@ Esto se debe a que existe una relación. El príncipe humano de Tiro pudo contro
 > “Hijo del hombre, dí al príncipe de Tiro: Así dijo el Señor Jehová: Por cuanto se enalteció tu corazón, y dijiste: Yo soy Dios, en el asiento de Dios estoy sentado en medio de las mares, siendo tú hombre, y no Dios; y pusiste tu corazón como corazón de Dios:”  
 > –Ezequiel 28:2
 
-**El príncipe de Tiro se llenó de tanto orgullo que se convenció a sí mismo de que era dios. Por eso Dios lo condenó a través de Ezequiel. El verdadero rey de Tiro no era la persona visible sentada en el trono, sino un ser invisible, Satanás, que controlaba al hombre visible.  
+El príncipe de Tiro se llenó de tanto orgullo que se convenció a sí mismo de que era dios. Por eso Dios lo condenó a través de Ezequiel. El verdadero rey de Tiro no era la persona visible sentada en el trono, sino un ser invisible, Satanás, que controlaba al hombre visible.  
   
 Ezequiel fue ordenado de desviar su atención de lo visible a lo invisible, del príncipe de Tiro a Satanás. Es en esta interesante profecía que Ezequiel describe la primera y segunda ubicación del ángel caído.  
   
@@ -71,7 +71,7 @@ Su programa durante el tiempo que habitará el suelo terrestre será la destrucc
 > "Y fué vista otra señal en el cielo; y he aquí un grande dragón bermejo, que tenía siete cabezas y diez cuernos; y sobre sus cabezas siete diademas. Y su cola traía con violencia la tercera parte de las estrellas del cielo, y las arrojó a la tierra. Y el dragón se paró delante de la mujer que estaba de parto, a fin de devorar a su hijo, luego que ella le hubiese parido."  
 > –Revelación 12:3-4
 
-**La quinta ubicación de Satanás se registra en Revelación 20:1-3. Según este pasaje, Satanás estará confinado en el abismo durante los mil años que durará [el reino mesiánico](https://www.ritualypropaganda.com/2023/01/1000-anos-reinado-futuro.html). El pecado y la muerte serán grandemente reducidos en la Tierra, pero no eliminados.  
+La quinta ubicación de Satanás se registra en Revelación 20:1-3. Según este pasaje, Satanás estará confinado en el abismo durante los mil años que durará [el reino mesiánico](https://www.ritualypropaganda.com/2023/01/1000-anos-reinado-futuro.html). El pecado y la muerte serán grandemente reducidos en la Tierra, pero no eliminados.  
   
 Durante el período del reino milenial, Jesucristo ejercerá autoridad sobre la Tierra. Como resultado del encierro de Satanás, el hombre finalmente cumplirá con su llamado de un dominio terrenal justo (Hebreos 2:5-9).  
   

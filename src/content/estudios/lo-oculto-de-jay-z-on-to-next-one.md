@@ -67,7 +67,7 @@ Dada la temática oculta del vídeo y las referencias a Baphomet (utilizado por 
 
   
 
-****"Los Cuernos del Diablo" señal con la mano mientras está de pie delante del halo. Beyonce puede ver a su Halo?****
+"Los Cuernos del Diablo" señal con la mano mientras está de pie delante del halo. Beyonce puede ver a su Halo?
 
   
 
@@ -82,16 +82,16 @@ Dada la temática oculta del vídeo y las referencias a Baphomet (utilizado por 
 Durante el video, unos cráneos de blanco y negro se muestran con un líquido vertido sobre ellos. El símbolo del cráneo humano siempre ha sido de suma importancia en las hermandades ocultas. Los Caballeros Templarios (ancestros de los masones) hacían que los nuevos miembros beban vino de un cráneo humano como parte de su iniciación. Esta práctica todavía se encuentra en algunos ritos de la Masonería.  
   
 
-> **"Los Caballeros Templarios eran amantes empedernidos y coleccionistas de cráneos humanos de todos los tamaños y medios, incluyendo tanto metálicos como calaveras de cristal. La identificación de los Templarios con cráneos humanos se refleja en uno de los símbolos por excelencia de los Caballeros, el "Jolly Roger", que simboliza a los piratas como un cráneo humano superpuesto sobre dos huesos cruzados. Este símbolo representa tanto el uso ceremonial de cráneos Templarios como el de imágenes paganas, incluso los vasos, así como su práctica de la alquimia, una de las etapas de las cuales se denomina "Deadhead" y representada como un cráneo humano.  
+> "Los Caballeros Templarios eran amantes empedernidos y coleccionistas de cráneos humanos de todos los tamaños y medios, incluyendo tanto metálicos como calaveras de cristal. La identificación de los Templarios con cráneos humanos se refleja en uno de los símbolos por excelencia de los Caballeros, el "Jolly Roger", que simboliza a los piratas como un cráneo humano superpuesto sobre dos huesos cruzados. Este símbolo representa tanto el uso ceremonial de cráneos Templarios como el de imágenes paganas, incluso los vasos, así como su práctica de la alquimia, una de las etapas de las cuales se denomina "Deadhead" y representada como un cráneo humano.  
 >   
-> Los cráneos humanos fueron populares para los Templarios porque ellos creían que podían sostener el poder spiritual de los dueños originales , asi como continuar emanando su esencia hacia el ambiente. El cráneo de John the Baptist descubierto por los templarios durante la Cuarta Cruzada en Constantinopla era uno de estos. Los Templarios afirmaban que el cráneo de Juan irradiaba el mismo tipo de poder espiritual como lo hacía cuando estaba en vida, y con lo usaban con el fin de honrar las ceremonias de iniciación y sus altares. Otros cráneos humanos, particularmente apreciado por los templarios eran los que había sido poseída por los santos cristianos y los últimos grandes maestros de su organización. Todo era con el fin de ampliar y poder usar el poder que emana de estos cráneos con fines ceremoniales, a menudo eran envueltos en un metal de alta conductividad, como el oro o la plata, y se colocados en relicarios “productores de energía”, construidos con sagradas formaciones geométricas como tetraedros, octógonos, y pirámides. Las referencias de cráneos templarios envueltos en oro y plata se puede encontrar en algunas de las primeras leyendas del Santo Grial. "- Fuente :[http://modernknighttemplar.blogspot.com/](http://modernknighttemplar.blogspot.com/)**
+> Los cráneos humanos fueron populares para los Templarios porque ellos creían que podían sostener el poder spiritual de los dueños originales , asi como continuar emanando su esencia hacia el ambiente. El cráneo de John the Baptist descubierto por los templarios durante la Cuarta Cruzada en Constantinopla era uno de estos. Los Templarios afirmaban que el cráneo de Juan irradiaba el mismo tipo de poder espiritual como lo hacía cuando estaba en vida, y con lo usaban con el fin de honrar las ceremonias de iniciación y sus altares. Otros cráneos humanos, particularmente apreciado por los templarios eran los que había sido poseída por los santos cristianos y los últimos grandes maestros de su organización. Todo era con el fin de ampliar y poder usar el poder que emana de estos cráneos con fines ceremoniales, a menudo eran envueltos en un metal de alta conductividad, como el oro o la plata, y se colocados en relicarios “productores de energía”, construidos con sagradas formaciones geométricas como tetraedros, octógonos, y pirámides. Las referencias de cráneos templarios envueltos en oro y plata se puede encontrar en algunas de las primeras leyendas del Santo Grial. "- Fuente :[http://modernknighttemplar.blogspot.com/](http://modernknighttemplar.blogspot.com/)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivQydROGWWykkeRVMVP-zB3jqBqdnSWHotqDqbx7PR8QmNtga4y2dKdH-4pxzGCqjPrX7dDWzGBJB0eWMSADvGXfE-9X9-Da-ojzC-DocfOGyOqfiwv2GyrQxMo6sFsZO2AHFu77MSsNId/s1600/templarskull-e1262553159521.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivQydROGWWykkeRVMVP-zB3jqBqdnSWHotqDqbx7PR8QmNtga4y2dKdH-4pxzGCqjPrX7dDWzGBJB0eWMSADvGXfE-9X9-Da-ojzC-DocfOGyOqfiwv2GyrQxMo6sFsZO2AHFu77MSsNId/s1600/templarskull-e1262553159521.jpg)
 
   
   
 
-****Craneo Templario****
+Craneo Templario
 
   
 

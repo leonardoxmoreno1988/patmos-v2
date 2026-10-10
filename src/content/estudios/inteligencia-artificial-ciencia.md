@@ -18,7 +18,7 @@ En este newsletter de tres partes, veremos aspectos diversos de la profecía bí
 > "Tú pues, Daniel, cierra las palabras, y sella el libro hasta el tiempo del fin: pasarán muchos, y multiplicarse ha la ciencia."  
 > ‭‭–Daniel‬ ‭12‬:‭4‬ ‭
 
-**Es claro que en el tiempo de la Tribulación habrá avances tecnológicos que ahora no vemos en su total capacidad. Nuestra generación, sin embargo, experimenta las etapas tempranas de este conocimiento.  
+Es claro que en el tiempo de la Tribulación habrá avances tecnológicos que ahora no vemos en su total capacidad. Nuestra generación, sin embargo, experimenta las etapas tempranas de este conocimiento.  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/363/original/ai_70.webp)  
   
@@ -39,7 +39,7 @@ Es interesante que esto es una réplica del problema de diseño que también ten
 > "Y volvió a haber guerra en Get, y hubo allí un varón de medida, el cual tenía seis dedos en cada pié, y seis dedos en cada mano, veinte y cuatro; y también era hijo de Rafa."  
 > –1 Crónicas 20:6
 
-**Cuando uno investiga sobre este problema de la I.A., se le atribuye a la complejidad de las manos humanas, incluso siendo un reto para los dibujantes en papel ¿Aplicaría esto también a la ingeniería genética imperfecta de [ángeles caídos](https://on.soundcloud.com/ue7qoYFKbFCqTLRT6) y mujeres humanas?  
+Cuando uno investiga sobre este problema de la I.A., se le atribuye a la complejidad de las manos humanas, incluso siendo un reto para los dibujantes en papel ¿Aplicaría esto también a la ingeniería genética imperfecta de [ángeles caídos](https://on.soundcloud.com/ue7qoYFKbFCqTLRT6) y mujeres humanas?  
   
 Tengamos en cuenta que, por más que se sepa que las personas o elementos en las imágenes generadas no son reales, el alterar la percepción de la realidad a un punto donde uno puede ser engañado, es espiritualmente peligroso.  
   

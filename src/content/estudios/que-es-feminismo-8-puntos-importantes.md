@@ -23,7 +23,7 @@ Nada en la tierra es tan fina. En este continente, no hay nada tan raro. Los com
   
 El feminismo no es acerca de la igualdad de oportunidades para las mujeres. Se trata de un matona síntesis del marxismo y el lesbianismo utilizados por las élites gobernantes para socavar los individuos y rediseñar la sociedad. Es a la sociedad lo que el SIDA es para el cuerpo.  
   
-**También Leer:** **[La Mano Oculta Que Moldeó La Historia](http://www.ritualypropaganda.com/2011/11/la-mano-oculta-que-moldeo-la-historia.html)**  
+**También Leer: [La Mano Oculta Que Moldeó La Historia](http://www.ritualypropaganda.com/2011/11/la-mano-oculta-que-moldeo-la-historia.html)**  
   
 Pero los hombres también son responsables. Hemos aceptado la mentira feminista que las mujeres deberían ser independientes y seguir ese camino. Hemos abandonado a muchas dóciles y cariñosas mujeres que instintivamente quieren construir sus vidas alrededor de un hombre. Hemos seguido a las ocupadas, neuróticas, y extremadamente competentes mujeres que nos garantizan el desengaño, el divorcio y a la familia quebrantada.  
   
@@ -36,7 +36,7 @@ Muchos hombres ignoran a las mujeres que pueden proporcionar esa la totalidad. E
   
   
 
-## **¿Qué Es Una Mujer Femenina?**
+## ¿Qué Es Una Mujer Femenina?
 
   
 
@@ -67,7 +67,7 @@ Muchos hombres ignoran a las mujeres que pueden proporcionar esa la totalidad. E
 7.  Una mujer femenina intenta complacer al hombre que ama. No, esto no ha sido proscrito, sólo parece que camino. Una mujer femenina genera amor dando amor. Ella faculta a su hombre por creer en él. El amor se expresa en acciones y esfuerzo. Hornear un pastel es un acto de amor. Lo es un hogar hermoso. ¿Somos tan ciegos, empobrecidos y desmoralizados que no podemos apreciar esto? ¿Por qué hemos permitido a las feministas estigmatizar el hogar? Las mujeres estarían más que felices de ser amas de casa si reciben el reconocimiento y el aprecio que merecen.
 8.  Una mujer femenina tiene gracia, belleza y sabiduría. Estas vienen todas de mantenerse en contacto con su espíritu y no buscando una agotadora carrera que requiere cualidades masculinas.
 
-## **Conclusión**
+## Conclusión
 
 Sobre el espectáculo de "Oprah", vi tres mujeres jóvenes entrevistados acerca del "cuarto de vida" crisis. Estaban teniendo problemas para conseguir que sus carreras en pista y porque las expectativas de sus familias, se fueron cayendo a pedazos.  
   

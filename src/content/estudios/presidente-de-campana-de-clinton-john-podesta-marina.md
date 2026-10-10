@@ -83,7 +83,7 @@ Marina Abramović es considerada la "abuela del arte del performance". Sin embar
 
   
 
-******Marina 'entrenando' a Lady Gaga en el 'Método Abramovic'.******
+Marina 'entrenando' a Lady Gaga en el 'Método Abramovic'.
 
   
 

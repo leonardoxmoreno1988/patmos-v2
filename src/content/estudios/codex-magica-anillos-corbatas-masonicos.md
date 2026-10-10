@@ -9,7 +9,7 @@ description: "\"Un anillo para gobernarlos a todos ... Un anillo para encontrarl
 tags: ["Sociedad"]
 ---
 
-> **"Un anillo para gobernarlos a todos ... Un anillo para encontrarlos ... Un anillo para traerlos a todos** **y en la oscuridad atarlos."****\- J.R.R. Tolkien, El Señor de los Anillos****"Caí en un anillo de fuego ardiendo. Bajé, baje, baje y las llamas subieron ..."** **\-Johnny Cash, Anillo de fuego**
+> **"Un anillo para gobernarlos a todos ... Un anillo para encontrarlos ... Un anillo para traerlos a todos y en la oscuridad atarlos."\- J.R.R. Tolkien, El Señor de los Anillos"Caí en un anillo de fuego ardiendo. Bajé, baje, baje y las llamas subieron ..." \-Johnny Cash, Anillo de fuego**
 
   
 

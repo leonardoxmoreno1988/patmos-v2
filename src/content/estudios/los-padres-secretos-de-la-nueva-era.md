@@ -220,7 +220,7 @@ Bacon fue un personaje singularmente único cuya influencia en la historia no pu
 
   
 
-> **"El intelecto de Bacon fue uno de los más poderosos y jamás poseídos por el hombre, y sus desarrollos de la filosofía inductiva revolucionaron el pensamiento futuro de la raza humana".** **\- Un breve diccionario biográfico de literatura inglesa. ed. John W. Cousins ​​(1910).**
+> **"El intelecto de Bacon fue uno de los más poderosos y jamás poseídos por el hombre, y sus desarrollos de la filosofía inductiva revolucionaron el pensamiento futuro de la raza humana". \- Un breve diccionario biográfico de literatura inglesa. ed. John W. Cousins ​​(1910).**
 
   
 

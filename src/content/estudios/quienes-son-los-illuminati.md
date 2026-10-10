@@ -47,7 +47,7 @@ Las cruzadas contra los musulmanes, quienes ellos mismos habían capturado Jerus
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtjsKbZ14_pjrk5VUHUeEaQ2mtEElt190-ml0RkrcHKTi5lajBGfj8n7B77LO2Rexy1aUuTxMUFNgb9EdVeCow_8-cFqRuYlBamwrzBW06CeVWRcAEULiquZ8zWK4LoJ2Mj9Aj0-_sKuc/s1600/carta-de-contantinopla.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtjsKbZ14_pjrk5VUHUeEaQ2mtEElt190-ml0RkrcHKTi5lajBGfj8n7B77LO2Rexy1aUuTxMUFNgb9EdVeCow_8-cFqRuYlBamwrzBW06CeVWRcAEULiquZ8zWK4LoJ2Mj9Aj0-_sKuc/s1600/carta-de-contantinopla.jpg)
 
-**Pintura al óleo de** **judíos.**
+**Pintura al óleo de judíos.**
 
   
 La Carta de Constantinopla era así una intención estratégica del Gran Sanedrín para proteger al judío. Aunque siempre ha habido un debate sobre la autenticidad de los Protocolos de los Sabios de Sión, no puede haber un debate sobre la Carta de Constantinopla. Si los judíos pudieran infiltrarse y capturar posiciones de riqueza e influencia dentro de los países y organizaciones que ejercían gran poder económico, entonces les permitiría influir en la toma de decisiones políticas y la opinión pública y contribuir a la supervivencia de los judíos. En la carta, los grandes sátrapas y rabinos dijeron a un rabino francés preocupado por la ola del antisemitismo francés, convertirse al cristianismo como exigía el rey francés, pero "guardar la ley de Moisés en su corazón".  
@@ -154,7 +154,7 @@ La Orden de los Illuminati recibió un enorme impulso en el Congreso Masónico d
 El historiador Nesta Webster nos dice:  
   
 
-> **"Lo que pasó en este terrible congreso nunca será conocido en el mundo exterior, ya que incluso aquellos hombres que habían sido atraídos involuntariamente al movimiento y ahora escucharon por primera vez los verdaderos designios de los líderes, estaban bajo [juramento de no revelar nada](http://www.ritualypropaganda.com/2017/07/codex-magica-14-silencio-senal-significado.html)."****Uno de esos honestos francmasones, el conde de Virieu, miembro de una Logia Martinista de Lyon, que regresaba del congreso de Wilhelmsbad, no pudo ocultar su alarma y, interrogado sobre los «trágicos secretos» que había traído consigo, respondió:****"No los confiaré a usted. Sólo puedo decirte que todo esto es mucho más grave de lo que piensa. La conspiración que se está tejiendo está tan bien pensada que será, por así decirlo, imposible que la Monarquía y la Iglesia escapen de ella".**
+> **"Lo que pasó en este terrible congreso nunca será conocido en el mundo exterior, ya que incluso aquellos hombres que habían sido atraídos involuntariamente al movimiento y ahora escucharon por primera vez los verdaderos designios de los líderes, estaban bajo [juramento de no revelar nada](http://www.ritualypropaganda.com/2017/07/codex-magica-14-silencio-senal-significado.html)."Uno de esos honestos francmasones, el conde de Virieu, miembro de una Logia Martinista de Lyon, que regresaba del congreso de Wilhelmsbad, no pudo ocultar su alarma y, interrogado sobre los «trágicos secretos» que había traído consigo, respondió:"No los confiaré a usted. Sólo puedo decirte que todo esto es mucho más grave de lo que piensa. La conspiración que se está tejiendo está tan bien pensada que será, por así decirlo, imposible que la Monarquía y la Iglesia escapen de ella".**
 
   
 A partir de este momento, dice su biógrafo, M. Costa de Beauregard, el conde de Virieu, sólo podía hablar de la francmasonería con horror.
@@ -183,7 +183,7 @@ La conspiración de Weishaupt fue expuesta a las autoridades bávaras por un inf
 Los Illuminati entendiendo la amenaza planteada por el cristianismo también pusieron en marcha una estrategia para seducir a muchos de los líderes cristianos notables a través de una teología apóstata. Esta enseñanza apóstata, que fue presentada a los iniciados cristianos, fue explicada por Von Knigge:  
 
 >   
-> **"[Jesucristo](http://www.ritualypropaganda.com/2017/05/jesus-vs-los-crimenes-cometidos-en-el.html) no estableció una nueva religión, sino estableció la religión y la razón en sus antiguos derechos, con el fin de unir a los hombres en un vínculo común, que les serviría para esto, difundiendo una moral justa, iluminando el entendimiento y ayudando a la mente a deshacerse de todos los prejuicios, enseñando a todos los hombres a gobernarse a sí mismos, los gobernantes serían entonces innecesarios, y la igualdad y la libertad tendrían lugar sin ninguna revolución, por la operación natural y gentil de la razón y la conveniencia.** **Este gran Maestro se permite explicar cada parte de la Biblia en conformidad con estos propósitos; Y él prohíbe toda discusión entre sus eruditos, porque cada hombre puede allí encontrar una aplicación razonable a sus doctrinas peculiares. Que esto sea verdadero o falso, no significa nada. Esta era una simple religión y estaba muy inspirada; pero las mentes de sus oyentes no estaban preparadas para recibir estas doctrinas. Te lo dije, mencionó, pero no lo soportaste. Muchos fueron llamados, pero pocos fueron escogidos.** **A estos elegidos se les confiaron los secretos más importantes; E incluso entre ellos había grados de información. Había unos setenta y también unos doce. Todo esto estaba en el orden natural de las cosas, y de acuerdo con las costumbres de los judíos, y ciertamente de toda la antigüedad. La teosofía judía era un misterio; Como el eleusiano o el pitagórico, impropios para el vulgar, y así las doctrinas del cristianismo fueron estas que se mantuvieron, como el fuego vestal. Estos fueron mantenidos, sólo en las sociedades ocultas, que los entregaron a la posteridad, y ahora son poseídos por los auténticos francmasones".**
+> **"[Jesucristo](http://www.ritualypropaganda.com/2017/05/jesus-vs-los-crimenes-cometidos-en-el.html) no estableció una nueva religión, sino estableció la religión y la razón en sus antiguos derechos, con el fin de unir a los hombres en un vínculo común, que les serviría para esto, difundiendo una moral justa, iluminando el entendimiento y ayudando a la mente a deshacerse de todos los prejuicios, enseñando a todos los hombres a gobernarse a sí mismos, los gobernantes serían entonces innecesarios, y la igualdad y la libertad tendrían lugar sin ninguna revolución, por la operación natural y gentil de la razón y la conveniencia. Este gran Maestro se permite explicar cada parte de la Biblia en conformidad con estos propósitos; Y él prohíbe toda discusión entre sus eruditos, porque cada hombre puede allí encontrar una aplicación razonable a sus doctrinas peculiares. Que esto sea verdadero o falso, no significa nada. Esta era una simple religión y estaba muy inspirada; pero las mentes de sus oyentes no estaban preparadas para recibir estas doctrinas. Te lo dije, mencionó, pero no lo soportaste. Muchos fueron llamados, pero pocos fueron escogidos. A estos elegidos se les confiaron los secretos más importantes; E incluso entre ellos había grados de información. Había unos setenta y también unos doce. Todo esto estaba en el orden natural de las cosas, y de acuerdo con las costumbres de los judíos, y ciertamente de toda la antigüedad. La teosofía judía era un misterio; Como el eleusiano o el pitagórico, impropios para el vulgar, y así las doctrinas del cristianismo fueron estas que se mantuvieron, como el fuego vestal. Estos fueron mantenidos, sólo en las sociedades ocultas, que los entregaron a la posteridad, y ahora son poseídos por los auténticos francmasones".**
 
 ##   
 Albert Pike Y Las Tres Guerras Mundiales
@@ -257,7 +257,7 @@ La siguiente Linea de Tiempo expone desde mi perspectiva como el iluministo o la
 
   
 
-### **6000ac** — **Lucifer introduce el iluminismo a la primera pareja en el Edén**
+### 6000ac — Lucifer introduce el iluminismo a la primera pareja en el Edén
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXWH_M8obd4NPG4r2r5oNpuwtX31pW8ywyNkZMaPTj_toD2wBHaxef8AwG9eTWEEi3DxwvBDztVkPRofiyD76OCwqledW-m41NBvksjxjtQilfs-VxQllODaSfAF2Lkyyqvs-oSWybjTg/s1600/serpiente.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXWH_M8obd4NPG4r2r5oNpuwtX31pW8ywyNkZMaPTj_toD2wBHaxef8AwG9eTWEEi3DxwvBDztVkPRofiyD76OCwqledW-m41NBvksjxjtQilfs-VxQllODaSfAF2Lkyyqvs-oSWybjTg/s1600/serpiente.jpg)
 
@@ -265,7 +265,7 @@ Confundidos con la idea de que Dios les había mentido, la nueva pareja se ve se
 
   
 
-### **1750ac** — **La Torre de Babel es construida en el gobierno de Nimrod**
+### 1750ac — La Torre de Babel es construida en el gobierno de Nimrod
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgovDhN068B22dDR3TDznG5E7fWmglt2ClzAbnRlyxTAG8OQV-33skKMltcg9GSDwf7GKCWbF-RVFjx3m4PcScVnUDiZ_M7uWwa4ga_vjpf2jbLz5xiK7-uHFbh-Si_C5Wk7O0ML4pgqtA/s1600/nimrod.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgovDhN068B22dDR3TDznG5E7fWmglt2ClzAbnRlyxTAG8OQV-33skKMltcg9GSDwf7GKCWbF-RVFjx3m4PcScVnUDiZ_M7uWwa4ga_vjpf2jbLz5xiK7-uHFbh-Si_C5Wk7O0ML4pgqtA/s1600/nimrod.jpg)
 
@@ -273,7 +273,7 @@ El guerrero ocultista Nimrod, quién fue un líder tanto político como religios
 
   
 
-### **1792ac** — **Babilonia introduce el paganismo**
+### 1792ac — Babilonia introduce el paganismo
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBrGK4uKqboply-gSLWtOMQtAEYnvxJpno9hWgWOLrLrukyF7I34r24721tiuTnOrNSO6o2u8GwJZ1AT_PN3FC2yKGTulgJdRhVC_zEv6mNXuyJbnjO4u9_AT8BP47tyOS-eeytULVcXQ/s1600/babilonia.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBrGK4uKqboply-gSLWtOMQtAEYnvxJpno9hWgWOLrLrukyF7I34r24721tiuTnOrNSO6o2u8GwJZ1AT_PN3FC2yKGTulgJdRhVC_zEv6mNXuyJbnjO4u9_AT8BP47tyOS-eeytULVcXQ/s1600/babilonia.jpg)
 
@@ -281,7 +281,7 @@ Los Babilonios en sus diversos rituales al dios sol, crean las bases de lo que s
 
   
 
-### **605ac** — **La cábala se crea como una variante oculta del Judaísmo**
+### 605ac — La cábala se crea como una variante oculta del Judaísmo
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCgXpePTQ8sssWofrcgN52WnYZknq55dH5iMcIt5CD1USIDAoGPV-4Bj5x_VpjYNIFkdnsFdr9r-ySyKbPDE1jpk1-J2d9JBH_nuLoe15pXV7nRLM_Jnx-krUhJpJzE1Xyn1uCv4loK0Q/s1600/cabala-judia.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCgXpePTQ8sssWofrcgN52WnYZknq55dH5iMcIt5CD1USIDAoGPV-4Bj5x_VpjYNIFkdnsFdr9r-ySyKbPDE1jpk1-J2d9JBH_nuLoe15pXV7nRLM_Jnx-krUhJpJzE1Xyn1uCv4loK0Q/s1600/cabala-judia.jpg)
 
@@ -289,7 +289,7 @@ Cautivados por el conocimiento esotérico, un sector del judaísmo mezcla las en
 
   
 
-### **332ac** — **Los egipcios crean símbolos importantes**
+### 332ac — Los egipcios crean símbolos importantes
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEo_Vt9QXvBR5p5vU5nUHmp7cv9v92_4bjqp05zBUq8ev1T-1C1B3wkkDpgy30rsy4qXe6zvKIA5u0mnN49d0Z6WhPPilR14NquEkJvKWDgJEUoACiZ0x-p3KA2eu1Bk1o0kK61dxE8x4/s1600/ojo-piramide.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEo_Vt9QXvBR5p5vU5nUHmp7cv9v92_4bjqp05zBUq8ev1T-1C1B3wkkDpgy30rsy4qXe6zvKIA5u0mnN49d0Z6WhPPilR14NquEkJvKWDgJEUoACiZ0x-p3KA2eu1Bk1o0kK61dxE8x4/s1600/ojo-piramide.jpg)
 
@@ -297,7 +297,7 @@ Los líderes religiosos egipcios, altos practicantes de la magia y el misterio c
 
   
 
-### **33dc** — **Jesucristo enseña otro tipo de salvación**
+### 33dc — Jesucristo enseña otro tipo de salvación
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGxhZ1J8V0IvEH-yQeLDeWn4fZMcmduZSq6eCl4UeGk9RnY4ZtflpU894bpOadF0IEsvXgKKcITUOXcJk8fu3y7Xeae6S4tg6HqBwfaq9ZoAqrZFNEuCIzTMJL1Pg59Wrztus3MuwjAc/s1600/jesus.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGxhZ1J8V0IvEH-yQeLDeWn4fZMcmduZSq6eCl4UeGk9RnY4ZtflpU894bpOadF0IEsvXgKKcITUOXcJk8fu3y7Xeae6S4tg6HqBwfaq9ZoAqrZFNEuCIzTMJL1Pg59Wrztus3MuwjAc/s1600/jesus.jpg)
 
@@ -305,7 +305,7 @@ Cumpliendo las profecías bíblicas, Jesús de Nazareth aparece durante el somet
 
   
 
-### **40dc** — **Los gnósticos luchan contra la iglesia cristiana primitiva de Pablo**
+### 40dc — Los gnósticos luchan contra la iglesia cristiana primitiva de Pablo
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBpNnprRZYd8OakUL6uXjamqCNZbHv3BzDEEwj5YbDt30kqK2AAS6P-5gSM3Gu02XIKHW9sDJN-csRVaEPrOjQnY8s5bIymRireaQN6bCyGxu6wse6VbWNqQF-wxInCobQjWeb_SxoXic/s1600/gnosticismo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBpNnprRZYd8OakUL6uXjamqCNZbHv3BzDEEwj5YbDt30kqK2AAS6P-5gSM3Gu02XIKHW9sDJN-csRVaEPrOjQnY8s5bIymRireaQN6bCyGxu6wse6VbWNqQF-wxInCobQjWeb_SxoXic/s1600/gnosticismo.jpg)
 
@@ -313,7 +313,7 @@ Mientras que Pablo, ya convertido al cristianismo, se encargaba de ministrar a l
 
   
 
-### **300dc** — **La Orden de Eleusis preserva el conocimiento esotérico**
+### 300dc — La Orden de Eleusis preserva el conocimiento esotérico
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGkoeVUoja8ODTmfcND7ezZk5PZ1818sAj9lI64feFWZmrSqlUtQUQpLZA5XYlZzZ8Gquz_04WHe90WqawmoYdRIaDsC_JswTNvuC1pD2OIXhEUoEIMxwNmSDMtTxFkw57aynPtZtM6M/s1600/eleusis.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGkoeVUoja8ODTmfcND7ezZk5PZ1818sAj9lI64feFWZmrSqlUtQUQpLZA5XYlZzZ8Gquz_04WHe90WqawmoYdRIaDsC_JswTNvuC1pD2OIXhEUoEIMxwNmSDMtTxFkw57aynPtZtM6M/s1600/eleusis.jpg)
 
@@ -321,7 +321,7 @@ Los misterios eleusinos se efectuaban en secretos y para una élite escogida cer
 
   
 
-### **1050dc** — **Los Assasins agregan enseñanzas del medio oriente**
+### 1050dc — Los Assasins agregan enseñanzas del medio oriente
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCruUYbzjZ2Y3L5PQAarmnjC1NBvH81rmoM6ILe14qC49rfkqQQK8dFcfj60AXXUUqLWjsGfMiGqzckV9G0gEPZUU_ZzHnbuOtwlxBbIJ1-ENkYS4R06tsBFwo3k-RlkbYYZHP4ZO0IrQ/s1600/asesinos.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCruUYbzjZ2Y3L5PQAarmnjC1NBvH81rmoM6ILe14qC49rfkqQQK8dFcfj60AXXUUqLWjsGfMiGqzckV9G0gEPZUU_ZzHnbuOtwlxBbIJ1-ENkYS4R06tsBFwo3k-RlkbYYZHP4ZO0IrQ/s1600/asesinos.jpg)
 
@@ -329,7 +329,7 @@ La secta de los Asesinos (los nizaríes) predominó en el Medio Oriente y Asia, 
 
   
 
-### **1095dc** — **Los Templarios inician su culto a Baphomet**
+### 1095dc — Los Templarios inician su culto a Baphomet
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4crkAL-frrxgXJu6vIVK7vgsphqkOzYqMYeqiDODZmeiL6DSU2R-Qh4PYGDn4sBtiCrgnVRWrWle4ZmArdowtZyC2HNtLLUyWwDIq86AfkJhISG9LA9S2Ko5ZegZrzC1j1TIwiQWynE/s1600/templarios.gif)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw4crkAL-frrxgXJu6vIVK7vgsphqkOzYqMYeqiDODZmeiL6DSU2R-Qh4PYGDn4sBtiCrgnVRWrWle4ZmArdowtZyC2HNtLLUyWwDIq86AfkJhISG9LA9S2Ko5ZegZrzC1j1TIwiQWynE/s1600/templarios.gif)
 
@@ -337,7 +337,7 @@ Debido a su guerra para recuperar la Tierra Santa, los Caballeros Templarios tie
 
   
 
-### **1407dc** — **Christian Rosenkreutz da inicio a los Rosacruces**
+### 1407dc — Christian Rosenkreutz da inicio a los Rosacruces
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM9I-75IxB6H2FWgbowIZhNBKaTRXXg7D8GCPBisTCSPzSqLVd9CO5-TUyFcYkBAxNI1to_DrQNQhZRUe9U29b7-Y0QJq649H6k1HZZM9WSfBSkGpCRGHXVmz457XbcvX5C3Jwsi_lsXo/s1600/rosacruz.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM9I-75IxB6H2FWgbowIZhNBKaTRXXg7D8GCPBisTCSPzSqLVd9CO5-TUyFcYkBAxNI1to_DrQNQhZRUe9U29b7-Y0QJq649H6k1HZZM9WSfBSkGpCRGHXVmz457XbcvX5C3Jwsi_lsXo/s1600/rosacruz.jpg)
 
@@ -345,7 +345,7 @@ El fundador de la Orden Rosacruz, Christian Rosenkreutz, concentra las enseñanz
 
   
 
-### **1534dc** — **San Ignacio de Loyola funda La Compañía de Jesus.**
+### 1534dc — San Ignacio de Loyola funda La Compañía de Jesus.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTn3FpuJYqarQZf-XMspQ5VMVLETLCMQt03YbJN9OrZNlO1YfR8FSkLJ6l3Vda9wDoAV1dcnSi1pjYN9TGpVpSLP49V-sZ8AczmJ0f9gqaAzofEeSeokghyphenhyphen_mDo7k8Bu3g-kpjS3fFsys/s1600/jesuitas-loyola.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTn3FpuJYqarQZf-XMspQ5VMVLETLCMQt03YbJN9OrZNlO1YfR8FSkLJ6l3Vda9wDoAV1dcnSi1pjYN9TGpVpSLP49V-sZ8AczmJ0f9gqaAzofEeSeokghyphenhyphen_mDo7k8Bu3g-kpjS3fFsys/s1600/jesuitas-loyola.jpg)
 
@@ -353,7 +353,7 @@ Esta orden religiosa conocida también como los Jesuitas ganó el suficiente pod
 
   
 
-### **1717dc** — **La Masonería conserva la secreta doctrina luciferiana**
+### 1717dc — La Masonería conserva la secreta doctrina luciferiana
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVrFTJfRFs8tLuAjq-ac7dxAqfBz68-jthPCrEZmYT1TiSqTAg6nToxxfeV25Sws6QSqPOhWn8dC-7VnPucstq2LL68gecVQiRqD04Wza80JaK6HSuf8BknlfIwOpWt6jKVBK0Xg5tjiU/s1600/masoneria.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVrFTJfRFs8tLuAjq-ac7dxAqfBz68-jthPCrEZmYT1TiSqTAg6nToxxfeV25Sws6QSqPOhWn8dC-7VnPucstq2LL68gecVQiRqD04Wza80JaK6HSuf8BknlfIwOpWt6jKVBK0Xg5tjiU/s1600/masoneria.jpg)
 
@@ -361,7 +361,7 @@ La masonería o francmasonería surge en este año por Michael Ramsey como una o
 
   
 
-### **1775dc** — **Se crea oficialmente la Orden Illuminati por Adam Weishaupt**
+### 1775dc — Se crea oficialmente la Orden Illuminati por Adam Weishaupt
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfs2y8EtR0LDz2sLl1mOPSK7k9DslF5Fpf9QSsKzVPj7IMH_SWCALq6RFjT4XLRLLMrgfWjeTlzT2JytWOudZR1O5b11LGwikNijgvZ6PAGW5A5BkpCQokfkDbQLrQxubdCYSdgWD3c9o/s1600/illuminati.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfs2y8EtR0LDz2sLl1mOPSK7k9DslF5Fpf9QSsKzVPj7IMH_SWCALq6RFjT4XLRLLMrgfWjeTlzT2JytWOudZR1O5b11LGwikNijgvZ6PAGW5A5BkpCQokfkDbQLrQxubdCYSdgWD3c9o/s1600/illuminati.jpg)
 
@@ -369,7 +369,7 @@ Entrenado por los Jesuitas, Adam Weishaupt funda oficialmente la Orden de los Il
 
   
 
-### **1875dc** — **Helena Blavatsky funda la Sociedad Teosofía**
+### 1875dc — Helena Blavatsky funda la Sociedad Teosofía
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYTzpLtpS2Gy8_Bse9b7GzLYE_pqa4EIfQb6iRmQGSDxz_xQOcSgllBYzI0MBazvMyMZrZ82e1d-9t_4sazDlqpU6flHdQWDvFO0FzFng4DJCOqOPoVNGpNCw4fOusU5OCc56RJXN3p4w/s1600/helena.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYTzpLtpS2Gy8_Bse9b7GzLYE_pqa4EIfQb6iRmQGSDxz_xQOcSgllBYzI0MBazvMyMZrZ82e1d-9t_4sazDlqpU6flHdQWDvFO0FzFng4DJCOqOPoVNGpNCw4fOusU5OCc56RJXN3p4w/s1600/helena.jpg)
 
@@ -377,7 +377,7 @@ Siendo iniciada en el ocultismo, Helena Blavatsky recibió instrucción de diver
 
   
 
-### **1902dc** — **Se revelan los Protocolos de los Sabios de Sión**
+### 1902dc — Se revelan los Protocolos de los Sabios de Sión
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib2GHJrUDvUdFU-XzB3gYpQW221WPOIXV9KoCTjnFzsLHDhcsIPuZKnlj1E34J1ims6uhqK4x-eTLyx4Dha4HZ9X_iNDR6xw1jpk1ThwKTyrFG4BJvkr1MAOBi-SB9GmM6riO504ifQ3s/s1600/zion.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib2GHJrUDvUdFU-XzB3gYpQW221WPOIXV9KoCTjnFzsLHDhcsIPuZKnlj1E34J1ims6uhqK4x-eTLyx4Dha4HZ9X_iNDR6xw1jpk1ThwKTyrFG4BJvkr1MAOBi-SB9GmM6riO504ifQ3s/s1600/zion.jpg)
 
@@ -385,7 +385,7 @@ Durante la época de los zares en Rusia, un escrito misterioso apareció, donde 
 
   
 
-### **1904dc** — **El ocultista Aleyster Crowley escribe El Libro De La Ley**
+### 1904dc — El ocultista Aleyster Crowley escribe El Libro De La Ley
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGqAfSqKB-CeZ75xToWIB_Z9kN8-XjV4WWlfRZWpm56ErMJsnWMhtygUFlrun9Vl9g1Oye7X1VvyTZl4iBwgWotIW2BLzxwdDFYS2QQSi0L4dmuCUJkj5T3L7oCSFGACpI0_T32x1CHiI/s1600/crowley.gif)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGqAfSqKB-CeZ75xToWIB_Z9kN8-XjV4WWlfRZWpm56ErMJsnWMhtygUFlrun9Vl9g1Oye7X1VvyTZl4iBwgWotIW2BLzxwdDFYS2QQSi0L4dmuCUJkj5T3L7oCSFGACpI0_T32x1CHiI/s1600/crowley.gif)
 
@@ -393,7 +393,7 @@ Atribuyéndole el crédito del _Libro De La Ley_ a un ser extradimensional llama
 
   
 
-### **1919dc** — **La Sociedad Thule es acusada de querer infiltrarse en la República Soviética de Baviera** 
+### 1919dc — La Sociedad Thule es acusada de querer infiltrarse en la República Soviética de Baviera 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRwx2cK8kePIZ46bH2qoHD5Ti8HO98bLQMzulvNBFZVAMZZjklBc-9_9-AFLCNoTiuCqSaHUx_tv70guaO689wkOT4HkXIVsPzqLr49CLhsPltdTVapRzZRqUwtTs0aboj12Cis7jONPc/s1600/thule.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRwx2cK8kePIZ46bH2qoHD5Ti8HO98bLQMzulvNBFZVAMZZjklBc-9_9-AFLCNoTiuCqSaHUx_tv70guaO689wkOT4HkXIVsPzqLr49CLhsPltdTVapRzZRqUwtTs0aboj12Cis7jONPc/s1600/thule.jpg)
 
@@ -401,7 +401,7 @@ El gobierno comunista de Baviera ajecutó a varios de sus miembros acusándolos 
 
   
 
-### **1935dc** — **Estados Unidos incorpora el billete de un dólar con el ojo que todo lo ve**
+### 1935dc — Estados Unidos incorpora el billete de un dólar con el ojo que todo lo ve
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2vtPqugqrpaTBE7ysOiNsYRtTMDoJkdNWMJEDGBnehPGpOlly532RjsG9Al2dNyK8bzjgGh1TolCAZQexw6nIQpdeRnBNOtrY1K1Cnt_iMk3v_IsccVWHobZgHiBmGahdkSpy_XJLMW0/s1600/ojo-illuminati.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2vtPqugqrpaTBE7ysOiNsYRtTMDoJkdNWMJEDGBnehPGpOlly532RjsG9Al2dNyK8bzjgGh1TolCAZQexw6nIQpdeRnBNOtrY1K1Cnt_iMk3v_IsccVWHobZgHiBmGahdkSpy_XJLMW0/s1600/ojo-illuminati.jpg)
 
@@ -409,7 +409,7 @@ Los francmasones y "padres fundadores" de Estados Unidos, Benjamin Franklin, Tho
 
   
 
-### **1953dc** — **El término "OVNI" se usa por primera vez**
+### 1953dc — El término "OVNI" se usa por primera vez
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6GHwMNEJZTEarMKaz7Dr2fPVhfYRVw3AHn1pNbPMnhQYAgNhH86265WUvXk6V9Qhb1kYeYcvo0th4GTlS0DAT53IiFXm5t-YkIi-Wa0kV9-S0ihkIOUPdLyT6KIEFL_PTllZn8cRd_Q8/s1600/ovni.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6GHwMNEJZTEarMKaz7Dr2fPVhfYRVw3AHn1pNbPMnhQYAgNhH86265WUvXk6V9Qhb1kYeYcvo0th4GTlS0DAT53IiFXm5t-YkIi-Wa0kV9-S0ihkIOUPdLyT6KIEFL_PTllZn8cRd_Q8/s1600/ovni.jpg)
 
@@ -426,7 +426,7 @@ El Bohemian Club, un campamento para los hombres más influyentes de Estados Uni
 
   
 
-### **1977dc** — **David Spangler escribe el libro "Revelación: El nacimiento de una nueva era"**
+### 1977dc — David Spangler escribe el libro "Revelación: El nacimiento de una nueva era"
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwsCNi8NqSiBNxdtMjXBnzpOolp8n6awMPp4gvpUY9wt3MKIyjyAWAaqeEvxa_eydZ8MvSTpZVfU8nuumIoxO26YaaKoP1fzP0I7UKN2auWbYe0CDErz9k-ojEsdTWVaifFgrsoGWSmuE/s1600/nuevaera.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwsCNi8NqSiBNxdtMjXBnzpOolp8n6awMPp4gvpUY9wt3MKIyjyAWAaqeEvxa_eydZ8MvSTpZVfU8nuumIoxO26YaaKoP1fzP0I7UKN2auWbYe0CDErz9k-ojEsdTWVaifFgrsoGWSmuE/s1600/nuevaera.jpg)
 
@@ -434,7 +434,7 @@ El nuevaerista David Spangler utiliza el término "**[nueva era](http://www.ritu
 
   
 
-### **1982** — **Benjamin Creme anuncia de que el Cristo ha llegado**
+### 1982 — Benjamin Creme anuncia de que el Cristo ha llegado
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX74TwXItR2dS7OJAhYGHUuUblZynk9QKedDpIadiTmd2SGo3eHETcZus2VLsMxs9pFYIw9K-eFF1jJ_P1Y90336gM-UXxob7FfIajEjFu5Rwu_ue1aOAOrgvNHId-Fd8Hr9T6hBpIZNo/s1600/falso-cristo-kenya.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX74TwXItR2dS7OJAhYGHUuUblZynk9QKedDpIadiTmd2SGo3eHETcZus2VLsMxs9pFYIw9K-eFF1jJ_P1Y90336gM-UXxob7FfIajEjFu5Rwu_ue1aOAOrgvNHId-Fd8Hr9T6hBpIZNo/s1600/falso-cristo-kenya.jpg)
 
@@ -442,7 +442,7 @@ El esoterista y escritor Benjamin Creme publica en diversos diarios la frase "El
 
   
 
-### **2015** — **El grupo religioso Templo Satánico revelo una estatua de Baphomet en Detroit**
+### 2015 — El grupo religioso Templo Satánico revelo una estatua de Baphomet en Detroit
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc23vZQOygY4emfeAwU-42gGieddnSkXQx-PIAzomAuSWmLuVyLBuZUN6vkURCzzFCCYXb-cApsfqAWzUxlDgkMpm_nJvh8yr8dWRZo9XXtpfr8Emkadfm8TfcVRRD4_h7xv3edBeCoIw/s1600/bahomet.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc23vZQOygY4emfeAwU-42gGieddnSkXQx-PIAzomAuSWmLuVyLBuZUN6vkURCzzFCCYXb-cApsfqAWzUxlDgkMpm_nJvh8yr8dWRZo9XXtpfr8Emkadfm8TfcVRRD4_h7xv3edBeCoIw/s1600/bahomet.jpg)
 
@@ -450,7 +450,7 @@ Una estatua gigante de Baphomet con dos niños es revelada frente a 700 espectad
 Si crees que algún evento debería ser incluido en esta línea de tiempo, no dudes en sugerirla en los comentarios.
 
    
-**Referencias y fuentes  
+Referencias y fuentes  
 
 1\. Masonería más allá de la luz de Bill Schnoebelen  
   

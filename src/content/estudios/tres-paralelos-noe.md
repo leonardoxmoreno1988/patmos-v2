@@ -26,7 +26,7 @@ En su deseo de que conozcamos los tiempos, Jesús está diciendo que como fue en
 > “Comían, bebían, se casaban y se daban en casamiento, hasta el día que entró Noé en el arca; y vino el diluvio, y destruyó a todos. Asimismo también como fué en los dias de Lot: comían, bebían, compraban, vendían, plantaban, edificaban; Mas el día que Lot salió de Sodoma, llovió del cielo fuego y azufre, y destruyó a todos: Como esto será el día que el Hijo del hombre se manifestará.”  
 > –Lucas 17:27-30
 
-**Podemos decir que la gente estará comprando y vendiendo o estarán de vacaciones. Las parejas se casarán y tendrán bebés. Estarán asistiendo a fiestas, comiendo en restaurantes finos y construyendo casas. Comenzarán negocios y planificarán para el futuro. Entonces todo cambiará, instantáneamente (Isaías 34:4-12).  
+Podemos decir que la gente estará comprando y vendiendo o estarán de vacaciones. Las parejas se casarán y tendrán bebés. Estarán asistiendo a fiestas, comiendo en restaurantes finos y construyendo casas. Comenzarán negocios y planificarán para el futuro. Entonces todo cambiará, instantáneamente (Isaías 34:4-12).  
   
 Pero más allá de la parte de la vida en la Tierra y su final abrupto, hay otros tres paralelos con los días de Noé que nos hacen reflexionar sobre la pronta venida de Jesucristo.  
   
@@ -37,7 +37,7 @@ El primero es la corrupción y la violencia. El Génesis dice que el mundo estab
 > “Y corrompióse la tierra delante de Dios, e hinchióse la tierra de violencia. Y vió Dios la tierra, y he aquí que estaba corrompida, porque toda carne había corrompido su camino sobre la tierra. Y dijo Dios a Noé: El fin de toda carne ha venido delante de mí: porque la tierra está llena de violencia delante de ellos: y he aquí que yo los destruyo a ellos con la tierra.”  
 > –Génesis 6:11-13
 
-**No necesitamos convencernos de que nuestro mundo es como una manzana en descomposición. Desde la agenda LGTB+, hasta los [asesinatos de bebés](https://www.ritualypropaganda.com/2015/09/institucion-pro-abortos-planned.html) por medio del aborto, llegando a los crímenes de guerra que se están cometiendo ahora mismo en distintos países, no es exagerado describir nuestro mundo como uno violento y amoral. La tecnología avanza al mismo tiempo que la humanidad decae al punto de no retorno (Daniel 12:4).  
+No necesitamos convencernos de que nuestro mundo es como una manzana en descomposición. Desde la agenda LGTB+, hasta los [asesinatos de bebés](https://www.ritualypropaganda.com/2015/09/institucion-pro-abortos-planned.html) por medio del aborto, llegando a los crímenes de guerra que se están cometiendo ahora mismo en distintos países, no es exagerado describir nuestro mundo como uno violento y amoral. La tecnología avanza al mismo tiempo que la humanidad decae al punto de no retorno (Daniel 12:4).  
   
 El segundo paralelo es un remanente fiel. A pesar de la violencia y la inmoralidad de la época de Noé, quedó un remanente justo que vivía para Dios. Noé caminó con Dios, al igual que los miembros de su familia. Un remanente de cristianos todavía existe hoy (Romanos 11:4-5). Dependiendo de dónde viva, esto puede ser difícil de creer.  
   
@@ -53,7 +53,7 @@ La Biblia no comparte muchos detalles sobre lo que estaba pasando cuando Noé ce
 > "Yo soy la puerta: el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos."  
 > –Juan 10:9
 
-**Definitivamente la puerta se está cerrando. He aquí la importancia de entender la profecía de los últimos tiempos y estar listo para el regreso de Jesucristo en cualquier momento. En un instante, ni una sola persona que quede creerá que la Biblia es la máxima autoridad para la verdad y la vida. Nadie en el mundo guiará a otros a Cristo, excepto los 144.000 judíos mencionados en Revelación 7 y Revelación 14.  
+Definitivamente la puerta se está cerrando. He aquí la importancia de entender la profecía de los últimos tiempos y estar listo para el regreso de Jesucristo en cualquier momento. En un instante, ni una sola persona que quede creerá que la Biblia es la máxima autoridad para la verdad y la vida. Nadie en el mundo guiará a otros a Cristo, excepto los 144.000 judíos mencionados en Revelación 7 y Revelación 14.  
   
 Es sorprendente, a la luz de lo que la Biblia dice sobre el regreso de Cristo, que tantas personas vivan en pecado y rebelión, conspirando en contra del Señor y con poca preocupación por el futuro. Pueden parecer sabios y exitosos en este momento, pero al igual que el entorno de Noé, su futuro es muy oscuro. Los no creyentes estarán enfrentando la Gran Tribulación (Mateo 24:21). Literalmente un tipo de infierno en la tierra.  
   

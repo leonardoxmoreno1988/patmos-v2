@@ -37,7 +37,7 @@ Cuando los fariseos intentaban ilusamente tentar a Jesús con una pregunta sobre
 > "Que al principio de la creación, macho y hembra los hizo Dios."  
 > –Marcos 10:6
 
-**Para los creyentes en la teoría de la evolución, no hay nada objetivamente malo en modificar a los humanos. La razón es simple: desde el punto de vista evolutivo, no hay nada tangiblemente malo en nada. Erróneamente creen que la maldad es subjetiva.  
+Para los creyentes en la teoría de la evolución, no hay nada objetivamente malo en modificar a los humanos. La razón es simple: desde el punto de vista evolutivo, no hay nada tangiblemente malo en nada. Erróneamente creen que la maldad es subjetiva.  
   
 Lo que sucede en un universo aleatorio simplemente sucede, no hay nada correcto o incorrecto. Si los humanos no son más que [sustancias químicas](https://news.propatiens.com/sopa-primitiva-el-origen-de-la-vida/), no hay ninguna razón por la que no podamos hacer que esas sustancias químicas funcionen de manera diferente.  
   

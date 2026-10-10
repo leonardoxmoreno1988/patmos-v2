@@ -121,7 +121,7 @@ Respecto al megaevento deportivo Londres 2012 muchas teorías se crearon creado 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr3GmxmGGs8K3d3Ge7H4AVLzUkwZrSQEuT4DTdToTphWKIXOL5Zddrk7MSo4SGSuzZMbK-yFUHc4z_OcdcbVmW9HTTBlS7GMow2V79Et1pBfCTJxGO_lDImZF331tnkWg7Vl6x7q03gVQ/s1600/lightsolympic.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr3GmxmGGs8K3d3Ge7H4AVLzUkwZrSQEuT4DTdToTphWKIXOL5Zddrk7MSo4SGSuzZMbK-yFUHc4z_OcdcbVmW9HTTBlS7GMow2V79Et1pBfCTJxGO_lDImZF331tnkWg7Vl6x7q03gVQ/s1600/lightsolympic.jpg)
 
-**Interior del estadio olímpico.  
+Interior del estadio olímpico.  
 
   
 

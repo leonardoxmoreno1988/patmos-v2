@@ -37,7 +37,7 @@ La película comienza con un plano panorámico del horizonte de Nueva York, most
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMz5FmXB6rI5ClOJ4KITfBVusR36Y_DPfqf_wV9jfTA0belplPiXS04koC8DG0lfEmMBGtGRvixluJyp-cjMjULHprM1pdG7dDo7YJh3VAajF_vSVHhR2AA4rhjGKdymr5BVOLidBZ_dU/s1600/rosemary15-e1299733467209.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMz5FmXB6rI5ClOJ4KITfBVusR36Y_DPfqf_wV9jfTA0belplPiXS04koC8DG0lfEmMBGtGRvixluJyp-cjMjULHprM1pdG7dDo7YJh3VAajF_vSVHhR2AA4rhjGKdymr5BVOLidBZ_dU/s1600/rosemary15-e1299733467209.jpg)
 
-****El edificio de Dakota (nombrado como Bramford en El Bebé de Rosemary).****  
+El edificio de Dakota (nombrado como Bramford en El Bebé de Rosemary).  
 
 Los Dakota, y otros edificios del Upper West Side, son conocidos por ser el hogar de la aristocracia newyorkina (el "viejo dinero"). El Dakota también ha atraído a celebridades como actores, cantantes y escritores. Es el "lugar para estar" para la élite de Nueva York.  
   
@@ -50,7 +50,7 @@ En la película, se rumorea que el Bramford ha sido el sitio de numerosos aconte
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP3JtufW9NweuPZaUOiszGfN6FUCkv_NxBGpuEoHgzoMr9uQicxGPg9vci7YH1bOIxLdHHHmnUT_gY6pykxpqYL75hIXna8KejUe_SpCfAAbfDdxD0NlVL1bobwLHF-ybt1liSvG-091g/s1600/rosemary21-e1299733504248.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP3JtufW9NweuPZaUOiszGfN6FUCkv_NxBGpuEoHgzoMr9uQicxGPg9vci7YH1bOIxLdHHHmnUT_gY6pykxpqYL75hIXna8KejUe_SpCfAAbfDdxD0NlVL1bobwLHF-ybt1liSvG-091g/s1600/rosemary21-e1299733504248.jpg)
 
-****John y Rosemary Woodhouse visitando el Bramford****  
+John y Rosemary Woodhouse visitando el Bramford  
   
 
 Rosemary y Guy Woodhouse (interpretado por Mia Farrow y John Cassavetes) son una pareja joven que busca alquilar un apartamento en el Bramford. Guy es un actor luchador que no es capaz de obtener reconocimiento o papeles importantes y tiene que recurrir a aparecer en anuncios publicitarios de TV degradantes para generar algunos ingresos. Rosemary es una muchacha frágil y tímida del país norteamericano que viene de una estricta formación católica. El nombre Rosemary ha sido históricamente asociado con la Virgen María, de quien se dice que extendió su capa sobre un arbusto de romero de flores blancas cuando estaba descansando, volviéndola azul. En la película, la amable y confiada Rosemary se convertirá en una especie de "Virgen Negra", llevando en su seno el hijo de Satanás.  
@@ -105,7 +105,7 @@ Durante su estado de trance, Rosemary tiene alucinaciones incoherentes que invol
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBax-P1PQBFS2N_AwCzcjsW4gzdo2N3Q-7IZR4Z27e9bHfZOMuS3naDpuuZyVaRxIpWHxrYpCqS9yAtXlVHeq4sqdPn0Sq_I3NMGtFYz4aPdfgZsD_3pqvY_YCgCUQzGRU1UBCH5CJD00/s1600/rosemary51-e1299733815708.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBax-P1PQBFS2N_AwCzcjsW4gzdo2N3Q-7IZR4Z27e9bHfZOMuS3naDpuuZyVaRxIpWHxrYpCqS9yAtXlVHeq4sqdPn0Sq_I3NMGtFYz4aPdfgZsD_3pqvY_YCgCUQzGRU1UBCH5CJD00/s1600/rosemary51-e1299733815708.jpg)
 
-****Las marcas en el pecho de Rosemary, a la par con los rituales satánicos "reales".****  
+Las marcas en el pecho de Rosemary, a la par con los rituales satánicos "reales".  
 
 En su estado de sueño, Guy comienza a hacerle el amor, pero su apariencia se convierte en una grotesca figura de bestia parecida al Diablo, con ojos amarillentos y manos con garras y escamas. Le acaricia la longitud de su cuerpo con su garra melenuda. Mientras es violada, Rosemary se da cuenta:  
   
@@ -200,7 +200,7 @@ La cámara se traslada a la ventana y luego al exterior del departamento - termi
 Mientras algunos consideran que El Bebé de Rosemary no es más que una película de miedo sobre la sensibilidad de cristianos devotos y madres jóvenes, otros la ven como la valiente exposición de Roman Polanski del estado mental ocultista de la alta sociedad. Sin embargo, muchos ven la película como un manifiesto oculto, anunciando una nueva era. El Bebé de Rosemary es el "Niño del nuevo Aeon" de **[Aleister Crowley](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**, o Horus el hijo de Isis - el portador de una nueva era en la historia del mundo. Ya fuera intencional o no, El Bebé de Rosemary apareció al borde de una nueva era y se convirtió en parte de un importante cambio social.  
   
 
-> **"La película apareció en un momento de caos espiritual óptimo en la vida americana. El Bebé de Rosemary sigue siendo una huella icónica de la memoria de una época en que todo parecía posible, incluyendo el nacimiento del Anti-Cristo".****\- Gary Indiana, "Bedeviled", la voz de la aldea.**
+> **"La película apareció en un momento de caos espiritual óptimo en la vida americana. El Bebé de Rosemary sigue siendo una huella icónica de la memoria de una época en que todo parecía posible, incluyendo el nacimiento del Anti-Cristo".\- Gary Indiana, "Bedeviled", la voz de la aldea.**
 
   
   
@@ -221,20 +221,20 @@ Antes de instalarse en Mia Farrow, Roman Polanski originalmente pensó que su es
 Charles Manson es descrito por Fritz Springmeier como "un esclavo monarca y un manipulador". Según Springmeier, sus programadores sabían de antemano cuáles serían los próximos movimientos. Fue utilizado básicamente por la élite para llevar a cabo asesinatos ritualísticos.  
   
 
-> **"(...) los asesinatos atribuidos al Hijo de Sam, la Familia Manson, y numerosos otros asesinatos interconectados (incluyendo posiblemente los asesinatos del Zodiaco) no eran lo que parecían ser. Si bien estos homicidios parecían ser el trabajo aleatorio de los asesinos en serie / masa, en realidad eran golpes realizados para fines específicos por una red entrelazada de cultos satánicos ... En otras palabras, éstos eran actos profesionales orquestados y disfrazados para parecer el trabajo de otro asesino en serie de "solitario".****\- David McGowan, "Hay algo sobre Henry"**
+> **"(...) los asesinatos atribuidos al Hijo de Sam, la Familia Manson, y numerosos otros asesinatos interconectados (incluyendo posiblemente los asesinatos del Zodiaco) no eran lo que parecían ser. Si bien estos homicidios parecían ser el trabajo aleatorio de los asesinos en serie / masa, en realidad eran golpes realizados para fines específicos por una red entrelazada de cultos satánicos ... En otras palabras, éstos eran actos profesionales orquestados y disfrazados para parecer el trabajo de otro asesino en serie de "solitario".\- David McGowan, "Hay algo sobre Henry"**
 
-> **"Los asesinatos de Manson tendieron el lazo de muerte para los hippies y todo lo que representaban simbólicamente", dijo Bugliosi al Observer la semana pasada. "Cerraron una era. Los años 60, la década del amor, terminaron esa noche, el 9 de agosto de 1969 ".****\-The Guardian ["Seguidor de Charles Manson termina su silencio 40 años después de la noche de la matanza"](https://www.theguardian.com/world/2009/aug/02/charles-manson-linda-kasabian-polanski)**
+> **"Los asesinatos de Manson tendieron el lazo de muerte para los hippies y todo lo que representaban simbólicamente", dijo Bugliosi al Observer la semana pasada. "Cerraron una era. Los años 60, la década del amor, terminaron esa noche, el 9 de agosto de 1969 ".\-The Guardian ["Seguidor de Charles Manson termina su silencio 40 años después de la noche de la matanza"](https://www.theguardian.com/world/2009/aug/02/charles-manson-linda-kasabian-polanski)**
 
   
   
 Según numerosos observadores, los asesinatos de Manson fueron programados usando canciones de los Beatles (Manson mismo afirmó que la canción Helter Skelter contenía mensajes ocultos destinados a su familia).  
   
 
-> **"Charles Manson fue programado con la música de los Beatles. (...) Con frecuencia los llaman esclavos e hipnóticamente convierten las letras para que sean pistas para los esclavos antes de que suene la música. Por ejemplo, la letra de "Ain’t that a Shame" podrá a algunos alters enojados. Para otro esclavo la letra "Everything is relative, in its own way" recuerda a la persona sobre el culto y la obediencia".****\- Fritz Springmeier, La Fórmula Illuminati para Crear un Esclavo del Control Mental Indetectable**
+> **"Charles Manson fue programado con la música de los Beatles. (...) Con frecuencia los llaman esclavos e hipnóticamente convierten las letras para que sean pistas para los esclavos antes de que suene la música. Por ejemplo, la letra de "Ain’t that a Shame" podrá a algunos alters enojados. Para otro esclavo la letra "Everything is relative, in its own way" recuerda a la persona sobre el culto y la obediencia".\- Fritz Springmeier, La Fórmula Illuminati para Crear un Esclavo del Control Mental Indetectable**
 
   
 
-> **"Los asesinatos de Manson fueron realizados de acuerdo con el ritual antiguo de engaños y "cuerdas de iniciación" alrededor de los cuellos de los sacrificados. Una línea de la canción de John Lennon de los Beatles fue pintada en la casa de muerte, "Helter Skelter", que estaba ubicada apropiadamente en Cielo Drive (Sharon Tate y la casa de Roman Polanski).****Lo que se vio después fue la promulgación pública de estos psicodramas alquímicos, cuyas consecuencias espirituales para la humanidad son mucho más trascendentales de lo que hasta ahora se ha adivinado, es un proceso de iniciación oculta global".****\- Michael, A. Hoffman, Sociedades Secretas y Guerra Psicológica**
+> **"Los asesinatos de Manson fueron realizados de acuerdo con el ritual antiguo de engaños y "cuerdas de iniciación" alrededor de los cuellos de los sacrificados. Una línea de la canción de John Lennon de los Beatles fue pintada en la casa de muerte, "Helter Skelter", que estaba ubicada apropiadamente en Cielo Drive (Sharon Tate y la casa de Roman Polanski).Lo que se vio después fue la promulgación pública de estos psicodramas alquímicos, cuyas consecuencias espirituales para la humanidad son mucho más trascendentales de lo que hasta ahora se ha adivinado, es un proceso de iniciación oculta global".\- Michael, A. Hoffman, Sociedades Secretas y Guerra Psicológica**
 
   
   
@@ -250,7 +250,7 @@ Chapman también tenía vínculos con manipuladores de alto perfil y el extraño
   
   
 
-> **"El asesino de Lennon, Mark David Chapman, conoció al amigo de LaVey, Kenneth Anger, un discípulo estadounidense de Aleister Crowley, en Honolulu a finales de los años setenta. En 1967, Anger había dirigido una película llamada Lucifer Rising, protagonizada por el seguidor de Manson, Bobby Beausoleil. Otro seguidor y asesino de Tate, Susan Atkins, había aparecido con LaVey en actuaciones en un club nocturno de Los Ángeles.****\- Ibíd.**
+> **"El asesino de Lennon, Mark David Chapman, conoció al amigo de LaVey, Kenneth Anger, un discípulo estadounidense de Aleister Crowley, en Honolulu a finales de los años setenta. En 1967, Anger había dirigido una película llamada Lucifer Rising, protagonizada por el seguidor de Manson, Bobby Beausoleil. Otro seguidor y asesino de Tate, Susan Atkins, había aparecido con LaVey en actuaciones en un club nocturno de Los Ángeles.\- Ibíd.**
 
   
 ¿Por qué Sharon Tate fue "elegida"? Ella no era la estrella más grande de Hollywood y sólo disfrutaba de un éxito comercial limitado. ¿Era el resultado inevitable reservado a las estrellas que llegaban demasiado lejos en el lado oculto del estrellato? Tres años antes de su muerte, Tate desempeñó el papel de una bruja en la película Eye of the Devil. La conclusión de la película: Un sacrificio de sangre era necesario para "hacer las cosas bien de nuevo".  

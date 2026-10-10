@@ -49,7 +49,7 @@ Muchos antiguos alquimistas trataron de repetir este sistema de creación. Basad
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuSPZSOxOI4otTCK1py34b-bG2fkqHfRXQZN9NghyphenhyphenZcxEx6zILEuG6s9zx8nETWtQAlLK5rJSQFj0VuKf6TpgKWwcRD6jwSJwifdVfg1D38uKOiKrHFLWUbCgb7jDMolGhio2T10eBl1Q/s320/humunculo.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuSPZSOxOI4otTCK1py34b-bG2fkqHfRXQZN9NghyphenhyphenZcxEx6zILEuG6s9zx8nETWtQAlLK5rJSQFj0VuKf6TpgKWwcRD6jwSJwifdVfg1D38uKOiKrHFLWUbCgb7jDMolGhio2T10eBl1Q/s748/humunculo.jpeg)
 
-**El homúnculo, del latín “hombre minúsculo” es un ser hecho de madera o metal y que es insuflado de vida artificialmente por medio de diversos procedimientos cabalísticos, alquímicos o mágicos. En esta ilustración vemos el proceso ocultista del homúnculo.** **El personaje de Hugo comparte la misma meta de los antiguos cabalistas, darle vida al humúnculo.**
+**El homúnculo, del latín “hombre minúsculo” es un ser hecho de madera o metal y que es insuflado de vida artificialmente por medio de diversos procedimientos cabalísticos, alquímicos o mágicos. En esta ilustración vemos el proceso ocultista del homúnculo. El personaje de Hugo comparte la misma meta de los antiguos cabalistas, darle vida al humúnculo.**
 
   
 Debido a que solo Dios puede crear un alma, la verdad detrás de estas práctica cabalística es canalizar a un demonio para tomar posesión del ente creado. Esto es lo que el cuento de Pinocho trata de encubrir con "El Hada Azul" y lo que "La Invención de Hugo Cabret" representa como la llave en forma de corazón. Más adelante veremos cómo se relaciona esto con el luciferismo y la posesión de espíritus.
@@ -207,7 +207,7 @@ En "La Invención de Hugo Cabret" Scorsese hace un tributo a esta correspondenci
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcCnHlCZueh-RqNo1rCBkzlTazmZatDxlTmSpFbTtsSQ5WB5-Gb8MbB_GgLMghz7UzndDQc6nF63Ka-jBy2e-U49QEyGXXnK597ZHfaghuuUnYJGh7o1TX6jtPpNFgdMLDGc-mszarKpo/s1600/magic.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcCnHlCZueh-RqNo1rCBkzlTazmZatDxlTmSpFbTtsSQ5WB5-Gb8MbB_GgLMghz7UzndDQc6nF63Ka-jBy2e-U49QEyGXXnK597ZHfaghuuUnYJGh7o1TX6jtPpNFgdMLDGc-mszarKpo/s1600/magic.jpg)  
-**El personaje de Hugo es instruido por el mismo George Melies sobre los secretos de la magia. Este a su vez adoctrina su propia psique sobre esta práctica.  
+El personaje de Hugo es instruido por el mismo George Melies sobre los secretos de la magia. Este a su vez adoctrina su propia psique sobre esta práctica.  
 
 La magia en sí proviene del término griego Magush, que significa "tener poder". Toda práctica de magia o hechicería se define como la capacidad de alterar la materia o leyes de la física, valiéndose de rituales donde se usan palabras, instrumentos consagrados, y con la intervención de entidades sobrenaturales. Dios menciona sobre esta práctica: "No sea hallado en ti nadie que haga pasar a su hijo o a su hija por el fuego (sacrificios), ni quien practique adivinación, ni hechicería, o sea agorero, o hechicero, o encantador, o médium, o espiritista, ni quien consulte a los muertos. Porque cualquiera que hace estas cosas es abominable al SEÑOR." (Deuteronomio 18:10-12) Debemos entender que toda práctica de magia donde intervengan entidades sobrenaturales son de demonios o el mismo Lucifer. Recomiendo leer: [Crepúsculo, Harry Potter Y El Mago De Oz: Fundamentos Para El Renacimiento De La Wicca](http://www.ritualypropaganda.com/2012/03/crepusculo-harry-potter-y-el-mago-de-oz.html).
 

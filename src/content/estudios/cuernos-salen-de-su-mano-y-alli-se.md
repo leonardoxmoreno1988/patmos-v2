@@ -27,19 +27,19 @@ Pero como se mencionó al inicio, el Señor Dios es descrito como el "cuerno de 
 > “Jehová, roca mía, y castillo mío, y escapador mío; Dios mío, fuerte mío: confiarme he en él: escudo mío, y el cuerno de mi salud; refugio mío.”  
 > –Salmos 18:2
 
-**Es relevante que este mismo término de poder y divinidad se aplica a Jesucristo en el Nuevo Testamento, demostrando nuevamente que la persona del Hijo es en realidad el mismo Dios del Antiguo Testamento:  
+Es relevante que este mismo término de poder y divinidad se aplica a Jesucristo en el Nuevo Testamento, demostrando nuevamente que la persona del Hijo es en realidad el mismo Dios del Antiguo Testamento:  
 
 > “Bendito el Señor Dios de Israel, que visitó, e hizo redención a su pueblo. Y nos enhestó el cuerno de salud en la casa de David su siervo.”  
 > –Lucas 1:68
 
-**Esto confirma que un cuerno en la Biblia también puede representar a un hombre, más específicamente, a un hombre con poder, un líder militar o un rey, similar al uso que los babilonios hacían de sus [dioses falsos](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/nHom5s0aaqupuIqs6F9dv-jGc8zuTXb10rTooJY2bfYCy3unthyNgd7nLPbrqOcmMkT7Ad0FGU9IpizdQBWMnCWpEPS1Y6Q3MkTNQDiFUL-pvKNp5Mc8Vj9gBKPSi--qtFd49PYM07wzHg3dx5Wf02gr1iMY6v39r0DD0CgiaPbmLoYxDzAOfLBVODAgHQzuJjHREJJGW0bY7irPRvpgrvfFSIa4Y5KQzyNOTqgGgKrpwpA4mO8r8SuQkb-dawdY3ad2O0zNb92_J_NqTCUaWlSKDP5sla4JhmURgCVB). Por eso, estas descripciones encajan con Jesucristo (Revelación 19:16), pero también serán atributos temporales del Anticristo.  
+Esto confirma que un cuerno en la Biblia también puede representar a un hombre, más específicamente, a un hombre con poder, un líder militar o un rey, similar al uso que los babilonios hacían de sus [dioses falsos](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/nHom5s0aaqupuIqs6F9dv-jGc8zuTXb10rTooJY2bfYCy3unthyNgd7nLPbrqOcmMkT7Ad0FGU9IpizdQBWMnCWpEPS1Y6Q3MkTNQDiFUL-pvKNp5Mc8Vj9gBKPSi--qtFd49PYM07wzHg3dx5Wf02gr1iMY6v39r0DD0CgiaPbmLoYxDzAOfLBVODAgHQzuJjHREJJGW0bY7irPRvpgrvfFSIa4Y5KQzyNOTqgGgKrpwpA4mO8r8SuQkb-dawdY3ad2O0zNb92_J_NqTCUaWlSKDP5sla4JhmURgCVB). Por eso, estas descripciones encajan con Jesucristo (Revelación 19:16), pero también serán atributos temporales del Anticristo.  
   
 Al profeta Daniel se le revela que en el futuro vendría un personaje con poder, exaltación y dominio absoluto, quien es representado en su visión como un cuerno pequeño que crece súbitamente.  
 
 > “Estando yo contemplando los cuernos, he aquí que otro cuerno pequeño subía entre ellos, y delante de él fueron arrancados tres cuernos de los primeros; y he aquí que en este cuerno había ojos, como ojos de hombre, y una boca que hablaba grandezas.”  
 > –Daniel 7:8
 
-**Para entender el contexto, este cuerno pequeño crece dentro de otros diez cuernos de una gran bestia (Daniel 7:7), que también representan a diez líderes, o héroes semi-divinos con influencia mundial (Daniel 2:44), posiblemente de origen genéticamente alterado como los Nefilim (Daniel 2:43; Génesis 6:4).  
+Para entender el contexto, este cuerno pequeño crece dentro de otros diez cuernos de una gran bestia (Daniel 7:7), que también representan a diez líderes, o héroes semi-divinos con influencia mundial (Daniel 2:44), posiblemente de origen genéticamente alterado como los Nefilim (Daniel 2:43; Génesis 6:4).  
   
 ![](https://img-cache.net/im/10385467/683d2a12630888638fb0a98035e25abe53e40452d1c8524589e45bdba0dd5d23.jpg?e=Ub4zwVOUHbXO-tvvCPqLbKSMSJi6BGp49Bx-Ak1p1ualcgYODZcuVtVBtCfwC8U_IorwOj5wqd9zlS27LctkFtNW5TieP9GP53A2pPR32S_8X9HJ4pjIc_rpQwb4lKMpEjLlePk58q4P35KSdi6CY_qFE0QLlmxjab4u5OzkvXV62WaUhFC287Er-rTwkrWVmR-_Ahrg0eYo7YQorvI9wpMglnuItQ81ToA_GsonkS1mBCr58E7KdsY)  
   
@@ -50,7 +50,7 @@ Pero la bestia de Daniel 7 no es la única forma animal con cuernos. Cuando Juan
 > "Y miré; y, he aquí, en medio del trono, y de los cuatro animales, y en medio de los ancianos, estaba un Cordero en pie como uno que hubiera sido inmolado, que tenía siete cuernos, y siete ojos, que son los siete Espíritus de Dios enviados en toda la tierra."  
 > \-Revelación 5:6
 
-**Las [coronas](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/aN9boEz_F33fvxdPcG6JNLz0bZalZcMBzfGSlK7w0tYRIBJhbUdhKfB3tCEhtiRqihlg4pr4xpoh2sDiOB2xx5kY_8A4sXbIop3ydp0YyhmqEOkpnZ5Qw_Taqs2WWgA990EKpYOhryTGTawwtE4fcKPET0DorUcw56JawIDGdVOVTO8_AYAWxnNvMkM5k28WEreJJo26_WELV0oUxPNlwdVN8ydk2LxAT7oQg4DUjhbPj7zTzlkVsfW1SPqJnC8MnTr68vo) de la realeza con sus elevaciones puntiagudas son una representación más abstracta de los cuernos de un animal, nuevamente colocados sobre las cabezas de reyes o de quienes desean elevarse sobre el común mortal.  
+Las [coronas](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/aN9boEz_F33fvxdPcG6JNLz0bZalZcMBzfGSlK7w0tYRIBJhbUdhKfB3tCEhtiRqihlg4pr4xpoh2sDiOB2xx5kY_8A4sXbIop3ydp0YyhmqEOkpnZ5Qw_Taqs2WWgA990EKpYOhryTGTawwtE4fcKPET0DorUcw56JawIDGdVOVTO8_AYAWxnNvMkM5k28WEreJJo26_WELV0oUxPNlwdVN8ydk2LxAT7oQg4DUjhbPj7zTzlkVsfW1SPqJnC8MnTr68vo) de la realeza con sus elevaciones puntiagudas son una representación más abstracta de los cuernos de un animal, nuevamente colocados sobre las cabezas de reyes o de quienes desean elevarse sobre el común mortal.  
   
 El Señor Jesucristo es Rey de Reyes y Juan describe que Él tiene varias coronas sobre su cabeza (Revelación 19:12), lo que podría señalar que el Señor volverá del cielo con cuernos sobre su cabeza para instaurar el reino milenial en la tierra. El Anticristo imita mediocremente esta capacidad al tener solo una corona sobre su cabeza (Revelación 6:2).  
   
@@ -63,7 +63,7 @@ Cuando el profeta Habacuc tuvo una visión de la Segunda Venida de Cristo, él d
 > “Y el resplandor fue como la luz, cuernos le salían de la mano, y allí estaba escondida su fortaleza.”  
 > –Habacuc 3:4
 
-**La descripción de cuernos saliendo de la mano de Cristo es misteriosa, simbólica en cierto aspecto, pero literal en su visión principal. Esta es una referencia a poder celestial manifestado en fotones visibles de luz, como rayos o truenos saliendo de las manos de una persona. Es por eso que [algunas versiones](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/rPEv6erBZE-9cIfMj0UoTsnrU2OcbFciaYEZIp6UohAmB5OoF8xuwzQl8jJ4eJPj3_6ARV66V7jrFmccPm48s_8HniLpKYwe8erOI7bFlXe-vcI_bMltZyNd2WVGqY-2I0826Os6mrrDXi4gj7jBDZsMlCxBzsIYPiMjHQw1KdJr1O400ROF2_FH40S6XnuoDF8vVpoDbVoi_0O0nA-u6AolVBPtpYSAJcHafRSyppS5pxuzZNBi) es español usan la palabra “rayos” en vez de “cuernos” en este verso.  
+La descripción de cuernos saliendo de la mano de Cristo es misteriosa, simbólica en cierto aspecto, pero literal en su visión principal. Esta es una referencia a poder celestial manifestado en fotones visibles de luz, como rayos o truenos saliendo de las manos de una persona. Es por eso que [algunas versiones](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/rPEv6erBZE-9cIfMj0UoTsnrU2OcbFciaYEZIp6UohAmB5OoF8xuwzQl8jJ4eJPj3_6ARV66V7jrFmccPm48s_8HniLpKYwe8erOI7bFlXe-vcI_bMltZyNd2WVGqY-2I0826Os6mrrDXi4gj7jBDZsMlCxBzsIYPiMjHQw1KdJr1O400ROF2_FH40S6XnuoDF8vVpoDbVoi_0O0nA-u6AolVBPtpYSAJcHafRSyppS5pxuzZNBi) es español usan la palabra “rayos” en vez de “cuernos” en este verso.  
   
 Para la mente hebrea, ambos términos están fuertemente vinculados, y ambas palabras provienen de la misma raíz lingüística (Kéren/Qaráyim), en otras palabras, para el profeta Habacuc, no existía una diferencia marcada entre la fuerza física material de un cuerno y la energía fuerte y luminosa de Dios.  
   

@@ -128,17 +128,17 @@ Esta declaración tiene una profunda resonancia en Escuelas de Misterios como la
   
   
 
-> **"En lo que respecta a la Masonería, Babel, por supuesto, representa una empresa masónica y los primeros expositores cosechado los beneficio completos de los hechos. Recordaron que el pueblo, eran 'una sola lengua y tenían unas mismas palabras' salieron de oriente a occidente, como los que se han probado y demostrado son Maestros Masones. Cuando llegaron a un lugar permanente en la tierra Sinar, se afirma que habitaron en ella como Noachide, siendo el primer nombre característico de los masones. Fue aquí donde construyeron su alta torre de confusión. Fuera de mal viene bien, sin embargo, y la confusión de lenguas dio lugar a "la antigua práctica de los masones que conversan sin el uso de la palabra."** **\- Arthur Edward Waite, Una Nueva Enciclopedia de la Francmasonería y de cognados Instituidas Misterios: sus ritos, Literatura e Historia, Tomo I**
+> **"En lo que respecta a la Masonería, Babel, por supuesto, representa una empresa masónica y los primeros expositores cosechado los beneficio completos de los hechos. Recordaron que el pueblo, eran 'una sola lengua y tenían unas mismas palabras' salieron de oriente a occidente, como los que se han probado y demostrado son Maestros Masones. Cuando llegaron a un lugar permanente en la tierra Sinar, se afirma que habitaron en ella como Noachide, siendo el primer nombre característico de los masones. Fue aquí donde construyeron su alta torre de confusión. Fuera de mal viene bien, sin embargo, y la confusión de lenguas dio lugar a "la antigua práctica de los masones que conversan sin el uso de la palabra." \- Arthur Edward Waite, Una Nueva Enciclopedia de la Francmasonería y de cognados Instituidas Misterios: sus ritos, Literatura e Historia, Tomo I**
 
   
 
 > **"En varios manuscritos masónicos - por ejemplo, el Harleian, Sloane, Lansdowne, y Edimburgo-Kilwinning - se afirma que el arte de los constructores iniciados existía antes del diluvio, y que sus miembros estaban empleados en la construcción de la Torre de Babel".  
-> ****\- Manly P. Hall, Las enseñanzas secretas de todas las edades**
+> \- Manly P. Hall, Las enseñanzas secretas de todas las edades**
 
   
 
 > **"... En la construcción de la Torre de Babel había masonería muy estimada, y el mismo Nimrod era masón y amada a los masones."  
-> ****\- John T Lawrence, The Perfect sillar**
+> \- John T Lawrence, The Perfect sillar**
 
   
 Sin embargo, dice María, "los himnos de un hombre se convirtieron en la maldición de otros". En otras palabras, el monumento que alaba la grandeza del espíritu humano fue construido con la sangre y el sudor de los trabajadores que no sabían nada de la gran visión del Pensador. Y, en la película, lo mismo está sucediendo de nuevo. ¿El nombre de la sede del semidiós Joh Fredersen? Por supuesto... La Nueva Torre de Babel.  
@@ -154,7 +154,7 @@ Sin embargo, dice María, "los himnos de un hombre se convirtieron en la maldici
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8ukL-lUxCyq5XP3wmInk4hVbJrmeCs08Zo19C4S63Uuhgt_9fam8ky-cRXycqBqKGyn5X7nxVfeVTOcZ6njMQ8MSs5y4NmJf7bYMIzfm7fAqPXIzGIgj94LYzA2MAS9kX0EZ7EHLNHgw/s1600/doctor-metropolis.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8ukL-lUxCyq5XP3wmInk4hVbJrmeCs08Zo19C4S63Uuhgt_9fam8ky-cRXycqBqKGyn5X7nxVfeVTOcZ6njMQ8MSs5y4NmJf7bYMIzfm7fAqPXIzGIgj94LYzA2MAS9kX0EZ7EHLNHgw/s1600/doctor-metropolis.jpg)
 
-**Rotwang con su marca comercial... una mano derecha** **mecánica****, que sustituye a la que perdió durante una de sus experimentos. ¿Es esto un símbolo de que el inventor abarca el "camino zurdo"?**
+**Rotwang con su marca comercial... una mano derecha mecánica, que sustituye a la que perdió durante una de sus experimentos. ¿Es esto un símbolo de que el inventor abarca el "camino zurdo"?**
 
   
 Al enterarse de que los trabajadores están planeando un levantamiento, Joh Federsen busca el consejo de Rotwang, un inventor y científico loco. Aunque su trabajo expone la última de las tecnologías, muchas pistas dentro de la película indican que también utilizan el antiguo conocimiento oculto para crear sus inventos. Él dice que vivimos en "una pequeña casa pasada por alto durante siglos",  lo que significa simbólicamente que los arcanos del científico son descendientes de antiguas tradiciones ocultas; el sótano de su casa tiene una puerta secreta que conduce a catacumbas de 2.000 años de antigüedad, aludiendo además a las fuentes antiguas y misteriosas de Rotwang. Además, la puerta principal de su casa tiene una estrella de cinco puntas, que se refiere a los pitagóricos, el ocultismo y la masonería.  

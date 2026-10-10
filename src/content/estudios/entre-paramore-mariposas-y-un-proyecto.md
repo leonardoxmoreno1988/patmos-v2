@@ -235,6 +235,6 @@ Después de ver el vídeo de un par de veces, me pregunté si la canción era en
 
 Estesistema condiciona hipnóticamente a la gente para aceptar el control mental como parte de su vida cotidiana y la tendencia cada vez es más evidente. Ya puedo oír a los detractores diciendo "no" a todo y encontrando formas de racionalizar todo lo que se ha debatido aquí. Tal vez se debería reflexionar sobre estas palabras:
 
- **> "Incluso mientras él baila al compás de la élite dirigente de la conducta humana, el hombre moderno se burla sobre la idea de la existencia y funcionamiento de una tecnología de control mental que emana de los medios de comunicación de masas y el gobierno. El hombre moderno es demasiado inteligente para creer que algo tan supersticiosos como eso! El hombre moderno es el sujeto hipnótico ideal, atiborrado en la idea de que es la corona de la creación, niega con vehemencia el poder de control del hipnotizador sobre él como su cabeza se menea y arriba y abajo en una cadena. "
+ > "Incluso mientras él baila al compás de la élite dirigente de la conducta humana, el hombre moderno se burla sobre la idea de la existencia y funcionamiento de una tecnología de control mental que emana de los medios de comunicación de masas y el gobierno. El hombre moderno es demasiado inteligente para creer que algo tan supersticiosos como eso! El hombre moderno es el sujeto hipnótico ideal, atiborrado en la idea de que es la corona de la creación, niega con vehemencia el poder de control del hipnotizador sobre él como su cabeza se menea y arriba y abajo en una cadena. "
 > 
-> \-Michael A. Hoffman II, sociedades secretas y Guerra Psicológica**
+> \-Michael A. Hoffman II, sociedades secretas y Guerra Psicológica

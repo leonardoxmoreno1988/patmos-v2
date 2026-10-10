@@ -41,7 +41,7 @@ Al mismo tiempo se menciona que es exactamente "El Ojo":
 
 > "Guardianes de la magia y los protectores de los que lo practican. Los candidatos para la iniciación deben seguir una serie de comandos con obediencia ciega".
 
-**En todo sentido, y muy fiel a la realidad en la que vivimos, se esta hablando de una sociedad secreta que guarda el conocimiento ancestral y no accesible para cualquier postulante.  
+En todo sentido, y muy fiel a la realidad en la que vivimos, se esta hablando de una sociedad secreta que guarda el conocimiento ancestral y no accesible para cualquier postulante.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOisY8UzSmdzbDd3UcdFbXzmSp1DGqLj2hHhtHXBqD2D7apBnXn2zVvW4Q7OI5o0tnf6e_POvGKJb5th2rzZMaOSlEzJQA7qxzwqgjknAHmjBko0ybNy1txLYhn876ANxcQLCLKeTyVp8/s1600/seeme6.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOisY8UzSmdzbDd3UcdFbXzmSp1DGqLj2hHhtHXBqD2D7apBnXn2zVvW4Q7OI5o0tnf6e_POvGKJb5th2rzZMaOSlEzJQA7qxzwqgjknAHmjBko0ybNy1txLYhn876ANxcQLCLKeTyVp8/s1600/seeme6.jpg)
@@ -50,16 +50,14 @@ Al mismo tiempo se menciona que es exactamente "El Ojo":
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj99DtGbt91vV8totArDzc0TrTOXeteQNxJKOwtkRGxC_79-EJfsUUzMGtXSkAE9KD4j9vjGQohBdSMVgSXJXSgpjR-eUkZ4lF9ezSk_scB336v5_u_N5bPGqVnoqOYIjWZSST_R6Gd9Wg/s1600/seeme1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj99DtGbt91vV8totArDzc0TrTOXeteQNxJKOwtkRGxC_79-EJfsUUzMGtXSkAE9KD4j9vjGQohBdSMVgSXJXSgpjR-eUkZ4lF9ezSk_scB336v5_u_N5bPGqVnoqOYIjWZSST_R6Gd9Wg/s1600/seeme1.jpg)
 
-****
-
 **Para ingresar al "Ojo", los iniciados deberán ser transformados y convertidos en esclavos de este símbolo.**
 
 Es indiscutible al mismo tiempo reconocer al ojo de la mitología egipcia como Lúcifer, el ángel caído que porta la luz del conocimiento ancestral. Nombrado de diferente forma por diferentes culturas, esta fuente de poder es revelada en muchos grupos herméticos y en los altos rangos de la franmasonería. Lúcifer, el gran engañador que se viste de ángel de luz es la mano que ejecuta la mayor ilusión hecha sobre los ojos del ser humano.
 
 > **"El ojo que todo lo ve fue representante de la omnisciencia de Horus, el dios del sol". -Símbolos Mágicos, por Frederick Goodman**
 > 
-> **  
-> "En la mitología egipcia, Horus es Lucifer." Ex satanista, William Schnoebelen, Masonería: Más Allá de la Luz**
+>
+> "En la mitología egipcia, Horus es Lucifer." Ex satanista, William Schnoebelen, Masonería: Más Allá de la Luz
 
   
 
@@ -133,4 +131,4 @@ La Real Academia Española describe la magia como el "arte o ciencia oculta con 
 
 > "Cuando entres a la tierra que el Señor tu Dios te da, no cometas los mismos actos repugnantes que practican esas naciones. Que no haya en ti nadie que haga pasar a su hijo o a su hija por el fuego, ni nadie que practique la adivinación, ni sea agorero, ni sortílego, ni hechicero, ni encantador, ni adivino, ni mago, ni nadie que consulte a los muertos. Al Señor le repugnan todos los que hacen estas cosas, y precisamente por estos actos repugnantes el Señor tu Dios va a expulsar de tu presencia a estas naciones. Delante del Señor tu Dios debes ser perfecto, porque las naciones de las que vas a tomar posesión prestan oído a los agoreros y a los adivinos, pero a ti el Señor tu Dios no te permite hacer eso." -Deuteronomio 18:9-14
 
-**Todos los que se aliaron con fuerzas espirituales para practicar la magia pudieron disfrutar del reconocimiento temporal en la tierra, pero el costo de perder su alma no sera digno de ver en una película taquillera. La magia, es sin duda, otra herramienta engañosa que Lúcifer ha sabido ofrecer a cambio de poder. En palabras del mismo Daniel Atlas: "¿Qué es la magia? Un engaño enfocado. Pero el engaño destinado a entretener".
+Todos los que se aliaron con fuerzas espirituales para practicar la magia pudieron disfrutar del reconocimiento temporal en la tierra, pero el costo de perder su alma no sera digno de ver en una película taquillera. La magia, es sin duda, otra herramienta engañosa que Lúcifer ha sabido ofrecer a cambio de poder. En palabras del mismo Daniel Atlas: "¿Qué es la magia? Un engaño enfocado. Pero el engaño destinado a entretener".

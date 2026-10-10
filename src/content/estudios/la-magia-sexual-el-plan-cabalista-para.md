@@ -29,7 +29,7 @@ En estudios realizados sobre ocultismo, (citado en "Portadores de Luz de la Oscu
 
   
 
-****Emblema XXXIII de Atalanta Fugiens de Michael Maier. El mote que precede a este grabado dice: "Hermafrodito, yaciendo en las tinieblas como muerto, necesita del fuego". Y el epigrama: "El ser bicéfalo y de doble sexo aparece como un cadáver cuando está falto de humedad. Si se produce en la noche tenebrosa necesita del fuego. Dáselo y así revivirá en seguida".**** 
+Emblema XXXIII de Atalanta Fugiens de Michael Maier. El mote que precede a este grabado dice: "Hermafrodito, yaciendo en las tinieblas como muerto, necesita del fuego". Y el epigrama: "El ser bicéfalo y de doble sexo aparece como un cadáver cuando está falto de humedad. Si se produce en la noche tenebrosa necesita del fuego. Dáselo y así revivirá en seguida". 
 
   
   
@@ -59,7 +59,7 @@ Una nueva ley requiere que las escuelas "retraten positivamente los cambios de s
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_lKZqE98R2EBZ7XQX7wZ4lhKYD0amrHXsD_JQ9OtOC1F5pL4CC27NUJOCTwCLmPL4U03_oVnvZnqpI_WXZWLKbsHuAclIsNUCWVEDCqI0yk89BK_RK3vzKppW0sPlwoG94wks5zrAIKw/s1600/andro.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_lKZqE98R2EBZ7XQX7wZ4lhKYD0amrHXsD_JQ9OtOC1F5pL4CC27NUJOCTwCLmPL4U03_oVnvZnqpI_WXZWLKbsHuAclIsNUCWVEDCqI0yk89BK_RK3vzKppW0sPlwoG94wks5zrAIKw/s1600/andro.jpg)  
 
-Izquierda femenino, centro unificado, derecha masculino.**
+Izquierda femenino, centro unificado, derecha masculino.
 
   
 Bruce Shortt, autor de "La dura verdad sobre las escuelas públicas", señala, "Los niños en las escuelas públicas ya no tendrán que entender que Dios nos hizo varón y mujer. Se les dirán que debido a que hay muchas orientaciones sexuales e identidades de género, simplemente tienen que llegar a sus propias conclusiones sobre que orientación sexual y 'posibilidades' de género son 'adecuados para ellos.' Junto con esto vendrá el mensaje de que usted realmente no puede decir si te gusta algo a menos que lo hayas probado. Las posibles consecuencias de esto para nuestros niños, la institución de la familia, nuestras iglesias y nuestra cultura, son terribles. "  

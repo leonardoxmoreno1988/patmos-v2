@@ -23,7 +23,7 @@ En este libro completamente ilustrado y fotográfico titulado "Codex Magica: Sig
 
 ## El guión oculto Oculto - Una colosal y monstruosa conspiración 
 
-> **"Pero deja que el espíritu de todas las mentiras con las obras de la magia deslumbrante te ciegue. Luego absolutamente mío, voy a tenerte y atarte."****\- El diablo, Fausto de Goethe (1749-1832)**
+> **"Pero deja que el espíritu de todas las mentiras con las obras de la magia deslumbrante te ciegue. Luego absolutamente mío, voy a tenerte y atarte."\- El diablo, Fausto de Goethe (1749-1832)**
 
   
 Están por todas partes. Astutamente disfrazados. En la televisión, incrustado en las revistas, y al acecho en la publicidad de gran alcance. A veces son sutiles o subliminales, otras veces directos, provocativos y alucinantes en vigor.  
@@ -188,7 +188,7 @@ En cuanto a los escépticos y detractores que pretender saber mediante el: sólo
 Mucho he escrito diciendo que el autor del mismo una vez fue un incrédulo y escéptico, hasta que, oyó y considerado toda la evidencia. En este sentido, las Sagradas Escrituras tienen una tremendo asesoramiento digno de consideración:  
 
 > **"Al que responde palabra antes de oír, Le es fatuidad y oprobio."  
-> ****\-Proverbios 18:13**
+> \-Proverbios 18:13**
 
   
 

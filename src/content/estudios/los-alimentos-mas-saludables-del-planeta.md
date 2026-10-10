@@ -19,7 +19,7 @@ tags: ["Sociedad"]
   
 La gente ha vivido y prosperado con dietas altas en proteínas, dietas altas en grasa (los inuit de Groenlandia); baja en proteínas, en dietas altas en carbohidratos (los pueblos indígenas del sur de África); en dietas altas en la leche y la nata cruda (la gente del valle Lötschental en Suiza); Las dietas altas en grasas saturadas (los isleños de Trobriand) e incluso con dietas en las que la sangre de animales se considera un alimento básico (el Massai de Kenia y Tanzania). Y la gente ha prosperado en estas dietas sin los estragos de las enfermedades degenerativas que son una epidemia en la vida moderna para el corazón, la diabetes, la obesidad, las enfermedades neurodegenerativas, la osteoporosis y el cáncer.  
 
-## **A detalle: Los alimentos más saludables en la Tierra**
+## A detalle: Los alimentos más saludables en la Tierra
 
 Lo único que estas dietas tienen en común es que están todas basadas en alimentos integrales con procesamiento mínimo. Las nueces, bayas, frijoles, leche cruda, carne de animales alimentados con pasto. Total de bienes, alimentos, sin procesar casi siempre son saludables, sin importar cuántos gramos de carbohidratos, proteínas o grasas contengan.  
   

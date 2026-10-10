@@ -55,7 +55,7 @@ La sede de la **[Internacional Comunista Capitalista](http://www.savethemales.ca
   
 ¿Fue Canaris un Illuminati o un incauto illuminati? Al parecer quería derrocar a Hitler y poner fin a la guerra pronto, pero los aliados insistieron en la "rendición incondicional", es decir, la máxima masacre. No hay fuerzas nacionalistas debían permanecer. El ejército alemán no tuvo más remedio luchar hasta el final.  
   
-**También Leer:** **[La Mano Oculta Que Moldeó La Historia](http://www.ritualypropaganda.com/2011/11/la-mano-oculta-que-moldeo-la-historia.html)**  
+**También Leer: [La Mano Oculta Que Moldeó La Historia](http://www.ritualypropaganda.com/2011/11/la-mano-oculta-que-moldeo-la-historia.html)**  
   
 No veo la Segunda Guerra Mundial como "la guerra buena". Fue fabricada para concentrar la riqueza y el poder, y para degradar y desmoralizar a la humanidad. Ambas partes eran culpables de atrocidades indecibles.  
   

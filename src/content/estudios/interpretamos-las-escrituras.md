@@ -50,7 +50,7 @@ Por ejemplo, el profeta Miqueas predijo, con setecientos años de antelación, q
 > “Mas tú, Belen Efrata, pequeña para ser en los millares de Judá, de tí me saldrá el que será Señor en Israel; y sus salidas son desde el principio, desde los dias de la eternidad.”  
 > —Miqueas 5:2
 
-**El Mesías nació literalmente en Belén. No fue simbólico. El cumplimiento literal de la profecía pasada significa que debemos interpretar la profecía futura de la misma forma.
+El Mesías nació literalmente en Belén. No fue simbólico. El cumplimiento literal de la profecía pasada significa que debemos interpretar la profecía futura de la misma forma.
 
   
 Si Zacarías 14:4 dice que [Jesús regresará al Monte de los Olivos](https://www.ritualypropaganda.com/2022/08/monte-de-los-olivos.html), entonces la profecía significa que ocurrirá exactamente eso. Juan dice que cuando Jesús venga, los ejércitos se reunirán en Armagedón en el norte de Israel (Revelación 16:12). También lo tomamos literalmente.

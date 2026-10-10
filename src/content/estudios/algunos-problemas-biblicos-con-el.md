@@ -36,12 +36,12 @@ Pero esta enseñanza contradice las declaraciones bíblicas sobre la naturaleza 
 > "para que me conozcáis, y creáis, y entendáis, que yo mismo soy: antes de mí no fue formado Dios, ni lo será después de mí."  
 > –Isaías 43:10
 
-**Otra distinción doctrinal se encuentra en el concepto que tienen de la Trinidad. La enseñanza mormona presenta a Dios Padre, Jesucristo y el Espíritu Santo como tres dioses o personajes distintos, negando explícitamente la doctrina de la Trinidad. Este politeísmo es irreconciliable con el monoteísmo que se enseña en la Biblia:  
+Otra distinción doctrinal se encuentra en el concepto que tienen de la Trinidad. La enseñanza mormona presenta a Dios Padre, Jesucristo y el Espíritu Santo como tres dioses o personajes distintos, negando explícitamente la doctrina de la Trinidad. Este politeísmo es irreconciliable con el monoteísmo que se enseña en la Biblia:  
 
 > “Así dice Jehová, Rey de Israel, y su Redentor, Jehová de los ejércitos: Yo el primero, y yo el postrero, y fuera de mi no hay Dios.”  
 > –Isaías 44:6
 
-**También existen otros ejemplos de contradicciones puntuales pero importantes en las escrituras mormonas. Por ejemplo, el Libro de Mormón, en Alma 7:10, afirma que Jesús nació “en Jerusalén”, mientras que la Biblia afirma que su nacimiento tuvo lugar en Belén (Mateo 2:1).  
+También existen otros ejemplos de contradicciones puntuales pero importantes en las escrituras mormonas. Por ejemplo, el Libro de Mormón, en Alma 7:10, afirma que Jesús nació “en Jerusalén”, mientras que la Biblia afirma que su nacimiento tuvo lugar en Belén (Mateo 2:1).  
   
 La composición material de Dios constituye otra falsa enseñanza. Doctrina y Convenios 130:22 describe a Dios como poseedor de “un cuerpo de carne y huesos, tangible como el del hombre”. En marcado contraste, la Biblia representa a Dios como poseedor de un cuerpo celestial y espiritual, mas no de "carne o huesos" (Juan 4:24).  
   
@@ -55,8 +55,8 @@ La declaración del Señor Jesucristo después de su resurrección, que distingu
 Una cuestión teológica crucial reside también en la doctrina de la salvación. Si bien el mormonismo afirma la necesidad de la gracia de Dios, también enfatiza el papel indispensable de las obras para ser salvo, como lo indica su enseñanza de que la gracia opera “después de hacer cuanto podamos” (Diccionario Bíblico de los Santos de los Últimos Días).  
   
 Este enfoque contradice claramente las afirmaciones bíblicas de la salvación como algo completamente por gracia mediante la fe, independientemente de las obras:  
-**> "Porque por gracia sois salvos por medio de la fe, y esto no de vosotros, es el don de Dios: No por obras, para que nadie se gloríe."  
-> –Efesios 2:8-9**  Las enseñanzas de Pablo a la iglesia primitiva remarcan la incompatibilidad de la gracia y las obras para lograr la salvación (Romanos 11:6; Gálatas 2:21).  
+> "Porque por gracia sois salvos por medio de la fe, y esto no de vosotros, es el don de Dios: No por obras, para que nadie se gloríe."  
+> –Efesios 2:8-9  Las enseñanzas de Pablo a la iglesia primitiva remarcan la incompatibilidad de la gracia y las obras para lograr la salvación (Romanos 11:6; Gálatas 2:21).  
   
 Surgen contradicciones claras con respecto a la poligamia. Jacob 2:24 en el Libro de Mormón condena los matrimonios polígamos de David como "abominables", pero Doctrina y Convenios 132:39 excusa a David, afirmando que "no ha pecado", lo que genera confusión en cuanto a la perspectiva divina sobre la poligamia. La escandalosa práctica histórica y la posterior [abolición de la poligamia](https://www.churchofjesuschrist.org/topics/the-manifesto-and-the-end-of-plural-marriage?lang=spa) dentro del mormonismo resaltan aún más estas inconsistencias.  
   

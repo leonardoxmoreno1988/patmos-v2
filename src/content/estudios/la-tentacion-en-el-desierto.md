@@ -24,7 +24,7 @@ Es por eso que cuando Jesús se interna en el desierto cuarenta días, Él es te
 > "Entonces Jesús fué llevado por el Espíritu al desierto, para ser tentado del diablo. Y habiendo ayunado cuarenta dias y cuarenta noches, después tuvo hambre. Y llegándose a él el tentador, dijo: Si eres Hijo de Dios, dí que estas piedras se hagan pan."  
 > –Mateo 4:1-2
 
-**El número cuarenta significa en las Escrituras “tiempo de prueba”. Elías y Moisés pasan cuarenta días y cuarenta noches sin comer cuando se presentan ante el Señor en el monte.  
+El número cuarenta significa en las Escrituras “tiempo de prueba”. Elías y Moisés pasan cuarenta días y cuarenta noches sin comer cuando se presentan ante el Señor en el monte.  
   
 También vemos que [Satanás](https://www.ritualypropaganda.com/2023/08/entronizado-entre-los-poderosos.html), de acuerdo con su carácter engañoso, es un escéptico nato. El inicia con “Si eres…”. Cada vez que habla dentro de las Escrituras, está cuestionando la Palabra de Dios (Génesis 3:1; Job 1-2; Mateo 4:3).  
   
@@ -53,7 +53,7 @@ Jesucristo mas bien rechazó los privilegios de la Segunda Venida que acompañan
 > "Entónces el diablo le pasa a la santa ciudad; y le puso sobre las almenas del templo, Y le dijo: Si eres Hijo de Dios, échate de aquí abajo: que escrito está: Que a sus ángeles te encomendará; y te alzarán en sus manos, para que nunca hieras tu pié en piedra."  
 > –Mateo 4:5-6
 
-**Nuevamente, la tentación se refiere a la Segunda Venida. Note la referencia a Cristo [descendiendo de los cielos](https://www.ritualypropaganda.com/2022/08/monte-de-los-olivos.html) (Hechos 1:11; Mateo 24:30) y el lugar del Templo en esta profecía (Malaquías 3:1).  
+Nuevamente, la tentación se refiere a la Segunda Venida. Note la referencia a Cristo [descendiendo de los cielos](https://www.ritualypropaganda.com/2022/08/monte-de-los-olivos.html) (Hechos 1:11; Mateo 24:30) y el lugar del Templo en esta profecía (Malaquías 3:1).  
   
 Si un cristiano rechaza la literalidad y el tiempo de la Segunda Venida tal como se revela en [la revelación de Jesucristo](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html) (Revelación 1:1), no podrá comprender nunca el Antiguo Testamento.  
   
@@ -74,7 +74,7 @@ Jesús responde la primera tentación con Deuteronomio 8:3, la segunda tentació
 > "Otra vez le pasa el diablo a un monte muy alto, y le muestra todos los reinos del mundo, y su gloria, Y le dice: Todo esto te daré, si postrado me adorares."  
 > –Mateo 4:8-9
 
-**La oferta de Satanás de darle los reinos a Cristo es una oferta genuina, pero nuevamente es una alteración del tiempo correcto. Revelación 11:15 es donde transcurre el momento correcto y señalado por Dios, pero en el momento de la tentación, Jesús debe ir a la cruz.  
+La oferta de Satanás de darle los reinos a Cristo es una oferta genuina, pero nuevamente es una alteración del tiempo correcto. Revelación 11:15 es donde transcurre el momento correcto y señalado por Dios, pero en el momento de la tentación, Jesús debe ir a la cruz.  
   
 En este último intento, se muestra que Satanás quiere adoración como “dios” (2 Corintios 4:4). Algo que llegará a su apogeo cuando se siente en el [tercer templo](https://es.m.wikipedia.org/wiki/Tercer_templo_de_Jerusal%C3%A9n) (2 Tesalonicenses 2:4; Daniel 9:27; Mateo 24:15-16).  
   

@@ -17,7 +17,7 @@ tags: ["Sociedad"]
 
   
 
-> **"Karl Marx fue un adorador de Satanás... se unió a una secta satánica que usaban largas barbas descuidadas. Cada imagen de Karl Marx representa esto."****\- Ralph Epperson, _Sociedades Secretas_ (cinta de audio de 1987)**
+> **"Karl Marx fue un adorador de Satanás... se unió a una secta satánica que usaban largas barbas descuidadas. Cada imagen de Karl Marx representa esto."\- Ralph Epperson, _Sociedades Secretas_ (cinta de audio de 1987)**
 
   
 El hombre cree que el satanismo y el culto luciferino está muy lejos respecto a los rituales, prácticas y filosofías de las sociedades secretas y la Orden de los Illuminati. De hecho, no hay distinción real entre estos grupos. Como el Dr. Michael Aquino, satanista importante y fundador del Templo de Set, una vez reconocido, los satanistas tienen una comprensión meramente "más precisa" de la realidad oculta. **[Aleister Crowley](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**, satanista británico, que disfrutó de llamarse a sí mismo, "el hombre más malvado del planeta", sin duda habría estado de acuerdo con Aquino.  
@@ -102,27 +102,27 @@ Anton Szandor LaVey, fundador de la Iglesia de Satán, murió el 29 de octubre d
 Según una fuente respetada, el presidente EE.UU., George Herbert Walker Bush (Bush padre) una vez sorprendió a los líderes del Congreso cuando hizo una entrada en la Oficina Oval llevando la máscara de la cabeza de una cabra! **(6)**  
   
 
-## **El macho cabrío de la profecía**
+## El macho cabrío de la profecía
 
 Igual de significativo es el pasaje de la Biblia en Daniel 8: 8-22, qué simbólicamente describe a un gran líder mundial en los últimos días como un "macho cabrío". Este macho cabrío, dicen las escrituras, se hace muy fuerte y su poder está simbolizado por un cuerno que surge de su frente.  
   
 Esta criatura extraña y malvada hace guerra contra el ejército de Dios e intenta suplantarlo. ¿No es esta una imagen similar de la bestia Baphomet, adorado en secreto por los llluminati?  
   
 
-## **El bautismo de una bruja satánica**
+## El bautismo de una bruja satánica
 
 En las ceremonias de las religiones paganas, bautismos—falsificaciones del sacramento cristiano— se llevan a cabo como ritos de iniciación. A continuación se cita una muestra de un bautismo oscuro, tal y como se registra en el libro, _La bruja satánica_, de Anton LaVey, cabeza de la Iglesia de Satán. LaVey ha declarado que el objetivo de su iglesia es nefasta para marcar el comienzo de una "nueva era". (La persona que está siendo bautizada es la hija de LaVey, Zeena, y las palabras son de ella misma.)  
   
 
 > **"Mi bautismo fue de hecho la inversión de un bautismo cristiano. En lugar de estar sumergido en un baño de agua fría por un hombre extraño, siendo purificada del "pecado original", nosotros celebramos al hombre y su naturaleza como lo que realmente son.** 
 
-> **Mientras estaba sentado vistiendo la túnica roja que mi madre hizo esa mañana, jugué con el amuleto Baphomet colgando alrededor de mi cuello. Imperiosamente, examiné el mar de paticipantes con capuchas negras. Me tomó un par de años darme cuenta de que algunos de ellos pueden haber estado más fascinados con la mujer desnuda tumbada en el altar que conmigo. Las cepas góticas de un órgano Hammond hicieron eco contra las paredes negras y rojas... me sentí feliz por ser el punto focal de toda esta actividad.****Mi padre, el Sumo Sacerdote, alzó la espada ceremonial en bendición. Sentí una gran sensación de calidez y respeto. ¿Cuánta gente puede decir honestamente que tiene este sentimiento en cualquier momento de su vida? "Tengo algo que ellos no", pensé con orgullo, de acuerdo con la filosofía del satanismo indulgente. Desde esa noche entendí lo que significa ser una bruja satánica, una mujer que hace pleno uso de sus armas de mujer. A lo largo de mi vida me gustaría jugar de nuevo las palabras entonadas durante mi bautismo:****Los muchos caminantes de patas que dan la fuerza, el poder de colmillo rojo y garra, todos los demonios bailando locamente se llenan con el conocimiento perdido de los antiguos. Pequeña bruja, el mago más natural y verdadero, sus pequeñas manos tienen el poder de tirar los cielos hacia abajo y de sus fragmentos construir un monumento a su propia** **dulce** **indulgencia... Y con estas otras personas del diablo en el templo, les producirás que sus cabezas avancen y saltén, ya que los llenarás con el deseo. Y por dedicar tu vida al amor, a la pasión, a la indulgencia, a Satanás y el camino de la oscuridad.**
+> **Mientras estaba sentado vistiendo la túnica roja que mi madre hizo esa mañana, jugué con el amuleto Baphomet colgando alrededor de mi cuello. Imperiosamente, examiné el mar de paticipantes con capuchas negras. Me tomó un par de años darme cuenta de que algunos de ellos pueden haber estado más fascinados con la mujer desnuda tumbada en el altar que conmigo. Las cepas góticas de un órgano Hammond hicieron eco contra las paredes negras y rojas... me sentí feliz por ser el punto focal de toda esta actividad.Mi padre, el Sumo Sacerdote, alzó la espada ceremonial en bendición. Sentí una gran sensación de calidez y respeto. ¿Cuánta gente puede decir honestamente que tiene este sentimiento en cualquier momento de su vida? "Tengo algo que ellos no", pensé con orgullo, de acuerdo con la filosofía del satanismo indulgente. Desde esa noche entendí lo que significa ser una bruja satánica, una mujer que hace pleno uso de sus armas de mujer. A lo largo de mi vida me gustaría jugar de nuevo las palabras entonadas durante mi bautismo:Los muchos caminantes de patas que dan la fuerza, el poder de colmillo rojo y garra, todos los demonios bailando locamente se llenan con el conocimiento perdido de los antiguos. Pequeña bruja, el mago más natural y verdadero, sus pequeñas manos tienen el poder de tirar los cielos hacia abajo y de sus fragmentos construir un monumento a su propia dulce indulgencia... Y con estas otras personas del diablo en el templo, les producirás que sus cabezas avancen y saltén, ya que los llenarás con el deseo. Y por dedicar tu vida al amor, a la pasión, a la indulgencia, a Satanás y el camino de la oscuridad.**
 
 > **Hail Zeena! Hail Satan!"**
 
   
 
-## **Un generación hipnotizada** 
+## Un generación hipnotizada 
 
 Recientemente, numerosos jóvenes han sido llevados hacia el reino de Satanás a través de películas, dibujos animados, videojuegos, cómics y otros medios. Los **[libros de brujería de Harry Potter](http://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html)** han iniciado a muchos en los elementos más oscuros de infierno. Las películas de fantasía ocultas (Star Wars, Jedi, etc.) han borrado cualquier concepción de los absolutos y han traído cada vez más jóvenes hacia las filosofías satánicas.  
   
@@ -285,7 +285,7 @@ El presidente Bill Clinton fue nombrado "Hombre del Año" por la revista Time. L
   
 Gannet News Service, una de las mayores cadenas de periódicos de Estados Unidos, publicó esta historia sobre la portada de Time que hizo que el presidente Clinton se vea como el diablo. Todo fue inintencional, dijo Gannett. ¡Seguro que lo era!  
 
-> **"Lo que hay que decirle a la gente es que adoramos a un Dios, pero es el Dios que uno adora sin superstición. Para USTED Soberano Gran Inspector General, decimos esto, que puede repetir a los hermanos del 32, 31 y 30 grados - la religión MASÓNICA deben ser, por todos nosotros los iniciados de los altos grados, mantenida en la pureza de la doctrina. Si Lucifer no fuera Dios, acaso Adonay (Jesús)... lo hubiera calumniado? (difundido declaraciones falsas y perjudiciales sobre él)... Sí, Lucifer es Dios."****\* \* A.C.. De La Rive, La Femme et l'Enfant dans la Franc-Maconnene Universelle (página 588)**
+> **"Lo que hay que decirle a la gente es que adoramos a un Dios, pero es el Dios que uno adora sin superstición. Para USTED Soberano Gran Inspector General, decimos esto, que puede repetir a los hermanos del 32, 31 y 30 grados - la religión MASÓNICA deben ser, por todos nosotros los iniciados de los altos grados, mantenida en la pureza de la doctrina. Si Lucifer no fuera Dios, acaso Adonay (Jesús)... lo hubiera calumniado? (difundido declaraciones falsas y perjudiciales sobre él)... Sí, Lucifer es Dios."\* \* A.C.. De La Rive, La Femme et l'Enfant dans la Franc-Maconnene Universelle (página 588)**
 
   
 

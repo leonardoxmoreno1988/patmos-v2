@@ -27,11 +27,11 @@ Nueva información acerca de James Holmes (quien se llamó a sí mismo "The Joke
 
 > **"Después de la masacre de Holmes tranquilamente dijo a los detectives que había tomado 100 mg de la prescripción analgésico Vicodin, y se identificó como "The Joker". La misma droga se encontró en el sistema del actor Heath Ledger cuando murió de una sobredosis accidental de medicamentos recetados en el 2008. Ledger interpreto al Joker en la anterior película de Batman The Dark Knight. Vicodin los efectos secundarios pueden incluir euforia, paranoia y, en raras ocasiones, alucinaciones.**
 > 
-> **
+>
 > 
 > **El video de Holmes fue tomada en Miramar College en San Diego y se le mostró explicando que "las ilusiones temporales" son "una ilusión que te permite cambiar el pasado". Holmes dijo que había estado trabajando en "la experiencia subjetiva, que es lo que se lleva a cabo dentro de la mente que se oponen al mundo exterior".**
 > 
-> ****Fuente: The Telegraph**
+> Fuente: The Telegraph
 
   
 De acuerdo con fuentes de noticias, Holmes estaba realizando un programa de doctorado en neurociencia de la Universidad de Anschutz Medical Campus de Colorado. ¿Podría este lugar de prestigio académico dedicado al estudio del funcionamiento del cerebro y el comportamiento humano también el sitio de la programación de Holmes? Los conceptos se ha dicho de "las ilusiones que le permiten cambiar el pasado" y "experiencia subjetiva", recuerdan mucho a la programación de alterpersonalidades en el control de la mente, donde las ilusiones son de hecho utilizados para crear un pasado falso en alters MK Ultra.  

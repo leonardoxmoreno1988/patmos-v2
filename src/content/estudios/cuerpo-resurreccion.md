@@ -32,14 +32,14 @@ En 1 Corintios 15, el apóstol Pablo, discute y defiende la resurrección de Jes
 > "Así también es la resurrección de los muertos. Se siembra en corrupción; se levantará en incorrupción: Se siembra en vergüenza; se levantará en gloria: se siembra en flaqueza; se levantará en poder: Se siembra cuerpo animal; resucitará cuerpo espiritual. Hay cuerpo animal, y hay cuerpo espiritual. Y así está escrito: Fué hecho el primer hombre Adam en alma viviente; el postrer Adam fué hecho en espíritu vivificante. Mas lo que es espiritual no es primero, sino lo que es animal; y después lo que es espiritual. El primer hombre es de la tierra, terreno: el segundo hombre, que es el Señor, es del cielo. Cual el terreno, tales también los terrenos; y cual el celestial, tales también los celestiales. Y así como hemos llevado la imágen del terreno, llevarémos también la imágen del celestial. Esto empero digo, hermanos: Que la carne y la sangre no pueden heredar el reino de Dios: ni la corrupción hereda la incorrupción.”  
 > –1 Corintios 15:42-49
 
-**Si bien la Biblia no cubre cada detalle, nos da una idea básica de cómo serán. Sabemos que serán como el cuerpo resucitado y glorificado de Jesús. Pablo lo describe en Filipenses:  
+Si bien la Biblia no cubre cada detalle, nos da una idea básica de cómo serán. Sabemos que serán como el cuerpo resucitado y glorificado de Jesús. Pablo lo describe en Filipenses:  
 
 > “Mas nuestra vivienda es en los cielos, de donde también esperamos el Salvador, al Señor Jesu Cristo; El cual transformará el cuerpo de nuestra bajeza, para que sea hecho semejante a su cuerpo glorificado, según el poder eficiente por el cual puede también sujetar a sí todas las cosas.”  
 > –Filipenses 3:20-21
 
-**Juan también escribe sobre esto:  
-**> “Amados míos, ahora somos nosotros los hijos de Dios, y aun no es manifestado lo que hemos de ser: empero sabemos que cuando él apareciere, seremos semejantes a él; porque le veremos como él es.”  
-> –1 Juan** 
+Juan también escribe sobre esto:  
+> “Amados míos, ahora somos nosotros los hijos de Dios, y aun no es manifestado lo que hemos de ser: empero sabemos que cuando él apareciere, seremos semejantes a él; porque le veremos como él es.”  
+> –1 Juan 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdfA7IwYXbqxhe4CGe2AUZ9q7Th8M9xWIJcwR6zvEvi68oU7bL4Ttaseuv9X3JPk2WtoTQuVoN7nByt4h65xBpWqg3dPp6nqKKcvDdvkYVRKMRJ4zV-nEN0W4K9yYFlCcebCU9TbHzesBEW42YOMhUKY2B4hapQIUqj2MCQFt6-aY4gXwE7qxK2Bqy/w640-h360/jesus-body.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdfA7IwYXbqxhe4CGe2AUZ9q7Th8M9xWIJcwR6zvEvi68oU7bL4Ttaseuv9X3JPk2WtoTQuVoN7nByt4h65xBpWqg3dPp6nqKKcvDdvkYVRKMRJ4zV-nEN0W4K9yYFlCcebCU9TbHzesBEW42YOMhUKY2B4hapQIUqj2MCQFt6-aY4gXwE7qxK2Bqy/s700/jesus-body.jpg)
 
@@ -62,7 +62,7 @@ Tal transformación masiva de todos los que confían en Cristo también están d
 > "Esto empero digo, hermanos: Que la carne y la sangre no pueden heredar el reino de Dios: ni la corrupción hereda la incorrupción. He aquí, un misterio, os digo: Todos ciertamente no dormiremos; mas todos seremos transformados. En un momento, en un abrir de ojo, a sonido de la final trompeta; porque será tocada la trompeta, y los muertos serán levantados incorruptibles, y nosotros seremos transformados. Porque es menester que esto corruptible sea vestido de incorrupción, y esto mortal sea vestido de inmortalidad."  
 > –1 Corintios 15:50-53
 
-**La Biblia tampoco dice explícitamente qué edad tendremos o pareceremos tener en la resurrección, por lo que responder a esta pregunta requiere especulación. Sabemos que Dios creó a Adán y Eva como adultos, es decir, no fueron creados como niños que pasaron por las etapas normales de desarrollo.  
+La Biblia tampoco dice explícitamente qué edad tendremos o pareceremos tener en la resurrección, por lo que responder a esta pregunta requiere especulación. Sabemos que Dios creó a Adán y Eva como adultos, es decir, no fueron creados como niños que pasaron por las etapas normales de desarrollo.  
   
 Presuntamente, Adán y Eva fueron creados en la etapa óptima de desarrollo físico, porque Dios declaró que eran “buenos” (Génesis 1:31). Además, cuando Jesús murió, a los treinta años, resucitó en la flor de su desarrollo físico. Cuando resucitó, regresó en un cuerpo que sus seguidores podían reconocer (Lucas 24:31), por lo que debe haber parecido tener aproximadamente la misma edad que tenía cuando murió.  
   

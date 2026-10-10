@@ -33,7 +33,7 @@ La película se desarrolla principalmente en el espacio astronómico, o lo que l
 > "Porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra huestes espirituales de maldad en las regiones celestes."  
 > –Efesios 6:12
 
-**La revelación bíblica identifica a estas fuerzas interplanetarias como los "principados", las "potestades" y las malicias espirituales en los cielos o regiones celestes (Efesios 6:11-12). En la actualidad, el segundo cielo o espacio funciona como la esfera de operación de estas entidades que actúan sobre la tierra, dominando bajo el liderazgo del príncipe de la potestad del aire.
+La revelación bíblica identifica a estas fuerzas interplanetarias como los "principados", las "potestades" y las malicias espirituales en los cielos o regiones celestes (Efesios 6:11-12). En la actualidad, el segundo cielo o espacio funciona como la esfera de operación de estas entidades que actúan sobre la tierra, dominando bajo el liderazgo del príncipe de la potestad del aire.
 
   
 

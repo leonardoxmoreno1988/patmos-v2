@@ -60,7 +60,7 @@ Las reuniones anuales se celebran en un país diferente cada año y al que asist
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMvK5IFaIuvn2S1W6g1pelRFDxHCAzZfV-HBoGOO3DK9GeUCLlxZo7L1WcyrrP0SXjfkvKtbQOWqXUbTY8zFYOCVjyjRKduwhV_AGrW1DGOlX7YlES-KdYYa5QgQYG5yxIrncXj3-Wl_c/s1600/australia-bildenberg.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMvK5IFaIuvn2S1W6g1pelRFDxHCAzZfV-HBoGOO3DK9GeUCLlxZo7L1WcyrrP0SXjfkvKtbQOWqXUbTY8zFYOCVjyjRKduwhV_AGrW1DGOlX7YlES-KdYYa5QgQYG5yxIrncXj3-Wl_c/s1600/australia-bildenberg.jpg)  
-****El Interalpen Hotel, en las montañas de Austria son la sede actual del Grupo Bildenberg 2015.****
+El Interalpen Hotel, en las montañas de Austria son la sede actual del Grupo Bildenberg 2015.
 
 Como todos los miembros gestionan los recursos del planeta, sus miembros se concentran especialmente en los sectores energéticos y bancarios. Sus objetivos son la constitución un nuevo orden mundial, un solo ejército y trabajan sin descanso para lograr ese objetivo. La agenda globalista típica.  
   
@@ -349,7 +349,7 @@ Además, existen logias masónicas no "reconocidas" por la Gran Logia de Inglate
   
 **Fuentes y más información:**  
 
-[Masonería Más Allá de la Luz](http://www.ritualypropaganda.com/2014/01/la-masoneria-mas-alla-de-la-luz-por.html) de Bill Schnoebelen**  
+[Masonería Más Allá de la Luz](http://www.ritualypropaganda.com/2014/01/la-masoneria-mas-alla-de-la-luz-por.html) de Bill Schnoebelen  
 
 ### 
 
@@ -368,7 +368,7 @@ Coleman utiliza el núcleo de la literatura sobre teoría de la conspiración y 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN_fmfIJ0oAyap-OlXNhZry7HrGnHC5k7oud9Vu5yB6Miw7NTi92Bu_sOWJfvmNOmAg_C5mLNS2oRjRQBW79ZdORSQZuAjuj9Q-_T0iPefR4-Vg5x5SKQU8gT_XckWLK7HJkdOen1PYHE/s1600/Club-DE-LOS-300.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN_fmfIJ0oAyap-OlXNhZry7HrGnHC5k7oud9Vu5yB6Miw7NTi92Bu_sOWJfvmNOmAg_C5mLNS2oRjRQBW79ZdORSQZuAjuj9Q-_T0iPefR4-Vg5x5SKQU8gT_XckWLK7HJkdOen1PYHE/s1600/Club-DE-LOS-300.jpg)
 
- "**J****erarquía de los Conspiradores, La historia de El Comité de los 300"** **del Dr. John Coleman.**
+ "**Jerarquía de los Conspiradores, La historia de El Comité de los 300" del Dr. John Coleman.**
 
   
 También habla sobre temas populares, tales como la Nobleza Negra, (el grupo varía mucho en la tradición de la conspiración histórica) que según Coleman, hace parecer a los Borgia como maestros de escuela dominical. (Los nobles misteriosos son siempre un deleitó al público.) De acuerdo con los extensos estudios del Dr. Coleman en el Museo de El Cairo (?), ninguno de los miembros de las familias de la Nobleza Negra han muerto a causa de la peste negra. Descubrió que bebían un compuesto secreto de hierbas y se expusieron a la radiación de baja frecuencia haciéndolos inmunes a la enfermedad.  
@@ -395,7 +395,7 @@ No.
 Coleman afirma haber escuchado Gorbachov referirse al Comité de los 300 en la CNN, pero nadie ha sido capaz de confirmarlo y el clip ha desaparecido de los archivos de la CNN. Los defensores del grupo a menudo apuntan a la cita de empresario alemán Walter Rathenau, pero no hay ninguna indicación de que Rathenau se refería a un grupo real en lugar de un número.  
   
 
-> **"Trescientos hombres, todos los cuales se conocen entre sí, dirigen el destino económico de Europa y eligen a sus sucesores de entre ellos mismos.****\- Geschäftlicher Nachwuchs, Neue Freie Presse, Walter Rathenau, 1909**
+> **"Trescientos hombres, todos los cuales se conocen entre sí, dirigen el destino económico de Europa y eligen a sus sucesores de entre ellos mismos.\- Geschäftlicher Nachwuchs, Neue Freie Presse, Walter Rathenau, 1909**
 
   
 Tenga en cuenta que no hay duda de que los otros grupos que expone Coleman son reales. Algunos se describen en este mismo artículo.  

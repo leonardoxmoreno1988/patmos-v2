@@ -18,7 +18,7 @@ Recordemos que el cuento del siglo XIX de [Carlo Collodi](https://es.wikipedia.o
 > "Hay dos formas de leer “Las aventuras de Pinocho”. El primero es lo que yo llamaría “profano” donde el lector, muy probablemente un niño, se entera de los percances del títere de madera. La segunda es una lectura desde un punto de vista masónico, donde el pesado simbolismo completará, sin sustituir, la narración simple y lineal de los hechos".  
 > –Giovanni Malevolti, Pinocho, mio ​​Fratello
 
-**Pero la versión de del Toro ha llevado el ocultismo de la historia a un nuevo nivel, propio de los últimos tiempos en los que vivimos. Su versión convierte el cuento en casi dos horas de anticristianismo y promoción de lo satánico.
+Pero la versión de del Toro ha llevado el ocultismo de la historia a un nuevo nivel, propio de los últimos tiempos en los que vivimos. Su versión convierte el cuento en casi dos horas de anticristianismo y promoción de lo satánico.
 
   
 
@@ -45,7 +45,7 @@ Este ser lleva la descripción bíblica literal de un ángel (Revelación 4:8), 
 > "Y no es maravilla; porque el mismo Satanás se transfigura en ángel de luz."  
 > –2 Corintios 11:14
 
-**El [arconte](https://es.wikipedia.org/wiki/Arconte_\(gnosticismo\)) representado como un ángel de luz no cumple los deseos de Dios, sino que se muestra cumpliendo sus propios deseos, interviniendo en la vida de los humanos y usando "milagros y señales" para dar vida a lo inmaterial (2 Tesalonicenses 2:9).  
+El [arconte](https://es.wikipedia.org/wiki/Arconte_\(gnosticismo\)) representado como un ángel de luz no cumple los deseos de Dios, sino que se muestra cumpliendo sus propios deseos, interviniendo en la vida de los humanos y usando "milagros y señales" para dar vida a lo inmaterial (2 Tesalonicenses 2:9).  
   
 El encuentro de Gepetto con su creación es inquietante, pero más aún cuando la gente religiosa lo descubre, señalando a la marioneta de madera como "obra del diablo", lo cual ciertamente es, pero en el contexto de la película, los creyentes son retratados como intolerantes y maliciosos.  
   
@@ -64,7 +64,7 @@ Pinocho, en este punto, una forma clara de Anticristo, es también crucificado p
 > "Y ví la una de sus cabezas como herida de muerte, y la llaga de su muerte fué curada; y hubo admiración en toda la tierra detrás de la bestia."  
 > –Revelación 13:3
 
-**A diferencia del cuento infantil de Disney, la versión de del Toro aborda el tema de la resurrección. Al no ser un humano real, Pinocho no puede morir, por lo que resucita cada vez que alguien le quita la vida.  
+A diferencia del cuento infantil de Disney, la versión de del Toro aborda el tema de la resurrección. Al no ser un humano real, Pinocho no puede morir, por lo que resucita cada vez que alguien le quita la vida.  
   
 Cuando desciende al inframundo tiene un encuentro con una esfinge híbrida con cuernos que hace referencia a [Baphomet](https://es.wikipedia.org/wiki/Baphomet). La película lo muestra como otro ser de naturaleza angelical.  
   
@@ -102,7 +102,7 @@ Es interesante también que en la historia original, Pinocho queda atrapado [den
 > "Porque como estuvo Jonás en el vientre de la ballena tres dias y tres noches, así estará el Hijo del hombre en el corazón de la tierra tres dias y tres noches."  
 > –Mateo 12:40
 
-**En este lenguaje, la historia de Pinocho toma la forma del futuro [hombre de pecado](https://www.ritualypropaganda.com/2022/06/hombre-de-pecado.html), quién como el títere de madera, recibiendo el aliento de vida del hada, recibirá el poder de Satanás para volver a vivir y engañar a las naciones (Revelación 20:8).  
+En este lenguaje, la historia de Pinocho toma la forma del futuro [hombre de pecado](https://www.ritualypropaganda.com/2022/06/hombre-de-pecado.html), quién como el títere de madera, recibiendo el aliento de vida del hada, recibirá el poder de Satanás para volver a vivir y engañar a las naciones (Revelación 20:8).  
   
 Pero esto es invisible para los ojos del que rechaza a Cristo, incluso la película de Guillermo del Toro fue premiada como la "Mejor Película Animada" en los Oscars. No dudemos de que el dragón es quién tiene el dominio y la gloria de este mundo, y a quien él quiere se lo da (Lucas 4:6).  
   

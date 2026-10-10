@@ -19,7 +19,7 @@ En este capítulo de **"Bloodlines of the Illuminati"**, el **Linaje Krupp** 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN8mU2zrDDAl_mqKb3lONGmlzBpQfm8ffC8l2MjIow51Ap7VV85Oq-Xo4Wbr0bKBC9FmW6GTwXJDwB-jkPK0pwNhb7laejSu73bQbxntUcHCnGjxNtYMduOGd7IfL1QgNKEgUOfAARDjM/s1600/krupp.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN8mU2zrDDAl_mqKb3lONGmlzBpQfm8ffC8l2MjIow51Ap7VV85Oq-Xo4Wbr0bKBC9FmW6GTwXJDwB-jkPK0pwNhb7laejSu73bQbxntUcHCnGjxNtYMduOGd7IfL1QgNKEgUOfAARDjM/s1600/krupp.jpg)
 
   
-INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS**.** 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. 8: LOS ONASSIS. 9: LOS REYNOLDS. 10: LOS ROCKEFELLER. 11: LOS ROTHSCHILD. 12: LOS RUSSELL. 13:  LOS VAN DUYN.  
+INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS. 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. 8: LOS ONASSIS. 9: LOS REYNOLDS. 10: LOS ROCKEFELLER. 11: LOS ROTHSCHILD. 12: LOS RUSSELL. 13:  LOS VAN DUYN.  
   
 Familias de la Realeza Europea: Los Merovingios.  
 Familias Interconectadas: **\-Krupp** -Disney -McDonald  

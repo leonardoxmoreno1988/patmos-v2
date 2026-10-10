@@ -18,7 +18,7 @@ En las Escrituras podemos aprender que el número siete es el [número de perfec
 > “EN el principio creó Dios los cielos y la tierra.”  
 > –Génesis 1:1
 
-**Al examinar el versículo, es inevitable su golpe directo y conciso a las cinco filosofías o religiones favoritas de la humanidad.  
+Al examinar el versículo, es inevitable su golpe directo y conciso a las cinco filosofías o religiones favoritas de la humanidad.  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/380/original/espacio.jpg)  
   

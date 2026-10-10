@@ -28,9 +28,9 @@ Aprendemos los detalles de esto en Génesis 6: 1-4, el libro de Enoc, y varias o
 Superficialmente, la respuesta parecería obvia. Son parte ángel; Por supuesto que serían gigantes. Pero ¿qué es exactamente lo que nos lleva a esta conclusión? Si hemos de suponer que los nefilim eran gigantes en tamaño físico debido a sus progenitores angélicos, tendríamos que hacer la suposición lógica de que los ángeles son gigantes en tamaño físico también. Considere estos pasajes de la Biblia acerca de los ángeles:  
   
 
-> **"Y se le apareció Jehová en las llanuras de Mamre, y se sentó en la puerta de la tienda en el calor del día; Y alzando los ojos, miró, y he aquí tres hombres estaban junto a él; y viéndolos, corrió a su encuentro desde la puerta de la tienda, y se inclinó hacia la tierra"** **\- Génesis 18: 1-2.****"Y vinieron dos ángeles a Sodoma al atardecer; Y Lot estaba sentado a la puerta de Sodoma; y Lot, al verlos, se levantó a su encuentro; E inclinó con el rostro hacia el suelo;****Y llamaron a Lot, y le dijeron: ¿Dónde están los hombres que vinieron a ti esta noche? Traedlos a nosotros, para que los conozcamos."****\- Génesis 19: 1, 5**
+> **"Y se le apareció Jehová en las llanuras de Mamre, y se sentó en la puerta de la tienda en el calor del día; Y alzando los ojos, miró, y he aquí tres hombres estaban junto a él; y viéndolos, corrió a su encuentro desde la puerta de la tienda, y se inclinó hacia la tierra" \- Génesis 18: 1-2."Y vinieron dos ángeles a Sodoma al atardecer; Y Lot estaba sentado a la puerta de Sodoma; y Lot, al verlos, se levantó a su encuentro; E inclinó con el rostro hacia el suelo;Y llamaron a Lot, y le dijeron: ¿Dónde están los hombres que vinieron a ti esta noche? Traedlos a nosotros, para que los conozcamos."\- Génesis 19: 1, 5**
 
-> **"No se olviden de mostrar hospitalidad, porque por ella algunos, sin saberlo, hospedaron ángeles."** **\- Hebreos 13: 2**
+> **"No se olviden de mostrar hospitalidad, porque por ella algunos, sin saberlo, hospedaron ángeles." \- Hebreos 13: 2**
 
   
 Los capítulos 18 y 19 de Génesis nos dicen que los ángeles aparecieron como hombres a los que los presenciaron. No se encuentra ninguna descripción de tamaño gigantesco. Hebreos 13: 2 incluso nos dice que los ángeles físicamente parecen tan humanos, que algunos los han visto sin saber que eran ángeles. Una nota interesante a esto, no hay ninguna distinción hecha entre los ángeles celestiales y los caídos aquí; Sólo indica "ángeles" en un sentido general. Parecería que ambos ángeles benévolos y malévolos parecen humanos en apariencia.  
@@ -38,7 +38,7 @@ Los capítulos 18 y 19 de Génesis nos dicen que los ángeles aparecieron como h
 Bíblicamente hablando, un tamaño físico más grande no parece ser un atributo a los ángeles. ¿Por qué, entonces, los híbridos descendientes de ángeles caídos eran físicamente gigantescos? Una respuesta que se podría ofrecer a esta pregunta tendría algo que ver con Jude. En el libro de Judas, nos enteramos de que los ángeles rebeldes parecían haber perdido algo una vez que cayeron:  
   
 
-> **"Y a los ángeles que no conservaron su señorío original, sino que abandonaron su morada legítima, los ha guardado en prisiones eternas, bajo tinieblas para el juicio del gran día."** **\- Judas 1: 6.**
+> **"Y a los ángeles que no conservaron su señorío original, sino que abandonaron su morada legítima, los ha guardado en prisiones eternas, bajo tinieblas para el juicio del gran día." \- Judas 1: 6.**
 
   
 Se podría hacer una interpretación de que el primer estado o la vivienda se refiere al cuerpo angelical. Hay ciertamente una buena razón para esta opinión, y en parte estoy definitivamente de acuerdo con esa evaluación (para más información sobre esto, lea el artículo **[Secretos de los nefilim: ¿Quiénes son, qué están haciendo y por qué?](http://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html)** Como mi libro **_Divulgación: Desvelando nuestro papel en la guerra secreta de los antiguos_** en **[MinistudyMinistry.com](http://ministudyministry.com/)**).  
@@ -110,7 +110,7 @@ Todo esto es especulativo, por supuesto, pero si usamos ese ejercicio de pensami
 Puesto que hay al menos una dimensión menos espacial en la que puede crecer, el niño híbrido crecería mucho más en las tres dimensiones en las que podría habitar. Si hay alguna validez en un texto del siglo XIV, esto también podría ayudar a explicar este horrible pasaje que describe el proceso de nacimiento:  
   
 
-> **"... con la cual concibieron los ángeles, pero no pudieron engendrar a sus hijos, y murieron. Y de los hijos que estaban en sus vientres murieron algunos, y otros salieron; Habiendo abierto los vientres de sus madres, salieron por sus ombligos. Y cuando ellos fueron crecidos y llegaron a la hacienda del hombre se convirtieron en gigantes, cuya altura alcanzó hasta las nubes... "****\- Kebra Nagast: Capítulo 100**
+> **"... con la cual concibieron los ángeles, pero no pudieron engendrar a sus hijos, y murieron. Y de los hijos que estaban en sus vientres murieron algunos, y otros salieron; Habiendo abierto los vientres de sus madres, salieron por sus ombligos. Y cuando ellos fueron crecidos y llegaron a la hacienda del hombre se convirtieron en gigantes, cuya altura alcanzó hasta las nubes... "\- Kebra Nagast: Capítulo 100**
 
 ##   
 Motivaciones de los Aliens Extradimensionales

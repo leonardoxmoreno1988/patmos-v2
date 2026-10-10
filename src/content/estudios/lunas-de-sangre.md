@@ -33,7 +33,7 @@ Ante tal inexplicable y poco entendido evento, debemos recordar que la Biblia no
 > "Y dijo Dios: Sean luminares en el extendimiento de los cielos para apartar el día y la noche: y sean por señales, y por tiempos determinados, y por dias y años:"  
 > – Génesis 1:14
 
-**El español limita el verdadero significado del término "estaciones", la cuál es la palabra hebrea moeb. En hebreo, moed se refiere a los días santos mencionados en el capítulo 23 del libro de Levítico en el Antiguo Testamento. Los días santos también se conocen como las siete Fiestas del Señor: Pascua, Panes sin Levadura, Primicias, Pentecostés, Trompetas, Expiación y Tabernáculos. Estas siete festividades anuales fueron instituidos por Dios como tiempos sagrados para el pueblo de Israel.  
+El español limita el verdadero significado del término "estaciones", la cuál es la palabra hebrea moeb. En hebreo, moed se refiere a los días santos mencionados en el capítulo 23 del libro de Levítico en el Antiguo Testamento. Los días santos también se conocen como las siete Fiestas del Señor: Pascua, Panes sin Levadura, Primicias, Pentecostés, Trompetas, Expiación y Tabernáculos. Estas siete festividades anuales fueron instituidos por Dios como tiempos sagrados para el pueblo de Israel.  
   
 Con esto en mente debemos saber que estas son señales del Señor para el pueblo judío (1 de Corintios 1:22). Es por esto que el calendario judío es lunar. Sorprende de gran manera que este fenómeno se alínea con hechos históricos relacionados al judaísmo, que han acompañado de forma cercana las últimas tétradas:
 
@@ -52,12 +52,12 @@ El profeta Joel lo describe:
 > “El sol se tornará en tinieblas, y la luna en sangre, ántes que venga el día grande y espantoso de Jehová.”  
 > —Joel 2:31
 
-**Jesús lo predijo de esta forma:  
+Jesús lo predijo de esta forma:  
 
 > “Y luego después de la aflicción de aquellos dias, el sol se oscurecerá; y la luna no dará su lumbre; y las estrellas caerán del cielo; y las virtudes de los cielos serán conmovidas.”  
 > —Mateo 24:29
 
-**Eso suena como que un eclipse solar y lunar precederá a la Segunda Venida. Y en Lucas 21:25, Jesús les dijo específicamente a sus seguidores que buscaran “señales en el sol, en la luna y en las estrellas” antes de su regreso.  
+Eso suena como que un eclipse solar y lunar precederá a la Segunda Venida. Y en Lucas 21:25, Jesús les dijo específicamente a sus seguidores que buscaran “señales en el sol, en la luna y en las estrellas” antes de su regreso.  
   
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEjAJ0uM3rjYexkZnHDnkfHBX_t-C2FoqLcKFspBWn6JAMICVEcgB3afPZ_4r2TNuMl98ag8nql-iifWMwGvnNZeNSbE1-QN-arGb5B1fPiQq4QGKL8yGwqZevMZQhdK5QzFNdHrsaTjCxLaGqerf2q5c5BTXcHEbkaNOceb_cr90fz_DGmzV_5c60We=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEjAJ0uM3rjYexkZnHDnkfHBX_t-C2FoqLcKFspBWn6JAMICVEcgB3afPZ_4r2TNuMl98ag8nql-iifWMwGvnNZeNSbE1-QN-arGb5B1fPiQq4QGKL8yGwqZevMZQhdK5QzFNdHrsaTjCxLaGqerf2q5c5BTXcHEbkaNOceb_cr90fz_DGmzV_5c60We=s700)
@@ -68,7 +68,7 @@ El apóstol Juan también tuvo una visión de este fenómeno mientras estaba exi
 > “Y miré cuando él abrió el sexto sello; y, he aquí, fué hecho un gran terremoto; y el sol fué hecho negro como saco de pelo, y la luna fué hecha toda como sangre;”  
 > —Revelación 6:12
 
-**Estas no son señales sin importancia. Son puntos donde Dios parece intervenir en la historia humana. Podríamos incluso tomar estas señales en los cielos como el cronómetro de Dios, de tal forma que Él está controlando el sol, la luna y las estrellas para enviar a nuestra generación una señal de que algo grande está por suceder.  
+Estas no son señales sin importancia. Son puntos donde Dios parece intervenir en la historia humana. Podríamos incluso tomar estas señales en los cielos como el cronómetro de Dios, de tal forma que Él está controlando el sol, la luna y las estrellas para enviar a nuestra generación una señal de que algo grande está por suceder.  
   
 La luna de sangre tiene lugar durante la llamada "superluna", cuando está en la cima de su brillo y tamaño relativo en el cielo nocturno. Será hasta un 14% más grande y un 30% más brillante que cuando está más lejos de la Tierra. Una gran señal de alerta.  
   

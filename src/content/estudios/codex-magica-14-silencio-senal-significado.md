@@ -9,7 +9,7 @@ description: "\"... atándome a mí mismo bajo pena no menor que la de cortar mi
 tags: ["Sociedad"]
 ---
 
-> **"... atándome a mí mismo bajo pena no menor que la de cortar mi garganta..."****\- Juramento de la Francmasonería del Aprendiz Iniciado (1°)****"Pero sobre todas las cosas, hermanos míos, no juréis, ni por el cielo, ni por el****Tierra, ni por otro juramento..."****\- Santiago 5:12**
+> **"... atándome a mí mismo bajo pena no menor que la de cortar mi garganta..."\- Juramento de la Francmasonería del Aprendiz Iniciado (1°)"Pero sobre todas las cosas, hermanos míos, no juréis, ni por el cielo, ni por elTierra, ni por otro juramento..."\- Santiago 5:12**
 
   
 

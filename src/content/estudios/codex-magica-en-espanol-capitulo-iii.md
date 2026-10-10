@@ -9,13 +9,13 @@ description: "\"Y hacía que a todos, pequeños y grandes, ricos y pobres, libre
 tags: ["Sociedad"]
 ---
 
-> **"Y hacía que a todos, pequeños y grandes, ricos y pobres, libres y esclavos, se les pusiese una marca en la mano derecha, o en la frente..."****\- Apocalipsis 13:16**
+> **"Y hacía que a todos, pequeños y grandes, ricos y pobres, libres y esclavos, se les pusiese una marca en la mano derecha, o en la frente..."\- Apocalipsis 13:16**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaM5X7GdQfbxPcNoi2nTmoB1UqXvNb8qlO0bZfS032Apfjjc5C2UUMJoa4g3bnH018sOW2xThhpp_nezOunv1eHsJGBAYZ5HD51oxJGUp_J7UVKoh2yl2FI4noaz-Ce6nNyqPAVxSyZyk/s1600/aprenttice.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaM5X7GdQfbxPcNoi2nTmoB1UqXvNb8qlO0bZfS032Apfjjc5C2UUMJoa4g3bnH018sOW2xThhpp_nezOunv1eHsJGBAYZ5HD51oxJGUp_J7UVKoh2yl2FI4noaz-Ce6nNyqPAVxSyZyk/s1600/aprenttice.jpg)
 
   
 
-> **"Levante la mano derecha ... extienda los dos dedos como un tenedor... a continuación, muevala hacia atrás sobre su hombro derecho y con un movimiento rápido mueva los dedos extendidos hacia delante en una dirección horizontal. Esto alude a la pena de sacarles los ojos a un traidor."****\- Segunda señal de un Super Exelente Maestro Masón en el Monitor Richardson de la Francmasonería (p.91)**
+> **"Levante la mano derecha ... extienda los dos dedos como un tenedor... a continuación, muevala hacia atrás sobre su hombro derecho y con un movimiento rápido mueva los dedos extendidos hacia delante en una dirección horizontal. Esto alude a la pena de sacarles los ojos a un traidor."\- Segunda señal de un Super Exelente Maestro Masón en el Monitor Richardson de la Francmasonería (p.91)**
 
   
 Como veremos más adelante, los llluminati adoran deidades mediante muchos nombres y bajo muchos disfraces. Uno de estos es el nombre y disfraz es "Jahbulon." En la búsqueda de su culto a este dios falso, Jahbulon, se han ideado muchos rituales en los que se emplean señas de mano "ocultos". En todos los 33 grados de Rito Escocés y en los rituales del rito de York, la Orden de **[Cráneo y Huesos](http://www.bibliotecapleyades.net/esp_sociopol_skullbones.htm)** (Skull and Bones), la Ordo Templi Orientis, el Gran Logia Oriente de Francia, la Gran Logia de Jerusalén, y así sucesivamente en casi todos las sociedades secretas y órdenes, las señas y apretones de manos son prominentes.  

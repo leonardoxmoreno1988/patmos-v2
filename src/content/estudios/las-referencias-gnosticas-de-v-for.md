@@ -32,7 +32,7 @@ Muchas de las referencias ocultas en Hollywood tienen una estrecha relación con
 > "Se acerca de Crowley desde que tenía doce años cuando tuve mi racha de lectura de libros de bolsillo de Dennis Wheatley, donde dijo que Aleister Crowley fue el hombre más bizarro del mundo. Hay referencias a Crowley en V for Vendetta".  
 > \- Alan Moore
 
-**En uno de los manifiestos de Aleister Crowley llamado "El Libro De La Ley" anuncia en modo profético el inicio de "La Edad De Horus" o Era del Acuario. Una era donde el cristianismo debía desaparecer para dar inicio al reinado de Horus o Lúcifer. Lo que vemos en "V for Vendetta" es realmente la adaptación de este libro ocultista, que en términos más sutiles, sugiere la llegada de un personaje que pondría fin al régimen "dictatorial" del cristianismo. En otra de las enseñanzas "El Libro De La Ley" explica que uno de los principales credos de la nueva era satánica sería "Do what yo wilt, That shall be the whole of the law." (Haz lo que quieras ha de ser la totalidad de la ley). Incluso en la novela gráfica de Alan Moore vemos el uso de esta frase durante las diversas conversaciones.
+En uno de los manifiestos de Aleister Crowley llamado "El Libro De La Ley" anuncia en modo profético el inicio de "La Edad De Horus" o Era del Acuario. Una era donde el cristianismo debía desaparecer para dar inicio al reinado de Horus o Lúcifer. Lo que vemos en "V for Vendetta" es realmente la adaptación de este libro ocultista, que en términos más sutiles, sugiere la llegada de un personaje que pondría fin al régimen "dictatorial" del cristianismo. En otra de las enseñanzas "El Libro De La Ley" explica que uno de los principales credos de la nueva era satánica sería "Do what yo wilt, That shall be the whole of the law." (Haz lo que quieras ha de ser la totalidad de la ley). Incluso en la novela gráfica de Alan Moore vemos el uso de esta frase durante las diversas conversaciones.
 
   
 
@@ -44,7 +44,7 @@ Muchas de las referencias ocultas en Hollywood tienen una estrecha relación con
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiASuvhzSuXDPkVSqewBZLVhH7HwC9oXXKOhtuJ046wjXgCiSxKkcAIpclQn_qqMmr8HDq54vi_YxPbcPgs8nzi2VIrXFV7BHi4pXxP6R7PljestpPLpZoCqOiLP-kdgTqxueI_lOG1Tis/s1600/comic2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiASuvhzSuXDPkVSqewBZLVhH7HwC9oXXKOhtuJ046wjXgCiSxKkcAIpclQn_qqMmr8HDq54vi_YxPbcPgs8nzi2VIrXFV7BHi4pXxP6R7PljestpPLpZoCqOiLP-kdgTqxueI_lOG1Tis/s1600/comic2.jpg)
 
-**Página 187  
+Página 187  
 
   
 
@@ -53,14 +53,14 @@ Aleyster Crowley establecía que influenciando la cultura popular, sus seguidore
 > "Descubrí que no podía avanzar más con la escritura siendo estrictamente racional. Si yo quería ir más allá con mi escritura, que sea más intensa, más poderosa, hacerla decir lo que quería decir, tuve que ir más allá de la técnica y las ideas racionales acerca de la escritura en algo que era transracional, si se quiere decir, esto es magia".  
 > \- Alan Moore, entrevista con Matt Brady.
 
-**Tanto en el comic como en la película se ve como el personaje principal "V" tiene una experiencia que este relaciona con un despertar espiritual. Este fue un reflejo de la propia experiencia de Moore en el gnosticismo, al cual fue guiado por estas entidades. Él menciona:  
+Tanto en el comic como en la película se ve como el personaje principal "V" tiene una experiencia que este relaciona con un despertar espiritual. Este fue un reflejo de la propia experiencia de Moore en el gnosticismo, al cual fue guiado por estas entidades. Él menciona:  
 
 > "Sí. En el día en que tenía cuarenta años, decidí que iba a convertirme en un mago. Eso fue el 18 de noviembre. El 7 de enero del año siguiente, fué cuando de repente, me golpeó un rayo. Todo fue un poco extraño. Durante un par de meses después de eso, yo estuve probablemente en algún estado esquizofrénico. Yo estaba muy ido, y balbuceaba por ciertos tiempos. Es una respuesta natural. Balbucear como un idiota. Me sorprende que -cuando recuerdo lo que estaba diciendo- gran parte de eso por lo menos tiene un fragmento de sentido, porque yo estaba como en una neblina divina. "Lo veo todo ahora" sabes, yo debí haber sido insoportable durante dos o tres meses. Pero ahora lo he integrado por el resto de mi vida. Ahora puedo hacer frente a la funcionalidad en un nivel práctico."  
 > (...)  
 > "Me encontraba al parecer en una conversación con una entidad... (esa) presencia estaba rodeando mi cabeza, moviéndose y hablándome con lucidez"  
 > \- Alan Moore
 
-**En la novela gráfica vemos otra experiencia similar, donde el personaje de Finch tiene una revelación gnóstica con síntomas muy parecidos a los que Moore describe. Finch ingiere LCD para experimentar lo mismo que "V" experimento y así poder entenderlo y encontrarlo. En este viaje ocasionado por los efectos de la droga él se ve en una cárcel, un reflejo de la sociedad actual y de la cual debe liberarse.
+En la novela gráfica vemos otra experiencia similar, donde el personaje de Finch tiene una revelación gnóstica con síntomas muy parecidos a los que Moore describe. Finch ingiere LCD para experimentar lo mismo que "V" experimento y así poder entenderlo y encontrarlo. En este viaje ocasionado por los efectos de la droga él se ve en una cárcel, un reflejo de la sociedad actual y de la cual debe liberarse.
 
   
 
@@ -185,7 +185,7 @@ En el artículo "[El Significado Oculto de "Fight Club" y su Relación con el Nu
 > "La tortura con fuego y quemaduras se utiliza en la programación "rostro de porcelana"... Los recuerdos de los abusos son entonces hipnóticamente escondidos detrás de las máscaras ...Esto quiere decir que estos alters, mediante la tortura y la hipnosis, han perdido sus propios rostros!"  
 > \- Fritz Springmeier, Illuminati Formula Used To Creat And Undetectable Mind Control Slave
 
-**Otros simbolismos de control mental también se muestran durante la película, como mariposas disecadas en la guarida de "V", la tortura física y psicológica de Eve y los dominós en rojo y negro.
+Otros simbolismos de control mental también se muestran durante la película, como mariposas disecadas en la guarida de "V", la tortura física y psicológica de Eve y los dominós en rojo y negro.
 
   
 
@@ -198,7 +198,7 @@ De la misma forma que en la película, los dominós poseen dos significados al m
 > "Las fichas de dominó fueron utilizados para la codificación, pero también tenían la función de programación para poder unir los alters juntos de tal forma que si el sistema es manipulado fuera de secuencia, un efecto dominó se llevaría a cabo. Este efecto dominó es para que un programa haga estallar otro programa y este haga estallar otro programa. Pronto la mente del esclavo Monarca estaría tratando de lidiar con docenas de programas suicidas que se ejecutan simultáneamente..."  
 > \- Fritz Springmeier, Illuminati Formula Used To Creat And Undetectable Mind Control Slave
 
-**De la misma forma que vimos en Fight Club, el personaje principal es solo un agente provocador del caos, que luego de cumplir su misión al que fue programado opta por el auto-sacrificio. Esto se debe a que muchas de las víctimas de control mental fueron programadas para suicidarse luego de cumplir su misión y así eliminar todo vínculo con los poderes que manejan estos eventos en las sombras, esto incluye... a ellos mismos. "V" hace su actuación final peleando contra una docena de hombres armados, él sabe que va a morir pero como él mismo menciona "detrás de este cuerpo hay una idea... y las ideas son a prueba de balas". Él no tiene ningún deseo de sobrevvivir, lo único que lo mueve son sus ideales. ¿Podría ser esto lo que las víctimas monarca sienten de su programación?.  
+De la misma forma que vimos en Fight Club, el personaje principal es solo un agente provocador del caos, que luego de cumplir su misión al que fue programado opta por el auto-sacrificio. Esto se debe a que muchas de las víctimas de control mental fueron programadas para suicidarse luego de cumplir su misión y así eliminar todo vínculo con los poderes que manejan estos eventos en las sombras, esto incluye... a ellos mismos. "V" hace su actuación final peleando contra una docena de hombres armados, él sabe que va a morir pero como él mismo menciona "detrás de este cuerpo hay una idea... y las ideas son a prueba de balas". Él no tiene ningún deseo de sobrevvivir, lo único que lo mueve son sus ideales. ¿Podría ser esto lo que las víctimas monarca sienten de su programación?.  
   
 Específicamente los agentes provocadores del caos son la representación de una ideología masónica antigua, que consiste en efectuar sus planes sobre una población mediante la infiltración del caos, el miedo, la confusión y la crisis, con el fin de aplicar nuevas políticas y leyes que son favorables para la élite. También es uno de los galardones más altos en los niveles de la masonería.
 

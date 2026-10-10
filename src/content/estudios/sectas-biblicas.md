@@ -28,7 +28,7 @@ La [falta de contexto](https://www.gotquestions.org/Espanol/contexto-biblico.htm
 > "Porque vendrá tiempo cuando no sufrirán la sana doctrina, ántes teniendo comezón en las orejas, se amontonarán maestros que les hablen conforme a sus mismas concupiscencias. Y así apartarán de la verdad el oido, y se volverán a las fábulas."  
 > –2 Timoteo 4:3-4
 
-**Pero principalmente las sectas brindan respuestas, es decir, están lo suficientemente educadas en su falsa doctrina para responder preguntas de la Biblia. Esto, sumado a que satisfacen necesidades humanas como el amor, la aceptación y el sentido de pertenencia, facilita la retención de sus seguidores.  
+Pero principalmente las sectas brindan respuestas, es decir, están lo suficientemente educadas en su falsa doctrina para responder preguntas de la Biblia. Esto, sumado a que satisfacen necesidades humanas como el amor, la aceptación y el sentido de pertenencia, facilita la retención de sus seguidores.  
   
 Existen ocho características relevantes de como opera una secta que usa la Biblia:
 

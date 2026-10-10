@@ -60,7 +60,7 @@ Muchos artículos en este sitio menciona estrellas pop moderna y el simbolismo o
 
   
 
-****Dibujando el Árbol Cabalístico de la Vida****
+Dibujando el Árbol Cabalístico de la Vida
 
   
 
@@ -94,7 +94,7 @@ Dado que el principal antagonista de Laberinto es un hechicero que también disf
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrVwdOVxn_J55WwlaCnhvQ8hoiaNRNGtRr1DNzxdynCcDD8zIzuP8afq7ifqCsdEzstk7vpyu5SrobxM_Uwm_UR_c6c_Hsj1r1o51r9Zr4BQZptJYOV7eZ7Jo2j1VWW6aEWOTtHJQMu2LF/s1600/Labyrinth_ver2-e1321294261376.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrVwdOVxn_J55WwlaCnhvQ8hoiaNRNGtRr1DNzxdynCcDD8zIzuP8afq7ifqCsdEzstk7vpyu5SrobxM_Uwm_UR_c6c_Hsj1r1o51r9Zr4BQZptJYOV7eZ7Jo2j1VWW6aEWOTtHJQMu2LF/s1600/Labyrinth_ver2-e1321294261376.jpg)
 
-****Este cartel de la película Laberinto está lleno de imágenes gatillo MK.****
+Este cartel de la película Laberinto está lleno de imágenes gatillo MK.
 
   
 
@@ -122,7 +122,7 @@ Labyrinth es muy simbólico de principio a fin, a partir de la primera escena. S
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwxBgeHLrs_I3g1a7CbYHLmd5sQqSpK2VqcanKwWNWiZEeSnnAmJ9wOix41lublizk1L3OnVJQaDRt9A1lXS5kkB0Mxj_bGlsrB0-dJia02dENrh4DM6OGjTB7SsT2YzN4zUIf-BRaflFB/s1600/laby111-e1320696961881.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwxBgeHLrs_I3g1a7CbYHLmd5sQqSpK2VqcanKwWNWiZEeSnnAmJ9wOix41lublizk1L3OnVJQaDRt9A1lXS5kkB0Mxj_bGlsrB0-dJia02dENrh4DM6OGjTB7SsT2YzN4zUIf-BRaflFB/s1600/laby111-e1320696961881.jpg)
 
-****Un búho está de pie en la parte superior de un obelisco, velando por Sarah.****
+Un búho está de pie en la parte superior de un obelisco, velando por Sarah.
 
   
 
@@ -135,7 +135,7 @@ Pronto nos enteramos de que el búho es Jareth, el rey duende (interpretado por 
 
   
 
-****Símbolo de la Iglesia Minerval de los Illuminati de Baviera con un búho vigilante.****  
+Símbolo de la Iglesia Minerval de los Illuminati de Baviera con un búho vigilante.  
 
   
 
@@ -172,7 +172,7 @@ Alucinantes imágenes de Escher contienen características confusas que la mente
 
   
 
-> **"Si \[el niño\] posee ondas cerebrales artísticas, entonces el programador utiliza trabajos de arte en la programación. La obra de arte del artista europeo M.C.Escher es excepcionalmente adecuado para la programación. Por ejemplo, en 1947 su dibujo "Another World", el plano posterior en el centro sirve como una pared en relación con el horizonte, una palabra en relación con la vista a través de la abertura superior y un límite máximo en cuanto a la visión hacia el Cielo estrellado. Cancelaciones, imágenes en el espejo, ilusión, y muchas otras cualidades aparecen en la obra de arte de Escher que hacen todos los 76 o más de sus obras importantes para la programación."****Fritz Springmeier, La Fórmula Illuminati para Crear un Esclavo de Control Mental**
+> **"Si \[el niño\] posee ondas cerebrales artísticas, entonces el programador utiliza trabajos de arte en la programación. La obra de arte del artista europeo M.C.Escher es excepcionalmente adecuado para la programación. Por ejemplo, en 1947 su dibujo "Another World", el plano posterior en el centro sirve como una pared en relación con el horizonte, una palabra en relación con la vista a través de la abertura superior y un límite máximo en cuanto a la visión hacia el Cielo estrellado. Cancelaciones, imágenes en el espejo, ilusión, y muchas otras cualidades aparecen en la obra de arte de Escher que hacen todos los 76 o más de sus obras importantes para la programación."Fritz Springmeier, La Fórmula Illuminati para Crear un Esclavo de Control Mental**
 
   
 Así que Sarah está enojada con sus padres, especialmente su madrastra, porque tiene que quedarse en casa y cuidar a su hermano pequeño llamado Toby, mientras están fuera. Enfrentada a los gritos incesantes del niño, Sarah desea que el Rey Duende que lo lleve. Una lechuza entra en la habitación y se convierte en Jareth, el Rey Duende.  

@@ -22,11 +22,11 @@ El **mundo espiritual** ha sido siempre un gran misterio para los humanos. La in
 
   
 
-## **¿Existe un mundo paralelo de ángeles y demonios entre nosotros?**
+## ¿Existe un mundo paralelo de ángeles y demonios entre nosotros?
 
 Uno de los medios en propagar y representar a todas las entidades demoniacas y malévolas ha sido el cine, la publicidad y la televisión, creándonos criaturas espirituales, en el caso de los ángeles, bellos y hermosos muchos de ellos personificados por mujeres que teniendo una imagen de seres espirituales todopoderosos, jóvenes y niños anhelan que estos sean sus héroes, haciendo de este hábito algo ordinario e inofensivo. La Biblia enseña entonces que este mundo espiritual es existente y va muchos mas allá de nuestros sentidos, pero si es real, de cierto modo más real que el nuestro.  
 
-> **“Entonces Eliseo oró: «Oh Señor, ¡abre los ojos de este joven para que vea!». Así que el Señor abrió los ojos del joven, y cuando levantó la vista vio que la montaña alrededor de Eliseo estaba llena de caballos y carros de fuego.****”** **—****2 Reyes 6:17**
+> **“Entonces Eliseo oró: «Oh Señor, ¡abre los ojos de este joven para que vea!». Así que el Señor abrió los ojos del joven, y cuando levantó la vista vio que la montaña alrededor de Eliseo estaba llena de caballos y carros de fuego.” —2 Reyes 6:17**
 
   
 La Biblia menciona a Eliseo como alguien que oro para que su criado viera lo que veía Eliseo. Eliseo podía ver que estaban protegidos por el ejército del Señor, invisibles a nuestros ojos mortales pero siempre presentes en nuestra realidad.  
@@ -39,13 +39,13 @@ La Biblia menciona a Eliseo como alguien que oro para que su criado viera lo que
 A causa de que este mundo espiritual es difícil de entender, multitud de personas tratan de involucrarse en el ocultismo o espiritismo, pero estas prácticas son abominación para Dios, en cambio en la Biblia Dios nos enseña todo lo que deseamos saber de este reino espiritual.  
   
 
-> **“Por lo tanto, los ángeles solo son sirvientes, espíritus enviados para cuidar a quienes heredarán la salvación.”** **—****Hebreos 1:14**
+> **“Por lo tanto, los ángeles solo son sirvientes, espíritus enviados para cuidar a quienes heredarán la salvación.” —Hebreos 1:14**
 
   
 En este versículo Dios dice que creo a los ángeles como seres espirituales para servirle, ser sus mensajeros y para servir a quienes heredaran su reino, siendo creados antes de la fundación de la tierra.  
   
 
-> **“¿Dónde estabas tú cuando puse los cimientos de la tierra?** **Dímelo, ya que sabes tanto.** **¿Quién decidió sus dimensiones** **y extendió la cinta de medir?** **¿Qué sostiene sus cimientos** **y quién puso su piedra principal** **mientras las estrellas de la mañana cantaban a coro** **y todos los ángeles\[[a](https://www.biblegateway.com/passage/?search=Job+38%3A4-7&version=NTV#fes-NTV-13777a)\] gritaban de alegría?”** **—****Job 38:4-7**
+> **“¿Dónde estabas tú cuando puse los cimientos de la tierra? Dímelo, ya que sabes tanto. ¿Quién decidió sus dimensiones y extendió la cinta de medir? ¿Qué sostiene sus cimientos y quién puso su piedra principal mientras las estrellas de la mañana cantaban a coro y todos los ángeles\[[a](https://www.biblegateway.com/passage/?search=Job+38%3A4-7&version=NTV#fes-NTV-13777a)\] gritaban de alegría?” —Job 38:4-7**
 
   
 Vemos aquí que el Señor reprendiendo a Job por su atrevimiento en querer preguntarle a Dios el porque de sus desgracias, en la última parte de su contestación el Señor afirma que los ángeles gritaban de alegría cuando se creaba la tierra.  
@@ -59,8 +59,8 @@ Vemos aquí que el Señor reprendiendo a Job por su atrevimiento en querer pregu
 Durante el nuevo y antiguo testamento vamos a ver a los ángeles sirviendo de muchos modos, pero ellos no quieren nuestro enfoque ni atención, sus servicios siempre pasarán desapercibidos, ya que, ellos saben que el enfoque debe ser para Dios y no para sus ángeles servidores. Si seguimos estudiando la Biblia vemos que difiere ampliamente de las figuras que normalmente nos ha presentado el cine y que vemos en figuras de porcelana y en estatuas de los cementerios.  
   
 
-> **“Del centro de la nube salieron cuatro seres vivientes que parecían humanos, 6 solo que cada uno tenía cuatro caras y cuatro alas. 7 Las piernas eran rectas, y los pies tenían pezuñas como las de un becerro y brillaban como bronce bruñido. 8 Pude ver que, debajo de cada una de las cuatro alas, tenían manos humanas. Así que cada uno de los cuatro seres tenía cuatro caras y cuatro alas.****10 Cada uno tenía cara humana por delante, cara de león a la derecha, cara de buey a la izquierda, y cara de águila por detrás. 11 Cada uno tenía dos pares de alas extendidas: un par se tocaba con las alas de los seres vivientes a cada lado, y el otro par le cubría el cuerpo.  
-> ****13 Los seres vivientes parecían carbones encendidos o antorchas brillantes, y daba la impresión de que entre ellos destellaban relámpagos. 14 Y los seres vivientes se desplazaban velozmente de un lado a otro como centellas.”** **—****Ezequiel 1:5-8, 10-11,13**
+> **“Del centro de la nube salieron cuatro seres vivientes que parecían humanos, 6 solo que cada uno tenía cuatro caras y cuatro alas. 7 Las piernas eran rectas, y los pies tenían pezuñas como las de un becerro y brillaban como bronce bruñido. 8 Pude ver que, debajo de cada una de las cuatro alas, tenían manos humanas. Así que cada uno de los cuatro seres tenía cuatro caras y cuatro alas.10 Cada uno tenía cara humana por delante, cara de león a la derecha, cara de buey a la izquierda, y cara de águila por detrás. 11 Cada uno tenía dos pares de alas extendidas: un par se tocaba con las alas de los seres vivientes a cada lado, y el otro par le cubría el cuerpo.  
+> 13 Los seres vivientes parecían carbones encendidos o antorchas brillantes, y daba la impresión de que entre ellos destellaban relámpagos. 14 Y los seres vivientes se desplazaban velozmente de un lado a otro como centellas.” —Ezequiel 1:5-8, 10-11,13**
 
   
 Vemos en esta parte de la Biblia la visión que se le es dada a Ezequiel del propio Trono de Dios, siendo este trono escoltado por sus cuatro ángeles nombrados como querubines. Cuando se viene este nombre a nuestra mente se viene la imagen de hermosos bebés gorditos literalmente en miles de pintura.
@@ -77,19 +77,19 @@ Los querubines bíblicos están lejos de ser en esta descripción esos niños he
 Otra variedad de ángel que se describe en la Biblia es el Serafín:  
   
 
-> **“Por encima de él había serafines, cada uno de los cuales tenía seis alas: con dos de ellas se cubrían el rostro, con dos se cubrían los pies, y con dos volaban.”** **—****Isaías 6:2**
+> **“Por encima de él había serafines, cada uno de los cuales tenía seis alas: con dos de ellas se cubrían el rostro, con dos se cubrían los pies, y con dos volaban.” —Isaías 6:2**
 
   
 Otros son llamados arcángeles ellos significan una autoridad mayor entre ángeles. Por ejemplo:  
   
 
-> **“Ni siquiera el arcángel Miguel, cuando argumentaba con el diablo disputándole el cuerpo de Moisés, se atrevió a pronunciar contra él un juicio de maldición, sino que dijo: «¡Que el Señor te reprenda!****”** **—****Judas 1:9**
+> **“Ni siquiera el arcángel Miguel, cuando argumentaba con el diablo disputándole el cuerpo de Moisés, se atrevió a pronunciar contra él un juicio de maldición, sino que dijo: «¡Que el Señor te reprenda!” —Judas 1:9**
 
   
 Daniel fue visitado por un ser espiritual.  
   
 
-> **“Levanté los ojos y vi ante mí a un hombre vestido de lino, con un cinturón del oro más refinado. 6 Su cuerpo brillaba como el topacio, y su rostro resplandecía como el relámpago; sus ojos eran dos antorchas encendidas, y sus brazos y piernas parecían de bronce bruñido; su voz resonaba como el eco de una multitud.”**  **—****Daniel 10:5-6**
+> **“Levanté los ojos y vi ante mí a un hombre vestido de lino, con un cinturón del oro más refinado. 6 Su cuerpo brillaba como el topacio, y su rostro resplandecía como el relámpago; sus ojos eran dos antorchas encendidas, y sus brazos y piernas parecían de bronce bruñido; su voz resonaba como el eco de una multitud.” —Daniel 10:5-6**
 
   
 Sabiendo esto hay que aclarar que el reino angelical no esta unificado y hay una poderosa división y debemos entender que no toda creación espiritual trabaja para la voluntad de Dios por el contrario está en constante oposición.  
@@ -100,24 +100,24 @@ Sabiendo esto hay que aclarar que el reino angelical no esta unificado y hay una
 **La incorrecta devoción a los ángeles está desde los tiempos inmemoriales.**  
   
 
-## **¿Creó Dios seres espirituales para que los resista?**
+## ¿Creó Dios seres espirituales para que los resista?
 
 Así como hay ángeles que sirven a Dios, hay ángeles que se empeñan en hacer todo lo contrario y apartarnos de la voluntad de Dios a la humanidad con el fin de servirse a sí mismo.  
   
 
-> **12 ¡Cómo has caído del cielo,** **lucero de la mañana!** **Tú, que sometías a las naciones,** **has caído por tierra.** **13 Decías en tu corazón:** **«Subiré hasta los cielos.** **¡Levantaré mi trono** **por encima de las estrellas de Dios!** **Gobernaré desde el extremo norte,** **en el monte de los dioses.** **14 Subiré a la cresta de las más altas nubes,** **seré semejante al Altísimo.»** **—****Isaías 14:12-14**
+> **12 ¡Cómo has caído del cielo, lucero de la mañana! Tú, que sometías a las naciones, has caído por tierra. 13 Decías en tu corazón: «Subiré hasta los cielos. ¡Levantaré mi trono por encima de las estrellas de Dios! Gobernaré desde el extremo norte, en el monte de los dioses. 14 Subiré a la cresta de las más altas nubes, seré semejante al Altísimo.» —Isaías 14:12-14**
 
   
 En estos versículos podemos ver el inicio y deducir el porque de esta división angelical. Aquí hay un ser angelical que se llenó de vanidad y orgullo y decidió revelarse contra su propia creador.  
   
 
-> **12 «Hijo de hombre, entona una elegía al rey de Tiro y adviértele que así dice el Señor omnipotente:****»“Eras un modelo de perfección,** **lleno de sabiduría y de hermosura perfecta.** **13 Estabas en Edén, en el jardín de Dios,** **adornado con toda clase de piedras preciosas:** **rubí, crisólito, jade,** **topacio, cornalina, jaspe,** **zafiro, granate y esmeralda.** **Tus joyas y encajes estaban cubiertos de oro,** **y especialmente preparados para ti** **desde el día en que fuiste creado.** **14 Fuiste elegido querubín protector,** **porque yo así lo dispuse.** **Estabas en el santo monte de Dios,** **y caminabas sobre piedras de fuego.** **15 Desde el día en que fuiste creado** **tu conducta fue irreprochable,** **hasta que la maldad halló cabida en ti.** **16 Por la abundancia de tu comercio,** **te llenaste de violencia, y pecaste.** **Por eso te expulsé del monte de Dios,** **como a un objeto profano.** **A ti, querubín protector,** **te borré de entre las piedras de fuego.»** **—****Ezequiel 28:12-16** 
+> **12 «Hijo de hombre, entona una elegía al rey de Tiro y adviértele que así dice el Señor omnipotente:»“Eras un modelo de perfección, lleno de sabiduría y de hermosura perfecta. 13 Estabas en Edén, en el jardín de Dios, adornado con toda clase de piedras preciosas: rubí, crisólito, jade, topacio, cornalina, jaspe, zafiro, granate y esmeralda. Tus joyas y encajes estaban cubiertos de oro, y especialmente preparados para ti desde el día en que fuiste creado. 14 Fuiste elegido querubín protector, porque yo así lo dispuse. Estabas en el santo monte de Dios, y caminabas sobre piedras de fuego. 15 Desde el día en que fuiste creado tu conducta fue irreprochable, hasta que la maldad halló cabida en ti. 16 Por la abundancia de tu comercio, te llenaste de violencia, y pecaste. Por eso te expulsé del monte de Dios, como a un objeto profano. A ti, querubín protector, te borré de entre las piedras de fuego.» —Ezequiel 28:12-16** 
 
   
 Ezequiel es usado para hablar a Lucifer detrás del Rey de Tiro, aduciendo que éste estaba lleno de talentos y bellezas y se movía en el propio trono de Dios, pasó a ser llamado como Satanás y dice la Biblia que fue llevado con la tercera parte de los ángeles y esos son llamados los demonios o ángeles caídos y desde aquí de en la tierra continúan con su posición de autoridad espiritual sobre los reinos de la tierra tentando a la humanidad y resistiendo al plan de Dios. Por eso en el texto bíblico se reconoce que la reprensión es para Satanás quien posee al Rey de Tiro para poder gobernar ese reino. Por eso en Lucas 4:5-6, cuando Jesús es tentado se afirma que los reinos de la tierra fueron dados a Satanás.  
   
 
-> **5 Entonces el diablo lo llevó a un lugar alto y le mostró en un instante todos los reinos del mundo.****6 —Sobre estos reinos y todo su esplendor —le dijo—, te daré la autoridad, porque a mí me ha sido entregada, y puedo dársela a quien yo quiera.** **—****Lucas 4:5-6.**
+> **5 Entonces el diablo lo llevó a un lugar alto y le mostró en un instante todos los reinos del mundo.6 —Sobre estos reinos y todo su esplendor —le dijo—, te daré la autoridad, porque a mí me ha sido entregada, y puedo dársela a quien yo quiera. —Lucas 4:5-6.**
 
   
 

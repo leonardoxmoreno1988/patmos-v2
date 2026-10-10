@@ -9,9 +9,9 @@ description: "\"Solamente los secretos insignificantes necesitan protección. Lo
 tags: ["Sociedad"]
 ---
 
-> **"Solamente los secretos insignificantes necesitan protección. Los grandes encubrimientos están protegidos por la incredulidad pública."****\- Marshall McLuhan**
+> **"Solamente los secretos insignificantes necesitan protección. Los grandes encubrimientos están protegidos por la incredulidad pública."\- Marshall McLuhan**
 
-> **¿Qué es lo que uno debe hacer, si para lograr controlar a los hombres, es necesario engañarlos?****\- Helena Blavatsky La Doctrina Secreta**
+> **¿Qué es lo que uno debe hacer, si para lograr controlar a los hombres, es necesario engañarlos?\- Helena Blavatsky La Doctrina Secreta**
 
   
 
@@ -36,7 +36,7 @@ Algo que persiste en mi mente son los nombres de los hombres valientes que se ha
 
   
 
-## **Inmersos en el mal**
+## Inmersos en el mal
 
 Como ven, estamos rodeados por el mal en cada lado, literalmente sumergidos en él, pero los malos y los engañadores nos quieren hacer creer que la maldad es excepcional. Desde la infancia se nos ha enseñado que el mal y la corrupción son la provincia de los pocos, que la mayoría de la gente es virtuosa, honesta y buena, que la mayoría de nuestros políticos realmente tienen nuestros intereses en el corazón, que el sistema social, con la excepción de solo unos desviados y tipos criminales, son fundamentalmente sólidos.  
   
@@ -52,7 +52,7 @@ Con estas garantías, la mayoría de la gente respira un profundo suspiro de ali
 Por desgracia, las masas que creen este sentido han sido engañados y están destinados a recibir, muy pronto, un duro golpe y un despertar brusco.  
   
 
-## **El gran engaño**
+## El gran engaño
 
 Como Christopher Marcos observó recientemente en un artículo titulado "Gran Engaño: El Robo de América y el Mundo"  
   
@@ -84,7 +84,7 @@ Thomas Mann, el observador social y filósofo, sugirió una vez que a los hombre
   
   
 
-## **Deleite Secreto**
+## Deleite Secreto
 
 Qué interesante darse cuenta de que, como Thomas Mann lo pone, el infierno toma el "deleite secreto" como una capacidad para mantener secretos. Proverbios 9: 13-18 parece tener una relación con esto. Afirma:  
 
@@ -106,7 +106,7 @@ El secreto se considera esencial entre sectas brujería y la brujería es, en es
 Como usted descubrirá en el estudio de estas páginas, los Illuminati ciertamente tienen mucho que ocultar. En vista de que los líderes de esta organización son responsables del derramamiento de sangre y el terror revolucionario a escala mundial, si se enteraran de sus secretos, tendrían mucho que pagar. Si las masas despertaran de su trance y empezaran a entender cuán horrible han sido engañados, estos se levantarían furiosamente y encadenarían a la élite en el poste de luz más cercano.  
   
 
-## **El más terrible secreto de todos**
+## El más terrible secreto de todos
 
 Pero también está el más terrible secreto de todos, el secreto que, si se descubre, sería la sentencia de muerte para los Illuminati y la masonería. Manly P. Hall, 33 °, se refirió a esto en su libro, "Lecciones sobre la filosofía antigua":  
 
@@ -138,7 +138,7 @@ Marie Roberts y Hugh Ormsby-Lennon, en Secret Texts: The Literature of Secret So
 ¿Cómo se siente, querido lector, al darse cuenta de que los hombres malvados de la logias y otras sociedades secretas consideran que usted, yo, y todo el mundo fuera de su propio grupo especial, son "profanos, lascivos, y sin valor"?  
   
 
-## **Los símbolos como secretos**
+## Los símbolos como secretos
 
 Para mantener su cuerpo podrido y corrupto de secretos, los líderes y grupos Illuminati emplean símbolos. Los ritos, ceremonias y apretones de mano de los iluministas se basan en la ciencia y el arte del simbolismo.  
   
@@ -176,7 +176,7 @@ Un símbolo oculta un secreto, y es aquello lo que encubre fuerzas misteriosas. 
 Para el hombre cuya vida entera está inmersa en símbolos mágicos, signos y códigos, y que ha hecho gran juramento de mantener el secreto por temor a la divulgación, el mundo adquiere una cualidad sobrenatural paranoica. De hecho, estos hombres son esquizofrénicos en la tendencia, debatiéndose entre su papel en el mundo cotidiano normal y su existencia subterránea en el mundo sórdido de su fraternidad oculta. Los Iluministas son, de hecho, hombres muy peligrosos.  
   
 
-## **Orígenes Antiguos Babilónicos**
+## Orígenes Antiguos Babilónicos
 
 Ahora bien, es importante entender que casi todos los símbolos y signos de la élite son muy antiguos en su origen. El Soberano Gran Comendador Henry C. Clausen, del Antiguo Rito Escocés 33 °, que fue nombrado en 1942 por el presidente Roosevelt para dirigir la comisión para investigar el ataque del Pearl Harbor, escribe que los pasos de la Orden son muy profundos, y sus símbolos son de hace miles de años.  
   
@@ -220,7 +220,7 @@ Escuchar la admisión de Albert Pike, el ex Soberano Gran Comendador quien el hi
 ¡Qué descaro! ¡Qué arrogancia! Pike nos está dejando entrar en el engaño. Incluso si un hombre es un Mason, no puede ser declarado digno de ser promovido como uno de los "Adeptos y Sabios, o los elegidos." En ese caso, junto con los no masones, él está deliberadamente siendo engañado por "falsas explicaciones e interpretaciones erróneas."  
   
 
-## **La Doctrina Secreta Retenida**
+## La Doctrina Secreta Retenida
 
 George Steinmetz, otro autor masónico de grado 33ª menciona:  
   
@@ -267,7 +267,7 @@ A lo que autor podría añadir:
 
 > **"... Y un masón de grado 32º o 33º está detrás del velo riéndose y rodando cada vez que un nuevo retoño es iniciado en el 1er grado de la masonería".**
 
-## **Luz que brilla en la oscuridad**
+## Luz que brilla en la oscuridad
 
 La _Hermandad de la Oscuridad_, como un buen amigo mío, el Dr. Stanley Monteith, llama a los Illuminati, está bastante segura de que pueden mantenerse fácilmente en el más alto nivel del secretismo con respecto al significado real de sus signos y símbolos. Sus líderes incluso creen que pueden darse el lujo de comunicar estas señales y colocar estos mensajes a la vista, seguros de que las masas en trance son incapaces de reconocer la terrible mascarada de engaño que se encuentra justo frente a su rostro.  
   
@@ -280,7 +280,7 @@ Martin Short, que fue autor de un libro, _Inside the Brotherhood_, donde expuso
 Oh, no podemos, ¿verdad? Tal vez sea cierto que el "mundo" desinformado en general no puede adivinar la palabra y signo de los masones, pero los lectores deberán hacer exactamente eso. Vamos, por tanto, a seguir adelante con gran expectativa a medida que descubrimos en este libro muchos de los secretos más preciosos y despreciables secretos de la élite — cosas que ni en un millón de años pensaron que podríamos descubrir.  
   
 
-## **Vidas silenciosas de desesperación y tormento...**
+## Vidas silenciosas de desesperación y tormento...
 
 ¿Por qué los iluministas han tenido éxito en sus esfuerzos de encegueser a las masas? ¿No es a causa de la credulidad del público en general? Se ha dicho que, "la mayoría de los hombres llevan una vida de silenciosa desesperación." Esto es cierto, y por eso es que en su ciénaga desesperada de silencio, la mayoría busca embotar sus sentidos a través del alcohol, las drogas, el sexo y el entretenimiento.  
   
@@ -312,7 +312,7 @@ Lina se lamenta de la ignorancia rampante de las masas que poseen poca o ninguna
 
 ### 
 
-## **"El pequeño hombre que nunca estuvo allí"**
+## "El pequeño hombre que nunca estuvo allí"
 
 El Dr. Peter Ruckman, autor de muchos libros que exponen la conspiración y la defensa de la Biblia, en su reciente boletín escribió un artículo sobre "El pequeño hombre que nunca estuvo allí." 28 Ruckman observó sabiamente que los historiadores, al igual que otros "expertos" apenas se les puede tener confianza, ya que siempre escriben la historia que les gustaría creer.  
   
@@ -331,7 +331,7 @@ Hace falta una luz brillante sobre el hombre pequeño sentado en la escalera y
 Sin él sentado allí, bloqueando perjudicialmente nuestro camino, el mundo sería un lugar mucho mejor. Sin duda un lugar más seguro y más feliz.  
   
 
-## **"Dos más dos son cuatro"**
+## "Dos más dos son cuatro"
 
 Bob Whitaker, un Carolino del Sur que ha hecho cosas buenas y de aventura en su vida, enseñando clases de la universidad, sirviendo como un miembro del personal de alto nivel en el Congreso,  y escribiendo para la radio en la _Voz de América_, señala que cualquier persona hoy en día que simplemente cree lo obvio se califica por ignorancia e injustamente extremista, una creador de conspiraciones, un racista, o peor. Los hombres no son libres, Whitaker sugiere, de decir la verdad:  
   

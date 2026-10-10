@@ -44,21 +44,21 @@ Asimismo, el Salmo 110 es importante porque revela al Padre diciéndole al Hijo 
 
 El Salmo 22 y el Salmo 69 describe literalmente el trato físico a Cristo durante Su juicio y crucifixión, ilustrando a sus enemigos rodeándolo y los escarnios recibidos.  
 
-> **"Rodeáronme muchos toros: fuertes toros de Basán me cercaron."  
+> "Rodeáronme muchos toros: fuertes toros de Basán me cercaron."  
 > –Salmo 22:12  
 >   
 > "Porque me rodearon perros: cercáronme cuadrilla de malignos: horadaron mis manos y mis pies."  
 > –Salmos 22:16  
 >   
 > "La afrenta ha quebrantado mi corazón; y he tenido dolor; y he esperado quien se compadeciese de mí, y no lo hubo, y consoladores, y no hallé."  
-> –Salmo 69:20**  
+> –Salmo 69:20  
 
 De igual forma, la resurrección corporal del Mesías, asegurando que Su alma no sería dejada en el infierno, es profetizada de manera indiscutible en estos capítulos. 
 
 > "Porque no dejarás mi alma en el sepulcro: ni darás tu Santo para que vea corrupción. Hacerme has saber la senda de la vida, hartura de alegrías hay con tu rostro: deleites en tu diestra para siempre."  
 > –Salmo 16:10-11
 
-**Simultáneamente, profetiza que Su cuerpo físico, depositado en la tumba, no experimentaría el proceso natural de descomposición, puesto que resucitaría triunfante antes de que la corrupción física pudiera afectarlo.
+Simultáneamente, profetiza que Su cuerpo físico, depositado en la tumba, no experimentaría el proceso natural de descomposición, puesto que resucitaría triunfante antes de que la corrupción física pudiera afectarlo.
 
   
 

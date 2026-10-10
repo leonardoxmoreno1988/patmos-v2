@@ -44,7 +44,7 @@ Una hipótesis popular a veces llamada "teoría de los antiguos astronautas" afi
 
 > “Afirmo que nuestros antepasados recibieron visitas del universo en el pasado remoto, aunque todavía no sé quiénes eran estas inteligencias extraterrestres o de qué planeta vinieron. Sin embargo, proclamo que estos "extraños" aniquilaron parte de la humanidad existente en ese momento y produjeron un nuevo, quizás el primero, Homo Sapiens”.
 
-**Como se ilustró en las películas de Hollywood _Contacto_ y _Encuentros Cercanos del Tercer Tipo_, la premisa de von Daniken arrasó en Estados Unidos en la década de 1960 con la proposición de que la humanidad era posiblemente la descendencia de un antiguo experimento extraterrestre, quizás aún en curso.  
+Como se ilustró en las películas de Hollywood _Contacto_ y _Encuentros Cercanos del Tercer Tipo_, la premisa de von Daniken arrasó en Estados Unidos en la década de 1960 con la proposición de que la humanidad era posiblemente la descendencia de un antiguo experimento extraterrestre, quizás aún en curso.  
   
 Algunos aceptan esto como una alternativa al relato bíblico de la creación. No se sabe cuántos creen en tal teoría, pero aproximadamente el ochenta por ciento de los estadounidenses creen en la posibilidad de vida extraterrestre. Algunos, como los 39 miembros del culto Heaven's Gate que se suicidaron en Rancho Santa Fe, California, y que creían que estaban siendo convocados por un OVNI que seguía al cometa Hale-Bopp, se introdujeron a una misteriosa amalgama de misticismo y religión convencional.  
   
@@ -125,7 +125,7 @@ Uno de los monumentos más importantes que aún no se ha erigido es la reconstru
 
 > "Las tradiciones y el romance del Templo del Rey Salomón son de gran interés para todos los que leen la Biblia. Son también de trascendente importancia para los masones. El Templo es el símbolo sobresaliente en la Masonería, y la historia legendaria de la construcción del Templo es el fundamento base de la regla masónica y guía para la conducta en la vida ... La flor y nata de la escritura histórica y filosófica masónica se ha basado en su descripción del Templo y su relación con el ritual masónico".
 
-**Debe entenderse que los monumentos y reliquias son de gran importancia debido al poder oculto. Por ejemplo, ¿Qué está haciendo la "Piedra de Jacob" debajo de la silla del trono de la reina Isabel? ¿Por qué la reina fue coronada en su ceremonia de coronación en la cima de una simbólica pirámide escalonada egipcia?  
+Debe entenderse que los monumentos y reliquias son de gran importancia debido al poder oculto. Por ejemplo, ¿Qué está haciendo la "Piedra de Jacob" debajo de la silla del trono de la reina Isabel? ¿Por qué la reina fue coronada en su ceremonia de coronación en la cima de una simbólica pirámide escalonada egipcia?  
   
 
 ## La Conspiración Stargate
@@ -150,15 +150,15 @@ Ubicado en las profundidades de la frontera suizo-francesa, el Gran Colisionador
   
 No hace falta decir que el evento real no puso en peligro la vida en este planeta. Sin embargo, hubo una conexión inquietante con el fenómeno de la puerta estelar que se ha convertido en un aspecto controvertido de la ocupación estadounidense de Irak. El servicio de noticias Press TV de Irán también informó sobre el suicidio en masa de soldados estadounidenses: informó la agencia de noticias Fars.  
 
-> **"Fuentes de seguridad iraquíes han revelado que 21 soldados estadounidenses se suicidaron dentro de una antigua base de la fuerza aérea iraquí hace 27 días". Según las fuentes, los 21 efectivos fueron atendidos en un hospital pero solo cinco soldados habían sobrevivido y se encontraban en estado crítico. Los funcionarios de seguridad dijeron que usaron narcóticos potentes para suicidarse.  
+> "Fuentes de seguridad iraquíes han revelado que 21 soldados estadounidenses se suicidaron dentro de una antigua base de la fuerza aérea iraquí hace 27 días". Según las fuentes, los 21 efectivos fueron atendidos en un hospital pero solo cinco soldados habían sobrevivido y se encontraban en estado crítico. Los funcionarios de seguridad dijeron que usaron narcóticos potentes para suicidarse.  
 >   
-> "Los cuerpos de las tropas estadounidenses se deformaron \[de\] tal manera que parecían momias de 5000 años", dijo un testigo. Cabe señalar que los analistas de inteligencia rusos han informado durante mucho tiempo de los intentos de las naciones occidentales de restablecer el "contacto" con extraterrestres.**
+> "Los cuerpos de las tropas estadounidenses se deformaron \[de\] tal manera que parecían momias de 5000 años", dijo un testigo. Cabe señalar que los analistas de inteligencia rusos han informado durante mucho tiempo de los intentos de las naciones occidentales de restablecer el "contacto" con extraterrestres.
 
 Dr. Michael Salla en su controvertido artículo. Una perspectiva exopolítica sobre la guerra preventiva contra Irak hizo las siguientes declaraciones:  
 
 > “Un arqueólogo independiente que analiza un vínculo directo entre la presencia de extraterrestres antiguos en Sumeria (sur de Irak) y el enfoque actual de Estados Unidos en el régimen de Saddam Hussein, es William Henry. La tesis principal de Henry es que existía en la época sumeria un dispositivo tecnológico que él describe como un 'Stargate' o portal, que los Anunnaki/Nephilim usaban para viajar de un lado a otro desde su mundo natal y la Tierra, y también para viajar por la galaxia. Si existe un Stargate en el sur de Irak que jugará un papel en tal 'retorno profetizado de los dioses', entonces lo más probable es que las organizaciones gubernamentales clandestinas que influyen en gran medida o controlan la administración Bush, estén al tanto de la existencia y el papel de este Stargate. Es muy probable que el presidente de Irak, Hussein, también esté al tanto de la existencia de un Stargate como podría inferirse de sus proyectos arquitectónicos que intentan revivir la grandeza de las primeras civilizaciones mesopotámicas y consolidar su lugar como el restaurador de la gloria pasada de Irak".
 
-**Salla cree que un Stargate babilónico también estuvo fuertemente implícito en la inclinación de la administración Bush por el secreto y por anular muchas de las iniciativas de Libertad de Información de la administración Clinton anterior. Salla continúa:  
+Salla cree que un Stargate babilónico también estuvo fuertemente implícito en la inclinación de la administración Bush por el secreto y por anular muchas de las iniciativas de Libertad de Información de la administración Clinton anterior. Salla continúa:  
   
 
 > “Controlar este Stargate, además de cualquier otro que pueda haberse establecido en las capitales de otras civilizaciones, por ejemplo, la egipcia, la inca y la azteca; presumiblemente daría a las organizaciones gubernamentales clandestinas una mayor influencia con las razas extraterrestres que actualmente están interactuando con el planeta, o que se predice que llegarán a la escena en algún evento asociado con el 'retorno profetizado de los dioses'.  
@@ -194,7 +194,7 @@ La placa especial junto a la estatua de Shiva explica el significado de la metá
 
 > "Hace cientos de años, los artistas indios crearon imágenes visuales de Shivas bailando en una hermosa serie de bronces. En nuestro tiempo, los físicos han utilizado la tecnología más avanzada para representar los patrones de la danza cósmica. La metáfora de la danza cósmica unifica así mitología antigua, arte religioso y física moderna".
 
-**Lo que la placa no mencionó fue que Shiva es conocido como el dios de la destrucción. La reunión del Consejo concluyó con una ceremonia para develar la estatua ofrecida al CERN por el Gobierno de la India como símbolo de la relación duradera de la India con el CERN.
+Lo que la placa no mencionó fue que Shiva es conocido como el dios de la destrucción. La reunión del Consejo concluyó con una ceremonia para develar la estatua ofrecida al CERN por el Gobierno de la India como símbolo de la relación duradera de la India con el CERN.
 
   
 

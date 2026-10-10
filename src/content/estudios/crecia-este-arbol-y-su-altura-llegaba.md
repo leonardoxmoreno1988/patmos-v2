@@ -30,7 +30,7 @@ El sueño continúa con la llegada de [un vigilante](https://www.biblegateway.co
 > “Mas el tronco de sus raices dejaréis en la tierra, y con atadura de hierro y de metal quede atado en la yerba del campo, y sea mojado con el rocío del cielo, y su vivienda sea con las bestias en la yerba de la tierra: Su corazón sea mudado de corazón de hombre, y séale dado corazón de bestia; y pasen sobre él siete tiempos.”  
 > –Daniel 4:15-16
 
-**El profeta Daniel, que era el príncipe de los magos en aquella época (exiliado en Babilonia), da el significado del sueño. El árbol en crecimiento simboliza al rey Nabucodonosor, quien, abrumado por el orgullo, cree que el imperio de Babilonia es obra de sus manos (Daniel 4:30).  
+El profeta Daniel, que era el príncipe de los magos en aquella época (exiliado en Babilonia), da el significado del sueño. El árbol en crecimiento simboliza al rey Nabucodonosor, quien, abrumado por el orgullo, cree que el imperio de Babilonia es obra de sus manos (Daniel 4:30).  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/445/original/Nabucodonosor-animal.jpeg)  
   
@@ -39,7 +39,7 @@ El sueño continúa con la llegada de [un vigilante](https://www.biblegateway.co
 > "En la misma hora se cumplió la palabra sobre Nabucodonosor, y fué echado de entre los hombres, y comía yerba como los bueyes, y su cuerpo se teñía con el rocío del cielo, hasta que su pelo creció como de águila, y sus uñas como de aves."  
 > –Daniel 4:33
 
-**Aquí vemos el origen de la [licantropía](https://es.wikipedia.org/wiki/Licantrop%C3%ADa) y los mitos del hombre lobo. Nabucodonosor duerme en la intemperie, camina en cuatro patas y come la vegetación de la tierra por siete años (Daniel 4:23). Su reino permanece, pero ahora vive con las bestias del campo.  
+Aquí vemos el origen de la [licantropía](https://es.wikipedia.org/wiki/Licantrop%C3%ADa) y los mitos del hombre lobo. Nabucodonosor duerme en la intemperie, camina en cuatro patas y come la vegetación de la tierra por siete años (Daniel 4:23). Su reino permanece, pero ahora vive con las bestias del campo.  
   
 Después de este período de locura de siete años, recupera la conciencia y da gloria al Dios del cielo, entendiendo que Él es quien quita reyes y pone reyes (Daniel 2:21). Nabucodonosor se convierte al Dios verdadero.  
   

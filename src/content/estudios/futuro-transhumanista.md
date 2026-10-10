@@ -27,7 +27,7 @@ Incluso investigadores seculares del Imperial College de Londres habían [public
 
 > “El cerebro humano es incapaz de reconocer la influencia de un dispositivo externo sobre sí mismo, lo que podría comprometer la autonomía y la autodeterminación. Debido a esto, los usuarios pueden ser propensos a percibir erróneamente la propiedad sobre los resultados de comportamiento generados por la BCI (Interfaz Cerebro Computadora), así como también atribuirle incorrectamente la causalidad.”
 
-**En otras palabras, la máquina se convierte en un parásito dentro del cerebro. Los humanos pierden la capacidad de distinguirse de la máquina o de la I.A. Pierden de vista dónde terminan ellos y comienza la computadora. Entonces, la máquina puede tomar control del cerebro, en cierto modo. Puede cambiar los rasgos del carácter o transformar la identidad personal.  
+En otras palabras, la máquina se convierte en un parásito dentro del cerebro. Los humanos pierden la capacidad de distinguirse de la máquina o de la I.A. Pierden de vista dónde terminan ellos y comienza la computadora. Entonces, la máquina puede tomar control del cerebro, en cierto modo. Puede cambiar los rasgos del carácter o transformar la identidad personal.  
   
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEi-RSlRM7DmnagVhL8DHZmY2KXkMHR13bO2HZ5PMmBVOyOoSIL0ki2TRpGXmUwfkmB8eFDOCSnjKUOyGPddusG0sQoRDfzoIp735mhOC9yudAgJf13-T-BkdSJQRT8KzD7cs1lEa941tPo1m9IIU30LPhANrb-3exlgt-vTLmBx4ENTT3x-eeLTjdM4=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEi-RSlRM7DmnagVhL8DHZmY2KXkMHR13bO2HZ5PMmBVOyOoSIL0ki2TRpGXmUwfkmB8eFDOCSnjKUOyGPddusG0sQoRDfzoIp735mhOC9yudAgJf13-T-BkdSJQRT8KzD7cs1lEa941tPo1m9IIU30LPhANrb-3exlgt-vTLmBx4ENTT3x-eeLTjdM4=s660)
@@ -44,12 +44,10 @@ Los investigadores también especulan que los resultados positivos, como una mej
 > “Entónces la serpiente dijo a la mujer: No moriréis. Mas sabe Dios, que en el día que comiereis de él, serán abiertos vuestros ojos; y seréis como dioses, sabiendo el bien y el mal.”  
 > –Génesis 3:4-5
 
-****
-
 > “Y dijeron: Dad acá: Edifiquémosnos una ciudad, y una torre, que tenga la cabeza en el cielo: y hagámosnos nombrados; por ventura nos esparciremos sobre la haz de toda la tierra.”  
 > –Génesis 11:4
 
-**En ambos escenarios, las personas se reunían en un intento de volverse como Dios. Adán y Eva lo hicieron al comer el fruto. Los constructores de Babel lo hicieron al alcanzar el cielo sin Dios.  
+En ambos escenarios, las personas se reunían en un intento de volverse como Dios. Adán y Eva lo hicieron al comer el fruto. Los constructores de Babel lo hicieron al alcanzar el cielo sin Dios.  
   
 El último caso recuerda a los intentos modernos de trascender a la humanidad a través de la tecnología. En el caso de Babel, los lectores modernos no se dan cuenta de que su transición de “ladrillo por piedra y asfalto por mortero” (Génesis 11:3) representó un salto tecnológico gigante para su época.  
   
@@ -61,7 +59,7 @@ Ahora, considere esta cita del físico cuántico y superventas del New York Time
 
 > “Para el 2100, como los dioses de la mitología, podremos manipular objetos con el poder de nuestra mente. Las computadoras, leyendo silenciosamente nuestros pensamientos, podrán realizar nuestros deseos. Seremos capaces de mover objetos a través del poder telequinético solo del pensamiento, generalmente reservado solo para los dioses... Aunque este poder divino parece inimaginablemente avanzado, las semillas de todas estas tecnologías se están plantando mientras hablamos. Es la ciencia moderna, no los cánticos ni los encantamientos, lo que nos dará este poder.”
 
-**Perseguir el "poder divino" a través de la ciencia moderna y la tecnología ¿No suena esto como el pensamiento detrás de la Torre de Babel?  
+Perseguir el "poder divino" a través de la ciencia moderna y la tecnología ¿No suena esto como el pensamiento detrás de la Torre de Babel?  
   
 En algún momento, tratar de mejorarnos a nosotros mismos nos coloca en una posición en la que tratamos de volvernos tan poderosos como Dios. Las fusiones computadora-cerebro son un paso en esa dirección. Los transhumanistas prevén el futuro como una nueva era para la humanidad, incluidos los avances tecnológicos que implantan chips en los cerebros humanos y crean una raza de personas sobrehumanas.  
   
@@ -70,13 +68,13 @@ Recordemos lo que le sucedió a la última raza sobrehumana. Eran los Nephilim e
 > “Mas como los días de Noé, así será la venida del Hijo del hombre.”  
 > –Mateo 24:37
 
-**Como se ha escrito antes, los últimos días en nuestro futuro serán similares a los días justo antes de que Noé y su familia subieran al arca. No es ilógico pensar que la llegada de una era de transhumanismo desencadenará el juicio de Dios. ¿Qué tanto se está desobedeciendo a Dios al vincular SU creación con la tecnología humana? La semilla humana es perfecta, por lo que mezclar nuestro ADN con inteligencia artificial parece una idea rebelde y arrogante.  
+Como se ha escrito antes, los últimos días en nuestro futuro serán similares a los días justo antes de que Noé y su familia subieran al arca. No es ilógico pensar que la llegada de una era de transhumanismo desencadenará el juicio de Dios. ¿Qué tanto se está desobedeciendo a Dios al vincular SU creación con la tecnología humana? La semilla humana es perfecta, por lo que mezclar nuestro ADN con inteligencia artificial parece una idea rebelde y arrogante.  
   
 Así como Dios juzgó a los constructores originales de Babel, Él hará lo mismo al final de esta era con Babilonia, la “nieta” de Babel:  
 
 > “Y otro ángel le siguió, diciendo: Ya es caida: ya es caida Babilonia, aquella gran ciudad, porque ella ha dado a beber a todas las naciones del vino de la ira de su fornicación”  
 > –Revelación 14:8
 
-**No olvide compartir el material con sus familiares y cercanos.  
+No olvide compartir el material con sus familiares y cercanos.  
   
 Leonardo M.

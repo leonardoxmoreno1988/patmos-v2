@@ -59,7 +59,7 @@ No será sorpresa que este dragón es otra forma de Satanás, el dragón volador
 > "Y fué lanzado fuera aquel gran dragón, que es la serpiente antigua, que es llamada diablo, y Satanás, el cual engaña a todo el mundo."  
 > –Revelación 12:9
 
-**Al final del film, Atreyu logra "asignar el nombre nuevo" que detendrá la destrucción de ["la Nada"](https://villains.fandom.com/wiki/Nothing_\(The_Neverending_Story\)). Toda la idea del nuevo nombre parece ser una sutil inversión oculta del nuevo nombre que recibiremos del Señor Jesucristo (Revelación 2:17).  
+Al final del film, Atreyu logra "asignar el nombre nuevo" que detendrá la destrucción de ["la Nada"](https://villains.fandom.com/wiki/Nothing_\(The_Neverending_Story\)). Toda la idea del nuevo nombre parece ser una sutil inversión oculta del nuevo nombre que recibiremos del Señor Jesucristo (Revelación 2:17).  
   
 En resumen, detrás de la historia de un niño superando la muerte de su madre mediante la imaginación, se encuentra una capa oculta que le da un sentido espiritual y religioso. La religión mundial de los tiempos finales.  
   

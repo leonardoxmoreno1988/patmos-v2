@@ -16,7 +16,7 @@ Esto podría considerarse una extensión del estudio de [Revelación](https://t.
 > “Jehová de los ejércitos, Dios de Israel, que moras entre los querubines,”  
 > –Isaías 37:16
 
-**Tales seres rodean de cerca a Dios y le sirven como porteros y guardias de honor. David declaró que el Señor está entre los querubines (Salmo 80:1). También que los querubines llevan a Dios cuando Él viaja por los cielos, literalmente, cabalga sobre un querubín (Salmo 18:10).  
+Tales seres rodean de cerca a Dios y le sirven como porteros y guardias de honor. David declaró que el Señor está entre los querubines (Salmo 80:1). También que los querubines llevan a Dios cuando Él viaja por los cielos, literalmente, cabalga sobre un querubín (Salmo 18:10).  
   
 En su [visión del cielo](https://t.me/ritualypropaganda), Juan vio cuatro querubines con rostros de león, de becerro, de hombre, y de águila, cada uno con seis alas y estaban “llenos de ojos alrededor y por dentro” (Revelación 4:6-8).  
   
@@ -37,12 +37,12 @@ Otro hecho interesante es que los querubines parecen estar estrechamente identif
 > “Y cada uno tenía cuatro rostros: el primer rostro era de querubín: el segundo rostro era de hombre: el tercer rostro, de león: el cuatro rostro, de águila.”  
 > –Ezequiel 10:14
 
-**El profeta también identifica que los querubines, en lugar de pies, tienen las pezuñas propias de algunos mamíferos, principalmente los [ungulados](http://www.ikonet.com/es/diccionariovisual/reino-animal/mamiferos-ungulados/ejemplos-de-mamiferos-ungulados-2.php).  
+El profeta también identifica que los querubines, en lugar de pies, tienen las pezuñas propias de algunos mamíferos, principalmente los [ungulados](http://www.ikonet.com/es/diccionariovisual/reino-animal/mamiferos-ungulados/ejemplos-de-mamiferos-ungulados-2.php).  
 
 > "Y cada una tenía cuatro rostros, y cuatro alas. Y los piés de ellos eran derechos, y la planta de sus piés como la planta de pié de becerro; y centelleaban que parecían metal acicalado."  
 > –Ezequiel 1:6-7
 
-**Posiblemente los querubines tienen también cuerpos de toros, pero a la vez Ezequiel dice que “tenían forma humana” (Ezequiel 1:5). Una vez más, podría ser porque son capaces de alterar su apariencia.  
+Posiblemente los querubines tienen también cuerpos de toros, pero a la vez Ezequiel dice que “tenían forma humana” (Ezequiel 1:5). Una vez más, podría ser porque son capaces de alterar su apariencia.  
   
 Quizás por esta habilidad de cambiar de forma, Satanás puede disfrazarse de ángel de luz (2 Corintios 11:14). No olvidemos que este querubín llamado Lucifer es también retratado con cuernos y patas de becerro en el satanismo. De aquí proviene la imagen del [Baphomet](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Baphomet.png/1200px-Baphomet.png).  
   
@@ -65,7 +65,7 @@ También Dios les ordenó que decoraran las cortinas del Tabernáculo con querub
 > "Hizo también en el oratorio dos querubines de madera de oliva, cada uno de altura de diez codos. La una ala del un querubín tenía cinco codos; y la otra ala del mismo querubín otros cinco codos: así que había diez codos desde la punta de la una ala hasta la punta de la otra."  
 > –1 Reyes 6:23-24
 
-**El hecho de que los querubines estuvieran representados en todo el Templo significaba que eran importantes, por lo que Dios hizo todo lo posible para enfatizarlos.  
+El hecho de que los querubines estuvieran representados en todo el Templo significaba que eran importantes, por lo que Dios hizo todo lo posible para enfatizarlos.  
   
 Hay otros seres misteriosos en el cielo llamados [serafines](https://www.gotquestions.org/Espanol/serafines-angeles.html) (Isaías 6:1-4; Isaías 6-7). Este nombre proviene de la palabra hebrea serafín, que significa "quemar", por lo que serafines probablemente significa "los que arden".  
   

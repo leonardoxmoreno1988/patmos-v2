@@ -30,7 +30,7 @@ El encuentro en este monte no es más que una burla del encuentro entre Dios y e
 > “Y Jehová dijo a Moisés: He aquí, yo vengo a tí en una nube espesa, para que el pueblo oiga mientras yo hablo contigo, y también para que te crean para siempre. Y Moisés denunció las palabras del pueblo a Jehová. Y Jehová dijo a Moisés: Vé al pueblo, y santifícalos hoy y mañana, y laven sus vestidos: Y estén apercebidos para el tercero día; porque al tercero día Jehová descenderá a ojos de todo el pueblo sobre el monte de Sinaí.”  
 > –Éxodo 19:9-11
 
-**Incluso algunas escenas después vemos que un grupo de niños intenta ver literalmente la película [Los Diez Mandamientos](https://www.youtube.com/watch?v=8bqAaZHYK_k) y su padre se los permite solo un breve tiempo, para luego motivarlos a ver Pinocho. Esto hace más evidente la referencia tomada para Encuentros Cercanos del Tercer Tipo y la famosa película con Charlton Heston.
+Incluso algunas escenas después vemos que un grupo de niños intenta ver literalmente la película [Los Diez Mandamientos](https://www.youtube.com/watch?v=8bqAaZHYK_k) y su padre se los permite solo un breve tiempo, para luego motivarlos a ver Pinocho. Esto hace más evidente la referencia tomada para Encuentros Cercanos del Tercer Tipo y la famosa película con Charlton Heston.
 
   
 
@@ -43,17 +43,17 @@ Los extraterrestres eligen doce personas de diferentes partes de los Estados Uni
 > "Y subió al monte, y llamó a sí los que él quiso; y vinieron a él. Y ordenó a doce para que estuviesen con él, y para enviarlos a predicar; Y que tuviesen potestad de sanar enfermedades, y de echar fuera demonios:"  
 > –Marcos 3:13-15
 
-**El ascenso del protagonista a la montaña para el encuentro extraterrestre, nuevamente recuerda los pasajes del ascenso de Moisés al encuentro con el Señor, en el monte Sinaí (Éxodo 24:12-18). Así mismo, la aparición de [extrañas nubes](https://www.ritualypropaganda.com/2022/08/nope-dios-depredador.html), que anteceden la aparición de la nave extraterreste, tiene un paralelismo con el encuentro del pueblo de Israel con Dios y también con la futura Segunda Venida de Cristo.  
+El ascenso del protagonista a la montaña para el encuentro extraterrestre, nuevamente recuerda los pasajes del ascenso de Moisés al encuentro con el Señor, en el monte Sinaí (Éxodo 24:12-18). Así mismo, la aparición de [extrañas nubes](https://www.ritualypropaganda.com/2022/08/nope-dios-depredador.html), que anteceden la aparición de la nave extraterreste, tiene un paralelismo con el encuentro del pueblo de Israel con Dios y también con la futura Segunda Venida de Cristo.  
 
 > “Y entónces se mostrará la señal del Hijo del hombre en el cielo, y entónces lamentarán todas las tribus de la tierra; y verán al Hijo del hombre que vendrá sobre las nubes del cielo, con poder y grande gloria. Y enviará sus ángeles con trompeta y gran voz; y juntarán sus escogidos de los cuatro vientos, del un cabo del cielo hasta el otro.”  
 > –Mateo 24:30-31
 
-**Además de nubes extrañas, en el film pueden observarse relámpagos, que se acompañan simultáneamente por la música de la película, compuesta exclusivamente de sonidos fuertes de trompetas, semejantes al sonido de bocinas de tren. La experiencia del Éxodo con Moisés ascendiendo al Monte Sinaí también describe sonidos de trompeta y relámpagos.  
+Además de nubes extrañas, en el film pueden observarse relámpagos, que se acompañan simultáneamente por la música de la película, compuesta exclusivamente de sonidos fuertes de trompetas, semejantes al sonido de bocinas de tren. La experiencia del Éxodo con Moisés ascendiendo al Monte Sinaí también describe sonidos de trompeta y relámpagos.  
 
 > “Y aconteció al tercero día cuando vino la mañana, que vinieron truenos y relámpagos, y grave nube sobre el monte; y un sonido de bocina muy fuerte: y estremecióse todo el pueblo que estaba en el real."  
 > –Éxodo 19:16
 
-**Cuando la nave extraterrestre desciende, uno de los ingenieros exclama: “Mi Dios”, mientras el otro ingeniero se arrodilla. Las connotaciones religiosas son diversas durante el film.  
+Cuando la nave extraterrestre desciende, uno de los ingenieros exclama: “Mi Dios”, mientras el otro ingeniero se arrodilla. Las connotaciones religiosas son diversas durante el film.  
   
 Entre los que descienden de la nave, se encuentran personas abducidas en el pasado, quienes desaparecieron en condiciones extrañas y se evidencia que no han envejecido. También viene con ellos el niño abducido, Barry.  
   

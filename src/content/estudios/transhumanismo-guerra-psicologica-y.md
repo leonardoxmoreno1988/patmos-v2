@@ -88,7 +88,7 @@ Los transhumanistas creen que están trabajando por una existencia nueva y mejor
 
   
 
-****La mente de colmena**** 
+La mente de colmena 
 
   
 [](http://vigilantcitizen.com/wp-content/uploads/2010/04/worker-bees3-e1271531795711.jpg)Uno de los conceptos principales de la agenda transhumanista es:  
@@ -140,9 +140,9 @@ La idea transhumanista que llaman pragmática moral, es simplemente una versión
 > 
 >   
 >   
-> **"Lucifer es el término latino utilizado originalmente por los romanos para referirse al planeta Venus, cuando el planeta estaba al oeste del sol y por lo tanto, se levantó antes que el sol de la mañana, con lo que es _la estrella de la mañana_."  
+> "Lucifer es el término latino utilizado originalmente por los romanos para referirse al planeta Venus, cuando el planeta estaba al oeste del sol y por lo tanto, se levantó antes que el sol de la mañana, con lo que es _la estrella de la mañana_."  
 >   
-> "Según el filósofo Max More Extropian,"Lucifer es la encarnación de la razón, la inteligencia, del pensamiento crítico. Se pone de pie contra el dogma de Dios y todos los otros dogmas. Se pone de pie para la exploración de nuevas ideas y nuevas perspectivas en la búsqueda de la verdad. "Él es también el arquetipo iconoclasta, rebelde, y el adversario (la palabra 'Satán' es de una palabra hebrea," Sathane ', que significa adversario; en el original \[De uso judío-ver el libro de Job\], Satanás es el adversario, no de Dios, sino de la humanidad, es decir, el ángel encargado por Dios con la tarea de probar que la humanidad es una creación indigna). En el contexto transtopiano, Lucifer representa la ambición, la rebelión, la iluminación racional, y el lado oscuro del transhumanismo. "**
+> "Según el filósofo Max More Extropian,"Lucifer es la encarnación de la razón, la inteligencia, del pensamiento crítico. Se pone de pie contra el dogma de Dios y todos los otros dogmas. Se pone de pie para la exploración de nuevas ideas y nuevas perspectivas en la búsqueda de la verdad. "Él es también el arquetipo iconoclasta, rebelde, y el adversario (la palabra 'Satán' es de una palabra hebrea," Sathane ', que significa adversario; en el original \[De uso judío-ver el libro de Job\], Satanás es el adversario, no de Dios, sino de la humanidad, es decir, el ángel encargado por Dios con la tarea de probar que la humanidad es una creación indigna). En el contexto transtopiano, Lucifer representa la ambición, la rebelión, la iluminación racional, y el lado oscuro del transhumanismo. "
 
   
 
@@ -330,7 +330,7 @@ Un segundo más tarde, este símbolo de la civilización humana se desvanece. Es
 
   
 
-****¿Dónde está la Ciudad Esmeralda?****
+¿Dónde está la Ciudad Esmeralda?
 
   
 El mensaje que se está dando aquí es que la civilización humana está desapareciendo y se está quedando atrás por el avance del ejército Borg. Algo muy preocupante.  

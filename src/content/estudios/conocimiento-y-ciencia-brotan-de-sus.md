@@ -23,7 +23,7 @@ Romanos 6:23
 Hebreos 9:27  
 Revelación 21:8  
 
-Cristo murió por nosotros**  
+Cristo murió por nosotros  
 Juan 3:16  
 Romanos 5:8  
 1 Pedro 3:18  

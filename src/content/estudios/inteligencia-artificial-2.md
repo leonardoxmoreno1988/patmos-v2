@@ -16,7 +16,7 @@ El Anticristo usará la tecnología para empujar su agenda contra Dios. Vemos es
 > “Y los de los linajes, y de los pueblos, y de las lenguas, y de los Gentiles verán los cuerpos de ellos por tres días y medio, y no permitirán que sus cuerpos sean puestos en sepulcros. Y los moradores de la tierra se gozarán sobre ellos, y se alegrarán, y se enviarán dones los unos á los otros; porque estos dos profetas han atormentado á los que moran sobre la tierra.”  
 > ‭‭–Revelación ‭11‬:‭9‬-10
 
-**Los [dos testigos](https://www.gotquestions.org/Espanol/apocalipsis-dos-testigos.html) descenderán a la Tierra en el futuro para predicar el mensaje de salvación durante la Tribulación (Revelación 11:3-12), pero el Anticristo los asesinará en Jerusalén (Revelación 11:7-8), dejando sus cuerpos al descubierto por tres días y medio.  
+Los [dos testigos](https://www.gotquestions.org/Espanol/apocalipsis-dos-testigos.html) descenderán a la Tierra en el futuro para predicar el mensaje de salvación durante la Tribulación (Revelación 11:3-12), pero el Anticristo los asesinará en Jerusalén (Revelación 11:7-8), dejando sus cuerpos al descubierto por tres días y medio.  
   
 Debido a que en ese tiempo la mayoría serán seguidores del Anticristo, se alegrarán con él y celebrarán tales muertes. Pero el versículo muestra algo interesante, y es que menciona que distintos pueblos, tribus, lenguas y naciones verán sus cadáveres (Revelación 11:9).  
   
@@ -40,7 +40,7 @@ Si volvemos al [sueño del rey Nabucodonosor](https://i.pinimg.com/originals/5a/
 > “Y los dedos de los piés en parte de hierro, y en parte de barro cocido, en parte el reino será fuerte, y en parte será frágil. Cuanto a lo que viste el hierro mezclado con tiesto de barro, mezclarse han con simiente humana: mas no se pegarán el uno con el otro, como el hierro no se mezcla con el tiesto.”  
 > ‭‭–Daniel‬ ‭2‬:‭42‬-‭43‬ ‭
 
-**En una primera instancia, el ángel le muestra a Daniel que en el futuro existirán dos reinos en uno solo, una especie de híbrido: el Imperio Romano (hierro), el cual se ha extendido hasta nuestros días como el Catolicismo Romano; y otro reino distinto, que se describe como más débil (barro).  
+En una primera instancia, el ángel le muestra a Daniel que en el futuro existirán dos reinos en uno solo, una especie de híbrido: el Imperio Romano (hierro), el cual se ha extendido hasta nuestros días como el Catolicismo Romano; y otro reino distinto, que se describe como más débil (barro).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQuY4WQW5YOCFAZHV6XJozteXwfcGerOxr0-oz9PP8btfuw_dygIiJpdh5NBHMJUTAd_Axlvl77o91-_YMc9C6paZth4xAXE5H26tRyKX-e3Wvg5r4f_MzQNRlBGSdPZ3HIez1LrrtW1xUjpX9qq-HjTgeCT3Os6bU0bySNGCgMBeVhlfmorHR3LaP/w204-h400/pies-barro-hierro.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQuY4WQW5YOCFAZHV6XJozteXwfcGerOxr0-oz9PP8btfuw_dygIiJpdh5NBHMJUTAd_Axlvl77o91-_YMc9C6paZth4xAXE5H26tRyKX-e3Wvg5r4f_MzQNRlBGSdPZ3HIez1LrrtW1xUjpX9qq-HjTgeCT3Os6bU0bySNGCgMBeVhlfmorHR3LaP/s444/pies-barro-hierro.jpeg)
@@ -54,7 +54,7 @@ Pero existe otra señal importante en el versículo 43, donde se dice "se mezcla
 > “mezclarse han con simiente humana: mas no se pegarán el uno con el otro, como el hierro no se mezcla con el tiesto.”  
 > ‭‭–Daniel‬ ‭2‬:‭43‬ ‭
 
-**Esta no es solo una alianza política de dos partes, sino una que involucra algo más siniestro. Se habla de la "simiente humana", el barro, mezclada con otra simiente distinta, la cual es un misterio, pero se ejemplifica como el bronce. Esta revelación implica una mezcla genética.  
+Esta no es solo una alianza política de dos partes, sino una que involucra algo más siniestro. Se habla de la "simiente humana", el barro, mezclada con otra simiente distinta, la cual es un misterio, pero se ejemplifica como el bronce. Esta revelación implica una mezcla genética.  
   
 La última vez que la simiente humana se mezcló con otra, fue en el Génesis 6, cuando ángeles descendieron del cielo y se procrearon con mujeres humanas, la simiente humana se mezcló con la simiente angélica, [produciendo gigantes](https://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html).  
   

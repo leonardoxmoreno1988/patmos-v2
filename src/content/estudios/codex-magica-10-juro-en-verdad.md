@@ -35,7 +35,7 @@ A lo largo del camino, notaremos la implicación iluminista de gente tan infame 
 Y también echaremos un vistazo brevemente a una señal de la mano del Iluminista Al Gore, algunos oficiales confederados en el calabozo craneal masónico, la rancia "¡A la m... con ustedes!" de Timothy McVeigh y algunas otras posiciones de manos de representantes de la élite.  
   
 
-> **"La masonería debe ser abolida para siempre, es errónea, esencialmente equivocada, una semilla del mal que nunca puede producir ningún bien".****\- John Quincy Adams**
+> **"La masonería debe ser abolida para siempre, es errónea, esencialmente equivocada, una semilla del mal que nunca puede producir ningún bien".\- John Quincy Adams**
 
   
 

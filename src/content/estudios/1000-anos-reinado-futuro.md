@@ -35,7 +35,7 @@ Debemos saber también que este tiempo en la tierra durará mil años, y esto se
 > "Bienaventurado y santo el que tiene parte en la primera resurrección: la segunda muerte no tiene potestad sobre los tales: ántes serán sacerdotes de Dios, y de Cristo, y reinarán con él mil años."  
 > –Revelación 20:6
 
-**Hacia fines del siglo III d.C., la alegoría de las Escrituras comenzó a infiltrar la teológica cristiana. La filosofía alteró negativamente el estudio de las Escrituras y la creencia del reino milenial, junto con otras enseñanzas importantes.  
+Hacia fines del siglo III d.C., la alegoría de las Escrituras comenzó a infiltrar la teológica cristiana. La filosofía alteró negativamente el estudio de las Escrituras y la creencia del reino milenial, junto con otras enseñanzas importantes.  
   
 Solo hasta después de la reforma es que hubo un renacimiento del milenio bíblico, es decir, [la posición premilenialista](https://www.youtube.com/watch?v=kDaTAqy3QKI&t=24s). Hoy, a pesar de los continuos ataques, el premilenialismo sigue siendo la perspectiva más dominante de los tres puntos de vista milenarios.  
   
@@ -69,12 +69,12 @@ Una de las características del tiempo actual es que muy pocas personas realment
 > "Y no enseñará más ninguno a su prójimo, ni ninguno a su hermano, diciendo: Conocéd a Jehová; porque todos me conocerán desde el más chiquito de ellos hasta el más grande, dijo Jehová; porque perdonaré su maldad, y no me acordaré más de su pecado."  
 > –Jeremías 31:34
 
-**El Milenio será un tiempo de paz sin precedentes, cuando aquellos que han aceptado a Jesucristo como su Señor y Salvador podrán gobernar y reinar junto con el Rey.  
+El Milenio será un tiempo de paz sin precedentes, cuando aquellos que han aceptado a Jesucristo como su Señor y Salvador podrán gobernar y reinar junto con el Rey.  
 
 > "Y juzgará entre las naciones, y reprenderá a muchos pueblos; y volverán sus espadas en azadones, y sus lanzas en hoces: no alzará espada nación contra nación, ni se ensayarán más para la guerra."  
 > –Isaías 2:4
 
-**Tal paz mundial está más allá de la capacidad humana. No hay forma de que la humanidad depravada pueda crear tales condiciones en la tierra. Pero, gracias a Dios, esa será la realidad cuando Jesús vuelva.
+Tal paz mundial está más allá de la capacidad humana. No hay forma de que la humanidad depravada pueda crear tales condiciones en la tierra. Pero, gracias a Dios, esa será la realidad cuando Jesús vuelva.
 
   
 Gracias por leer el newsletter de esta semana, no olvide que puede compartir el material con sus familiares y cercanos.

@@ -122,7 +122,7 @@ En otra entrevista de 1991, él menciona:
 Crowley hizo de Lucifer su dios, su liberador y portador de la luz del cuál recibía ciertos beneficios, esto por supuesto es una mentira de la cuál fue víctima hasta su muerte.  
   
 
-> **"Lucifer es mi propio ángel guardián, el "Diablo" Satanás... esta serpiente Satán, no es el enemigo del hombre, sino el que hizo dioses de nuestra raza, conociendo el bien y el mal, él pidió: conózcanse a si mismos, y aprendan la iniciación."****\- Aleister Crowley, Magick in Theory and Practice, 1873, pg 234.**
+> **"Lucifer es mi propio ángel guardián, el "Diablo" Satanás... esta serpiente Satán, no es el enemigo del hombre, sino el que hizo dioses de nuestra raza, conociendo el bien y el mal, él pidió: conózcanse a si mismos, y aprendan la iniciación."\- Aleister Crowley, Magick in Theory and Practice, 1873, pg 234.**
 
   
 Después del encuentro con Aiwass, de una manera típicamente grandiosa, Mathers recibió una carta anunciando que el Equinoccio de los Dioses había llegado, y que Crowley había forjado un nuevo vínculo con los Jefes Secretos, convirtiéndolo así en la suprema autoridad mágica. Esto resultó naturalmente en un duelo mágico, que Crowley parece haber ganado eventualmente.  
@@ -193,7 +193,7 @@ Thelema es el griego para "la voluntad". Crowley usó la palabra Thelema para re
 Si algo está muy bien documentando sobre Crowley, es que su trabajo no murió con él. Muchas personas admirados por su ideología y sus escritos se convirtieron en crowleianos fieles y propagadores espirituales del Thelema. Muchos de estos fueron celebridades que incorporaron la figura del "hombre más malvado del planeta" a sus fans.  
   
 
-### **The Beatles**
+### The Beatles
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYCvS7qRiIGeifqJIHT2DErDIsAqZaVTg2LPAOg0kYKxdcjj84-fyNurSWwncqgPnnpOVnCHGdmX3XI0NxC1bPWYILlZJcY8s_Pt1Povc7_dKkBRSutyku1RyQp4peBdExWYcrUgxtEfM/s1600/beatles-portada-aleister-crowley.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYCvS7qRiIGeifqJIHT2DErDIsAqZaVTg2LPAOg0kYKxdcjj84-fyNurSWwncqgPnnpOVnCHGdmX3XI0NxC1bPWYILlZJcY8s_Pt1Povc7_dKkBRSutyku1RyQp4peBdExWYcrUgxtEfM/s1600/beatles-portada-aleister-crowley.jpg)
 
@@ -203,7 +203,7 @@ Aleister Crowley aparece en la portada de la obra maestra de los Beatles en 1967
 
   
 
-### **Jimmy Page**
+### Jimmy Page
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg8zve-fO5EV5ldEVa3sDFZVSMPdNlE93JieH-1R4YLfgeIAzLTzASjymyY_d8X8WB8gA7X09msCofuciB8k067aU1vOOJCa4d1hkGXZ1J9Zjhm0yceXIC1K6qIqMQPOG4_4KPolxrRy4/s1600/jimmy-casa-aleister.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg8zve-fO5EV5ldEVa3sDFZVSMPdNlE93JieH-1R4YLfgeIAzLTzASjymyY_d8X8WB8gA7X09msCofuciB8k067aU1vOOJCa4d1hkGXZ1J9Zjhm0yceXIC1K6qIqMQPOG4_4KPolxrRy4/s1600/jimmy-casa-aleister.jpg)
 
@@ -268,7 +268,7 @@ Poco después, Parsons se apoderó de la logia Agape. Observando la aptitud natu
 En el trabajo, Parsons estaba sobresaliendo en sus desarrollos de cohetes, y mezclando su ocultismo recién descubierto con sus prácticas de trabajo bailando y cantando el "Himno de Pan" de Crowley antes del lanzamiento de cada cohete de prueba. En aquel momento, nadie le dio mucha importancia, y Von Kármán, que acababa de arreglar los fondos del gobierno para el "GALCIT Rocket Project", lo consideraba solo un "juguete delicioso".  
   
 
-### **L. Ron Hubbard**
+### L. Ron Hubbard
 
 Jack Parson más tarde se asoció con un individuo que llegaría a ser enormemente influyente: L. Ronald Hubbard, el hombre que establecería la Iglesia de Cientología.  
   
@@ -290,7 +290,7 @@ La Iglesia de Cientología de Hubbard es hoy una secta extremadamente influyente
 
   
 
-### **Jay-Z**
+### Jay-Z
 
 Otras celebridades vinculadas a OTO incluyen el rapero Jay-Z, que repetidamente ha colocado imágenes y citas del trabajo de Crowley. Esto incluye llevar una camiseta con la frase "Haz lo que quieras..." o contratar a Rihanna para que sostenga una antorcha encendida en sus videos musicales (una referencia a los Illuminati, o la luz de Lucifer, el "portador de luz").  
   
@@ -302,7 +302,7 @@ Otras celebridades vinculadas a OTO incluyen el rapero Jay-Z, que repetidamente 
 Su línea de ropa, Rocawear, está repleta de imágenes de la OTO como el "ojo que ve" en un triángulo, el "ojo de Horus" (como sabemos, un antiguo símbolo egipcio frecuentemente referenciado en textos ocultos) y la cabeza de Baphomet (el cornudo, ídolo andrógino del ocultismo).  
   
 
-### **Yu-Gi-Oh!**
+### Yu-Gi-Oh!
 
 Yu-Gi-Oh! Es un manga japonés creado por Kazuki Takahashi. Impregnado a su vez con el simbolismo de la sociedad secreta de la Ordo Templi Orientis.
 

@@ -15,7 +15,7 @@ Estimado lector,
 
 Cuando Dios habla en tiempo pasado, a veces son eventos que ocurrirán en el futuro. Es decir, lo que para el hombre es aún inexistente, para Dios ya es un hecho histórico. Un claro ejemplo de esto es Isaías 53:5.
 
-> **"****Mas él herido FUE por nuestras rebeliones, molido por nuestros pecados: el castigo de nuestra paz sobre él; y por su llaga HUBO cura para nosotros.****"**
+> **"Mas él herido FUE por nuestras rebeliones, molido por nuestros pecados: el castigo de nuestra paz sobre él; y por su llaga HUBO cura para nosotros."**
 
 Pese a que el profeta dijo esto 750 años antes de que Cristo fuera herido por nuestras rebeliones y muriera como salvador del mundo, el uso del tiempo pasado indica el poder de Dios sobre esta dimensión, apuntando a dos tiempos distintos, después de todo, Él es el creador del tiempo (Génesis 1:17-18). Su capacidad de ver todo el cuadro completo es parte de su omnipresencia.
 
@@ -35,7 +35,7 @@ Pero si leemos 2 Reyes 20:10-11 vemos que Dios, a diferencia del hombre, dispone
 > "Y Ezequías respondió: Fácil cosa es que la sombra decline diez grados: mas que la sombra vuelva atrás diez grados. Entónces el profeta Isaías clamó a Jehová; e hizo volver la sombra por los grados que había descendido en el reloj de Acaz diez grados atrás."  
 > –2 Reyes 20:10-11
 
-**Es interesante también como Dios manifestado en su forma humana rompe con los paradigmas que tenemos respecto al tiempo. Jesucristo ascendió al cielo hace más de 2,000 años en lo que podemos concluir, un cuerpo físico de 33 años; y sabemos que como se fue, Él volverá en el futuro (Hechos 1:11).  
+Es interesante también como Dios manifestado en su forma humana rompe con los paradigmas que tenemos respecto al tiempo. Jesucristo ascendió al cielo hace más de 2,000 años en lo que podemos concluir, un cuerpo físico de 33 años; y sabemos que como se fue, Él volverá en el futuro (Hechos 1:11).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCQUfLhmBrWGPz-d41_JUTIfqBx8LqKujk2cs3KRxkouWpk8s14e0u0AOI2UI7F5GVaHRL1iZq7iX-n4Dkp-2uTUUIe-hOiqtimgwC6MiVjeezH0GIWAlPa9FnXoA-Akq25AwiDQ0YPXZr2wq5FhJhznLzaJEY6mC-BO9Iu-wBCLiaO015S7cu2e90/s16000/asencion.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCQUfLhmBrWGPz-d41_JUTIfqBx8LqKujk2cs3KRxkouWpk8s14e0u0AOI2UI7F5GVaHRL1iZq7iX-n4Dkp-2uTUUIe-hOiqtimgwC6MiVjeezH0GIWAlPa9FnXoA-Akq25AwiDQ0YPXZr2wq5FhJhznLzaJEY6mC-BO9Iu-wBCLiaO015S7cu2e90/s700/asencion.jpg)

@@ -9,7 +9,7 @@ description: "\"Annuit Coeptus - Él aprueba nuestro compromiso.\"- Inscripción
 tags: ["Sociedad"]
 ---
 
-> **"Annuit Coeptus - Él aprueba nuestro compromiso."****\- Inscripción en latín sobre el ojo que todo lo ve en el billete de un dólar de EE. UU.**
+> **"Annuit Coeptus - Él aprueba nuestro compromiso."\- Inscripción en latín sobre el ojo que todo lo ve en el billete de un dólar de EE. UU.**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDy2AcqHBwdQ2A-n78JGRwChnKg5OC_bKR2wJ1TkeV90V-1NeU4No0A1JldVQQkl67etY7q17ejmZgGNG17rnd548w987ITMhxR8tLqPDcUuMpVPeX4zPLjdtpzoZ6f13aZxRWcrnsOBU/s1600/ok-signo-illuminati.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDy2AcqHBwdQ2A-n78JGRwChnKg5OC_bKR2wJ1TkeV90V-1NeU4No0A1JldVQQkl67etY7q17ejmZgGNG17rnd548w987ITMhxR8tLqPDcUuMpVPeX4zPLjdtpzoZ6f13aZxRWcrnsOBU/s1600/ok-signo-illuminati.jpg)
 

@@ -211,4 +211,4 @@ Los protestantes declararán que el culto católico de María es una adición co
 
   
 
-> **"Mas si aun nosotros, o un ángel del cielo, os anunciare otro evangelio diferente del que os hemos anunciado, sea anatema."****\- Gálatas 1:8**
+> **"Mas si aun nosotros, o un ángel del cielo, os anunciare otro evangelio diferente del que os hemos anunciado, sea anatema."\- Gálatas 1:8**

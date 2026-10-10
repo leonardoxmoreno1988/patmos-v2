@@ -37,11 +37,11 @@ Tras leer “Civil War” completamente, opte por descargar los capítulos de �
 Esta descripción aparece en todos los comic de los Illuminati, y como es obvio hacer referencia a las conspiraciones de hoy. El concepto general de los New Avengers Illuminati es que este grupo de superhéroes han influenciado de manera secreta y “detrás de escena” los acontecimientos más relevantes del Universo Marvel. Hasta este punto no hay nada oculto, ya que los creadores del comic admiten haberse basado en teorías de conspiración:  
   
 
-> **"La inspiración para Los Illuminati proviene de cosas como el Consejo de Seguridad de las Naciones Unidas, así como las reuniones a puerta cerrada en la Casa Blanca y de otras organizaciones y países que no salen en los libros, aquellas que sólo encuentras en los textos cuando ya han pasado muchos años al desclasificarse ciertos documentos y estar al alcance del público" dice Bendis.  
+> "La inspiración para Los Illuminati proviene de cosas como el Consejo de Seguridad de las Naciones Unidas, así como las reuniones a puerta cerrada en la Casa Blanca y de otras organizaciones y países que no salen en los libros, aquellas que sólo encuentras en los textos cuando ya han pasado muchos años al desclasificarse ciertos documentos y estar al alcance del público" dice Bendis.  
 >   
 > "Todavía estamos conociendo cosas de los mandatos presidenciales de Kennedy o Lyndon Johnson, cosas que sucedieron tras puertas cerradas y que fueron mucho más interesantes de las que salieron publicadas en prensa, y que además explican mejor porqué la historia se movió en una determinada dirección en un momento crítico. Así que yo estoy intentando crear la historia de Marvel que nadie conocía antes. Como yo lo veo, estamos reflejando las cosas que pasan en el mundo real en nuestro trabajo. El Universo Marvel está mucho más relacionado con el mundo real que ningún otro universo de ficción que se pueda encontrar en los cómics hoy en día, y siempre ha presentado un determinado tipo de cultura y visión que ha sido moldeada por el mundo real. No es nada nuevo, muchos de los héroes Marvel nacieron como consecuencia de la paranoia nuclear y de la Guerra Fría."  
 >   
-> \- Brian Michael Bendis - Guiónista. Fuente: [www.universomarvel.com](https://www.blogger.com/u/1/#)**
+> \- Brian Michael Bendis - Guiónista. Fuente: [www.universomarvel.com](https://www.blogger.com/u/1/#)
 
   
 Lo que es menos explicable y trae muchas incógnitas son ciertas imágenes subliminales que me cuesta creer fueron puestos por simple dramatismo:  
@@ -101,7 +101,7 @@ Al culminar la saga de Secret Invasion la cual fue igual de enorme que Civil War
 >   
 > fuente: [Wikipedia](http://es.wikipedia.org/wiki/Illuminati_%28c%C3%B3mic%29)
 
-[](http://es.wikipedia.org/wiki/Illuminati_%28c%C3%B3mic%29)**  
+[](http://es.wikipedia.org/wiki/Illuminati_%28c%C3%B3mic%29)  
 [![](https://i162.photobucket.com/albums/t261/lenxx8/dark-reign.jpg)](http://i162.photobucket.com/albums/t261/lenxx8/dark-reign.jpg)Viendo estas tres macrosagas de Marvel en perspectiva, tenemos el siguiente orden de tiempo: La creación de los Illuminati, su influencia en los sucesos históricos, La infiltración de seres reptilianos cambia forma con el fin de debilitar la Tierra, La invasión, La elección de un salvador que traerá paz y seguridad a la Tierra, y al final, el Reinado Oscuro impuesto por el mismo salvador. Coincidencia? Podría Marvel invertir tantas sagas, tantos números de comics y casi tres años de publicaciones por una simple teoría de conspiración?  
   
 [![](https://i162.photobucket.com/albums/t261/lenxx8/obama-bush.jpg)](http://i162.photobucket.com/albums/t261/lenxx8/obama-bush.jpg)  

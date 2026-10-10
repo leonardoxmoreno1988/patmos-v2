@@ -9,7 +9,7 @@ description: "\"Y clamó poderosamente con voz fuerte, diciendo: Babilonia la Gr
 tags: ["Sociedad"]
 ---
 
-> **"Y clamó poderosamente con voz fuerte, diciendo: Babilonia la Grande ha caído, ha caído, y ha llegado a ser morada de demonios, y contención de todo espíritu inmundo, y jaula de toda ave inmunda y odiosa."****\- Apocalipsis 18: 2**
+> **"Y clamó poderosamente con voz fuerte, diciendo: Babilonia la Grande ha caído, ha caído, y ha llegado a ser morada de demonios, y contención de todo espíritu inmundo, y jaula de toda ave inmunda y odiosa."\- Apocalipsis 18: 2**
 
 [![estatua de oro de águila de dos cabezas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhuMigQLcUEuIhYYrEBTpu-Cj_ZfeCS4O1Vp6adpfs_B5IfoBCLTPFomLXHk9bEe6O96l4sosgVuiJrbrqKdgH3fLObNrrlYCs6lXSzubYbjlRQ3pE3Sk93QHqbGPmTjTtB6DzxTc2Y/s1600/aguila-dos-cabezas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhuMigQLcUEuIhYYrEBTpu-Cj_ZfeCS4O1Vp6adpfs_B5IfoBCLTPFomLXHk9bEe6O96l4sosgVuiJrbrqKdgH3fLObNrrlYCs6lXSzubYbjlRQ3pE3Sk93QHqbGPmTjTtB6DzxTc2Y/s1600/aguila-dos-cabezas.jpg)
 
@@ -17,7 +17,7 @@ tags: ["Sociedad"]
   
   
 
-> **"El Secreto Real ... el Secreto del Equilibrio Universal ... finalmente hará real el Santo Imperio de la verdadera Hermandad Masónica."****\- Albert Pike, 33 ° Morales y dogma****"Dos cabezas son mejores que una, excepto cuando están en el cuerpo de una sola águila."****\- Texe Marrs**
+> **"El Secreto Real ... el Secreto del Equilibrio Universal ... finalmente hará real el Santo Imperio de la verdadera Hermandad Masónica."\- Albert Pike, 33 ° Morales y dogma"Dos cabezas son mejores que una, excepto cuando están en el cuerpo de una sola águila."\- Texe Marrs**
 
   
 ¿Puede el cuerpo de un pájaro tener dos cabezas? ¿Es una locura tal idea? Eso creo. La locura puede describirse como la firme creencia de un hombre demente de que dos cosas totalmente contradictorias y opuestas son, no obstante, una y la misma. Si un hombre abraza simultáneamente dos ideas o filosofías compitiendo, mutuamente excluyentes, puede apropiadamente ser considerado que está "demente", o insano. Si, por ejemplo, está convencido de que una manzana es un pájaro o que el color negro es realmente blanco, entonces está loco.  
@@ -50,7 +50,7 @@ Ezequiel 28 nos dice que, como fue creado por primera vez por Dios, **[Lucifer](
 Pero entonces el engañoso Lucifer se rebeló, llevando consigo un tercio de los ángeles. Él y ellos aparentemente se convirtieron en seres viles, feos y deformes, apareciendo en formas grotescas apropiadas a sus deformidades mentales y espirituales.  
   
 
-> **"****¡Cómo has caído del cielo, oh Lucero, hijo de la mañana! ¡Cómo has sido derribado por tierra, tu que debilitadabas a las naciones! Porque has dicho en tu corazón: Subiré al cielo, exaltaré mi trono sobre las estrellas de Dios ... Subiré sobre las alturas de las nubes; Seré como el Altísimo. Sin embargo, serás llevado al infierno, a los lados del abismo" (Isaías 14: 12-15)**
+> **"¡Cómo has caído del cielo, oh Lucero, hijo de la mañana! ¡Cómo has sido derribado por tierra, tu que debilitadabas a las naciones! Porque has dicho en tu corazón: Subiré al cielo, exaltaré mi trono sobre las estrellas de Dios ... Subiré sobre las alturas de las nubes; Seré como el Altísimo. Sin embargo, serás llevado al infierno, a los lados del abismo" (Isaías 14: 12-15)**
 
   
 La Biblia dice que el enfurecido y furioso Lucifer caído ahora camina de un lado a otro en la tierra como un león buscando a quien devorar. Su objetivo es arruinar la creación de Dios, bastardizarla y corromperla, transformarla en lo que es: una creación monumentalmente fea y deformada, totalmente opuesta a lo que Dios quiso. El hombre y el mundo deben ser arruinados, destruidos, transformados en una tierra baldía estéril, no productora, horriblemente formada.  
@@ -79,7 +79,7 @@ El caos engendra el orden, pero el caos vuelve a suceder, seguido por el orden, 
   
 Mientras Bill entonaba la canción favorita de Hillary Clinton,
 
-> **"No dejes de pensar en el mañana."****"Todo debe cambiar", era el lema de los iluministas que provocaron la Revolución francesa. (2)**
+> **"No dejes de pensar en el mañana.""Todo debe cambiar", era el lema de los iluministas que provocaron la Revolución francesa. (2)**
 
   
 Los iluministas que gobiernan América nos dan dos partidos políticos, demócratas y republicanos (tesis y antítesis), ambos de los cuales controlan. Pero el conflicto de estos dos contrarios nunca conduce a una solución real, sino a una «síntesis» fluida e incompleta. Los problemas nunca se resuelven completa y satisfactoriamente. El proceso dualista nunca termina. Todos somos ciudadanos de "Nunca Jamás", y ni siquiera lo sabemos.  
@@ -89,7 +89,7 @@ Los iluministas que gobiernan América nos dan dos partidos políticos, demócra
 
 Así es como un filósofo iluminista, el sacerdote satanico Anton LaVey, lo explicó:  
 
-> **No siempre hay "dos lados para cada problema". Esa declaración es un eslogan ridículo invocado por intereses creados ...****En asuntos de preocupación significativa, hay invariablemente otra alternativa: un TERCER LADO, un lado satánico.****"Dos caras de la misma moneda" es el porque la mayoría de los principales temas son ingeniosamente construidos. Posteriormente, la población vive de las elecciones disfrazadas de opiniones opuestas. (3)**
+> **No siempre hay "dos lados para cada problema". Esa declaración es un eslogan ridículo invocado por intereses creados ...En asuntos de preocupación significativa, hay invariablemente otra alternativa: un TERCER LADO, un lado satánico."Dos caras de la misma moneda" es el porque la mayoría de los principales temas son ingeniosamente construidos. Posteriormente, la población vive de las elecciones disfrazadas de opiniones opuestas. (3)**
 
   
 Los dos puntos superiores del pentagrama invertido de Satanás representan la naturaleza dualista de todas las cosas, ya que todas las cosas son percibidas naturalmente. El hombre siempre ha sido motivado y controlado por cualquier concepto dualista que esté a la moda y siempre lo será. Nos guste o no, es la forma en que las cosas realmente son. Las sombras de gris sólo aparecen entre los opuestos establecidos.  

@@ -111,7 +111,7 @@ Uno de los giros inesperados de "Oblivion" es el hecho de que Jack realmente es 
 
 > "Entonces Dios formó al hombre del polvo de la tierra, sopló en su nariz aliento de vida y fue el hombre un ser viviente." -Génesis 2:7
 
-**El hecho de soplar "aliento de vida" deja en claro que solo Dios puede crear un ser humano con alma y conforme a los estatutos morales del creador. Para los illuminati y las fuerzas espirituales que los manejan es muy importante ir en contra de esto, primero porque necesitan abominaciones genéticas para su nuevo orden mundial, y segundo porque alejará espiritualmente al hombre de su creador. Si no existe un alma que habite a los clones, ¿Qué es lo que está dentro de este? La Biblia vuelve a mencionar sobre el aliento de vida en **[Apocalipsis](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)**:  
+El hecho de soplar "aliento de vida" deja en claro que solo Dios puede crear un ser humano con alma y conforme a los estatutos morales del creador. Para los illuminati y las fuerzas espirituales que los manejan es muy importante ir en contra de esto, primero porque necesitan abominaciones genéticas para su nuevo orden mundial, y segundo porque alejará espiritualmente al hombre de su creador. Si no existe un alma que habite a los clones, ¿Qué es lo que está dentro de este? La Biblia vuelve a mencionar sobre el aliento de vida en **[Apocalipsis](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)**:  
 
 > "Y se le permitió infundir aliento a la imagen de la bestia, para que la imagen hablase e hiciese matar a todo el que no la adorase." -Apocalipsis 13:15
 
@@ -131,6 +131,6 @@ En 2004, la empresa biotecnológica Clonaid vinculada a la secta de los Raeliano
 
 ## En Resumen
 
-Muy por encima de lo que asegura la secta de los raelianos, existe una motivación de hollywood por la aceptación de los seres clonados y la manipulación genética. Esto debe llevarnos a una reflexión sobre si de verdad nuestros conceptos personales están siendo moldeados a los planes de la élite o si estamos manteniéndonos fieles a la palabra de nuestro creador. Si usted encuentra que unas películas con muchos efectos especiales son más confiables que las escrituras, ha llegado el momento de reconsiderarlo. Debemos saturar nuestras mentes y corazones con la verdad de Dios y permitir que esta nos cambie en vez de aceptar que el mundo del entretenimiento nos transforme. El profeta David escribió sobre el creador:**
+Muy por encima de lo que asegura la secta de los raelianos, existe una motivación de hollywood por la aceptación de los seres clonados y la manipulación genética. Esto debe llevarnos a una reflexión sobre si de verdad nuestros conceptos personales están siendo moldeados a los planes de la élite o si estamos manteniéndonos fieles a la palabra de nuestro creador. Si usted encuentra que unas películas con muchos efectos especiales son más confiables que las escrituras, ha llegado el momento de reconsiderarlo. Debemos saturar nuestras mentes y corazones con la verdad de Dios y permitir que esta nos cambie en vez de aceptar que el mundo del entretenimiento nos transforme. El profeta David escribió sobre el creador:
 
 > "Tus ojos vieron mi embrión, y en tu libro se escribieron todos los días que me fueron dados, cuando no existía ni uno solo de ellos." -Salmos 138:16

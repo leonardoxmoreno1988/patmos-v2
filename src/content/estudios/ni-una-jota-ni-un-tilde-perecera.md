@@ -43,7 +43,7 @@ En Alejandría también se impulsó el uso de la Septuaginta, una traducción qu
 > "Porque de cierto os digo, que hasta que perezca el cielo y la tierra, ni una jota, ni un tilde perecerá de la ley, sin que todas las cosas sean cumplidas."  
 > –Mateo 5:18
 
-**Toda esta confusión permitió la propagación de diversas herejías que fragmentaron a los primeros cristianos. La iglesia de Roma se posicionó como la única autoridad capaz de poner "orden". Lo que debería haber sido una fuente de verdad se convirtió en una pirámide de poder que duró muchos siglos.  
+Toda esta confusión permitió la propagación de diversas herejías que fragmentaron a los primeros cristianos. La iglesia de Roma se posicionó como la única autoridad capaz de poner "orden". Lo que debería haber sido una fuente de verdad se convirtió en una pirámide de poder que duró muchos siglos.  
   
 ![](https://ci3.googleusercontent.com/meips/ADKq_NY8M2ifeo24rH8bwzUsbANb5RElFuTv1mysMC1f9HNLWpZ04BWt72V2torBrlGBiFXJGoHODPQc-yEPxO1llxV2tt7rEQ8nKNAral9fZti_W4l96VHGoaPBpNillrGZaEbE9sXDpBgJ_x43SeXnzaxfxg=s0-d-e1-ft#https://lvr67.img.a.d.sendibm1.com/im/sh/9_v7d3NukMCW.jpg?u=WtVElij8PJZGdKGnKJ0aqaeEqxgdAoFd)  
   

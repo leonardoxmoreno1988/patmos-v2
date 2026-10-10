@@ -19,7 +19,7 @@ El rapto es mencionado por Pablo en 1 de Tesalonicenses 4:16-17. Pasaje que desc
 > “Porque el mismo Señor con algazara, con voz de arcángel, y con trompeta de Dios, descenderá del cielo, y los muertos en Cristo resucitarán los primeros. Luego nosotros, los que vivimos, los que quedamos, juntamente con ellos seremos arrebatados en las nubes a recibir al Señor en el aire; y así estaremos siempre con el Señor.”  
 > –1 Tesalonicenses 4:16-17
 
-**El término 'rapto' viene de la palabra griega usada en ese versículo: 'harpazo' (arrebatados). Esta palabra da a entender de la rapidez e inmediatez del evento. Como se lee en la carta a los Tesalonicenses, el 'harpazo' o arrebatamiento se encuentra en las Escrituras, la pregunta en cuestión es, ¿Cuándo sucederá?
+El término 'rapto' viene de la palabra griega usada en ese versículo: 'harpazo' (arrebatados). Esta palabra da a entender de la rapidez e inmediatez del evento. Como se lee en la carta a los Tesalonicenses, el 'harpazo' o arrebatamiento se encuentra en las Escrituras, la pregunta en cuestión es, ¿Cuándo sucederá?
 
   
 
@@ -29,7 +29,7 @@ También sobre el arrebatamiento de los creyentes se habla en 1 de Corintios, ad
 > “En un momento, en un abrir de ojo, a sonido de la final trompeta; porque será tocada la trompeta, y los muertos serán levantados incorruptibles, y nosotros seremos transformados. Porque es menester que esto corruptible sea vestido de incorrupción, y esto mortal sea vestido de inmortalidad.”  
 > –1 Corintios 15:52
 
-**Desde ya hace algunos cientos de años, la interpretación de estos pasajes dividió el cristianismo en estos tres grupos principales:  
+Desde ya hace algunos cientos de años, la interpretación de estos pasajes dividió el cristianismo en estos tres grupos principales:  
   
 **Pre-tribulacionistas:** Que creen que los cristianos seremos arrebatados antes de la Tribulación, sin ver al Anticristo, ni vivir ninguna de las plagas o la ira de Dios.
 
@@ -82,6 +82,6 @@ Debido a mi postura pre-tribulacionista, mucho del contenido que se publica sobr
 
 > “Porque no nos ha puesto Dios para ira, sino para alcanzar salud por medio de nuestro Señor Jesu Cristo”
 
-**No olvide compartir el material con sus familiares y cercanos.  
+No olvide compartir el material con sus familiares y cercanos.  
   
 Leonardo M.

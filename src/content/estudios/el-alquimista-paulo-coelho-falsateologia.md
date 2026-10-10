@@ -84,7 +84,7 @@ Melchizedek de Coelho va en contra de Dios recomendando presagios y dando consej
   
 Este falso Melquisedec no tiene semejanza con el verdadero, y es usado por Coelho como un apoyo para articular sus creencias de la **[Nueva Era](http://www.ritualypropaganda.com/2017/04/10-ideas-falsas-nueva-era-sobre-dios.html)** y la autoayuda. Usar un personaje bíblico para representar valores que van contra Dios es un movimiento de arrogancia y desafío. En el libro Melquisedec se presenta como todo un sabio cuando, de hecho, él representa la sabiduría del mundo en contraposición a la sabiduría de Dios.  
 
-> **"¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el disputador de este siglo? ¿No ha enloquecido Dios la sabiduría del mundo?** **Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios mediante la sabiduría, agradó a Dios salvar a los creyentes por la locura de la predicación. "** **\- 1 Cor. 1: 20-21**
+> **"¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el disputador de este siglo? ¿No ha enloquecido Dios la sabiduría del mundo? Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios mediante la sabiduría, agradó a Dios salvar a los creyentes por la locura de la predicación. " \- 1 Cor. 1: 20-21**
 
   
 
@@ -102,7 +102,7 @@ La "Piedra Filosofal" forma parte de la tradición de la alquimia y la hechicer�
 Y más del mismo artículo:  
   
 
-> **"La piedra filosofal está conectada con la alquimia, una práctica oculta que combinaba la exploración de los minerales con prácticas gnósticas de brujería que buscaban convertir el metal básico en oro y, a través de eso, lograr una transformación espiritual interna.****La alquimia es definida por un ocultista como "el proceso de la transmutación y purificación** **del alma a través de la disciplina de purificar y combinar materiales físicos y químicos que son simbólicos de transformaciones espirituales", y la Piedra Filosofal era una "metáfora de la mente iluminada" y "la primera sustancia de la cual derivan todos los otros metales ", (Whitcomb, 485, 527).**
+> **"La piedra filosofal está conectada con la alquimia, una práctica oculta que combinaba la exploración de los minerales con prácticas gnósticas de brujería que buscaban convertir el metal básico en oro y, a través de eso, lograr una transformación espiritual interna.La alquimia es definida por un ocultista como "el proceso de la transmutación y purificación del alma a través de la disciplina de purificar y combinar materiales físicos y químicos que son simbólicos de transformaciones espirituales", y la Piedra Filosofal era una "metáfora de la mente iluminada" y "la primera sustancia de la cual derivan todos los otros metales ", (Whitcomb, 485, 527).**
 
   
 Este inglés, resulta que también tiene un Urim y Thummim, y también busca augurios. También busca el "lenguaje universal" (70). También habla del Alma del Mundo, diciendo que "Cuando quieres algo con todo tu corazón, es cuando estás más cerca del Alma del Mundo. Siempre es una fuerza positiva "(78). Él continúa diciendo que todo tiene un alma, incluyendo la tierra, y que "somos parte de esa alma" (79). Más tarde, el pastor se da cuenta de que todo esto es "cierto".  
@@ -218,7 +218,7 @@ Además, en la Biblia, Melquisedec significa "sacerdote del Dios Altísimo", y S
 > \-ROMANOS 5: 1
 
   
-**"Porque si, siendo enemigos, fuimos reconciliados con Dios por la muerte de Su Hijo, mucho más, habiendo sido reconciliados, seremos salvos por Su vida." - Romanos 5:10  
+"Porque si, siendo enemigos, fuimos reconciliados con Dios por la muerte de Su Hijo, mucho más, habiendo sido reconciliados, seremos salvos por Su vida." - Romanos 5:10  
 
 ##   
 Apéndice

@@ -35,7 +35,7 @@ Cuando se hacen intentos de este tipo, se puede canalizar un poder, pero no es d
 
 > “A Jesús de Nazaret, como le ungió Dios del Espíritu Santo, y de poder, el cual pasó haciendo bienes, y sanando a todos los oprimidos del diablo; porque Dios era con él.”
 
-**El poder de Dios no venía a través de una técnica o enseñanza secreta, sino desde la persona de Jesucristo como un aspecto de su deidad. Es la autoridad de Cristo sobre la enfermedad lo que Él les dio a los discípulos, no una enseñanza oculta.  
+El poder de Dios no venía a través de una técnica o enseñanza secreta, sino desde la persona de Jesucristo como un aspecto de su deidad. Es la autoridad de Cristo sobre la enfermedad lo que Él les dio a los discípulos, no una enseñanza oculta.  
   
 Esta autoridad sobre la enfermedad era solo un aspecto de su poder y autoridad como Hijo de Dios. También demostrando autoridad sobre la muerte (Mateo 9:23-26; Juan 11:43-45).  
   

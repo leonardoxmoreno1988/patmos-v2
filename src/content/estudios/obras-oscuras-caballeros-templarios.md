@@ -57,7 +57,7 @@ En el camino, hordas codiciosas asesinaron a innumerables musulmanes y judíos c
   
 En Los Monjes de la Guerra, el investigador Desmond Seward narra los eventos de estos trágicos días:  
   
-**> “Jerusalén fue asaltada en julio de 1099. La ferocidad rabiosa de su saco mostró cuán poco había logrado la Iglesia cristianizar los instintos atávicos. Toda la población de la Ciudad Santa fue atacada, tanto judíos como musulmanes, 70,000 hombres, mujeres y niños perecieron en un holocausto que se prolongó durante tres días. En algunos lugares, los hombres vadeaban con sangre hasta los tobillos y los jinetes se salpicaban con ella mientras cabalgaban por las calles.”** La primera cruzada terminó con la caída de Jerusalén en 1099. Después de 460 años de dominio musulmán, La Tierra Santa quedó bajo el control cristiano. Los cruzados establecieron un reino que se extendía desde Palestina hasta Antioquía e hizo de Jerusalén su capital.  
+> “Jerusalén fue asaltada en julio de 1099. La ferocidad rabiosa de su saco mostró cuán poco había logrado la Iglesia cristianizar los instintos atávicos. Toda la población de la Ciudad Santa fue atacada, tanto judíos como musulmanes, 70,000 hombres, mujeres y niños perecieron en un holocausto que se prolongó durante tres días. En algunos lugares, los hombres vadeaban con sangre hasta los tobillos y los jinetes se salpicaban con ella mientras cabalgaban por las calles.” La primera cruzada terminó con la caída de Jerusalén en 1099. Después de 460 años de dominio musulmán, La Tierra Santa quedó bajo el control cristiano. Los cruzados establecieron un reino que se extendía desde Palestina hasta Antioquía e hizo de Jerusalén su capital.  
   
 A partir de entonces, los cruzados comenzaron a luchar para establecerse en el Medio Oriente. Pero para mantener el estado que habían fundado, necesitaban organizarse y, para lograrlo, establecieron órdenes militares sin precedentes. Los miembros de estas órdenes habían emigrado de Europa y, en Palestina, vivían una especie de vida monástica. Al mismo tiempo, se entrenaron para la guerra contra los musulmanes. Una de estas órdenes fue por una ruta diferente, experimentando un cambio que alteraría significativamente el curso de la historia en Europa y, eventualmente, en el mundo: los Caballeros Templarios.  
   
@@ -295,9 +295,9 @@ A pesar de la afirmación del papado de que los templarios habían sido aniquila
   
   
 
-> **“Hay algunas razones importantes por las que esto \[que los Caballeros Templarios fueron a Suiza después de su liquidación\] probablemente haya sido el caso. Por ejemplo:  
+> “Hay algunas razones importantes por las que esto \[que los Caballeros Templarios fueron a Suiza después de su liquidación\] probablemente haya sido el caso. Por ejemplo:  
 >   
-> **
+>
 > 
 > 1.  **La fundación de la Suiza embrionaria se ajusta exactamente al período en que los templarios fueron perseguidos en Francia.**
 > 2.  **Suiza está justo al este de Francia y habría sido particularmente fácil para los hermanos templarios que huían de toda la región de Francia.**

@@ -24,7 +24,7 @@ Quienes están arriba de la TVA son los "Guardianes del Tiempo". Tres entidades 
 > "Porque tres son los que dan testimonio en el cielo: el Padre, el Verbo y el Espíritu Santo; y estos tres son uno."  
 > –1 Juan 5:7
 
-**Cuando Loki es arrestado, una secuencia de eventos lo lleva a aliarse con algunos miembros de la TVA y descubren que toda la organización fue engañada, ya que [los guardianes del tiempo](https://areajugones.sport.es/series/loki-quienes-son-los-guardianes-del-tiempo-que-se-mencionan-en-el-capitulo-1/) son en realidad la fachada de un ser superior.  
+Cuando Loki es arrestado, una secuencia de eventos lo lleva a aliarse con algunos miembros de la TVA y descubren que toda la organización fue engañada, ya que [los guardianes del tiempo](https://areajugones.sport.es/series/loki-quienes-son-los-guardianes-del-tiempo-que-se-mencionan-en-el-capitulo-1/) son en realidad la fachada de un ser superior.  
   
 Esta es una alegoría de la rebelión de Satanás en los cielos, engañando a otros ángeles para dar un golpe de estado a Dios (Revelación 12:3-4). Loki logra con éxito "despertar" a varios miembros de la TVA, quienes eran en realidad personas secuestradas, con los recuerdos de sus vidas pasadas eliminados.
 
@@ -44,7 +44,7 @@ Al final, Loki y Sylvie llegan a la fuente original de la sagrada línea del tie
 > "Mas tú, SEÑOR, permaneces para siempre, y tu nombre por todas las generaciones."  
 > –Salmos 102:12
 
-**Sylvie asesina a "Aquel que permanece", pero todo era parte de su plan, ya que él sigue viviendo en otros tiempos y otras variantes. Su muerte solo protege la linea de tiempo original y destruye las otras.  
+Sylvie asesina a "Aquel que permanece", pero todo era parte de su plan, ya que él sigue viviendo en otros tiempos y otras variantes. Su muerte solo protege la linea de tiempo original y destruye las otras.  
   
 La serie promueve el concepto que tanto el pasado como el futuro están conectados, de tal forma que la realidad es una serie de eventos circulares sin fin. Esta es una enseñanza de las escuelas de misterio, muchas veces representado con el símbolo satánico del [Ouroboros](https://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html). La serpiente mordiendo su cola.  
   
@@ -61,12 +61,12 @@ Usando milagros y señales, Loki sujeta todas las ramas del tiempo, dándoles vi
 > "el cual se opone y se exalta sobre todo lo que se llama dios o es objeto de culto, de manera que se sienta en el templo de Dios, presentándose como si fuera Dios."  
 > –2 Tesalonicenses 2:4
 
-**Al ocupar el trono y sostener todas las ramas del tiempo, el personaje se hace un falsificador de Jesucristo, un imitador del Salvador, quien es el que verdaderamente sostiene todas las cosas que conocemos.  
+Al ocupar el trono y sostener todas las ramas del tiempo, el personaje se hace un falsificador de Jesucristo, un imitador del Salvador, quien es el que verdaderamente sostiene todas las cosas que conocemos.  
 
 > "el cual, siendo el resplandor de su gloria, y la imagen misma de su sustancia, y quien sustenta todas las cosas con la palabra de su poder, habiendo efectuado la purificación de nuestros pecados por medio de sí mismo, se sentó a la diestra de la Majestad en las alturas,"  
 > –Hebreos 1:3
 
-**En su objetivo de salvar todas las realidades alternas, Loki y sus aliados manipulan [la tecnología](https://www.ritualypropaganda.com/2023/05/inteligencia-artificial-2.html), la magia y la ciencia (Daniel 12:4) como uno solo, lo que expone como estos tres elementos evolucionarán como parte de las señales de los tiempos finales.  
+En su objetivo de salvar todas las realidades alternas, Loki y sus aliados manipulan [la tecnología](https://www.ritualypropaganda.com/2023/05/inteligencia-artificial-2.html), la magia y la ciencia (Daniel 12:4) como uno solo, lo que expone como estos tres elementos evolucionarán como parte de las señales de los tiempos finales.  
   
 En resumen, usando este tipo de series de ficción, Satanás justifica su deseo de sentarse en el trono de Dios (Isaías 14:13-15). Sin embargo, sabemos que, al igual que Loki, él es solo el dios del engaño y la mentira (Juan 8:44).  
   

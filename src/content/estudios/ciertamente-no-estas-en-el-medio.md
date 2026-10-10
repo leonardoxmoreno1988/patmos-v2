@@ -32,7 +32,7 @@ Esta escena nos muestra dos cosas, primero que la salvación no es por obras, es
 > "Entónces Jesús le dijo: De cierto te digo, que hoy estarás conmigo en el paraiso."  
 > –Lucas 23:43
 
-**Y segundo, que estamos a la derecha o a la izquierda del Señor, ciertamente nadie está en el medio. Somos salvos o no lo somos, miramos a Jesús como Señor y Salvador o solo lo traspasamos.  
+Y segundo, que estamos a la derecha o a la izquierda del Señor, ciertamente nadie está en el medio. Somos salvos o no lo somos, miramos a Jesús como Señor y Salvador o solo lo traspasamos.  
   
 En ese pequeño monte llamado Gólgota, donde los romanos ejecutaban a sus criminales, Dios tipificó lo que millones de seres humanos tenemos que enfrentar, la decisión de quién es Jesucristo en nuestra vida.  
   

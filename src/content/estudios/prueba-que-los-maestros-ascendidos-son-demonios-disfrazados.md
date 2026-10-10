@@ -86,7 +86,7 @@ Así que la idea de los maestros ascendidos salió por primera vez de una escuel
 En las páginas 32-33 de Iniciación, Solar y Humana (que fue canalizada a Alice Bailey por la Maestra Ascendida Djwal Kuhl) ella habla sobre dónde están ubicados estos maestros y cómo vinieron aquí en primer lugar.  
   
 
-> **"Después del gran descenso de las Existencias Espirituales (los Maestros) a la tierra, el trabajo que planeaban hacer fue sistematizado. Las oficinas se repartieron y los procesos de evolución en todos los departamentos de la naturaleza fueron llevados bajo la sabiduría consciente de esta Hermandad inicial.****Esta Jerarquía de Hermanos de Luz sigue existiendo, y la obra va continuamente. Están todos en existencia física, ya sea en cuerpos físicos densos, como muchos de los Maestros emplean, o en cuerpos etéricos, como los más exaltados ayudantes y el Señor del Mundo ocupan.****Varios de los Maestros en cuerpos físicos habitan en las montañas del Himalaya, en un lugar aislado llamado Shigatse, lejos de los caminos de los hombres, pero la mayor parte están dispersos por todo el mundo, habitando en diferentes lugares de las diversas naciones, desconocidos y ocultos , Pero formando cada uno en su propio lugar, un punto focal para la energía del Señor del Mundo".**
+> **"Después del gran descenso de las Existencias Espirituales (los Maestros) a la tierra, el trabajo que planeaban hacer fue sistematizado. Las oficinas se repartieron y los procesos de evolución en todos los departamentos de la naturaleza fueron llevados bajo la sabiduría consciente de esta Hermandad inicial.Esta Jerarquía de Hermanos de Luz sigue existiendo, y la obra va continuamente. Están todos en existencia física, ya sea en cuerpos físicos densos, como muchos de los Maestros emplean, o en cuerpos etéricos, como los más exaltados ayudantes y el Señor del Mundo ocupan.Varios de los Maestros en cuerpos físicos habitan en las montañas del Himalaya, en un lugar aislado llamado Shigatse, lejos de los caminos de los hombres, pero la mayor parte están dispersos por todo el mundo, habitando en diferentes lugares de las diversas naciones, desconocidos y ocultos , Pero formando cada uno en su propio lugar, un punto focal para la energía del Señor del Mundo".**
 
   
 El Señor del Mundo en las Enseñanzas de los Maestros Ascendidos es Sanat Kumara, el fundador de la Gran Hermandad Blanca y el gobernante sobre todo el plano etérico. La única entidad espiritual a la que se refiere de tal manera en la Biblia es el mismo Satanás, a quien Pablo llama "el dios de este mundo" (2 Cor.4: 4), y Jesús se refiere a Satanás como el "gobernante de este Mundo" 3 veces distintas (Jn.12: 31; 14:30; 16:11).  
@@ -182,7 +182,7 @@ Y según el famoso maestro de esoterismo y maestro ascendido **[Benjamin Creme](
   
 Aparentemente, el Maestro Jesús y Sanat Kumara, el Señor del Mundo (aka Satanás), aparecieron a los Mayas en forma de una serpiente alada que parecía un dragón y quería sacrificios de sangre humana. ¿Somos lo suficientemente ingenuos como para pensar que esto no es demoníaco?  
 
-Esta ridícula doctrina enseña que Jesucristo vivió un total de al menos 10 veces diferentes en la tierra.** Como enseña el modelo de los Maestros Ascendidos, él es simplemente "el Cristo" que es un maestro cósmico del sexto grado que ha vivido 10 vidas tratando de ayudar a la gente a ascender. La misión de Satanás de alejar a la gente del verdadero Jesús (su única amenaza) está completa con las enseñanzas de los maestros ascendidos.  
+Esta ridícula doctrina enseña que Jesucristo vivió un total de al menos 10 veces diferentes en la tierra. Como enseña el modelo de los Maestros Ascendidos, él es simplemente "el Cristo" que es un maestro cósmico del sexto grado que ha vivido 10 vidas tratando de ayudar a la gente a ascender. La misión de Satanás de alejar a la gente del verdadero Jesús (su única amenaza) está completa con las enseñanzas de los maestros ascendidos.  
 
 ##   
 Las Enseñanzas de los Ángeles Caídos
@@ -194,7 +194,7 @@ Las Enseñanzas de los Ángeles Caídos
   
 He aquí un breve vistazo a algunos de los temas malignos omnipresentes en las obras de Alice Bailey, que fueron canalizadas a ella por un Maestro Ascendido de la Gran Hermandad Blanca. **[Djwal Khul](https://en.wikipedia.org/wiki/Djwal_Khul)** es el "maestro" que transmitió 24 libros a Alice Bailey, todos los cuales fueron publicados bajo "Lucis Trust", que anteriormente se llamaba Lucifer Publishing Company. Vamos a ver lo que estos ángeles caídos tienen que decir:  
 
-Eugenesia**  
+Eugenesia  
   
 "El énfasis en el futuro cambiará de la urgencia de producir familias grandes a la de producir calidad e inteligencia en la descendencia. Esto incluirá aquella ciencia de la que la eugenesia es una indicación distorsionada y exotérica."- Educación en la Nueva Era, p. 133-134  
   
@@ -220,16 +220,16 @@ Bailey dijo que la "nueva raza" se distinguirá por "un estado de conciencia que
   
 "Una de las cosas que ocurrirá -cuando la nueva religión universal tenga influencia y la naturaleza del esoterismo- será la utilización de los organismos esotéricos congregados, el organismo masónico y el organismo de la Iglesia como centros iniciadores. Estos tres grupos convergen a medida que se acercan a sus santuarios interiores. No hay disociación entre la Iglesia Universal Única, la sagrada Logia interior de todos los verdaderos Masones y los círculos más íntimos de las sociedades esotéricas ". La Externalización de la Jerarquía, pág. 513  
 
-Pro Guerra**  
+Pro Guerra  
   
 Las siguientes citas fueron en referencias a la Segunda Guerra Mundial y lo que estaba pasando en Alemania nazi:  
   
 
 > [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIhzN3_Ao61k7gaWneBoaKhPINlmAEIMEL2bcf_LCWmfQKcgviRXCU5N8qZzg4MWhwcKX-CaNLxQsfcyLNegj63LWfoc4DZgSynHHMa9g3TqDLlNkQauUxwhy4Imanc1IWijg3jAADKs/s1600/holocaust-300x229.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIhzN3_Ao61k7gaWneBoaKhPINlmAEIMEL2bcf_LCWmfQKcgviRXCU5N8qZzg4MWhwcKX-CaNLxQsfcyLNegj63LWfoc4DZgSynHHMa9g3TqDLlNkQauUxwhy4Imanc1IWijg3jAADKs/s1600/holocaust-300x229.jpg)
 > 
-> **"Hoy estamos viendo la muerte de una civilización o ciclo de encarnación de la humanidad. En todos los ámbitos de la expresión humana se ha puesto en marcha a la cristalización y el deterioro... hay en todas partes un grito de cambio para esas nuevas formas en la vida religiosa, política, educativa y económica de la raza que permitirá una expresión espiritual más libre y mejor.****Tal cambio está llegando rápidamente y es considerado por algunos como la muerte - terrible que debe evitarse si es posible. Es efectivamente la muerte, pero es beneficiosa y necesaria ". La Externalización de la Jerarquía, pág. 105**
+> **"Hoy estamos viendo la muerte de una civilización o ciclo de encarnación de la humanidad. En todos los ámbitos de la expresión humana se ha puesto en marcha a la cristalización y el deterioro... hay en todas partes un grito de cambio para esas nuevas formas en la vida religiosa, política, educativa y económica de la raza que permitirá una expresión espiritual más libre y mejor.Tal cambio está llegando rápidamente y es considerado por algunos como la muerte - terrible que debe evitarse si es posible. Es efectivamente la muerte, pero es beneficiosa y necesaria ". La Externalización de la Jerarquía, pág. 105**
 
-> **"El dolor siempre ha sido el agente purificador, empleado por los Señores del Destino, para lograr la liberación. El dolor acumulado de la guerra actual y el dolor heredado de la etapa anterior (iniciada en 1914) está produciendo una conciencia mundial saludable y cambiante.****El Señor del Dolor ha descendido de Su trono y está pisando los caminos de la tierra de hoy, trayendo angustia, agonía y terror a aquellos que no pueden interpretar sus fines ". La Externalización de la Jerarquía, pág. 114-115**
+> **"El dolor siempre ha sido el agente purificador, empleado por los Señores del Destino, para lograr la liberación. El dolor acumulado de la guerra actual y el dolor heredado de la etapa anterior (iniciada en 1914) está produciendo una conciencia mundial saludable y cambiante.El Señor del Dolor ha descendido de Su trono y está pisando los caminos de la tierra de hoy, trayendo angustia, agonía y terror a aquellos que no pueden interpretar sus fines ". La Externalización de la Jerarquía, pág. 114-115**
 
   
 Después de que terminó la Segunda Guerra Mundial, ella dijo que "todos sus horrores indecibles, sus crueldades y sus desastres catastróficos - no era más que la escoba del Padre de todos, barriendo las obstrucciones en el camino para Su Hijo que regresaba". 619  
