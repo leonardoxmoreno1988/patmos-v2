@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import {
   HOUSE_AUTHOR,
-  formatEstudioDate,
+  formatEstudioDateFeatured,
   formatEstudioDateShort,
   normalizeSearch,
   type EstudioSummary,
@@ -252,25 +252,6 @@ function TagChip({
   );
 }
 
-/** Full metadata block of the featured card: author, date, reading time and last update. */
-function EstudioMeta({ post }: { post: EstudioSummary }) {
-  return (
-    <>
-      <p className="font-medium text-foreground/80">{post.author}</p>
-      <p>
-        <time dateTime={post.date}>{formatEstudioDate(post.date)}</time>
-        {" · "}
-        {post.readingMinutes} min de lectura
-      </p>
-      {post.updated ? (
-        <p>
-          Actualizado el <time dateTime={post.updated}>{formatEstudioDate(post.updated)}</time>
-        </p>
-      ) : null}
-    </>
-  );
-}
-
 function FeaturedEstudio({ post }: { post: EstudioSummary }) {
   return (
     <Link
@@ -286,20 +267,26 @@ function FeaturedEstudio({ post }: { post: EstudioSummary }) {
         />
       ) : null}
       <div
-        className={`flex flex-col justify-center p-6 sm:p-8 ${post.image ? "" : "md:col-span-2"}`}
+        className={`flex flex-col justify-center p-6 sm:p-10 lg:p-12 ${post.image ? "" : "md:col-span-2"}`}
       >
         <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
           Último estudio{post.tags[0] ? ` · ${post.tags[0]}` : ""}
         </p>
-        <h2 className="mt-3 text-2xl font-bold leading-tight tracking-tight text-foreground group-hover:underline group-hover:underline-offset-4 sm:text-3xl">
+        <h2 className="mt-4 text-2xl font-bold leading-tight tracking-tight text-foreground/85 transition-colors duration-150 group-hover:text-foreground sm:text-3xl">
           {post.title}
         </h2>
-        <p className="mt-3 text-base leading-relaxed text-muted-foreground">{post.description}</p>
-        <div className="mt-5 space-y-0.5 text-sm text-muted-foreground">
-          <EstudioMeta post={post} />
-        </div>
-        <span className="mt-6 inline-flex items-center gap-1.5 text-sm font-medium text-foreground">
-          Leer estudio{" "}
+        <p className="mt-4 max-w-prose text-base leading-relaxed text-muted-foreground">
+          {post.description}
+        </p>
+        <p className="mt-6 text-sm text-muted-foreground">
+          <span className="font-medium text-foreground/80">{post.author}</span>
+          {" · "}
+          {post.readingMinutes} min de lectura
+          {" · "}
+          <time dateTime={post.date}>{formatEstudioDateFeatured(post.date)}</time>
+        </p>
+        <span className="mt-8 inline-flex items-center gap-1.5 text-sm font-medium text-foreground">
+          Leer estudio
           <ArrowRight className="size-4 transition-transform group-hover:translate-x-0.5" />
         </span>
       </div>
@@ -317,7 +304,7 @@ function EstudioCard({ post }: { post: EstudioSummary }) {
       {post.tags.length > 0 ? (
         <p className="mb-2 text-xs font-medium text-muted-foreground">{post.tags.join(" · ")}</p>
       ) : null}
-      <h2 className="text-lg font-semibold leading-snug text-foreground group-hover:underline group-hover:underline-offset-4">
+      <h2 className="text-lg font-semibold leading-snug text-foreground/85 transition-colors duration-150 group-hover:text-foreground">
         {post.title}
       </h2>
       <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-muted-foreground">

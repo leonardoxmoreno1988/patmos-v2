@@ -39,6 +39,14 @@ const SHORT_DATE_FORMAT = new Intl.DateTimeFormat("es", {
   timeZone: "UTC",
 });
 
+/** "2026-07-05" -> "5 de julio, 2026" (featured card) */
+export const formatEstudioDateFeatured = (date: string) => {
+  const parts = Object.fromEntries(
+    DATE_FORMAT.formatToParts(new Date(`${date}T00:00:00Z`)).map((p) => [p.type, p.value]),
+  );
+  return `${parts["day"]} de ${parts["month"]}, ${parts["year"]}`;
+};
+
 /** "2026-07-05" -> "5 jul 2026" */
 export const formatEstudioDateShort = (date: string) =>
   SHORT_DATE_FORMAT.format(new Date(`${date}T00:00:00Z`));
