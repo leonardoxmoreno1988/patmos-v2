@@ -94,10 +94,9 @@ export function estudiosPlugin(): Plugin {
     },
     load(id) {
       if (id === `\0${LIST_ID}` || id === `\0${SEARCH_ID}`) {
-        const files = estudioFiles();
-        this.addWatchFile(ESTUDIOS_DIR);
-        for (const file of files) this.addWatchFile(file);
-        const compiled = files.map((file) => compile(file, renderer()));
+        // No addWatchFile here: in dev, watched files are recorded as imports of this module, and
+        // import analysis fails on the directory. configureServer below handles reloading instead.
+        const compiled = estudioFiles().map((file) => compile(file, renderer()));
         if (id === `\0${SEARCH_ID}`) {
           const index = Object.fromEntries(
             // Search matches each term separately, so each post's unique words are enough.
@@ -119,15 +118,21 @@ export function estudiosPlugin(): Plugin {
       }
       return undefined;
     },
-    handleHotUpdate({ file, server }) {
-      if (!file.startsWith(ESTUDIOS_DIR)) return;
-      render = undefined; // slugs or redirects may have changed
-      for (const id of [`\0${LIST_ID}`, `\0${SEARCH_ID}`]) {
+    configureServer(server) {
+      // The listing and search index depend on every post, including ones added or deleted later.
+      const refresh = (file: string) => {
+        if (!file.startsWith(ESTUDIOS_DIR) || !file.endsWith(".md")) return;
+        render = undefined; // slugs or redirects may have changed
         for (const env of Object.values(server.environments)) {
-          const mod = env.moduleGraph.getModuleById(id);
-          if (mod) env.moduleGraph.invalidateModule(mod);
+          for (const id of [`\0${LIST_ID}`, `\0${SEARCH_ID}`]) {
+            const mod = env.moduleGraph.getModuleById(id);
+            if (mod) env.moduleGraph.invalidateModule(mod);
+          }
         }
-      }
+        server.ws.send({ type: "full-reload" });
+      };
+      server.watcher.add(ESTUDIOS_DIR);
+      server.watcher.on("add", refresh).on("change", refresh).on("unlink", refresh);
     },
   };
 }
