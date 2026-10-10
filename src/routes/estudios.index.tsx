@@ -190,6 +190,7 @@ function EstudiosIndex() {
             title="Profundiza con Patmos"
             description="Lee la Reina-Valera 1865 con notas de estudio capítulo por capítulo, y haz tus preguntas exegéticas y proféticas al asistente de IA."
             showAssistant
+            showIcon
           />
         </div>
 
