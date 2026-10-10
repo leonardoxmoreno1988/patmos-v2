@@ -219,7 +219,6 @@ export const es = {
     coverAlt: (title: string) => `Portada de "${title}"`,
   },
   footer: {
-    notesBy: "Notas de Estudio por",
     rights: "Todos los derechos reservados.",
   },
 };

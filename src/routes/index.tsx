@@ -205,16 +205,14 @@ function Home() {
 
    <footer className="border-border py-8 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm">
     <div className="mx-auto max-w-6xl px-6">
-     © 2026 {t.footer.notesBy}{" "}
-     <a
-      href="https://www.ritualypropaganda.com/"
-      target="_blank"
-      rel="noopener noreferrer"
+     © Patmos 2026 ·{" "}
+     <Link
+      to="/estudios"
       className="font-medium text-foreground underline underline-offset-2 transition-opacity hover:opacity-80"
      >
-      Leonardo Moreno
-     </a>
-     . {t.footer.rights}
+      Blog de estudios
+     </Link>{" "}
+     · {t.footer.rights}
     </div>
    </footer>
   </div>

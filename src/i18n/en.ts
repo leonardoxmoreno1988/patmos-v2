@@ -220,7 +220,6 @@ export const en: Dictionary = {
     coverAlt: (title: string) => `Cover of "${title}"`,
   },
   footer: {
-    notesBy: "Study Notes by",
     rights: "All rights reserved.",
   },
 };
