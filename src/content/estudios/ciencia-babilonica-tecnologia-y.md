@@ -205,7 +205,3 @@ Nunca en la historia el mundo ha estado en un precipicio de esta naturaleza; pue
 Nuestra esperanza debe ser que, en medio de esto, hombres y mujeres se despierten y vean los tiempos traicioneros en los que vivimos, y reaccionen en contra de ellos. La única manera de que el hombre se convierta en "Overman", es encontrar la salvación en Jesús, así podrá entregar su carne y sus deseos de pecado, vivir para Cristo y encontrar, como consecuencia, la verdadera vida.  
   
 Gracias por leer _Ciencia Babilónica_, espero que este artículo le hayan proporcionado información útil sobre las ciencias emergentes y como podrían ser usadas contra los cristianos en los tiempos finales. No olvide compartir este material con sus familiares y cercanos.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

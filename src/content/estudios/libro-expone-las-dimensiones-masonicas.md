@@ -63,8 +63,4 @@ Otro dato que he aprendido de Dionisi: la terriblemente sangrienta batalla de Ok
 
 De su libro usted aprenderá por qué Pyongyang se convirtió en la capital de Corea del Norte comunista, y por qué las acusaciones de espionaje fueron niveladas contra el Dr. Robert Oppenheimer (líder científico del Proyecto Manhattan.) Oppenheimer y otros, citando a Dionisi: "fueron engañados para creer que las bombas atómicas serían detonadas sobre objetivos militares, lo que limita las bajas civiles... Hablando con el presidente Truman después de que Nagasaki haya sido destruida, Oppenheimer le dijo: "señor Presidente, siento que tengo sangre en mis manos". La Hermandad de la Muerte odiaba a Oppenheimer por oponerse más tarde a la bomba de hidrógeno y destruyeron su carrera haciendo los arreglos para que se le acusara de espiar para la Unión Soviética".  
   
-También aprenderá acerca de los prisioneros de guerra estadounidenses que murieron en Nagasaki. Y asegúrese de leer sus notas finales. A diferencia de la mayoría de las notas finales, que son aburridas recitaciones de los nombres de los editores y fechas, las de Dionisi están cargadas de información colateral; que constituyen un "libro dentro de un libro."  
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+También aprenderá acerca de los prisioneros de guerra estadounidenses que murieron en Nagasaki. Y asegúrese de leer sus notas finales. A diferencia de la mayoría de las notas finales, que son aburridas recitaciones de los nombres de los editores y fechas, las de Dionisi están cargadas de información colateral; que constituyen un "libro dentro de un libro."

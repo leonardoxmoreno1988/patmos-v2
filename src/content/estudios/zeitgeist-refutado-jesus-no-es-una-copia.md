@@ -212,7 +212,4 @@ En el video a continuación, examinamos un tercer argumento en contra de esta no
   
 10) Bart Ehrman, Conferencia de la Fundación Libertad de la Religión, 2014, YouTube, 51:50 - 52:06  
   
-11) Ludemann, G. La resurrección de Cristo: una investigación histórica, 2004, p 50  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+11) Ludemann, G. La resurrección de Cristo: una investigación histórica, 2004, p 50

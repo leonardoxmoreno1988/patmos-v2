@@ -403,8 +403,3 @@ y el último álbum de Cristina Aguilera...
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5ToMrEim3c34h_tW0hnSzMiiCDjbtZ-j0l8vErIc0kpiDPhHG3R01fnlx756Dg-qIqh7xZUu5AHD6obvKUZs1ayFM6URjsnPh1pMjKFlyMckMb8LgVrSvtT7fcVdY2z3lb3Gg742hZRAk/s320/christina_aguilera_bionic_album_cover1-e1271540931620.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5ToMrEim3c34h_tW0hnSzMiiCDjbtZ-j0l8vErIc0kpiDPhHG3R01fnlx756Dg-qIqh7xZUu5AHD6obvKUZs1ayFM6URjsnPh1pMjKFlyMckMb8LgVrSvtT7fcVdY2z3lb3Gg742hZRAk/s1600/christina_aguilera_bionic_album_cover1-e1271540931620.jpg)
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

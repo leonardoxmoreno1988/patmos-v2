@@ -118,7 +118,4 @@ Gallagher, R. 2016. _Como psiquiatra, diagnostico enfermedades mentales. Además
 
   
 
-Este artículo fue presentado originalmente en el sitio web de James Bishop y fue utilizado con permiso del autor.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Este artículo fue presentado originalmente en el sitio web de James Bishop y fue utilizado con permiso del autor.

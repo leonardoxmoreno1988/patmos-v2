@@ -171,8 +171,3 @@ Tomando esto como referencia quizás la ceremonia de cierre de las Olimpiadas de
 En conclusión, las Olimpiadas son una una megafiesta mundial que destacó a los mejores deportistas del mundo. También una de las pocas veces donde se une a diferentes países y celebran una misma causa. ¿Existe mejor lugar para promover el nuevo orden mundial y la agenda iluminista? Sé que mientras se desarrollen los futuros eventos esta respuesta se hará más obvia, mientras tanto es importante saber que las intenciones de la élite son el de exteriorizar sus enseñanzas esotéricas al público en general, con el fin de instaurar la única religión mundial.  
   
 ¿Es acaso la iluminación del hombre algo negativo? La respuesta sería: El hombre no necesita iluminación, necesita salvación, no de extraterrestres ni de seres iluminados, sino de Cristo, él único que murió y resucitó para demostrar que tiene poder sobre la muerte. La supuesta iluminación esotérica es una forma de desviar a la humanidad hacia la gnosis y la autosuficiencia del hombre, desvinculándose completamente con su verdadero creador. No existe iluminación buena o mala. Solo la misma que entrego Lúcifer a la humanidad de diversas formas durante millones de años. La Biblia por otro lado hace referencia a ser luz en el mundo, mediante Jesucristo y reconociendo que solo existe un único y omnipotente Dios creador.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

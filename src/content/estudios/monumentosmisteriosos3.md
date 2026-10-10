@@ -486,7 +486,3 @@ La misteriosa "Ciudad Perdida" de Sudáfrica: La Ciudad Perdida, también conoci
   
 
 Solo una de las varias piscinas en el Palacio de la Ciudad Perdida.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

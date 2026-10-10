@@ -392,7 +392,3 @@ Que somos amados y conocidos por un Dios personal que envió a Jesús para ser s
 4\. Jayatilleke, K. 1974. El Mensaje del Buda. pag. 105.  
   
 5\. Hagelin, J. 1989. **[Reestructuración de la física desde sus cimientos a la luz de la ciencia védica Maharishi.](http://www.mum.edu/pdf_msvs/v03/hagelin.pdf)**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -291,7 +291,3 @@ El hecho de que las personas se llamen a sí mismos seguidores de Cristo no sign
   
 
 Siguiéndolo o abandonándolo, era una persona llena de compasión, amor y perdón. Él no es el Jesús de las inquisiciones y tampoco era el Mesías de la esclavitud africana. Él es el Jesús del Nuevo Testamento.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

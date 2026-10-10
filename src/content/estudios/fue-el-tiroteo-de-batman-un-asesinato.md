@@ -88,8 +88,3 @@ Como es siempre el caso en estos mega rituales, el caso parece haber sido "anunc
 ¿Fue el rodaje de Batman un mega ritual llevado a cabo por la élite oculta y su apéndice los medios de comunicación? No es posible decirlo con certeza, pero una gran cantidad de la información que está emergiendo lleva a los observadores atentos para darse cuenta y decir: "Hay algo raro acerca de esto". Como es siempre el caso en este tipo de eventos, la "investigación" lo más probable es comenzar y terminar con la proverbial "loco solitario", el psicópata loco hacia el cual todos los dedos se señalaron. ¿Había más gente tirando de sus cuerdas? Tal vez, pero los medios de comunicación siempre muestran las marionetas, nunca los titiriteros.  
   
 Algunos podrían preguntarse: "¿Por qué 'ellos', incluso desean llevar a cabo este tipo de rituales?" De hecho, es bastante difícil de calcular estos eventos sin tener en cuenta "su" modo de pensar, lo que tiene que ver con la magia, el simbolismo, la numerología y el poder de los rituales. Los sacrificios de sangre son la forma más potente de rituales y mientras más personas son testigos y emocionalmente participan en ese ritual, más potencia ganan. En este momento, el mundo entero puso sus ojos hacia la ciudad de Aurora. Y mientras que los ciudadanos indignados de todo el país exigen un culpable a pagar por este horrendo acto, los verdaderos cerebros detrás de él sólo va a sentarse y disfrutar del espectáculo.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

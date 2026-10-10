@@ -47,7 +47,4 @@ Centro para el Progreso Médico y presidente David Daleiden, quien coordinó los
 **¿Que significa eso?**  
   
   
-De ser cierto, eso significa que Planned Parenthood podría estar violando la ley federal conocida como la Ley de Born Alive Infantes Protección que requiere clínicas de aborto, hospitales y otros lugares que hacen abortos para proporcionar atención médica adecuada para un bebé nacido vivo después de un aborto fallido o dado a luz y "dejándolo morir" a propósito. Esa sería una de las posibles formas que "Planificación de la Familia" podría producir un bebé "completamente intacto" para vender a StemExpress para la investigación. La mayoría de los métodos de aborto "convencionales" harían daño al cuerpo del bebé.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+De ser cierto, eso significa que Planned Parenthood podría estar violando la ley federal conocida como la Ley de Born Alive Infantes Protección que requiere clínicas de aborto, hospitales y otros lugares que hacen abortos para proporcionar atención médica adecuada para un bebé nacido vivo después de un aborto fallido o dado a luz y "dejándolo morir" a propósito. Esa sería una de las posibles formas que "Planificación de la Familia" podría producir un bebé "completamente intacto" para vender a StemExpress para la investigación. La mayoría de los métodos de aborto "convencionales" harían daño al cuerpo del bebé.

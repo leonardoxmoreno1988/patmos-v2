@@ -84,8 +84,4 @@ Debido a mi postura pre-tribulacionista, mucho del contenido que se publica sobr
 
 **No olvide compartir el material con sus familiares y cercanos.  
   
-Leonardo M.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Leonardo M.

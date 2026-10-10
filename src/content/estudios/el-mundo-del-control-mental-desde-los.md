@@ -290,8 +290,3 @@ Aunque Kim Noble disfruta de una exposición, la verdadera fuente de la condici�
 En parte por esta razón, el simbolismo utilizado durante la programación Monarca se ha extendido a la industria del entretenimiento en general. Algunas de las estrellas más grandes del mundo son producto del control de la mente. Los mismos símbolos utilizados en la programación de los esclavos Monarca se envía al mundo a través de los medios de comunicación. Un alto nivel de manejadores del control mental y algunos esclavos (los que han "triunfado" en los distintos niveles de programación) terminan operando en el mundo del espectáculo. Algunos de nuestros artistas favoritos no son más que marionetas cuyos hilos son movidos por los manipuladores desde lo invisible.  
   
 Muchos de los símbolos descritos en este sitio tienen su origen en el turbio mundo de la programación Monarca, utilizando un complejo sistema de imágenes de lo oculto y poderosos factores desencadenantes. Aunque la mayoría de nosotros tienen la suerte de no vivir el infierno sufrido por estos esclavos MK, que todavía están sujetos a una forma de programación con películas, televisión o música, aquellos que operan detrás de las escenas intentan de normalizar poco a poco su existencia y su conducta depravada. ¿Por qué los niños son tan agresivamente sexualizados en los medios de comunicación? ¿Es porque la gente en el negocio del entretenimiento está conectada con las personas que cometen los actos horribles retratados arriba? Lamentablemente, la realidad es más enferma que la ficción.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -183,8 +183,3 @@ En conclusión, la película también llega a desarrollarse bajo a la idea del c
   
 
 En resumen, Get Out explora cómo el comportamiento de los liberales blancos que supuestamente "se han movido más allá del racismo" puede no ser tan auténtico como ellos creen. Por otro lado, el film expone una sofisticada técnica de control mental basada en el trauma y satanismo. Una que se sigue aplicando por la élite de sociedades secretas para sus fines egocéntricos y deshumanizantes. Get Out es presentado como la obra maestra de director Jordan Peele, pero detrás de la temática racial, se esconde el de la programación de la élite blanca. La que a fin de cuentas, financia este tipo de película y le entrega el guión a quien sea necesario para el futuro consumo de las masas. Un hecho del que es más difícil huir.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

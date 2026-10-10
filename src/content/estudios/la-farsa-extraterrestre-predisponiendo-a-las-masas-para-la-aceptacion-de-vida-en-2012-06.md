@@ -283,8 +283,3 @@ En este primer artículo vimos como Hollywood trabaja bajo un propósito en cuan
   
 
 Continuará en la parte II del artículo...
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

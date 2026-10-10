@@ -280,7 +280,3 @@ En la década de 1980, la influyente socialista-feminista Alison Jaggar señaló
 Sobre la base de pasajes como Génesis 1:31 y Romanos 8:23, los cristianos pueden afirmar de todo corazón la bondad de la creación. Y eso incluye nuestros cuerpos. De hecho, el cuerpo y todo lo que implica (manos, ojos, piernas, cerebro, huesos) es realmente bueno. Cristo pudo haber resucitado como un fantasma, pero no lo hizo (Lucas 24: 37-39). El cuerpo físico de Cristo fue renovado y transformado. Aquellos de nosotros que estamos unidos a Cristo podemos esperar que nuestro cuerpo físico también se renueve y se transforme, no como algo que se deseche ni como un obstáculo para la verdadera liberación.
 
 Gracias por leer Posgénero, no olvide compartir este material con sus familiares y cercanos.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

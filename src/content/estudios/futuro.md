@@ -48,7 +48,3 @@ En resumen, todas las naciones necesitan volverse al verdadero Dios de la Biblia
 Gracias por leer el newsletter de esta semana. No olvide compartir el material con sus familiares y cercanos.  
   
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

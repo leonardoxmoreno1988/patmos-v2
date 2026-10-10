@@ -277,6 +277,4 @@ A la izquierda, el mágico manofigo o la mano _in fica._ A la derecha hay una se
 
   
 
-El vicioso Michael Chertoff, hijo de un rabino judío, ex fiscal del Departamento de Justicia de los Estados Unidos y muy activo en el grupo anticristiano, ADL, permite a la élite ver quién es él dando el signo de manofigo vulgar y directo. Chertoff fue el Director del departamento de Seguridad Nacional del Presidente George W. Bush. Muchos creen que Chertoff es un activo israelí de la Mossad.  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+El vicioso Michael Chertoff, hijo de un rabino judío, ex fiscal del Departamento de Justicia de los Estados Unidos y muy activo en el grupo anticristiano, ADL, permite a la élite ver quién es él dando el signo de manofigo vulgar y directo. Chertoff fue el Director del departamento de Seguridad Nacional del Presidente George W. Bush. Muchos creen que Chertoff es un activo israelí de la Mossad.

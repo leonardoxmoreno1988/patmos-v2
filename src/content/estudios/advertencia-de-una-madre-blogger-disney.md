@@ -96,7 +96,3 @@ Desde el blog, **indeediam.com** una madre escribe sobre su experiencia personal
 > 
 >    
 > Vergüenza por mi ingenuidad y confianza en el nombre de Disney. Créanme... lección aprendida."
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

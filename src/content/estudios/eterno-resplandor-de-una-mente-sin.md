@@ -249,8 +249,3 @@ Nos quedamos a la pregunta de si van a permanecer juntos en esta ocasión, o si 
 En cuanto a la motivación de la película, no lo sé. Pero, ¿Es acaso una película de control de la mente? Por supuesto.
 
 .
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

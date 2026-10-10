@@ -209,7 +209,3 @@ Es por eso que el apóstol Pablo nos dice que nos pongamos toda la armadura de D
 > \- Efesios 6: 11-18**
 
 Gracias por leer _Madame de la Nueva Era_, no olvide compartir este material con sus familiares y cercanos.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

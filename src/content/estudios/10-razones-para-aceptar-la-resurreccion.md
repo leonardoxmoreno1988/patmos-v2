@@ -155,7 +155,4 @@ Otros reconocerán la naturaleza factual del evento y adorarán a Jesús como el
   
 \[11\] Tácito, Anales XV.  
   
-\[12\] Suetonio, Vidas de los Césares-Claudio 25 y Suetonio, Vidas de los Césares-Nerón 16.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+\[12\] Suetonio, Vidas de los Césares-Claudio 25 y Suetonio, Vidas de los Césares-Nerón 16.

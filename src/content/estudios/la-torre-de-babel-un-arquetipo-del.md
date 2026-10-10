@@ -161,8 +161,3 @@ Jesús no estaba preocupado por el reino de este mundo, él anunciaba las buenas
 
 >   
 > "He aquí, yo estoy a la puerta y llamo; si alguno oye mi voz y abre la puerta, entraré a él, y cenaré con él, y él conmigo." - Apocalipsis 3:20.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

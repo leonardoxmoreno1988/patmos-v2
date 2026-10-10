@@ -80,7 +80,3 @@ Así como Dios juzgó a los constructores originales de Babel, Él hará lo mism
 **No olvide compartir el material con sus familiares y cercanos.  
   
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -56,9 +56,3 @@ Este piso a cuadros es típicamente blanco y negro y se puede encontrar en los p
 Al final de la presentación los espectadores terminan aplaudiendo efusivamente hacia la falsa imagen de Michael Jackson, lo que nos lleva a pensar, ¿Qué es mejor para la élite que crear un icono musical que las masas idolatren? por lo visto en los Billboard 2014... El crear una holograma sin vida que las masas idolatren. Después de todo, mientras más ilusorio y surreal sea la mentira, más convierte al hombre en un ser engañado. Luego de resucitar al "Rey del Pop" esta tecnología promete levantar otros ídolos, posiblemente en su afán por incorporar una futura "imagen de la Bestia".  
 .  
 **.**
-
-  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

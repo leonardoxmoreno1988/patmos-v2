@@ -128,8 +128,3 @@ Teniendo la autoridad del Señor sobre este ser humano que estaba ministrando en
 "A medida que nos unimos en todo el mundo en oración y acción, se crea una poderosa vibración de amor, una frecuencia que libera y sana los corazones de aquellos que todavía tienen que aprender el increíble poder del amor de Cristo. Nos encontramos en la encrucijada de un momento muy importante de elección. En vez de un Gobierno Mundial, podemos crear un solo mundo de curación. "  
   
 Los medios de comunicación ha evitado escrupulosamente este tema tan controvertido y provocador, a pesar de las atrocidades del control mental dirigido contra niños inocentes y que son los secretos más terribles del mundo. Gracias por leer las memorias y decidir por ti mismo. El conocimiento es poder, y los autores de estos crímenes de la humanidad son expuestos - como víctimas de control mental seguiero contar sus historias. la autobiografía de Bob Hope, por cierto, también se llama "Gracias por los Recuerdos", el nombre de su discurso musical. Imagine la confusión en las librerías cuando la gente trate de ordenar su libro y consiguan las memorias Brice Taylor en su lugar.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -228,8 +228,4 @@ Es obvio que como editor de este "disidente" blog, no tengo nada en contra de la
 > 
 > **\- Juan 3:16**
 
-Solo debemos tener ojos para ver y oídos para oír.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Solo debemos tener ojos para ver y oídos para oír.

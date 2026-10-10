@@ -247,7 +247,4 @@ O en la Tabla Esmeralda VI, Thoth convoca a dioses demoníacos: "Por sus nombres
   
 Entonces no es ningún secreto que Thoth es un demonio. Él es conocido como un demonio de alto rango y es evocado por los satanistas y es mencionado por su nombre en los libros de magia satánica. Es mencionado como un demonio de Satanás en la Biblia Satánica, y el mago negro masónico y satanista Aliester Crowley le dedicó un libro completo y una baraja de cartas de tarot.  
   
-Por no mencionar, las culturas que al parecer ayudó a iniciar (de acuerdo con las leyendas pasadas de la Nueva Era) todos ritualmente practicaron brutales sacrificios humanos. Esto se debe a que Thoth, como dios demoníaco del ritual, la magia y la vida después de la muerte, obtiene el poder del sacrificio humano y, en última instancia, quiere que todas las almas sean conducidas a los Salones de Amenti en las llamas eternas en el centro de la tierra. Esto es sólo un engaño demoníaco. Dejaré a Thoth cerrar este artículo y hacer su partida: "Ahora me aparto de ti en la oscuridad. Ahora vé a los Salones de Amenti".  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Por no mencionar, las culturas que al parecer ayudó a iniciar (de acuerdo con las leyendas pasadas de la Nueva Era) todos ritualmente practicaron brutales sacrificios humanos. Esto se debe a que Thoth, como dios demoníaco del ritual, la magia y la vida después de la muerte, obtiene el poder del sacrificio humano y, en última instancia, quiere que todas las almas sean conducidas a los Salones de Amenti en las llamas eternas en el centro de la tierra. Esto es sólo un engaño demoníaco. Dejaré a Thoth cerrar este artículo y hacer su partida: "Ahora me aparto de ti en la oscuridad. Ahora vé a los Salones de Amenti".

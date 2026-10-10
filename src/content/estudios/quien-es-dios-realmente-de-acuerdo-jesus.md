@@ -143,8 +143,4 @@ Esto también se registra en Marcos 7, donde Jesús le dice a los fariseos: "Dej
   
 Así podemos ver claramente en las Escrituras que el Padre es el Dios personal y trascendente del Antiguo Testamento que se reveló al pueblo judío. Por esto no hace falta decir que Jesús creyó que compartió la identificación con Yahweh en algún sentido fundamental, entrando en la doctrina de la trinidad. Algunas declaraciones que Jesús hizo acerca de Él brilla una nueva luz sobre la naturaleza trina de Dios, la cual será discutida extensamente en un artículo futuro.  
   
-Dejando de lado el tema de la Trinidad, Jesús era un monoteísta radical que se aferraba a las escrituras hebreas y creía en el Dios de Israel solo como el único Dios verdadero.  
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Dejando de lado el tema de la Trinidad, Jesús era un monoteísta radical que se aferraba a las escrituras hebreas y creía en el Dios de Israel solo como el único Dios verdadero.

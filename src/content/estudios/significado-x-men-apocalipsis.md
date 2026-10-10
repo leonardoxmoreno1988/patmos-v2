@@ -254,8 +254,3 @@ Al igual que las películas tipo Zeitgesit, X-Men: Apocalipsis hace un gran esfu
 > **"El orgullo del hombre lo humillará, pero el de espíritu humilde obtendrá honores."**
 
 > **\- Proverbios 29:23**
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

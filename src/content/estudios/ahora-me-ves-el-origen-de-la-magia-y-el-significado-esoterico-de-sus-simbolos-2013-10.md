@@ -134,7 +134,3 @@ La Real Academia Española describe la magia como el "arte o ciencia oculta con 
 > "Cuando entres a la tierra que el Señor tu Dios te da, no cometas los mismos actos repugnantes que practican esas naciones. Que no haya en ti nadie que haga pasar a su hijo o a su hija por el fuego, ni nadie que practique la adivinación, ni sea agorero, ni sortílego, ni hechicero, ni encantador, ni adivino, ni mago, ni nadie que consulte a los muertos. Al Señor le repugnan todos los que hacen estas cosas, y precisamente por estos actos repugnantes el Señor tu Dios va a expulsar de tu presencia a estas naciones. Delante del Señor tu Dios debes ser perfecto, porque las naciones de las que vas a tomar posesión prestan oído a los agoreros y a los adivinos, pero a ti el Señor tu Dios no te permite hacer eso." -Deuteronomio 18:9-14
 
 **Todos los que se aliaron con fuerzas espirituales para practicar la magia pudieron disfrutar del reconocimiento temporal en la tierra, pero el costo de perder su alma no sera digno de ver en una película taquillera. La magia, es sin duda, otra herramienta engañosa que Lúcifer ha sabido ofrecer a cambio de poder. En palabras del mismo Daniel Atlas: "¿Qué es la magia? Un engaño enfocado. Pero el engaño destinado a entretener".
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -275,7 +275,3 @@ La frase "Comiéndose a Raoul". proviene de una película de culto clásica sobr
 **Referencias:**  
 
 1.  Rex Hutchens, Un Puente a la Luz (Washington, DC: Consejo Supremo de la Madre, 33 ° del Rito Escocés de la Francmasonería, 1988).
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

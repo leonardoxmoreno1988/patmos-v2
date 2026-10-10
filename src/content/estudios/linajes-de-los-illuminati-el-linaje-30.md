@@ -244,8 +244,3 @@ La cinta fue grabada y silenciosamente sacada de prisión. Después de que mi bo
 ## Resumen
 
 Los Collins han sido revisados, se habló de sus ramas, de su poder ocultista, de su linea generacional, de los casos de disidencia dentro de sus filas, se revisó a profundidad el caso de Jhon Todd y el asesinato de Tom Collins, se habló de una junta secreta de la élite y el poder del que se valen para mantener el culto activo. Se habló del caso de Jhon Todd y cómo mediante un plan elaborado pueden reducir la reputación de una persona a nada y ponerlo en prisión.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

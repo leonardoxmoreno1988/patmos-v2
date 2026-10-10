@@ -43,8 +43,4 @@ Nosotros sabemos que Jesucristo es el único redentor que tenemos ante la profet
   
 No olvide compartir el material con sus familiares y cercanos.  
   
-Leonardo M.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Leonardo M.

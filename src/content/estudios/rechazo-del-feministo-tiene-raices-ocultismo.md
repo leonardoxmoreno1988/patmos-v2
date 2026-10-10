@@ -104,10 +104,4 @@ Mi mujer, que es mexicana todavía tiene algo del Viejo Mundo. Nos conocimos hac
   
 Amor a primer sitio web, su gesto me dijo que estaba preparada para ser útil, para que me ayude.  
   
-¡Una mujer ayuda a un hombre y viceversa! Un concepto extraño en estos días, cuando una antigua conspiración satánica se acerca a su culminación.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:  
-  
-
-pt data-cfasync="false" src="https://assets.ipzmarketing.com/assets/signup\_form/iframe\_v1.js" type="text/javascript">
+¡Una mujer ayuda a un hombre y viceversa! Un concepto extraño en estos días, cuando una antigua conspiración satánica se acerca a su culminación.

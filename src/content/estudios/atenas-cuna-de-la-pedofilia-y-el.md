@@ -110,8 +110,3 @@ Platón los llamó fenicios, pero estos eran fenicios muy peculiares interesados
 Siendo un mentor, la obediencia a un grado un poco más alto donde se practicaba el sacrificio infantil («paidothusis») para clasificar a los candidatos capaces de permanecer estoicos, y sólo aquellos tenían el mandato y la capacidad de impartir su «gnosis » (Traducido incorrectamente como conocimiento, ya que significa contacto oculto directo) por la transmisión anal (la mera transmisión oral del conocimiento se burlaba como incompleta y no daba derecho a ningún poder).  
   
 Hay que señalar que el «paidos» ateniense era excluido de cualquier otro contacto sexual antes de que su iniciación estuviera completa, si en ese proceso se acostaba con una mujer aunque sea una sola noche, se le excluía de toda esperanza de convertirse en ciudadano con derecho a voto. Esto es muy importante mencionar porque la forma futura de "democracia" que el esquema del nuevo orden mundial pretende aplicar a toda la humanidad, si es que tienen éxito, es uno: se le otorgará pleno derecho de ciudadano sólo si ha rendido todo su cuerpo y alma sexualmente, sólo si todo su subconsciente está pre programado.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

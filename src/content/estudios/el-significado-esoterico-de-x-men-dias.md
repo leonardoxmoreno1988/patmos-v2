@@ -220,7 +220,3 @@ Existe un mensaje "pro-paz mundial" que esta diseñado para condicionar a las pe
 > "Ustedes saben muy bien que el día del regreso del Señor llegará cuando menos se lo espere, como un ladrón que llega de noche. Cuando la gente diga: «Todo está en paz y tranquilo», entonces vendrá de repente sobre ellos la destrucción, como le vienen los dolores de parto a una mujer que está encinta; y no podrán escapar. Pero ustedes, hermanos, no están en la oscuridad, para que el día del regreso del Señor los sorprenda como un ladrón. Todos ustedes son de la luz y del día. No somos de la noche ni de la oscuridad; por eso no debemos dormir como los otros, sino mantenernos despiertos y en nuestro sano juicio."
 
 > \- Tesalonicenses 5:1-8
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

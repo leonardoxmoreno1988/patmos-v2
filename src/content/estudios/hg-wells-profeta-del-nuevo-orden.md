@@ -112,8 +112,3 @@ El símbolo oculto del globo alado, símbolo de uso frecuente por el masón Char
 H.G. Wells tenía una fe en sí mismo y una vitalidad que hacía a sus ideas atractivas. Él era muy hábil con la pluma, pero un mal orador. Tuvo relaciones con una cantidad constantes de mujeres interesadas, que emocionalmente lo marcaron en corto plazo. Le dió importancia a los amigos, como el internacional autor Joseph Conrad, pero las mujeres que conquistó simplemente fueron objetos sexuales para él. En esto el lector ve que había incoherencias en este ejemplo, su retórica sobre los derechos de la mujer era una de sus causas, pero no un estilo de vida personal. Tuvo su gran oportunidad en la vida cuando William Ernest Henley creyó en sus habilidades y en 1895 lo ayudó al lanzamiento de su carrera como escritor de ciencia ficción. Dos libros que tenían una gran influencia en Wells como un escritor joven fueron "Republic" (República) de Platón y la sátira de Jonathan Swift "Gulliver's Travels" (Los viajes de Gulliver).  
   
 Wells nos muestra que los "hacedores-de-desiciones" son en realidad guiados por planes futuristas. H.G. Wells fue el centro de lo que los Illuminati estaban haciendo para crear las etapas de desarrollo hacia un gobierno mundial. Que creía en lo que estaba haciendo, no hay duda. Sus posibles actividades ocultas, si se llevaron a cabo, han sido muy bien escondidas. Él era un intelectual práctico cuyos escritos han cambiado nuestro mundo.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -226,7 +226,3 @@ Tras analizar la película y su contexto espiritual, podemos concluir que el men
 Si bien Clark Kent es un personaje ficticio, no cabe duda que cumple con las características de un falso Cristo que vislumbra con diversas señales y prodigios. Pero, ¿A qué se debe la necesidad de crear -consiente o inconscientemente- estas figuras mesiánicas. La compleja verdad es que el mundo no encuentra muy atractivo un Jesús que nació, hablo sobre el arrepentimiento y murió crucificado; El mundo prefiere un Jesús extraterrestre con spandex, que vuela, tiene superfuerza y nunca muere. Si algo ha demostrado la historia es que no existe corazón mas seducido a la idolatría que el del ser humano, creando una inmensa demanda de falsos mesías que fue aprovechada por Satanás y su religión pagana (super héroes, dioses griegos, extraterrestres). El "hombre de acero" no es solo un personaje anticristiano, en su traje bicolor y su escudo alquimista encierra la esencia de la usurpación y el engaño, algo que nos obliga a recordar las palabras de Jesús y hacerlas propias:  
 
 > "He venido en nombre de mi Padre y no me recibiste, más vendrá otro en su propio nombre y a ese sí lo recibirás" -Juan 5:43
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

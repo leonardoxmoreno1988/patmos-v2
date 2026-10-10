@@ -57,7 +57,4 @@ En resumen, la inauguración de esta estatua de Baphomet de 9 pies de altura es 
   
 Baphomet ha sido el ídolo de las sociedades secretas durante más de mil años - desde la época de los Caballeros Templarios. Las sociedades secretas de hoy descienden de los Caballeros Templarios y, literalmente, gobiernan el mundo. Ellos están detrás de las más grandes atrocidades que la humanidad ha cometido, desde guerras injustas a los anillos de abuso sexual infantil, a los sacrificios de sangre para víctimas MKULTRA e incluso cosas que ni siquiera conocemos. La élite oculta es un producto de las familias satánicas multigeneracionales y la filosofía que abrazan les permite profundizar en sus obsesiones sádicas con ninguna repercusión.  
   
-Así que no, no se trata de "racionalidad" y los derechos de las mujeres. Se trata de develar una estatua de Baphomet y lo que es aceptable para las masas.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Así que no, no se trata de "racionalidad" y los derechos de las mujeres. Se trata de develar una estatua de Baphomet y lo que es aceptable para las masas.

@@ -153,7 +153,3 @@ Recomiendo leer: [La Profecía Bíblica y El Nuevo Orden Mundial (Video)](http:
 Debido a la masa de información errónea en Internet y la prensa sobre este tema, es importante responder a estas demandas utilizando fuentes fidedignas. Afortunadamente, hay muchos buenos libros sobre Egipto y Egiptología en las librerías. Pero también hay malas, así que asegúrese de verificar las credenciales del autor antes de comprarlos.  
   
 El estudio del antiguo Egipto ha recorrido un largo camino desde sus inicios en la década de 1800, y los nuevos descubrimientos que se están haciendo aún hoy en día mejora nuestra comprensión de esta materia. Es seguro decir que estos estudios no van a hacer nada para reforzar la supuesta conexión de Jesús-Horus. La mitología de Horus se desarrolló durante un período de 5.000 años, y como resultado puede ser un tema complejo de abordar. Pero usted no tiene que ser un egiptólogo para responder todas estas afirmaciones. Usted sólo tiene que saber dónde buscar las respuestas, y estar al tanto de las fuentes defectuosas a las afirmaciones.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -67,7 +67,3 @@ De la misma forma que Dagón cayó dos veces, siendo la última decapitado. Jesu
 No olvide compartir el material con sus familiares y cercanos.  
   
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

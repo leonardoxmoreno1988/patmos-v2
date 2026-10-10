@@ -58,9 +58,4 @@ Ted Gundersen, un ex agente del FBI que investigó sobre los grupos satánicos e
   
 Bonner, niega excesos, señalando que es la única religión que anima a la gente a ser lo que son, hacen lo que quieren, no hay reglas. Posiblemente esta es una gran atracción para las celebridades.  
   
-Según Wikipedia, Crowley, fue hijo de un millonario galés, Edward Crowley, fallecido en 1886. Pero al quedar huérfano, heredó una gran fortuna, sin embargo, fue criado por dos tías solteras que pertenecían al mismo grupo religioso que sus padres, los Hermanos de Plymouth, una denominación evangélica, conservadora y muy puritana.   
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Según Wikipedia, Crowley, fue hijo de un millonario galés, Edward Crowley, fallecido en 1886. Pero al quedar huérfano, heredó una gran fortuna, sin embargo, fue criado por dos tías solteras que pertenecían al mismo grupo religioso que sus padres, los Hermanos de Plymouth, una denominación evangélica, conservadora y muy puritana.

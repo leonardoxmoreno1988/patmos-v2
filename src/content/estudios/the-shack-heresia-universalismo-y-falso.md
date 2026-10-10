@@ -122,7 +122,4 @@ The Shack, Windblown Media, 2007, pág. 120-121
   
 "Una entrevista con Wm. Paul Young (Parte 2) - Iglesia Comunitaria de Orchard Grove MI - Feb 2017 ", YouTube, 2017  
   
-"Episodio de wretched - El autor de The Shack es universalista", wretched. Youtube. 2009.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+"Episodio de wretched - El autor de The Shack es universalista", wretched. Youtube. 2009.

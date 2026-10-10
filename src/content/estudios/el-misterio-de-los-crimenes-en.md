@@ -105,7 +105,4 @@ Los mensajes de Satanás son, sin duda, absorbidos por el mundo y se utilizan co
 > **"En las tiendas de alquiler de vídeos en todas partes, los empleados notaron una alza en la película The Believers. Cuando las noticias informaron que la película había sido utilizada como una película de reclutamiento de miembros jóvenes del culto de Constanzo, las tiendas tuvieron miles de convocatorias de la película."**
 
   
-Si Hollywood dice que los sacrificios humanos son aceptables, entonces deben ser  aceptable! Tristemente, Mark Kilroy y otros tuvieron que perder la vida como resultado. No permita que su cerebro sea torcido y programado por lo que el mundo define como espectáculos aceptables e inocentes. Pase tiempo con el Señor, aprenda de él y deje que cada día de su vida sea una devoción a Él.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Si Hollywood dice que los sacrificios humanos son aceptables, entonces deben ser  aceptable! Tristemente, Mark Kilroy y otros tuvieron que perder la vida como resultado. No permita que su cerebro sea torcido y programado por lo que el mundo define como espectáculos aceptables e inocentes. Pase tiempo con el Señor, aprenda de él y deje que cada día de su vida sea una devoción a Él.

@@ -108,7 +108,4 @@ En Apocalipsis, Jesús se dirigió a siete iglesias (Apocalipsis 2-3). Algunas d
   
 Mi oración es que varias iglesias basadas en la Biblia crezcan y se expandan, mientras que las iglesias sectarias disminuirán y cesen. Si usted está en una secta, por el bien de usted y sus seres queridos, ¡Salgan! Encuentra una buena iglesia basada en la Biblia en su localidad. Una buena iglesia es una gran bendición y vale la pena el esfuerzo de encontrar.  
   
-Este artículo fue presentado originalmente en Bellator Christi y fue republicado con permiso del autor.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Este artículo fue presentado originalmente en Bellator Christi y fue republicado con permiso del autor.

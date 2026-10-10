@@ -57,7 +57,3 @@ El amanecer de la era atómica significa el final para los gentiles que no esper
 
   
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

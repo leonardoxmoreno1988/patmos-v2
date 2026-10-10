@@ -144,8 +144,3 @@ Como lo dice el título en español, "El Precio del Mañana" es exactamente eso,
   
 
 > "Y adoraron al dragón que había dado autoridad a la bestia, y adoraron a la bestia, diciendo: ¿Quién como la bestia, y quién podrá luchar contra ella?" -Apocalipsis 13:4
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

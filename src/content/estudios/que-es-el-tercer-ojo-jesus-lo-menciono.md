@@ -110,7 +110,3 @@ Jesús simplemente estaba hablando de enfocarse en las cosas eternas y hacer bri
 **1\] _Shakti Parwha Kaur Khalsa, Kundalini Yoga, El flujo del poder eterno_** (Nueva York: The Berkley Publishing Group, 1996) p. 61.  
   
 Este artículo apareció originalmente en _The True Light_ y se volvió a publicar con el permiso del autor.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

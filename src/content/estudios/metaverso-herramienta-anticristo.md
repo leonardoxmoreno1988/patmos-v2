@@ -78,8 +78,4 @@ En conclusión, la construcción del Metaverso no es diferente a otras herramien
   
 No olvide compartir el material con sus familiares y cercanos.  
   
-Leonardo M.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Leonardo M.

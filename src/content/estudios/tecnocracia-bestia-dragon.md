@@ -401,7 +401,3 @@ Para aquellos que realmente valoran su libertad y quieren transmitir un legado p
 > "Y la adoraron todos los moradores de la tierra cuyos nombres no estaban escritos en el libro de la vida del Cordero que fue inmolado desde el principio del mundo." -Apocalipsis 13: 8
 
 Gracias por leer _Tecnocrácia, Teocracia, la Bestia y el Dragón_, no olvide compartir este material con sus familiares y cercanos.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

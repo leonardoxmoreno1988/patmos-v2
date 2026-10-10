@@ -108,7 +108,4 @@ Su nueva conciencia lo lleva al epicentro del circo, colocándose de forma fetal
   
   
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmLz8aTIqXxHPbrLxy2YgQn6yl38T9UzcTAvSWqSHjKyJdT7D23BFravThNIkiX2uFhClHvX9hkn9h6sf3gHrb0Vt3aEbNUXkoy0DJIdq-Rmj7UIv0A4AhiUkeEQlLL0iWilFDsqnq42ua/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmLz8aTIqXxHPbrLxy2YgQn6yl38T9UzcTAvSWqSHjKyJdT7D23BFravThNIkiX2uFhClHvX9hkn9h6sf3gHrb0Vt3aEbNUXkoy0DJIdq-Rmj7UIv0A4AhiUkeEQlLL0iWilFDsqnq42ua/)  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmLz8aTIqXxHPbrLxy2YgQn6yl38T9UzcTAvSWqSHjKyJdT7D23BFravThNIkiX2uFhClHvX9hkn9h6sf3gHrb0Vt3aEbNUXkoy0DJIdq-Rmj7UIv0A4AhiUkeEQlLL0iWilFDsqnq42ua/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmLz8aTIqXxHPbrLxy2YgQn6yl38T9UzcTAvSWqSHjKyJdT7D23BFravThNIkiX2uFhClHvX9hkn9h6sf3gHrb0Vt3aEbNUXkoy0DJIdq-Rmj7UIv0A4AhiUkeEQlLL0iWilFDsqnq42ua/)

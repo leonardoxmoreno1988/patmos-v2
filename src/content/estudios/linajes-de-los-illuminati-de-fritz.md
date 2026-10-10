@@ -242,8 +242,3 @@ La familia Roosevelt estaba conectada con la familia Delano, quienes son una fam
 
 En nuestra revisión sobre los Astors, hemos examinado en detalle la vida temprana de Jhon Jacob Astor y sus conexiones con el satanismo. Hemos analizado tambien a su hijo y a su nieto que liderearon a la familia Astor después de la muerte de Jhon Jacob. Hemos visto mas de su mezquindad y sus conexiones con la corrupción. Hemos visto como el ocultismo y el satanismo estaban altamente enraizados en Inglaterra, incluso antes de que Jhon Jacob llegara al nuevo mundo. Presentamos tres organizaciones principales del ocultismo de los siglos 17 y 18. Hechamos una ojeada a la familia Chanler, una rama de la familia Astor que practica el satanismo. Tambien analizamos como los Roosevelt y los Delano estan asociados con los Astor.  
 .
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

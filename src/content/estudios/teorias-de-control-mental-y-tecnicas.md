@@ -401,7 +401,3 @@ Lippman, Lasswell y Bernays han declarado que el público no está en condicione
 
 > "Si una nación espera ser ignorante y libre, espera lo que nunca fué y nunca será"  
 > \- Thomas Jefferson
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -134,7 +134,3 @@ Hablamos de lobos vestidos de oveja con un interés en el mundo terrenal, el cua
 No olvide compartir el material con sus familiares y cercanos.  
   
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

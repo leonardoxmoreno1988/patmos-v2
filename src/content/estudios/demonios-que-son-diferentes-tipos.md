@@ -109,7 +109,4 @@ Para más información, véase Joe Cathey, _Posesión Demoníaca_, Holman Illust
   
 Este artículo fue presentado originalmente en el sitio web de Brian Chilton y fue utilizado con permiso del autor.  
   
-http://bellatorchristi.com/  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+http://bellatorchristi.com/

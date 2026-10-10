@@ -87,9 +87,4 @@ Básicamente la humanidad es la víctima de un "engaño cruel" de proporciones c
   
 El "Judío de la Cábala" es el banquero central, sus aliados y secuaces. El Judío promedio no sabe nada acerca de este plan. Sin embargo, es un error suponer que porque él no se da cuenta, no existe. Es un error suponer que algún día no va a ser culpado por ello. Todos los grupos y religiones se han subvertido. Ya sean comunistas o sionistas, muchos judíos han sido engañados y manipulados por la judería organizada.  
   
-El judío promedio es tanto responsable del Nuevo Orden Mundial como el estadounidense promedio es responsable de la guerra en Irak. Sin embargo todos debemos tomar excepción cuando nuestra religión o nación son apropiados para hacer el mal.  
-  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+El judío promedio es tanto responsable del Nuevo Orden Mundial como el estadounidense promedio es responsable de la guerra en Irak. Sin embargo todos debemos tomar excepción cuando nuestra religión o nación son apropiados para hacer el mal.

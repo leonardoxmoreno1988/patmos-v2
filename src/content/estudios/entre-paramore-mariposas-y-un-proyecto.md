@@ -238,8 +238,3 @@ Estesistema condiciona hipnóticamente a la gente para aceptar el control mental
  **> "Incluso mientras él baila al compás de la élite dirigente de la conducta humana, el hombre moderno se burla sobre la idea de la existencia y funcionamiento de una tecnología de control mental que emana de los medios de comunicación de masas y el gobierno. El hombre moderno es demasiado inteligente para creer que algo tan supersticiosos como eso! El hombre moderno es el sujeto hipnótico ideal, atiborrado en la idea de que es la corona de la creación, niega con vehemencia el poder de control del hipnotizador sobre él como su cabeza se menea y arriba y abajo en una cadena. "
 > 
 > \-Michael A. Hoffman II, sociedades secretas y Guerra Psicológica**
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

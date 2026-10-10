@@ -20,7 +20,3 @@ Tanto Fátima, la hija de Mahoma, y María, la madre de Jesús, son importantes 
 Y ¿Qué pasa con el libro New Age titulado _Mensajes de María al Mundo_ que contiene cientos de revelaciones de una manifestación llamándose a sí misma María, la cual está en paralelo tanto con el pensamiento de la Nueva Era y las creencias religiosas orientales. ¿Es esta María, la misma persona que se manifiesta a sí misma como Kwanon y Tara en el Oriente, Devi en el hinduismo, [**Gaia**](https://www.ritualypropaganda.com/2017/08/gaia-la-religion-pagana-de-la-madre.html) en la ecología y Venus y Ashtar de las antiguas religiones paganas?  
   
 Jhonkbn
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

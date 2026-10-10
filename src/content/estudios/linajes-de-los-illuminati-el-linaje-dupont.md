@@ -294,8 +294,3 @@ Un detalle que no mencioné sobre la historia original de los DuPonts, fué que 
   
 Como la tenía, decidí incluirla, para dar la oportunidad de si alguien la necesitara, la pudiera usar. La genealogia muestra muchas cosas. A: Que los DuPonts como los Astors usan repetidamente los mismos nombres una y otra vez. B: Que los DuPonts como los Rothschilds tienen muchos matrimonios entre primos hermanos. (los matrimonios entre un DuPont y otro DuPont han sido marcados con asteriscos, aunque tambien han ocurrido matrimonios entre primos hermanos y otra relación familiar que no necesariamente lleven los apellidos DuPont). Si ud. cree que no debí pasar por tantos problemas, probablemente tenga ud. razón. Ciertamente no necesitamos conocer a cada DuPont, pero justo como en un laboratorio uno trabaja con muchos detalles exactos en muchos experimentos para llegar a un principio, eso es lo que estoy haciendo aqui.  
 .
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

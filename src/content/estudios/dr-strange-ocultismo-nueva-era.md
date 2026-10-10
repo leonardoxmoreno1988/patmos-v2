@@ -64,9 +64,3 @@ En resumen, la fuente de poder de Dr. Strange proviene de la invocación de prin
   
 
 > **"Pero los cobardes, los incrédulos, los abominables, los asesinos, los que cometen inmoralidades sexuales, los que practican artes mágicas, los idólatras y todos los mentirosos recibirán como herencia el lago de fuego y azufre. Ésta es la segunda muerte."****\- Apocalipsis 21:8**
-
-  
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

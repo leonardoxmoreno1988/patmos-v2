@@ -229,9 +229,3 @@ El Mago de Oz tuvo un gran éxito en los Estados Unidos (y el mundo occidental) 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfUNGIZcG_dS2Oc-KpGufbuCIsxFNF8Y7lu3PF_a-_Q3HKZr5EvZtzPZSlRFUJue6L5MywLaMYohhGwJcXpAaSwpbZbNcm1iKEdaZd1CZPPYzfVHgwRCTfaveAg0BSbk02IwN_OltMiec/s1600/img06.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfUNGIZcG_dS2Oc-KpGufbuCIsxFNF8Y7lu3PF_a-_Q3HKZr5EvZtzPZSlRFUJue6L5MywLaMYohhGwJcXpAaSwpbZbNcm1iKEdaZd1CZPPYzfVHgwRCTfaveAg0BSbk02IwN_OltMiec/s1600/img06.jpg)
 
 .
-
-  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

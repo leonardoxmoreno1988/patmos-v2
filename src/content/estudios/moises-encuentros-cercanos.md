@@ -80,7 +80,3 @@ Gracias por leer el newsletter de esta semana. No olvide compartir el material c
   
 
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

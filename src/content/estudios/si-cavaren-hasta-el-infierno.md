@@ -61,14 +61,3 @@ No olvide compartir el material con sus familiares y cercanos desde este enlace.
   
 
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:  
-  
-
-  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqEX3Ykv5bd2B31M5dsKH5XWIUaYIPcsbeeKKcsx-RgA1R4aSjK6y5SOxXeWW_XVmh0EmvyfSdNPW2I0eNf_C6s3vzVwMoFD2wV_M9EMtHPzM0MRRByfkblJaV_jCyRp2E9HFRwGBwEJZhUSpTdvsHbgeQkN7KOKexKuoUz_KKD678KOH5ZavnrWvSGUk/s1600/me-rp.png)](https://twitter.com/leonardoxmoreno)
-
-**Leonardo Moreno**  
-Estudiante de teología en TBDI, premilenialista, pretribulacionista, amante de la profecía bíblica y seguidor de Jesús. Escribo sobre los 66 libros de la Biblia, las falsas doctrinas y el gnosticismo en el cine. Puede leer el archivo del newsletter desde [**este enlace.**](https://www.ritualypropaganda.com/p/archivo.html)

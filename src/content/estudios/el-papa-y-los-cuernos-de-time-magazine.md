@@ -81,8 +81,3 @@ Jay Leno, presentador de Televisión.
 **Billy Graham, televangelista estadounidense.**
 
 **.**
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

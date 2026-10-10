@@ -384,7 +384,3 @@ Fin del primer capítulo.
 29.  Ibídem.
 30.  Ibídem.
 31.  Bob Whitaker, "Situación terminal ... pero no tanto", The Barnes Review, septiembre-octubre de 2002, p. 6.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

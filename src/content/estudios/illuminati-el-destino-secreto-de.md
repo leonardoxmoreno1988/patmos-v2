@@ -91,8 +91,3 @@ Los padres fundadores eran masones, y su poder de este mundo se levantó de su r
 La información presentada en "El Destino Secreto de Estados Unidos" revela que los Estados Unidos era una mezcla Illuminati. Las nobles palabras de la constitución de los EE.UU. fueron diseñadas para atrapar a los inocentes en un totalitario y oculto Nuevo Orden Mundial.  
   
 EE.UU. se creó para ser lo que es hoy: el instrumento de un gobierno mundial luciferino .. Hall nos dice que los fundadores de América "habían hecho un juramento para crear democracia en el mundo". Las guerras actuales de Estados Unidos en el Medio Oriente son luchas bajo la bandera de la "extensión de la democracia". Esta es la forma de expresión luciferina que Orwell más tarde llamó "doble discurso".
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

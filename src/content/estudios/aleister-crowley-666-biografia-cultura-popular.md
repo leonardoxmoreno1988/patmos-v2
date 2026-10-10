@@ -350,7 +350,3 @@ Oportunamente también existe un personaje en Yu-Gi-Oh! llamado "Alister" que l
 Aleister Crowley no es solo el padre del satanismo moderno, sino también el padre de la cultura moderna. Su trabajo estuvo dedicado a traer el Nuevo Aeon, que es para los conocedores esotéricos, un nuevo orden religioso dirigido por el anticristo. Pese a que su muerte fue penosa y su trabajo poco reconocido por el hombre promedio, su legado se mantiene evidente en la cultura popular actual. Diversos artistas, músicos o líderes religiosos han continuado propagando su obra a sus propios fans. Esto ha llevado a que muchos jóvenes ni siquiera necesitan saber el nombre de Crowley para vivir según la doctrina del Thelema y la ley de "haz lo que deseas". En palabras del propio Crowley:  
 
 > **"Déjame seducir a los jóvenes... y los viejos pueden tambalearse en sus tumbas. Entonces estos jóvenes, convirtiéndose en hombres, pueden traer el nuevo cielo y la nueva tierra... pero sin un ejército soy inútil... Denme mi ejército, jóvenes; y vamos a barrer a estos perros hacia el mar."**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

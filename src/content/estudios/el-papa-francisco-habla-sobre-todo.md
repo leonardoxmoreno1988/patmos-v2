@@ -80,7 +80,4 @@ Esto no es para sugerir a los cristianos rendirse y renunciar, al contrario Jes�
 
 > "Vosotros sois la luz del mundo: una ciudad asentada sobre un monte no se puede esconder... deja que tu luz brille ante los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos" - Mateo 5: 14-16
 
-Por lo tanto, debemos decidir en qué momento es suficiente! Si los cristianos, como grupo, no están dispuestos a presentarse a la justicia y a vivir como Cristo, entonces en realidad están practicando ateísmo y negando su fe. ¡Piensen en ello!  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Por lo tanto, debemos decidir en qué momento es suficiente! Si los cristianos, como grupo, no están dispuestos a presentarse a la justicia y a vivir como Cristo, entonces en realidad están practicando ateísmo y negando su fe. ¡Piensen en ello!

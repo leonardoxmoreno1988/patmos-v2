@@ -159,5 +159,3 @@ De la misma forma que Donnie fue llevado por una falsa "iluminación" presentada
   
 
 > "El ladrón sólo viene para robar y matar y destruir; yo he venido para que tengan vida, y para que la tengan en abundancia." -Juan 10:10
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

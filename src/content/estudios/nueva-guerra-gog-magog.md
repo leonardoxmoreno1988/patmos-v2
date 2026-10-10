@@ -34,8 +34,4 @@ Por lo menos, está claro que el mundo es mucho menos estable ahora que hace una
   
 No olvide compartir el material con sus familiares y cercanos.  
   
-Leonardo M.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Leonardo M.

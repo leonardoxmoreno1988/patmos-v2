@@ -316,7 +316,3 @@ Luego de leer el testimonio de Multi-Judy y la arquitectura que presenta la ORU,
   
 
 > "Porque no hay nada oculto que no haya de ser manifestado; ni escondido, que no haya de salir a luz." - Marcos 4:22
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

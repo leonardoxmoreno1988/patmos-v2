@@ -104,7 +104,3 @@ Además, tenemos muchos manuscritos de los Sinópticos y ellos informan que suce
 Y hemos visto anteriormente que el hecho de que esperemos que un historiador mencione un evento significativo, no significa que podamos deducir de su silencio que este no sucedió. Y nuevamente, tenemos al menos un fragmento que parece confirmar lo que informan los Evangelios, pero los críticos a menudo ni siquiera mencionan a Thallus como una confirmación externa. Esto parece demasiado conveniente para al menos no mencionarlo.  
   
 Este artículo apareció originalmente en _Is Jesus Alive_ y se volvió a publicar con el permiso del autor.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

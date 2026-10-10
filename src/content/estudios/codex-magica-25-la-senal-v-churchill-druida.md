@@ -397,7 +397,3 @@ Símbolo astrológico de la Diosa del Sol, de la _Enciclopedia de la Mujer de lo
 6.  Stanley Monteith, boletín informativo de Radio Liberty, octubre de 1999. También se examinó el linaje judío de Winston Churchill en la revista Criminal Politics, Lawrence Patterson, editor, febrero de 1995, pág. 22.
 7.  Miranda J. Green, El mundo de los druidas (Londres: Green, Thames y Hudson, 1997), p. 170; también vea a John Daniel, Scarlet and the Beast (Tyler, TX: JKI Publishing).
 8.  Para comparar, ver Lady Queensborough (Edith Starr Miller), Teocracia oculta (1933).
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -250,8 +250,3 @@ La familia Reynolds es una familia de la élite Illuminati cuyo rango asciende d
 -   ejército de salvación de NY, trabajó para al menos dos compañias Morgan (J.P. Morgan, Morgan Guaranty), le gusta salir a pasear en yate. Miembro de la Sociedad Colonial (una organizacipon de la élite).
 -   William Francis Reynolds-b. Boston, casado con una Fitzgerald, Harvard 51, instructor en la MIT.
 -   William Glasgow Reynolds- abogado, juez, trabajador gubernamental, casado con Nancy Bradford duPont, trabajó para E I. duPont de Nemours & Co. de 1935-71, Mem. vis. com. Se graduó de la Escuela de Leyes en la Universidad Vanderbilt- Episcopal, escribió una historia sobre los Reynolds.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

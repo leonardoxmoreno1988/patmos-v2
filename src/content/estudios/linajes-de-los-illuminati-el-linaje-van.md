@@ -569,7 +569,4 @@ Si el poder de la familia Van Duyn es ejercido a través de los Costello y los V
   
 La familia Van Duyn han cambiado la ortografía de su nombre. Un grupo lo explica, Van Dine, Vance Van Dine es una importante figura del Nuevo Orden Mundial que se graduó de la Universidad de Yale . Él es un episcopal , y ha trabajado con los grandes banqueros internacionales. Nació en San Francisco , pero vivió en el área de la ciudad de Nueva York. Él ha estado en la junta de directorio alemán conectado al Vereinsbank Capital Corp.  
   
-Otro Van Dine de la nota es Harold Foster, Van Dine, Jr., quien ha sido un famoso arquitecto. Él ha sido una figura importante en la empresa Troy , MI de Straub, Van Dine & Assoc.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Otro Van Dine de la nota es Harold Foster, Van Dine, Jr., quien ha sido un famoso arquitecto. Él ha sido una figura importante en la empresa Troy , MI de Straub, Van Dine & Assoc.

@@ -86,6 +86,4 @@ En este corto trato creo que es seguro concluir que, históricamente, la vida de
   
 5\. Willemen, C. 2009. Buddhacarita: En Alabanza de los Hechos de Buda. Disponible.  
   
-Este artículo fue presentado originalmente en el sitio web de James Bishop y fue utilizado con permiso del autor.  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Este artículo fue presentado originalmente en el sitio web de James Bishop y fue utilizado con permiso del autor.

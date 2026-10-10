@@ -693,7 +693,3 @@ Se basa en la letra hebrea "shin". En esencia, en el popular programa de televis
 15.  Albert Pike, Morales y dogma del antiguo y aceptado rito escocés de la masonería (Richmond, VA: L.H. Jenkins, 1871).
 16.  Ibídem.
 17.  Lady Queensborough (Edith Starr Miller), Teocracia Oculta, Volumen I (1933), p. 184-187.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

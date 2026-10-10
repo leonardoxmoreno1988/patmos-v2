@@ -232,7 +232,3 @@ Un miembro del Greenpeace, el grupo ecologista radical, se une a la embarcación
 4.  John J. Robinson, Born in Blood: The Last Secrets of Freesmasonry (Nueva York: M. Evans & Co., 1989).
 5.  Ibid., P. 217.
 6.  Jack Harris, Francmasonería (New Kensington, PA: Whitaker House, 1983).
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

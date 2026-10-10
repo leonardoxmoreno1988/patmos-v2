@@ -195,8 +195,4 @@ Debemos saber que Hollywood, lejos de los millones que puede ganar por esta clas
 
 **En la historia que vivió Noé y su familia, Dios nos profetiza de que forma Él le iba a dar una nueva oportunidad al hombre, ya que en muchos sentidos el arca representa la única forma de salvación que llego milenios después en la forma de Jesucristo. Y exactamente como el tiempo que vivimos ahora, donde la filosofía de un director es las que esta permeando los conceptos que se tienen de Dios, las personas de nuestro tiempo rehúsan entrar por esa puerta angosta de salvación. El que es fiel y verdadero le dice:  
 **> "Yo soy la puerta: el que por mí entre, se salvará... Yo soy el camino, la verdad y la vida; nadie puede ir al Padre si no es por medio de mí."  
-> \- Juan 10:9 - 14:6 .** 
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+> \- Juan 10:9 - 14:6 .**

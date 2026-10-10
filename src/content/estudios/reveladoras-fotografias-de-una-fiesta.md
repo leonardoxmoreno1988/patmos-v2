@@ -87,9 +87,3 @@ El 12 de diciembre de 1972 **Marie-Hélène de Rothschild**, miembro de la famil
 .
 
 .
-
-  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

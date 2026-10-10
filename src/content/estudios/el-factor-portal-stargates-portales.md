@@ -215,8 +215,3 @@ Es interesante también que un controvertido video de las instalaciones del CERN
 
   
 Ha habido otros proyectos además del CERN que también se relacionan con la tecnología Stargate. El Proyecto Looking Glass involucró un dispositivo extraterrestre diseñado originalmente para ser un mecanismo de apertura de portal para viajes de tipo Stargate, que tenía (tiene) la capacidad de doblar el tiempo/espacio para que los eventos en los horizontes delanteros y traseros pudieran verse. Cuando se empareja con un segundo dispositivo usando la configuración, los eventos no solo se pueden ver, sino escuchar y más. Este dispositivo también se estaba probando para protocolos de comunicaciones y aplicaciones de transporte tan recientemente como en 2003-2004 antes de ser desmantelado por razones de seguridad.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

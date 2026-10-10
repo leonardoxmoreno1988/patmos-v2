@@ -109,8 +109,3 @@ Ya sea con fines intencionalmente masónicos o como un reflejo arquetípico, la 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAMDFJDVipVF4ZbSnyezzC9ToH4HQWajKzh-nmjV5wAZxwnrzvF7Y-g_6MdC5eUrSaOJ0iWigSzoj4rsjenK6aK5fI71SMK-ADHYkqqx13BKRItxCqYd27z152MNrLCD4I_60Zbo0taSA/s1600/jackson-patron-masonico.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAMDFJDVipVF4ZbSnyezzC9ToH4HQWajKzh-nmjV5wAZxwnrzvF7Y-g_6MdC5eUrSaOJ0iWigSzoj4rsjenK6aK5fI71SMK-ADHYkqqx13BKRItxCqYd27z152MNrLCD4I_60Zbo0taSA/s1600/jackson-patron-masonico.jpg)
 
 **Michael Jackson vestido con prendas rojas ritualísticas en el suelo ceremonial.**
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

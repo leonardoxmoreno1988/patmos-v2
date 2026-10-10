@@ -107,7 +107,3 @@ Al culminar la saga de Secret Invasion la cual fue igual de enorme que Civil War
 [![](https://i162.photobucket.com/albums/t261/lenxx8/obama-bush.jpg)](http://i162.photobucket.com/albums/t261/lenxx8/obama-bush.jpg)  
 
 Y por supuesto Barack Obama hace una aparición en Dark Reign donde tiene una conversación con Norman Osborn durante uno de los vuelos presidenciales. Esta no sería la primera vez que algunos presidentes se ven infiltrados en las sagas de Marvel, Obama muy aparte de tener un premio Novel también es un buen amigo de Spider Man. Y durante su gobierno Bush también hiso algunas apariciones muy patrióticas, con expresiones como..."No voy a ir a ningún lado, le hise una promesa al pueblo americano, que durante esta guerra ellos estarán a salvo en casa". Esta podría ser una nueva versión de su conocida frase: “O están con nosotros..o con los terroristas”. Y Marvel... ¿De qué lado está?.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

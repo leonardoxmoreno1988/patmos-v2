@@ -150,10 +150,4 @@ Existirán los maestros que estarán más allá del humano y el resto del mundo 
   
 ¿Los Singularistas lo lograrán? ¿Crearán los transhumanos para alcanzar el tan anhelado sueño milenario de gobernar el mundo entero?  
   
-Ellos se esfuerzan por hacerlo realidad. Si llega ese día, cuando lo logren, incluso los Borg debería tener miedo. Mucho miedo. 
-
-  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Ellos se esfuerzan por hacerlo realidad. Si llega ese día, cuando lo logren, incluso los Borg debería tener miedo. Mucho miedo.

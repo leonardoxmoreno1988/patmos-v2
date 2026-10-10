@@ -101,7 +101,4 @@ Los perseguidores originales, en efecto, supusieron que contaminando nuestros lu
   
 \[Lang. TI\] Langdon, S. Tammuz e Ishtar. Oxford: Clarendon, 1914.  
   
-Este artículo fue presentado originalmente en Tektonics.org y fue reeditado con permiso del autor.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Este artículo fue presentado originalmente en Tektonics.org y fue reeditado con permiso del autor.

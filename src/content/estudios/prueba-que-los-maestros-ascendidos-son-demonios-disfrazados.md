@@ -261,8 +261,3 @@ Como Jesús dijo en Mateo 24:24 "Porque falsos mesías y falsos profetas aparece
 Es muy fácil ser engañado a veces, y los Maestros Ascendidos me hicieron engañar por un tiempo también. Una vez dormí con algunas cartas de oráculo en una habitación en la que dormía, y mirando hacia atrás, sólo me hizo sentir extraño y asustado, incluso cuando no tenía idea de quiénes eran.  
   
 Nos han engañado. Estos son sólo demonios en los planos etéricos que se disfrazan de portadores de sabiduría. Y de todos estos ángeles caídos, su misión es alejar a la gente de Jesucristo antes de que su tiempo haya terminado.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

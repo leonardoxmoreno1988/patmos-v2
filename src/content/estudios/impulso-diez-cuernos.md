@@ -58,7 +58,3 @@ El reloj sigue en marcha. No olvide compartir el material con sus familiares y c
 
   
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

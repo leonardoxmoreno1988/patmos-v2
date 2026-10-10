@@ -194,7 +194,3 @@ Muchas **[órdenes secretas y sociedades](http://www.ritualypropaganda.com/2015/
 10.  James Curl, El arte y la arquitectura de la masonería (Woodstock, NY: Overlook Press, 1993), p. 238.
 11.  Un Dictionary of Symbols, editado por Jean Chevalier y Alain Gheerbant (Nueva York: Penguin Books, 1996).
 12.  Ibídem.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

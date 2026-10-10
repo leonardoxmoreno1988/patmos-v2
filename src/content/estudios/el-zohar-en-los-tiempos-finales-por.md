@@ -61,8 +61,3 @@ Israel tiene una tríada de agencias de inteligencia: Shin Bet (aka ISA, y Shaba
 Los Illuminati tienen una idea completa de lo que ellos quieren que sea la Religión Mundial. No hay duda, las ideas de los Zohar y la Cábala incluyendo la magia se difundirán. Uno de los conceptos promovidos por el Zohar es la fuerza de voluntad .. el deseo... que es lo que se define como la magia, y lo que Hitler creía. Este post ha sido un vistazo a un libro, el Zohar, que influirá en cómo se han de hacerse las cosas en el futuro por el PTSNB.  
   
 (A) Por ejemplo, la revista oficial del Rito Escocés de la Nueva Era, 9/1950, p. 551. (B) Sanh. 57A, Talmud -Sukkah 52a (C).
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

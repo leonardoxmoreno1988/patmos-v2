@@ -242,7 +242,4 @@ En la Cábala, La Shekinah es a veces llamado Eden, y la Torá es el Jardín don
   
 Esta redención comenzó con la muerte de Cristo en la cruz, y fue el mayor tikkun de todos. Su obra proporcionó la sanidad, es decir, la redención, para todos los que confían en Cristo y, en última instancia, para toda la creación física (Romanos 8.21-23), la redención completa de nuestros cuerpos (1 Corintios 15.12) y de la creación física está en el futuro después de que Cristo regrese.  
   
-Al confiar en Cristo, somos reconciliados con nuestro Creador, liberados de su ira sobre el pecado, y ganamos una relación con Dios, que nos ama (Juan 3.16, Romanos 5.9, 2 Corintios 5.17-19). La luz versus la oscuridad es un tema tan usual en la Cábala como en la Biblia. La verdadera luz, sin embargo, no está en el Árbol de la Vida, sino en Cristo, quien proclamó: "Yo soy la Luz del mundo" (Juan 8.12).  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Al confiar en Cristo, somos reconciliados con nuestro Creador, liberados de su ira sobre el pecado, y ganamos una relación con Dios, que nos ama (Juan 3.16, Romanos 5.9, 2 Corintios 5.17-19). La luz versus la oscuridad es un tema tan usual en la Cábala como en la Biblia. La verdadera luz, sin embargo, no está en el Árbol de la Vida, sino en Cristo, quien proclamó: "Yo soy la Luz del mundo" (Juan 8.12).

@@ -72,7 +72,3 @@ Se han señalado las perversiones ocultas y las tendencias satánicas de Disney.
 Gracias por leer el newsletter de esta semana. No olvide compartir el material con sus familiares y cercanos.  
   
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

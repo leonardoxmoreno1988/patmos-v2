@@ -205,8 +205,3 @@ Los Illuminati tiran de sus linajes mediante muchos consejos. El Gran Consejo Dr
   
 
 El primer articulo acerca de la Casa Rockefeller en este boletin ocurrió a mediados de Diciembre de 1992 en el Vol.13. El enfoque primario del articulo era exponer como la familia ha dominado a largos segmentos de los grupos Protestantes en los Estados Unidos. Un enfoque secundario del articulo era mostrar el lado ocultista y Satánico de la familia. Se hará un intento en este articulo de exponer información la cual no fue expuesta en el primer articulo. La familia Rockefeller ha estado muy ocupada y hay una gran cantidad de información que podemos sacar al respecto.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

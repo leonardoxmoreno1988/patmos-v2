@@ -135,8 +135,4 @@ Frazer \[Fraz.AAO, VIII\] escribió que a cada hombre muerto se le dio el nombre
   
 Así que la "resurrección" de O no es ninguna resurrección en absoluto - y de hecho era en realidad una especie de función de la forma en que los dioses egipcios eran, digamos, mitad Frankenstein, mitad set de Legos. De hecho, hay muchas historias de los dioses egipcios arrojando varias partes del cuerpo por todas partes, y sin ningún daño en general, porque "los cuerpos divinos se creían que eran impermeables al cambio" \[Meek.DL, 57\] y así que el cadáver de O no se pudrió ni se descompuso como ya se sabía para ser re-armado.  
   
-Este artículo fue presentado originalmente en Tektonics Apologetics y fue republicado con permiso.  
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Este artículo fue presentado originalmente en Tektonics Apologetics y fue republicado con permiso.

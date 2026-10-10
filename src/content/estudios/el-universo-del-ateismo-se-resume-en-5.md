@@ -89,7 +89,4 @@ Si el ateísmo es cierto, todos somos indios en la balsa. Lo que nos espera, nue
   
 8\. Craig, W. _Lo Absurdo de la vida sin Dios_.  
   
-Este artículo fue presentado originalmente en el sitio web de James Bishop y fue utilizado con permiso directo del autor.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Este artículo fue presentado originalmente en el sitio web de James Bishop y fue utilizado con permiso directo del autor.

@@ -300,7 +300,4 @@ Metrópolis es una definitivamente una película "por la élite, para la élite"
   
 Así que ¿por qué a los cantantes les gusta tanto? Bueno, probablemente no lo aman tanto como los directores y creadores detrás de escena, los que tienen el poder en el negocio de la música. Ellos deciden lo que las estrellas representan. Y la cultura popular de hoy es elitista, impregnada de simbolismo gnóstico que promueve la degradación moral y la degradación de los valores tradicionales. Nuestras estrellas del pop canalizan a María, el androide programado, a través de sus actos y cumplen las mismas funciones. ¿Por qué si no iban a vestir como ella? Si los artistas siempre encarnan la libertad absoluta y la creatividad, ¿por qué los cantantes juegan el papel de un androide bajo control mental? Porque eso es lo que son.  
   
-Metropolis es de hecho una gran película. Tan grande que sólo se está volviendo relevante 80 años después de su lanzamiento. Pero si la élite lo desea, será aún más relevante en los años por venir.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Metropolis es de hecho una gran película. Tan grande que sólo se está volviendo relevante 80 años después de su lanzamiento. Pero si la élite lo desea, será aún más relevante en los años por venir.

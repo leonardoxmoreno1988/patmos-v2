@@ -104,8 +104,4 @@ Mi nuevo libro, **[La Santa Serpiente de los Judíos](http://www.texemarrs.com/m
   
 Los judíos - y de hecho, todo el mundo - se enfrentan a una elección clara. Servir a Jesucristo como maestro y Señor, o caer bajo el dominio de las palabras condenatorias y mortales de los rabinos.  
   
-¿Jesús o Satanás? Esa es la elección. No tenemos otra opción, y el tiempo se acaba.  
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+¿Jesús o Satanás? Esa es la elección. No tenemos otra opción, y el tiempo se acaba.

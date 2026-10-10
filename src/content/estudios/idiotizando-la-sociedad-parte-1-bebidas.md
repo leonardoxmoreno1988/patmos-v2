@@ -287,8 +287,4 @@ Estos síntomas son, sin embargo sólo la punta del iceberg. El espartamo ha sid
 
 Si el mensaje principal de este sitio en ese momento era "ver lo que viene a la mente," el mensaje principal de este trabajo es "ver lo que pasa en su cuerpo." El consumo de los productos enumerados anteriormente, probablemente no provocará un inmediato efecto. Pero después de muchos años consumiendo estas sustancias, los pensamientos se vuelven cada vez más nublosos, la capacidad se convierte en pérdida de la concentración y el discernimiento se deteriora. En otras palabras, una mente aguda, que se debilita. ¿Qué ocurre cuando una población está fuertemente sedada y envenenada todos los días? No responde, como zombies muy dóciles. En lugar de hacer preguntas importantes y buscar una verdad superior, la masa idiotizada simplemente realiza sus tareas diarias y toma lo que los medios les dice. Eso es lo que la élite están tratando de crear?  
   
-Sin embargo, hay un resquicio de esperanza aquí. Muchos de los efectos negativos de las sustancias descritas anteriormente son reversibles, y tú eres el que decide lo que entra en su cuerpo. Este artículo proporciona una visión general de los peligros que acechan a los consumidores, pero hay toneladas de la información disponible sobre los que se pueden basar decisiones informadas. Tu cuerpo es un templo (I Corintios 3:16-17). ¿Va a permitir que sea profanado?  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Sin embargo, hay un resquicio de esperanza aquí. Muchos de los efectos negativos de las sustancias descritas anteriormente son reversibles, y tú eres el que decide lo que entra en su cuerpo. Este artículo proporciona una visión general de los peligros que acechan a los consumidores, pero hay toneladas de la información disponible sobre los que se pueden basar decisiones informadas. Tu cuerpo es un templo (I Corintios 3:16-17). ¿Va a permitir que sea profanado?

@@ -211,7 +211,3 @@ El líder de los trabajadores Eugene V. Debs se postuló para presidente cinco v
 3.  Albert Mackey, Enciclopedia de la Francmasonería y Ciencias de los Vástagos (Chicago: The Masonic History Company, 1929)
 4.  Ibídem., P. 352.
 5.  Ibídem.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

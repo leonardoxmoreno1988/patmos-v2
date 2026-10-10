@@ -399,8 +399,3 @@ De hecho, todo la "búsqueda de la liberación" de Sara es en realidad su ser ma
 ## En Conclusión
 
 Al igual que Mago de Oz y Alicia en el País de las Maravillas, Laberinto es un cuento de hadas imaginativo, cuya historia se puede utilizar como una secuencia de comandos en la programación de control mental. A diferencia de los cuentos más viejos, Laberinto pudo haber sido construidO específicamente para el control de la mente. La historia, el simbolismo y la música de la película forman un todo sobrecarga sensorial coherente , donde los espectadores son totalmente sumergidos en el extraño mundo de control de la mente. Sin embargo, hay un problema: como víctimas de control mental, la mayoría de los espectadores están completamente engañados por la película y su mensaje. A pesar de que parece ser el triunfo de la mente de una niña sobre el mal, la realidad es que el mal triunfa sobre el espíritu de una victima. En palabras de Bowie, "no me digas que la verdad duele niña, porque duele como el infierno".
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -69,7 +69,4 @@ Muchas religiones y denominaciones pequeñas y sus edificios terminarán abandon
   
 
   
-(1) MT 24:35 (2) JN 14:16 (3) JN 14:23-26 (4) 2 PTR 1:21 (5) ISA 40:8, 1 PTR 1:25, cf. PS 119:152, MT 5:18. (6) 2 TIM 3:16-17 (7) MT 24:24, REV 13:14-15, 16:13-14 (8) 2 COR 13:5 (9) 2 TIM 2:15 (10)  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+(1) MT 24:35 (2) JN 14:16 (3) JN 14:23-26 (4) 2 PTR 1:21 (5) ISA 40:8, 1 PTR 1:25, cf. PS 119:152, MT 5:18. (6) 2 TIM 3:16-17 (7) MT 24:24, REV 13:14-15, 16:13-14 (8) 2 COR 13:5 (9) 2 TIM 2:15 (10)

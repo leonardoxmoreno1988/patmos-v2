@@ -505,7 +505,3 @@ Jesús fue claro al decir que estamos en un campo de batalla espiritual, los con
 > "No hablaré mucho más con ustedes, porque viene el príncipe de este mundo, y él no tiene nada en mí." -Juan 14:30
 
 Este titulo de honor refiere a Lucifer como una manifestación real que opera con el fin de arrastramos a su rebelión contra Dios. ¿Qué mente tan confundida y manipulada podría estar a favor de este vano levantamiento? Lamentablemente no se necesita vender tu alma para estar en el bando equivocado, el poder de la ignorancia ha reclutado mas satanistas que la propia iglesia de Anton Lavey y la Biblia nos dice que seguirá en aumento. Al fin de cuentas la figura de Lucifer como el ángel caído, nos recuerda la existencia de un Dios superior, capaz de sobreponerse y que terminará por arrojarlo al lago de fuego por sus extravíos. Penoso final para el “príncipe de este mundo”.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

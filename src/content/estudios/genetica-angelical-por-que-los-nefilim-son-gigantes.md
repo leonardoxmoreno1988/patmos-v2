@@ -130,7 +130,3 @@ Tal vez están tratando de suprimir genes problemáticos, como el gigantismo, a 
 Como se dijo anteriormente, todo esto es especulativo. Si estoy siendo honesto, incluso admito que es altamente especulativo. Sin embargo, si es cierto, podría añadir algo de legitimidad desde una perspectiva científica (aunque sólo sea teórica) a los extraños y antiguos relatos de ángeles que procrean con mujeres humanas. Por lo menos, puede proporcionar un punto de interés para que otros investiguen por su cuenta.  
   
 Es bueno para nosotros mirar estas cosas nosotros mismos para ver lo que realmente ocurre. Después de todo, podríamos muy bien tener que lidiar con estas cosas algún día. Cuando llegue ese día, incluso la más loca de las teorías parecerá plausible. Es una buena idea conseguir una ventaja sobre ellos mientras podemos.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

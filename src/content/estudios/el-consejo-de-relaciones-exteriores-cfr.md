@@ -187,7 +187,3 @@ Activistas por los derechos de armas de fuego dicen que esto significaría un es
 Sin embargo, estos conceptos e iniciativas no se originaron en las Naciones Unidas. Las Naciones Unidas son simplemente el vehículo mediante el cual se implementan estos conceptos e iniciativas. La fuente de estos conceptos e iniciativas es CFR, una entidad privada sin fines de lucro que no es elegida por los ciudadanos en ninguna parte pero que ejerce un enorme poder e influencia sobre los políticos y las políticas que implementan en sus respectivos gobiernos.  
   
 La prueba de que CFR está presionando hacia el retroceso de la soberanía nacional se encuentra en todas las páginas del documento proporcionado anteriormente. Y CFR es quizás la única entidad en el mundo con el poder y la influencia para mantener a una nación y sus políticos como rehenes, forzando violaciones traicionadas del estado de derecho y la centralidad de la autoridad constitucional. Dependerá de cada uno investigar.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

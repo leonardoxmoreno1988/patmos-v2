@@ -59,7 +59,3 @@ El indiscutible que el tiempo se acaba y la Segunda Venida de Cristo es inminent
 
   
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -378,7 +378,3 @@ La agenda final del Movimiento de la Nueva Era es la convergencia de todas las r
   
 
 Sin embargo, aunque el origen del movimiento data del siglo XIX con la enseñanza teosófica de Helena Blavatsky y Annie Besant y recibió impulso en la década de 1920 con la enseñanza de Alice Ann Bailey, con suerte este informe te mostrará que las semillas del dogma de la nueva era ya existía antes del siglo 19 con oscuro trabajo de Swedenborg, Mezmer, Bacon y Quimby.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

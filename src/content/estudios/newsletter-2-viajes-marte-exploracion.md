@@ -22,7 +22,3 @@ No es un secreto que muchos astronautas fueron y son masones, basta con recordar
 En 2020, el multimillonario Elon Musk privatizó con éxito los viajes espaciales, y busca facilitar la colonización de Marte con su empresa Space "[X](https://www.ritualypropaganda.com/2017/06/significado-de-la-misteriosa-letra-x.html)" y sus naves "dragón" o "starship", nombres que podrían despertar las alarmas entre los conocedores de símbolos. Otras compañías de Musk promueven el transhumanismo y crean puentes entre el gnosticismo y la ciencia. Space X estima confiadamente que llegará a Marte en el 2026.  
   
 Además cada año la idea de los viajes interplanetarios convergen con los objetivos humanistas de independizarse de Dios, desdeñar las palabras de Cristo y utilizar la ciencia y la tecnología como medio para esto. Es interesante que algunos eruditos bíblicos expliquen la gran altura de la [Torre de Babel](http://www.ritualypropaganda.com/2012/05/la-torre-de-babel-un-arquetipo-del.html) en el Génesis, como una estrategia de los hombres antiguos para protegerse de un segundo diluvio global, que nuevamente pudo haber barrido la superficie de la tierra. ¿No es un escape a Marte otro vago intento de evitar el juicio final?
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -294,8 +294,3 @@ Más que una película del bien contra el mal, Harry Potter es una pequeña part
   
 
 Las sociedades secretas como la masonería han contribuido a "mover los hilos" de la industria cinematográfica para este fin. Esta élite de poder mueve a las grandes producciones y han estado usando la historia de Harry Potter para promover el culto a la magia y las ciencias ocultas a una generación de jóvenes y niños, todo en una envoltura comercial del gran salvador que vendrá. ¿Si los actores o directores de Harry Potter lo saben? Lo dudo mucho, solo son parte de un mundo donde el cine mueve e interpone ideologías a las masas. Lo que el mono ve... el mono hace.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

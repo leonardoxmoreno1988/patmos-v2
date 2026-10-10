@@ -95,7 +95,4 @@ Los homosexuales parecen campeones del sexo anónimo; algunos fornican a través
   
 En conclusión, la "revolución sexual" era realmente el triunfo homosexual de la perversidad en las normas y valores. La agenda gay-feminista es redefinir lo saludable como patológico y viceversa y han tenido éxito.  
   
-En cuarenta cortos años, casi todas las restricciones sexuales se han disuelto y la sociedad heterosexual se tambalea. El desglose cultural y social sólo va a empeorar. Necesitamos una contrarrevolución.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+En cuarenta cortos años, casi todas las restricciones sexuales se han disuelto y la sociedad heterosexual se tambalea. El desglose cultural y social sólo va a empeorar. Necesitamos una contrarrevolución.

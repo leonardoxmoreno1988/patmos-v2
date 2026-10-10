@@ -272,8 +272,3 @@ En resumen, mientras se desenvuelve la trama vemos a un Hugo funcionando como un
 "La Invención de Hugo Cabret" es un homenaje fiel en todo el sentido de la palabra, no solo narra el nacimiento del cine, sino también revela su estrecha relación con el ocultismo, la magia y el control mental. Todo esto efectuado por títeres o como muestra la misma película, seres autómatas, personas que entregaron su propósito a la obra de Lucifer y recibieron fama y fortuna en su vida terrenal. Por último debemos entender que Dios no desea esclavizarte ni volverte un ser sin alma, él desea que tengas vida y en abundancia. Todas las cosas son efímeras, todas las películas, cámaras, esculturas y trucos de magia e ilusiones serán hechas polvo en el día del juicio final. Solo la palabra de Dios durará para siempre y quienes guarden esa palabra en su corazón alcanzarán la vida eterna.
 
 > "No hagas tesoros en la tierra donde la polilla y el orín los echan a perder y donde los ladrones roban. Acumulen tesoros en el cielo. Pues donde están tus riquezas, ahí estará también tu corazón." -Mateo 6:16
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

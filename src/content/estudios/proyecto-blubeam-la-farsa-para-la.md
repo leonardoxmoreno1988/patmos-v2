@@ -95,7 +95,3 @@ Algunos de los síntomas son los siguientes:
 
   
 Ahora, lo anterior no es ni siquiera una lista completa de los efectos de la FEB (armas de frecuencia extremadamente bajas). Con este concepto principal podremos entender como la élite esta manipulando eventos y manejando los medios para "moldear" la mente de la población. Ellos quieren instaurar una religión única y deben destruir cualquier dogma que se oponga a este concepto. El proyecto Blubeam es el arma más poderosa para la aceptación del Nuevo Orden Mundial.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

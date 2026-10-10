@@ -326,7 +326,3 @@ Ulan.OMM - Ulansey, David. Los orígenes de los misterios mitraicos: cosmología
 Ver.MSG - Vermaseren, M. J. Mithras el Dios Secreto. Nueva York: Barnes and Noble, 1963.  
   
 Wyn.MFC - Wynne-Tyson, Esme. Mithras: El Compañero en el Cap. Nueva York: Barnes and Noble, 1958.9
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

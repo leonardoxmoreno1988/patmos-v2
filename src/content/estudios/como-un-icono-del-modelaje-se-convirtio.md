@@ -84,8 +84,3 @@ La creación artificial y la manipulación de los medios de comunicación puede 
 Donald Bain muestra que cuando el sexo y el glamour se mezclan con la conspiración y la ciencia (en este caso narco-experimentos de tecnología), una "realidad" es entronizada y comienza a parecerse a una cobertura del tipo de revista de ciencia-ficción, tanto Jensen y Nebel debe he leído en su juventud. En estas cubiertas, hermosos cuerpos femeninos son atrapados y enredados con los cables, consolas y antenas, bien dotado niñas con blusas desgarradas ejecutar desde cyberclones traqueteo, y las cifras como lagarto manejar las agujas hipodérmicas.  
   
 Durante muchos años, neoyorquinos sin sueño habían oído a Nebel sobre todas las cosas que describió Candy. Tan pronto como Nebel oyó la voz de Arlene, entró en el mundo del estado de trance americano. Es un mundo en el que las heridas de salida son las heridas de entrada, y en la que las últimas horas como un hombre libre de Jack Ruby siguen siendo tan enigmáticas como las ultimas llamadas telefónicas de Marilyn Monroe ... o los viajes misteriosos de Candy Jones.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

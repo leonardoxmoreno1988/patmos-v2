@@ -229,7 +229,3 @@ Este video dura un minuto con cuarenta y tres segundos, pero se las arregla para
 ¿Cuánto tiempo queda antes de la revelación completa?  
   
 **"El reloj avanza / Acabo de contar las horas"**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

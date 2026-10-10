@@ -99,7 +99,3 @@ Si quiere conocer el testimonio y las verdades que expuso Alberto Rivera puede h
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwBA6ZD5PACbY2GJJcyMUtmltmEYjFZlidUSZayK_WsKTfbhswaP_XmAmFD1UgVNIjO_bS8s5dkP7POtSjWy743v37zJIwnlIkDrDt8Xh6hR_Z8uIPzzLNI_g-TbKX9ivBbYBUXaBv1z0/s1600/los-padrinos.jpg)](http://www.ritualypropaganda.com/2013/08/alberto-rivera-ex-jesuita-y-su-historia.html)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwBA6ZD5PACbY2GJJcyMUtmltmEYjFZlidUSZayK_WsKTfbhswaP_XmAmFD1UgVNIjO_bS8s5dkP7POtSjWy743v37zJIwnlIkDrDt8Xh6hR_Z8uIPzzLNI_g-TbKX9ivBbYBUXaBv1z0/s1600/los-padrinos.jpg)
 
 **[Los Padrinos](http://www.ritualypropaganda.com/2013/08/alberto-rivera-ex-jesuita-y-su-historia.html)**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

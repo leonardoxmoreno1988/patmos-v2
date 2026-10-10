@@ -71,8 +71,4 @@ No nos equivoquemos. La continua agresión, expansión y coalición de Rusia con
   
 No olvide compartir el material con sus familiares y cercanos.  
   
-Leonardo M.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Leonardo M.

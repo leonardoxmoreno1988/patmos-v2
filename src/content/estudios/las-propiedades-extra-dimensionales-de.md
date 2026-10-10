@@ -232,8 +232,3 @@ Teniendo todo esto en cuenta, vemos cómo hay maneras en que podemos usar la ter
   
 
 Después de mostrar esto, es sólo una cuestión de explicar cómo se hablaron de estas manifestaciones en los textos antiguos de la Biblia.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

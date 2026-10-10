@@ -143,8 +143,3 @@ Los ángeles justos de Dios no están interesados en ser representado o adorados
 El Nuevo Testamento también condena claramente la adoración a los ángeles, y enfoca su mensaje en que el único que merece la devoción es la cabeza eterna de ese Reino Espiritual, Dios y su hijo Jesucristo. Otras culturas nos han enseñado que los ángeles son los espíritus de humanos difuntos, el ser humano tiene un destino mucho mas grande que ser un ángel, según el plan de Dios y el cual es revelado a Pablo y dando testimonio de esto aduce que el ser humano gobernará a toda la creación, incluyendo a los mismos ángeles. (1Cor. 6:3).  
   
 Es por tal razón que no nos sorprende porque Satanás y sus demonios odien a la humanidad. El plan de Dios dice que seremos glorificados en el Reino de Dios como hijos verdaderos, y pasaremos a ser los jueces de los ángeles, siendo los regidores del universo como herederos de todo lo existente. A causa de esa razón Satanás quiere apoderarse de todo a través de engaños, de violencia, competencia y rebelión contra su creador, por otro lado nosotros tenemos la oportunidad de heredar gratuitamente a través de amor, sumisión, fe y obediencia al creador.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

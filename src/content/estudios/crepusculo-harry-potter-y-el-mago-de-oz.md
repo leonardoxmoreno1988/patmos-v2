@@ -270,9 +270,4 @@ Si usted está pasando de la oscuridad a la luz, es imperativo que se asegure de
 > "Y un número de los que habían practicado artes mágicas juntaron sus libros y los quemaron delante de todos. Y ellos el valor de ellos y encontró que era cincuenta mil piezas de plata."  
 > \-Hechos 19:19
 
-Que Dios te dé la gracia y la sabiduría para andar como es digno del llamamiento celestial que tenemos en nuestro amado Salvador, el Señor Jesucristo.  
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Que Dios te dé la gracia y la sabiduría para andar como es digno del llamamiento celestial que tenemos en nuestro amado Salvador, el Señor Jesucristo.

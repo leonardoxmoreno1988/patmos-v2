@@ -87,7 +87,3 @@ Pixar ha dado a aquellos que luchan por la personalidad las narrativas necesaria
 El mensaje oculto en el interior de las películas de Pixar es la siguiente: la humanidad no tiene el monopolio de la personalidad. Cualquier forma de inteligencia no-humana o super-humana, tendrá almas valientes en ambos lados para defender lo que es correcto. Si somos capaces de cumplir con esta carga, la humanidad y el mundo en que vivimos será mejor para él.  
   
 Toda una generación se ha criado con las semillas subconscientes de estas ideas plantadas en el fondo. Como la historia se mueve hacia adelante y la tecnología con ella, estas cuestiones ya no serán solo la imaginación de las películas y la ficción, sino de la política. Pero Pixar ha resuelto el debate de la personalidad antes de que llegue. Al ver nuestras películas favoritas, nos han enseñado que el ser humano no es lo mismo que ser una persona. Hemos demostrado que las personas y formas de la personalidad puede venir de cualquier parte. A través de Pixar, nos hemos abierto a un futuro mejor... (para el nuevo orden mundial).
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

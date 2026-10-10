@@ -268,7 +268,3 @@ El último mensaje de la Biblia no es uno de pesimismo, sino más bien la espera
 La Agenda Verde es uno de los mayores engaños de nuestros días. El ambientalismo se ha convertido de hecho en una nueva religión. Mientras el malvado movimiento verde continúa recurriendo a crisis ambientales fabricadas para impulsar su agenda pagana, la Biblia nos asegura que el clima de la tierra está bajo el control y las órdenes de Dios.
 
 Gracias por leer La Agenda Verde, no olvide compartir este material con sus familiares y cercanos.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

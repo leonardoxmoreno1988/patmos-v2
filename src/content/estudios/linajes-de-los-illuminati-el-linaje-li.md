@@ -384,9 +384,3 @@ Estos intercambios en oro deben de ser vigilados por los Illuminati, porque el o
 Las Triadas son una fraternidad oculta que ha sido desarrollada en una Sociedad Internacional mayorista del crimen organizado. Tiene muchos acuerdos con muchas de las familias de los Illuminati y trabajan para ellos. La familia Li esta formando parte de un gran rol en algún lugar para ellas, pero el rol exacto no se ha podido identificar todavia.  
   
 La familia Li está representada en Salem, Oregon, y otras ciudades de la costa oeste por la familia Wong, quienes son parte de su linaje. El volumen 2 toca a la familia Wong y su parte dentro del crimen organizado.
-
-  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

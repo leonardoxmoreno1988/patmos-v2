@@ -69,9 +69,4 @@ Su madre se sentaba sola en la oscuridad, escribiendo códigos y números en las
   
 Mientras que el MKULTRA es visto por los medios de comunicación como un "episodio vergonzoso del pasado", también es parte de nuestro presente. El programa todavía existe en una versión mucho más refinada bajo el nombre de _programación monarca_.  
   
-Aquí hay un interesante documental de 1980 sobre los experimentos MKULTRA en Canadá producido por el CBC:  
-  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Aquí hay un interesante documental de 1980 sobre los experimentos MKULTRA en Canadá producido por el CBC:

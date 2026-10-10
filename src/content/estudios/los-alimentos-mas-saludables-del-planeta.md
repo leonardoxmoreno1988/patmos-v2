@@ -59,7 +59,4 @@ Por último, no nos olvidemos de los miembros de la familia Alliaceae de plantas
   
 Una dieta saludable no tiene que contener cada uno de los "alimentos más saludables en la tierra," pero no le irá nada mal si consume muchos de estos alimentos mencionados en su plan de alimentación personal.  
   
-**Jonny Bowden, Ph.D., CNS, es un nutricionista certificado por el consejo y el autor de siete libros sobre salud y nutrición, incluyendo las 150 maneras eficaces para aumentar su energía y Los 150 alimentos más saludables en la Tierra.**  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+**Jonny Bowden, Ph.D., CNS, es un nutricionista certificado por el consejo y el autor de siete libros sobre salud y nutrición, incluyendo las 150 maneras eficaces para aumentar su energía y Los 150 alimentos más saludables en la Tierra.**

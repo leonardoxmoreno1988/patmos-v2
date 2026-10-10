@@ -61,7 +61,4 @@ David Livingstone describe la difusión del cabalismo:
   
 Liberados de estas limitaciones, los Illuminati podrían avanzar su poder a través de la banca, porque hasta entonces el cristianismo había prohibido en gran medida la práctica de la banca de intereses. La interpretación cabalística de la historia nos llevaría a creer que esta evolución del secularismo es progreso. La democracia, se nos lleva a creer, es el producto final de la evolución humana lejos de la superstición religiosa. Sin embargo, si bien esta evolución ha sido una prerrogativa de Occidente, el Oriente todavía está atascado en una etapa más primitiva, obstinadamente adherida a la idea de "teocracia", es decir, el mundo del Islam.  
   
-Y así, para el cumplimiento del progreso cabalístico, este último obstáculo debe ser eliminado, antes de la imposición final de una hegemonía oculta sobre la humanidad. De ahí el "choque de civilizaciones" que conducirá al imperio del anticristo.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Y así, para el cumplimiento del progreso cabalístico, este último obstáculo debe ser eliminado, antes de la imposición final de una hegemonía oculta sobre la humanidad. De ahí el "choque de civilizaciones" que conducirá al imperio del anticristo.

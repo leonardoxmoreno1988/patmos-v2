@@ -55,7 +55,3 @@ Este cómic revela cómo el **Vaticano** está utilizando su **fuerza oculta**�
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_lpix7fkYLTU5wA7Wed01U-lL9rKwEgxm7A0YGXgwumJb-YK5NU2Ajjg8xdI0zn064mj_r5Dop2CShh4hR3EWvwk0QUEZ1QCAioh4RqK8IYJuaCR-wXC1BUhzQXoGcFJoPI-RfVeIX9g/s1600/alberto-el-profeta.jpg)](http://www.ritualypropaganda.com/2017/03/alberto-rivera-seis-el-profeta.html)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_lpix7fkYLTU5wA7Wed01U-lL9rKwEgxm7A0YGXgwumJb-YK5NU2Ajjg8xdI0zn064mj_r5Dop2CShh4hR3EWvwk0QUEZ1QCAioh4RqK8IYJuaCR-wXC1BUhzQXoGcFJoPI-RfVeIX9g/s1600/alberto-el-profeta.jpg)
 
 **[El Profeta](http://www.ritualypropaganda.com/2017/03/alberto-rivera-seis-el-profeta.html)**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

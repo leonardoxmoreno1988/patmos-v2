@@ -191,6 +191,4 @@ Los pro-vida pueden sentirse tentados a llamarlo un "bebé" o una "persona", per
   
 Otros términos, frecuentemente usados ​​en este debate, son problemáticos y pueden correr el riesgo de identificar erróneamente al niño en el útero: "feto" (que es sólo una de varias etapas del desarrollo en el útero), "producto de la concepción", el saco amniótico, el cordón umbilical y el líquido), y el "embarazo" (que es el proceso biológico, no la entidad sometida a ese proceso).  
   
-Este artículo fue presentado originalmente en el Museo de Historia del Aborto y fue republicado con permiso del autor.  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Este artículo fue presentado originalmente en el Museo de Historia del Aborto y fue republicado con permiso del autor.

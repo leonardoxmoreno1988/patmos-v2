@@ -54,7 +54,3 @@ CAPITULOS ONLINE:
 **[12: El Linaje Russell](https://www.ritualypropaganda.com/2013/10/linajes-de-los-illuminati-el-linaje_2.html)**
 
 **[13: El Linaje Van Duyn](https://www.ritualypropaganda.com/2014/03/linajes-de-los-illuminati-el-linaje-van.html)**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

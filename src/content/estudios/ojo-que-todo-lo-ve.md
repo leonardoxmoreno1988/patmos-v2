@@ -168,7 +168,3 @@ El símbolo del ojo es un arquetipo que trasciende el tiempo y el espacio. Quiz�
 Hoy en día, la industria del entretenimiento se deleita con la deformación y la corrupción de símbolos poderosos en la búsqueda de su agenda degradante. La omnipresencia del signo de Un Ojo ahora simboliza la omnipresencia de la élite oculta. Son ellos diciendo: “Mira a quién controlamos”.
 
 Dicho esto, hay un lado positivo aquí. El signo de Un Ojo es una forma conveniente de identificar los medios que se deben evitar porque lo más probable es que esté empapado en la agenda degradante de la élite oculta.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

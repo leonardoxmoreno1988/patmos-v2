@@ -46,6 +46,4 @@ Por último, el aborto en casos de violación, comunica a las mujeres que sus ex
   
 La violación es suficientemente traumática; La víctima de la violación no necesita ser agobiada por el trauma añadido del aborto. Su maternidad ha sido suficientemente sacudida; matar a los hijos lo hace aún más difícil. La violación es terrible, al igual que el aborto. Pero si una nueva vida puede provenir de ese acto miserable, tal vez una nueva esperanza para el futuro pueda superar su dolor en el presente.  
   
-**Este artículo fue presentado originalmente en el sitio web de John Ferrer y fue utilizado con permiso del autor.**  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+**Este artículo fue presentado originalmente en el sitio web de John Ferrer y fue utilizado con permiso del autor.**

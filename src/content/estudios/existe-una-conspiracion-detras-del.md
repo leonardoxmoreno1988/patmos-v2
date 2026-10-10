@@ -109,7 +109,3 @@ La Fundación Rockefeller se encuentra en la vanguardia de los esfuerzos de la �
 > **"Por esto Dios los entregó a pasiones vergonzosas; pues aun sus mujeres cambiaron el uso natural por el que es contra naturaleza, y de igual modo también los hombres, dejando el uso natural de la mujer, se encendieron en su lascivia unos con otros, cometiendo hechos vergonzosos hombres con hombres, y recibiendo en sí mismos la retribución debida a su extravío."**
 > 
 > **\- Romanos 1:26-27**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

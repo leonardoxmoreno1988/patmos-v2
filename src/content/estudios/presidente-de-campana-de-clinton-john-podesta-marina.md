@@ -138,7 +138,3 @@ Marina es un icono de la "cultura pop ocultista". Aquí hay imágenes simbólica
 Otro dato interesante: el nombre de Marina en Twitter es @AbramovicM666  
   
 Esta es la razón por la que el término "élite oculta" se utiliza para describir el nivel más alto de poder. ¿Ven los puntos conectados?
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

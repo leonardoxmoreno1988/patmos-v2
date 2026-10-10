@@ -225,8 +225,3 @@ Episodio _God & Aliens_ Entre los principios de la teoría de los antiguos astro
 Existe una programación detallada que se proyecta desde el nacimiento hasta la adultez del prospecto a "iniciado". La persona en sí nunca cree o entiende el nivel de predisposición que tiene al luciferanismo incluso siendo partícipe de sus creencias y actitudes con el mundo. Si bien la agenda tras bastidores es mucho más compleja que la aceptación del "no estar solo en el universo", el esmero de los medios de comunicación en este fenómeno demuestra que es fundamental para los planes de la élite y el nuevo orden mundial. El mensaje final es: Nosotros también somos dioses.  
   
 Continuará en la parte III del artículo....
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

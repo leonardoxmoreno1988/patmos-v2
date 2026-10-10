@@ -92,8 +92,3 @@ Christopher Nolan, Zack Snyder, Frank Miller, Alan Moore, el hermano Wachowski y
 En los próximos años el **[nuevo orden mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)** atacará el verdadero cristianismo, NO la iglesia Apóstata. Se prohibirá en todo el mundo, y a los verdaderos seguidores de Cristo se les dirá “vuelvan a casa, vuelvan a casa” – y esto quiere decir, MUERAN. No desmayemos y recordemos que nuestro morada está en los cielos.  
   
 **Recomiendo leer: [En Las Profundidades De Krypton: La Interpretación Mesiánica De “El Hombre De Acero”](http://www.ritualypropaganda.com/2013/06/en-las-profundidades-de-kripton-la.html)**
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

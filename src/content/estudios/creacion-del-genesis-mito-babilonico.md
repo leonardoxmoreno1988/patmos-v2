@@ -121,7 +121,4 @@ Los dioses de la EE "descansaron" también, después de lanzar una gran fiesta, 
 
 ## Conclusión
 
-Los puntos de vista de los defensores de EE simplemente no corresponden con los datos - y por lo tanto no es de extrañar que la mayoría de los proponentes del "robo" han buscado sus paralelos en otras partes. (Para más sobre esas otras historias, vea la **[serie aquí](http://christianthinktank.com/gilgymess.html)** por el ThinkTank cristiano.)  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Los puntos de vista de los defensores de EE simplemente no corresponden con los datos - y por lo tanto no es de extrañar que la mayoría de los proponentes del "robo" han buscado sus paralelos en otras partes. (Para más sobre esas otras historias, vea la **[serie aquí](http://christianthinktank.com/gilgymess.html)** por el ThinkTank cristiano.)

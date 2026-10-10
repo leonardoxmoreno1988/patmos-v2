@@ -51,7 +51,3 @@ Las líneas críticas (59-67) se refieren a alguien que es “invocado para mant
 Quienquiera que murió, su ropa está recogida (línea 84) pero tampoco es claramente la de Baal. La razón por la que no se puede hacer una identificación clara es que, si bien Baal es de hecho un criminal en esta historia, también lo es Nabu, y Livingstone señala que puede haber otros criminales presentes.
 
 En conclusión, cualquier intento de comparar las "pasiones" de Baal y Jesús debe tener en cuenta la naturaleza clara de la historia de Baal como una alegoría elaborada de lo que sucedió cuando Babilonia fue invadida y la estatua de Baal fue tomada, así como considerar que la mayoría de los los paralelos trazados por Mead involucran prácticas “universales” en el mundo antiguo.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

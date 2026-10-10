@@ -108,7 +108,3 @@ En mi propia ciudad, la prensa libre de Winnipeg pontifica sobre "los verrugos t
 Barack Obama lo ha superado. Recuerde que cada dólar de nueva deuda es un dólar en el bolsillo de los banqueros centrales. Eventualmente la deuda será utilizada para esclavizar a los americanos.  
   
 El público continuará creyendo que hay una diferencia entre los bufones que se postulan para cargos públicos. Seguirán teniendo fe en los medios de comunicación. Pero algunos de nosotros sabemos que la raza humana está en la esclavitud de un culto satánico vicioso. Y cuando sea demasiado tarde, el resto del público lo sabrá también. Mientras tanto, debemos prepararnos para lo peor y esperar lo mejor.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -275,8 +275,3 @@ Autodenominado The Great Beast ([La Gran Bestia](http://www.ritualypropaganda.co
 El engaño de la magia como ciencia es solo una idea en el vasto concepto para la aceptación del iluminismo, también interpretado como satanismo. Debemos entender que el satanismo no solo se trata del sacrificio de gallinas o el encender velas negras, la aceptación de la doctrina satánica vendrá encubierta de sabiduría y evolución humana, conjuntamente con la idea del hombre como propio Dios, es por eso la necesidad del concepto "magia como ciencia" ya que conllevaría a supuestas formas de desarrollo científico. Nada mas lejano de la realidad. Una sociedad que practica abiertamente el ocultismo y la magia es lo que el nuevo orden mundial necesita, personas canalizando espíritus y/o demonios de diferentes eras iniciando lo que se denomina "La Era del Acuario", un falso "despertar" para el hombre moderno, un engañoso milenio de paz en la tierra que ocultamente funcionaría para preparar el gobierno y la llegada del anticristo o el cristo masón. El fruto del árbol prohibido está siendo repartido y posiblemente será aceptado en la sociedad como la nueva religión, una nueva ciencia que como en el Edén te prometerá abrirte los ojos y convertirte en tu propio Dios. Solo una mente consciente de la verdad de Cristo podrá identificar el fruto y entrar por la puerta angosta de la salvación.
 
 > "Entren por la puerta angosta. Porque la puerta y el camino que llevan a la perdición son anchos y espaciosos, y muchos entran por ellos; pero la puerta y el camino que llevan a la vida son angostos y difíciles, y pocos los encuentran." -Mateo 7:13-14
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

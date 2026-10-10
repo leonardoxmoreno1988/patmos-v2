@@ -134,7 +134,3 @@ En 2004, la empresa biotecnológica Clonaid vinculada a la secta de los Raeliano
 Muy por encima de lo que asegura la secta de los raelianos, existe una motivación de hollywood por la aceptación de los seres clonados y la manipulación genética. Esto debe llevarnos a una reflexión sobre si de verdad nuestros conceptos personales están siendo moldeados a los planes de la élite o si estamos manteniéndonos fieles a la palabra de nuestro creador. Si usted encuentra que unas películas con muchos efectos especiales son más confiables que las escrituras, ha llegado el momento de reconsiderarlo. Debemos saturar nuestras mentes y corazones con la verdad de Dios y permitir que esta nos cambie en vez de aceptar que el mundo del entretenimiento nos transforme. El profeta David escribió sobre el creador:**
 
 > "Tus ojos vieron mi embrión, y en tu libro se escribieron todos los días que me fueron dados, cuando no existía ni uno solo de ellos." -Salmos 138:16
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

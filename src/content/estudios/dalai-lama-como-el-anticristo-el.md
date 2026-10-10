@@ -106,8 +106,3 @@ Se profetizó que el Anticristo revelaría sus verdaderas creencias satánicas a
 > **"El comunicar a un Goy (impuro, animal, no judío) sobre nuestras relaciones religiosas sería igual a la matanza de todos los judíos, porque si los Goyim supieran lo que enseñamos acerca de ellos, nos matarían abiertamente."**  
 
 > **\-Talmud, Sanedrín 59a**
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

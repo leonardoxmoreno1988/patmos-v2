@@ -184,7 +184,3 @@ Sus miembros incluyen agencias de planificación familiar, organizaciones medioa
 Su ideología domina de forma creciente la escuela y los programas de educación escolares y los libros de texto.  
   
 En última instancia, sin embargo, su poder reside y se alimenta de la ignorancia de la población en países como los Estados Unidos.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

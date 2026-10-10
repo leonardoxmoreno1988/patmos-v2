@@ -115,7 +115,4 @@ Fuentes bíblicas tienen varias explicaciones para el origen del nombre Vaticano
   
 Sin embargo, de acuerdo con un conservador del Vaticano, la colina del Vaticano toma su nombre de la palabra latina Vaticanus, un vaticiniis ferendis, en alusión a los oráculos, o Vaticinia, que fueron antiguamente entregados aquí.  
   
-Por lo tanto, podemos concluir diciendo que el origen del nombre Vaticano no está claro, pero la mayoría de los investigadores creen que el nombre fue tomado de la lengua etrusca.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Por lo tanto, podemos concluir diciendo que el origen del nombre Vaticano no está claro, pero la mayoría de los investigadores creen que el nombre fue tomado de la lengua etrusca.

@@ -162,7 +162,3 @@ Otra alegoría importante es el hecho de que Cesar lucha con Koba durante la mad
 En conclusión, la película expone que la paz solo puede ser obtenida dejando nuestras diferencias y uniéndonos para traer un nuevo orden mundial. Si bien esto podría sonar muy altruista, la realidad es que la película insta en presentar las manipulaciones genéticas y muchas de las cosas que hace décadas llamábamos "extrañas" como algo aceptable. Agreguemos: simios que montan caballos y poseen cuerdas vocales. El gran trabajo de los ingenieros sociales [illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html) es reemplazar la salvación por medio de Cristo para exaltar el conocimiento y la doctrina luciferina. Es un buen tiempo para ser prudentes y poner a prueba cualquier espíritu que no es de Dios.  
 
 > "No crean a todo espíritu, sino pongan a prueba los espíritus, para ver si son de Dios. Porque muchos falsos profetas han salido por el mundo. Pero ésta es la mejor manera de reconocer el Espíritu de Dios: Todo espíritu que confiesa que Jesucristo ha venido en carne, es de Dios; y todo espíritu que no confiesa a Jesús, no es de Dios. Éste es el espíritu del anticristo, el cual ustedes han oído que viene, y que ya está en el mundo." -1 Juan 4:1-3 .
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -151,8 +151,4 @@ El voluntario francés es llevado a París para "robar" el banco, no sin antes s
 
 Hay un gran contraste entre los elementos de "distracción" para las masas y la verdadera, real y tangible magia para los elegidos. Según la masonería, solo los profanos buscan los placeres materiales y las riquezas (esto es retratado con los billetes cayendo sobre el público), los "elegidos" por otra parte, están por encima del conocimiento siempre tratando de escapar de la vida profana a través de los verdaderos conocimientos de la artes ocultas. Ellos sin embargo, primero deberán buscar al proveedor de este conocimiento y doblegarse ante él. El ojo es sin duda alguna, otra alegoría a Lúcifer y sus promesas de "iluminación", la venta irrevocable de sus almas.  
   
-Continuará en la [parte II](http://www.ritualypropaganda.com/2013/10/ahora-me-ves-el-origen-de-la-magia-y-el.html) del artículo...  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Continuará en la [parte II](http://www.ritualypropaganda.com/2013/10/ahora-me-ves-el-origen-de-la-magia-y-el.html) del artículo...

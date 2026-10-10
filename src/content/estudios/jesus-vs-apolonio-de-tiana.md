@@ -124,7 +124,4 @@ Ph.LAT Philostratrus. La Vida de Apolonio de Tyana. Cambridge: Harvard U. Press,
   
 Talb.WIG Talbert, Charles H. ¿Qué es un Evangelio? Filadelfia: Fortaleza, 1977.  
   
-Vota.GCB Votaw, Clyde W. Los Evangelios y Biografías contemporáneas en el mundo greco-romano. Filadelfia: Fortaleza, 1970.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Vota.GCB Votaw, Clyde W. Los Evangelios y Biografías contemporáneas en el mundo greco-romano. Filadelfia: Fortaleza, 1970.

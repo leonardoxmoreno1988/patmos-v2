@@ -393,7 +393,3 @@ A la izquierda hay un sello rosacruz y en la derecha hay una ilustración del Va
 7.  Ibídem.
 8.  Barbara G. Walker, The Woman's Encyclopedia of Myths and Secrets (San Francisco: Harper y Row Publishers, 1983), p. 753.
 9.  COMO. Raleigh, Geometría Oculta (Marina del Rey, CA: DeVorss & Co., 1932 y 1981).
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

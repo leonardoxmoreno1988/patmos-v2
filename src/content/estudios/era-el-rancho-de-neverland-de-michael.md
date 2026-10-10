@@ -181,7 +181,4 @@ El rancho de Neverland era más que la casa de Michael Jackson, fue una celebrac
   
 Uno se podría preguntar: ¿Fue Jackson fue un participante activo en esto? ¿Estaba tal vez programado para hacerlo? ¿Fue simplemente otro esclavo vagando por el rancho, completamente ignorante de lo que estaba sucediendo? Sólo un puñado de personas conocen la verdad – los que en realidad manejaban el rancho.  
   
-Una cosa es cierta: cuando Jackson comenzó a salir de Neverland y volvió a conectarse con la realidad, cuando su programación comenzó a romperse y su conciencia le empujó a hablar, fue cuando se le llenó de drogas hasta que dejó de respirar. Fue enviado a Neverland una última vez... y se aseguraron de que no volvería más. Ese es el destino de los esclavos MK. ¿Sus manejadores? Han desaparecido en las sombras, de completamente libres y con cero publicidad. Ese es el destino de los protegidos por la élite.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Una cosa es cierta: cuando Jackson comenzó a salir de Neverland y volvió a conectarse con la realidad, cuando su programación comenzó a romperse y su conciencia le empujó a hablar, fue cuando se le llenó de drogas hasta que dejó de respirar. Fue enviado a Neverland una última vez... y se aseguraron de que no volvería más. Ese es el destino de los esclavos MK. ¿Sus manejadores? Han desaparecido en las sombras, de completamente libres y con cero publicidad. Ese es el destino de los protegidos por la élite.

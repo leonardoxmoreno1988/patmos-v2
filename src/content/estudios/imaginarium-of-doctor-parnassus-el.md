@@ -203,8 +203,3 @@ Muchas películas en la carrera de Heath Ledger han girado en torno a temas ocul
 
   
 [![](https://vigilantcitizen.com/wp-content/uploads/2010/04/Heath_Ledger_444174a.jpg)](http://vigilantcitizen.com/wp-content/uploads/2010/04/Heath_Ledger_444174a.jpg)El artista representa a Heath rodeado por dos espíritus susurrando en sus oídos. Vicente dijo que los espíritus susurrando representan pensamientos internos de Heath. ¿Qué estaba pasando en su cabeza? ¿Fue víctima de control mental o posesión? ¿Se sacrificó por una hermandad oculta? No hay respuesta positiva en este momento. Todo lo que puedo decir por ahora es la última línea de Heath Ledger en la película, y su última vez como actor: No maten al mensajero.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

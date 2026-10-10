@@ -356,8 +356,3 @@ Este es un miembro del grupo ecologista radical, _Tierra Primero_. Él está ves
 4.  Aleister Crowley, Magia en teoría y práctica, p. 559-561.
 5.  Anton LaVey, Satán Habla (Los Ángeles: Feral House, 1997).
 6.  Boletín South East Christian Witness, Australia, enero de 1992, p. 5; ver también Peter Sawyer, Inside News, Australia, noviembre de 1981.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

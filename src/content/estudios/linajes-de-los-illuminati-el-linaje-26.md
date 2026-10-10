@@ -177,7 +177,4 @@ En 1991, el ganador del premio pulitzer James B. Stewart, fué publicado en la p
   
 En este momento, no hay nada que ate a Robert Freeman con el satanismo, y este no es el propósito aqui, en una investigación, todas las posibles pistas son tomadas en cuenta, yo estoy llevando a mis lectores dentro de esta investigación de las 13 familias, y aqui hay un posible sospechoso que hacer notar. Robert Freeman trabajó para la firma inversora judia, Goldman Sachs. Las oficinas principales de Goldman Sachs están en la calle Board en Nueva York. Justo a una corta distancia del piso de comercio de Goldman Sachs, en su edificio acristalado de la sede en el piso 29 se encuentra la oficina de Robert Freeman. Robert Freeman se graduó de Dartmouth. La complejidad del anillo indebido de información que hunde a los mandos medios y protege a los miembros de la élite es muy espesa, pero tras seguir las pistas podemos ver entre la bruma que esconde a los jerarcas poderosos que tienen el control total.  
   
-No hay ninguna duda del poder ejercido por la familia Freeman dentro de la jerarquia de Moriah.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+No hay ninguna duda del poder ejercido por la familia Freeman dentro de la jerarquia de Moriah.

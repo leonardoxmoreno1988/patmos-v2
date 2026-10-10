@@ -491,7 +491,3 @@ Teresa, una judía cuyo nombre de soltera era Simoes-Ferreira, es miembro de la 
 5.  Ibid., P. 79.
 6.  Entrevista telefónica con el historiador de Alcohólicos Anónimos, Nueva York, 1989; vea también Cathy Burns, Alcohólicos Anónimos desenmascarado: Engaño y Liberación (Mt. Carmel, PA: Sharing, 1991), pp.78-82.
 7.  S.L. McGregor Mathers, La Cábala Develada.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

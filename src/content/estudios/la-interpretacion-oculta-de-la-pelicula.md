@@ -326,7 +326,3 @@ Además de estos dos casos extremos, hay muchos otros casos de artistas que, des
 El Cisne Negro es una película profunda que puede interpretarse en muchos niveles. Miramos los elementos ocultos y de control mental de la película y examinamos sus mensajes en el sombrío mundo del espectáculo. El comentario de la película sobre el matrimonio del mundo del entretenimiento con fuerzas ocultas es algo que ha sido discutido en numerosas ocasiones en Ritual y Propaganda. Aunque el concepto rara vez es discutido o incluso observado por la persona promedio, los expertos en el mundo del entretenimiento a menudo dan fe de extrañas fuerzas de diversa índole en el trabajo en la industria.  
   
 A través de la metamorfosis de Nina de una persona tímida a una superestrella poseída, los espectadores experimentan el lado oscuro del entretenimiento. El control mental, la manipulación y la inmoralidad chocan con el éxito y el reconocimiento. Los impulsos oscuros, las adicciones y la autodestrucción surgen con genio artístico y brillantez creativa. Los que están "ejecutando el espectáculo" saben cómo sacar el Cisne Negro de artistas prometedores ... y saben muy bien que los destruirá a la larga. Y están bien con eso. De la misma manera en que Beth fue apartada para dar la bienvenida a una nueva Reina de los Cisnes, el público siempre dará la bienvenida a la nueva estrella de la élite con aplausos y aplausos. Porque, como dicen, el espectáculo debe continuar.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

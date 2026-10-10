@@ -110,7 +110,4 @@ Aún así, la cristiandad oficial considera a Colson como el epítome del ejempl
 
   
 
-La mayoría de los padres cristianos no dudan en comprar libros de brujería de Harry Potter para sus hijos. La brujería ahora prácticamente conquistó a todo el establishment cristiano.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+La mayoría de los padres cristianos no dudan en comprar libros de brujería de Harry Potter para sus hijos. La brujería ahora prácticamente conquistó a todo el establishment cristiano.

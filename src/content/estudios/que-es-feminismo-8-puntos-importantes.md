@@ -73,7 +73,4 @@ Sobre el espectáculo de "Oprah", vi tres mujeres jóvenes entrevistados acerca 
   
 Oprah instó a estas niñas "Siga sus instintos." Nadie mencionó que para las mujeres de 20 años de edad, "seguir su instinto" podría implicar tener un bebé. Nadie está siguiendo los instintos más. Las feministas están haciendo lo que les dice que hagan.  
   
-Es el momento de hombres empezaron a escuchar sus instintos demasiado. Queremos ser los amos de nuestro dominio. Queremos amar y poseer ("prestar atención", "saber") nuestras esposas. Queremos crear familias que son cariñosos, viva y alegre. Es hora hemos abrazado el tranquilo, discreto hermosas mujeres que quieren ser compañeros de nuestra ayuda.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Es el momento de hombres empezaron a escuchar sus instintos demasiado. Queremos ser los amos de nuestro dominio. Queremos amar y poseer ("prestar atención", "saber") nuestras esposas. Queremos crear familias que son cariñosos, viva y alegre. Es hora hemos abrazado el tranquilo, discreto hermosas mujeres que quieren ser compañeros de nuestra ayuda.

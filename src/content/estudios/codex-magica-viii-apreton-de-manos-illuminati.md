@@ -570,7 +570,3 @@ Gorbachov, iniciado en el Gran Logia del Oriente, en París, Francia, habló en 
 **Referencias:**  
 
 1.  Cathy Burns, _Secretos Ocultos de la Estrella del Este_ (Mt. Carmel, PA: Sharing, 1994); ver también Albert Mackey, _A Manual of The Lodge_ (Nueva York: Charles E. Merrill Co., 1870), p. 40-41.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

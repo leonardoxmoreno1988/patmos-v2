@@ -246,9 +246,4 @@ Los Pilares se utilizan a veces en la cultura pop por otras razones que solo fin
 4.  Hall, op. cit
 5.  Eliphas Levi, Dogme et Rituel
 6.  Corinne Heline, Old Testament Bible Interpretations & The Bible and the Tarot
-7.  Levi, op. cit. 
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+7.  Levi, op. cit.

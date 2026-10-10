@@ -214,7 +214,4 @@ Probablemente el ejemplo más extremo de una sociedad secreta que adora el princ
 > **"La Fraternitas Saturni (FS), la Hermandad de Saturno, ha llegado a ser conocida por los lectores ingleses a través de descripciones fragmentarias que enfatizan los aspectos sensacionales, mágicos de la logia o su lado más oscuro, más satánico. Esto es comprensible a la luz del hecho de que el FS es (o fue) la organización más descaradamente luciferiana en el avivamiento oculto occidental moderno, y su práctica del ocultismo sexual quizás el más elaboradamente detallado de todas las logias. El FS representa una mezcla única de cosmología astrológica, demonología neo-gnóstica, ocultismo sexual y principios de organización masónica. Esta gran síntesis fue originalmente la visión de un hombre, el Gran Maestro del FS, Gregor A. Gregorius." - Stephen E. Flores, Fuego y Hielo: La historia, la estructura y los rituales mágicos** **de la orden moderna alemana** **más influyente: La Hermandad de Saturno**
 
   
-Para más información sobre este tema, vea la Parte 4 de Imperio Mundial - Destino Final (Monumentos and Símbolos de Engaño).  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Para más información sobre este tema, vea la Parte 4 de Imperio Mundial - Destino Final (Monumentos and Símbolos de Engaño).

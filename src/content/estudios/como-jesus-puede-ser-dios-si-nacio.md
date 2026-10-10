@@ -123,7 +123,4 @@ Cuando examinamos las Escrituras, lo que claramente vemos en Jesús es que:
 -   Existió antes de Juan el Bautista, aunque Juan nació 6 meses antes de él.
 
   
-Así que la respuesta es, Jesús era una deidad eternamente existente que nació en la carne hace 2000 años. Su existencia física tuvo un comienzo, pero su existencia como persona en la Deidad no tiene comienzo. ¡Espero que hayan disfrutado este artículo y que sirva como una bendición para su vida!  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Así que la respuesta es, Jesús era una deidad eternamente existente que nació en la carne hace 2000 años. Su existencia física tuvo un comienzo, pero su existencia como persona en la Deidad no tiene comienzo. ¡Espero que hayan disfrutado este artículo y que sirva como una bendición para su vida!

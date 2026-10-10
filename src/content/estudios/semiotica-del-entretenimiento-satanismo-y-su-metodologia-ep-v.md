@@ -103,7 +103,3 @@ _"Satanás es el Dios de nuestro planeta y el único Dios..."_ 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC6Xv-O5D1aLypfx1_lxmhe3NGy7V5SJln4uJFqNsM9aP89GMe3-QCdqGfrFukl9Emhs-NS5-f3pX8P8tKwXDnEIw3k3nzG_3AxFeh-SwOqnuDrpqMgVh2ysa4P42Bw-4bR9DLF8n00Ao/s1600/laberinto-wesworld.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC6Xv-O5D1aLypfx1_lxmhe3NGy7V5SJln4uJFqNsM9aP89GMe3-QCdqGfrFukl9Emhs-NS5-f3pX8P8tKwXDnEIw3k3nzG_3AxFeh-SwOqnuDrpqMgVh2ysa4P42Bw-4bR9DLF8n00Ao/s1600/laberinto-wesworld.jpg)
 
 **Otras referencias al control mental pueden ser los laberintos y las experiencia tipo loop que experimentan los robots del parque.**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

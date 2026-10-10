@@ -394,9 +394,4 @@ Años después los medo-persas dieron paso a los griegos (el vientre y los muslo
   
 16 **[Los cuatro reinos de la tierra y el Reino Futuro](http://www.clasebiblica.com/?p=91)**  
   
-17 Símbolos en el **[dinero de América](https://www.philadelphiafed.org/education/teachers/publications/symbols-on-american-money)**  
-  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+17 Símbolos en el **[dinero de América](https://www.philadelphiafed.org/education/teachers/publications/symbols-on-american-money)**

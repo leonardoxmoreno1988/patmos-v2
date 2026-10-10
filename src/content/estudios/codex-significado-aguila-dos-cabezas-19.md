@@ -462,7 +462,3 @@ Hislop (Las Dos Babilonias) lo llamó "la fuente y la raíz de todos los dioses 
 8.  Paul Huston, Dominando la Brujería.
 9.  Peggy Noonan, diario The Wall Street, 25 de agosto de 2001.
 10.  Ibídem.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

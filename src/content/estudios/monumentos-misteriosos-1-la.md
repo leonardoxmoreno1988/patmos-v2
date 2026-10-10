@@ -401,8 +401,4 @@ El edificio del Reichstag alemán de estilo greco-romano en Berlín fue reabiert
 
   
 
-Estadio Olímpico (c. 1963) Tokio, Japón incluye un zigurat circular en espiral hacia un obelisco. Vemos aquí el triunfo de la arquitectura masónica en el Japón posterior a la Segunda Guerra Mundial, patrocinado por el general Douglas MacArthur, 33° albañil de rito escocés de los Estados Unidos de América. 
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Estadio Olímpico (c. 1963) Tokio, Japón incluye un zigurat circular en espiral hacia un obelisco. Vemos aquí el triunfo de la arquitectura masónica en el Japón posterior a la Segunda Guerra Mundial, patrocinado por el general Douglas MacArthur, 33° albañil de rito escocés de los Estados Unidos de América.

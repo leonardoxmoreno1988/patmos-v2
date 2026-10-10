@@ -41,10 +41,19 @@ const turndown = new TurndownService({
 });
 turndown.remove(["script", "style", "iframe"]);
 
-/** Turndown leaves bare "**"/"_" lines where Blogger wrapped block elements in <b>/<i>. */
+// The old newsletter footer: "**PD:** Este mensaje (or libro) fue enviado vía email. Suscríbase aquí:", often
+// followed by the author photo and bio. Everything from it to the end of the post is dropped.
+const NEWSLETTER_FOOTER =
+  /^.*?(?:(?:\*\*|__)?PD:(?:\*\*|__)?\s*(?:\*\*|__)?Este \p{L}+ fue enviado|Este \p{L}+ fue enviado vía email\.?\s*Suscríbase aquí)[\s\S]*$/mu;
+
+/**
+ * HTML -> Markdown, without the newsletter footer. Turndown also leaves bare "**"/"_" lines where
+ * Blogger wrapped block elements in <b>/<i>.
+ */
 const toMarkdown = (html) =>
   turndown
     .turndown(html)
+    .replace(NEWSLETTER_FOOTER, "")
     .replace(/^[ \t]*(?:\*\*|__|_|\*)[ \t]*$/gm, "")
     .replace(/\n{3,}/g, "\n\n")
     .trim();

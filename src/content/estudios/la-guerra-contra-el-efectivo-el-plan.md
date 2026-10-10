@@ -1368,7 +1368,3 @@ _128 & # 9; McKinsey on Payments, McKinsey & Co, marzo de 2013_
 Copyright © Ross Clark  
   
 El derecho de Ross Clark a ser identificado como autor se ha afirmado de conformidad con la Ley de Derecho de Autor, Diseño y Patentes de 1988.
-
-  
-
-**PD:** Este libro fue enviado vía email. Suscríbase aquí:

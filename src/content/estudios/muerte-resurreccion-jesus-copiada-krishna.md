@@ -79,6 +79,4 @@ Curiosamente, los primeros críticos del cristianismo nunca dijeron que la histo
 
 Conclusión: ¿Krishna fue crucificado? No. No en ninguna historia hindú en ninguna parte. ¿Resucitó Krishna? Tal vez. Pero a pesar de lo que Graves insiste, Krishna no fue un ejemplo precristiano de un **[salvador](http://www.ritualypropaganda.com/2013/06/en-las-profundidades-de-kripton-la.html)** crucificado.  
   
-No hay salvación, perdón de pecados (o escape del karma para esa materia) o esperanza de vida eterna vinculada a ella. Sólo comparar las historias de Jesús y Krishna muestra que Graves está equivocado en este caso. Puede estar seguro de que la muerte y resurrección de Jesús no fue copiada de Krishna.  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+No hay salvación, perdón de pecados (o escape del karma para esa materia) o esperanza de vida eterna vinculada a ella. Sólo comparar las historias de Jesús y Krishna muestra que Graves está equivocado en este caso. Puede estar seguro de que la muerte y resurrección de Jesús no fue copiada de Krishna.

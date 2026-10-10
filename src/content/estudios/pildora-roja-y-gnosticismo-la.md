@@ -257,7 +257,3 @@ Detrás de las increíbles escenas de acción, efectos especiales y revelaciones
 Cualquiera que desee humanizar a Cristo, subir al cielo y poner su trono junto al de Dios deberá pagar el precio de no tener el Espíritu de la verdad. Este es mas bien, el espíritu del anticristo, que dirige Hollywood y que procrea personajes anticristicos como Neo y los envuelve en vanos valores "morales" y superfluas batallas entre el "bien y el mal". Si usted cree que Jesús no hablo sobre los acontecimientos antes de su segunda venida, le sorprenderá el hecho que no solo sí lo hizo, sino que reveló la necesidad de que estas falsas doctrinas sean manifestadas antes de su segunda venida. De igual manera, mientras que la gnosis niega que Cristo volverá para juzgar al mundo, la Biblia describe que mientras Jesús ascendía frente a sus discípulos, se les presentaron dos hombres vestidos de blanco que les dijeron:
 
 > "Galileos, ¿qué hacen ahí plantados mirando al cielo? Este Jesús que de entre ustedes ha sido llevado al cielo volverá de la misma manera que lo han visto marcharse"
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

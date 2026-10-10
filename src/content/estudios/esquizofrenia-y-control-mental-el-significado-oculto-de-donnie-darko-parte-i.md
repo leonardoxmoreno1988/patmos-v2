@@ -230,8 +230,3 @@ En el gnosticismo esta gran oposición se da por parte del cristianismo bíblico
 
    
 Continuará en la segunda parte del artículo...
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

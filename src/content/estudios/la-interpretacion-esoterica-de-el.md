@@ -222,8 +222,3 @@ La mandrágora es una planta importante en la tradición oculta, debido principa
   
 
 Esta película es uno de los opuestos y reversos: la realidad versus la ficción, el bien contra el mal, inocencia, frente a la edad adulta, femenino versus masculino, supramundo frente al inframundo, etc. Incluso el mismo fin se puede interpretar de dos maneras opuestas: o bien Ofelia crea un mundo de cuento de hadas en la cabeza para escapar de la vida real y en última instancia comprometiendo una forma de suicidio, o se trata simplemente de un ser "despierto" que vio lo que las masas del mundo material no puede ver, y que finalmente terminó su proceso de "iluminación" para convertirse en un inmortal verdadera. La historia es también una inversión del paradigma habitual de la auto-realización: la transformación de Ofelia sucede en las sombras y en la oscuridad, mientras que la iluminación, como su nombre lo dice, está asociado con la luz, la iluminación de Ofelia pasa en el mundo terrenal, mientras que la transformación espiritual se asocia generalmente con el cielo; el mismo iniciador, Pan (Baphomet), es una deidad conocida por emborracharse en el bosque y festejar con ninfas, mientras que la iluminación se basa en el dominio de los impulsos más bajos, la consumación de la iniciación de Ofelia le exige a arrastrarse en el fango, ser perseguido por un hombre pálido y finalmente derramar su propia sangre como sacrificio ritual. Entonces, ¿cuál es el verdadero destino de Ofelia? Como la última línea de la película: las claves de la respuesta se puede encontrar por aquellos que tienen ojos para ver.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

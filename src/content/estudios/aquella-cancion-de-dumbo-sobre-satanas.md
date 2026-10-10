@@ -219,7 +219,3 @@ Todos los niños, ahora adultos que crecieron viendo Disney, y muchas de las dem
   
 
 > **"Los adultos son sólo niños crecidos."**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -91,8 +91,4 @@ Llámalo iluminismo, secularismo, luciferianismo, humanismo o paganismo. Es Cáb
   
 La humanidad ha sido abducida por un intento sicópata de destruir el “Viejo Orden” (realidad) y construir una realidad bizarra, encerrada en sí misma, violenta, depravada… en su lugar.  
   
-Estos sicópatas controlan el crédito del gobierno y los medios de comunicación. Por lo tanto, son capaces de controlar a nuestros líderes y de engañar a la sociedad para que abrace su propia destrucción.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Estos sicópatas controlan el crédito del gobierno y los medios de comunicación. Por lo tanto, son capaces de controlar a nuestros líderes y de engañar a la sociedad para que abrace su propia destrucción.

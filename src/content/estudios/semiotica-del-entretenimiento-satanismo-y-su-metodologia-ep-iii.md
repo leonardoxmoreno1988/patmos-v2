@@ -115,8 +115,3 @@ _"Este es el secreto de la propaganda: saturar totalmente a la persona a quien l
 **[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDPZ8sNFP20yyXk13Vk6SfwEsbag7lgSPKzdfwXCzlv3L48NAKHq9-aOddzR2evenW14QS0sbuCoiSHGow_WsvE3icD4KkFR9inmjL3wExu6mS_W0GCTm2u5lDaX_4WZdyMBsj1F17T0c/s1600/taylor-satan.jpg)](https://www.blogger.com/u/1/#)**
 
 **Al final los fans son hipnotizados para ver lo "genial" que es adorar a Satanás.**
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

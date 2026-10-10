@@ -65,7 +65,3 @@ Daniel Radcliffe en su nueva película _Horns_ (Cuernos). --Y muchos pensaban q
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBYX-J10vl_MjIerkbUb_nnwh6mmcaacDKxoZBHi1VangSK1-e1QPSvjf79nUdFkYaUUsEuA2ImMAbB6_0Jg-Dfkqf9ZgJxOOhH-hMh83jdhzVPp2gboas7CFuquoZ0E44PFKelwIl8n4/s1600/rapgod5.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBYX-J10vl_MjIerkbUb_nnwh6mmcaacDKxoZBHi1VangSK1-e1QPSvjf79nUdFkYaUUsEuA2ImMAbB6_0Jg-Dfkqf9ZgJxOOhH-hMh83jdhzVPp2gboas7CFuquoZ0E44PFKelwIl8n4/s1600/rapgod5.jpg)  
 **Al final Eminem tiene el poder de caminar sobre las aguas como Jesús**  **en el Mar de Galilea.** **La letra menciona:** **"¿Por que ser un rey, si pue****des convertirte en dios?".**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

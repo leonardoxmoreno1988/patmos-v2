@@ -269,8 +269,3 @@ Como hemos visto, los líderes usando el gesto de la "mano oculta" tuvieron una 
   
 
 Los miembros de estas cofradías podrían haber mantenido opiniones diferentes e incluso haberse adherido a distintas facciones (comunismo vs capitalismo), pero la filosofía fundamental, las creencias y los objetivos fundamentales siguen siendo los mismos: la llegada de una "Edad de la Razón y la Ilustración". Por supuesto, cualquier investigador serio ya está consciente del papel de la Masonería en el desarrollo de la historia mundial. El gesto de la "mano oculta", tan a menudo utilizado por personajes históricos es sencillamente la expresión exterior de este hecho poco conocido. Como dijo Confucio, "Signos y símbolos gobiernan el mundo, no las palabras ni las leyes." Las palabras y las políticas de esta gente con el tiempo serán tergiversadas y olvidadas, pero su imagen quedará para la posteridad.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

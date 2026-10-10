@@ -99,7 +99,3 @@ Por último, la palabra Halloween es un compuesto de dos términos: "Hallow" y "
   
 Cuando un niño es adoctrinado en participar en estas fiestas, se esta involucrando indirectamente con una de las festividades más antiguas e importante del calendario satanista. Dios con mucha razón nos ordena no participar de las cosas que practica el mundo. En Juan 1:11 menciona: "Amado, no imites lo malo, sino lo bueno. El que hace lo bueno es de Dios, pero el que hace lo malo no ha visto a Dios." A diferencia de otros mensajes que podrían llamarse "ocultos", la fiesta del Halloween es clara en cuanto a su simbolismo. El "Día del Señor de la Muerte" es el mejor término para describirlo.  
 .
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

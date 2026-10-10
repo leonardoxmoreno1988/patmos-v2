@@ -200,7 +200,3 @@ Mucho he escrito diciendo que el autor del mismo una vez fue un incrédulo y esc
 3.  William L. Cummings, "Ritos y Rituales", Masón del Arco Real, invierno de 1994, p. 107.
 4.  Ray V. Denshaw, citado en Ibid.
 5.  Ibid
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

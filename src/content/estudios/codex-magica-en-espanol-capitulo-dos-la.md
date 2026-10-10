@@ -713,7 +713,3 @@ Pocos años después de escribir esto, Jack Parsons murió en una explosión de 
 22.  C. Fred Kleinknecht, "Un mundo feliz de héroes", The Scottish Rite Journal, marzo de 2002.
 23.  Vera Stanley Alder, op. cit., p. 164.
 24.  Jack Parsons, The Collected Works of Jack Parsons (Falcon Press, O.T.O., 1989).
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

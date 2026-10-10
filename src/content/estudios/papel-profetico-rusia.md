@@ -477,7 +477,3 @@ Otros "expertos" vinieron de Rusia y China, con uno de sus "representantes espec
   
 
 Claramente, los últimos años han mostrado un resurgimiento público de los principios socialistas y comunistas de las Naciones Unidas, que también es valorado por la estrategia socialista de Obama. El espíritu del comunismo está claramente vivo y coleando.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -132,7 +132,4 @@ Podemos ver claramente que Jesús no estaba diciendo a cada persona en la tierra
   
 1\. Chopra, D., Deepak Chopra sobre Jesús. Tiempo, 2008. disponible  
   
-2\. Calvin, J., y Pringle, W. (2010). Comentario del Evangelio según Juan (Vol. 1, p.411). Bellingham, WA: Software de la Biblia de Logos.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+2\. Calvin, J., y Pringle, W. (2010). Comentario del Evangelio según Juan (Vol. 1, p.411). Bellingham, WA: Software de la Biblia de Logos.

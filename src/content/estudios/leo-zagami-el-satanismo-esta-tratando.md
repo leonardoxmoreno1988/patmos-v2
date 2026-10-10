@@ -53,8 +53,4 @@ Su líder, Lucien Greaves, (aka Doug Mesner) está enloquecido de poder. Shane B
 El Templo satánico es simplemente otra creación Illuminati , una nueva etapa en su malvado programa para conquistar el mundo.  
   
 \--  
-Más de Zagami en su nuevo libro, "**[Confesiones de un Illuminati](http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_illuminati_29.htm)**".  
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Más de Zagami en su nuevo libro, "**[Confesiones de un Illuminati](http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_illuminati_29.htm)**".

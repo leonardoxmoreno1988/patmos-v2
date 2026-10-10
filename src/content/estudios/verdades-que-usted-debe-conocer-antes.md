@@ -142,8 +142,3 @@ Coca Cola en la producción de sus bebidas utiliza como materia prima productos 
   
 
 Estas son las verdades que usted debe saber antes de decidir envenenarse o envenenar a su familia. TU DECIDES.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

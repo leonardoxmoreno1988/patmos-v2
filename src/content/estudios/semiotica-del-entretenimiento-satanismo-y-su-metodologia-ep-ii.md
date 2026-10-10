@@ -120,9 +120,3 @@ tags: ["Cine y Cultura"]
 **[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic1FBvZNLGagaMOtbkMO48Go51RjDuVs1TriDa0QI7We3fZHxs36ud_IozIbMF9bH_5qOReqc-E8N_2aondPc5ZFs7JOmMSVZUcLGTigcItD52LNfRO5-evaaw8GIWP2Nv_-bP9C0bFbw/s1600/michoacan-patron-masonico.jpg)](https://www.blogger.com/u/1/#)**
 
 **Luego de la intervención de la milicia mexicana todo podría resumirse en derramamiento de sangre, muerte de civiles y caos.**
-
-  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

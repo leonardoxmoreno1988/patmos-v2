@@ -83,7 +83,3 @@ Con toda la nueva evidencia encontrada saliendo a la luz, es posible e incluso p
 No sería la primera vez que el OSS ayuda a un alto funcionario nazi a escapar del castigo y captura. Mira la historia de Adolf Eichmann, que se encontraba en Argentina en la década de 1960.  
   
 ¿Acaso Hitler escapó a la Argentina? La respuesta es sí."
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -277,7 +277,3 @@ Whitfield Diffie, altamente aclamado criptógrafo y diseñador de programas de c
 6.  D.C Yermak, El Eje de la Muerte: El Vaticano, la Masonería, el Sionismo, los Enemigos de Dios (Grecia).
 7.  Dean Grace, carta a Texe Marrs, 20 de junio de 2001.
 8.  Ibídem.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

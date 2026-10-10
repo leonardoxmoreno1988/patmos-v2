@@ -344,7 +344,3 @@ El dictador comunista chino Mao Tse Tung a menudo llevaba una gorra con una estr
 7.  O.J. Graham, The Six Pointed Star (Ontario, Canadá: The Free Press 777, 1984).
 8.  Albert P. Mackey, Enciclopedia de la Francmasonería y Ciencias de los Vástagos (Chicago: Masonic History Company, 1896 y 1912).
 9.  Royal Arch Mason, otoño de 1993.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

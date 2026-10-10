@@ -449,10 +449,4 @@ Lance Armstrong es un residente de Austin, Texas, y es posible que la señal del
   
 La actriz Meryl Streep da la señal del diablo justo sobre la cabeza del director de _Angels in America_, Mike Nichols. En 2004, la serie de HBO _Angels in America_ ​​fue transmitida. Era posiblemente el programa de televisión más maligno jamás transmitido. El director y la actriz recibieron el premio "Globo de Oro", lo que indica cuán venerados han sido Hollywood y las redes de televisión.  
   
-La serie representaba ángeles que tenían relaciones sexuales con homosexuales y se burlaban blasfemamente de Dios. También elogió a espías comunistas como Ethel Rosenberg. (Foto: Newsweek, 17 de noviembre de 2003)  
-  
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+La serie representaba ángeles que tenían relaciones sexuales con homosexuales y se burlaban blasfemamente de Dios. También elogió a espías comunistas como Ethel Rosenberg. (Foto: Newsweek, 17 de noviembre de 2003)

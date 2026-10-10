@@ -238,8 +238,3 @@ c) Los clanes Johnson-Wilson. Un linaje alemàn satánico que proviene de la ubi
 
 d) El Comité para el Cuidado de los Niños de Europa trajo a los niños de los campos de concentración a los EE.UU. Por lo menos algunos de estos niños ya habían recibido control mental basado en el trauma nazi, y fueron colocados en familias ocultas. La conexión alemana a los Illuminati necesita mayor cobertura en este boletín.  
 .
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

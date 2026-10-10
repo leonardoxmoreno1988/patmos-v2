@@ -55,7 +55,4 @@ Pero hay un mensaje que vale la pena aquí. Vivimos en una sociedad pagana, dond
   
 
   
-.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+.

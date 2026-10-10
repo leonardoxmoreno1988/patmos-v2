@@ -360,9 +360,3 @@ En esta tercera parte queda implícito el cambio de paradigmas religiosos que el
   
 
 En los siguientes capítulos veremos la naturaleza de los ángeles caídos, su modus operandi y su intervención genética en el libro de Génesis.
-
-  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

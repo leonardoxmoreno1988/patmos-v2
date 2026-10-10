@@ -140,8 +140,3 @@ Se nos dice que debemos "dar un salto de fe" y saltar a nuestra desaparición. L
   
 
 No olvidemos que la misma trama superficial nos explica casi detalladamente que tan facil se puede inducir un pensamiento y lograr ciertos actitudes en una persona. Exactamente lo que Hollywood y la mayoria de los medios de comunicaciòn hacen diariamente para adoctrinar a las masas. ¿Acaso nosotros somos víctimas de una Inception? Si de verdad nuestra mente es la escena del crimen. No debemos perder de vista a los criminales.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -172,8 +172,3 @@ Yo creo que la historia de las principales 13 familias Illuminati, son la llave 
 Yo creo que un investigador serio se haria a si mismo un favor al rastrear los lazos que una familia tiene con un linaje de los 13 principales y cómo esa familia interactua con las principales. Este es el principio detrás del porqué los libros de historia hablan tanto de la realeza. Todo lo que hago es animar a que la gente investigue la realeza de Satanás a fin de comprender cómo funciona el reino del mismo y cómo funciona su poder en la escena detrás de cámaras.  
   
 En mi libro, "Ser prudentes como las Serpientes", doy un muy buen ejemplo de cómo el reino de Satán trabaja detrás de escenas. Los Illuminati controlan a la Watchtower Society. La cabeza nominal de la sociedad de la Watchtower ha sido por muchos años el presidente Fred Franz. Sin embargo, Fred Franz ya ha envejecido considerablemente, ha quedado ciego y esta postrado en cama. Natheer Salih, quien supuestamente era el guardaespaldas y ayudante de Fred Franz, era el encargado de recibir cualquier comunicación relativa a la sociedad de la Watchtower, mediante preguntarle a Franz lo que opinaba y después venía con una respuesta. Aparentemente Salih provenia de un linaje judio iraqui. El usa grandes anillos y tiene gustos muy caros. Salih era el canal en el que los Illuminati pasaban sus decisiones a la sociedad de la Watchtower dentro del cuerpo gobernante y su staff.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

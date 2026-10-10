@@ -318,7 +318,3 @@ Todo se remonta a un complot conspirativo para gobernar al soberano de este mund
   
 
 Se necesitará la conciencia de un gran grupo de personas para detener a este grupo de personas enfermas y tristes, que en última instancia no pueden amarse a sí mismos ni a los demás, sabiendo lo que han hecho.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

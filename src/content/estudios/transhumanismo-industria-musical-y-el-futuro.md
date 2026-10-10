@@ -248,7 +248,4 @@ Aunque el hombre fue desterrado del Jardín, nunca renunció a la esperanza en s
   
 La marca de la bestia se ha asociado durante mucho tiempo con algún tipo de chip RFID incrustado en el cuerpo humano, sin embargo, esta vista es una vista superficial, como un médico que prescribe un síntoma sin ocuparse de la causa raíz.  
   
-La agenda final de la marca de la bestia es literalmente reconfigurar el ADN en los seres humanos. ¿Por qué? Porque nuestro ADN contiene los ingredientes que nos reflejan siendo hechos a la imagen de Dios. Si esa misma esencia puede ser manipulada, entonces significa que nos volvemos irreconocibles a Dios, resultando en un juicio severo y significativo. Estamos advertidos.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+La agenda final de la marca de la bestia es literalmente reconfigurar el ADN en los seres humanos. ¿Por qué? Porque nuestro ADN contiene los ingredientes que nos reflejan siendo hechos a la imagen de Dios. Si esa misma esencia puede ser manipulada, entonces significa que nos volvemos irreconocibles a Dios, resultando en un juicio severo y significativo. Estamos advertidos.

@@ -323,8 +323,3 @@ http://www.illuminati-news.com/art-and-mc/field-of-art.htm
 (9) Jude Fisher, The Lord of the Rings: The Fellowship of the Ring, Visual Companion (Boston: New York, 2001), page 57.  
 (10) Source: Fritz Springmeier  
 (11) "The Letters", page 172
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

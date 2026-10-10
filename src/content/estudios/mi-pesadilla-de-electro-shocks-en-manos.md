@@ -264,7 +264,3 @@ La actriz **Celia Imrie** (El diario de Bridget Jones, Star Wars: Episodio I, La
   
 
 ****Fuente traducida de [Daily Mail](http://www.dailymail.co.uk/femail/article-1372700/My-electric-shock-nightmare-hands-CIAs-evil-doctor-Calendar-Girls-star-Celia-Imrie.html#ixzz1ITEdML7o).****
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

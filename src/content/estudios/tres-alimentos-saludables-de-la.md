@@ -227,8 +227,3 @@ La cúrcuma puede ser consumido en una variedad de maneras, pero, debido a su sa
 ## En conclusión
 
 Zaatar, el aceite de semilla de negro, y el polvo de la cúrcuma se consideraron verdaderas maravillas alimenticias por milenios, ya que tienen el poder magnífico de curar. También mejoran la salud general de la limpieza del cuerpo, agilizan la mente y nuestras capacidades motrices. Por desgracia, en lugar de beneficiarse de estos regalos asequibles de la naturaleza, muchos recurren a pastillas hechas por las compañías farmacéuticas con fines de lucro que se sienten "mejor". Algunas de las píldoras que se venden en la televisión tienen terribles efectos secundarios como "pensamientos suicidas". Si una píldora hace que su cerebro quiera un suicidio como un "efecto secundario", tal vez es una señal del universo de que no debe tomar esta píldora. ¿Los efectos secundarios de los tres alimentos en este artículo? Sentirse mejor y estár en un mejor estado de ánimo. Ese es el universo que le dice a usted que debe comer estos alimentos... miles de años de experiencia, la sabiduría y el conocimiento coinciden.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

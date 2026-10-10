@@ -514,8 +514,4 @@ Para cerrar, no hay nada nuevo bajo el sol. La misma vieja mentira ha sido retor
 
   
 
-Sin embargo, se nos recuerda acerca de las palabras del apóstol Pablo que habla acerca de esos seres que aparecen como ángeles de luz y nuestra necesidad de estar atentos y firmes y resistir las tentaciones y los engaños del enemigo. (II Corintios 11:14).  
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Sin embargo, se nos recuerda acerca de las palabras del apóstol Pablo que habla acerca de esos seres que aparecen como ángeles de luz y nuestra necesidad de estar atentos y firmes y resistir las tentaciones y los engaños del enemigo. (II Corintios 11:14).

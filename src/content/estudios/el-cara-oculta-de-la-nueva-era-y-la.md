@@ -566,9 +566,4 @@ http://www.geocities.com/endtimedeception/worship.htm
 http://cuttingedge.org/free11.html  
 http://cuttingedge.org/free11.html  
 http://www.masonicinfo.com/pike.htm  
-The Hidden Secrets Of The Rainbow by Constance E. Cumbey. 
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+The Hidden Secrets Of The Rainbow by Constance E. Cumbey.

@@ -453,8 +453,4 @@ Fueron acusados de herejía, adoración al diablo, escupir en la cruz, sodomía,
 **La muerte de Jaques de Molay.**
 
   
-Por retractarse de su confesión obtenida anteriormente con la tortura, Jacques de Molay fue colocado sobre un fuego lento y sus cenizas esparcidas en el río Sena. Antes de morir, maldijo al Papa y al rey diciéndoles que le seguiría en ese año, y lo hicieron.  
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Por retractarse de su confesión obtenida anteriormente con la tortura, Jacques de Molay fue colocado sobre un fuego lento y sus cenizas esparcidas en el río Sena. Antes de morir, maldijo al Papa y al rey diciéndoles que le seguiría en ese año, y lo hicieron.

@@ -513,7 +513,3 @@ Variaciones del símbolo del Ying Yang.
 6.  Cathy Burns, _Secretos ocultos de la Estrella del Este_ (Mt. Carmel, PA: Sharing, 1994).
 7.  Ibídem; pag. 192-193.
 8.  Bill Schnoebelen, en _The Dark Side of Freemasonry_, editado por J. Edward Decker (Lafayette, LA: Huntington House Publishers, 1994), p. 174.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

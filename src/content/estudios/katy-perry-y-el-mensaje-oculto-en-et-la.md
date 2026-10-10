@@ -155,8 +155,3 @@ El humano camina de la mano con este ser metamórfico hacia un amanecer, este es
 ## En Conclusión
 
 Millones de personas verán este video y asi mismo en un futuro millones querrán sostenerse en esta falsa doctrina y caminar hacia un supuesto nuevo amanecer. Hollywood y la industria musical están preparando a las masas para esta gran revelación, una secuencia de eventos que impulsará el reinado del anticristo en la tierra. Este inicio podría empesar con la revelación de vida extraterrestre e incluso un falso escenario de invasión con grandes hazañas y milagros incluidos. Lo importante aquí es... cuando veas las naves en el cielo ¿A quién adorarás?>
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

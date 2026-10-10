@@ -401,8 +401,3 @@ Cuidado con los "espíritus familiares". La gente está teniendo contacto con el
 I Juan 5:20 dice:  
 
 > **"Y sabemos que el Hijo de Dios ha venido, y nos ha dado entendimiento, para que conozcamos al que es verdadero, y estemos en el que es verdadero, en su Hijo Jesucristo. Este es el verdadero Dios, y la vida eterna."**
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -284,7 +284,3 @@ El transhumanismo es un modo de pensar sobre el futuro basado en la idea de que 
 Haciendo un paralelo muy preciso, vemos que las profecías bíblicas detallan que en los últimos tiempos la humanidad se embriagaría de su propio orgullo y autosuficiencia, quizás por la intelectualidad desarrollada y sus avances tecnológicos, ocasionando que sean llevados a una rebelión contra Dios y todo lo que este representa. En resumen, estos medios de propaganda sirven como catalizadores sugestivos en la creencia de que podemos ser más grandes que Dios y sus planes para el futuro.  
 
 > "¿Por qué se alborotan los pueblos paganos? ¿Por qué hacen planes sin sentido? Los reyes y gobernantes de la tierra se rebelan, y juntos conspiran contra el Señor y su rey escogido. Y gritan: «¡Vamos a quitarnos sus cadenas!¡Vamos a librarnos de sus ataduras!» El Señor, el que reina en el cielo, se ríe de ellos." - Salmos 2:1-4
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -267,8 +267,3 @@ Por supuesto, lo que no verán en el corto ni en ninguna película... es el fina
   
 
 > "Y el diablo que los engañaba fue arrojado al lago de fuego y azufre, donde también están la bestia y el falso profeta; y serán atormentados día y noche por los siglos de los siglos." Apocalipsis 20:10 .
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

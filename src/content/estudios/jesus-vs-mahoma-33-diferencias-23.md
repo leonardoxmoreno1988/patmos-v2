@@ -243,7 +243,3 @@ No debería ser demasiado difícil notar las diferencias entre el Mahoma histór
 5\. Wafa Sultan citado por Good Reads. **[Disponible](https://www.goodreads.com/author/quotes/2936654.Wafa_Sultan)**.  
   
 Este artículo fue presentado originalmente en el sitio web de James Bishop y fue utilizado con permiso del autor.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

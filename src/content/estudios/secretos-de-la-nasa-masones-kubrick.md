@@ -324,7 +324,4 @@ El trabajo del director Stanley Kubrick, co-escrito con Arthur C. Clarke, es tan
 5\. Edward E Aldrin, **Regreso a la Tierra**, Random House, 1973  
 6\. **[http://tl2k.org/](http://tl2k.org/)**  
 7\. Edward E Aldrin, **Regreso a la Tierra**, Random House, 1973, Página 233  
-8\. Jay Weidner, **Odisea de Kubrick, Parte 1: Kubrick y Apolo**  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+8\. Jay Weidner, **Odisea de Kubrick, Parte 1: Kubrick y Apolo**

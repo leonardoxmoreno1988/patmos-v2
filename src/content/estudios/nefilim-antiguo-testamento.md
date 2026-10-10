@@ -385,8 +385,3 @@ Referencias**
 1: [http://www.dailymail.co.uk/sciencetech/article-2017818/Embryos-involving-genes-animals-mixed-humans-produced-secretively-past-years.html](http://www.dailymail.co.uk/sciencetech/article-2017818/Embryos-involving-genes-animals-mixed-humans-produced-secretively-past-years.html)  
   
 2: [http://ligerliger.com/](http://ligerliger.com/)
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

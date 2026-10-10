@@ -848,7 +848,3 @@ Si es auténtico, el logotipo o sello del grupo se parece más o menos a un tri�
 9.  Ibídem.
 10.  Aleister Crowley, El Libro de la Ley (1904)
 11.  John Yarker, traducción del manuscrito francés, Cartas de un Capítulo, Senado y Consejo (Londres: J. Hogg, 1882), p. 86.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

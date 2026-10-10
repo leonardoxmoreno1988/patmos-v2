@@ -191,7 +191,3 @@ Gregory Reece, en su libro _Religion OVNI: Dentro de los cultos y la cultura del
   
 
 > **"La Cienciología es única dentro de la cultura de los ovnis debido a su secretismo, así como también por el formato capitalista bajo el cual operan. La Cienciología también es difícil de categorizar. Aunque tiene fuertes similitudes con el Comando Ashtar o la Sociedad Aetherius, su énfasis en el evento de Xenu como el mensaje central del grupo parece ubicarlos dentro de la antigua tradición de astronautas. De cualquier forma, La cienciología es tal vez más diferente de otros grupos de ovnis en su intento de mantener todo el material espacial en secreto. prefieren que el resto de nosotros no sepamos sobre Xenu y la federación galáctica. Por desgracia, esos secretos son difíciles de mantener".**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

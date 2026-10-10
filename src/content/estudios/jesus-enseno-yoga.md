@@ -106,7 +106,3 @@ No lo hizo. Además, lo que Él enseñó nunca se ha integrado y nunca se integr
 > **"Ustedes no son iguales a los que no tienen fe en Cristo. Entonces no se junten con ellos. ¿Acaso hay algo en común entre la justicia y la injusticia? ¿Cómo puede estar la luz junto con la oscuridad? ¿Es que puede haber un pacto entre Cristo y Satanás? ¿Qué puede haber en común entre un creyente y alguien que no cree en Cristo? El templo de Dios no puede tener ningún pacto con los ídolos y nosotros somos el templo del Dios viviente. Así como Dios dijo: «Viviré y caminaré con ellos; yo seré su Dios y ellos serán mi pueblo».Y por eso dice el Señor «Salgan de entre esa gente y sepárense de ellos. No toquen nada impuro y yo los aceptaré. Seré su Padre y ustedes serán mis hijos y mis hijas. Así dice el Señor Todopoderoso»".**
 > 
 > **\- 2 Corintios 6: 14-18**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -240,7 +240,4 @@ Dios es un Dios de orden (1 Corintios 14:33, 40, 15:23). El diseño del universo
 Las creencias de Coelho indican que, aunque se refiere a Dios y a los pasajes bíblicos, sus puntos de vista no están en línea con la verdad revelada del Dios verdadero y se oponen a ella.  
   
 Este artículo fue ofrecido originalmente en las respuestas cristianas para la nueva edad y fue reeditado con permiso del autor.  
-2: [http://ligerliger.com/](http://ligerliger.com/)  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+2: [http://ligerliger.com/](http://ligerliger.com/)

@@ -59,7 +59,4 @@ La sede de la **[Internacional Comunista Capitalista](http://www.savethemales.ca
   
 No veo la Segunda Guerra Mundial como "la guerra buena". Fue fabricada para concentrar la riqueza y el poder, y para degradar y desmoralizar a la humanidad. Ambas partes eran culpables de atrocidades indecibles.  
   
-Las dos grandes guerras, y la potencial tercero se destinarán a promover la dictadura Illuminati de un solo mundo y bajo su **[control mental](http://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html)**. La humanidad está en las garras de una conspiración diabólica multigeneracional, y está demasiado fascinada por el sexo y el dinero para darse cuenta de ello.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Las dos grandes guerras, y la potencial tercero se destinarán a promover la dictadura Illuminati de un solo mundo y bajo su **[control mental](http://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html)**. La humanidad está en las garras de una conspiración diabólica multigeneracional, y está demasiado fascinada por el sexo y el dinero para darse cuenta de ello.

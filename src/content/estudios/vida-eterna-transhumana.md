@@ -503,7 +503,3 @@ Con respecto al Anticristo, la reunión en Armagedón y la Aparición de Jesucri
   
 
 El poder del Anticristo será lo suficientemente inmenso como para atacar a los ejércitos celestiales, arrojando ángeles al suelo y pisoteándolos en el proceso. Incluso atacará al Comandante de los ejércitos del cielo, Jesucristo. Pero el ataque es inútil. Jesús destruirá al Anticristo y a todos aquellos alineados contra Dios.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -401,7 +401,3 @@ Para los cristianos por ahí, sabemos que la palabra de Dios nos dice que estamo
   
 
 Nuestra recomendación es que cada cristiano debe ser consciente de la historia pagana de estos días de fiesta de modo que si los días de fiesta específicos tales como Pascua y la Navidad se están celebrando, se celebren como testamento a una gran verdad histórica y espiritual sobre la fe cristiana más que por la celebración de un acontecimiento pagano por falta de conocimiento e ignorancia.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -156,8 +156,3 @@ Si usted ha leído otros artículos en este sitio web, es consciente de la utili
 ## En conclusión
 
 Tan pronto como salió el vídeo, he recibido toneladas de e-mails de personas que han notado muchos de los símbolos descritos aquí. Esto confirma dos cosas: Una, muchas personas están tomando conciencia de la simbología siniestra insertada en vídeos y dos, estos símbolos son cada vez menos ocultos. Ellos no se estan escondiendo más. La industria desea revelar su verdadera naturaleza. Creo que hay dos tipos de "artistas Illuminati": los participantes dispuestos (yo pondría Jay-Z y Lady Gaga en esta categoría) y los que están perdidos (Rihanna parece perfecto ejemplo). Jay-Z, siendo el hombre de negocios inteligentes que es, sabe que la controversia vende. Es, pues, una situación de ganar y ganar: Jay-Z recibe la publicidad que está buscando y el Illuminatis continuan su adoctrinamiento en masa. Pero, ¿qué sucederá cuando las elites terminen de usar a Jay-Z como una propaganda de símbolos satánicos? ¿Acaso le dirán…“Hacia lo Siguiente”?
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

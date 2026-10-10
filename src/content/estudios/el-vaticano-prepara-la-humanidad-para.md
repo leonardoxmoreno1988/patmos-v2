@@ -52,8 +52,4 @@ Ya sea para bien o para mal, el punto más probable para preparar la venida de l
   
 Como curiosidad final, tengo algunos enlaces a los extraños cráneos alargados que están en exhibición en Ecuador y Chile. Líderes religiosos modernos en la región llevan gorras imitando a esas cabezas cónicas alargadas. Estos grandes cráneos nos hacen preguntarnos seriamente sobre lo que ha acontecido en la historia humana.  
   
-Sigan enfocados en la realidad ¡y que tengan un maravilloso dia amigos!" 
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Sigan enfocados en la realidad ¡y que tengan un maravilloso dia amigos!"

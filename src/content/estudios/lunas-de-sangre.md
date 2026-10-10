@@ -77,7 +77,3 @@ Como iglesia cristiana no es imprescindible buscar este tipo de señales, es má
 No olvide compartir el material con sus familiares y cercanos.  
   
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -67,7 +67,3 @@ En resumen, vemos en la propaganda gnóstica actual que quizás estemos ante el 
 Acaba de leer el newsletter de la semana. No olvide compartir el material con sus familiares y cercanos.  
   
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -320,7 +320,3 @@ Ilustración en _The Herder Dictionary of Symbols_ (Publicaciones Chiron, Wilmet
   
 
 Estatua de Buda. (Foto: _The Clarion Call Magazine_, Verano 1988).
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

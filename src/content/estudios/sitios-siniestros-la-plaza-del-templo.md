@@ -232,7 +232,4 @@ Situado en la esquina del State St. y el Templo del Sur, la puerta del águila q
 
 Este artículo apenas araña la superficie en los símbolos ocultos en la Plaza del Templo. Hay numerosos conceptos esotéricos que pueden estudiarse como piscinas reflectantes (que encarnan la noción del "Como es Arriba es Abajo"), fálicas y yonic símbolos, referencias astronómicas a Saturno y muchos más. Sin siquiera tener conocimiento previo de la historia, la filosofía o creencias de los Mormones, una persona alfabetizada en los símbolo puede comprender la intención principal de esta iglesia leyendo el significado de su arte. Los rituales, los símbolos y el modus operandi de los Mormones se levantan directamente de la Masonería del rito escocés. El significado oculto del arte en la Plaza del Templo incorpora una mezcla de sutil y subversiva simbología pagana que celebra la adoración de Lucifer.  
   
-No pretendo ser un especialista del Mormonismo o de Joseph Smith Jr., el Profeta Mormón. He tratado de permanecer tan imparcial como sea posible en la investigación y la composición de este artículo. Sin embargo, sé que las escrituras advierten al mundo de falsos profetas, y de lo que he concluido, Joseph Smith es tan falso como es posible. Manténgase vigilantes.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+No pretendo ser un especialista del Mormonismo o de Joseph Smith Jr., el Profeta Mormón. He tratado de permanecer tan imparcial como sea posible en la investigación y la composición de este artículo. Sin embargo, sé que las escrituras advierten al mundo de falsos profetas, y de lo que he concluido, Joseph Smith es tan falso como es posible. Manténgase vigilantes.

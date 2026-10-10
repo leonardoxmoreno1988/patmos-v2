@@ -302,7 +302,3 @@ Hay otros serios problemas con las enseñanzas del Grupo de Oxford, que se desar
 \[21\] Véase el artículo de CANA sobre el libro de Ann Voskamp, ​​One Thousand Gifts en http://christiananswersforthenewage.org/Articles\_OneThousandGifts.html  
   
 \[22\] Véase el artículo de CANA sobre Ps. 46:10 en http://Christiananswersforthenewage.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

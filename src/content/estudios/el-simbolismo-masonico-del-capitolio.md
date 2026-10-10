@@ -248,7 +248,4 @@ En 1955, una sala de oración fue establecida al lado de la rotonda del Capitoli
 Para concluir
 
   
-En pocas palabras, el Capitolio es el centro ceremonial de América. Es donde los estadounidenses celebran la inauguración de su nuevo presidente y donde amanecerán los que han fallecido. Si estamos viendo a Obama subir los 33 escalones al Capitolio después de su inauguración o viendo el ataúd de Gerald Ford en exhibición bajo "La Apoteosis", sabremos que todos los rituales están totalmente permeados con simbolismo oculto. Es simplemente imposible entender este país, sus gobernantes y su filosofía sin entender su origen masónico.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+En pocas palabras, el Capitolio es el centro ceremonial de América. Es donde los estadounidenses celebran la inauguración de su nuevo presidente y donde amanecerán los que han fallecido. Si estamos viendo a Obama subir los 33 escalones al Capitolio después de su inauguración o viendo el ataúd de Gerald Ford en exhibición bajo "La Apoteosis", sabremos que todos los rituales están totalmente permeados con simbolismo oculto. Es simplemente imposible entender este país, sus gobernantes y su filosofía sin entender su origen masónico.

@@ -66,8 +66,4 @@ Cuando Bimbo finalmente acepta la oferta de Betty Boop, descubre que todos los m
 
   
 
-En cuanto a la simbología de la Iniciación de Bimbo, nos damos cuenta de que aquellos que lo producieron obviamente poseían "el conocimiento". La caricatura es por lo tanto, otro ejemplo de simbolismo oculto que puede ser visto por muchos, pero destinado a ser comprendido por pocos.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+En cuanto a la simbología de la Iniciación de Bimbo, nos damos cuenta de que aquellos que lo producieron obviamente poseían "el conocimiento". La caricatura es por lo tanto, otro ejemplo de simbolismo oculto que puede ser visto por muchos, pero destinado a ser comprendido por pocos.

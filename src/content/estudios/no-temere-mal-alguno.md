@@ -39,7 +39,3 @@ No temeré mal alguno. "No temeré mal alguno, porque tú estás conmigo". No te
 En 1825, cuando Thomas Jefferson se acercaba al ocaso de su vida, escribió una carta de consejo a Thomas Jefferson Smith: "Adora a Dios. Reverencia y aprecia a tus padres. Ama a tu prójimo como a ti mismo y a tu país más que a ti mismo".  
   
 Que por la gracia de Dios podamos decir y caminar en fe: "No temeré mal alguno, porque Tú estás conmigo".
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -76,8 +76,4 @@ El falso profeta de Revelación 13 será el cumplimiento consumado de la adverte
   
 No olvide compartir el material con sus familiares y cercanos.  
   
-Leonardo M.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Leonardo M.

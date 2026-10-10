@@ -61,7 +61,3 @@ Los tiempos en los que vivimos hoy son muy similares a los días de Noé, pero a
 
   
 Leonardo M.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

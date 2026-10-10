@@ -363,8 +363,4 @@ En muchos casos, algo decididamente mal ha ocurrido en algún momento a nivel e
   
 Sin embargo, no podemos sacar ninguna conclusión sobre casos individuales sin primero tomar lo que se ha informado sobre la experiencia y el mensaje y examinar este informe a la luz de la Palabra de Dios. Según esta prueba, se condena cualquier doctrina que niegue el juicio de Dios. Pero cualquier testimonio que glorifique a Jesucristo como el único Señor y Salvador es digno de nuestra seria consideración (1 Corintios 12: 3).  
   
-Gracias por leer _Después de la Muerte_, no olvide compartir este material con sus familiares y cercanos.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Gracias por leer _Después de la Muerte_, no olvide compartir este material con sus familiares y cercanos.

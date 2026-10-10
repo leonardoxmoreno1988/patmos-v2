@@ -49,7 +49,3 @@ Kenneth S. Kleinknecht, por cierto, fue el hermano de C. Fred Kleinknecht, grado
 **Medallón masónico "[Nuestras Banderas en la Luna](http://www.phoenixmasonry.org/masonicmuseum/sr_man_on_the_moon_medallion_1979.htm)", de 1979 - 10º Aniversario.**
 
 **.**
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

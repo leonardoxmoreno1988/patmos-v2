@@ -111,8 +111,4 @@ O'Brien trabajó como esclava sexual en Bohemian Grove, el patio de diversión p
   
 Como el asesinato de Kennedy y el 9/11 lo demuestran, los Estados Unidos (y la mayoría de los países) han sido totalmente subvertidos por una élite penal internacional luciferina. El papel de los políticos, los medios de comunicación y la educación es mantener a las ovejas engañadas y distraídas mientras la élite avanza en su objetivo de tiranía mundial sigilosamente. La sociedad occidental de hoy es un fraude masivo.  
   
-Las poblaciones de Occidente se echan a perder, egocéntricas y complacientes. ¿Cómo pueden las cosas ser tan malas cuando tenemos tanto? No nos damos cuenta de que estamos siendo distraídos mientras que nuestras instituciones políticas y sociales fueron infiltrados y son desmantelados. Nuestros niños están siendo lavados del cerebro. Los illuminati pueden tener las armas de engaño masivo, pero, como dice Cathy O'Brien, "la verdad no desaparece".  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Las poblaciones de Occidente se echan a perder, egocéntricas y complacientes. ¿Cómo pueden las cosas ser tan malas cuando tenemos tanto? No nos damos cuenta de que estamos siendo distraídos mientras que nuestras instituciones políticas y sociales fueron infiltrados y son desmantelados. Nuestros niños están siendo lavados del cerebro. Los illuminati pueden tener las armas de engaño masivo, pero, como dice Cathy O'Brien, "la verdad no desaparece".

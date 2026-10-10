@@ -25,8 +25,3 @@ En este interesante comic de la serie **"Los Cruzados"** (Previamente visto en l
    
 
 **[Jesuitas, El Secreto Mejor Guardado](https://www.slideshare.net/emmanuelvallejos/jesuitas-el-secreto-mejor-guardado "Jesuitas, El Secreto Mejor Guardado")** from **[Emmanuel Vallejos](https://www.slideshare.net/emmanuelvallejos)**
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

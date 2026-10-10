@@ -414,7 +414,3 @@ John Robinson no solo concluye que la masonería descendió directamente de los 
   
 
 Gracias por leer Obras Oscuras de los Templarios, espero que este artículo le hayan proporcionado información útil sobre las obras de los caballeros templarios, así como su conexión con la masonería y la importancia de la cábala en las sociedades secretas actuales. No olvide compartir este material con sus familiares y cercanos.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

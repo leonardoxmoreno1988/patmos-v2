@@ -502,7 +502,3 @@ En esta reveladora foto publicada en la revista _Criminal Politics_, Lawrence Pa
 18.  Sergei Ivanov, citado por Vladimir Isachenkov, "Putin devuelve la estrella roja soviética", Associated Press, 26 de noviembre de 2000.
 19.  Alice Bailey, Un tratado sobre los siete rayos (Nueva York: publicación de Lucis), p. 127.
 20.  Faber Pirron, El simbolismo del color (Seacaucus, NJ: Citadel Press, 1988).
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

@@ -83,7 +83,3 @@ Y debemos recordar, nosotros juzgamos un árbol pero sus frutos. Los que persist
 7\. Rees, L. El carisma oscuro de Adolf Hitler. pag. 135.  
   
 Este artículo fue presentado originalmente en el sitio web de James Bishop y fue utilizado con permiso del autor.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

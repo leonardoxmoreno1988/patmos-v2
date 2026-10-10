@@ -231,7 +231,4 @@ Debido a que hay mucha desinformación fuera sobre las personas que dirigen el p
   
 El asesinato de JFK es una de las mejores formas de introducir al público Americano a la conspiración. Ralph Epperson quien da shows y conferencias acerca del Nuevo Orden Mundial a grupos le gusta usar el asesinato de Kennedy como método para hacer ver a la gente que hay una conspiración del Nuevo Orden Mundial. Es interesante, que Ralph Epperson haya tenido como compañero por un tiempo y sin saberlo, a un esclavo en activo del proyecto Monarca quien le ayudaba a hacer sus presentaciones. Es dificil para aquellos que tratan de exponer el Nuevo Orden Mundial el evitar ser infiltrados. Los esclavos mentales del proyecto Monarca son muy dificiles de detectar, especialmente si la mayoria de las personas no saben ni siquiera de su existencia.  
   
-(El coeditor de este libro habló con Epperson y el negó lo dicho, aclarando que la mujer que le ayudaba en sus presentaciones era una victima de Abuso Ritual Satánico que pensaba por si misma y fue victima de algún proyecto del gobierno, pero no una victima del proyecto Monarca. Nota del editor).  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+(El coeditor de este libro habló con Epperson y el negó lo dicho, aclarando que la mujer que le ayudaba en sus presentaciones era una victima de Abuso Ritual Satánico que pensaba por si misma y fue victima de algún proyecto del gobierno, pero no una victima del proyecto Monarca. Nota del editor).

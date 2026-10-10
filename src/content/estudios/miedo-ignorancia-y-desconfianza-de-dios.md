@@ -44,7 +44,4 @@ A veces, los engaños del mundo parecen muy poderosos. Mucho es mantenido en el 
   
 Ahora usted tiene la imagen grande. Algunas de las enseñanzas extremas de Cristo-como odiar a su madre para ser su discípulo se dice en el contexto del establecimiento de su libertad desde el control de la mente. Si nos fijamos en el conjunto de las enseñanzas de Cristo, entonces vemos en este caso particular, que también enseña que debemos amar y honrar a nuestra madre. Lo que él está diciendo en realidad es que debemos confiar en nuestro Padre celestial, y no centrarse en el temor de que no se cumplirá nuestra jerarquía de necesidades. Comprendió de primera mano el plan de Satanás y Satanás estudió la jerarquía de Maslow y a partir de ahí buscar tomar ventaja de nuestros miedos.  
   
-(1) La sabiduría de Salomón. 3: 9, cf. 2 Timoteo 3:16 (2) PRV 30: 5 (3) Filipenses 4: 6 (4) LK 14: 26-27, cf. MT 10: 37-38, MK 19:29 (5) MT 6: 34a (6) MT 06:25 (7) MT 24 (8) MT 25:26 (9) MT 13:22 (10) Sabiduría de Salomón (11) MT 10:26.  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+(1) La sabiduría de Salomón. 3: 9, cf. 2 Timoteo 3:16 (2) PRV 30: 5 (3) Filipenses 4: 6 (4) LK 14: 26-27, cf. MT 10: 37-38, MK 19:29 (5) MT 6: 34a (6) MT 06:25 (7) MT 24 (8) MT 25:26 (9) MT 13:22 (10) Sabiduría de Salomón (11) MT 10:26.

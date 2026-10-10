@@ -81,8 +81,4 @@ Una cosa es segura: Dios tiene un calendario y está manteniendo las cosas a tie
   
 No olvide compartir el material con sus familiares y cercanos.  
   
-Leonardo M.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Leonardo M.

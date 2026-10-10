@@ -35,8 +35,4 @@ Esto toma más sentido cuando leemos las palabras previas “He aquí yo os env�
 
 ¿Y qué es lo que nos haría diferentes de las serpientes? Pues Jesús rápidamente nos da la respuesta: “...y ser sencillos como palomas”. Un cristiano, sea la situación que enfrente, siempre reflejará su humildad y mansedumbre. Ninguna carga o situación podrá quitarnos lo que el Espíritu Santo ya nos ha dado. Pablo, quien una vez se llamó “el menor de los apóstoles”, constantemente mostraba su humildad ante sus superiores, pero nunca como reflejo de inferioridad. Por lo que la mezcla entre ser astuto y sencillo también consiste en ser humilde, pero no inferior.  
   
-Mantengamos esta enseñanza que nos guiará directamente al campo de batalla espiritual, ese mismo lugar donde muchos serán arrancados del territorio enemigo y llevados hacia el gran regalo que es la salvación en Cristo Jesús.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Mantengamos esta enseñanza que nos guiará directamente al campo de batalla espiritual, ese mismo lugar donde muchos serán arrancados del territorio enemigo y llevados hacia el gran regalo que es la salvación en Cristo Jesús.

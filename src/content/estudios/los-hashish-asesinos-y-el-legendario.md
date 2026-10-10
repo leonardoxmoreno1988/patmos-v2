@@ -94,7 +94,3 @@ Luego, la cabeza era cortada de verdad y expuesta, por espacio de varios dias en
 No obstante, en compensación, los asesinos debían realizar misiones, o de lo contrario eran expulsados de la sociedad. Dichas misiones consistían en matar, y los asesinos las ejecutaban con ciega obediencia.  
   
 La influencia del culto de los guerreros asesinos fue evidente en otra sociedad, la orden militar cristiana de los Caballeros Templarios. Pocas instituciones medievales eran tan respetadas, si bien era un respeto teñido de miedo y de envidia, como ésta, que se dedicaba a la protección de los peregrinos cristianos en tierra santa.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

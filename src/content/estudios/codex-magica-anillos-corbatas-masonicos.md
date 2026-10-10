@@ -308,7 +308,3 @@ Manly P. Hall, 33, nos informa del significado oculto del Anillo del Sello de Pi
 3.  Bill Schnoebelen, en The Dark Side of Freemasonry, editado por J. Edward Decker (Lafayette, LA: Huntington House Publishers, 1994), p. 173.
 4.  Barbara G. Walker, El diccionario de la mujer de símbolos y objetos sagrados (San Francisco: Harper & Row Publishers), p. 12.
 5.  Albert P. Mackey, Encyclopedia of Freemasonry and Kindred Sciences (Chicago: The Masonic History Company, 1873 y 1912), p. 12.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

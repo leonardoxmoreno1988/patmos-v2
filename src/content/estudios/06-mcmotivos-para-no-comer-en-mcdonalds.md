@@ -99,8 +99,3 @@ Una breve resumen de 6 motivos para dejar de consumir Mc Donalds:
 -   Un claro ejemplo de esto es el payaso, que hace que la empresa parezca un lugar de juegos y diversión.
 -   El aspamentoso embalaje utilizado por la multinacional tiene como objetivo despertar la curiosidad y fantasía innata en los niños.
 -   Los juguetes de la "cajita felíz" no son tan felices ya que son hechos en fábricas chinas de trabajo esclavo.
-
-  
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

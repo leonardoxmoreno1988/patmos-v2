@@ -129,8 +129,4 @@ En su canción "I’m In It" del mismo album Kanye West narra como tiene una ave
 > **\- Mateo 12:34-37**
 
   
-Cuando hablamos cosas malvadas, blasfemas o sexualmente inmorales que van en contra de lo que Dios enseña, estamos siendo instrumentos de maldad y a la larga insultamos la verdad de nuestro creador. Esperemos que Kanye acepte el verdadero mensaje de Cristo y lo haga su Señor, no su "colega".  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Cuando hablamos cosas malvadas, blasfemas o sexualmente inmorales que van en contra de lo que Dios enseña, estamos siendo instrumentos de maldad y a la larga insultamos la verdad de nuestro creador. Esperemos que Kanye acepte el verdadero mensaje de Cristo y lo haga su Señor, no su "colega".

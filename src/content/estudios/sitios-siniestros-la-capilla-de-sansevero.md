@@ -258,7 +258,3 @@ A través de varias pistas, se cree que las máquinas anatómicas representan la
 En la imagen de su creador, la capilla de Sansevero es impetuosa y sin remordimientos. Es una celebración del camino esotérico y un escaparate del saber alquímico de un ocultista entusiástico. Mientras que "oculto" significa literalmente "escondido del público", Raimondo di Sangro pasó su vida divulgando sus intereses y descubrimientos, apenas "poniendo un velo" en la verdadera naturaleza de sus experimentos.  
   
 La capilla es, por lo tanto, uno de esos raros casos donde la "magia" se puede ver a plena vista. Mientras que las sublimes obras de arte de la capilla son una celebración de vida, belleza y espiritualidad, la manipulación mórbida de cadáveres so forman para celebrar la muerte, la decadencia y lo horrible. En pocas palabras, a diferencia de los suelos blancos y negros que cubrían este templo oculto, la capilla de Sansevero representa visualmente la naturaleza dualista del universo y, por correspondencia, la naturaleza dualista del hombre. Una vez que estas fuerzas opuestas se unen y se resuelve la dualidad, se dice que se alcanza la perfección esotérica. Para lograr esto, uno no debe tener miedo de mirar hacia los cielos... y observar en la profundidad del infierno.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:

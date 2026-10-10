@@ -68,8 +68,4 @@ Mientras que estas redes de fraternidades no estén de manera abierta y directam
   
 Si uno fuera a seguir minuciosamente las actividades de los miembros y su pensamiento, se podría tener una imagen que muestra como los miembros contribuyen al control general de la sociedad. Sin embargo, ¿quién querría cuestionar sus actividades? Estas redes de fraternidades están protegidos por los [juramentos de silencio](http://www.ritualypropaganda.com/2017/07/codex-magica-14-silencio-senal-significado.html), así como la mayoría pretenden ser inofensivos operando detrás de una fachada de actividad filantrópica.  
   
-Si se quiere examinar toda la estructura de control de la élite, hay que tomar nota de las fraternidades universitarias. Millones de estadounidenses han sido miembros de las fraternidades universitarias y hermandades; y aun muchos van en prominencia.  
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
+Si se quiere examinar toda la estructura de control de la élite, hay que tomar nota de las fraternidades universitarias. Millones de estadounidenses han sido miembros de las fraternidades universitarias y hermandades; y aun muchos van en prominencia.

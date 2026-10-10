@@ -145,7 +145,3 @@ Estos esqueletos arrojan la teoría de la evolución al revés: la idea de que h
 Entonces, debes preguntarte, ¿es posible que estas historias antiguas no sean solo mitos? ¿Podría ser que hubo una gran civilización de gigantes que se extendió por todo el mundo? Si es así, ¿son estas personas los constructores de las pirámides y las ciudades masivas?
 
 La respuesta a todas las preguntas es sí. Creemos que la evidencia es demasiado abrumadora para ser negada. Pero una cosa es segura, se nos mantiene alejados de la verdad sobre nuestra verdadera historia.
-
-  
-
-**PD:** Este mensaje fue enviado vía email. Suscríbase aquí:
