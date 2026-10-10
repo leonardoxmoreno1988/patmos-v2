@@ -4,6 +4,7 @@ import { join, resolve } from "node:path";
 import type { Plugin } from "vite";
 
 import { BOOKS, CHAPTER_COUNTS, slugifyBook } from "./bible.ts";
+import { readEstudios } from "./estudios-build.ts";
 import { SITE_URL } from "./seo.ts";
 import { sitemapXML, type SitemapEntry } from "./sitemap.ts";
 
@@ -30,7 +31,10 @@ function includedRoutePaths(dir: string = ROUTES_DIR): string[] {
 
 export function buildSitemapEntries(): SitemapEntry[] {
   const routes = includedRoutePaths();
-  const entries: SitemapEntry[] = routes.filter((path) => !/[$*]/.test(path)).map((path) => ({ path }));
+  const entries: SitemapEntry[] = routes
+    .filter((path) => !/[$*]/.test(path))
+    // Index routes ("/estudios/") are served without the trailing slash.
+    .map((path) => ({ path: path.length > 1 ? path.replace(/\/$/, "") : path }));
   if (routes.includes(CHAPTER_ROUTE)) {
     for (const book of BOOKS) {
       const chapters = CHAPTER_COUNTS[book.bookid] ?? 0;
@@ -38,6 +42,9 @@ export function buildSitemapEntries(): SitemapEntry[] {
         entries.push({ path: `/leer/${slugifyBook(book.name)}/${chapter}` });
       }
     }
+  }
+  for (const post of readEstudios()) {
+    entries.push({ path: `/estudios/${post.slug}`, lastmod: post.updated ?? post.date });
   }
   return entries;
 }

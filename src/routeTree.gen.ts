@@ -17,6 +17,8 @@ import { Route as ApiBillingRouteImport } from './routes/api/billing'
 import { Route as ApiChatRouteImport } from './routes/api/chat'
 import { Route as ApiConsultaRouteImport } from './routes/api/consulta'
 import { Route as ApiHistoryRouteImport } from './routes/api/history'
+import { Route as EstudiosIndexRouteImport } from './routes/estudios.index'
+import { Route as EstudiosSlugRouteImport } from './routes/estudios.$slug'
 import { Route as LeerLibroCapRouteImport } from './routes/leer.$libro.$cap'
 
 const IndexRoute = IndexRouteImport.update({
@@ -59,6 +61,16 @@ const ApiHistoryRoute = ApiHistoryRouteImport.update({
   path: '/api/history',
   getParentRoute: () => rootRouteImport,
 } as any)
+const EstudiosIndexRoute = EstudiosIndexRouteImport.update({
+  id: '/estudios/',
+  path: '/estudios/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EstudiosSlugRoute = EstudiosSlugRouteImport.update({
+  id: '/estudios/$slug',
+  path: '/estudios/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const LeerLibroCapRoute = LeerLibroCapRouteImport.update({
   id: '/leer/$libro/$cap',
   path: '/leer/$libro/$cap',
@@ -74,6 +86,8 @@ export interface FileRoutesByFullPath {
   '/api/chat': typeof ApiChatRoute
   '/api/consulta': typeof ApiConsultaRoute
   '/api/history': typeof ApiHistoryRoute
+  '/estudios/$slug': typeof EstudiosSlugRoute
+  '/estudios/': typeof EstudiosIndexRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRoutesByTo {
@@ -85,6 +99,8 @@ export interface FileRoutesByTo {
   '/api/chat': typeof ApiChatRoute
   '/api/consulta': typeof ApiConsultaRoute
   '/api/history': typeof ApiHistoryRoute
+  '/estudios/$slug': typeof EstudiosSlugRoute
+  '/estudios': typeof EstudiosIndexRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRoutesById {
@@ -97,6 +113,8 @@ export interface FileRoutesById {
   '/api/chat': typeof ApiChatRoute
   '/api/consulta': typeof ApiConsultaRoute
   '/api/history': typeof ApiHistoryRoute
+  '/estudios/$slug': typeof EstudiosSlugRoute
+  '/estudios/': typeof EstudiosIndexRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
 export interface FileRouteTypes {
@@ -110,6 +128,8 @@ export interface FileRouteTypes {
     | '/api/chat'
     | '/api/consulta'
     | '/api/history'
+    | '/estudios/$slug'
+    | '/estudios/'
     | '/leer/$libro/$cap'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -121,6 +141,8 @@ export interface FileRouteTypes {
     | '/api/chat'
     | '/api/consulta'
     | '/api/history'
+    | '/estudios/$slug'
+    | '/estudios'
     | '/leer/$libro/$cap'
   id:
     | '__root__'
@@ -132,6 +154,8 @@ export interface FileRouteTypes {
     | '/api/chat'
     | '/api/consulta'
     | '/api/history'
+    | '/estudios/$slug'
+    | '/estudios/'
     | '/leer/$libro/$cap'
   fileRoutesById: FileRoutesById
 }
@@ -144,6 +168,8 @@ export interface RootRouteChildren {
   ApiChatRoute: typeof ApiChatRoute
   ApiConsultaRoute: typeof ApiConsultaRoute
   ApiHistoryRoute: typeof ApiHistoryRoute
+  EstudiosSlugRoute: typeof EstudiosSlugRoute
+  EstudiosIndexRoute: typeof EstudiosIndexRoute
   LeerLibroCapRoute: typeof LeerLibroCapRoute
 }
 
@@ -205,6 +231,20 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ApiHistoryRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/estudios/': {
+      id: '/estudios/'
+      path: '/estudios'
+      fullPath: '/estudios/'
+      preLoaderRoute: typeof EstudiosIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/estudios/$slug': {
+      id: '/estudios/$slug'
+      path: '/estudios/$slug'
+      fullPath: '/estudios/$slug'
+      preLoaderRoute: typeof EstudiosSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/leer/$libro/$cap': {
       id: '/leer/$libro/$cap'
       path: '/leer/$libro/$cap'
@@ -224,6 +264,8 @@ const rootRouteChildren: RootRouteChildren = {
   ApiChatRoute: ApiChatRoute,
   ApiConsultaRoute: ApiConsultaRoute,
   ApiHistoryRoute: ApiHistoryRoute,
+  EstudiosSlugRoute: EstudiosSlugRoute,
+  EstudiosIndexRoute: EstudiosIndexRoute,
   LeerLibroCapRoute: LeerLibroCapRoute,
 }
 export const routeTree = rootRouteImport

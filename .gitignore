@@ -36,5 +36,6 @@ dist-ssr
 .env
 .env.*
 !.env.example
-# Generated at build time by src/lib/sitemap-build.ts
+# Generated at build time by src/lib/sitemap-build.ts and src/lib/redirects-build.ts
 public/sitemap.xml
+redirects.json

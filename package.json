@@ -3,9 +3,9 @@
   "private": true,
   "sideEffects": false,
   "type": "module",
-"scripts": {
+  "scripts": {
     "dev": "vite",
-    "build": "NITRO_PRESET=vercel vite build && mkdir -p .vercel/output/static .vercel/output/functions/__server.func && cp -R dist/client/* .vercel/output/static/ && cp -R dist/server/* .vercel/output/functions/__server.func/ && cp -R node_modules .vercel/output/functions/__server.func/ && node -e \"require('fs').writeFileSync('.vercel/output/config.json', JSON.stringify({version:3,routes:[{handle:'filesystem'},{src:'/(.*)',dest:'/__server'}]}))\" && node -e \"require('fs').writeFileSync('.vercel/output/functions/__server.func/.vc-config.json', JSON.stringify({runtime:'nodejs22.x',handler:'server.js',launcherType:'Nodejs'}))\" && node -e \"require('fs').writeFileSync('.vercel/output/functions/__server.func/package.json', JSON.stringify({type:'module'}))\"",
+    "build": "NITRO_PRESET=vercel vite build && mkdir -p .vercel/output/static .vercel/output/functions/__server.func && cp -R dist/client/* .vercel/output/static/ && cp -R dist/server/* .vercel/output/functions/__server.func/ && cp -R node_modules .vercel/output/functions/__server.func/ && node -e \"require('fs').writeFileSync('.vercel/output/config.json', JSON.stringify({version:3,routes:[{handle:'filesystem'},{src:'/(.*)',dest:'/__server'}]}))\" && node -e \"require('fs').writeFileSync('.vercel/output/functions/__server.func/.vc-config.json', JSON.stringify({runtime:'nodejs22.x',handler:'server.js',launcherType:'Nodejs'}))\" && node -e \"require('fs').writeFileSync('.vercel/output/functions/__server.func/package.json', JSON.stringify({type:'module'}))\" && node scripts/merge-vercel-redirects.mjs",
     "postinstall": "node -e \"const fs=require('fs'); const p='node_modules/tslib/package.json'; if(fs.existsSync(p)){ const j=JSON.parse(fs.readFileSync(p)); j.exports['.'].import='./tslib.es6.js'; fs.writeFileSync(p, JSON.stringify(j,null,2)); }\"",
     "start": "vite preview"
   },
@@ -88,9 +88,12 @@
     "eslint-plugin-prettier": "^5.2.6",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
+    "fast-xml-parser": "^5.11.2",
     "globals": "^15.15.0",
+    "marked": "^18.1.0",
     "nitro": "3.0.260603-beta",
     "prettier": "^3.7.3",
+    "turndown": "^7.2.4",
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.56.1",
     "vite": "^8.2.0"

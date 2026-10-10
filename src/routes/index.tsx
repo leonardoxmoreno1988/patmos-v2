@@ -111,8 +111,9 @@ function Home() {
  }, []);
 
   useEffect(() => {
-    if (search.consulta === "history") {
-      setConsultaView("history");
+    // "/?consulta=history" (account menu) or "/?consulta=chat" (links from other pages) opens the panel.
+    if (search.consulta === "history" || search.consulta === "chat") {
+      setConsultaView(search.consulta);
       setConsultaKey((k) => k + 1);
       setConsultaOpen(true);
     }
