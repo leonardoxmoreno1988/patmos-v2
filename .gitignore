@@ -39,3 +39,6 @@ dist-ssr
 # Generated at build time by src/lib/sitemap-build.ts and src/lib/redirects-build.ts
 public/sitemap.xml
 redirects.json
+
+# Blogger backup (input to scripts/parse-blogger-export.mjs): contains reader comments and drafts
+blogger-export.xml

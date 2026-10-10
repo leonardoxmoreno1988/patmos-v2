@@ -7,7 +7,13 @@ import { SiteHeader } from "@/components/reader/site-header";
 import { PatmosCta } from "@/components/estudios/patmos-cta";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { formatEstudioDate, normalizeSearch, type EstudioSummary } from "@/lib/estudios";
+import {
+  HOUSE_AUTHOR,
+  formatEstudioDate,
+  formatEstudioDateShort,
+  normalizeSearch,
+  type EstudioSummary,
+} from "@/lib/estudios";
 import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, seoHead } from "@/lib/seo";
 
 const TITLE = "Estudios bíblicos — Profecía y Escatología";
@@ -246,6 +252,7 @@ function TagChip({
   );
 }
 
+/** Full metadata block of the featured card: author, date, reading time and last update. */
 function EstudioMeta({ post }: { post: EstudioSummary }) {
   return (
     <>
@@ -313,12 +320,20 @@ function EstudioCard({ post }: { post: EstudioSummary }) {
       <h2 className="text-lg font-semibold leading-snug text-foreground group-hover:underline group-hover:underline-offset-4">
         {post.title}
       </h2>
-      <p className="mt-2 line-clamp-3 flex-1 text-sm leading-relaxed text-muted-foreground">
+      <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-muted-foreground">
         {post.description}
       </p>
-      <div className="mt-4 space-y-0.5 text-xs text-muted-foreground">
-        <EstudioMeta post={post} />
-      </div>
+      <p className="mt-auto pt-4 text-xs text-muted-foreground">
+        {post.author !== HOUSE_AUTHOR ? (
+          <>
+            <span className="font-medium text-foreground/80">{post.author}</span>
+            {" · "}
+          </>
+        ) : null}
+        <time dateTime={post.date}>{formatEstudioDateShort(post.date)}</time>
+        {" · "}
+        {post.readingMinutes} min de lectura
+      </p>
     </Link>
   );
 }

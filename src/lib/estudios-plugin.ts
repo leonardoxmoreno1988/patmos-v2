@@ -2,13 +2,12 @@ import { Marked, type Tokens } from "marked";
 import type { Plugin } from "vite";
 
 import { ESTUDIOS_DIR, estudioFiles, readEstudioFile } from "./estudios-build.ts";
-import { normalizeSearch, type Estudio, type EstudioSummary } from "./estudios.ts";
+import { HOUSE_AUTHOR, normalizeSearch, type Estudio, type EstudioSummary } from "./estudios.ts";
 import { buildRedirects } from "./redirects-build.ts";
 import { SITE_URL } from "./seo.ts";
 
 const LIST_ID = "virtual:estudios";
 const SEARCH_ID = "virtual:estudios-search";
-const DEFAULT_AUTHOR = "Leonardo Moreno";
 const WORDS_PER_MINUTE = 200;
 // Links to the old blog are rewritten to the migrated post when there is one.
 const OLD_BLOG =
@@ -65,7 +64,7 @@ function compile(
     description: meta.description,
     date: meta.date,
     ...(meta.updated && meta.updated !== meta.date ? { updated: meta.updated } : {}),
-    author: meta.author ?? DEFAULT_AUTHOR,
+    author: meta.author ?? HOUSE_AUTHOR,
     readingMinutes: Math.max(1, Math.round(text.split(" ").length / WORDS_PER_MINUTE)),
     tags: meta.tags,
     html,
