@@ -4,6 +4,7 @@ import {
   BookOpen,
   CreditCard,
   Download,
+  Globe,
   History,
   Library,
   LogIn,
@@ -82,7 +83,8 @@ export function AuthNav() {
       const res = await fetch("/api/billing", {
         method: "POST",
         headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
-        body: JSON.stringify({ userId: user.id }),
+        // Se usa user?.id para evitar el error de TS
+        body: JSON.stringify({ userId: user?.id }),
       });
       const result = await res.json();
       if (!res.ok || !result.url) throw new Error();
@@ -141,6 +143,14 @@ export function AuthNav() {
           <DropdownMenuContent align="end" className="w-64 p-1.5">
             {preferences}
             <DropdownMenuSeparator />
+            
+            {/* NUEVO ITEM: Ir a la Landing Page para usuarios no logueados */}
+            <DropdownMenuItem onSelect={() => {
+              window.location.href = "/";
+            }}>
+              <Globe /> {lang === 'es' ? "Sitio Web" : "Home Page"}
+            </DropdownMenuItem>
+
             <DropdownMenuItem className="font-medium" onSelect={() => setAuthOpen(true)}>
               <LogIn /> {t.auth.signIn}
             </DropdownMenuItem>
@@ -156,7 +166,6 @@ export function AuthNav() {
   return (
     <>
       <DropdownMenu>
-        {/* Avatar only; name, email and PRO badge are shown inside the menu. */}
         <DropdownMenuTrigger asChild>
           <Button
             type="button"
@@ -173,7 +182,7 @@ export function AuthNav() {
           <div className="flex items-start justify-between gap-2 px-2.5 pb-2 pt-1.5">
             <div className="min-w-0">
               <p className="truncate text-sm font-medium text-foreground">{displayName}</p>
-              <p className="truncate text-xs text-muted-foreground">{user.email}</p>
+              <p className="truncate text-xs text-muted-foreground">{user?.email}</p>
             </div>
             {isPremium ? (
               <span className="shrink-0 rounded-md border border-pro-badge-border bg-pro-badge px-2 py-0.5 text-[10px] font-bold tracking-wider text-pro-badge-foreground">
@@ -184,6 +193,7 @@ export function AuthNav() {
           <DropdownMenuSeparator />
           {preferences}
           <DropdownMenuSeparator />
+          
           <DropdownMenuItem onSelect={() => {
             let libro = "genesis";
             let cap = "1";
@@ -198,19 +208,30 @@ export function AuthNav() {
           }}>
             <BookOpen /> {t.auth.bibleReader}
           </DropdownMenuItem>
+
           <DropdownMenuItem onSelect={() => {
-            void navigate({ to: "/", search: { consulta: "history" } });
+            void navigate({ to: "/dashboard", search: { consulta: "history" } });
           }}>
             <History /> {t.auth.consultHistory}
           </DropdownMenuItem>
+          
           <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
             <Library /> {t.auth.myLibrary}
           </DropdownMenuItem>
-          {!isDemoUser(user) && (
+          
+          {!isDemoUser(user!) && (
             <DropdownMenuItem onSelect={() => setResourcesOpen(true)}>
               <Download /> {t.auth.resources}
             </DropdownMenuItem>
           )}
+
+          {/* ITEM MOVIDO: Sitio Web (después de Recursos y antes del separador) */}
+          <DropdownMenuItem onSelect={() => {
+            window.location.href = "/";
+          }}>
+            <Globe /> {lang === 'es' ? "Sitio Web" : "Home Page"}
+          </DropdownMenuItem>
+
           <DropdownMenuSeparator />
           <DropdownMenuItem onSelect={() => void openBilling()}>
             <CreditCard /> {t.auth.proSubscription}
