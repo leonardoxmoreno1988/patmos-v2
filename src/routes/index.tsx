@@ -81,8 +81,8 @@ function HomePage() {
   return (
     <div className="min-h-screen bg-[#f9fafb] text-[#000f37] flex flex-col items-center justify-between antialiased px-6 md:px-0" style={{ fontFamily: '"Inter", sans-serif' }}>
       
-      {/* HEADER */}
-      <header className="w-full max-w-[700px] py-6 flex justify-between items-center mt-4">
+     {/* HEADER */}
+     <header className="w-full max-w-[700px] py-6 flex justify-between items-center mt-4">
         <a href="/" className="flex items-center transition-opacity duration-200 hover:opacity-80">
           <img 
             src="https://www.leonardoxmoreno.com/files/logo-patmos.svg" 
@@ -92,7 +92,8 @@ function HomePage() {
         </a>
         
         <div className="flex items-center gap-3">
-          <div className="inline-flex items-center border border-[#000f37] px-2 gap-1 bg-transparent h-9 md:h-7 box-sizing-border">
+          {/* Selector de idioma redondeado */}
+          <div className="inline-flex items-center border border-[#000f37] px-3 gap-1 bg-transparent h-9 md:h-7 box-sizing-border rounded-full">
             <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" style={{ opacity: 0.8 }}>
               <circle cx="12" cy="12" r="10"/>
               <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20M2 12h20"/>
@@ -109,33 +110,39 @@ function HomePage() {
             </select>
           </div>
 
+          {/* Botón Ir al Lector redondeado */}
           <a 
-  href="/dashboard" 
-  className="text-[10px] font-bold uppercase tracking-widest border border-[#000f37] text-[#000f37] px-4 py-2.5 md:py-1 rounded-none transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] flex items-center justify-center min-h-[36px] md:min-h-[28px]"
->
-  {lang === 'es' ? "Ir al Lector" : "Go to Reader"}
-</a>
+            href="/dashboard" 
+            className="text-[10px] font-bold uppercase tracking-widest border border-[#000f37] text-[#000f37] px-4 py-2.5 md:py-1 rounded-full transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] flex items-center justify-center min-h-[36px] md:min-h-[28px]"
+          >
+            {lang === 'es' ? "Ir al Lector" : "Go to Reader"}
+          </a>
         </div>
       </header>
 
-      {/* HERO SECTION */}
-      <main className="flex-1 w-full max-w-[700px] flex flex-col justify-center py-16">
+     {/* HERO SECTION */}
+     <main className="flex-1 w-full max-w-[700px] flex flex-col justify-center py-16">
         <div className="mb-6">
           <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight text-[#000f37]">
-            {lang === 'es' ? <>Plataforma de Estudio Bíblico</> : <>Bible Study Platform</>}
+            {lang === 'es' ? <>RV1865 + Notas</> : <>KJV + Notes</>}
           </h1>
         </div>
 
-        <p className="text-2xl font-medium text-[#000f37] max-w-xl">
-          {lang === 'es' ? <>Texto bilingüe, herramientas de estudio y asistencia basada exclusivamente en la <span className="font-semibold">Reina Valera 1865 y la KJV</span>.</> : <>Bilingual text, study tools, and assistance based exclusively on the <span className="font-semibold">KJV and the RV1865</span>.</>}
+        <p className="text-lg md:text-xl leading-relaxed text-[#000f37] max-w-2xl font-normal">
+          {lang === 'es' ? (
+            <>
+              Estudia la Palabra pura (<span className="font-bold">RV1865 / KJV</span>) con herramientas avanzadas, notas personales y asistencia doctrinal en un solo ecosistema bilingüe.
+            </>
+          ) : (
+            <>
+              Study the pure Word (<span className="font-bold">KJV / RV1865</span>) with advanced tools, personal notes, and doctrinal assistance in one bilingual ecosystem.
+            </>
+          )}
         </p>
 
-        <p className="text-lg leading-relaxed text-[#374151] mt-6 max-w-2xl">
-          {lang === 'es' ? <>Lee, subraya, guarda notas, analiza paralelos y consulta dudas doctrinales profundas en un solo lugar.<br/><br/>Sin traducciones modernas. Solo la Palabra pura.</> : <>Read, highlight, save notes, analyze parallels, and consult deep doctrinal questions in one place.<br/><br/>No modern translations. Just the pure Word.</>}
-        </p>
-
-        <div className="mt-10 flex flex-col sm:flex-row gap-4">
-          <a href="/dashboard" className="inline-flex items-center justify-center bg-[#000f37] text-[#f9fafb] text-base font-semibold px-10 py-5 rounded-xl hover:bg-black transition-all">
+        {/* Ajustado el margen superior de mt-10 a mt-6 */}
+        <div className="mt-6 flex flex-col sm:flex-row gap-4">
+          <a href="/dashboard" className="inline-flex items-center justify-center bg-[#000f37] text-[#f9fafb] text-base font-semibold px-10 py-5 rounded-full hover:bg-black transition-all">
             {lang === 'es' ? "Abrir el Lector Gratis →" : "Open Reader for Free →"}
           </a>
         </div>
@@ -145,16 +152,16 @@ function HomePage() {
         </p>
 
         <div className="w-full mt-8 mb-0 rounded-xl overflow-hidden border border-[#e5e7eb] shadow-sm">
-  <video
-    src="https://www.leonardoxmoreno.com/images/patmos-v2.mp4"
-    autoPlay
-    loop
-    muted
-    playsInline
-    className="w-full h-auto block"
-    aria-label="Patmos Platform Preview Video"
-  />
-</div>
+          <video
+            src="https://www.leonardoxmoreno.com/images/patmos-v2.mp4"
+            autoPlay
+            loop
+            muted
+            playsInline
+            className="w-full h-auto block"
+            aria-label="Patmos Platform Preview Video"
+          />
+        </div>
 
        {/* BENEFITS SECTION */}
        <section className="mt-0 border-t border-[#e5e7eb] pt-12">
@@ -186,7 +193,7 @@ function HomePage() {
                 </svg>
               </div>
               <div>
-                <h4 className="font-semibold text-lg">{lang === 'es' ? "Panel Exegético Asistido (IA)" : "AI-Assisted Exegetical Panel"}</h4>
+                <h4 className="font-semibold text-lg">{lang === 'es' ? "Panel Exegético Asistido" : "Assisted Exegetical Panel"}</h4>
                 <p className="text-[#4b5563] mt-2 leading-relaxed">
                   {lang === 'es' ? "Consulta dudas proféticas, analiza tipos del Antiguo Testamento y recibe respuestas sustentadas con una postura pretribulacional firme." : "Ask prophetic questions, analyze Old Testament types, and get answers backed by a firm pre-tribulational stance."}
                 </p>
@@ -270,8 +277,8 @@ function HomePage() {
           </div>
         </section>
 
-        {/* PRICING SECTION */}
-        <section className="mt-20 border-t border-[#e5e7eb] pt-12">
+       {/* PRICING SECTION */}
+       <section className="mt-20 border-t border-[#e5e7eb] pt-12">
           <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8">
             {lang === 'es' ? "Seleccione su Acceso" : "Choose Your Access"}
           </h3>
@@ -289,16 +296,16 @@ function HomePage() {
                   {lang === 'es' ? "Acceso completo a las Escrituras con límite en herramientas avanzadas." : "Full access to the Scriptures with limits on advanced tools."}
                 </p>
               </div>
-              <a href="/dashboard" className="block w-full text-center mt-10 border border-[#000f37] py-4 font-semibold rounded-xl hover:bg-gray-50 transition-colors">
+              <a href="/dashboard" className="block w-full text-center mt-10 border border-[#000f37] py-4 font-semibold rounded-full hover:bg-gray-50 transition-colors">
                 {lang === 'es' ? "Comenzar a Leer" : "Start Reading"}
               </a>
             </div>
 
             {/* Pro Plan */}
             <div className="bg-white border-2 border-[#000f37] p-8 rounded-xl relative flex flex-col justify-between">
-              <div className="absolute -top-3 right-6 bg-[#2d65f6] text-white text-xs px-4 py-1 rounded-full font-medium">
-                {lang === 'es' ? "PATMOS PRO" : "PATMOS PRO"}
-              </div>
+  <div className="absolute -top-3 right-6 bg-[#2d65f6] text-white text-xs px-3 py-1 rounded-sm font-medium">
+    {lang === 'es' ? "PATMOS PRO" : "PATMOS PRO"}
+  </div>
               
               <div>
                 <h4 className="text-xl font-semibold">{lang === 'es' ? "Apoya Patmos" : "Support Patmos"}</h4>
@@ -312,7 +319,7 @@ function HomePage() {
                 </p>
               </div>
               
-              <button onClick={handleCheckout} className="block w-full text-center mt-10 bg-[#000f37] text-white py-4 font-semibold rounded-xl hover:bg-black border-none cursor-pointer outline-none transition-all shadow-md">
+              <button onClick={handleCheckout} className="block w-full text-center mt-10 bg-[#000f37] text-white py-4 font-semibold rounded-full hover:bg-black border-none cursor-pointer outline-none transition-all shadow-md">
                 {lang === 'es' ? "Obtener Acceso Ilimitado" : "Unlock Unlimited Access"}
               </button>
             </div>
@@ -327,44 +334,6 @@ function HomePage() {
 
           <div className="flex flex-col border-b border-[#e5e7eb]">
             
-            {/* FAQ PRÁCTICA 1: LÍMITES */}
-            <details className="group py-4 [&_summary::-webkit-details-marker]:hidden">
-              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37]">
-                <h4 className="text-base font-semibold tracking-wide text-left">
-                  {lang === 'es' ? "¿Qué sucede si agoto mis 3 consultas diarias gratuitas?" : "What happens if I exhaust my 3 free daily queries?"}
-                </h4>
-                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
-                </svg>
-              </summary>
-              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300">
-                {lang === 'es' ? (
-                  "El sistema suspenderá temporalmente la caja de entrada de texto y le mostrará un banner informativo. El contador se restablece automáticamente cada 24 horas. Si requiere continuar su flujo de investigación de manera ininterrumpida y sin restricciones, puede actualizar al Plan PRO en cualquier momento."
-                ) : (
-                  "The system will temporarily suspend the text input box and present an information banner. The counter automatically resets every 24 hours. If your research workflow requires uninterrupted, unrestricted execution, you may upgrade to the PRO Plan at any moment."
-                )}
-              </p>
-            </details>
-
-            {/* FAQ PRÁCTICA 2: CANCELACIÓN */}
-            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden">
-              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37]">
-                <h4 className="text-base font-semibold tracking-wide text-left">
-                  {lang === 'es' ? "¿Cómo puedo gestionar o cancelar mi suscripción?" : "How do I manage or cancel my subscription?"}
-                </h4>
-                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
-                </svg>
-              </summary>
-              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300">
-                {lang === 'es' ? (
-                  "Puede hacerlo con total autonomía y con un solo clic. Dentro de la plataforma del chat, encontrará un botón llamado 'Factura' que le redirigirá al Hub de Gestión de Lemon Squeezy. También puede acceder de forma directa mediante el enlace seguro que se envía a su correo electrónico en cada facturación. No hay contratos forzosos ni penalizaciones."
-                ) : (
-                  "You can do so with absolute autonomy and via a single click. Inside the chat interface, you will find a 'Bill' button that routes directly to the secure Lemon Squeezy Management Hub. Alternatively, you can access it through the secure link transmitted to your email address with each billing cycle. There are no locking contracts or cancellation penalties."
-                )}
-              </p>
-            </details>
-
             {/* FAQ TEOLÓGICA 1 */}
             <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden">
               <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37]">
@@ -377,7 +346,7 @@ function HomePage() {
               </summary>
               <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300">
                 {lang === 'es' ? (
-                  "Sostiene que la autoridad suprema, exclusiva y final para toda fe y ejecución del ministerio es la palabra de Dios infalible y estructuralmente preservada—encarnada estrictamente dentro de la Biblia Reina Valera 1865 y la Versión Autorizada King James para el mundo de habla inglesa. Opera bajo la convicción absoluta de que todas las traducciones modernas introducen distorsiones teológicas y corrupciones sistémicas (Salmos 12:6-7)."
+                  "Sostiene que la autoridad suprema, exclusiva y final para toda fe y ejecución del ministerio es la palabra de Dios infalible y estructuralmente preservada—encarnada strictly dentro de la Biblia Reina Valera 1865 y la Versión Autorizada King James para el mundo de habla inglesa. Opera bajo la convicción absoluta de que todas las traducciones modernas introducen distorsiones teológicas y corrupciones sistémicas (Salmos 12:6-7)."
                 ) : (
                   "It holds that the supreme, exclusive, and final authority for all faith and ministry execution is the flawless, structurally preserved word of God—embodied strictly within the Authorized King James Holy Bible for the English-speaking world. It operates on the absolute conviction that all modern translations introduce theological distortions and systemic corruptions (Psalms 12:6-7)."
                 )}
@@ -450,13 +419,20 @@ function HomePage() {
       <footer className="w-full max-w-[700px] border-t border-[#e5e7eb] py-8 flex flex-col items-center">
         <p className="text-sm text-[#6b7280] text-center">
           © Patmos {new Date().getFullYear()} ·{' '}
-          <a 
-            href="/estudios" 
-            className="text-[#000f37] font-semibold underline underline-offset-4 decoration-2 decoration-[#000f37]/30 hover:decoration-[#000f37] transition-colors"
-          >
-            {lang === 'es' ? "Blog de estudios" : "Study Blog"}
-          </a>{' '}
-          · {lang === 'es' ? "Todos los derechos reservados." : "All rights reserved."}
+          
+          {lang === 'es' && (
+            <>
+              <a 
+                href="/estudios" 
+                className="text-[#000f37] font-semibold underline underline-offset-4 decoration-2 decoration-[#000f37]/30 hover:decoration-[#000f37] transition-colors"
+              >
+                Blog de estudios
+              </a>
+              {' '}·{' '}
+            </>
+          )}
+          
+          {lang === 'es' ? "Todos los derechos reservados." : "All rights reserved."}
         </p>
       </footer>
     </div>
