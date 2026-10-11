@@ -1,0 +1,34 @@
+{
+  "redirects": [
+    {
+      "source": "/p/:slug.html",
+      "destination": "/estudios/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/p/:slug",
+      "destination": "/estudios/:slug",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/leer/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=86400, stale-while-revalidate=604800"
+        }
+      ]
+    },
+    {
+      "source": "/estudios/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=86400, stale-while-revalidate=604800"
+        }
+      ]
+    }
+  ]
+}
