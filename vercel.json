@@ -1,6 +1,21 @@
 {
   "redirects": [
     {
+      "source": "/estudios/archivo",
+      "destination": "/estudios",
+      "permanent": true
+    },
+    {
+      "source": "/p/archivo.html",
+      "destination": "/estudios",
+      "permanent": true
+    },
+    {
+      "source": "/p/archivo",
+      "destination": "/estudios",
+      "permanent": true
+    },
+    {
       "source": "/p/:slug.html",
       "destination": "/estudios/:slug",
       "permanent": true
