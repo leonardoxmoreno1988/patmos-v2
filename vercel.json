@@ -1,6 +1,31 @@
 {
   "redirects": [
     {
+      "source": "/p/apocalipsis-verso-verso.html",
+      "destination": "/leer/revelacion/1",
+      "permanent": true
+    },
+    {
+      "source": "/p/apocalipsis-verso-verso",
+      "destination": "/leer/revelacion/1",
+      "permanent": true
+    },
+    {
+      "source": "/estudios/archivo",
+      "destination": "/estudios",
+      "permanent": true
+    },
+    {
+      "source": "/p/archivo.html",
+      "destination": "/estudios",
+      "permanent": true
+    },
+    {
+      "source": "/p/archivo",
+      "destination": "/estudios",
+      "permanent": true
+    },
+    {
       "source": "/p/:slug.html",
       "destination": "/estudios/:slug",
       "permanent": true

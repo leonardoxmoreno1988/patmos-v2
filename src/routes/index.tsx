@@ -1,264 +1,459 @@
-import { useEffect, useMemo, useState } from "react";
-import { createFileRoute, Link, useNavigate, useSearch } from "@tanstack/react-router";
-import { ArrowRight, BookOpen, MessageSquare } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
-import { useQuery } from "@tanstack/react-query";
-import { notesCoverage, studyNotesQuery, type NotesCoverage } from "@/lib/notes";
-import metaEs from "@/data/meta_es.json";
-import metaEn from "@/data/meta_en.json";
-import { isDemoUser, useAuth } from "@/components/auth/auth-provider";
-import { AuthModal } from "@/components/auth/auth-modal";
-import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
+import { useEffect, useState } from 'react';
+import { createFileRoute } from '@tanstack/react-router';
+import { createClient } from '@supabase/supabase-js';
 
-import { BOOKS, BOOK_GROUPS, CHAPTER_COUNTS, bookFromSlug, bookName, slugifyBook, type BookInfo } from "@/lib/bible";
-import { SiteHeader } from "@/components/reader/site-header";
-import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_NAME, SITE_URL, seoHead } from "@/lib/seo";
-import { useI18n } from "@/i18n";
+// Importaciones necesarias para SEO y configuración de página
+import { PUBLIC_PAGE_HEADERS, seoHead } from "@/lib/seo";
 
-export const Route = createFileRoute("/")({
- staticData: { sitemap: true },
- headers: () => PUBLIC_PAGE_HEADERS,
- head: () =>
-  seoHead({
-   title: "PATMOS — Exégesis y Biblia Reina Valera 1865",
-   description:
-     "Plataforma de investigación teológica, análisis profético y preservación del texto bíblico Reina Valera 1865.",
-   canonical: "/",
-   jsonLd: [
-    {
-     "@type": "WebSite",
-     "@id": `${SITE_URL}/#website`,
-     name: SITE_NAME,
-     url: `${SITE_URL}/`,
-     inLanguage: "es",
-     publisher: { "@id": `${SITE_URL}/#organization` },
-     potentialAction: {
-      "@type": "SearchAction",
-      target: { "@type": "EntryPoint", urlTemplate: `${SITE_URL}/buscar?q={search_term_string}` },
-      "query-input": "required name=search_term_string",
-     },
-    },
-    ORGANIZATION,
-   ],
-  }),
- component: Home,
-});
-
-/** Free e-book banner on the home page; temporarily hidden. */
-const SHOW_EBOOK_BANNER = false;
-
-/**
- * Bundled snapshot of which chapters have notes (scripts/build-notes-meta.mjs). It renders the grid
- * in the server HTML and on first paint, before the full notes have downloaded.
- */
-const NOTES_META: Record<"es" | "en", NotesCoverage> = {
- es: metaEs.chapters,
- en: metaEn.chapters,
-};
-
-/** Chapters with at least one study note in a book (global editorial coverage). */
-function bookProgress(coverage: NotesCoverage, book: BookInfo) {
- const total = CHAPTER_COUNTS[book.bookid] ?? 0;
- const done = coverage[book.bookid]?.length ?? 0;
- return { total, done, pct: total ? Math.round((done / total) * 100) : 0 };
+// Declaración global para Lemon Squeezy
+declare global {
+  interface Window {
+    LemonSqueezy: any;
+  }
 }
 
-function Home() {
- const { user } = useAuth();
- const { t, lang } = useI18n();
- const navigate = useNavigate();
-  const search = useSearch({ from: "/" }) as { consulta?: string };
- const [signupOpen, setSignupOpen] = useState(false);
-  const [consultaOpen, setConsultaOpen] = useState(false);
-  const [consultaView, setConsultaView] = useState<"chat" | "history">("chat");
-  const [consultaKey, setConsultaKey] = useState(0);
-  // Full notes load in the background after mount (they also warm the reader's cache); once they
-  // arrive they replace the snapshot, so edits made to the sheet since the snapshot still show up.
-  // The download (~1.7 MB CSV) waits until the browser is idle so it doesn't compete with hydration.
-  const [idle, setIdle] = useState(false);
+// Inicialización de Supabase adaptada para Vite
+const supabaseUrl = import.meta.env['VITE_SUPABASE_URL'] || '';
+const supabaseKey = import.meta.env['VITE_SUPABASE_ANON_KEY'] || '';
+const supabase = createClient(supabaseUrl, supabaseKey);
+
+function HomePage() {
+  // Usamos estado local temporal para el idioma para evitar errores de importación
+  const [lang, setLanguage] = useState<'en' | 'es'>('es');
+  const [isMounted, setIsMounted] = useState(false);
+  const [userId, setUserId] = useState<string | null>(null);
+
   useEffect(() => {
-    if ("requestIdleCallback" in window) {
-      const id = window.requestIdleCallback(() => setIdle(true), { timeout: 3000 });
-      return () => window.cancelIdleCallback(id);
-    }
-    const id = setTimeout(() => setIdle(true), 1500);
-    return () => clearTimeout(id);
+    const script = document.createElement('script');
+    script.src = "https://app.lemonsqueezy.com/js/lemon.js";
+    script.defer = true;
+    
+    script.onload = () => {
+      if (window.LemonSqueezy) {
+        window.LemonSqueezy.Setup();
+      }
+    };
+
+    document.head.appendChild(script);
+
+    return () => {
+      const existing = document.querySelector('script[src="https://app.lemonsqueezy.com/js/lemon.js"]');
+      if (existing) existing.remove();
+    };
   }, []);
-  const { data: liveNotes } = useQuery({ ...studyNotesQuery(lang), enabled: idle });
-  const coverage = useMemo(
-    () => (liveNotes ? notesCoverage(liveNotes) : NOTES_META[lang]),
-    [liveNotes, lang],
-  );
-
- const [last, setLast] = useState<{ libro: string; cap: string }>({
-  libro: "genesis",
-  cap: "1",
- });
-
- useEffect(() => {
-   try {
-   const raw = window.localStorage.getItem("rv1865:last");
-   if (!raw) return;
-   const parsed = JSON.parse(raw) as { libro?: string; cap?: string | number };
-   // Older entries stored the display name ("Éxodo"); bookFromSlug accepts names and slugs.
-   const book = parsed?.libro ? bookFromSlug(parsed.libro) : undefined;
-   const cap = Math.floor(Number(parsed?.cap));
-   if (book && cap >= 1) setLast({ libro: slugifyBook(book.name), cap: String(cap) });
-  } catch {
-   /* ignore */
-  }
- }, []);
 
   useEffect(() => {
-    // "/?consulta=history" (account menu) or "/?consulta=chat" (links from other pages) opens the panel.
-    if (search.consulta === "history" || search.consulta === "chat") {
-      setConsultaView(search.consulta);
-      setConsultaKey((k) => k + 1);
-      setConsultaOpen(true);
-    }
-  }, [search.consulta]);
+    setIsMounted(true);
+    const link = document.createElement('link');
+    link.href = 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap';
+    link.rel = 'stylesheet';
+    document.head.appendChild(link);
 
-  const lastBook = bookName(bookFromSlug(last.libro) ?? BOOKS[0]!, lang);
+    const checkUser = async () => {
+      if (!supabaseUrl || !supabaseKey) return;
+      try {
+        const { data: { user } } = await supabase.auth.getUser();
+        if (user) setUserId(user.id);
+      } catch (e) {
+        console.error("Error auth", e);
+      }
+    };
+    checkUser();
+  }, []);
+
+  const handleCheckout = () => {
+    if (!userId) {
+      window.location.href = '/dashboard'; // El dashboard forzará el login modal
+      return;
+    }
+
+    const CHECKOUT_URL = `https://patmos.lemonsqueezy.com/checkout/buy/4beafe1a-6811-457e-b7b5-02e216f8aeef?checkout[custom][user_id]=${userId}&embed=1`;
+
+    if (window.LemonSqueezy?.Url) {
+      window.LemonSqueezy.Url.open(CHECKOUT_URL);
+    } else {
+      window.open(CHECKOUT_URL, '_blank', 'noopener,noreferrer');
+    }
+  };
+
+  if (!isMounted) return <div className="min-h-screen bg-[#f9fafb]" />;
 
   return (
-    <div className="min-h-screen bg-background">
-      <SiteHeader />
-  
-      <main className="mx-auto max-w-6xl px-6">
-        <section className="py-14 text-center md:py-20">
-          <h1 className="sr-only">{t.home.srTitle}</h1>
+    <div className="min-h-screen bg-[#f9fafb] text-[#000f37] flex flex-col items-center justify-between antialiased px-6 md:px-0" style={{ fontFamily: '"Inter", sans-serif' }}>
+      
+     {/* HEADER */}
+     <header className="w-full max-w-[700px] py-6 flex justify-between items-center mt-4">
+        <a href="/" className="flex items-center transition-opacity duration-200 hover:opacity-80">
+          <img 
+            src="https://www.leonardoxmoreno.com/files/logo-patmos.svg" 
+            alt="Patmos Research Logo" 
+            className="h-4 w-auto object-contain"
+          />
+        </a>
+        
+        <div className="flex items-center gap-3">
+          {/* Selector de idioma redondeado */}
+          <div className="inline-flex items-center border border-[#000f37] px-3 gap-1 bg-transparent h-9 md:h-7 box-sizing-border rounded-full">
+            <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" style={{ opacity: 0.8 }}>
+              <circle cx="12" cy="12" r="10"/>
+              <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20M2 12h20"/>
+            </svg>
+            
+            <select 
+              value={lang}
+              onChange={(e) => setLanguage(e.target.value as 'en' | 'es')}
+              className="bg-transparent border-none outline-none cursor-pointer text-[10px] font-bold uppercase tracking-wider h-full p-0 m-0"
+              style={{ color: '#000f37', fontFamily: '"Inter", sans-serif', WebkitAppearance: 'none', MozAppearance: 'none' }}
+            >
+              <option value="en">EN</option>
+              <option value="es">ES</option>
+            </select>
+          </div>
+
+          {/* Botón Ir al Lector redondeado */}
+          <a 
+            href="/dashboard" 
+            className="text-[10px] font-bold uppercase tracking-widest border border-[#000f37] text-[#000f37] px-4 py-2.5 md:py-1 rounded-full transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] flex items-center justify-center min-h-[36px] md:min-h-[28px]"
+          >
+            {lang === 'es' ? "Ir al Lector" : "Go to Reader"}
+          </a>
+        </div>
+      </header>
+
+     {/* HERO SECTION */}
+     <main className="flex-1 w-full max-w-[700px] flex flex-col justify-center py-16">
+        <div className="mb-6">
+          <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight text-[#000f37]">
+            {lang === 'es' ? <>RV1865 + Notas</> : <>KJV + Notes</>}
+          </h1>
+        </div>
+
+        <p className="text-lg md:text-xl leading-relaxed text-[#000f37] max-w-2xl font-normal">
+          {lang === 'es' ? (
+            <>
+              Estudia la Palabra pura (<span className="font-bold">RV1865 / KJV</span>) con herramientas avanzadas, notas personales y asistencia doctrinal en un solo ecosistema bilingüe.
+            </>
+          ) : (
+            <>
+              Study the pure Word (<span className="font-bold">KJV / RV1865</span>) with advanced tools, personal notes, and doctrinal assistance in one bilingual ecosystem.
+            </>
+          )}
+        </p>
+
+        {/* Ajustado el margen superior de mt-10 a mt-6 */}
+        <div className="mt-6 flex flex-col sm:flex-row gap-4">
+          <a 
+            href="/dashboard" 
+            className="inline-flex items-center justify-center bg-[#000f37] text-[#f9fafb] text-base font-semibold px-8 py-3.5 rounded-full hover:bg-black transition-all"
+          >
+            {lang === 'es' ? "Abrir el Lector Gratis →" : "Open Reader for Free →"}
+          </a>
+        </div>
+
+        <p className="text-sm text-gray-500 mt-4">
+          {lang === 'es' ? "Lectura 100% gratuita • Consultas y Notas Ilimitadas por $15/mes" : "100% Free Reading • Unlimited Questions & Notes for $15/month"}
+        </p>
+
+        <div className="w-full mt-8 mb-0 rounded-xl overflow-hidden border border-[#e5e7eb] shadow-sm">
+          <video
+            src="https://www.leonardoxmoreno.com/images/patmos-v2.mp4"
+            autoPlay
+            loop
+            muted
+            playsInline
+            className="w-full h-auto block"
+            aria-label="Patmos Platform Preview Video"
+          />
+        </div>
+
+       {/* BENEFITS SECTION */}
+       <section className="mt-0 border-t border-[#e5e7eb] pt-12">
+          <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8">
+            {lang === 'es' ? "Todo en un solo ecosistema" : "All in One Ecosystem"}
+          </h3>
           
-          {/* Título visible únicamente en desktop */}
-          <p aria-hidden="true" className="hidden md:block font-bold tracking-tight text-foreground mb-6 text-4xl md:text-5xl lg:text-6xl">
-            {t.home.heroTitle}
-          </p>
-  
-          <p className="mx-auto max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
-            {t.home.heroDescription}
-          </p>
-  
-          <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
-            <Button asChild size="lg" className="h-11 rounded-full px-6 dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100">
-              <Link to="/leer/$libro/$cap" params={{ libro: last.libro, cap: last.cap }}>
-                <BookOpen /> {t.home.continueReading} ({lastBook} {last.cap})
-              </Link>
-            </Button>
-            <Button variant="outline" size="lg" className="h-11 rounded-full px-6" onPointerEnter={preloadConsulta} onFocus={preloadConsulta} onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
-              <MessageSquare /> {t.home.askPatmos}
-            </Button>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-10">
+            {/* Feature 1: Lector Dual (Icono de Libro/Páginas) */}
+            <div className="flex items-start gap-4">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20" />
+                </svg>
+              </div>
+              <div>
+                <h4 className="font-semibold text-lg">{lang === 'es' ? "Lector Dual (RV1865 / KJV)" : "Dual Reader (KJV / RV1865)"}</h4>
+                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                  {lang === 'es' ? "Lee los 1,189 capítulos con navegación rápida y sincronización bilingüe perfecta, sin interrupciones." : "Read all 1,189 chapters with fast navigation and perfect bilingual synchronization, without interruptions."}
+                </p>
+              </div>
+            </div>
+            
+            {/* Feature 2: IA (Icono de Cerebro/Chispa) */}
+            <div className="flex items-start gap-4">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z" />
+                </svg>
+              </div>
+              <div>
+                <h4 className="font-semibold text-lg">{lang === 'es' ? "Panel Exegético Asistido" : "Assisted Exegetical Panel"}</h4>
+                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                  {lang === 'es' ? "Consulta dudas proféticas, analiza tipos del Antiguo Testamento y recibe respuestas sustentadas con una postura pretribulacional firme." : "Ask prophetic questions, analyze Old Testament types, and get answers backed by a firm pre-tribulational stance."}
+                </p>
+              </div>
+            </div>
+
+            {/* Feature 3: Referencias Cruzadas (Icono de Enlaces/Red) */}
+            <div className="flex items-start gap-4">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+                  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+                </svg>
+              </div>
+              <div>
+                <h4 className="font-semibold text-lg">{lang === 'es' ? "Red de Referencias Cruzadas" : "Cross-Reference Network"}</h4>
+                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                  {lang === 'es' ? "Navega a través de las Escrituras y descubre conexiones doctrinales con un sistema de referencias integrado en cada versículo." : "Navigate through the Scriptures and discover doctrinal connections with an integrated reference system for every verse."}
+                </p>
+              </div>
+            </div>
+
+            {/* Feature 4: Subrayado y Notas (Icono de Marcador/Lápiz) */}
+            <div className="flex items-start gap-4">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M12 19l7-7 3 3-7 7-3-3z" />
+                  <path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z" />
+                  <path d="M2 2l7.586 7.586" />
+                  <circle cx="11" cy="11" r="2" />
+                </svg>
+              </div>
+              <div>
+                <h4 className="font-semibold text-lg">{lang === 'es' ? "Subrayado y Notas Personales" : "Highlighting & Personal Notes"}</h4>
+                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                  {lang === 'es' ? "Organiza tu estudio sistemático marcando textos con distintos colores temáticos y guarda tus propias anotaciones de forma segura en la nube." : "Organize your systematic study by highlighting texts with different thematic colors and securely save your own annotations in the cloud."}
+                </p>
+              </div>
+            </div>
           </div>
         </section>
-  
-        {/* Banner del E-book gratuito — oculto temporalmente; poner SHOW_EBOOK_BANNER en true para reactivarlo */}
-        {SHOW_EBOOK_BANNER && !isDemoUser(user) && (
-          <section className="border-y border-border py-8 sm:py-10" aria-label={t.home.ebookRegion}>
-            <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
-              <div className="flex items-start gap-4 sm:items-center">
-                <img
-                  src={EBOOK_COVER}
-                  alt={EBOOK_TITLE}
-                  className="h-20 w-14 shrink-0 rounded-none object-cover shadow-md"
-                  loading="lazy"
-                />
-              
-                <div className="min-w-0 text-left">
-                  <span className="text-[11px] font-semibold uppercase text-primary">
-                    {t.home.ebookEyebrow}
-                  </span>
-                  <p className="mt-2 text-sm leading-relaxed text-foreground sm:text-[15px]">
-                    {t.home.ebookPitchBefore} <span className="font-semibold">"{EBOOK_TITLE}"</span> {t.home.ebookPitchAfter}
-                  </p>
-                </div>
-              </div>
-  
-              <Button
-                type="button"
-                onClick={() => (user ? void navigate({ to: "/welcome" }) : setSignupOpen(true))}
-                className="h-10 w-full shrink-0 rounded-full px-5 sm:w-auto dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
-              >
-                {t.home.downloadBook} <ArrowRight />
-              </Button>
+
+        {/* TESTIMONIAL SECTION */}
+        <section className="mt-20 border-t border-[#e5e7eb] pt-12">
+          <div className="flex flex-col gap-5">
+            {/* 5 ESTRELLAS DORADAS ALINEADAS A LA IZQUIERDA */}
+            <div className="flex items-center gap-1">
+              {[...Array(5)].map((_, i) => (
+                <svg 
+                  key={i} 
+                  width="18" 
+                  height="18" 
+                  viewBox="0 0 24 24" 
+                  fill="#c49400" 
+                  className="shrink-0"
+                >
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
+                </svg>
+              ))}
             </div>
-          </section>
-        )}
 
+            <p className="text-xl md:text-2xl font-medium text-[#000f37] leading-relaxed italic">
+              {lang === 'es' ? (
+                <>“Súper intuitivo y potente. Patmos transforma completamente cómo estudio la Biblia. Esta alternativa es exactamente lo que el estudiante de la Biblia necesita.”</>
+              ) : (
+                <>“Super intuitive and powerful. Patmos completely transforms how I study the Bible. This alternative is exactly what the Bible student needs.”</>
+              )}
+            </p>
+            
+            <div className="flex items-center gap-3">
+              <div className="w-9 h-9 rounded-full bg-[#000f37] text-[#f9fafb] flex items-center justify-center text-sm font-bold tracking-tight select-none shrink-0">
+                J
+              </div>
+              <div className="flex flex-col">
+                <span className="font-bold text-sm text-[#000f37]">Jesus Navarro</span>
+                <span className="text-xs text-[#6b7280] font-medium mt-0.5">
+                  {lang === 'es' ? "Diseñador de Productos y Creyente de la Biblia" : "Product Designer and Bible Believer"}
+                </span>
+              </div>
+            </div>
+          </div>
+        </section>
 
-     <section className="py-12 pb-24">
-      <div className="mb-7 flex items-end justify-between gap-4 border-b border-border pb-4">
-        <div><h2 className="text-xl font-semibold text-foreground">{t.home.notesProgress}</h2><p className="mt-1 text-sm text-muted-foreground">{t.home.notesProgressSubtitle}</p></div>
+       {/* PRICING SECTION */}
+<section className="mt-20 border-t border-[#e5e7eb] pt-12">
+  <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8">
+    {lang === 'es' ? "Seleccione su Acceso" : "Choose Your Access"}
+  </h3>
+
+  <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+    {/* Free Plan */}
+    <div className="bg-white border border-[#cbd5e1] p-8 rounded-xl flex flex-col justify-between">
+      <div>
+        <h4 className="text-xl font-semibold">{lang === 'es' ? "Lector Básico" : "Basic Reader"}</h4>
+        <div className="mt-4 flex items-baseline">
+          <span className="text-5xl font-bold">$0</span>
+          <span className="ml-2 text-gray-500">{lang === 'es' ? "/ para siempre" : "/ forever"}</span>
+        </div>
+        <p className="mt-6 text-[#4b5563]">
+          {lang === 'es' ? "Acceso completo a las Escrituras con límite en herramientas avanzadas." : "Full access to the Scriptures with limits on advanced tools."}
+        </p>
       </div>
-     <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
-      {BOOK_GROUPS.flatMap((group) => group.books).map((book) => (
-       <li key={book.bookid}>
-         <BookCard book={book} coverage={coverage} />
-       </li>
-      ))}
-     </ul>
-    </section>
-   </main>
-    <AuthModal open={signupOpen} onOpenChange={setSignupOpen} defaultTab="signup" />
-    <LazyConsultaPatmos key={consultaKey} open={consultaOpen} onOpenChange={(open) => {
-      setConsultaOpen(open);
-      if (!open && search.consulta) void navigate({ to: "/", search: {}, replace: true });
-    }} userId={user?.id ?? null} book="" chapter={0} verses={[]} initialScope="bible" initialView={consultaView} onRequireAuth={() => { setConsultaOpen(false); setSignupOpen(true); }} />
-
-   <footer className="border-border py-8 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm">
-    <div className="mx-auto max-w-6xl px-6">
-     © Patmos 2026 ·{" "}
-     <Link
-      to="/estudios"
-      className="font-medium text-foreground underline underline-offset-2 transition-opacity hover:opacity-80"
-     >
-      Blog de estudios
-     </Link>{" "}
-     · {t.footer.rights}
+      {/* Reducido mt-10 a mt-8 y py-4 a py-2.5 con text-sm */}
+      <a href="/dashboard" className="block w-full text-center mt-8 border border-[#000f37] py-2.5 text-sm font-semibold rounded-full hover:bg-gray-50 transition-colors">
+        {lang === 'es' ? "Comenzar a Leer" : "Start Reading"}
+      </a>
     </div>
-   </footer>
+
+    {/* Pro Plan */}
+    <div className="bg-white border-2 border-[#000f37] p-8 rounded-xl relative flex flex-col justify-between">
+      <div className="absolute -top-3 right-6 bg-[#2d65f6] text-white text-xs px-3 py-1 rounded-sm font-medium">
+        {lang === 'es' ? "PATMOS PRO" : "PATMOS PRO"}
+      </div>
+      
+      <div>
+        <h4 className="text-xl font-semibold">{lang === 'es' ? "Apoya Patmos" : "Support Patmos"}</h4>
+        <div className="mt-4 flex items-baseline">
+          <span className="text-5xl font-bold">$15</span>
+          <span className="ml-2 text-gray-500">{lang === 'es' ? "/ mes" : "/ month"}</span>
+        </div>
+        
+        <p className="mt-4 text-sm leading-relaxed text-[#4b5563]">
+          {lang === 'es' ? "Desbloquea el poder total del motor Patmos y apoya el desarrollo continuo de software bíblico independiente." : "Unlock the full power of the Patmos engine and support the continuous development of independent biblical software."}
+        </p>
+      </div>
+      
+      {/* Reducido mt-10 a mt-8 y py-4 a py-2.5 con text-sm */}
+      <button onClick={handleCheckout} className="block w-full text-center mt-8 bg-[#000f37] text-white py-2.5 text-sm font-semibold rounded-full hover:bg-black border-none cursor-pointer outline-none transition-all shadow-md">
+        {lang === 'es' ? "Obtener Acceso Ilimitado" : "Unlock Unlimited Access"}
+      </button>
+    </div>
   </div>
- );
-}
+</section>
 
-function BookCard({ book, coverage }: { book: BookInfo; coverage: NotesCoverage }) {
-  const { t, lang } = useI18n();
-  const { total, done, pct } = bookProgress(coverage, book);
+        {/* FAQS SECTION */}
+        <section className="mt-20 border-t border-[#e5e7eb] pt-12 pb-8">
+          <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8">
+            {lang === 'es' ? "Preguntas Frecuentes" : "FAQs"}
+          </h3>
 
- const badge =
-  pct === 100 ? (
-   <span className="shrink-0 rounded-full border border-emerald-200 bg-emerald-100 px-2 py-0.5 text-xs font-semibold text-emerald-800 dark:border-emerald-800 dark:bg-emerald-950/60 dark:text-emerald-300">
-    100%
-   </span>
-  ) : pct >= 1 ? (
-   <span className="shrink-0 rounded-full border border-orange-200 bg-orange-100 px-2 py-0.5 text-xs font-semibold text-orange-800 dark:border-orange-800 dark:bg-orange-950/60 dark:text-orange-300">
-    {pct}%
-   </span>
-  ) : (
-   <span className="shrink-0 text-xs text-neutral-400 dark:text-neutral-500">0%</span>
+          <div className="flex flex-col border-b border-[#e5e7eb]">
+            
+            {/* FAQ TEOLÓGICA 1 */}
+            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden">
+              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37]">
+                <h4 className="text-base font-semibold tracking-wide text-left">
+                  {lang === 'es' ? "¿Qué enseña Patmos sobre la Biblia?" : "What does Patmos teach about the Bible?"}
+                </h4>
+                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
+                </svg>
+              </summary>
+              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300">
+                {lang === 'es' ? (
+                  "Sostiene que la autoridad suprema, exclusiva y final para toda fe y ejecución del ministerio es la palabra de Dios infalible y estructuralmente preservada—encarnada strictly dentro de la Biblia Reina Valera 1865 y la Versión Autorizada King James para el mundo de habla inglesa. Opera bajo la convicción absoluta de que todas las traducciones modernas introducen distorsiones teológicas y corrupciones sistémicas (Salmos 12:6-7)."
+                ) : (
+                  "It holds that the supreme, exclusive, and final authority for all faith and ministry execution is the flawless, structurally preserved word of God—embodied strictly within the Authorized King James Holy Bible for the English-speaking world. It operates on the absolute conviction that all modern translations introduce theological distortions and systemic corruptions (Psalms 12:6-7)."
+                )}
+              </p>
+            </details>
+
+            {/* FAQ TEOLÓGICA 2 */}
+            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden">
+              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37]">
+                <h4 className="text-base font-semibold tracking-wide text-left">
+                  {lang === 'es' ? "¿Qué enseña Patmos sobre Dios?" : "What does Patmos teach about God?"}
+                </h4>
+                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
+                </svg>
+              </summary>
+              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300">
+                {lang === 'es' ? (
+                  "Reconoce a una Deidad suprema y triuna, que existe eternamente en tres Personas distintas: el Padre, la Palabra y el Espíritu Santo. Sostiene que cada miembro de la Trinidad es coeterno en existencia, coidéntico en su naturaleza esencial, coigual en poder soberano y perfectamente integrado dentro de los mismos atributos absolutos y perfecciones divinas (Deuteronomio 6:4; 1 Timoteo 1:17; 1 Juan 5:7)."
+                ) : (
+                  "It recognizes one supreme, triune Godhead, eternally existing across three distinct Persons: the Father, the Word, and the Holy Ghost. It holds that each constituent of the Trinity is co-eternal in existence, co-identical in core nature, co-equal in sovereign power, and perfectly integrated within the absolute self-same attributes and divine perfections (Deuteronomy 6:4; 1 Timothy 1:17; 1 John 5:7)."
+                )}
+              </p>
+            </details>
+
+            {/* FAQ TEOLÓGICA 3 */}
+            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden">
+              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37]">
+                <h4 className="text-base font-semibold tracking-wide text-left">
+                  {lang === 'es' ? "¿Qué enseña Patmos sobre Jesucristo?" : "What does Patmos teach about Jesus Christ?"}
+                </h4>
+                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
+                </svg>
+              </summary>
+              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300">
+                {lang === 'es' ? (
+                  "Afirma la deidad absoluta y la perfecta humanidad del Señor Jesucristo en una unión hipostática indivisible. Sostiene Su nacimiento virginal, Su vida sin pecado, Su sacrificio expiatorio y sustitutivo en la cruz mediante el derramamiento de Su sangre preciosa, Su resurrección corporal y Su ascensión gloriosa a la diestra del Padre (Filipenses 2:5-8; 1 Pedro 2:24; Hechos 1:9-11)."
+                ) : (
+                  "It affirms the absolute deity and perfect humanity of the Lord Jesus Christ in one indivisible hypostatic union. It holds to His virgin birth, His sinless life, His substitutionary atoning sacrifice on the cross through the shedding of His precious blood, His bodily resurrection, and His glorious ascension to the right hand of the Father (Philippians 2:5-8; 1 Peter 2:24; Acts 1:9-11)."
+                )}
+              </p>
+            </details>
+
+            {/* FAQ TEOLÓGICA 4 */}
+            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden">
+              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37]">
+                <h4 className="text-base font-semibold tracking-wide text-left">
+                  {lang === 'es' ? "¿Qué enseña Patmos sobre los Tiempos y Dispensaciones?" : "What does Patmos teach about Times and Dispensations?"}
+                </h4>
+                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
+                </svg>
+              </summary>
+              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300">
+                {lang === 'es' ? (
+                  "Sostiene una hermenéutica literal y dispensacional estricta, administrando bien la palabra de verdad. Reconoce la separación absoluta entre los planes de Dios para la Iglesia de Cristo y la nación de Israel. Defiende la expectativa inminente del rapto pretribulacional y el posterior establecimiento del reino milenial literal sobre la tierra (2 Timoteo 2:15; Romanos 11:25-26; 1 Tesalonicenses 4:16-17)."
+                ) : (
+                  "It maintains a strict literal and dispensational hermeneutic, rightly dividing the word of truth. It recognizes the absolute separation between God's distinct programs for the Church of Christ and the nation of Israel. It upholds the imminent pre-tribulation rapture and the subsequent literal millennial reign upon the earth (2 Timothy 2:15; Romans 11:25-26; 1 Thessalonians 4:16-17)."
+                )}
+              </p>
+            </details>
+
+          </div>
+        </section>
+
+      </main>
+
+      {/* FOOTER */}
+      <footer className="w-full max-w-[700px] border-t border-[#e5e7eb] py-8 flex flex-col items-center">
+        <p className="text-sm text-[#6b7280] text-center">
+          © Patmos {new Date().getFullYear()} ·{' '}
+          
+          {lang === 'es' && (
+            <>
+              <a 
+                href="/estudios" 
+                className="text-[#000f37] font-semibold underline underline-offset-4 decoration-2 decoration-[#000f37]/30 hover:decoration-[#000f37] transition-colors"
+              >
+                Blog de estudios
+              </a>
+              {' '}·{' '}
+            </>
+          )}
+          
+          {lang === 'es' ? "Todos los derechos reservados." : "All rights reserved."}
+        </p>
+      </footer>
+    </div>
   );
-
- return (
-  <Link
-   to="/leer/$libro/$cap"
-   params={{ libro: slugifyBook(book.name), cap: "1" }}
-    className="group flex h-full flex-col rounded-md border border-border bg-transparent p-3 transition-all hover:border-foreground/25 cursor-pointer"
-  >
-   <div className="flex flex-1 flex-col gap-2">
-    <div className="flex items-start justify-between gap-2">
-     <span className="text-[15px] font-medium leading-tight text-foreground">
-      {bookName(book, lang)}
-     </span>
-     {badge}
-    </div>
-    <span className="text-[11px] text-muted-foreground">
-     {t.home.chaptersDone(done, total)}
-    </span>
-   </div>
-    <div className="mt-3 h-1 overflow-hidden rounded-full bg-neutral-100 dark:bg-neutral-800">
-     <div
-      className={`h-full transition-all ${pct === 100 ? "bg-emerald-500" : pct >= 1 ? "bg-orange-500" : "bg-neutral-300 dark:bg-neutral-600"}`}
-      style={{ width: `${pct}%` }}
-     />
-    </div>
-  </Link>
- );
 }
+
+// Exportación obligatoria con todos los datos que exige TanStack Router
+export const Route = createFileRoute('/')({
+  staticData: { sitemap: true },
+  headers: () => PUBLIC_PAGE_HEADERS,
+  head: () =>
+    seoHead({
+      title: "PATMOS – Exégesis y Biblia Reina Valera 1865",
+      description: "Plataforma de investigación teológica, análisis profético y preservación del texto bíblico en español.",
+      canonical: "/",
+      jsonLd: [],
+    }),
+  component: HomePage,
+});

@@ -27,7 +27,13 @@ function getStoredLang(): Lang {
   if (typeof window === "undefined") return DEFAULT_LANG;
   try {
     const stored = window.localStorage.getItem(KEY);
-    return isLang(stored) ? stored : DEFAULT_LANG;
+    if (isLang(stored)) return stored;
+
+    // Detecta si el navegador del usuario está en inglés en su primera visita
+    const browserLang = navigator.language.toLowerCase();
+    if (browserLang.startsWith("en")) return "en";
+
+    return DEFAULT_LANG;
   } catch {
     return DEFAULT_LANG;
   }

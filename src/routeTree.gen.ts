@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as BuscarRouteImport } from './routes/buscar'
+import { Route as DashboardRouteImport } from './routes/dashboard'
 import { Route as NewsletterRouteImport } from './routes/newsletter'
 import { Route as WelcomeRouteImport } from './routes/welcome'
 import { Route as ApiBillingRouteImport } from './routes/api/billing'
@@ -30,6 +31,11 @@ const IndexRoute = IndexRouteImport.update({
 const BuscarRoute = BuscarRouteImport.update({
   id: '/buscar',
   path: '/buscar',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const DashboardRoute = DashboardRouteImport.update({
+  id: '/dashboard',
+  path: '/dashboard',
   getParentRoute: () => rootRouteImport,
 } as any)
 const NewsletterRoute = NewsletterRouteImport.update({
@@ -86,6 +92,7 @@ const LeerLibroCapRoute = LeerLibroCapRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/buscar': typeof BuscarRoute
+  '/dashboard': typeof DashboardRoute
   '/newsletter': typeof NewsletterRoute
   '/welcome': typeof WelcomeRoute
   '/api/billing': typeof ApiBillingRoute
@@ -100,6 +107,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/buscar': typeof BuscarRoute
+  '/dashboard': typeof DashboardRoute
   '/newsletter': typeof NewsletterRoute
   '/welcome': typeof WelcomeRoute
   '/api/billing': typeof ApiBillingRoute
@@ -115,6 +123,7 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/buscar': typeof BuscarRoute
+  '/dashboard': typeof DashboardRoute
   '/newsletter': typeof NewsletterRoute
   '/welcome': typeof WelcomeRoute
   '/api/billing': typeof ApiBillingRoute
@@ -131,6 +140,7 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/buscar'
+    | '/dashboard'
     | '/newsletter'
     | '/welcome'
     | '/api/billing'
@@ -145,6 +155,7 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/buscar'
+    | '/dashboard'
     | '/newsletter'
     | '/welcome'
     | '/api/billing'
@@ -159,6 +170,7 @@ export interface FileRouteTypes {
     | '__root__'
     | '/'
     | '/buscar'
+    | '/dashboard'
     | '/newsletter'
     | '/welcome'
     | '/api/billing'
@@ -174,6 +186,7 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   BuscarRoute: typeof BuscarRoute
+  DashboardRoute: typeof DashboardRoute
   NewsletterRoute: typeof NewsletterRoute
   WelcomeRoute: typeof WelcomeRoute
   ApiBillingRoute: typeof ApiBillingRoute
@@ -200,6 +213,13 @@ declare module '@tanstack/react-router' {
       path: '/buscar'
       fullPath: '/buscar'
       preLoaderRoute: typeof BuscarRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/dashboard': {
+      id: '/dashboard'
+      path: '/dashboard'
+      fullPath: '/dashboard'
+      preLoaderRoute: typeof DashboardRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/newsletter': {
@@ -278,6 +298,7 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   BuscarRoute: BuscarRoute,
+  DashboardRoute: DashboardRoute,
   NewsletterRoute: NewsletterRoute,
   WelcomeRoute: WelcomeRoute,
   ApiBillingRoute: ApiBillingRoute,

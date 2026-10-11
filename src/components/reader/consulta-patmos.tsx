@@ -418,6 +418,11 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
           {children}
         </a>
       ),
+      // Ajuste de jerarquía visual (Tamaños escalados)
+      h1: ({ children }: any) => <h1 className="text-xl font-bold text-foreground mt-6 mb-3">{children}</h1>,
+      h2: ({ children }: any) => <h2 className="text-lg font-semibold text-foreground mt-5 mb-2.5">{children}</h2>,
+      h3: ({ children }: any) => <h3 className="text-base font-semibold text-foreground mt-4 mb-2">{children}</h3>,
+      h4: ({ children }: any) => <h4 className="text-sm font-semibold text-foreground mt-3 mb-1.5">{children}</h4>,
     }),
     [navigateInternal],
   );
