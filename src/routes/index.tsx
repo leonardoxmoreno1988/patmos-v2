@@ -122,16 +122,16 @@ function HomePage() {
       <main className="flex-1 w-full max-w-[700px] flex flex-col justify-center py-16">
         <div className="mb-6">
           <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight text-[#000f37]">
-            {lang === 'es' ? <>El Lector Bíblico e Inteligencia Exegética</> : <>The Biblical Reader &<br/>Exegetical Intelligence</>}
+            {lang === 'es' ? <>Plataforma de Estudio Bíblico</> : <>Bible Study Platform</>}
           </h1>
         </div>
 
         <p className="text-2xl font-medium text-[#000f37] max-w-xl">
-          {lang === 'es' ? <>Texto bilingüe, herramientas de estudio y asistencia AI basada exclusivamente en la <span className="font-semibold">Reina Valera 1865 y la KJV</span>.</> : <>Bilingual text, study tools, and AI assistance based exclusively on the <span className="font-semibold">Authorized King James Version</span>.</>}
+          {lang === 'es' ? <>Texto bilingüe, herramientas de estudio y asistencia basada exclusivamente en la <span className="font-semibold">Reina Valera 1865 y la KJV</span>.</> : <>Bilingual text, study tools, and assistance based exclusively on the <span className="font-semibold">KJV and the RV1865</span>.</>}
         </p>
 
         <p className="text-lg leading-relaxed text-[#374151] mt-6 max-w-2xl">
-          {lang === 'es' ? <>Una plataforma integral diseñada para el escrutinio literal y dispensacional de las Escrituras. Lee, subraya, guarda notas, analiza paralelos y consulta dudas doctrinales profundas en un solo lugar.<br/><br/>Sin traducciones modernas. Solo la Palabra pura.</> : <>An all-in-one platform designed for the literal and dispensational study of Scripture. Read, highlight, save notes, analyze parallels, and consult deep doctrinal questions in one place.<br/><br/>No modern translations. Just the pure Word.</>}
+          {lang === 'es' ? <>Lee, subraya, guarda notas, analiza paralelos y consulta dudas doctrinales profundas en un solo lugar.<br/><br/>Sin traducciones modernas. Solo la Palabra pura.</> : <>Read, highlight, save notes, analyze parallels, and consult deep doctrinal questions in one place.<br/><br/>No modern translations. Just the pure Word.</>}
         </p>
 
         <div className="mt-10 flex flex-col sm:flex-row gap-4">
@@ -141,7 +141,7 @@ function HomePage() {
         </div>
 
         <p className="text-sm text-gray-500 mt-4">
-          {lang === 'es' ? "Lectura 100% gratuita • IA y Notas Ilimitadas por $15/mes" : "100% Free Reading • Unlimited AI & Notes for $15/month"}
+          {lang === 'es' ? "Lectura 100% gratuita • Consultas y Notas Ilimitadas por $15/mes" : "100% Free Reading • Unlimited Questions & Notes for $15/month"}
         </p>
 
         <div className="w-full mt-8 mb-0 rounded-xl overflow-hidden border border-[#e5e7eb] shadow-sm">
@@ -156,24 +156,75 @@ function HomePage() {
   />
 </div>
 
-        {/* BENEFITS SECTION */}
-        <section className="mt-0 border-t border-[#e5e7eb] pt-12">
+       {/* BENEFITS SECTION */}
+       <section className="mt-0 border-t border-[#e5e7eb] pt-12">
           <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8">
-            {lang === 'es' ? "Todo tu estudio en un solo ecosistema" : "Your Entire Study in One Ecosystem"}
+            {lang === 'es' ? "Todo en un solo ecosistema" : "All in One Ecosystem"}
           </h3>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-10">
-            <div>
-              <h4 className="font-semibold text-lg">{lang === 'es' ? "Lector Dual (RV1865 / KJV)" : "Dual Reader (RV1865 / KJV)"}</h4>
-              <p className="text-[#4b5563] mt-3 leading-relaxed">
-                {lang === 'es' ? "Lee los 1,189 capítulos con navegación rápida, referencias cruzadas y sincronización bilingüe perfecta." : "Read all 1,189 chapters with fast navigation, cross-references, and perfect bilingual synchronization."}
-              </p>
+            {/* Feature 1: Lector Dual (Icono de Libro/Páginas) */}
+            <div className="flex items-start gap-4">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20" />
+                </svg>
+              </div>
+              <div>
+                <h4 className="font-semibold text-lg">{lang === 'es' ? "Lector Dual (RV1865 / KJV)" : "Dual Reader (KJV / RV1865)"}</h4>
+                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                  {lang === 'es' ? "Lee los 1,189 capítulos con navegación rápida y sincronización bilingüe perfecta, sin interrupciones." : "Read all 1,189 chapters with fast navigation and perfect bilingual synchronization, without interruptions."}
+                </p>
+              </div>
             </div>
-            <div>
-              <h4 className="font-semibold text-lg">{lang === 'es' ? "Panel Exegético Asistido (IA)" : "AI-Assisted Exegetical Panel"}</h4>
-              <p className="text-[#4b5563] mt-3 leading-relaxed">
-                {lang === 'es' ? "Consulta dudas proféticas, analiza tipos del Antiguo Testamento y recibe respuestas sustentadas con una postura pretribulacional firme." : "Ask prophetic questions, analyze Old Testament types, and get answers backed by a firm pre-tribulational stance."}
-              </p>
+            
+            {/* Feature 2: IA (Icono de Cerebro/Chispa) */}
+            <div className="flex items-start gap-4">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z" />
+                </svg>
+              </div>
+              <div>
+                <h4 className="font-semibold text-lg">{lang === 'es' ? "Panel Exegético Asistido (IA)" : "AI-Assisted Exegetical Panel"}</h4>
+                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                  {lang === 'es' ? "Consulta dudas proféticas, analiza tipos del Antiguo Testamento y recibe respuestas sustentadas con una postura pretribulacional firme." : "Ask prophetic questions, analyze Old Testament types, and get answers backed by a firm pre-tribulational stance."}
+                </p>
+              </div>
+            </div>
+
+            {/* Feature 3: Referencias Cruzadas (Icono de Enlaces/Red) */}
+            <div className="flex items-start gap-4">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+                  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+                </svg>
+              </div>
+              <div>
+                <h4 className="font-semibold text-lg">{lang === 'es' ? "Red de Referencias Cruzadas" : "Cross-Reference Network"}</h4>
+                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                  {lang === 'es' ? "Navega a través de las Escrituras y descubre conexiones doctrinales con un sistema de referencias integrado en cada versículo." : "Navigate through the Scriptures and discover doctrinal connections with an integrated reference system for every verse."}
+                </p>
+              </div>
+            </div>
+
+            {/* Feature 4: Subrayado y Notas (Icono de Marcador/Lápiz) */}
+            <div className="flex items-start gap-4">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M12 19l7-7 3 3-7 7-3-3z" />
+                  <path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z" />
+                  <path d="M2 2l7.586 7.586" />
+                  <circle cx="11" cy="11" r="2" />
+                </svg>
+              </div>
+              <div>
+                <h4 className="font-semibold text-lg">{lang === 'es' ? "Subrayado y Notas Personales" : "Highlighting & Personal Notes"}</h4>
+                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                  {lang === 'es' ? "Organiza tu estudio sistemático marcando textos con distintos colores temáticos y guarda tus propias anotaciones de forma segura en la nube." : "Organize your systematic study by highlighting texts with different thematic colors and securely save your own annotations in the cloud."}
+                </p>
+              </div>
             </div>
           </div>
         </section>
@@ -250,7 +301,7 @@ function HomePage() {
               </div>
               
               <div>
-                <h4 className="text-xl font-semibold">{lang === 'es' ? "Estudio Sin Límites" : "Limitless Study"}</h4>
+                <h4 className="text-xl font-semibold">{lang === 'es' ? "Apoya Patmos" : "Support Patmos"}</h4>
                 <div className="mt-4 flex items-baseline">
                   <span className="text-5xl font-bold">$15</span>
                   <span className="ml-2 text-gray-500">{lang === 'es' ? "/ mes" : "/ month"}</span>
@@ -396,9 +447,16 @@ function HomePage() {
       </main>
 
       {/* FOOTER */}
-      <footer className="w-full max-w-[700px] border-t border-[#e5e7eb] py-8 flex flex-col items-center gap-4">
-        <p className="text-[10px] text-[#94a3b8] uppercase tracking-wider text-center">
-          © {new Date().getFullYear()} Patmos Research. {lang === 'es' ? "Todos los derechos reservados." : "All Rights Reserved."}
+      <footer className="w-full max-w-[700px] border-t border-[#e5e7eb] py-8 flex flex-col items-center">
+        <p className="text-sm text-[#6b7280] text-center">
+          © Patmos {new Date().getFullYear()} ·{' '}
+          <a 
+            href="/estudios" 
+            className="text-[#000f37] font-semibold underline underline-offset-4 decoration-2 decoration-[#000f37]/30 hover:decoration-[#000f37] transition-colors"
+          >
+            {lang === 'es' ? "Blog de estudios" : "Study Blog"}
+          </a>{' '}
+          · {lang === 'es' ? "Todos los derechos reservados." : "All rights reserved."}
         </p>
       </footer>
     </div>
