@@ -13,6 +13,12 @@ import type { Session, User } from "@supabase/supabase-js";
 import { useNavigate } from "@tanstack/react-router";
 
 import { supabase } from "@/lib/supabase";
+import {
+  SUBSCRIPTION_ACCESS_COLUMNS,
+  hasPremiumAccess,
+  isOwnerEmail,
+  type SubscriptionAccess,
+} from "@/lib/patmos/premium";
 import { hasSeenWelcome, markWelcomeSeen } from "@/lib/ebook";
 
 interface AuthContextValue {
@@ -101,10 +107,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     };
   }, []);
 
-  // Premium status: an active subscription row for this user, with the
-  // owner's account as a standing exception (requested explicitly).
-  const PREMIUM_EMAIL = "leonardo@ritualypropaganda.com";
-  const ACTIVE_STATUSES = ["active", "on_trial", "past_due"];
+  // Premium status: same rules as the server (src/lib/patmos/premium.ts).
 
   useEffect(() => {
     let active = true;
@@ -112,18 +115,16 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       setIsPremium(false);
       return;
     }
-    if (user.email?.toLowerCase() === PREMIUM_EMAIL) {
+    if (isOwnerEmail(user.email)) {
       setIsPremium(true);
       return;
     }
     supabase
       .from("subscriptions")
-      .select("status")
+      .select(SUBSCRIPTION_ACCESS_COLUMNS)
       .eq("user_id", user.id)
-      .in("status", ACTIVE_STATUSES)
-      .limit(1)
       .then(({ data }) => {
-        if (active) setIsPremium((data?.length ?? 0) > 0);
+        if (active) setIsPremium(hasPremiumAccess((data ?? []) as SubscriptionAccess[]));
       });
     return () => {
       active = false;

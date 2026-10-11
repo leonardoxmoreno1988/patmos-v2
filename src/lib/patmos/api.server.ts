@@ -5,6 +5,13 @@ import { z } from "zod";
 
 import type { Lang } from "@/i18n";
 import { executeFetchVerse } from "./fetch-rv1865-verse.server";
+import {
+  SUBSCRIPTION_ACCESS_COLUMNS,
+  hasPremiumAccess,
+  isOwnerEmail,
+  type SubscriptionAccess,
+} from "./premium";
+import { getAdminClient } from "./supabase-admin.server";
 
 export const FREE_DAILY_LIMIT = 4;
 export const BILLING_PORTAL_URL = "https://patmos.lemonsqueezy.com/billing";
@@ -12,7 +19,7 @@ export const BILLING_PORTAL_URL = "https://patmos.lemonsqueezy.com/billing";
 /** Authenticates the caller from the Bearer token the reader sends; RLS applies as that user. */
 export async function getUserClient(
   request: Request,
-): Promise<{ supabase: SupabaseClient; userId: string } | Response> {
+): Promise<{ supabase: SupabaseClient; userId: string; email: string | null } | Response> {
   const token = (request.headers.get("authorization") ?? "").replace(/^Bearer\s+/i, "");
   if (!token) return Response.json({ error: "Inicia sesión para consultar." }, { status: 401 });
   const supabase = createClient(
@@ -27,17 +34,48 @@ export async function getUserClient(
   if (error || !data.user) {
     return Response.json({ error: "Inicia sesión de nuevo para consultar." }, { status: 401 });
   }
-  return { supabase, userId: data.user.id };
+  return { supabase, userId: data.user.id, email: data.user.email ?? null };
 }
 
-async function isPremium(supabase: SupabaseClient, userId: string) {
+/** Owner account, or a paid / cancelled-but-still-in-period subscription (see premium.ts). */
+async function isPremium(supabase: SupabaseClient, userId: string, email: string | null) {
+  if (isOwnerEmail(email)) return true;
   const { data } = await supabase
     .from("subscriptions")
-    .select("status")
+    .select(SUBSCRIPTION_ACCESS_COLUMNS)
+    .eq("user_id", userId);
+  return hasPremiumAccess((data ?? []) as SubscriptionAccess[]);
+}
+
+/**
+ * Free consultas used today (UTC). Counted in consulta_usage, which users can't delete from
+ * (supabase/consulta-usage.sql), so clearing the history doesn't reset the limit. Until that
+ * table exists, falls back to counting today's chat_history.
+ */
+async function consultasToday(supabase: SupabaseClient, userId: string): Promise<number> {
+  const since = new Date();
+  since.setUTCHours(0, 0, 0, 0);
+  const admin = getAdminClient();
+  if (admin) {
+    const { count, error } = await admin
+      .from("consulta_usage")
+      .select("id", { count: "exact", head: true })
+      .eq("user_id", userId)
+      .gte("created_at", since.toISOString());
+    if (!error) return count ?? 0;
+    console.error("patmos consulta_usage count (falling back to chat_history)", error.message);
+  }
+  const { count } = await supabase
+    .from("chat_history")
+    .select("id", { count: "exact", head: true })
     .eq("user_id", userId)
-    .in("status", ["active", "on_trial", "past_due"])
-    .limit(1);
-  return (data?.length ?? 0) > 0;
+    .gte("created_at", since.toISOString());
+  return count ?? 0;
+}
+
+async function recordConsulta(userId: string) {
+  const { error } = (await getAdminClient()?.from("consulta_usage").insert({ user_id: userId })) ?? {};
+  if (error) console.error("patmos consulta_usage insert", error.message);
 }
 
 const PATMOS_SYSTEM_PROMPT = `Eres "Consultas Patmos", el Vigía Dispensacional: consultor exegético académico de voz severa, sobria y profunda, dedicado al estudio de las Escrituras según la Reina-Valera 1865, el Textus Receptus y el marco dispensacionalista clásico (KJV / Bible Believer).
@@ -207,7 +245,7 @@ function notConfiguredResponse(lang: Lang) {
 export async function handleChat(request: Request) {
   const auth = await getUserClient(request);
   if (auth instanceof Response) return auth;
-  const { supabase, userId } = auth;
+  const { supabase, userId, email } = auth;
 
   let body: { messages?: Array<{ role: string; content: string }>; readerContext?: unknown; lang?: unknown };
   try {
@@ -233,15 +271,9 @@ export async function handleChat(request: Request) {
       : "";
 
   // Paywall: 4 consultas diarias gratuitas.
-  if (!(await isPremium(supabase, userId))) {
-    const since = new Date();
-    since.setUTCHours(0, 0, 0, 0);
-    const { count } = await supabase
-      .from("chat_history")
-      .select("id", { count: "exact", head: true })
-      .eq("user_id", userId)
-      .gte("created_at", since.toISOString());
-    if ((count ?? 0) >= FREE_DAILY_LIMIT) {
+  const premium = await isPremium(supabase, userId, email);
+  if (!premium) {
+    if ((await consultasToday(supabase, userId)) >= FREE_DAILY_LIMIT) {
       return Response.json(
         { error: "Has alcanzado el límite diario de consultas.", limit: FREE_DAILY_LIMIT },
         { status: 429 },
@@ -317,6 +349,7 @@ export async function handleChat(request: Request) {
     abortSignal: request.signal,
     onFinish: async ({ text }) => {
       if (!text) return;
+      if (!premium) await recordConsulta(userId);
       const { error } = await supabase
         .from("chat_history")
         .insert({ user_id: userId, user_query: userQuery, bot_response: text });
