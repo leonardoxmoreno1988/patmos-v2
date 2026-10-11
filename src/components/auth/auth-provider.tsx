@@ -159,10 +159,12 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       provider: "google",
       options:
         typeof window !== "undefined"
-          ? { redirectTo: `${window.location.origin}/` }
+          ? { redirectTo: `${window.location.origin}/dashboard` }
           : {},
     });
-    if (error) throw error;
+    if (error) {
+      // manejo de error
+    }
   }, []);
 
   const signOut = useCallback(async () => {
