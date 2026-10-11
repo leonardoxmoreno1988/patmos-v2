@@ -142,7 +142,10 @@ function HomePage() {
 
         {/* Ajustado el margen superior de mt-10 a mt-6 */}
         <div className="mt-6 flex flex-col sm:flex-row gap-4">
-          <a href="/dashboard" className="inline-flex items-center justify-center bg-[#000f37] text-[#f9fafb] text-base font-semibold px-10 py-5 rounded-full hover:bg-black transition-all">
+          <a 
+            href="/dashboard" 
+            className="inline-flex items-center justify-center bg-[#000f37] text-[#f9fafb] text-base font-semibold px-8 py-3.5 rounded-full hover:bg-black transition-all"
+          >
             {lang === 'es' ? "Abrir el Lector Gratis →" : "Open Reader for Free →"}
           </a>
         </div>
@@ -278,53 +281,55 @@ function HomePage() {
         </section>
 
        {/* PRICING SECTION */}
-       <section className="mt-20 border-t border-[#e5e7eb] pt-12">
-          <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8">
-            {lang === 'es' ? "Seleccione su Acceso" : "Choose Your Access"}
-          </h3>
+<section className="mt-20 border-t border-[#e5e7eb] pt-12">
+  <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8">
+    {lang === 'es' ? "Seleccione su Acceso" : "Choose Your Access"}
+  </h3>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            {/* Free Plan */}
-            <div className="bg-white border border-[#cbd5e1] p-8 rounded-xl flex flex-col justify-between">
-              <div>
-                <h4 className="text-xl font-semibold">{lang === 'es' ? "Lector Básico" : "Basic Reader"}</h4>
-                <div className="mt-4 flex items-baseline">
-                  <span className="text-5xl font-bold">$0</span>
-                  <span className="ml-2 text-gray-500">{lang === 'es' ? "/ para siempre" : "/ forever"}</span>
-                </div>
-                <p className="mt-6 text-[#4b5563]">
-                  {lang === 'es' ? "Acceso completo a las Escrituras con límite en herramientas avanzadas." : "Full access to the Scriptures with limits on advanced tools."}
-                </p>
-              </div>
-              <a href="/dashboard" className="block w-full text-center mt-10 border border-[#000f37] py-4 font-semibold rounded-full hover:bg-gray-50 transition-colors">
-                {lang === 'es' ? "Comenzar a Leer" : "Start Reading"}
-              </a>
-            </div>
+  <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+    {/* Free Plan */}
+    <div className="bg-white border border-[#cbd5e1] p-8 rounded-xl flex flex-col justify-between">
+      <div>
+        <h4 className="text-xl font-semibold">{lang === 'es' ? "Lector Básico" : "Basic Reader"}</h4>
+        <div className="mt-4 flex items-baseline">
+          <span className="text-5xl font-bold">$0</span>
+          <span className="ml-2 text-gray-500">{lang === 'es' ? "/ para siempre" : "/ forever"}</span>
+        </div>
+        <p className="mt-6 text-[#4b5563]">
+          {lang === 'es' ? "Acceso completo a las Escrituras con límite en herramientas avanzadas." : "Full access to the Scriptures with limits on advanced tools."}
+        </p>
+      </div>
+      {/* Reducido mt-10 a mt-8 y py-4 a py-2.5 con text-sm */}
+      <a href="/dashboard" className="block w-full text-center mt-8 border border-[#000f37] py-2.5 text-sm font-semibold rounded-full hover:bg-gray-50 transition-colors">
+        {lang === 'es' ? "Comenzar a Leer" : "Start Reading"}
+      </a>
+    </div>
 
-            {/* Pro Plan */}
-            <div className="bg-white border-2 border-[#000f37] p-8 rounded-xl relative flex flex-col justify-between">
-  <div className="absolute -top-3 right-6 bg-[#2d65f6] text-white text-xs px-3 py-1 rounded-sm font-medium">
-    {lang === 'es' ? "PATMOS PRO" : "PATMOS PRO"}
+    {/* Pro Plan */}
+    <div className="bg-white border-2 border-[#000f37] p-8 rounded-xl relative flex flex-col justify-between">
+      <div className="absolute -top-3 right-6 bg-[#2d65f6] text-white text-xs px-3 py-1 rounded-sm font-medium">
+        {lang === 'es' ? "PATMOS PRO" : "PATMOS PRO"}
+      </div>
+      
+      <div>
+        <h4 className="text-xl font-semibold">{lang === 'es' ? "Apoya Patmos" : "Support Patmos"}</h4>
+        <div className="mt-4 flex items-baseline">
+          <span className="text-5xl font-bold">$15</span>
+          <span className="ml-2 text-gray-500">{lang === 'es' ? "/ mes" : "/ month"}</span>
+        </div>
+        
+        <p className="mt-4 text-sm leading-relaxed text-[#4b5563]">
+          {lang === 'es' ? "Desbloquea el poder total del motor Patmos y apoya el desarrollo continuo de software bíblico independiente." : "Unlock the full power of the Patmos engine and support the continuous development of independent biblical software."}
+        </p>
+      </div>
+      
+      {/* Reducido mt-10 a mt-8 y py-4 a py-2.5 con text-sm */}
+      <button onClick={handleCheckout} className="block w-full text-center mt-8 bg-[#000f37] text-white py-2.5 text-sm font-semibold rounded-full hover:bg-black border-none cursor-pointer outline-none transition-all shadow-md">
+        {lang === 'es' ? "Obtener Acceso Ilimitado" : "Unlock Unlimited Access"}
+      </button>
+    </div>
   </div>
-              
-              <div>
-                <h4 className="text-xl font-semibold">{lang === 'es' ? "Apoya Patmos" : "Support Patmos"}</h4>
-                <div className="mt-4 flex items-baseline">
-                  <span className="text-5xl font-bold">$15</span>
-                  <span className="ml-2 text-gray-500">{lang === 'es' ? "/ mes" : "/ month"}</span>
-                </div>
-                
-                <p className="mt-4 text-sm leading-relaxed text-[#4b5563]">
-                  {lang === 'es' ? "Desbloquea el poder total del motor Patmos y apoya el desarrollo continuo de software bíblico independiente." : "Unlock the full power of the Patmos engine and support the continuous development of independent biblical software."}
-                </p>
-              </div>
-              
-              <button onClick={handleCheckout} className="block w-full text-center mt-10 bg-[#000f37] text-white py-4 font-semibold rounded-full hover:bg-black border-none cursor-pointer outline-none transition-all shadow-md">
-                {lang === 'es' ? "Obtener Acceso Ilimitado" : "Unlock Unlimited Access"}
-              </button>
-            </div>
-          </div>
-        </section>
+</section>
 
         {/* FAQS SECTION */}
         <section className="mt-20 border-t border-[#e5e7eb] pt-12 pb-8">
