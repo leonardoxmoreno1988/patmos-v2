@@ -6,7 +6,10 @@ const CSV_URL =
 /** English notes served from public/notes/; same "Book-chapter,note" layout as the Spanish sheet. */
 const CSV_URL_EN = "/notes/notes_en.csv";
 
-/** Minimal RFC-4180 CSV parser (handles quoted fields, escaped quotes, newlines). */
+/**
+ * Minimal RFC-4180 CSV parser (handles quoted fields, escaped quotes, newlines).
+ * @deprecated The reader reads `bible_notes` from Supabase (src/lib/bible-notes.ts); kept for search and the dashboard until they migrate.
+ */
 export function parseCsv(input: string): string[][] {
   const rows: string[][] = [];
   let row: string[] = [];
@@ -51,11 +54,13 @@ export function sanitizeNote(html: string) {
     .trim();
 }
 
+/** @deprecated The reader reads `bible_notes` from Supabase (src/lib/bible-notes.ts); kept for search and the dashboard until they migrate. */
 export type NotesMap = Record<string, string>;
 
 /** True for "Book-chapter" keys ("Génesis-1", "Exodus-3"), false for a header cell like "ID". */
 const isNoteKey = (key: string | undefined) => !!key && /^.+-\d+$/.test(key.trim());
 
+/** @deprecated The reader reads `bible_notes` from Supabase (src/lib/bible-notes.ts); kept for search and the dashboard until they migrate. */
 export function notesFromCsv(csv: string, canonicalKeys: boolean): NotesMap {
   const map: NotesMap = {};
   const rows = parseCsv(csv);
@@ -87,6 +92,7 @@ async function fetchEnglishNotes(): Promise<NotesMap | null> {
   }
 }
 
+/** @deprecated The reader reads `bible_notes` from Supabase (src/lib/bible-notes.ts); kept for search and the dashboard until they migrate. */
 export async function fetchStudyNotes(lang: Lang = "es"): Promise<NotesMap> {
   if (lang === "en") {
     const english = await fetchEnglishNotes();
@@ -100,10 +106,14 @@ export async function fetchStudyNotes(lang: Lang = "es"): Promise<NotesMap> {
 /** Legacy spreadsheet keys that should resolve to the current canonical book name. */
 const KEY_ALIASES: Record<string, string> = { Hechos: "Actos", Salmo: "Salmos" };
 
+/** @deprecated The reader reads `bible_notes` from Supabase (src/lib/bible-notes.ts); kept for search and the dashboard until they migrate. */
 export const noteKey = (bookName: string, chapter: number) =>
   `${KEY_ALIASES[bookName] ?? bookName}-${chapter}`;
 
-/** Reads a note allowing legacy book spellings (e.g. "Hechos-2" for "Actos-2"). */
+/**
+ * Reads a note allowing legacy book spellings (e.g. "Hechos-2" for "Actos-2").
+ * @deprecated The reader reads `bible_notes` from Supabase (src/lib/bible-notes.ts); kept for search and the dashboard until they migrate.
+ */
 export const getNote = (map: NotesMap | undefined, bookName: string, chapter: number) => {
   if (!map) return undefined;
   const canonical = KEY_ALIASES[bookName] ?? bookName;
@@ -114,6 +124,7 @@ export const getNote = (map: NotesMap | undefined, bookName: string, chapter: nu
 /** Chapters that have a note, per bookid. Feeds the home progress grid. */
 export type NotesCoverage = Record<number, number[]>;
 
+/** @deprecated The reader reads `bible_notes` from Supabase (src/lib/bible-notes.ts); kept for search and the dashboard until they migrate. */
 export function notesCoverage(map: NotesMap): NotesCoverage {
   const out: NotesCoverage = {};
   for (const book of BOOKS) {
@@ -125,6 +136,7 @@ export function notesCoverage(map: NotesMap): NotesCoverage {
   return out;
 }
 
+/** @deprecated The reader reads `bible_notes` from Supabase (src/lib/bible-notes.ts); kept for search and the dashboard until they migrate. */
 export const studyNotesQuery = (lang: Lang = "es") => ({
   queryKey: ["study-notes", lang],
   queryFn: () => fetchStudyNotes(lang),

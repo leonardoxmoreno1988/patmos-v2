@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { createFileRoute, Link, useNavigate, useRouterState } from "@tanstack/react-router";
 
-import { keepPreviousData, useQuery } from "@tanstack/react-query";
+import { keepPreviousData, useQuery, useQueryClient } from "@tanstack/react-query";
 import { ChevronLeft, ChevronRight, MessageSquare, StickyNote } from "lucide-react";
 
 import { useAuth } from "@/components/auth/auth-provider";
@@ -15,7 +15,7 @@ import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
-import { getNote, studyNotesQuery } from "@/lib/notes";
+import { adjacentChapters, chapterNotesQuery, notesToHtml } from "@/lib/bible-notes";
 import { getActiveLang, useI18n } from "@/i18n";
 import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, brandTitle, excerpt, plainText, seoHead } from "@/lib/seo";
 import { recordReadChapter } from "@/lib/reading-progress";
@@ -33,15 +33,24 @@ function truncateWords(text: string, maxWords: number) {
 export const Route = createFileRoute("/leer/$libro/$cap")({
  staticData: { sitemap: true },
  headers: () => PUBLIC_PAGE_HEADERS,
- // SSR and hydration always render Spanish (seeded below as initialData). Client-side navigations
- // load the notes the reader will actually show, so English never waits on the Spanish sheet.
- loader: ({ context }) => context.queryClient.ensureQueryData(studyNotesQuery(getActiveLang())),
+ // Loads this chapter's notes in the language being shown (always Spanish on the server). Visited
+ // chapters stay in the query cache for the session, so going back to one resolves immediately.
+ loader: async ({ context, params }) => {
+  const book = bookFromSlug(params.libro) ?? BOOKS[0]!;
+  const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
+  const lang = getActiveLang();
+  // A failed fetch must not take the page down; the component query retries it.
+  const notes = await context.queryClient
+   .ensureQueryData(chapterNotesQuery(book.code, chapter, lang))
+   .catch(() => null);
+  return { lang, notes };
+ },
  head: ({ params, loaderData }) => {
   const book = bookFromSlug(params.libro)?.name ?? "Génesis";
   const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
-  const note = getNote(loaderData, book, chapter);
-  const description = note
-   ? excerpt(plainText(note).replace(/\[\d+\]\s*/g, ""), 150) // drop "[1]"-style note markers
+  const notes = loaderData?.notes;
+  const description = notes?.length
+   ? excerpt(plainText(notes.map((n) => n.body_html).join(" ")), 150)
    : `Lee ${book} ${chapter} en la Reina-Valera 1865 con notas de estudio y análisis doctrinal.`;
   const title = `${book} ${chapter} - Lectura y Estudio (RV1865)`;
   const url = `${SITE_URL}/leer/${slugifyBook(book)}/${chapter}`;
@@ -172,14 +181,21 @@ function Reader() {
   // The loader already resolved the study notes on the server; seeding the
   // client cache with that result keeps the first browser paint identical to
   // the server HTML (otherwise the notes section hydrates empty and React
-  // throws a hydration mismatch that blanks the page). On the server the loader
-  // loads Spanish notes and the first render is always "es", so only that query is
-  // seeded; English client navigations already put their notes in the cache.
-  const loaderNotes = Route.useLoaderData();
+  // throws a hydration mismatch that blanks the page). Only seed when the loader
+  // fetched the language being shown (the server always loads Spanish).
+  const loaderData = Route.useLoaderData();
   const studyNotes = useQuery({
-    ...studyNotesQuery(lang),
-    ...(lang === "es" && loaderNotes ? { initialData: loaderNotes } : {}),
+    ...chapterNotesQuery(book.code, chapter, lang),
+    ...(loaderData.lang === lang && loaderData.notes ? { initialData: loaderData.notes } : {}),
   });
+  const noteSections = studyNotes.data ?? [];
+  const queryClient = useQueryClient();
+  // Prefetch the neighbouring chapters so the prev/next arrows don't wait on Supabase.
+  useEffect(() => {
+    for (const n of adjacentChapters(bookId, chapter)) {
+      void queryClient.prefetchQuery(chapterNotesQuery(n.bookUsfm, n.chapter, lang));
+    }
+  }, [queryClient, bookId, chapter, lang]);
  const chapters = bookData.data ?? [];
  const chapterCount = chapters.length || 1;
  const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
@@ -278,10 +294,11 @@ function Reader() {
 
 
  const renderNotes = () =>
-  getNote(studyNotes.data, book.name, chapter) ? (
+  noteSections.length ? (
    <StudyNoteCard
-    html={getNote(studyNotes.data, book.name, chapter)!}
+    notes={noteSections}
     onRefClick={goToReference}
+    onVerseClick={scrollToVerse}
    />
   ) : studyNotes.isPending ? null : (
     <p className="py-4 text-sm italic text-muted-foreground/70">
@@ -604,7 +621,7 @@ function Reader() {
     chapterText={
      bookData.isPlaceholderData ? "" : verses.map((v) => `${v.verse} ${v.text}`).join("\n")
     }
-    chapterNotes={plainText(getNote(studyNotes.data, book.name, chapter) ?? "")}
+    chapterNotes={plainText(notesToHtml(noteSections))}
     onRequireAuth={() => {
      setConsultaOpen(false);
      setAuthOpen(true);

@@ -3,6 +3,7 @@ import { Link } from "@tanstack/react-router";
 
 import { HoverCard, HoverCardContent, HoverCardTrigger } from "@/components/ui/hover-card";
 import { slugifyBook } from "@/lib/bible";
+import { noteLabel, type BibleNote } from "@/lib/bible-notes";
 import { linkifyScriptureRefs, type ScriptureRef } from "@/lib/scripture-refs";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { hydrateCitations } from "@/utils/hydrateCitations";
@@ -136,36 +137,44 @@ function NoteSkeleton() {
   );
 }
 
+/** Separates sections while they are hydrated and linkified as one string (one pass keeps ref-link ids unique). */
+const SECTION_SEPARATOR = "<x-note-section>";
+
 export function StudyNoteCard({
-  html,
+  notes,
   onRefClick,
+  onVerseClick,
 }: {
-  html: string;
+  notes: BibleNote[];
   bare?: boolean;
   onRefClick?: (ref: ScriptureRef & { originId?: string }) => void;
+  /** Called with the first verse of a section when its "[3-5]" label is clicked. */
+  onVerseClick?: (verse: number) => void;
 }) {
   const isMobile = useIsMobile();
   const { lang } = useI18n();
   const [sheet, setSheet] = useState<PreviewTarget | null>(null);
-  const [linked, setLinked] = useState<string | null>(null);
+  // Linkified bodies are stored with the notes they belong to, so a chapter change keeps showing the
+  // previous, consistent sections until the new ones are ready.
+  const [linked, setLinked] = useState<{ notes: BibleNote[]; parts: string[] } | null>(null);
+  const html = useMemo(() => notes.map((n) => n.body_html).join(SECTION_SEPARATOR), [notes]);
 
   useEffect(() => {
     let cancelled = false;
+    const finish = (out: string) => {
+      if (!cancelled) setLinked({ notes, parts: linkifyScriptureRefs(out).split(SECTION_SEPARATOR) });
+    };
 
     const process = async () => {
       const hasCitations = CITATION_RE.test(html);
       CITATION_RE.lastIndex = 0;
 
-      if (!hasCitations) {
-        if (!cancelled) setLinked(linkifyScriptureRefs(html));
-        return;
-      }
+      if (!hasCitations) return finish(html);
 
       try {
-        const hydrated = await hydrateCitations(html, lang);
-        if (!cancelled) setLinked(linkifyScriptureRefs(hydrated));
+        finish(await hydrateCitations(html, lang));
       } catch {
-        if (!cancelled) setLinked(linkifyScriptureRefs(html));
+        finish(html);
       }
     };
 
@@ -173,25 +182,48 @@ export function StudyNoteCard({
     return () => {
       cancelled = true;
     };
+    // `html` is derived from `notes`.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [html, lang]);
 
-  const body = useMemo(() => {
+  const sections = useMemo(() => {
     if (typeof window === "undefined" || linked === null) return null;
-    const doc = new DOMParser().parseFromString(`<body>${linked}</body>`, "text/html");
-    return renderNodes(doc.body.childNodes, (token, key) =>
+    const renderRef = (token: RefToken, key: string) =>
       isMobile ? (
         <MobileRefButton key={key} token={token} onOpen={setSheet} />
       ) : (
         <DesktopRefLink key={key} token={token} {...(onRefClick ? { onRefClick } : {})} />
-      ),
-    );
+      );
+    return linked.notes.map((note, i) => {
+      const doc = new DOMParser().parseFromString(`<body>${linked.parts[i] ?? ""}</body>`, "text/html");
+      const label = noteLabel(note);
+      const verse = note.verse_start;
+      return (
+        <div key={note.id} data-verse-start={verse ?? undefined} data-verse-end={note.verse_end ?? undefined}>
+          {label ? (
+            verse !== null && onVerseClick ? (
+              <button
+                type="button"
+                onClick={() => onVerseClick(verse)}
+                className="cursor-pointer font-semibold text-foreground hover:underline hover:underline-offset-2"
+              >
+                {label}
+              </button>
+            ) : (
+              <b>{label}</b>
+            )
+          ) : null}{" "}
+          {renderNodes(doc.body.childNodes, renderRef, `s${i}`)}
+        </div>
+      );
+    });
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [linked, isMobile, onRefClick]);
+  }, [linked, isMobile, onRefClick, onVerseClick]);
 
   return (
     <>
-      <div className="study-note text-base leading-relaxed text-[#000f37] dark:text-foreground/80">
-        {body ?? <NoteSkeleton />}
+      <div className="study-note space-y-3 text-base leading-relaxed text-[#000f37] dark:text-foreground/80">
+        {sections ?? <NoteSkeleton />}
       </div>
 
       {sheet ? (
