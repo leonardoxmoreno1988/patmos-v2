@@ -1,19 +1,21 @@
-// Imports the study notes into the Supabase bible_notes table (supabase/migrations/*_create_bible_notes.sql),
+// Imports study notes into the Supabase bible_notes table (supabase/migrations/*_create_bible_notes.sql),
 // one row per anchored section of a chapter note: "<b>[3-5]</b> ..." becomes verse_anchor "3-5",
-// verse_start 3, verse_end 5. Spanish comes from the published Google Sheet, English from
-// public/notes/notes_en.csv.
+// verse_start 3, verse_end 5. Spanish comes from the published Google Sheet; English only from a CSV
+// passed with --en (same "Book-chapter,note" layout; the original lives in git history at
+// public/notes/notes_en.csv).
 //
-//   node scripts/migrate-notes.ts --dry-run          # parse, validate and compare ES/EN; writes nothing
-//   node --env-file=.env scripts/migrate-notes.ts    # upsert (needs VITE_SUPABASE_URL + SUPABASE_SERVICE_ROLE_KEY)
+//   node scripts/migrate-notes.ts --dry-run                         # parse and validate; writes nothing
+//   node --env-file=.env scripts/migrate-notes.ts                   # re-sync Spanish from the sheet
+//   node --env-file=.env scripts/migrate-notes.ts --en notes_en.csv # also import English
 //
 // A real run upserts on (book_usfm, chapter, lang, position) and then deletes rows of the imported
 // languages that this import no longer produces, so it is safe to re-run after the notes change.
+// Languages that are not imported are left untouched.
 import { readFileSync } from "node:fs";
 import { createClient } from "@supabase/supabase-js";
-import { createServer } from "vite";
 
-type NotesModule = typeof import("../src/lib/notes.ts");
-type BibleModule = typeof import("../src/lib/bible.ts");
+import { CHAPTER_COUNTS, bookFromSlug } from "../src/lib/bible.ts";
+
 type Lang = "es" | "en";
 type Kind = "verse" | "range" | "section_heading";
 
@@ -39,12 +41,77 @@ interface LangReport {
 }
 
 const DRY_RUN = process.argv.includes("--dry-run");
-const EN_CSV = "public/notes/notes_en.csv";
+const enIndex = process.argv.indexOf("--en");
+const EN_CSV = enIndex > 0 ? process.argv[enIndex + 1] : undefined;
+const ES_SHEET_URL =
+  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQHY2r7RUsyLXl9ZjOxAkHpfDXNyuhHE0cutaWf2SlWssYDa3zKYZpuVrNRRd8gD6Rsz82Uv1SMb6SY/pub?output=csv";
 const TABLE = "bible_notes";
 const ANCHOR_MAX = 50;
 
-/** Legacy sheet spellings; mirrors KEY_ALIASES in src/lib/notes.ts. */
+/** Legacy sheet spellings of current book names. */
 const BOOK_ALIASES: Record<string, string> = { Hechos: "Actos", Salmo: "Salmos" };
+
+/** Minimal RFC-4180 CSV parser (handles quoted fields, escaped quotes, newlines). */
+function parseCsv(input: string): string[][] {
+  const rows: string[][] = [];
+  let row: string[] = [];
+  let field = "";
+  let quoted = false;
+
+  for (let i = 0; i < input.length; i++) {
+    const c = input[i];
+    if (quoted) {
+      if (c === '"') {
+        if (input[i + 1] === '"') {
+          field += '"';
+          i++;
+        } else quoted = false;
+      } else field += c;
+      continue;
+    }
+    if (c === '"') quoted = true;
+    else if (c === ",") {
+      row.push(field);
+      field = "";
+    } else if (c === "\n") {
+      row.push(field);
+      rows.push(row);
+      row = [];
+      field = "";
+    } else if (c !== "\r") field += c;
+  }
+  if (field || row.length) {
+    row.push(field);
+    rows.push(row);
+  }
+  return rows.filter((r) => r.some((cell) => cell.trim() !== ""));
+}
+
+/** Keeps only simple inline formatting tags from the spreadsheet content. */
+function sanitizeNote(html: string) {
+  return html
+    .replace(/<\s*\/?\s*(script|style|iframe|object|embed|link|meta)[^>]*>/gi, "")
+    .replace(/<(?!\/?(b|strong|i|em|u|br|p|ul|ol|li)\b)[^>]*>/gi, "")
+    .replace(/\son\w+\s*=\s*("[^"]*"|'[^']*'|[^\s>]+)/gi, "")
+    .trim();
+}
+
+/** "Book-chapter,note" rows -> { "Génesis-1": "<b>[1]</b> ..." }. Skips an "ID,Nota" header and empty notes. */
+function notesFromCsv(csv: string): Record<string, string> {
+  const rows = parseCsv(csv.replace(/^\uFEFF/, ""));
+  const isKey = (key: string | undefined) => !!key && /^.+-\d+$/.test(key.trim());
+  const notes: Record<string, string> = {};
+  for (const [key, note] of isKey(rows[0]?.[0]) ? rows : rows.slice(1)) {
+    if (key && note) notes[key.trim()] = sanitizeNote(note);
+  }
+  return notes;
+}
+
+async function fetchSpanishSheet(): Promise<Record<string, string>> {
+  const res = await fetch(ES_SHEET_URL);
+  if (!res.ok) throw new Error(`Google Sheet returned ${res.status}`);
+  return notesFromCsv(await res.text());
+}
 
 /**
  * A "[...]" marker at the start of the note or of a line, bold or not: "<b>[3-5]</b>", "<b></b> [1-4]",
@@ -98,7 +165,7 @@ function splitNote(html: string): { anchor: string | null; body: string }[] {
   return sections;
 }
 
-function buildRows(lang: Lang, notes: Record<string, string>, bible: BibleModule): LangReport {
+function buildRows(lang: Lang, notes: Record<string, string>): LangReport {
   const report: LangReport = { chapters: 0, rows: [], errors: [], warnings: [], imagesRemoved: 0, zeroWidthRemoved: 0 };
   const seen = new Map<string, string>();
 
@@ -106,12 +173,12 @@ function buildRows(lang: Lang, notes: Record<string, string>, bible: BibleModule
     const dash = key.lastIndexOf("-");
     const bookPart = key.slice(0, dash).trim();
     const chapter = Number(key.slice(dash + 1));
-    const book = bible.bookFromSlug(BOOK_ALIASES[bookPart] ?? bookPart);
+    const book = bookFromSlug(BOOK_ALIASES[bookPart] ?? bookPart);
     if (dash <= 0 || !book || !Number.isInteger(chapter)) {
       report.errors.push(`${key}: unknown book or chapter`);
       continue;
     }
-    if (chapter < 1 || chapter > (bible.CHAPTER_COUNTS[book.bookid] ?? 0)) {
+    if (chapter < 1 || chapter > (CHAPTER_COUNTS[book.bookid] ?? 0)) {
       report.errors.push(`${key}: ${book.code} has no chapter ${chapter}`);
       continue;
     }
@@ -221,36 +288,32 @@ async function writeRows(rows: NoteRow[], langs: Lang[]) {
   console.log(`\nUpserted ${rows.length} rows, deleted ${stale.length} stale rows.`);
 }
 
-const vite = await createServer({ server: { middlewareMode: true }, appType: "custom", logLevel: "error" });
-try {
-  const notesLib = (await vite.ssrLoadModule("/src/lib/notes.ts")) as NotesModule;
-  const bible = (await vite.ssrLoadModule("/src/lib/bible.ts")) as BibleModule;
+const sources: Partial<Record<Lang, Record<string, string>>> = { es: await fetchSpanishSheet() };
+if (EN_CSV) sources.en = notesFromCsv(readFileSync(EN_CSV, "utf8"));
+else console.log("No --en file given: importing Spanish only; English rows are left untouched.");
 
-  // Both sources go through the same parser/sanitizer the reader uses today. Keys stay as written.
-  const sources: Record<Lang, Record<string, string>> = {
-    es: await notesLib.fetchStudyNotes("es"),
-    en: notesLib.notesFromCsv(readFileSync(EN_CSV, "utf8").replace(/^﻿/, ""), false),
-  };
-  const reports = {
-    es: buildRows("es", sources.es, bible),
-    en: buildRows("en", sources.en, bible),
-  };
-  printReport("es", reports.es);
-  printReport("en", reports.en);
-  compareLanguages(reports.es.rows, reports.en.rows);
+const reports: Partial<Record<Lang, LangReport>> = {};
+for (const lang of ["es", "en"] as const) {
+  const notes = sources[lang];
+  if (!notes) continue;
+  reports[lang] = buildRows(lang, notes);
+  printReport(lang, reports[lang]);
+}
+if (reports.es && reports.en) compareLanguages(reports.es.rows, reports.en.rows);
 
-  const sample = reports.es.rows.find((r) => r.book_usfm === "GEN" && r.chapter === 1 && r.verse_anchor === "2");
-  if (sample) console.log(`\nSample GEN 1 [2] (es): ${sample.body_html.slice(0, 160)}…`);
+const sample = reports.es?.rows.find((r) => r.book_usfm === "GEN" && r.chapter === 1 && r.verse_anchor === "2");
+if (sample) console.log(`\nSample GEN 1 [2] (es): ${sample.body_html.slice(0, 160)}…`);
 
-  const errors = reports.es.errors.length + reports.en.errors.length;
-  if (errors) {
-    console.error(`\n${errors} error(s); nothing was written.`);
-    process.exitCode = 1;
-  } else if (DRY_RUN) {
-    console.log("\nDry run: nothing was written.");
-  } else {
-    await writeRows([...reports.es.rows, ...reports.en.rows], ["es", "en"]);
-  }
-} finally {
-  await vite.close();
+const imported = Object.values(reports);
+const errors = imported.reduce((n, r) => n + r.errors.length, 0);
+if (errors) {
+  console.error(`\n${errors} error(s); nothing was written.`);
+  process.exitCode = 1;
+} else if (DRY_RUN) {
+  console.log("\nDry run: nothing was written.");
+} else {
+  await writeRows(
+    imported.flatMap((r) => r.rows),
+    Object.keys(reports) as Lang[],
+  );
 }

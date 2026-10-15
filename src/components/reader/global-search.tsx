@@ -13,7 +13,7 @@ import {
 } from "@/components/ui/command";
 import { Dialog, DialogContent } from "@/components/ui/dialog";
 import { BOOKS, CHAPTER_COUNTS, bookName, localizeBookName, slugifyBook, type BookInfo } from "@/lib/bible";
-import { studyNotesQuery } from "@/lib/notes";
+import { allChapterNotesQuery } from "@/lib/bible-notes";
 import { useI18n } from "@/i18n";
 import {
 	allBooksQuery,
@@ -64,7 +64,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 	const [query, setQuery] = useState("");
 	const [filter, setFilter] = useState<Filter>("all");
 	const navigate = useNavigate();
-	const notes = useQuery({ ...studyNotesQuery(lang), enabled: open });
+	const notes = useQuery({ ...allChapterNotesQuery(lang), enabled: open });
 	// Full Bible scan so the footer count matches the /buscar page exactly.
 	const allBooks = useQuery({ ...allBooksQuery(lang), enabled: open });
 

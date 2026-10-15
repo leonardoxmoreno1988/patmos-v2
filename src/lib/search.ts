@@ -1,6 +1,6 @@
 import type { Lang } from "@/i18n";
 import { BOOKS, fetchBook, type Chapter } from "./bible";
-import type { NotesMap } from "./notes";
+import type { ChapterNoteText } from "./bible-notes";
 
 /** Lowercases and strips accents while preserving string length (indices stay aligned). */
 export const norm = (s: string) =>
@@ -54,21 +54,19 @@ export interface Hit {
 	score: number;
 }
 
-export function searchNotes(notes: NotesMap | undefined, q: string, full = false): Hit[] {
+export function searchNotes(notes: ChapterNoteText[] | undefined, q: string, full = false): Hit[] {
 	if (q.trim().length < 3 || !notes) return [];
 	const re = queryRegex(q);
 	const out: Hit[] = [];
-	for (const [key, html] of Object.entries(notes)) {
+	for (const { bookid, book, chapter, html } of notes) {
 		const text = stripHtml(html);
-		const idx = key.lastIndexOf("-");
-		const bookName = key.slice(0, idx);
-		const chapter = Number(key.slice(idx + 1));
-		const titleMatch = re.test(norm(bookName)) || re.test(String(chapter));
+		const nameEn = BOOKS[bookid - 1]?.nameEn ?? "";
+		const titleMatch = re.test(norm(book)) || re.test(norm(nameEn)) || re.test(String(chapter));
 		const bodyMatch = re.test(norm(text));
 		if (titleMatch || bodyMatch) {
 			out.push({
-				key: `note-${key}`,
-				book: bookName,
+				key: `note-${book}-${chapter}`,
+				book,
 				chapter,
 				snippet: full ? snippet(text, q, 120, 220) : snippet(text, q),
 				score: (titleMatch ? 2 : 0) + (bodyMatch ? 1 : 0),

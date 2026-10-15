@@ -1,10 +1,10 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { createFileRoute, Link, useNavigate, useSearch } from "@tanstack/react-router";
 import { ArrowRight, BookOpen, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
 import { useQuery } from "@tanstack/react-query";
-import { notesCoverage, studyNotesQuery, type NotesCoverage } from "@/lib/notes";
+import { notesCoverageQuery, type NotesCoverage } from "@/lib/bible-notes";
 import metaEs from "@/data/meta_es.json";
 import metaEn from "@/data/meta_en.json";
 import { isDemoUser, useAuth } from "@/components/auth/auth-provider";
@@ -50,7 +50,7 @@ const SHOW_EBOOK_BANNER = false;
 
 /**
  * Bundled snapshot of which chapters have notes (scripts/build-notes-meta.mjs). It renders the grid
- * in the server HTML and on first paint, before the full notes have downloaded.
+ * in the server HTML and on first paint, before the live coverage arrives from Supabase.
  */
 const NOTES_META: Record<"es" | "en", NotesCoverage> = {
   es: metaEs.chapters,
@@ -74,9 +74,9 @@ function Home() {
   const [consultaView, setConsultaView] = useState<"chat" | "history">("chat");
   const [consultaKey, setConsultaKey] = useState(0);
   
-  // Full notes load in the background after mount (they also warm the reader's cache); once they
-  // arrive they replace the snapshot, so edits made to the sheet since the snapshot still show up.
-  // The download (~1.7 MB CSV) waits until the browser is idle so it doesn't compete with hydration.
+  // Live coverage (book/chapter pairs from bible_notes) loads in the background after mount and
+  // replaces the snapshot, so notes imported since the snapshot still show up. It waits until the
+  // browser is idle so it doesn't compete with hydration.
   const [idle, setIdle] = useState(false);
   
   useEffect(() => {
@@ -88,11 +88,8 @@ function Home() {
     return () => clearTimeout(id);
   }, []);
   
-  const { data: liveNotes } = useQuery({ ...studyNotesQuery(lang), enabled: idle });
-  const coverage = useMemo(
-    () => (liveNotes ? notesCoverage(liveNotes) : NOTES_META[lang]),
-    [liveNotes, lang],
-  );
+  const { data: liveCoverage } = useQuery({ ...notesCoverageQuery(lang), enabled: idle });
+  const coverage = liveCoverage ?? NOTES_META[lang];
 
   const [last, setLast] = useState<{ libro: string; cap: string }>({
     libro: "genesis",

@@ -5,7 +5,7 @@ import { BookOpen, NotebookPen, Search } from "lucide-react";
 
 import { SiteHeader } from "@/components/reader/site-header";
 import { slugifyBook } from "@/lib/bible";
-import { studyNotesQuery } from "@/lib/notes";
+import { allChapterNotesQuery } from "@/lib/bible-notes";
 import { useI18n } from "@/i18n";
 import { allBooksQuery, matchIndex, searchNotes, searchVerses, type Hit } from "@/lib/search";
 import { cn } from "@/lib/utils";
@@ -64,7 +64,7 @@ function SearchPage() {
 	const [input, setInput] = useState(q);
 
 	const { lang } = useI18n();
-	const notes = useQuery(studyNotesQuery(lang));
+	const notes = useQuery(allChapterNotesQuery(lang));
 	const books = useQuery({ ...allBooksQuery(lang), enabled: q.trim().length >= 3 });
 
 	const query = q.trim();
