@@ -15,7 +15,7 @@ import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
-import { adjacentChapters, chapterNotesQuery, notesToHtml } from "@/lib/bible-notes";
+import { adjacentChapters, chapterNotesQuery, notesCacheTag, notesToHtml } from "@/lib/bible-notes";
 import { getActiveLang, useI18n } from "@/i18n";
 import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, brandTitle, excerpt, plainText, seoHead } from "@/lib/seo";
 import { recordReadChapter } from "@/lib/reading-progress";
@@ -32,7 +32,6 @@ function truncateWords(text: string, maxWords: number) {
 
 export const Route = createFileRoute("/leer/$libro/$cap")({
  staticData: { sitemap: true },
- headers: () => PUBLIC_PAGE_HEADERS,
  // Loads this chapter's notes in the language being shown (always Spanish on the server). Visited
  // chapters stay in the query cache for the session, so going back to one resolves immediately.
  loader: async ({ context, params }) => {
@@ -44,6 +43,12 @@ export const Route = createFileRoute("/leer/$libro/$cap")({
    .ensureQueryData(chapterNotesQuery(book.code, chapter, lang))
    .catch(() => null);
   return { lang, notes };
+ },
+ headers: ({ params }) => {
+  const book = bookFromSlug(params.libro) ?? BOOKS[0]!;
+  const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
+  // Lets /admin/notas purge just this page from the CDN after an edit.
+  return { ...PUBLIC_PAGE_HEADERS, "Vercel-Cache-Tag": notesCacheTag(book.code, chapter) };
  },
  head: ({ params, loaderData }) => {
   const book = bookFromSlug(params.libro)?.name ?? "Génesis";

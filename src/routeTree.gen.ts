@@ -14,12 +14,14 @@ import { Route as BuscarRouteImport } from './routes/buscar'
 import { Route as DashboardRouteImport } from './routes/dashboard'
 import { Route as NewsletterRouteImport } from './routes/newsletter'
 import { Route as WelcomeRouteImport } from './routes/welcome'
+import { Route as AdminNotasRouteImport } from './routes/admin.notas'
 import { Route as ApiBillingRouteImport } from './routes/api/billing'
 import { Route as ApiChatRouteImport } from './routes/api/chat'
 import { Route as ApiConsultaRouteImport } from './routes/api/consulta'
 import { Route as ApiHistoryRouteImport } from './routes/api/history'
 import { Route as EstudiosIndexRouteImport } from './routes/estudios.index'
 import { Route as EstudiosSlugRouteImport } from './routes/estudios.$slug'
+import { Route as ApiAdminNotesRouteImport } from './routes/api/admin.notes'
 import { Route as ApiWebhooksLemonsqueezyRouteImport } from './routes/api/webhooks.lemonsqueezy'
 import { Route as LeerLibroCapRouteImport } from './routes/leer.$libro.$cap'
 
@@ -46,6 +48,11 @@ const NewsletterRoute = NewsletterRouteImport.update({
 const WelcomeRoute = WelcomeRouteImport.update({
   id: '/welcome',
   path: '/welcome',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AdminNotasRoute = AdminNotasRouteImport.update({
+  id: '/admin/notas',
+  path: '/admin/notas',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ApiBillingRoute = ApiBillingRouteImport.update({
@@ -78,6 +85,11 @@ const EstudiosSlugRoute = EstudiosSlugRouteImport.update({
   path: '/estudios/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ApiAdminNotesRoute = ApiAdminNotesRouteImport.update({
+  id: '/api/admin/notes',
+  path: '/api/admin/notes',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ApiWebhooksLemonsqueezyRoute = ApiWebhooksLemonsqueezyRouteImport.update({
   id: '/api/webhooks/lemonsqueezy',
   path: '/api/webhooks/lemonsqueezy',
@@ -95,12 +107,14 @@ export interface FileRoutesByFullPath {
   '/dashboard': typeof DashboardRoute
   '/newsletter': typeof NewsletterRoute
   '/welcome': typeof WelcomeRoute
+  '/admin/notas': typeof AdminNotasRoute
   '/api/billing': typeof ApiBillingRoute
   '/api/chat': typeof ApiChatRoute
   '/api/consulta': typeof ApiConsultaRoute
   '/api/history': typeof ApiHistoryRoute
   '/estudios/$slug': typeof EstudiosSlugRoute
   '/estudios/': typeof EstudiosIndexRoute
+  '/api/admin/notes': typeof ApiAdminNotesRoute
   '/api/webhooks/lemonsqueezy': typeof ApiWebhooksLemonsqueezyRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
@@ -110,12 +124,14 @@ export interface FileRoutesByTo {
   '/dashboard': typeof DashboardRoute
   '/newsletter': typeof NewsletterRoute
   '/welcome': typeof WelcomeRoute
+  '/admin/notas': typeof AdminNotasRoute
   '/api/billing': typeof ApiBillingRoute
   '/api/chat': typeof ApiChatRoute
   '/api/consulta': typeof ApiConsultaRoute
   '/api/history': typeof ApiHistoryRoute
   '/estudios/$slug': typeof EstudiosSlugRoute
   '/estudios': typeof EstudiosIndexRoute
+  '/api/admin/notes': typeof ApiAdminNotesRoute
   '/api/webhooks/lemonsqueezy': typeof ApiWebhooksLemonsqueezyRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
@@ -126,12 +142,14 @@ export interface FileRoutesById {
   '/dashboard': typeof DashboardRoute
   '/newsletter': typeof NewsletterRoute
   '/welcome': typeof WelcomeRoute
+  '/admin/notas': typeof AdminNotasRoute
   '/api/billing': typeof ApiBillingRoute
   '/api/chat': typeof ApiChatRoute
   '/api/consulta': typeof ApiConsultaRoute
   '/api/history': typeof ApiHistoryRoute
   '/estudios/$slug': typeof EstudiosSlugRoute
   '/estudios/': typeof EstudiosIndexRoute
+  '/api/admin/notes': typeof ApiAdminNotesRoute
   '/api/webhooks/lemonsqueezy': typeof ApiWebhooksLemonsqueezyRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
 }
@@ -143,12 +161,14 @@ export interface FileRouteTypes {
     | '/dashboard'
     | '/newsletter'
     | '/welcome'
+    | '/admin/notas'
     | '/api/billing'
     | '/api/chat'
     | '/api/consulta'
     | '/api/history'
     | '/estudios/$slug'
     | '/estudios/'
+    | '/api/admin/notes'
     | '/api/webhooks/lemonsqueezy'
     | '/leer/$libro/$cap'
   fileRoutesByTo: FileRoutesByTo
@@ -158,12 +178,14 @@ export interface FileRouteTypes {
     | '/dashboard'
     | '/newsletter'
     | '/welcome'
+    | '/admin/notas'
     | '/api/billing'
     | '/api/chat'
     | '/api/consulta'
     | '/api/history'
     | '/estudios/$slug'
     | '/estudios'
+    | '/api/admin/notes'
     | '/api/webhooks/lemonsqueezy'
     | '/leer/$libro/$cap'
   id:
@@ -173,12 +195,14 @@ export interface FileRouteTypes {
     | '/dashboard'
     | '/newsletter'
     | '/welcome'
+    | '/admin/notas'
     | '/api/billing'
     | '/api/chat'
     | '/api/consulta'
     | '/api/history'
     | '/estudios/$slug'
     | '/estudios/'
+    | '/api/admin/notes'
     | '/api/webhooks/lemonsqueezy'
     | '/leer/$libro/$cap'
   fileRoutesById: FileRoutesById
@@ -189,12 +213,14 @@ export interface RootRouteChildren {
   DashboardRoute: typeof DashboardRoute
   NewsletterRoute: typeof NewsletterRoute
   WelcomeRoute: typeof WelcomeRoute
+  AdminNotasRoute: typeof AdminNotasRoute
   ApiBillingRoute: typeof ApiBillingRoute
   ApiChatRoute: typeof ApiChatRoute
   ApiConsultaRoute: typeof ApiConsultaRoute
   ApiHistoryRoute: typeof ApiHistoryRoute
   EstudiosSlugRoute: typeof EstudiosSlugRoute
   EstudiosIndexRoute: typeof EstudiosIndexRoute
+  ApiAdminNotesRoute: typeof ApiAdminNotesRoute
   ApiWebhooksLemonsqueezyRoute: typeof ApiWebhooksLemonsqueezyRoute
   LeerLibroCapRoute: typeof LeerLibroCapRoute
 }
@@ -234,6 +260,13 @@ declare module '@tanstack/react-router' {
       path: '/welcome'
       fullPath: '/welcome'
       preLoaderRoute: typeof WelcomeRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/admin/notas': {
+      id: '/admin/notas'
+      path: '/admin/notas'
+      fullPath: '/admin/notas'
+      preLoaderRoute: typeof AdminNotasRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/api/billing': {
@@ -278,6 +311,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof EstudiosSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/api/admin/notes': {
+      id: '/api/admin/notes'
+      path: '/api/admin/notes'
+      fullPath: '/api/admin/notes'
+      preLoaderRoute: typeof ApiAdminNotesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/api/webhooks/lemonsqueezy': {
       id: '/api/webhooks/lemonsqueezy'
       path: '/api/webhooks/lemonsqueezy'
@@ -301,12 +341,14 @@ const rootRouteChildren: RootRouteChildren = {
   DashboardRoute: DashboardRoute,
   NewsletterRoute: NewsletterRoute,
   WelcomeRoute: WelcomeRoute,
+  AdminNotasRoute: AdminNotasRoute,
   ApiBillingRoute: ApiBillingRoute,
   ApiChatRoute: ApiChatRoute,
   ApiConsultaRoute: ApiConsultaRoute,
   ApiHistoryRoute: ApiHistoryRoute,
   EstudiosSlugRoute: EstudiosSlugRoute,
   EstudiosIndexRoute: EstudiosIndexRoute,
+  ApiAdminNotesRoute: ApiAdminNotesRoute,
   ApiWebhooksLemonsqueezyRoute: ApiWebhooksLemonsqueezyRoute,
   LeerLibroCapRoute: LeerLibroCapRoute,
 }

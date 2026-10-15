@@ -1,6 +1,7 @@
 import type { Lang } from "@/i18n";
 import { supabase } from "@/lib/supabase";
 import { BOOKS, CHAPTER_COUNTS } from "./bible";
+import type { NoteKind } from "./note-anchors";
 
 /** One anchored section of a chapter's study note (table bible_notes, filled by scripts/migrate-notes.ts). */
 export interface BibleNote {
@@ -9,10 +10,16 @@ export interface BibleNote {
   verse_anchor: string;
   verse_start: number | null;
   verse_end: number | null;
-  kind: "verse" | "range" | "section_heading";
+  kind: NoteKind;
   position: number;
   body_html: string;
 }
+
+/**
+ * Vercel CDN cache tag on a chapter's /leer page; the admin save purges it so edits show up at once.
+ * USFM codes and numbers only, so it never contains the comma Vercel uses as a separator.
+ */
+export const notesCacheTag = (bookUsfm: string, chapter: number) => `notes-${bookUsfm}-${chapter}`;
 
 const COLUMNS = "id, verse_anchor, verse_start, verse_end, kind, position, body_html";
 

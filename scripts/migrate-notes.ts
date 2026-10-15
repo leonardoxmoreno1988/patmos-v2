@@ -15,9 +15,9 @@ import { readFileSync } from "node:fs";
 import { createClient } from "@supabase/supabase-js";
 
 import { CHAPTER_COUNTS, bookFromSlug } from "../src/lib/bible.ts";
+import { ANCHOR_MAX, NUMERIC_ANCHOR_RE, parseAnchor, type NoteKind as Kind } from "../src/lib/note-anchors.ts";
 
 type Lang = "es" | "en";
-type Kind = "verse" | "range" | "section_heading";
 
 interface NoteRow {
   book_usfm: string;
@@ -46,7 +46,6 @@ const EN_CSV = enIndex > 0 ? process.argv[enIndex + 1] : undefined;
 const ES_SHEET_URL =
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vQHY2r7RUsyLXl9ZjOxAkHpfDXNyuhHE0cutaWf2SlWssYDa3zKYZpuVrNRRd8gD6Rsz82Uv1SMb6SY/pub?output=csv";
 const TABLE = "bible_notes";
-const ANCHOR_MAX = 50;
 
 /** Legacy sheet spellings of current book names. */
 const BOOK_ALIASES: Record<string, string> = { Hechos: "Actos", Salmo: "Salmos" };
@@ -119,8 +118,6 @@ async function fetchSpanishSheet(): Promise<Record<string, string>> {
  * in the body.
  */
 const ANCHOR_RE = /(?:^|<br\s*\/?>)\s*(?:<b>\s*<\/b>\s*)?(<b>\s*)?\[([^\]<>]{1,80})\](\s*<\/b>)?/gi;
-/** "2", "3-5", "8–9", "1, 5-6": verses and ranges (hyphen, en or em dash), comma-separated. */
-const NUMERIC_ANCHOR_RE = /^\d+(?:\s*[-–—]\s*\d+)?(?:\s*,\s*\d+(?:\s*[-–—]\s*\d+)?)*$/;
 /** Leftover generator placeholders such as "[Image of Hezekiah spreading the letter ...]". */
 const IMAGE_PLACEHOLDER_RE = /\s*\[Imag(?:e|en) (?:of|de)\b[^\]]*\]/gi;
 const ZERO_WIDTH_RE = /[​﻿]/g;
@@ -128,21 +125,6 @@ const EDGE_BREAKS_RE = /^(?:\s|<br\s*\/?>|<b>\s*<\/b>)+|(?:\s|<br\s*\/?>|<b>\s*<
 const HEBREW_GREEK_RE = /[֐-׿Ͱ-Ͽἀ-῿]/g;
 
 const countMatches = (s: string, re: RegExp) => s.match(re)?.length ?? 0;
-
-function parseAnchor(raw: string): Pick<NoteRow, "verse_anchor" | "verse_start" | "verse_end" | "kind"> {
-  const text = raw.trim().replace(/\s+/g, " ");
-  if (!NUMERIC_ANCHOR_RE.test(text)) {
-    return { verse_anchor: text, verse_start: null, verse_end: null, kind: "section_heading" };
-  }
-  const verses = text.split(/\D+/).filter(Boolean).map(Number);
-  return {
-    // One spelling in both languages: "8–9" -> "8-9", "1,5 - 6" -> "1, 5-6".
-    verse_anchor: text.replace(/\s*[-–—]\s*/g, "-").replace(/\s*,\s*/g, ", "),
-    verse_start: Math.min(...verses),
-    verse_end: Math.max(...verses),
-    kind: verses.length === 1 ? "verse" : "range",
-  };
-}
 
 /** Splits one chapter note into [anchor | null for the text before the first anchor, body] sections. */
 function splitNote(html: string): { anchor: string | null; body: string }[] {
