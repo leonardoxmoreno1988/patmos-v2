@@ -5,6 +5,8 @@ import { createClient } from '@supabase/supabase-js';
 // Importaciones necesarias para SEO y configuración de página
 import { PUBLIC_PAGE_HEADERS, seoHead } from "@/lib/seo";
 import { useI18n, type Lang } from "@/i18n";
+import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
+import { ThemeToggle } from "@/components/theme-toggle";
 
 // Declaración global para Lemon Squeezy
 declare global {
@@ -77,25 +79,21 @@ function HomePage() {
     }
   };
 
-  if (!isMounted) return <div className="min-h-screen bg-[#f9fafb]" />;
+  if (!isMounted) return <div className="min-h-screen bg-[#f9fafb] dark:bg-background" />;
 
   return (
-    <div className="min-h-screen bg-[#f9fafb] text-[#000f37] flex flex-col items-center justify-between antialiased px-6 md:px-0" style={{ fontFamily: '"Inter", sans-serif' }}>
+    <div className="min-h-screen bg-[#f9fafb] text-[#000f37] flex flex-col items-center justify-between antialiased px-6 md:px-0 dark:bg-background dark:text-foreground" style={{ fontFamily: '"Inter", sans-serif' }}>
       
      {/* HEADER */}
      <header className="w-full max-w-[700px] py-6 flex justify-between items-center mt-4">
         <a href="/" className="flex items-center transition-opacity duration-200 hover:opacity-80">
-          <img 
-            src="https://www.leonardoxmoreno.com/files/logo-patmos.svg" 
-            alt="Patmos Research Logo" 
-            className="h-4 w-auto object-contain"
-          />
+          <PatmosWordmark className="h-4" />
         </a>
         
         <div className="flex items-center gap-3">
           {/* Selector de idioma redondeado */}
-          <div className="inline-flex items-center border border-[#000f37] px-3 gap-1 bg-transparent h-9 md:h-7 box-sizing-border rounded-full">
-            <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" style={{ opacity: 0.8 }}>
+          <div className="inline-flex items-center border border-[#000f37] px-3 gap-1 bg-transparent h-9 md:h-7 box-sizing-border rounded-full transition-colors duration-300 hover:bg-[#000f37]/5 dark:border-foreground/40 dark:hover:bg-foreground/10">
+            <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" style={{ opacity: 0.8 }}>
               <circle cx="12" cy="12" r="10"/>
               <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20M2 12h20"/>
             </svg>
@@ -103,18 +101,20 @@ function HomePage() {
             <select 
               value={lang}
               onChange={(e) => setLang(e.target.value as Lang)}
-              className="bg-transparent border-none outline-none cursor-pointer text-[10px] font-bold uppercase tracking-wider h-full p-0 m-0"
-              style={{ color: '#000f37', fontFamily: '"Inter", sans-serif', WebkitAppearance: 'none', MozAppearance: 'none' }}
+              className="bg-transparent border-none outline-none cursor-pointer text-[10px] font-bold uppercase tracking-wider h-full p-0 m-0 text-[#000f37] dark:[color-scheme:dark] dark:text-foreground"
+              style={{ fontFamily: '"Inter", sans-serif', WebkitAppearance: 'none', MozAppearance: 'none' }}
             >
               <option value="en">EN</option>
               <option value="es">ES</option>
             </select>
           </div>
 
+          <ThemeToggle className="border border-[#000f37] text-[#000f37] rounded-full h-9 w-9 md:h-7 md:w-7 transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] dark:border-foreground/40 dark:text-foreground dark:hover:bg-foreground dark:hover:text-background" />
+
           {/* Botón Ir al Lector redondeado */}
           <a 
             href="/dashboard" 
-            className="text-[10px] font-bold uppercase tracking-widest border border-[#000f37] text-[#000f37] px-4 py-2.5 md:py-1 rounded-full transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] flex items-center justify-center min-h-[36px] md:min-h-[28px]"
+            className="text-[10px] font-bold uppercase tracking-widest border border-[#000f37] text-[#000f37] px-4 py-2.5 md:py-1 rounded-full transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] flex items-center justify-center min-h-[36px] md:min-h-[28px] dark:border-foreground/40 dark:text-foreground dark:hover:bg-foreground dark:hover:text-background"
           >
             {lang === 'es' ? "Ir al Lector" : "Go to Reader"}
           </a>
@@ -124,12 +124,12 @@ function HomePage() {
      {/* HERO SECTION */}
      <main className="flex-1 w-full max-w-[700px] flex flex-col justify-center py-16">
         <div className="mb-6">
-          <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight text-[#000f37]">
+          <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight text-[#000f37] dark:text-foreground">
             {lang === 'es' ? <>RV1865 + Notas</> : <>KJV + Notes</>}
           </h1>
         </div>
 
-        <p className="text-lg md:text-xl leading-relaxed text-[#000f37] max-w-2xl font-normal">
+        <p className="text-lg md:text-xl leading-relaxed text-[#000f37] max-w-2xl font-normal dark:text-foreground">
           {lang === 'es' ? (
             <>
               Estudia la Palabra pura (<span className="font-bold">RV1865 / KJV</span>) con herramientas avanzadas, notas personales y asistencia doctrinal en un solo ecosistema bilingüe.
@@ -145,17 +145,17 @@ function HomePage() {
         <div className="mt-6 flex flex-col sm:flex-row gap-4">
           <a 
             href="/dashboard" 
-            className="inline-flex items-center justify-center bg-[#000f37] text-[#f9fafb] text-base font-semibold px-8 py-3.5 rounded-full hover:bg-black transition-all"
+            className="inline-flex items-center justify-center bg-[#000f37] text-[#f9fafb] text-base font-semibold px-8 py-3.5 rounded-full hover:bg-black transition-all dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100"
           >
             {lang === 'es' ? "Abrir el Lector Gratis →" : "Open Reader for Free →"}
           </a>
         </div>
 
-        <p className="text-sm text-gray-500 mt-4">
+        <p className="text-sm text-gray-500 mt-4 dark:text-muted-foreground">
           {lang === 'es' ? "Lectura 100% gratuita • Consultas y Notas Ilimitadas por $15/mes" : "100% Free Reading • Unlimited Questions & Notes for $15/month"}
         </p>
 
-        <div className="w-full mt-8 mb-0 rounded-xl overflow-hidden border border-[#e5e7eb] shadow-sm">
+        <div className="w-full mt-8 mb-0 rounded-xl overflow-hidden border border-[#e5e7eb] shadow-sm dark:border-border">
           <video
             src="https://www.leonardoxmoreno.com/images/patmos-v2.mp4"
             autoPlay
@@ -168,22 +168,22 @@ function HomePage() {
         </div>
 
        {/* BENEFITS SECTION */}
-       <section className="mt-0 border-t border-[#e5e7eb] pt-12">
-          <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8">
+       <section className="mt-0 border-t border-[#e5e7eb] pt-12 dark:border-border">
+          <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8 dark:text-muted-foreground">
             {lang === 'es' ? "Todo en un solo ecosistema" : "All in One Ecosystem"}
           </h3>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-10">
             {/* Feature 1: Lector Dual (Icono de Libro/Páginas) */}
             <div className="flex items-start gap-4">
-              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg dark:bg-secondary">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20" />
                 </svg>
               </div>
               <div>
                 <h4 className="font-semibold text-lg">{lang === 'es' ? "Lector Dual (RV1865 / KJV)" : "Dual Reader (KJV / RV1865)"}</h4>
-                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                <p className="text-[#4b5563] mt-2 leading-relaxed dark:text-muted-foreground">
                   {lang === 'es' ? "Lee los 1,189 capítulos con navegación rápida y sincronización bilingüe perfecta, sin interrupciones." : "Read all 1,189 chapters with fast navigation and perfect bilingual synchronization, without interruptions."}
                 </p>
               </div>
@@ -191,14 +191,14 @@ function HomePage() {
             
             {/* Feature 2: IA (Icono de Cerebro/Chispa) */}
             <div className="flex items-start gap-4">
-              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg dark:bg-secondary">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z" />
                 </svg>
               </div>
               <div>
                 <h4 className="font-semibold text-lg">{lang === 'es' ? "Panel Exegético Asistido" : "Assisted Exegetical Panel"}</h4>
-                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                <p className="text-[#4b5563] mt-2 leading-relaxed dark:text-muted-foreground">
                   {lang === 'es' ? "Consulta dudas proféticas, analiza tipos del Antiguo Testamento y recibe respuestas sustentadas con una postura pretribulacional firme." : "Ask prophetic questions, analyze Old Testament types, and get answers backed by a firm pre-tribulational stance."}
                 </p>
               </div>
@@ -206,15 +206,15 @@ function HomePage() {
 
             {/* Feature 3: Referencias Cruzadas (Icono de Enlaces/Red) */}
             <div className="flex items-start gap-4">
-              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg dark:bg-secondary">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
                   <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
                 </svg>
               </div>
               <div>
                 <h4 className="font-semibold text-lg">{lang === 'es' ? "Red de Referencias Cruzadas" : "Cross-Reference Network"}</h4>
-                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                <p className="text-[#4b5563] mt-2 leading-relaxed dark:text-muted-foreground">
                   {lang === 'es' ? "Navega a través de las Escrituras y descubre conexiones doctrinales con un sistema de referencias integrado en cada versículo." : "Navigate through the Scriptures and discover doctrinal connections with an integrated reference system for every verse."}
                 </p>
               </div>
@@ -222,8 +222,8 @@ function HomePage() {
 
             {/* Feature 4: Subrayado y Notas (Icono de Marcador/Lápiz) */}
             <div className="flex items-start gap-4">
-              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000f37" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <div className="mt-1 shrink-0 p-2.5 bg-[#f3f4f6] rounded-lg dark:bg-secondary">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M12 19l7-7 3 3-7 7-3-3z" />
                   <path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z" />
                   <path d="M2 2l7.586 7.586" />
@@ -232,7 +232,7 @@ function HomePage() {
               </div>
               <div>
                 <h4 className="font-semibold text-lg">{lang === 'es' ? "Subrayado y Notas Personales" : "Highlighting & Personal Notes"}</h4>
-                <p className="text-[#4b5563] mt-2 leading-relaxed">
+                <p className="text-[#4b5563] mt-2 leading-relaxed dark:text-muted-foreground">
                   {lang === 'es' ? "Organiza tu estudio sistemático marcando textos con distintos colores temáticos y guarda tus propias anotaciones de forma segura en la nube." : "Organize your systematic study by highlighting texts with different thematic colors and securely save your own annotations in the cloud."}
                 </p>
               </div>
@@ -241,7 +241,7 @@ function HomePage() {
         </section>
 
         {/* TESTIMONIAL SECTION */}
-        <section className="mt-20 border-t border-[#e5e7eb] pt-12">
+        <section className="mt-20 border-t border-[#e5e7eb] pt-12 dark:border-border">
           <div className="flex flex-col gap-5">
             {/* 5 ESTRELLAS DORADAS ALINEADAS A LA IZQUIERDA */}
             <div className="flex items-center gap-1">
@@ -259,7 +259,7 @@ function HomePage() {
               ))}
             </div>
 
-            <p className="text-xl md:text-2xl font-medium text-[#000f37] leading-relaxed italic">
+            <p className="text-xl md:text-2xl font-medium text-[#000f37] leading-relaxed italic dark:text-foreground">
               {lang === 'es' ? (
                 <>“Súper intuitivo y potente. Patmos transforma completamente cómo estudio la Biblia. Esta alternativa es exactamente lo que el estudiante de la Biblia necesita.”</>
               ) : (
@@ -268,12 +268,12 @@ function HomePage() {
             </p>
             
             <div className="flex items-center gap-3">
-              <div className="w-9 h-9 rounded-full bg-[#000f37] text-[#f9fafb] flex items-center justify-center text-sm font-bold tracking-tight select-none shrink-0">
+              <div className="w-9 h-9 rounded-full bg-[#000f37] text-[#f9fafb] flex items-center justify-center text-sm font-bold tracking-tight select-none shrink-0 dark:bg-white dark:text-slate-900">
                 J
               </div>
               <div className="flex flex-col">
-                <span className="font-bold text-sm text-[#000f37]">Jesus Navarro</span>
-                <span className="text-xs text-[#6b7280] font-medium mt-0.5">
+                <span className="font-bold text-sm text-[#000f37] dark:text-foreground">Jesus Navarro</span>
+                <span className="text-xs text-[#6b7280] font-medium mt-0.5 dark:text-muted-foreground">
                   {lang === 'es' ? "Diseñador de Productos y Creyente de la Biblia" : "Product Designer and Bible Believer"}
                 </span>
               </div>
@@ -282,32 +282,32 @@ function HomePage() {
         </section>
 
        {/* PRICING SECTION */}
-<section className="mt-20 border-t border-[#e5e7eb] pt-12">
-  <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8">
+<section className="mt-20 border-t border-[#e5e7eb] pt-12 dark:border-border">
+  <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8 dark:text-muted-foreground">
     {lang === 'es' ? "Seleccione su Acceso" : "Choose Your Access"}
   </h3>
 
   <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
     {/* Free Plan */}
-    <div className="bg-white border border-[#cbd5e1] p-8 rounded-xl flex flex-col justify-between">
+    <div className="bg-white border border-[#cbd5e1] p-8 rounded-xl flex flex-col justify-between dark:bg-card dark:border-border">
       <div>
         <h4 className="text-xl font-semibold">{lang === 'es' ? "Lector Básico" : "Basic Reader"}</h4>
         <div className="mt-4 flex items-baseline">
           <span className="text-5xl font-bold">$0</span>
-          <span className="ml-2 text-gray-500">{lang === 'es' ? "/ para siempre" : "/ forever"}</span>
+          <span className="ml-2 text-gray-500 dark:text-muted-foreground">{lang === 'es' ? "/ para siempre" : "/ forever"}</span>
         </div>
-        <p className="mt-6 text-[#4b5563]">
+        <p className="mt-6 text-[#4b5563] dark:text-muted-foreground">
           {lang === 'es' ? "Acceso completo a las Escrituras con límite en herramientas avanzadas." : "Full access to the Scriptures with limits on advanced tools."}
         </p>
       </div>
       {/* Reducido mt-10 a mt-8 y py-4 a py-2.5 con text-sm */}
-      <a href="/dashboard" className="block w-full text-center mt-8 border border-[#000f37] py-2.5 text-sm font-semibold rounded-full hover:bg-gray-50 transition-colors">
+      <a href="/dashboard" className="block w-full text-center mt-8 border border-[#000f37] py-2.5 text-sm font-semibold rounded-full hover:bg-gray-50 transition-colors dark:border-foreground/40 dark:hover:bg-accent">
         {lang === 'es' ? "Comenzar a Leer" : "Start Reading"}
       </a>
     </div>
 
     {/* Pro Plan */}
-    <div className="bg-white border-2 border-[#000f37] p-8 rounded-xl relative flex flex-col justify-between">
+    <div className="bg-white border-2 border-[#000f37] p-8 rounded-xl relative flex flex-col justify-between dark:bg-card dark:border-foreground/70">
       <div className="absolute -top-3 right-6 bg-[#2d65f6] text-white text-xs px-3 py-1 rounded-sm font-medium">
         {lang === 'es' ? "PATMOS PRO" : "PATMOS PRO"}
       </div>
@@ -316,16 +316,16 @@ function HomePage() {
         <h4 className="text-xl font-semibold">{lang === 'es' ? "Apoya Patmos" : "Support Patmos"}</h4>
         <div className="mt-4 flex items-baseline">
           <span className="text-5xl font-bold">$15</span>
-          <span className="ml-2 text-gray-500">{lang === 'es' ? "/ mes" : "/ month"}</span>
+          <span className="ml-2 text-gray-500 dark:text-muted-foreground">{lang === 'es' ? "/ mes" : "/ month"}</span>
         </div>
         
-        <p className="mt-4 text-sm leading-relaxed text-[#4b5563]">
+        <p className="mt-4 text-sm leading-relaxed text-[#4b5563] dark:text-muted-foreground">
           {lang === 'es' ? "Desbloquea el poder total del motor Patmos y apoya el desarrollo continuo de software bíblico independiente." : "Unlock the full power of the Patmos engine and support the continuous development of independent biblical software."}
         </p>
       </div>
       
       {/* Reducido mt-10 a mt-8 y py-4 a py-2.5 con text-sm */}
-      <button onClick={handleCheckout} className="block w-full text-center mt-8 bg-[#000f37] text-white py-2.5 text-sm font-semibold rounded-full hover:bg-black border-none cursor-pointer outline-none transition-all shadow-md">
+      <button onClick={handleCheckout} className="block w-full text-center mt-8 bg-[#000f37] text-white py-2.5 text-sm font-semibold rounded-full hover:bg-black border-none cursor-pointer outline-none transition-all shadow-md dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100">
         {lang === 'es' ? "Obtener Acceso Ilimitado" : "Unlock Unlimited Access"}
       </button>
     </div>
@@ -333,24 +333,24 @@ function HomePage() {
 </section>
 
         {/* FAQS SECTION */}
-        <section className="mt-20 border-t border-[#e5e7eb] pt-12 pb-8">
-          <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8">
+        <section className="mt-20 border-t border-[#e5e7eb] pt-12 pb-8 dark:border-border">
+          <h3 className="text-xs font-bold uppercase tracking-widest text-[#6b7280] mb-8 dark:text-muted-foreground">
             {lang === 'es' ? "Preguntas Frecuentes" : "FAQs"}
           </h3>
 
-          <div className="flex flex-col border-b border-[#e5e7eb]">
+          <div className="flex flex-col border-b border-[#e5e7eb] dark:border-border">
             
             {/* FAQ TEOLÓGICA 1 */}
-            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden">
-              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37]">
+            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden dark:border-border">
+              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37] dark:text-foreground">
                 <h4 className="text-base font-semibold tracking-wide text-left">
                   {lang === 'es' ? "¿Qué enseña Patmos sobre la Biblia?" : "What does Patmos teach about the Bible?"}
                 </h4>
-                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
+                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0 dark:text-muted-foreground" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
                 </svg>
               </summary>
-              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300">
+              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300 dark:text-muted-foreground">
                 {lang === 'es' ? (
                   "Sostiene que la autoridad suprema, exclusiva y final para toda fe y ejecución del ministerio es la palabra de Dios infalible y estructuralmente preservada—encarnada strictly dentro de la Biblia Reina Valera 1865 y la Versión Autorizada King James para el mundo de habla inglesa. Opera bajo la convicción absoluta de que todas las traducciones modernas introducen distorsiones teológicas y corrupciones sistémicas (Salmos 12:6-7)."
                 ) : (
@@ -360,16 +360,16 @@ function HomePage() {
             </details>
 
             {/* FAQ TEOLÓGICA 2 */}
-            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden">
-              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37]">
+            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden dark:border-border">
+              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37] dark:text-foreground">
                 <h4 className="text-base font-semibold tracking-wide text-left">
                   {lang === 'es' ? "¿Qué enseña Patmos sobre Dios?" : "What does Patmos teach about God?"}
                 </h4>
-                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
+                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0 dark:text-muted-foreground" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
                 </svg>
               </summary>
-              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300">
+              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300 dark:text-muted-foreground">
                 {lang === 'es' ? (
                   "Reconoce a una Deidad suprema y triuna, que existe eternamente en tres Personas distintas: el Padre, la Palabra y el Espíritu Santo. Sostiene que cada miembro de la Trinidad es coeterno en existencia, coidéntico en su naturaleza esencial, coigual en poder soberano y perfectamente integrado dentro de los mismos atributos absolutos y perfecciones divinas (Deuteronomio 6:4; 1 Timoteo 1:17; 1 Juan 5:7)."
                 ) : (
@@ -379,16 +379,16 @@ function HomePage() {
             </details>
 
             {/* FAQ TEOLÓGICA 3 */}
-            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden">
-              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37]">
+            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden dark:border-border">
+              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37] dark:text-foreground">
                 <h4 className="text-base font-semibold tracking-wide text-left">
                   {lang === 'es' ? "¿Qué enseña Patmos sobre Jesucristo?" : "What does Patmos teach about Jesus Christ?"}
                 </h4>
-                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
+                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0 dark:text-muted-foreground" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
                 </svg>
               </summary>
-              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300">
+              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300 dark:text-muted-foreground">
                 {lang === 'es' ? (
                   "Afirma la deidad absoluta y la perfecta humanidad del Señor Jesucristo en una unión hipostática indivisible. Sostiene Su nacimiento virginal, Su vida sin pecado, Su sacrificio expiatorio y sustitutivo en la cruz mediante el derramamiento de Su sangre preciosa, Su resurrección corporal y Su ascensión gloriosa a la diestra del Padre (Filipenses 2:5-8; 1 Pedro 2:24; Hechos 1:9-11)."
                 ) : (
@@ -398,16 +398,16 @@ function HomePage() {
             </details>
 
             {/* FAQ TEOLÓGICA 4 */}
-            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden">
-              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37]">
+            <details className="group border-t border-[#e5e7eb] py-4 [&_summary::-webkit-details-marker]:hidden dark:border-border">
+              <summary className="flex cursor-pointer items-center justify-between gap-1.5 text-[#000f37] dark:text-foreground">
                 <h4 className="text-base font-semibold tracking-wide text-left">
                   {lang === 'es' ? "¿Qué enseña Patmos sobre los Tiempos y Dispensaciones?" : "What does Patmos teach about Times and Dispensations?"}
                 </h4>
-                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
+                <svg className="size-4 text-[#4b5563] group-open:-rotate-180 transition-transform duration-300 ease-in-out shrink-0 dark:text-muted-foreground" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2.5">
                   <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
                 </svg>
               </summary>
-              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300">
+              <p className="mt-4 text-base leading-relaxed text-[#4b5563] pr-6 transition-all duration-300 dark:text-muted-foreground">
                 {lang === 'es' ? (
                   "Sostiene una hermenéutica literal y dispensacional estricta, administrando bien la palabra de verdad. Reconoce la separación absoluta entre los planes de Dios para la Iglesia de Cristo y la nación de Israel. Defiende la expectativa inminente del rapto pretribulacional y el posterior establecimiento del reino milenial literal sobre la tierra (2 Timoteo 2:15; Romanos 11:25-26; 1 Tesalonicenses 4:16-17)."
                 ) : (
@@ -422,15 +422,15 @@ function HomePage() {
       </main>
 
       {/* FOOTER */}
-      <footer className="w-full max-w-[700px] border-t border-[#e5e7eb] py-8 flex flex-col items-center">
-        <p className="text-sm text-[#6b7280] text-center">
+      <footer className="w-full max-w-[700px] border-t border-[#e5e7eb] py-8 flex flex-col items-center dark:border-border">
+        <p className="text-sm text-[#6b7280] text-center dark:text-muted-foreground">
           © Patmos {new Date().getFullYear()} ·{' '}
           
           {lang === 'es' && (
             <>
               <a 
                 href="/estudios" 
-                className="text-[#000f37] font-semibold underline underline-offset-4 decoration-2 decoration-[#000f37]/30 hover:decoration-[#000f37] transition-colors"
+                className="text-[#000f37] font-semibold underline underline-offset-4 decoration-2 decoration-[#000f37]/30 hover:decoration-[#000f37] transition-colors dark:text-foreground dark:decoration-foreground/30 dark:hover:decoration-foreground"
               >
                 Blog de estudios
               </a>

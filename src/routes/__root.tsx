@@ -6,12 +6,14 @@ import {
   useRouter,
   HeadContent,
   Scripts,
+  ScriptOnce,
 } from "@tanstack/react-router";
 import { useEffect, type ReactNode } from "react";
 import { preconnect } from "react-dom";
 
 import appCss from "../styles.css?url";
 import { AuthProvider } from "@/components/auth/auth-provider";
+import { THEME_INIT_SCRIPT } from "@/hooks/use-theme";
 import { DEFAULT_LANG, LanguageProvider, useUrlLang } from "@/i18n";
 import { Toaster } from "@/components/ui/sonner";
 import { reportLovableError } from "../lib/lovable-error-reporting";
@@ -117,8 +119,11 @@ function RootShell({ children }: { children: ReactNode }) {
   // Pages whose URL fixes the language (/en/leer/...) declare it in the server HTML.
   const lang = useUrlLang() ?? DEFAULT_LANG;
   return (
-    <html lang={lang}>
+    // The theme script adds class="dark" before hydration; suppressHydrationWarning covers that one
+    // attribute on <html> only, not its children.
+    <html lang={lang} suppressHydrationWarning>
       <head>
+        <ScriptOnce>{THEME_INIT_SCRIPT}</ScriptOnce>
         <HeadContent />
       </head>
       <body>
