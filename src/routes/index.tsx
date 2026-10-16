@@ -4,6 +4,7 @@ import { createClient } from '@supabase/supabase-js';
 
 // Importaciones necesarias para SEO y configuración de página
 import { PUBLIC_PAGE_HEADERS, seoHead } from "@/lib/seo";
+import { useI18n, type Lang } from "@/i18n";
 
 // Declaración global para Lemon Squeezy
 declare global {
@@ -18,8 +19,8 @@ const supabaseKey = import.meta.env['VITE_SUPABASE_ANON_KEY'] || '';
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 function HomePage() {
-  // Usamos estado local temporal para el idioma para evitar errores de importación
-  const [lang, setLanguage] = useState<'en' | 'es'>('es');
+  // Shared language state: follows the saved choice or, on a first visit, the browser language.
+  const { lang, setLang } = useI18n();
   const [isMounted, setIsMounted] = useState(false);
   const [userId, setUserId] = useState<string | null>(null);
 
@@ -101,7 +102,7 @@ function HomePage() {
             
             <select 
               value={lang}
-              onChange={(e) => setLanguage(e.target.value as 'en' | 'es')}
+              onChange={(e) => setLang(e.target.value as Lang)}
               className="bg-transparent border-none outline-none cursor-pointer text-[10px] font-bold uppercase tracking-wider h-full p-0 m-0"
               style={{ color: '#000f37', fontFamily: '"Inter", sans-serif', WebkitAppearance: 'none', MozAppearance: 'none' }}
             >

@@ -23,22 +23,24 @@ function isLang(value: unknown): value is Lang {
   return typeof value === "string" && (LANGS as readonly string[]).includes(value);
 }
 
-/** The saved language choice; DEFAULT_LANG on the server or when storage is unavailable. */
-function getStoredLang(): Lang {
-  if (typeof window === "undefined") return DEFAULT_LANG;
+/** The language the user picked in a switcher, if they ever did. */
+function getSavedLang(): Lang | null {
   try {
-    const stored = window.localStorage.getItem(KEY);
-    if (isLang(stored)) return stored;
-
-    // Detecta si el navegador del usuario está en inglés en su primera visita
-    const browserLang = navigator.language.toLowerCase();
-    if (browserLang.startsWith("en")) return "en";
-
-    return DEFAULT_LANG;
+    const saved = window.localStorage.getItem(KEY);
+    return isLang(saved) ? saved : null;
   } catch {
-    return DEFAULT_LANG;
+    return null;
   }
 }
+
+/** English when the browser/OS's preferred language is English (en-US, en-GB...), else Spanish. */
+function getBrowserLang(): Lang {
+  const preferred = navigator.languages?.[0] ?? navigator.language ?? "";
+  return preferred.toLowerCase().startsWith("en") ? "en" : DEFAULT_LANG;
+}
+
+/** Explicit choice first, then the browser language on a first visit. Client-only. */
+const getPreferredLang = (): Lang => getSavedLang() ?? getBrowserLang();
 
 /** Route whose URL carries the language: Spanish at /leer/..., English at /en/leer/... */
 export const READER_ROUTE = "/{-$locale}/leer/$libro/$cap";
@@ -56,30 +58,28 @@ export function useUrlLang(): Lang | null {
 }
 
 /**
- * On reader routes the language comes from the URL, so the server renders /en/... in English and
- * switching languages navigates to the other URL. Elsewhere the stored choice applies, after mount
- * so SSR HTML and hydration match.
+ * Language resolution, highest priority first:
+ * 1. The URL on reader routes (/leer/... is Spanish, /en/leer/... English). It is never overridden
+ *    and never redirected, so shared links open in their own language and the server renders them
+ *    in it.
+ * 2. Elsewhere, the language of the reader page this tab came from, so leaving /en/leer/... for the
+ *    dashboard stays in English.
+ * 3. The choice saved by a language switcher.
+ * 4. The browser/OS language (first visit).
+ * 2-4 need `window`, so they apply after mount: the server and the hydration render both use
+ * DEFAULT_LANG on pages without a URL language, keeping hydration identical to the cached HTML.
  */
 export function LanguageProvider({ children }: { children: ReactNode }) {
   const readerMatch = useMatch({ from: READER_ROUTE, shouldThrow: false });
   const urlLang = readerMatch ? langFromLocale(readerMatch.params.locale) : null;
   const navigate = useNavigate();
-  const [storedLang, setStoredLang] = useState<Lang>(DEFAULT_LANG);
-  const lang = urlLang ?? storedLang;
+  // null until mounted. Visiting a reader URL updates it for this tab but doesn't save it: only an
+  // explicit switch does, so opening a shared Spanish link doesn't replace an English OS default.
+  const [sessionLang, setSessionLang] = useState<Lang | null>(null);
+  const lang = urlLang ?? sessionLang ?? DEFAULT_LANG;
 
   useEffect(() => {
-    setStoredLang(getStoredLang());
-  }, []);
-
-  // Reading a chapter in a language makes it the choice for the rest of the site.
-  useEffect(() => {
-    if (!urlLang) return;
-    setStoredLang(urlLang);
-    try {
-      window.localStorage.setItem(KEY, urlLang);
-    } catch {
-      /* ignore */
-    }
+    setSessionLang((current) => urlLang ?? current ?? getPreferredLang());
   }, [urlLang]);
 
   useEffect(() => {
@@ -89,7 +89,7 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
   const readerParams = readerMatch?.params;
   const setLang = useCallback(
     (next: Lang) => {
-      setStoredLang(next);
+      setSessionLang(next);
       try {
         window.localStorage.setItem(KEY, next);
       } catch {
