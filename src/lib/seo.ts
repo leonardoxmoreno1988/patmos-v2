@@ -3,8 +3,8 @@ export const SITE_NAME = "Patmos Research";
 /** 1200×630 share card (public/og-image.png); used when a route doesn't pass its own image. */
 export const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.png`;
 export const SITE_LOGO = `${SITE_URL}/logo-patmos.svg`;
-/** Search engines only ever see the Spanish render: the language lives in localStorage, not the URL. */
-const OG_LOCALE = "es_ES";
+type SeoLang = "es" | "en";
+const OG_LOCALES: Record<SeoLang, string> = { es: "es_ES", en: "en_US" };
 
 /** Plain JSON-LD object (schema.org); serialized into a <script type="application/ld+json">. */
 export type JsonLd = Record<string, unknown>;
@@ -21,6 +21,13 @@ export interface SeoInput {
  noindex?: boolean;
  /** Structured data for this page */
  jsonLd?: JsonLd | JsonLd[];
+ /** Language this URL renders in; defaults to Spanish */
+ lang?: SeoLang;
+ /**
+  * Absolute or site-relative URL of each language version, for pages that have one per language
+  * (the reader). Spanish doubles as x-default. Omit for Spanish-only pages.
+  */
+ alternates?: Record<SeoLang, string>;
 }
 
 type MetaTag =
@@ -66,13 +73,12 @@ export function seoHead({
  ogType = "website",
  noindex = false,
  jsonLd,
+ lang = "es",
+ alternates,
 }: SeoInput): { meta: MetaTag[]; links: LinkTag[]; scripts: ScriptTag[] } {
  title = brandTitle(title);
- const url = canonical
-  ? canonical.startsWith("http")
-   ? canonical
-   : `${SITE_URL}${canonical}`
-  : undefined;
+ const absolute = (path: string) => (path.startsWith("http") ? path : `${SITE_URL}${path}`);
+ const url = canonical ? absolute(canonical) : undefined;
 
  const meta: MetaTag[] = [
   { title },
@@ -81,7 +87,7 @@ export function seoHead({
   { property: "og:description", content: description },
   { property: "og:type", content: ogType },
   { property: "og:site_name", content: SITE_NAME },
-  { property: "og:locale", content: OG_LOCALE },
+  { property: "og:locale", content: OG_LOCALES[lang] },
   { property: "og:image", content: ogImage },
   { property: "og:image:width", content: "1200" },
   { property: "og:image:height", content: "630" },
@@ -95,20 +101,31 @@ export function seoHead({
  if (url) {
   meta.push({ property: "og:url", content: url });
  }
+ if (alternates) {
+  for (const other of Object.keys(alternates) as SeoLang[]) {
+   if (other !== lang) meta.push({ property: "og:locale:alternate", content: OG_LOCALES[other] });
+  }
+ }
  if (noindex) {
   // "follow" keeps link equity flowing from noindexed pages (e.g. search results) to the pages they link.
   meta.push({ name: "robots", content: "noindex, follow" });
  }
 
- // Each page has one URL serving Spanish to crawlers, so hreflang is self-referencing (es + x-default).
- // An "en" alternate needs its own URL (e.g. /en/... or ?lang=en rendered in English on the server).
- const links: LinkTag[] = url
-  ? [
-     { rel: "canonical", href: url },
-     { rel: "alternate", hrefLang: "es", href: url },
-     { rel: "alternate", hrefLang: "x-default", href: url },
-    ]
-  : [];
+ // Pages with per-language URLs list every version (Spanish is x-default); the rest only have a
+ // Spanish URL, so their hreflang is self-referencing.
+ const links: LinkTag[] = [];
+ if (url) {
+  links.push({ rel: "canonical", href: url });
+  if (alternates) {
+   for (const [code, href] of Object.entries(alternates)) {
+    links.push({ rel: "alternate", hrefLang: code, href: absolute(href) });
+   }
+   links.push({ rel: "alternate", hrefLang: "x-default", href: absolute(alternates.es) });
+  } else {
+   links.push({ rel: "alternate", hrefLang: "es", href: url });
+   links.push({ rel: "alternate", hrefLang: "x-default", href: url });
+  }
+ }
 
  return {
   meta,

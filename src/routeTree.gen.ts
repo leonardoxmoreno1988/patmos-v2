@@ -23,7 +23,7 @@ import { Route as EstudiosIndexRouteImport } from './routes/estudios.index'
 import { Route as EstudiosSlugRouteImport } from './routes/estudios.$slug'
 import { Route as ApiAdminNotesRouteImport } from './routes/api/admin.notes'
 import { Route as ApiWebhooksLemonsqueezyRouteImport } from './routes/api/webhooks.lemonsqueezy'
-import { Route as LeerLibroCapRouteImport } from './routes/leer.$libro.$cap'
+import { Route as Char123LocaleChar125LeerLibroCapRouteImport } from './routes/{-$locale}.leer.$libro.$cap'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -95,11 +95,12 @@ const ApiWebhooksLemonsqueezyRoute = ApiWebhooksLemonsqueezyRouteImport.update({
   path: '/api/webhooks/lemonsqueezy',
   getParentRoute: () => rootRouteImport,
 } as any)
-const LeerLibroCapRoute = LeerLibroCapRouteImport.update({
-  id: '/leer/$libro/$cap',
-  path: '/leer/$libro/$cap',
-  getParentRoute: () => rootRouteImport,
-} as any)
+const Char123LocaleChar125LeerLibroCapRoute =
+  Char123LocaleChar125LeerLibroCapRouteImport.update({
+    id: '/{-$locale}/leer/$libro/$cap',
+    path: '/{-$locale}/leer/$libro/$cap',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
@@ -116,7 +117,7 @@ export interface FileRoutesByFullPath {
   '/estudios/': typeof EstudiosIndexRoute
   '/api/admin/notes': typeof ApiAdminNotesRoute
   '/api/webhooks/lemonsqueezy': typeof ApiWebhooksLemonsqueezyRoute
-  '/leer/$libro/$cap': typeof LeerLibroCapRoute
+  '/{-$locale}/leer/$libro/$cap': typeof Char123LocaleChar125LeerLibroCapRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
@@ -133,7 +134,7 @@ export interface FileRoutesByTo {
   '/estudios': typeof EstudiosIndexRoute
   '/api/admin/notes': typeof ApiAdminNotesRoute
   '/api/webhooks/lemonsqueezy': typeof ApiWebhooksLemonsqueezyRoute
-  '/leer/$libro/$cap': typeof LeerLibroCapRoute
+  '/{-$locale}/leer/$libro/$cap': typeof Char123LocaleChar125LeerLibroCapRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
@@ -151,7 +152,7 @@ export interface FileRoutesById {
   '/estudios/': typeof EstudiosIndexRoute
   '/api/admin/notes': typeof ApiAdminNotesRoute
   '/api/webhooks/lemonsqueezy': typeof ApiWebhooksLemonsqueezyRoute
-  '/leer/$libro/$cap': typeof LeerLibroCapRoute
+  '/{-$locale}/leer/$libro/$cap': typeof Char123LocaleChar125LeerLibroCapRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
@@ -170,7 +171,7 @@ export interface FileRouteTypes {
     | '/estudios/'
     | '/api/admin/notes'
     | '/api/webhooks/lemonsqueezy'
-    | '/leer/$libro/$cap'
+    | '/{-$locale}/leer/$libro/$cap'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
@@ -187,7 +188,7 @@ export interface FileRouteTypes {
     | '/estudios'
     | '/api/admin/notes'
     | '/api/webhooks/lemonsqueezy'
-    | '/leer/$libro/$cap'
+    | '/{-$locale}/leer/$libro/$cap'
   id:
     | '__root__'
     | '/'
@@ -204,7 +205,7 @@ export interface FileRouteTypes {
     | '/estudios/'
     | '/api/admin/notes'
     | '/api/webhooks/lemonsqueezy'
-    | '/leer/$libro/$cap'
+    | '/{-$locale}/leer/$libro/$cap'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
@@ -222,7 +223,7 @@ export interface RootRouteChildren {
   EstudiosIndexRoute: typeof EstudiosIndexRoute
   ApiAdminNotesRoute: typeof ApiAdminNotesRoute
   ApiWebhooksLemonsqueezyRoute: typeof ApiWebhooksLemonsqueezyRoute
-  LeerLibroCapRoute: typeof LeerLibroCapRoute
+  Char123LocaleChar125LeerLibroCapRoute: typeof Char123LocaleChar125LeerLibroCapRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -325,11 +326,11 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ApiWebhooksLemonsqueezyRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/leer/$libro/$cap': {
-      id: '/leer/$libro/$cap'
-      path: '/leer/$libro/$cap'
-      fullPath: '/leer/$libro/$cap'
-      preLoaderRoute: typeof LeerLibroCapRouteImport
+    '/{-$locale}/leer/$libro/$cap': {
+      id: '/{-$locale}/leer/$libro/$cap'
+      path: '/{-$locale}/leer/$libro/$cap'
+      fullPath: '/{-$locale}/leer/$libro/$cap'
+      preLoaderRoute: typeof Char123LocaleChar125LeerLibroCapRouteImport
       parentRoute: typeof rootRouteImport
     }
   }
@@ -350,7 +351,7 @@ const rootRouteChildren: RootRouteChildren = {
   EstudiosIndexRoute: EstudiosIndexRoute,
   ApiAdminNotesRoute: ApiAdminNotesRoute,
   ApiWebhooksLemonsqueezyRoute: ApiWebhooksLemonsqueezyRoute,
-  LeerLibroCapRoute: LeerLibroCapRoute,
+  Char123LocaleChar125LeerLibroCapRoute: Char123LocaleChar125LeerLibroCapRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

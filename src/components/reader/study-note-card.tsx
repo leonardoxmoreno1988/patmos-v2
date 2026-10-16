@@ -8,7 +8,7 @@ import { linkifyScriptureRefs, type ScriptureRef } from "@/lib/scripture-refs";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { hydrateCitations } from "@/utils/hydrateCitations";
 import { useVerseText, VerseSheet, type PreviewTarget } from "./verse-preview";
-import { useI18n } from "@/i18n";
+import { localeParam, useI18n } from "@/i18n";
 
 type RefToken = ScriptureRef & { id: string; label: string };
 
@@ -40,13 +40,14 @@ function DesktopRefLink({
   token: RefToken;
   onRefClick?: (ref: ScriptureRef & { originId?: string }) => void;
 }) {
+  const { lang } = useI18n();
   return (
     <HoverCard openDelay={120} closeDelay={80}>
       <HoverCardTrigger asChild>
         <Link
           id={token.id}
-          to="/leer/$libro/$cap"
-          params={{ libro: slugifyBook(token.book), cap: String(token.chapter) }}
+          to="/{-$locale}/leer/$libro/$cap"
+          params={{ locale: localeParam(lang), libro: slugifyBook(token.book), cap: String(token.chapter) }}
           className={LINK_CLASS}
           data-ref-book={token.book}
           data-ref-chapter={String(token.chapter)}

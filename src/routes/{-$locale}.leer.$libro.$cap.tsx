@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { createFileRoute, Link, useNavigate, useRouterState } from "@tanstack/react-router";
+import { createFileRoute, Link, notFound, redirect, useNavigate, useRouterState } from "@tanstack/react-router";
 
 import { keepPreviousData, useQuery, useQueryClient } from "@tanstack/react-query";
 import { ChevronLeft, ChevronRight, MessageSquare, StickyNote } from "lucide-react";
@@ -16,7 +16,7 @@ import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
 import { adjacentChapters, chapterNotesQuery, notesCacheTag, notesToHtml } from "@/lib/bible-notes";
-import { getActiveLang, useI18n } from "@/i18n";
+import { langFromLocale, useI18n } from "@/i18n";
 import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, brandTitle, excerpt, plainText, seoHead } from "@/lib/seo";
 import { recordReadChapter } from "@/lib/reading-progress";
 
@@ -30,14 +30,24 @@ function truncateWords(text: string, maxWords: number) {
 
 
 
-export const Route = createFileRoute("/leer/$libro/$cap")({
+// Spanish lives at /leer/..., English at /en/leer/...; the language comes from the URL so the
+// server renders each version in its own language.
+export const Route = createFileRoute("/{-$locale}/leer/$libro/$cap")({
  staticData: { sitemap: true },
- // Loads this chapter's notes in the language being shown (always Spanish on the server). Visited
- // chapters stay in the query cache for the session, so going back to one resolves immediately.
+ beforeLoad: ({ params }) => {
+  if (params.locale === undefined || params.locale === "en") return;
+  // /es/leer/... is the Spanish page under a redundant prefix; any other prefix isn't a language.
+  if (params.locale === "es") {
+   throw redirect({ to: "/{-$locale}/leer/$libro/$cap", params: { ...params, locale: undefined }, statusCode: 301 });
+  }
+  throw notFound();
+ },
+ // Loads this chapter's notes in the URL's language. Visited chapters stay in the query cache for
+ // the session, so going back to one resolves immediately.
  loader: async ({ context, params }) => {
   const book = bookFromSlug(params.libro) ?? BOOKS[0]!;
   const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
-  const lang = getActiveLang();
+  const lang = langFromLocale(params.locale);
   // A failed fetch must not take the page down; the component query retries it.
   const notes = await context.queryClient
    .ensureQueryData(chapterNotesQuery(book.code, chapter, lang))
@@ -51,18 +61,30 @@ export const Route = createFileRoute("/leer/$libro/$cap")({
   return { ...PUBLIC_PAGE_HEADERS, "Vercel-Cache-Tag": notesCacheTag(book.code, chapter) };
  },
  head: ({ params, loaderData }) => {
-  const book = bookFromSlug(params.libro)?.name ?? "Génesis";
+  const lang = langFromLocale(params.locale);
+  const info = bookFromSlug(params.libro) ?? BOOKS[0]!;
+  const book = bookName(info, lang);
   const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
   const notes = loaderData?.notes;
+  const en = lang === "en";
   const description = notes?.length
    ? excerpt(plainText(notes.map((n) => n.body_html).join(" ")), 150)
-   : `Lee ${book} ${chapter} en la Reina-Valera 1865 con notas de estudio y análisis doctrinal.`;
-  const title = `${book} ${chapter} - Lectura y Estudio (RV1865)`;
-  const url = `${SITE_URL}/leer/${slugifyBook(book)}/${chapter}`;
+   : en
+    ? `Read ${book} ${chapter} in the King James Version with study notes and doctrinal analysis.`
+    : `Lee ${book} ${chapter} en la Reina-Valera 1865 con notas de estudio y análisis doctrinal.`;
+  const title = en
+   ? `${book} ${chapter} - Reading and Study (KJV)`
+   : `${book} ${chapter} - Lectura y Estudio (RV1865)`;
+  // Both versions share the Spanish book slug; only the /en prefix differs.
+  const esPath = `/leer/${slugifyBook(info.name)}/${chapter}`;
+  const alternates = { es: `${SITE_URL}${esPath}`, en: `${SITE_URL}/en${esPath}` };
+  const url = alternates[lang];
   return seoHead({
    title,
    description,
    canonical: url,
+   lang,
+   alternates,
    ogType: "article",
    jsonLd: [
     {
@@ -71,7 +93,7 @@ export const Route = createFileRoute("/leer/$libro/$cap")({
      description,
      url,
      mainEntityOfPage: url,
-     inLanguage: "es",
+     inLanguage: lang,
      image: `${SITE_URL}/og-image.png`,
      author: { "@type": "Person", name: "Leonardo Moreno" },
      publisher: ORGANIZATION,
@@ -80,13 +102,17 @@ export const Route = createFileRoute("/leer/$libro/$cap")({
       "@type": "Chapter",
       name: `${book} ${chapter}`,
       position: chapter,
-      isPartOf: { "@type": "Book", name: `${book} — Biblia Reina-Valera 1865`, inLanguage: "es" },
+      isPartOf: {
+       "@type": "Book",
+       name: en ? `${book} — King James Bible` : `${book} — Biblia Reina-Valera 1865`,
+       inLanguage: lang,
+      },
      },
     },
     {
      "@type": "BreadcrumbList",
      itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Inicio", item: `${SITE_URL}/` },
+      { "@type": "ListItem", position: 1, name: en ? "Home" : "Inicio", item: `${SITE_URL}/` },
       { "@type": "ListItem", position: 2, name: `${book} ${chapter}`, item: url },
      ],
     },
@@ -186,8 +212,8 @@ function Reader() {
   // The loader already resolved the study notes on the server; seeding the
   // client cache with that result keeps the first browser paint identical to
   // the server HTML (otherwise the notes section hydrates empty and React
-  // throws a hydration mismatch that blanks the page). Only seed when the loader
-  // fetched the language being shown (the server always loads Spanish).
+  // throws a hydration mismatch that blanks the page). The loader reads the
+  // language from the URL, so it only differs from `lang` mid-navigation.
   const loaderData = Route.useLoaderData();
   const studyNotes = useQuery({
     ...chapterNotesQuery(book.code, chapter, lang),
@@ -313,7 +339,7 @@ function Reader() {
  const goTo = (nextBook: number, nextChapter: number) => {
   const target = BOOKS.find((b) => b.bookid === nextBook);
   if (!target) return;
-  void navigate({ params: { libro: slugifyBook(target.name), cap: String(nextChapter) } });
+  void navigate({ params: (p) => ({ ...p, libro: slugifyBook(target.name), cap: String(nextChapter) }) });
   if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
  };
 
@@ -323,7 +349,7 @@ function Reader() {
    return;
   }
   pendingVerse.current = verse;
-  void navigate({ params: { libro: slugifyBook(bookName), cap: String(nextChapter) } });
+  void navigate({ params: (p) => ({ ...p, libro: slugifyBook(bookName), cap: String(nextChapter) }) });
  };
 
  const goToReference = (ref: {
@@ -358,7 +384,7 @@ function Reader() {
     }
    }
    pendingElId.current = last.originId;
-   void navigate({ params: { libro: slugifyBook(last.book), cap: String(last.chapter) } });
+   void navigate({ params: (p) => ({ ...p, libro: slugifyBook(last.book), cap: String(last.chapter) }) });
    return;
   }
   goToVerse(last.book, last.chapter, last.verse);

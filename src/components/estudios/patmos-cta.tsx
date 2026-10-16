@@ -42,7 +42,7 @@ export function PatmosCta({
           size="sm"
           className="rounded-full px-4 dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
         >
-          <Link to="/leer/$libro/$cap" params={{ libro: "genesis", cap: "1" }}>
+          <Link to="/{-$locale}/leer/$libro/$cap" params={{ libro: "genesis", cap: "1" }}>
             <BookOpen /> Lector Bíblico
           </Link>
         </Button>

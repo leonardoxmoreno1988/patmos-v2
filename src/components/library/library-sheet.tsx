@@ -6,7 +6,7 @@ import { toast } from "sonner";
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { localizeBookName, slugifyBook } from "@/lib/bible";
-import { useI18n } from "@/i18n";
+import { localeParam, useI18n } from "@/i18n";
 import { useAuth } from "@/components/auth/auth-provider";
 import {
   HIGHLIGHT_SWATCH,
@@ -92,8 +92,8 @@ export function LibrarySheet({ open, onOpenChange }: LibrarySheetProps) {
   function go(item: Item) {
     onOpenChange(false);
     void navigate({
-      to: "/leer/$libro/$cap",
-      params: { libro: slugifyBook(item.book), cap: String(item.chapter) },
+      to: "/{-$locale}/leer/$libro/$cap",
+      params: { locale: localeParam(lang), libro: slugifyBook(item.book), cap: String(item.chapter) },
       hash: `verse-${item.verse}`,
     });
   }

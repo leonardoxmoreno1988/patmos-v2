@@ -283,7 +283,7 @@ function AdminNotes() {
             </SelectContent>
           </Select>
           <Link
-            to="/leer/$libro/$cap"
+            to="/{-$locale}/leer/$libro/$cap"
             params={{ libro: slugifyBook(book.name), cap: String(cap) }}
             target="_blank"
             className="inline-flex items-center gap-1 text-sm text-muted-foreground underline-offset-4 hover:underline"

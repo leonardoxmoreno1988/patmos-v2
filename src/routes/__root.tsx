@@ -12,7 +12,7 @@ import { preconnect } from "react-dom";
 
 import appCss from "../styles.css?url";
 import { AuthProvider } from "@/components/auth/auth-provider";
-import { LanguageProvider } from "@/i18n";
+import { DEFAULT_LANG, LanguageProvider, useUrlLang } from "@/i18n";
 import { Toaster } from "@/components/ui/sonner";
 import { reportLovableError } from "../lib/lovable-error-reporting";
 
@@ -114,8 +114,10 @@ function RootShell({ children }: { children: ReactNode }) {
   // first in <head>, so the font handshakes start before the render-blocking CSS is requested.
   preconnect("https://fonts.googleapis.com");
   preconnect("https://fonts.gstatic.com", { crossOrigin: "anonymous" });
+  // Pages whose URL fixes the language (/en/leer/...) declare it in the server HTML.
+  const lang = useUrlLang() ?? DEFAULT_LANG;
   return (
-    <html lang="es">
+    <html lang={lang}>
       <head>
         <HeadContent />
       </head>

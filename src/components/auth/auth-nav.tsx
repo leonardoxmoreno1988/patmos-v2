@@ -28,7 +28,7 @@ import { AuthModal } from "./auth-modal";
 import { AccountModal } from "./account-modal";
 import { LibrarySheet } from "@/components/library/library-sheet";
 import { ResourcesSheet } from "@/components/library/resources-sheet";
-import { LANGS, useI18n } from "@/i18n";
+import { LANGS, localeParam, useI18n } from "@/i18n";
 import { useTheme } from "@/hooks/use-theme";
 import { cn } from "@/lib/utils";
 
@@ -204,7 +204,7 @@ export function AuthNav() {
                 cap = saved.cap;
               }
             } catch { /* use Génesis 1 */ }
-            void navigate({ to: "/leer/$libro/$cap", params: { libro, cap } });
+            void navigate({ to: "/{-$locale}/leer/$libro/$cap", params: { locale: localeParam(lang), libro, cap } });
           }}>
             <BookOpen /> {t.auth.bibleReader}
           </DropdownMenuItem>

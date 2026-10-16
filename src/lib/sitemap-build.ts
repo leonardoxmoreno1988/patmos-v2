@@ -10,7 +10,7 @@ import { sitemapXML, type SitemapEntry } from "./sitemap.ts";
 
 const ROUTES_DIR = resolve(import.meta.dirname, "../routes");
 const OUTPUT_FILE = resolve(import.meta.dirname, "../../public/sitemap.xml");
-const CHAPTER_ROUTE = "/leer/$libro/$cap";
+const CHAPTER_ROUTE = "/{-$locale}/leer/$libro/$cap";
 
 /** Route paths whose file declares `staticData: { sitemap: true }`. */
 function includedRoutePaths(dir: string = ROUTES_DIR): string[] {
@@ -39,7 +39,8 @@ export function buildSitemapEntries(): SitemapEntry[] {
     for (const book of BOOKS) {
       const chapters = CHAPTER_COUNTS[book.bookid] ?? 0;
       for (let chapter = 1; chapter <= chapters; chapter++) {
-        entries.push({ path: `/leer/${slugifyBook(book.name)}/${chapter}` });
+        const path = `/leer/${slugifyBook(book.name)}/${chapter}`;
+        entries.push({ path }, { path: `/en${path}` });
       }
     }
   }

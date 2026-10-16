@@ -30,7 +30,7 @@ import {
 import { supabase } from "@/lib/supabase";
 import { linkifyScriptureMarkdown } from "@/lib/scripture-refs";
 import { localizeBookName } from "@/lib/bible";
-import { useI18n, type Lang } from "@/i18n";
+import { localeParam, useI18n, type Lang } from "@/i18n";
 
 const CHECKOUT_URL = (userId: string) =>
   `https://patmos.lemonsqueezy.com/checkout/buy/4beafe1a-6811-457e-b7b5-02e216f8aeef?checkout[custom][user_id]=${encodeURIComponent(userId)}&embed=1`;
@@ -381,18 +381,18 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
     (href: string) => {
       onOpenChange(false);
       const [path, hash] = href.split("#");
-      const leer = path?.match(/^\/leer\/([^/]+)\/([^/]+)/);
+      const leer = path?.match(/^(?:\/en)?\/leer\/([^/]+)\/([^/]+)/);
       if (leer) {
         void navigate({
-          to: "/leer/$libro/$cap",
-          params: { libro: leer[1]!, cap: leer[2]! },
+          to: "/{-$locale}/leer/$libro/$cap",
+          params: { locale: localeParam(lang), libro: leer[1]!, cap: leer[2]! },
           ...(hash ? { hash } : {}),
         });
       } else {
         void navigate({ href });
       }
     },
-    [navigate, onOpenChange],
+    [navigate, onOpenChange, lang],
   );
 
   // Internal links (/leer/...) navigate in-place; external http(s) links ask first.
