@@ -23,7 +23,6 @@ const supabase = createClient(supabaseUrl, supabaseKey);
 function HomePage() {
   // Shared language state: follows the saved choice or, on a first visit, the browser language.
   const { lang, setLang } = useI18n();
-  const [isMounted, setIsMounted] = useState(false);
   const [userId, setUserId] = useState<string | null>(null);
 
   useEffect(() => {
@@ -45,13 +44,9 @@ function HomePage() {
     };
   }, []);
 
+  // Browser-only work stays in effects so the page itself renders on the server: the session lookup
+  // only feeds handleCheckout, and Lemon Squeezy is set up above. (Inter is loaded by __root.)
   useEffect(() => {
-    setIsMounted(true);
-    const link = document.createElement('link');
-    link.href = 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap';
-    link.rel = 'stylesheet';
-    document.head.appendChild(link);
-
     const checkUser = async () => {
       if (!supabaseUrl || !supabaseKey) return;
       try {
@@ -79,21 +74,19 @@ function HomePage() {
     }
   };
 
-  if (!isMounted) return <div className="min-h-screen bg-[#f9fafb] dark:bg-background" />;
-
   return (
     <div className="min-h-screen bg-[#f9fafb] text-[#000f37] flex flex-col items-center justify-between antialiased px-6 md:px-0 dark:bg-background dark:text-foreground" style={{ fontFamily: '"Inter", sans-serif' }}>
       
      {/* HEADER */}
-     <header className="w-full max-w-[700px] py-6 flex justify-between items-center mt-4">
-        <a href="/" className="flex items-center transition-opacity duration-200 hover:opacity-80">
+     <header className="w-full max-w-[700px] py-5 sm:py-6 flex justify-between items-center gap-3 mt-2 sm:mt-4">
+        <a href="/" className="flex shrink-0 items-center transition-opacity duration-200 hover:opacity-80">
           <PatmosWordmark className="h-4" />
         </a>
         
-        <div className="flex items-center gap-3">
-          {/* Selector de idioma redondeado */}
-          <div className="inline-flex items-center border border-[#000f37] px-3 gap-1 bg-transparent h-9 md:h-7 box-sizing-border rounded-full transition-colors duration-300 hover:bg-[#000f37]/5 dark:border-foreground/40 dark:hover:bg-foreground/10">
-            <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" style={{ opacity: 0.8 }}>
+        <div className="flex items-center gap-1.5 sm:gap-3">
+          {/* Selector de idioma redondeado (el globo se oculta en móvil para ganar espacio) */}
+          <div className="inline-flex items-center border border-[#000f37] px-2.5 sm:px-3 gap-1 bg-transparent h-8 sm:h-9 md:h-7 box-sizing-border rounded-full transition-colors duration-300 hover:bg-[#000f37]/5 dark:border-foreground/40 dark:hover:bg-foreground/10">
+            <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="hidden sm:block" aria-hidden="true" style={{ opacity: 0.8 }}>
               <circle cx="12" cy="12" r="10"/>
               <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20M2 12h20"/>
             </svg>
@@ -109,14 +102,15 @@ function HomePage() {
             </select>
           </div>
 
-          <ThemeToggle className="border border-[#000f37] text-[#000f37] rounded-full h-9 w-9 md:h-7 md:w-7 transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] dark:border-foreground/40 dark:text-foreground dark:hover:bg-foreground dark:hover:text-background" />
+          <ThemeToggle className="border border-[#000f37] text-[#000f37] rounded-full h-8 w-8 sm:h-9 sm:w-9 md:h-7 md:w-7 transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] dark:border-foreground/40 dark:text-foreground dark:hover:bg-foreground dark:hover:text-background" />
 
-          {/* Botón Ir al Lector redondeado */}
+          {/* Botón Ir al Lector redondeado (etiqueta corta en móvil) */}
           <a 
             href="/dashboard" 
-            className="text-[10px] font-bold uppercase tracking-widest border border-[#000f37] text-[#000f37] px-4 py-2.5 md:py-1 rounded-full transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] flex items-center justify-center min-h-[36px] md:min-h-[28px] dark:border-foreground/40 dark:text-foreground dark:hover:bg-foreground dark:hover:text-background"
+            className="text-[10px] font-bold uppercase tracking-wider sm:tracking-widest border border-[#000f37] text-[#000f37] px-3 sm:px-4 py-1.5 sm:py-2.5 md:py-1 rounded-full transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] flex items-center justify-center whitespace-nowrap min-h-[32px] sm:min-h-[36px] md:min-h-[28px] dark:border-foreground/40 dark:text-foreground dark:hover:bg-foreground dark:hover:text-background"
           >
-            {lang === 'es' ? "Ir al Lector" : "Go to Reader"}
+            <span className="sm:hidden">{lang === 'es' ? "Lector" : "Reader"}</span>
+            <span className="hidden sm:inline">{lang === 'es' ? "Ir al Lector" : "Go to Reader"}</span>
           </a>
         </div>
       </header>
@@ -424,7 +418,8 @@ function HomePage() {
       {/* FOOTER */}
       <footer className="w-full max-w-[700px] border-t border-[#e5e7eb] py-8 flex flex-col items-center dark:border-border">
         <p className="text-sm text-[#6b7280] text-center dark:text-muted-foreground">
-          © Patmos {new Date().getFullYear()} ·{' '}
+          {/* Cached HTML can be from the previous year; the browser's value wins without a hydration error. */}
+          © Patmos <span suppressHydrationWarning>{new Date().getFullYear()}</span> ·{' '}
           
           {lang === 'es' && (
             <>
