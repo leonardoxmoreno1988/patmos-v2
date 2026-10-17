@@ -19,6 +19,32 @@ const escapeHtml = (value: string) =>
     (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!,
   );
 
+/**
+ * The one raw-HTML exception: a SoundCloud player written as
+ * `<iframe src="https://w.soundcloud.com/player/?url=...">`. The tag is rebuilt from its src
+ * (attributes are never copied), and only player URLs pointing at a SoundCloud track pass.
+ */
+function soundcloudPlayer(raw: string): string | undefined {
+  const tag = /^\s*<iframe\b[^>]*\bsrc="([^"]+)"[^>]*>\s*<\/iframe>\s*$/i.exec(raw);
+  if (!tag) return undefined;
+  let src: URL;
+  try {
+    src = new URL(tag[1]!.replace(/&amp;/g, "&"));
+  } catch {
+    return undefined;
+  }
+  const track = src.searchParams.get("url") ?? "";
+  if (
+    src.protocol !== "https:" ||
+    src.hostname !== "w.soundcloud.com" ||
+    src.pathname !== "/player/" ||
+    !/^https:\/\/(?:api\.)?soundcloud\.com\//.test(track)
+  ) {
+    return undefined;
+  }
+  return `<iframe class="soundcloud-player" src="${escapeHtml(src.href)}" title="Reproductor de SoundCloud" width="100%" height="166" loading="lazy" allow="autoplay"></iframe>\n`;
+}
+
 const plainText = (html: string) =>
   html
     .replace(/<[^>]+>/g, " ")
@@ -31,7 +57,8 @@ function createRenderer(redirects: Record<string, string>) {
   marked.use({
     renderer: {
       // Posts are Markdown only; any raw HTML that slips through is shown as text, not executed.
-      html: ({ text }: Tokens.HTML | Tokens.Tag) => escapeHtml(text),
+      // SoundCloud players are the single exception (see soundcloudPlayer).
+      html: ({ text }: Tokens.HTML | Tokens.Tag) => soundcloudPlayer(text) ?? escapeHtml(text),
       link(token: Tokens.Link) {
         const label = this.parser.parseInline(token.tokens);
         const old = OLD_BLOG.exec(token.href);

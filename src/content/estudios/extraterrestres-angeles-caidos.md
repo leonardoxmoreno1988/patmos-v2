@@ -11,13 +11,9 @@ tags: ["Apologética"]
 
 ![Pintura de ángeles caídos con apariencia de extraterrestres en el infierno con serpientes y un ovni](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLy2xiywMxOZdYNyFJNB6cQS1qCtwpClahzzVuhPIU19sj7o9kyJTLCSpmgoUJLE1Coot3xjg5LowvzEubUpYbFCFWSiwpU3-Z30pDOJc79qobh-QDXI_SfaZQYLnGkaRDJ-5tgs04pZk/s1600/Fallen_Angels.jpg)
 
-**
-
-Por Ritual y Propaganda**
+**Por Ritual y Propaganda**
 
 Basado en el libro *Invasores Espaciales* de William Schnoebelen
-
-**
 
 ¿Objetos voladores no identificados? ¿seres de otros planetas? ¿Son solo
 producto de Hollywood y de la imaginación hiperactiva de la gente? ¿Quién o
@@ -34,134 +30,73 @@ afectarán nuestro futuro.
 
 C A P Í T U L O  0 1
 
-Historia de los OVNIs**
-**
-[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo1)****
-
-**
-**
-**
+**Historia de los OVNIs**  
+[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo1)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnJtbJHCverKYQliA6j920kQEPCYT_tnkTXDf7RFfd1xrU4pfn7okzFs6ul5YA-c52R3zW80BKqCmk3dzVGxovFOUzi7Tt_uuIF4k3gSS3QOK3Sgv2z45ZGm9BBN2gxmWrHb1KePknq10/s320/circle2.png)](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo2)
 
 C A P Í T U L O  0 2
-**
 
-Los Nefilim**
-**
-[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo2)****
-
-**
-**
-**
+**Los Nefilim**  
+[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo2)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTYhHWnDqYY4egNp_Q9A7ZRVKjUGz4oe3H42Bo9BqKmBu18h_mOTa4FdCGGyN3lz8upciQJ1DczmYv0uO0NLI8Ly5mYSUgos291ipkXL0QOk_R9OS7qbVSBOfNTO9XIyOWJJxof7i4c/s320/circle3.png)](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo3)
 
 C A P Í T U L O  0 3
-**
 
-Híbridos Humanos Animales**
-**
-[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo3)****
-
-**
-**
-**
+**Híbridos Humanos Animales**  
+[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo3)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjURnnKm_dRrcPFrYIaHy2uS54Al7Pa17IA7CpEDg6H_W3UFPN4eYn69Vc8pc6uJr2qSizJv4RHsbNNDyrtJgyJxsET_aUCQZGYURon9tskxITmilq0XDpzvix-JFQgxVZ65ahh7QpG-uw/s320/circle4.png)](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo4)
 
 C A P Í T U L O  0 4
-**
 
-Intraterrestres**
-**
-[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo4)****
-
-**
-**
-**
+**Intraterrestres**  
+[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo4)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGrQpLYY5HyKiyjvO4mTzj4QbUUvaLCI_bqFwWM33DUd1ebMdUR9Pq5M6uVQpIx3RSDJkvSHLonLH0pzWqL9FOfFqt-e7ngxjpxhGpafasiwBTunUMFyQQ56WAreC4WjNX2Ag0Cewkkw/s1600/circle5.png)](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo5)
 
 C A P Í T U L O  0 5
-**
 
-Magia Negra y Ocultismo**
-**
-[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo5)****
-
-**
-**
-**
+**Magia Negra y Ocultismo**  
+[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo5)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9JiKCiVNMpSKKdSNOyO7IdxqqVzDrFeDfgwgfMWY2wCE3F_ck6C-1BSUCrW6BLzCsIcTbWwhx9LG0IiGRf5y-s92gfQfI56ltPm13L6rTu_SSdgs9Xue4lAOoCslo0dUPqrRKp9k5HbE/s320/circle6.png)](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo6)
 
 C A P Í T U L O  0 6
-**
 
-Operaciones Secretas**
-**
-[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo6)****
-
-**
-**
-**
+**Operaciones Secretas**  
+[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo6)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBrBE9FIe7u6PB_8YZuPiSwMMmpQjslWDd44SUYlT_8k9vAYr7xtHBrAKiHfaRkIrAA3wG-Hsv8oAsMMZGX4dapTM7ReRplm-2AacNJ9Zo92bKLzFCknEMLoQV-WaIU-gGRGuzAt5QrFc/s382/circle7.png)](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo7)
 
 C A P Í T U L O  0 7
-**
 
-Tipos de Extraterrestres**
-**
-[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo7)**
-**
-
-**
-**
-**
+**Tipos de Extraterrestres**  
+[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo7)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwb8WGGM93OOg2anIuGAS3c3vnTO7nvo2GAYivcuVcVhv86uc5ppjT0EphbN4X2SAZgPckI1hVekag6sDdy9xS0FuwBYHm9sqKTfI1PtQES1Bpa1E-HWcC21GcIj5y7Xott4Rci4xd6j8/s1600/circle8.png)](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo8)
 
 C A P Í T U L O  0 8
-**
 
-Abducciones vs SRA**
-**[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo8)****
-
-**
-**
-**
+**Abducciones vs SRA**  
+[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo8)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcmBte2q-k8E0LqeEqwpZqAi8Q6KpRoyY3RYD_pgUlCA4R9UKTl4RBn8No5mg8ZRc4mbmyZkpZX_miH3cEiRwwvMoiH941UE5we5h8JPTboMz6dvTSpUxWcEJHKyiOp-yFTSHkYXTkTLk/s1600/circle9.png)](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo9)
 
 C A P Í T U L O  0 9
-**
 
-Evangelio de los Extraterrestres**
-**[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo9)****
-
-**
-**
-**
+**Evangelio de los Extraterrestres**  
+[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo9)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX0A9QCxtfzj4HkCk0S40QtrviSbW7koFmfSrgrgxplFT9VStHM2_8e37sMb_VEGBy98KdpAdWybMr5wu6nMaylSamcH40VLQs_Gx6dT5mIoBst_UM1j_ZSYQZgqe3me4sRZixWh3gNLY/d/circle10.png)](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo10)
 
 C A P Í T U L O  1 0
-**
 
-Agenda Global**
-**[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo10)****
+**Agenda Global**  
+[Ir al capítulo](https://www.ritualypropaganda.com/p/extraterrestres-angeles-caidos.html#capitulo10)
 
-**
-**
-**
-
-**
-
-INTRODUCCIÓN **
-
-**
+## Introducción
 
 Durante años, la hipótesis extraterrestre ha dominado el campo de la ufología.
 Sin embargo, hay otra teoría que podría proporcionar respuestas más
@@ -180,23 +115,17 @@ Señor Jesucristo y estudiantes de la profecía de los últimos tiempos.
 
 ________________
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilEKa6ycWlm00tzPT_7IB8_wKNYjNaAJVz5mR9CkiR9Ih01q0PkMksNraASkF8i1LZ9xjLcCKToszHKS9zFUpCYZtdg74wMUOYdCLGWxeRnLoISFA2U_dSCMIGmZsX_9CWiweL-la_7VA/s1600/circle1.png)](https://www.blogger.com/null)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilEKa6ycWlm00tzPT_7IB8_wKNYjNaAJVz5mR9CkiR9Ih01q0PkMksNraASkF8i1LZ9xjLcCKToszHKS9zFUpCYZtdg74wMUOYdCLGWxeRnLoISFA2U_dSCMIGmZsX_9CWiweL-la_7VA/s1600/circle1.png)
 
-01. Historia de los OVNIS
+## 01. Historia de los OVNIS
 
-**
-
-**[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-1-historia-de-los-ovnis)****
-
-**
+**[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-1-historia-de-los-ovnis)**
 
 Antes de entrar al tema de los ángeles caídos, es necesario hacer una
 breve revisión de los OVNIs a lo largo del tiempo. Puede sorprender a
 algunos lectores el saber que el fenómeno OVNI parece ser tan antiguo
 como la historia. De hecho, mucho antes de que el hombre mismo pudiera
 volar, la gente veía cosas inexplicables en el cielo.
-
-**
 
 Sin embargo, no todas los avistamientos antiguos en el cielo fueron
 explicadas tan fácilmente. Muchos de los pueblos antiguos sabían
@@ -209,18 +138,14 @@ desconcertados por algunas de las cosas que observaban en los cielos.
 
 Lo que se ve exactamente cómo la silueta de una nave espacial en las películas de ciencia ficción es en realidad un dibujo que se encuentra en las cuevas de Niaux en Francia. Esta pintura rupestre paleolítica fue dibujada en algún momento entre 13,000 a.C. y 10,000 a.C.
 
-### *“Tenemos un relato de una chispa que cae de una estrella, y aumenta
-a medida que se acerca a la tierra, hasta que se vuelve del tamaño
-de la luna, brillando como a través de una nube; luego regresó a los
-cielos y se convirtió en una lumbrera; esto ocurrió en el consulado
-de Cn. Octavius y C. Scribonius. Fue visto por Silano, el procónsul
-y sus asistentes.”*
-
+> *“Tenemos un relato de una chispa que cae de una estrella, y aumenta
+> a medida que se acerca a la tierra, hasta que se vuelve del tamaño
+> de la luna, brillando como a través de una nube; luego regresó a los
+> cielos y se convirtió en una lumbrera; esto ocurrió en el consulado
+> de Cn. Octavius y C. Scribonius. Fue visto por Silano, el procónsul
+> y sus asistentes.”*
 >
-- Plinio el Joven, 66 a.C. Del libro
-
-*Fireballs: A History of Meteors and Other Atmospheric
-Phenomena*
+> — Plinio el Joven, 66 a.C. Del libro *Fireballs: A History of Meteors and Other Atmospheric Phenomena*
 
 *La Historia de Inglaterra del Venerable Bede* (673-735) los
 menciona; y curiosamente, Cristobal Colón informó haberlos visto en lo
@@ -256,7 +181,7 @@ de Helena Petrovna Blavatsky y el hombre que llegó a ser conocido como
 Aleister Crowley.
 
 La Sociedad Teosófica es la abuela de todas las organizaciones
-modernas de la "Nueva Era", y los escritos de su fundadora, (2)** Helena Blavatsky, contienen los conceptos básicos de la Nueva
+modernas de la "Nueva Era", y los escritos de su fundadora, (2) Helena Blavatsky, contienen los conceptos básicos de la Nueva
 Era que desde entonces han llegado a cubrir todo el panorama
 metafísico mundial. Aleister Crowley (quien desdeñaba a Blavatsky) era
 un genio brillante, pero retorcido, a quien le gustaba ser llamado "el
@@ -265,14 +190,10 @@ desarrollo de la magia del siglo XX. Tanto Crowley como la Sociedad
 Teosófica serán importantes a medida que unamos estos diversos
 hilos.
 
-**
-
+> *“Sobre la raza aria y sus orígenes, la ciencia sabe tan poco como
+> de los hombres de otros planetas.”*
 >
-*“Sobre la raza aria y sus orígenes, la ciencia sabe tan poco como
-de los hombres de otros planetas.”*
-
->
-- Helena Blavatsky, La Doctrina Secreta Volumen II
+> — Helena Blavatsky, La Doctrina Secreta Volumen II
 
 Pero, ¿qué tiene esto que ver con los ovnis? Quizás mucho. En la
 década siguiente, se produjo el primer "brote" de OVNIs. Un "brote",
@@ -341,19 +262,14 @@ prestigioso que durante años fue consultor de la Fuerza Aérea en OVNIs
 y, por lo tanto, desacreditado, acuñó el ahora famoso sistema de
 clasificación:
 
-*
-Encuentro cercano del primer tipo (CEl): Una aeronave no identificada
+- Encuentro cercano del primer tipo (CEl): Una aeronave no identificada
 que se comporta de forma atípica se ve desde una distancia cercana,
 mucho más de 500 pies y/o cerca del horizonte.
-
-*
-Encuentro cercano del segundo tipo (CE2): Un OVNI aterriza cerca del
+- Encuentro cercano del segundo tipo (CE2): Un OVNI aterriza cerca del
 observador y deja detrás de algún tipo de evidencia material de su
 aterrizaje, marcas de quemaduras, círculos de cultivos, algunas formas
 de radiactividad, pasto o cultivos aplastados.
-
-*
-Encuentro cercano del tercer tipo (CE3): Donde un observador ve de
+- Encuentro cercano del tercer tipo (CE3): Donde un observador ve de
 cerca al piloto del OVNI e incluso puede intercambiar algún tipo de
 conversación con el piloto. (Hablaremos sobre el cuarto tipo de
 encuentro más adelante)
@@ -385,19 +301,16 @@ holográfica.
 ### El profeta y los ovnis
 
 Tampoco la aparición de Fátima sería la primera gran Hagiofanía
-“religiosa” (3) **en tomar un significado completamente diferente
+“religiosa” (3) en tomar un significado completamente diferente
 cuando se examinara a la luz de los estudios sobre OVNIs. Si examinamos
 otra aparición famosa que es solo unos 90 años más antigua que Fátima,
 vemos elementos OVNIs comunes. Cuando el "profeta" fundador del
 mormonismo, José Smith, tuvo su "Primera Visión", se lee asombrosamente
 como un encuentro cercano del tercer tipo (CE3).
 
-**
-
 [![profeta joseph smith teniendo una visión extraterrestre](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfoSKJeBYHu4dxDMr_3nL-Ogwnigvy3Xj9plP7lm55Ia7U57OiAu_9wBFwhID9RyJQHH8_PWqQvw0NBYYVGv5yyAXgL6mD9yMG5TwswWPFc1tJJd8-gW3TNImM2guiVNrR6AmX1pHBvdk/s1600/joseph-vision.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfoSKJeBYHu4dxDMr_3nL-Ogwnigvy3Xj9plP7lm55Ia7U57OiAu_9wBFwhID9RyJQHH8_PWqQvw0NBYYVGv5yyAXgL6mD9yMG5TwswWPFc1tJJd8-gW3TNImM2guiVNrR6AmX1pHBvdk/s1600/joseph-vision.jpg)
 
-Representación de la primera visión que Joseph Smith dijo tener en
-1820.
+Representación de la primera visión que Joseph Smith dijo tener en 1820.
 
 Él está en un bosque de árboles en el estado de Nueva York,
 supuestamente orando acerca de a qué iglesia asistir. Al igual que
@@ -418,11 +331,9 @@ ciencia ficción.
 
 De hecho, lo que muchos no saben es que la serie de televisión clásica,
 Battlestar Galactica, fue creada por un mormón, Glen Larson, y tiene
-muchos componentes poco disimulados de la teología mormona (4)**.
+muchos componentes poco disimulados de la teología mormona (4).
 Sin embargo, una discusión sobre lo extraño de su doctrina sería otro
-libro.** (5)**
-
-**
+libro. (5)
 
 ### Foo fighters, Vril y cruces torcidas
 
@@ -447,11 +358,9 @@ en sus propias cartas planetarias.
 
 El último análisis revela que Hitler parece haber sido poseído por
 demonios y lleno de una cantidad casi sin paralelo de poder satánico.
-(6)** Las sociedades ocultas a las que pertenecía llamaban a este
+(6) Las sociedades ocultas a las que pertenecía llamaban a este
 poder *Vril*, y creían que era el poder primordial de los dioses
 antiguos. ¡Quería más!
-
-**
 
 No es sorprendente que un hombre así pudiera hacer contacto con
 cualquier tipo de poderes demoníacos o de otro mundo para mejorar sus
@@ -484,9 +393,7 @@ y fue diseñada en la Base-211 o "New Berlin". Entre otras cosas, los
 científicos trajeron sus "discos antigravedad" y la investigación
 asociada. Esto es, por supuesto, parte de la historia "subterránea", y
 es difícil de probar. Pero, como lo señaló un investigador, la historia
-de fondo solo daría razones para creer en la conexión OVNI. (7)**
-
-**
+de fondo solo daría razones para creer en la conexión OVNI. (7)
 
 Los hechos históricos son evidentes. A partir de 1938, mucho antes del
 final de la Segunda Guerra Mundial, los nazis comenzaron a enviar
@@ -568,9 +475,7 @@ produciría un evento que eclipsaría incluso el "nacimiento" del platillo
 volante. En un vasto rancho cerca de Roswell, NM, un "disco volador"
 aparentemente se estrelló. Se dice que se encontraron cuerpos pequeños,
 de color blanco verdoso y material misterioso similar a una lámina
-metálica alrededor de los restos (8)**.
-
-**
+metálica alrededor de los restos (8).
 
 [![periódico de roswell del 8 de julio de 1947 anunciando la captura de un platillo volante](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPfS6r8Sp4XTaBABE8I2jF2Jd8NH0q2o6KPMIA9m-UhqvWo3UoDyQtk_i3B_JMYmg0IHSBUCg9Ete5eKIzsCiljVkF7ULhhpfNijd18eboZ7R2jqgR1W6PqbW_z4pF8Em1ZOXhACRGrk/s1600/roswell.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPfS6r8Sp4XTaBABE8I2jF2Jd8NH0q2o6KPMIA9m-UhqvWo3UoDyQtk_i3B_JMYmg0IHSBUCg9Ete5eKIzsCiljVkF7ULhhpfNijd18eboZ7R2jqgR1W6PqbW_z4pF8Em1ZOXhACRGrk/s1600/roswell.jpg)
 
@@ -602,21 +507,15 @@ F-51 voló para interceptar. El capitán Thomas Mantell, líder de los
 aviones, siguió al OVNI hacia las nubes a una velocidad increíble de
 25,000 pies. Sus últimas palabras fueron:
 
-*“¡La cosa parece metálica y tiene un tamaño tremendo!*”
-
--
-
-Thomas Mantell
-
-, USAF
+> *“¡La cosa parece metálica y tiene un tamaño tremendo!”*
+>
+> — Thomas Mantell, USAF
 
 Su avión se estrelló por razones desconocidas y los restos cubrieron casi una milla cuadrada. Explicación oficial: Vio un globo meteorológico "Skyhook". ¡Pero seguramente un piloto entrenado no podría estar confundiendo un globo con un enorme avión que viajaba más rápido que él!
 
 En 1953, la Fuerza Aérea descubrió que había dos gigantes "bogeys" orbitando la tierra cerca del ecuador a aproximadamente Mach 25 (18,000 mph). Incluso después de numerosos intentos de ver si las lecturas se debieron a un error electrónico o humano, todavía estaban allí: 600 millas en el cielo. Esto alarmó a los funcionarios lo suficiente como para comenzar a configurar un sistema de detección de emergencia. El eminente astrónomo, Dr. Clyde Tombaugh (el científico que descubrió a
 Plutón) fue puesto a cargo de buscar en el cielo objetos enormes que
-orbitan la tierra además de la luna. (9)**
-
-**
+orbitan la tierra además de la luna. (9)
 
 En 1954, el siguiente brote principal estaba en pleno apogeo. Miles de
 avistamientos fueron reportados. Muchos incluso fueron avistamientos
@@ -633,10 +532,6 @@ declaración de que no hay nada en los cielos que sea una amenaza para la
 seguridad nacional. Afirmaron que virtualmente todos los avistamientos podrían
 explicarse como una especie de error humano. Sin embargo, esa afirmación era
 cada vez más difícil de mantener.
-
-**
-
-**
 
 En el brote de 1963, los astrónomos en el célebre Observatorio Palomar de
 Mt. California reportaron haber visto 260 OVNIs, cada uno de
@@ -719,9 +614,7 @@ Inglaterra. Más tarde, bajo la hipnosis, se "reveló" que habían sido
 llevados a bordo de una nave espacial extraterrestre y se les realizó un
 sondeo médico durante dos horas antes de regresar a su automóvil en un
 estado de amnesia. Tenían la dudosa distinción de ser los primeros
-"secuestrados alienígenas" conocidos (10)**.
-
-**
+"secuestrados alienígenas" conocidos (10).
 
 [![Betty y Barney Hill mostrando el dibujo del ovni que los secuestró](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUwByM0mhDAWUCPFiF-gM91tQgkbqJt84_Q7eDV3N371kjBPf63F8fi-ClrqkBccvFor5rglm1X72xF-sv7u_yRSgQS3sXwnbFP2e-toaI5CR123-mEN8FD4jYPgACJ5yZc7febNVAyjQ/s1600/betty-barney.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUwByM0mhDAWUCPFiF-gM91tQgkbqJt84_Q7eDV3N371kjBPf63F8fi-ClrqkBccvFor5rglm1X72xF-sv7u_yRSgQS3sXwnbFP2e-toaI5CR123-mEN8FD4jYPgACJ5yZc7febNVAyjQ/s1600/betty-barney.png)
 
@@ -743,9 +636,7 @@ Estos libros tocaron un acorde en la conciencia popular; porque desde la
 década de 1980 ha habido una virtual hemorragia de informes de niños y
 adultos secuestrados. De hecho, el respetado psiquiatra de Harvard, el Dr.
 John Mack, afirma que cree que entre 4 y 5 millones de estadounidenses
-creen que han tenido una experiencia de secuestro. (11)**
-
-**
+creen que han tenido una experiencia de secuestro. (11)
 
 La última subcategoría digna de mención dentro de la red de misterio OVNI
 también es la más reciente. (Al menos en términos de llamar nuestra
@@ -801,77 +692,48 @@ del entretenimiento saben de dónde obtienen su dinero y su poder, por lo
 que no les importa que solo sean títeres manipulados por el "príncipe" del
 poder del aire (¿Ondas?) - Efesios. 2: 2.
 
-¿No deseas leer?** Escucha el capítulo en formato audio:
+**¿No deseas leer?** Escucha el capítulo en formato audio:
 
-**
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/542560098&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-[Escuchar capítulo en formato audio](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/542560098&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true)
+### Fuentes y referencias
 
-Fuentes y referencias:**
+1. Autor de *Chariots of the Gods* and *Gods from Outer Space*,
+   además de otros libros, el trabajo de Von Daaniken plantea preguntas
+   interesantes, pero es sustentado más en la imaginación que en una
+   investigación seria de los hechos.
+2. En particular, sus dos trabajos masivos, *Isis Revelada* y
+   *La Doctrina Secreta*.
+3. Una hagiofanía es la aparición de un "santificado" o un santo, al igual
+   que una teofanía es la aparición de dios mismo.
+4. Estos incluirían: "Un nuevo y eterno pacto de matrimonio", un "Concilio de
+   los Doce" algún gobernante de la humanidad, un Patriarca de la raza humana
+   sobreviviente que se llama "Adama" (Adán) y la evocación de algunas
+   deidades  llamadas los "Señores de Kobol" (Kolab se menciona en la
+   escritura SUD *La Perla de Gran Precio* como el último hogar de
+   la raza divina que gobierna el universo.
+5. Y ha sido escrito. Vea nuestro libro,
+   *El Templo de Perdición del Mormonismo* por este autor y Jim Spencer,
+   disponible en nuestro ministerio. También vea *The God Makers* por Ed
+   Decker y Dave Hunt, disponible en Harvest House Publications.
+6. Para más información sobre el lado oculto de Hitler y el Tercer Reich, vea
+   *The Spear of Destiny* de Ravenscroft y de Schusster
+   *Hitler: El Mesías Oculto*.
+7. Véase
+   http://www.beyondweird.com/ufos/Branton_The_Omega_File_Part_2_Nazi_Bases_In_Antarctica.html
+8. Véase *Roswell Daily Record*, 7/7/1947.
+9. Revista TIME, 15/03/1954.
+10. Su libro *El Viaje Interrumpido*, causó sensación, y aún está impreso
+   después de 40 años.
+11. Ver John E. Mack, MD,
+   *Abduction: Human Encounters with Aliens* (edición de rev.),
+   Ballentine Books, Nueva York, 1994.
 
-**
-**
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnJtbJHCverKYQliA6j920kQEPCYT_tnkTXDf7RFfd1xrU4pfn7okzFs6ul5YA-c52R3zW80BKqCmk3dzVGxovFOUzi7Tt_uuIF4k3gSS3QOK3Sgv2z45ZGm9BBN2gxmWrHb1KePknq10/s320/circle2.png)
 
-*
-Autor de *Chariots of the Gods* and *Gods from Outer Space*,
-además de otros libros, el trabajo de Von Daaniken plantea preguntas
-interesantes, pero es sustentado más en la imaginación que en una
-investigación seria de los hechos.
+## 02. Los Nefilim
 
-*
-En particular, sus dos trabajos masivos, *Isis Revelada* y
-*La Doctrina Secreta*.
-
-*
-Una hagiofanía es la aparición de un "santificado" o un santo, al igual
-que una teofanía es la aparición de dios mismo.
-
-*
-Estos incluirían: "Un nuevo y eterno pacto de matrimonio", un "Concilio de
-los Doce" algún gobernante de la humanidad, un Patriarca de la raza humana
-sobreviviente que se llama "Adama" (Adán) y la evocación de algunas
-deidades  llamadas los "Señores de Kobol" (Kolab se menciona en la
-escritura SUD *La Perla de Gran Precio* como el último hogar de
-la raza divina que gobierna el universo.
-
-*
-Y ha sido escrito. Vea nuestro libro,
-*El Templo de Perdición del Mormonismo* por este autor y Jim Spencer,
-disponible en nuestro ministerio. También vea *The God Makers* por Ed
-Decker y Dave Hunt, disponible en Harvest House Publications.
-
-*
-Para más información sobre el lado oculto de Hitler y el Tercer Reich, vea
-*The Spear of Destiny* de Ravenscroft y de Schusster
-*Hitler: El Mesías Oculto*.
-
-*
-Véase
-http://www.beyondweird.com/ufos/Branton_The_Omega_File_Part_2_Nazi_Bases_In_Antarctica.html
-
-*
-Véase *Roswell Daily Record*, 7/7/1947.
-
-* Revista TIME, 15/03/1954.
-
-*
-Su libro *El Viaje Interrumpido*, causó sensación, y aún está impreso
-después de 40 años.
-
-*
-Ver John E. Mack, MD,
-*Abduction: Human Encounters with Aliens* (edición de rev.),
-Ballentine Books, Nueva York, 1994.
-
-**
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnJtbJHCverKYQliA6j920kQEPCYT_tnkTXDf7RFfd1xrU4pfn7okzFs6ul5YA-c52R3zW80BKqCmk3dzVGxovFOUzi7Tt_uuIF4k3gSS3QOK3Sgv2z45ZGm9BBN2gxmWrHb1KePknq10/s320/circle2.png)](https://www.blogger.com/null)
-
-02. Los Nefilim
-****
-[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-2-los-nefilim)****
-
-**
+**[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-2-los-nefilim)**
 
 Después de haber sentado las bases históricas lo más rápidamente posible
 (ya que se trata de un tema complejo), ahora debemos empezar a utilizar
@@ -879,29 +741,18 @@ el bisturí de la Palabra de Dios (Hebreos 4: 12) para retirar las capas
 de "cirugía estética" que se han hecho sobre este tema y separar la
 verdad del error.
 
-**
-
-###
-
-Génesis 6 Y La Antropología Cósmica
-
-**
+### Génesis 6 Y La Antropología Cósmica
 
 Para entender este asunto, necesitamos volver al principio mismo de la
 Biblia y recordar lo que realmente quería Satanás: "ser como el
 Altísimo". (Isaías 14:14) Quería exaltar su trono sobre las estrellas de
-Dios (Isaías 14:13)*.* Cuando se enteró de la promesa mesiánica de
+Dios (Isaías 14:13). Cuando se enteró de la promesa mesiánica de
 Dios después de la caída, comenzó a conspirar extensamente para evitar
 que eso sucediera. Él sabía lo que Dios había prometido:
 
-**
-
->
-"Y pondré enemistad entre ti y la mujer, y entre tu descendencia y
-la descendencia de ella; te herirá en la cabeza, y tú le herirás en
-el calcañar." - Génesis 3; 15.**
-
-**
+> "Y pondré enemistad entre ti y la mujer, y entre tu descendencia y
+> la descendencia de ella; te herirá en la cabeza, y tú le herirás en
+> el calcañar." - Génesis 3; 15.
 
 Esto le dijo que el Mesías vendría a través del linaje humano de alguna
 manera, pero de una manera muy misteriosa (¿Qué mujer en la historia ha
@@ -918,10 +769,7 @@ faz de la tierra y les nacieron hijas, al ver los hijos de Dios que
 las hijas de los hombres eran hermosas tomaron para sí mujeres,
 escogiendo entre todas. Entonces dijo Jehová: «No contenderá mi
 espíritu con el hombre para siempre, porque ciertamente él es carne;
-pero vivirá ciento veinte años. *
-
-*
-*
+pero vivirá ciento veinte años.*
 
 *Había gigantes en la tierra en aquellos días, y también después que
 se llegaron los hijos de Dios a las hijas de los hombres y les
@@ -955,21 +803,18 @@ de que Satanás de alguna manera convenció a los ángeles para que dejaran
 su "primer estado" y tuvieran relaciones sexuales con mujeres humanas.
 Este fue el más grave de los pecados.
 
->
-"Y a los ángeles que no guardaron su primer estado, sino que
-dejaron su propia morada, los ha reservado en cadenas eternas bajo
-tinieblas para el juicio del gran día. Así como Sodoma y Gomorra, y
-las ciudades que las rodean de igual manera, entregándose a la
-fornicación, y persiguiendo carne extraña, son puestas como ejemplo,
-sufriendo la venganza del fuego eterno." - Judas 6-7**
-
-**
+> "Y a los ángeles que no guardaron su primer estado, sino que
+> dejaron su propia morada, los ha reservado en cadenas eternas bajo
+> tinieblas para el juicio del gran día. Así como Sodoma y Gomorra, y
+> las ciudades que las rodean de igual manera, entregándose a la
+> fornicación, y persiguiendo carne extraña, son puestas como ejemplo,
+> sufriendo la venganza del fuego eterno." - Judas 6-7
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpJoB9R8ETDYQeY8QxwyOlyXIPxyDATiJvDbPmXTYoYVPLpWdXGIxgkZ0bhL09-kA43MG7QMgRkAeCO20O2gBaXRqszvCSNQUOAp3dJmU8rgfBC1qJXid3YNlm4qQeSHKe4KBXSiAFKkQ/s1600/giants.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpJoB9R8ETDYQeY8QxwyOlyXIPxyDATiJvDbPmXTYoYVPLpWdXGIxgkZ0bhL09-kA43MG7QMgRkAeCO20O2gBaXRqszvCSNQUOAp3dJmU8rgfBC1qJXid3YNlm4qQeSHKe4KBXSiAFKkQ/s1600/giants.jpg)
 
 En la obra de Giovanni Lanfranco
-*Norandino y Lucina descubiertos por el ogro, *vemos algo
-cercano al escenario ocurrido en el Génesis 6*.*
+*Norandino y Lucina descubiertos por el ogro*, vemos algo
+cercano al escenario ocurrido en el Génesis 6.
 
 Note algo muy importante en este pasaje. Los ángeles de aquí están
 siendo comparados con el pueblo de Sodoma en que fueron "en busca de
@@ -993,18 +838,15 @@ eran muy poderosos. Una indicación final de la verdad de esta
 interpretación (y también de su aplicación contemporánea) puede
 encontrarse en la advertencia de Pablo:
 
->
-"Porque el varón no debe cubrirse la cabeza, pues él es imagen y
-gloria de Dios; pero la mujer es gloria del varón. Porque el varón no
-procede de la mujer, sino la mujer del varón, y tampoco el varón fue
-creado por causa de la mujer, sino la mujer por causa del varón. Por
-lo cual la mujer debe tener señal de autoridad sobre su cabeza, por
-causa de los ángeles." - Corintios 11:7-10**
-
-**
+> "Porque el varón no debe cubrirse la cabeza, pues él es imagen y
+> gloria de Dios; pero la mujer es gloria del varón. Porque el varón no
+> procede de la mujer, sino la mujer del varón, y tampoco el varón fue
+> creado por causa de la mujer, sino la mujer por causa del varón. Por
+> lo cual la mujer debe tener señal de autoridad sobre su cabeza, por
+> causa de los ángeles." - Corintios 11:7-10
 
 Extraño, a menos que lo veas a la luz de Génesis 6. El apóstol dice que
-una mujer necesita una cobertura espiritual (1)** "A causa de
+una mujer necesita una cobertura espiritual (1) "A causa de
 los ángeles". ¿Qué podría significar eso? Bien, si Satanás todavía está
 tentando a los ángeles a tener sexo con mujeres, entonces quizás esto
 significa que una mujer que es espiritualmente descubierta podría ser
@@ -1015,8 +857,6 @@ trayendo un "comodín". Es evidente que los hijos de estas uniones
 malditas produjeron monstruos y gigantes, así como "hombres poderosos"
 de apariencia más normal. Es por eso que el Señor trató de guardar
 celosamente los matrimonios de su pueblo.
-
-**
 
 Parece evidente que aunque esta práctica (relaciones angélico-humanas)
 fue tan abominable que hizo que Dios inundara el mundo, continuó después
@@ -1039,18 +879,15 @@ del contacto con otros humanos.
 
 El material histórico para esta postura es extenso y requeriría un libro
 propio, así que solo compartiré un extracto del libro de 1609,
-*Comentarios Reales De Los Incas, *del autor e historiador Inca
+*Comentarios Reales De Los Incas*, del autor e historiador Inca
 Garcilazo de la Vega, de descendencia peruano-española. Este documento
 registra lo que fue el Perú Antiguo y la historia de la cultura incaica
 de esa época. Es interesante que en su libro, Garcilazo cita a otro
 historiador, Pedro Cieza de León, quién cuenta a detalle sobre la
 existencia de gigantes en el territorio peruano.
 
->
-Comentarios Reales De Los Incas: De Los Gigantes Que Hubo En
-Aquella Región Y La Muerte De Ellos**
-
-**
+> Comentarios Reales De Los Incas: De Los Gigantes Que Hubo En
+> Aquella Región Y La Muerte De Ellos
 
 "Antes que salgamos de esta región, será bien que demos cuenta de una
 historia notable y de grande admiración, que los naturales de ella
@@ -1203,9 +1040,7 @@ curiosidades interesantes que ahora parecen estar convergiendo en estos
 Un elemento aún más perturbador se introduce cuando nos damos cuenta de
 que estos seres que engendran hijos de mujeres humanas pueden ser algo más
 que simples ángeles. Bien pueden ser seres celestiales, como los que Pablo
-discute en Efesios 6:12
-
-como
+discute en Efesios 6:12 como
 principados, poderes y gobernantes de las tinieblas de este mundo y la
 maldad espiritual en los lugares altos.
 
@@ -1218,7 +1053,7 @@ Puede sorprender a muchos cristianos el darse cuenta de que la Biblia
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9H8G2OM7S23NFWVpQLB3oD3qJluFZbqb0QsLCtOgpbY17bWwEKyzkY8h_W7WINzEHS7y4E4PqkkfJioro7DdS6oKCyqkN3ewphR-4rKJMNO-a12LJC_TtPw_i3iwT2gi3-FMYihl20c/s1600/luci.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9H8G2OM7S23NFWVpQLB3oD3qJluFZbqb0QsLCtOgpbY17bWwEKyzkY8h_W7WINzEHS7y4E4PqkkfJioro7DdS6oKCyqkN3ewphR-4rKJMNO-a12LJC_TtPw_i3iwT2gi3-FMYihl20c/s1600/luci.jpg)
 
-*Lucifer *de Franz von Stuck
+*Lucifer* de Franz von Stuck
 
 Ahora, esto puede ser perturbador para aquellos que entienden que la Torá
 es monoteísta. De hecho lo es. Es evidente de una lectura cuidadosa de las
@@ -1238,24 +1073,20 @@ menos algunos de estos seres celestiales cayeron de la gracia y comenzaron
 a obrar la maldad. El final del Salmo 82 y de Isaías 24:21 deja claro que
 Dios va a juzgar a estos "dioses del espacio exterior" con mucha dureza:
 
-*
-“Yo he dicho: "Vosotros sois dioses, y todos vosotros sois hijos del
-Altísimo. Pero ustedes morirán como hombres, y caerán como uno de los
-príncipes*”
-
+> *“Yo he dicho: "Vosotros sois dioses, y todos vosotros sois hijos del
+> Altísimo. Pero ustedes morirán como hombres, y caerán como uno de los
+> príncipes*”
 >
-*- Salmos 82:6-7*
+> — Salmos 82:6-7
 
-*
-“Acontecerá en aquel día, que Jehová castigará al ejército de los
-cielos en lo alto, y a los reyes de la tierra sobre la tierra.*”
-
+> *“Acontecerá en aquel día, que Jehová castigará al ejército de los
+> cielos en lo alto, y a los reyes de la tierra sobre la tierra.*”
 >
-*- Isaías 24:21*
+> — Isaías 24:21
 
 El biblista Michael S. Heiser ha hecho un trabajo pionero en este tema.
 Sus documentos pueden aportar una gran cantidad de ideas adicionales sobre
-este importante tema. (2)** Sin querer ser alarmista, es vital darse
+este importante tema. (2) Sin querer ser alarmista, es vital darse
 cuenta de que estos seres celestiales están tan por encima de los ángeles
 como los ángeles están por encima de la humanidad. Es la opinión
 considerada de este autor que muchos de los seres que "dirigen el
@@ -1263,61 +1094,43 @@ espectáculo" en la llamada agenda alienígena son en realidad estos seres
 celestiales que se han rebelado contra Dios. Nosotros, como cristianos,
 necesitamos ser conscientes de esto para poder orar estratégicamente.
 
-**
-
 En términos de la discusión de los OVNIS y las abducciones, esto significa
 que no sólo los ángeles podrían estar cayendo y viéndose involucrados en
 la violación de mujeres mortales, sino que incluso seres celestiales de
 nivel mucho más alto podrían estar involucrados en estos extraños
-experimentos apocalípticos. (3)** Es muy probable que algunas de las
+experimentos apocalípticos. (3) Es muy probable que algunas de las
 mujeres que creen que han sido capturadas e impregnadas por
 extraterrestres en realidad hayan sido violadas por los celestiales.
 
-**
+**¿No deseas leer?** Escucha el capítulo en formato audio:
 
-¿No deseas leer?** Escucha el capítulo en formato audio:
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/596405934&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-**
+### Fuentes y referencias
 
-[Escuchar capítulo en formato audio](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/596405934&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true)
+1. Esta cubierta espiritual es la autoridad principal del marido. Sé que hay
+   algunas denominaciones cristianas que interpretan este pasaje
+   literalmente, que una mujer debe tener su cabeza cubierta literalmente. No
+   estoy de acuerdo, pero no tengo ningún problema con todos los que desean
+   ser fieles a las Escrituras tal como las entienden; Mientras no degenere
+   en legalismo.
+2. Consulte "Deuteronomio 32: 8 y los Hijos de Dios" disponible para descarga
+   gratuita en su sitio web, http://www.facadenovel.com/ También tiene una
+   novela excelente, La fachada, que es una expresión ficticia de muchos de
+   sus excelentes Ideas sobre el encubrimiento actual de los ovnis y su
+   relación con la verdad bíblica.
+3. El pseudopigráfico Libro de Enoch, citado en la epístola de Judas, es una
+   fuente adicional de información interesante sobre este tema de la
+   jerarquía celestial y Génesis 6. Vea nuestro video, "Las crónicas de
+   Enochia" para una exposición detallada de esta parte del misterio,
+   disponible en el Ministerio de With One Accord.
 
-Fuentes y referencias:**
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTYhHWnDqYY4egNp_Q9A7ZRVKjUGz4oe3H42Bo9BqKmBu18h_mOTa4FdCGGyN3lz8upciQJ1DczmYv0uO0NLI8Ly5mYSUgos291ipkXL0QOk_R9OS7qbVSBOfNTO9XIyOWJJxof7i4c/s200/circle3.png)
 
-**
-**
-
-*
-Esta cubierta espiritual es la autoridad principal del marido. Sé que hay
-algunas denominaciones cristianas que interpretan este pasaje
-literalmente, que una mujer debe tener su cabeza cubierta literalmente. No
-estoy de acuerdo, pero no tengo ningún problema con todos los que desean
-ser fieles a las Escrituras tal como las entienden; Mientras no degenere
-en legalismo.
-
-*
-Consulte "Deuteronomio 32: 8 y los Hijos de Dios" disponible para descarga
-gratuita en su sitio web, http://www.facadenovel.com/ También tiene una
-novela excelente, La fachada, que es una expresión ficticia de muchos de
-sus excelentes Ideas sobre el encubrimiento actual de los ovnis y su
-relación con la verdad bíblica.
-
-*
-El pseudopigráfico Libro de Enoch, citado en la epístola de Judas, es una
-fuente adicional de información interesante sobre este tema de la
-jerarquía celestial y Génesis 6. Vea nuestro video, "Las crónicas de
-Enochia" para una exposición detallada de esta parte del misterio,
-disponible en el Ministerio de With One Accord.
-
-**
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTYhHWnDqYY4egNp_Q9A7ZRVKjUGz4oe3H42Bo9BqKmBu18h_mOTa4FdCGGyN3lz8upciQJ1DczmYv0uO0NLI8Ly5mYSUgos291ipkXL0QOk_R9OS7qbVSBOfNTO9XIyOWJJxof7i4c/s200/circle3.png)](https://www.blogger.com/null)
-
-03. Híbridos Humanos Animales
-**
+## 03. Híbridos Humanos Animales
 
 **[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-3-hibridos-humanos-animales)**
 
-**
 Desafortunadamente, para unir todo esto, debemos dejar la luz de la Biblia y
 movernos hacia los reinos más oscuros de la historia y el folclore. Sin
 embargo, como con todo, debemos someter lo que encontramos frente a lo que
@@ -1360,10 +1173,8 @@ Dios les prohibió arar con un buey y un asno sobre el mismo yugo (Deuteronomio
 ser desigualmente torcido. (2 Cor. 6). Ni siquiera se les permitía usar ropa
 que tuviera una mezcla de fibras (Deuteronomio 22:11). Ahora, por supuesto,
 todos estos también tienen tipologías que se aplican espiritualmente a los
-creyentes del Nuevo Testamento (1)**, pero alabado sea Dios, no tenemos
+creyentes del Nuevo Testamento (1), pero alabado sea Dios, no tenemos
 que vivir bajo la Ley. Somos salvos por la Gracia!
-
-**
 
 ### Sobre híbridos humanos-animales
 
@@ -1407,13 +1218,11 @@ el sátiro mitad hombre, mitad cabra; el unicornio. Tal vez sorprenda al lector
 que consigna a estas criaturas a cuentos de hadas que dos de ellas sean
 mencionadas en la Biblia. Isaías 13:21 nos dice:
 
+> *“Pero allí yacerán las bestias salvajes del desierto, y sus casas
+> estarán llenas de criaturas perversas; y allí morarán los búhos, y los
+> sátiros danzarán.”*
 >
-*“Pero allí yacerán las bestias salvajes del desierto, y sus casas
-estarán llenas de criaturas perversas; y allí morarán los búhos, y los
-sátiros danzarán.”*
-
->
-- Isaías 13:21 (Vea también Isaías 34:14)
+> — Isaías 13:21 (Vea también Isaías 34:14)
 
 En otro lugar, se menciona al unicornio (Salmo 92:10, 29:6, etc.). Algunos
 comentaristas bíblicos tratan de minimizarlos. Afirman que los unicornios en
@@ -1481,42 +1290,30 @@ legendaria gente pequeña también hizo. ¿Podría ser una coincidencia?
 Desgraciadamente, la Biblia no dice nada sobre los "pequeños" como tales,
 pero tampoco los descarta.
 
-¿No deseas leer?** Escucha el capítulo en formato audio:
+**¿No deseas leer?** Escucha el capítulo en formato audio:
 
-**
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-3-hibridos-humanos-animales&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Fuentes y referencias:**
+### Fuentes y referencias
 
-**
-**
+1. Por ejemplo, la "semilla" en el Nuevo Testamento es un símbolo de la
+   Palabra de Dios (Lucas 8:11). Mezclar semillas en este contexto
+   espiritual significaría corromper (2 Corintios 2:17) la Biblia pura con
+   palabras de hombres; una advertencia contra versiones falsas de la
+   Biblia. El buey en el Nuevo Testamento es un símbolo del obrero
+   cristiano (1 Ti. 5:18) y por supuesto el asno es un símbolo del pecador
+   no salvo (Prov. 26:3, Sal. 32:9). Tales no deben ser unidas en yugo en
+   el servicio cristiano o (por supuesto) en el matrimonio. La vestidura
+   puede ser un símbolo de nuestra salvación (Isaías 61:10, Mateo 22:12,
+   Apocalipsis 3:4, Apocalipsis 16:15, Zacarías 3:4); la cual no debe ser
+   mezclada con las obras humanas.
 
-*
-Por ejemplo, la "semilla" en el Nuevo Testamento es un símbolo de la
-Palabra de Dios (Lucas 8:11). Mezclar semillas en este contexto
-espiritual significaría corromper (2 Corintios 2:17) la Biblia pura con
-palabras de hombres; una advertencia contra versiones falsas de la
-Biblia. El buey en el Nuevo Testamento es un símbolo del obrero
-cristiano (1 Ti. 5:18) y por supuesto el asno es un símbolo del pecador
-no salvo (Prov. 26:3, Sal. 32:9). Tales no deben ser unidas en yugo en
-el servicio cristiano o (por supuesto) en el matrimonio. La vestidura
-puede ser un símbolo de nuestra salvación (Isaías 61:10, Mateo 22:12,
-Apocalipsis 3:4, Apocalipsis 16:15, Zacarías 3:4); la cual no debe ser
-mezclada con las obras humanas.
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjURnnKm_dRrcPFrYIaHy2uS54Al7Pa17IA7CpEDg6H_W3UFPN4eYn69Vc8pc6uJr2qSizJv4RHsbNNDyrtJgyJxsET_aUCQZGYURon9tskxITmilq0XDpzvix-JFQgxVZ65ahh7QpG-uw/s320/circle4.png)
 
-**
-
-**
-
-**
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjURnnKm_dRrcPFrYIaHy2uS54Al7Pa17IA7CpEDg6H_W3UFPN4eYn69Vc8pc6uJr2qSizJv4RHsbNNDyrtJgyJxsET_aUCQZGYURon9tskxITmilq0XDpzvix-JFQgxVZ65ahh7QpG-uw/s320/circle4.png)](https://www.blogger.com/null)
-
-04. Intraterrestres
-**
+## 04. Intraterrestres
 
 **[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-4-intraterrestres)**
 
-**
 Una categoría de leyendas antiguas que merece una mirada especial a la luz de
 la Biblia es el concepto de civilizaciones que existen debajo de la tierra.
 Como veremos, esto está muy ligado a los OVNIs. Por supuesto, la Biblia habla
@@ -1535,23 +1332,20 @@ de Abraham" y los malvados iban al infierno (Lucas 16). ¿Dónde está el
 infierno? Recordemos la profecía concerniente a la muerte de Jesús citada en
 Hechos 2:27 y 31:
 
->
-"Porque no dejarás mi alma en el Hades, ni permitirás que tu Santo vea
-corrupción." - Hechos 2:27**
+> "Porque no dejarás mi alma en el Hades, ni permitirás que tu Santo vea
+> corrupción." - Hechos 2:27
 
->
-**"Viendo esto antes, habló de la resurrección de Cristo, que su alma no
-fue dejada en el Hades, ni su carne vio corrupción." - Hechos 2:31**
+> "Viendo esto antes, habló de la resurrección de Cristo, que su alma no
+> fue dejada en el Hades, ni su carne vio corrupción." - Hechos 2:31
 
-**
 ¿Adónde fue Jesús cuando murió? Simplemente, su alma se fue al infierno
 (Hades). ¿Y dónde dice Jesús que está el infierno? Él debería saberlo.
 
-*“Porque como estuvo Jonás en el vientre del gran pez tres días y tres
-noches, así estará el Hijo del Hombre en el corazón de la tierra tres
-días y tres noches.”*
-
-- Salmos 82:6-7
+> *“Porque como estuvo Jonás en el vientre del gran pez tres días y tres
+> noches, así estará el Hijo del Hombre en el corazón de la tierra tres
+> días y tres noches.”*
+>
+> — Salmos 82:6-7
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLKpMm1rJhdGzCYRpmOmHvKFrFHeMGzDYspsiTBcvgQYObDJPOB7PxDWblm2YnTHad7JamRmFqb8bi4nH-HFsY35_5nGl-P-V6OqVsqpQ8ewqJ-9pAZ5Ob7zOHqzXaHvSBWI-Btw9_Zs/s1600/jesus-infierno.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLKpMm1rJhdGzCYRpmOmHvKFrFHeMGzDYspsiTBcvgQYObDJPOB7PxDWblm2YnTHad7JamRmFqb8bi4nH-HFsY35_5nGl-P-V6OqVsqpQ8ewqJ-9pAZ5Ob7zOHqzXaHvSBWI-Btw9_Zs/s1600/jesus-infierno.jpg)
 
@@ -1562,28 +1356,24 @@ Eso está bastante claro. El infierno está en el corazón de la tierra. A esto
 hay que añadir el testimonio del profeta Jonás (ya que el Señor lo
 mencionó):
 
->
-"Y dijo: "Invoqué en mi angustia a Jehová, y él me oyó; desde el seno del
-Seol clamé, y mi voz oíste." Me echaste a lo profundo, en medio de los
-mares, y me rodeó la corriente; todas tus ondas y tus olas pasaron sobre
-mí. Entonces dije: desechado soy de delante de tus ojos; mas aún veré tu
-santo templo. Las aguas me rodearon hasta el alma, ****rodeóme el abismo; el alga se enredó a mi cabeza. Descendí a los
-cimientos de los montes; la tierra echó sus cerrojos sobre mí para
-siempre; mas tú sacaste mi vida de la sepultura, oh Jehová Dios
-mío." ****- Jonás. 2:2-6**
+> "Y dijo: "Invoqué en mi angustia a Jehová, y él me oyó; desde el seno del
+> Seol clamé, y mi voz oíste." Me echaste a lo profundo, en medio de los
+> mares, y me rodeó la corriente; todas tus ondas y tus olas pasaron sobre
+> mí. Entonces dije: desechado soy de delante de tus ojos; mas aún veré tu
+> santo templo. Las aguas me rodearon hasta el alma, rodeóme el abismo; el alga se enredó a mi cabeza. Descendí a los
+> cimientos de los montes; la tierra echó sus cerrojos sobre mí para
+> siempre; mas tú sacaste mi vida de la sepultura, oh Jehová Dios
+> mío." - Jonás. 2:2-6
 
-**
 Jonás, como uno de los más grandes hombres de Jesús, bajó al "infierno" y lo
 identificó como un infierno bajo los cimientos de los montes. Por supuesto,
 también está este famoso pasaje de Pablo:
 
->
-"Por esto dice: «Subiendo a lo alto, llevó consigo a los cautivos, y**** dio dones a los hombres.» Y al decir «subiendo», ¿qué quiere decir,
-sino que también primero había descendido a lo más profundo de la tierra?
-El que descendió, es el mismo que también ascendió por encima de todos los
-cielos, para llenarlo todo."****- Efesios 4:8-10**
+> "Por esto dice: «Subiendo a lo alto, llevó consigo a los cautivos, y dio dones a los hombres.» Y al decir «subiendo», ¿qué quiere decir,
+> sino que también primero había descendido a lo más profundo de la tierra?
+> El que descendió, es el mismo que también ascendió por encima de todos los
+> cielos, para llenarlo todo."- Efesios 4:8-10
 
-**
 Ahora bien, o bien puedes espiritualizar estos pasajes, o puedes admitir que
 hay un lugar literal llamado infierno en el "corazón de la tierra". ¿Esto
 encaja científicamente? Los geólogos especulan que el núcleo de la tierra está
@@ -1664,19 +1454,19 @@ sido empleados por elementos de alto secreto en nuestro gobierno y han
 trabajado y vivido en enormes complejos subterráneos en el suroeste de
 EE.UU. Estas enormes cavernas son del tamaño de pequeñas ciudades, y
 albergan a cientos de personas, y proyectos tecnológicos "negros" ultra
-secretos que superan las expectativas actuales de cualquiera.(1)** El
+secretos que superan las expectativas actuales de cualquiera.(1) El
 célebre "Area 51" y el "Groom Lake" (Dreamland) son sólo los ejemplos más
-conocidos.**
+conocidos.
 
 Estas tecnologías incluyen aviones que pueden viajar muchas veces más rápido
 que cualquier nave humana conocida; armas basadas en haces de partículas y
 otros haces de alta energía; y los llamados “subterrenos”, máquinas que
 pueden viajar a través de la tierra y perforar túneles gigantescos a una
-velocidad de cinco millas por hora.(2)** Se dice que estos túneles se
+velocidad de cinco millas por hora.(2) Se dice que estos túneles se
 perforan con energía nuclear mediante el recalentamiento de la roca. El
 resultado es que la tierra y la roca subterráneas se funden en un túnel
 perfecto, cilíndrico de unos 10-15 pies de diámetro en la misma forma de la
-máquina, muy perfecto.**
+máquina, muy perfecto.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsyP1BDzY-aE71MKx-m0P3kjGayuXCzmn7JNgLjswHQeNdLVHE8yilMZMXOzMBBTLeON_kRtkY7RtRtlAWChuZlcReTGqLbMSDZ1VuBLamIFd-04ntQgZr4wBFylqwhKCi3SeLluxUTeA/s1600/dumbs-maquina.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsyP1BDzY-aE71MKx-m0P3kjGayuXCzmn7JNgLjswHQeNdLVHE8yilMZMXOzMBBTLeON_kRtkY7RtRtlAWChuZlcReTGqLbMSDZ1VuBLamIFd-04ntQgZr4wBFylqwhKCi3SeLluxUTeA/s1600/dumbs-maquina.jpg)
 
@@ -1686,10 +1476,10 @@ en Little Skull Mountain, Nevada, EE.UU. Diciembre de 1982.
 La mayoría de estas personas reportan que trabajan en los niveles
 superiores, pero varias "historias" ocurridas a cientos de metros bajo
 tierra, ocasionalmente mencionan encuentros con algún tipo de reptiloides
-humanoides u otros extraterrestres. (3)** Estas criaturas parecen estar
+humanoides u otros extraterrestres. (3) Estas criaturas parecen estar
 trabajando con el gobierno. Más adelante discutiremos la "taxonomía" de
 estos supuestos alienígenas. Basta decir que parecen estar ocurriendo cosas
-extrañas bajo la tierra, tanto aquí como más allá.**
+extrañas bajo la tierra, tanto aquí como más allá.
 
 ### Algunas referencias en la Biblia
 
@@ -1699,71 +1489,44 @@ entrañas de la tierra (Apocalipsis 9:2-11), no habla de civilizaciones
 subterráneas con tantas palabras. Hay un par de versos, sin embargo, que son
 sugerentes. Uno de ellos está en el padre nuestro:
 
->
-"Venga a nosotros tu reino. Hágase tu voluntad en la tierra, como en el
-cielo."**  **- Mateo 6:10**
+> "Venga a nosotros tu reino. Hágase tu voluntad en la tierra, como en el
+> cielo." - Mateo 6:10
 
-> **
-"Y les dijo: Cuando oréis, decid: Padre nuestro que estás en los
-cielos, santificado sea tu nombre. Venga tu reino. Hágase tu voluntad,
-como en el cielo, así también en la tierra." - Lucas 11:2**
+> "Y les dijo: Cuando oréis, decid: Padre nuestro que estás en los
+> cielos, santificado sea tu nombre. Venga tu reino. Hágase tu voluntad,
+> como en el cielo, así también en la tierra." - Lucas 11:2
 
-**
 Miren este versículo:
 
->
-"Y el Señor dijo a Satanás: "¿De dónde vienes? Entonces Satanás
-respondió a Jehová, y dijo: De ir y venir por la tierra, y de andar
-arriba y abajo en ella."- Job 1:7**
+> "Y el Señor dijo a Satanás: "¿De dónde vienes? Entonces Satanás
+> respondió a Jehová, y dijo: De ir y venir por la tierra, y de andar
+> arriba y abajo en ella."- Job 1:7
 
-**
-En este y otros pasajes (4) **hay frases que podrían ser interpretadas
+En este y otros pasajes (4) hay frases que podrían ser interpretadas
 y significar que algo importante está sucediendo en la tierra. Admito que
 esto no es concluyente, pero es algo interesante en que uno puede orar al
-Espíritu Santo para obtener más información.**
+Espíritu Santo para obtener más información.
 
-¿No deseas leer?** Escucha el capítulo en formato audio:**
+**¿No deseas leer?** Escucha el capítulo en formato audio:
 
-[Escuchar capítulo en formato audio](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/664720739&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/664720739&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Referencias:**
+### Referencias
 
-**
-**
+1. Peter S. Ruckman, PhD., *Black is Beautiful* Bible Believers Press, 1995.
+2. Estas máquinas tuneladoras fueron patentadas en la década de 1970
+   (Patentes de Estados Unidos # 3.693.731).  Véase también un
+   artículo en la revista OMNI, Septiembre de 1983, pág. 80
+3. Richard Sauder, PhD., *Bases Subterráneas y Túneles: ¿Qué está tratando
+   de ocultar el gobierno?*
+4. PD.  46: 10, Job 38: 33, Salmos 16: 3 - Habla de los santos en la
+   tierra, por lo tanto, obviamente no se trata del infierno.
 
-*
-Peter S. Ruckman, PhD., *Black is Beautiful* Bible Believers Press,
-1995.
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGrQpLYY5HyKiyjvO4mTzj4QbUUvaLCI_bqFwWM33DUd1ebMdUR9Pq5M6uVQpIx3RSDJkvSHLonLH0pzWqL9FOfFqt-e7ngxjpxhGpafasiwBTunUMFyQQ56WAreC4WjNX2Ag0Cewkkw/s1600/circle5.png)
 
-*
-Estas máquinas tuneladoras fueron patentadas en la década de 1970
-(Patentes de Estados Unidos # 3.693.731).  Véase también un
-artículo en la revista OMNI, Septiembre de 1983, pág. 80
+## 05. Magia Negra y Ocultismo
 
-*
-Richard Sauder, PhD., *Bases Subterráneas y Túneles: ¿Qué está tratando
-de ocultar el gobierno?
-*
-
-*
-PD.  46: 10, Job 38: 33, Salmos 16: 3 - Habla de los santos en la
-tierra, por lo tanto, obviamente no se trata del infierno.
-
-**
-
-**
-
-**
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGrQpLYY5HyKiyjvO4mTzj4QbUUvaLCI_bqFwWM33DUd1ebMdUR9Pq5M6uVQpIx3RSDJkvSHLonLH0pzWqL9FOfFqt-e7ngxjpxhGpafasiwBTunUMFyQQ56WAreC4WjNX2Ag0Cewkkw/s1600/circle5.png)](https://www.blogger.com/null)
-
-05. Magia Negra y Ocultismo
-**
-
-**
-[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-5-magia-negra-y-ocultismo)**
-
-**
+**[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-5-magia-negra-y-ocultismo)**
 
 Entrando a fines del siglo XIX y principios del siglo XX, comenzamos a
 ver cómo esta malvada red está siendo tejida por el padre de las
@@ -1803,8 +1566,6 @@ que supuestamente vuela alrededor para secuestrar personas. Esto fue
 en los días en que pocos o ninguno hablaban de la idea de la vida en
 otros planetas.
 
-[![]()](https://www.blogger.com/blogger.g?blogID=1271892087174763558)
-
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFIihBt2f0mMd1qk1uc02b0uI7JxtC00zeiQolez51Jwedh20LYEVsVpCCPCh5beg3SNx4zNLQJpPcfl1XXuAMiKy8Xf36G2pFaoHIyKmA3Ta6yY1UHhS7xLhTkJ0q1OndoNGrlMK7_ic/s1600/crowley-lam.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFIihBt2f0mMd1qk1uc02b0uI7JxtC00zeiQolez51Jwedh20LYEVsVpCCPCh5beg3SNx4zNLQJpPcfl1XXuAMiKy8Xf36G2pFaoHIyKmA3Ta6yY1UHhS7xLhTkJ0q1OndoNGrlMK7_ic/s1600/crowley-lam.jpg)
 
 A la derecha, Aleyster Crowley, a la izquierda su dibujo de
@@ -1816,10 +1577,8 @@ Eón" que derrocaría al judeocristianismo. No es sorprendente que
 odiara a judíos y cristianos con igual vigor. Cuando Hitler subió al
 poder, Crowley afirmó alegremente que Adolf era una manifestación de
 su nueva corriente de magia Aeon. Hitler era el "señor guerrero de
-los años cuarenta" (1) **profetizado en el
+los años cuarenta" (1) profetizado en el
 *Libro de la Ley*.
-
-**
 
 Volveremos a los nazis en un momento, pero hay una persona más que
 necesitamos introducir en la mezcla de alienígenas y magia negra del
@@ -1860,14 +1619,12 @@ soltero y vivió la mayor parte de su vida en reclusión o con tías
 solteras. Afortunadamente, todo el mestizaje y el horror tienen lugar
 "fuera de la pantalla". Estos dioses alienígenas, llamados los "dioses
 mayores" reciben nombres como Yog Sothoth, Nyarlathotep y Cthulhu;
-(2) **y con frecuencia desean engendrar descendencia demoníaca de mujeres,
+(2) y con frecuencia desean engendrar descendencia demoníaca de mujeres,
 como en *El horror de Dunwich* y
 *La sombra sobre Innsmouth*.  Estos seres (que generalmente
 se representan como grandes masas de ojos y tentáculos sin forma)
 parecen considerar a los humanos en las historias de la misma manera
 que podríamos considerar a una granja de hormigas.
-
-**
 
 Singularmente ausente de las historias de Lovecraft está el sentido de
 un Dios que puede intervenir en estas monstruosas acciones. El poder
@@ -1878,18 +1635,16 @@ interesante, a la luz de la fuerte asociación de los OVNIs con las
 civilizaciones oceánicas y subterráneas.
 
 Varios autores, especialmente el experto Crowleiano de alto nivel
-Kenneth Grant, (3)** han notado que si Lovecraft no practicaba
+Kenneth Grant, (3) han notado que si Lovecraft no practicaba
 magia negra de alto nivel, ciertamente sabía y entendía una increíble
 cantidad de lo que estaba sucediendo en los reinos oscuros. Se dice
 que gran parte de lo que se describe sutilmente en los libros de HPL
 se practica abiertamente en muchas personas desprevenidas. Era una
 especie de profeta oscuro o precursor de los esquemas blasfemos de
 Satanás. Muchos magos negros contemporáneos, incluido el fallecido
-Anton LaVey, **(4)** fundador de la Iglesia de Satán,** (5) **han tomado a Lovecraft muy en serio; e incluso han trabajado rituales
-mágicos basados ​​en sus libros. Lo hicimos nosotros mismos, cuando
+Anton LaVey, (4) fundador de la Iglesia de Satán, (5) han tomado a Lovecraft muy en serio; e incluso han trabajado rituales
+mágicos basados en sus libros. Lo hicimos nosotros mismos, cuando
 éramos satanistas.
-
-**
 
 ### El Nazismo ocultista
 
@@ -1908,10 +1663,8 @@ razas Lemuria y Atlante fueron los gérmenes de la ideología de la
 "raza maestra aria" de Hitler. Él creía que los judíos eran
 especialmente parte de una raza anterior y estaban retrasando la
 evolución de la humanidad. Por lo tanto, tuvieron que ser eliminados,
-junto con los africanos. (6)** Afortunadamente para este
+junto con los africanos. (6) Afortunadamente para este
 último grupo, no había muchos africanos en Alemania.
-
-**
 
 Donde todo esto encaja con los OVNIs es a través de la doctrina oculta
 / germánica de la Ultima Thule. Esta no era la ciudad de Groenlandia,
@@ -1940,14 +1693,12 @@ superficie, totalmente opuestos a los que viven en la superficie.
 
 Estas entidades tenían tecnología sobrenatural y la capacidad de
 viajar en el espacio y en el tiempo. Su nave era impulsada por una
-misteriosa fuerza mágica llamada "Vril". (7) **Ya sea a través de
+misteriosa fuerza mágica llamada "Vril". (7) Ya sea a través de
 mediums (canalización) o debido a un OVNI estrellado en suelo alemán,
 los científicos del Tercer Reich parecen haber adquirido conocimiento
 de la base de poder sobrenatural de estas extrañas naves espaciales.
 Himmler, uno de los hombres y mano derecha de Hitler, parece haber
 estado a cargo de los proyectos de platillo voladores.
-
-**
 
 Ahora, no estoy diciendo que la tierra sea realmente hueca. Solo es
 importante que comprenda que esta es la doctrina que Hitler y sus
@@ -1999,71 +1750,42 @@ de la Antártida. Desafortunadamente para los ciudadanos
 estadounidenses, ese no es el final de la historia de la participación
 del Tercer Reich con la situación OVNI.
 
-¿No deseas leer?** Escucha el capítulo en formato audio:**
+**¿No deseas leer?** Escucha el capítulo en formato audio:
 
-[Escuchar capítulo en formato audio](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/705495574&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/705495574&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Referencias:**
+### Referencias
 
-**
-**
+1. *El Libro de la Ley* (Liber Al Vel Legis), 3: 46; publicado por
+   Thelema Publishing Co., Kings Beach, CA, 1909.
+2. El maestro ocultista, Kenneth Grant, en su libro
+   *The Magical Revival*, documenta la similitud entre muchas de
+   las deidades de Lovecraft y los nombres auténticos de dioses
+   antiguos y malvados.
+3. Kenneth Grant, *El renacimiento mágico*, Weiser, 1972
+4. Anton Szandor LaVey, *Los rituales satánicos*, Avon Books, 1972.
+5. Se dice que LaVey murió en 1997, pero tenemos bastante evidencia (de
+   su hijo, Anthony, a quién conocemos personalmente y que es un
+   cristiano nacido de nuevo) de que todavía está vivo. La Iglesia de
+   Satanás ahora está dirigida por Blanche Barton y Peggy Nadrimia.
+   Contrariamente a la creencia popular, Zeena LaVey, una de las hijas
+   de Anton, no dirige la iglesia.
+6. Esto es muy similar a lo que algunos New Agers están enseñando
+   ahora: que judíos y cristianos están retrasando la transformación de
+   la tierra a una Nueva Era. Deben arrepentirse o seguir el programa o
+   ser (de alguna manera) eliminados.
+7. Vril es similar a la idea de prana o energía bio-electromagnética,
+   solo de alguna manera tecnológicamente amplificada. Esto encaja de
+   una manera extraña con las enseñanzas comunes entre los teóricos de
+   los ovnis de que los platillos son alimentados por campos de energía
+   electromagnética o campos gravitacionales, que viajan a lo largo de
+   las líneas de campo magnético de la tierra.
 
-*
-*El Libro de la Le*y (Liber Al Vel Legis), 3: 46; publicado por
-Thelema Publishing Co., Kings Beach, CA, 1909.
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9JiKCiVNMpSKKdSNOyO7IdxqqVzDrFeDfgwgfMWY2wCE3F_ck6C-1BSUCrW6BLzCsIcTbWwhx9LG0IiGRf5y-s92gfQfI56ltPm13L6rTu_SSdgs9Xue4lAOoCslo0dUPqrRKp9k5HbE/s320/circle6.png)
 
-*
-El maestro ocultista, Kenneth Grant, en su libro
-*The Magical Revival*, documenta la similitud entre muchas de
-las deidades de Lovecraft y los nombres auténticos de dioses
-antiguos y malvados.
-
-*
-Kenneth Grant, *El renacimiento mágico*, Weiser, 1972
-
-*
-Anton Szandor LaVey, *Los rituales satánicos*, Avon Books,
-1972.
-
-*
-Se dice que LaVey murió en 1997, pero tenemos bastante evidencia (de
-su hijo, Anthony, a quién conocemos personalmente y que es un
-cristiano nacido de nuevo) de que todavía está vivo. La Iglesia de
-Satanás ahora está dirigida por Blanche Barton y Peggy Nadrimia.
-Contrariamente a la creencia popular, Zeena LaVey, una de las hijas
-de Anton, no dirige la iglesia.
-
-*
-Esto es muy similar a lo que algunos New Agers están enseñando
-ahora: que judíos y cristianos están retrasando la transformación de
-la tierra a una Nueva Era. Deben arrepentirse o seguir el programa o
-ser (de alguna manera) eliminados.
-
-*
-Vril es similar a la idea de prana o energía bio-electromagnética,
-solo de alguna manera tecnológicamente amplificada. Esto encaja de
-una manera extraña con las enseñanzas comunes entre los teóricos de
-los ovnis de que los platillos son alimentados por campos de energía
-electromagnética o campos gravitacionales, que viajan a lo largo de
-las líneas de campo magnético de la tierra.
-
-**
-
-**
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9JiKCiVNMpSKKdSNOyO7IdxqqVzDrFeDfgwgfMWY2wCE3F_ck6C-1BSUCrW6BLzCsIcTbWwhx9LG0IiGRf5y-s92gfQfI56ltPm13L6rTu_SSdgs9Xue4lAOoCslo0dUPqrRKp9k5HbE/s320/circle6.png)](https://www.blogger.com/null)
-
-**
-06. Operaciones secretas
-**
-
-**
-**
+## 06. Operaciones secretas
 
 **[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-6-operaciones-secretas)**
-
-**
-**
 
 Ya hemos discutido el controvertido accidente cerca de Roswell, NM,
 que tuvo lugar un par de años después del final de la Segunda Guerra
@@ -2072,7 +1794,7 @@ Mundial (y casualmente, ¡el año de la muerte de Aleister Crowley,
 genuino se estrelló con pequeños hombres grises y que el gobierno lo
 está encubriendo. Para ser honesto, los hechos parecen confirmar
 esto.  Sin embargo, es posible que nunca sepamos con certeza este
-lado de la eternidad.**
+lado de la eternidad.
 
 ### Roswell y el suroeste de America
 
@@ -2088,9 +1810,9 @@ Las áreas clave que a menudo se mencionan como puertas de entrada a
 estos misteriosos reinos subterráneos son las montañas Panamint cerca
 del Valle de la Muerte, la meseta Archeluta, las montañas Tehachapi y
 la región de las "Cuatro Esquinas" cerca de Dulce, Nuevo
-México. (1) **Leyendas de los nativos americanos hablan
+México. (1) Leyendas de los nativos americanos hablan
 de pueblos antiguos en “botes voladores” llamados Hav-musuvs que
-vivieron en el área de Panamint hace cientos de años.**
+vivieron en el área de Panamint hace cientos de años.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDvlVwkO9nbPtOjRe84beY5PZ2b_YLM5QXTV1jfNwMy7VEla7_ticE1uw_bj_n9VdWeTZT2kGCm5zELbE_HLrLJ6Fl3HeC080lt8ngUqNcmnTrFzqJe9nPdENROMCWIlSNW0QFb2MDTQY/s1600/valle-muerte.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDvlVwkO9nbPtOjRe84beY5PZ2b_YLM5QXTV1jfNwMy7VEla7_ticE1uw_bj_n9VdWeTZT2kGCm5zELbE_HLrLJ6Fl3HeC080lt8ngUqNcmnTrFzqJe9nPdENROMCWIlSNW0QFb2MDTQY/s1600/valle-muerte.jpg)
 
@@ -2124,7 +1846,7 @@ de estas naves que se estrelló en Roswell. Es esto lo que sucedió en
 Roswell que es tan desalentador, tanto para los aficionados a los
 ovnis como para los cristianos que estudian la profecía bíblica.
 
-Según relatos de testigos presenciales, (2) **una nave de origen
+Según relatos de testigos presenciales, (2) una nave de origen
 completamente desconocido se estrelló cerca de Roswell.  Los
 diferentes informes indican que algo interfirió con su sistema de
 propulsión a través del radar de alta frecuencia o que fue alcanzado
@@ -2133,10 +1855,7 @@ primer oficial de inteligencia y el ejército en la escena, confirmó
 que tenía una escritura desconocida, casi jeroglífica en algunos de
 los fragmentos de los restos, y que tenía una sustancia metálica
 similar a una lámina que se comportó casi como el mercurio, pero que
-era de metal sólido. ** (3)****
-
-**
-**
+era de metal sólido. (3)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg79o3h451X9Acg_-OhzwlVHLxa-sQwrW1JZ7sCBKV35B5sm8rCuaHHRBWpfigTUXC5Yeazorf8CUXoqKWQ28hfdiOE-Ma1SVFdCDxetxYElAgHUUyk66WajzZExj-cxJ4oOgdTq71JluA/s1600/rosswel.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg79o3h451X9Acg_-OhzwlVHLxa-sQwrW1JZ7sCBKV35B5sm8rCuaHHRBWpfigTUXC5Yeazorf8CUXoqKWQ28hfdiOE-Ma1SVFdCDxetxYElAgHUUyk66WajzZExj-cxJ4oOgdTq71JluA/s1600/rosswel.jpg)
 
@@ -2144,14 +1863,12 @@ Una fotografía de Jesse Marcel, el jefe de inteligencia que
 inicialmente investigó y recuperó algunos de los escombros
 del sitio de Roswell.
 
-**
-
 Otros testigos informan que cuerpos del tipo de personas pequeñas con
 cabezas muy grandes y enormes ojos negros y almendrados fueron
 llevados fuera del lugar del accidente.  Estas criaturas eran de
 color verde grisáceo y olían repulsivas, casi sulfurosas.  Al
 menos un ser estaba vivo y supuestamente vivió durante años "en
-cautiverio" antes de morir.**
+cautiverio" antes de morir.
 
 Después del comunicado de prensa inicial del Ejército que declaró que
 se había capturado un "disco volador", se cerró una tapa de
@@ -2166,14 +1883,14 @@ Este comité fue formado por el general George C. Marshall en julio de
 fueron seleccionados originalmente para sentarse en él.  El
 nombre en clave era MAJI, "La Agencia Majestic para la Inteligencia
 Conjunta". Los doce originales incluían al Dr. Vannevar Bush, James
-Forrestal y el Dr. Donald Menzel.  (4) **La mayoría del
+Forrestal y el Dr. Donald Menzel.  (4) La mayoría del
 comité decidió que los ciudadanos estadounidenses aún no estaban
 listos para saber que algún tipo de nave alienígena se había
 estrellado en nuestro territorio;  y (peor aún) que parecía tener
 tecnología mucho más allá de cualquier cosa en nuestros sueños más
 salvajes. El comité supuestamente temía que se produjera pánico
 mundial (como el susto de la "Guerra de los Mundos" de Orson
-Wells).**
+Wells).
 
 Por lo tanto, se estableció una política de desinformación;  y se
 hizo todo lo posible para ridiculizar o explicar todos los
@@ -2196,8 +1913,8 @@ en el hospital naval Bethesda por una "crisis nerviosa" sin el
 consentimiento de su familia. Cuando su familia intentó liberarlo, fue
 "suicidado" (su hermano, Henry, lo llamó asesinato) al colocarle el
 cordón de su bata de baño alrededor del cuello y tirarlo por una
-ventana de 16 pisos. (5)** Pudo haber sido la primera víctima de
-MJ-12. Habría muchos más.**
+ventana de 16 pisos. (5) Pudo haber sido la primera víctima de
+MJ-12. Habría muchos más.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlmcUExgTSwXg23lvwsu9bc2uyAMgWlShWPG5aruoNRM8r_J0QeSqif0uxwZRJdlvEYbEBwQcJKWeZR6mQq5goF1T_ogkfjvCpHBz9TS6GSLlCtszNzRxEWvH2q6svYPJHfDJegLq144k/s1600/james.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlmcUExgTSwXg23lvwsu9bc2uyAMgWlShWPG5aruoNRM8r_J0QeSqif0uxwZRJdlvEYbEBwQcJKWeZR6mQq5goF1T_ogkfjvCpHBz9TS6GSLlCtszNzRxEWvH2q6svYPJHfDJegLq144k/s1600/james.jpg)
 
@@ -2212,8 +1929,8 @@ de Guerra había logrado sacar a muchos de los principales científicos
 nazis de Alemania antes de que se cerrara el nudo de los juicios de
 Nuremberg.  Esto se llamaba "Operation Paperclip". Estos hombres
 incluían a algunos científicos excelentes como Werner Von Braun, pero
-también a monstruos como el Dr. Josef Mengele (6)** y muchos
-otros en el medio.**
+también a monstruos como el Dr. Josef Mengele (6) y muchos
+otros en el medio.
 
 De algunos de estos científicos, MJ-12 aprendió sobre el trabajo nazi
 con tecnología de platillo de "ingeniería inversa" (es decir,
@@ -2238,14 +1955,9 @@ pilotos.  Esto continuó a través de la tragedia de Mantell
 y en la década de 1950. Finalmente, durante la administración
 Eisenhower;  se produjo un evento innovador y peligroso.
 
-### 07. Tipos de Extraterrestres
-**
+## 07. Tipos de Extraterrestres
 
-**
-
-[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-7-tipos-de-extraterrestres)**
-
-**
+**[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-7-tipos-de-extraterrestres)**
 
 Debido a estos tratados ultra secretos, los científicos y técnicos
 estadounidenses comenzaron a ingresar a estas bases subterráneas
@@ -2256,40 +1968,30 @@ de la Fuerza Aérea Nellis, también conocido como "Dreamland".  A
 pesar de que los satélites espías soviéticos han tomado fotos de un
 enorme complejo en el desierto de Nevada con lo que parece ser la pista
 de aterrizaje más larga del mundo, la Fuerza Aérea oficialmente niega
-que el Área 51 incluso exista. (1)**
+que el Área 51 incluso exista. (1)
 
-**
-**
+### Testimonios coincidentes
 
-Testimonios coincidentes
-
-**
 Los turistas y entusiastas de los ovnis viajan allí para acercarse lo
 más posible al sitio. Casi todas las noches pueden ser
-recompensados
-
-​​
-
-con algún tipo de avión que hace cosas increíbles en el cielo
+recompensados con algún tipo de avión que hace cosas increíbles en el cielo
 nocturno.  A menudo, los agentes de seguridad privados los
 “ahuyentan” de lo que se supone que es tierra pública en vehículos de
 cuatro ruedas motrices empleados por el Wackenhut
-SS. (2)** A veces son amenazados con fuerza letal.
-**
+SS. (2) A veces son amenazados con fuerza letal.
 
 Un investigador cristiano, Norio Hayakawa y un equipo de la red de
-televisión japonesa (3)** fueron molestados por estas
+televisión japonesa (3) fueron molestados por estas
 personas de seguridad (conocidos como los "tipos de camuflaje" por
 algunos porque llevan vestimenta de camuflaje sin marcar).  Fueron
 amenazados a punta de pistola en una carretera pública y fueron
 señalados por un helicóptero negro mientras viajaban.
 
-**
 Hablando de carreteras, es escalofriante notar que otro lugar asociado
 con el Área 51 es Dulce, NM. Este pequeño pueblo (alrededor de 500
 personas) está ubicado en la reserva indígena Jicarilla-Apache en el
 norte del condado de Río Arriba, cerca del área de las "Cuatro
-esquinas". (4)** Hay laboratorios especiales de
+esquinas". (4) Hay laboratorios especiales de
 ingeniería genética allí y muchos informes afirman que está "por debajo
 del suelo". Siendo un punto de entrada para uno de los DUMB más grandes.
 Está aproximadamente a 95 millas al noroeste de Los Alamos y 100 millas
@@ -2300,7 +2002,6 @@ El área cubierta por la carretera 666 tiene una concentración mucho más
 pesada de lo normal de avistamientos de ovnis y mutilaciones de ganado.
 ¿Fue esto una coincidencia?
 
-**
 Los vuelos de prueba de aviones estadounidenses con ingeniería ovni
 comenzaron a fines de la década de 1950 en el Área 51; Los primeros
 frutos fueron el avión espía U-2. Hoy en día, las naves supuestamente
@@ -2316,8 +2017,7 @@ película Jurassic Park. ¡Uno se pregunta si quizás Steven Spielberg o
 George Lucas han tenido acceso a estas cosas! Los informes enumeran tres
 tipos principales de "extraterrestres":
 
-###
-Los Grises
+### Los Grises
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzE5525uewmtBsAulwrkdgWVnS8wOxiv_NwhO3jogaG0E_HfO__kkS9JoAOTIjaSZfQjl1nXyRhtrtAeFTDRvQCdSAVryDrYQVYUlVdVhRKvDLamrd8P8xYpLqnd3mfjUMnbIVQAzKRa8/d/gray.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzE5525uewmtBsAulwrkdgWVnS8wOxiv_NwhO3jogaG0E_HfO__kkS9JoAOTIjaSZfQjl1nXyRhtrtAeFTDRvQCdSAVryDrYQVYUlVdVhRKvDLamrd8P8xYpLqnd3mfjUMnbIVQAzKRa8/s485/gray.jpg)
 
@@ -2412,7 +2112,7 @@ En la pared del fondo de la habitación, presumiblemente en su
 "platillo", vio un mapa de un sistema estelar. Bajo hipnosis, ella fue
 capaz de dibujar este mapa con bastante
 precisión.
-(5) **
+(5)
 No parecía significar nada en ese
 momento. Sin embargo, en los últimos años, con el advenimiento de los
 gráficos por computadora avanzados que se utilizan en astronomía; Se
@@ -2422,28 +2122,24 @@ no desde la Tierra. Solo con un modelado avanzado por computadora podría
 ser posible tal hazaña;  y tales computadoras ni siquiera existían
 a principios de la década de 1960.
 
-**
 En los años transcurridos desde 1961, varias otras personas comenzaron
 a presentarse, alegando haber sido secuestradas; pero todo fue
 considerado extraño e increíble por el público. Fueron relegados a los
 remansos de las publicaciones marginales de
-ovnis. (6)** Sin embargo, las cosas comenzaron a cambiar
+ovnis. (6) Sin embargo, las cosas comenzaron a cambiar
 con el lanzamiento de la película
 *Encuentros Cercanos del Tercer Tipo*. Esto agregó una especie de
 legitimidad de "gran presupuesto" a la idea de los ovnis sin abordar la
 parte de secuestro extraterrestre. Los alienígenas fueron retratados
 como extraños pero benevolentes.
 
-**
 Luego, en 1987, se publicó un libro que descubrió todo el fenómeno del
 secuestro. Se llamaba *Comunión* y fue escrito por el conocido
-escritor de terror Whitley Strieber. (7)** El libro se
+escritor de terror Whitley Strieber. (7) El libro se
 convirtió en un éxito de ventas internacional, y Strieber se vio
 inundado de miles de cartas que decían "¡yo también!"  Innumerables
 personas en todo el país le decían que ellos también habían
 experimentado el mismo tipo de secuestro.
-
-**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTuTN-dvQDUzPJvOLYB4RqjGbqcceaZanuPVbYqqmRo-x_DTAP-jWJATwLlM0B9JSWAcTjzoDIt2W_zXApVbZnAIcsax5ZzPYagk3423U42J6ajRLZLAIuYL9gTn8ziz_W6nuZd77yrfE/s16000/communion.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTuTN-dvQDUzPJvOLYB4RqjGbqcceaZanuPVbYqqmRo-x_DTAP-jWJATwLlM0B9JSWAcTjzoDIt2W_zXApVbZnAIcsax5ZzPYagk3423U42J6ajRLZLAIuYL9gTn8ziz_W6nuZd77yrfE/s590/communion.jpg)
 
@@ -2451,100 +2147,55 @@ El Libro Comunión tuvo su adaptación al cine en 1989 con
 Christopher Walken.
 
 Strieber, evidentemente un New Ager y un estudiante de Ouspensky,
-escribió varias secuelas (8)**, relatando su "crecimiento" a
+escribió varias secuelas (8), relatando su "crecimiento" a
 través de estos eventos. Adquirió muchos seguidores y sacó el fenómeno
 de los secuestros "del armario". Gradualmente, a lo largo de los años,
 un patrón en estos secuestros a medida que se informan nos ha permitido
 elaborar un perfil de lo que parece suceder:
 
-**
-
-*
-
-Las personas son abordadas por un ovni (o entidades ovni),
-generalmente en un entorno aislado, un automóvil en la carretera;
-casas de campo solitarias, en el bosque, pero ocasionalmente incluso
-en sus habitaciones, etc.
-
-*
-
-De alguna manera se tranquilizan, se vuelven sumisas y se las
-llevan a bordo de una nave extraña, a menudo con algún tipo de haz
-de levitación.
-
-*
-
-Los habitantes de la nave, que con frecuencia se describen en
-términos idénticos (los Grises), los tratan como animales de
-laboratorio.
-
-*
-
-Con mayor frecuencia, se extrae sangre, semen, óvulos y otros
-fluidos corporales con dispositivos tecnológicos extraños y
-procedimientos invasivos aterradores.
-
-*
-
-A menudo hay un interés excesivo por parte de la "tripulación" del
-sistema reproductivo de la persona, especialmente si la persona es
-mujer.
-
-*
-
-Las personas a menudo informan que están "almacenadas" en algún
-lugar de la nave en compartimientos extraños, similares a colmenas,
-cuando no son examinadas, y que hay otros humanos almacenados de
-manera similar a bordo de la nave.
-
-*
-
-La tripulación se comunica con la persona a través de algo más
-parecido a la telepatía que cualquier otra cosa.
-
-*
-
-A menudo, se colocan dispositivos pequeños (implantes) dentro del
-cuerpo de una persona; las orejas o las fosas nasales son el lugar
-más común.
-
-*
-
-Por lo general, la prueba parece indefinida en tiempo para la
-persona;  aunque en términos de tiempo real, puede haber tomado
-solo horas, un día o dos; Casi nunca más de una semana.
-
-*
-
-La tripulación suele abandonar a la persona en el lugar de su
-secuestro o cerca de este, con la memoria borrada.
-
-*
-
-La persona puede no tener ningún conocimiento consciente de este
-evento hasta muchos meses o años después, cuando comienzan a surgir
-cicatrices extrañas, inexplicables, recuerdos, pesadillas,
-etc.
-
-*
-
-Algunas mujeres que son presuntas abducidas reportan embarazos
-"histéricos", en los cuales muestran todos los signos y síntomas de
-estar con un bebé; solo para que sus síntomas (¿y el niño?)
-desaparezcan misteriosamente de la noche a la mañana.
-
-*
-
-Otras mujeres han llevado a término a sus hijos, y luego encuentran
-al niño supuestamente "nacido muerto" y llevado por el personal
-médico.
-
-*
-
-Ninguna de estas mujeres tenía conocimiento consciente de quién
-podía ser el padre. Algunos incluso se creían vírgenes.
-
-*
+- Las personas son abordadas por un ovni (o entidades ovni),
+  generalmente en un entorno aislado, un automóvil en la carretera;
+  casas de campo solitarias, en el bosque, pero ocasionalmente incluso
+  en sus habitaciones, etc.
+- De alguna manera se tranquilizan, se vuelven sumisas y se las
+  llevan a bordo de una nave extraña, a menudo con algún tipo de haz
+  de levitación.
+- Los habitantes de la nave, que con frecuencia se describen en
+  términos idénticos (los Grises), los tratan como animales de
+  laboratorio.
+- Con mayor frecuencia, se extrae sangre, semen, óvulos y otros
+  fluidos corporales con dispositivos tecnológicos extraños y
+  procedimientos invasivos aterradores.
+- A menudo hay un interés excesivo por parte de la "tripulación" del
+  sistema reproductivo de la persona, especialmente si la persona es
+  mujer.
+- Las personas a menudo informan que están "almacenadas" en algún
+  lugar de la nave en compartimientos extraños, similares a colmenas,
+  cuando no son examinadas, y que hay otros humanos almacenados de
+  manera similar a bordo de la nave.
+- La tripulación se comunica con la persona a través de algo más
+  parecido a la telepatía que cualquier otra cosa.
+- A menudo, se colocan dispositivos pequeños (implantes) dentro del
+  cuerpo de una persona; las orejas o las fosas nasales son el lugar
+  más común.
+- Por lo general, la prueba parece indefinida en tiempo para la
+  persona;  aunque en términos de tiempo real, puede haber tomado
+  solo horas, un día o dos; Casi nunca más de una semana.
+- La tripulación suele abandonar a la persona en el lugar de su
+  secuestro o cerca de este, con la memoria borrada.
+- La persona puede no tener ningún conocimiento consciente de este
+  evento hasta muchos meses o años después, cuando comienzan a surgir
+  cicatrices extrañas, inexplicables, recuerdos, pesadillas,
+  etc.
+- Algunas mujeres que son presuntas abducidas reportan embarazos
+  "histéricos", en los cuales muestran todos los signos y síntomas de
+  estar con un bebé; solo para que sus síntomas (¿y el niño?)
+  desaparezcan misteriosamente de la noche a la mañana.
+- Otras mujeres han llevado a término a sus hijos, y luego encuentran
+  al niño supuestamente "nacido muerto" y llevado por el personal
+  médico.
+- Ninguna de estas mujeres tenía conocimiento consciente de quién
+  podía ser el padre. Algunos incluso se creían vírgenes.
 
 Una vez que estas personas presentaron sus historias, a menudo se
 vieron seguidas por los temidos "Hombres de Negro" en los Cadillacs
@@ -2563,67 +2214,42 @@ nada.
 Como veremos, esta epidemia de secuestro es una parte clave de los planes
 de Satanás para el futuro.
 
-¿No deseas leer?** Escucha el capítulo en formato audio:
+**¿No deseas leer?** Escucha el capítulo en formato audio:
 
-**
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/946182226&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-[Escuchar capítulo en formato audio](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/946182226&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true)
+### Referencias
 
-Referencias:**
+1. Para obtener más información sobre esto, hay un boletín de un
+   residente de Nevada llamado Glen Campbell (no el cantante)
+   disponible sobre la controversia en curso que rodea el Área 51. Se
+   llama "La rata del desierto" y está disponible por correo para una
+   suscripción del Área 51 Centro de investigación PO Box 448, Rachel,
+   NV 89001 o en línea en http://www.ufomind.com/area51/desertrat.
+2. Wackenhut SS es la abreviatura de Wackenhut Security Systems.
+3. Hayakawa ha realizado una excelente investigación en estas áreas y
+   ha producido videos impresionantes. Estos se pueden obtener de él en
+   P.O. Box 599, Gardena, CA 90248; 310-784-7705.
+4. Four Corners es el área única donde cuatro estados se unen con
+   esquinas cuadradas, Arizona, Nuevo México, Colorado y Utah.
+5. Por supuesto, no estamos realmente entusiasmados con la idea de
+   utilizar la hipnosis por ningún motivo.
+6. En particular, el trabajo de Budd Hopkins y sus libros,
+   *Intrusos* y *Tiempo Perdido*; Ballentine Books, 1987 y
+   1981 y Raymond Fowler, The Andreasson Affair, 1979.
+7. *Communion*, Avon Books, 1987. Antes de convertirse en un
+   "gurú" de secuestro, Strieber se había distinguido principalmente
+   por escribir novelas de terror como *The Wolfen* (sobre lobos
+   inteligentes que se aprovechan de los neoyorquinos) y
+   *The Hunger* sobre los vampiros modernos.
+8. En particular, *Transformation* (1988) y
+   *Breakthrough* (1995).
 
-**
-**
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwb8WGGM93OOg2anIuGAS3c3vnTO7nvo2GAYivcuVcVhv86uc5ppjT0EphbN4X2SAZgPckI1hVekag6sDdy9xS0FuwBYHm9sqKTfI1PtQES1Bpa1E-HWcC21GcIj5y7Xott4Rci4xd6j8/s1600/circle8.png)
 
-*
-Para obtener más información sobre esto, hay un boletín de un
-residente de Nevada llamado Glen Campbell (no el cantante)
-disponible sobre la controversia en curso que rodea el Área 51. Se
-llama "La rata del desierto" y está disponible por correo para una
-suscripción del Área 51 Centro de investigación PO Box 448, Rachel,
-NV 89001 o en línea en http://www.ufomind.com/area51/desertrat.
-
-*
-Wackenhut SS es la abreviatura de Wackenhut Security Systems.
-
-*
-Hayakawa ha realizado una excelente investigación en estas áreas y
-ha producido videos impresionantes. Estos se pueden obtener de él en
-P.O. Box 599, Gardena, CA 90248; 310-784-7705.
-
-*
-Four Corners es el área única donde cuatro estados se unen con
-esquinas cuadradas, Arizona, Nuevo México, Colorado y Utah.
-
-*
-Por supuesto, no estamos realmente entusiasmados con la idea de
-utilizar la hipnosis por ningún motivo.
-
-*
-En particular, el trabajo de Budd Hopkins y sus libros,
-*Intrusos* y* Tiempo Perdido*; Ballentine Books, 1987 y
-1981 y Raymond Fowler, The Andreasson Affair, 1979.
-
-*
-*Communion*, Avon Books, 1987. Antes de convertirse en un
-"gurú" de secuestro, Strieber se había distinguido principalmente
-por escribir novelas de terror como *The Wolfen *(sobre lobos
-inteligentes que se aprovechan de los neoyorquinos) y
-*The Hunger* sobre los vampiros modernos.
-
-*
-En particular, *Transformation* (1988) y
-*Breakthrough *(1995).
-
-**
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwb8WGGM93OOg2anIuGAS3c3vnTO7nvo2GAYivcuVcVhv86uc5ppjT0EphbN4X2SAZgPckI1hVekag6sDdy9xS0FuwBYHm9sqKTfI1PtQES1Bpa1E-HWcC21GcIj5y7Xott4Rci4xd6j8/s1600/circle8.png)](https://www.blogger.com/null)
-
-08. Abducciones vs SRA
-**
+## 08. Abducciones vs SRA
 
 **[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-8-abducciones-vs-sra)**
-
-**
 
 La extraña y peligrosa alianza entre el lado oscuro del gobierno de
 los Estados Unidos (MJ-12, la Agencia de Seguridad Nacional, etc.) y
@@ -2688,8 +2314,7 @@ los Grises (y sus amos reptiles [como serpientes]) y los casi
 angelicales nórdicos. Casi suena como un extraño giro de ciencia
 ficción en el Libro de las Revelaciones, ¿no es así?
 
-###
-Los Marcianos Han Aterrizado y Podríamos Ser Nosotros
+### Los Marcianos Han Aterrizado y Podríamos Ser Nosotros
 
 Muchas personas, con testimonios difíciles de desechar, informan
 haber sido llevadas en naves espaciales evidentemente de diseño
@@ -2700,33 +2325,30 @@ típico. Muchos de ellos afirman haber sido utilizados (contra su
 voluntad) como mano de obra esclava en estos campos de trabajo
 extraterrestre. Contamos con el testimonio de un oficial de las
 fuerzas armadas que recuperó recuerdos de “servir” en
-Marte en diversas capacidades. (3)**
+Marte en diversas capacidades. (3)
 
 Existen fotografías de lo que parecen ser estructuras
 extraordinarias hechas por el hombre (al menos inteligentemente) en
 la Luna y Marte. Bien conocida es el "rostro" de una milla cuadrada,
 parecida a una esfinge en las llanuras de Cydonia de Marte.
-**(4)** Menos conocida es la perfecta forma de triángulo (o
+(4) Menos conocida es la perfecta forma de triángulo (o
 estructura / vehículo) en la luna que apareció en una foto del
 Observatorio Lick de la región Sinus Medii de la luna Y una
 estructura similar a un “raspador del cielo” de 1/5 de milla de
 altura apodada “The Shard”, ubicada justo al suroeste del triángulo
 mencionado anteriormente. Este último objeto fue fotografiado por la
 sonda Lunar Orbiter III en 1967 (¡2 años antes de que Armstrong
-caminara sobre la luna!). **(5)** Aún más asombroso es un cubo de
+caminara sobre la luna!). (5) Aún más asombroso es un cubo de
 7 millas de alto y una milla de ancho que parece estar hecho de un
-vidrio como sustancia en la luna.** (6)**
+vidrio como sustancia en la luna. (6)
 
 Luego está la fotografía de “El castillo” en la luna tomada del
 Apolo 10 en 1969. Según el experto Richard Hoagland:
 
->
-*"Parece ser un objeto fabricado, altamente geométrico,
-incrustado en un marco similar a una cuadrícula (restos de una
-antigua cúpula lunar) que se estima se extiende aproximadamente
-30 millas sobre la superficie lunar."
-*
-**(7)**
+> *"Parece ser un objeto fabricado, altamente geométrico,
+> incrustado en un marco similar a una cuadrícula (restos de una
+> antigua cúpula lunar) que se estima se extiende aproximadamente
+> 30 millas sobre la superficie lunar."* (7)
 
 Por supuesto, la luna tiene poca gravedad, pero hablar de una
 estructura de siete o treinta millas de altura es hablar de una
@@ -2736,8 +2358,8 @@ espaciales años antes de que el Apolo 11 aterrizara en la luna? La
 mayoría de los informes indican que estos campos de trabajo esclavo
 en la Luna y Marte estaban siendo operados antes del programa
 espacial, tanto de la (ex) URSS como de Norteamérica.
-**(8) **Personalmente, se me ha mostrado evidencia bastante
-convincente de que tales bases están en la Luna. **(9)**
+(8) Personalmente, se me ha mostrado evidencia bastante
+convincente de que tales bases están en la Luna. (9)
 
 !El dinero que podría obtenerse de tales empresas sería (perdón por
 el juego de palabras) astronómico! Empequeñecería las cantidades
@@ -2757,13 +2379,7 @@ porque casi ninguna de la investigación y el desarrollo
 supuestamente necesarios se realizó en realidad. Ya sabíamos cómo
 llevar a un hombre a la luna veinticinco años antes.
 
-**
-
-###
-El Fenómeno de la Abducción: ¿Uno de los
-Ú
-ltimos
-Trabajos de Satanás?
+### El Fenómeno de la Abducción: ¿Uno de los Últimos Trabajos de Satanás?
 
 Más allá del dinero, es una pregunta natural preguntarse: “¿Por qué
 está pasando todo esto? ¿Cuál es el fin deseado de todos estos
@@ -2784,7 +2400,7 @@ Antes de examinar esas preguntas, veamos algunos paralelos
 asombrosos. Nuestro ministerio, *With One Accord*, durante
 algunos años ha estado involucrado (entre otras cosas) trabajando
 con sobrevivientes del satanismo y el abuso ritual satánico
-(SRA) (10).** Hemos ministrado a cientos de tales
+(SRA) (10). Hemos ministrado a cientos de tales
 sobrevivientes. Luego, solo en los últimos diez años más o menos,
 comenzamos a recibir llamadas de algunos cristianos que estaban
 pasando por (o al menos creían que estaban pasando) la terrible
@@ -2793,57 +2409,28 @@ atención entonces, como ahora, que existen similitudes
 significativas entre el fenómeno SRA y lo que informan las víctimas
 de secuestros de ovnis:
 
-*
-
-Ambas víctimas suelen tener algún “problema” en su vida con
-pesadillas, ansiedades ocultas, fobias, desórdenes alimenticios,
-disfunción sexual, etc., lo que las lleva a un pastor o
-consejero.
-
-*
-
-Ambos supuestamente han “enterrado” recuerdos de horribles
-invasiones cosas que se les están haciendo y que sólo pueden
-descubrirse mediante la hipnosis o una terapia laboriosa.
-
-*
-
-A menudo, ambos no pueden tener relaciones satisfactorias sin
-terapia, e incluso con terapia tienen un momento difícil.
-
-*
-
-Ambos alegan haber sido violados, operados, impregnados, etc.
-por personas malvadas (o "extraterrestres")
-
-*
-
-Ambos a menudo tienen cicatrices o marcas inexplicables en su
-cuerpo.
-
-*
-
-Ambos descubren ocasionalmente "implantes" colocados dentro de
-ellos.
-
-*
-
-Ambos informan a menudo que les han quitado niños (o fetos).
-
-*
-
-Ambos informan que les han extraído sangre y/o han sido
-obligados a beber sangre u otros fluidos corporales.
-
-*
-
-Ambos informan haber sido seguidos y/o acosados por hombres de
-poder e influencia vestidos con trajes negros
-
-*
-
-Ambos fenómenos más importantes parecen haber estado ocurriendo
-durante décadas (multigeneracionales).
+- Ambas víctimas suelen tener algún “problema” en su vida con
+  pesadillas, ansiedades ocultas, fobias, desórdenes alimenticios,
+  disfunción sexual, etc., lo que las lleva a un pastor o
+  consejero.
+- Ambos supuestamente han “enterrado” recuerdos de horribles
+  invasiones cosas que se les están haciendo y que sólo pueden
+  descubrirse mediante la hipnosis o una terapia laboriosa.
+- A menudo, ambos no pueden tener relaciones satisfactorias sin
+  terapia, e incluso con terapia tienen un momento difícil.
+- Ambos alegan haber sido violados, operados, impregnados, etc.
+  por personas malvadas (o "extraterrestres")
+- Ambos a menudo tienen cicatrices o marcas inexplicables en su
+  cuerpo.
+- Ambos descubren ocasionalmente "implantes" colocados dentro de
+  ellos.
+- Ambos informan a menudo que les han quitado niños (o fetos).
+- Ambos informan que les han extraído sangre y/o han sido
+  obligados a beber sangre u otros fluidos corporales.
+- Ambos informan haber sido seguidos y/o acosados por hombres de
+  poder e influencia vestidos con trajes negros
+- Ambos fenómenos más importantes parecen haber estado ocurriendo
+  durante décadas (multigeneracionales).
 
 Por supuesto, además, ambos grupos de víctimas han tenido que sufrir
 años de ser ridiculizados por la comunidad psiquiátrica, la
@@ -2924,14 +2511,14 @@ Estas personas llegan a amar e incluso a disfrutar de su contacto
 con los "hermanos del espacio". El mencionado Dr. John Mack, un
 psiquiatra de Harvard que ha estudiado a muchas de estas personas,
 informa haber visto que esto sucedía una y otra vez.
-**(11)** Estas personas con frecuencia han llegado a amar
+(11) Estas personas con frecuencia han llegado a amar
 servilmente y casi adorar a estos extraños "hombrecitos" que han
 acudido a ellos, los secuestraron y clavaron instrumentos duros y fríos en
 las partes más sensibles de su anatomía.
 
 Más significativamente, informa que, “un número creciente” de estas
 personas se sienten como si tuvieran una identidad dual.
-**(12)** Sin usar realmente la palabra, se sienten “poseídos” por
+(12) Sin usar realmente la palabra, se sienten “poseídos” por
 una inteligencia alienígena que es muy sabia. Les gusta esta
 identidad dual e incluso se sienten "especiales" o "elegidos".
 
@@ -2948,19 +2535,11 @@ sido documentado en muchos lugares por escritores cristianos, está
 mucho más cerca de la Nueva Era que de la verdad bíblica. Con
 frecuencia implica:
 
-*
-
-Desmoralizar a los cristianos.
-
-*
-
-Torturar a adultos y niños, haciéndoles más difícil confiar en
-un Dios amoroso.
-
-*
-
-Demonizar a tanta gente como sea posible y predicar un evangelio
-falso a través de ellos.
+- Desmoralizar a los cristianos.
+- Torturar a adultos y niños, haciéndoles más difícil confiar en
+  un Dios amoroso.
+- Demonizar a tanta gente como sea posible y predicar un evangelio
+  falso a través de ellos.
 
 Si él realmente cree o no que estas personas que secuestra o los
 niños que tienen son "a prueba de evangelismo" es una incógnita. Sin
@@ -2972,173 +2551,108 @@ este se viene abajo.
 
 **¿No deseas leer?** Escucha el capítulo en formato audio:
 
-[Escuchar capítulo en formato audio](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1062038647&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1062038647&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-**Referencias:**
+### Referencias
 
-**
-**
+1. El término "presupuestos negros" no es, por supuesto, un término
+   racial. Más bien se refiere a elementos que se consideran
+   demasiado secretos para exponerlos a la supervisión del Congreso.
+   La CIA, la NSA, etc. siempre han tenido la capacidad de hacer esto
+   en sus solicitudes de presupuesto, pero en los últimos 20 años más
+   o menos, el Congreso se ha puesto nervioso al respecto, como bien
+   deberían.
+2. Este es otro de esos fragmentos de historia “controvertidos” que
+   los militares y los medios establecidos niegan por completo. Una
+   vez más, se ha dejado en manos de investigadores como Charles
+   Berlitz (mencionado anteriormente como coautor de uno de los
+   libros sobre Roswell) intentar indagar en busca de la verdad.
+   Puede no haber sucedido nunca, pero ciertamente hay mucha
+   evidencia circunstancial que indica que sí ocurrió.
+3. Consulte *The Mars Records*, disponible en CD-ROM en
+   www.metatech.org.
+4. Vea *Los monumentos de Marte* de Richard Hoagland.
+5. Ver la revista Omni, diciembre de 1994, p. 78 para las fotos y el
+   artículo adjunto. Para no sonar demasiado conspirativo, pero es
+   interesante que justo después de este número, Omni comenzó una
+   serie sobre abducciones extraterrestres y también su "Proyecto
+   Libro Abierto", e intenta entrenar a sus lectores para que sean
+   buenos rastreadores de ovnis civiles. Luego, después de dos meses,
+   la revista dejó de publicarse misteriosamente.
+6. Ibid, p. 80.
+7. Ibid, p. 100.
+8. Esta idea fue popularizada por una controvertida película,
+   Alternative 3, emitida por Anglia Television del Reino Unido el
+   20 de junio de 1977. Afirmaba probar que la URSS y los Estados
+   Unidos habían estado combinando fuerzas para crear colonias en
+   Marte como una "alternativa" a el medio ambiente en rápido
+   declive en la tierra. Posteriormente, se afirmó que el programa
+   era un engaño, pero muchos fanáticos de la conspiración afirman
+   que tiene más que granos de verdad. Consulte el sitio web
+   http://ufos.about.com/library/weekly/aa050399.htm para obtener
+   más información.
+9. Esta evidencia me la mostró un ex agente de inteligencia del
+   gobierno de los Estados Unidos que había conseguido "nacer de
+   nuevo" y había dejado el servicio. Consistía en fotografías de
+   bases lunares realizadas años antes de que las imágenes
+   digitales pudieran crear maquetas tan inteligentes. Por
+   supuesto, no estoy 100% seguro de que fueran genuinos, pero la
+   fuente era muy creíble y no tenía motivos para mentir.
+10. Para una explicación completa de la SRA y el satanismo, vea
+   *Lucifer Destronado*
+   y *Sangre en los Postes de las Puertas* por William y
+   Sharon Schnoebelen, disponible en nuestro ministerio.
+11. Mack, *Secuestro*, op.cit.
+12. Ibid, p. 209.
 
-*
-El término "presupuestos negros" no es, por supuesto, un término
-racial. Más bien se refiere a elementos que se consideran
-demasiado secretos para exponerlos a la supervisión del Congreso.
-La CIA, la NSA, etc. siempre han tenido la capacidad de hacer esto
-en sus solicitudes de presupuesto, pero en los últimos 20 años más
-o menos, el Congreso se ha puesto nervioso al respecto, como bien
-deberían.
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcmBte2q-k8E0LqeEqwpZqAi8Q6KpRoyY3RYD_pgUlCA4R9UKTl4RBn8No5mg8ZRc4mbmyZkpZX_miH3cEiRwwvMoiH941UE5we5h8JPTboMz6dvTSpUxWcEJHKyiOp-yFTSHkYXTkTLk/s1600/circle9.png)
 
-*
-Este es otro de esos fragmentos de historia “controvertidos” que
-los militares y los medios establecidos niegan por completo. Una
-vez más, se ha dejado en manos de investigadores como Charles
-Berlitz (mencionado anteriormente como coautor de uno de los
-libros sobre Roswell) intentar indagar en busca de la verdad.
-Puede no haber sucedido nunca, pero ciertamente hay mucha
-evidencia circunstancial que indica que sí ocurrió.
-
-*
-Consulte *The Mars Records*, disponible en CD-ROM en
-www.metatech.org.
-
-*
-Vea *Los monumentos de Marte *de Richard Hoagland.
-
-*
-Ver la revista Omni, diciembre de 1994, p. 78 para las fotos y el
-artículo adjunto. Para no sonar demasiado conspirativo, pero es
-interesante que justo después de este número, Omni comenzó una
-serie sobre abducciones extraterrestres y también su "Proyecto
-Libro Abierto", e intenta entrenar a sus lectores para que sean
-buenos rastreadores de ovnis civiles. Luego, después de dos meses,
-la revista dejó de publicarse misteriosamente.
-
-*
-
-Ibid, p. 80.
-
-*
-
-Ibid, p. 100.
-
-*
-
-Esta idea fue popularizada por una controvertida película,
-Alternative 3, emitida por Anglia Television del Reino Unido el
-20 de junio de 1977. Afirmaba probar que la URSS y los Estados
-Unidos habían estado combinando fuerzas para crear colonias en
-Marte como una "alternativa" a el medio ambiente en rápido
-declive en la tierra. Posteriormente, se afirmó que el programa
-era un engaño, pero muchos fanáticos de la conspiración afirman
-que tiene más que granos de verdad. Consulte el sitio web
-http://ufos.about.com/library/weekly/aa050399.htm para obtener
-más información.
-
-*
-
-Esta evidencia me la mostró un ex agente de inteligencia del
-gobierno de los Estados Unidos que había conseguido "nacer de
-nuevo" y había dejado el servicio. Consistía en fotografías de
-bases lunares realizadas años antes de que las imágenes
-digitales pudieran crear maquetas tan inteligentes. Por
-supuesto, no estoy 100% seguro de que fueran genuinos, pero la
-fuente era muy creíble y no tenía motivos para mentir.
-
-*
-
-Para una explicación completa de la SRA y el satanismo, vea*
-Lucifer Destronado*
-y *Sangre en los Postes de las Puertas* por William y
-Sharon Schnoebelen, disponible en nuestro ministerio.
-
-*
-
-Mack, *Secuestro*, op.cit.
-
-*
-
-Ibid, p. 209.
-
-**
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcmBte2q-k8E0LqeEqwpZqAi8Q6KpRoyY3RYD_pgUlCA4R9UKTl4RBn8No5mg8ZRc4mbmyZkpZX_miH3cEiRwwvMoiH941UE5we5h8JPTboMz6dvTSpUxWcEJHKyiOp-yFTSHkYXTkTLk/s1600/circle9.png)](https://www.blogger.com/null)
-
-09. Evangelio de los Extraterrestres
-**
-
-**
-
-**
+## 09. Evangelio de los Extraterrestres
 
 **[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-9-evangelio-de-los-extraterrestres)**
-
-**
-**
-
-**
-**
 
 Ahora se deben establecer varias cosas desde el principio a modo de
 conclusión:
 
-**
-
-*
-La Biblia no aborda claramente el tema de la vida en otros planetas. Su
+- La Biblia no aborda claramente el tema de la vida en otros planetas. Su
 existencia no se confirma ni se niega, más allá del hecho obvio de que
 Dios y sus ángeles están allá arriba en el tercer cielo. Sin embargo, la
 discusión de la vida en otros mundos inicia las preguntas planteadas de
 manera ficticia por el escritor cristiano C.S. Lewis en su
 Trilogía *Perelandra*:
-• Si hay vida en otros mundos,
-¿esas personas se salvan o se pierden? En otras palabras, ¿el pecado de
+   - Si hay vida en otros mundos, ¿esas personas se salvan o se pierden? En otras palabras, ¿el pecado de
 Adán afectó solo a sus descendientes o profanó el universo entero?
-• O,
-¿cada mundo pasa por su propio ciclo de creación y prueba? ¿Hay un "Adán y
+   - O, ¿cada mundo pasa por su propio ciclo de creación y prueba? ¿Hay un "Adán y
 una Eva" en cada mundo que tiene vida inteligente?
-• Si se
-pierden otros mundos, ¿el sacrificio de “nuestro” Jesús redime también a
+   - Si se pierden otros mundos, ¿el sacrificio de “nuestro” Jesús redime también a
 las personas de esos mundos? La respuesta bíblica parecería ser sí. La
 sangre de Jesús es infinita y supremamente suficiente y puede salvar a
 cualquiera, de todos modos, en cualquier lugar; siempre que acudan a Él
 con fe sencilla.
-• Entonces, ¿se deduce que algún día debemos
-llevar el evangelio a otros mundos?
-
-*
-Debido a esta situación, no podemos decir con certeza si estos supuestos
+   - Entonces, ¿se deduce que algún día debemos llevar el evangelio a otros mundos?
+- Debido a esta situación, no podemos decir con certeza si estos supuestos
 extraterrestres son realmente de otros mundos; si lo son, no podemos decir
 de qué "lado" están, aparte de sus acciones. La mayoría de sus "frutos"
 indicaría que están trabajando para el diablo, vengan de donde vengan,
 porque:
-• Predican un evangelio falso (Gálatas 1: 8).
-• Trabajan
-enteramente en secreto, en contra de las políticas establecidas por el
+   - Predican un evangelio falso (Gálatas 1: 8).
+   - Trabajan enteramente en secreto, en contra de las políticas establecidas por el
 Señor y la iglesia primitiva (Juan 18:20)
-• Parecen estar haciendo
-cosas horribles a las personas en violación de sus derechos y dignidad
+   - Parecen estar haciendo cosas horribles a las personas en violación de sus derechos y dignidad
 como seres humanos; incluyendo violación, fecundación contra la voluntad
 de la madre, secuestro, mutilación e incluso asesinato y canibalismo.
-
-*
-La Biblia nos advierte que ciertas cosas que ocurrieron en los "días de
+- La Biblia nos advierte que ciertas cosas que ocurrieron en los "días de
 Noé" volverían a suceder en el momento justo antes del regreso de Jesús
 (Mateo 24:37); el jefe de estos parecería ser la impiedad y la fornicación
 entre ángeles caídos y mujeres (Génesis 6: 1-5).
-
-*
-La Biblia también nos advierte sobre la iniquidad espiritual creciente e
+- La Biblia también nos advierte sobre la iniquidad espiritual creciente e
 increíble, tanto entre los líderes como entre la gente común a medida que
 se acerca el día del Señor (Lucas 18: 8, 2 Tesalonicenses 2: 3,
 Apocalipsis 16:11).
-
-*
-Un pecado universal y muy grave en todas las dispensaciones es beber
+- Un pecado universal y muy grave en todas las dispensaciones es beber
 sangre literalmente (Génesis 9: 4, Levítico 3:17, 7:26, 17:14, Hechos
 15:29).
-
-*
-La Biblia identifica claramente al infierno como algo profundo en el
+- La Biblia identifica claramente al infierno como algo profundo en el
 "corazón de la tierra". (Mateo 12:40)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyIRZ9m1Icc5_aeQTPdjpOWMqZHso5UDKMWksktLzuya0cOMRhnHuK4galFmdALJuI7Vt5S4Fab22X7OOwvfthcVyfWJEAzlmYeknDNVto-Tiq3AHlQYELO0Dcpt551ikVq9USBssfu3E/s16000/dia-de-noe.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyIRZ9m1Icc5_aeQTPdjpOWMqZHso5UDKMWksktLzuya0cOMRhnHuK4galFmdALJuI7Vt5S4Fab22X7OOwvfthcVyfWJEAzlmYeknDNVto-Tiq3AHlQYELO0Dcpt551ikVq9USBssfu3E/s590/dia-de-noe.jpg)
@@ -3151,46 +2665,31 @@ protagonizado por "seres de otros mundos"?
 
 Desde ese comienzo, examinemos lo que tenemos ante nosotros:
 
-*
-Parece haber una historia continua a lo largo del tiempo de personas
+- Parece haber una historia continua a lo largo del tiempo de personas
 (en su mayoría niños) que fueron secuestradas por pequeños extraños
 seres y llevados, a menudo bajo tierra.
-
-*
-También ha habido una historia continua de aeronaves inexplicables en
+- También ha habido una historia continua de aeronaves inexplicables en
 los cielos.
-
-*
-Hay una gran cantidad de informes a lo largo de la historia de
+- Hay una gran cantidad de informes a lo largo de la historia de
 extrañas civilizaciones en las profundidades de la superficie, a
 menudo asociadas con naves voladoras y personas desaparecidas. Estas
 civilizaciones subterráneas aparecen en todos los continentes.
-
-*
-Ha habido una conexión frecuente entre estos seres, sus artilugios y
+- Ha habido una conexión frecuente entre estos seres, sus artilugios y
 fenómenos ocultos o practicantes de magia (Blavatsky, Crowley,
 Strieber, etc.)
-
-*
-Desde los albores de la era atómica (o un poco antes), hay un
+- Desde los albores de la era atómica (o un poco antes), hay un
 testimonio consistente de muchos testigos de una cooperación activa,
 en desarrollo pero totalmente encubierta entre ciertos elementos
 dentro de los gobiernos; muy especialmente en Estados Unidos, la ex
 Unión Soviética y el Tercer Reich; y los seres que pilotean estas
 extrañas naves.
-
-*
-A cambio de los avances tecnológicos, parece que a estos seres se les
+- A cambio de los avances tecnológicos, parece que a estos seres se les
 permite atacar a voluntad a los ciudadanos de esta nación; extraer
 sangre, semen, óvulos e incluso fetos; aparte de las mutilaciones de
 ganado;
-
-*
-Parece haber un intento concertado de cruzar seres humanos con estas
+- Parece haber un intento concertado de cruzar seres humanos con estas
 criaturas, por razones que no están claras.
-
-*
-Estas criaturas y / o sus naves también parecen estar consumiendo
+- Estas criaturas y / o sus naves también parecen estar consumiendo
 grandes cantidades de agua y energía eléctrica de nuestro planeta.
 
 Ahora, con base en la comprensión de este autor de la Biblia y años
@@ -3211,18 +2710,17 @@ Por real, debería
 explicarse que nos referimos a máquinas de “tuercas y tornillos”. No es
 que pueda haber muchos ovnis que son simplemente luces, formas de
 pensamiento, apariciones de demonios o incluso proyecciones
-holográficas. (1)** Sin embargo, parece que también estamos
-tratando a veces con máquinas reales de algún tipo.**
+holográficas. (1) Sin embargo, parece que también estamos
+tratando a veces con máquinas reales de algún tipo.
+
 En segundo
 lugar, es evidente que representan una tecnología de vuelo años, si no
 siglos, antes que la nuestra. Testimonios de personas que afirman haber
-trabajado en estas naves, como Bob Lazar, (2)** informan
+trabajado en estas naves, como Bob Lazar, (2) informan
 que han descubierto formas de utilizar el electromagnetismo y / o la
 gravedad como medio de viaje interplanetario. Obviamente, pueden volar en
 nuestra atmósfera a velocidades más rápidas que cualquier jet, y de alguna
 manera han descubierto cómo anular las fuerzas G.
-
-**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0LUiQYiMySJx2cRwlYZzavKJdKxtr0iIhjR3qgGwPTETAKp7xBmH7PpNyQtSJrAhgHAj7MiyDneI1EhwYh-q2qdOxQidTTwscE-ZMbHUNE76GLyGRi2mS4fM51StwRIv3u85SfUmPdsQ/s16000/ovni-fuerza-g.gif)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0LUiQYiMySJx2cRwlYZzavKJdKxtr0iIhjR3qgGwPTETAKp7xBmH7PpNyQtSJrAhgHAj7MiyDneI1EhwYh-q2qdOxQidTTwscE-ZMbHUNE76GLyGRi2mS4fM51StwRIv3u85SfUmPdsQ/s590/ovni-fuerza-g.gif)
 
@@ -3233,20 +2731,22 @@ En tercer lugar, ciertamente parece que hay algún tipo de encubrimiento
 gubernamental en funcionamiento; y que las tecnologías “negras” están
 disponibles para estos iniciados que están considerablemente por delante
 de lo que el público en general se da
-cuenta. (3) **Nosotros (y otros más calificados que
+cuenta. (3) Nosotros (y otros más calificados que
 nosotros) habíamos visto estas tecnologías, una década antes de que
 estuvieran disponibles para los medios de comunicación. Las computadoras
 miniaturizadas (más pequeñas que un paquete de cigarrillos) serían un
 ejemplo. Esto tendría sentido, dado el nivel de secretismo y paranoia
 típico de la Guerra Fría y los Estados Unidos posteriores a la Guerra
-Fría.**
+Fría.
+
 Cuarto (y corolario del tercer punto), bien puede ser que
 los representantes de los ciudadanos (presidente, congreso, etc.)
 desconozcan mucho de esto. El grupo MJ-12, la NSA y otras agencias
 ultrasecretas; además de la CIA, todos parecen funcionar de manera
 autónoma y han ideado formas de obtener sus presupuestos sin recurrir al
 Congreso. Estos incluirían el comercio ilegal de armas, las drogas
-ilegales (4)**.**
+ilegales (4).
+
 El establecimiento de inteligencia
 (NSA, CIA, Inteligencia del Ejército, Oficina de Inteligencia Naval, etc.)
 ha estado involucrado en la experimentación de magia negra durante años.
@@ -3262,7 +2762,7 @@ repetidamente de actos de abuso sexual infantil, pero mantuvo su
 autorización de seguridad súper alta. Por supuesto, los mormones han
 ganado influencia tanto dentro de la CIA como del FBI. Un número
 desmesurado de agentes en estas agencias vitales son mormones o
-masones. (5)****
+masones. (5)
 
 ### Acciones cristianas
 
@@ -3296,7 +2796,7 @@ identificaciones erróneas o engaños, especialmente en estos días de
 algo puede ganar dinero en varios programas de entrevistas. De manera
 similar, muchos de los informes de abducidos pueden atribuirse a
 "imitadores" o hipocondría, tal vez incluso al "síndrome de
-Munchausen". (6)****
+Munchausen". (6)
 Creo que algunos escritores
 cristianos están parcialmente en lo cierto al suponer que los OVNIs pueden
 ser imágenes holográficas proyectadas en el cielo por grupos secretos o
@@ -3362,22 +2862,18 @@ la verdad de Jesús en su contra y también para ayudar genuinamente a las
 personas que se encuentran víctimas de estos diabólicos dispositivos. Esto
 es lo que necesitamos saber y proclamar:
 
-*
-Jesús salva y no hay daño que el infierno pueda causar que el cielo
+- Jesús salva y no hay daño que el infierno pueda causar que el cielo
 no pueda curar. No necesitamos atarnos las manos, mover los pies en
 señal de disculpa y llevar a todos nuestros feligreses a psiquiatras o
 consejeros. La “cura del alma” es uno de los primeros oficios de un
-pastor después de predicar la Buena Nueva. (7)**
-
-* El diablo es real y poderoso. Él está dispuesto a robar, matar y
+pastor después de predicar la Buena Nueva. (7)
+- El diablo es real y poderoso. Él está dispuesto a robar, matar y
 destruir de cualquier forma que pueda.
 Es un mentiroso y hará todo lo posible para engañar a los perdidos y
 hacer que busquen su salvación en cualquier otro lugar, incluso
 enredarlos en las redes de la psicología. También hará todo lo posible
 para que se desesperen y renuncien a ser salvados de su condición.
-
-*
-Los ángeles son reales y poderosos. Tienen cuerpos glorificados de
+- Los ángeles son reales y poderosos. Tienen cuerpos glorificados de
 carne y hueso al igual que nosotros tendremos como santos resucitados
 de Dios. (1 Corintios 15:50, Efesios 6:12) Son espíritus, pero son
 espíritus con cuerpos y almas como nosotros. Sin embargo, existen en
@@ -3388,12 +2884,10 @@ nadie en la Biblia que sea "poseído por un ángel" o "poseído por un
 como nosotros para los insectos. Sin embargo, su poder no es nada
 comparado con el poder de Dios y ellos obtienen su poder únicamente de
 Dios y solo pueden usarlo como Él quiere.
-
-*
-Los ángeles elegidos son siervos del Dios viviente, no campanillas
+- Los ángeles elegidos son siervos del Dios viviente, no campanillas
 cósmicas. No son mujeres vaporosas con túnicas ceñidas con alas y
 aureolas; no parece haber ningún ángel "niña" mencionado en la Palabra
-de Dios. Tampoco son querubines rosados ​​regordetes con corazones y
+de Dios. Tampoco son querubines rosados regordetes con corazones y
 flores. En realidad, son seres que inspiran un pavor dominante y
 absoluto. Tienen un intelecto y un poder inimaginables —poder para
 matar a todo un ejército en un minuto— y, sin embargo, existen sólo
@@ -3404,9 +2898,7 @@ los ángeles se representan actualmente en los medios de comunicación y
 en la Nueva Era. Tales representaciones tienen sus raíces en el
 catolicismo y el zoroastrismo, por no hablar del ocultismo. Estas
 representaciones no son bíblicas.
-
-*
-Los ángeles caídos ahora están sirviendo al diablo. Son tan poderosos
+- Los ángeles caídos ahora están sirviendo al diablo. Son tan poderosos
 como los ángeles buenos y tienen todas las facultades intelectuales
 que posee un ángel bueno. Sin embargo, una vez que pecan y se rebelan
 contra Dios, se les quita todo su poder sobrenatural. Esto se debe a
@@ -3417,8 +2909,6 @@ en fealdad, porque se han separado de la fuente misma de todo lo bello
 y bueno. Sin embargo, al igual que su maestro, pueden "aparecer"
 brevemente como un ángel de luz para engañar y seducir.
 
-**
-
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLxmOcTEoqC1LcRocVt0lJRIb0oRAxIoNX5Uma_Tlsl4Rw8LitLNbJzMHCB_kB3nqSMCO-QtvKmtogPgqdUoYqXTFvp5uk7S6tbE5CEefOYY4rWIH03MTDoRzQ33RYLb1TmIdCF9z7tyg/s16000/seres-de-luz.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLxmOcTEoqC1LcRocVt0lJRIb0oRAxIoNX5Uma_Tlsl4Rw8LitLNbJzMHCB_kB3nqSMCO-QtvKmtogPgqdUoYqXTFvp5uk7S6tbE5CEefOYY4rWIH03MTDoRzQ33RYLb1TmIdCF9z7tyg/s590/seres-de-luz.jpg)
 
 Escena de la película *Presagio* (2009), donde extraterrestres
@@ -3428,14 +2918,12 @@ A partir de nuestras experiencias desde el interior del ocultismo y la
 comprensión posterior de la Biblia, se pueden destilar los siguientes
 hechos, aplicados al fenómeno OVNI:
 
-A) **Satanás seduce a estos ángeles caídos u otros seres
+A) Satanás seduce a estos ángeles caídos u otros seres
 celestiales y los obliga a fornicar con mujeres humanas. Sin embargo, es
 naturalmente imposible para los ángeles hacer esto en su estado "normal"
 (Mateo 22:30).
 
-**
-
-B)** Con el fin de satisfacer sus concupiscencias sobre las
+B) Con el fin de satisfacer sus concupiscencias sobre las
 mujeres, estos ángeles deben llenar sus cuerpos con lo único que falta:
 sangre humana. Por eso Dios ha prohibido universalmente beber sangre.
 Nuestra sangre parece llevar consigo la maldición de Adán. Hay
@@ -3444,24 +2932,18 @@ la sangre entrara en sus cuerpos, y con ella, la mortalidad. En ninguna
 parte la Biblia dice que las creaciones humanas de Dios tuvieran sangre
 antes de la caída.
 
-**
-
-C)** Cuando los ángeles caídos violan la ley de su Creador y
+C) Cuando los ángeles caídos violan la ley de su Creador y
 beben sangre humana (por escuchar el susurro de la serpiente) obtienen el
 poder de funcionar sexualmente y de engendrar hijos. También son
 despojados inmediatamente de su inmortalidad y su poder como ángeles. ¡Qué
 precio pagan para satisfacer su lujuria!
 
-**
-
-D) **Los hijos que engendran son de diversos grados de
+D) Los hijos que engendran son de diversos grados de
 extrañeza. A veces son monstruos, a veces gigantes. A veces son seres
 maravillosos que deslumbran a las personas que los rodean. Esto no es
 ninguna sorpresa. Todo está completamente establecido en Génesis 6.
 
-**
-
-E)** Estos seres caídos han perdido la capacidad de viajar por
+E) Estos seres caídos han perdido la capacidad de viajar por
 el universo a la velocidad del pensamiento, pero no han perdido su
 intelecto (aunque es una buena apuesta que sus mentes ahora están nubladas
 con pensamientos viles). Con el conocimiento a su disposición, construyen
@@ -3471,16 +2953,12 @@ que le hizo al mundo en los días de Noé. No creyeron en su promesa de que
 nunca más inundaría el mundo. ¿Qué mejor lugar para escapar de otra
 inundación mundial que la luna u otro planeta?
 
-**
-
-F) **Poco después del diluvio, estos seres comenzaron a
+F) Poco después del diluvio, estos seres comenzaron a
 construir sus reinos subterráneos. Sin embargo, parece haber un límite
 ordenado por Dios para sus tecnologías. Parece que no ha habido ningún
 desarrollo tecnológico en su nave espacial desde la década de 1940.
 
-**
-
-G) **A lo largo de los siglos, siempre han buscado personas
+G) A lo largo de los siglos, siempre han buscado personas
 malvadas para manipular. Estos ángeles caídos se convirtieron en el núcleo
 de la conspiración (Misterio de Babilonia) que ahora amenaza con abrumar
 al mundo en cumplimiento de la profecía bíblica. En este siglo, se
@@ -3490,14 +2968,10 @@ guerra, utilizaron a los científicos de "Paperclip" para infiltrarse en la
 inteligencia de los Estados Unidos y (aparentemente) captaron casi
 totalmente a la NSA, CIA (y por supuesto MJ-12).
 
-**
-
-H) **Cuanto más tiempo Dios les permite vivir, más profundamente
+H) Cuanto más tiempo Dios les permite vivir, más profundamente
 feos se vuelven, más monstruosos se vuelven sus descendientes. Esto se
 debe a que se han separado de Aquel que es la Belleza inimaginable y la
 Fuente de todo amor y vida.
-
-**
 
 Basado en esto, y las experiencias personales (que nunca deben tomarse
 como verdad a menos que se alineen con la Biblia), este escritor cree que
@@ -3533,11 +3007,9 @@ espiritual genuina. La Hermandad de Satanás durante siglos ha sido un
 maestro en establecer falsos "buenos" que parecen oponerse a los malos.
 Ésta es la vieja dialéctica hegeliana de tesis, antítesis y síntesis;
 mezclado con la *Ley de los Cinco* del Iluminista Adam
-Weishaupt. (8) **Estableces un conflicto, traes una
+Weishaupt. (8) Estableces un conflicto, traes una
 solución falsa al conflicto y luego, cuando todo el caos se calma, has
 consolidado más poder para ti.
-
-**
 
 Nuevamente, como se mencionó anteriormente, Satanás le enseña a su pueblo
 que los engendrados por estas horribles violaciones y secuestros no pueden
@@ -3545,116 +3017,75 @@ ser salvos. Sin embargo, si son humanos, ciertamente pueden hacerlo.
 Recuerda, ¡es un mentiroso! También enseña mediante sus pequeños sirvientes grises y serpenteantes que las víctimas de
 secuestro no pueden ser salvadas o liberadas. Otra mentira.
 
-¿No deseas leer?** Escucha el capítulo en formato audio:
+**¿No deseas leer?** Escucha el capítulo en formato audio:
 
-[Escuchar capítulo en formato audio](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1114572697&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1114572697&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-**
+### Referencias
 
-Referencias:**
+1. Norio Hayakawa, un experto cristiano en ovnis que se mencionó
+   anteriormente, analiza esta opción como una forma en que puede ir el
+   escenario de los últimos tiempos.
+2. Lazar es controvertido. Muchos piensan que es un fraude, pero afirma
+   haber trabajado en el Área 51 como ingeniero en platillos de “ingeniería
+   trasera”. Mucho de lo que dice tiene sentido, pero como casi todo en
+   este campo, debe tomarlo con varios granos de sal.
+3. Presentado en el libro de Texe Marrs, *Project L.U.C.I.D*.,
+   Living Truth Pub., Austin, TX, 1996, págs. 187-88. 61
+4. Curiosamente, varias fuentes con las que hemos contactado señalan que la
+   gente de las Wackenhut SS (responsable de la seguridad alrededor del
+   Área 51) está fuertemente entrelazada con el tráfico de drogas de la CIA
+   desde el "Triángulo Dorado" en Asia. Supuestamente, la mayor parte de
+   esto ha estado sucediendo al menos desde los días de la Guerra de
+   Vietnam.
+5. J. Edgar Hoover era un masón de 33 años; y debido a su profunda
+   influencia en la Oficina, durante años, incluso después de su muerte,
+   muchas personas de alto nivel del FBI también fueron masones de alto
+   nivel. Esta no es una situación saludable cuando uno comprende la
+   verdadera naturaleza de la masonería.
+6. El síndrome de Munchausen es un trastorno mental en el que las personas
+   imitan compulsivamente trastornos físicos o psicológicos genuinos, a
+   veces con gran complejidad y conocimiento de la enfermedad.
+7. Para obtener un plan de terapia de oración paso a paso sugerido para
+   pastores, trabajadores cristianos o guerreros de oración, lea *Sangre en los Postes de las Puertas* por William y Sharon Schnoebelen disponible en nuestro
+   ministerio.
+8. Ver *Masonería Más Allá de la Luz* del autor, (Chick
+   Publications, 1991) pp. 186-88 para una discusión más completa de esta
+   Ley.
 
-**
-**
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX0A9QCxtfzj4HkCk0S40QtrviSbW7koFmfSrgrgxplFT9VStHM2_8e37sMb_VEGBy98KdpAdWybMr5wu6nMaylSamcH40VLQs_Gx6dT5mIoBst_UM1j_ZSYQZgqe3me4sRZixWh3gNLY/d/circle10.png)
 
-*
-Norio Hayakawa, un experto cristiano en ovnis que se mencionó
-anteriormente, analiza esta opción como una forma en que puede ir el
-escenario de los últimos tiempos.
+## 10. Agenda Global
 
-*
-Lazar es controvertido. Muchos piensan que es un fraude, pero afirma
-haber trabajado en el Área 51 como ingeniero en platillos de “ingeniería
-trasera”. Mucho de lo que dice tiene sentido, pero como casi todo en
-este campo, debe tomarlo con varios granos de sal.
-
-*
-Presentado en el libro de Texe Marrs, *Project L.U.C.I.D*.,
-Living Truth Pub., Austin, TX, 1996, págs. 187-88. 61
-
-*
-Curiosamente, varias fuentes con las que hemos contactado señalan que la
-gente de las Wackenhut SS (responsable de la seguridad alrededor del
-Área 51) está fuertemente entrelazada con el tráfico de drogas de la CIA
-desde el "Triángulo Dorado" en Asia. Supuestamente, la mayor parte de
-esto ha estado sucediendo al menos desde los días de la Guerra de
-Vietnam.
-
-*
-J. Edgar Hoover era un masón de 33 años; y debido a su profunda
-influencia en la Oficina, durante años, incluso después de su muerte,
-muchas personas de alto nivel del FBI también fueron masones de alto
-nivel. Esta no es una situación saludable cuando uno comprende la
-verdadera naturaleza de la masonería.
-
-*
-El síndrome de Munchausen es un trastorno mental en el que las personas
-imitan compulsivamente trastornos físicos o psicológicos genuinos, a
-veces con gran complejidad y conocimiento de la enfermedad.
-
-*
-Para obtener un plan de terapia de oración paso a paso sugerido para
-pastores, trabajadores cristianos o guerreros de oración, lea *Sangre en los Postes de las Puertas* por William y Sharon Schnoebelen disponible en nuestro
-ministerio.
-
-*
-Ver *Masonería Más Allá de la Luz* del autor, (Chick
-Publications, 1991) pp. 186-88 para una discusión más completa de esta
-Ley.**
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX0A9QCxtfzj4HkCk0S40QtrviSbW7koFmfSrgrgxplFT9VStHM2_8e37sMb_VEGBy98KdpAdWybMr5wu6nMaylSamcH40VLQs_Gx6dT5mIoBst_UM1j_ZSYQZgqe3me4sRZixWh3gNLY/d/circle10.png)](https://www.blogger.com/null)
-
-10. Agenda Global
-**
-
-**
-
-[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-10-agenda-global)**
-
-**
+**[Escuchar capítulo en formato audio](https://soundcloud.com/jhon-kbn/son-los-extraterrestres-angeles-caidos-parte-10-agenda-global)**
 
 En 2020 el Departamento de Defensa Norteamericano publicó tres videos tomados por pilotos de la Marina de los EE. UU. Las desclasificaciones revelaban misteriosos objetos voladores que hasta el día de hoy permanecen sin identificar. Los objetos no identificados vuelan a altas velocidades en la atmósfera terrestre junto con el audio de los pilotos de la Marina expresando conmoción y asombro. Uno de los pilotos en uno de los videos exclama:
 
 > "Hay toda una flota de ellos ... Dios mío, todos van contra el viento, el viento es de 120 nudos hacia el oeste. ¡Mira esa cosa, amigo!"
-**
 
-La publicación de los videos por parte del Pentágono eliminó las especulaciones sobre si eran reales (ya se habían filtrado años antes) y como se imaginan, generó un cuestionamiento profundo sobre la existencia de vida extraterrestre y la interacción humana con ella. Pero más importante aún, al ser un material confirmado por el mismo Pentágono, causó que los medios masivos se interesaran completamente en la vida extraterrestre y su implicación que podría tener en la sociedad **(1)** ¿Fue esto una desclasificación planeada?
-
-**
+La publicación de los videos por parte del Pentágono eliminó las especulaciones sobre si eran reales (ya se habían filtrado años antes) y como se imaginan, generó un cuestionamiento profundo sobre la existencia de vida extraterrestre y la interacción humana con ella. Pero más importante aún, al ser un material confirmado por el mismo Pentágono, causó que los medios masivos se interesaran completamente en la vida extraterrestre y su implicación que podría tener en la sociedad (1) ¿Fue esto una desclasificación planeada?
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEhsMEdU0ywVh-0DtO8BvGSqE3ahAtbadEVGQB8gqKjvXaERjxetw58BEFJ0eMUd30n7CguS36e4nqBFeosPHEvjBhUi8wdiR8lOuZugS1fqX6wND9Pp6PS9wZ2ylq9FxLByKxDhF1UhR21v-PplJhOfKGBg0z19iZ-i8rOF8JlqQvI7Thj4FFSs3Tqm=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEhsMEdU0ywVh-0DtO8BvGSqE3ahAtbadEVGQB8gqKjvXaERjxetw58BEFJ0eMUd30n7CguS36e4nqBFeosPHEvjBhUi8wdiR8lOuZugS1fqX6wND9Pp6PS9wZ2ylq9FxLByKxDhF1UhR21v-PplJhOfKGBg0z19iZ-i8rOF8JlqQvI7Thj4FFSs3Tqm=s590)
 
 CNN sobre la confirmación de los videos. El titular menciona: "Piloto de la Armada sobre encuentro con OVNIs: No de este mundo".
 
-El gran objetivo
+### El gran objetivo
 
-En su libro, *Los peligros ocultos del arco iris*, la abogada y autora cristiana, Constance Cumbey cita a un autor de la Nueva Era, quien dice que "el Cristo no puede aparecer hasta que una proporción significativa de la población mundial esté precondicionada para aceptarlo". (2)**
-
-**
+En su libro, *Los peligros ocultos del arco iris*, la abogada y autora cristiana, Constance Cumbey cita a un autor de la Nueva Era, quien dice que "el Cristo no puede aparecer hasta que una proporción significativa de la población mundial esté precondicionada para aceptarlo". (2)
 
 Esta larga lista de películas, libros, grabaciones y desclasificaciones de pésima calidad constituye un importante "pre-condicionamiento" del público sobre los extraterrestres y los OVNIs. Según las últimas encuestas, incontables millones de personas promedio creen ahora que existen. La mayoría, sin embargo, todavía no sabe exactamente con que fin y cuándo llegarán a la Tierra.
 
 Es relevante detenernos en nuestro examen de este fenómeno por unos momentos mientras examinamos el tiempo en el que vivimos y el marco bíblico aplicable.
 
-**
-
+> **"Ahora, con respecto a la venida de nuestro Señor Jesucristo y nuestra reunión con él, les rogamos, hermanos, que no sean movidos fácilmente de su modo de pensar ni sean alarmados ni por espíritu ni por palabra ni por carta como si fuera nuestra, como que ya hubiera llegado el día del Señor. Nadie los engañe de ninguna manera; porque esto no sucederá sin que venga primero la apostasía y se manifieste el hombre de iniquidad, el hijo de perdición."**
 >
-**"Ahora, con respecto a la venida de nuestro Señor Jesucristo y nuestra reunión con él, les rogamos, hermanos, que no sean movidos fácilmente de su modo de pensar ni sean alarmados ni por espíritu ni por palabra ni por carta como si fuera nuestra, como que ya hubiera llegado el día del Señor. Nadie los engañe de ninguna manera; porque esto no sucederá sin que venga primero la apostasía y se manifieste el hombre de iniquidad, el hijo de perdición."**
-
-**- 2 Tesalonicenses 2:1-3**
-
-****
-
-**
+> — 2 Tesalonicenses 2:1-3
 
 Ya somos conscientes que estamos viviendo en los Últimos Días, el tiempo que verá la aparición del Anticristo, la Gran Tribulación y La Segunda Venida de Jesucristo. Y acabamos de leer que el sello distintivo del Fin de los Tiempos está profetizado como un engaño sin igual. El punto principal de este pasaje es que el resultado final de este engaño incomparable será la aparición del Anticristo. Este es el punto crítico: el resultado final planeado de este tremendo programa de engaño es la fe en el Anticristo. Examinemos ahora esta fenomenal acumulación de OVNIs y extraterrestres. Los extraterrestres se representan en películas, programas de televisión y novelas de ciencia ficción como:
 
-* Iguales a nosotros en muchos aspectos
-* Más inteligentes y más avanzados tecnológicamente
-* Seres amistosos capaces de vivir en paz, pudiendo así enseñarnos a los humanos a vivir en paz.
-
-**
-
-**
+- Iguales a nosotros en muchos aspectos
+- Más inteligentes y más avanzados tecnológicamente
+- Seres amistosos capaces de vivir en paz, pudiendo así enseñarnos a los humanos a vivir en paz.
 
 Todo se está haciendo a través de las generaciones actuales, y lo han hecho durante más de 60 años, desde los primeros films de Spielberg, como *E.T,* hasta la desclasificación del Pentágono (2020). Por lo tanto, la primera generación en estar tan condicionada ahora está teniendo hijos, que también están siendo condicionados. ¿Cuál es el propósito? Recuerde que las industrias del cine y la televisión son abiertamente hostiles al cristianismo y, obviamente, son promotores de la Nueva Era. También recuerde que el objetivo #1 de la Nueva Era es escenificar con éxito la aparición del Anticristo.
 
@@ -3662,43 +3093,32 @@ Cuando el Anticristo haga su aparición, afirmará ser o estar en contacto (pose
 
 Los líderes de la Nueva Era creen que las personas estarán mucho más inclinadas a aceptar las afirmaciones del Anticristo si primero han sido condicionadas para creer en la existencia de seres extraterrestres amistosos. En este punto, debemos detenernos una vez más para examinar los pasajes bíblicos relevantes.
 
+> *“Amados, no crean a todo espíritu, sino prueben si los espíritus son de Dios. Porque muchos falsos profetas han salido al mundo. En esto conozcan el Espíritu de Dios: Todo espíritu que confiesa que Jesucristo ha venido en carne procede de Dios.”*
 >
-*“Amados, no crean a todo espíritu, sino prueben si los espíritus son de Dios. Porque muchos falsos profetas han salido al mundo. En esto conozcan el Espíritu de Dios: Todo espíritu que confiesa que Jesucristo ha venido en carne procede de Dios.”*
-
->
-- 1 Juan 4:1-2
-
-**
-
-**
+> — 1 Juan 4:1-2
 
 El apóstol Juan no cuestiona si los espíritus realmente existen; él sabe que los demonios existen y sabe que su audiencia cristiana sabe que existen. Juan está diciendo: "Prueba los espíritus [que se levantarán] para ver si son de Dios". Note también que el contexto del marco de tiempo de este pasaje es la Era del Anticristo; estos espíritus estarán negando que Jesucristo realmente se hizo hombre y vino en carne; de hecho, buscarán separar al Jesús histórico y carnal del Jesús Divino que era y es Dios. Esto es precisamente lo que está intentando hacer la religión OVNI.
 
-La mejor ilustración de esto es su enseñanza a los "contactados" de que "los Maestros Ascendidos" se están preparando para intervenir nuevamente en la historia del mundo, para llevar a la humanidad a un nivel superior de conciencia. "Seleccionarán a una persona humana y le otorgarán poderes y conocimientos sobrehumanos. Este hombre nos conducirá al gobierno mundial y a la paz mundial". (3)**
-
-**
+La mejor ilustración de esto es su enseñanza a los "contactados" de que "los Maestros Ascendidos" se están preparando para intervenir nuevamente en la historia del mundo, para llevar a la humanidad a un nivel superior de conciencia. "Seleccionarán a una persona humana y le otorgarán poderes y conocimientos sobrehumanos. Este hombre nos conducirá al gobierno mundial y a la paz mundial". (3)
 
 ¿Quién es este hombre seleccionado? El Anticristo bíblico. Todas estas prácticas son ocultismo clásico. Además, como el autor cristiano, David Lewis afirma en su libro, *UFO: End Time Delusion*:
 
 > "Sin excepción, cada persona que afirma tener un contacto [alienígena], tenía una cosa en común. Cada uno tenía una conexión previa con la actividad metafísica o las sectas. Algunos habían estado en adoración al diablo, brujería, fenómenos psíquicos, New Age, canalización ... Aquellos involucrados en contacto directo con extraterrestres u OVNIs ya tenían una conexión con el lado oscuro del mundo sobrenatural."
-**
 
 ### Un gobierno mundial
 
-**
-
 Ahora, examinemos los objetivos declarados de los OVNIs y hagámoslo de una manera en la que se comparen con los objetivos declarados del Movimiento de la Nueva Era que busca establecer el Nuevo Orden Mundial.
 
-* Abolir todos los gobiernos establecidos
-* Abolir todas las religiones
-* Establecer un gobierno mundial único, una dictadura benevolente utópica
-* Todas las religiones del mundo son iguales
+- Abolir todos los gobiernos establecidos
+- Abolir todas las religiones
+- Establecer un gobierno mundial único, una dictadura benevolente utópica
+- Todas las religiones del mundo son iguales
 
 Por lo tanto, los objetivos del fenómeno OVNI coinciden muy bien con los objetivos del Nuevo Orden Mundial. Además, los extraterrestres están enseñando a sus contactados conceptos que, si se llevan a cabo, cumplirían la profecía bíblica de los últimos días.
 
-* Economía mundial única
-* Eliminación de dinero (economía sin efectivo)
-* Paz universal
+- Economía mundial única
+- Eliminación de dinero (economía sin efectivo)
+- Paz universal
 
 Recuerde la advertencia profética del apóstol Pablo en 2 Corintios 11:14, "... Satanás mismo se disfraza de ángel de luz". Para condicionar a la gente a creer en los conceptos del Nuevo Orden Mundial, Satanás ha hecho que sus demonios se manifiesten físicamente como extraterrestres, viajando en OVNIs, con máquinas altamente tecnológicas. No subestimes a Satanás; él es el Señor de este mundo, y ahora el Espíritu Santo le permite intervenir de maneras incomparables en el mundo de hoy. Los resultados van a ser espectaculares.
 
@@ -3720,9 +3140,7 @@ En la antigüedad, esta historia de engaño continúa, los extraterrestres visit
 
 Ahora ha llegado el momento, dicen los alienígenas, de que intervengan de nuevo en la historia mundial. Esta vez, intervendrán para salvar al hombre de sí mismo: de sus guerras, odios, analfabetismo espiritual y de su daño ambiental. Estos extraterrestres lograrán todo esto levantando a un hombre que estará imbuido de un nivel especial de conciencia y que podrá llevar al mundo a ese mismo nivel de conciencia.
 
-Que no te engañen. Como dijo Cooper, en su libro *Behold A Pale Horse*, "Los planificadores del Nuevo Orden Mundial tienen planes para provocar cosas como terremotos, guerra, el Mesías, un aterrizaje extraterrestre y un colapso económico. Podrían provocar todas estas cosas solo para asegurarse de que funcione." (4)**
-
-**
+Que no te engañen. Como dijo Cooper, en su libro *Behold A Pale Horse*, "Los planificadores del Nuevo Orden Mundial tienen planes para provocar cosas como terremotos, guerra, el Mesías, un aterrizaje extraterrestre y un colapso económico. Podrían provocar todas estas cosas solo para asegurarse de que funcione." (4)
 
 ### En un abrir y cerrar de ojos
 
@@ -3742,14 +3160,11 @@ La forma anfibia de los llamados "grises" puede darnos una pista de tres espíri
 
 En Apocalipsis 16: 13-15, vemos tres espíritus de demonios que salen de la boca del Anticristo; realizan tan grandes señales y maravillas que engañan a los gobernantes de la tierra. Esta es precisamente la parte del Plan que deben realizar los alienígenas. Engañarán especialmente a los presidentes, primeros ministros, reyes y reinas de los gobiernos de todo el mundo.
 
-**
-
+> **"Vi salir de la boca del dragón, de la boca de la bestia y de la boca del falso profeta, tres espíritus inmundos semejantes a ranas. Son espíritus de demonios, que hacen señales y van a los reyes de la tierra en todo el mundo para reunirlos para la batalla de aquel gran día del Dios Todopoderoso."**
 >
-**"Vi salir de la boca del dragón, de la boca de la bestia y de la boca del falso profeta, tres espíritus inmundos semejantes a ranas. Son espíritus de demonios, que hacen señales y van a los reyes de la tierra en todo el mundo para reunirlos para la batalla de aquel gran día del Dios Todopoderoso."**
+> — Apocalipsis 16:13-15
 
-**- Apocalipsis 16:13-15**
-
-¿No son los supuestos "grises", subyugados de los nórdicos (ángeles caídos), semejantes a ranas humanoides? En todas partes el mensaje será el mismo. "Hemos venido para ayudar a llevar a nuestros hermanos de la Tierra a un nuevo nivel de conciencia del que habla el Cristo (Anticristo)". Los extraterrestres y los OVNIs literalmente flotarán sobre y alrededor del Anticristo mientras organiza su aparición. Este es el plan.**
+¿No son los supuestos "grises", subyugados de los nórdicos (ángeles caídos), semejantes a ranas humanoides? En todas partes el mensaje será el mismo. "Hemos venido para ayudar a llevar a nuestros hermanos de la Tierra a un nuevo nivel de conciencia del que habla el Cristo (Anticristo)". Los extraterrestres y los OVNIs literalmente flotarán sobre y alrededor del Anticristo mientras organiza su aparición. Este es el plan.
 
 ### El único camino
 
@@ -3757,21 +3172,15 @@ En Apocalipsis 16: 13-15, vemos tres espíritus de demonios que salen de la boca
 
 Se habrá cumplido la profecía bíblica. El Anticristo engañará a toda la población inconversa del mundo, procederá a firmar el tratado de paz con Israel y comenzará la Gran Tribulación. Que no te engañen. De hecho, estamos en el límite. Nos encontramos en el tiempo donde podemos reencontrarnos con nuestro creador. Dios diseñó un plan de salvación que nos librará del engaño venidero y nos dará la vida eterna, solo debemos arrepentirnos y aceptar a Jesucristo como nuestro Señor y Salvador, y así conoceremos la Verdad. Tengamos por seguro que Él volverá por segunda vez para destruir toda mentira de Satanás.
 
-¿No deseas leer?** Escucha el capítulo en formato audio:
+**¿No deseas leer?** Escucha el capítulo en formato audio:
 
-**
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1184828506&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-[Escuchar capítulo en formato audio](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1184828506&amp;color=%23000000&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true)
+### Referencias
 
-Referencias:**
-
-**
-**
-
-* BBC News: **[Videos del Pentágono: las grabaciones de ovnis que hizo públicas el gobierno de EE.UU](https://www.bbc.com/mundo/noticias-internacional-52458549)**
-* Constance Cumbey en* Los peligros ocultos del arco iris.*
-UFO: End Time Delusion *de David Lewis.
-Behold A Pale Horse, *
-del fallecido en circunstancias sumamente misteriosas, William Cooper.
+1. BBC News: [Videos del Pentágono: las grabaciones de ovnis que hizo públicas el gobierno de EE.UU](https://www.bbc.com/mundo/noticias-internacional-52458549)
+2. Constance Cumbey en *Los peligros ocultos del arco iris*.
+3. *UFO: End Time Delusion* de David Lewis.
+4. *Behold A Pale Horse*, del fallecido en circunstancias sumamente misteriosas, William Cooper.
 
 Gracias por leer *¿Son Los Extraterrestres Ángeles Caídos? Una Perspectiva Bíblica.* Espero que esta lectura haya sido de edificación para su vida cristiana. No olvide compartir el material con sus familiares y cercanos.
