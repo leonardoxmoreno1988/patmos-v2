@@ -11,19 +11,19 @@ tags: ["Apologética"]
 
 Estimado lector,  
   
-Si Jesús es el único camino a Dios (Juan 14:6) ¿Qué pasa con el miembro de la tribu amazónica, el budista de algún rincón de Asia, o el habitante de una isla desierta?  
+Si Jesús es el único camino a Dios (Juan 14:6), ¿qué pasa con el miembro de la tribu amazónica, el budista de algún rincón de Asia, o el habitante de una isla desierta?  
   
-Digamos que estas personas nunca han oído nada sobre Cristo, ni tampoco tienen una idea de que es la Biblia. ¿Acaso Dios va a enviarlos al infierno? ¿Serán castigados sin poder decidir?  
+Digamos que estas personas nunca han oído nada sobre Cristo, ni tampoco tienen una idea de qué es la Biblia. ¿Acaso Dios va a enviarlos al infierno? ¿Serán castigados sin poder decidir?  
   
 Pablo, en [Romanos 1 y 2](https://www.biblegateway.com/passage/?search=Romanos%201-2&version=RVR1960) responde estas preguntas.  
   
 La verdad es que todos somos expuestos al conocimiento del Señor. La creación de Dios es evidente para todos los seres humanos.  
   
-Romanos dice que tenemos "la luz de la creación". Simplemente, el poder ver un ave, una hormiga o una abeja, exponen lo que es el diseño inteligente. Al igual que un smartphone, un reloj o un auto, tales creaciones implican un diseñador.  
+Romanos dice que tenemos "la luz de la creación". Simplemente, el poder ver un ave, una hormiga o una abeja, expone lo que es el diseño inteligente. Al igual que un smartphone, un reloj o un auto, tales creaciones implican un diseñador.  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/373/original/aves-naturaleza.jpeg)  
   
-La complejidad de [las estrellas](https://www.ritualypropaganda.com/2022/11/evangelio-en-las-estrellas.html?m=1) y los planetas atestiguan que no sucedieron por casualidad (Salmos 74:16). Toda la creación nos expone a entender que hay un Dios con gran poder que tuvo la capacidad de crear.  
+La complejidad de [las estrellas](https://www.ritualypropaganda.com/2022/11/evangelio-en-las-estrellas.html?m=1) y los planetas atestigua que no sucedieron por casualidad (Salmo 74:16). Toda la creación nos expone a entender que hay un Dios con gran poder que tuvo la capacidad de crear.  
 
 > "Porque las cosas invisibles de él, entendidas son desde la creación del mundo, por medio de las cosas que son hechas, se ven claramente, es a saber, su eterno poder y divinidad, para que queden sin excusa."  
 > –Romanos 1:20
