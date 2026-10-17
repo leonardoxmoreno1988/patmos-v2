@@ -11,10 +11,10 @@ tags: ["Apologética"]
 
 Estimado lector,  
   
-El **[profeta Balaam](https://es.wikipedia.org/wiki/Balaam)** es un interesante ejemplo de un servidor de Dios que caminó en la peligrosa senda de la tibieza. No es estuvo tan comprometido con el Señor, pero tampoco se apartaba de Él completamente. Su historia se retrata en el libro de Números 22-24. Era un hombre con cierta sabiduría y conocedor de Dios, pero con un grave problema de ambición y codicia.
+El **[profeta Balaam](https://es.wikipedia.org/wiki/Balaam)** es un interesante ejemplo de un servidor de Dios que caminó en la peligrosa senda de la tibieza. No estuvo tan comprometido con el Señor, pero tampoco se apartaba de Él completamente. Su historia se retrata en el libro de Números 22-24. Era un hombre con cierta sabiduría y conocedor de Dios, pero con un grave problema de ambición y codicia.
 
   
-Cuando el rey Balac de Moab, se hallaba preocupado por el crecimiento de los israelitas, decide contratar a Balaam y sus capacidades de profeta para que maldiga a los israelitas (Números 22:6). Sin embargo, Dios le advierte a Balaam que no debe maldecirlos, ya que son un pueblo elegido (Números 22:12).
+Cuando el rey Balac de Moab se hallaba preocupado por el crecimiento de los israelitas, decide contratar a Balaam y sus capacidades de profeta para que maldiga a los israelitas (Números 22:6). Sin embargo, Dios le advierte a Balaam que no debe maldecirlos, ya que son un pueblo elegido (Números 22:12).
 
   
 A pesar de la advertencia, Balaam cede ante la codicia monetaria y decide ir con los mensajeros de Balac, pero en el camino, su asna se detiene tres veces al ver al ángel de Jehová. Balaam golpea al asna, pero finalmente ve al ángel y se da cuenta de su error (Números 22:12-35).  

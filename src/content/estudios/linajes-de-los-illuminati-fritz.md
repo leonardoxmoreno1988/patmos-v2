@@ -19,14 +19,14 @@ tags: ["Sociedad"]
 
   
 
-¿Quién controla realmente los acontecimientos del mundo por detrás de la escena ? Años de extensa investigación han sido incluidos en este trabajo documentado. En este libro de 624 páginas, **Fritz Springmeier** divulga hechos alucinantes y nunca antes mencionados de las **dinastías Illuminati**. Descubra el papel increíble que estos linajes han jugado - y ahora están manejando en la historia humana - con nombres familiares, como **Astor, DuPont, Kennedy, Onassis, Rockefeller, Rothschild, Russell, Van Duyn y Krupp**. También sobre la familia china Li, que opera con impunidad en los EE.UU. y en todo el mundo. 
+¿Quién controla realmente los acontecimientos del mundo por detrás de la escena? Años de extensa investigación han sido incluidos en este trabajo documentado. En este libro de 624 páginas, **Fritz Springmeier** divulga hechos alucinantes y nunca antes mencionados de las **dinastías Illuminati**. Descubra el papel increíble que estos linajes han jugado - y ahora están manejando en la historia humana - con nombres familiares, como **Astor, DuPont, Kennedy, Onassis, Rockefeller, Rothschild, Russell, Van Duyn y Krupp**. También sobre la familia china Li, que opera con impunidad en los EE.UU. y en todo el mundo. 
 
   
-En el camino te darás cuenta por qué el presidente John F. Kennedy y la actriz Grace Kelly murieron ¿quién creó las **Naciones Unidas**, que controla los dos principales partidos políticos de Estados Unidos, como los Rothschild controlan la Israel de hoy en día, como en secreto fundaron falsas religiones como los **Testigos de Jehová** , y mucho, mucho más. Una enciclopedia literal con información increíble!
+En el camino te darás cuenta por qué el presidente John F. Kennedy y la actriz Grace Kelly murieron, quién creó las **Naciones Unidas**, quién controla los dos principales partidos políticos de Estados Unidos, cómo los Rothschild controlan la Israel de hoy en día, cómo en secreto fundaron falsas religiones como los **Testigos de Jehová**, y mucho, mucho más. ¡Una enciclopedia literal con información increíble!
 
   
 
-CAPITULOS ONLINE:  
+CAPÍTULOS ONLINE:  
  
 
 **[1: El Linaje Astor](https://www.ritualypropaganda.com/2012/04/linajes-de-los-illuminati-de-fritz.html)**

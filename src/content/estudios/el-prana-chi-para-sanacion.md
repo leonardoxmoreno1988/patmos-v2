@@ -11,14 +11,13 @@ tags: ["Falsas Doctrinas"]
 
 Estimado lector,  
   
-Debido a la apostasía actual, muchas iglesias han introducido un sincretismo entre el cristianismo y los [métodos de sanación](https://www.youtube.com/watch?v=l-M30YaHnm8) del medio oriente, atribuyéndolos como milagros de Dios u obra del Espíritu Santo.  
+Debido a la apostasía actual, muchas iglesias han introducido un sincretismo entre el cristianismo y los [métodos de sanación](https://www.youtube.com/watch?v=l-M30YaHnm8) del Medio Oriente, atribuyéndolos como milagros de Dios u obra del Espíritu Santo.  
   
 La energía vital universal, el chi o el prana, están vinculados en muchas culturas a poderes sobrenaturales y hechicería. El tantra yoga supuestamente mejora esta energía para aumentar los poderes psíquicos.  
   
 Los primeros chamanes en China creían que esta fuerza se encontraba en el universo, en la naturaleza e incluso dentro de ellos mismos, disponible para el uso de una mente iluminada.  
   
-La [cábala oculta](https://www.ritualypropaganda.com/2017/
-03/significado-cabala-peligros-respuestas.html) lo llama luz astral; y el hipnotizador [Franz Mesmer](https://en.wikipedia.org/wiki/Franz_Mesmer) lo llamó fluido magnético. El chi es también la fuente de poder para la supuesta levitación y otras hazañas ocultas, todas prácticas prohibidas en las Escrituras.  
+La [cábala oculta](https://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html) lo llama luz astral; y el hipnotizador [Franz Mesmer](https://en.wikipedia.org/wiki/Franz_Mesmer) lo llamó fluido magnético. El chi es también la fuente de poder para la supuesta levitación y otras hazañas ocultas, todas prácticas prohibidas en las Escrituras.  
   
 La curación con energía alternativa y la sanación con chi no es más que una técnica basada en creencias esotéricas sobre la manipulación de una fuerza invisible y se practica universalmente en el ocultismo.  
 
@@ -31,7 +30,7 @@ La curación con energía alternativa y la sanación con chi no es más que una 
 Muchos falsos profetas han atribuido estas curaciones a Dios. Pero el poder de Dios no es una fuerza para manipular o canalizar. El hombre no tiene derecho a acceder a Dios cuando lo desee y a apropiarse de un poder que cree viene de Dios.
 
   
-Cuando se hacen intentos de este tipo, se puede canalizar un poder, pero no es de Dios, sino del mundo de los demonios. Jesús no sanaba canalizando una energía universal o chi, sino que actuaba con el poder de Dios y bajo la voluntad de Dios. Como dice Hechos 10:38.  
+Cuando se hacen intentos de este tipo, se puede canalizar un poder, pero no es de Dios, sino del mundo de los demonios. Jesús no sanaba canalizando una energía universal o chi, sino que actuaba con el poder de Dios y bajo la voluntad de Dios. Como dice Actos 10:38:  
 
 > “A Jesús de Nazaret, como le ungió Dios del Espíritu Santo, y de poder, el cual pasó haciendo bienes, y sanando a todos los oprimidos del diablo; porque Dios era con él.”
 

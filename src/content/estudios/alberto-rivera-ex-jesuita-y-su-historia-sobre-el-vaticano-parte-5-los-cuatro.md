@@ -13,7 +13,7 @@ tags: ["Falsas Doctrinas"]
 
   
 
-He aquí una descripción clara de cómo el papado cumple las **profecías bíblicas** del **anticristo**. ¿Quiénes son los cuatro jinetes del **Apocalipsis**? ¿A quién insistió Martín Lutero y otros líderes de la reforma fue el "Anticristo?" Vea la tabla que contiene las organizaciones a través de las cuales la orden jesuita buscan dominar la economía mundial para el anticristo.
+He aquí una descripción clara de cómo el papado cumple las **profecías bíblicas** del **anticristo**. ¿Quiénes son los cuatro jinetes de **Revelación**? ¿Quién, según insistieron Martín Lutero y otros líderes de la Reforma, era el "Anticristo"? Vea la tabla que contiene las organizaciones a través de las cuales la orden jesuita busca dominar la economía mundial para el anticristo.
 
   
 

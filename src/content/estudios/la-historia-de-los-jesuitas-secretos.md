@@ -9,7 +9,7 @@ description: "En este interesante comic de la serie \"Los Cruzados\" (Previament
 tags: ["Falsas Doctrinas"]
 ---
 
-En este interesante comic de la serie **"Los Cruzados"** (Previamente visto en la serie de **[Alberto Rivera](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)**) se expone la historia de los **Jesuitas**, sus planes secretos y como esta propia institución religiosa vive dentro de otra, La Iglesia Católica Romana.
+En este interesante cómic de la serie **"Los Cruzados"** (Previamente visto en la serie de **[Alberto Rivera](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)**) se expone la historia de los **Jesuitas**, sus planes secretos y cómo esta propia institución religiosa vive dentro de otra, La Iglesia Católica Romana.
 
   
 

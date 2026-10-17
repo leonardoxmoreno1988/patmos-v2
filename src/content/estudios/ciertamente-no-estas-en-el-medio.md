@@ -17,7 +17,7 @@ Dos transgresores de la ley romana estaban crucificados junto con Cristo. Uno a 
   
 Si bien ambos se encontraban en la misma posición lastimera, no continuaron iguales hasta su muerte.  
   
-Uno reconoció al Mesías (Lucas 23:40-43), el otro lo despreció (Lucas 23:39). Esto llevo a que, luego de morir, sus almas tomen dos caminos distintos, uno fue al paraíso, el otro al Hades (Lucas 16:19:31).  
+Uno reconoció al Mesías (Lucas 23:40-43), el otro lo despreció (Lucas 23:39). Esto llevó a que, luego de morir, sus almas tomen dos caminos distintos, uno fue al paraíso, el otro al Hades (Lucas 16:19-31).  
   
 Ninguno de los ladrones se bautizó, ninguno hizo los sacramentos, ninguno cumplió la ley, pero uno fue al cielo, el otro al infierno.  
   
@@ -27,7 +27,7 @@ Ninguno de los ladrones guardó el sábado, ninguno diezmó, ninguno sirvió, pe
   
 Ninguno de los ladrones se postró a orar, ninguno fue a una iglesia, ninguno rezó el rosario, pero uno vivirá eternamente en el reino de Dios y el otro vivirá eternamente en el lago de fuego.  
   
-Esta escena nos muestra dos cosas, primero que la salvación no es por obras, es por reconocer al Salvador (Efesios 2:8-10). Antes de morir, Jesús le dijo al ladrón que tuvo entendimiento:  
+Esta escena nos muestra dos cosas: primero, que la salvación no es por obras, es por reconocer al Salvador (Efesios 2:8-10). Antes de morir, Jesús le dijo al ladrón que tuvo entendimiento:  
 
 > "Entónces Jesús le dijo: De cierto te digo, que hoy estarás conmigo en el paraiso."  
 > –Lucas 23:43

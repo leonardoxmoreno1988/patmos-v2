@@ -30,7 +30,7 @@ Romanos 5:8
   
 **Salvación solo por Él**  
 Juan 14:6  
-Hechos 4:12  
+Actos 4:12  
 1 Timoteo 2:5-6  
   
 **No por obras**  
@@ -40,14 +40,14 @@ Tito 3:5
   
 **Debes arrepentirte**  
 Lucas 13:3  
-Hechos 3:19  
-Hechos 8:22  
-Hechos 26:20  
+Actos 3:19  
+Actos 8:22  
+Actos 26:20  
   
 **Debes recibir**  
 Juan 1:12  
 Juan 3:36  
-Revelación 3:20  
+Revelación 3:20  
   
 **Seguridad en tu salvación**  
 Juan 10:27-28  
@@ -55,17 +55,17 @@ Filipenses 1:6
 1 Juan 5:11-13  
   
 **Confesar tus pecados diariamente**  
-Salmos 38:18  
+Salmo 38:18  
 Proverbios 28:13  
 1 Juan 1:9  
   
-**Como tomar La Palabra:**
+**Cómo tomar La Palabra:**
 
 Oír (Marcos 9:7; Romanos 10:17)  
 Estudiar (2 Timoteo 2:15)  
-Meditar (1 Timoteo 4:15; Josue 1:8)  
-Leer (1 Timoteo 4:13; Revelación 1:3)  
-Memorizar (Salmos 119:9-11)  
+Meditar (1 Timoteo 4:15; Josué 1:8)  
+Leer (1 Timoteo 4:13; Revelación 1:3)  
+Memorizar (Salmo 119:9-11)  
   
 Espero que estos versículos le sirvan tanto para su crecimiento en el conocimiento de Dios, como para poder testificar a otros.  
   
