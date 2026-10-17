@@ -1,21 +1,21 @@
 ---
-title: "El Significado Del Album De Kanye West \"Yeezus\" Y El Porque Trajo A \"Jesús\" Al Escenario"
+title: "El Significado Del Álbum De Kanye West \"Yeezus\" Y El Porqué Trajo A \"Jesús\" Al Escenario"
 date: "2013-11-07"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "el-significado-del-album-de-kanye-west"
 redirectFrom: "/2013/11/el-significado-del-album-de-kanye-west.html"
-description: "Muchos cristianos e incluso no cristianos han tenido una actitud confusa con el nuevo disco de Kanye West \"Yeezus\", este disco ha tomado aún mas popularidad al…"
+description: "Muchos cristianos e incluso no cristianos han tenido una actitud confusa con el nuevo disco de Kanye West \"Yeezus\", este disco ha tomado aún más popularidad al…"
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
   
   
-Muchos cristianos e incluso no cristianos han tenido una actitud confusa con el nuevo disco de Kanye West **"Yeezus"**, este disco ha tomado aún mas popularidad al presentar un Jesús "real" como parte de su Tour en Seattle.
+Muchos cristianos e incluso no cristianos han tenido una actitud confusa con el nuevo disco de Kanye West **"Yeezus"**, este disco ha tomado aún más popularidad al presentar un Jesús "real" como parte de su Tour en Seattle.
 
   
 
@@ -23,13 +23,13 @@ Muchos cristianos e incluso no cristianos han tenido una actitud confusa con el 
 
   
 
-¿Qué está haciendo Jesús de gira con Kanye? En 2013, durante un concierto en Seattle, Kanye trajo a Jesucristo al escenario, escenificado obviamente por un actor quién mantuvo un dialogo con West por algunos minutos. Otros personajes bíblicos también hicieron su aparición como Maria la madre de Jesús y algunas discípulas. Todo este despliegue de simbolismo parte de su viejo álbum llamado "Yeezus" (Jesús), donde expone muchas referencias cristianas en todo el sentido de la palabra. Kanye menciona sobre este título:  
+¿Qué está haciendo Jesús de gira con Kanye? En 2013, durante un concierto en Seattle, Kanye trajo a Jesucristo al escenario, escenificado obviamente por un actor quien mantuvo un diálogo con West por algunos minutos. Otros personajes bíblicos también hicieron su aparición como María la madre de Jesús y algunas discípulas. Todo este despliegue de simbolismo parte de su viejo álbum llamado "Yeezus" (Jesús), donde expone muchas referencias cristianas en todo el sentido de la palabra. Kanye menciona sobre este título:  
   
 
 > **"Quiero explicar algo sobre el título Yeezus. West es mi nombre de esclavo y Yeezus es mi nombre divino"**
 
-   
-De la misma forma que muchos cantantes se han creado diversos "alters" durante sus discos o presentaciones, Kanye a escogido el término Yeezus para establecer que el posee un estado de divinidad (obviamente un estado disociativo de la mente). Acompañando este irónico titulo, salieron diversos trabajos gráficos que promocionaron este álbum.  
+
+De la misma forma que muchos cantantes se han creado diversos "alters" durante sus discos o presentaciones, Kanye ha escogido el término Yeezus para establecer que él posee un estado de divinidad (obviamente un estado disociativo de la mente). Acompañando este irónico título, salieron diversos trabajos gráficos que promocionaron este álbum.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGohTeKQ4Pq2HZNhsdTziT_mLZL3hF3nGrJoGgnZ1w-bSMncVZ3PFcxhpCl2u1yQaYrcGeO8coB5pkkVqChmzS3HPd-ZdDkdgctgqzzqW2UtoQ6ecjuFqWs0T8rYVpO8BkvSS0YSjNmRI/s1600/kanye-west-yeezus.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGohTeKQ4Pq2HZNhsdTziT_mLZL3hF3nGrJoGgnZ1w-bSMncVZ3PFcxhpCl2u1yQaYrcGeO8coB5pkkVqChmzS3HPd-ZdDkdgctgqzzqW2UtoQ6ecjuFqWs0T8rYVpO8BkvSS0YSjNmRI/s1600/kanye-west-yeezus.jpg)
@@ -58,13 +58,13 @@ De la misma forma que muchos cantantes se han creado diversos "alters" durante s
 
 **La cruz invertida con ángeles/reptiles y Satanás a su izquierda revelan que el Señor de Kanye West podría no estar en los cielos.**
 
-   
-Luego de este controversial lanzamiento, miles de fans fueron sorprendidos al ver a Jesús en persona durante uno de sus conciertos. Durante la conversación con Wild 94.9 's de San Francisco "El Show de JV", Kanye hablo sobre esta presentación:  
+
+Luego de este controversial lanzamiento, miles de fans fueron sorprendidos al ver a Jesús en persona durante uno de sus conciertos. Durante la conversación con Wild 94.9 de San Francisco "El Show de JV", Kanye habló sobre esta presentación:  
   
 
-> "Una de las cosas que quería transmitir con ese mensaje, es que usted puede tener una relación con Jesús, que pueda hablar con Jesús. ... De la misma manera que alguien puede decir "Jesús es mi colega", esa es la manera en que yo lo expresaría. De la forma en la que lo cree, es que se puede tener una relación con Jesús. Usted puede hablar con él. "
+> "Una de las cosas que quería transmitir con ese mensaje, es que usted puede tener una relación con Jesús, que pueda hablar con Jesús. ... De la misma manera que alguien puede decir "Jesús es mi colega", esa es la manera en que yo lo expresaría. De la forma en la que lo cree, es que se puede tener una relación con Jesús. Usted puede hablar con él."
 
-Si bien esta declaración podría sonar muy cristiana, existe una muy bien elaborada estrategia que es usada por la élite para condicionar a la inmensa cantidad de fans de West. Durante toda su carrera el rapero ha sido acusado de formar parte de sociedades secretas como la masonería, la Ordo Temple Orientis de Aleyster Crowley e incluso de haber vendido su alma al diablo. En cierta forma estas declaraciones no están muy alejadas de la realidad. Kanye es un amante de los símbolos ocultos y la hermenéutica y muchos de sus videos han sido propaganda de esta clase de símbolos. Recomiendo leer "[Kanye West’s “Power”: El Significado Oculto De Su Simbología](http://contraelnwo.blogspot.com/2010/09/kanye-wests-power-el-significado-oculto.html)"
+Si bien esta declaración podría sonar muy cristiana, existe una muy bien elaborada estrategia que es usada por la élite para condicionar a la inmensa cantidad de fans de West. Durante toda su carrera el rapero ha sido acusado de formar parte de sociedades secretas como la masonería, la Ordo Templi Orientis de Aleister Crowley e incluso de haber vendido su alma al diablo. En cierta forma estas declaraciones no están muy alejadas de la realidad. Kanye es un amante de los símbolos ocultos y la hermenéutica y muchos de sus videos han sido propaganda de esta clase de símbolos. Recomiendo leer "[Kanye West’s “Power”: El Significado Oculto De Su Simbología](http://contraelnwo.blogspot.com/2010/09/kanye-wests-power-el-significado-oculto.html)"
 
   
   
@@ -77,9 +77,9 @@ Si bien esta declaración podría sonar muy cristiana, existe una muy bien elabo
 
 **La aparición del Cristo de Kanye tuvo lugar en un escenario con forma triangular, una figura muy usada en la masonería.**
 
-La primera impresión que tuve de Kanye West junto a ese "Jesús" me llevo a un versículo donde el verdadero Jesús alerta a su iglesia de la aparición de falsos Cristos. Todo aquel que se haga pasar por Cristo pero que enseñe otro evangelio diferente es expuesto como un anticristo o falso profeta. Definir las enseñanzas pseudo-cristianas de West como un falso evangelio no es muy difícil, especialmente cuando este mismo se proclama dios.  
+La primera impresión que tuve de Kanye West junto a ese "Jesús" me llevó a un versículo donde el verdadero Jesús alerta a su iglesia de la aparición de falsos Cristos. Todo aquel que se haga pasar por Cristo pero que enseñe otro evangelio diferente es expuesto como un anticristo o falso profeta. Definir las enseñanzas pseudo-cristianas de West como un falso evangelio no es muy difícil, especialmente cuando este mismo se proclama dios.  
   
-Uno de los temas de su álbum es "Im a God" (Yo soy Dios) este nombre es muy simbólico por varias razones. No sólo es un nombre apropiado de alguien que se sabe tiene más alto concepto de sí mismo - es también una representación del principal objetivo de las sociedades secretas ocultistas: ascender su humanidad hacia la divinidad. Yeezus (el alter de West) es básicamente el intento de vender a la masas la creencia gnóstica de que podemos tenemos una divinidad interior y podemos ser como Dios. El ocultista Manly P. Hall menciona:  
+Uno de los temas de su álbum es "Im a God" (Yo soy Dios); este nombre es muy simbólico por varias razones. No sólo es un nombre apropiado de alguien que tiene un alto concepto de sí mismo - es también una representación del principal objetivo de las sociedades secretas ocultistas: ascender su humanidad hacia la divinidad. Yeezus (el alter de West) es básicamente el intento de vender a las masas la creencia gnóstica de que tenemos una divinidad interior y podemos ser como Dios. El ocultista Manly P. Hall menciona:  
   
 
 > "La sabiduría, se mantiene, eleva al hombre a la condición de divinidad, lo que explica la declaración enigmática que los misterios transforman bestias rugientes en divinidades."  
@@ -101,7 +101,7 @@ Yo soy un dios
 Yo soy un dios  
 Yo soy un dios  
 
-Kanye esta haciendo una referencia al Salmo 82:6, donde Dios esta reprendiendo a los jueces de Israel por haber abusado de su poder. "Yo dije: Vosotros sois dioses,Y todos vosotros hijos del Altísimo; Pero como hombres moriréis, y como cualquiera de los príncipes caeréis." Este pasaje está diciendo que Dios ha puesto al hombre en posiciones de autoridad en las cuales (en este aspecto) ellos son considerados como dioses entre la gente. En el mal contexto aplicado por el gnosticismo se trata de tergiversar este versículo y afirmar que Dios se esta refiriendo a los seres humanos como divinidades.  
+Kanye está haciendo una referencia al Salmo 82:6, donde Dios está reprendiendo a los jueces de Israel por haber abusado de su poder. "Yo dije: Vosotros sois dioses,Y todos vosotros hijos del Altísimo; Pero como hombres moriréis, y como cualquiera de los príncipes caeréis." Este pasaje está diciendo que Dios ha puesto al hombre en posiciones de autoridad en las cuales (en este aspecto) ellos son considerados como dioses entre la gente. En el mal contexto aplicado por el gnosticismo se trata de tergiversar este versículo y afirmar que Dios se está refiriendo a los seres humanos como divinidades.  
 
   
 
@@ -111,7 +111,7 @@ Kanye esta haciendo una referencia al Salmo 82:6, donde Dios esta reprendiendo a
 
   
 
-Una de las características de las sociedades herméticas son el uso obligatorio de la numerología, como es obvio, existe mucho de esta en el album Yeezus. Este es el sexto album de Kanye West, con seis letras conformando el nombre del mismo. Fue lanzado el 06/18/2013, que se traduce en la numerología Cabalística como 6/(6 +6 +6)/6. Casualmente una de las estrategias del equipo de Kanye para promocionar el álbum fue proyectar el video "New Slaves" (Nuevos Esclavos) en 66 edificios, distribuidos en 6 países = 666. El 6 en la Biblia es el número del hombre, cuando se expone tres veces como la marca de la bestia se esta hablando del hombre elevado a la trinidad (o divinidad).
+Una de las características de las sociedades herméticas es el uso obligatorio de la numerología, como es obvio, existe mucho de esta en el álbum Yeezus. Este es el sexto álbum de Kanye West, con seis letras conformando el nombre del mismo. Fue lanzado el 06/18/2013, que se traduce en la numerología Cabalística como 6/(6 +6 +6)/6. Casualmente una de las estrategias del equipo de Kanye para promocionar el álbum fue proyectar el video "New Slaves" (Nuevos Esclavos) en 66 edificios, distribuidos en 6 países = 666. El 6 en la Biblia es el número del hombre, cuando se expone tres veces como la marca de la bestia se está hablando del hombre elevado a la trinidad (o divinidad).
 
   
 
@@ -121,7 +121,7 @@ Una de las características de las sociedades herméticas son el uso obligatorio
 
   
 
-En su canción "I’m In It" del mismo album Kanye West narra como tiene una aventura sexual con una mujer y agradece al "Dios todopoderoso" en el proceso. Con letras que denigran a las mujeres y muchas otras referencias sexuales, es obvio que el "Yeezus" de Kanye no es el Jesús que enseña la Biblia. De igual forma, es un principio el conocer al único Dios existente en los cielos y la tierra; cualquier intento por exaltar al hombre como su propio salvador es creer la mentira de Lúcifer en el jardín del Edén y en el transcurso, propagar las enseñanzas gnósticas a los jóvenes. Jesús le dijo a sus discípulos:  
+En su canción "I’m In It" del mismo álbum Kanye West narra como tiene una aventura sexual con una mujer y agradece al "Dios todopoderoso" en el proceso. Con letras que denigran a las mujeres y muchas otras referencias sexuales, es obvio que el "Yeezus" de Kanye no es el Jesús que enseña la Biblia. De igual forma, es un principio el conocer al único Dios existente en los cielos y la tierra; cualquier intento por exaltar al hombre como su propio salvador es creer la mentira de Lúcifer en el jardín del Edén y en el transcurso, propagar las enseñanzas gnósticas a los jóvenes. Jesús le dijo a sus discípulos:  
   
 
 > **"Porque de la abundancia del corazón habla la boca. El hombre bueno, del buen tesoro del corazón saca buenas cosas; y el hombre malo, del mal tesoro saca malas cosas. Mas yo os digo que de toda palabra ociosa que hablen los hombres, de ella darán cuenta en el día del juicio. Porque por tus palabras serás justificado, y por tus palabras serás condenado."**

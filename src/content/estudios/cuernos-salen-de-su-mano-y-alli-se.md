@@ -5,15 +5,15 @@ updated: "2026-04-11"
 author: "Leonardo Moreno"
 slug: "cuernos-salen-de-su-mano-y-alli-se"
 redirectFrom: "/2026/01/cuernos-salen-de-su-mano-y-alli-se.html"
-description: "Dios es llamado el cuerno de salvación en Salmos 18:2. Así como también se describe que cuernos salen de la mano del Señor en Habacuc 3:4. Como veremos, la…"
+description: "Dios es llamado el cuerno de salvación en Salmo 18:2. Así como también se describe que cuernos salen de la mano del Señor en Habacuc 3:4. Como veremos, la…"
 tags: ["Escatología"]
 ---
 
 Estimado lector,
 
-Dios es llamado el cuerno de salvación en Salmos 18:2. Así como también se describe que cuernos salen de la mano del Señor en Habacuc 3:4. Como veremos, la representación y el significado de los cuernos en la Biblia también es un elemento importante en la profecía bíblica.  
+Dios es llamado el cuerno de salvación en Salmo 18:2. Así como también se describe que cuernos salen de la mano del Señor en Habacuc 3:4. Como veremos, la representación y el significado de los cuernos en la Biblia también es un elemento importante en la profecía bíblica.  
   
-Un cuerno es esencialmente una protuberancia ósea que crece en la cabeza de algunos animales, como bueyes, carneros y cabras. A David se les vertió aceite de un [cuerno hueco](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/ZEf5Y4mhz9wSmWwztTtkiMO3TuCPEGsT1B0Kj-Gn2iLHu9jyjAdDasatg4A3Yssd5UYqzlRYQ8Q9l8_YiJPoi0cOhYVatOKdN8MVvr5YlLkJnelC5Ya4xqjsPYnM-PViLL6Bw_Uzia2EuO2gYCpUl7_BZcgXRLN72oZrw7pwGcD9QGMiZh-MqPUgPzWy9qZm6h2598Lv_fKQaP3eyiktZfl4c3mOG5bmO_ZP-6wqSfepN5YfHGgLkd7Li0C-iPNcnY29LegdV75eyYPFmIzZ-GPs-vBx1FolzBX9pkQ6f-rj9m9THTTdlZTocPQfhJecojiwiRJQXaiQoV0jVdo) sobre su cabeza para ungirlo como rey (1 Samuel 16:3). Esto se debe a que el cuerno era un símbolo de autoridad y poder.  
+Un cuerno es esencialmente una protuberancia ósea que crece en la cabeza de algunos animales, como bueyes, carneros y cabras. A David se le vertió aceite de un [cuerno hueco](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/ZEf5Y4mhz9wSmWwztTtkiMO3TuCPEGsT1B0Kj-Gn2iLHu9jyjAdDasatg4A3Yssd5UYqzlRYQ8Q9l8_YiJPoi0cOhYVatOKdN8MVvr5YlLkJnelC5Ya4xqjsPYnM-PViLL6Bw_Uzia2EuO2gYCpUl7_BZcgXRLN72oZrw7pwGcD9QGMiZh-MqPUgPzWy9qZm6h2598Lv_fKQaP3eyiktZfl4c3mOG5bmO_ZP-6wqSfepN5YfHGgLkd7Li0C-iPNcnY29LegdV75eyYPFmIzZ-GPs-vBx1FolzBX9pkQ6f-rj9m9THTTdlZTocPQfhJecojiwiRJQXaiQoV0jVdo) sobre su cabeza para ungirlo como rey (1 Samuel 16:13). Esto se debe a que el cuerno era un símbolo de autoridad y poder.  
   
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO66E7WO0QEUlx2mcV0tTwP8zXoHZP5wAQNCO06i3i4-XoNNAH5DpBfTyYDl2_S_l1OzBs2w3kXkzGg28Q17fjdNTBIl6ARJ50RVJI-iXJn2W5eVsGDNp1q8jtms4OOFYn0BDQFvBlxtFpqwjps0Y06-Fd19N4o8HqpdH3EWsDWNp1wrcI9u8BZ7fHlA8/s16000/acd2dbbfcfb43dcf8cc8718c7f5ba67ce6e97963b654956eb2cebe280f302715.jpg)  
   
@@ -25,7 +25,7 @@ En la cultura pagana mesopotámica, como los sumerios y babilonios, los cuernos 
 Pero como se mencionó al inicio, el Señor Dios es descrito como el "cuerno de salud" o "cuerno de salvación", lo cual le da otro significado más profundo y cristiano a esta palabra.  
 
 > “Jehová, roca mía, y castillo mío, y escapador mío; Dios mío, fuerte mío: confiarme he en él: escudo mío, y el cuerno de mi salud; refugio mío.”  
-> –Salmos 18:2
+> –Salmo 18:2
 
 Es relevante que este mismo término de poder y divinidad se aplica a Jesucristo en el Nuevo Testamento, demostrando nuevamente que la persona del Hijo es en realidad el mismo Dios del Antiguo Testamento:  
 
@@ -43,7 +43,7 @@ Para entender el contexto, este cuerno pequeño crece dentro de otros diez cuern
   
 ![](https://img-cache.net/im/10385467/683d2a12630888638fb0a98035e25abe53e40452d1c8524589e45bdba0dd5d23.jpg?e=Ub4zwVOUHbXO-tvvCPqLbKSMSJi6BGp49Bx-Ak1p1ualcgYODZcuVtVBtCfwC8U_IorwOj5wqd9zlS27LctkFtNW5TieP9GP53A2pPR32S_8X9HJ4pjIc_rpQwb4lKMpEjLlePk58q4P35KSdi6CY_qFE0QLlmxjab4u5OzkvXV62WaUhFC287Er-rTwkrWVmR-_Ahrg0eYo7YQorvI9wpMglnuItQ81ToA_GsonkS1mBCr58E7KdsY)  
   
-Es probable que [Nimrod](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/ukTFT8LrvLSqz_bqLlQD3ubTw3QY2DkMyQ5XYuMQfM8SRqZB0Hwjy6I-cqJGNXaZJNvV_75yDFbkGW8jIB6bHbKdmkwwB6qZj4LCXSZohj5qxYyiofcoYovVaTVxapFDD_3qCjD14jWKR5YO2dhMALPNn1FTA7W4XLYKGDujnz1Uik4XEThdZlz4EvZdaR39FW2oEi1lK_XmHrm3tcbZ4EHqhFWBOX0gS4XxWTl92XcN2JKgKrKdVidkd9M5UQPzgFK3bYddLBgGNcaTivY2k7pn_iEJ7oywx1O_esup), el primer rey satánico post-diluviano, y tipo del Anticristo, también haya usado un cuerno sobre su cabeza como forma de representar su divinidad y poder. El culto a Nimrod y su esposa Semiramis son el origen que toda deidad representada con cuernos, como Anu, Isis, Dioniso o Baal.  
+Es probable que [Nimrod](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/ukTFT8LrvLSqz_bqLlQD3ubTw3QY2DkMyQ5XYuMQfM8SRqZB0Hwjy6I-cqJGNXaZJNvV_75yDFbkGW8jIB6bHbKdmkwwB6qZj4LCXSZohj5qxYyiofcoYovVaTVxapFDD_3qCjD14jWKR5YO2dhMALPNn1FTA7W4XLYKGDujnz1Uik4XEThdZlz4EvZdaR39FW2oEi1lK_XmHrm3tcbZ4EHqhFWBOX0gS4XxWTl92XcN2JKgKrKdVidkd9M5UQPzgFK3bYddLBgGNcaTivY2k7pn_iEJ7oywx1O_esup), el primer rey satánico post-diluviano, y tipo del Anticristo, también haya usado un cuerno sobre su cabeza como forma de representar su divinidad y poder. El culto a Nimrod y su esposa Semíramis son el origen de toda deidad representada con cuernos, como Anu, Isis, Dioniso o Baal.  
   
 Pero la bestia de Daniel 7 no es la única forma animal con cuernos. Cuando Juan es llevado al tercer cielo durante la Tribulación (Revelación 4:1), tiene una visión atípica de Jesucristo, él lo ve como un cordero de [siete cuernos y siete ojos](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/iObUSSKzRkQovQCfQ7T6qHF7D1WgZ0PApcRNiGy7EeaNIGQqsJfmGTmFvjKU6K4TcH3g-cRmEDjegZlNzexCFs8qH73LnPXA3c156kL57qjpBJiMQPmYUf4Foy_t33RbGOhqe9WMFCMPSeKBrS1Vs1m46zSSPZFfdg1Nb888Bkvohz6umoBYfhvsRI64BahJ3kJcC5eJppsMoaxnFEbuTIRnAq6PR3MKvGW2YXqDa2hNyHljUGw2p_EvFzN5azs7TLWC1bvPm1EPHy2ihOqdNHRtNkna1EYen3ODW6JcLHT1UadWDBIpzvWAnlXUab-XPaO09T42R5RxB60kv5aghroHp7doKcId593OC_WECNb3WjRJEXje4Ars7fKL6AfKJkVx1L3lsPQFLnaul_ArDtBUyfm6at1Gc2Fm8wnWhAhTWE3MLgnp2Jn0DzqmYJE3G_vanjo8QVH17OKhQ8DI4MGgUyoXZ8gMgnzxoAkV4ULnD946IFUMF7BTdZQkZfU). Esta es la forma que Cristo tomará para tomar el libro y abrir sus sellos.  
 
@@ -63,7 +63,7 @@ Cuando el profeta Habacuc tuvo una visión de la Segunda Venida de Cristo, él d
 > “Y el resplandor fue como la luz, cuernos le salían de la mano, y allí estaba escondida su fortaleza.”  
 > –Habacuc 3:4
 
-La descripción de cuernos saliendo de la mano de Cristo es misteriosa, simbólica en cierto aspecto, pero literal en su visión principal. Esta es una referencia a poder celestial manifestado en fotones visibles de luz, como rayos o truenos saliendo de las manos de una persona. Es por eso que [algunas versiones](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/rPEv6erBZE-9cIfMj0UoTsnrU2OcbFciaYEZIp6UohAmB5OoF8xuwzQl8jJ4eJPj3_6ARV66V7jrFmccPm48s_8HniLpKYwe8erOI7bFlXe-vcI_bMltZyNd2WVGqY-2I0826Os6mrrDXi4gj7jBDZsMlCxBzsIYPiMjHQw1KdJr1O400ROF2_FH40S6XnuoDF8vVpoDbVoi_0O0nA-u6AolVBPtpYSAJcHafRSyppS5pxuzZNBi) es español usan la palabra “rayos” en vez de “cuernos” en este verso.  
+La descripción de cuernos saliendo de la mano de Cristo es misteriosa, simbólica en cierto aspecto, pero literal en su visión principal. Esta es una referencia a poder celestial manifestado en fotones visibles de luz, como rayos o truenos saliendo de las manos de una persona. Es por eso que [algunas versiones](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/rPEv6erBZE-9cIfMj0UoTsnrU2OcbFciaYEZIp6UohAmB5OoF8xuwzQl8jJ4eJPj3_6ARV66V7jrFmccPm48s_8HniLpKYwe8erOI7bFlXe-vcI_bMltZyNd2WVGqY-2I0826Os6mrrDXi4gj7jBDZsMlCxBzsIYPiMjHQw1KdJr1O400ROF2_FH40S6XnuoDF8vVpoDbVoi_0O0nA-u6AolVBPtpYSAJcHafRSyppS5pxuzZNBi) en español usan la palabra “rayos” en vez de “cuernos” en este verso.  
   
 Para la mente hebrea, ambos términos están fuertemente vinculados, y ambas palabras provienen de la misma raíz lingüística (Kéren/Qaráyim), en otras palabras, para el profeta Habacuc, no existía una diferencia marcada entre la fuerza física material de un cuerno y la energía fuerte y luminosa de Dios.  
   

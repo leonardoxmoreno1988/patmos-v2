@@ -9,17 +9,17 @@ description: "Cuando dejé el ministerio debido a mi escepticismo, uno de los fa
 tags: ["Apologética"]
 ---
 
-Cuando dejé el ministerio debido a mi escepticismo, uno de los factores involucrados en mi partida se refería a la confiabilidad de los documentos del Nuevo Testamento ya la **resurrección** de **Jesús**. La gente del Seminario me preguntó si podía confiar en lo que decía el Nuevo Testamento y si realmente podía aceptar la **resurrección** corporal literal de Jesús de Nazaret.  
+Cuando dejé el ministerio debido a mi escepticismo, uno de los factores involucrados en mi partida se refería a la confiabilidad de los documentos del Nuevo Testamento y la **resurrección** de **Jesús**. La gente del Seminario me preguntó si podía confiar en lo que decía el Nuevo Testamento y si realmente podía aceptar la **resurrección** corporal literal de Jesús de Nazaret.  
   
 
 [![Jesus de Nazareth con discípulo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhzN5z213bI30WQKuE5SekbH1X5wMPTtX42Agkm49lrBao0UDz5e7zTyr6hV3hW5d6V8Ahm00MQWcp8IawdCs-ANBNuqJrX6dVvsYp9B0HmD76zHIlRSgipuJaMAXRct0ITi7V-GP2mBA/s1600/jesus-tomas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhzN5z213bI30WQKuE5SekbH1X5wMPTtX42Agkm49lrBao0UDz5e7zTyr6hV3hW5d6V8Ahm00MQWcp8IawdCs-ANBNuqJrX6dVvsYp9B0HmD76zHIlRSgipuJaMAXRct0ITi7V-GP2mBA/s1600/jesus-tomas.jpg)
 
   
-En julio de 2005, mi vida cambió. Entré a la Lifeway Christian Bookstore en Winston-Salem, Carolina del Norte y leí tres libros que cambiaron mi vida más que cualquier otro libro fuera de la Biblia. Descubrí _El Caso de Cristo_ de Lee Strobel, _Nueva Evidencia Que Exige un Veredicto_ y _Jesús, una defensa bíblica de la Deidad de Cristo_ de Josh McDowell,  Descubrí que hay muchas razones para aceptar la resurrección de Jesús de Nazaret como un hecho histórico.
+En julio de 2005, mi vida cambió. Entré a la Lifeway Christian Bookstore en Winston-Salem, Carolina del Norte y leí tres libros que cambiaron mi vida más que cualquier otro libro fuera de la Biblia. Descubrí _El Caso de Cristo_ de Lee Strobel, _Nueva Evidencia Que Exige un Veredicto_ y _Jesús, una defensa bíblica de la Deidad de Cristo_ de Josh McDowell. Descubrí que hay muchas razones para aceptar la resurrección de Jesús de Nazaret como un hecho histórico.
 
   
 
-**Nota:** Si deseas recibir más contenido sobre la persona de Jesús, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre la persona de Jesús, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
   
 A través de los años, la evidencia ha ido aumentando para la historicidad de la resurrección de Jesús. Este artículo proveerá 10 de los argumentos más fascinantes para la resurrección de Jesús de Nazaret.  
@@ -32,9 +32,9 @@ Esta lista no es exhaustiva y mi trato con cada argumento es sumamente breve. Si
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJnss7tNGHBA0Y8Ke45mtExvCgd567tyQSzJXqogyGbiR9223tEoGX0q1TjxdO6Gsj02iaqT1MJWvh-5tZeiapDoJHCc1NKLoQf-FYOzFX_hv_KN3s1zhwjlo7DpQ8s8ZkD4-pHwXCTI/s1600/mujeres.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJnss7tNGHBA0Y8Ke45mtExvCgd567tyQSzJXqogyGbiR9223tEoGX0q1TjxdO6Gsj02iaqT1MJWvh-5tZeiapDoJHCc1NKLoQf-FYOzFX_hv_KN3s1zhwjlo7DpQ8s8ZkD4-pHwXCTI/s1600/mujeres.jpg)
 
   
-Los primeros testigos oculares de la resurrección fueron mujeres. Todos los Evangelios señalan que las primeras personas que descubrieron la tumba vacía eran mujeres. Mateo observa que "después del sábado, al amanecer el primer día de la semana, María Magdalena y la otra María fueron a ver la tumba... El ángel les dijo a las mujeres: 'No tengáis miedo, porque sé que buscan a Jesús que fue crucificado. Él no está aquí. Porque él ha resucitado, como él dijo. Vengan y vean el lugar donde estaba." (Mateo 28: 1, 5-6). \[1\]  
+Los primeros testigos oculares de la resurrección fueron mujeres. Todos los Evangelios señalan que las primeras personas que descubrieron la tumba vacía eran mujeres. Mateo observa que "después del sábado, al amanecer el primer día de la semana, María Magdalena y la otra María fueron a ver la tumba... El ángel les dijo a las mujeres: 'No tengáis miedo, porque sé que buscan a Jesús que fue crucificado. Él no está aquí. Porque él ha resucitado, como él dijo. Vengan y vean el lugar donde estaba'." (Mateo 28:1, 5-6). \[1\]  
   
-Las mujeres no eran muy estimadas. En la cultura grecorromana, el testimonio de una mujer no era admisible en los tribunales. En los círculos judíos, se tomaba el testimonio de dos mujeres para equiparar la de un hombre. Si uno inventara una historia, las últimas personas que se colocaría como los primeros testigos habrían sido mujeres, a menos que fuera verdad.  
+Las mujeres no eran muy estimadas. En la cultura grecorromana, el testimonio de una mujer no era admisible en los tribunales. En los círculos judíos, se tomaba el testimonio de dos mujeres para equiparar el de un hombre. Si uno inventara una historia, las últimas personas que se colocarían como los primeros testigos habrían sido mujeres, a menos que fuera verdad.  
   
 
 ## 2) Hechos mínimos sobre la Resurrección
@@ -56,7 +56,7 @@ Estos hechos son casi universalmente aceptados por los estudiosos del Nuevo Test
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGq9AHdHGRXNa_dez4OUetsOdqxE82thjQqcmnShKI0oXR-FFsl7LA5p5oM4yOyOcY7ugVnA9iOgjiCr1XbIQ94AT_nSAnDBPVaTF8Xwk14uKtGeLGzCDKp18eGWQkJckE0GGTv6zeQ3o/s1600/pablo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGq9AHdHGRXNa_dez4OUetsOdqxE82thjQqcmnShKI0oXR-FFsl7LA5p5oM4yOyOcY7ugVnA9iOgjiCr1XbIQ94AT_nSAnDBPVaTF8Xwk14uKtGeLGzCDKp18eGWQkJckE0GGTv6zeQ3o/s1600/pablo.jpg)
 
   
-Como se señaló en los hechos mínimos, Santiago, el hermano de Jesús, fue cambiado de un escéptico a un creyente a causa de la resurrección. Santiago junto con sus hermanos no creyeron en Jesús durante el primer ministerio de Jesús (ver Juan 7: 5). Sin embargo, Jesús se le apareció a Santiago (1 Corintios 15: 3-9) y Santiago se convirtió en un líder en la iglesia de Jerusalén. Su muerte es registrada por Josefo. \[3\]  
+Como se señaló en los hechos mínimos, Santiago, el hermano de Jesús, fue cambiado de un escéptico a un creyente a causa de la resurrección. Santiago junto con sus hermanos no creyeron en Jesús durante el primer ministerio de Jesús (ver Juan 7:5). Sin embargo, Jesús se le apareció a Santiago (1 Corintios 15:3-9) y Santiago se convirtió en un líder en la iglesia de Jerusalén. Su muerte es registrada por Josefo. \[3\]  
   
 Pablo es otro ejemplo de alguien que fue completamente transformado por la resurrección de Jesús. Pablo, un fariseo judío, había sido un perseguidor de la iglesia. Después de ser testigo de Jesús resucitado, Pablo se convirtió en un proclamador de la iglesia.  
   
@@ -68,7 +68,7 @@ Históricamente hablando, los detalles embarazosos añaden veracidad a una afirm
 
 ## 5) Voluntad de morir por lo que se conoce.
 
-Muchas personas morirán por lo que creen que es verdad. Pero nadie morirá por algo que inventó erróneamente. Los discípulos sabían si decían la verdad. Sin embargo, uno encuentra que los discípulos estaban dispuestos a morir por lo que sabían que era verdad. Esteban murió apedreado (Hechos 7: 54-60), Jacobo de Zebedeo murió por la espada a manos de Herodes (Hechos 12: 2), Santiago, hermano de Jesús, murió como un mártir, \[4\] y Pedro y Pablo murieron a manos de Nerón. \[5\]  
+Muchas personas morirán por lo que creen que es verdad. Pero nadie morirá por algo que inventó erróneamente. Los discípulos sabían si decían la verdad. Sin embargo, uno encuentra que los discípulos estaban dispuestos a morir por lo que sabían que era verdad. Esteban murió apedreado (Actos 7:54-60), Jacobo de Zebedeo murió por la espada a manos de Herodes (Actos 12:2), Santiago, hermano de Jesús, murió como un mártir, \[4\] y Pedro y Pablo murieron a manos de Nerón. \[5\]  
   
 
 ## 6) Pruebas Documentales
@@ -80,7 +80,7 @@ Las siguientes son fuentes secundarias que se tienen para la resurrección: Luca
 
 ## 7) Evidencia Circunstancial
 
-Douglas Groothius señala que la evidencia circunstancial de la historicidad de la resurrección es:  
+Douglas Groothuis señala que la evidencia circunstancial de la historicidad de la resurrección es:  
   
 
 > "CONCRETAMENTE, LA PRÁCTICA DE LA IGLESIA TEMPRANA EN OBSERVAR EL BAUTISMO, LA CENA DEL SEÑOR Y EL DOMINGO." \[7\]
@@ -100,14 +100,14 @@ J. Warner Wallace ha señalado en sus conferencias y libros que cuando se forma 
   
 En cuanto a la codicia, enseñaron que no se deben desear las posesiones terrenales, sino espirituales. La lujuria tampoco era un factor. Ellos enseñaron el celibato antes del matrimonio y la fidelidad matrimonial después del matrimonio.  
   
-De hecho, el historiador N.T. Wright señala en su libro clásico, _La Resurrección del Hijo de Dios_, que los discípulos no tenían ninguna motivación teológica detrás de afirmar que Jesús había resucitado de entre los muertos mientras esperaban un héroe militar y una resurrección final al final de los tiempos.  
+De hecho, el historiador N. T. Wright señala en su libro clásico, _La Resurrección del Hijo de Dios_, que los discípulos no tenían ninguna motivación teológica detrás de afirmar que Jesús había resucitado de entre los muertos mientras esperaban un héroe militar y una resurrección final al final de los tiempos.  
   
 ¿Qué factores motivadores existían para que estos discípulos inventaran tal historia? ¡Ninguna! La única razón por la que los discípulos enseñaron la resurrección de Jesús fue porque la resurrección de Jesús había ocurrido.  
   
 
-## 9) Atentado enemigo de la Resurrección
+## 9) Atestación enemiga de la Resurrección
 
-Históricamente hablando, si uno sostiene la atestación enemiga de un evento, entonces el evento se fortalece. Cuando uno considera las demandas de las autoridades de que los discípulos habían robado el cuerpo de Jesús (Mateo 28: 11-15), el testimonio de la resurrección se fortalece.  
+Históricamente hablando, si uno sostiene la atestación enemiga de un evento, entonces el evento se fortalece. Cuando uno considera las demandas de las autoridades de que los discípulos habían robado el cuerpo de Jesús (Mateo 28:11-15), el testimonio de la resurrección se fortalece.  
   
 La temprana creencia de que los discípulos habían robado el cuerpo de Jesús se ve reforzada por el descubrimiento de la inscripción de Nazaret que ordena el castigo capital para cualquiera que robe un cuerpo de una tumba. Además, varias referencias a Jesús y su resurrección incluyen citas de Josefo, \[10\] Tácito, \[11\] y Suetonio \[12\] entre otros (incluyendo el Talmud de Babilonia).  
   
@@ -117,7 +117,7 @@ La temprana creencia de que los discípulos habían robado el cuerpo de Jesús s
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKXFVX25L2Hf-Nhrs5FlwaaHC6-GBeXMCq51uHX6O6O66Awy6XiQXe1mUsyUs3rAkcN67etEihTfVjJSVOYn7sR37Q5u6jxct4Nh25Q4SU00ZvD9u3HbrA_oSFbKQSKmulnv_c8BBHRqo/s1600/discipulos-alucinando.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKXFVX25L2Hf-Nhrs5FlwaaHC6-GBeXMCq51uHX6O6O66Awy6XiQXe1mUsyUs3rAkcN67etEihTfVjJSVOYn7sR37Q5u6jxct4Nh25Q4SU00ZvD9u3HbrA_oSFbKQSKmulnv_c8BBHRqo/s1600/discipulos-alucinando.jpg)
 
   
-Finalmente, hay múltiples testimonios de testigos oculares relacionados con la resurrección de Jesús. Varias personas habían visto a Jesús vivo por un período de 40 días. Los testigos oculares incluyen a María Magdalena (Juan 20: 10-18), a las mujeres en la tumba que acompañan a María (Mateo 28: 1-10), a los guardias romanos (Mateo 28: 4), a los once discípulos hombres en el camino de Emaús (Lucas 24: 13-35), un número indeterminado de discípulos (Mateo 28: 16-20); Más de quinientos discípulos (1 Corintios 15: 6), a Santiago (1 Corintios 15: 7) y a Pablo (1 Corintios 15: 8-9).  
+Finalmente, hay múltiples testimonios de testigos oculares relacionados con la resurrección de Jesús. Varias personas habían visto a Jesús vivo por un período de 40 días. Los testigos oculares incluyen a María Magdalena (Juan 20:10-18), a las mujeres en la tumba que acompañan a María (Mateo 28:1-10), a los guardias romanos (Mateo 28:4), a los dos discípulos en el camino de Emaús (Lucas 24:13-35), un número indeterminado de discípulos (Mateo 28:16-20); más de quinientos discípulos (1 Corintios 15:6), a Santiago (1 Corintios 15:7) y a Pablo (1 Corintios 15:8-9).  
   
 Estoy seguro de que hubo muchos otros testigos sin nombre.  
   
@@ -136,7 +136,7 @@ Otros reconocerán la naturaleza factual del evento y adorarán a Jesús como el
   
 \[2\] Gary R. Habermas y Michael R. Licona, El caso para la resurrección de Jesús (Grand Rapids: Kregel, 2004), 48-50, 64-69.  
   
-\[3\] Josefo, antigüedades XX.200.  
+\[3\] Josefo, Antigüedades XX.200.  
   
 \[4\] Ibid.  
   
@@ -144,7 +144,7 @@ Otros reconocerán la naturaleza factual del evento y adorarán a Jesús como el
   
 \[6\] Las fuentes primarias son documentos escritos por testigos oculares. Las fuentes secundarias son documentos escritos por individuos que conocen a los testigos oculares. Por ejemplo, mi abuelo fue testigo ocular de la mayor batalla naval en la historia de la Segunda Guerra Mundial. De la información que mi padre recogió de él, él sería una fuente secundaria, mientras que mi abuelo habría sido una fuente primaria.  
   
-\[7\] Douglas Groothius, Christian Apologetics: Un Caso Comprensivo para la Fe Bíblica (Downers Grove, Nottingham, Reino Unido: IVP Academic, Apollos, 2011), 553-554.  
+\[7\] Douglas Groothuis, Christian Apologetics: Un Caso Comprensivo para la Fe Bíblica (Downers Grove, Nottingham, Reino Unido: IVP Academic, Apollos, 2011), 553-554.  
   
 \[8\] Véase J. Warner Wallace, "Respuesta Rápida: Pienso que los discípulos mintieron sobre la resurrección", Cold-case Christianity.com (17 de octubre de 2016), recuperado el 11 de abril de  
 2017, http://coldcasechristianity.com/2016/rapid-response-i-think-the-disciples-lied-about-the-resurrection/.  

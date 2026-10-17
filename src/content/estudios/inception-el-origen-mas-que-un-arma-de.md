@@ -5,17 +5,17 @@ updated: "2023-07-23"
 author: "Jhonkbn"
 slug: "inception-el-origen-mas-que-un-arma-de"
 redirectFrom: "/2010/12/inception-el-origen-mas-que-un-arma-de.html"
-description: "Inception (El Origen) es un triller psicológico y de ciencia ficción basado en un hecho quizás no tan ficticio, la posibilidad de extraer e inducir información…"
+description: "Inception (El Origen) es un thriller psicológico y de ciencia ficción basado en un hecho quizás no tan ficticio, la posibilidad de extraer e inducir información…"
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
   
   
-**Inception** (El Origen) es un triller psicológico y de ciencia ficción basado en un hecho quizás no tan ficticio, la posibilidad de extraer e inducir información mediante los sueños. Bajo esta premisa, y un guión muy bien elaborado, el film alcanza destacarse como uno de los mejores del 2010. Sin embargo como era de esperarse en una producción como esta, existe otra capa de interpretación en **Inception**, una donde es irrelevante si estas soñando o estas despierto y que revela en detalle una de las tácticas psicológicas más usadas actualmente, **el control mental**.  
+**Inception** (El Origen) es un thriller psicológico y de ciencia ficción basado en un hecho quizás no tan ficticio, la posibilidad de extraer e inducir información mediante los sueños. Bajo esta premisa, y un guión muy bien elaborado, el film logra destacarse como uno de los mejores del 2010. Sin embargo, como era de esperarse en una producción como esta, existe otra capa de interpretación en **Inception**, una donde es irrelevante si estás soñando o estás despierto y que revela en detalle una de las tácticas psicológicas más usadas actualmente, **el control mental**.  
 
   
 
@@ -23,13 +23,13 @@ tags: ["Cine y Cultura"]
 
   
 
-La película no se trata de "soñar". Por lo tanto, es irrelevante si al final es un sueño o una realidad. La película es sobre la locura, y un tipo específico de locura...el control mental basado en el trauma. De modo que si obviamos la trama principal, nos quedan múltiples escenas de tortura, secuestro, lavado de cerebro, perdida de memoria y ahogamiento. Estos elementos son algunas técnicas usadas en el control mental basado en el trauma o también nombrado por la cia como mk ultra.  
+La película no se trata de "soñar". Por lo tanto, es irrelevante si al final es un sueño o una realidad. La película es sobre la locura, y un tipo específico de locura...el control mental basado en el trauma. De modo que si obviamos la trama principal, nos quedan múltiples escenas de tortura, secuestro, lavado de cerebro, pérdida de memoria y ahogamiento. Estos elementos son algunas técnicas usadas en el control mental basado en el trauma o también nombrado por la CIA como MK Ultra.  
   
      
   
-Dom Cobb es un extractor de re4cuerdos, en resumen un torturador. Él es un interrogador.  
+Dom Cobb es un extractor de recuerdos, en resumen un torturador. Él es un interrogador.  
   
-Algo que se debe entender es que no hay máquina que permite a Cobb y sus compañeros entrar en los sueños de la gente. Esto no es una película de ciencia ficción ambientada en el futuro, es una película ambientada en el presente. Aquel dispositivo no existe en la actualidad, por lo que el dispositivo es una ficción. Esto se denomina meta comunicación falsa y se utiliza para asociar elementos ficticios a la realidad.  
+Algo que se debe entender es que no hay máquina que permita a Cobb y sus compañeros entrar en los sueños de la gente. Esto no es una película de ciencia ficción ambientada en el futuro, es una película ambientada en el presente. Aquel dispositivo no existe en la actualidad, por lo que el dispositivo es una ficción. Esto se denomina metacomunicación falsa y se utiliza para asociar elementos ficticios a la realidad.  
   
 Toda la historia es narrada por un narrador poco fiable. Algunos han sugerido que toda la película es un sueño. Pero no lo es. Es una realidad. Los sueños tienen lugar durante el sueño. Esto tiene lugar mientras están despiertos.  
 
@@ -37,7 +37,7 @@ Toda la historia es narrada por un narrador poco fiable. Algunos han sugerido qu
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOThqrfZbO-A3EJKGQwcILQTjo47UemVKDPGUGSVv-SFcYf5HKxE6pCLJabBw28Utf5d0Rwc7v1ndUm7oZZi_pU97F_sKPV19lG_nNAmNmWvryiBuT8BK7bJrWc1PtMEMCzL6EluJeF28/s1600/165625_120586858006336_219755_n.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOThqrfZbO-A3EJKGQwcILQTjo47UemVKDPGUGSVv-SFcYf5HKxE6pCLJabBw28Utf5d0Rwc7v1ndUm7oZZi_pU97F_sKPV19lG_nNAmNmWvryiBuT8BK7bJrWc1PtMEMCzL6EluJeF28/s1600/165625_120586858006336_219755_n.jpg)
 
-**DiCaprio como Dom Coob en Inception.**
+**DiCaprio como Dom Cobb en Inception.**
 
   
 Citas de Leonardo DiCaprio sobre su personaje Dom Cobb:  
@@ -51,11 +51,11 @@ Citas de Leonardo DiCaprio sobre su personaje Dom Cobb:
 
 Es una realidad percibida por el narrador. ¿Quién es el narrador? Nunca se nos dice la verdadera identidad. Lo importante que debe entender sobre el narrador es que él (o ella) se ha vuelto loco.  
   
-Sólo hay un personaje de la historia. Si el nombre es Don Cobb o Mal, son todos los aspectos de la misma personalidad. Basta con mirar los nombres de los personajes y de inmediato se hace obvio que estos no son nombres reales.  
+Sólo hay un personaje de la historia. Si el nombre es Dom Cobb o Mal, son todos los aspectos de la misma personalidad. Basta con mirar los nombres de los personajes y de inmediato se hace obvio que estos no son nombres reales.  
   
 Dom Cobb, Arthur, Ariadne, Eames, Saito, y Yusuf, Mal, Miles. Robert Michael Fischer, Peter Browning, Maurice Fischer, Nash  
   
-¿Qué significan los nombres? No lo sé, pero puedo tomar una conjetura en algunos de ellos.  
+¿Qué significan los nombres? No lo sé, pero puedo aventurar una conjetura en algunos de ellos.  
   
 Arthur - alters  
 Eames - me  
@@ -70,7 +70,7 @@ Mal - malo, maligno
 **Arthur despertando sobre** [**suelo masónico**](https://www.ritualypropaganda.com/2011/06/el-misterio-del-patron-en-el-pavimento.html).
 
   
-Se ha hablado mucho del hecho de que el nombre de Ariadna es un personaje en el mito del Minotauro, y que los **[laberintos](https://www.ritualypropaganda.com/2011/10/la-interpretacion-esoterica-de-el.html)** (o laberinto de) juegan un papel en la trama. Pero ¿dónde están los laberintos de la historia? No vemos laberintos en la pantalla. Los laberintos se crean en su propia mente a medida que tratan de desentrañar la trama elaborada. Tú eres el único que se pierde en un laberinto y terminan siendo devorados por el minotauro. La parte superior no es mas que apoyo de un hipnotizador. No tiene ningún sentido a la historia. Al final hemos sido entrenados para concentrarse en el péndulo y pasar por alto la "realidad" frente a nosotros.  
+Se ha hablado mucho del hecho de que Ariadna es un personaje en el mito del Minotauro, y que los **[laberintos](https://www.ritualypropaganda.com/2011/10/la-interpretacion-esoterica-de-el.html)** (o laberinto de) juegan un papel en la trama. Pero ¿dónde están los laberintos de la historia? No vemos laberintos en la pantalla. Los laberintos se crean en su propia mente a medida que tratan de desentrañar la trama elaborada. Tú eres el único que se pierde en un laberinto y termina siendo devorado por el minotauro. La parte superior no es más que apoyo de un hipnotizador. No tiene ningún sentido para la historia. Al final hemos sido entrenados para concentrarnos en el péndulo y pasar por alto la "realidad" frente a nosotros.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi98wVQ2sVDXuJ9vVnIunEBwi2UD6wz-ZgNdWp0cWKMuoOMyPnuNEaG0yLRFj92j3thmDkMtqInfwLCt9gm3gN6lI_-ZBHdu9aMJ-EZpxENs5bHV91KoZ7F_8yBWRjHvrigXfblw0N9cco/s1600/165441_120588538006168_6413415_n.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi98wVQ2sVDXuJ9vVnIunEBwi2UD6wz-ZgNdWp0cWKMuoOMyPnuNEaG0yLRFj92j3thmDkMtqInfwLCt9gm3gN6lI_-ZBHdu9aMJ-EZpxENs5bHV91KoZ7F_8yBWRjHvrigXfblw0N9cco/s1600/165441_120588538006168_6413415_n.jpg)
@@ -81,7 +81,7 @@ Durante la película nosotros estamos dentro de la mente de un hombre que está 
   
 Electro-shock - desfibrilador cardíaco  
 Control mental bajo drogas - sedación profunda  
-Ahogamiento - caer al agua de espaldas mientras estas atado a una silla  
+Ahogamiento - caer al agua de espaldas mientras estás atado a una silla  
 Tortura - de Peter Browning  
 Multipersonalidad - Espejos Rotos  
 Casas protegidas - caja de seguridad, y casas en zonas aisladas protegidas por guardias armados  
@@ -93,7 +93,7 @@ Gatillos mentales - Música
 
 **La "patada" ¿o ahogamiento?**
 
-Entonces, ¿quién es Cobb Dom? Este obviamente no es su verdadero nombre. Sospecho que es un interrogador. También sospecho que ha caído en manos enemigas y está siendo sometido a las mismas técnicas de tortura que se utiliza para aplicar a los demás. Él ha sido entrenado para resistir estas técnicas. El nombre de Dom probablemente proviene de "dominador". Él se centra en sus hijos que le da una razón para seguir resistiendo a sus torturadores.  
+Entonces, ¿quién es Dom Cobb? Este obviamente no es su verdadero nombre. Sospecho que es un interrogador. También sospecho que ha caído en manos enemigas y está siendo sometido a las mismas técnicas de tortura que él solía aplicar a los demás. Él ha sido entrenado para resistir estas técnicas. El nombre de Dom probablemente proviene de "dominador". Él se centra en sus hijos, que le dan una razón para seguir resistiendo a sus torturadores.  
   
 ¿Quién es Ariadna? Sospecho que es un psicólogo que trabaja para los torturadores y que está tratando de extraer algún secreto de Cobb.  
   
@@ -105,17 +105,17 @@ Los torturadores no desean que la víctima descienda al limbo porque entonces se
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWq6wKw9AhlUTHj6jPrqWU4svhipfDYVeyfOOVQ5_jSASYT8z4THUi1oqugNLQDFvu-8IyXsoPhDuwvOeDB_W-pb9KUwMkO8LvqUVW_isaTVHb5zdavg2_OFDhukScanR1qvA468D7YXs/s1600/163417_120589618006060_3883155_n.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWq6wKw9AhlUTHj6jPrqWU4svhipfDYVeyfOOVQ5_jSASYT8z4THUi1oqugNLQDFvu-8IyXsoPhDuwvOeDB_W-pb9KUwMkO8LvqUVW_isaTVHb5zdavg2_OFDhukScanR1qvA468D7YXs/s1600/163417_120589618006060_3883155_n.jpg)
 
-**Conectados a la maquina de sueños.**
+**Conectados a la máquina de sueños.**
 
 Se puede implantar una misión en la víctima, y también “gatillarla” induciendo a la persona para completar la misión.  
   
-Tal vez Cobb es un "Candidato Manchurian", que ha sido puesto en libertad y ahora espera ser enviado a su misión. El detonante podría ser la canción que aparece en la película.  
+Tal vez Cobb es un "Candidato Manchú", que ha sido puesto en libertad y ahora espera ser enviado a su misión. El detonante podría ser la canción que aparece en la película.  
   
 "Tu mente es la escena del crimen" - cita del trailer de la película  
   
-En última instancia, "el mensaje" de la película no tiene nada que ver con la trama. La "idea" que está siendo implantado en el cerebro al público no tiene nada que ver con la "creación".  
+En última instancia, "el mensaje" de la película no tiene nada que ver con la trama. La "idea" que está siendo implantada en el cerebro del público no tiene nada que ver con la "creación".  
   
-Otro detalle a notar es el misteriorso número 3502 marcado en el tren. Y que luego se repite de forma inversa en un taxi, 2053. ¿Podrìan estar utilizando la Kabalah en el sueño?
+Otro detalle a notar es el misterioso número 3502 marcado en el tren. Y que luego se repite de forma inversa en un taxi, 2053. ¿Podrían estar utilizando la Kabalah en el sueño?
 
   
 
@@ -135,8 +135,8 @@ Se nos dice que debemos "dar un salto de fe" y saltar a nuestra desaparición. L
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI9pfP92x7xh6CMcLTEgSWFKc_JlmoErK8_FMMB6PRSE5FBRkMhOxgCECXzJJPkilNZr4EWhnimK2krNtN73pCyKEy6k5qrsM-iXZDDZZrFTDQlFlR7IardPTubtqDhvOZBicqIlpvCDg/s1600/156823_120593114672377_6552499_n.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI9pfP92x7xh6CMcLTEgSWFKc_JlmoErK8_FMMB6PRSE5FBRkMhOxgCECXzJJPkilNZr4EWhnimK2krNtN73pCyKEy6k5qrsM-iXZDDZZrFTDQlFlR7IardPTubtqDhvOZBicqIlpvCDg/s1600/156823_120593114672377_6552499_n.jpg)
 
-**El Totem que no se detiene.**
+**El Tótem que no se detiene.**
 
   
 
-No olvidemos que la misma trama superficial nos explica casi detalladamente que tan facil se puede inducir un pensamiento y lograr ciertos actitudes en una persona. Exactamente lo que Hollywood y la mayoria de los medios de comunicaciòn hacen diariamente para adoctrinar a las masas. ¿Acaso nosotros somos víctimas de una Inception? Si de verdad nuestra mente es la escena del crimen. No debemos perder de vista a los criminales.
+No olvidemos que la misma trama superficial nos explica casi detalladamente qué tan fácil se puede inducir un pensamiento y lograr ciertas actitudes en una persona. Exactamente lo que Hollywood y la mayoría de los medios de comunicación hacen diariamente para adoctrinar a las masas. ¿Acaso nosotros somos víctimas de una Inception? Si de verdad nuestra mente es la escena del crimen, no debemos perder de vista a los criminales.
