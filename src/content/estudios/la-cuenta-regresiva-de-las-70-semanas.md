@@ -16,12 +16,12 @@ No muchas profecías en la Biblia son tan descriptivas en cuanto a tiempo como l
   
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEgA6a9Amx-v1uLifk0Lzt-sSyedxWFy2nvts8xitucf4jEDoagMC2dvAwdMEWfIfhtzrGxq0klHGhbpSuBM7VRAint_vsjFBcBmo5JjoyA49jJmkB10DycBjnNX822BDFYFtTk_a_B4GSN2928srVDd71_Ynw-naXbWu4nybywGQ1PGxqJK2I9eXgaf=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEgA6a9Amx-v1uLifk0Lzt-sSyedxWFy2nvts8xitucf4jEDoagMC2dvAwdMEWfIfhtzrGxq0klHGhbpSuBM7VRAint_vsjFBcBmo5JjoyA49jJmkB10DycBjnNX822BDFYFtTk_a_B4GSN2928srVDd71_Ynw-naXbWu4nybywGQ1PGxqJK2I9eXgaf=s796)  
   
-El profeta Daniel, que desde niño fue sacado de su tierra natal, estaba cautivo en Babilonia, una tierra pagana que de muchas formas intento corromperlo a lo largo de su vida. Daniel se mantuvo fiel al Señor y en sus años de anciano, esperaba en la profecía de Jeremías que anunciaba el regreso de su pueblo a Israel. Mientras oraba pidiendo entendimiento sobre este tiempo, el ángel Gabriel le dio la siguiente profecía:  
+El profeta Daniel, que desde niño fue sacado de su tierra natal, estaba cautivo en Babilonia, una tierra pagana que de muchas formas intentó corromperlo a lo largo de su vida. Daniel se mantuvo fiel al Señor y en sus años de anciano, esperaba en la profecía de Jeremías que anunciaba el regreso de su pueblo a Israel. Mientras oraba pidiendo entendimiento sobre este tiempo, el ángel Gabriel le dio la siguiente profecía:  
 
-> **“Setenta semanas están determinadas sobre tu pueblo, y sobre tu santa ciudad, para fenecer la prevaricación, y concluir el pecado, y expiar la iniquidad, y para traer la justicia de los siglos, y para sellar la visión y la profecía, y ungir la santidad de santidades. Sepas pues, y entiendas, que desde la salida de la palabra para hacer volver el pueblo, y edificar a Jerusalem, hasta el Mesías Príncipe habrá siete semanas, sesenta y dos semanas; entre tanto se tornará a edificar la plaza, y el muro en tiempos angustiosos. Y después de las sesenta y dos semanas el Mesías será muerto, y no por sí; y el pueblo príncipe viniendo destruirá la ciudad, y el santuario, cuyo fin será como con avenida de aguas: hasta que al fin de la guerra sea talada con asolamiento.Y en otra semana confirmará el concierto a muchos: a la mitad de la semana hará cesar el sacrificio, y el presente; y a causa del ala de las abominaciones vendrá asolamiento, hasta que perfecto acabamiento se derrame sobre el pueblo asolado.”**  
+> **“Setenta semanas están determinadas sobre tu pueblo, y sobre tu santa ciudad, para fenecer la prevaricación, y concluir el pecado, y expiar la iniquidad, y para traer la justicia de los siglos, y para sellar la visión y la profecía, y ungir la santidad de santidades. Sepas pues, y entiendas, que desde la salida de la palabra para hacer volver el pueblo, y edificar a Jerusalem, hasta el Mesías Príncipe habrá siete semanas, sesenta y dos semanas; entre tanto se tornará a edificar la plaza, y el muro en tiempos angustiosos. Y después de las sesenta y dos semanas el Mesías será muerto, y no por sí; y el pueblo príncipe viniendo destruirá la ciudad, y el santuario, cuyo fin será como con avenida de aguas: hasta que al fin de la guerra sea talada con asolamiento. Y en otra semana confirmará el concierto a muchos: a la mitad de la semana hará cesar el sacrificio, y el presente; y a causa del ala de las abominaciones vendrá asolamiento, hasta que perfecto acabamiento se derrame sobre el pueblo asolado.”**  
 > **\-Daniel 9:24-27**
 
-Será importante entender que esta profecía compete al pueblo judío. El ángel Gabriel le menciona a Daniel, “sobre tu pueblo”, pero otorgan también un panorama a la iglesia gentil sobre eventos interesantes que aún no ocurren. En el texto se da una lista de cosas que deben cumplirse, 3 las cumplió Jesucristo en su primera venida y 3 las cumplirá en su segunda.  
+Será importante entender que esta profecía compete al pueblo judío. El ángel Gabriel le menciona a Daniel, “sobre tu pueblo”, pero otorga también un panorama a la iglesia gentil sobre eventos interesantes que aún no ocurren. En el texto se da una lista de cosas que deben cumplirse, 3 las cumplió Jesucristo en su primera venida y 3 las cumplirá en su segunda.  
   
 
 1.  Terminar la prevaricación
@@ -33,9 +33,9 @@ Será importante entender que esta profecía compete al pueblo judío. El ángel
 
 (En negritas los eventos que se cumplirán en la segunda venida)  
   
-Los eruditos están de acuerdo en que las semanas de las que se habla en Daniel 9 no son de días, sino de años. Esto se puede ver en Levítico 25:8 y Génesis 29:27. Así mismo, la versión KJV de la Biblia lo traduce como Setenta “sietes”. Es decir 70 x 7 años = 490 años en total. Gabriel le dijo a Daniel que, cuando llegara el momento de que los judíos regresaran e iniciaran con la reconstrucción de Jerusalén, comenzaría una cuenta regresiva profética de 490 años hasta el final.  
+Los eruditos están de acuerdo en que las semanas de las que se habla en Daniel 9 no son de días, sino de años. Esto se puede ver en Levítico 25:8 y Génesis 29:27. Así mismo, la versión KJV de la Biblia lo traduce como Setenta “sietes”. Es decir, 70 x 7 años = 490 años en total. Gabriel le dijo a Daniel que, cuando llegara el momento de que los judíos regresaran e iniciaran con la reconstrucción de Jerusalén, comenzaría una cuenta regresiva profética de 490 años hasta el final.  
   
-Le dijo también a Daniel que esa cuenta regresiva de 70 se dividirían en tres partes: 7, 62 y 1.  
+Le dijo también a Daniel que esa cuenta regresiva de 70 se dividiría en tres partes: 7, 62 y 1.  
   
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEhcD_-Iw-9SILiOLb6te6MNq5oovXPHuX007RbxDmFWcaX_L_-KMzdyWIL5Yl-zTYJhZLWONlLUu5zhS0F0730c_fQIzsUwuqsMn2md9fD6xha1ikb_8Yg53jsHOVcS9QonDD3xLdBMQQGtgbHJJ5eNgfNGh1RSa1H47SR2jAZs6SMcRcX12gRIKBQH=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEhcD_-Iw-9SILiOLb6te6MNq5oovXPHuX007RbxDmFWcaX_L_-KMzdyWIL5Yl-zTYJhZLWONlLUu5zhS0F0730c_fQIzsUwuqsMn2md9fD6xha1ikb_8Yg53jsHOVcS9QonDD3xLdBMQQGtgbHJJ5eNgfNGh1RSa1H47SR2jAZs6SMcRcX12gRIKBQH=s1000)
@@ -49,14 +49,14 @@ El primero es un período de siete “sietes”, lo que equivale a 49 años. Est
 
   
 
-Según Gabriel, el próximo período de tiempo incluye 62 “sietes”, o 434 años en total. Cuando sumamos el primer período (49 años) con el segundo período (434 años), se obtiene un total de 483 años. Ahí es cuando Gabriel le dice a Daniel que el Ungido (Jesús) sería ejecutado ¿Se cumplió ese plazo?
+Según Gabriel, el próximo período de tiempo incluye 62 “sietes”, o 434 años en total. Cuando sumamos el primer período (49 años) con el segundo período (434 años), se obtiene un total de 483 años. Ahí es cuando Gabriel le dice a Daniel que el Ungido (Jesús) sería ejecutado. ¿Se cumplió ese plazo?
 
   
-En el siglo XIX, el famoso asiriólogo Henry Creswicke Rawlinson descubrió y tradujo registros antiguos en el Palacio de Susa. Según estos documentos, la orden de reconstruir Jerusalén fue dada por el rey Artajerjes el 14 de marzo del año 445 a.C.  
+En el siglo XIX, el famoso asiriólogo Henry Creswicke Rawlinson descubrió y tradujo registros antiguos en el Palacio de Susa. Según estos documentos, la orden de reconstruir Jerusalén fue dada por el rey Artajerjes el 14 de marzo del año 445 a. C.  
   
-El calendario judío es lunar. Como resultado, tiene 360 ​​días en cada año. Usando ese calendario, pasan un total de 483 años entre el 445 a.C. y la muerte de Jesús.  
+El calendario judío es lunar. Como resultado, tiene 360 días en cada año. Usando ese calendario, pasan un total de 483 años entre el 445 a. C. y la muerte de Jesús.  
   
-A partir del 14 de marzo de 445 a.C. y sumando los 69 “sietes” nos llevaría al 6 de abril del año 32 d.C. Esa fecha es el Domingo de Ramos, cuando Jesús entró cabalgando en un burro a Jerusalén y comenzó su marcha hacia la muerte en la Cruz. Un cumplimiento matemáticamente preciso.
+A partir del 14 de marzo de 445 a. C. y sumando los 69 “sietes” nos llevaría al 6 de abril del año 32 d. C. Esa fecha es el Domingo de Ramos, cuando Jesús entró cabalgando en un burro a Jerusalén y comenzó su marcha hacia la muerte en la Cruz. Un cumplimiento matemáticamente preciso.
 
   
 
@@ -68,7 +68,7 @@ El tercer periodo de 7 años, o la última semana, aún no ha ocurrido. Debido a
   
 ¿Cuándo ocurrirá entonces? La última semana de Daniel, la semana 70, comenzará cuando el Anticristo confirme un pacto de siete años con Israel. Esto dará inicio a la Tribulación. La confirmación de un tratado con el Anticristo inicia, o reactiva, la cuenta regresiva hasta el final.  
   
-Cuando la profecía de Daniel dice “a la mitad de la semana hará cesar el sacrificio y la ofrenda”, se refiere a que a los tres años y medio después de la Tribulación, el Anticristo entrará en el 3º Templo reconstruido en el Monte del Templo en Jerusalén, revelará sus verdaderas intenciones y se autoproclamará Dios. Esta es la abominación desoladora de la que hablaron Daniel, Jesús y el apóstol Pablo (2 de Tesalonicenses 2:3-4).  
+Cuando la profecía de Daniel dice “a la mitad de la semana hará cesar el sacrificio y la ofrenda”, se refiere a que a los tres años y medio del inicio de la Tribulación, el Anticristo entrará en el 3º Templo reconstruido en el Monte del Templo en Jerusalén, revelará sus verdaderas intenciones y se autoproclamará Dios. Esta es la abominación desoladora de la que hablaron Daniel, Jesús y el apóstol Pablo (2 Tesalonicenses 2:3-4).  
   
 Cuando ocurra este evento, comienza la segunda mitad de la Tribulación y toda la Tierra colapsa. Esto es lo que dijo Jesús al respecto:  
 

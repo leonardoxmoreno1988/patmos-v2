@@ -13,7 +13,7 @@ Estimado lector,
 
   
 
-La película _Encuentros Cercanos del Tercer Tipo_ (1977) contiene paralelos con la experiencia de Moisés en el monte Sinaí, y en general, grandes paralelos con las manifestaciones angélicas que vendrán en los últimos tiempos. La película es por tanto, otro ejemplo de programación predictiva antibíblica.  
+La película _Encuentros Cercanos del Tercer Tipo_ (1977) contiene paralelos con la experiencia de Moisés en el monte Sinaí, y en general, grandes paralelos con las manifestaciones angélicas que vendrán en los últimos tiempos. La película es, por tanto, otro ejemplo de programación predictiva antibíblica.  
   
 En EC3T, varios científicos se reúnen para analizar una determinada señal, la cual consiste en pulsos sucesivos que determinan una latitud y longitud. La plataforma está numerada dos veces con el número 333 (=666). También puede observarse el triángulo con el [ojo que todo lo ve](https://www.ritualypropaganda.com/2021/09/ojo-que-todo-lo-ve.html), el cual es la insignia de la organización científica internacional que investiga el fenómeno.  
   
@@ -38,19 +38,19 @@ Incluso algunas escenas después vemos que un grupo de niños intenta ver litera
 
   
 
-Los extraterrestres eligen doce personas de diferentes partes de los Estados Unidos, implantando en sus mentes una misma visión: el monte Torre del Diablo. Cada uno de ellos expresa su visión por diferentes medios artísticos. Que sean doce los elegidos, recuerda que son doce los discípulos elegidos por Jesús como sus apóstoles.  
+Los extraterrestres eligen a doce personas de diferentes partes de los Estados Unidos, implantando en sus mentes una misma visión: el monte Torre del Diablo. Cada uno de ellos expresa su visión por diferentes medios artísticos. Que sean doce los elegidos recuerda que son doce los discípulos elegidos por Jesús como sus apóstoles.  
 
 > "Y subió al monte, y llamó a sí los que él quiso; y vinieron a él. Y ordenó a doce para que estuviesen con él, y para enviarlos a predicar; Y que tuviesen potestad de sanar enfermedades, y de echar fuera demonios:"  
 > –Marcos 3:13-15
 
-El ascenso del protagonista a la montaña para el encuentro extraterrestre, nuevamente recuerda los pasajes del ascenso de Moisés al encuentro con el Señor, en el monte Sinaí (Éxodo 24:12-18). Así mismo, la aparición de [extrañas nubes](https://www.ritualypropaganda.com/2022/08/nope-dios-depredador.html), que anteceden la aparición de la nave extraterreste, tiene un paralelismo con el encuentro del pueblo de Israel con Dios y también con la futura Segunda Venida de Cristo.  
+El ascenso del protagonista a la montaña para el encuentro extraterrestre, nuevamente recuerda los pasajes del ascenso de Moisés al encuentro con el Señor, en el monte Sinaí (Éxodo 24:12-18). Así mismo, la aparición de [extrañas nubes](https://www.ritualypropaganda.com/2022/08/nope-dios-depredador.html), que anteceden la aparición de la nave extraterrestre, tiene un paralelismo con el encuentro del pueblo de Israel con Dios y también con la futura Segunda Venida de Cristo.  
 
 > “Y entónces se mostrará la señal del Hijo del hombre en el cielo, y entónces lamentarán todas las tribus de la tierra; y verán al Hijo del hombre que vendrá sobre las nubes del cielo, con poder y grande gloria. Y enviará sus ángeles con trompeta y gran voz; y juntarán sus escogidos de los cuatro vientos, del un cabo del cielo hasta el otro.”  
 > –Mateo 24:30-31
 
 Además de nubes extrañas, en el film pueden observarse relámpagos, que se acompañan simultáneamente por la música de la película, compuesta exclusivamente de sonidos fuertes de trompetas, semejantes al sonido de bocinas de tren. La experiencia del Éxodo con Moisés ascendiendo al Monte Sinaí también describe sonidos de trompeta y relámpagos.  
 
-> “Y aconteció al tercero día cuando vino la mañana, que vinieron truenos y relámpagos, y grave nube sobre el monte; y un sonido de bocina muy fuerte: y estremecióse todo el pueblo que estaba en el real."  
+> “Y aconteció al tercero día cuando vino la mañana, que vinieron truenos y relámpagos, y grave nube sobre el monte; y un sonido de bocina muy fuerte: y estremecióse todo el pueblo que estaba en el real.”  
 > –Éxodo 19:16
 
 Cuando la nave extraterrestre desciende, uno de los ingenieros exclama: “Mi Dios”, mientras el otro ingeniero se arrodilla. Las connotaciones religiosas son diversas durante el film.  
@@ -67,12 +67,12 @@ La oración es muy ambigua respecto a la identidad de Dios, ya que el sacerdote 
   
 Este contacto sobrenatural se da en ambientes llenos de luz, como una forma de relacionar la intensa luz de la presencia de Dios (1 Juan 1:5) con el fenómeno OVNI. Esta es la razón por la que la apertura de su nave tiende a iluminar todo el escenario con una fuerte luz blanca.  
   
-No debe sorprendernos que una pronta desclasificación del fenómeno extraterrestre sea un engaño orquestado por ángeles caídos. Pablo advierte con gran detalle que estas señales no debe sorprendernos ni pasar desapercibida, incluso comparándolos con los falsos profetas y su capacidad de infiltrarse como servidores de justicia.  
+No debe sorprendernos que una pronta desclasificación del fenómeno extraterrestre sea un engaño orquestado por ángeles caídos. Pablo advierte con gran detalle que estas señales no deben sorprendernos ni pasar desapercibidas, incluso comparándolos con los falsos profetas y su capacidad de infiltrarse como servidores de justicia.  
 
 > **“Porque los tales son falsos apóstoles, obreros fraudulentos que se transfiguran en apóstoles de Cristo. Y no es maravilla; porque el mismo Satanás se transfigura en ángel de luz. Así que no es mucho, si sus ministros se transfiguren como ministros de justicia, cuyo fin será conforme a sus obras.”**  
 > **–2 Corintios 11:13-15**
 
-En resumen, EC3T es solo otra pieza de evidencia que confirma que este mundo está dirigido nada menos que por un ángel caído, el mismo Satanás. Su sistema oscuro de propaganda trata con esmero de instaurar una agenda especifica, una diseñada para rechazar la verdadera luz de mundo (Juan 8:12).  
+En resumen, EC3T es solo otra pieza de evidencia que confirma que este mundo está dirigido nada menos que por un ángel caído, el mismo Satanás. Su sistema oscuro de propaganda trata con esmero de instaurar una agenda específica, una diseñada para rechazar la verdadera luz del mundo (Juan 8:12).  
   
 
 Gracias por leer el newsletter de esta semana. No olvide compartir el material con sus familiares y cercanos.

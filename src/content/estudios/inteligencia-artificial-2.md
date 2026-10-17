@@ -1,5 +1,5 @@
 ---
-title: "La inteligencia artificial y como la ciencia aumentará (2)"
+title: "La inteligencia artificial y cómo la ciencia aumentará (2)"
 date: "2023-05-20"
 updated: "2026-04-17"
 author: "Leonardo Moreno"
@@ -14,15 +14,15 @@ Estimado lector,
 El Anticristo usará la tecnología para empujar su agenda contra Dios. Vemos esto en Revelación 11, cuando el mundo usa la tecnología para glorificar la muerte de los dos testigos.  
 
 > “Y los de los linajes, y de los pueblos, y de las lenguas, y de los Gentiles verán los cuerpos de ellos por tres días y medio, y no permitirán que sus cuerpos sean puestos en sepulcros. Y los moradores de la tierra se gozarán sobre ellos, y se alegrarán, y se enviarán dones los unos á los otros; porque estos dos profetas han atormentado á los que moran sobre la tierra.”  
-> ‭‭–Revelación ‭11‬:‭9‬-10
+> –Revelación 11:9-10
 
-Los [dos testigos](https://www.gotquestions.org/Espanol/apocalipsis-dos-testigos.html) descenderán a la Tierra en el futuro para predicar el mensaje de salvación durante la Tribulación (Revelación 11:3-12), pero el Anticristo los asesinará en Jerusalén (Revelación 11:7-8), dejando sus cuerpos al descubierto por tres días y medio.  
+Los [dos testigos](https://www.gotquestions.org/Espanol/apocalipsis-dos-testigos.html) descenderán a la Tierra en el futuro para predicar el mensaje de salvación durante la Tribulación (Revelación 11:3-12), pero el Anticristo los asesinará en Jerusalén (Revelación 11:7-8), dejando sus cuerpos al descubierto por tres días y medio.  
   
-Debido a que en ese tiempo la mayoría serán seguidores del Anticristo, se alegrarán con él y celebrarán tales muertes. Pero el versículo muestra algo interesante, y es que menciona que distintos pueblos, tribus, lenguas y naciones verán sus cadáveres (Revelación 11:9).  
+Debido a que en ese tiempo la mayoría serán seguidores del Anticristo, se alegrarán con él y celebrarán tales muertes. Pero el versículo muestra algo interesante, y es que menciona que distintos pueblos, tribus, lenguas y naciones verán sus cadáveres (Revelación 11:9).  
   
-Hace tan solo 100 años, muchos estudiosos de la Biblia no tenían claro como esto ocurriría, solo lo creían. Hablamos de como personas de distintos países en todo el mundo podrían ver un mismo evento en un plazo tan corto de tiempo (tres días y medio).  
+Hace tan solo 100 años, muchos estudiosos de la Biblia no tenían claro cómo esto ocurriría, solo lo creían. Hablamos de cómo personas de distintos países en todo el mundo podrían ver un mismo evento en un plazo tan corto de tiempo (tres días y medio).  
   
-La respuesta es tangible ahora, la tecnología permite ver que ocurre en casi todo el mundo, en tiempo real, mediante diversos dispositivos. No hay duda de que si es posible ahora, será más eficaz en el futuro.
+La respuesta es tangible ahora, la tecnología permite ver qué ocurre en casi todo el mundo, en tiempo real, mediante diversos dispositivos. No hay duda de que si es posible ahora, será más eficaz en el futuro.
 
   
 
@@ -33,12 +33,12 @@ El hecho de que todo el mundo sea parte de un mismo evento, no solo demuestra el
   
 En ese [nuevo orden tecnocrático](https://www.ritualypropaganda.com/2021/09/tecnocracia-bestia-dragon.html), el gobierno podrá escuchar todas las llamadas telefónicas. Colocarán transmisores en cada persona para realizar un seguimiento de ellos. Los cristianos descubiertos serán asesinados cuando no renuncien a su fe en Jesucristo.  
   
-Pero la tecnología del futuro no solo estará en dispositivos avanzados, estará integrada en el cuerpo de las personas, el sueño transhumanista oculto. La marca de la bestia será una forma de transhumanismo (Revelación 13:16-17), un pedazo de tecnología en la frente o en la mano que no solo brindará acceso a un sistema económico mundial, sino que otorgará capacidades sobrehumanas (Revelación 9:6).  
+Pero la tecnología del futuro no solo estará en dispositivos avanzados, estará integrada en el cuerpo de las personas, el sueño transhumanista oculto. La marca de la bestia será una forma de transhumanismo (Revelación 13:16-17), un pedazo de tecnología en la frente o en la mano que no solo brindará acceso a un sistema económico mundial, sino que otorgará capacidades sobrehumanas (Revelación 9:6).  
   
 Si volvemos al [sueño del rey Nabucodonosor](https://i.pinimg.com/originals/5a/bb/58/5abb58fc1751e673d0a81cb50cbc4250.jpg) y su visión del gobierno del Anticristo (los pies de la estatua), es posible ver una integración sobrenatural de los elementos que mencionamos:  
 
 > “Y los dedos de los piés en parte de hierro, y en parte de barro cocido, en parte el reino será fuerte, y en parte será frágil. Cuanto a lo que viste el hierro mezclado con tiesto de barro, mezclarse han con simiente humana: mas no se pegarán el uno con el otro, como el hierro no se mezcla con el tiesto.”  
-> ‭‭–Daniel‬ ‭2‬:‭42‬-‭43‬ ‭
+> –Daniel 2:42-43 
 
 En una primera instancia, el ángel le muestra a Daniel que en el futuro existirán dos reinos en uno solo, una especie de híbrido: el Imperio Romano (hierro), el cual se ha extendido hasta nuestros días como el Catolicismo Romano; y otro reino distinto, que se describe como más débil (barro).  
   
@@ -47,16 +47,16 @@ En una primera instancia, el ángel le muestra a Daniel que en el futuro existir
 
   
 
-Esta mezcla de reinos a su vez estará dividido en diez partes, representado por los diez dedos de la imagen. Este será el último gobierno gentil antes de la Segunda Venida de Cristo.  
+Esta mezcla de reinos a su vez estará dividida en diez partes, representada por los diez dedos de la imagen. Este será el último gobierno gentil antes de la Segunda Venida de Cristo.  
   
 Pero existe otra señal importante en el versículo 43, donde se dice "se mezclarán por medio de alianzas humanas; pero no se unirán el uno con el otro, como el hierro no se mezcla con el barro". Una traducción más fiel al texto sería:  
 
 > “mezclarse han con simiente humana: mas no se pegarán el uno con el otro, como el hierro no se mezcla con el tiesto.”  
-> ‭‭–Daniel‬ ‭2‬:‭43‬ ‭
+> –Daniel 2:43 
 
 Esta no es solo una alianza política de dos partes, sino una que involucra algo más siniestro. Se habla de la "simiente humana", el barro, mezclada con otra simiente distinta, la cual es un misterio, pero se ejemplifica como el bronce. Esta revelación implica una mezcla genética.  
   
-La última vez que la simiente humana se mezcló con otra, fue en el Génesis 6, cuando ángeles descendieron del cielo y se procrearon con mujeres humanas, la simiente humana se mezcló con la simiente angélica, [produciendo gigantes](https://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html).  
+La última vez que la simiente humana se mezcló con otra, fue en Génesis 6, cuando ángeles descendieron del cielo y se procrearon con mujeres humanas, la simiente humana se mezcló con la simiente angélica, [produciendo gigantes](https://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html).  
   
 El hierro tiene muchas connotaciones negativas en la Biblia, como la punta de lanza de Goliat hecha de hierro (1 Samuel 17:7). En Canaán los primeros en usar el hierro fueron los filisteos, enemigos de Israel. Casualmente Goliat fue descendiente de los gigantes.  
   
@@ -70,13 +70,13 @@ Pero también el [bronce representa a la tecnología](https://www.lavanguardia.c
   
 Cuando estos seres desciendan a la Tierra o crucen a nuestra dimensión física material, creo muy probable que algunos utilicen cuerpos tecnológicos para hacerlo, una forma avanzada de bronce/acero, que popularmente llamamos en la actualidad [cyborgs](https://es.wikipedia.org/wiki/C%C3%ADborg).  
   
-Este término fue presentado por Manfred Clynes y Nathan Kline en 1960 para referirse a un ser humano mejorado que podría sobrevivir en el espacio. Por lo que vemos desde el inicio el interés de esta tecnología para fines de investigación extra-terrestre.  
+Este término fue presentado por Manfred Clynes y Nathan Kline en 1960 para referirse a un ser humano mejorado que podría sobrevivir en el espacio. Por lo que vemos desde el inicio el interés de esta tecnología para fines de investigación extraterrestre.  
   
-El deseo esta presente. En todo el mundo hombres y mujeres están ampliando los límites de la robótica. Las potencias mundiales están pensando en formas nuevas de crear sistemas tecnológicos que caminen, hablen, vean y se comuniquen entre sí.  
+El deseo está presente. En todo el mundo hombres y mujeres están ampliando los límites de la robótica. Las potencias mundiales están pensando en formas nuevas de crear sistemas tecnológicos que caminen, hablen, vean y se comuniquen entre sí.  
   
-Sea cual fuere el escenario final, es más seguro mantener el lenguaje bíblico y entender que son los ['hijos de Dios'](https://www.ritualypropaganda.com/2022/04/angeles-no-guardaron-dignidad.html) los que llegarán a la Tierra y se mezclaran con mujeres humanas, independientemente de si utilizaran cuerpos tecnológicos o biológicos.  
+Sea cual fuere el escenario final, es más seguro mantener el lenguaje bíblico y entender que son los ['hijos de Dios'](https://www.ritualypropaganda.com/2022/04/angeles-no-guardaron-dignidad.html) los que llegarán a la Tierra y se mezclarán con mujeres humanas, independientemente de si utilizan cuerpos tecnológicos o biológicos.  
   
-Cuando leemos que el barro no se mezcla con el hierro, Dios está condenando cualquier forma de unión entre el cuerpo biológico y la tecnología. Es por eso que esta creación no prosperará, ya que Jesús los destruirá en la batalla final en Meggido (Revelación 16:12-16).  
+Cuando leemos que el barro no se mezcla con el hierro, Dios está condenando cualquier forma de unión entre el cuerpo biológico y la tecnología. Es por eso que esta creación no prosperará, ya que Jesús los destruirá en la batalla final en Meguido (Revelación 16:12-16).  
   
 Continuará en la parte 3.  
   

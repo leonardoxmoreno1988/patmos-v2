@@ -36,16 +36,16 @@ En el 79 d. C., Herculano y Pompeya fueron destruidos por la erupción del Vesub
 
   
 
-**Nota:** Si deseas recibir más contenido sobre la persona de Jesucristo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre la persona de Jesucristo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
-En el 49 d.C., el emperador Claudio expulsó a los judíos de Roma. Los escritores judíos Josefo y Filón no mencionan el evento, solo leemos sobre él en Suetonio y en Hechos 18: 2. Claramente, esperaríamos que un par de contemporáneos judíos tomaran nota de este evento, pero no fue así. Pero no inferimos que su silencio signifique que la expulsión no ocurrió.  
+En el 49 d. C., el emperador Claudio expulsó a los judíos de Roma. Los escritores judíos Josefo y Filón no mencionan el evento, solo leemos sobre él en Suetonio y en Actos 18:2. Claramente, esperaríamos que un par de contemporáneos judíos tomaran nota de este evento, pero no fue así. Pero no inferimos que su silencio signifique que la expulsión no ocurrió.  
   
 Con respecto a la relativa debilidad de los argumentos de “el silencio”, aquí está el filósofo Tim McGrew:  
   
 
-> “Tales argumentos del silencio son omnipresentes en la erudición del Nuevo Testamento, pero en el mejor de los casos son tenues ... es un negocio arriesgado especular sobre los motivos de los autores para incluir u omitir varios hechos. Crear una apariencia de inconsistencia con este tema ... es metodológicamente incorrecto ". (Compañero de Blackwell a la teología natural).
+> “Tales argumentos del silencio son omnipresentes en la erudición del Nuevo Testamento, pero en el mejor de los casos son tenues ... es un negocio arriesgado especular sobre los motivos de los autores para incluir u omitir varios hechos. Crear una apariencia de inconsistencia con este tema ... es metodológicamente incorrecto". (Compañero de Blackwell a la teología natural).
 
-## ¿Por Qué Pliny O Seneca Reportarían El Eclipse?
+## ¿Por Qué Plinio O Séneca Reportarían El Eclipse?
 
 Ni Plinio ni Séneca vivieron en Judea o cerca de Judea durante la época de Jesús. Ni siquiera estamos seguros de que la oscuridad se deba a un eclipse solar, podría haber sido algún otro hecho natural o sobrenatural. Además, aunque Plinio escribe con gran detalle sobre otros eventos naturales, no entra en detalles sobre los eclipses. Hay una frase sobre el tema en Historia Natural 2.30. Aquí está:  
 
@@ -84,9 +84,9 @@ Dicho esto, parece poco probable que un historiador romano se tomara esta afirma
   
 Además, ¿por qué Julius Africanus argumentó que Thallus interpreta erróneamente el evento? El historiador Maurice Goguel comenta:  
 
-> “Si Thallus hubiera estado escribiendo simplemente como un cronógrafo que menciona un eclipse que ocurrió en el decimoquinto año del reinado de Tiberio, Julius Africanus no habría dicho que estaba equivocado, sino que lo habría usado como evidencia para confirmar la tradición cristiana." (Jesús el Nazareno, págs. 91-92)
+> “Si Thallus hubiera estado escribiendo simplemente como un cronógrafo que menciona un eclipse que ocurrió en el decimoquinto año del reinado de Tiberio, Julius Africanus no habría dicho que estaba equivocado, sino que lo habría usado como evidencia para confirmar la tradición cristiana.” (Jesús el Nazareno, págs. 91-92)
 
-Tertuliano, escribiendo en 197 d.C., también dice que este evento estaba en los archivos romanos. ¿Podría haberse referido a los escritos de Thallus? Es una pregunta interesante. Tertuliano escribió:  
+Tertuliano, escribiendo en 197 d. C., también dice que este evento estaba en los archivos romanos. ¿Podría haberse referido a los escritos de Thallus? Es una pregunta interesante. Tertuliano escribió:  
 
 > “Y sin embargo, clavado en la cruz, exhibió muchas señales notables, por las cuales su muerte se distinguió de todas las demás. Por su propia voluntad, Él con una palabra apartó de Él Su espíritu, anticipándose a la obra del verdugo. A la misma hora, también, se retiró la luz del día, cuando el sol en ese mismo momento estaba en su resplandor meridiano. Aquellos que no sabían que esto había sido predicho acerca de Cristo, sin duda pensaron que era un eclipse. Ustedes mismos tienen el relato del mundo presagiado todavía en sus archivos".
 
