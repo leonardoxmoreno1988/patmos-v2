@@ -5,7 +5,7 @@ updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-3-los-padrinos"
 redirectFrom: "/2013/08/alberto-rivera-ex-jesuita-y-su-historia.html"
-description: "En este tercer capítulo se expone como la Institución Católica Romana, la \"Madre de las Abominaciones\" (Apocalipsis 17), causó muchas guerras. Este es el libro…"
+description: "En este tercer capítulo se expone como la Institución Católica Romana, la \"Madre de las Abominaciones\" (Revelación 17), causó muchas guerras. Este es el libro…"
 tags: ["Falsas Doctrinas"]
 ---
 
