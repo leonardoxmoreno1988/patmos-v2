@@ -1,5 +1,5 @@
 ---
-title: "¿Son Las Guerras Mundiales Orquestadas? Almirante Aleman Expone Dato Importante"
+title: "¿Son Las Guerras Mundiales Orquestadas? Almirante Alemán Expone Dato Importante"
 date: "2015-10-16"
 updated: "2023-07-21"
 author: "Henry Makow"
@@ -19,11 +19,9 @@ Un detalle en el libro acertadamente titulado _**El Suicidio de Europa**_ (196
 
   
   
-En este posible período previo a la tercera guerra mundial, vale la pena preguntarse si los Illuminati orquestaron la Segunda Guerra Mundial, que vió el genocidio de unos 70 millones de seres humanos.  
+En este posible período previo a la tercera guerra mundial, vale la pena preguntarse si los Illuminati orquestaron la Segunda Guerra Mundial, que vio el genocidio de unos 70 millones de seres humanos.  
   
-Un detalle en el libro acertadamente titulado _El suicidio de Europa_ (1968) de Michel Sturdza encendió mis campanas de alarma.  
-  
-Sturdza fue ministro de Relaciones Exteriores de Rumania desde septiembre-diciembre 1940. Él era un líder en el movimiento pro-nazi, anti-comunista, "legionario" cristiano. Los nazis, que al igual que sus contrapartes comunistas eran "nuevo orden mundial", se oponían a todos los movimientos nacionalistas. Pronto derrocaron los Legionarios y pusieron a estos patriotas en los campos de concentración.  
+Sturdza fue ministro de Relaciones Exteriores de Rumania desde septiembre hasta diciembre de 1940. Él era un líder en el movimiento pronazi, anticomunista, "legionario" cristiano. Los nazis, que al igual que sus contrapartes comunistas eran "nuevo orden mundial", se oponían a todos los movimientos nacionalistas. Pronto derrocaron a los Legionarios y pusieron a estos patriotas en los campos de concentración.  
   
 Antes de asumir su cargo en 1940, Sturdza estaba de visita en Berlín. Nadie quería hablar con él, con la excepción del almirante Wilhelm Canaris, jefe astuto del Abwehr, Inteligencia del Ejército alemán.  
   
@@ -42,7 +40,7 @@ Esto era algo peculiar de decir para un oficial de Inteligencia del ejército al
   
 Sturdza pensó que estaba siendo probado y se mantuvo sin compromiso. "Yo no tenía la menor idea de que había estado en contacto con la mayor red de espionaje y traidores conocidos de la historia militar de cualquier país." (Página 162)  
   
-De hecho Canaris, que pudo haber sido de origen greco-judío, saboteó el esfuerzo de guerra nazi. Sturdza cree que su red de espionaje fue la causa principal de la derrota nazi. Después de un fallido intento de asesinar a Hitler, sus miembros fueron brutalmente asesinados por la Gestapo.  
+De hecho, Canaris, que pudo haber sido de origen grecojudío, saboteó el esfuerzo de guerra nazi. Sturdza cree que su red de espionaje fue la causa principal de la derrota nazi. Después de un fallido intento de asesinar a Hitler, sus miembros fueron brutalmente asesinados por la Gestapo.  
   
 Naturalmente, ellos son retratados como los héroes valientes: los humanistas de principios que se resistieron a la tiranía fascista. Sin embargo, la declaración, "Va a ser aplastado. Gran Bretaña es siempre victorioso," sugiere una agenda diferente, un diseño más grande.  
   
@@ -51,12 +49,12 @@ Naturalmente, ellos son retratados como los héroes valientes: los humanistas de
 
 **Wilhelm Canaris.**
 
-La sede de la **[Internacional Comunista Capitalista](http://www.savethemales.ca/000275.html)** se encuentra en la ciudad de Londres. El Banco de Inglaterra financió la maquinaria de guerra nazi igual que financiaron la revolución bolchevique. Los banqueros orquestaron la Segunda Guerra Mundial para destruir los grandes estados nacionales de Europa y acabar con la créme de la nueva generación. Por ejemplo, los soviéticos asesinaron 15.000 oficiales polacos en el bosque de Katyn a pesar de que los polacos podrían haber ayudado a resistir la embestida nazi.  
+La sede de la **[Internacional Comunista Capitalista](http://www.savethemales.ca/000275.html)** se encuentra en la ciudad de Londres. El Banco de Inglaterra financió la maquinaria de guerra nazi igual que financiaron la revolución bolchevique. Los banqueros orquestaron la Segunda Guerra Mundial para destruir los grandes estados nacionales de Europa y acabar con la crème de la nueva generación. Por ejemplo, los soviéticos asesinaron a 15.000 oficiales polacos en el bosque de Katyn a pesar de que los polacos podrían haber ayudado a resistir la embestida nazi.  
   
-¿Fue Canaris un Illuminati o un incauto illuminati? Al parecer quería derrocar a Hitler y poner fin a la guerra pronto, pero los aliados insistieron en la "rendición incondicional", es decir, la máxima masacre. No hay fuerzas nacionalistas debían permanecer. El ejército alemán no tuvo más remedio luchar hasta el final.  
+¿Fue Canaris un Illuminati o un incauto illuminati? Al parecer quería derrocar a Hitler y poner fin a la guerra pronto, pero los aliados insistieron en la "rendición incondicional", es decir, la máxima masacre. Ninguna fuerza nacionalista debía permanecer. El ejército alemán no tuvo más remedio que luchar hasta el final.  
   
 **También Leer: [La Mano Oculta Que Moldeó La Historia](http://www.ritualypropaganda.com/2011/11/la-mano-oculta-que-moldeo-la-historia.html)**  
   
 No veo la Segunda Guerra Mundial como "la guerra buena". Fue fabricada para concentrar la riqueza y el poder, y para degradar y desmoralizar a la humanidad. Ambas partes eran culpables de atrocidades indecibles.  
   
-Las dos grandes guerras, y la potencial tercero se destinarán a promover la dictadura Illuminati de un solo mundo y bajo su **[control mental](http://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html)**. La humanidad está en las garras de una conspiración diabólica multigeneracional, y está demasiado fascinada por el sexo y el dinero para darse cuenta de ello.
+Las dos grandes guerras, y la potencial tercera, se destinarán a promover la dictadura Illuminati de un solo mundo y bajo su **[control mental](http://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html)**. La humanidad está en las garras de una conspiración diabólica multigeneracional, y está demasiado fascinada por el sexo y el dinero para darse cuenta de ello.

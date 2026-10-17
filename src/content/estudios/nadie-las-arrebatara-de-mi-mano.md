@@ -11,9 +11,9 @@ tags: ["Apologética"]
 
 Estimado lector,
 
-La seguridad eterna del cristiano no es un asunto superficial. Se trata del fundamento sobre el que se construye una sólida confianza y comprensión de la misma persona que nos ha salvado ¿Uno puede caminar seguro de que su salvación?  
+La seguridad eterna del cristiano no es un asunto superficial. Se trata del fundamento sobre el que se construye una sólida confianza y comprensión de la misma persona que nos ha salvado. ¿Uno puede caminar seguro de que su salvación?  
   
-Comprender esta doctrina es fundamental para cualquier creyente, ya que sin la certeza de la salvación, no se puede profundizar en otros aspectos más profundos de la Biblia.  
+Comprender esta doctrina es fundamental para cualquier creyente, ya que sin la certeza de la salvación no se puede profundizar en otros aspectos más profundos de la Biblia.  
   
 ![](https://ci3.googleusercontent.com/meips/ADKq_Nbf29WotHyVRUsIdAnf2QCATvDK0o9isosQ_qZIu3e6QjtGfvWW_3dE5IaPdmar3gWVH3II2TEeBkIwtJc-401vFPS7KE-plJDoAPVj3cHjnGaSIe4a5IagtyFVV6HV6aMjWFy9D6eIY5w6yyC6tscHCZ0=s0-d-e1-ft#https://lvr67.img.ag.d.sendibm3.com/im/sh/ZBx4osPnEGMn.jpg?u=WtVElij8PJZGeEwH1cIoP8qMLbfzOGcD)  
   
@@ -26,7 +26,7 @@ El que tiene al Hijo tiene la vida eterna, una vida que por su propia naturaleza
   
 Esta unión con la persona que nos salvó se ilustra a través de la unidad del cuerpo de Cristo descrita por Pablo (1 Corintios 12:15-27). Al ser integrados como miembros de Su cuerpo, pasamos a formar parte de un organismo donde cada parte es indispensable y está unida a Dios mismo.  
   
-La Escritura enseña que no hay división ni posibilidad de que un miembro sea arrancado. Nuestra seguridad descansa en la integridad del cuerpo de Cristo, mientras el Cuerpo permanezca, el creyente permanece, independientemente de sus propias limitaciones o de su falta de obediencia.  
+La Escritura enseña que no hay división ni posibilidad de que un miembro sea arrancado. Nuestra seguridad descansa en la integridad del cuerpo de Cristo; mientras el Cuerpo permanezca, el creyente permanece, independientemente de sus propias limitaciones o de su falta de obediencia.  
   
 El propio Cristo reforzó esta verdad con una promesa de protección al declarar que Sus ovejas nunca perecerán y que nadie las arrebatará de Su mano:  
 
@@ -60,7 +60,7 @@ Es posible que un cristiano salvo vea sus obras consumidas por haber vivido lige
 
   
 
-La salvación no está en riesgo en ese juicio, lo que está en juego es el galardón y la corona que se obtienen por las obras que hacemos. Pero el sello del Espíritu Santo se mantiene hasta el día final, asegurando nuestro lugar en el cielo (Efesios 4:30).  
+La salvación no está en riesgo en ese juicio; lo que está en juego es el galardón y la corona que se obtienen por las obras que hacemos. Pero el sello del Espíritu Santo se mantiene hasta el día final, asegurando nuestro lugar en el cielo (Efesios 4:30).  
   
 Saber que el sacrificio de Cristo fue suficiente para eliminar el pecado pasado, presente y futuro, otorga una paz que la salvación por obras nunca podrá ofrecer. Esta seguridad permite al cristiano servir a Dios con alegría y sin intereses ocultos, sabiendo que su salvación ya ha sido asegurada por la sangre en la cruz.  
   

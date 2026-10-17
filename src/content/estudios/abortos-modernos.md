@@ -33,20 +33,20 @@ Quizás el dios antiguo más notorio de los amonitas fue Moloch. Moloch era ador
 Pero como registra el Antiguo Testamento, los antiguos hebreos a menudo se rebelaban contra Dios y contra este mandamiento. Esto se registra en el Salmo 106:  
 
 > “Sacrificaron sus hijos y sus hijas a los demonios; derramaron la sangre inocente, la sangre de sus hijos y de sus hijas que sacrificaron a los ídolos de Canaán. La tierra fue profanada con los hechos de sangre. Así se contaminaron con sus obras y se prostituyeron con sus hechos.”  
-> –Salmos 106:37-39
+> –Salmo 106:37-39
 
 Uno de los peores reyes de Judá fue Manasés. En 2 Crónicas leemos:  
 
-> “Hizo pasar por fuego a sus hijos en el valle de Ben-hinom; practicó la magia, la adivinación y la hechicería; evocó a los muertos y practicó el espiritismo. Abundó en hacer lo malo ante los ojos del SEÑOR, provocándolo a ira.”.  
+> “Hizo pasar por fuego a sus hijos en el valle de Ben-hinom; practicó la magia, la adivinación y la hechicería; evocó a los muertos y practicó el espiritismo. Abundó en hacer lo malo ante los ojos del SEÑOR, provocándolo a ira.”  
 > –2 Crónicas 33:6
 
 Más interesante aún, existe un vínculo con estos sacrificios de niños y el infierno. El principal lugar de adoración durante y después de la época de Manasés fue [el valle de Hinnom](https://es.wikipedia.org/wiki/Gehena), un lugar de tan mala reputación que se convirtió en un tipo de infierno en la Tierra.  
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUUuQW-uMNw-LZQujQaLhLrqmCk4MM4rXak990rEojI37n8eh-9kvmf-jwJYtf2t7mcZVegk1mM345SG5FzdXomoozXA4qBjOjQVBOuQBpWto4Ocl1hGKyYayPSfa5ghsPGNWXKjOIHAmypp-YiaF0smViN15Y7WqUhlXZLFLnj9B9mjluowhrzc0-/s16000/gehenna.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUUuQW-uMNw-LZQujQaLhLrqmCk4MM4rXak990rEojI37n8eh-9kvmf-jwJYtf2t7mcZVegk1mM345SG5FzdXomoozXA4qBjOjQVBOuQBpWto4Ocl1hGKyYayPSfa5ghsPGNWXKjOIHAmypp-YiaF0smViN15Y7WqUhlXZLFLnj9B9mjluowhrzc0-/s1740/gehenna.jpg)  
   
-Cuando Jesús habló del infierno, uso palabra griega Gehenna, que significa "el valle de Hinnom", el antiguo lugar de sacrificio de niños. Jesucristo dijo que el reino de los cielos era de los niños (Mateo 19:14), pero algunas personas sacrificarían a sus propios hijos por sus dioses personales.  
+Cuando Jesús habló del infierno, usó la palabra griega Gehenna, que significa "el valle de Hinnom", el antiguo lugar de sacrificio de niños. Jesucristo dijo que el reino de los cielos era de los niños (Mateo 19:14), pero algunas personas sacrificarían a sus propios hijos por sus dioses personales.  
   
-Pero no tengan duda, Dios dijo que "la vida está en la sangre" (Levitico 17:11-14), y desde que el embrión contiene tan solo una gota de sangre, es un ser vivo totalmente independiente de la madre, es decir, es una creación de Dios. El practicar las distintas [técnicas macabras de aborto](https://www.youtube.com/watch?v=hbQCAZMrkls) es un asesinato.  
+Pero no tengan duda, Dios dijo que "la vida está en la sangre" (Levítico 17:11-14), y desde que el embrión contiene tan solo una gota de sangre, es un ser vivo totalmente independiente de la madre, es decir, es una creación de Dios. El practicar las distintas [técnicas macabras de aborto](https://www.youtube.com/watch?v=hbQCAZMrkls) es un asesinato.  
   
 El ser humano in utero es un organismo biológico. Está claramente vivo, teniendo los atributos de la vida incluyendo una estructura organizada, está ingiriendo alimento, excretando desechos, respondiendo a estímulos y adaptándose al ambiente. Tiene, en sí mismo, todas las cualidades biológicas de la vida.  
   

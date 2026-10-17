@@ -5,7 +5,7 @@ updated: "2026-01-13"
 author: "Leonardo Moreno"
 slug: "batman-prototipo-anticristo"
 redirectFrom: "/2022/03/Batman-prototipo-anticristo.html"
-description: "Después de 83 años de diversas adaptaciones, tanto infantiles como tipo PG-13, Batman puede ser percibido como uno de los héroes de ficción más emblemáticos, y…"
+description: "Después de 83 años de diversas adaptaciones, tanto infantiles como tipo PG-13, Batman puede ser percibido como uno de los héroes de ficción más emblemáticos y…"
 tags: ["Cine y Cultura"]
 ---
 
@@ -13,11 +13,11 @@ Estimado lector,
 
   
 
-Después de 83 años de diversas adaptaciones, tanto infantiles como tipo PG-13, Batman puede ser percibido como uno de los héroes de ficción más emblemáticos, y populares entre varias generaciones, pero no se equivoquen: Batman actúa y luce como Satanás. La última adaptación de Matt Reeves confirma la propaganda para empatizar con la causa del Anticristo.
+Después de 83 años de diversas adaptaciones, tanto infantiles como tipo PG-13, Batman puede ser percibido como uno de los héroes de ficción más emblemáticos y populares entre varias generaciones, pero no se equivoquen: Batman actúa y luce como Satanás. La última adaptación de Matt Reeves confirma la propaganda para empatizar con la causa del Anticristo.
 
   
 
-Mientras Batman intenta detener a un homicida llamado el Riddler, las connotaciones religiosas están presentes todo el tiempo, tanto en la trama como en la utilería. El espectador promedio, incrédulo en este tipo de señales, es iniciado en concepto del gnosticismo y la cosmovisión anti-cristiana.
+Mientras Batman intenta detener a un homicida llamado el Riddler, las connotaciones religiosas están presentes todo el tiempo, tanto en la trama como en la utilería. El espectador promedio, incrédulo en este tipo de señales, es iniciado en concepto del gnosticismo y la cosmovisión anticristiana.
 
   
 
@@ -25,11 +25,11 @@ Mientras Batman intenta detener a un homicida llamado el Riddler, las connotacio
 
   
 
-Ciudad Gótica siempre ha representado el mundo consumido por el pecado, es decir, el mundo actual. El film no utiliza este término, pero se refiere a esta ciudad como un nido de crimen, violencia, corrupción y decadencia. Esto conlleva a la conocida necesidad de un salvador, siendo Batman el símbolo de la venganza y la justicia, a la vez que engañosamente representa al Anticristo (Revelación 6:2).
+Ciudad Gótica siempre ha representado el mundo consumido por el pecado, es decir, el mundo actual. El film no utiliza este término, pero se refiere a esta ciudad como un nido de crimen, violencia, corrupción y decadencia. Esto conlleva la conocida necesidad de un salvador, siendo Batman el símbolo de la venganza y la justicia, a la vez que engañosamente representa al Anticristo (Revelación 6:2).
 
   
 
-En noche de brujas, el Riddler asesina a un político corrupto, y mientras se desarrolla la historia vemos el deseo de este personaje de acabar y exponer la corrupción de Gótica, asesinando otros corruptos. Pese a que es el villano de la película, el Riddler es mostrado ejecutando otros criminales. Él es una alegoría a Dios de la Biblia, quién también erradicará el pecado del mundo (Miqueas 7:19). En su traje lleva su símbolo, una marca de interrogación manipulado de tal forma que simula ocultamente una cruz.
+En noche de brujas, el Riddler asesina a un político corrupto, y mientras se desarrolla la historia vemos el deseo de este personaje de acabar y exponer la corrupción de Gótica, asesinando otros corruptos. Pese a que es el villano de la película, el Riddler es mostrado ejecutando otros criminales. Él es una alegoría a Dios de la Biblia, quien también erradicará el pecado del mundo (Miqueas 7:19). En su traje lleva su símbolo, una marca de interrogación manipulada de tal forma que simula ocultamente una cruz.
 
   
 
@@ -37,11 +37,11 @@ En noche de brujas, el Riddler asesina a un político corrupto, y mientras se de
 
   
 
-En esta versión la policía no confía en Batman, representado la percepción natural que tenemos de Satanás. Batman es rechazado, pero la película reivindica y reescribe la narración bíblica del ángel caído (Lúcifer) y lo convierte en un héroe.
+En esta versión la policía no confía en Batman, representando la percepción natural que tenemos de Satanás. Batman es rechazado, pero la película reivindica y reescribe la narración bíblica del ángel caído (Lúcifer) y lo convierte en un héroe.
 
   
 
-Mientras Batman intenta rastrear al Riddler para detenerlo, descubre que este también quiere exponer a su fallecido padre, Thomas Wayne, quién estuvo involucrado con unos criminales antes de su muerte. Entre los mensajes y acertijos se lee: “Los pecados del Padre" ..."el hijo debe pagarlos". Esta cita está hecha para ser relacionada con Dios y Jesucristo, pero se refieren ocultamente a su padre, Satanás (Juan 8:44), y por consiguiente al Anticristo.
+Mientras Batman intenta rastrear al Riddler para detenerlo, descubre que este también quiere exponer a su fallecido padre, Thomas Wayne, quien estuvo involucrado con unos criminales antes de su muerte. Entre los mensajes y acertijos se lee: “Los pecados del Padre" ..."el hijo debe pagarlos". Esta cita está hecha para ser relacionada con Dios y Jesucristo, pero se refieren ocultamente a su padre, Satanás (Juan 8:44), y por consiguiente al Anticristo.
 
   
 

@@ -5,7 +5,7 @@ updated: "2026-04-10"
 author: "Leonardo Moreno"
 slug: "los-judios-piden-senales-y-los-griegos"
 redirectFrom: "/2025/05/los-judios-piden-senales-y-los-griegos.html"
-description: "Cuando hablamos sobre los dones con señal (don de lenguas, milagros y sanaciones) es mi postura que no continúan en la iglesia, sino que se cesaron con los…"
+description: "Cuando hablamos sobre los dones con señal (don de lenguas, milagros y sanaciones) es mi postura que no continúan en la iglesia, sino que cesaron con los…"
 tags: ["Apologética"]
 ---
 
@@ -13,7 +13,7 @@ Estimado lector,
 
   
 
-Cuando hablamos sobre los dones con señal (don de lenguas, milagros y sanaciones) es mi postura que no continúan en la iglesia, sino que se cesaron con los apóstoles y sus discípulos directos. Estas señales son:
+Cuando hablamos sobre los dones con señal (don de lenguas, milagros y sanaciones) es mi postura que no continúan en la iglesia, sino que cesaron con los apóstoles y sus discípulos directos. Estas señales son:
 
   
 
@@ -29,9 +29,9 @@ Todos estos dones son lo que la Biblia describe como "señales": 
 Pablo enseña que las lenguas son una señal a los incrédulos, y en el mismo capítulo de Corintios se menciona sobre aquellos que no creen.
 
 > "Porque los Judíos piden señales, y los Griegos buscan sabiduría; Mas nosotros predicamos a Cristo crucificado, que es a los Judíos ciertamente tropezadero, y a los Griegos insensatez:”  
-> –1 Corintios 1:22-34
+> –1 Corintios 1:22-23
 
-Si vamos a hablar de señales, tenemos que hablar de Israel, porque las señales son para ellos. Inició con los judíos, y cuando Dios dejó de tratar con ellos como nación, las señales fueron desapareciendo. En Éxodo 4:8-9 vemos a Moisés, un líder judío que sacó a los judíos de Israel y que fue el primer hombre registrado en la Biblia en realizar milagros y señales.
+Si vamos a hablar de señales, tenemos que hablar de Israel, porque las señales son para ellos. Inició con los judíos, y cuando Dios dejó de tratar con ellos como nación, las señales fueron desapareciendo. En Éxodo 4:8-9 vemos a Moisés, un líder judío que sacó a los judíos de Egipto y que fue el primer hombre registrado en la Biblia en realizar milagros y señales.
 
   
 
@@ -39,7 +39,7 @@ Si vamos a hablar de señales, tenemos que hablar de Israel, porque las señales
 
   
 
-Él ese capítulo del Éxodo, Moisés está dudando del llamado que le está haciendo Dios, y El Señor le dice que tome su vara y la arroje al suelo. La vara se convierte en una serpiente. Luego Dios le dice que tome su mano y la esconda en su seno. El Señor le dice que la saque, y su mano estaba leprosa completamente. Dios le vuelve a decir que meta la mano en su pecho y la vuelva a sacar, siendo totalmente curado.
+En ese capítulo del Éxodo, Moisés está dudando del llamado que le está haciendo Dios, y el Señor le dice que tome su vara y la arroje al suelo. La vara se convierte en una serpiente. Luego Dios le dice que tome su mano y la esconda en su seno. El Señor le dice que la saque, y su mano estaba leprosa completamente. Dios le vuelve a decir que meta la mano en su pecho y la vuelva a sacar, siendo totalmente curado.
 
   
 Las señales de curación comienzan con Moisés. Es decir, el primer hombre que se enfermó fue un judío, y el primer hombre que fue sanado fue un judío.
@@ -50,10 +50,10 @@ Las señales de curación comienzan con Moisés. Es decir, el primer hombre que 
 Debemos saber que “los judíos requieren una señal” porque su nación comienza con señales. Estas señales incluyen diversas plagas, abrir el Mar Rojo en dos (Éxodo 14:21), sacar agua de una roca (Éxodo 17:6), el maná que cae del cielo (Éxodo 16:31), columnas de fuego y nube (Éxodo 13:17-22), etc.
 
   
-Un judío está condicionado a ver señales. Su origen nacional comienza con señales y estas se manifiestan hasta la llegada de Jesucristo, quien también realizó señales y milagros (Mateo 16:4). También debemos saber que no hay ningún otro lugar en la Biblia donde se registre que alguien haya hablado en lenguas más que en de Hechos 2, 10 y 19.
+Un judío está condicionado a ver señales. Su origen nacional comienza con señales y estas se manifiestan hasta la llegada de Jesucristo, quien también realizó señales y milagros (Mateo 16:4). También debemos saber que no hay ningún otro lugar en la Biblia donde se registre que alguien haya hablado en lenguas más que en Actos 2, 10 y 19.
 
    
-En Hechos 2, es una señal para ciertos judíos incrédulos que asesinaron a Cristo y no creían que Él era el Mesías. En Hechos 10, es una señal para los judíos que no creían que los gentiles podían recibir el Espíritu Santo. En Hechos 19, hubo algunos discípulos de Juan que hablaron en lenguas para evidenciar que Cristo realmente les había dado el Espíritu Santo.
+En Actos 2 es una señal para ciertos judíos incrédulos que asesinaron a Cristo y no creían que Él era el Mesías. En Actos 10 es una señal para los judíos que no creían que los gentiles podían recibir el Espíritu Santo. En Actos 19 hubo algunos discípulos de Juan que hablaron en lenguas para evidenciar que Cristo realmente les había dado el Espíritu Santo.
 
    
 Los cristianos que creen en los dones con señal para la Iglesia no están entendiendo el tiempo de salvación por medio de la fe y no por vista (2 Corintios 5:7). No están entendiendo que el tiempo de la Iglesia es una burbuja de tiempo, un paréntesis que separa la semana 69 de la semana 70 de Daniel (Daniel 9:20-27).
@@ -64,7 +64,7 @@ Cuando la semana 70 de Daniel inicie, esto es, en el tiempo de la Tribulación, 
 > "A aquel cuya venida será según la operación de Satanás, con toda potencia, y señales, y milagros mentirosos,"  
 > –2 Tesalonicenses 2:9
 
-Si leemos Revelación, los dos testigos hacen señales, los ángeles de Dios hacen señales, de igual forma, el anticristo, el falso profeta y Satanás con sus ángeles, muestran señales.
+Si leemos Revelación, los dos testigos hacen señales, los ángeles de Dios hacen señales, de igual forma, el Anticristo, el falso profeta y Satanás con sus ángeles, muestran señales.
 
   
 Hasta que eso suceda, la palabra escrita de Dios es la forma en que Él trata con la Iglesia, no las señales. Es claro que estos dones estaban disminuyendo incluso en la época de Pablo.
@@ -72,7 +72,7 @@ Hasta que eso suceda, la palabra escrita de Dios es la forma en que Él trata co
 > "No bebas de aquí adelante agua, sino usa de un poco de vino por causa del estómago, y de tus continuas enfermedades"  
 > –1 Timoteo 5:23
 
-La razón por la que Pablo le dice a Timoteo que tome medicamento cuando tenga dolor de estómago, es porque para cuando esta carta se escribe, los dones con señal ya habían cesado. Leer también 2 de Timoteo 4:20.
+La razón por la que Pablo le dice a Timoteo que tome medicamento cuando tenga dolor de estómago es porque para cuando esta carta se escribe, los dones con señal ya habían cesado. Leer también 2 Timoteo 4:20.
 
   
 Creo que Dios en su soberanía puede sanar y hacer milagros, pero no creo en ningún hombre que diga poseer el don de las señales como lo hicieron los discípulos originales (Efesios 2:20).  

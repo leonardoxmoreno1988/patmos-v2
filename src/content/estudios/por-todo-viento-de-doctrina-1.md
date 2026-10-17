@@ -19,7 +19,7 @@ Una secta o culto a menudo es una perversión deliberada del cristianismo bíbli
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHY92rOzE8QMuo22js25EHZ4-KOcOJR1iLWJzPq7qikZNYW9Zx_cp4U0GQWc52lMHKpIZNiN0JY4Ea4AHxY6WEKK4P0lKXvAQvwgfOU3p62mJoOSULLilzL3YH72P8fA_cXuOhWgJZkWFCY13xXICIytR74qH4WCT_ttgQ-VUDiO7VQklGkUx8m2t9xo4/s16000/sectas01.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHY92rOzE8QMuo22js25EHZ4-KOcOJR1iLWJzPq7qikZNYW9Zx_cp4U0GQWc52lMHKpIZNiN0JY4Ea4AHxY6WEKK4P0lKXvAQvwgfOU3p62mJoOSULLilzL3YH72P8fA_cXuOhWgJZkWFCY13xXICIytR74qH4WCT_ttgQ-VUDiO7VQklGkUx8m2t9xo4/s800/sectas01.jpg)
 
   
-Hace como 17 años, mientras caminada por mi ciudad, una grupo de pancartas con elementos cristianos se mostraban en la vereda pública, justo al frente a una casa de dos pisos. Por unos minutos me detuve a leer el contenido cuando un joven salió de la casa.  
+Hace como 17 años, mientras caminaba por mi ciudad, un grupo de pancartas con elementos cristianos se mostraban en la vereda pública, justo al frente de una casa de dos pisos. Por unos minutos me detuve a leer el contenido cuando un joven salió de la casa.  
   
 Al ver mi interés en tratar de comprender lo que estaba viendo (en ese momento la imagen de una pareja deificada flotando en el espacio sobre el planeta Tierra), me preguntó amablemente si quería entrar a hablar sobre "[dios padre y dios madre](https://es.wikipedia.org/wiki/Iglesia_de_Dios_Sociedad_Misionera_Mundial)".  
   
@@ -27,17 +27,17 @@ Aún no era salvo, pero sabía que esa era una secta. Acepté la oferta del jove
   
 Usando pasajes de Revelación y Génesis trataba de sostener que esta madre, o según ellos, la ciudad que desciende del cielo, era una diosa que siempre estuvo junto a Dios antes de la creación. Manifesté mi incredulidad, señalando que estaba dándole una interpretación privada.  
   
-Me retiré tras esta charla y no volví a interactuar con esta organización, pero este evento sumo a mi interés por el estudio de la sectas y en qué momento un creyente se separa de la sana doctrina para caer en una secta.  
+Me retiré tras esta charla y no volví a interactuar con esta organización, pero este evento sumó a mi interés por el estudio de las sectas y en qué momento un creyente se separa de la sana doctrina para caer en una secta.  
   
 En esencia, las sectas manipulan la verdadera fuente de la revelación de Dios, la Biblia. Quitan, añaden o tuercen la verdad, y promueven doctrinas contrarias al evangelio del Señor Jesucristo.  
   
-Hay ciertas razones del por qué las sectas crecen tan rápidamente. Primero porque muchos cristianos carecen de conocimiento bíblico y no pueden articular las razones de su fe. Por el contrario, las sectas educan a sus miembros para que respondan diversas preguntas, aunque sean respuestas falsas.  
+Hay ciertas razones por las que las sectas crecen tan rápidamente. Primero porque muchos cristianos carecen de conocimiento bíblico y no pueden articular las razones de su fe. Por el contrario, las sectas educan a sus miembros para que respondan diversas preguntas, aunque sean respuestas falsas.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4yB10Zyl7ir2UBl5hZYLwZpndYi4-xRGCUiL7sC4HGbo3mmoIc7goDFDOky3z0Bw3M5tYYP1yt9m2n_K6xBoxDAPkqMIP9A4bNUWUT-I9snVgiro2u7zqzHgkoPzEOzZ5_7T_FE78hgfjpZtC7hdwSlLh9KaMgsh90mp7aS7AwittSgWXzk05FvCMhKU/s16000/sectas02.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4yB10Zyl7ir2UBl5hZYLwZpndYi4-xRGCUiL7sC4HGbo3mmoIc7goDFDOky3z0Bw3M5tYYP1yt9m2n_K6xBoxDAPkqMIP9A4bNUWUT-I9snVgiro2u7zqzHgkoPzEOzZ5_7T_FE78hgfjpZtC7hdwSlLh9KaMgsh90mp7aS7AwittSgWXzk05FvCMhKU/s1200/sectas02.jpg)
 
   
-La otra razón es porque satisfacen las necesidades humanas. Las sectas ofrecen aceptación y un sentido de pertenencia. Es probable que muchas iglesias cristianas no extienden esta calidez y a veces pareciendo frías o críticas. Las sectas a menudo reciben a los visitantes haciéndoles sentir bienvenidos.  
+La otra razón es porque satisfacen las necesidades humanas. Las sectas ofrecen aceptación y un sentido de pertenencia. Es probable que muchas iglesias cristianas no extiendan esta calidez y a veces parezcan frías o críticas. Las sectas a menudo reciben a los visitantes haciéndoles sentir bienvenidos.  
   
 Si volvemos al aspecto doctrinal, podemos identificar ocho patrones de una secta. Aunque no todas tienen las ocho, la mayoría poseen muchas de ellas:  
   
@@ -48,11 +48,11 @@ Si volvemos al aspecto doctrinal, podemos identificar ocho patrones de una secta
 -   **Salvación por obras:** Las sectas enseñan que la salvación se gana o se mantiene a través de obras o rituales únicos de su grupo, rechazando la salvación solo por gracia a través de la fe.
 -   **Líder terrenal:** Un líder humano es exaltado, a menudo considerado como el representante elegido de Dios o incluso como una encarnación divina.
 -   **Otro Cristo:** Las sectas a menudo rechazan a Jesucristo como el verdadero Dios o el Hijo eterno, reemplazándolo con otra figura o concepto de menor rango.
--   **Rechazo del cristianismo bíblico:** Niegan el evangelio y las doctrinas cristianas esctrictamente bíblicas, a menudo etiquetándolas como incorrectas o satánicas.
+-   **Rechazo del cristianismo bíblico:** Niegan el evangelio y las doctrinas cristianas estrictamente bíblicas, a menudo etiquetándolas como incorrectas o satánicas.
 -   **Teología cambiante:** Sus doctrinas no son claras, son inconsistentes y cambian continuamente para alinearse con los cambios culturales con el fin de seguir ganando seguidores.
 
   
-Ante esto, recordemos que Efesios 4:14 advierte a los creyentes que no se dejen llevar por todo ”viento de doctrina".  
+Ante esto, recordemos que Efesios 4:14 advierte a los creyentes que no se dejen llevar por todo “viento de doctrina”.  
 
 > "Que ya no seamos niños, inconstantes y llevados en derredor por todo viento de doctrina, con artificio de los hombres, que engañan con astucia de error."  
 > –Efesios 4:14
