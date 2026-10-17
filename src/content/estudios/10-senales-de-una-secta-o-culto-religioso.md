@@ -9,7 +9,7 @@ description: "Hace unas semanas atrás, me preocupé al oír hablar de una congr
 tags: ["Falsas Doctrinas"]
 ---
 
-Hace unas semanas atrás, me preocupé al oír hablar de una congregación llamada **Word of Faith** en Spindale, Carolina del Norte, que era culpable de abusar de sus miembros. Los informes incluían a **niños pequeños** que eran **golpeados** por el lider mientras que eran llamados satanistas. Jane Whaley y su esposo están en el centro de estas acusaciones. Se puede acceder al **[informe completo aquí](http://wspa.com/2017/02/27/spindale-church-accused-of-abuse-responds-to-accusations/)**.  
+Hace unas semanas atrás, me preocupé al oír hablar de una congregación llamada **Word of Faith** en Spindale, Carolina del Norte, que era culpable de abusar de sus miembros. Los informes incluían a **niños pequeños** que eran **golpeados** por el líder mientras que eran llamados satanistas. Jane Whaley y su esposo están en el centro de estas acusaciones. Se puede acceder al **[informe completo aquí](http://wspa.com/2017/02/27/spindale-church-accused-of-abuse-responds-to-accusations/)**.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDNrmzbDKZ5mW3nyMnLYS635ITxb5N6XUaAMz2hrHLxctap4b_0y0leFFiLoNA0xNGPTS9SXHAqZqqrc60nJbce9XE1mvUDKKDEsfhPwd2FNavvEfEY3bcCD316riV_6a1MALlzLBg5A/s1600/secta-culto.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDNrmzbDKZ5mW3nyMnLYS635ITxb5N6XUaAMz2hrHLxctap4b_0y0leFFiLoNA0xNGPTS9SXHAqZqqrc60nJbce9XE1mvUDKKDEsfhPwd2FNavvEfEY3bcCD316riV_6a1MALlzLBg5A/s1600/secta-culto.jpg)
@@ -22,9 +22,9 @@ Iglesias como éstas son identificadas como sectas en contraste con iglesias aut
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
-Las sectas son aberraciones de la iglesia autentica. La secta liderada por juegos de poder y control draconiano sobre sus miembros. Estas se distinguen de los cultos en que su teología puede ser cercana a la ortodoxia (creencias correctas) - sin embargo, con investigación adicional la mayoría de las sectas limitan la herejía. Las sectas no son iglesias auténticas debido a una ortopraxia cuestionable (práctica correcta).  
+Las sectas son aberraciones de la iglesia auténtica. La secta liderada por juegos de poder y control draconiano sobre sus miembros. Estas se distinguen de los cultos en que su teología puede ser cercana a la ortodoxia (creencias correctas) - sin embargo, con investigación adicional la mayoría de las sectas limitan la herejía. Las sectas no son iglesias auténticas debido a una ortopraxia cuestionable (práctica correcta).  
   
 Sus acciones no representan los preceptos amorosos encontrados en la Palabra de Dios. Entonces, ¿cómo se sabe que una iglesia tiene las características de una secta? Considere los siguientes 10 signos:  
   
@@ -43,7 +43,7 @@ Recientemente, entrevisté al experto en culto, Michael Boehm. Boehm señaló qu
 
 En las sectas y con los líderes cultuales, el intelecto es desechado. A los miembros se les desalienta el aprendizaje de la filosofía, la historia, la ciencia, la teología sistemática o cualquier cosa con la que los líderes no estén familiarizados. Gran parte de este antiintelectualismo viene del líder amenazado con información que mostraría una debilidad potencial en la filosofía o teología del líder.  
   
-Para mostrar superioridad, el líder cultual mantiene una actitud dominante para mostrar su supuesta superioridad intelectual y / o espiritual. En las iglesias auténticas, todos los miembros son animados a crecer espiritualmente, emocionalmente e intelectualmente.  
+Para mostrar superioridad, el líder cultual mantiene una actitud dominante para mostrar su supuesta superioridad intelectual y/o espiritual. En las iglesias auténticas, todos los miembros son animados a crecer espiritualmente, emocionalmente e intelectualmente.  
   
 
 ## 4\. No se permite a los miembros hacer preguntas sobre el liderazgo
@@ -57,9 +57,9 @@ En las iglesias auténticas, las preguntas son los medios de crecimiento. El lí
 
 Aunque todas las iglesias han favorecido las tradiciones, las sectas elevan sus tradiciones al nivel de los Diez Mandamientos. Jesús combatió a los fariseos sobre esta misma cuestión. Jesús dijo a los fariseos en respuesta a una pregunta relativa a sus tradiciones,  
 
-> **"Ustedes, en cambio, enseñan que un hijo puede decir a su padre o a su madre: “Cualquier ayuda que pudiera darte ya la he dedicado como ofrenda a Dios”. En ese caso, el tal hijo no tiene que honrar a su padre Así por causa de la tradición anulan ustedes la palabra de Dios. ¡Hipócritas! Isaías profetizó acerca de ti cuando dijo:**
+> **"Ustedes, en cambio, enseñan que un hijo puede decir a su padre o a su madre: “Cualquier ayuda que pudiera darte ya la he dedicado como ofrenda a Dios”. En ese caso, el tal hijo no tiene que honrar a su padre Así por causa de la tradición anulan ustedes la palabra de Dios. ¡Hipócritas! Isaías profetizó acerca de ti cuando dijo:**
 
-> "ESTA GENTE ME HONRA CON SUS LABIOS, PERO SU CORAZÓN ESTÁ LEJOS DE MÍ. ME ADORAN EN VANO, ENSEÑANDO DOCTRINA DE HOMBRES" (MATEO 15: 5-9). \[1\]
+> "ESTA GENTE ME HONRA CON SUS LABIOS, PERO SU CORAZÓN ESTÁ LEJOS DE MÍ. ME ADORAN EN VANO, ENSEÑANDO DOCTRINA DE HOMBRES" (MATEO 15:5-9). \[1\]
 
   
 En cambio, las iglesias auténticas, mientras tienen tradiciones que aman, pondrán los mandamientos bíblicos sobre los deseos personales. Esto no quiere decir que cambiar las tradiciones sea fácil. Pero si una asamblea establece un conjunto exorbitante y estricto de tradiciones como requisito previo para la asistencia de una persona a su iglesia, entonces es probable que la asamblea se incline hacia un código de conducta cultual.  
@@ -69,12 +69,12 @@ En cambio, las iglesias auténticas, mientras tienen tradiciones que aman, pondr
 
 La sexta señal fluye desde la 5ta. Los miembros están obligados a seguir un riguroso conjunto de reglas. En lugares como la Palabra de Fe, los líderes determinaron dónde podrían vivir sus miembros e incluso cómo un esposo y una esposa podrían ser íntimos. Las iglesias auténticas... no.  
   
-Las iglesias auténticas, basadas en la Biblia, promoverán a los miembros a vivir un santo estilo de vida que proviene de la ética bíblica. Pero, los líderes se dan cuenta de que la gente es libre de tomar sus propias decisiones y no son dictatoriales (1 Pedro 5: 1-5).  
+Las iglesias auténticas, basadas en la Biblia, promoverán a los miembros a vivir un santo estilo de vida que proviene de la ética bíblica. Pero, los líderes se dan cuenta de que la gente es libre de tomar sus propias decisiones y no son dictatoriales (1 Pedro 5:1-5).  
 
 ##   
 7\. Los desconocidos son vistos con escepticismo, se evita el evangelismo
 
-La séptima señal, octava y novena son complementarios. Dado que los líderes del culto buscan el control completo de sus miembros, los desconocidos o forasteros son vistos con gran escepticismo. Los miembros potenciales pueden ser permitidos de forma lenta y con gran reserva. Las sectas no están comprometidas con la Gran Comisión. El evangelismo es evitado. Los cultos están comprometidas con el poder y el control. Las iglesias auténticas están comprometidas con el evangelio. Los auténticos líderes cristianos tienen una pasión de ver a las almas venir a Cristo. Por lo tanto, las iglesias saludables son iglesias de misión.  
+La séptima señal, octava y novena son complementarias. Dado que los líderes del culto buscan el control completo de sus miembros, los desconocidos o forasteros son vistos con gran escepticismo. Los miembros potenciales pueden ser permitidos de forma lenta y con gran reserva. Las sectas no están comprometidas con la Gran Comisión. El evangelismo es evitado. Los cultos están comprometidos con el poder y el control. Las iglesias auténticas están comprometidas con el evangelio. Los auténticos líderes cristianos tienen una pasión de ver a las almas venir a Cristo. Por lo tanto, las iglesias saludables son iglesias de misión.  
   
 
 ## 8\. Salir de la iglesia es difícil y puede ser enfrentado con amenazas
@@ -104,8 +104,8 @@ Conclusión
 
 Este artículo no es un ataque contra la iglesia. La iglesia es una bendición. Muchas buenas iglesias basadas en la Biblia existen y están prosperando. Una persona necesita encontrar un lugar donde él o ella pueda asistir, crecer, desarrollarse y servir. Sin embargo, debemos darnos cuenta de que hay muchos lugares que dicen ser iglesias, pero no poseen características que están honrando al Señor.  
   
-En Apocalipsis, Jesús se dirigió a siete iglesias (Apocalipsis 2-3). Algunas de las iglesias eran buenas, como Filadelfia. Otros eran malas, como Laodicea. Algunos lugares que se llamaban a sí mismos iglesias son más del ámbito sectario que cristiano. ¡Cuidado! Juan advierte que no debemos "creer a todo espíritu, sino probar a los espíritus para ver si son de Dios, porque muchos falsos profetas han salido al mundo" (1 Juan 4: 1).  
+En Revelación, Jesús se dirigió a siete iglesias (Revelación 2-3). Algunas de las iglesias eran buenas, como Filadelfia. Otras eran malas, como Laodicea. Algunos lugares que se llamaban a sí mismos iglesias son más del ámbito sectario que cristiano. ¡Cuidado! Juan advierte que no debemos "creer a todo espíritu, sino probar a los espíritus para ver si son de Dios, porque muchos falsos profetas han salido al mundo" (1 Juan 4:1).  
   
-Mi oración es que varias iglesias basadas en la Biblia crezcan y se expandan, mientras que las iglesias sectarias disminuirán y cesen. Si usted está en una secta, por el bien de usted y sus seres queridos, ¡Salgan! Encuentra una buena iglesia basada en la Biblia en su localidad. Una buena iglesia es una gran bendición y vale la pena el esfuerzo de encontrar.  
+Mi oración es que varias iglesias basadas en la Biblia crezcan y se expandan, mientras que las iglesias sectarias disminuyan y cesen. Si usted está en una secta, por el bien de usted y sus seres queridos, ¡Salgan! Encuentra una buena iglesia basada en la Biblia en su localidad. Una buena iglesia es una gran bendición y vale la pena el esfuerzo de encontrar.  
   
 Este artículo fue presentado originalmente en Bellator Christi y fue republicado con permiso del autor.

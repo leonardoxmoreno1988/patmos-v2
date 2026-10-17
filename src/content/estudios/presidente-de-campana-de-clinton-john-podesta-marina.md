@@ -5,11 +5,11 @@ updated: "2023-07-20"
 author: "Vigilant Citizen"
 slug: "presidente-de-campana-de-clinton-john-podesta-marina"
 redirectFrom: "/2016/11/presidente-de-campana-de-clinton-john-podesta-marina.html"
-description: "Los e-mails de Podesta publicados por Wikileaks contienen varias entradas extrañas, incluyendo una invitación a una \"Cena Espíritual\" de la notoria ocultista…"
+description: "Los e-mails de Podesta publicados por Wikileaks contienen varias entradas extrañas, incluyendo una invitación a una \"Cena Espiritual\" de la notoria ocultista…"
 tags: ["Sociedad"]
 ---
 
-Los e-mails de **Podesta** publicados por **Wikileaks** contienen varias entradas extrañas, incluyendo una invitación a una "Cena Espíritual" de la notoria ocultista **Marina Abramovic.** Estos partidos incluyen sangre, semen, leche materna... y no sabemos qué más.  
+Los e-mails de **Podesta** publicados por **Wikileaks** contienen varias entradas extrañas, incluyendo una invitación a una "Cena Espiritual" de la notoria ocultista **Marina Abramović.** Estas fiestas incluyen sangre, semen, leche materna... y no sabemos qué más.  
 
   
 
@@ -17,7 +17,7 @@ Los e-mails de **Podesta** publicados por **Wikileaks** contienen varias entrada
 
   
   
-Un correo electrónico filtrado revela que John Podesta fue invitado a una "Cena Espiritual" por Marina Abramović en 2015. John David Podesta es el Presidente de la campaña presidencial Hillary Clinton de 2016. Anteriormente se desempeñó como Jefe de Gabinete del Presidente Bill Clinton y Consejero del Presidente Barack Obama.  
+Un correo electrónico filtrado revela que John Podesta fue invitado a una "Cena Espiritual" por Marina Abramović en 2015. John David Podesta es el Presidente de la campaña presidencial de Hillary Clinton de 2016. Anteriormente se desempeñó como Jefe de Gabinete del Presidente Bill Clinton y Consejero del Presidente Barack Obama.  
   
 
   
@@ -36,15 +36,15 @@ Aquí está el **[correo electrónico que se filtró](https://wikileaks.org/pode
   
 
   
-Marina Abramovic envió un e-mail a Tony Podesta (el hermano de John Podesta) quien luego lo reenvió a su hermano.  
+Marina Abramović envió un e-mail a Tony Podesta (el hermano de John Podesta) quien luego lo reenvió a su hermano.  
   
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Antes de ir más lejos, aquí hay un video de Marina preparando un ritual de "Cena Espiritual".  
   
   
   
-Sí, el proceso involucra cubos de sangre de cerdo congelado. Marina pinta en las paredes las instrucciones codificadas en la forma ocultista clásica.  
+Sí, el proceso involucra cubos de sangre de cerdo congelada. Marina pinta en las paredes las instrucciones codificadas en la forma ocultista clásica.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ3mDBuemhgWzQVgN7D4xQoIo1fA4QFmjtdWwYaLfa6_Yo3tZ3QntwHTv5DSlE7rYx7ecoSVgAQ5AMciru4O3rj6Jti38g4ZQ4NGU8rXkE6CmUQLVyt29MvtEm-oypKYR0RcaWbmA5b3s/s1600/cocina-sangre.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ3mDBuemhgWzQVgN7D4xQoIo1fA4QFmjtdWwYaLfa6_Yo3tZ3QntwHTv5DSlE7rYx7ecoSVgAQ5AMciru4O3rj6Jti38g4ZQ4NGU8rXkE6CmUQLVyt29MvtEm-oypKYR0RcaWbmA5b3s/s1600/cocina-sangre.jpg)
@@ -58,7 +58,7 @@ Sí, el proceso involucra cubos de sangre de cerdo congelado. Marina pinta en la
 
   
 
-Hecho extraño: En **[otro correo electrónico filtrado](https://wikileaks.org/podesta-emails/emailid/15461)**, Podesta contacta a su médico acerca de un dedo infectado. Extraña coincidencia.  
+Hecho extraño: en **[otro correo electrónico filtrado](https://wikileaks.org/podesta-emails/emailid/15461)**, Podesta contacta a su médico acerca de un dedo infectado. Extraña coincidencia.  
   
 Además en el video, Marina empapa de sangre una estatua con forma de niño.  
   
@@ -72,7 +72,7 @@ Además en el video, Marina empapa de sangre una estatua con forma de niño.
 ¿Por qué una ocultista como Marina Abramović estaría en contacto directo y amistoso con personas de los más altos niveles de poder? Porque todos son parte de la ÉLITE OCULTA.  
   
 
-## Marina Abramovic
+## Marina Abramović
 
 Marina Abramović es considerada la "abuela del arte del performance". Sin embargo, la mayor parte de su trabajo se desarrolla en entornos privados donde realiza rituales mágicos. Ella es una figura importante y poderosa en la cultura pop y es muy influyente en Hollywood, el mundo de la moda y el negocio de la música.  
   
@@ -83,7 +83,7 @@ Marina Abramović es considerada la "abuela del arte del performance". Sin embar
 
   
 
-Marina 'entrenando' a Lady Gaga en el 'Método Abramovic'.
+Marina 'entrenando' a Lady Gaga en el 'Método Abramović'.
 
   
 

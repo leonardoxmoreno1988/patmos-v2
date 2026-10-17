@@ -5,7 +5,7 @@ updated: "2026-07-05"
 author: "Leonardo Moreno"
 slug: "desde-los-cielos-hiciste-oir-juicio"
 redirectFrom: "/2026/04/desde-los-cielos-hiciste-oir-juicio.html"
-description: "El libro de los Salmos constituye el himnario más extenso de las Escrituras, esta compuesto por cantos, oraciones e himnos espirituales, y es donde se nos…"
+description: "El libro de los Salmos constituye el himnario más extenso de las Escrituras, está compuesto por cantos, oraciones e himnos espirituales, y es donde se nos…"
 tags: ["Escatología"]
 ---
 
@@ -13,26 +13,26 @@ Estimado lector,
 
   
 
-El libro de los Salmos constituye el himnario más extenso de las Escrituras, esta compuesto por cantos, oraciones e himnos espirituales, y es donde se nos ordena cantar "canción nueva" (Salmo 149:1). Pero aunque el texto emplea una **[estructura poética](https://es.wikipedia.org/wiki/Poes%C3%ADa)** y musical, su naturaleza trasciende la simple clasificación secular de "poesía".  
+El libro de los Salmos constituye el himnario más extenso de las Escrituras, está compuesto por cantos, oraciones e himnos espirituales, y es donde se nos ordena cantar "canción nueva" (Salmo 149:1). Pero aunque el texto emplea una **[estructura poética](https://es.wikipedia.org/wiki/Poes%C3%ADa)** y musical, su naturaleza trasciende la simple clasificación secular de "poesía".  
   
 Las Escrituras presentan ciertas verdades con forma poética para que aquellos que carecen de fe no las tomen como historia o profecía literal y no las consideren con la seriedad debida. El problema ocurre cuando la mayoría de los **[eruditos](https://share.google/aimode/EhPeiLnPfD8mUF6LX)** fallan en comprender el verdadero significado de estos versículos debido a que los abordan como solo poesía o "imágenes poéticas".  
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3L8kk3UP8Lj0SPtNluQ6boxyQDKwCIqGeezxvBdvgiA5NN8F5Jh-DJDTLqPEf-YAXH4dYOBHd5gCyE2EK-9rsGrLKnHlSSs0ZLiNwKzlEudIlE9lzVVq5XLajdHf8tjbYTCJhXmGbtGZtg-vcGnbppCy1K9hyphenhyphenttzn_-fO7YNTSHtMV68Zvke342lF6ZU/s800/salmos001.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3L8kk3UP8Lj0SPtNluQ6boxyQDKwCIqGeezxvBdvgiA5NN8F5Jh-DJDTLqPEf-YAXH4dYOBHd5gCyE2EK-9rsGrLKnHlSSs0ZLiNwKzlEudIlE9lzVVq5XLajdHf8tjbYTCJhXmGbtGZtg-vcGnbppCy1K9hyphenhyphenttzn_-fO7YNTSHtMV68Zvke342lF6ZU/s800/salmos001.jpg)  
   
-Hablamos de que la tendencia de algunas traducciones de categorizar los Salmos bajo un simple género poético puede inducir al cristiano al error de ignorar su relevante peso profético. Los Salmos contienen capítulos enteros que detallan como el Señor Jesucristo va regresar por segunda vez a la tierra, y otorgan detalles del establecimiento de su **[reino terrenal físico](https://www.ritualypropaganda.com/2023/01/1000-anos-reinado-futuro.html)**.  
+Hablamos de que la tendencia de algunas traducciones de categorizar los Salmos bajo un simple género poético puede inducir al cristiano al error de ignorar su relevante peso profético. Los Salmos contienen capítulos enteros que detallan como el Señor Jesucristo va a regresar por segunda vez a la tierra, y otorgan detalles del establecimiento de su **[reino terrenal físico](https://www.ritualypropaganda.com/2023/01/1000-anos-reinado-futuro.html)**.  
   
 En la división hebrea del Antiguo Testamento, la cual fue validada por el mismo Cristo al hablar de la Ley, los Profetas y los Salmos, este libro representa la sección de los Escritos o "Kethubim".
 
 > "Y les dijo: Estas son las palabras que os hablé estando aun con vosotros: Que era necesario que se cumpliesen todas las cosas que están escritas en la ley de Moisés, y en los profetas, y en los Salmos de mí."  
 > –Lucas 24:44
 
-Debemos saber que debido a que David era un profeta de Dios que previó la resurrección y el reinado de Cristo (Hechos 2:29-30), el contenido de los Salmos se entrelaza profundamente con el ministerio profético de las Escrituras, es decir, habla en demasía sobre el futuro.
+Debemos saber que debido a que David era un profeta de Dios que previó la resurrección y el reinado de Cristo (Actos 2:29-30), el contenido de los Salmos se entrelaza profundamente con el ministerio profético de las Escrituras, es decir, habla en demasía sobre el futuro.
 
   
 
-Aunque el libro emplea poesía y cánticos como forma de expresión aprobada por el Espíritu de Dios, su utilidad es la de validar la fiabilidad de las Escrituras mediante el conocimiento del futuro, y su lectura debe de tener un entendimiento que va mucho más allá de la simple impresión musical.  
+Aunque el libro emplea poesía y cánticos como forma de expresión aprobada por el Espíritu de Dios, su utilidad es la de validar la fiabilidad de las Escrituras mediante el conocimiento del futuro, y su lectura debe tener un entendimiento que va mucho más allá de la simple impresión musical.  
   
-Por eso se tienen múltiples ejemplos donde los Salmos oculta verdades proféticas literales sobre el Primer y **[Segundo Advenimiento](https://www.ritualypropaganda.com/2022/09/diferencias-importantes.html)** de Cristo, así como eventos precisos de la Tribulación y el Milenio. El Salmo 2 describe proféticamente la Segunda Venida y el establecimiento del reino terrenal, mostrando a Jesucristo recibiendo a las naciones por herencia y gobernándolas con vara de hierro desde el monte de Sion.  
+Por eso se tienen múltiples ejemplos donde los Salmos ocultan verdades proféticas literales sobre el Primer y **[Segundo Advenimiento](https://www.ritualypropaganda.com/2022/09/diferencias-importantes.html)** de Cristo, así como eventos precisos de la Tribulación y el Milenio. El Salmo 2 describe proféticamente la Segunda Venida y el establecimiento del reino terrenal, mostrando a Jesucristo recibiendo a las naciones por herencia y gobernándolas con vara de hierro desde el monte de Sion.  
 
 > **"Y yo te establecí mi rey sobre Sión, el monte de mi santidad. Yo recitaré el decreto. Jehová me dijo: Mi hijo eres tú: yo te engendré hoy. Demándame, y yo daré las gentes por tu heredad, y por tu posesión los cabos de la tierra. Quebrantarlos has con vara de hierro: como vaso de ollero los desmenuzarás."  
 > –Salmo 2:6-9**
@@ -40,20 +40,20 @@ Por eso se tienen múltiples ejemplos donde los Salmos oculta verdades profétic
 Asimismo, el Salmo 110 es importante porque revela al Padre diciéndole al Hijo que se siente a Su diestra temporalmente hasta que Sus enemigos sean puestos por estrado de Sus pies (Salmo 110:1), detallando luego cómo el Señor herirá a los reyes gentiles en el día de Su ira durante Su retorno a la tierra.
 
 > **"El Señor está a tu diestra: herirá a los reyes en el día de su furor. Juzgará en las naciones; henchirá de cuerpos muertos: herirá la cabeza sobre mucha tierra. Del arroyo, beberá en el camino; por lo cual ensalzará la cabeza."  
-> –Salmos 110:5-6**
+> –Salmo 110:5-6**
 
-El Salmo 22 y el Salmo 69 describe literalmente el trato físico a Cristo durante Su juicio y crucifixión, ilustrando a sus enemigos rodeándolo y los escarnios recibidos.  
+El Salmo 22 y el Salmo 69 describen literalmente el trato físico a Cristo durante Su juicio y crucifixión, ilustrando a sus enemigos rodeándolo y los escarnios recibidos.  
 
 > "Rodeáronme muchos toros: fuertes toros de Basán me cercaron."  
 > –Salmo 22:12  
 >   
 > "Porque me rodearon perros: cercáronme cuadrilla de malignos: horadaron mis manos y mis pies."  
-> –Salmos 22:16  
+> –Salmo 22:16  
 >   
 > "La afrenta ha quebrantado mi corazón; y he tenido dolor; y he esperado quien se compadeciese de mí, y no lo hubo, y consoladores, y no hallé."  
 > –Salmo 69:20  
 
-De igual forma, la resurrección corporal del Mesías, asegurando que Su alma no sería dejada en el infierno, es profetizada de manera indiscutible en estos capítulos. 
+De igual forma, la resurrección corporal del Mesías, asegurando que Su alma no sería dejada en el infierno, es profetizada de manera indiscutible en estos capítulos.
 
 > "Porque no dejarás mi alma en el sepulcro: ni darás tu Santo para que vea corrupción. Hacerme has saber la senda de la vida, hartura de alegrías hay con tu rostro: deleites en tu diestra para siempre."  
 > –Salmo 16:10-11
@@ -71,7 +71,7 @@ Existen salmos que describen la Batalla de Armagedón y el período de la Gran T
 > –Salmo 76:2-3**
 > 
 > **"Desde los cielos hiciste oír juicio: la tierra tuvo temor, y cesó, Cuando, o! Dios, te levantaste al juicio, para salvar a todos los mansos de la tierra. Selah."  
-> –Salmos 76:8-9**
+> –Salmo 76:8-9**
 
 El Salmo 118 describe la situación de la nación de Israel rodeada por las naciones gentiles al final de la Tribulación, proclamando la victoria mesiánica al declarar que en el nombre del Señor estas naciones serán destruidas.
 
@@ -84,11 +84,11 @@ El Salmo 68 presenta a Dios en Su Segunda Venida, dispersando a Sus enemigos com
 > –Salmo 68:1-2**
 > 
 > **"Subiste a lo alto, cautivaste cautividad, tomaste dones para los hombres: y también los rebeldes para que habiten, o! JAH Dios."  
-> –Salmos 68:18**
+> –Salmo 68:18**
 
 Estos ejemplos demuestran que reducir el contenido del libro de los Salmos a una simple lista de poesías destruye la interpretación bíblica y oculta la revelación de los eventos futuros que el texto preserva para un propósito. El rey David compuso los salmos bajo un contexto histórico, devocional y profético multifacético, operando simultáneamente como rey, sacerdote y profeta (Actos 2:29-30).
 
-Esta misma dinámica se observa en el cántico de Débora y Barac (Jueces 5), el cual describe proféticamente la venida del Señor para ejecutar venganza y el derramamiento de sangre en la batalla, a pesar de estar estructurado como un cántico de alabanza. Igualmente, el libro de Habacuc concluye con una larga profecía sobre la Segundo Venida presentada en forma de oración y diseñada específicamente para ser interpretada con instrumentos de cuerda (Habacuc 3:1-19)
+Esta misma dinámica se observa en el cántico de Débora y Barac (Jueces 5), el cual describe proféticamente la venida del Señor para ejecutar venganza y el derramamiento de sangre en la batalla, a pesar de estar estructurado como un cántico de alabanza. Igualmente, el libro de Habacuc concluye con una larga profecía sobre la Segunda Venida presentada en forma de oración y diseñada específicamente para ser interpretada con instrumentos de cuerda (Habacuc 3:1-19).
 
 La negación de las profecías del Segundo Advenimiento en estos libros por parte de ciertos cristianos radica principalmente en su **[método de interpretación](https://es.wikipedia.org/wiki/Interpretaci%C3%B3n_aleg%C3%B3rica_de_la_Biblia)**, el cual reduce estos textos a simple literatura o expresiones simbólicas. Pero como se mencionó, es interesante que Dios usa este formato en Su Palabra de manera deliberada, de modo que aquellos individuos que carecen de fe, no tomen estas revelaciones como verdad y se mantengan en la ignorancia.
 
@@ -98,7 +98,7 @@ Para evadir las implicaciones proféticas literales del Antiguo Testamento, much
 
 A través de esta visión humanista, se rechaza el cumplimiento futuro de capítulos enteros en los Salmos e Isaías que describen detalladamente eventos literales como la manifestación del Anticristo y el establecimiento del reino terrenal.
 
-Tales teólogos intentan forzar la idea de que toda profecía del Antiguo Testamento sobre el reino mesiánico terrenal ya fue cumplida histórica o espiritualmente durante eventos pasados, tales como el nacimiento de la iglesia en Pentecostés (Hechos 2:1-4), a pesar de que los sucesos descritos apuntan a eventos aún sin cumplimiento.
+Tales teólogos intentan forzar la idea de que toda profecía del Antiguo Testamento sobre el reino mesiánico terrenal ya fue cumplida histórica o espiritualmente durante eventos pasados, tales como el nacimiento de la iglesia en Pentecostés (Actos 2:1-4), a pesar de que los sucesos descritos apuntan a eventos aún sin cumplimiento.
 
 Gracias por leer este mensaje. No olvide compartir el material con sus familiares y cercanos.  
   

@@ -30,7 +30,7 @@ Esto se debe a que existe una relación. El príncipe humano de Tiro pudo contro
 
 El príncipe de Tiro se llenó de tanto orgullo que se convenció a sí mismo de que era dios. Por eso Dios lo condenó a través de Ezequiel. El verdadero rey de Tiro no era la persona visible sentada en el trono, sino un ser invisible, Satanás, que controlaba al hombre visible.  
   
-Ezequiel fue ordenado de desviar su atención de lo visible a lo invisible, del príncipe de Tiro a Satanás. Es en esta interesante profecía que Ezequiel describe la primera y segunda ubicación del ángel caído.  
+Ezequiel fue ordenado a desviar su atención de lo visible a lo invisible, del príncipe de Tiro a Satanás. Es en esta interesante profecía que Ezequiel describe la primera y segunda ubicación del ángel caído.  
   
 La primera estancia es el santo monte de Dios, es decir, [el tercer cielo](https://i.ytimg.com/vi/F-6Ul2vrEbs/maxresdefault.jpg). Ezequiel 28:11-15 revela tres cosas sobre la naturaleza de Satanás durante su tiempo en el santo monte de Dios: Perfección, sabiduría y hermosura (Ezequiel 28:12).  
   
@@ -48,7 +48,7 @@ Mientras Satanás estaba en esta segunda ubicación, ocurrió su rebelión (Ezeq
   
 El orgullo de Satanás lo llevó a liderar una revuelta contra Dios en la que fue seguido por un tercio de las huestes angelicales (Revelación 12:3-4). De esta manera, el lucero, hijo de la mañana, se convirtió en el adversario.  
   
-Esta revuelta derivó en violencia. Inicio un conflicto entre ángeles rebeldes contra ángeles que sirven a Dios. Tal lucha continúa hasta el día de hoy y continuará hasta el tiempo de la Tribulación (Revelación 12:7-12).  
+Esta revuelta derivó en violencia. Inició un conflicto entre ángeles rebeldes contra ángeles que sirven a Dios. Tal lucha continúa hasta el día de hoy y continuará hasta el tiempo de la Tribulación (Revelación 12:7-12).  
   
 La tercera y actual ubicación de Satanás es [el primer cielo](https://i.ytimg.com/vi/F-6Ul2vrEbs/maxresdefault.jpg), el cielo que nosotros podemos ver. Él es el príncipe de la potestad del aire (Efesios 2:2), existiendo actualmente en las regiones celestes (Efesios 6:12). La tercera morada de Satanás se puede etiquetar como los cielos atmosféricos. Vive en el aire o la atmósfera.  
   
@@ -60,30 +60,30 @@ Debido a que tiene poder de habitar el aire, viene preparando un sistema de ador
   
 Esto quiere decir que también tiene permiso y acceso a la Tierra. Como resultado de la caída de Adán, él es ahora el príncipe de este mundo (Juan 12:31), el dios de este siglo (2 Corintios 4:4), y puede ofrecer los reinos de este mundo a quien él quiera (Lucas 4:5-7).  
   
-Satanás y sus huestes aparecerán en la Tierra como ángeles de luz (2 Corintios 11:14). De esta forma, su objetivo será engañar a las masas. Tanto a los creyentes (2 Corintios 11:3) como a los incrédulos (Revelación 20:3).  
+Satanás y sus huestes aparecerán en la Tierra como ángeles de luz (2 Corintios 11:14). De esta forma, su objetivo será engañar a las masas. Tanto a los creyentes (2 Corintios 11:3) como a los incrédulos (Revelación 20:3).  
   
 El programa falso es también difundido por falsos líderes religiosos (2 Corintios 11:13) enseñando a [un mesías falso](https://www.ritualypropaganda.com/2022/06/hombre-de-pecado.html) (2 Corintios 11:3) y una doctrina torcida que culminará con una religión universal.  
   
-La cuarta ubicación se describe en Revelación 12:7-12. En el futuro, en medio de la Tribulación, Satanás caerá del primer cielo a la Tierra, es decir, pasará de su tercera a su cuarta morada. Será confinado en lo que resta de la Gran Tribulación, por un total de tres años y medio.  
+La cuarta ubicación se describe en Revelación 12:7-12. En el futuro, en medio de la Tribulación, Satanás caerá del primer cielo a la Tierra, es decir, pasará de su tercera a su cuarta morada. Será confinado en lo que resta de la Gran Tribulación, por un total de tres años y medio.  
   
-Su programa durante el tiempo que habitará el suelo terrestre será la destrucción final y persecución del pueblo judío (Revelación 12:6; Revelación 13-17) así como de quienes no lo adoren como a un dios. Él intentará aniquilarlos por medio de las dos bestias de Revelación 13 (el Anticristo y [el falso profeta](https://www.ritualypropaganda.com/2022/01/el-falso-profeta.html)).  
+Su programa durante el tiempo que habitará el suelo terrestre será la destrucción final y persecución del pueblo judío (Revelación 12:6; Revelación 13-17) así como de quienes no lo adoren como a un dios. Él intentará aniquilarlos por medio de las dos bestias de Revelación 13 (el Anticristo y [el falso profeta](https://www.ritualypropaganda.com/2022/01/el-falso-profeta.html)).  
 
 > "Y fué vista otra señal en el cielo; y he aquí un grande dragón bermejo, que tenía siete cabezas y diez cuernos; y sobre sus cabezas siete diademas. Y su cola traía con violencia la tercera parte de las estrellas del cielo, y las arrojó a la tierra. Y el dragón se paró delante de la mujer que estaba de parto, a fin de devorar a su hijo, luego que ella le hubiese parido."  
-> –Revelación 12:3-4
+> –Revelación 12:3-4
 
-La quinta ubicación de Satanás se registra en Revelación 20:1-3. Según este pasaje, Satanás estará confinado en el abismo durante los mil años que durará [el reino mesiánico](https://www.ritualypropaganda.com/2023/01/1000-anos-reinado-futuro.html). El pecado y la muerte serán grandemente reducidos en la Tierra, pero no eliminados.  
+La quinta ubicación de Satanás se registra en Revelación 20:1-3. Según este pasaje, Satanás estará confinado en el abismo durante los mil años que durará [el reino mesiánico](https://www.ritualypropaganda.com/2023/01/1000-anos-reinado-futuro.html). El pecado y la muerte serán grandemente reducidos en la Tierra, pero no eliminados.  
   
 Durante el período del reino milenial, Jesucristo ejercerá autoridad sobre la Tierra. Como resultado del encierro de Satanás, el hombre finalmente cumplirá con su llamado de un dominio terrenal justo (Hebreos 2:5-9).  
   
-La sexta ubicación de Satanás se describe en Revelación 20:7-10. El lago de fuego y azufre será usado como la última estancia de Satanás, donde permanecerá por toda la eternidad junto con todos los demás ángeles caídos y la humanidad no redimida.  
+La sexta ubicación de Satanás se describe en Revelación 20:7-10. El lago de fuego y azufre será usado como la última estancia de Satanás, donde permanecerá por toda la eternidad junto con todos los demás ángeles caídos y la humanidad no redimida.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEX-0uXe3Vqrq7Ib0zUV-IYkvgMPd_JqA9RelTx8_isX088RJhV866-7t0045A4UTq7myZLwIW10gmmd7B7iDiqqrbdSuVCOJkpxjhfgZxUeyxY3357RNZdRZ1RcxfiMM1x9VhX9WOfbat9cdNPlMfxakc5m84-ixqARnQEMla7GgZJdb4OETOgEdZ/s16000/lago-fuego.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEX-0uXe3Vqrq7Ib0zUV-IYkvgMPd_JqA9RelTx8_isX088RJhV866-7t0045A4UTq7myZLwIW10gmmd7B7iDiqqrbdSuVCOJkpxjhfgZxUeyxY3357RNZdRZ1RcxfiMM1x9VhX9WOfbat9cdNPlMfxakc5m84-ixqARnQEMla7GgZJdb4OETOgEdZ/s700/lago-fuego.jpeg)
 
   
-Como resultado de que Satanás sea arrojado al lago de fuego, se eliminarán dos efectos principales de su caída: la existencia de la muerte (1 Corintios 15:24-26) y la existencia de los mares (Revelación 21:1).  
+Como resultado de que Satanás sea arrojado al lago de fuego, se eliminarán dos efectos principales de su caída: la existencia de la muerte (1 Corintios 15:24-26) y la existencia de los mares (Revelación 21:1).  
   
-En este breve repaso vimos el destino de Lucifer y como el orgullo pervirtió su corazón, lo enalteció y lo hizo pensar que podía ser como Dios, llevándolo a una prisión despreciable y eterna.
+En este breve repaso vimos el destino de Lucifer y cómo el orgullo pervirtió su corazón, lo enalteció y lo hizo pensar que podía ser como Dios, llevándolo a una prisión despreciable y eterna.
 
   
 Gracias por leer el newsletter de esta semana, no olvide que puede compartir el material con sus familiares y cercanos.

@@ -9,13 +9,13 @@ description: "En el evangelio de Mateo, Jesús llama sin rodeos a los religiosos
 tags: ["Sociedad"]
 ---
 
-En el evangelio de Mateo, **Jesús** llama sin rodeos a los **religiosos judíos** "serpientes" y "víboras" (Mateo 12 y 23). "¿Cómo escaparéis de la condenación del infierno?" dijo Jesús.  
+En el evangelio de Mateo, **Jesús** llama sin rodeos a los **religiosos judíos** "serpientes" y "víboras" (Mateo 12 y 23). "¿Cómo escaparéis de la condenación del infierno?" dijo Jesús.  
   
 
 [![portada de santa serpiente de los judíos por texe marrs](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgss0whZe50b0SRFucL6-ZrAllADuBUP81yXRYQsH87G7SSP4nAw3diUhxfHcg7GLsCshvSC8q-iHcSUyM2xAdOPv0McGPEzytdTbFzZap7DOzW03u6Mgc49RFvWtqgXvi-06uu3gYn2P0/s1600/serpent-jews.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgss0whZe50b0SRFucL6-ZrAllADuBUP81yXRYQsH87G7SSP4nAw3diUhxfHcg7GLsCshvSC8q-iHcSUyM2xAdOPv0McGPEzytdTbFzZap7DOzW03u6Mgc49RFvWtqgXvi-06uu3gYn2P0/s1600/serpent-jews.jpg)
 
   
-Desde los tiempos de Jesús, uno tras otro rabino ha demostrado que él tiene la razón. La mayoría admite su señorío a la Serpiente. Los rabinos incluso ponen su maldad por escrito, declarando en sus libros sagrados, la mayoría del Talmud y la Cábala, que la serpiente es su "compañero" y "compañera". Tan santo y sagrado es la serpiente en su religión judaica que los rabinos sostienen que es su "redentor" y "mesías".  
+Desde los tiempos de Jesús, un rabino tras otro ha demostrado que él tiene la razón. La mayoría admite su señorío a la Serpiente. Los rabinos incluso ponen su maldad por escrito, declarando en sus libros sagrados, la mayoría del Talmud y la Cábala, que la serpiente es su "compañero" y "compañera". Tan santa y sagrada es la serpiente en su religión judaica que los rabinos sostienen que es su "redentor" y "mesías".  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZphME9aZoWb_Kiu0IoGW7-XO2-MVmMUZZr-eLMF26wZGxgpaCg_ILYPrPwKX81yEnq0uZQpmoT5TovBk42jjrhauMd_LihUvtkaOXAZXXZ_5QebVGmlQsrOiEnZHZdCGYFRdYwrb1_Ls/s320/vav.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZphME9aZoWb_Kiu0IoGW7-XO2-MVmMUZZr-eLMF26wZGxgpaCg_ILYPrPwKX81yEnq0uZQpmoT5TovBk42jjrhauMd_LihUvtkaOXAZXXZ_5QebVGmlQsrOiEnZHZdCGYFRdYwrb1_Ls/s1600/vav.jpeg)
@@ -25,7 +25,7 @@ Desde los tiempos de Jesús, uno tras otro rabino ha demostrado que él tiene la
   
 En primer lugar, vamos al Zohar, uno de los cinco libros que son los libros fundamentales de la Cábala. El Zohar enseña que la letra del medio en la Torá (los cinco primeros libros de la Biblia) es "vav", que es la sexta letra del alfabeto hebreo. La letra vav es conocida como la "serpiente". En gematría (numerología) se dice que esto significa que: "la serpiente es el cerebro medio, que está en medio de las letras de la Torá".  
   
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 
 Los rabinos cabalistas dicen que el "vav" es la prueba de la deidad y de la santa serpiente teniendo en cuenta que esta letra hebrea se encuentra exactamente en el punto medio de la Torá, en Levítico 11:42, se habla de la serpiente como un animal inmundo.  
@@ -47,15 +47,15 @@ El rabino Elijah ben Solomon, quizás el más famoso de los rabinos históricos,
 **Rabbi Elijah ben Solomon.**
 
   
-Recordemos, en el Nuevo Testamento, encontramos que Jesús es la "luz del mundo." el Zohar de la Cábala no está de acuerdo. El Zohar enseña que la serpiente es "la fuente de luz universal".  
+Recordemos, en el Nuevo Testamento, encontramos que Jesús es la "luz del mundo". El Zohar de la Cábala no está de acuerdo. El Zohar enseña que la serpiente es "la fuente de luz universal".  
   
-El rabino Michael Esdras, afirma que: "La serpiente tiene el poder transformador en el desarrollo espiritual."  
+El rabino Michael Ezra, afirma que: "La serpiente tiene el poder transformador en el desarrollo espiritual."  
   
 El rabino Michael Laitman enseña con entusiasmo que "la serpiente es el ángel de la ayuda. Debemos estar agradecidos a la serpiente."  
   
 El rabino Michael Laitman fue entrevistado por Larry King de CNN. Según Laitman, la serpiente es ángel de la ayuda del judío. "Debemos estar agradecidos a la serpiente por su ayuda", dice.  
   
-Rabino Itzjak Ginsburgh dice que: "La serpiente positiva representa el epítome de lo bueno" y añade: "Al mesías se le conoce como la serpiente sagrada.".  
+Rabino Itzjak Ginsburgh dice que: "La serpiente positiva representa el epítome de lo bueno" y añade: "Al mesías se le conoce como la serpiente sagrada".  
   
 _Beit Ha Derek_, un grupo religioso y popular judío, publicó un artículo, "La Revelación de la Santa Serpiente." De acuerdo con este grupo de eruditos judíos, citando el Zohar (11-54a), se nos dice que: "La serpiente es sabia y es un consejero de Dios."  
   
@@ -63,7 +63,7 @@ Los rabinos y sus libros sagrados del Talmud y la Cábala, están de acuerdo en 
   
 El Talmud, el libro más santo de los judíos, enseña que, "La serpiente encierra lo justo durante su vida, atendiendo a sus necesidades y guiando sus acciones."  
   
-"En el día de reposo", dice el Talmud, "uno puede encantar serpientes y vívoras" (Sanhedrin 101a, 101b). Como tal, las serpientes saldrán para atacar a los enemigos y protegerán al judío.  
+"En el día de reposo", dice el Talmud, "uno puede encantar serpientes y víboras" (Sanhedrín 101a, 101b). Como tal, las serpientes saldrán para atacar a los enemigos y protegerán al judío.  
   
 El Talmud concluye que: "La serpiente es el gran servidor del hombre" (Sanhedrín 50b).  
   
@@ -82,9 +82,9 @@ Pero para el judío temeroso que, posiblemente, siente una punzada de miedo en h
 ## La profundidad del engaño
 
   
-Ahora, queridos amigos, ¿Ven y comprenden la profundidad del engaño perpetrado por los rabinos? El hecho es, que los judíos en su religión no creen en el pecado original, sino en la bendición original. Niegan que la serpiente engañó a Eva y le causó a ella y a Adan caer en el pecado. En su lugar, la serpiente le hizo al hombre un gran favor en el jardín al asistirlo en su esfuerzo por alcanzar la divinidad. Los judíos dicen que la santa serpiente finalmente dirigió y orientó su carrera hacia el cumplimiento de este objetivo. Ellos serán como dioses en el reino judío que está por venir.  
+Ahora, queridos amigos, ¿ven y comprenden la profundidad del engaño perpetrado por los rabinos? El hecho es, que los judíos en su religión no creen en el pecado original, sino en la bendición original. Niegan que la serpiente engañó a Eva y le causó a ella y a Adán caer en el pecado. En su lugar, la serpiente le hizo al hombre un gran favor en el jardín al asistirlo en su esfuerzo por alcanzar la divinidad. Los judíos dicen que la santa serpiente finalmente dirigió y orientó su carrera hacia el cumplimiento de este objetivo. Ellos serán como dioses en el reino judío que está por venir.  
   
-El Nuevo Testamento claramente pinta para nosotros una imagen honesta y futura de la serpiente. El libro de Apocalipsis lo llama "Satanás, y el diablo" (Apocalipsis 12:9). Jesús dijo que él es el "padre de la mentira". Jesús nombró a los judíos como "guías ciegos" y les informó que estaban "llenos de inmundicia."  
+El Nuevo Testamento claramente pinta para nosotros una imagen honesta y futura de la serpiente. El libro de Revelación lo llama "Satanás, y el diablo" (Revelación 12:9). Jesús dijo que él es el "padre de la mentira". Jesús nombró a los judíos como "guías ciegos" y les informó que estaban "llenos de inmundicia."  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJhfSCy7oB1GJZQlKTg-VuVLGstaSfcLe9LR9Czz3spmk2gEl_8CR2L_kI5PAyrIJ4iGnY05CZ58xgToUsYaL0SdrC0SrhPGiGBGiutvTZggoh6zAnUFGVd-9itJp2R_7vP7v_eRIdzQs/s1600/snake_eye.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJhfSCy7oB1GJZQlKTg-VuVLGstaSfcLe9LR9Czz3spmk2gEl_8CR2L_kI5PAyrIJ4iGnY05CZ58xgToUsYaL0SdrC0SrhPGiGBGiutvTZggoh6zAnUFGVd-9itJp2R_7vP7v_eRIdzQs/s1600/snake_eye.jpg)
@@ -96,11 +96,11 @@ Los profetas y apóstoles advirtieron asimismo de las enseñanzas de los rabinos
   
 Juan el Bautista, percibiendo que los judíos religiosos habían llegado a él usando el bautismo como pretexto, con rabia les preguntó: "¡Generación de víboras! ¿quién os ha enseñado a huir de la ira venidera?"  
   
-Jesús también los llamó "víboras" y "serpientes" y me respondió que eran "de su padre, el diablo". Por tus palabras" Jesús dijo, "serás condenado."  
+Jesús también los llamó "víboras" y "serpientes" y les respondió que eran "de su padre, el diablo". "Por tus palabras", dijo Jesús, "serás condenado."  
   
 Tenga en cuenta las mismas palabras de los rabinos. ¿Acaso sus palabras, jactancias y el hacer alarde de su gran amigo, redentor, y mesías, la santa serpiente no los condena?  
   
-Mi nuevo libro, **[La Santa Serpiente de los Judíos](http://www.texemarrs.com/mm5/merchant.mvc?Screen=PROD&Store_Code=catalog&Product_Code=bbtm_holy_serpent)**, demuestra como estas y muchas otras palabras impías son utilizados por los rabinos en cuanto a su admiración y veneración de su mesías, Satanás, la santa serpiente.  
+Mi nuevo libro, **[La Santa Serpiente de los Judíos](http://www.texemarrs.com/mm5/merchant.mvc?Screen=PROD&Store_Code=catalog&Product_Code=bbtm_holy_serpent)**, demuestra cómo estas y muchas otras palabras impías son utilizadas por los rabinos en cuanto a su admiración y veneración de su mesías, Satanás, la santa serpiente.  
   
 Los judíos - y de hecho, todo el mundo - se enfrentan a una elección clara. Servir a Jesucristo como maestro y Señor, o caer bajo el dominio de las palabras condenatorias y mortales de los rabinos.  
   
