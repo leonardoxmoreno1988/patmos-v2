@@ -15,11 +15,11 @@ Esta es la parte II del estudio de [sectas](https://lvr67.r.ag.d.sendibm3.com/mk
   
 Este grupo suele ubicarse en zonas peatonales transitadas, permaneciendo discretos junto a [sus exhibidores](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsE8LIjySBI77xxDLLVQHp/s4BAvnoPcsfu) y esperando a que los transeúntes se acerquen. En estos estantes, presentan sus revistas, que en su mayoría tratan temas sociales y profecías sobre el fin de los tiempos.  
   
-Fuentes de autoridad extra bíblicas usadas por los Testigos de Jehová:  
-  
-La [Traducción del Nuevo Mundo](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsEag0wOqXO2IE12jAU9zt/a-HVLz9Gu4P6) (TNM) de la Biblia, creada, revisada y modificada por los Testigos de Jehová para respaldar sus doctrinas.  
-Publicaciones como las revistas La Atalaya y ¡Despertad!.  
-"Estudios de las Escrituras", considerados por ellos superiores a la Biblia misma.  
+Fuentes de autoridad extrabíblicas usadas por los Testigos de Jehová:
+
+- La [Traducción del Nuevo Mundo](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsEag0wOqXO2IE12jAU9zt/a-HVLz9Gu4P6) (TNM) de la Biblia, creada, revisada y modificada por los Testigos de Jehová para respaldar sus doctrinas.
+- Publicaciones como las revistas La Atalaya y ¡Despertad!.
+- "Estudios de las Escrituras", considerados por ellos superiores a la Biblia misma.
   
 Estas son las falsas doctrinas fundamentales y exclusivas de los Testigos de Jehová:  
   
@@ -40,7 +40,7 @@ Si bien algunos de sus miembros tienen argumentos muy astutos que podrían sonar
   
 **(1) El alma deja de existir al morir**  
   
-Los testigos de Jehová sostienen que el alma muere, citando Ezequiel 18:4: “El alma que pecare, esa morirá”. Interpretan esto literalmente como extinción absoluta de la persona. Sin embargo, en el Antiguo Testamento, la palabra alma/persona suele referirse a la persona completa, es decir, el cuerpo y el alma juntos (Levítico 5:2; Números 19:22; Genesis 46:26).  
+Los testigos de Jehová sostienen que el alma muere, citando Ezequiel 18:4: “El alma que pecare, esa morirá”. Interpretan esto literalmente como extinción absoluta de la persona. Sin embargo, en el Antiguo Testamento, la palabra alma/persona suele referirse a la persona completa, es decir, el cuerpo y el alma juntos (Levítico 5:2; Números 19:22; Génesis 46:26).
 
   
 Más importante aún, el Nuevo Testamento aclara esta separación. 2 Corintios 5:8 dice que los creyentes “Estamos confiados, digo, y querríamos más bien peregrinar del cuerpo, y estar presentes con el Señor”.  
@@ -77,7 +77,7 @@ La refutación se puede leer en Juan 14:16-17, donde Jesús habla de “otro Con
   
 **(6) Jesús como ser creado**  
   
-La creencia de que Jesús fue la primera creación de Dios y no co-eterno con el Padre contradice Génesis 1:1, “En el principio creó Dios…”, que afirma la existencia eterna de Dios en las tres personas, el Padre, el Verbo, y el Espíritu Santo. Hebreos 1:8 llama explícitamente al Verbo, es decir a Jesucristo, un Dios: “Mas al Hijo: Tu trono, oh Dios, por los siglos de los siglos”. Por lo tanto, Jesús es plenamente Dios, un ser plenamente eterno.  
+La creencia de que Jesús fue la primera creación de Dios y no co-eterno con el Padre contradice Génesis 1:1, “En el principio creó Dios…”, que afirma la existencia eterna de Dios en las tres personas, el Padre, el Verbo, y el Espíritu Santo. Hebreos 1:8 llama explícitamente al Verbo, es decir, a Jesucristo, un Dios: “Mas al Hijo: Tu trono, oh Dios, por los siglos de los siglos”. Por lo tanto, Jesús es plenamente Dios, un ser plenamente eterno.  
   
 **(7) La resurrección de Jesús como espíritu**  
   
@@ -87,11 +87,11 @@ Lucas 24:36-39 lo aclara, Jesús se apareció corporalmente, invitando a sus dis
   
 ![](https://ci3.googleusercontent.com/meips/ADKq_NZ1dms3m_1T4PwaGdnfzy14tscxbz8QG7f4A3Xu0c4Bhx2BcWboPOBXCnB09CqP0IEO1qrqEAJHRwYeshEY0xQtDFGLynbZX9o-hPAYCdKVKK4Hq9kO1_plkExGyYIZyjcDmrgxeQLOrs5wFbSKe4P-2LM=s0-d-e1-ft#https://lvr67.img.ag.d.sendibm3.com/im/sh/Dx8BREzZJk4w.jpg?u=WtVElij8PJZGdKGnKJ0aqaeEqxgdAoFd)  
   
-Un punto clave de las creencias de los Testigos de Jehová es su visión sobre el fin de los tiempos. Si revisamos La Atalaya de Abril de 2026, vemos que a pesar de lo que dice Revelación 19 sobre Jesús regresando con una espada, los Testigos de Jehová deciden ilustrarlo con un arco y una flecha, conectándolo con Revelación 6:2.  
+Un punto clave de las creencias de los Testigos de Jehová es su visión sobre el fin de los tiempos. Si revisamos La Atalaya de abril de 2026, vemos que a pesar de lo que dice Revelación 19 sobre Jesús regresando con una espada, los Testigos de Jehová deciden ilustrarlo con un arco y una flecha, conectándolo con Revelación 6:2.  
   
 Aquí surge un error importante. El verdadero creyente bíblico interpreta que ese jinete del caballo blanco con un arco es, en realidad, el [Anticristo](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsF30j8pEtTxSU4s6zSthx/BAQarKfw146W). Los Testigos, al no creer en un Anticristo como individuo literal, sino como un concepto que engloba a quienes se oponen a ellos, terminan identificando a ese jinete con Jesucristo.  
   
-Este es un ejemplo claro de cómo una interpretación adultera sobre un solo personaje termina transformando toda su estructura profética y distanciándolos de la verdadera revelación bíblica.  
+Este es un ejemplo claro de cómo una interpretación adúltera sobre un solo personaje termina transformando toda su estructura profética y distanciándolos de la verdadera revelación bíblica.  
   
 Finalmente, este grupo tampoco cree en el [rapto de la Iglesia](https://lvr67.r.ag.d.sendibm3.com/mk/cl/f/sh/1t6Af4OiGsFVLRLFdFZsck8hUoRdQ1/BabrNQP8ZQtn) antes de la tribulación, ya que se atribuyen a sí mismos las profecías del pueblo judío. De ahí la falacia de que son los 144,000 testigos. Esta secta espiritualiza las promesas literales, territoriales y políticas dadas a la nación de Israel para aplicárselas erróneamente a ellos. Un error común entre otros grupos que creen en el rapto después de la tribulación.  
   

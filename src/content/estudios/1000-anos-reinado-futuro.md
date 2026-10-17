@@ -24,7 +24,7 @@ Se usan muchos nombres para describir este período, incluyendo la era del reino
   
 Todo intento del ser humano por sostener algo parecido ha fracasado. Hay dos razones. La primera es que el hombre tiene un corazón pecaminoso y degenerado, lo que hace imposible que pueda producir un mundo de paz.  
   
-En segundo lugar, mientras Satanás este libre, siempre habrá guerra. No solo es un engañador, sino un enemigo que continúa enfrentando a las naciones entre sí. El [fracaso de las Naciones Unidas](https://www.eleconomista.com.mx/opinion/75-anos-de-la-ONU-sus-fracasos-20200922-0140.html) es una evidencia de esto.  
+En segundo lugar, mientras Satanás esté libre, siempre habrá guerra. No solo es un engañador, sino un enemigo que continúa enfrentando a las naciones entre sí. El [fracaso de las Naciones Unidas](https://www.eleconomista.com.mx/opinion/75-anos-de-la-ONU-sus-fracasos-20200922-0140.html) es una evidencia de esto.  
   
 Cuando Jesús enseñó a sus seguidores a orar en Mateo diciendo: "Venga a nosotros tu reino", se refería específicamente al reino milenario. Todo cristiano nacido de nuevo espera la manifestación de tal tiempo.  
   
@@ -35,9 +35,9 @@ Debemos saber también que este tiempo en la tierra durará mil años, y esto se
 > "Bienaventurado y santo el que tiene parte en la primera resurrección: la segunda muerte no tiene potestad sobre los tales: ántes serán sacerdotes de Dios, y de Cristo, y reinarán con él mil años."  
 > –Revelación 20:6
 
-Hacia fines del siglo III d.C., la alegoría de las Escrituras comenzó a infiltrar la teológica cristiana. La filosofía alteró negativamente el estudio de las Escrituras y la creencia del reino milenial, junto con otras enseñanzas importantes.  
+Hacia fines del siglo III d. C., la alegoría de las Escrituras comenzó a infiltrar la teología cristiana. La filosofía alteró negativamente el estudio de las Escrituras y la creencia del reino milenial, junto con otras enseñanzas importantes.  
   
-Solo hasta después de la reforma es que hubo un renacimiento del milenio bíblico, es decir, [la posición premilenialista](https://www.youtube.com/watch?v=kDaTAqy3QKI&t=24s). Hoy, a pesar de los continuos ataques, el premilenialismo sigue siendo la perspectiva más dominante de los tres puntos de vista milenarios.  
+Solo hasta después de la Reforma es que hubo un renacimiento del milenio bíblico, es decir, [la posición premilenialista](https://www.youtube.com/watch?v=kDaTAqy3QKI&t=24s). Hoy, a pesar de los continuos ataques, el premilenialismo sigue siendo la perspectiva más dominante de los tres puntos de vista milenarios.  
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlpAbzTq5Rb2EnHNMk5f5lprIpwwdrsGHFFv_kj4YP6JWJQkrJvhpQAH9or4JoEkLHyWJPI0Hff-jDHx4E5gg8165Ui8wx3ZEv5wftKXh7CF-J74l98ubFc4I4gmXY_xEyp_n00HcgIA-og29z86fxtKvNNu-Z0tyhyQ1p9HWU3W1WYfTXHh_AI66j/s16000/teologos.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlpAbzTq5Rb2EnHNMk5f5lprIpwwdrsGHFFv_kj4YP6JWJQkrJvhpQAH9or4JoEkLHyWJPI0Hff-jDHx4E5gg8165Ui8wx3ZEv5wftKXh7CF-J74l98ubFc4I4gmXY_xEyp_n00HcgIA-og29z86fxtKvNNu-Z0tyhyQ1p9HWU3W1WYfTXHh_AI66j/s700/teologos.jpg)  
   

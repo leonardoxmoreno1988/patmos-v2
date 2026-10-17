@@ -9,7 +9,7 @@ description: "Richard Gallagher es psiquiatra certificado por el consejo y profe
 tags: ["Apologética"]
 ---
 
-**Richard Gallagher** es **psiquiatra** certificado por el consejo y profesor de psiquiatría clínica en el New York Medical College.
+**Richard Gallagher** es **psiquiatra** certificado por el consejo y profesor de psiquiatría clínica en el New York Medical College.
 
   
 
@@ -24,7 +24,7 @@ Al profesor Gallagher no le falta experiencia en este tema: "Durante las última
 
   
 
-**Nota:** Si deseas recibir más contenido sobre cristianismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre cristianismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -50,7 +50,7 @@ En otras ocasiones los individuos poseídos "pueden repentinamente, en un tipo d
 
   
 
-Él o ella podría demostrar un "conocimiento oculto" de todo tipo de cosas - como la muerte de los seres queridos de un extraño, los pecados secretos que ha cometido, incluso donde estuvo alguien en un momento dado. Estas son habilidades que no pueden ser explicadas excepto por una habilidad psíquica o sobrenatural".
+Él o ella podría demostrar un "conocimiento oculto" de todo tipo de cosas - como la muerte de los seres queridos de un extraño, los pecados secretos que ha cometido, incluso dónde estuvo alguien en un momento dado. Estas son habilidades que no pueden ser explicadas excepto por una habilidad psíquica o sobrenatural".
 
   
 
@@ -72,15 +72,15 @@ Pero Gallagher es muy consciente de la falsedad y, lo que se conoce como "pseudo
 
   
 
-Los médicos ven pacientes psicóticos todo el tiempo que afirman ver u oír a los **[demonios](http://www.ritualypropaganda.com/2017/03/demonios-que-son-diferentes-tipos.html)**; histriónicos o sumamente sugestionables, como los que padecen síndromes de identidad disociativos; Y pacientes con trastornos de la personalidad que son propensos a malinterpretar sentimientos destructivos".
+Los médicos ven pacientes psicóticos todo el tiempo que afirman ver u oír a los **[demonios](http://www.ritualypropaganda.com/2017/03/demonios-que-son-diferentes-tipos.html)**; histriónicos o sumamente sugestionables, como los que padecen síndromes de identidad disociativos; y pacientes con trastornos de la personalidad que son propensos a malinterpretar sentimientos destructivos".
 
   
 
-En otros lugares, encuentra que, en efecto, "la ignorancia y la superstición han rodeado a menudo historias de posesión demoníaca en diversas culturas, y seguramente muchos episodios alegados pueden ser explicados por fraude, parálisis o patología mental." Así Gallagher tiene cuidado de juzgar los síntomas con su mejor habilidad pero, pregunta, "¿qué se supone que debo hacer con pacientes que inesperadamente comienzan a hablar latín de forma perfecta?"
+En otros lugares, encuentra que, en efecto, "la ignorancia y la superstición han rodeado a menudo historias de posesión demoníaca en diversas culturas, y seguramente muchos episodios alegados pueden ser explicados por fraude, parálisis o patología mental." Así, Gallagher tiene cuidado de juzgar los síntomas con su mejor habilidad pero, pregunta, "¿qué se supone que debo hacer con pacientes que inesperadamente comienzan a hablar latín de forma perfecta?"
 
   
 
-Sin embargo, Gallagher siempre se acerca "a cada situación con un escepticismo inicial. Técnicamente no hago mi propio "diagnóstico" de posesión, sino que informo al clero que los síntomas en cuestión no tienen ninguna causa médica concebible. "Él sabe muy bien cómo un mal diagnóstico ("pseudo-posesión") puede hacer una imagen negativa de la posesión demoníaca.
+Sin embargo, Gallagher siempre se acerca "a cada situación con un escepticismo inicial. Técnicamente no hago mi propio "diagnóstico" de posesión, sino que informo al clero que los síntomas en cuestión no tienen ninguna causa médica concebible". Él sabe muy bien cómo un mal diagnóstico ("pseudo-posesión") puede hacer una imagen negativa de la posesión demoníaca.
 
   
 
@@ -88,7 +88,7 @@ A partir de ahora, explica, "la Asociación Psiquiátrica Americana no tiene opi
 
   
 
-Sin embargo, explica Gallagher, ha sido "agradablemente sorprendido por el número de psiquiatras y otros profesionales de la salud mental en la actualidad que están abiertos a entretener tales hipótesis. Muchos creen exactamente lo que hago, aunque pueden ser reacios al hablar."
+Sin embargo, explica Gallagher, ha sido "agradablemente sorprendido por el número de psiquiatras y otros profesionales de la salud mental en la actualidad que están abiertos a entretener tales hipótesis. Muchos creen exactamente lo que hago, aunque pueden ser reacios a hablar."
 
   
 
@@ -98,15 +98,15 @@ Sin embargo, explica Gallagher, ha sido "agradablemente sorprendido por el núme
 
   
 
-Me han dicho de forma simplista que la levitación desafía las leyes de la gravedad, y, bueno, ¡por supuesto que sí! No estamos tratando aquí con la realidad puramente material, sino con el reino espiritual. No se puede obligar a estas criaturas a someterse a estudios de laboratorio o someterse a la manipulación científica; También difícilmente se permitirán ser fácilmente grabados por equipos de video, como los escépticos a veces demandan".
+Me han dicho de forma simplista que la levitación desafía las leyes de la gravedad, y, bueno, ¡por supuesto que sí! No estamos tratando aquí con la realidad puramente material, sino con el reino espiritual. No se puede obligar a estas criaturas a someterse a estudios de laboratorio o someterse a la manipulación científica; también difícilmente se permitirán ser fácilmente grabados por equipos de video, como los escépticos a veces demandan".
 
   
 
-> PERO "LOS MÚLTIPLES CASOS DEL MISMO FENÓMENO EN MANERAS ASOMBRAMENTE CONSISTENTES OFRECEN LA EVIDENCIA ACUMULATIVA DE SU CREDIBILIDAD".
+> PERO "LOS MÚLTIPLES CASOS DEL MISMO FENÓMENO EN MANERAS ASOMBROSAMENTE CONSISTENTES OFRECEN LA EVIDENCIA ACUMULATIVA DE SU CREDIBILIDAD".
 
   
 
-Así, Gallagher apela: "Como psicoanalista, un rechazo general de la posibilidad de ataques demoníacos parece menos lógico y, a menudo, ilusorio en naturaleza, que una cuidadosa evaluación de los hechos".
+Así, Gallagher apela: "Como psiquiatra, un rechazo general de la posibilidad de ataques demoníacos parece menos lógico y, a menudo, ilusorio en naturaleza, que una cuidadosa evaluación de los hechos".
 
   
 

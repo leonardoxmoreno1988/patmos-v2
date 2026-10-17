@@ -41,8 +41,10 @@ El acto de vestirse y desvestirse se utiliza de manera metafórica para instruir
   
 Igual de interesante es que las Escrituras establecen una profunda conexión tipológica entre las vestiduras de Dios, la [estructura del universo](https://i0.wp.com/divulgando-ciencia.blog/wp-content/uploads/2016/10/48104C6C-A85B-47AA-BDC2-76655D11DB28.jpeg?zoom=2&resize=1360%2C765&ssl=1) y la túnica que Jesucristo usó el día de su muerte. Esta interrelación revela verdades proféticas y físicas sobre la creación. Las Escrituras enseñan que el universo material es literalmente la ropa de Dios:  
   
-"Jehová Dios mío, mucho te has engrandecido; Te has vestido de gloria y de magnificencia. Que se cubre de luz como de vestidura, que extiende los cielos como una cortina;"  
-–Salmo 104:1-2Por consiguiente, los cielos y la tierra son descritos como una prenda que Dios viste y que está sujeta a las leyes de la degeneración y el desgaste. En Hebreos 1:10-12 y el Salmo 102:25-26, se afirma que la creación física perecerá frente a la eternidad de Dios:  
+> "Jehová Dios mío, mucho te has engrandecido; Te has vestido de gloria y de magnificencia. Que se cubre de luz como de vestidura, que extiende los cielos como una cortina;"
+> –Salmo 104:1-2
+
+Por consiguiente, los cielos y la tierra son descritos como una prenda que Dios viste y que está sujeta a las leyes de la degeneración y el desgaste. En Hebreos 1:10-12 y el Salmo 102:25-26, se afirma que la creación física perecerá frente a la eternidad de Dios:  
 
 > "Tú fundaste la tierra antiguamente, y los cielos son obra de tus manos. Ellos perecerán, y tú permanecerás; y todos ellos como un vestido se envejecerán, como una ropa de vestir los mudarás, y serán mudados".  
 > –Salmo 102:25-26

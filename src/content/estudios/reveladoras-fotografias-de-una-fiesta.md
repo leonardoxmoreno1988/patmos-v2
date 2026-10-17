@@ -9,7 +9,7 @@ description: "El 12 de diciembre de 1972 Marie-Hélène de Rothschild, miembro d
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -29,7 +29,7 @@ El Château de Ferrières estaba iluminado en rojo para que pareciese como si es
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDXl8cPh18xJRIGKIk8xjoHBdmwvMnjnR2ARnsJuKXRMWaItPsJoKaipbIueq0sBix0eUvjhomiwy6MNreN0OrtIiJMsui9omYHxRIYVotJfexIfWdKzBKkD6W12ii2CfG5PNKQbFY4qM/s1600/3a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDXl8cPh18xJRIGKIk8xjoHBdmwvMnjnR2ARnsJuKXRMWaItPsJoKaipbIueq0sBix0eUvjhomiwy6MNreN0OrtIiJMsui9omYHxRIYVotJfexIfWdKzBKkD6W12ii2CfG5PNKQbFY4qM/s1600/3a.jpg)
 
-Un invitado con una máscara de rostro múltiple. Una máscara similar se observa en Eyes Wide Shut (¿la película fue inspirada en fiestas Rothschild?). ¿Esta fiesta “delega” en el libertinaje representado en la película?.  
+Un invitado con una máscara de rostro múltiple. Una máscara similar se observa en Eyes Wide Shut (¿la película fue inspirada en fiestas Rothschild?). ¿Esta fiesta “delega” en el libertinaje representado en la película?  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLGFEpWXS_V6Fx7Ahw2T5u25vSljfGtT-k5aactWY-d5vl4Njrf30Hzx_7x30aZSb5TdZ0l7fSuczfX4QSmDYCBeUBkKlNYt9MUgoow8hF1iTYmDyKhzm-aIV8KzzLdp7koB03njMrlyY/s1600/4a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLGFEpWXS_V6Fx7Ahw2T5u25vSljfGtT-k5aactWY-d5vl4Njrf30Hzx_7x30aZSb5TdZ0l7fSuczfX4QSmDYCBeUBkKlNYt9MUgoow8hF1iTYmDyKhzm-aIV8KzzLdp7koB03njMrlyY/s1600/4a.jpg)
@@ -71,7 +71,7 @@ Un invitado con una máscara de rostro múltiple. Una máscara similar se observ
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLihuJUEbeX9UG6PCO9Vd155FFodRP23_VO_pcKZYa0UxleqcQk4JB5pmEtLE8KrwCZNV-XAp84C1HQj59IDcp0-7256wxleGH5BLTalbN0xSWzo95v2aI3Dbl1Bv_G0JtxyO4Tsu1guQ/s1600/51.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLihuJUEbeX9UG6PCO9Vd155FFodRP23_VO_pcKZYa0UxleqcQk4JB5pmEtLE8KrwCZNV-XAp84C1HQj59IDcp0-7256wxleGH5BLTalbN0xSWzo95v2aI3Dbl1Bv_G0JtxyO4Tsu1guQ/s1600/51.jpg)
 
-**En la mesa de comedor hay muñecos desmembrados y cráneos rotos. Estas imágenes también son frecuentes en numerosos vídeos musicales. Todo sobre la cultura de la élite ocultista MK.**
+**En la mesa de comedor hay muñecos desmembrados y cráneos rotos. Estas imágenes también son frecuentes en numerosos vídeos musicales. Todo sobre la cultura de la élite ocultista MK.**
 
   
 

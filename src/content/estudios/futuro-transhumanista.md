@@ -37,7 +37,7 @@ La película _Transcendence_ (2014) muestra al protagonista transfiriendo su con
 
   
 
-Los investigadores también especulan que los resultados positivos, como una mejor memoria o una mayor inteligencia, podrían resultar peligrosamente adictivos. Si bien la ciencia médica y la tecnología puede ayudar a curar enfermedades, llega a ser obvio que el intentar prolongar la vida y evitar la muerte tienen un lado oscuro.  
+Los investigadores también especulan que los resultados positivos, como una mejor memoria o una mayor inteligencia, podrían resultar peligrosamente adictivos. Si bien la ciencia médica y la tecnología pueden ayudar a curar enfermedades, llega a ser obvio que el intentar prolongar la vida y evitar la muerte tienen un lado oscuro.  
   
 ¿Qué tan oscuro es ese lado? Ser “transhumano” es ir más allá de los límites de la humanidad, cruzando al siguiente escalón. Para los estudiantes de las Escrituras, esto suena inquietantemente familiar:  
 
@@ -59,11 +59,11 @@ Ahora, considere esta cita del físico cuántico y superventas del New York Time
 
 > “Para el 2100, como los dioses de la mitología, podremos manipular objetos con el poder de nuestra mente. Las computadoras, leyendo silenciosamente nuestros pensamientos, podrán realizar nuestros deseos. Seremos capaces de mover objetos a través del poder telequinético solo del pensamiento, generalmente reservado solo para los dioses... Aunque este poder divino parece inimaginablemente avanzado, las semillas de todas estas tecnologías se están plantando mientras hablamos. Es la ciencia moderna, no los cánticos ni los encantamientos, lo que nos dará este poder.”
 
-Perseguir el "poder divino" a través de la ciencia moderna y la tecnología ¿No suena esto como el pensamiento detrás de la Torre de Babel?  
+Perseguir el "poder divino" a través de la ciencia moderna y la tecnología, ¿no suena esto como el pensamiento detrás de la Torre de Babel?  
   
 En algún momento, tratar de mejorarnos a nosotros mismos nos coloca en una posición en la que tratamos de volvernos tan poderosos como Dios. Las fusiones computadora-cerebro son un paso en esa dirección. Los transhumanistas prevén el futuro como una nueva era para la humanidad, incluidos los avances tecnológicos que implantan chips en los cerebros humanos y crean una raza de personas sobrehumanas.  
   
-Recordemos lo que le sucedió a la última raza sobrehumana. Eran los Nephilim en Génesis, el resultado de ángeles caídos que engendraron hijos con mujeres humanas (Génesis 6:1-4). Estos gigantes se convirtieron en una raza híbrida fuera de la voluntad de Dios—no fueron hechos a su imagen—y Él los destruyó con el diluvio de Noé. Dios detestó esa raza y ordenó su destrucción. Recuerde las palabras de Jesús cuando enseñó a los discípulos acerca de los últimos días:  
+Recordemos lo que le sucedió a la última raza sobrehumana. Eran los Nephilim en Génesis, el resultado de ángeles caídos que engendraron hijos con mujeres humanas (Génesis 6:1-4). Estos gigantes se convirtieron en una raza híbrida fuera de la voluntad de Dios —no fueron hechos a su imagen— y Él los destruyó con el diluvio de Noé. Dios detestó esa raza y ordenó su destrucción. Recuerde las palabras de Jesús cuando enseñó a los discípulos acerca de los últimos días:  
 
 > “Mas como los días de Noé, así será la venida del Hijo del hombre.”  
 > –Mateo 24:37
