@@ -5,16 +5,16 @@ updated: "2026-04-13"
 author: "Leonardo Moreno"
 slug: "vana-palabreria"
 redirectFrom: "/2023/12/vana-palabreria.html"
-description: "1 Juan 4:1-6 enseña que los verdaderos creyentes de la Biblia, no debemos aceptar experiencias espirituales que se deriven de tradiciones sectarias, porque…"
+description: "1 Juan 4:1-6 enseña que los verdaderos creyentes de la Biblia no debemos aceptar experiencias espirituales que se deriven de tradiciones sectarias, porque…"
 tags: ["Falsas Doctrinas"]
 ---
 
 Estimado lector,  
   
-1 Juan 4:1-6 enseña que los verdaderos creyentes de la Biblia, no debemos aceptar experiencias espirituales que se deriven de tradiciones sectarias, porque Satanás está ansioso por imitar la obra genuina de Dios (2 Corintios 11:14).
+1 Juan 4:1-6 enseña que los verdaderos creyentes de la Biblia no debemos aceptar experiencias espirituales que se deriven de tradiciones sectarias, porque Satanás está ansioso por imitar la obra genuina de Dios (2 Corintios 11:14).
 
   
-Si no podemos encontrar un fundamento bíblico para ciertas experiencias, debemos rechazarlas. Es importante entender las numerosas técnicas de hechicería y adivinación cristianizadas que han sido diseñadas para darnos una nueva **[Torre de Babel](https://www.ritualypropaganda.com/2022/09/no-creyendo-espiritu-enganoso.html)**. 
+Si no podemos encontrar un fundamento bíblico para ciertas experiencias, debemos rechazarlas. Es importante entender las numerosas técnicas de hechicería y adivinación cristianizadas que han sido diseñadas para darnos una nueva **[Torre de Babel](https://www.ritualypropaganda.com/2022/09/no-creyendo-espiritu-enganoso.html)**.
 
   
 
@@ -34,9 +34,9 @@ Muchas personas que han sufrido de esto tienen ataques extraños y sufren proble
   
 Algunos experimentan vocalizaciones espontáneas como arrebatos emocionales, **[risa incontrolada](https://www.gotquestions.org/Espanol/risa-santa.html)** o llanto. La dificultad para concentrarse también puede perturbar a los sujetos de una posesión de este tipo.  
   
-Esto continua con experiencias psíquicas, experiencias extracorporales, recuerdos de vidas pasadas, **[viajes astrales](https://www.ritualypropaganda.com/2016/05/proyeccion-astral-al-descubierto.html)**, conciencia directa de auras y chakras, contacto con guías espirituales a través de voces interiores, sueños o visiones y poder curativo.  
+Esto continúa con experiencias psíquicas, experiencias extracorporales, recuerdos de vidas pasadas, **[viajes astrales](https://www.ritualypropaganda.com/2016/05/proyeccion-astral-al-descubierto.html)**, conciencia directa de auras y chakras, contacto con guías espirituales a través de voces interiores, sueños o visiones y poder curativo.  
   
-Este espíritu es popular y tiene la capacidad de manifestar muchos efectos paranormales para gratificar la carne. Su mayor atractivo son las maravillas mentirosas que ya se ha establecido en las iglesias a través de la falsa unción, el don de lenguas (dones con señales en general) o la llenura del espíritu.
+Este espíritu es popular y tiene la capacidad de manifestar muchos efectos paranormales para gratificar la carne. Su mayor atractivo son las maravillas mentirosas que ya se han establecido en las iglesias a través de la falsa unción, el don de lenguas (dones con señales en general) o la llenura del espíritu.
 
   
 
@@ -47,7 +47,7 @@ Este espíritu es popular y tiene la capacidad de manifestar muchos efectos para
 Pero lo que vendrá en el futuro será aún más creíble y convincente para el iluso buscador de señales. Este espíritu "de Jesús" está preparando el camino para el Anticristo y sus **[asombrosos milagros](https://www.ritualypropaganda.com/2023/05/inteligencia-artificial-2.html)**, los cuales serán religiosos, tangibles y visibles (Revelación 19:20).
 
   
-Los eventos sobrenaturales estas las iglesias pueden incluir la caída de plumas de ángeles (pese a que los ángeles no tienen plumas), **[polvo de oro](https://www.youtube.com/watch?v=eb_x5b0_8Q4)** que cae sobre los fieles, aceite que aparece en las palmas de las manos, embriaguez y revolcarse en un estado de inconsciencia.
+Los eventos sobrenaturales en las iglesias pueden incluir la caída de plumas de ángeles (pese a que los ángeles no tienen plumas), **[polvo de oro](https://www.youtube.com/watch?v=eb_x5b0_8Q4)** que cae sobre los fieles, aceite que aparece en las palmas de las manos, embriaguez y revolcarse en un estado de inconsciencia.
 
   
 
@@ -61,7 +61,7 @@ En este estado son incapaces de discernir la presencia de Dios y continuamente s
   
 Sus líderes han construido su doctrina bíblica sobre otros falsos profetas, sus valores individuales, opiniones, emociones e intereses personales. Aunque algunos han llegado a una conciencia básica de Dios, la mayoría no pueden ir más allá de la leche espiritual y las interpretaciones superficiales de la palabra de Dios (1 Corintios 3:2).  
   
-Tales no pueden discernir la sabiduría y el poder infinito de Dios. Profesando ser sabios, se vuelven necios y cambian la gloria del Dios incorruptible en una imagen hecha a imagen de hombre caído corruptible (Romanos 1:22-23). Han caido en el sensacionalismo y el emocionalismo.  
+Tales no pueden discernir la sabiduría y el poder infinito de Dios. Profesando ser sabios, se vuelven necios y cambian la gloria del Dios incorruptible en una imagen hecha a imagen de hombre caído corruptible (Romanos 1:22-23). Han caído en el sensacionalismo y el emocionalismo.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjARfsEfh-UjPzD4-UK4NsXNtc38LvwAElgr4GcAQgnpcmH8Ag1OiaEnHMHF8PPmnKH_KFjWAeuH0GFkZnmg1gNJ3udafzQlbUZsjujD2_pbg0TZS1iwQMkZxqS5AWdXrXZzG_9qebK5Ej46bNPK35ocolokyIUgTcbo9gqNu1fljL9yJvk2o41WiQ4WXs/s16000/mega-iglesia.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjARfsEfh-UjPzD4-UK4NsXNtc38LvwAElgr4GcAQgnpcmH8Ag1OiaEnHMHF8PPmnKH_KFjWAeuH0GFkZnmg1gNJ3udafzQlbUZsjujD2_pbg0TZS1iwQMkZxqS5AWdXrXZzG_9qebK5Ej46bNPK35ocolokyIUgTcbo9gqNu1fljL9yJvk2o41WiQ4WXs/s700/mega-iglesia.jpg)

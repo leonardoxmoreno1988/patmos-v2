@@ -12,7 +12,7 @@ tags: ["Apologética"]
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglS3S_9yzG_UNgOt9cALxVckZasBnBkY0dX6HOFYaMyqVaf6rxuU66_oEMUB547_sKYb1ihZ24AmvE_MoAxzANeLoaTqQW7o3Zd8pnpVCtnmTXBCZTsKAnUsZ4wFIXYBF9Tl8N9JcHIr0/w640-h354/Captura+de+pantalla+2017-06-09+a+las+1.43.45.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglS3S_9yzG_UNgOt9cALxVckZasBnBkY0dX6HOFYaMyqVaf6rxuU66_oEMUB547_sKYb1ihZ24AmvE_MoAxzANeLoaTqQW7o3Zd8pnpVCtnmTXBCZTsKAnUsZ4wFIXYBF9Tl8N9JcHIr0/s1600/Captura+de+pantalla+2017-06-09+a+las+1.43.45.png)
 
   
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 

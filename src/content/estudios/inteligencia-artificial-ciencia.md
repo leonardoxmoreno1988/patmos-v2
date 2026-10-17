@@ -1,5 +1,5 @@
 ---
-title: "La inteligencia artificial y como la ciencia aumentará (1)"
+title: "La inteligencia artificial y cómo la ciencia aumentará (1)"
 date: "2023-04-30"
 updated: "2026-04-17"
 author: "Leonardo Moreno"
@@ -16,7 +16,7 @@ Durante décadas, la inteligencia artificial ha ido avanzando a una velocidad ve
 En este newsletter de tres partes, veremos aspectos diversos de la profecía bíblica y cuál creo que es el rol de la [I.A.](https://es.m.wikipedia.org/wiki/Inteligencia_artificial) y la tecnología en el final de los tiempos.  
 
 > "Tú pues, Daniel, cierra las palabras, y sella el libro hasta el tiempo del fin: pasarán muchos, y multiplicarse ha la ciencia."  
-> ‭‭–Daniel‬ ‭12‬:‭4‬ ‭
+> –Daniel 12:4
 
 Es claro que en el tiempo de la Tribulación habrá avances tecnológicos que ahora no vemos en su total capacidad. Nuestra generación, sin embargo, experimenta las etapas tempranas de este conocimiento.  
   
@@ -26,11 +26,11 @@ Hace 2500 años un ángel le mostró a Daniel una visión del futuro (Daniel 12)
   
 El dominio de la electricidad, la revolución industrial y la [revolución digital](https://es.m.wikipedia.org/wiki/Revoluci%C3%B3n_Digital) son parte del cumplimiento de esta profecía. Sobre esta última destaca el desarrollo de la inteligencia artificial o I.A.  
   
-Existen dos funciones de la I.A. de las que el mundo está hablando últimamente. Una es la capacidad de generar imágenes realistas de cualquier tipo ([DALL-E](https://openai.com/research/dall-e), [Midjorney](https://en.m.wikipedia.org/wiki/Midjourney)); y la otra es la capacidad de simular una conversación humana inteligente ([Chat GPT](https://openai.com/blog/chatgpt)).  
+Existen dos funciones de la I.A. de las que el mundo está hablando últimamente. Una es la capacidad de generar imágenes realistas de cualquier tipo ([DALL-E](https://openai.com/research/dall-e), [Midjourney](https://en.m.wikipedia.org/wiki/Midjourney)); y la otra es la capacidad de simular una conversación humana inteligente ([Chat GPT](https://openai.com/blog/chatgpt)).  
   
 La primera, también llamada inteligencia artificial generativa, sirve introduciendo palabras clave y descripciones de lo que se quiere crear. El resultado es una imagen fotográfica de las palabras ingresadas, tan realista como una foto original.  
   
-El problema, en sus primeros meses de uso, fue que el sistema de A.I. tenía dificultad para generar manos humanas, resultando en personas con seis dedos en las manos.  
+El problema, en sus primeros meses de uso, fue que el sistema de I.A. tenía dificultad para generar manos humanas, resultando en personas con seis dedos en las manos.  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/359/original/seis-dedos-ia.png)  
   
@@ -39,7 +39,7 @@ Es interesante que esto es una réplica del problema de diseño que también ten
 > "Y volvió a haber guerra en Get, y hubo allí un varón de medida, el cual tenía seis dedos en cada pié, y seis dedos en cada mano, veinte y cuatro; y también era hijo de Rafa."  
 > –1 Crónicas 20:6
 
-Cuando uno investiga sobre este problema de la I.A., se le atribuye a la complejidad de las manos humanas, incluso siendo un reto para los dibujantes en papel ¿Aplicaría esto también a la ingeniería genética imperfecta de [ángeles caídos](https://on.soundcloud.com/ue7qoYFKbFCqTLRT6) y mujeres humanas?  
+Cuando uno investiga sobre este problema de la I.A., se le atribuye a la complejidad de las manos humanas, incluso siendo un reto para los dibujantes en papel. ¿Aplicaría esto también a la ingeniería genética imperfecta de [ángeles caídos](https://on.soundcloud.com/ue7qoYFKbFCqTLRT6) y mujeres humanas?  
   
 Tengamos en cuenta que, por más que se sepa que las personas o elementos en las imágenes generadas no son reales, el alterar la percepción de la realidad a un punto donde uno puede ser engañado, es espiritualmente peligroso.  
   
@@ -53,12 +53,12 @@ En el caso de Chat GPT, uno puede conversar con la I.A. de una manera fluida, ca
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/364/original/chatgpt.jpg)  
   
-La [meta de esta tecnología](https://youtu.be/O386weHAkqk) será crea una consciencia humana artificial, un ser con las mismas capacidades del ser humano e incluso superiores.  
+La [meta de esta tecnología](https://youtu.be/O386weHAkqk) será crear una consciencia humana artificial, un ser con las mismas capacidades del ser humano e incluso superiores.  
   
-Si Dios es el único que puede crear la consciencia (el alma), ¿Qué es lo que estaría dentro de una I.A. más evolucionada? Es justo para un cristiano preguntarse si una hueste demoniaca tendría la capacidad de poseer una I.A. o un robot/androide.  
+Si Dios es el único que puede crear la consciencia (el alma), ¿qué es lo que estaría dentro de una I.A. más evolucionada? Es justo para un cristiano preguntarse si una hueste demoniaca tendría la capacidad de poseer una I.A. o un robot/androide.  
 
 > **“Y le fué dado que diese aliento a la imágen de la bestia, a fin de que la imagen de la bestia hablase, y también hiciese que cualesquiera que no adoraren la imagen de la bestia, fuesen matados.”**  
-> **‭‭–Revelación 13‬:‭15‬**
+> **–Revelación 13:15**
 
 La imagen que se construirá en nombre del anticristo tendrá "vida" artificial, y esto será posible mediante tecnología avanzada y hechicería, los cuales en el tiempo de la Tribulación no tendrán mucha distinción.
 
@@ -68,14 +68,14 @@ La ciencia hará que la magia sea real, convertirá simples humanos en magos, a 
   
 No es una sorpresa que Daniel, el profeta que vivió bajo la demanda del [sistema babilónico](https://www.ritualypropaganda.com/2023/01/sociedades-misterios-babilonia.html) de adorar a la imagen del rey Nabucodonosor (Daniel 3:12-30), sea quien recibió gran parte de la revelación de los últimos tiempos.  
   
-Pese a que la imagen no es una creación orgánica, actuará como si lo fuera, asombrando a las naciones. Los demonios ya pueden en cierto grado habitar la tecnología actual, no hay duda que lo harán en su forma completa en el futuro.  
+Pese a que la imagen no es una creación orgánica, actuará como si lo fuera, asombrando a las naciones. Los demonios ya pueden en cierto grado habitar la tecnología actual, no hay duda de que lo harán en su forma completa en el futuro.  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/361/original/imagen-bestia.jpg)  
   
 Pablo expuso con claridad que en las imágenes e [ídolos paganos](https://www.etsy.com/es/market/estatuas_del_altar_pagano) del mundo antiguo, habitan demonios, huestes de maldad buscando adoración y sacrificios como si fueran dioses.  
 
-> **“¿Qué digo, pues? ¿Que el ídolo es algo, o que sea algo lo que se sacrifica a los ídolos? Antes bien, digo que lo que los gentiles sacrifican, a los demonios lo sacrifican, y no a Dios; y no quiero que vosotros os hagáis partícipes con los demonios. ”**  
-> **‭‭–1 Corintios‬ ‭10‬:‭19‬-‭20‬**
+> **“¿Qué digo, pues? ¿Que el ídolo es algo, o que sea algo lo que se sacrifica a los ídolos? Antes bien, digo que lo que los gentiles sacrifican, a los demonios lo sacrifican, y no a Dios; y no quiero que vosotros os hagáis partícipes con los demonios.”**  
+> **–1 Corintios 10:19-20**
 
 Si los ídolos, antes construidos de oro, plata o madera, [contenían demonios](https://www.amazon.com/Robot-Alchemy-Androids-Cyborgs-Artificial/dp/193000480X), no debe sorprender que otra posible guarida sea el metal, el aluminio y los microchips. Al final, si la humanidad idolatra estas cosas, los demonios estarán ahí.  
   

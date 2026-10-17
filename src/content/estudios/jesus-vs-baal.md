@@ -5,11 +5,11 @@ updated: "2023-07-17"
 author: "J.P. Holding"
 slug: "jesus-vs-baal"
 redirectFrom: "/2021/10/jesus-vs-baal.html"
-description: "Baal es una figura conocida del Antiguo Testamento que a veces se afirma, es otro paralelo de Cristo. Echemos un vistazo a esto: nuestra fuente es Orígenes del…"
+description: "Baal es una figura conocida del Antiguo Testamento que a veces se afirma que es otro paralelo de Cristo. Echemos un vistazo a esto: nuestra fuente es Orígenes del…"
 tags: ["Apologética"]
 ---
 
-**Baal** es una figura conocida del Antiguo Testamento que a veces se afirma, es otro paralelo de Cristo. Echemos un vistazo a esto: nuestra fuente es _Orígenes del Monoteísmo Bíblico de Smith_ \[104ff\].
+**Baal** es una figura conocida del Antiguo Testamento que a veces se afirma que es otro paralelo de Cristo. Echemos un vistazo a esto: nuestra fuente es _Orígenes del Monoteísmo Bíblico de Smith_ \[104ff\].
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8d8bcLOMDXpNGMxZnFe2MWWxpnGIq0TmfQvZWMNTxb-TP9AR_-jEwSCe5gk7bJwMEU7EOyt5FRGhgF80l52NDoO6zP0iPYymqdGwhZSRtucyrgxAls6j4XUq-M1xxlK1HHR6szkScmmE/s16000/baal-jesus.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8d8bcLOMDXpNGMxZnFe2MWWxpnGIq0TmfQvZWMNTxb-TP9AR_-jEwSCe5gk7bJwMEU7EOyt5FRGhgF80l52NDoO6zP0iPYymqdGwhZSRtucyrgxAls6j4XUq-M1xxlK1HHR6szkScmmE/s590/baal-jesus.jpg)
 
@@ -20,7 +20,7 @@ En lo que tenemos, Baal es descubierto muerto y luego es enterrado; pero más ad
 
 En segundo lugar, una de las hijas de Baal se llama "Terrenal", pero el nombre PUEDE significar "Inframundo". Y esa es la suma y el total de la evidencia. En más de 70 otros textos sobre Baal, no se menciona su muerte en absoluto.
 
-**Nota:** Si deseas recibir más contenido sobre la persona de Jesucristo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre la persona de Jesucristo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
 ¿Alguna relación con Cristo? En absoluto, solo superficialmente con el tema esperado de la resurrección como el espectáculo de moda definitivo; no es más una imitación de Cristo con la misma fidelidad de una criatura zombi. Smith, aparentemente pensando en los mitos paganos, escribe: "... cualquier intento de hacer una reconstrucción de la muerte y regreso de Baal no debe hacer suposiciones sobre la naturaleza de esta última". \[120\]
 
@@ -50,4 +50,4 @@ Las líneas críticas (59-67) se refieren a alguien que es “invocado para mant
 
 Quienquiera que murió, su ropa está recogida (línea 84) pero tampoco es claramente la de Baal. La razón por la que no se puede hacer una identificación clara es que, si bien Baal es de hecho un criminal en esta historia, también lo es Nabu, y Livingstone señala que puede haber otros criminales presentes.
 
-En conclusión, cualquier intento de comparar las "pasiones" de Baal y Jesús debe tener en cuenta la naturaleza clara de la historia de Baal como una alegoría elaborada de lo que sucedió cuando Babilonia fue invadida y la estatua de Baal fue tomada, así como considerar que la mayoría de los los paralelos trazados por Mead involucran prácticas “universales” en el mundo antiguo.
+En conclusión, cualquier intento de comparar las "pasiones" de Baal y Jesús debe tener en cuenta la naturaleza clara de la historia de Baal como una alegoría elaborada de lo que sucedió cuando Babilonia fue invadida y la estatua de Baal fue tomada, así como considerar que la mayoría de los paralelos trazados por Mead involucran prácticas “universales” en el mundo antiguo.

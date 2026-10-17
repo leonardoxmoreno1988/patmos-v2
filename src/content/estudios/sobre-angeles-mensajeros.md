@@ -17,16 +17,16 @@ Lo primero que leemos en la Biblia es que los ángeles son servidores de Dios (H
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/458/original/angeles1.jpg)  
   
-Su apariencia puede ser tan similar a la de un hombre promedio que el autor de Hebreos enseño que debemos ser hospitalarios con los extraños, porque podríamos estar recibiendo a un ángel sin saberlo.  
+Su apariencia puede ser tan similar a la de un hombre promedio que el autor de Hebreos enseñó que debemos ser hospitalarios con los extraños, porque podríamos estar recibiendo a un ángel sin saberlo.  
 
 > "De la hospitalidad no os olvidéis; porque por esta algunos hospedaron ángeles sin saberlo."  
 > –Hebreos 13:2
 
-Entre todos los ángeles, Gabriel es el único que se nombra repetidamente en el antiguo y nuevo testamento. Su tarea principal es anunciar eventos que tienen que ver con la primera y segunda venida de Cristo (Daniel 8-9). Él trae los mensajes sobre el nacimiento del Mesías y revela también las profecías sobre su regreso a la tierra. Es conocido por anunciar a María el nacimiento virginal de su hijo Jesucristo (Lucas 1:26-28).  
+Entre todos los ángeles, Gabriel es el único que se nombra repetidamente en el Antiguo y Nuevo Testamento. Su tarea principal es anunciar eventos que tienen que ver con la primera y segunda venida de Cristo (Daniel 8-9). Él trae los mensajes sobre el nacimiento del Mesías y revela también las profecías sobre su regreso a la tierra. Es conocido por anunciar a María el nacimiento virginal de su hijo Jesucristo (Lucas 1:26-28).  
   
 Los serafines son una clase de seres angelicales de los que se habla menos, solo se mencionan en Isaías 6:2-7. Su nombre, "los que queman", los conecta con el fuego purificador que limpia el pecado, como se ve en la visión de Isaías. Se les describe con seis alas, dos para cubrir su rostro, dos para sus pies y dos para volar, evidenciando humildad ante Dios. No son agentes de juicio, como lo serían **[los ángeles de Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html#capitulo16)**, sino agentes de la santidad de Dios.  
   
-Los querubines son la clase de ángeles de los que recibimos más detalle en la Biblia. Aparecen en varios libros, como Ezequiel, Revelación y Génesis. Tienen cuatro caras león, becerro, hombre, águila (Ezequiel 1:10; Ezequiel 10:14), y en algunas visiones, seis alas y "ojos por todas partes" (Revelación 4:8; Ezequiel 1:18). Su función principal aquí es de ser guardianes y asistentes del Señor, cuidando la entrada al Jardín del Edén (Génesis 3:24), estando sobre el propiciatorio en el tabernáculo (Éxodo 25:18-20) y adorando sin cesar alrededor del trono de Dios.  
+Los querubines son la clase de ángeles de los que recibimos más detalle en la Biblia. Aparecen en varios libros, como Ezequiel, Revelación y Génesis. Tienen cuatro caras: león, becerro, hombre y águila (Ezequiel 1:10; Ezequiel 10:14), y en algunas visiones, seis alas y "ojos por todas partes" (Revelación 4:8; Ezequiel 1:18). Su función principal aquí es de ser guardianes y asistentes del Señor, cuidando la entrada al Jardín del Edén (Génesis 3:24), estando sobre el propiciatorio en el tabernáculo (Éxodo 25:18-20) y adorando sin cesar alrededor del trono de Dios.  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/462/original/vision-cheb.jpg)  
   
@@ -36,7 +36,7 @@ Los querubines son la clase de ángeles de los que recibimos más detalle en la 
 
 Sin embargo, querubines y serafines comparten algunas características, como su relación con el fuego, múltiples alas y alabanza constante, pero son distintos en apariencia y función. Las cuatro caras de los querubines simbolizan su supervisión sobre toda la creación de Dios: los mamíferos, las aves y los humanos.  
   
-La ausencia de anfibios, reptiles y peces entre sus caras contiene una razón importante, estas clases están conectadas con Satanás, que ocupa un dominio separado y caído como el dragón marino. Esto se vio a detalle en el reporte [№ 47 Aquella serpiente escurridiza y tortuosa](https://www.ritualypropaganda.com/2022/12/serpiente-escurridiza.html).  
+La ausencia de anfibios, reptiles y peces entre sus caras contiene una razón importante: estas clases están conectadas con Satanás, que ocupa un dominio separado y caído como el dragón marino. Esto se vio a detalle en el reporte [№ 47 Aquella serpiente escurridiza y tortuosa](https://www.ritualypropaganda.com/2022/12/serpiente-escurridiza.html).  
   
 Existe la controversia entre las diferentes descripciones bíblicas de los querubines, como el número de alas o las caras entre Ezequiel y Revelación, pero no son contradicciones. Más bien los textos muestran la capacidad de estos seres para transfigurarse de formas distintas en el plano físico. Al final se entiende que los habitantes celestiales son complejos y pueden revelarse de maneras variadas.  
   

@@ -31,7 +31,7 @@ El mormonismo tiene un canon que incluye el [Libro de Mormón](https://es.wikipe
   
 Una de sus falsas doctrinas más conocidas involucra la naturaleza de Dios. El mormonismo afirma que Dios Padre fue en un tiempo un hombre mortal, un ser humano como cualquier otro que alcanzó la divinidad, como se registra en la declaración de Smith: "Dios mismo fue en un tiempo como nosotros ahora, y es un hombre exaltado" (Smith, 1976, p. 345).  
   
-Pero esta enseñanza contradice las declaraciones bíblicas sobre la naturaleza divina e inmutable de Dios. Si bien es verdad de que la Biblia habla de Dios Padre con aptitudes similares a las humanas, tanto en el sentido emocional como material, Él sigue viviendo en un plano celestial, con un cuerpo celestial y en un contexto eterno:  
+Pero esta enseñanza contradice las declaraciones bíblicas sobre la naturaleza divina e inmutable de Dios. Si bien es verdad que la Biblia habla de Dios Padre con aptitudes similares a las humanas, tanto en el sentido emocional como material, Él sigue viviendo en un plano celestial, con un cuerpo celestial y en un contexto eterno:  
 
 > "para que me conozcáis, y creáis, y entendáis, que yo mismo soy: antes de mí no fue formado Dios, ni lo será después de mí."  
 > –Isaías 43:10
@@ -43,9 +43,9 @@ Otra distinción doctrinal se encuentra en el concepto que tienen de la Trinidad
 
 También existen otros ejemplos de contradicciones puntuales pero importantes en las escrituras mormonas. Por ejemplo, el Libro de Mormón, en Alma 7:10, afirma que Jesús nació “en Jerusalén”, mientras que la Biblia afirma que su nacimiento tuvo lugar en Belén (Mateo 2:1).  
   
-La composición material de Dios constituye otra falsa enseñanza. Doctrina y Convenios 130:22 describe a Dios como poseedor de “un cuerpo de carne y huesos, tangible como el del hombre”. En marcado contraste, la Biblia representa a Dios como poseedor de un cuerpo celestial y espiritual, mas no de "carne o huesos" (Juan 4:24).  
+La composición material de Dios constituye otra falsa enseñanza. Doctrina y Convenios 130:22 describe a Dios como poseedor de “un cuerpo de carne y huesos, tangible como el del hombre”. En marcado contraste, la Biblia representa a Dios como poseedor de un cuerpo celestial y espiritual, mas no de "carne o huesos" (Lucas 24:39).  
   
-La declaración del Señor Jesucristo después de su resurrección, que distingue entre un cuerpo espiritual y un cuerpo de “carne y huesos” (Lucas 24:39), expone la inconsistencia de las enseñanzas mormonas en este sentido. La siguiente obra de arte de una página web mormona ilustra el falso concepto de Dios Padre como un ser humano promedio.
+La declaración del Señor Jesucristo después de su resurrección, que distingue entre un cuerpo espiritual y un cuerpo de “carne y huesos” (Lucas 24:39), expone la inconsistencia de las enseñanzas mormonas en este sentido. La siguiente obra de arte de una página web mormona ilustra el falso concepto de Dios Padre como un ser humano promedio.
 
   
 
@@ -56,17 +56,19 @@ Una cuestión teológica crucial reside también en la doctrina de la salvación
   
 Este enfoque contradice claramente las afirmaciones bíblicas de la salvación como algo completamente por gracia mediante la fe, independientemente de las obras:  
 > "Porque por gracia sois salvos por medio de la fe, y esto no de vosotros, es el don de Dios: No por obras, para que nadie se gloríe."  
-> –Efesios 2:8-9  Las enseñanzas de Pablo a la iglesia primitiva remarcan la incompatibilidad de la gracia y las obras para lograr la salvación (Romanos 11:6; Gálatas 2:21).  
+> –Efesios 2:8-9
+
+Las enseñanzas de Pablo a la iglesia primitiva remarcan la incompatibilidad de la gracia y las obras para lograr la salvación (Romanos 11:6; Gálatas 2:21).  
   
 Surgen contradicciones claras con respecto a la poligamia. Jacob 2:24 en el Libro de Mormón condena los matrimonios polígamos de David como "abominables", pero Doctrina y Convenios 132:39 excusa a David, afirmando que "no ha pecado", lo que genera confusión en cuanto a la perspectiva divina sobre la poligamia. La escandalosa práctica histórica y la posterior [abolición de la poligamia](https://www.churchofjesuschrist.org/topics/the-manifesto-and-the-end-of-plural-marriage?lang=spa) dentro del mormonismo resaltan aún más estas inconsistencias.  
   
-Finalmente, el rito del [bautismo por los muertos](https://es.wikipedia.org/wiki/Bautismo_por_los_muertos) realizado en nombre de los antepasados se basa en una interpretación mormona de 1 Corintios 15:29, pero se ve anulado por otras enseñanzas del mismo mormonismo, que niega el arrepentimiento _post mortem_ o las oportunidades de salvación para los fallecidos. Esta práctica no solo es contraria a los que enseña la Biblia, sino también con la propia doctrina mormona, volviéndola incoherente.  
+Finalmente, el rito del [bautismo por los muertos](https://es.wikipedia.org/wiki/Bautismo_por_los_muertos) realizado en nombre de los antepasados se basa en una interpretación mormona de 1 Corintios 15:29, pero se ve anulado por otras enseñanzas del mismo mormonismo, que niega el arrepentimiento _post mortem_ o las oportunidades de salvación para los fallecidos. Esta práctica no solo es contraria a lo que enseña la Biblia, sino también a la propia doctrina mormona, volviéndola incoherente.  
   
 En resumen, La Iglesia de Jesucristo de los Santos de los Últimos Días posee todo un patrón de inconsistencias doctrinales, tanto en sus textos sagrados como con la Biblia. El alcance de estas contradicciones sin duda coloca al mormonismo con las características típicas asociadas con los sistemas religiosos falsos y las sectas.
 
   
 
-Una posible segunda entrega expondrá como los mormones rechazan la doctrina bíblica del infierno y el castigo eterno, adoptando rituales de origen masónicos sin fundamento bíblico.
+Una posible segunda entrega expondrá cómo los mormones rechazan la doctrina bíblica del infierno y el castigo eterno, adoptando rituales de origen masónico sin fundamento bíblico.
 
   
 Saludos y buena semana.

@@ -20,29 +20,29 @@ Desde los primeros días después de la creación, los seres humanos han estado 
   
 Durante el conocido recorrido de la Tierra de 365 días alrededor del sol, a veces suelen ocurrir los llamados eclipses. Durante un eclipse lunar, la tierra se coloca entre el sol y la luna, haciendo que la luna no reciba luz directa del sol. Esencialmente, la tierra bloquea la luz que normalmente le daría el color que estamos acostumbrados a ver.  
   
-Las condiciones atmosféricas a veces le dan a una luna eclipsada un tinte rojizo porque las partículas en nuestra atmósfera refractan la luz (Esta es también la razón por la que el sol y el cielo se vuelven rojos/naranjas al amanecer o al atardecer). Estos particulares eclipses se conocen como 'lunas de sangre'. Si alguna vez has visto una, es fácil entender por qué los antiguos se referían a ella con este nombre. El siguiente gráfico muestra el mecanismo de este fenómeno.  
+Las condiciones atmosféricas a veces le dan a una luna eclipsada un tinte rojizo porque las partículas en nuestra atmósfera refractan la luz (esta es también la razón por la que el sol y el cielo se vuelven rojos/naranjas al amanecer o al atardecer). Estos particulares eclipses se conocen como 'lunas de sangre'. Si alguna vez has visto una, es fácil entender por qué los antiguos se referían a ella con este nombre. El siguiente gráfico muestra el mecanismo de este fenómeno.  
   
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEiH-sdxP53WW14cY6tw7IXUWdF-mFD3Aqg7UzGZvBDWt27uTf91ZpMdKPVcQbb7TPXfz-CvGXl3EcWY9_bPFhXs0MWZuBLhaIgkNxx2DW5p8o2xKteVJc7b-mEAxH0CKZNj_M4hCakKsBa4bfCmT3kUf9vup78vjntHWK-PyKCPAThuuNlaWbxEysP0=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEiH-sdxP53WW14cY6tw7IXUWdF-mFD3Aqg7UzGZvBDWt27uTf91ZpMdKPVcQbb7TPXfz-CvGXl3EcWY9_bPFhXs0MWZuBLhaIgkNxx2DW5p8o2xKteVJc7b-mEAxH0CKZNj_M4hCakKsBa4bfCmT3kUf9vup78vjntHWK-PyKCPAThuuNlaWbxEysP0=s700)
 
   
-Si recordamos, se prestó mucha atención a lo que los medios llamaron una tétrada de lunas de sangre durante los años 2014 y 2015. Una tétradra es una secuencia de 4 lunas de sangre. También las hubo en eventos significativos más antiguos, como el descubrimiento del Nuevo Mundo por Cristóbal Colón en 1492 y 1493, o el establecimiento de Israel justo antes de otra tétrada en 1949 y 1950.  
+Si recordamos, se prestó mucha atención a lo que los medios llamaron una tétrada de lunas de sangre durante los años 2014 y 2015. Una tétrada es una secuencia de 4 lunas de sangre. También las hubo en eventos significativos más antiguos, como el descubrimiento del Nuevo Mundo por Cristóbal Colón en 1492 y 1493, o el establecimiento de Israel justo antes de otra tétrada en 1949 y 1950.  
   
 Ante tal inexplicable y poco entendido evento, debemos recordar que la Biblia nos dice que Dios usaría los cielos como un anuncio para sus propósitos:  
 
 > "Y dijo Dios: Sean luminares en el extendimiento de los cielos para apartar el día y la noche: y sean por señales, y por tiempos determinados, y por dias y años:"  
 > – Génesis 1:14
 
-El español limita el verdadero significado del término "estaciones", la cuál es la palabra hebrea moeb. En hebreo, moed se refiere a los días santos mencionados en el capítulo 23 del libro de Levítico en el Antiguo Testamento. Los días santos también se conocen como las siete Fiestas del Señor: Pascua, Panes sin Levadura, Primicias, Pentecostés, Trompetas, Expiación y Tabernáculos. Estas siete festividades anuales fueron instituidos por Dios como tiempos sagrados para el pueblo de Israel.  
+El español limita el verdadero significado del término "estaciones", la cual es la palabra hebrea moed. En hebreo, moed se refiere a los días santos mencionados en el capítulo 23 del libro de Levítico en el Antiguo Testamento. Los días santos también se conocen como las siete Fiestas del Señor: Pascua, Panes sin Levadura, Primicias, Pentecostés, Trompetas, Expiación y Tabernáculos. Estas siete festividades anuales fueron instituidas por Dios como tiempos sagrados para el pueblo de Israel.  
   
-Con esto en mente debemos saber que estas son señales del Señor para el pueblo judío (1 de Corintios 1:22). Es por esto que el calendario judío es lunar. Sorprende de gran manera que este fenómeno se alínea con hechos históricos relacionados al judaísmo, que han acompañado de forma cercana las últimas tétradas:
+Con esto en mente debemos saber que estas son señales del Señor para el pueblo judío (1 Corintios 1:22). Es por esto que el calendario judío es lunar. Sorprende de gran manera que este fenómeno se alinea con hechos históricos relacionados al judaísmo, que han acompañado de forma cercana las últimas tétradas:
 
   
 
 -   **(1492-1493)** Descubrimiento de América. Algunos historiadores exponen que Cristóbal Colón era [judío en secreto](https://www.eltiempo.com/archivo/documento/CMS-12299826) y el verdadero propósito de su viaje a América era encontrar un lugar seguro para que vivieran los judíos (!).
 -   **(1949-1950)** El renacimiento de Israel como nación. La patria judía renacía oficialmente luego de la Segunda Guerra Mundial y el pueblo judío podía regresar de todo el mundo.
 -   **(1967-1968)** La guerra de los 6 días. Donde los judíos intentaron ser desalojados de Jerusalén por una coalición árabe, pero en su lugar terminaron conquistando más territorio.
--   **(2014-2015)** Festividades sagadas. No solo las tétradas calzaron con cuatro festividades judías en esos años, sino que dos años después, el presidente Donald Trump, oficializó Jerusalén como la capital de Israel.
+-   **(2014-2015)** Festividades sagradas. No solo las tétradas calzaron con cuatro festividades judías en esos años, sino que dos años después, el presidente Donald Trump, oficializó Jerusalén como la capital de Israel.
 
   
 Los eclipses y las lunas de sangre se mencionan también en asociación con el final de los tiempos, como una señal de juicio.  
