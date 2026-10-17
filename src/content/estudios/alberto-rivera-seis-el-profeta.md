@@ -9,7 +9,7 @@ description: "En este sexto comic llamado El Profeta, el ex jesuita Alberto Rive
 tags: ["Falsas Doctrinas"]
 ---
 
-En este sexto comic llamado **El Profeta**, el ex jesuita **Alberto Rivera** explica cómo el papado ayudó a iniciar el **Islam**, sólo para que esta nueva hija se rebelara contra este. También entenderás el papel del mundo árabe en la profecía bíblica. Lea cómo la Virgen María está siendo utilizada para traer a esa hija rebelde, el Islam, de vuelta a la cooperación con la "Iglesia Matriz". La "super-iglesia" global está formándose.
+En este sexto cómic llamado **El Profeta**, el exjesuita **Alberto Rivera** explica cómo el papado ayudó a iniciar el **Islam**, solo para que esta nueva hija se rebelara contra este. También entenderás el papel del mundo árabe en la profecía bíblica. Lea cómo la Virgen María está siendo utilizada para traer a esa hija rebelde, el Islam, de vuelta a la cooperación con la "Iglesia Matriz". La "superiglesia" global está formándose.
 
   
 

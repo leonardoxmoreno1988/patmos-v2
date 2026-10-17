@@ -5,7 +5,7 @@ updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-4-la-fuerza"
 redirectFrom: "/2013/10/alberto-rivera-ex-jesuita-y-su-historia.html"
-description: "Este cómic revela cómo el Vaticano está utilizando su fuerza oculta para engañar a millones. Es la \"morada de los demonios\" descrita en Apocalipsis 18: 2. Las…"
+description: "Este cómic revela cómo el Vaticano está utilizando su fuerza oculta para engañar a millones. Es la \"morada de los demonios\" descrita en Revelación 18:2. Las…"
 tags: ["Falsas Doctrinas"]
 ---
 
@@ -13,7 +13,7 @@ tags: ["Falsas Doctrinas"]
 
   
 
-Este cómic revela cómo el **Vaticano** está utilizando su **fuerza oculta** para engañar a millones. Es la "morada de los demonios" descrita en Apocalipsis 18: 2. Las películas y la televisión han condicionado a la gente a creer que un **sacerdote católico** está obligado a exorcizar a los demonios que han tomado el control de una persona. ¿Es esto cierto, o es un esquema diabólicamente inteligente de **Satanás** para hacer que el pueblo confíe más y más en su sacerdote para su protección? La respuesta contiene muchas sorpresas.  
+Este cómic revela cómo el **Vaticano** está utilizando su **fuerza oculta** para engañar a millones. Es la "morada de los demonios" descrita en Revelación 18:2. Las películas y la televisión han condicionado a la gente a creer que un **sacerdote católico** está obligado a exorcizar a los demonios que han tomado el control de una persona. ¿Es esto cierto, o es un esquema diabólicamente inteligente de **Satanás** para hacer que el pueblo confíe más y más en su sacerdote para su protección? La respuesta contiene muchas sorpresas.  
 
   
 

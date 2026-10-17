@@ -16,7 +16,7 @@ Ciertos hombres escogidos por Dios lograron predecir el futuro con precisión. E
 > "Que era necesario que se cumpliesen todas las cosas que están escritas en la ley de Moisés, y en los profetas, y en los Salmos de mí.”  
 > –Lucas 24:44
 
-Él mismo “les abrió el entendimiento para que comprendieran las Escrituras" (Lucas 24:45). Jesús estaba declarando que todo el Antiguo Testamento (ley, profetas, salmos) predijeron los detalles de su propia vida. Solo el evangelio de Mateo hace más de 60 referencias a estas profecías, enfatizando su cumplimiento en Cristo. Tales mensajes eran sobrenaturales, no naturales.  
+Él mismo “les abrió el entendimiento para que comprendieran las Escrituras" (Lucas 24:45). Jesús estaba declarando que todo el Antiguo Testamento (ley, profetas, salmos) predijo los detalles de su propia vida. Solo el evangelio de Mateo hace más de 60 referencias a estas profecías, enfatizando su cumplimiento en Cristo. Tales mensajes eran sobrenaturales, no naturales.  
   
 En Génesis 3:15, Dios anuncia que en el futuro vendrá “[la simiente de la mujer](https://www.youtube.com/watch?v=XK3zTFJL3l0)”, y se menciona su cumplimiento en Gálatas 4:4, casi 4,000 años después, refiriéndose a Cristo como aquel “nacido de mujer”.  
   
@@ -32,13 +32,13 @@ En Isaías 9:6-7 se profetiza al futuro Mesías sentado "sobre el trono de David
   
 Miqueas 5:2 anuncia el lugar de nacimiento del Mesías: "[Belén](https://es.wikipedia.org/wiki/Bel%C3%A9n)… de ti saldrá… Señor de Israel". Casi 500 años después, Lucas 2:4-7 habla sobre el lugar de nacimiento de Jesús, “a la ciudad de David, que se llama Belén… y dio a luz a su hijo primogénito".  
   
-Isaías 7:14 profetiza que “la virgen concebirá”. En Mateo 1:23, el ángel le dice a Jose en sueños “Una virgen concebirá y dará luz a un hijo”, en referencia a su futura esposa y madre del Mesías.  
+Isaías 7:14 profetiza que “la virgen concebirá”. En Mateo 1:23, el ángel le dice a José en sueños “Una virgen concebirá y dará luz a un hijo”, en referencia a su futura esposa y madre del Mesías.  
   
-Dios habla a través de David en Salmos 2:7 y dice “Tú eres mi hijo”. Alrededor de 460 años en el futuro, en Mateo 3:17 se escucha una voz en el cielo que dice “Este es mi hijo amado, en quien tengo complacencia”.  
+Dios habla a través de David en Salmo 2:7 y dice “Tú eres mi hijo”. Alrededor de 460 años en el futuro, en Mateo 3:17 se escucha una voz en el cielo que dice “Este es mi hijo amado, en quien tengo complacencia”.  
   
 Isaías 53:3 profetiza que el Mesías será “[despreciado y desechado](https://www.biblegateway.com/passage/?search=Isa%C3%ADas%2053%3A3-10&version=RVR1960)”. Casi 750 años después, Juan 1:11 menciona que “Los suyos no le recibieron”, refiriéndose al pueblo judío rechazando a Cristo.  
   
-Las profecías son como piezas de un rompecabezas. Cada uno presenta un elemento distinto de la vida de Cristo, pero el cuadro completo solo se puede ver después de su cumplimiento. Las características divinas del príncipe venidero, nos revela a uno que es más que un simple hombre. Él era hijo de David (humano) e [Hijo de Dios](https://www.ritualypropaganda.com/2022/07/jesucristo-centro-cristianismo.html) (divino) al mismo tiempo.  
+Las profecías son como piezas de un rompecabezas. Cada una presenta un elemento distinto de la vida de Cristo, pero el cuadro completo solo se puede ver después de su cumplimiento. Las características divinas del príncipe venidero nos revelan a uno que es más que un simple hombre. Él era hijo de David (humano) e [Hijo de Dios](https://www.ritualypropaganda.com/2022/07/jesucristo-centro-cristianismo.html) (divino) al mismo tiempo.  
   
 Dios planeó nuestra redención desde el jardín de Edén (Génesis 3:15), siendo la muerte y resurrección de Jesús uno de los eventos más importantes de la historia. No sorprende que Dios nos dé las señales de sus planes a lo largo de la cronología humana.  
   

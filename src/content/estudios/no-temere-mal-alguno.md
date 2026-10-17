@@ -9,7 +9,7 @@ description: "¿Cómo pensaremos cuando nada tenga sentido? Las películas de Ho
 tags: ["Cine y Cultura"]
 ---
 
-¿Cómo pensaremos cuando nada tenga sentido? Las películas de Hollywood nos ayudan a mantenernos inmaduros para enfrentar el mundo real, los buenos siempre ganan y los malos siempre pierden. Esta es una idea **espiritualmente inmadura**. Seguro que la Palabra dice: "Todo lo que el hombre siembre, eso también segará". Galatas 6: 7. Esta es la matemática básica: 1 + 1 = 2. Pero gran parte de la vida no es elemental. Lamento anunciarlo, pero el mundo suele ser más complejo que 1 + 1 = 2.
+¿Cómo pensaremos cuando nada tenga sentido? Las películas de Hollywood nos ayudan a mantenernos inmaduros para enfrentar el mundo real: los buenos siempre ganan y los malos siempre pierden. Esta es una idea **espiritualmente inmadura**. Seguro que la Palabra dice: "Todo lo que el hombre siembre, eso también segará". Gálatas 6:7. Esta es la matemática básica: 1 + 1 = 2. Pero gran parte de la vida no es elemental. Lamento anunciarlo, pero el mundo suele ser más complejo que 1 + 1 = 2.
 
   
 
@@ -18,17 +18,17 @@ tags: ["Cine y Cultura"]
   
 
   
-La muerte, sepultura y resurrección de Cristo no eran matemáticas básicas, para Satanás era tan complejo que no se dio cuenta. Fue intencional de parte de Dios que la profecía acerca de Cristo fuera difícil de descifrar antes del hecho. Satanás fue burlado. Durante aproximadamente un siglo, está claro que pensó que había ganado ejecutando a Cristo como un criminal.  
+La muerte, sepultura y resurrección de Cristo no eran matemáticas básicas; para Satanás era tan complejo que no se dio cuenta. Fue intencional de parte de Dios que la profecía acerca de Cristo fuera difícil de descifrar antes del hecho. Satanás fue burlado. Durante aproximadamente un siglo, está claro que pensó que había ganado ejecutando a Cristo como un criminal.  
   
-Hermanos y hermanas, el mundo se está volviendo más complejo. Le pasarán cosas malas a gente buena e inocente. En la Palabra de Dios se nos pide que seamos crucificados con Cristo. Debemos evitar ser amantes de nosotros mismos. (El cuál es el pecado prevaleciente del tiempo del fin). Cristo dijo que haríamos obras más grandes que él. Si es así, ¿por qué el mundo no nos odiaría como odiaron a Cristo en su juicio y crucifixión? No, lo siento, pero la vida se vuelve más complicada que 1 + 1 = 2.  
+Hermanos y hermanas, el mundo se está volviendo más complejo. Le pasarán cosas malas a gente buena e inocente. En la Palabra de Dios se nos pide que seamos crucificados con Cristo. Debemos evitar ser amantes de nosotros mismos. (El cual es el pecado prevaleciente del tiempo del fin). Cristo dijo que haríamos obras más grandes que él. Si es así, ¿por qué el mundo no nos odiaría como odiaron a Cristo en su juicio y crucifixión? No, lo siento, pero la vida se vuelve más complicada que 1 + 1 = 2.  
   
-Sí, Dios complica las cosas; puedes leer acerca de Su sabiduría oculta en lugares como 1 Corintios 2: 7, Mateo 11:25, Lucas 19:42 y Colonenses 1:26. Pero Satanás también trata de hacernos las matemáticas difíciles con la esperanza de que caigamos. Job es un ejemplo de esto. Sus supuestos amigos intentaron hacer su problema matemático simple (1 + 1 = 2); Bildad, en el capítulo 8 le habló a Job de la justicia de Dios. Zofar en el capítulo 11 le habló sobre el arrepentimiento y sus bendiciones. Vemos otra situación confusa de matemáticas superiores en Juan 9: 1-3. Los discípulos de Cristo querían usar las matemáticas básicas para comprender por qué un ciego era ciego. Cristo los corrigió.
+Sí, Dios complica las cosas; puedes leer acerca de Su sabiduría oculta en lugares como 1 Corintios 2:7, Mateo 11:25, Lucas 19:42 y Colosenses 1:26. Pero Satanás también trata de hacernos las matemáticas difíciles con la esperanza de que caigamos. Job es un ejemplo de esto. Sus supuestos amigos intentaron hacer su problema matemático simple (1 + 1 = 2); Bildad, en el capítulo 8 le habló a Job de la justicia de Dios. Zofar en el capítulo 11 le habló sobre el arrepentimiento y sus bendiciones. Vemos otra situación confusa de matemáticas superiores en Juan 9:1-3. Los discípulos de Cristo querían usar las matemáticas básicas para comprender por qué un ciego era ciego. Cristo los corrigió.
 
   
 
 **Nota:** Si deseas recibir más contenido sobre cristianismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
-Pablo advirtió a los creyentes que eran inmaduros y necesitaban la leche materna (véase 1 Corintios 3: 2 y Hebreos 5:11). La Palabra advierte que las cosas se complican: "El hombre nace con problemas". (Job 5: 7) "Muchas son las aflicciones del justo, pero el SEÑOR lo libra de la angustia". (Salmos 34 :19) Los que siembran con lágrimas, con gozo segarán. (Salmos 126: 5) ¡Note que Dios no detiene los problemas, Él lo permite y luego viene en nuestra ayuda!  
+Pablo advirtió a los creyentes que eran inmaduros y necesitaban la leche materna (véase 1 Corintios 3:2 y Hebreos 5:11). La Palabra advierte que las cosas se complican: "El hombre nace con problemas". (Job 5:7) "Muchas son las aflicciones del justo, pero el SEÑOR lo libra de la angustia". (Salmo 34:19) Los que siembran con lágrimas, con gozo segarán. (Salmo 126:5) ¡Note que Dios no detiene los problemas, Él los permite y luego viene en nuestra ayuda!  
   
 Le digo a la gente que piensa como yo: "Somos los nuevos judíos y esto es la Alemania nazi. El patrón de persecución es similar. Y se va a intensificar". Otros que no piensan como yo creen que el Gran Hermano (gran gobierno) es la respuesta a todos los problemas. También se ignoran las leyes naturales de la Declaración de Independencia. (Algunas personas bromean diciendo que las copias de la Constitución nos ayudarán a lidiar con la próxima escasez de papel higiénico. Si estás al tanto de lo que está sucediendo, la Declaración de Derechos está siendo enterrada por leyes inconstitucionales).  
   
