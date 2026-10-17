@@ -12,7 +12,7 @@ tags: ["Escatología"]
 Estimado lector,
 
   
-Las noticias recientes han mostrado el interés estratégico del presidente Putin en Ucrania, trayendo constantes rumores de guerra y un conflicto que tiene el potencial de escalar a una crisis global ¿Es esto una señal de la futura guerra de Gog y Magog profetizada en el libro de Ezequiel?  
+Las noticias recientes han mostrado el interés estratégico del presidente Putin en Ucrania, trayendo constantes rumores de guerra y un conflicto que tiene el potencial de escalar a una crisis global. ¿Es esto una señal de la futura guerra de Gog y Magog profetizada en el libro de Ezequiel?  
   
 En diciembre de 1991, la Unión Soviética se derrumbó, se deshizo de catorce países y liberó a ocho naciones de Europa del Este del dominio soviético. Fue una desintegración total. En 2021 se conmemoró el trigésimo aniversario del fin oficial de la URSS.
 
@@ -24,7 +24,7 @@ Treinta años después, nadie duda de que hay un oso al acecho. El oso ruso ha s
   
 Putin lamenta regularmente el colapso del imperio soviético. La primera pieza que Putin parece querer recuperar es Ucrania. Rusia anexó la Crimea ucraniana en 2014 con poca resistencia de los EE. UU. u otras naciones occidentales.  
   
-Las tensiones han llegado a un punto de ebullición en el último mes, por una acumulación masiva de tropas rusas cerca de Ucrania. Rusia ha acumulado +100.000 soldados. Putin y el presidente Biden han llevado a cabo conversaciones para calmar la situación, sin ningún éxito evidente.  
+Las tensiones han llegado a un punto de ebullición en el último mes, por una acumulación masiva de tropas rusas cerca de Ucrania. Rusia ha acumulado más de 100.000 soldados. Putin y el presidente Biden han llevado a cabo conversaciones para calmar la situación, sin ningún éxito evidente.  
   
 Algunos sostienen que Putin está palabreando para obtener concesiones de la OTAN, mientras que otros creen que una invasión rusa de Ucrania es inminente. Nadie sabe con seguridad. Pero lo que sí sabemos es que todo esto es proféticamente significativo a la luz de Ezequiel 38-39, que predice una invasión masiva a Israel dirigida por Rusia en los últimos tiempos.  
   
@@ -50,20 +50,20 @@ Persia = Irán
 Cus = Etiopía  
 Fut = Libia  
   
-Al mismo tiempo que Rusia se posiciona contra Ucrania, está creando lasos con Irán, a quien también se menciona en Ezequiel 38. Irán es el patrocinador número uno del terrorismo en el mundo y el mayor enemigo de Israel.  
+Al mismo tiempo que Rusia se posiciona contra Ucrania, está creando lazos con Irán, a quien también se menciona en Ezequiel 38. Irán es el patrocinador número uno del terrorismo en el mundo y el mayor enemigo de Israel.  
   
-Los medios destacaron recientemente a Rusia e Irán como dos puntos críticos globales que representarán los mayores desafíos del mundo en 2022: las mismas dos naciones que sirven como puntos proféticos en Ezequiel 38. En enero de este año, el presidente iraní Ebrahim Raisi visitó Rusia para lo que se cree, sería formar un acuerdo de compra de armas rusas avanzadas. Este tipo de negociaciones son malas noticias para la seguridad de Israel.  
+Los medios destacaron recientemente a Rusia e Irán como dos puntos críticos globales que representarán los mayores desafíos del mundo en 2022: las mismas dos naciones que sirven como puntos proféticos en Ezequiel 38. En enero de este año, el presidente iraní Ebrahim Raisi visitó Rusia para lo que, se cree, sería formar un acuerdo de compra de armas rusas avanzadas. Este tipo de negociaciones son malas noticias para la seguridad de Israel.  
   
 Si bien nadie en la tierra sabe con certeza lo que depara este año, incluso los expertos no cristianos destacan a Rusia e Irán como las mayores amenazas en la escena mundial. Esto no debería sorprender a quienes conocen el plan profético de Dios.  
   
-El ascenso simultáneo de Rusia e Irán y su creciente asociación es paralelo a lo que profetizó Ezequiel hace más de 2500 años. Tengamos en cuenta también el asombroso hecho de que antes de 1948, nisiquiera había una Israel que se pudiera invadir.  
+El ascenso simultáneo de Rusia e Irán y su creciente asociación es paralelo a lo que profetizó Ezequiel hace más de 2500 años. Tengamos en cuenta también el asombroso hecho de que antes de 1948, ni siquiera había un Israel que se pudiera invadir.  
   
 Desde una perspectiva humana, Israel no puede superar este asalto. La única esperanza de la nación será la intervención de Dios, y Rusia estará ciega a esta perspectiva. Ezequiel describe la respuesta del Señor a la invasión de Rusia de esta manera:  
 
 > "Y será en aquel tiempo, cuando vendrá Gog contra la tierra de Israel, dijo el Señor Jehová, que mi ira subirá por mi enojo. Porque he hablado en mi zelo, y en el fuego de mi ira, que en aquel tiempo habrá gran temblor sobre la tierra de Israel:"  
 > \-Ezequiel 38:18-19
 
-Más adelante en el capítulo, hay una descripción de las víctimas masivas entre la coalición del norte y una serie de desastres naturales. El juicio de Dios vendrá en una serie de desastres aún más espectaculares y catastróficos que las plagas del antiguo Egipto (Mateo 24:21, Revelación 16).  
+Más adelante en el capítulo, hay una descripción de las víctimas masivas entre la coalición del norte y una serie de desastres naturales. El juicio de Dios vendrá en una serie de desastres aún más espectaculares y catastróficos que las plagas del antiguo Egipto (Mateo 24:21, Revelación 16).  
   
 Profecías como esta sobre el futuro de Rusia e Israel nos recuerdan que tenemos un Dios grande e impresionante, y nada está más allá de su poder. Incluso cuando parece que no hay esperanza, Dios puede entrar y cambiarlo todo.  
   

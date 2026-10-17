@@ -26,7 +26,7 @@ En su deseo de que conozcamos los tiempos, Jesús está diciendo que como fue en
 > “Comían, bebían, se casaban y se daban en casamiento, hasta el día que entró Noé en el arca; y vino el diluvio, y destruyó a todos. Asimismo también como fué en los dias de Lot: comían, bebían, compraban, vendían, plantaban, edificaban; Mas el día que Lot salió de Sodoma, llovió del cielo fuego y azufre, y destruyó a todos: Como esto será el día que el Hijo del hombre se manifestará.”  
 > –Lucas 17:27-30
 
-Podemos decir que la gente estará comprando y vendiendo o estarán de vacaciones. Las parejas se casarán y tendrán bebés. Estarán asistiendo a fiestas, comiendo en restaurantes finos y construyendo casas. Comenzarán negocios y planificarán para el futuro. Entonces todo cambiará, instantáneamente (Isaías 34:4-12).  
+Podemos decir que la gente estará comprando y vendiendo o estará de vacaciones. Las parejas se casarán y tendrán bebés. Estarán asistiendo a fiestas, comiendo en restaurantes finos y construyendo casas. Comenzarán negocios y planificarán para el futuro. Entonces todo cambiará, instantáneamente (Isaías 34:4-12).  
   
 Pero más allá de la parte de la vida en la Tierra y su final abrupto, hay otros tres paralelos con los días de Noé que nos hacen reflexionar sobre la pronta venida de Jesucristo.  
   
@@ -41,19 +41,19 @@ No necesitamos convencernos de que nuestro mundo es como una manzana en descompo
   
 El segundo paralelo es un remanente fiel. A pesar de la violencia y la inmoralidad de la época de Noé, quedó un remanente justo que vivía para Dios. Noé caminó con Dios, al igual que los miembros de su familia. Un remanente de cristianos todavía existe hoy (Romanos 11:4-5). Dependiendo de dónde viva, esto puede ser difícil de creer.  
   
-Pero en el mundo moderno muchos se autodenominan cristianos ¿Son todos salvos? Probablemente no. Muchas personas se identifican a sí mismas con este término porque así es como crecieron, o porque asisten a una iglesia de falsa doctrina un par de veces al año.  
+Pero en el mundo moderno muchos se autodenominan cristianos. ¿Son todos salvos? Probablemente no. Muchas personas se identifican a sí mismas con este término porque así es como crecieron, o porque asisten a una iglesia de falsa doctrina un par de veces al año.  
   
-Estamos hablando del rebaño del cual Jesús dijo: "Mis ovejas oyen mi voz, y yo las conozco, y me siguen" (Juan 10:27). Es el Señor mismo quien los pastorea y los guía, a menudo en dirección contraría al mundo dirigido por Satanás. Pero ellos le siguen, porque "no conocen la voz de los extraños" (Juan 10:5). Estos son días de apostasía, pero todavía existe tal remanente.
+Estamos hablando del rebaño del cual Jesús dijo: "Mis ovejas oyen mi voz, y yo las conozco, y me siguen" (Juan 10:27). Es el Señor mismo quien los pastorea y los guía, a menudo en dirección contraria al mundo dirigido por Satanás. Pero ellos le siguen, porque "no conocen la voz de los extraños" (Juan 10:5). Estos son días de apostasía, pero todavía existe tal remanente.
 
   
-El tercer paralelo señala que el remanente no estará aquí permanentemente. Enoc fue arrebatado al cielo antes del diluvio de Noé como un tipo del arrebatamiento de la Iglesia (Génesis 5:24). Como defensor de la postura pre-tribulacionista, creo que la trompeta sonará y el **[rapto ocurrirá](https://www.ritualypropaganda.com/2022/02/rapto-arrebatamiento.html)** en “un abrir y cerrar de ojos”. Los seguidores de Cristo desaparecerán (1 Corintios 15:52).  
+El tercer paralelo señala que el remanente no estará aquí permanentemente. Enoc fue arrebatado al cielo antes del diluvio de Noé como un tipo del arrebatamiento de la Iglesia (Génesis 5:24). Como defensor de la postura pretribulacionista, creo que la trompeta sonará y el **[rapto ocurrirá](https://www.ritualypropaganda.com/2022/02/rapto-arrebatamiento.html)** en “un abrir y cerrar de ojos”. Los seguidores de Cristo desaparecerán (1 Corintios 15:52).  
   
 La Biblia no comparte muchos detalles sobre lo que estaba pasando cuando Noé cerró la puerta del Arca. Esos detalles son difíciles de confirmar. Pero si se acercaba la inundación, uno podría imaginar a algunas personas rogando que las dejaran subir a bordo. Personas que posiblemente se burlaron de Noé durante la construcción del Arca.  
 
 > "Yo soy la puerta: el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos."  
 > –Juan 10:9
 
-Definitivamente la puerta se está cerrando. He aquí la importancia de entender la profecía de los últimos tiempos y estar listo para el regreso de Jesucristo en cualquier momento. En un instante, ni una sola persona que quede creerá que la Biblia es la máxima autoridad para la verdad y la vida. Nadie en el mundo guiará a otros a Cristo, excepto los 144.000 judíos mencionados en Revelación 7 y Revelación 14.  
+Definitivamente la puerta se está cerrando. He aquí la importancia de entender la profecía de los últimos tiempos y estar listo para el regreso de Jesucristo en cualquier momento. En un instante, ni una sola persona que quede creerá que la Biblia es la máxima autoridad para la verdad y la vida. Nadie en el mundo guiará a otros a Cristo, excepto los 144.000 judíos mencionados en Revelación 7 y Revelación 14.  
   
 Es sorprendente, a la luz de lo que la Biblia dice sobre el regreso de Cristo, que tantas personas vivan en pecado y rebelión, conspirando en contra del Señor y con poca preocupación por el futuro. Pueden parecer sabios y exitosos en este momento, pero al igual que el entorno de Noé, su futuro es muy oscuro. Los no creyentes estarán enfrentando la Gran Tribulación (Mateo 24:21). Literalmente un tipo de infierno en la tierra.  
   

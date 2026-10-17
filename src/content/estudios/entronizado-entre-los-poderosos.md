@@ -11,7 +11,7 @@ tags: ["Escatología"]
 
 Estimado lector,  
   
-Esto podría considerarse una extensión del estudio de [Revelación](https://t.me/ritualypropaganda) de la semana pasada y la parte 2 del newsletter [№ 47](https://www.ritualypropaganda.com/2022/12/serpiente-escurridiza.html).  
+Esto podría considerarse una extensión del estudio de [Revelación](https://t.me/ritualypropaganda) de la semana pasada y la parte 2 del newsletter [№ 47](https://www.ritualypropaganda.com/2022/12/serpiente-escurridiza.html).  
 
 > “Jehová de los ejércitos, Dios de Israel, que moras entre los querubines,”  
 > –Isaías 37:16
@@ -22,7 +22,7 @@ En su [visión del cielo](https://t.me/ritualypropaganda), Juan vio cuatro queru
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/390/original/cuatro-rostros.jpg)  
   
-Casi 700 años antes, en el 593 a.C., el profeta Ezequiel también había visto a estas [criaturas celestiales](https://es.m.wikipedia.org/wiki/Querub%C3%ADn_ca%C3%ADdo_del_Ed%C3%A9n#/media/Archivo%3AEzekiel). El describe de forma similar a estos seres que corrían y se movían como si fueran relámpagos (Ezequiel 1:4-14).  
+Casi 700 años antes, en el 593 a.C., el profeta Ezequiel también había visto a estas [criaturas celestiales](https://es.m.wikipedia.org/wiki/Querub%C3%ADn_ca%C3%ADdo_del_Ed%C3%A9n#/media/Archivo%3AEzekiel). Él describe de forma similar a estos seres que corrían y se movían como si fueran relámpagos (Ezequiel 1:4-14).  
   
 Es interesante que Juan describe a los querubines como cuatro criaturas distintas, cada uno con la cara respectiva de estos animales, teniendo cada uno seis alas. Pero Ezequiel describe a cada querubín con [cuatro caras](https://miro.medium.com/v2/resize:fit:640/0*4ODJV4NonEwmoIPg) y cuatro alas. No siendo tan exacto a la descripción de Juan. Esto puede tener dos explicaciones:
 
@@ -50,24 +50,24 @@ Otros señalan que los asirios y los antiguos mesopotámicos ya adoraban criatur
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/391/original/dios-asirio.jpeg)  
   
-Pero los querubines bíblicos no son meras copias de [religiones paganas](https://www.ritualypropaganda.com/2018/02/isis-y-horus-maria-y-jesus-la-verdad_26.html), es probable que los asirios y otros paganos de la antigüedad tuvieran débiles conceptos de los querubines y los copiaran. Su vago conocimiento podría venir de la era anti-diluviana.  
+Pero los querubines bíblicos no son meras copias de [religiones paganas](https://www.ritualypropaganda.com/2018/02/isis-y-horus-maria-y-jesus-la-verdad_26.html), es probable que los asirios y otros paganos de la antigüedad tuvieran débiles conceptos de los querubines y los copiaran. Su vago conocimiento podría venir de la era antediluviana.  
   
 Ezequiel no fue la primera persona en ver a los querubines. Después de que Adán y Eva fueron expulsados del Paraíso, Dios colocó querubines al oriente del [Jardín del Edén](https://bibleask.org/es/por-que-puso-dios-querubines-para-bloquear-el-acceso-al-arbol-de-la-vida/) (Génesis 3:24).  
   
-Moisés también los vio. El santuario o [tabernáculo](https://es.wikipedia.org/wiki/Tabern%C3%A1culo#/media/Archivo:Scinia.jpg) que dio instrucciones para construir era figura y sombra de lo que está en el cielo. Por eso Moisés fue advertido que haga todo según el modelo mostrado (Hebreos 8:5).  
+Moisés también los vio. El santuario o [tabernáculo](https://es.wikipedia.org/wiki/Tabern%C3%A1culo#/media/Archivo:Scinia.jpg) que dio instrucciones para construir era figura y sombra de lo que está en el cielo. Por eso Moisés fue advertido de que hiciera todo según el modelo mostrado (Hebreos 8:5).  
   
 Debido a esto, Moisés dio especificaciones exactas para los querubines que cubrían el propiciatorio (Hebreos 9:5). Hizo que los artesanos crearan querubines de oro para cubrir el arca del pacto (Éxodo 25:18-20).  
   
 Dios había advertido: “No te harás ídolo, ni ninguna semejanza de lo que está arriba en el cielo” (Éxodo 20:4). Pero la prohibición de hacer imágenes no se aplicó en este caso, quizás porque no se estaba haciendo estas imágenes como objetos de adoración.  
   
-También Dios les ordenó que decoraran las cortinas del Tabernáculo con querubines bordados (Éxodo 36:8). Así mismo, unos 480 años después, cuando Salomón construyó [el primer Templo](https://es.wikipedia.org/wiki/Templo_de_Salom%C3%B3n), él lo llenó de réplicas y querubines tallados (1 Reyes 6:27-29).  
+También Dios les ordenó que decoraran las cortinas del Tabernáculo con querubines bordados (Éxodo 36:8). Asimismo, unos 480 años después, cuando Salomón construyó [el primer Templo](https://es.wikipedia.org/wiki/Templo_de_Salom%C3%B3n), él lo llenó de réplicas y querubines tallados (1 Reyes 6:27-29).  
 
 > "Hizo también en el oratorio dos querubines de madera de oliva, cada uno de altura de diez codos. La una ala del un querubín tenía cinco codos; y la otra ala del mismo querubín otros cinco codos: así que había diez codos desde la punta de la una ala hasta la punta de la otra."  
 > –1 Reyes 6:23-24
 
 El hecho de que los querubines estuvieran representados en todo el Templo significaba que eran importantes, por lo que Dios hizo todo lo posible para enfatizarlos.  
   
-Hay otros seres misteriosos en el cielo llamados [serafines](https://www.gotquestions.org/Espanol/serafines-angeles.html) (Isaías 6:1-4; Isaías 6-7). Este nombre proviene de la palabra hebrea serafín, que significa "quemar", por lo que serafines probablemente significa "los que arden".  
+Hay otros seres misteriosos en el cielo llamados [serafines](https://www.gotquestions.org/Espanol/serafines-angeles.html) (Isaías 6:1-4; 6:6-7). Este nombre proviene de la palabra hebrea serafín, que significa "quemar", por lo que serafines probablemente significa "los que arden".  
   
 La descripción de Isaías de su visión de los serafines se vuelve muy similar a la de Juan y Ezequiel de los querubines. Seres que se cubren con alas y tienen una presencia intimidante.  
   

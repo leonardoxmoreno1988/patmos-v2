@@ -1,5 +1,5 @@
 ---
-title: "Astronomía y como Dios cuelga la Tierra sobre nada"
+title: "Astronomía y cómo Dios cuelga la Tierra sobre nada"
 date: "2022-08-24"
 updated: "2025-05-25"
 author: "Leonardo Moreno"
@@ -27,7 +27,7 @@ La Biblia indica en varios lugares que el universo ha estado "estirándose" o ex
   
 Tal versículo debe haber parecido muy extraño cuando fue escrito por primera vez. Visualmente, el universo no parece que se esté expandiendo. En cierto sentido, el cielo nocturno se ve igual que la noche anterior.  
   
-Pero la mayoría de los astrónomos de hoy creen que el universo [si se está expandiendo](https://www.bbc.com/mundo/noticias-47377878). En la década de 1920 descubrieron que prácticamente todas las galaxias parecen estar alejándose unas de otras. Esto indica que todo el universo se está expandiendo.
+Pero la mayoría de los astrónomos de hoy creen que el universo [sí se está expandiendo](https://www.bbc.com/mundo/noticias-47377878). En la década de 1920 descubrieron que prácticamente todas las galaxias parecen estar alejándose unas de otras. Esto indica que todo el universo se está expandiendo.
 
   
 
@@ -39,7 +39,7 @@ Pero la mayoría de los astrónomos de hoy creen que el universo [si se está ex
   
 Pensemos en esto como puntos en un globo. A medida que se infla el globo, todos los puntos se alejan más unos de otros. Si todo el universo se estuviera estirando, todas las galaxias se estarían alejando; y eso es lo que en realidad están haciendo.  
   
-Los que se oponen a la narrativa bíblica, es decir, los creyentes de [la teoría del Big Bang](https://www.bbc.com/mundo/noticias-60679940), necesitan demostrar que la Tierra tiene millones de años de antigüedad. Esta realidad es posible si contamos la Tierra antes de la creación de Adán, hablamos de la Tierra pre-adámica que se encuentra entre Génesis 1:1 y  Génesis 1:2. Pero el universo y los astros como los conocemos si fue creado hace 7,000 años aproximadamente. Veamos algunos ejemplos.
+Los que se oponen a la narrativa bíblica, es decir, los creyentes de [la teoría del Big Bang](https://www.bbc.com/mundo/noticias-60679940), necesitan demostrar que la Tierra tiene millones de años de antigüedad. Esta realidad es posible si contamos la Tierra antes de la creación de Adán, hablamos de la Tierra pre-adámica que se encuentra entre Génesis 1:1 y Génesis 1:2. Pero el universo y los astros como los conocemos sí fue creado hace 7,000 años aproximadamente. Veamos algunos ejemplos.
 
   
 La luna se aleja lentamente de la tierra. A medida que la luna orbita alrededor de la tierra, su gravedad atrae los océanos de la tierra, provocando las mareas. Las mareas en realidad "empujan" a la luna, lo que hace que la luna se mueva gradualmente en espiral hacia afuera.  
@@ -56,9 +56,9 @@ Algo parecido podemos concluir con el decaimiento del campo magnético terrestre
   
 Tomemos de ejemplo también a las galaxias espirales. Estas galaxias giran lentamente, pero las regiones internas de la espiral giran más rápido que las regiones externas.  
   
-Esto significa que una galaxia espiral se retuerce cada vez más a medida que la espiral se vuelve más estrecha. Después unos pocos cientos de millones de años, la galaxia estaría tan enrollada que la forma espiral ya no sería reconocible.  
+Esto significa que una galaxia espiral se retuerce cada vez más a medida que la espiral se vuelve más estrecha. Después de unos pocos cientos de millones de años, la galaxia estaría tan enrollada que la forma espiral ya no sería reconocible.  
   
-De acuerdo al escenario del Big Bang, se supone que las galaxias tienen muchos miles de millones de años. Sin embargo, vemos aún muchas galaxias espirales. Esto sugiere que no son tan antiguos como el Big Bang requiere. Las galaxias espirales son consistentes con la edad bíblica del universo.  
+De acuerdo al escenario del Big Bang, se supone que las galaxias tienen muchos miles de millones de años. Sin embargo, vemos aún muchas galaxias espirales. Esto sugiere que no son tan antiguas como el Big Bang requiere. Las galaxias espirales son consistentes con la edad bíblica del universo.  
   
 Hemos visto que cuando la Biblia aborda el tema de la astronomía, es precisa en todos los aspectos. Esto no debería sorprender, porque los cielos declaran gloria y obra de Dios (Salmo 19:1). Nuestro creador entiende cada aspecto del universo que ha creado y nunca comete errores.  
   
