@@ -9,7 +9,7 @@ description: "De todos los candidatos a copias paganas, Osiris es una de las cor
 tags: ["Apologética"]
 ---
 
-De todos los candidatos a copias paganas, **Osiris** es una de las correlaciones más populares ofrecidas. **Egipto**, después de todo, no está lejos de Palestina, y los judíos vivían en Egipto; no es teóricamente improbable que pudieran robar esta idea para un **Jesús** en este lugar.  
+De todos los candidatos a copias paganas, **Osiris** es una de las correlaciones más populares ofrecidas. **Egipto**, después de todo, no está lejos de Palestina, y los judíos vivían en Egipto; no es teóricamente improbable que pudieran robar esta idea para un **Jesús** en este lugar.  
   
 
 [![jesus y osiris con la cruz cristiana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIFQWKO6h983SZFl8gyji4WWhGoFi27-ub0pKFinQTlHWlZc88ZXuRigEcgt_7ylmRjVR52zUzYRAWOgqULWLT2j4d7U5DpzMX6_t3FrHU7pu7H9ISt4cuEXUu1Q1D0BgyowqDJy5fe0o/s1600/jesus-y-osiris.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIFQWKO6h983SZFl8gyji4WWhGoFi27-ub0pKFinQTlHWlZc88ZXuRigEcgt_7ylmRjVR52zUzYRAWOgqULWLT2j4d7U5DpzMX6_t3FrHU7pu7H9ISt4cuEXUu1Q1D0BgyowqDJy5fe0o/s1600/jesus-y-osiris.jpg)
@@ -20,14 +20,14 @@ De todos los candidatos a copias paganas, **Osiris** es una de las correlacion
 
 ## Osiris
 
--   Tenía más de 200 nombres divinos, incluyendo el Señor de los Lores, el Rey de Reyes, el Dios de los Dioses, la Resurrección y la Vida, el Buen Pastor y la Eternidad, el dios que "hizo nacer a hombres y mujeres".
+-   Tenía más de 200 nombres divinos, incluyendo el Señor de los Señores, el Rey de Reyes, el Dios de los Dioses, la Resurrección y la Vida, el Buen Pastor y la Eternidad, el dios que "hizo nacer a hombres y mujeres".
 -   Su venida fue anunciada por Tres Reyes Magos: las tres estrellas Mintaka, Anilam y Alnitak en el cinturón de Orión, que apuntan directamente a la estrella de Osiris en el este, Sirio, significador de su nacimiento.
 -   Era una hostia devorada. Su carne se comía en forma de tortas de trigo para la comunión, la "planta de la verdad".
 -   El Salmo 23 copió un texto egipcio apelando a Osiris el Buen Pastor para llevar a los difuntos a los "pastos verdes" y "aguas tranquilas" de la tierra _nefer-nefer_, para restaurar el alma y el cuerpo, y para dar protección en el valle de la sombra de la muerte.
 -   La Oración del Señor fue prefigurada por un himno egipcio a Osiris-Amén, que comienza, 'Amén, oh Amén, que está en el cielo'. Amén también fue invocado al final de cada oración.
 -   Las enseñanzas de Osiris y Jesús son maravillosamente iguales. Muchos pasajes son idénticos, palabra por palabra.
 -   Era conocido como el dios de la vid, un gran maestro itinerante que civilizó el mundo. Gobernante y juez de los muertos.
--   En su pasión, Osiris fue entrampado y asesinado por Set y "los 72".
+-   En su pasión, Osiris fue embaucado y asesinado por Set y "los 72".
 -   La resurrección de Osiris sirvió para dar esperanza a todos los que pueden hacer lo mismo y hacerse eternos.
 
   
@@ -36,13 +36,13 @@ De todos los candidatos a copias paganas, **Osiris** es una de las correlacion
 
 ### 1\. Tenía más de 200 nombres divinos, incluyendo el Señor de los Señores, el Rey de Reyes, el Dios de los Dioses, la Resurrección y la Vida, el Buen Pastor, la Eternidad y la Eternidad, el dios que "hizo nacer a hombres y mujeres".
 
-Los títulos que he encontrado atribuidos a Osiris son \[Fraz.AAO\] Señor de todos, el Buen Ser (el título más común), Señor del Inframundo, Señor / Rey de la Eternidad, Señor de los Muertos, \[Griff.OO\] Señor (Bud.ERR, 26) "el que toma asiento", el Begetter, el Ram, \[Bud.ERR, 79\] "La gran Palabra" (como en "la palabra de lo que va a ser y lo que no es" - un reflejo de la antigua idea del poder creativo del habla, hallada también en el Logos griego),"Jefe de los Espíritus"; \[Short.EG, 37\] gobernante de eternidad, \[Meek.DL, 31\] "dios vivo", "Dios por encima de los dioses".
+Los títulos que he encontrado atribuidos a Osiris son \[Fraz.AAO\] Señor de todos, el Buen Ser (el título más común), Señor del Inframundo, Señor / Rey de la Eternidad, Señor de los Muertos, \[Griff.OO\] Señor (Bud.ERR, 26) "el que toma asiento", el Begetter, el Ram, \[Bud.ERR, 79\] "La gran Palabra" (como en "la palabra de lo que va a ser y lo que no es" - un reflejo de la antigua idea del poder creativo del habla, hallada también en el Logos griego), "Jefe de los Espíritus"; \[Short.EG, 37\] gobernante de eternidad, \[Meek.DL, 31\] "dios vivo", "Dios por encima de los dioses".
 
   
 
-**Nota:** Si deseas recibir más contenido sobre la persona de Jesucristo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre la persona de Jesucristo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
-Todos estos son títulos generales que esperamos se asignen a cualquier deidad principal, o bien están relacionados con el comando de Osiris sobre el inframundo. No se encontraron ninguno de los más cercanos y singularmente semejantes a Jesús.  
+Todos estos son títulos generales que esperamos se asignen a cualquier deidad principal, o bien están relacionados con el comando de Osiris sobre el inframundo. No se encontró ninguno de los más cercanos y singularmente semejantes a Jesús.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAlH-eQDRSWHUdAZLep34IWT6cl6JeEr7YriMb7p1302MebKW7_ajjCmBL7i8Dls6ul58Eahc4LygepMoLxi79mKlPLBQr1VV0N407Nj4d_UFhraGmvkElkTiVwzyeVuSwudS8uft16wc/s1600/estatuas-de-osiris.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAlH-eQDRSWHUdAZLep34IWT6cl6JeEr7YriMb7p1302MebKW7_ajjCmBL7i8Dls6ul58Eahc4LygepMoLxi79mKlPLBQr1VV0N407Nj4d_UFhraGmvkElkTiVwzyeVuSwudS8uft16wc/s1600/estatuas-de-osiris.jpg)
@@ -58,10 +58,9 @@ Mientras algunos eruditos conectan a Osiris con Orión, no saben nada acerca de 
 
 Nadie en la literatura académica lo ha informado.  
 
-###   
-4\. El Salmo 23 copió un texto egipcio apelando a Osiris el Buen Pastor para llevar a los difuntos a los "pastos verdes" y a las "aguas tranquilas" de la tierra _nefer-nefer_, para restaurar el alma y el cuerpo y para dar protección en el Valle de la sombra de la muerte...
+### 4\. El Salmo 23 copió un texto egipcio apelando a Osiris el Buen Pastor para llevar a los difuntos a los "pastos verdes" y a las "aguas tranquilas" de la tierra _nefer-nefer_, para restaurar el alma y el cuerpo y para dar protección en el Valle de la sombra de la muerte...
 
-Si esto es así, ningún comentarista en la religión egipcia o el AT lo sabe. Osiris posiblemente era conocido como un pastor, ya que tales imágenes eran comunes en la ANE, pero no he visto que todavía se le llame así por nadie más que los míticos.  
+Si esto es así, ningún comentarista en la religión egipcia o el AT lo sabe. Osiris posiblemente era conocido como un pastor, ya que tales imágenes eran comunes en el Antiguo Cercano Oriente, pero no he visto que todavía se le llame así por nadie más que los míticos.  
   
 
 ### 5\. La Oración del Señor fue prefigurada por un himno egipcio a _Osiris-Amén_ que comienza, 'Amén, oh Amén, que está en el cielo.' Amén también fue invocado al final de cada oración.
@@ -80,11 +79,11 @@ Si es así, alguien necesita ponerlos lado a lado y demostrarlo. Los eruditos re
 
 ### 7\. Era conocido como el dios de la vid, un gran maestro itinerante que civilizó el mundo de los muertos.
 
-Esto es un poco no específico. Frazer relató \[Fraz.AAO, vii, 7\] que Osiris enseñó la viticultura y la agricultura, dio las leyes de los egipcios, les enseñó la adoración adecuada, y viajó por el mundo enseñando estas cosas.  
+Esto es un poco inespecífico. Frazer relató \[Fraz.AAO, vii, 7\] que Osiris enseñó la viticultura y la agricultura, dio las leyes de los egipcios, les enseñó la adoración adecuada, y viajó por el mundo enseñando estas cosas.  
   
 Pero esta es la afirmación que también se hizo de Dionisio, y hemos respondido a ese punto dentro de ese ensayo. Y no es que importe, ya que parece que la literatura escrita por los estudiosos de la religión egipcia no los trata como los mismos, aunque algunos conectan a Osiris y Orión, y Budge toma nota de los viajes, pero nunca conecta a Osiris y Dionisio. En cualquier caso, Osiris no se llama en ningún lugar un "dios de la vid".  
   
-Él es el gobernante y el juez de los muertos, pero esto no describe a Jesús, que representa a Dios que no es Dios de los muertos, "sino de los vivos". A lo mucho representa lo que se podría esperar de cualquier deidad suprema: regir y juzgar.  
+Él es el gobernante y el juez de los muertos, pero esto no describe a Jesús, que representa a Dios que no es Dios de los muertos, "sino de los vivos". A lo sumo representa lo que se podría esperar de cualquier deidad suprema: regir y juzgar.  
   
 
 ### 8\. En su pasión, Osiris fue embaucado y asesinado por Set y "los 72".
@@ -108,14 +107,14 @@ Mientras tanto Set encontró el ataúd y rasgó el cuerpo en 14 pedazos que lanz
 
 ### 9\. La resurrección de Osiris sirvió para dar esperanza a todos los que pueden hacer lo mismo y llegar a ser eternos.
 
-Aquí es donde encontramos algunos de los más grandes mal usos de la terminología, incluso por algunos eruditos egipcios de la religión (que no postulan la teoría del "imitador"). ¿Osiris resucitado? No si la "resurrección" se define como volver en un cuerpo glorificado. Sobre este punto Miller ha hecho un trabajo sustancial, reportando las palabras de J. Z. Smith, así que dejaré que estas personas hablen por si solas:  
+Aquí es donde encontramos algunos de los mayores malos usos de la terminología, incluso por algunos eruditos egipcios de la religión (que no postulan la teoría del "imitador"). ¿Osiris resucitado? No si la "resurrección" se define como volver en un cuerpo glorificado. Sobre este punto Miller ha hecho un trabajo sustancial, reportando las palabras de J. Z. Smith, así que dejaré que estas personas hablen por sí solas:  
   
 
-> **"Osiris fue asesinado y su cuerpo desmembrado y esparcido. Las piezas de su cuerpo fueron recuperadas y reunidas, y el dios fue rejuvenecido. Sin embargo, no regresó a su antiguo modo de existencia, sino que viajó al inframundo, donde se convirtió en el poderoso señor de los muertos. En ningún sentido puede decirse que Osiris ha "resucitado" en el sentido requerido por el patrón de muerto y levantado (como lo describe Frazer et.al.); Y ciertamente nunca fue considerado como un acontecimiento anual."**
+> **"Osiris fue asesinado y su cuerpo desmembrado y esparcido. Las piezas de su cuerpo fueron recuperadas y reunidas, y el dios fue rejuvenecido. Sin embargo, no regresó a su antiguo modo de existencia, sino que viajó al inframundo, donde se convirtió en el poderoso señor de los muertos. En ningún sentido puede decirse que Osiris ha "resucitado" en el sentido requerido por el patrón de muerto y levantado (como lo describe Frazer et al.); y ciertamente nunca fue considerado como un acontecimiento anual."**
 
   
 
-> "EN NINGÚN SENTIDO SE PUEDE ARMONIZAR EL MITO DRAMÁTICO DE SU MUERTE Y REANIMACIÓN AL PATRÓN DE DIOSES RESUCITADOS (SEGÚN LO DESCRITO POR FRAZER ET.AL.)."
+> "EN NINGÚN SENTIDO SE PUEDE ARMONIZAR EL MITO DRAMÁTICO DE SU MUERTE Y REANIMACIÓN AL PATRÓN DE DIOSES RESUCITADOS (SEGÚN LO DESCRITO POR FRAZER ET AL.)."
 
   
 
@@ -128,11 +127,11 @@ Aquí es donde encontramos algunos de los más grandes mal usos de la terminolog
 Frankfort está de acuerdo:  
   
 
-> **"Osiris, de hecho, no era un dios 'moribundo' sino un dios 'muerto'. Nunca volvió entre los vivos; No fue liberado del mundo de los muertos, como lo fue Tamuz. Por el contrario, Osiris pertenecía por completo al mundo de los muertos; Fue de allí que otorgó sus bendiciones sobre Egipto. Siempre fue representado como una momia, un rey muerto." \[Realeza y los dioses: un estudio de la antigua religión del Cercano Oriente como la integración de la sociedad y la naturaleza. UChicago: edición de 1978, p.289\]Tal vez el único dios pagano para quien hay una resurrección es el egipcio Osiris. Un examen detenido de esta historia muestra que es muy diferente de la resurrección de Cristo. Osiris no se levantó; Gobernaba en la morada de los muertos. Roland de Vaux, escritor bíblico, escribió: "¿Qué se quiere decir de Osiris siendo"elevado a la vida"? Simplemente, gracias a los ministerios de Isis, es capaz de llevar una vida más allá de la tumba, que es una réplica casi perfecta de la existencia terrenal."Pero nunca volverá a estar entre los vivos y reinará sólo sobre los muertos ... Este dios reavivado es en realidad un dios momia."... No, el Osiris momificado no era una inspiración para el Cristo resucitado... como observa Yamauchi, "Los hombres ordinarios aspiraban a identificarse con Osiris como alguien que había triunfado sobre la muerte". Pero es un error equiparar la visión egipcia de la vida futura con la doctrina bíblica de la resurrección. Para lograr la inmortalidad el egipcio tuvo que cumplir tres condiciones:Primero, su cuerpo tenía que ser preservado por la momificación. En segundo lugar, la alimentación era proporcionada por la ofrenda real de pan y cerveza diaria. En tercer lugar, los hechizos mágicos debían ser enterrados con él. Su cuerpo no resucitó de los muertos; Más bien elementos de su personalidad -su Ba y Ka- siguieron flotando sobre su cuerpo. \["La resurrección de Jesucristo: ¿Mito, engaño o historia?" David J. MacLeod, en The Emmaus Journal, V7 # 2, Invierno 98, p169**
+> **"Osiris, de hecho, no era un dios 'moribundo' sino un dios 'muerto'. Nunca volvió entre los vivos; no fue liberado del mundo de los muertos, como lo fue Tamuz. Por el contrario, Osiris pertenecía por completo al mundo de los muertos; fue de allí que otorgó sus bendiciones sobre Egipto. Siempre fue representado como una momia, un rey muerto." \[Realeza y los dioses: un estudio de la antigua religión del Cercano Oriente como la integración de la sociedad y la naturaleza. UChicago: edición de 1978, p. 289\] Tal vez el único dios pagano para quien hay una resurrección es el egipcio Osiris. Un examen detenido de esta historia muestra que es muy diferente de la resurrección de Cristo. Osiris no se levantó; gobernaba en la morada de los muertos. Roland de Vaux, escritor bíblico, escribió: "¿Qué se quiere decir de Osiris siendo "elevado a la vida"? Simplemente, gracias a los ministerios de Isis, es capaz de llevar una vida más allá de la tumba, que es una réplica casi perfecta de la existencia terrenal." Pero nunca volverá a estar entre los vivos y reinará sólo sobre los muertos ... Este dios reavivado es en realidad un dios momia."... No, el Osiris momificado no era una inspiración para el Cristo resucitado... como observa Yamauchi, "Los hombres ordinarios aspiraban a identificarse con Osiris como alguien que había triunfado sobre la muerte". Pero es un error equiparar la visión egipcia de la vida futura con la doctrina bíblica de la resurrección. Para lograr la inmortalidad el egipcio tuvo que cumplir tres condiciones: Primero, su cuerpo tenía que ser preservado por la momificación. En segundo lugar, la alimentación era proporcionada por la ofrenda real de pan y cerveza diaria. En tercer lugar, los hechizos mágicos debían ser enterrados con él. Su cuerpo no resucitó de los muertos; más bien elementos de su personalidad -su Ba y Ka- siguieron flotando sobre su cuerpo. \["La resurrección de Jesucristo: ¿Mito, engaño o historia?" David J. MacLeod, en The Emmaus Journal, V7 # 2, Invierno 98, p. 169\]**
 
   
 Frazer \[Fraz.AAO, VIII\] escribió que a cada hombre muerto se le dio el nombre de Osiris sobre el suyo propio para identificarse con el dios.  
   
-Así que la "resurrección" de O no es ninguna resurrección en absoluto - y de hecho era en realidad una especie de función de la forma en que los dioses egipcios eran, digamos, mitad Frankenstein, mitad set de Legos. De hecho, hay muchas historias de los dioses egipcios arrojando varias partes del cuerpo por todas partes, y sin ningún daño en general, porque "los cuerpos divinos se creían que eran impermeables al cambio" \[Meek.DL, 57\] y así que el cadáver de O no se pudrió ni se descompuso como ya se sabía para ser re-armado.  
+Así que la "resurrección" de O no es ninguna resurrección en absoluto - y de hecho era en realidad una especie de función de la forma en que los dioses egipcios eran, digamos, mitad Frankenstein, mitad set de Legos. De hecho, hay muchas historias de los dioses egipcios arrojando varias partes del cuerpo por todas partes, y sin ningún daño en general, porque "los cuerpos divinos se creía que eran impermeables al cambio" \[Meek.DL, 57\] y así que el cadáver de O no se pudrió ni se descompuso como ya se sabía para ser re-armado.  
   
 Este artículo fue presentado originalmente en Tektonics Apologetics y fue republicado con permiso.

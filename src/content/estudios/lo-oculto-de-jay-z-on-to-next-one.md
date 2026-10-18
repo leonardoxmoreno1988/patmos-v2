@@ -5,16 +5,16 @@ updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "lo-oculto-de-jay-z-on-to-next-one"
 redirectFrom: "/2010/01/lo-oculto-de-jay-z-on-to-next-one.html"
-description: "Al ver \"On the Next One\" (Hacia lo siguiente) mucha gente se pregunta cuál es el significado detrás de las imágenes espeluznantes. La mejor manera de…"
+description: "Al ver \"On to the Next One\" (Hacia lo siguiente) mucha gente se pregunta cuál es el significado detrás de las imágenes espeluznantes. La mejor manera de…"
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
   
-Al ver **"On the Next One"** (Hacia lo siguiente) mucha gente se pregunta cuál es el significado detrás de las imágenes espeluznantes. La mejor manera de comprenderlas es entender el contexto oculto en el que se utilizan. Este artículo analiza el sentido de los símbolos que aparecen en este vídeo, en relación con Jay-Z y sus afinidades con las sociedades secretas.  
+Al ver **"On to the Next One"** (Hacia lo siguiente) mucha gente se pregunta cuál es el significado detrás de las imágenes espeluznantes. La mejor manera de comprenderlas es entender el contexto oculto en el que se utilizan. Este artículo analiza el sentido de los símbolos que aparecen en este vídeo, en relación con Jay-Z y sus afinidades con las sociedades secretas.  
 
   
 
@@ -22,7 +22,7 @@ Al ver **"On the Next One"** (Hacia lo siguiente) mucha gente se pregunta cuál 
 
   
 
-Poco después de que el continente americano, dijo adiós al 2009, Jay-Z llegó en la televisión y dijo: "On to the next one" (Hacia la siguiente). El video se estrenó el 01/01/10, que en la numerología cabalística es igual a 3 (0 + 1 + 0 + 1 + 1 + 0 = 3). El número 3 es un tema importante en el video. La fecha de lanzamiento también contiene tres unos, que es una reminiscencia de las tres barras que representan el álbusum de Jay-Z, The Blueprint 3. Esto es sólo un ejemplo de lo oculto que rodea el aura de las últimas obras de Jay-Z.
+Poco después de que el continente americano dijera adiós a 2009, Jay-Z llegó a la televisión y dijo: "On to the next one" (Hacia la siguiente). El video se estrenó el 01/01/10, que en la numerología cabalística es igual a 3 (0 + 1 + 0 + 1 + 1 + 0 = 3). El número 3 es un tema importante en el video. La fecha de lanzamiento también contiene tres unos, que es una reminiscencia de las tres barras que representan el álbum de Jay-Z, The Blueprint 3. Esto es sólo un ejemplo de lo oculto que rodea el aura de las últimas obras de Jay-Z.
 
   
 
@@ -30,14 +30,14 @@ Poco después de que el continente americano, dijo adiós al 2009, Jay-Z llegó 
 
   
 
-Si no lo ha hecho, le recomiendo leer mi primer artículo sobre Jay-Z's Run This Town y sus conexiones con lo oculto. El artículo analiza algunas de las influencias ocultas Jay-Z y sus afinidades con las sociedades secretas. He notado un creciente número de gente preguntando sobre lo tétrico de algunos videos de música de su artista favorito. Aunque algunas de las imágenes son solo, por impresionar o por la anti-estética, una parte importante de los símbolos que aparecen en los vídeos de los últimos años están directamente relacionados el ocultismo. Como hemos visto en otros artículos de esta web, los mismos símbolos reaparecen y en los diferentes videos de Beyonce, Lady Gaga, Rihanna, Jay-Z o cualquier otro que aya sido "elegido" .
+Si no lo ha hecho, le recomiendo leer mi primer artículo sobre Jay-Z's Run This Town y sus conexiones con lo oculto. El artículo analiza algunas de las influencias ocultas de Jay-Z y sus afinidades con las sociedades secretas. He notado un creciente número de gente preguntando sobre lo tétrico de algunos videos de música de su artista favorito. Aunque algunas de las imágenes son solo para impresionar o por antiestética, una parte importante de los símbolos que aparecen en los vídeos de los últimos años están directamente relacionados con el ocultismo. Como hemos visto en otros artículos de esta web, los mismos símbolos reaparecen en los diferentes videos de Beyoncé, Lady Gaga, Rihanna, Jay-Z o cualquier otro que haya sido "elegido".
 
   
   
 
   
 
-Algunas personas que leyeron mi primer artículo de Jay-Z afirmaron que el simbolismo que yo describía era el resultado de coincidencias o que yo "leía mucho”. Después de ver el siguiente video, muchas de las mismas personas están diciendo ahora "lo están haciendo a propósito, los símbolos son demasiado evidentes ¿Cómo algo pasa de ser accidental al ser demasiado evidente". Parece que los que quieren evitar la verdad, llegan a cualquier extremo para racionalizar lo que está sucediendo. Artistas de nivel superior en la industria músical son elegidos por la élite (el nombre común de ellos es [Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)). La iniciación de los artistas les garantiza el éxito y presencia, a costa de volverse victimas del simbolismo Illuminati y el sacrificio personal. Si en Jay-Z's Run This Town algunas personas se pregunten si realmente contenía un mensaje oculto subyacente, “On to the Next One” confirma la afiliación de Jay-Z con la élite oculta. He aquí el vídeo.
+Algunas personas que leyeron mi primer artículo de Jay-Z afirmaron que el simbolismo que yo describía era el resultado de coincidencias o que yo "leía mucho". Después de ver el siguiente video, muchas de las mismas personas están diciendo ahora "lo están haciendo a propósito, los símbolos son demasiado evidentes. ¿Cómo algo pasa de ser accidental a ser demasiado evidente?" Parece que los que quieren evitar la verdad, llegan a cualquier extremo para racionalizar lo que está sucediendo. Artistas de nivel superior en la industria musical son elegidos por la élite (el nombre común de ellos es [Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)). La iniciación de los artistas les garantiza el éxito y presencia, a costa de volverse víctimas del simbolismo Illuminati y el sacrificio personal. Si en Jay-Z's Run This Town algunas personas se preguntaban si realmente contenía un mensaje oculto subyacente, “On to the Next One” confirma la afiliación de Jay-Z con la élite oculta. He aquí el vídeo.
 
   
      
@@ -45,7 +45,7 @@ Algunas personas que leyeron mi primer artículo de Jay-Z afirmaron que el simbo
 
 ## Análisis del Video
 
-La canción no contiene una historia profunda y las letras son básicamente sobre Jay-Z presumiendo acerca de cómo está un paso adelante. Así que este análisis se centrará principalmente en el significado oculto de algunas de las imágenes mostradas en el video. A menudo aparecen en menos de un segundo, lo que me gusta llamar "semi-subliminal. Algunos de ellos son aparentemente con fines anti-estéticos, mientras que otros están profundamente ocultos. Nota personal: Noten que todo el video juega con imagenes en blanco y negro, en representación de los colores masónicos.  
+La canción no contiene una historia profunda y las letras son básicamente sobre Jay-Z presumiendo acerca de cómo está un paso adelante. Así que este análisis se centrará principalmente en el significado oculto de algunas de las imágenes mostradas en el video. A menudo aparecen en menos de un segundo, lo que me gusta llamar "semi-subliminal". Algunos de ellos son aparentemente con fines anti-estéticos, mientras que otros están profundamente ocultos. Nota personal: Noten que todo el video juega con imágenes en blanco y negro, en representación de los colores masónicos.  
 
 ## La Aureola
 
@@ -67,11 +67,11 @@ Dada la temática oculta del vídeo y las referencias a Baphomet (utilizado por 
 
   
 
-"Los Cuernos del Diablo" señal con la mano mientras está de pie delante del halo. Beyonce puede ver a su Halo?
+Señal de "los cuernos del diablo" con la mano mientras está de pie delante del halo. ¿Beyoncé puede ver su "Halo"?
 
   
 
-## El Craneo Ensangrentado
+## El Cráneo Ensangrentado
 
   
   
@@ -79,23 +79,23 @@ Dada la temática oculta del vídeo y las referencias a Baphomet (utilizado por 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik8-LurdY_NRrKB18PiRUCI5M6LI0zDy5tXWStoWKEFuUeJBisWxtXafQQKj3AwF8ldHnKTpfJngh2Ox5axB41U3sbof1wBIUSE-yOIuMZ1wOOvXZU_K0zc4C4OEi3yevVQeM4iOzgEOqE/s1600/ontothe31-e1262552345784.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik8-LurdY_NRrKB18PiRUCI5M6LI0zDy5tXWStoWKEFuUeJBisWxtXafQQKj3AwF8ldHnKTpfJngh2Ox5axB41U3sbof1wBIUSE-yOIuMZ1wOOvXZU_K0zc4C4OEi3yevVQeM4iOzgEOqE/s1600/ontothe31-e1262552345784.jpg)
 
   
-Durante el video, unos cráneos de blanco y negro se muestran con un líquido vertido sobre ellos. El símbolo del cráneo humano siempre ha sido de suma importancia en las hermandades ocultas. Los Caballeros Templarios (ancestros de los masones) hacían que los nuevos miembros beban vino de un cráneo humano como parte de su iniciación. Esta práctica todavía se encuentra en algunos ritos de la Masonería.  
+Durante el video, unos cráneos de blanco y negro se muestran con un líquido vertido sobre ellos. El símbolo del cráneo humano siempre ha sido de suma importancia en las hermandades ocultas. Los Caballeros Templarios (ancestros de los masones) hacían que los nuevos miembros bebieran vino de un cráneo humano como parte de su iniciación. Esta práctica todavía se encuentra en algunos ritos de la Masonería.  
   
 
-> "Los Caballeros Templarios eran amantes empedernidos y coleccionistas de cráneos humanos de todos los tamaños y medios, incluyendo tanto metálicos como calaveras de cristal. La identificación de los Templarios con cráneos humanos se refleja en uno de los símbolos por excelencia de los Caballeros, el "Jolly Roger", que simboliza a los piratas como un cráneo humano superpuesto sobre dos huesos cruzados. Este símbolo representa tanto el uso ceremonial de cráneos Templarios como el de imágenes paganas, incluso los vasos, así como su práctica de la alquimia, una de las etapas de las cuales se denomina "Deadhead" y representada como un cráneo humano.  
+> "Los Caballeros Templarios eran amantes empedernidos y coleccionistas de cráneos humanos de todos los tamaños y materiales, incluyendo tanto metálicos como calaveras de cristal. La identificación de los Templarios con cráneos humanos se refleja en uno de los símbolos por excelencia de los Caballeros, el "Jolly Roger", que simboliza a los piratas como un cráneo humano superpuesto sobre dos huesos cruzados. Este símbolo representa tanto el uso ceremonial de cráneos Templarios como el de imágenes paganas, incluso los vasos, así como su práctica de la alquimia, una de las etapas de las cuales se denomina "Deadhead" y representada como un cráneo humano.  
 >   
-> Los cráneos humanos fueron populares para los Templarios porque ellos creían que podían sostener el poder spiritual de los dueños originales , asi como continuar emanando su esencia hacia el ambiente. El cráneo de John the Baptist descubierto por los templarios durante la Cuarta Cruzada en Constantinopla era uno de estos. Los Templarios afirmaban que el cráneo de Juan irradiaba el mismo tipo de poder espiritual como lo hacía cuando estaba en vida, y con lo usaban con el fin de honrar las ceremonias de iniciación y sus altares. Otros cráneos humanos, particularmente apreciado por los templarios eran los que había sido poseída por los santos cristianos y los últimos grandes maestros de su organización. Todo era con el fin de ampliar y poder usar el poder que emana de estos cráneos con fines ceremoniales, a menudo eran envueltos en un metal de alta conductividad, como el oro o la plata, y se colocados en relicarios “productores de energía”, construidos con sagradas formaciones geométricas como tetraedros, octógonos, y pirámides. Las referencias de cráneos templarios envueltos en oro y plata se puede encontrar en algunas de las primeras leyendas del Santo Grial. "- Fuente :[http://modernknighttemplar.blogspot.com/](http://modernknighttemplar.blogspot.com/)
+> Los cráneos humanos fueron populares para los Templarios porque ellos creían que podían sostener el poder espiritual de los dueños originales, así como continuar emanando su esencia hacia el ambiente. El cráneo de Juan el Bautista descubierto por los templarios durante la Cuarta Cruzada en Constantinopla era uno de estos. Los Templarios afirmaban que el cráneo de Juan irradiaba el mismo tipo de poder espiritual como lo hacía cuando estaba en vida, y lo usaban con el fin de honrar las ceremonias de iniciación y sus altares. Otros cráneos humanos, particularmente apreciados por los templarios, eran los que habían pertenecido a santos cristianos y los últimos grandes maestros de su organización. Todo era con el fin de ampliar y poder usar el poder que emana de estos cráneos con fines ceremoniales, a menudo eran envueltos en un metal de alta conductividad, como el oro o la plata, y colocados en relicarios “productores de energía”, construidos con sagradas formaciones geométricas como tetraedros, octógonos, y pirámides. Las referencias de cráneos templarios envueltos en oro y plata se pueden encontrar en algunas de las primeras leyendas del Santo Grial." - Fuente: [http://modernknighttemplar.blogspot.com/](http://modernknighttemplar.blogspot.com/)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivQydROGWWykkeRVMVP-zB3jqBqdnSWHotqDqbx7PR8QmNtga4y2dKdH-4pxzGCqjPrX7dDWzGBJB0eWMSADvGXfE-9X9-Da-ojzC-DocfOGyOqfiwv2GyrQxMo6sFsZO2AHFu77MSsNId/s1600/templarskull-e1262553159521.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivQydROGWWykkeRVMVP-zB3jqBqdnSWHotqDqbx7PR8QmNtga4y2dKdH-4pxzGCqjPrX7dDWzGBJB0eWMSADvGXfE-9X9-Da-ojzC-DocfOGyOqfiwv2GyrQxMo6sFsZO2AHFu77MSsNId/s1600/templarskull-e1262553159521.jpg)
 
   
   
 
-Craneo Templario
+Cráneo Templario
 
   
 
-Los restos de esta práctica todavía se encuentran en rituales asociados con el grado de la 33 ª de la masonería (es decir, el rito Cerneau) donde los candidatos beben vino de un cráneo humano. ¿Qué pensaran ellos de los cristianos que beben la “sangre de Cristo” durante la misa?. Ese es un tema totalmente distinto.  
+Los restos de esta práctica todavía se encuentran en rituales asociados con el grado 33.º de la masonería (es decir, el rito Cerneau) donde los candidatos beben vino de un cráneo humano. ¿Qué pensarán ellos de los cristianos que beben la “sangre de Cristo” durante la misa? Ese es un tema totalmente distinto.  
   
 
   
@@ -113,7 +113,7 @@ Los restos de esta práctica todavía se encuentran en rituales asociados con el
 
 ## ¿El cuervo?
 
-Dos extras en el video parecen como Brandon Lee en El Cuervo y el Joker de Heath Ledger en The Dark Knight.  
+Dos extras en el video parecen Brandon Lee en El Cuervo y el Joker de Heath Ledger en The Dark Knight.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiciSaa49gxLTR7nmXgWo-vP0iSOr2WvEVr24MasWhfXmCGgBhUCBvtN6FZbQVG1RNsVJzmBIhIhV8-ewkMkuM1C40AHeV6m9ceBs8ncdIqV6r8o__A0Szw2P89D1S61zuSSqPk9_9KRab1/s1600/crowjoker-e1262554938622.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiciSaa49gxLTR7nmXgWo-vP0iSOr2WvEVr24MasWhfXmCGgBhUCBvtN6FZbQVG1RNsVJzmBIhIhV8-ewkMkuM1C40AHeV6m9ceBs8ncdIqV6r8o__A0Szw2P89D1S61zuSSqPk9_9KRab1/s1600/crowjoker-e1262554938622.jpg)
@@ -122,7 +122,7 @@ Dos extras en el video parecen como Brandon Lee en El Cuervo y el Joker de Heath
 
   
 
-Hecho inquietante: Tanto Heath Ledger y Brandon Lee murieron misteriosamente durante la filmación de películas profundamente ocultas. Sacrificio ritual? Eso también es un tema totalmente distinto. Otras referencias a los cuervos:  
+Hecho inquietante: Tanto Heath Ledger como Brandon Lee murieron misteriosamente durante la filmación de películas profundamente ocultas. ¿Sacrificio ritual? Eso también es un tema totalmente distinto. Otras referencias a los cuervos:  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJeNScxX4XR3FwMQuySFr2YZi0TS7NQchpdYinWchF5cK9D1LRiKFOvtUJvfEZ7uU9wplHjKc1pTSJCcvELrSICvtBKD2W44g7Gqt8dD2pnKqyYDaAqf-06RkqXwQ2upygCUM9iDd3Uz99/s1600/ontothe6-e1262556922358.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJeNScxX4XR3FwMQuySFr2YZi0TS7NQchpdYinWchF5cK9D1LRiKFOvtUJvfEZ7uU9wplHjKc1pTSJCcvELrSICvtBKD2W44g7Gqt8dD2pnKqyYDaAqf-06RkqXwQ2upygCUM9iDd3Uz99/s1600/ontothe6-e1262556922358.jpg)
@@ -140,7 +140,7 @@ Viendo el historial de Jay-Z y sus letras poco amistosas hacia los cristianos, e
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWJUuEIh7XmAns8D2JvK342lzHj33QKUxuBJFyWhOOuav8ZqxAZEeKJNPex2zTa_L8YntbWrKDAlJ__1Q-pdDGnEuVU8m2akE0e9PGcBjxCvTnz6AbACjhkkPmlWltRAHRx4sU-gZw9xc8/s1600/ontothe9-e1262557202813.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWJUuEIh7XmAns8D2JvK342lzHj33QKUxuBJFyWhOOuav8ZqxAZEeKJNPex2zTa_L8YntbWrKDAlJ__1Q-pdDGnEuVU8m2akE0e9PGcBjxCvTnz6AbACjhkkPmlWltRAHRx4sU-gZw9xc8/s1600/ontothe9-e1262557202813.jpg)
 
-   
+
 Si usted ha leído otros artículos en este sitio web, es consciente de la utilización de la imagen de Baphomet como una marca inconfundible de un "Illuminati". Baphomet es el ídolo adorado por los Caballeros Templarios y más tarde utilizado por la Iglesia de Satán. Dos cabezas de Baphomet hacen una corta aparición en el video, aparentemente casi subliminal.  
 
 ## Baphomet Lo Hace de Nuevo
@@ -155,4 +155,4 @@ Si usted ha leído otros artículos en este sitio web, es consciente de la utili
 
 ## En conclusión
 
-Tan pronto como salió el vídeo, he recibido toneladas de e-mails de personas que han notado muchos de los símbolos descritos aquí. Esto confirma dos cosas: Una, muchas personas están tomando conciencia de la simbología siniestra insertada en vídeos y dos, estos símbolos son cada vez menos ocultos. Ellos no se estan escondiendo más. La industria desea revelar su verdadera naturaleza. Creo que hay dos tipos de "artistas Illuminati": los participantes dispuestos (yo pondría Jay-Z y Lady Gaga en esta categoría) y los que están perdidos (Rihanna parece perfecto ejemplo). Jay-Z, siendo el hombre de negocios inteligentes que es, sabe que la controversia vende. Es, pues, una situación de ganar y ganar: Jay-Z recibe la publicidad que está buscando y el Illuminatis continuan su adoctrinamiento en masa. Pero, ¿qué sucederá cuando las elites terminen de usar a Jay-Z como una propaganda de símbolos satánicos? ¿Acaso le dirán…“Hacia lo Siguiente”?
+Tan pronto como salió el vídeo, recibí toneladas de e-mails de personas que han notado muchos de los símbolos descritos aquí. Esto confirma dos cosas: una, muchas personas están tomando conciencia de la simbología siniestra insertada en vídeos; y dos, estos símbolos son cada vez menos ocultos. Ellos no se están escondiendo más. La industria desea revelar su verdadera naturaleza. Creo que hay dos tipos de "artistas Illuminati": los participantes dispuestos (yo pondría Jay-Z y Lady Gaga en esta categoría) y los que están perdidos (Rihanna parece un ejemplo perfecto). Jay-Z, siendo el hombre de negocios inteligente que es, sabe que la controversia vende. Es, pues, una situación de ganar y ganar: Jay-Z recibe la publicidad que está buscando y los Illuminati continúan su adoctrinamiento en masa. Pero, ¿qué sucederá cuando las élites terminen de usar a Jay-Z como una propaganda de símbolos satánicos? ¿Acaso le dirán… “Hacia lo siguiente”?
