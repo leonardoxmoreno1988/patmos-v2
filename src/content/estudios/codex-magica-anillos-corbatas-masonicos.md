@@ -9,7 +9,7 @@ description: "\"Un anillo para gobernarlos a todos ... Un anillo para encontrarl
 tags: ["Sociedad"]
 ---
 
-> **"Un anillo para gobernarlos a todos ... Un anillo para encontrarlos ... Un anillo para traerlos a todos y en la oscuridad atarlos."\- J.R.R. Tolkien, El Señor de los Anillos"Caí en un anillo de fuego ardiendo. Bajé, baje, baje y las llamas subieron ..." \-Johnny Cash, Anillo de fuego**
+> **"Un anillo para gobernarlos a todos ... Un anillo para encontrarlos ... Un anillo para traerlos a todos y en la oscuridad atarlos."\- J.R.R. Tolkien, El Señor de los Anillos"Caí en un anillo de fuego ardiendo. Bajé, baje, baje y las llamas subieron ..." \-Johnny Cash, Anillo de fuego**
 
   
 
@@ -22,7 +22,7 @@ Los Illuminati parecen tener un apego inusualmente apasionado, aunque extraño, 
 
 El autor, Mason David Roach, tituló su artículo, "Si solo supieras lo que este anillo significa para mí". Llamó a los símbolos grabados en su anillo "preciosos", los comparó con las cosas sagradas de las Escrituras, y dijo que el anillo masónico era similar a una "Corona de Pureza". Su anillo era simplemente una banda de oro típica hecha con el cuadrado y la escuadra masónica y la letra "G". **(2)**
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
 ## Ídolos sexuales
 

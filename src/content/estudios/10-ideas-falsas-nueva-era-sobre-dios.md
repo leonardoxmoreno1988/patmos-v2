@@ -9,7 +9,7 @@ description: "¿Quien es Dios? ¿Cómo podemos conocer a Dios? ¿Los hindúes ti
 tags: ["Falsas Doctrinas"]
 ---
 
-¿Quien es **Dios**? ¿Cómo podemos conocer a Dios? ¿Los **hindúes** tienen razón? ¿Los **cristianos**, o los **budistas**? ¿Y cómo sabemos la respuesta correcta a cualquiera de estos tipos de preguntas? La gente, especialmente los implicados en el movimiento de la **nueva era**, piensan en esta pregunta con bastante frecuencia.  
+¿Quien es **Dios**? ¿Cómo podemos conocer a Dios? ¿Los **hindúes** tienen razón? ¿Los **cristianos**, o los **budistas**? ¿Y cómo sabemos la respuesta correcta a cualquiera de estos tipos de preguntas? La gente, especialmente los implicados en el movimiento de la **nueva era**, piensan en esta pregunta con bastante frecuencia.  
   
 
 [![dibujo de la geometría sagrada de la nueva era](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPMqs72x4VLW-VOd9Fo0kQXOVN03AiV163awjyDO3ZHJNga-IoZY1iWpccxWw7s6RN_QN4S9Nhx5xYhyphenhyphenWgF96nHN7UFxARbyS1zCVCdSglXWWFv6kWBgs_eJ8HVozveoNbqdE64xBBZ74/s1600/geometria-sagrada.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPMqs72x4VLW-VOd9Fo0kQXOVN03AiV163awjyDO3ZHJNga-IoZY1iWpccxWw7s6RN_QN4S9Nhx5xYhyphenhyphenWgF96nHN7UFxARbyS1zCVCdSglXWWFv6kWBgs_eJ8HVozveoNbqdE64xBBZ74/s1600/geometria-sagrada.jpg)
@@ -20,7 +20,7 @@ Todas las cosas cambiaron para mí el momento en el que entré en la presencia d
 
 La idea de "Dios" en el movimiento de la Nueva Era varía de persona a persona y maestro a maestro, pero una cosa desafortunada sigue siendo la misma. Incluso si dejamos a un lado las preguntas sobre el cristianismo y las escrituras, estas ideas no descansan en sus propios méritos cuando se someten a un escrutinio filosófico.  
   
-**Nota:** Si deseas recibir más contenido sobre cristianismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre cristianismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
 De hecho, ni siquiera tenemos que conceder que el cristianismo es verdadero para saber que estos conceptos de la Nueva Era de Dios fracasan sobre una base de coherencia. Este artículo se explayará y se sentirá más como un ensayo porque su propósito es ser exhaustivo y completo.  
   
@@ -141,7 +141,7 @@ Espíritu: No tiene deseos para nosotros, aparte de eso, experimentamos todas la
   
 Como podemos ver, el concepto y la naturaleza de Dios no se parece en nada al concepto y naturaleza de la Fuente. Son dos ideas totalmente distintas que no tienen casi nada en relación entre sí. La misma palabra "Fuente" es moralmente, metafísica y teológicamente vacía y sólo se refiere a una causa general que produjo el universo.  
   
-La palabra "Dios" implica un ser de suprema bondad y grandeza máxima, y ​​por lo tanto expresa un concepto totalmente diferente. **He aquí un análisis** más profundo de Dios y de la "Fuente" tal como enseña en la teología de la Nueva Era y por qué no deberíamos llamar a Dios "Fuente".  
+La palabra "Dios" implica un ser de suprema bondad y grandeza máxima, y por lo tanto expresa un concepto totalmente diferente. **He aquí un análisis** más profundo de Dios y de la "Fuente" tal como enseña en la teología de la Nueva Era y por qué no deberíamos llamar a Dios "Fuente".  
   
 
 ## 5\. "Dios es el universo".
@@ -315,7 +315,7 @@ Sólo dos tipos diferentes de entidades que podemos pensar encajan en estas desc
   
 Objetos abstractos (como números, conjuntos, etc.), o mentes no incorporadas. Dado que los números carecen de poderes causales y no pueden hacer que nada vaya a existir, se concluye que la única entidad que podría encajar tal descripción es una mente no incorporada. Por lo tanto, estamos dentro de nuestros derechos racionales de creer que la causa del universo es un agente personal.  
   
-**3\. Un creador personal es la única forma en que podemos explicar el origen del universo con las condiciones necesarias y suficientes que están  permanente e intemporalmente presentes.**  
+**3\. Un creador personal es la única forma en que podemos explicar el origen del universo con las condiciones necesarias y suficientes que están  permanente e intemporalmente presentes.**  
   
 Esto puede llegar a ser un poco complejo, pero este es el mejor argumento que tenemos para la naturaleza personal de la causa del universo. Las condiciones necesarias y suficientes se refieren a las condiciones que son necesarias y adecuadas para producir un efecto.  
   
@@ -348,13 +348,13 @@ Así que acabamos de ver por qué Dios debe ser un ser personal, trascendente qu
 Por ejemplo, en el cristianismo Jesús murió en la cruz por los pecados del mundo y se levantó de la tumba para que podamos reconciliarnos con Dios por medio de la fe en él. Jesús es el único camino de vuelta al Padre, porque él es la única solución al dilema del pecado humano:  
 
 >   
-> "PORQUE EN PRIMER LUGAR LES HE ENSEÑADO LO QUE TAMBIÉN RECIBÍ: QUE CRISTO MURIÓ POR NUESTROS PECADOS, CONFORME A LAS ESCRITURAS; 4 QUE FUE SEPULTADO Y QUE RESUCITÓ AL TERCER DÍA, CONFORME A LAS ESCRITURAS."\- 1 CORINTIOS 15: 3-4
+> "PORQUE EN PRIMER LUGAR LES HE ENSEÑADO LO QUE TAMBIÉN RECIBÍ: QUE CRISTO MURIÓ POR NUESTROS PECADOS, CONFORME A LAS ESCRITURAS; 4 QUE FUE SEPULTADO Y QUE RESUCITÓ AL TERCER DÍA, CONFORME A LAS ESCRITURAS."\- 1 CORINTIOS 15:3-4
 
   
 La verdad de la fe cristiana descansa sobre Jesús muriendo en la cruz y siendo resucitado al tercer día. El Corán enseña que:  
   
 
-> “Y POR HABER DICHO: NOSOTROS MATAMOS AL MESIAS, HIJO DE MARIA, MENSAJERO DE ALLAH. PERO, AUNQUE ASÍ LO CREYERON, NO LO MATARON NI LO CRUCIFICARON. Y LOS QUE DISCREPAN SOBRE ÉL,  TIENEN DUDAS Y NO TIENEN NINGÚN CONOCIMIENTO DE LO QUE PASÓ, SÓLO SIGUEN CONJETURAS…”\- QURAN 4: 156-158
+> “Y POR HABER DICHO: NOSOTROS MATAMOS AL MESIAS, HIJO DE MARIA, MENSAJERO DE ALLAH. PERO, AUNQUE ASÍ LO CREYERON, NO LO MATARON NI LO CRUCIFICARON. Y LOS QUE DISCREPAN SOBRE ÉL,  TIENEN DUDAS Y NO TIENEN NINGÚN CONOCIMIENTO DE LO QUE PASÓ, SÓLO SIGUEN CONJETURAS…”\- QURAN 4:156-158
 
   
 Jesús murió en la cruz por nuestros pecados para llevarnos a Dios, o no lo hizo. Si lo hizo, el cristianismo es cierto. Si no lo hizo, tal vez el Islam o alguna otra religión es verdad. Pero el Islam y el Cristianismo no pueden conducirnos a Dios si se contradicen entre sí al decirnos cómo llegar.  
@@ -371,7 +371,7 @@ Dios es un ser personal que te ama de una manera personal. Usted puede conocerlo
   
 Si estuviera sentado frente a usted y quisiera conocerle, hablaría con usted y me dirigiría a usted como persona. No intentaría alterar mi conciencia, ondas cerebrales, ni entrar en un estado de auto-trascendencia para poder comunicarme. Del mismo modo, Dios no requiere ninguna de estas cosas de nosotros. De hecho, estas cosas nos alejan más de Dios al pervertir la sencillez de quien Él es.  
   
-Mientras estamos explorando este sitio, Dios se ha revelado a sí mismo en la persona de Jesús que afirmó ser el único camino hacia Dios (Juan 14: 6, Juan 3:16) que murió por nuestros pecados (Romanos 4:25), Fue resucitado al tercer día (1 Corintios 15: 4), y por la fe y la fe solamente (Ef 2: 8-9) somos hechos justos (Romanos 3:22) y reconciliados con Dios (2 Cor 5) : 18) de quienes fuimos separados por causa del pecado (Isaías 59: 2).  
+Mientras estamos explorando este sitio, Dios se ha revelado a sí mismo en la persona de Jesús que afirmó ser el único camino hacia Dios (Juan 14:6, Juan 3:16) que murió por nuestros pecados (Romanos 4:25), Fue resucitado al tercer día (1 Corintios 15:4), y por la fe y la fe solamente (Ef 2:8-9) somos hechos justos (Romanos 3:22) y reconciliados con Dios (2 Cor 5) : 18) de quienes fuimos separados por causa del pecado (Isaías 59:2).  
   
 Y tenemos una gran cantidad de evidencia para respaldar esto. Hemos visto evidencia de un Dios personal en este artículo, y cuando combinamos esto con los argumentos de la teología natural, la evidencia de la resurrección y otras evidencias de la divinidad de Jesús, tenemos un caso acumulativo a favor del cristianismo.  
   
@@ -391,4 +391,4 @@ Que somos amados y conocidos por un Dios personal que envió a Jesús para ser s
   
 4\. Jayatilleke, K. 1974. El Mensaje del Buda. pag. 105.  
   
-5\. Hagelin, J. 1989. **[Reestructuración de la física desde sus cimientos a la luz de la ciencia védica Maharishi.](http://www.mum.edu/pdf_msvs/v03/hagelin.pdf)**
+5\. Hagelin, J. 1989. **[Reestructuración de la física desde sus cimientos a la luz de la ciencia védica Maharishi.](http://www.mum.edu/pdf_msvs/v03/hagelin.pdf)**

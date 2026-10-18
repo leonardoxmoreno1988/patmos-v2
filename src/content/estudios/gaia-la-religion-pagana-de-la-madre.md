@@ -9,7 +9,7 @@ description: "Cualquiera que haya estudiado el movimiento verde global sin duda 
 tags: ["Falsas Doctrinas"]
 ---
 
-Cualquiera que haya estudiado el movimiento verde global sin duda alguna ha oído hablar de **Gaia**. Los creyentes en Gaia, o "**Gaianos**", como a menudo se refieren a sí mismos, afirman que la **tierra** es un ser viviente, un antiguo espíritu de la **diosa**, merecedor de adoración y reverencia.  
+Cualquiera que haya estudiado el movimiento verde global sin duda alguna ha oído hablar de **Gaia**. Los creyentes en Gaia, o "**Gaianos**", como a menudo se refieren a sí mismos, afirman que la **tierra** es un ser viviente, un antiguo espíritu de la **diosa**, merecedor de adoración y reverencia.  
   
 
 [![diosa pagana Gaia durmiendo en el bosque con imagen de la Biblia verde](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiao3Dso4iSVw0ezUEypEOcWxW_e6GxkpfJtI9Aw4t9Ku4SibUw0L-7GclDvouqTriPVaASSsjYRI9dhO0UuiuxiJl23Oc94R2noldlgtKDc-6mLO5QpUCRBgHwnB2tB8kse3f-dRi_K0A/s1600/gaia-diosa.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiao3Dso4iSVw0ezUEypEOcWxW_e6GxkpfJtI9Aw4t9Ku4SibUw0L-7GclDvouqTriPVaASSsjYRI9dhO0UuiuxiJl23Oc94R2noldlgtKDc-6mLO5QpUCRBgHwnB2tB8kse3f-dRi_K0A/s1600/gaia-diosa.jpg)
@@ -24,7 +24,7 @@ Los gaianos afirman que "somos parte de la naturaleza y la naturaleza es parte d
 
   
 
-**Nota:** Si deseas recibir más contenido sobre falsas doctrinas, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre falsas doctrinas, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Al investigar este tema es asombroso observar cuántos prominentes líderes ambientales, políticos, científicos y líderes religiosos profesan una creencia literal en Gaia. Los gaianos parecen haber infiltrado todos los niveles de poder en las Naciones Unidas y haber ascendido a posiciones prominentes en muchos gobiernos. Se podría percibir correctamente como el culto más peligroso y tortuoso en la faz del planeta.  
   
@@ -78,7 +78,7 @@ El movimiento feminista también ha acogido calurosamente el concepto de una Dio
 Miriam Starhawk declaró:  
   
 
-> **"El simbolismo de la Diosa ha adquirido un poder electrizante para las mujeres modernas, ha expuesto las falsedades de la historia patriarcal y nos ha dado modelos de fuerza y ​​autoridad femeninas".**
+> **"El simbolismo de la Diosa ha adquirido un poder electrizante para las mujeres modernas, ha expuesto las falsedades de la historia patriarcal y nos ha dado modelos de fuerza y autoridad femeninas".**
 
   
 
@@ -118,7 +118,7 @@ Gore también cita a un viejo indio nativo diciendo:
 El culto de Gaia está en el corazón mismo de la Agenda Verde Global. El Desarrollo Sostenible, la Agenda 21, la Carta de la Tierra y la teoría del Calentamiento Global son parte de la misión de los Gaianos de salvar a la "Madre Tierra" de su infestación humana. Los gaianos han logrado unir el movimiento ambientalista, el movimiento de la nueva era, las religiones orientales, las Naciones Unidas e incluso los líderes de muchas denominaciones cristianas detrás de esta vil nueva forma de paganismo.  
   
 
-> **"La tierra no es materia muerta. Ella está viva. Ahora comience a hablar a la tierra mientras camina. Usted puede hablar en voz alta, o simplemente hablar con ella en su mente. Envíele su amor con su exhalación. Sienta su corazón tocando el corazón del planeta. Dígale a ella cualquier palabra que venga a usted: Madre Tierra, te amo Madre Tierra, te bendigo, que seas sanada, que todas tus criaturas sean felices. Paz a ti, Madre Tierra. En nombre de la raza humana, pido perdón por haberte lesionado. Perdónanos, Madre Tierra."\- Oración a la Tierra, Student Textbook**
+> **"La tierra no es materia muerta. Ella está viva. Ahora comience a hablar a la tierra mientras camina. Usted puede hablar en voz alta, o simplemente hablar con ella en su mente. Envíele su amor con su exhalación. Sienta su corazón tocando el corazón del planeta. Dígale a ella cualquier palabra que venga a usted: Madre Tierra, te amo Madre Tierra, te bendigo, que seas sanada, que todas tus criaturas sean felices. Paz a ti, Madre Tierra. En nombre de la raza humana, pido perdón por haberte lesionado. Perdónanos, Madre Tierra."\- Oración a la Tierra, Student Textbook**
 
   
   
@@ -145,9 +145,9 @@ Si usted está leyendo esto y es un cristiano ¿cuáles son sus puntos de vista?
 
   
 
-Hay una diferencia entre la visión bíblica del medio ambiente y el movimiento político conocido como "ambientalismo". Entender esta diferencia configurará la visión cristiana del ecologismo. La Biblia es clara de que la tierra y todo en ella fue dada por Dios al hombre para gobernar y someter. "Y Dios les bendijo, y Dios les dijo: 'Sean fructíferos y multiplíquense, llenen la tierra y sométanla, y dominen sobre los peces del mar y sobre las aves del aire y sobre todo ser viviente que se mueve sobre La tierra "(Génesis 1:28). Debido a que fuimos creados a su imagen, Dios les dio a los hombres y mujeres un lugar privilegiado entre todas las criaturas y les ordenó ejercer la mayordomía sobre la tierra (Génesis 1: 26-28, Salmo 8: 6-8). La mayordomía implica cuidar, no abusar. Debemos administrar inteligentemente los recursos que Dios nos ha dado, usando todo cuidado diligente para preservarlos y protegerlos. Esto se ve en el Antiguo Testamento, donde Dios ordenó que los campos y los viñedos fueran sembrados y cosechados durante seis años, luego dejados en barbecho para el séptimo año con el fin de reponer los nutrientes del suelo, tanto para descansar la tierra como para asegurar la provisión continua de su pueblo en el futuro. (Éxodo 23: 10-11, Levítico 25: 1-7).  
+Hay una diferencia entre la visión bíblica del medio ambiente y el movimiento político conocido como "ambientalismo". Entender esta diferencia configurará la visión cristiana del ecologismo. La Biblia es clara de que la tierra y todo en ella fue dada por Dios al hombre para gobernar y someter. "Y Dios les bendijo, y Dios les dijo: 'Sean fructíferos y multiplíquense, llenen la tierra y sométanla, y dominen sobre los peces del mar y sobre las aves del aire y sobre todo ser viviente que se mueve sobre La tierra "(Génesis 1:28). Debido a que fuimos creados a su imagen, Dios les dio a los hombres y mujeres un lugar privilegiado entre todas las criaturas y les ordenó ejercer la mayordomía sobre la tierra (Génesis 1:26-28, Salmo 8:6-8). La mayordomía implica cuidar, no abusar. Debemos administrar inteligentemente los recursos que Dios nos ha dado, usando todo cuidado diligente para preservarlos y protegerlos. Esto se ve en el Antiguo Testamento, donde Dios ordenó que los campos y los viñedos fueran sembrados y cosechados durante seis años, luego dejados en barbecho para el séptimo año con el fin de reponer los nutrientes del suelo, tanto para descansar la tierra como para asegurar la provisión continua de su pueblo en el futuro. (Éxodo 23:10-11, Levítico 25:1-7).  
   
-Al mismo tiempo, la tierra en la que habitamos no es un planeta permanente, ni se pretendía que fuera. El movimiento ambiental se consume tratando de preservar el planeta para siempre, y sabemos que este no es el plan de Dios. Él nos dice en 2 Pedro 3:10 que al final de los tiempos la tierra y todo lo que ha creado serán destruidos: "Pero el día del Señor vendrá como un ladrón, y entonces los cielos pasarán con un fuerte ruido, y los elementos se disolverán con fuego, y la tierra y las obras que están sobre ella serán quemadas" (NKJV). La tierra física, natural en su forma actual, con todo su universo será consumida y Dios creará un "nuevo cielo y una nueva tierra" (2 Pedro 3:13, Apocalipsis 21: 1).  
+Al mismo tiempo, la tierra en la que habitamos no es un planeta permanente, ni se pretendía que fuera. El movimiento ambiental se consume tratando de preservar el planeta para siempre, y sabemos que este no es el plan de Dios. Él nos dice en 2 Pedro 3:10 que al final de los tiempos la tierra y todo lo que ha creado serán destruidos: "Pero el día del Señor vendrá como un ladrón, y entonces los cielos pasarán con un fuerte ruido, y los elementos se disolverán con fuego, y la tierra y las obras que están sobre ella serán quemadas" (NKJV). La tierra física, natural en su forma actual, con todo su universo será consumida y Dios creará un "nuevo cielo y una nueva tierra" (2 Pedro 3:13, Apocalipsis 21:1).  
   
 Así que vemos que en lugar de tratar de preservar la tierra por miles o incluso millones de años por venir, debemos ser buenos administradores de la misma durante el tiempo que dure, lo cual será mientras siga el plan y propósito soberano de Dios. Como cristianos, debemos preocuparnos por nuestro efecto en nuestro medio ambiente. Dios designó al hombre para ser el mayordomo de este mundo (Génesis 1:28), no el destructor de él. Sin embargo, no debemos permitir que el ecologismo se convierta en una forma de idolatría, donde los "derechos" de un planeta inanimado y sus criaturas no humanas se tienen en mayor estima que Dios (Romanos 1:25) y el hombre creado a Su imagen. Con el calentamiento global, como con cualquier otro tema, es crucial entender cuáles son los hechos, de quién provienen esos hechos, cómo se interpretan y cuáles deben ser las implicaciones espirituales.  
   
@@ -156,9 +156,9 @@ Así que vemos que en lugar de tratar de preservar la tierra por miles o incluso
 
   
 
-Una verdadera ética ambiental cristiana difiere de la ética naturalista y panteísta en que se basa en la realidad de Dios como Creador y el hombre como su portador de la imagen y administrador. Dios es el Creador de la naturaleza, no parte de la naturaleza. Él trasciende la naturaleza (Génesis 1-2, Job 38-41, Salmo 19, 24, y 104, Rom 1: 18-20, Col 1: 16-17). Toda la naturaleza, incluido el hombre, es igual en su origen. La naturaleza tiene valor en sí misma y por sí misma porque Dios la creó. El valor de la naturaleza es intrínseco; La roca, el árbol y el gato merecen nuestro respeto porque Dios los hizo ser como son.  
+Una verdadera ética ambiental cristiana difiere de la ética naturalista y panteísta en que se basa en la realidad de Dios como Creador y el hombre como su portador de la imagen y administrador. Dios es el Creador de la naturaleza, no parte de la naturaleza. Él trasciende la naturaleza (Génesis 1-2, Job 38-41, Salmo 19, 24, y 104, Rom 1:18-20, Col 1:16-17). Toda la naturaleza, incluido el hombre, es igual en su origen. La naturaleza tiene valor en sí misma y por sí misma porque Dios la creó. El valor de la naturaleza es intrínseco; La roca, el árbol y el gato merecen nuestro respeto porque Dios los hizo ser como son.  
   
-Mientras que el hombre es una criatura y por lo tanto se identifica con las otras criaturas, él también es creado a la imagen de Dios. Es esta imagen la que separa a los humanos del resto de la creación (Génesis 1: 26-27, Salmo 139: 13-16). Dios no le dio su imagen en ninguna otra parte de la naturaleza. Por lo tanto, mientras que un gato tiene valor porque Dios lo creó, no es apropiado romantizar el gato como si tuviera emociones humanas. Todas las criaturas de Dios le glorifican por su misma existencia, pero sólo una puede adorarle y servirle por un acto de la voluntad. Pero la responsabilidad va acompañada de llevar la imagen de Dios. En su sentido propio, el dominio del hombre sobre la tierra es el de un mayordomo o de un cuidador, no de un explotador imprudente. El hombre no es soberano sobre las órdenes inferiores de la creación. La propiedad está en las manos del Señor.  
+Mientras que el hombre es una criatura y por lo tanto se identifica con las otras criaturas, él también es creado a la imagen de Dios. Es esta imagen la que separa a los humanos del resto de la creación (Génesis 1:26-27, Salmo 139:13-16). Dios no le dio su imagen en ninguna otra parte de la naturaleza. Por lo tanto, mientras que un gato tiene valor porque Dios lo creó, no es apropiado romantizar el gato como si tuviera emociones humanas. Todas las criaturas de Dios le glorifican por su misma existencia, pero sólo una puede adorarle y servirle por un acto de la voluntad. Pero la responsabilidad va acompañada de llevar la imagen de Dios. En su sentido propio, el dominio del hombre sobre la tierra es el de un mayordomo o de un cuidador, no de un explotador imprudente. El hombre no es soberano sobre las órdenes inferiores de la creación. La propiedad está en las manos del Señor.  
   
 Dios le dijo a Adán y Eva que cultivaran y guardaran el jardín (Génesis 2:15), y ciertamente podemos usar la naturaleza para nuestro beneficio, pero sólo podemos usarla como Dios quiere. Un administrador eficaz entiende lo que supervisa, y la ciencia puede ayudarnos a descubrir las complejidades de la naturaleza. La tecnología pone la creación al uso del hombre, pero el desperdicio innecesario y la contaminación lo degradan y estropea la capacidad de la creación para dar gloria a su creador. Creo que es útil darse cuenta de que debemos ejercer dominio sobre la naturaleza no como si tuviéramos derecho a explotarla sino como algo prestado o mantenido en confianza. Recuérdese que en la parábola de los talentos en Mateo 25, el mayordomo que simplemente enterró su talento por temor a perderlo fue severamente castigado. Lo poco que tenía fue quitado y dado a los que ya tenían mucho. Cuando Cristo regrese, su tierra puede ser devuelta a él oxidada, corroída, contaminada y fea. ¿Hasta qué punto seremos responsables usted o yo?  
   
@@ -166,7 +166,7 @@ Dios le dijo a Adán y Eva que cultivaran y guardaran el jardín (Génesis 2:15)
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhht-P6k0Z7ylUTSCdPP_vGI1VgjJeAxrrtna77Lc3Y56eNOm68OcNDqkbQezaHnGWfXVV_1aUI-yK1eN129SV-OS_6UE4dkJ9MRA-wNYjdBJWixH0Aqu3uFvEZ6q2571rsQcoZFzSCpkc/s400/behind-rosa-koire.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhht-P6k0Z7ylUTSCdPP_vGI1VgjJeAxrrtna77Lc3Y56eNOm68OcNDqkbQezaHnGWfXVV_1aUI-yK1eN129SV-OS_6UE4dkJ9MRA-wNYjdBJWixH0Aqu3uFvEZ6q2571rsQcoZFzSCpkc/s1600/behind-rosa-koire.jpg)
 
   
-Debido a que el movimiento ambiental ha sido cooptado por los involucrados en el Movimiento de la Nueva Era, muchos cristianos han comenzado a confundir el interés en el medio ambiente con interés en el panteísmo y no han vacilado en involucrarse. Pero no podemos permitir que el enemigo asuma el liderazgo en un área que es legítimamente nuestra. Como redimidos de la tierra, nuestra motivación para cuidar la tierra es aún más alta que la del Nuevaerista. Jesús ha redimido todos los efectos de la maldición, incluyendo nuestra relación con Dios, nuestra relación con otras personas y nuestra relación con la creación (1 Corintios 15: 21-22, Romanos 5: 12-21). Aunque los cielos y la tierra eventualmente serán destruidos, todavía debemos trabajar para sanarla ahora.  
+Debido a que el movimiento ambiental ha sido cooptado por los involucrados en el Movimiento de la Nueva Era, muchos cristianos han comenzado a confundir el interés en el medio ambiente con interés en el panteísmo y no han vacilado en involucrarse. Pero no podemos permitir que el enemigo asuma el liderazgo en un área que es legítimamente nuestra. Como redimidos de la tierra, nuestra motivación para cuidar la tierra es aún más alta que la del Nuevaerista. Jesús ha redimido todos los efectos de la maldición, incluyendo nuestra relación con Dios, nuestra relación con otras personas y nuestra relación con la creación (1 Corintios 15:21-22, Romanos 5:12-21). Aunque los cielos y la tierra eventualmente serán destruidos, todavía debemos trabajar para sanarla ahora.  
   
 
 ## Catolicismo, María y La Madre Tierra
@@ -194,7 +194,7 @@ La Madonna Negra es honrada como una verdadera figura de la diosa, y ha sido as�
 
   
 
-Para muchos cristianos europeos, la mezcla de sus antiguas diosas con la Santísima Virgen María ha sido un hecho bien aceptado de su fe durante siglos, no hay conflicto. La Santa Virgen Negra, sea ella llamada Isis, o Mary, o Kali, o Diana, encarna todos los aspectos de la Divinidad Femenina para millones de personas. 
+Para muchos cristianos europeos, la mezcla de sus antiguas diosas con la Santísima Virgen María ha sido un hecho bien aceptado de su fe durante siglos, no hay conflicto. La Santa Virgen Negra, sea ella llamada Isis, o Mary, o Kali, o Diana, encarna todos los aspectos de la Divinidad Femenina para millones de personas. 
 
   
 
@@ -206,7 +206,7 @@ El Papa Juan Pablo II estaba profundamente dedicado a la Santísima Madre e hizo
 
 Sin embargo, la ironía es que algunos ambientalistas están vinculando a la Virgen María con Gaia. Ya hemos visto que James Lovelock es uno de los defensores más activos del concepto de Gaia y su influencia subrayada en muchas de las iniciativas de ecología verde apoyadas por las Naciones Unidas. En su libro _Age of Gaia_ menciona:
 
-_**"¿Y si María es otro nombre para Gaia?**_ 
+_**"¿Y si María es otro nombre para Gaia?**_ 
 
 _**Entonces su capacidad de nacimiento virginal no es un milagro,**_
 
@@ -214,7 +214,7 @@ _**es un papel de Gaia desde que comenzó la vida.**_
 
 _**Ella es de este Universo y, concebiblemente,**_
 
-_**una parte de Dios. En la Tierra,**_ 
+_**una parte de Dios. En la Tierra,**_ 
 
 _**ella es la fuentede vida eterna y está viva ahora;**_
 
@@ -274,13 +274,13 @@ La Organización Bahá'í afirma tener una estrecha relación de trabajo con la 
 Para los bahá'ís, el término "nuevo orden mundial" tiene un significado especial y claro. Hace más de 100 años, Baha'u'llah invocó la frase para categorizar una futura serie de cambios trascendentales en la vida política, social y religiosa del mundo.  
   
 
-> **"Ahora se pueden discernir los signos de las convulsiones y el caos inminentes, en la medida en que la Orden imperante parece ser lamentablemente defectuosa... En fin, se enrollará el orden actual y se extenderá otro nuevo en su lugar.  Los bahá'ís comprendemos que los dramáticos cambios y transformaciones que hemos presenciado durante el siglo pasado -y que seguimos viendo- han sido iniciados por la llegada de un nuevo Mensajero de Dios e influenciados por la luz quebrantadora de una nueva Revelación ".**
+> **"Ahora se pueden discernir los signos de las convulsiones y el caos inminentes, en la medida en que la Orden imperante parece ser lamentablemente defectuosa... En fin, se enrollará el orden actual y se extenderá otro nuevo en su lugar.  Los bahá'ís comprendemos que los dramáticos cambios y transformaciones que hemos presenciado durante el siglo pasado -y que seguimos viendo- han sido iniciados por la llegada de un nuevo Mensajero de Dios e influenciados por la luz quebrantadora de una nueva Revelación ".**
 
   
 La fe bahá'í ve a las Naciones Unidas como el recipiente por el cual la unificación de las religiones del mundo en una sola fe llegará a buen término. Su plan para el futuro de nuestro mundo y el papel de las Naciones Unidas que supervisan un mundo regionalizado reflejan casi directamente la propuesta delineada por la Commission on Global Governance de Maurice Strong. Los bahaíes escriben:  
   
 
-> "LA UNIDAD DE LA HUMANIDAD IMPLICA UN CAMBIO ORGÁNICO EN LA ESTRUCTURA DE LA SOCIEDAD ACTUAL, UN CAMBIO COMO EL QUE EL MUNDO TODAVÍA NO HA EXPERIMENTADO. PIDE NADA MENOS QUE LA RECONSTRUCCIÓN Y LA DESMILITARIZACIÓN DE TODO EL MUNDO CIVILIZADO, UN MUNDO ORGANICAMENTE UNIFICADO EN TODOS LOS ASPECTOS ESENCIALES DE LA VIDA, SU MAQUINARIA POLÍTICA, SU ASPIRACIÓN ESPIRITUAL, SU COMERCIO Y SUS FINANZAS, SU ESCRITURA Y SU LENGUAJE." 
+> "LA UNIDAD DE LA HUMANIDAD IMPLICA UN CAMBIO ORGÁNICO EN LA ESTRUCTURA DE LA SOCIEDAD ACTUAL, UN CAMBIO COMO EL QUE EL MUNDO TODAVÍA NO HA EXPERIMENTADO. PIDE NADA MENOS QUE LA RECONSTRUCCIÓN Y LA DESMILITARIZACIÓN DE TODO EL MUNDO CIVILIZADO, UN MUNDO ORGANICAMENTE UNIFICADO EN TODOS LOS ASPECTOS ESENCIALES DE LA VIDA, SU MAQUINARIA POLÍTICA, SU ASPIRACIÓN ESPIRITUAL, SU COMERCIO Y SUS FINANZAS, SU ESCRITURA Y SU LENGUAJE." 
 
   
 En una declaración a la Cumbre Mundial sobre Desarrollo Sostenible en agosto de 2002, la Comunidad Bahaí escribió,  
@@ -294,8 +294,8 @@ En una declaración a la Cumbre Mundial sobre Desarrollo Sostenible en agosto de
 
   
 
-En otras palabras, el cristianismo, el judaísmo y el islam son formas de fanatismo religioso que debe ser exorcizado del sistema mundial. Los bahá'ís afirman que la Biblia habla de Bahá'u'lláh, sin embargo, la única referencia a Bahá'u'lláh en la Biblia es indirecta cuando Jesús y los apóstoles advirtieron de la venida de falsos profetas y falsos cristso (Mateo 7: 15-16, 2 Corintios 11: 13-15). Los versos mesiánicos de la Biblia citados por bahá'ís como referentes a Bahá'u'lláh, no pueden respaldar su afirmación porque, entre otras cosas, Bahá'u'lláh era de ascendencia iraní, cuando el Mesías debía ser judío Mateo 1, Génesis 12: 1-3, II Samuel 7: 12-13). Además, el Nuevo Testamento cita repetidamente el cumplimiento de las profecías de Isaías en la persona de Jesucristo (Mateo 1: 1, 3:14, 8:17, Lucas 1:31, Apocalipsis 5: 5).  
+En otras palabras, el cristianismo, el judaísmo y el islam son formas de fanatismo religioso que debe ser exorcizado del sistema mundial. Los bahá'ís afirman que la Biblia habla de Bahá'u'lláh, sin embargo, la única referencia a Bahá'u'lláh en la Biblia es indirecta cuando Jesús y los apóstoles advirtieron de la venida de falsos profetas y falsos cristso (Mateo 7:15-16, 2 Corintios 11:13-15). Los versos mesiánicos de la Biblia citados por bahá'ís como referentes a Bahá'u'lláh, no pueden respaldar su afirmación porque, entre otras cosas, Bahá'u'lláh era de ascendencia iraní, cuando el Mesías debía ser judío Mateo 1, Génesis 12:1-3, II Samuel 7:12-13). Además, el Nuevo Testamento cita repetidamente el cumplimiento de las profecías de Isaías en la persona de Jesucristo (Mateo 1:1, 3:14, 8:17, Lucas 1:31, Apocalipsis 5:5).  
   
-La segunda venida de Cristo tampoco puede referirse a Bahá'u'lláh. Las Escrituras indican que el mismo Jesús que subió al cielo un día regresará personalmente (Hechos 1: 9-11). La Biblia también profetiza varias señales dramáticas y muy visibles que acompañarán a la Segunda Venida (Mateo 24:29). Ninguno de estos signos estuvo presente cuando Baha'u'llah llegó a la escena. Él también no apareció en el lugar correcto. La Escritura indica claramente que en la Segunda Venida el Mesías vendrá a Jerusalén y sus pies tocarán físicamente el Monte de los Olivos (Zacarías 14: 4). Baha'u'llah nunca hizo esto.  
+La segunda venida de Cristo tampoco puede referirse a Bahá'u'lláh. Las Escrituras indican que el mismo Jesús que subió al cielo un día regresará personalmente (Actos 1:9-11). La Biblia también profetiza varias señales dramáticas y muy visibles que acompañarán a la Segunda Venida (Mateo 24:29). Ninguno de estos signos estuvo presente cuando Baha'u'llah llegó a la escena. Él también no apareció en el lugar correcto. La Escritura indica claramente que en la Segunda Venida el Mesías vendrá a Jerusalén y sus pies tocarán físicamente el Monte de los Olivos (Zacarías 14:4). Baha'u'llah nunca hizo esto.  
   
-El Espíritu de verdad en Juan 16: 12-13 tampoco puede referirse a Bahá'u'lláh. Juan 14-16 identifica claramente al Espíritu de la Verdad como el Espíritu Santo (Juan 14: 16-17, 26). Jesús dijo que Su promesa del Espíritu Santo se cumpliría "en pocos días" (Hechos 1: 5), no en el 1800 cuando Baha'u'llah nació. Este cumplimiento vino en el Día de Pentecostés en Hechos 2. La función del Espíritu Santo es dar a conocer las enseñanzas de Jesús, no reemplazarlas con las interpretaciones de otro profeta. Jesús también dijo que el Espíritu Santo estaría con nosotros para siempre (Juan 14:16). Baha'u'llah murió en 1892 a la edad de 75 años.
+El Espíritu de verdad en Juan 16:12-13 tampoco puede referirse a Bahá'u'lláh. Juan 14-16 identifica claramente al Espíritu de la Verdad como el Espíritu Santo (Juan 14:16-17, 26). Jesús dijo que Su promesa del Espíritu Santo se cumpliría "en pocos días" (Actos 1:5), no en el 1800 cuando Baha'u'llah nació. Este cumplimiento vino en el Día de Pentecostés en Actos 2. La función del Espíritu Santo es dar a conocer las enseñanzas de Jesús, no reemplazarlas con las interpretaciones de otro profeta. Jesús también dijo que el Espíritu Santo estaría con nosotros para siempre (Juan 14:16). Baha'u'llah murió en 1892 a la edad de 75 años.

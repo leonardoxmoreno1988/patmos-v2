@@ -9,7 +9,7 @@ description: "Tras solo cuatro meses como Papa, Francisco I obtiene su segunda p
 tags: ["Falsas Doctrinas"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -35,7 +35,7 @@ La portada llegará a Europa, Asia y Sudamérica diez días después de que Vani
 
 **Jorge Mario Bergoglio, el primer Papa jesuita.**
 
-   
+   
 Los cuernos detrás de los personajes en la revista Time no son pocos, y la mayoría de estos encierran un significado de importancia para los planes del nuevo orden mundial. Ya sea una figura política o religiosa, es muy probable que este simbólico privilegio defina quién trabaja para la élite y sus vínculos con organizaciones como la masonería, los illuminati y los jesuitas.  
   
 He aquí unos ejemplos cornudos de las últimas décadas:

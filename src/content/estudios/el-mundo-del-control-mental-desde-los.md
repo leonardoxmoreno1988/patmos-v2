@@ -9,7 +9,7 @@ description: "Kim Noble es un caso raro: una sobreviviente del control mental ba
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
   
@@ -24,7 +24,7 @@ Muchos artículos en este site revelan la presencia de simbología del control m
 
   
 
-Las obras de Kim Noble claramente documentan la vida de un esclavo de control mental a través de los ojos de los 13 alters. Aunque algunos de estos alters pintan paisajes y escenas pacíficas de la naturaleza, la mayoría de ellos muestran los aspectos horribles de control de la mente, como la tortura física, electroshock, el abuso sexual violento, la deshumanización y rituales ocultos. Los relatos de estas pinturas son casi "demasiado para soportar", sin embargo, lo más probable es que realmente le sucedió a Kim Noble, ya que reflejan con precisión los testimonios de otros sobrevivientes monarca. En cuanto a las obras de Kim Noble no sólo revelan los detalles de una práctica abominable llevada a cabo por la "élite", revelan también el simbolismo que  es arrojado a nuestra cara a diario a través de los medios de comunicación corporativos. Echemos un vistazo a la vida y obra de Kim Noble.  
+Las obras de Kim Noble claramente documentan la vida de un esclavo de control mental a través de los ojos de los 13 alters. Aunque algunos de estos alters pintan paisajes y escenas pacíficas de la naturaleza, la mayoría de ellos muestran los aspectos horribles de control de la mente, como la tortura física, electroshock, el abuso sexual violento, la deshumanización y rituales ocultos. Los relatos de estas pinturas son casi "demasiado para soportar", sin embargo, lo más probable es que realmente le sucedió a Kim Noble, ya que reflejan con precisión los testimonios de otros sobrevivientes monarca. En cuanto a las obras de Kim Noble no sólo revelan los detalles de una práctica abominable llevada a cabo por la "élite", revelan también el simbolismo que  es arrojado a nuestra cara a diario a través de los medios de comunicación corporativos. Echemos un vistazo a la vida y obra de Kim Noble.  
   
 
 ## ¿Quién es Kim Noble?
@@ -33,7 +33,7 @@ Tengo la sensación de que Kim se Noble tendría problemas para responder a esta
   
   
 
-> "Kim Noble es una mujer que, a partir de la edad de 14 años, pasó 20 años en y fuera del hospital hasta que se puso en contacto con la Dra. Valerie Sinason y el Dr. Rob Hale en la Clínica Tavistock y Portman. En 1995 ella empezó la terapia y fue diagnosticada con trastorno de identidad disociativo (originalmente llamado trastorno de personalidad múltiple). DID es una forma creativa de hacer frente a un dolor insoportable. El personaje principal se divide en varias partes con barreras disociativas o amnésica entre ellos. Es un trastorno controvertido, pero Kim ha tenido numerosas pruebas durante dos años por el profesor de psicología líder en la UCL, John Morton, que ha establecido que no hay memoria entre los personajes y que tiene la desgracia de representar el patrón británico de auténtica disociación. 
+> "Kim Noble es una mujer que, a partir de la edad de 14 años, pasó 20 años en y fuera del hospital hasta que se puso en contacto con la Dra. Valerie Sinason y el Dr. Rob Hale en la Clínica Tavistock y Portman. En 1995 ella empezó la terapia y fue diagnosticada con trastorno de identidad disociativo (originalmente llamado trastorno de personalidad múltiple). DID es una forma creativa de hacer frente a un dolor insoportable. El personaje principal se divide en varias partes con barreras disociativas o amnésica entre ellos. Es un trastorno controvertido, pero Kim ha tenido numerosas pruebas durante dos años por el profesor de psicología líder en la UCL, John Morton, que ha establecido que no hay memoria entre los personajes y que tiene la desgracia de representar el patrón británico de auténtica disociación. 
 
 >   
 > Sin tener formación artística formal, Kim y 13 de sus personalidades (alters) se interesaron en la pintura en 2004 después de pasar un corto período de tiempo con un terapista. Estas 12 artistas tienen su propio estilo, colores y temas, que van desde escenas del desierto solitario, las escenas de mar, los resúmenes, collages y pinturas con contenido traumático. Muchos de estos alters no son conscientes de que comparten un cuerpo con otros artistas.  
@@ -71,9 +71,9 @@ En estas imágenes perturbadoras están la raíz de la extraordinaria condición
 >   
 > Hay ciertos "disparadores" que puede obligar a un cambio gradual y Kim ha aprendido lo que son, a fin de evitarlos. Pero no le impide cambiar hasta tres o cuatro veces al día"
 > 
->  **\- The Independent, "Kim Noble, una mujer dividida"**
+>  **\- The Independent, "Kim Noble, una mujer dividida"**
 
-   
+   
 Echemos un vistazo a algunas de las obras creadas por algunos alters de Kim Noble, ya que cada uno tiene un aspecto diferente en el turbio mundo de la programación Monarca. Los lectores habituales se darán cuenta de que una gran parte del simbolismo que se encuentra en las pinturas de Noble también se encuentran en la cultura popular.  
   
 Advertencia: Algunas de estas pinturas representan escenas perturbadoras que podría no ser adecuado para los lectores jóvenes o sensibles.  
@@ -89,7 +89,7 @@ Bonny, quien fue el alter "dominante" de Kim por algunos años, es una figura c�
 
 **"Yo sólo soy otra personalidad" representa visualmente la división del sujeto en varios alters. La figura central o núcleo de la personalidad se ha convertido simplemente en "otra personalidad". Esta con los ojos vendados, lo que representa la ceguera total de las víctimas a su condición.**
 
-   
+   
 Este tipo de imágenes se encuentran a veces en la cultura popular por escenas que aprovechan imágenes de control mental.
 
   
@@ -107,7 +107,7 @@ Otra pieza realizada por Bonny, irónicamente llamado I-Test, simbólicamente re
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWX3ARsKiCkEMoOSdthG5ZeSV2FTZ9saCFExunP1eaStivXdRL2adRklSjltz1gEcEUgFbrXvW2FW_y61FcnIsUtAvgT6iM-YW7OH-idbCwjVCFnp-wsd0oUv-ynZutS29Ln7NYQGvpS6q/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWX3ARsKiCkEMoOSdthG5ZeSV2FTZ9saCFExunP1eaStivXdRL2adRklSjltz1gEcEUgFbrXvW2FW_y61FcnIsUtAvgT6iM-YW7OH-idbCwjVCFnp-wsd0oUv-ynZutS29Ln7NYQGvpS6q/)
 
-**Una camiseta promocional de la película Sucker Punch (que fue acerca de la programación Monarca) con un ojo ensangrentado.**  
+**Una camiseta promocional de la película Sucker Punch (que fue acerca de la programación Monarca) con un ojo ensangrentado.**  
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin9vRFLU5w9hFZKc0J_vR4X6nNQXGX_sR1V0QCnJ0_2AIl2OY2zhMPpifnrQzmFWfDTANjQAyRPFFy5v3BAzgZTi0ZM-ZihilfkAeZdu4R8QcylvWCHpnU1jOrZi694won6ywQHDwxTQEj/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin9vRFLU5w9hFZKc0J_vR4X6nNQXGX_sR1V0QCnJ0_2AIl2OY2zhMPpifnrQzmFWfDTANjQAyRPFFy5v3BAzgZTi0ZM-ZihilfkAeZdu4R8QcylvWCHpnU1jOrZi694won6ywQHDwxTQEj/)
 
@@ -115,7 +115,7 @@ Otra pieza realizada por Bonny, irónicamente llamado I-Test, simbólicamente re
 
 ## Golden Dawn
 
-Golden Dawn es el altar que vio el nacimiento de su hija Aimee. Sin embargo, Dawn cree que Aimee todavía es una bebé y no reconoce la adolescente que vive con ella. El nombre de "Golden Dawn" tiene una connotación oculta de lo que es el nombre de una sociedad secreta importante y poderosa que enseña la Cábala Hermética, la astrología, el tarot lo oculto, la geomancia y la alquimia a sus iniciados. Se celebrará dentro de sus filas prominentes ocultistas tales como Arthur Edward Waite y Aleister Crowley. El proceso de control de la mente Monarca combina el estado de la técnica de "ciencia" (si se puede llamar a la tortura "ciencia") con el ocultismo antiguo, ya sea en las teorías herméticas, el simbolismo cabalístico o rituales de invocación. Por lo tanto, no sorprende que se le dio este nombre oculto de inspiración.  
+Golden Dawn es el altar que vio el nacimiento de su hija Aimee. Sin embargo, Dawn cree que Aimee todavía es una bebé y no reconoce la adolescente que vive con ella. El nombre de "Golden Dawn" tiene una connotación oculta de lo que es el nombre de una sociedad secreta importante y poderosa que enseña la Cábala Hermética, la astrología, el tarot lo oculto, la geomancia y la alquimia a sus iniciados. Se celebrará dentro de sus filas prominentes ocultistas tales como Arthur Edward Waite y Aleister Crowley. El proceso de control de la mente Monarca combina el estado de la técnica de "ciencia" (si se puede llamar a la tortura "ciencia") con el ocultismo antiguo, ya sea en las teorías herméticas, el simbolismo cabalístico o rituales de invocación. Por lo tanto, no sorprende que se le dio este nombre oculto de inspiración.  
   
 Su obra titulada "El Nombramiento" representa visualmente el proceso de creación y el nombramiento de un nuevo alter.  
   
@@ -125,7 +125,7 @@ Su obra titulada "El Nombramiento" representa visualmente el proceso de creació
 
 **"Nombramiento" es un auto-retrato de Kim con un solo ojo que fue retirado de la cara y extirpado de ella, con sangre, la cual refleja la naturaleza violenta del proceso. Una vez más, el control mental es simbolizado por la pérdida de un ojo que parece haber sido reemplazado por un texto / poema que fue utilizado probablemente para su programa.**
 
-   
+   
 La mayoría de los otros cuadros de Dawn ofrecen falta de extremidades, como maniquís sometidos a diversos métodos de tortura.  
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqQNG4V3OtMX_c0wA3zWV_FU76399PmJcQfrzgLN3KHO-qkNX9z4Oaogwl_MjgRCg6eO3Wfoml7zpj2wlot6SNWafJBW5BDeJaleS1rSbJi8FRaGdHIZ-6qRqQmka2K2nlOm1rT2bDBMv/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqQNG4V3OtMX_c0wA3zWV_FU76399PmJcQfrzgLN3KHO-qkNX9z4Oaogwl_MjgRCg6eO3Wfoml7zpj2wlot6SNWafJBW5BDeJaleS1rSbJi8FRaGdHIZ-6qRqQmka2K2nlOm1rT2bDBMv/)
@@ -138,7 +138,7 @@ La mayoría de los otros cuadros de Dawn ofrecen falta de extremidades, como man
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwyWyUByk8pbvlKgh4DwWHKy9At2U-FtY6yMTuvWbElZITknr5jftgh7EoaRj4x9Sjfzk1iw8P6qAslwXkY5Y8_4RJZwBV3JUR6mYBTmY3kO8Zo6b_mVU5H4UB-2XqW-JSj2jVPqSZ7Pbf/s400/p6270010.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwyWyUByk8pbvlKgh4DwWHKy9At2U-FtY6yMTuvWbElZITknr5jftgh7EoaRj4x9Sjfzk1iw8P6qAslwXkY5Y8_4RJZwBV3JUR6mYBTmY3kO8Zo6b_mVU5H4UB-2XqW-JSj2jVPqSZ7Pbf/s512/p6270010.jpg)
 
-**"Diosa desarmada", muestra otra escena de tortura traumática.** 
+**"Diosa desarmada", muestra otra escena de tortura traumática.** 
 
   
 

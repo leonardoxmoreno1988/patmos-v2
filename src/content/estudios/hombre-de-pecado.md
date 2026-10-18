@@ -22,7 +22,7 @@ En uno de los engaños más grandes de la historia, ellos creerán que Lucifer e
 Será uno de los líderes más asombrosos que el mundo haya conocido jamás. En la superficie, parecerá ser el epítome de la genialidad y el poder humano. El Anticristo poseerá:
 
   
- 
+ 
 
 -   Genio intelectual (Daniel 7:20)
 -   Genio en oratoria (Daniel 7:20)

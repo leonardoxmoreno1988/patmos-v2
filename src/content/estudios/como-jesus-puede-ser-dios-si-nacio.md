@@ -45,8 +45,7 @@ Ahora, a la luz de los pasajes antes mencionados, se nos proporciona una luz má
   
 Esto nos demuestra claramente que Jesús tenía una existencia antes de su nacimiento terrenal, por lo tanto la historia de la natividad no era ni podía ser el principio de su existencia.  
 
-##   
-2\. Jesús existió antes de Abraham
+## 2\. Jesús existió antes de Abraham
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBqZFbfuyR-rhg1ST81_9lP4zjry99AVIHDoGVwonP8Q6GY6nmCRIjKffSbdAgwFrn9PKhYU2_IB0XUKQNM1zz03cgs95X8uJ1i0HQEEKIGWlp3GxLXZ1mnlBTbauM6SiiBwt348W2rTg/s1600/abraham.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBqZFbfuyR-rhg1ST81_9lP4zjry99AVIHDoGVwonP8Q6GY6nmCRIjKffSbdAgwFrn9PKhYU2_IB0XUKQNM1zz03cgs95X8uJ1i0HQEEKIGWlp3GxLXZ1mnlBTbauM6SiiBwt348W2rTg/s1600/abraham.jpg)
 
@@ -88,8 +87,7 @@ Ahora, en vista del hecho de que la caída de Satanás ocurrió antes de la caí
   
 Esto nos demuestra claramente que Jesús tenía una existencia antes de su nacimiento terrenal, por lo tanto y nuevamente la historia de la natividad no era ni podía ser el principio de su existencia.  
 
-##   
-4\. Jesús existió antes de que el mundo fuese creado
+## 4\. Jesús existió antes de que el mundo fuese creado
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv_bml5NkcdN-ORzN9TsdBX-AB8UL0PYubgsr6ItDT2JNdqcBRNkmTq2r_Wgp9oBd1cwwX2YwJX1vTsE9fFXk5uIc2-wmADRT9A8yInnddyjS5FyTDtv_H5JPvSEeJqYBHnkaou1Bh6ss/s1600/astrofisica.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv_bml5NkcdN-ORzN9TsdBX-AB8UL0PYubgsr6ItDT2JNdqcBRNkmTq2r_Wgp9oBd1cwwX2YwJX1vTsE9fFXk5uIc2-wmADRT9A8yInnddyjS5FyTDtv_H5JPvSEeJqYBHnkaou1Bh6ss/s1600/astrofisica.jpg)
 

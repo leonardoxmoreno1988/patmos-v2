@@ -9,7 +9,7 @@ description: "Jesús Te Llama (Jesus Calling) de Sarah Young, y otros libros sim
 tags: ["Falsas Doctrinas"]
 ---
 
-**Jesús Te Llama** (Jesus Calling) de Sarah Young, y otros libros similares escritos por ella, se han multiplicado en un imperio editorial con versiones de **Jesús Te Llama** para adolescentes, para niños, calendarios, ediciones especiales, revistas que la acompañan, un Libro de la Biblia de Jesús Te Llama e incluso un Jesús Te Llama: **Biblia Devocional**.  
+**Jesús Te Llama** (Jesus Calling) de Sarah Young, y otros libros similares escritos por ella, se han multiplicado en un imperio editorial con versiones de **Jesús Te Llama** para adolescentes, para niños, calendarios, ediciones especiales, revistas que la acompañan, un Libro de la Biblia de Jesús Te Llama e incluso un Jesús Te Llama: **Biblia Devocional**.  
   
 
 [![portada del libro Jesús Te Llama o Jesus Calling de la autora Sarah Young](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJYCtf2gi879wY7fSiiF03OZPA8nKjxSiPh19cWvPHR6x7072yMXSLf7tmZejsrDDCRXPjsQiBgVENKWsdFU62Vzzfyfw5jNe9s2lKwlenrxoN0WESjqB0BmDWepcK903MvloYp_9MXwQ/s1600/jesus-te-llama.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJYCtf2gi879wY7fSiiF03OZPA8nKjxSiPh19cWvPHR6x7072yMXSLf7tmZejsrDDCRXPjsQiBgVENKWsdFU62Vzzfyfw5jNe9s2lKwlenrxoN0WESjqB0BmDWepcK903MvloYp_9MXwQ/s1600/jesus-te-llama.jpg)
@@ -25,25 +25,25 @@ En la introducción a su primer libro, Jesús Te Llama, Young escribe, **"Yo sab
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el falso evangelio, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el falso evangelio, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Hay contraste del anhelo de Young por "más" con cómo la Biblia retrata la palabra de Dios. En respuesta a una de las tentaciones de Satanás, tenemos a Jesús citando Deut. 8: 3:  
   
 "Pero él respondió:"Está escrito: El hombre no debe vivir sólo de pan, sino de toda palabra que sale de la boca de Dios".  
   
-En primera de Pedro, leemos: "Como el recién nacido, anhela la leche sin mancilla de la palabra, para que por ella seas crecido para la salvación" (1 Pedro 2: 2, también ver 1 Corintios 3: 2, Heb.5 : 14). Pablo exhortó a Timoteo a "ser nutrido con las palabras de la fe y de la buena enseñanza que han seguido de cerca" (1 Tim 4: 6).  
+En primera de Pedro, leemos: "Como el recién nacido, anhela la leche sin mancilla de la palabra, para que por ella seas crecido para la salvación" (1 Pedro 2:2, también ver 1 Corintios 3:2, Heb.5 : 14). Pablo exhortó a Timoteo a "ser nutrido con las palabras de la fe y de la buena enseñanza que han seguido de cerca" (1 Tim 4:6).  
   
 Volviendo al Antiguo Testamento, vemos las palabras de Dios comparadas a la comida:  
   
-"Cuando llegaron tus palabras, las comí; Fueron mi alegría y el deleite de mi corazón." - Jeremías 15: 16a.  
+"Cuando llegaron tus palabras, las comí; Fueron mi alegría y el deleite de mi corazón." - Jeremías 15:16a.  
   
 "¡Qué dulces son tus palabras a mi gusto, más dulces que la miel a mi boca!" PD. 119: 103  
   
-"Y me dijo: Hijo de hombre, come este rollo que te doy y llena tuestómago. Y lo comí, y en mi boca me pareció dulce como la miel." -Ezequiel 3: 3 (véase también Apocalipsis 10: 9, 10)  
+"Y me dijo: Hijo de hombre, come este rollo que te doy y llena tuestómago. Y lo comí, y en mi boca me pareció dulce como la miel." -Ezequiel 3:3 (véase también Apocalipsis 10:9, 10)  
   
 Uno de los temas de la Biblia es el poder de la palabra de Dios para consolar, exhortar, alentar y nutrir a los que han creído. Uno nunca puede llegar a terminar de estudiar o conocer la Biblia porque, reflejando la naturaleza de Dios, su palabra es infinitamente profunda y sabia.  
   
-"Toda la Escritura es inspirada por Dios y es útil para enseñar, para reprender, para corregir y para instruir en justicia, para que el hombre de Dios sea perfectamente preparado para toda buena obra" (2 Timoteo 3:16, 17; 19: 8, 10, Mateo 22:29, Juan 10:35, Hechos 17:11, 1 Tesalonicenses 2:13, Hebreos 4:12, 2 Pedro 1: 19-21).  
+"Toda la Escritura es inspirada por Dios y es útil para enseñar, para reprender, para corregir y para instruir en justicia, para que el hombre de Dios sea perfectamente preparado para toda buena obra" (2 Timoteo 3:16, 17; 19: 8, 10, Mateo 22:29, Juan 10:35, Actos 17:11, 1 Tesalonicenses 2:13, Hebreos 4:12, 2 Pedro 1:19-21).  
   
 Si alguien no está satisfecho con la Palabra de Dios como el camino para crecer más cerca de Cristo y crecer como cristiano, eso abre la puerta a vías extrabíblicas de engaño. Si bien es cierto que la oración, el compañerismo con otros cristianos y la adoración son necesarios para madurar en la vida cristiana, estos son lugares adicionales y diferentes, nunca sustituyen la palabra de Dios. El descontento con la palabra de Dios debería ser una advertencia, y de hecho llevó a Young a una avenida de comunicación llena de peligro espiritual.  
   
@@ -66,7 +66,7 @@ Como alguien que anteriormente estaba involucrado en la Nueva Era, estoy obligad
   
 Si Young hubiera confinado este método a sí misma, sería un asunto entre ella y Dios. Sin embargo, la comercialización de estos mensajes, que están escritos como si fueran hablados por Jesús, coloca el libro(s) en un foro público, y obliga a los cristianos a examinar los reclamos de Young y los mensajes supuestamente de Jesús.  
   
-Otra gran bandera roja es el reconocimiento positivo de Young del libro God Calling, que ella afirma se convirtió en un "tesoro" para ella. Escribiendo sobre las dos mujeres que escribieron este trabajo, Young dice: "Estas mujeres practicaban la espera en silencio en la Presencia de Dios, con lápices y papeles en la mano, registrando los mensajes que recibieron de Él". \[7\] La ​​afición de Young por este libro y su uso como inspiración para su modo de comunicación con Dios es profundamente desconcertante cuando se examina la historia, el método y el contenido de este "tesoro".  
+Otra gran bandera roja es el reconocimiento positivo de Young del libro God Calling, que ella afirma se convirtió en un "tesoro" para ella. Escribiendo sobre las dos mujeres que escribieron este trabajo, Young dice: "Estas mujeres practicaban la espera en silencio en la Presencia de Dios, con lápices y papeles en la mano, registrando los mensajes que recibieron de Él". \[7\] La afición de Young por este libro y su uso como inspiración para su modo de comunicación con Dios es profundamente desconcertante cuando se examina la historia, el método y el contenido de este "tesoro".  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhayIMqL0ISwBlAEpHThKvqLgfHF0sgp6z0i-rNll93W3QcZ4p63Mj_HTef49nF35fAtY3K2DWZhDkRdhhT2__zlaCq32_kTLEwjNsqeJGTlo7ha1NfKW5wXkgDnJqjJ928kSH4ggBavP4/s1600/dios-te-llama.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhayIMqL0ISwBlAEpHThKvqLgfHF0sgp6z0i-rNll93W3QcZ4p63Mj_HTef49nF35fAtY3K2DWZhDkRdhhT2__zlaCq32_kTLEwjNsqeJGTlo7ha1NfKW5wXkgDnJqjJ928kSH4ggBavP4/s1600/dios-te-llama.jpg)
@@ -75,7 +75,7 @@ Otra gran bandera roja es el reconocimiento positivo de Young del libro God Call
 
 ## Las dos oyentes
 
-La primera vez que encontré a Dios Te Llama fue como un creyente muy nuevo mientras hojeaba una librería cristiana. Curioso, lo recogí y vi que era devocional para cada día del año. Al leer varios de estos, me alarmé por algunos de los conceptos e ideas porque muchos recuerdan enseñanzas de la Nueva Era.
+La primera vez que encontré a Dios Te Llama fue como un creyente muy nuevo mientras hojeaba una librería cristiana. Curioso, lo recogí y vi que era devocional para cada día del año. Al leer varios de estos, me alarmé por algunos de los conceptos e ideas porque muchos recuerdan enseñanzas de la Nueva Era.
 
   
 Aunque en ese momento yo no conocía muy bien la Biblia, reconocí declaraciones que yo sabía que no eran compatibles con lo que había leído en la Biblia y que conocía de Dios. Casi me dirigí al empleado con mis preocupaciones, pero siendo un cristiano tan nuevo, no estaba lo suficientemente seguro como para decir nada.  
@@ -111,7 +111,7 @@ Al parecer, las "dos oyentes" eran seguidores de este método y, sin duda, parte
 Esta declaración está siendo usada como si Jesús se estuviera refiriendo a la gente más adelante, como las dos oyentes y otros, que recibirían revelación adicional. Sin embargo, Jesús no está diciendo eso. Jesús está hablando a sus discípulos y deja claro en el versículo siguiente lo que esto significa:
 
   
-"Todavía tengo muchas cosas que decirte, pero no puedes soportarlas ahora. Cuando el Espíritu de verdad venga, Él os guiará a toda la verdad. Porque no hablará por sí mismo, sino que hablará todo lo que oyere. Él también le declarará lo que está por venir." -Juan 16: 12-13  
+"Todavía tengo muchas cosas que decirte, pero no puedes soportarlas ahora. Cuando el Espíritu de verdad venga, Él os guiará a toda la verdad. Porque no hablará por sí mismo, sino que hablará todo lo que oyere. Él también le declarará lo que está por venir." -Juan 16:12-13  
   
 Esto se refería a cuando los discípulos recibirían el Espíritu Santo en el Pentecostés y las enseñanzas posteriores a través de la Escritura. \[14\] Convertir esto en un respaldo de escuchar y escribir lo que uno siente viene de Dios es cambiar el texto. Este es el tipo de torcedura bíblica hecha por los cultos. Otro ejemplo de como se tuerce la escritura el libro. \[15\]  
   
@@ -128,7 +128,7 @@ El Nuevo Pensamiento, un movimiento en los siglos XIX y XX, afirmó ser parte de
   
 El hombre está naturalmente conectado con Dios y al afirmar estas nuevas verdades, el pensamiento de uno se cambia, trayendo así el estado espiritual (la conciencia) a un supuesto "nivel superior". \[16\] Al referirse a Jesús y al reconocer la historia bíblica, imbuye el texto bíblico con significados completamente diferentes. La Nueva Era adoptó el núcleo del Nuevo Pensamiento como otra faceta de su corpus masivo y, por lo tanto, los dos a menudo se superponen.  
   
-Los términos observados en las entradas del  27 de febrero, 10 y 13 de marzo, 19 de junio, 29 de julio, 18 de agosto y 17 de noviembre incluyen "manifestación material", "vida espiritual", " , "Espíritu-reino", "el plano material", "Espíritu de sonido", "espíritu entendido" y "mundo-Espíritu". Este lenguaje se usa en el Nuevo Pensamiento y la Nueva Era, denotando un material gnóstico basado en la dualidad.  
+Los términos observados en las entradas del  27 de febrero, 10 y 13 de marzo, 19 de junio, 29 de julio, 18 de agosto y 17 de noviembre incluyen "manifestación material", "vida espiritual", " , "Espíritu-reino", "el plano material", "Espíritu de sonido", "espíritu entendido" y "mundo-Espíritu". Este lenguaje se usa en el Nuevo Pensamiento y la Nueva Era, denotando un material gnóstico basado en la dualidad.  
   
 Incluso teniendo en cuenta cuando este libro fue escrito, estos términos no son cristianos y nunca lo han sido, y algunos se usan en el Espiritismo (aunque una lectura condena irónicamente el espiritismo). \[17\]  
   
@@ -160,7 +160,7 @@ Vivir en el pensamiento sobre lo material, una vez vivas que en Mí - es llamarl
   
 En otras palabras, una vez que su mente se convierte a la longitud de onda del Nuevo Pensamiento, que es la conciencia de la naturaleza divina, usted puede manifestar en realidad lo que está pensando. Este es exactamente el mismo mensaje dado por el libro más vendido y DVD, El Secreto. \[19\]  
   
-Esta obra popular enseña que se puede producir lo que se piensa a través de ciertas técnicas y se deriva directamente de las enseñanzas del Nuevo Pensamiento. (Muchos de los primeros maestros del Nuevo Pensamiento son citados, y la autora Rhonda Byrne elaboró ​​este trabajo como resultado de la lectura del maestro del Nuevo Pensamiento Wallace Wattles).  
+Esta obra popular enseña que se puede producir lo que se piensa a través de ciertas técnicas y se deriva directamente de las enseñanzas del Nuevo Pensamiento. (Muchos de los primeros maestros del Nuevo Pensamiento son citados, y la autora Rhonda Byrne elaboró este trabajo como resultado de la lectura del maestro del Nuevo Pensamiento Wallace Wattles).  
   
 Además, esta capacidad de manifestarse del Nuevo Pensamiento se aplica también al "plano espiritual", por lo que hay que tener cuidado en cómo se piensa. Este es el concepto que dio lugar a la locura del "pensamiento positivo" (el "plano espiritual" es auténtico espiritualismo y un término usado para el nuevo pensamiento):  
   
@@ -193,7 +193,7 @@ J. Russell estaba profundamente involucrado con el Grupo de Oxford en un momento
 
 Hay mucho más material que tocar en Dios Te Llama, pero se ha dado suficiente para valer un punto. El punto es que desde que este libro inspiró a Young y le dio a Young su método de "escuchar" a Jesús, y porque Young considera este libro como un "tesoro", entonces el discernimiento de Young debe ser cuestionado. Ella usó el mismo método y modelo para sus otros libros.  
   
-El contenido de Jesús Te Llama es casi entumecido y repetitivo, aburrido incluso. El término "Mi Presencia" satura casi todas las páginas. "Jesús" también dice algunas cosas extrañas, como esta:  
+El contenido de Jesús Te Llama es casi entumecido y repetitivo, aburrido incluso. El término "Mi Presencia" satura casi todas las páginas. "Jesús" también dice algunas cosas extrañas, como esta:  
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXODHKwJV18vRbLoRDcp3BS3H2cnLzpHljyoRSCPvfi1G4u73N1uPemP2ScJKEyxDbmdJ-5uN0wK4K9Lp1GEu7R3v0QjYtc0D8sNnB2crml0q0yQpc6ROdcKphjDq9t7TmpwRpjFipEmY/s1600/jesus-te-llama-para-nin%25CC%2583os.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXODHKwJV18vRbLoRDcp3BS3H2cnLzpHljyoRSCPvfi1G4u73N1uPemP2ScJKEyxDbmdJ-5uN0wK4K9Lp1GEu7R3v0QjYtc0D8sNnB2crml0q0yQpc6ROdcKphjDq9t7TmpwRpjFipEmY/s1600/jesus-te-llama-para-nin%25CC%2583os.jpg)"Pídeme que abra los ojos para que puedas encontrarme en todas partes ... \[...\] ... esto no es una especie de escape de la realidad; Se está sintonizando con la realidad última. Soy mucho más real que el mundo que puedes ver, oír y tocar." (18 de julio)  
   
@@ -252,7 +252,7 @@ Y cuando uno lee cada entrada escrita tan inequívocamente como si Jesús estuvi
   
 Mi respuesta a la pregunta: No, no creo que este sea Jesús el que está "llamando".  
   
-\[NOTA: Tenga en cuenta que un año después de que este artículo fue escrito, una edición del décimo aniversario de Jesús Te Llama fue lanzado por el editor Thomas Nelson. Partes de la Introducción original del libro, a las que se hace referencia en este artículo, fueron eliminadas o cambiadas. Esto incluye la eliminación de la declaración de Young de que el libro Dios Te Llama era la inspiración principal de ella para escribir este libro, y el intercambio de palabras que previamente indicó que estaba escuchando directamente de Jesús.  
+\[NOTA: Tenga en cuenta que un año después de que este artículo fue escrito, una edición del décimo aniversario de Jesús Te Llama fue lanzado por el editor Thomas Nelson. Partes de la Introducción original del libro, a las que se hace referencia en este artículo, fueron eliminadas o cambiadas. Esto incluye la eliminación de la declaración de Young de que el libro Dios Te Llama era la inspiración principal de ella para escribir este libro, y el intercambio de palabras que previamente indicó que estaba escuchando directamente de Jesús.  
   
 Las declaraciones anteriores de que estaba recibiendo "mensajes" de Jesús fueron cambiadas a "escritos" que ella "recolectó" en momentos de silencio y "devocionales". Otras partes de la edición original, como Young afirmando que anhelaba más que el Biblia, también han sido eliminados.  
   
@@ -299,6 +299,6 @@ Hay otros serios problemas con las enseñanzas del Grupo de Oxford, que se desar
   
 \[20\] Véase el artículo de CANA sobre Emmet Fox y Agnes Sanford, http://christiananswersforthenewage.org/Articles\_FoxSanford.html  
   
-\[21\] Véase el artículo de CANA sobre el libro de Ann Voskamp, ​​One Thousand Gifts en http://christiananswersforthenewage.org/Articles\_OneThousandGifts.html  
+\[21\] Véase el artículo de CANA sobre el libro de Ann Voskamp, One Thousand Gifts en http://christiananswersforthenewage.org/Articles\_OneThousandGifts.html  
   
 \[22\] Véase el artículo de CANA sobre Ps. 46:10 en http://Christiananswersforthenewage.

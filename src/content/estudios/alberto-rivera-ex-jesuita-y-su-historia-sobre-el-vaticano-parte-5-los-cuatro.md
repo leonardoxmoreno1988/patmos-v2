@@ -9,7 +9,7 @@ description: "He aquí una descripción clara de cómo el papado cumple las prof
 tags: ["Falsas Doctrinas"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 

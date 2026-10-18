@@ -9,11 +9,11 @@ description: "En este tercer capítulo se expone como la Institución Católica 
 tags: ["Falsas Doctrinas"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-En este **tercer capítulo** se expone cómo la Institución **Católica Romana**, la "Madre de las Abominaciones" (Revelación 17), causó muchas **guerras**. Este es el libro que la prensa católica tiene miedo de mencionar. ¿Fue el Vaticano responsable de las Guerras Mundiales I y II? ¿Por qué el Cardenal Pacelli (que más tarde se convirtió en el **Papa Pío XII**) hizo un tratado especial con Adolfo Hitler? Historia publicada por **[Chick Publications](http://www.chick.com/es/)**.  
+En este **tercer capítulo** se expone cómo la Institución **Católica Romana**, la "Madre de las Abominaciones" (Revelación 17), causó muchas **guerras**. Este es el libro que la prensa católica tiene miedo de mencionar. ¿Fue el Vaticano responsable de las Guerras Mundiales I y II? ¿Por qué el Cardenal Pacelli (que más tarde se convirtió en el **Papa Pío XII**) hizo un tratado especial con Adolfo Hitler? Historia publicada por **[Chick Publications](http://www.chick.com/es/)**.  
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtwIqtwR6JvBIdExMHtM6jj1JAW9aZ5NiVTT1na378iKM8_yWYnda5RUi3aiLU4ZHqGMoQDP343jIpLMOqDYBgVC88eVhVfZ7iXGDWh7Z-EJBklY3ZRoegiuTFIeHRWU3UnvKf5_GSKww/s1600/lospadrinos.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtwIqtwR6JvBIdExMHtM6jj1JAW9aZ5NiVTT1na378iKM8_yWYnda5RUi3aiLU4ZHqGMoQDP343jIpLMOqDYBgVC88eVhVfZ7iXGDWh7Z-EJBklY3ZRoegiuTFIeHRWU3UnvKf5_GSKww/s1600/lospadrinos.jpg)
 

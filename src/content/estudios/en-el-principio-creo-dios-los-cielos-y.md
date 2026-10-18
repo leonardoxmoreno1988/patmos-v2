@@ -66,7 +66,7 @@ Esto es importante, ya que varios teólogos asumen que la Biblia enseña que la 
   
 La tierra podría haber estado aquí millones de años antes de que Dios la “recreara” en siete días y [colocara al hombre](https://www.ritualypropaganda.com/2022/07/7000-anos-historia-humana.html). Hablamos del mundo preadámico, tema digno de estudio en otro newsletter.  
   
-En resumen, al leer el versículo de 1:1 de Génesis, encontramos más verdades profundas que las conjeturas superficiales de muchos científicos, filósofos y líderes religiosos. El rey David estaba en lo correcto cuando dijo: "Tu palabra es verdad desde el principio" (Salmo 119:160).  
+En resumen, al leer el versículo de 1:1 Génesis, encontramos más verdades profundas que las conjeturas superficiales de muchos científicos, filósofos y líderes religiosos. El rey David estaba en lo correcto cuando dijo: "Tu palabra es verdad desde el principio" (Salmo 119:160).  
   
 Gracias por leer el newsletter de esta semana. No olvide compartir el material con sus familiares y cercanos.
 

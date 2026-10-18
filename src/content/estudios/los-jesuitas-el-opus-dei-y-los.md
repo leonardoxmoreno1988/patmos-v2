@@ -9,7 +9,7 @@ description: "La Orden de los Jesuitas es una entidad encubierta, geopolítica y
 tags: ["Falsas Doctrinas"]
 ---
 
-La Orden de los **Jesuitas** es una entidad encubierta, geopolítica y exclusivamente masculina de casi 500 años de antigüedad, estructurada como una operación militar secreta: exigir **juramentos secretos** y obediencia completa a su superior directo, que es el Superior General (a menudo apodado como el **Papa Negro**, ya que se viste de negro y "vive en la sombra" del Papa blanco).  
+La Orden de los **Jesuitas** es una entidad encubierta, geopolítica y exclusivamente masculina de casi 500 años de antigüedad, estructurada como una operación militar secreta: exigir **juramentos secretos** y obediencia completa a su superior directo, que es el Superior General (a menudo apodado como el **Papa Negro**, ya que se viste de negro y "vive en la sombra" del Papa blanco).  
   
 
 [![papa Francisco con el papa negro y san Ignacio de Loyola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyIhho9JnW8SkagLPXk8NdjWUQr_PwnBGw0kWMEUTWEGqz7yJmuoU1r05Jteo_x85OX_EoqWeAxhwmng0qhqsrtDKDDBr8Ss9bLZGl3UBNpCerBq4uzoYXBOMsZ6z2ncs53HmUq8N6S1E/s1600/jesuitas-opusdai.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyIhho9JnW8SkagLPXk8NdjWUQr_PwnBGw0kWMEUTWEGqz7yJmuoU1r05Jteo_x85OX_EoqWeAxhwmng0qhqsrtDKDDBr8Ss9bLZGl3UBNpCerBq4uzoYXBOMsZ6z2ncs53HmUq8N6S1E/s1600/jesuitas-opusdai.jpg)
@@ -34,7 +34,7 @@ También es importante señalar que el Vaticano, controlado por los jesuitas, fu
 
   
 
--   Jefe de Estado y gabinete (la Santa Sede, que consiste en la monarquía Papal no hereditaria y la Curia). 
+-   Jefe de Estado y gabinete (la Santa Sede, que consiste en la monarquía Papal no hereditaria y la Curia). 
 -   Banco Central (Banco del Vaticano).
 -   Reglas de jurisdicción (Ley Canónica, Ley de Almirantazgo).
 -   Unos 147 acuerdos internacionales (diplomáticos
@@ -51,7 +51,7 @@ Además, tenga en cuenta que la Orden de los Jesuitas, el clero católico y much
   
 Dos de las más controvertidas de las muchas órdenes afiliadas con el Vaticano y los jesuitas son la Soberana Orden Militar de Malta y el Opus Dei.  
   
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 La Orden de Malta de la Orden Soberana Militar de Malta o Caballeros de Malta, es una orden religiosa laica católica, tradicionalmente de naturaleza militar, caballerosa y noble. Es la orden de caballería más antigua que existe en el mundo. La Soberana Orden Militar de Malta tiene su sede en Roma y es ampliamente considerada como un soberano de derecho internacional.  
   
@@ -78,8 +78,8 @@ La conspiración masónica jesuita del Vaticano se basa en la creencia de que mi
 -   Subversiones políticas
 -   Esclavitud económica
 -   Nutrición, cuidado de la salud y vivienda de mala calidad
--   La propaganda del gobierno (a través de la educación, los medios, ciencia y religión)
--   Supresión de soberanía, conciencia y espiritualidad.
+-   La propaganda del gobierno (a través de la educación, los medios, ciencia y religión)
+-   Supresión de soberanía, conciencia y espiritualidad.
 
   
 
@@ -129,14 +129,14 @@ De los que han acusado al Vaticano de ser infiltrados por Satanistas, ninguno ha
 Desde 1958 hasta 1964, Malachi Martin sirvió en Roma como sacerdote jesuita, donde fue un cercano colaborador de los Papas, y llevó a cabo muchas misiones sensibles para el renombrado cardenal jesuita Augustin Bea y los papas Juan XXIII y Pablo VI. Liberado después de sus votos de pobreza y obediencia a petición propia (pero aún siendo sacerdote), finalmente se mudó a Nueva York y se convirtió en un escritor de ficción y no ficción de gran éxito de ventas. Martin había hecho primero referencia explícita a un rito diabólico celebrado en Roma en su best-seller de no ficción de 1990 sobre geopolítica y el Vaticano, _Las llaves de esta sangre_, en el que escribió:  
   
 
-> **"Lo más aterrador para \[el Papa\] Juan Pablo \[II\], era que se había enfrentado a la presencia inamovible de un fuerza maligna en su propio Vaticano y en las cancillerías de ciertos obispos. Era lo que los hombres de la iglesia llamaron la "superfuerza". Los rumores, siempre difíciles de verificar, relacionaron su instalación con el comienzo del reinado del Papa Pablo VI en 1963. De hecho, Pablo había aludido sombríamente al "humo de Satanás que ha entrado en el Santuario"... una referencia oblicua a una ceremonia de entronización por Satanistas en el Vaticano. Además, la incidencia de la pedofilia satánica -ritos y prácticas- ya estaba documentada entre ciertos obispos y sacerdotes tan ampliamente dispersos como Turín, en Italia, y Carolina del Sur, en los Estados Unidos. Los profesionales consideran que los actos de culto de la pedofilia satánica son la culminación de los ritos del Arcángel Caído." (p.632. Énfasis añadido)**
+> **"Lo más aterrador para \[el Papa\] Juan Pablo \[II\], era que se había enfrentado a la presencia inamovible de un fuerza maligna en su propio Vaticano y en las cancillerías de ciertos obispos. Era lo que los hombres de la iglesia llamaron la "superfuerza". Los rumores, siempre difíciles de verificar, relacionaron su instalación con el comienzo del reinado del Papa Pablo VI en 1963. De hecho, Pablo había aludido sombríamente al "humo de Satanás que ha entrado en el Santuario"... una referencia oblicua a una ceremonia de entronización por Satanistas en el Vaticano. Además, la incidencia de la pedofilia satánica -ritos y prácticas- ya estaba documentada entre ciertos obispos y sacerdotes tan ampliamente dispersos como Turín, en Italia, y Carolina del Sur, en los Estados Unidos. Los profesionales consideran que los actos de culto de la pedofilia satánica son la culminación de los ritos del Arcángel Caído." (p.632. Énfasis añadido)**
 
   
 Estas acusaciones han pasado inadvertidas, posiblemente porque Martin era tan astuto en sus descripciones que incluso podría haberse referido a la coronación del Papa Pablo VI. Pero reveló mucho más acerca de este supuesto ritual en uno de sus últimos trabajos, _Windswept House: A Vatican Novel_ (1996).  
   
 En esta historia, describió vívidamente una ceremonia diabólica llamada "La Entronización del Arcángel Caído Lucifer" supuestamente celebrada en la Capilla de San Pablo dentro del Vaticano, pero vinculada con ritos satánicos concurrentes en los EE.UU. El 29 de junio de 1963, apenas una semana después de la elección de Pablo VI. En una parte de esta novela, antes de que muera, un Papa deja un relato secreto en su escritorio para el próximo ocupante del trono de San Pedro, ¿Un ligeramente Juan Pablo II disfrazado?  
   
-Según The New American, Martin confirmó que la ceremonia efectivamente ocurrió tal como lo había descrito. "Oh si, es verdad; mucho más ", dijo la revista. "Pero la única forma en que podría publicarlo es en una forma innovadora".  
+Según The New American, Martin confirmó que la ceremonia efectivamente ocurrió tal como lo había descrito. "Oh si, es verdad; mucho más ", dijo la revista. "Pero la única forma en que podría publicarlo es en una forma innovadora".  
   
 _Windswept House_ es una novela arrolladora, ambientada en el gran escenario global y el desarrollo de la próxima etapa de la civilización, el ominoso nombre del Nuevo Orden Mundial. Aborda la cabeza en una serie de cuestiones pesadas desde el aborto hasta el Tercer Secreto de Fátima, pero el mensaje esencial parece ser este: los Satanistas acechan en las sombras, desde el corazón del Vaticano hasta las parroquias locales, manipulando a los engañados por el falso espíritu del Vaticano. Están haciendo todo lo posible para subvertir la Iglesia Católica Romana, mientras que el Papa Juan Pablo II, dedicado a su final geopolítico del milenio, se mueve, esperando una señal de la Santísima Virgen mientras la Iglesia literalmente va al infierno a su alrededor.  
   
@@ -160,7 +160,7 @@ A continuación se presentan algunos extractos de un artículo de Martin titulad
 
 ¿Cree el Dr. Martin que esta entronización que tuvo lugar en su novela, podría describirse liberalmente como una clave romana? "Sí, lo creo", dice enfáticamente. "No hay sombra de duda en mi mente. Pero ahora el lugar, la hora, el minuto, etc. están todos ocultos para proteger a los culpables y salvar a los inocentes".  
   
-En el momento de su fallecimiento el 27 de julio de 1999, Martin estaba trabajando en lo que dijo que sería su libro más controvertido e importante. _Primacía: Cómo la Iglesia Católica Romana Institucional se convirtió en Criatura del Nuevo Orden Mundial_ trata con el poder y el papado. Este trabajo se hizo para analizar el cambio revolucionario que yace en el corazón de lo que muchos ven como la ruptura del poder papal. Sería un libro de predicciones sobre el Vaticano y el mundo en las primeras décadas del nuevo milenio. En el momento de su muerte, Malachi Martin nunca se retractó de ninguna de sus afirmaciones en Windswept House que estaba basada en un ritual satánico real en el Vaticano en los primeros días del reinado de Pablo VI, ni tampoco se retracto de que existe una conspiración satánica dentro de la Iglesia Católica.  
+En el momento de su fallecimiento el 27 de julio de 1999, Martin estaba trabajando en lo que dijo que sería su libro más controvertido e importante. _Primacía: Cómo la Iglesia Católica Romana Institucional se convirtió en Criatura del Nuevo Orden Mundial_ trata con el poder y el papado. Este trabajo se hizo para analizar el cambio revolucionario que yace en el corazón de lo que muchos ven como la ruptura del poder papal. Sería un libro de predicciones sobre el Vaticano y el mundo en las primeras décadas del nuevo milenio. En el momento de su muerte, Malachi Martin nunca se retractó de ninguna de sus afirmaciones en Windswept House que estaba basada en un ritual satánico real en el Vaticano en los primeros días del reinado de Pablo VI, ni tampoco se retracto de que existe una conspiración satánica dentro de la Iglesia Católica.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhOSoFHD4TIEYNuDA0IK1ECO8QhZHp9fUnE7l87ePVeX9v_WQ_Ue_AnHhWGLmUiNAPSRYQLSM1NyPqss-2Muta1KBrK3ebxnIx2zZq1CYrg59bmCttXUBoEJ3WuZ2AeVdZObeylcfWadQ/s1600/babilonias.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhOSoFHD4TIEYNuDA0IK1ECO8QhZHp9fUnE7l87ePVeX9v_WQ_Ue_AnHhWGLmUiNAPSRYQLSM1NyPqss-2Muta1KBrK3ebxnIx2zZq1CYrg59bmCttXUBoEJ3WuZ2AeVdZObeylcfWadQ/s1600/babilonias.jpg)
@@ -170,7 +170,7 @@ En el momento de su fallecimiento el 27 de julio de 1999, Martin estaba trabajan
   
 Otro autor preeminente, Alexander Hislop, fue autor de _Las Dos Babilonias_, que no tiene paralelo en términos de su erudición y naturaleza exhaustiva de investigación. Hislop hace referencia a manuscritos antiguos, artefactos, hallazgos arqueológicos y la Biblia misma para respaldar su gran tesis, que es simplemente esto: las enseñanzas de la Iglesia Católica Romana son un híbrido de creencias cristianas y paganas. Y estas creencias paganas encuentran su origen en la antigua Babilonia, de ahí el título del libro.  
   
-Esta es una tesis impactante, pero Hislop respalda sus afirmaciones con una beca impresionante, haciendo referencia literalmente a cientos de diferentes fuentes para corroborar lo que la mayoría de las personas consideraría escandaloso. Cualquier persona con una sólida formación en civilizaciones antiguas sabe que el oficio de los sacerdotes, el culto / adoración de la mujer encinta, el uso del "confesionario" y las oraciones para difuntos tienen su origen en la antigua Babilonia.  
+Esta es una tesis impactante, pero Hislop respalda sus afirmaciones con una beca impresionante, haciendo referencia literalmente a cientos de diferentes fuentes para corroborar lo que la mayoría de las personas consideraría escandaloso. Cualquier persona con una sólida formación en civilizaciones antiguas sabe que el oficio de los sacerdotes, el culto / adoración de la mujer encinta, el uso del "confesionario" y las oraciones para difuntos tienen su origen en la antigua Babilonia.  
   
 Hislop sostiene que los primeros "fundadores" del catolicismo fueron políticos muy astutos, y para ganarse el favor de las masas paganas que conquistaron, mezclaron las creencias cristianas con los ritos paganos. Semiramis se convirtió en "María", Tammuz se convirtió en el "bebé Jesús", el culto al dios Sol se convirtió en la "Eucaristía", etc. Con el tiempo, estas tradiciones se convirtieron en enseñanzas oficiales y luego dogmas sólidos dentro de la iglesia católica. Esto, explica Hislop, es la razón por la cual la eucaristía tiene la forma de un círculo (el Sol); por qué un obelisco pagano está en el centro del Vaticano; por qué los sacerdotes son supuestamente célibes. Es, de lejos, la mejor publicación sobre los orígenes antiguos de la religión, la mitología y la doctrina.  
   
@@ -200,8 +200,7 @@ Otros cultos del sacerdocio:
 
   
 
-##   
-Ingresa La Nobleza Negra
+## Ingresa La Nobleza Negra
 
 El Nuevo Orden Mundial es una conspiración mundial orquestada por un grupo extremadamente poderoso e influyente de individuos genéticamente relacionados (al menos en los niveles más altos) que incluyen a muchas de las personas más ricas, líderes políticos y elites corporativas del mundo, así como también miembros de la llamada Nobleza Negra de Europa, cuyo objetivo es crear un gobierno mundial (fascista), despojado de fronteras nacionalistas y regionales, que sea obediente a su agenda.  
   
@@ -238,7 +237,7 @@ El financiamiento de Nathan Rothschild a Gran Bretaña resultó en la derrota de
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9sc_neuCrMWxzmgSyBxzfGK-6GuAr45PVxhEIQqBffTlfuGBKSRoSIrmjpB7LVFdlpaZgBT2eBVYR3bODpvjIZlsxIyu7BeVi8k-9NHZxomvOdwLEAl7NBIG8fG-oNh3UuSKiF2LSZ5c/s1600/bernardo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9sc_neuCrMWxzmgSyBxzfGK-6GuAr45PVxhEIQqBffTlfuGBKSRoSIrmjpB7LVFdlpaZgBT2eBVYR3bODpvjIZlsxIyu7BeVi8k-9NHZxomvOdwLEAl7NBIG8fG-oNh3UuSKiF2LSZ5c/s1600/bernardo.jpg)
 
-**Príncipe Bernardo de Lippe-Biesterfeld** 
+**Príncipe Bernardo de Lippe-Biesterfeld** 
 
   
 El Príncipe Bernardo de los Países Bajos tiene el poder de vetar la elección del Vaticano de cualquier Papa que seleccione. Esto puede explicar el final prematuro del pontificado de 33 días del Papa Juan Pablo I. El Príncipe tiene poder de veto porque su familia, los Habsburgo, descienden directamente del último emperador romano. (El Habsburgo Federico III fue el último emperador coronado en Roma, su bisnieto Carlos V fue el último en ser coronado por un Papa). Este es el equivalente civil de la supuesta "sucesión apostólica" del Papa de San Pedro.  
@@ -247,7 +246,7 @@ El Príncipe Bernardo es uno de los líderes de la nobleza negra y también afir
   
 La Casa Real Naranja del Príncipe Bernhardo tuvo sus orígenes en Francia. Los Habsburgo se relacionan a través del matrimonio con los merovingios, que se dice que descendieron de la Tribu de Benjamín que se exilió después de la guerra con las otras once tribus. Esta línea comparte una similitud común con el israelismo británico.  
   
-El exilio los llevó a Arcadia en el Peloponeso central, Grecia. Aquí se alinearon con la línea real arcadiana y hacia el advenimiento de la era cristiana, emigraron hacia el Danubio y el Rin, a través del matrimonio que engendró a los francos de Sicambrian: los antepasados ​​inmediatos de los merovingios, que en última instancia eran de origen semítico y descendientes del rey Saúl.  
+El exilio los llevó a Arcadia en el Peloponeso central, Grecia. Aquí se alinearon con la línea real arcadiana y hacia el advenimiento de la era cristiana, emigraron hacia el Danubio y el Rin, a través del matrimonio que engendró a los francos de Sicambrian: los antepasados inmediatos de los merovingios, que en última instancia eran de origen semítico y descendientes del rey Saúl.  
   
 Se identifican con los espartanos, y ambos libros de Macabeos relacionan a los espartanos con los judíos. I Macabeos 12 cuenta que Jonatán envió una carta a los lacedemonios (griegos espartanos) pidiéndoles ayuda, ya que eran hermanos. Los espartanos respondieron:  
   

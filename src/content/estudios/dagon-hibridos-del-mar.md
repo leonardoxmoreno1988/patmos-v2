@@ -54,7 +54,7 @@ Los filisteos asumieron que esto fue un accidente y vuelven a levantar la imagen
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEjUMHhEtVDEcYXScY4_Qel0FVKBLfeKrTAGvvwuZh7gl45kxJZ15YPWVPwttQL16xP2wravqOdoQmDHQZeZXxjjCd7WMitOb_GnWSVrX9Ax3E2kFqLaUtHUIaHdb-JluY4U-5wa3g67WCrkNPYjZ2HPUuuQ_myNXF-0vIEO_AooWy509XX7ywLqPSCr=w640-h475)](https://blogger.googleusercontent.com/img/a/AVvXsEjUMHhEtVDEcYXScY4_Qel0FVKBLfeKrTAGvvwuZh7gl45kxJZ15YPWVPwttQL16xP2wravqOdoQmDHQZeZXxjjCd7WMitOb_GnWSVrX9Ax3E2kFqLaUtHUIaHdb-JluY4U-5wa3g67WCrkNPYjZ2HPUuuQ_myNXF-0vIEO_AooWy509XX7ywLqPSCr=s700)
 
-> "Y tornándose a levantar de mañana el día siguiente, he aquí que Dagón había caído postrado en tierra delante del arca de Jehová: y la cabeza de Dagón, y las dos palmas de sus manos estaban cortadas sobre el umbral de la puerta; solamente había quedado Dagón en él. Por esta causa los sacerdotes de Dagón, y todos los que entran en el templo de Dagón, no pisan el umbral de Dagón en Azoto hasta hoy." -1 de Samuel 5:4
+> "Y tornándose a levantar de mañana el día siguiente, he aquí que Dagón había caído postrado en tierra delante del arca de Jehová: y la cabeza de Dagón, y las dos palmas de sus manos estaban cortadas sobre el umbral de la puerta; solamente había quedado Dagón en él. Por esta causa los sacerdotes de Dagón, y todos los que entran en el templo de Dagón, no pisan el umbral de Dagón en Azoto hasta hoy." -1 Samuel 5:4
 
 Tras este evento Dios castiga a los pueblos filisteos hiriéndolos con tumores, haciendo que nadie quiera poseer el Arca de la Alianza. La solución final del pueblo enemigo, menciona la Biblia, fue devolver el arca a Israel y al Templo donde pertenecía, junto con una ofrenda.  
   

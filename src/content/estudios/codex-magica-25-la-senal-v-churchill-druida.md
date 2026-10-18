@@ -9,7 +9,7 @@ description: "\"Algo notable ocurrió con la mano levantada, y es que su sombra 
 tags: ["Sociedad"]
 ---
 
-> **"Algo notable ocurrió con la mano levantada, y es que su sombra se asemeja a la cabeza y los cuernos de la Cabra de Baphomet ... el símbolo de la magia negra."**  
+> **"Algo notable ocurrió con la mano levantada, y es que su sombra se asemeja a la cabeza y los cuernos de la Cabra de Baphomet ... el símbolo de la magia negra."**  
 
 > **\- El Libro Completo de la Brujería**
 
@@ -18,14 +18,13 @@ tags: ["Sociedad"]
   
 El legendario primer ministro británico de la Segunda Guerra Mundial, Sir Winston Churchill, hizo famosa la señal de "V". Era un estándar para el político mostrar el signo "V" cada vez que podía, y los fotógrafos de noticias capturaron cientos de fotografías de Churchill dando la señal. En general, se pensaba que al hacerlo, el belicoso Churchill estaba señalando confianza en la eventual victoria sobre el enemigo Nazi a través de este símbolo. Entonces, el signo de dos dedos apuntando hacia arriba en forma de una "V" fue universalmente aceptado como un signo de victoria.  
 
-##   
- Signo del Dios Cornudo, Pan
+##  Signo del Dios Cornudo, Pan
 
 Pero lo que la mayoría de la gente cree que es sabiduría convencional a menudo es un error. Tal es el caso aquí, porque este signo es en realidad de origen antiguo. Es, de hecho, un signo de Satanás, de maldición, del Dios cornudo, Pan y cosas peores.
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 La revista _Paranoia_, una publicación interesante que se autodenomina como "lectura de la conspiración", tenía una imagen de Churchill que mostraba la "V" años atrás. Un lector astuto conocedor de cosas oscuras escribió una carta al editor en el próximo número comentando sobre Churchill y su signo.  
   
@@ -49,10 +48,10 @@ Esta es la doctrina de sacar el orden del caos, de reconciliar los dos opuestos,
 
 ## La Cara En La Sombra
 
-_El Libro Completo de la Brujería_ **(3)** explica aún más el significado oculto. Cuando se da el signo para producir una sombra detrás, aparece una imagen diabólica que parece ser la cara del diablo. Brujas y magos, y algunos papas católicos, usaron esta imagen para provocar respuestas emocionales:  
+_El Libro Completo de la Brujería_ **(3)** explica aún más el significado oculto. Cuando se da el signo para producir una sombra detrás, aparece una imagen diabólica que parece ser la cara del diablo. Brujas y magos, y algunos papas católicos, usaron esta imagen para provocar respuestas emocionales:  
   
 
-> **"Había una creencia profundamente arraigada en la fascinación o el encanto de las sombras; para que la bruja, o mago, los use para producir enfermedad y muerte o para inspirar amor ... Se consideró que la sombra de los dedos del sacerdote (satánico) levantados en bendición tenían un significado maligno ...** 
+> **"Había una creencia profundamente arraigada en la fascinación o el encanto de las sombras; para que la bruja, o mago, los use para producir enfermedad y muerte o para inspirar amor ... Se consideró que la sombra de los dedos del sacerdote (satánico) levantados en bendición tenían un significado maligno ...** 
 
 > **Algo notable ocurría con la mano levantada, y es que su sombra se asemeja a la cabeza y los cuernos de la Cabra de Baphomet ... el símbolo de la magia negra. El uso de la "sombra de bendición" fue considerado como la prerrogativa legítima del Papa, y fue terriblemente ejercitado durante la Edad Oscura y en el tiempo de la Inquisición." (4)**
 
@@ -143,7 +142,7 @@ El joven Winston Churchill llega para su ceremonia de iniciación druida. ¿Le e
 
   
 
-El actual arzobispo de Canterbury cabeza formal de la iglesia de Inglaterra es también un sacerdote druida. El Dr. Roman Williams recibió el dudoso honor en Wales del Oeste en una celebración abierta. De acuerdo a los medios, Williams se arrodilló frente al druida principal, su superior pagano en medio de ramas de hojas de muérdago y roble. El arzobispo utilizó una bata blanca y unió sus manos al estilo druida. Enfundado y desenvainado, una espléndida espada de plata, exactamente de 6 pies, 6 pulgadas de largo y 6 pulgadas de ancho sobre el metal se ajusta perfectamente a la vaina, por lo tanto 666.  
+El actual arzobispo de Canterbury cabeza formal de la iglesia de Inglaterra es también un sacerdote druida. El Dr. Roman Williams recibió el dudoso honor en Wales del Oeste en una celebración abierta. De acuerdo a los medios, Williams se arrodilló frente al druida principal, su superior pagano en medio de ramas de hojas de muérdago y roble. El arzobispo utilizó una bata blanca y unió sus manos al estilo druida. Enfundado y desenvainado, una espléndida espada de plata, exactamente de 6 pies, 6 pulgadas de largo y 6 pulgadas de ancho sobre el metal se ajusta perfectamente a la vaina, por lo tanto 666.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiOslVsWtz6kWzey2-nJ1yeS_JwWZ0b6cOGq8AIibGrjFhD0ysvERMQfclLgOPXRbsNOnoPiKVKc-kRt-0Vpx1iGpFBgkK8qLCc4I_2VBbuQ_UjQ610WGTG0hCodmxUuSZtAyrAvYxnEI/s400/Captura+de+pantalla+2018-08-20+a+la%2528s%2529+16.08.16.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiOslVsWtz6kWzey2-nJ1yeS_JwWZ0b6cOGq8AIibGrjFhD0ysvERMQfclLgOPXRbsNOnoPiKVKc-kRt-0Vpx1iGpFBgkK8qLCc4I_2VBbuQ_UjQ610WGTG0hCodmxUuSZtAyrAvYxnEI/s1600/Captura+de+pantalla+2018-08-20+a+la%2528s%2529+16.08.16.png)
@@ -286,7 +285,7 @@ Dentro de las páginas de la revista no había ni una pizca de explicación sobr
 
   
 
-El presidente Franklin D. Roosevelt era un Masón de grado 32º y un cabalista, un cripto-judío. Como su árbol genealógico demuestra claramente, los antepasados ​​de Roosevelt vinieron de los Países Bajos y eran del linaje de sangre judía.  
+El presidente Franklin D. Roosevelt era un Masón de grado 32º y un cabalista, un cripto-judío. Como su árbol genealógico demuestra claramente, los antepasados de Roosevelt vinieron de los Países Bajos y eran del linaje de sangre judía.  
   
 Aquí, pescando en el Golfo de México frente a la costa de Texas en 1937, FDR señala la V del ocultismo cabalístico, usando, sin embargo, su pulgar.  
   
@@ -313,7 +312,7 @@ En esta imagen de grupo, vemos varias actrices que participaron en varios episod
 
   
 
-La actriz Jane Fonda, una actriz india, y Eve Ensler, productora de _Monólogos de la vagina_.  
+La actriz Jane Fonda, una actriz india, y Eve Ensler, productora de _Monólogos de la vagina_.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiZf4HbR7FY833ipw1luDwPUmzHvI4B1to5jViPWRmKNuYMypYKwO1Q3r5Lxz2J15mbEkrtC6_BMNwO5z6B30Xr33DcDS9VV_7bzxjD2uYGlRdUAAQWuWHDtfRYN7byD0KapRtbUAivWo/s1600/codex_123.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiZf4HbR7FY833ipw1luDwPUmzHvI4B1to5jViPWRmKNuYMypYKwO1Q3r5Lxz2J15mbEkrtC6_BMNwO5z6B30Xr33DcDS9VV_7bzxjD2uYGlRdUAAQWuWHDtfRYN7byD0KapRtbUAivWo/s1600/codex_123.jpg)

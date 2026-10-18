@@ -9,7 +9,7 @@ description: "¿Es la arquitectura iluminista nada menos que lugares de morada p
 tags: ["Sociedad"]
 ---
 
-¿Es la **arquitectura iluminista** nada menos que lugares de morada para los **demonios**? ¿Es un edificio arquitectónico iluminista u otro edificio, como sus arquitectos y constructores tan a menudo afirman, una inteligencia viva; es decir, una especie de entidad robótica, pero **mística**? En este artículo exploramos el tema de los **monumentos** del poder ocultistas, qué simbolizan y por qué la **astrología** es una parte esencial de su proceso de construcción.  
+¿Es la **arquitectura iluminista** nada menos que lugares de morada para los **demonios**? ¿Es un edificio arquitectónico iluminista u otro edificio, como sus arquitectos y constructores tan a menudo afirman, una inteligencia viva; es decir, una especie de entidad robótica, pero **mística**? En este artículo exploramos el tema de los **monumentos** del poder ocultistas, qué simbolizan y por qué la **astrología** es una parte esencial de su proceso de construcción.  
   
 
 [![signos zodiacales con demonio cabeza de cabra](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEm4rWZa-KvWS74orCWOeB0Cm2w82Mqq3kAmX-RpcZRKkhl4Zrb4Cili0orp9siSDmu8Mgeq26dVzaB3i5eZCBzv_dTTMTlwBWZUzvA2-EH6PSQT2KonKs0WgWvimltszWvxQU2uerbbQ/s1600/astrologia-illuminati.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEm4rWZa-KvWS74orCWOeB0Cm2w82Mqq3kAmX-RpcZRKkhl4Zrb4Cili0orp9siSDmu8Mgeq26dVzaB3i5eZCBzv_dTTMTlwBWZUzvA2-EH6PSQT2KonKs0WgWvimltszWvxQU2uerbbQ/s1600/astrologia-illuminati.jpg)
@@ -24,10 +24,10 @@ En tándem con esta deidad de la Serpiente, siempre encontramos a la Mujer, la d
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
   
-Desde el principio de los tiempos, el hombre ha venerado y prestado homenaje al sol, a la luna, a las estrellas y a otros objetos celestiales y a las deidades que representan estos objetos celestiales. La Biblia llama a las entidades que estos seres extraterrestres representan, "huestes del cielo" y advierte contra la vanidad de adorarlos (Deuteronomio 4: 13-20). Génesis, capítulo 6, revela que estas entidades no son dioses, sino que son seres creados, los "hijos de Dios", y fueron una vez venerados como "Hombres Poderosos" y como "Gigantes" (**[Nefilim](http://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html)**).  
+Desde el principio de los tiempos, el hombre ha venerado y prestado homenaje al sol, a la luna, a las estrellas y a otros objetos celestiales y a las deidades que representan estos objetos celestiales. La Biblia llama a las entidades que estos seres extraterrestres representan, "huestes del cielo" y advierte contra la vanidad de adorarlos (Deuteronomio 4:13-20). Génesis, capítulo 6, revela que estas entidades no son dioses, sino que son seres creados, los "hijos de Dios", y fueron una vez venerados como "Hombres Poderosos" y como "Gigantes" (**[Nefilim](http://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html)**).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhygkn4cCRyDmmOu5zqgoR6nzid9iP0xeBee7m82HbKPjnuxFSJQU8dOuHa2_IhZipPGc3rotvRzJp__5xML6G1LveQdulbrzT1XWqY0xZiOy8uTl-hJvDDgwpn2Fhxf_8iudAYx5J20is/s1600/firmamento-cielo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhygkn4cCRyDmmOu5zqgoR6nzid9iP0xeBee7m82HbKPjnuxFSJQU8dOuHa2_IhZipPGc3rotvRzJp__5xML6G1LveQdulbrzT1XWqY0xZiOy8uTl-hJvDDgwpn2Fhxf_8iudAYx5J20is/s1600/firmamento-cielo.jpg)
@@ -39,7 +39,7 @@ Los babilonios y los caldeos fueron los primeros en sistematizar la adoración d
 Más tarde, como testificó el profeta Ezequiel (Ezequiel 8 y 9), los Sabios de Sión cayeron en la trampa satánica de crear imágenes e ídolos en los cielos y adorar a las huestes del cielo. Es más, los ancianos realizaban secretamente ritos horribles:  
   
 
-> **"Entonces me dijo: «Entra y verás las cosas tan horribles que hacen allí.» Entré y, a todo lo largo del muro, vi pintadas toda clase de figuras de reptiles y de otros animales impuros, y toda clase de ídolos del pueblo de Israel. Setenta ancianos israelitas, entre los que se encontraba Jaazanías, hijo de Safán, rendían culto a esos ídolos. Cada uno tenía un incensario en la mano, del cual subía una espesa nube de incienso.Y me dijo: «¿Ves lo que hacen en secreto los ancianos israelitas, cada uno en el nicho de su ídolo? Piensan que yo no los veo, que he abandonado el país.» Y añadió: «Todavía los verás hacer cosas peores.»Y me llevó a la puerta de entrada del templo del Señor, que da hacia el norte. Allí estaban sentadas unas mujeres, llorando por el dios Tamuz. Entonces me dijo: «¿Ves esto? Pues todavía verás cosas peores.»Entonces me llevó al atrio interior del templo del Señor y, a la entrada del santuario, entre el vestíbulo y el altar, unos veinticinco hombres estaban de espaldas al santuario; inclinados hacia el oriente, y con la frente en el suelo, adoraban al sol.\- Ezequiel 8: 9-12, 16,17**
+> **"Entonces me dijo: «Entra y verás las cosas tan horribles que hacen allí.» Entré y, a todo lo largo del muro, vi pintadas toda clase de figuras de reptiles y de otros animales impuros, y toda clase de ídolos del pueblo de Israel. Setenta ancianos israelitas, entre los que se encontraba Jaazanías, hijo de Safán, rendían culto a esos ídolos. Cada uno tenía un incensario en la mano, del cual subía una espesa nube de incienso.Y me dijo: «¿Ves lo que hacen en secreto los ancianos israelitas, cada uno en el nicho de su ídolo? Piensan que yo no los veo, que he abandonado el país.» Y añadió: «Todavía los verás hacer cosas peores.»Y me llevó a la puerta de entrada del templo del Señor, que da hacia el norte. Allí estaban sentadas unas mujeres, llorando por el dios Tamuz. Entonces me dijo: «¿Ves esto? Pues todavía verás cosas peores.»Entonces me llevó al atrio interior del templo del Señor y, a la entrada del santuario, entre el vestíbulo y el altar, unos veinticinco hombres estaban de espaldas al santuario; inclinados hacia el oriente, y con la frente en el suelo, adoraban al sol.\- Ezequiel 8:9-12, 16,17**
 
   
 Dr. J.H. Hertz, en el Pentateuco y Haftorahs, explica el énfasis puesto en el culto del sol, la luna, las estrellas y otros objetos celestiales por los antiguos:  
@@ -71,15 +71,15 @@ Ellos respiran, piensan, planean, influyen en la conducta del hombre y guían lo
 
 Luego, el candidato presidencial George Herbert Walker Bush demostró cuán arraigada está esta antigua doctrina hermética en las mentes de la élite Illuminati de hoy cuando pronunció su discurso de apertura en la convención nacional del Partido Republicano, el 18 de agosto de 1988:
 
-> **"Tenemos una nueva relación con la Unión Soviética (...) Sucedió cuando hablábamos sobre el 'conocimiento antiguo' donde la fuerza y ​​la claridad conducen a la paz. Una elección que trata de ideas y valores es también acerca de la filosofía. Y yo tengo una. En el brillante centro está el individuo. Y radiando de él o ella... una diversidad brillante se extiende como estrellas, como mil puntos de luz... la propiedad tiene un propósito. Está para permitirnos perseguir a "los mejores ángeles", para darnos tiempo para pensar y crecer... por un sueño duradero sin fin y mil puntos de luz... esa es mi misión. Y la completaré."**
+> **"Tenemos una nueva relación con la Unión Soviética (...) Sucedió cuando hablábamos sobre el 'conocimiento antiguo' donde la fuerza y la claridad conducen a la paz. Una elección que trata de ideas y valores es también acerca de la filosofía. Y yo tengo una. En el brillante centro está el individuo. Y radiando de él o ella... una diversidad brillante se extiende como estrellas, como mil puntos de luz... la propiedad tiene un propósito. Está para permitirnos perseguir a "los mejores ángeles", para darnos tiempo para pensar y crecer... por un sueño duradero sin fin y mil puntos de luz... esa es mi misión. Y la completaré."**
 
-Note el uso cuidadosamente elaborado de palabras claves y frases ocultas de Bush: "conocimiento antiguo", "filosofía"... "centro brillante"... "una diversidad brillante extendida como estrellas"... "un sueño duradero"... "mi misión". 
+Note el uso cuidadosamente elaborado de palabras claves y frases ocultas de Bush: "conocimiento antiguo", "filosofía"... "centro brillante"... "una diversidad brillante extendida como estrellas"... "un sueño duradero"... "mi misión". 
 
   
 
 Ahora, considere esta cita hecha por la autoridad masónica W.L. Wilmshurst, encontrada en su aclamado texto esotérico, _The Meaning of Masonry_:
 
-> **"El Maestro Masón (es) un hombre divinizado... el conocimiento de este hecho fueron los antiguos sabios... las potencialidades ocultas... la ciencia esotérica. Ese hombre irradia de sí mismo un ambiente etéreo que es atestiguado por aureolas mostradas en obras de arte sobre personas de carácter santo... ellas "brillan como las estrellas".** 
+> **"El Maestro Masón (es) un hombre divinizado... el conocimiento de este hecho fueron los antiguos sabios... las potencialidades ocultas... la ciencia esotérica. Ese hombre irradia de sí mismo un ambiente etéreo que es atestiguado por aureolas mostradas en obras de arte sobre personas de carácter santo... ellas "brillan como las estrellas".** 
 
 > **Sobre el sistema cósmico preside el Gran Arquitecto y el Gran Gran Misericordioso de todos, cuyos oficiales son ángeles santos... Dios no está fuera sino dentro... Es la Luz inextinguible de un Maestro Masón que, siendo inmortal y eterno, sigue brillando cuando todo lo temporal y lo mortal ha desaparecido... "**
 
@@ -101,8 +101,7 @@ Y así, los líderes de las dos naciones más poderosas del mundo, las superpote
 
 Tal vez sería bueno que los hombres que residen en la Casa Blanca y en el Kremlin consideren esa famosa línea en el drama de Shakespeare, César: "La culpa, querido Bruto, no está en las estrellas, sino en nosotros mismos".
 
-##   
-¿Por Qué Consultar Los Cielos?
+## ¿Por Qué Consultar Los Cielos?
 
 Utilizando los principios de la astronomía, que miden la latitud y la longitud basándose en los movimientos del sol y los tránsitos de las estrellas y los planetas, los arquitectos iluministas ubican sus proyectos de construcción según las "influencias" de las estrellas celestiales. Como un solo ejemplo, el ocultista masónico Robert Lomas afirma:  
 
@@ -118,8 +117,7 @@ La astrología, que es una forma de adivinación que se basa en la ciencia real 
 
 La clave de los misterios de la Francmasonería es la adoración del Sol como Dios, bajo una variedad de personificaciones, en todos sus tránsitos zodiacales, en la personificación del año; de las estaciones, de los meses, del tiempo en general y de todas las divisiones del tiempo, y como fuente de todos los fenómenos físicos y morales. El edificio masónico del templo de Salomón es la obtención de un conocimiento del globo celeste, conociendo los misterios de todas las figuras y agrupaciones de estrellas en ese globo; saber, más allá; que este globo es el fundamento de toda religión, sabiendo calcular la precesión de los equinoccios, el retorno de los cometas y los eclipses, y todos los movimientos planetarios y las relaciones astronómicas del tiempo.
 
-##   
-Principios De Geomancia
+## Principios De Geomancia
 
 La llamada ciencia de la geomancia también está conectada con el alineamiento estacional de las constelaciones y los movimientos y tránsitos de estrellas y otros objetos celestiales. La geomancia es la teoría de que la superficie de la tierra tiene ciertas "líneas de ley" especificadas o "puntos de poder" de energía. Se cree que un edificio, monumento, templo o hábitat en o cerca de estos puntos de poder proporciona un poder sobrenatural o una obra milagrosa para los seres humanos que habitan o visitan estas estructuras. Algunos creen que la alineación de estructuras en el suelo con el surgimiento y el establecimiento de objetos astrales suministra este poder geomántico.
 
@@ -138,8 +136,7 @@ No hay duda de que el arquitecto Pierre L'Enfant, George Washington y Thomas Jef
   
 El ser astrológicamente auspicioso también se buscaba para la colocación de piedras angulares de edificios gubernamentales importantes. La **[numerología](http://www.ritualypropaganda.com/2017/08/numerologia-ocultista-de-la-elite.html)** y la simbología religiosa pagana de "misterio" también desempeñaron un papel importante en la planificación y el diseño de la "Nueva Roma" de América.
 
-##   
-Correspondencia Cósmica, Otra Clave
+## Correspondencia Cósmica, Otra Clave
 
 El principio de los antiguos misterios, en cualquier ciudad, provincia o nación que se practicaban, era el de la correspondencia. Este es el concepto hermético, o la enseñanza, de "como es arriba, es abajo", sosteniendo, entre otras cosas, que el hombre, el planeta tierra y los cielos son espejo de lo demás. Es decir, el microcosmos y el macrocosmos son cósmicamente idénticos; ellos corresponden.
 
@@ -163,7 +160,7 @@ En la Francmasonería, por supuesto, encontramos **[el águila de dos cabezas](h
 
   
 
-David Bjelajac, un estudioso de la historia americana temprana en la universidad de George Washington, examinó la veneración de la astrología y de las estrellas en su libro sobre la obra del pintor del siglo XVIII, Washington Allston. Bjelajac escribe sobre las fuertes influencias masónicas de la cultura estadounidense que se reflejaron tan poderosamente en el arte popular de esa época. La alquimia del magnum opus parecía estar en la mente de nuestros antepasados ​​revolucionarios, dice Bjelajac, y esto se reflejaba en las pinturas, esculturas y arquitectura que nos dieron como legado:
+David Bjelajac, un estudioso de la historia americana temprana en la universidad de George Washington, examinó la veneración de la astrología y de las estrellas en su libro sobre la obra del pintor del siglo XVIII, Washington Allston. Bjelajac escribe sobre las fuertes influencias masónicas de la cultura estadounidense que se reflejaron tan poderosamente en el arte popular de esa época. La alquimia del magnum opus parecía estar en la mente de nuestros antepasados revolucionarios, dice Bjelajac, y esto se reflejaba en las pinturas, esculturas y arquitectura que nos dieron como legado:
 
   
 
@@ -171,7 +168,7 @@ David Bjelajac, un estudioso de la historia americana temprana en la universidad
 
   
 
-La arquitectura es la clave de la adoración iluminista de Satanás y su anfitrión celestial, lo que encontramos es que en toda la tierra, los edificios y monumentos están alineados con las estrellas, el sol y la luna y los movimientos de las esferas planetarias. Lo mejor para reflejar la doctrina hermética de "como es arriba es abajo". La arquitectura que se crea así se convierte en ídolos de adoración, entidades de piedra y mármol que representan divinidades celestiales que se cree que realmente existen y que piensan, actúan y pueden recompensar a los discípulos aquí en la tierra.
+La arquitectura es la clave de la adoración iluminista de Satanás y su anfitrión celestial, lo que encontramos es que en toda la tierra, los edificios y monumentos están alineados con las estrellas, el sol y la luna y los movimientos de las esferas planetarias. Lo mejor para reflejar la doctrina hermética de "como es arriba es abajo". La arquitectura que se crea así se convierte en ídolos de adoración, entidades de piedra y mármol que representan divinidades celestiales que se cree que realmente existen y que piensan, actúan y pueden recompensar a los discípulos aquí en la tierra.
 
   
 
@@ -325,7 +322,7 @@ En su libro, _Cuando la humanidad llega a la edad_, la ocultista británica y ma
   
 
   
-Podría ser que los 15 millones de la religión del mormonismo, también conocida como la Iglesia de Jesucristo de los Santos de los Últimos Días (o SUD), guiarán el camino en este gran avivamiento de los misterios y la adoración politeísta de los planetas y las estrellas. Jesús, los mormones enseñan, vino del planeta Kolob. Ellos proclaman que Dios es solamente Dios de este planeta temporal de la tierra, y existen innumerables dioses (como los hombres illuminati que ganan su estatus de deidad) en otra parte en el espacio exterior. Los eruditos mormones admiten que Joseph Smith, fundador de los SUD, llevó consigo un amuleto del dios estrella Júpiter, destinado a traerle buena suerte. Mientras tanto, el Tabernáculo Mormón en Salt Lake City, Utah, tiene un enorme suelo de mosaico en el diseño de la estrella de pentagrama, y ​​encima de su cúpula hacia el cielo se encuentra una estatua de un ángel celestial llamado "Moroni".
+Podría ser que los 15 millones de la religión del mormonismo, también conocida como la Iglesia de Jesucristo de los Santos de los Últimos Días (o SUD), guiarán el camino en este gran avivamiento de los misterios y la adoración politeísta de los planetas y las estrellas. Jesús, los mormones enseñan, vino del planeta Kolob. Ellos proclaman que Dios es solamente Dios de este planeta temporal de la tierra, y existen innumerables dioses (como los hombres illuminati que ganan su estatus de deidad) en otra parte en el espacio exterior. Los eruditos mormones admiten que Joseph Smith, fundador de los SUD, llevó consigo un amuleto del dios estrella Júpiter, destinado a traerle buena suerte. Mientras tanto, el Tabernáculo Mormón en Salt Lake City, Utah, tiene un enorme suelo de mosaico en el diseño de la estrella de pentagrama, y encima de su cúpula hacia el cielo se encuentra una estatua de un ángel celestial llamado "Moroni".
 
   
 
@@ -349,8 +346,7 @@ Estas presencias invisibles, pero reales, sostiene DuQuette, son los constructor
 
 Los nuevos agentes de hoy afirman que estos trabajadores cósmicos están en todas partes ayudando a los discípulos humanos en la construcción de un paraíso en la tierra, un **[Nuevo Orden Mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)** de paz, amor y armonía. A menudo son honrados y llamados a usar los nombres de los planetas, las estrellas, y los antiguos dioses y diosas que representan estos planetas celestiales. Puede sorprender a muchos lectores de este libro descubrir que millones de estadounidenses literalmente meditan en los nombres de estas entidades astrológicas, oran a ellos y ofrecen incienso en sus nombres. Las estanterías de las librerías New Age están llenas de libros que instruyen a los lectores sobre cómo presentar peticiones a deidades tales como Atenea, Hércules, Orión, Marte, Zeus, Draco, Diana, Sofía, Astera, Ra, Ashtar, Thoth, Set, Kali, Amaterasu, Apolo , Juno o Poseidón.Desde una perspectiva bíblica estos son conocidos como espíritus familiares y deben ser evitados.
 
-##   
-El Veredicto Bíblico
+## El Veredicto Bíblico
 
   
 
@@ -369,9 +365,9 @@ Aquí hay un gran peligro hoy debido al énfasis en "guías espirituales" y "án
 
 Mateo 25:41 dice:  
 
-> **"Entonces dirá también a los de la mano izquierda: Apartaos de mí, malditos, al fuego eterno, preparado para el diablo y sus ángeles".** 
+> **"Entonces dirá también a los de la mano izquierda: Apartaos de mí, malditos, al fuego eterno, preparado para el diablo y sus ángeles".** 
 
-Apocalipsis 12: 7-9 dice:  
+Apocalipsis 12:7-9 dice:  
 
 > **"Y hubo guerra en el cielo: Miguel y sus ángeles pelearon contra el dragón, y el dragón se regocijó y sus ángeles, y no prevaleció, ni su lugar se encontró más en el cielo. El dragón fue echado fuera, esa vieja serpiente, llamada el diablo, y Satanás, que engaña a todo el mundo: fue arrojado a la tierra, y sus ángeles fueron arrojados con él."**
 
@@ -379,7 +375,7 @@ El énfasis ahora en el reino "religioso" está en los ángeles. La gente está 
 
   
 
-El Salmo 91: 9-12 dice:  
+El Salmo 91:9-12 dice:  
   
 
 > "PORQUE HAS PUESTO A JEHOVÁ, QUE ES MI ESPERANZA, AL ALTÍSIMO POR TU HABITACIÓN, NO TE SOBREVENDRÁ MAL, NI PLAGA TOCARÁ TU MORADA. PUES A SUS ÁNGELES MANDARÁ ACERCA DE TI, QUE TE GUARDEN EN TODOS TUS CAMINOS.EN LAS MANOS TE LLEVARÁN, PARA QUE TU PIE NO TROPIECE EN PIEDRA."
@@ -390,7 +386,7 @@ La gente se está refiriendo a estos "guías espirituales" que se acercan a ello
 
   
 
-2 Corintios 11: 13-15 dice: 
+2 Corintios 11:13-15 dice: 
 
 > **"Porque has puesto a Jehová, que es mi esperanza, al Altísimo por tu habitación, no te sobrevendrá mal, ni plaga tocará tu morada. Pues a sus ángeles mandará acerca de ti, que te guarden en todos tus caminos.En las manos te llevarán, para que tu pie no tropiece en piedra."**
 

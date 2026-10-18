@@ -9,7 +9,7 @@ description: "La película \"Laberinto\" de 1986, protagonizada por David Bowie 
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -40,7 +40,7 @@ Muy poco conocimiento previo se requiere para entender el significado subyacente
 
   
 
-Desde que Laberinto es un modelo para el control de la mente, es lógico que la estrella del show sea un artista que ha servido como modelo a estrellas del pop moderno: David Bowie. A lo largo de su carrera larga y ecléctica, Bowie se ha referido a lo oculto y muchos temas rituales que hoy son un refrito hecho por la industria y las estrellas del pop. Y, por alguna razón, muchos de los que tocan estos temas ocultos también integran el control de la mente en sus obras. Tal vez es debido al hecho de que el control de la mente depende en gran medida de los rituales de magia negra y enseñanzas cabalísticas. Por lo tanto, antes de ver el simbolismo de la película, vamos a echar un breve vistazo a algunos de los símbolos utilizados por David Bowie.
+Desde que Laberinto es un modelo para el control de la mente, es lógico que la estrella del show sea un artista que ha servido como modelo a estrellas del pop moderno: David Bowie. A lo largo de su carrera larga y ecléctica, Bowie se ha referido a lo oculto y muchos temas rituales que hoy son un refrito hecho por la industria y las estrellas del pop. Y, por alguna razón, muchos de los que tocan estos temas ocultos también integran el control de la mente en sus obras. Tal vez es debido al hecho de que el control de la mente depende en gran medida de los rituales de magia negra y enseñanzas cabalísticas. Por lo tanto, antes de ver el simbolismo de la película, vamos a echar un breve vistazo a algunos de los símbolos utilizados por David Bowie.
 
   
 
@@ -68,7 +68,7 @@ Dibujando el Árbol Cabalístico de la Vida
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOFPh6t2Yy1W2G3HMM8MOzsWVFx9I58-DEFdTqAwXFXs4_uZhNY8vnl7igaLQzEwazqaAnlr30MfYePdbYaMf5hTtCgTPYi6ssT4BoQu4lEyvybKYCY6BeUz-VBXoQZVVsUIuFsUVnePSQ/s1600/bowie.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOFPh6t2Yy1W2G3HMM8MOzsWVFx9I58-DEFdTqAwXFXs4_uZhNY8vnl7igaLQzEwazqaAnlr30MfYePdbYaMf5hTtCgTPYi6ssT4BoQu4lEyvybKYCY6BeUz-VBXoQZVVsUIuFsUVnePSQ/s1600/bowie.jpg)
 
-**Bowie vestido con ropajes de Egipto (como solía hacer Crowley) y mostrando** 
+**Bowie vestido con ropajes de Egipto (como solía hacer Crowley) y mostrando** 
 
 **el signo de la mano "como es arriba es abajo"**
 
@@ -106,7 +106,7 @@ Algunos críticos no aprecian la naturaleza aleatoria de los acontecimientos de 
 
   
 
-La búsqueda de Sara por su hermano menor es, de hecho, una búsqueda para recuperar a su personalidad central (su "real" yo), que fue tomada por el controlador. Los diversos eventos que le ocurren a Sarah distorsionan los reflejos del trauma real del control de la mente - escondido detrás de un velo de fantasía e imaginación.
+La búsqueda de Sara por su hermano menor es, de hecho, una búsqueda para recuperar a su personalidad central (su "real" yo), que fue tomada por el controlador. Los diversos eventos que le ocurren a Sarah distorsionan los reflejos del trauma real del control de la mente - escondido detrás de un velo de fantasía e imaginación.
 
   
 
@@ -153,7 +153,7 @@ En la casa de Sarah, encontramos varias pistas relacionadas con su predisposici�
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIRmMoVFRLmgLK7rA5rviPHUU7R4B204l0DbrPDrCNlbnU_PHg7K-4hZdY5e-7eH4WK4-EoWGkQH1DfTEOr2zNqK2_1cbAkeCqkgQ4ivGVmoYfF2-ADts7jardJHS_D9BhaIrV1lDdsYXk/s1600/laby2221-e1321296238442.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIRmMoVFRLmgLK7rA5rviPHUU7R4B204l0DbrPDrCNlbnU_PHg7K-4hZdY5e-7eH4WK4-EoWGkQH1DfTEOr2zNqK2_1cbAkeCqkgQ4ivGVmoYfF2-ADts7jardJHS_D9BhaIrV1lDdsYXk/s1600/laby2221-e1321296238442.jpg)
 
-**Entre las cosas de Sarah nos encontramos con una versión de juguete del laberinto  repleto de obeliscos al que está a punto de entrar y los libros de Mago de Oz y Alicia en el País de las Maravillas. Ambos de estos cuentos de hadas se utilizan para alentar a las víctimas a disociarse de la realidad. Laberinto no es diferente y es, probablemente, utilizados en la programación actual de control mental.**
+**Entre las cosas de Sarah nos encontramos con una versión de juguete del laberinto  repleto de obeliscos al que está a punto de entrar y los libros de Mago de Oz y Alicia en el País de las Maravillas. Ambos de estos cuentos de hadas se utilizan para alentar a las víctimas a disociarse de la realidad. Laberinto no es diferente y es, probablemente, utilizados en la programación actual de control mental.**
 
   
   

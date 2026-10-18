@@ -9,7 +9,7 @@ description: "O.T.O. fue más conocida gracias a los escritos de Aleister Crowle
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -47,7 +47,7 @@ Jay-Z ha estado usando símbolos de O.T.O. en su línea de ropa, Rocawear, utili
 
 El profeta Crowley, fue conocido, él nació en una adinerada familia de la iglesia en 1875. Se llamaba a sí mismo como “la Gran Bestia 666”. Pero tras su muerte en 1947, fue llamado “el hombre más perverso del mundo”. Su lema “Haz lo que quieras”, es muy similar a la frase de Anton LaVey, autor de la Biblia Satánica en 1969.
 
-   
+   
 Si la mayoría de las personas dicen que nunca han oído hablar de O.T.O., esto es precisamente uno de los objetivos de la secta, que prefiere estar restringida. Muchos de sus símbolos y la terminología son similares a los utilizados por la masonería.  
   
 El líder del grupo en el Reino Unido es John Bonner (62 años). Él le dijo al Daily Mail que O.T.O. no quería tener un atractivo popular. Pero dijo que: “En el Reino Unido tenemos cientos. En el mundo, miles de personas”.  

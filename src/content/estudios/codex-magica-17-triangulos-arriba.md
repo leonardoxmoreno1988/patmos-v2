@@ -9,7 +9,7 @@ description: "En todas partes donde uno voltee el triángulo se ve. En la televi
 tags: ["Sociedad"]
 ---
 
-En todas partes donde uno voltee el **triángulo** se ve. En la televisión, en el arte, la arquitectura, el diseño de productos, la publicidad, los envases comerciales, y en la **religió**n es omnipresente. Estoy convencido de que este dispositivo simple, pero profundo, el triángulo, de alguna manera tiene un efecto místico, hipnotizante en la mente de los hombres. La interminable ventisca de **diseños triangulares** que encontramos diariamente está destinada a inducir un estado de trance en aquellos que son bombardeados día y noche por ella.  
+En todas partes donde uno voltee el **triángulo** se ve. En la televisión, en el arte, la arquitectura, el diseño de productos, la publicidad, los envases comerciales, y en la **religió**n es omnipresente. Estoy convencido de que este dispositivo simple, pero profundo, el triángulo, de alguna manera tiene un efecto místico, hipnotizante en la mente de los hombres. La interminable ventisca de **diseños triangulares** que encontramos diariamente está destinada a inducir un estado de trance en aquellos que son bombardeados día y noche por ella.  
   
 
 [![bush y anuncio ruso haciendo la forma de triángulo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj39BzGNZZpdwdXC79tzSDY1sazwAAhH0g7ucmK5mXp9ZiuxvvP4uJs1xCvq8cYK-IOALQyGuPGJT9KrFHlJQp6y_sxem0v43nYOPfRczuGwtodyl93yVg7G5S9Va2GdPIFsY4B1pCism4/s1600/triangulos.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj39BzGNZZpdwdXC79tzSDY1sazwAAhH0g7ucmK5mXp9ZiuxvvP4uJs1xCvq8cYK-IOALQyGuPGJT9KrFHlJQp6y_sxem0v43nYOPfRczuGwtodyl93yVg7G5S9Va2GdPIFsY4B1pCism4/s1600/triangulos.jpg)
@@ -22,7 +22,7 @@ En todas partes donde uno voltee el **triángulo** se ve. En la televisión, e
 Para una respuesta del por qué el triángulo puede ser el símbolo satánico final para los iluministas, retrocedemos en el tiempo para descubrir sus orígenes. Un libro sobre la historia de las matemáticas llamado Early Computations nos dice que:  
   
 
-> **"Una tableta babilónica data de 1900 aC a 1600 aC y se llama 'Plimpton 322' trata de trillizos pitagóricos".**
+> **"Una tableta babilónica data de 1900 a. C. a 1600 a. C. y se llama 'Plimpton 322' trata de trillizos pitagóricos".**
 
   
 Este antiguo documento detallaba un conocimiento elemental de los triángulos y las proporciones.  
@@ -34,7 +34,7 @@ Barbara Walker, en su Enciclopedia de la Mujer de los mitos y secretos, describe
   
 En Egipto, el triángulo era un signo jeroglífico para "mujer". En la antigua Grecia, la intención sexual es clara en que el triángulo representaba la Puerta Santa, los genitales del _Deméter All-Mother_, conocido como "Madre Delta". **(1)**
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 "El triángulo estaba en todas partes conectado con la trinidad femenina, y un componente frecuente de los monogramas de las Diosas", escribe Walker. **(2)**
@@ -47,7 +47,7 @@ Para los ocultistas, el triángulo que apunta hacia arriba representa el fuego y
 
 ## Los Triángulos del Papa
 
-El **[Vaticano](http://www.ritualypropaganda.com/2017/05/el-origen-del-nombre-vaticano-y-vatika.html)** también entró en el acto triangular. En algunas iglesias católicas romanas hoy, detrás del altar encontramos el ojo que todo lo ve dentro de un triángulo. 
+El **[Vaticano](http://www.ritualypropaganda.com/2017/05/el-origen-del-nombre-vaticano-y-vatika.html)** también entró en el acto triangular. En algunas iglesias católicas romanas hoy, detrás del altar encontramos el ojo que todo lo ve dentro de un triángulo. 
 
   
 
@@ -108,7 +108,7 @@ Puede sorprender a los machistas, pero la Diosa, consorte de Lucifer, la figura 
 
   
 
-Así que muchos sacerdotes son ahora expulsados ​​como homosexuales y pedófilos, esta notable publicación católica, _The Catholic World Report_ dedicó una edición especial al tema. Los editores de esta portada de la edición de enero de 1997, califican el problema de "Rebelión".  
+Así que muchos sacerdotes son ahora expulsados como homosexuales y pedófilos, esta notable publicación católica, _The Catholic World Report_ dedicó una edición especial al tema. Los editores de esta portada de la edición de enero de 1997, califican el problema de "Rebelión".  
   
 El sonriente prelado católico tiene un triángulo rosado en la cruz, símbolo de su caperuza (en forma de triángulo) y las manos del obispo se fijan como un triángulo hacia abajo (femenino, posición delta).  
   
@@ -319,7 +319,7 @@ Panel publicitario en Rusia. La posición de la mano (triangular) refuerza el lo
 
   
 
-Esta foto reveladora de la tres estrellas de la Fuerza Aérea General de EE.UU. Claudia Kennedy fue dirigida tanto en la portada de la revista de circulación masiva y en Newsweek (26 de junio de 2000, p.23). Evidentemente, la élite quería que el mensaje fuera a sus sirvientes mediante  esta foto. Nótese, en particular, la señal de mano del General, la espalda apoyada contra una pared, una sombra intencional grabada detrás, sus dos pies en su lugar, su posición en medio de dos arbustos siempre verdes y el aparentemente extraño hecho de que tiene los ojos cerrados.  
+Esta foto reveladora de la tres estrellas de la Fuerza Aérea General de EE.UU. Claudia Kennedy fue dirigida tanto en la portada de la revista de circulación masiva y en Newsweek (26 de junio de 2000, p.23). Evidentemente, la élite quería que el mensaje fuera a sus sirvientes mediante  esta foto. Nótese, en particular, la señal de mano del General, la espalda apoyada contra una pared, una sombra intencional grabada detrás, sus dos pies en su lugar, su posición en medio de dos arbustos siempre verdes y el aparentemente extraño hecho de que tiene los ojos cerrados.  
   
 En general, una imagen muy poco halagadora, pero que transmite mucha información. En ese momento (2000), la General Kennedy, una agente de inteligencia que se retiraba del servicio militar, era promocionado como un posible candidato presidencial. ¿Los llluminati eligieron otras opciones de carrera para la dama?  
   

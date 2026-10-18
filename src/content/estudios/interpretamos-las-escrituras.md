@@ -14,7 +14,7 @@ Estimado lector,
 Los principios y bases de interpretación que debemos usar sobre las Escrituras son fundamentales para determinar qué significa un versículo o libro completo de la Biblia.
 
   
-La profecía bíblica contiene muchos símbolos, lo que hace que su interpretación parezca difícil. Pero la profecía fue dada para ser entendida. El [primer versículo](https://www.biblegateway.com/passage/?search=Apocalipsis+1%3A1&version=RVR1960) del libro de Revelación menciona que es una “revelación de Jesucristo”.  
+La profecía bíblica contiene muchos símbolos, lo que hace que su interpretación parezca difícil. Pero la profecía fue dada para ser entendida. El [primer versículo](https://www.biblegateway.com/passage/?search=Apocalipsis+1%3A1&version=RVR1960) del libro de Revelación menciona que es una “revelación de Jesucristo”.  
   
 Incluso la palabra "Revelación" (apokalupsis), significa "desvelar, revelar o quitar la cubierta de algo". Esto significa que la profecía está diseñada para ser comprendida y no quedar en el misterio.  
   

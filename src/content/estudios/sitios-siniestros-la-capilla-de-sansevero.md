@@ -9,7 +9,7 @@ description: "Las leyendas locales acerca de la Capilla de Sansevero de Nápoles
 tags: ["Sociedad"]
 ---
 
-Las leyendas locales acerca de la **Capilla de Sansevero** de **Nápoles** afirman que las asombrosas obras de arte que contiene son el resultado de **magia negra** y **brujería**. Las esculturas parecen imposibles de crear a mano, mientras que una macabra obra con dos cuerpos humanos reales se dice que es el resultado de asesinatos rituales. Además, añadiendo al aura oculta que ya rodea la capilla, esta está llena de **simbolismo masónico**.  
+Las leyendas locales acerca de la **Capilla de Sansevero** de **Nápoles** afirman que las asombrosas obras de arte que contiene son el resultado de **magia negra** y **brujería**. Las esculturas parecen imposibles de crear a mano, mientras que una macabra obra con dos cuerpos humanos reales se dice que es el resultado de asesinatos rituales. Además, añadiendo al aura oculta que ya rodea la capilla, esta está llena de **simbolismo masónico**.  
   
 
 [![capilla de sansevero con el cristo velado](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGTG2jXA4sSLVCa8tK2E2o2gtDwZK4bSJBs7IKQhLlbzb-U_CjXjKG21tAQHmqqpMI6yluH0_BHP2f8l_hpsr69z4YHFRt9jqoYRwl37-SVav8SO-PwD506UWqvUjSVLo6HixanSHXy6M/s1600/capilla.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGTG2jXA4sSLVCa8tK2E2o2gtDwZK4bSJBs7IKQhLlbzb-U_CjXjKG21tAQHmqqpMI6yluH0_BHP2f8l_hpsr69z4YHFRt9jqoYRwl37-SVav8SO-PwD506UWqvUjSVLo6HixanSHXy6M/s1600/capilla.jpg)
@@ -31,7 +31,7 @@ La capilla tiene en la exhibición dos restos humanos reales con su sistema nerv
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Para comprender plenamente lo que está pasando con la capilla, hay que entender a su creador: Raimondo di Sangro, el Príncipe de Sansevero. Aunque fue considerado un inventor brillante y filósofo por muchos, otros creían que era un cruel mago negro que mató gente para llevar a cabo experimentos extraños.  
   
@@ -68,8 +68,7 @@ A medida que la reputación de di Sangro creció, y sus escritos ganaron publici
   
 Pasó los últimos días de su vida decorando la Capilla Sansevero, convirtiendo este pequeño lugar en una representación grandiosa del "camino alquímico y masónico a la iluminación".  
 
-##   
-Un misterioso templo oculto
+## Un misterioso templo oculto
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgyiEaShnU5bWD58uMxyq2anrwHlc7hx9sBpt0VZ-xUHcytovZcC2OoWOo4aP5J4dDRw0NJ2AmN4D3izi5VBImdEUlrBnmahozzj2Wad1p8Hsg0ZfWZh9I25FwUxyfOWgbM6XyD17wl24/s1600/capilla.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgyiEaShnU5bWD58uMxyq2anrwHlc7hx9sBpt0VZ-xUHcytovZcC2OoWOo4aP5J4dDRw0NJ2AmN4D3izi5VBImdEUlrBnmahozzj2Wad1p8Hsg0ZfWZh9I25FwUxyfOWgbM6XyD17wl24/s1600/capilla.jpg)
 

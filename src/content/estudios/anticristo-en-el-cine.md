@@ -28,7 +28,7 @@ En las páginas de este libro se describe por primera vez con gran detalle la fi
 7.  [**La bestia que tiene la herida de espada, y vivió**](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html#capitulo7)
 8.  [**Su ojo derecho será enteramente oscurecido**](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html#capitulo8)
 9.  En el lugar que en hebreo se llama Armagedón
-10.  La Nueva Jerusalén descendiendo del cielo 
+10.  La Nueva Jerusalén descendiendo del cielo 
 
 ##   
 
@@ -48,7 +48,7 @@ Es interesante que en los últimos 20 años, la industria de cine, en especial l
 
 No es sorpresa que algunos investigadores ya han hablado de las figuras mesiánicas en el cine, como Joseph Cambell en su libro _El Héroe con las Mil Caras_, o el recurso académico _Las Características Estructurales de la Figura de Cristo Cinematográfico_ de Anton Karl Kozlovic. Sin embargo, su enfoque no está relacionado con un escenario del final de los tiempos, ni a la llegada de un Anticristo literal. Tales informes no cuentan con la revelación profética que otorga Dios en las Escrituras. El autor Neil P. Hurley había argumentado hace décadas:  
 
-> "Sostengo que hay una fuerza misteriosa y convincente dentro de la imaginación humana creativa que da forma a personajes de ficción y tramas dramáticas a imagen y semejanza del personaje central y los eventos de los cuatro Evangelios de Mateo, Marcos, Lucas y Juan."  –Neil P. Hurley, Transfiguraciones Cinemáticas de Jesús
+> "Sostengo que hay una fuerza misteriosa y convincente dentro de la imaginación humana creativa que da forma a personajes de ficción y tramas dramáticas a imagen y semejanza del personaje central y los eventos de los cuatro Evangelios de Mateo, Marcos, Lucas y Juan."  –Neil P. Hurley, Transfiguraciones Cinemáticas de Jesús
 
 Pero donde las pocas personas que han analizado el tema llaman, “una figura mesiánica”, el cristiano nacido de nuevo puede concluir con seguridad que estas son maquinaciones bien orquestadas del dios de este mundo. Hablamos de un método de propaganda que se consolidó, usando hombres en busca de dinero y la aparición de nueva tecnología en el siglo XXI. Una nueva forma de paganismo que va directo al subconsciente de gran parte de la población mundial, quizás haciendo más tangible las advertencias de Jesús en Mateo 24:5:
 
@@ -114,13 +114,13 @@ Pocos saben que Superman fue creado por dos jóvenes judíos norteamericanos, qu
 
   
 
-Al rechazar a Jesucristo, la ceguera espiritual del pueblo judío hará que en el futuro reciban al Anticristo, el cual al parecer, ya vive en su imaginario religioso. Pero tal falso mesías tiene otras representaciones relevantes: 
+Al rechazar a Jesucristo, la ceguera espiritual del pueblo judío hará que en el futuro reciban al Anticristo, el cual al parecer, ya vive en su imaginario religioso. Pero tal falso mesías tiene otras representaciones relevantes: 
 
-   
+   
 
 [![luke skywalker extendiendo los brazos en señal de la cruz](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1W2Rem2xCxUxCmNXa03IaT8OSVmOQygzhEgURVqBZx7GDL0PPfrRdgimtAVQtK6wLkYFOWFMr3a30qLehgYKAPo8JbB6-yNbnBmolauIvo9RTK35qycuoEDFuxavI9CpWhrb9G7jN8JQ/s16000/luke.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1W2Rem2xCxUxCmNXa03IaT8OSVmOQygzhEgURVqBZx7GDL0PPfrRdgimtAVQtK6wLkYFOWFMr3a30qLehgYKAPo8JbB6-yNbnBmolauIvo9RTK35qycuoEDFuxavI9CpWhrb9G7jN8JQ/s527/luke.jpg)
 
-Luke Skywalker de la saga de _Star Wars,_ también como un tipo de mesías no humano, que trae una filosofía religiosa propia llamada "La Fuerza". Skywaker en español significa "caminante del cielo".
+Luke Skywalker de la saga de _Star Wars,_ también como un tipo de mesías no humano, que trae una filosofía religiosa propia llamada "La Fuerza". Skywaker en español significa "caminante del cielo".
 
   
 
@@ -140,7 +140,7 @@ El origen del estos personajes es diferente y único, si bien inicia su viaje en
 
 > **"Hijitos, han llegado los últimos tiempos; y así como ustedes oyeron que el anticristo viene, ahora han surgido muchos anticristos; por esto sabemos que han llegado los últimos tiempos.” –1 Juan 2:18**
 
-El Anticristo traerá un mensaje de revelación espiritual, tendrá un rol central para todos los seres humanos. Él será un tipo de redentor que con apariencia de piedad cautivará a las naciones, pero al mismo tiempo enseñará cosas completamente contrarias a las Escrituras. En todos los films mencionados, el protagonista alcanza su objetivo final que es instaurar su creencia luciferina, estableciéndose como el líder de un nuevo mundo y con un nuevo paradigma espiritual. 
+El Anticristo traerá un mensaje de revelación espiritual, tendrá un rol central para todos los seres humanos. Él será un tipo de redentor que con apariencia de piedad cautivará a las naciones, pero al mismo tiempo enseñará cosas completamente contrarias a las Escrituras. En todos los films mencionados, el protagonista alcanza su objetivo final que es instaurar su creencia luciferina, estableciéndose como el líder de un nuevo mundo y con un nuevo paradigma espiritual. 
 
   
 
@@ -154,10 +154,10 @@ El hombre murciélago contiene también una figura mesiánica. En el caso de la 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLZAiVqVqmt1ArKu2kAqY705IwhX015MFPF3wFINj3NTfDqJ1Kcooy2AakWaeRTiLRuEEcV82rF6gJh98H0pH9Sv9xyMUYDJSIaQuayaB6ocLh3NhV0GLTSKxgCDEyDP86y2kJ6aBJFSY/s16000/et.jpg)](https://www.blogger.com/u/2/#)
 
-Pese a que el Anticristo en el cine mayormente toma forma masculina, también se encuentran paralelismos en extraterrestres con apariencia distinta a la humana, como _E.T._ (1982). Un ser no-humano que desciende del cielo a morir y resucitar en la Tierra.
+Pese a que el Anticristo en el cine mayormente toma forma masculina, también se encuentran paralelismos en extraterrestres con apariencia distinta a la humana, como _E.T._ (1982). Un ser no-humano que desciende del cielo a morir y resucitar en la Tierra.
 
   
-Si bien las profecías describen al Anticristo como un hombre, el cine ha retratado el espíritu del Anticristo también en extraterrestres como E.T, Superman, Klatuu, en robots, como Optimus Prime de _Transformes_,  El gigante de Hierro en la película del mismo nombre, en grupos de super-hombres, como Los Vengadores o La Liga de la Justicia y en figuras femeninas, impulsados también por la agenda moderna del feminismo, como Katniss Everdeen, en _Los Juegos del Hambre_, Ellen Ripley de _Alien 3_, Leelo, de la popular película _El Quinto Elemento_, Alice, de la saga de _Resident Evil_ o Eleven de la ya mencionada serie de Netflix, _Stranger Things_.
+Si bien las profecías describen al Anticristo como un hombre, el cine ha retratado el espíritu del Anticristo también en extraterrestres como E.T, Superman, Klatuu, en robots, como Optimus Prime de _Transformes_,  El gigante de Hierro en la película del mismo nombre, en grupos de super-hombres, como Los Vengadores o La Liga de la Justicia y en figuras femeninas, impulsados también por la agenda moderna del feminismo, como Katniss Everdeen, en _Los Juegos del Hambre_, Ellen Ripley de _Alien 3_, Leelo, de la popular película _El Quinto Elemento_, Alice, de la saga de _Resident Evil_ o Eleven de la ya mencionada serie de Netflix, _Stranger Things_.
 
   
 
@@ -169,12 +169,12 @@ Katniss Everdeen, de _Los Juegos del Hambre_ (2012). La figura del salvador cont
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20p-bRtygv8U-340z0MoMqTjwXvwaD2Ce33va3XaRrlvRysMcopQKP8JV-RZEKzIRqoqqJid3HmnfLzI1vQWXThalf3pwStn-Qer-UjLffoZJOCzfZ4x5kXhM6Dv2eDawUcXBxysut78/s16000/cesar.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20p-bRtygv8U-340z0MoMqTjwXvwaD2Ce33va3XaRrlvRysMcopQKP8JV-RZEKzIRqoqqJid3HmnfLzI1vQWXThalf3pwStn-Qer-UjLffoZJOCzfZ4x5kXhM6Dv2eDawUcXBxysut78/s548/cesar.jpg)
 
-César del _Planeta de los Simios_ (2014) es un simio alterado genéticamente, que mediante su acción libertadora trae la paz entre humanos y simios. Una figura del Anticristo similar a la de Daniel 9:27_._ 
+César del _Planeta de los Simios_ (2014) es un simio alterado genéticamente, que mediante su acción libertadora trae la paz entre humanos y simios. Una figura del Anticristo similar a la de Daniel 9:27_._ 
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzxgAbGUteiRseIevj9Ri92a2N6X0zrj2LqLBdWI60LHIZLJKDDe9V5BO_9LsujCoA0IPYpqN3wTZK8idlrPWcNemVsgoGAC0Ra-s89QsICCc82EZH-pbBUb5r_BR-KyZ947HPQYjoFNQ8s4O2lLQKNo0axqCqSc2tNl1RoqxTcUSk88qFvXbigijW/s16000/gigante-hierro.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzxgAbGUteiRseIevj9Ri92a2N6X0zrj2LqLBdWI60LHIZLJKDDe9V5BO_9LsujCoA0IPYpqN3wTZK8idlrPWcNemVsgoGAC0Ra-s89QsICCc82EZH-pbBUb5r_BR-KyZ947HPQYjoFNQ8s4O2lLQKNo0axqCqSc2tNl1RoqxTcUSk88qFvXbigijW/s548/gigante-hierro.jpg)  
-Casi como una forma de reciclaje, _El Gigante de Hierro_ (1999) es una replica de Superman, o figura mesiánica, que llega del cielo para usar sus poderes y salvarnos de una catástrofe. Como Jesús y el super héroe de Kriptón, el gigante de hierro muere pero resucita usando sus propios poderes.
+Casi como una forma de reciclaje, _El Gigante de Hierro_ (1999) es una replica de Superman, o figura mesiánica, que llega del cielo para usar sus poderes y salvarnos de una catástrofe. Como Jesús y el super héroe de Kriptón, el gigante de hierro muere pero resucita usando sus propios poderes.
 
   
 
@@ -186,7 +186,7 @@ _Los Vengadores_ (2012), en su conjunto como humanos sobrenaturales, representan
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyGPkC5R3_0bW2vefluMAx1RRv14dqn3zO8d0QFOOEZwd2-9Rl4dVaRWuFJkXpJSUudAIngFw96enjMHP9UmeaW4IK_AAvjGzOhYoC1Pccje7YdP0ppbVoSau0xaaQCXL9KJXwgaOFilw/s16000/el-hoyo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyGPkC5R3_0bW2vefluMAx1RRv14dqn3zO8d0QFOOEZwd2-9Rl4dVaRWuFJkXpJSUudAIngFw96enjMHP9UmeaW4IK_AAvjGzOhYoC1Pccje7YdP0ppbVoSau0xaaQCXL9KJXwgaOFilw/s548/el-hoyo.jpg)
 
-Existen mesías enmarcados en lo psicológico, como sería el caso de Goreng en _El Hoyo_ (2019). En el futuro de Goreng, los prisioneros se alojan en celdas verticales, observando cómo los presos de las celdas superiores son alimentados mientras los de abajo mueren de hambre. Como se revela durante la película, él es el salvador que acabará con el sádico sistema del hoyo, mientras muestran muchas imágenes y diálogos sugerentes de la vida de Cristo, como la referencia a la última cena de Jesús y el sacrificio del protagonista.
+Existen mesías enmarcados en lo psicológico, como sería el caso de Goreng en _El Hoyo_ (2019). En el futuro de Goreng, los prisioneros se alojan en celdas verticales, observando cómo los presos de las celdas superiores son alimentados mientras los de abajo mueren de hambre. Como se revela durante la película, él es el salvador que acabará con el sádico sistema del hoyo, mientras muestran muchas imágenes y diálogos sugerentes de la vida de Cristo, como la referencia a la última cena de Jesús y el sacrificio del protagonista.
 
   
 
@@ -202,7 +202,7 @@ Así como Jesús tuvo el poder de Dios para hacer milagros asombrosos, como darl
 
 > “Porque vendrán falsos profetas y falsos mesías, y harán cosas tan maravillosas que engañarán a la gente. Si pueden, también engañarán a los que Dios ha llamado a seguirlo.” –Mateo 24:24
 
-> “También hacía cosas grandiosas delante de la gente, y dejaba caer fuego del cielo sobre la tierra. Este monstruo engañó a la gente por medio de los milagros que hizo con el poder que la primera bestia le había dado.” –Apocalipsis‬ ‭13:13-14
+> “También hacía cosas grandiosas delante de la gente, y dejaba caer fuego del cielo sobre la tierra. Este monstruo engañó a la gente por medio de los milagros que hizo con el poder que la primera bestia le había dado.” –Apocalipsis 13:13-14
 
 Muchos protagonistas dentro de una narrativa gnóstica tienen algún poder físico y mental que los hace elegidos y superiores, ya sea por su naturaleza de fuera de este mundo, por magia o por el uso de tecnología que a menudo aún no existe. En otros casos, su poder puede surgir de tener cierto conocimiento que otros no tienen, casi siempre relacionado con la gnosis, el conocimiento esotérico y vinculado al engaño de la serpiente en el jardín del Edén.
 
@@ -220,13 +220,13 @@ Los humanos o extraterrestres con poderes sobrenaturales vieron su nacimiento en
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7fI0B4E4O_9-e_rjcUxISubPtuGgwBh8J1-luFskT7yPYUaF7Kb8mCDq5Fkfz2P35_8OdIopNeOaEtfAIv0eZnYsgxp6pnqxA8xf2yo7cPKbefn9FC-NHtjlZES3S3lsuHm4tKPMUBIo/s16000/murdock.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7fI0B4E4O_9-e_rjcUxISubPtuGgwBh8J1-luFskT7yPYUaF7Kb8mCDq5Fkfz2P35_8OdIopNeOaEtfAIv0eZnYsgxp6pnqxA8xf2yo7cPKbefn9FC-NHtjlZES3S3lsuHm4tKPMUBIo/s548/murdock.jpg)
 
-Muy similar a la trama de Matrix, el personaje de John Murdock en la película gnóstica/luciferiana _Dark City_ (1998), se muestra en una posición similar a la de Cristo en la cruz, el es el salvador de la ciudad oscura, el cuál es dotado con poderes mentales que le proporcionan la capacidad de moldear la realidad a su voluntad.  
+Muy similar a la trama de Matrix, el personaje de John Murdock en la película gnóstica/luciferiana _Dark City_ (1998), se muestra en una posición similar a la de Cristo en la cruz, el es el salvador de la ciudad oscura, el cuál es dotado con poderes mentales que le proporcionan la capacidad de moldear la realidad a su voluntad.  
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPGq4IMkbYXZaWUAtqO2EhD0-tXJ6IcCuBZ8wPLHYlU3l5wlg0VaqeZzYB2eAlJoSxEhxjFToWYOe-izeFjX_kVG0ItjQb1QPbp-FoVT2A7gSeC5MVizbYcAmZlUUrza6axQ-cSQbRNdAfPYKsVaG5S46qyQcqW6WoCVTWh7gmzaezJyaybosQYd8N/s16000/eleven.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPGq4IMkbYXZaWUAtqO2EhD0-tXJ6IcCuBZ8wPLHYlU3l5wlg0VaqeZzYB2eAlJoSxEhxjFToWYOe-izeFjX_kVG0ItjQb1QPbp-FoVT2A7gSeC5MVizbYcAmZlUUrza6axQ-cSQbRNdAfPYKsVaG5S46qyQcqW6WoCVTWh7gmzaezJyaybosQYd8N/s548/eleven.jpg)
 
-Cuando el personaje de Eleven en _Stranger Things_ usa sus poderes, sangra por la nariz y las orejas. Cuanto más poder usa, más sangre pierde, creando un simbolismo con el sacrificio de Cristo. Sus poderes, desarrollados a través de técnicas MK-Ultra, son la telequinesis y la visión remota.  
+Cuando el personaje de Eleven en _Stranger Things_ usa sus poderes, sangra por la nariz y las orejas. Cuanto más poder usa, más sangre pierde, creando un simbolismo con el sacrificio de Cristo. Sus poderes, desarrollados a través de técnicas MK-Ultra, son la telequinesis y la visión remota.  
 
   
 
@@ -238,7 +238,7 @@ Doctor Strange, el hechicero de _Doctor Strange y el Multiverso de Locura_ (2022
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-VG8xY7YRn3zziwr97zfnyXhfuml4UaWf1wHvfkNMothAnywNINTPGO2DIDebsz-ZZfiQ6_h56kyXe7dVSTA4ClIYUK97P3_RIumC9ZRup36WIr2dZYne0uNSE905FRUIRitkfc07jaQ/s16000/potter.jpg)](https://www.blogger.com/u/2/#)
 
-La magia, una práctica oculta prohibida por Dios pero exaltada en la saga de películas de Harry Potter (2001-2011). Harry, con la marca del rayo en su frente, es un arquetipo del Anticristo.
+La magia, una práctica oculta prohibida por Dios pero exaltada en la saga de películas de Harry Potter (2001-2011). Harry, con la marca del rayo en su frente, es un arquetipo del Anticristo.
 
   
 Estas maravillas y señales son cautivadoras, algo que podríamos atribuir a la creatividad de escritores y directores en busca de una historia rentable, así como la inspiración oculta de Satanás que se mueve en las mentes de los que no conocen a Cristo. En el caso de la popular saga Star Wars, los Jedi son una raza de guerreros con la habilidad de luchar ágilmente usando sables de luz, saltando en acrobacias contra la física y moviendo objetos con la mente, todo con el uso de la llamada "fuerza". Superman no solo es conocido por su super fuerza sino también por disparar rayos láser con sus ojos y volar a gran velocidad. Igual de popular es el personaje de Flash, el nuevo dios Hermes que se mueve a la velocidad de la luz.  
@@ -262,12 +262,12 @@ James Cole, de la película _12 Monos_ (1995), tiene la capacidad de viajar al p
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja4VrfbLYYMLy150eAPqHaFLf2sGL7EU6yCzv8ogw64Aeebja13kdfFzrReRUdFcBlQKJJyrJQHoIHSUEVGZ_ygp3T7cRtnCFH1z97vwUec9osZ5LGfq4PaMo3gKZ7UcYmPeJOxAEvu4c/s16000/klattu2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja4VrfbLYYMLy150eAPqHaFLf2sGL7EU6yCzv8ogw64Aeebja13kdfFzrReRUdFcBlQKJJyrJQHoIHSUEVGZ_ygp3T7cRtnCFH1z97vwUec9osZ5LGfq4PaMo3gKZ7UcYmPeJOxAEvu4c/s548/klattu2.jpg)
 
-Klaatu, el extraterrestre de _El día que la Tierra se detuvo_ (1951) tuvo la tecnología y capacidad necesaria para neutralizar la energía eléctrica en todo el mundo durante 30 minutos.  
+Klaatu, el extraterrestre de _El día que la Tierra se detuvo_ (1951) tuvo la tecnología y capacidad necesaria para neutralizar la energía eléctrica en todo el mundo durante 30 minutos.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDUPWjdMbKARlzltIQDb8ePYEYlZn7aY5CaplAhawIPSrbuGOxsOgAVXsXh9KD2MJvfTJ1jQhEYuiiIANx_HYb-4EjKTDbQnpzHmZQNoBFlSRhhP8kU0TpPL_aLzAu2ONCGVqEvzn_9Gc/s16000/truman.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDUPWjdMbKARlzltIQDb8ePYEYlZn7aY5CaplAhawIPSrbuGOxsOgAVXsXh9KD2MJvfTJ1jQhEYuiiIANx_HYb-4EjKTDbQnpzHmZQNoBFlSRhhP8kU0TpPL_aLzAu2ONCGVqEvzn_9Gc/s548/truman.jpg)
 
-Truman, del _Show de Truman_ (1988), una película extremadamente gnóstica y que retrata al protagonista alcanzando el verdadero conocimiento, es cuál es que todo su mundo es una farsa, un simple escenario de un show del que logra escapar y ser libre. En la escena final él camina sobre las aguas y "asciende al cielo" como Cristo, extendiendo sus brazos para reforzar el concepto oculto.  
+Truman, del _Show de Truman_ (1988), una película extremadamente gnóstica y que retrata al protagonista alcanzando el verdadero conocimiento, es cuál es que todo su mundo es una farsa, un simple escenario de un show del que logra escapar y ser libre. En la escena final él camina sobre las aguas y "asciende al cielo" como Cristo, extendiendo sus brazos para reforzar el concepto oculto.  
   
 
   
@@ -290,7 +290,7 @@ Satanás le dará su poder al Anticristo para poder ejecutar señales y hacer mu
 
 ## 4\. Ni del Amor de las mujeres
 
-Un aspecto importante sobre la figura del Anticristo es su relación con las mujeres. Ya que Satanás es un falsificador de la vida de Cristo, podemos recurrir a ciertos pasajes de Biblia para entender este tema. Jesús no se casó porque tenía un tiempo limitado en la tierra. Su principal objetivo en la Tierra le habría impedido cumplir correctamente con roles de esposo o padre. Por lo que una esposa no era parte de la misión de Jesús, Él vino a rescatar y a redimir a todos los que lo recibirían. En el matrimonio, el marido y la mujer se convierten en "una sola carne" (Génesis 2:24). Si Jesús, que no conoció el pecado, se casara con una mujer pecadora (Romanos 3:23), la relación con su esposa habría generado muchas confusiones.
+Un aspecto importante sobre la figura del Anticristo es su relación con las mujeres. Ya que Satanás es un falsificador de la vida de Cristo, podemos recurrir a ciertos pasajes de Biblia para entender este tema. Jesús no se casó porque tenía un tiempo limitado en la tierra. Su principal objetivo en la Tierra le habría impedido cumplir correctamente con roles de esposo o padre. Por lo que una esposa no era parte de la misión de Jesús, Él vino a rescatar y a redimir a todos los que lo recibirían. En el matrimonio, el marido y la mujer se convierten en "una sola carne" (Génesis 2:24). Si Jesús, que no conoció el pecado, se casara con una mujer pecadora (Romanos 3:23), la relación con su esposa habría generado muchas confusiones.
 
   
 
@@ -304,13 +304,13 @@ El Anticristo no hará caso del "amor de las mujeres", solo pensará en su objet
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyywMoj5cCTWTkte0qJQpOu5xeH0Rm-e72wqD3u21eHbjNUvZzONqRRM8OfO41eleCDzxcujfKLua3_d1n-WF6KknfOb0802cGCmZLynZZRjUYHXTEXVNEy3aYWfYg7tFPghRgrD0GoIc/s16000/trinity.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyywMoj5cCTWTkte0qJQpOu5xeH0Rm-e72wqD3u21eHbjNUvZzONqRRM8OfO41eleCDzxcujfKLua3_d1n-WF6KknfOb0802cGCmZLynZZRjUYHXTEXVNEy3aYWfYg7tFPghRgrD0GoIc/s548/trinity.jpg)
 
-Neo y Trinity en _Matrix,_ donde la misión de Neo como el salvador de Sión culminó en la muerte de ambos.
+Neo y Trinity en _Matrix,_ donde la misión de Neo como el salvador de Sión culminó en la muerte de ambos.
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBQYLQ_shsXYFdNC37LazJGtLil9oaPB3Ck2yJdxkgdz4jPBrH1LZYCssVYhVth3hRRvzDIdXASkBoktascDc9uFJI6Cq5E6eDCOEtegVZ-TjafoZB_m_jeDqhYKcVeowwPQV5KqGn2p8/s16000/snow-daenerys.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBQYLQ_shsXYFdNC37LazJGtLil9oaPB3Ck2yJdxkgdz4jPBrH1LZYCssVYhVth3hRRvzDIdXASkBoktascDc9uFJI6Cq5E6eDCOEtegVZ-TjafoZB_m_jeDqhYKcVeowwPQV5KqGn2p8/s548/snow-daenerys.jpg)
 
-Jon Snow y Daenerys Targaryen de la popular serie _Juego de Tronos_ (2011-2019), una relación políticamente incorrecta, con roses de incesto y donde el mismo Jon termina asesinando a Daenerys por un bien mayor. 
+Jon Snow y Daenerys Targaryen de la popular serie _Juego de Tronos_ (2011-2019), una relación políticamente incorrecta, con roses de incesto y donde el mismo Jon termina asesinando a Daenerys por un bien mayor. 
 
   
 
@@ -320,13 +320,13 @@ Superman y Luisa Lane, destinados a una relación compleja y melodramática.
 
   
 
-En las doctrinas del cristianismo gnóstico, popularizadas con películas como _El Código DaVinci_ (2006) o con el libro _Santa Sangre Santo Grial_, se promueve la idea que Jesús tuvo una relación romántica con Maria Magdalena, e incluso llegando a tener descendencia con ella. En el caso del Anticristo en el cine, casi siempre hay una figura de María Magdalena flotando alrededor del protagonista, una mujer vinculada sexualmente que está relacionada con él de alguna manera muy cercana, pero que no sabe cómo expresar correctamente sus sentimientos con él. Esta es otra forma de impulsar la falsa doctrina de que Jesús no fue Dios hecho hombre, sino solo un hombre mortal entendido en enigmas. 
+En las doctrinas del cristianismo gnóstico, popularizadas con películas como _El Código DaVinci_ (2006) o con el libro _Santa Sangre Santo Grial_, se promueve la idea que Jesús tuvo una relación romántica con Maria Magdalena, e incluso llegando a tener descendencia con ella. En el caso del Anticristo en el cine, casi siempre hay una figura de María Magdalena flotando alrededor del protagonista, una mujer vinculada sexualmente que está relacionada con él de alguna manera muy cercana, pero que no sabe cómo expresar correctamente sus sentimientos con él. Esta es otra forma de impulsar la falsa doctrina de que Jesús no fue Dios hecho hombre, sino solo un hombre mortal entendido en enigmas. 
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs-WpiB-p8mDMyS04Zr6-qdeTMpsKxElIwJGQ8Yk0s0u0sFbOya_kt76XPXk27XQeBs3kF96phvvXNDKPJsOKHnJC2bmXo6DeOrrNENVQcgQj0LXQAIu4T_ETWjRdODqo71uoMj_7hBTA/s16000/sophie.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs-WpiB-p8mDMyS04Zr6-qdeTMpsKxElIwJGQ8Yk0s0u0sFbOya_kt76XPXk27XQeBs3kF96phvvXNDKPJsOKHnJC2bmXo6DeOrrNENVQcgQj0LXQAIu4T_ETWjRdODqo71uoMj_7hBTA/s548/sophie.jpg)
 
-Es interesante que en la película, _El Código Da Vinci_, el protagonista tiene una relación de este tipo con Sophie, una mujer que supuestamente desciende del linaje de Jesucristo.  
+Es interesante que en la película, _El Código Da Vinci_, el protagonista tiene una relación de este tipo con Sophie, una mujer que supuestamente desciende del linaje de Jesucristo.  
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYu-_zJ0jzw3RM8TAU7nUeu4Jm9j2B9pZf05M6PZUpEnIcaQJfbwRHoG61jyne4IkAnBk4E8zkemOdkWFpnGdga5rpGWEQ3AI8Bul-iJUFpcyKd9CmTl3SfAijJm4NJrdruU1YbZ18_IM/s16000/klaatu-helen.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYu-_zJ0jzw3RM8TAU7nUeu4Jm9j2B9pZf05M6PZUpEnIcaQJfbwRHoG61jyne4IkAnBk4E8zkemOdkWFpnGdga5rpGWEQ3AI8Bul-iJUFpcyKd9CmTl3SfAijJm4NJrdruU1YbZ18_IM/s548/klaatu-helen.jpg)
 
@@ -336,7 +336,7 @@ Klaatu, el extraterrestre mesiánico y Helen, un amor imposible dentro de _El d�
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqc1XgV_H3gXmBtFoITpaXG7MTit69e6JgLaSewTjpdLqV5ph6OXnjvGnOXL1QVD9jMZDxggoGH5WPs_41i0ykNKW71_CrzVcwWqCC_dbxfF5qKnu9TphMf8r-rgqML0d6nGtScAFLq4A/s16000/truman4.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqc1XgV_H3gXmBtFoITpaXG7MTit69e6JgLaSewTjpdLqV5ph6OXnjvGnOXL1QVD9jMZDxggoGH5WPs_41i0ykNKW71_CrzVcwWqCC_dbxfF5qKnu9TphMf8r-rgqML0d6nGtScAFLq4A/s548/truman4.jpg)
 
-En la película gnóstica _El Show de Truman_, Truman Burbank es separado violentamente de su verdadero amor, Lauren, por una representación tirana de Dios llamado "Christof".   
+En la película gnóstica _El Show de Truman_, Truman Burbank es separado violentamente de su verdadero amor, Lauren, por una representación tirana de Dios llamado "Christof".   
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJRiDQEfJAcroLf7awGqdUMK9hQVYbPDydBWFIkDfngGTMPEA4SddAbYP9HF9aAeUw2e_A5-Gm_mJXQ1OKr9O2ZZrq1kliy4lHH_mdSGNgLT7kGgaMybZ5mQ5syzF2g45HZVTbUi5VQ-I/s16000/constantine.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJRiDQEfJAcroLf7awGqdUMK9hQVYbPDydBWFIkDfngGTMPEA4SddAbYP9HF9aAeUw2e_A5-Gm_mJXQ1OKr9O2ZZrq1kliy4lHH_mdSGNgLT7kGgaMybZ5mQ5syzF2g45HZVTbUi5VQ-I/s548/constantine.jpg)
@@ -345,7 +345,7 @@ El cazador de demonios y figura mesiánica John Constantine y Angela, en _Consta
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRIMNGkV5jj_9sluLuk5tgffZy-xe1kDXrdatKnl1D4NUvuxvPpYnFu8jNOfjpZJo0jdPCgOR8LtgBUCnCT96bVrL8VWUhlDXYmBTxFfjw3aSn0RYIOmr3nGX0ah8tVzJ3Dflo7rfRYqA/s16000/martha.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRIMNGkV5jj_9sluLuk5tgffZy-xe1kDXrdatKnl1D4NUvuxvPpYnFu8jNOfjpZJo0jdPCgOR8LtgBUCnCT96bVrL8VWUhlDXYmBTxFfjw3aSn0RYIOmr3nGX0ah8tVzJ3Dflo7rfRYqA/s548/martha.jpg)
 
-Jonas y Martha de la serie de Netflix _Dark_ (2019), cuyo amor se vuelve imposible debido a las paradojas del tiempo y el espacio, que les impiden incluso existir. Su misión final fue la de evitar el juicio final por la partícula de Dios.
+Jonas y Martha de la serie de Netflix _Dark_ (2019), cuyo amor se vuelve imposible debido a las paradojas del tiempo y el espacio, que les impiden incluso existir. Su misión final fue la de evitar el juicio final por la partícula de Dios.
 
   
 
@@ -359,7 +359,7 @@ Donnie Darko y Gretchen, donde la misión y sacrificio de Donnie como salvador d
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV6e9eWemymEvAG6ZYj8DjbPcBT_-rwj2xTw_H5Z91g9bNYQWcE-e4FB2ecxwYqLdW1qAsaabTZ-mqOcfGbmOlwvy32jtVrxhPHAq1Li4Bu_QZki_dOLQEomK-WOkh6yUVnpqdgXyt1Gw/s16000/goreng.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV6e9eWemymEvAG6ZYj8DjbPcBT_-rwj2xTw_H5Z91g9bNYQWcE-e4FB2ecxwYqLdW1qAsaabTZ-mqOcfGbmOlwvy32jtVrxhPHAq1Li4Bu_QZki_dOLQEomK-WOkh6yUVnpqdgXyt1Gw/s548/goreng.jpg)
 
-Miharu es de interés sexual para el protagonista anticrístico de la película _El Hoyo,_ pero la lucha por destruir el sistema es mayor que la unión de ambos.
+Miharu es de interés sexual para el protagonista anticrístico de la película _El Hoyo,_ pero la lucha por destruir el sistema es mayor que la unión de ambos.
 
   
 
@@ -369,7 +369,7 @@ Loki y Silvie intentan escapar del "Apocalipsis" del planeta Lamentis en 2077. A
 
   
 
-Podemos concluir el capítulo con algunos personajes y travesías similares, como el protagonista de _12 Monos_, James Cole (JC = Jesucristo), que expone un marcado interés con Kathryn Railly, pero es imposibilitado por su sacrificio y muerte al final de la película. James Cole es un preso que es enviado al pasado para recopilar información sobre un virus creado por el hombre que acabó con la mayor parte de la población humana del planeta (su misión es impedir el juicio final).
+Podemos concluir el capítulo con algunos personajes y travesías similares, como el protagonista de _12 Monos_, James Cole (JC = Jesucristo), que expone un marcado interés con Kathryn Railly, pero es imposibilitado por su sacrificio y muerte al final de la película. James Cole es un preso que es enviado al pasado para recopilar información sobre un virus creado por el hombre que acabó con la mayor parte de la población humana del planeta (su misión es impedir el juicio final).
 
   
 
@@ -377,7 +377,7 @@ En la misma enseñanza esotérica, la película _Terminator_ (1984) cuenta la hi
 
   
 
-Al igual que Eva le entregó el fruto prohibido a Adán, el personaje de la mujer, con las características mencionadas, usualmente gatilla e inicia de alguna forma la misión del protagonista en su viaje para alcanzar la divinidad y el plan de su dios invisible, Lucifer. 
+Al igual que Eva le entregó el fruto prohibido a Adán, el personaje de la mujer, con las características mencionadas, usualmente gatilla e inicia de alguna forma la misión del protagonista en su viaje para alcanzar la divinidad y el plan de su dios invisible, Lucifer. 
 
   
 
@@ -385,11 +385,11 @@ Al igual que Eva le entregó el fruto prohibido a Adán, el personaje de la muje
 
 ## 5\. Serán abiertos tus ojos
 
-Aunque el protagonista mesiánico comienza como un simple mortal o como parte del mundo convencional, pronto se revela que es el elegido para una misión sobrehumana, esta misión está respaldada por una revelación de trasfondo espiritual, una verdad oculta que después de ser revelado le da al Anticristo cinematográfico el ímpetu necesario para seguir adelante. Esta revelación cuestiona la realidad o el estado del personaje y, a veces, del mundo entero. Un claro ejemplo de esto es Frodo de _El Señor de los Anillos_, a quien se le revela el plan de Sauron y se le encomienda una misión casi suicida para destruir el anillo y poder salvar la Tierra Media, Luke Skywalker de _Star Wars,_ quien comprende que es el Jedi elegido para salvar el universo, o Neo de _Matrix_, a quien se le revela que su vida es solo un programa de computadora creado por máquinas, y que él y todos los demás están conectados físicamente a un sistema para producir energía eléctrica.
+Aunque el protagonista mesiánico comienza como un simple mortal o como parte del mundo convencional, pronto se revela que es el elegido para una misión sobrehumana, esta misión está respaldada por una revelación de trasfondo espiritual, una verdad oculta que después de ser revelado le da al Anticristo cinematográfico el ímpetu necesario para seguir adelante. Esta revelación cuestiona la realidad o el estado del personaje y, a veces, del mundo entero. Un claro ejemplo de esto es Frodo de _El Señor de los Anillos_, a quien se le revela el plan de Sauron y se le encomienda una misión casi suicida para destruir el anillo y poder salvar la Tierra Media, Luke Skywalker de _Star Wars,_ quien comprende que es el Jedi elegido para salvar el universo, o Neo de _Matrix_, a quien se le revela que su vida es solo un programa de computadora creado por máquinas, y que él y todos los demás están conectados físicamente a un sistema para producir energía eléctrica.
 
   
 
-Muchas de estas películas cuentan tramas futuristas, en mundos utópicos, propias del género de la ciencia ficción, supuestamente alejadas de lo que la religión tradicional (judeo-cristiana) misma representa, pero mirando en profundidad los mensajes, el trasfondo religioso siempre está ahí, como está el sentido de la vida, el cuestionamiento de nuestra realidad, la figura de un creador, el origen de la humanidad, la lucha del bien con el mal, la espiritualidad del hombre, el día del juicio final, etc. Como en los ejemplos que veremos más adelante, esta "gran revelación" cuestiona, o muchas veces niega, las enseñanzas de lo que Dios nos dice en las Escrituras, y propone la doctrina luciferina, la visión gnóstica de Lucifer donde el hombre se convierte en su propio dios. Podríamos comparar este tipo de películas como una reconstrucción invertida de la caída en el Jardín del Edén, donde Satanás se muestra a él mismo como redentor del hombre.
+Muchas de estas películas cuentan tramas futuristas, en mundos utópicos, propias del género de la ciencia ficción, supuestamente alejadas de lo que la religión tradicional (judeo-cristiana) misma representa, pero mirando en profundidad los mensajes, el trasfondo religioso siempre está ahí, como está el sentido de la vida, el cuestionamiento de nuestra realidad, la figura de un creador, el origen de la humanidad, la lucha del bien con el mal, la espiritualidad del hombre, el día del juicio final, etc. Como en los ejemplos que veremos más adelante, esta "gran revelación" cuestiona, o muchas veces niega, las enseñanzas de lo que Dios nos dice en las Escrituras, y propone la doctrina luciferina, la visión gnóstica de Lucifer donde el hombre se convierte en su propio dios. Podríamos comparar este tipo de películas como una reconstrucción invertida de la caída en el Jardín del Edén, donde Satanás se muestra a él mismo como redentor del hombre.
 
   
 
@@ -405,7 +405,7 @@ La llegada del extraterrestre kriptoniano, General Zod, en la película de Super
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0GgyRIYvgRN0FnMTgnET7av7A9mX3sSveqvPEsefeJhceFqXuwF-cBKpBjNCmJk__6Y2GDGh3AdS215hPbMQi012SqIiyxpbcl174MS-Gx_3G0POEn_FANbH2P8bi3WvZ5P_DOZ__1qE/s16000/tercer-tipo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0GgyRIYvgRN0FnMTgnET7av7A9mX3sSveqvPEsefeJhceFqXuwF-cBKpBjNCmJk__6Y2GDGh3AdS215hPbMQi012SqIiyxpbcl174MS-Gx_3G0POEn_FANbH2P8bi3WvZ5P_DOZ__1qE/s548/tercer-tipo.jpg)
 
-La gran revelación en _Encuentros cercanos del tercer tipo_ (1977), la aparición visible de extraterrestres, quienes devuelven a un gran grupo de humanos abducidos.  
+La gran revelación en _Encuentros cercanos del tercer tipo_ (1977), la aparición visible de extraterrestres, quienes devuelven a un gran grupo de humanos abducidos.  
 
   
 
@@ -435,24 +435,24 @@ La película de Disney, _El Aprendiz de Brujo_ (2010) estiliza la iniciación de
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji-L36ioR5u5BlnlRyMLZnEPQoocSNns-szmTm9CSXiwTigGeCRMS2IqrdIcJJ5jR9C1ORzyJlZXcNX12i0TGbTyoU1oCEfVyVbzMP46SOKAe-CYa0Vfa3xPCRD5Ew5qQQOSbdmwC5XXk/s16000/potter2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji-L36ioR5u5BlnlRyMLZnEPQoocSNns-szmTm9CSXiwTigGeCRMS2IqrdIcJJ5jR9C1ORzyJlZXcNX12i0TGbTyoU1oCEfVyVbzMP46SOKAe-CYa0Vfa3xPCRD5Ew5qQQOSbdmwC5XXk/s548/potter2.jpg)
 
-_Harry Potter y la piedra filosofal_ (2001), donde se revela a través de una carta del Colegio Hogwarts de Magia y Hechicería, no solo que existe la brujería, sino que el protagonista (Anticristo) es en realidad un mago.
+_Harry Potter y la piedra filosofal_ (2001), donde se revela a través de una carta del Colegio Hogwarts de Magia y Hechicería, no solo que existe la brujería, sino que el protagonista (Anticristo) es en realidad un mago.
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzS1cdkMaK1CYL_T6UkhRkVIz0Wc911Xd-qqj6Q5WADRixYqBNt5q8LCZ0HDmPWUNPNvVOhc9-lDPynSzl1kykpa2YwFte4R-DPqt0bz-dhZjPABZwzDBNp_A01HCt8lNjB1pbZK9DkiU/s16000/miltiverse.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzS1cdkMaK1CYL_T6UkhRkVIz0Wc911Xd-qqj6Q5WADRixYqBNt5q8LCZ0HDmPWUNPNvVOhc9-lDPynSzl1kykpa2YwFte4R-DPqt0bz-dhZjPABZwzDBNp_A01HCt8lNjB1pbZK9DkiU/s548/miltiverse.jpg)
 
-En la serie de 2021, _Loki_, se presenta la compleja teoría de los multiversos. El personaje principal es en cierto momento confrontado con diferentes versiones de él mismo, revelándole que existen varios "Loki" y por tanto cambiando el concepto de realidad que tenía antes. Una de sus versiones es un reptil con cuernos, pese que a Loki siempre se le ha representado con cuernos, en este animal se refuerza la naturaleza oculta del personaje.  
+En la serie de 2021, _Loki_, se presenta la compleja teoría de los multiversos. El personaje principal es en cierto momento confrontado con diferentes versiones de él mismo, revelándole que existen varios "Loki" y por tanto cambiando el concepto de realidad que tenía antes. Una de sus versiones es un reptil con cuernos, pese que a Loki siempre se le ha representado con cuernos, en este animal se refuerza la naturaleza oculta del personaje.  
   
 
-El multiverso es una teoría en la que nuestro universo no es el único, sino que establece que existen muchos universos paralelos entre sí. Estos universos distintos dentro de la teoría del multiverso se denominan universos paralelos, incluso con diferentes versiones de cada ser humano y situaciones que pueden variar ligera o grandemente. 
-
-  
-
-Si bien Dios en su soberanía puede hacer lo que le plazca con su creación y los universos, la Biblia no enseña nada sobre que existen otras realidades paralelas, mas que el universo, la realidad y tiempo donde la humanidad es redimida a través de la muerte de Jesucristo. Lo que Dios dice se convierte en realidad (Salmos 33: 6, 9). Las palabras que salieron de Dios se convirtieron en partículas de luz, energía y materia, por lo que entendemos la Palabra de Dios como la base inamovible de la realidad.
+El multiverso es una teoría en la que nuestro universo no es el único, sino que establece que existen muchos universos paralelos entre sí. Estos universos distintos dentro de la teoría del multiverso se denominan universos paralelos, incluso con diferentes versiones de cada ser humano y situaciones que pueden variar ligera o grandemente. 
 
   
 
-Debido al contexto oculto de esta doctrina enmascarada de ciencia y su propaganda en las series de Marvel, debemos reconocer los multiversos como una mentira más del padre de la mentira (Juan 8:44). 
+Si bien Dios en su soberanía puede hacer lo que le plazca con su creación y los universos, la Biblia no enseña nada sobre que existen otras realidades paralelas, mas que el universo, la realidad y tiempo donde la humanidad es redimida a través de la muerte de Jesucristo. Lo que Dios dice se convierte en realidad (Salmos 33:6, 9). Las palabras que salieron de Dios se convirtieron en partículas de luz, energía y materia, por lo que entendemos la Palabra de Dios como la base inamovible de la realidad.
+
+  
+
+Debido al contexto oculto de esta doctrina enmascarada de ciencia y su propaganda en las series de Marvel, debemos reconocer los multiversos como una mentira más del padre de la mentira (Juan 8:44). 
 
   
 
@@ -462,13 +462,13 @@ Los Vengadores en _Avengers: Endgame_ (2019) preparándose para su viaje en el t
 
   
 
-Dentro de la misma mezcla de pseudo-ciencia y gnosticismo se encuentran los viajes en el tiempo. Mientras que la Biblia solo describe a Dios y a Cristo habitando por encima del tiempo, en algunos de los films que incluyen una tipología del Anticristo, se enseña que romper la linea progresiva del tiempo es algo que también el hombre puede alcanzar, siempre con ayuda de alguna revelación de carácter humanista, divina o extraterrestre. En el caso de _Loki_ y _Endgame_, no solo logran manipular esta capacidad de viajar en el tiempo, sino que denigran el concepto de un Dios eterno y soberano en el proceso.
+Dentro de la misma mezcla de pseudo-ciencia y gnosticismo se encuentran los viajes en el tiempo. Mientras que la Biblia solo describe a Dios y a Cristo habitando por encima del tiempo, en algunos de los films que incluyen una tipología del Anticristo, se enseña que romper la linea progresiva del tiempo es algo que también el hombre puede alcanzar, siempre con ayuda de alguna revelación de carácter humanista, divina o extraterrestre. En el caso de _Loki_ y _Endgame_, no solo logran manipular esta capacidad de viajar en el tiempo, sino que denigran el concepto de un Dios eterno y soberano en el proceso.
 
-> **"Mas yo en ti confío, oh Jehová; Digo: Tú eres mi Dios. En tu mano están mis tiempos; Líbrame de la mano de mis enemigos y de mis perseguidores." –Salmos 31:14-15** 
+> **"Mas yo en ti confío, oh Jehová; Digo: Tú eres mi Dios. En tu mano están mis tiempos; Líbrame de la mano de mis enemigos y de mis perseguidores." –Salmo 31:14-15** 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg73_d9pyeK4uZ1KZnDCnCeastO2lJFs7XPdcu5Oizt-zesRO1p9yfW9gnhoGedW34qPu3xezq9h8QysX7i1AKrEG5s3IMzPCiNlxtf-2INu64xfazT_DfX0iNBAAOVFXivI4ecgDGpt-U/s16000/dark-jonas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg73_d9pyeK4uZ1KZnDCnCeastO2lJFs7XPdcu5Oizt-zesRO1p9yfW9gnhoGedW34qPu3xezq9h8QysX7i1AKrEG5s3IMzPCiNlxtf-2INu64xfazT_DfX0iNBAAOVFXivI4ecgDGpt-U/s548/dark-jonas.jpg)
 
-La figura mesiánica de Jonas Kahnwald en _Dark_, hablando con su versión del futuro. Jonas de 33 años (la edad de Cristo cuando murió en la cruz) vuelve al pasado en una misión para salvar al mundo de un agujero negro que consumirá la Tierra (Juicio final).
+La figura mesiánica de Jonas Kahnwald en _Dark_, hablando con su versión del futuro. Jonas de 33 años (la edad de Cristo cuando murió en la cruz) vuelve al pasado en una misión para salvar al mundo de un agujero negro que consumirá la Tierra (Juicio final).
 
 > ''Y él proferirá palabras contra el Altísimo y afligirá a los santos del Altísimo, e intentará cambiar los tiempos y la ley; y le serán entregados en sus manos por un tiempo, por tiempos y por medio tiempo." –Daniel 7:25
 
@@ -478,7 +478,7 @@ Todos estos artificios no son nuevos, ya que tales revelaciones o enseñanzas es
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxLZLDJFtvLHhvq6ePy3MW8d9s4kp-nbI9sa6JwmGYhBXlt7lJtpr1nAltRYS1DWsUGFXZfs4F3PLf8pYwVZ-eDDsPRf4KnNFYRuOfJdE6V3usW04wUf5s-1SdcX9wSLu0bN71hUe1WgY/s16000/xmen.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxLZLDJFtvLHhvq6ePy3MW8d9s4kp-nbI9sa6JwmGYhBXlt7lJtpr1nAltRYS1DWsUGFXZfs4F3PLf8pYwVZ-eDDsPRf4KnNFYRuOfJdE6V3usW04wUf5s-1SdcX9wSLu0bN71hUe1WgY/s548/xmen.jpg)
 
-El la película _X-Men: Dias del futuro pasado_ (2014) el personaje de Wolverine es enviado al pasado para detener el ataque de los centinelas que traerá el fin del mundo en su tiempo, el protagonista es un tipo de salvador con muchas referencias a Cristo.
+El la película _X-Men: Dias del futuro pasado_ (2014) el personaje de Wolverine es enviado al pasado para detener el ataque de los centinelas que traerá el fin del mundo en su tiempo, el protagonista es un tipo de salvador con muchas referencias a Cristo.
 
   
 
@@ -488,7 +488,7 @@ El protagonista de _12 Monos_ regresa al pasado para detener un virus mortal. Lo
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8xhXeoA8gCVGjlE9coQKuHtMej5_ITwblNT7K-oosCARLv8XAMcxpZyfeFX4dGX0xVdWJwNM2MtQZuAdMhNkI5ztIXUpbO7UyCCvMmfNL8UbqaXUwrvavhAiob09keoS-2XktEsTdbB4/s16000/darko.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8xhXeoA8gCVGjlE9coQKuHtMej5_ITwblNT7K-oosCARLv8XAMcxpZyfeFX4dGX0xVdWJwNM2MtQZuAdMhNkI5ztIXUpbO7UyCCvMmfNL8UbqaXUwrvavhAiob09keoS-2XktEsTdbB4/s548/darko.jpg)
 
-El personaje mesiánico de Donnie en _Donnie Darko_, descubre que tiene la capacidad de viajar en el tiempo. La revelación de esta capacidad viene rodeada de síntomas de posesión demoniaca, como visiones de un conejo humano muerto, perdida de la consciencia y super-fuerza, a su vez él es "iluminado" con la misión del salvar al mundo de un agujero de gusano o puente Einstein-Rosen que podría destruir al mundo. 
+El personaje mesiánico de Donnie en _Donnie Darko_, descubre que tiene la capacidad de viajar en el tiempo. La revelación de esta capacidad viene rodeada de síntomas de posesión demoniaca, como visiones de un conejo humano muerto, perdida de la consciencia y super-fuerza, a su vez él es "iluminado" con la misión del salvar al mundo de un agujero de gusano o puente Einstein-Rosen que podría destruir al mundo. 
 
   
 
@@ -504,19 +504,19 @@ Satanás no se presenta a la primera pareja como un ser maligno o caído, al con
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgi8rXiuBDTntyg-PBCpN8ko2vAxgEjGWgrLP8clFMTpTFLOPSzl2TrDTEZ-ZEe4QJxiy6e6cl_gykCn54wh2gEXj66eY-AlHsWRbcUE850v2U25rbEqLk9ZjotjtTXrBomLmKD2yWENY/s16000/freeguy.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgi8rXiuBDTntyg-PBCpN8ko2vAxgEjGWgrLP8clFMTpTFLOPSzl2TrDTEZ-ZEe4QJxiy6e6cl_gykCn54wh2gEXj66eY-AlHsWRbcUE850v2U25rbEqLk9ZjotjtTXrBomLmKD2yWENY/s548/freeguy.jpg)
 
-La película _Free Guy_ (2021), al igual que _Matrix_ y _The Truman Show,_ muestra de manera simbólica que el mundo material (la creación) es un tipo de prisión oculta. Esta revelación se da cuando el protagonista usa unas gafas que le permiten ver el mundo "real", otra alegoría de que sus "ojos serán abiertos".  
+La película _Free Guy_ (2021), al igual que _Matrix_ y _The Truman Show,_ muestra de manera simbólica que el mundo material (la creación) es un tipo de prisión oculta. Esta revelación se da cuando el protagonista usa unas gafas que le permiten ver el mundo "real", otra alegoría de que sus "ojos serán abiertos".  
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiexPgy_KqXgMAP7-iCkCNaejrEz9sxbicO2kXhnnYspJtYBvJeXaI7S2GgQY-Wxojjk6d1sFgkxMdAfI5W_oqadLNEmmhyphenhyphenr0_t5Os6YvzkE14FyIkUOFltaB6bnIK93Oll7lrFGVPI3WU/s16000/they-live.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiexPgy_KqXgMAP7-iCkCNaejrEz9sxbicO2kXhnnYspJtYBvJeXaI7S2GgQY-Wxojjk6d1sFgkxMdAfI5W_oqadLNEmmhyphenhyphenr0_t5Os6YvzkE14FyIkUOFltaB6bnIK93Oll7lrFGVPI3WU/s548/they-live.jpg)
 
-En la película de culto _Sobreviven_ (1988) en personaje de John Nada encuentra unas gafas que permiten ver a las personas en su aspecto auténtico, terroríficos extraterrestres que manipulan a la sociedad y a los seres humanos.  
+En la película de culto _Sobreviven_ (1988) en personaje de John Nada encuentra unas gafas que permiten ver a las personas en su aspecto auténtico, terroríficos extraterrestres que manipulan a la sociedad y a los seres humanos.  
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyMb86PVpO4EK21arzVvwxzVbkXQqr3V6sjfXX1Zio0eQdjhelDsvcU_a7isYcWB7vPm2e0JyYBac2H4EZDttGOxLs1jScJFNIdFfS58tgNfDWKJMpMcCY7296ixMcDqhUBrzt80ZPLNw/s16000/ape-eye.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyMb86PVpO4EK21arzVvwxzVbkXQqr3V6sjfXX1Zio0eQdjhelDsvcU_a7isYcWB7vPm2e0JyYBac2H4EZDttGOxLs1jScJFNIdFfS58tgNfDWKJMpMcCY7296ixMcDqhUBrzt80ZPLNw/s548/ape-eye.jpg)
 
-El ojo de la simio llamada "ojos brillantes", en _El planeta de los simios_ (2011) el cual posee un brillo debido a droga experimental ALZ-112. El resultado es que da a luz a un simio con un desarrollo acelerado del intelecto, una figura del conocimiento entregado por Lucifer al hombre. De la misma forma que los romanos señalaban como dioses a sus emperadores, Cesar, el simio mesiánico, alcanza la iluminación hasta ser su propio dios.
+El ojo de la simio llamada "ojos brillantes", en _El planeta de los simios_ (2011) el cual posee un brillo debido a droga experimental ALZ-112. El resultado es que da a luz a un simio con un desarrollo acelerado del intelecto, una figura del conocimiento entregado por Lucifer al hombre. De la misma forma que los romanos señalaban como dioses a sus emperadores, Cesar, el simio mesiánico, alcanza la iluminación hasta ser su propio dios.
 
   
 
@@ -542,7 +542,7 @@ La capacidad de “entender los enigmas” expresa que comprenderá misterios qu
 
   
 
-Podemos concluir que aquel rey altivo de Daniel 8 llegará al mundo con una revelación que tendrá repercusiones grandes es la espiritualidad de las personas, tanto así que se entregarán completamente a esta mentira. Su enseñanza será una mezcla de ciencia, tecnología, nueva era, paganismo, alquimia, brujería y falsos dioses que podrán ser vistos en el cielo (OVNIs), será el apogeo de lo que la Biblia describe como doctrina de demonios, y la gente la amará.  
+Podemos concluir que aquel rey altivo de Daniel 8 llegará al mundo con una revelación que tendrá repercusiones grandes es la espiritualidad de las personas, tanto así que se entregarán completamente a esta mentira. Su enseñanza será una mezcla de ciencia, tecnología, nueva era, paganismo, alquimia, brujería y falsos dioses que podrán ser vistos en el cielo (OVNIs), será el apogeo de lo que la Biblia describe como doctrina de demonios, y la gente la amará.  
   
 
 > “Y esta es la condenación: porque la luz vino al mundo, y los hombres amaron más las tinieblas que la luz; porque sus obras eran malas.” –Juan 3:19
@@ -553,7 +553,7 @@ Podemos concluir que aquel rey altivo de Daniel 8 llegará al mundo con una reve
 
 ## 6\. A lo bueno llaman malo
 
-Es un principio básico dentro de un guión tener un salvador o héroe, y lo que hace que la historia sea más atractiva es el conflicto que este salvador puede tener con un antagonista, un villano que es casi una inversión del héroe y posee su propia agenda e intereses malignos. Entre los villanos reconocidos de la cultura popular se encuentran el mago Lord Voldemort de _Harry Potter_, El maestro del lado oscuro Darth Vader de _Star Wars_, el psicópata conocido como el Joker en _Batman_, el dios invasor Thanos de _Los Vengadores_, el programa agente Smith de _Matrix_ y la lista continua.
+Es un principio básico dentro de un guión tener un salvador o héroe, y lo que hace que la historia sea más atractiva es el conflicto que este salvador puede tener con un antagonista, un villano que es casi una inversión del héroe y posee su propia agenda e intereses malignos. Entre los villanos reconocidos de la cultura popular se encuentran el mago Lord Voldemort de _Harry Potter_, El maestro del lado oscuro Darth Vader de _Star Wars_, el psicópata conocido como el Joker en _Batman_, el dios invasor Thanos de _Los Vengadores_, el programa agente Smith de _Matrix_ y la lista continua.
 
   
 Este conflicto antiguo refleja que las personas tienen en su conciencia una percepción del bien y el mal. No solo simpatizan con tal idea, sino que se complacen de ver este conflicto en una sala de cine. Siempre que los buenos sean los vencedores, la audiencia estará dispuesta a ver la misma historia una y otra vez con diferentes personajes, tiempos y contextos. Lo que como cristianos también habremos notado, es que el concepto del bien y el mal para el mundo no siempre está alineado con el concepto de Dios, lo que comprueba la realidad caída del hombre y la frase de Satanás "y conocerán el bien y el mal" (Génesis 3:5).  
@@ -570,11 +570,11 @@ _En Sabah Nur_, también conocido como 'Apocalipsis' en los comics de Marvel, es
 
 Es evidente al ver al personaje de En Sabah Nur que posee algún tipo de complejo mesiánico, esto se debe a que es un mutante nacido hace 5000 años en Egipto y que animó a las civilizaciones antiguas a adorarlo como a un dios. Como parte de su plan para destruir la tierra, recluta a otros cuatro poderosos mutantes para ejecutar el fin del mundo, llamándolos "los cuatro jinetes". Durante la película también menciona muchas citas bíblicas alteradas, donde se atribuye a sí mismo como el Dios de la Biblia e incluso de otras religiones:
 
-> **"Me han llamado de diferentes formas durante mis muchas vidas, Ra, Krishna, Yhavé."**  
+> **"Me han llamado de diferentes formas durante mis muchas vidas, Ra, Krishna, Yhavé."**  
 
 > **"Todos ustedes son mis hijos, y están perdidos porque siguen a líderes ciegos."**
 
-> **"Se desviaron del camino, pero yo he regresado. El día del juicio."** 
+> **"Se desviaron del camino, pero yo he regresado. El día del juicio."** 
 
 > **"Todo lo que ellos construyeron será derrumbado, ¡Y de las cenizas de su mundo, construiremos uno mejor!"**
 
@@ -582,7 +582,7 @@ Es evidente al ver al personaje de En Sabah Nur que posee algún tipo de complej
 >   
 > "Pueden disparar sus flechas desde la torre de Babel, pero jamás podrán herir a dios."  
 >   
-> "Todo ha sido revelado." 
+> "Todo ha sido revelado." 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhYMD0PDEK27X9jtMqYLQJZGV0IEynn82-Dxx50BtkKNZ4IFxcNR9jCxYVEumZE57IHuOZpdZP0Xd4ksvpV-LbAG99qL867lhTlLHTZK44jfofQHtpjxq74n6LP7VWQGtkSsvQ1wNU6ns/s16000/ultron.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhYMD0PDEK27X9jtMqYLQJZGV0IEynn82-Dxx50BtkKNZ4IFxcNR9jCxYVEumZE57IHuOZpdZP0Xd4ksvpV-LbAG99qL867lhTlLHTZK44jfofQHtpjxq74n6LP7VWQGtkSsvQ1wNU6ns/s548/ultron.jpg)
 
@@ -631,7 +631,7 @@ Otro "creador" del mundo material, en este caso, virtual, es Antwan de la pelíc
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdGNSZX_lMn5JPjMmGfm796ZZj3pw72GE9yzcvWIwM09IG5SPftpgpwLSVoECLgyRBSmZAHbk1QGrHHTgPcDyPyUHXxoBKVh49hh8FRqVuMU61t2MUc1seIQWpP54rGYqQi0ITjl9giaNgWJZfDFrM9oCfCC7ByrAW_vylOfiOBUeb0u4oqtKSZOO/s16000/coronel.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdGNSZX_lMn5JPjMmGfm796ZZj3pw72GE9yzcvWIwM09IG5SPftpgpwLSVoECLgyRBSmZAHbk1QGrHHTgPcDyPyUHXxoBKVh49hh8FRqVuMU61t2MUc1seIQWpP54rGYqQi0ITjl9giaNgWJZfDFrM9oCfCC7ByrAW_vylOfiOBUeb0u4oqtKSZOO/s548/coronel.jpg)
 
-El coronel, de _La Guerra del Planeta de los Simios_ (2017)_,_ dirige una cruzada o "guerra santa" para exterminar a todos los primates evolucionados (creacionismo vs evolución). Él es retratado como Dios, posicionado en las alturas y portando una cruz en su cuello. La división que dirige el coronel se llama Alpha-Omega y su slogan "el principio y el fin". 
+El coronel, de _La Guerra del Planeta de los Simios_ (2017)_,_ dirige una cruzada o "guerra santa" para exterminar a todos los primates evolucionados (creacionismo vs evolución). Él es retratado como Dios, posicionado en las alturas y portando una cruz en su cuello. La división que dirige el coronel se llama Alpha-Omega y su slogan "el principio y el fin". 
 
 > **"Yo soy el Alfa y la Omega, principio y fin, dice el Señor, el que es y que era y que ha de venir, el Todopoderoso."**
 > 
@@ -645,7 +645,7 @@ Vecna, como antagonista de Eleven en _Stranger Things_. La niña con superpodere
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL7OgtfqOYioym9jmJcC8RNAFWDH6itiFYqitVg74qg-6oc-iSp85FGdSgpGDJBntLNCNA48CUft8XGUsbxCRYpXzPORngHvFooyGwaObpJHhHRvjzHfo7fNlFUS2AAoqbRrfFzAwd-eU_wcdGq5zjxnKqltCS3_N7x-oSxFPn0tHw23JViKr2cVoN/s16000/dark-elohim.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL7OgtfqOYioym9jmJcC8RNAFWDH6itiFYqitVg74qg-6oc-iSp85FGdSgpGDJBntLNCNA48CUft8XGUsbxCRYpXzPORngHvFooyGwaObpJHhHRvjzHfo7fNlFUS2AAoqbRrfFzAwd-eU_wcdGq5zjxnKqltCS3_N7x-oSxFPn0tHw23JViKr2cVoN/s548/dark-elohim.jpg)
 
-La serie _Dark_ muestra al antagonista del Anticristo en tres etapas distintas de su vida, pero en un solo plano existencial. Él es un símbolo de las tres formas de Dios, o lo que se conoce como la trinidad (Jesús, Dios y el Espíritu Santo). 
+La serie _Dark_ muestra al antagonista del Anticristo en tres etapas distintas de su vida, pero en un solo plano existencial. Él es un símbolo de las tres formas de Dios, o lo que se conoce como la trinidad (Jesús, Dios y el Espíritu Santo). 
 
   
 
@@ -669,25 +669,25 @@ Thomas Harbor, quien descubre que hay vida después de la muerte en _El Descubri
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPzR9eggsZ9C9moOKXQHcQ9Ne_Iz8yAtoT8YLPN-PWqFdjKdMwJq2lDpZWlG1pKodV9DDZyI-tzLR2_W6TM1mmy5KiGVdkV-_9UIXGBT6gyqbghySGs5-UiU_toM6o-45T2mpZs7oDa4BgRuPOxzjL4KUVesPgGfALTT0BQGOu0-4rbrEaGNSc5Iwy/s16000/gorr-cruz.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPzR9eggsZ9C9moOKXQHcQ9Ne_Iz8yAtoT8YLPN-PWqFdjKdMwJq2lDpZWlG1pKodV9DDZyI-tzLR2_W6TM1mmy5KiGVdkV-_9UIXGBT6gyqbghySGs5-UiU_toM6o-45T2mpZs7oDa4BgRuPOxzjL4KUVesPgGfALTT0BQGOu0-4rbrEaGNSc5Iwy/s548/gorr-cruz.jpg)
 
-Gorr, el antagonista en _Thor: Amor y Trueno_ (2022), usa una espada como arma de destrucción masiva. Es también, un símbolo sugerente de la cruz de Cristo.
+Gorr, el antagonista en _Thor: Amor y Trueno_ (2022), usa una espada como arma de destrucción masiva. Es también, un símbolo sugerente de la cruz de Cristo.
 
 > **"De su boca sale una espada aguda, para herir con ella a las naciones, y él las regirá con vara de hierro; y él pisa el lagar del vino del furor y de la ira del Dios Todopoderoso."**
 > 
 > **–Apocalipsis 19:15**
 
-Los objetos inertes y mundanos también ha sido utilizados en el cine para representar a YHVH (Jehová). Como menciona Glenn Erickson, quien sugirió que el planeta rebelde Zyra en la película _Cuando los mundos chocan_ (1951) era en realidad un Jesús oculto. Él argumentó:
+Los objetos inertes y mundanos también ha sido utilizados en el cine para representar a YHVH (Jehová). Como menciona Glenn Erickson, quien sugirió que el planeta rebelde Zyra en la película _Cuando los mundos chocan_ (1951) era en realidad un Jesús oculto. Él argumentó:
 
 > **"El devoto productor George Pal retuvo la metáfora de Cristo en una Segunda Venida disfrazada… Bellus, que representa al Jehová del Antiguo Testamento, aplastará la Tierra hasta convertirla en polvo, matando a todas las almas vivientes. No es una simple inundación esta vez, amigos ... pero la Tierra tiene una segunda oportunidad, más o menos. Unas semanas antes de la llegada de Bellus, su luna Zyra, que representa a Jesucristo, pasará cerca de nuestro planeta, causando terremotos masivos, maremotos y otros estragos variados. Solo se salvarán los pocos tecnócratas elegidos que creen en la ciencia y sean lo suficientemente atrevidos como para construir arcas espaciales para volar a Zyra (2)". \-Gleen Erickson, Las características estructurales de la figura del Cristo cinematográfico (2004)**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPkhzINvAxQAwkDWicjYKNI6zb3qUlIbn2J9xwPp546Ym1gzCJjsARUmO1gTNWhoDd6X8DJqxTncg1bkaSXdQ5GYmSChUCnBOFhgzV4IM4J65KOPoJwe30A52KIM4quf7BDPlUAeXQFow/s16000/bellus.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPkhzINvAxQAwkDWicjYKNI6zb3qUlIbn2J9xwPp546Ym1gzCJjsARUmO1gTNWhoDd6X8DJqxTncg1bkaSXdQ5GYmSChUCnBOFhgzV4IM4J65KOPoJwe30A52KIM4quf7BDPlUAeXQFow/s490/bellus.jpg)
 
-En el film, _Cuando los mundos chocan,_ Dios es retratado como un planeta llamado Zyra que viene a traer juicio al mundo. Si bien el productor George Pal describe a la luna Zyra, como una imagen de Jesucristo, este es en realidad el Anticristo hábilmente escondido, para glorificar la salvación por el conocimiento y la ciencia (Daniel 12:4).  
+En el film, _Cuando los mundos chocan,_ Dios es retratado como un planeta llamado Zyra que viene a traer juicio al mundo. Si bien el productor George Pal describe a la luna Zyra, como una imagen de Jesucristo, este es en realidad el Anticristo hábilmente escondido, para glorificar la salvación por el conocimiento y la ciencia (Daniel 12:4).  
 
   
 
-El evento usualmente conocido como “el fin del mundo” es descrito en diversos pasajes de la Biblia, como 2 de Pedro 3:10:
+El evento usualmente conocido como “el fin del mundo” es descrito en diversos pasajes de la Biblia, como 2 Pedro 3:10:
 
- **>  “Los cielos pasarán con gran estruendo, y los elementos serán destruidos con fuego intenso, y la tierra y las obras que hay en ella serán quemadas.” –2 de Pedro 3:10**
+ **>  “Los cielos pasarán con gran estruendo, y los elementos serán destruidos con fuego intenso, y la tierra y las obras que hay en ella serán quemadas.” –2 Pedro 3:10**
 
 Esta es la culminación de una serie de eventos conocidos como “el día del Señor,” el tiempo cuando Dios intervendrá en la historia humana para Su juicio. En ese tiempo, todo lo que Dios ha creado, “los cielos y la tierra” (Génesis 1:1), será destruido por Él.
 
@@ -711,7 +711,7 @@ Vecna, el villano de la popular serie _Stranger Things_, intenta cruzar a este m
 
   
 
-Una profecía del profeta Zacarías describe que, al final de la Tribulación, el Señor Jesucristo descenderá del cielo y pondrá sus pies sobre el Monte de los Olivos y esté formará una cruz gigante: 
+Una profecía del profeta Zacarías describe que, al final de la Tribulación, el Señor Jesucristo descenderá del cielo y pondrá sus pies sobre el Monte de los Olivos y esté formará una cruz gigante: 
 
 > "En aquel día sus pies se asentarán sobre el monte de los Olivos, que está frente a Jerusalén, al lado oriental. El monte de los Olivos se partirá por la mitad, de este a oeste, formando un valle muy grande, pues la mitad del monte se apartará hacia el norte y la otra mitad hacia el sur. Y el valle de los montes será rellenado\[a\], porque el valle de los montes llegará hasta Azal. Y huirán como huyeron a causa del terremoto que hubo en los días de Uzías, rey de Judá. Así vendrá el SEÑOR mi Dios, y todos sus santos con él."  
 > –Zacarías 14:4-5
@@ -724,7 +724,7 @@ El General Zod, un extraterrestre del planeta Kriptón, intenta destruir el eje 
 
   
 
-En el film _Donnie Darko_ tenemos una alegoría similar, Donnie, quien representa al super-hombre o Anticristo, impide que el fin del mundo se lleve a cabo. Este juicio llega como la apertura de un agujero de gusano o puente de Einstein-Rosen. En el film, el agujero de gusano es literalmente la apertura de los cielos, el cual es una señal que representa la Segunda Venida de Jesucristo.
+En el film _Donnie Darko_ tenemos una alegoría similar, Donnie, quien representa al super-hombre o Anticristo, impide que el fin del mundo se lleve a cabo. Este juicio llega como la apertura de un agujero de gusano o puente de Einstein-Rosen. En el film, el agujero de gusano es literalmente la apertura de los cielos, el cual es una señal que representa la Segunda Venida de Jesucristo.
 
 > **"Luego vi el cielo abierto, y apareció un caballo blanco. Su jinete se llama Fiel y Verdadero. Con justicia dicta sentencia y hace la guerra. Sus ojos eran como llama de fuego, y había en su cabeza muchas diademas; y tenía un nombre escrito que ninguno conocía sino él mismo. Estaba vestido de una ropa teñida en sangre; y su nombre es: EL VERBO DE DIOS. Y los ejércitos celestiales, vestidos de lino finísimo, blanco y limpio, le seguían en caballos blancos. De su boca sale una espada aguda, para herir con ella a las naciones, y él las regirá con vara de hierro; y él pisa el lagar del vino del furor y de la ira del Dios Todopoderoso." \-Apocalipsis 19:11-16**
 
@@ -736,7 +736,7 @@ Donnie presenciando el fin del mundo que conocemos. Luego él, como la figura de
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCyD5gnZYhKyi2FXCPi5vkgWh7tR7xx8fGA_MIhbdiBOYskrPTfZYYDZsc1hr4UIXxAakcxLx1XZ_S7HtzzVEdfByWMSITc4txgr00HAAr7QCTRtNEShJDKHSHE3ZlxJX44YKNE3VIDDY/s16000/black-hole-avengers.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCyD5gnZYhKyi2FXCPi5vkgWh7tR7xx8fGA_MIhbdiBOYskrPTfZYYDZsc1hr4UIXxAakcxLx1XZ_S7HtzzVEdfByWMSITc4txgr00HAAr7QCTRtNEShJDKHSHE3ZlxJX44YKNE3VIDDY/s548/black-hole-avengers.jpg)
 
-En la película _Avengers_ (2012) los superhéroes se enfrentan a una invasión de extraterrestres que planea invadir la Tierra. Un portal o agujero negro se habré sobre Nueva York de donde empiezan a salir alienígenas de aspecto monstruoso. Esta es otra alegoría al juicio de Dios sobre las naciones (Apocalipsis 19:15) y que inicia con la Segunda Venida de Cristo, en su llegada de entre las nubes del cielo. 
+En la película _Avengers_ (2012) los superhéroes se enfrentan a una invasión de extraterrestres que planea invadir la Tierra. Un portal o agujero negro se habré sobre Nueva York de donde empiezan a salir alienígenas de aspecto monstruoso. Esta es otra alegoría al juicio de Dios sobre las naciones (Apocalipsis 19:15) y que inicia con la Segunda Venida de Cristo, en su llegada de entre las nubes del cielo. 
 
   
 
@@ -750,7 +750,7 @@ Desde la apertura del cielo surgen un ejercito de bestias llamadas "Leviatán", 
 
 Al final el personaje de Ironman envía una ojiva nuclear dentro del portal, cerrándolo y evitando la llegada de los intrusos. La escena final de _Avengers_ es por tanto, una visión luciferiana del regreso de Jesucristo, trayendo el juicio de Dios.
 
-> **"La señal del Hijo del hombre aparecerá en el cielo, y se angustiarán todas las razas de la tierra. Verán al Hijo del hombre venir sobre las nubes del cielo con poder y gran gloria."** –**Mateo 24:30**
+> **"La señal del Hijo del hombre aparecerá en el cielo, y se angustiarán todas las razas de la tierra. Verán al Hijo del hombre venir sobre las nubes del cielo con poder y gran gloria."** –**Mateo 24:30**
 
 Pero este no es el único evento profético dentro del universo cinematográfico de Marvel.
 
@@ -758,13 +758,13 @@ Pero este no es el único evento profético dentro del universo cinematográfico
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7MoS_Q8PHcBamjI0w7AFrvLLPnAYytHyHmqWOPqyADyhLbTN76aHv-cfnYLgSmqoaeBTy33ZeMDWaKW025iIX4FsymO48FKi5UGPy84p5IjhVBCttObGH_tEN8OZFM4wOOAyEReYhxeo/s16000/thanos.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7MoS_Q8PHcBamjI0w7AFrvLLPnAYytHyHmqWOPqyADyhLbTN76aHv-cfnYLgSmqoaeBTy33ZeMDWaKW025iIX4FsymO48FKi5UGPy84p5IjhVBCttObGH_tEN8OZFM4wOOAyEReYhxeo/s548/thanos.jpg)
 
-6 años después de la primera película de _Avengers_, la saga presentó al villano Thanos, quien siguiendo el mismo patrón, esconde muchas referencias ocultas a YHWH.
+6 años después de la primera película de _Avengers_, la saga presentó al villano Thanos, quien siguiendo el mismo patrón, esconde muchas referencias ocultas a YHWH.
 
   
 
-Thanos en un alienígena que busca el equilibrio del universo entero, éste argumento hizo que dentro de las taquilleras y exitosas _Infinity Wars_ y _Endgame_, veamos un evento interesante. Thanos desea eliminar (asesinar) al 50% de la población del universo, cuando este lo logra usando las "gemas del destino", la mitad de los seres humanos se desintegran en unos pocos segundos, desatando el caos mundial, autos chocan, aviones caen, e incluso la mitad de los superhéroes desaparecen. Lo que pocos encontraron en esta escena, es la alegoría al rapto o arrebatamiento de la iglesia, descrita en 1 Tesalonicenses 4:16-17.
+Thanos en un alienígena que busca el equilibrio del universo entero, éste argumento hizo que dentro de las taquilleras y exitosas _Infinity Wars_ y _Endgame_, veamos un evento interesante. Thanos desea eliminar (asesinar) al 50% de la población del universo, cuando este lo logra usando las "gemas del destino", la mitad de los seres humanos se desintegran en unos pocos segundos, desatando el caos mundial, autos chocan, aviones caen, e incluso la mitad de los superhéroes desaparecen. Lo que pocos encontraron en esta escena, es la alegoría al rapto o arrebatamiento de la iglesia, descrita en 1 Tesalonicenses 4:16-17.
 
-> "Porque el Señor mismo con voz de mando, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero. Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor." 
+> "Porque el Señor mismo con voz de mando, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero. Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor." 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVDGmQKMSUrSpJZ0RH-8Na9TocVb5h3dIyzg5np4s8sJjV5LTG1xF2sdlUO94s1N4iZGyPp2tINKgFj-40RdSKlsMRJixHt_rwWavzKOwEYzxN-1dFsJBeNDIPYzLcutMTgE8odFU3wY8/s16000/nick-fury.gif)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVDGmQKMSUrSpJZ0RH-8Na9TocVb5h3dIyzg5np4s8sJjV5LTG1xF2sdlUO94s1N4iZGyPp2tINKgFj-40RdSKlsMRJixHt_rwWavzKOwEYzxN-1dFsJBeNDIPYzLcutMTgE8odFU3wY8/s498/nick-fury.gif)
 
@@ -828,7 +828,7 @@ En resumen, las características compartidas de YHVH con diversos villanos, pued
 
 El gran engaño del final de los tiempos será la inversión del bien por el mal, las multitudes seducidas por el Anticristo se volverán en contra de Jesucristo y Dios, tales multitudes al haber cauterizado sus consciencias se dejarán influenciar por las mentiras de la trinidad satánica y se condenarán a si mismas. Como lo explica Pablo:
 
-> **"Satanás, quien es el dios de este mundo, ha cegado la mente de los que no creen. Son incapaces de ver la gloriosa luz de la Buena Noticia. No entienden este mensaje acerca de la gloria de Cristo, quien es la imagen exacta de Dios."** –**2 Corintios 4:4**
+> **"Satanás, quien es el dios de este mundo, ha cegado la mente de los que no creen. Son incapaces de ver la gloriosa luz de la Buena Noticia. No entienden este mensaje acerca de la gloria de Cristo, quien es la imagen exacta de Dios."** –**2 Corintios 4:4**
 
   
 [](https://www.blogger.com/null)
@@ -841,11 +841,11 @@ El Anticristo morirá y resucitará. No se puede confirmar si será una resurrec
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEgmO1Zd1YLFEuuMa5Z1nbs6cm9FY8tQtIBeEorJgXdH0v_3mlM0Mfd5W7gvCGGcLg7LrPkkasTXJZtRdcohBeT7WT7g-aUMf7pKCvdY5O8w7c5C3HH39vWOfLeda2lpVidWDUrjopJGPb_M0Ac8eRfns2jdJWINie50v-vp__0kRUt-aTjQ_hjX9Woz=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEgmO1Zd1YLFEuuMa5Z1nbs6cm9FY8tQtIBeEorJgXdH0v_3mlM0Mfd5W7gvCGGcLg7LrPkkasTXJZtRdcohBeT7WT7g-aUMf7pKCvdY5O8w7c5C3HH39vWOfLeda2lpVidWDUrjopJGPb_M0Ac8eRfns2jdJWINie50v-vp__0kRUt-aTjQ_hjX9Woz=s548)
 
-El extraterrestre de Kriptón muere en la popular _Batman vs Superman_ (2016) de Zack Snyder. Un evento que dio pie a que en secuela llamada _La Liga de la Justicia_ (2017), este sea resucitado con tecnología extraterrestre “avanzada”. Superman resucitado sale del agua ¿Una referencia a la bestia que sale del mar en Apocalipsis 13:1-2?
+El extraterrestre de Kriptón muere en la popular _Batman vs Superman_ (2016) de Zack Snyder. Un evento que dio pie a que en secuela llamada _La Liga de la Justicia_ (2017), este sea resucitado con tecnología extraterrestre “avanzada”. Superman resucitado sale del agua ¿Una referencia a la bestia que sale del mar en Apocalipsis 13:1-2?
 
-> **"Después vi a una bestia que subía del mar. Tenía siete cabezas y diez cuernos, y una corona en cada cuerno; y escrito en cada cabeza había nombres que blasfemaban a Dios. Esta bestia se parecía a un leopardo, ¡pero tenía las patas de un oso y la boca de un león! Y el dragón le dio a la bestia su propio poder y trono y gran autoridad. Y vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada. Y la tierra entera se maravilló y seguía tras la bestia;"** –**Apocalipsis 13:1-3**
+> **"Después vi a una bestia que subía del mar. Tenía siete cabezas y diez cuernos, y una corona en cada cuerno; y escrito en cada cabeza había nombres que blasfemaban a Dios. Esta bestia se parecía a un leopardo, ¡pero tenía las patas de un oso y la boca de un león! Y el dragón le dio a la bestia su propio poder y trono y gran autoridad. Y vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada. Y la tierra entera se maravilló y seguía tras la bestia;"** –**Apocalipsis 13:1-3**
 
-> **"Y engaña a los moradores de la tierra con las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan imagen a la bestia que tiene la herida de espada, y vivió."** –**Apocalipsis 13:14**
+> **"Y engaña a los moradores de la tierra con las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan imagen a la bestia que tiene la herida de espada, y vivió."** –**Apocalipsis 13:14**
 
   
 
@@ -857,7 +857,7 @@ La versión de Superman de 2007 sufre una herida de muerte... otra vez, y resuci
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEiBC58hW7mrhglNoBoEsKmirh68Qa5XcQOcPrXvmzYlpokYXSYRBJ2tUqpxeBOQaKTnBKuGqL6UYu14APROQzcQqTBqodlBCkK56J7vbBwTJbv5SZjbObkxwRwU1yi50BRsRfYiPjIIQm7ZlAZT6PC-x7VWCSy7SgMKtfcDZyP4etFlWYy-PSxswVKA=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEiBC58hW7mrhglNoBoEsKmirh68Qa5XcQOcPrXvmzYlpokYXSYRBJ2tUqpxeBOQaKTnBKuGqL6UYu14APROQzcQqTBqodlBCkK56J7vbBwTJbv5SZjbObkxwRwU1yi50BRsRfYiPjIIQm7ZlAZT6PC-x7VWCSy7SgMKtfcDZyP4etFlWYy-PSxswVKA=s548)
 
-Jon Snow de la serie _Juego de Tronos_  es acribillado hasta la muerte, su cuerpo sobre una mesa es resucitado gracias a una sacerdotisa roja llamada Melisandre, la cual le lavó el cuerpo y pronunció un encantamiento al "Señor de la luz" ¿Lucifer? Jon Snow se levanta como una claro ejemplo del Anticristo en el cine.
+Jon Snow de la serie _Juego de Tronos_  es acribillado hasta la muerte, su cuerpo sobre una mesa es resucitado gracias a una sacerdotisa roja llamada Melisandre, la cual le lavó el cuerpo y pronunció un encantamiento al "Señor de la luz" ¿Lucifer? Jon Snow se levanta como una claro ejemplo del Anticristo en el cine.
 
   
 
@@ -893,19 +893,19 @@ Al final de la Trilogía de Matrix, el protagonista y Anticristo Neo da su vida 
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEgmACCU8gA_1V4UmkobYHOgETBinm--kNfSakOD6Ps6s4W-tsR6S4s_o-BvEJBtsjTRTNpUmteGguwICnRrrfl60paV0X9BaGP-ommR8mTfF4916dLpBPdMg-gOfwpyyua-myZ0-P3DaiftgiBggoFB_QGDhlE8y2qhAXaxXPBdtg-mDNmywcLy_Xze=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEgmACCU8gA_1V4UmkobYHOgETBinm--kNfSakOD6Ps6s4W-tsR6S4s_o-BvEJBtsjTRTNpUmteGguwICnRrrfl60paV0X9BaGP-ommR8mTfF4916dLpBPdMg-gOfwpyyua-myZ0-P3DaiftgiBggoFB_QGDhlE8y2qhAXaxXPBdtg-mDNmywcLy_Xze=s548)
 
-Protagonizada también por Keanu Reeves, el film _Constantine_ (2005) retrata al protagonista muerto por unos minutos, descendiendo a los infiernos, como las Escrituras retratan a Jesucristo en Efesios 4:8-10 y 1 Pedro 3:18-19 descendiendo al Hades, con el fin de llevarse a los cautivos por la muerte hasta antes de su sacrificio. Casi al final del film Constantine vuelve a representar su muerte, extendiendo los brazos en forma de cruz.
+Protagonizada también por Keanu Reeves, el film _Constantine_ (2005) retrata al protagonista muerto por unos minutos, descendiendo a los infiernos, como las Escrituras retratan a Jesucristo en Efesios 4:8-10 y 1 Pedro 3:18-19 descendiendo al Hades, con el fin de llevarse a los cautivos por la muerte hasta antes de su sacrificio. Casi al final del film Constantine vuelve a representar su muerte, extendiendo los brazos en forma de cruz.
 
-> **"Porque como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches." –Mateo 12:40** 
+> **"Porque como estuvo Jonás en el vientre del gran pez tres días y tres noches, así estará el Hijo del Hombre en el corazón de la tierra tres días y tres noches." –Mateo 12:40** 
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEiVNbCjz5hMsnfO3SaVILcYaxaxE3EoQMn4X4d3vsNYQ4bXqrYMdv5Mgk2Dck-f0Hmiy5b_Oz81Zd_MlzPVXY4jhP7KHoPL1_86ZwBj_6QzplpuXCoqefK4n3VVcz60K3-cmvA7IDmaxTOErvxTxjsJ94cKuLFBh6C154vK2xQ4qY-SOy0XiB7nTCd4=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEiVNbCjz5hMsnfO3SaVILcYaxaxE3EoQMn4X4d3vsNYQ4bXqrYMdv5Mgk2Dck-f0Hmiy5b_Oz81Zd_MlzPVXY4jhP7KHoPL1_86ZwBj_6QzplpuXCoqefK4n3VVcz60K3-cmvA7IDmaxTOErvxTxjsJ94cKuLFBh6C154vK2xQ4qY-SOy0XiB7nTCd4=s548)
 
-El personaje de _Coco_ (2017)  desciende a la Tierra de los Muertos y luego vuelve "iluminado" con la verdad de su pasado familiar.
+El personaje de _Coco_ (2017)  desciende a la Tierra de los Muertos y luego vuelve "iluminado" con la verdad de su pasado familiar.
 
   
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEh0o7jFdk_P097BlT_XrLPq27FNN6CkJ5PETbwti6vRChNzBn7ee4uHItK3zenHgMOEGbQEeJAbGSPpRC3bks3D_4MB8pS8kWw0p8Ec7xU-HFNl-qA9lnLqxoRKneHBel2DOu3ty0soLr2n84Mui-efiDQLnRJKt1LAFMy6J7CKelxSmHcx3Iyfug52=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEh0o7jFdk_P097BlT_XrLPq27FNN6CkJ5PETbwti6vRChNzBn7ee4uHItK3zenHgMOEGbQEeJAbGSPpRC3bks3D_4MB8pS8kWw0p8Ec7xU-HFNl-qA9lnLqxoRKneHBel2DOu3ty0soLr2n84Mui-efiDQLnRJKt1LAFMy6J7CKelxSmHcx3Iyfug52=s548)
 
-La historia se repite con Optimus Prime en _La Venganza de los Caídos_ (2009). El personaje humano de Sam es llevado a otro plano de existencia donde conoce los espíritus de otros Primes que murieron y le otorgaron la "verdadera Matrix", lo que le permitió resucitar a Optimus Prime. 
+La historia se repite con Optimus Prime en _La Venganza de los Caídos_ (2009). El personaje humano de Sam es llevado a otro plano de existencia donde conoce los espíritus de otros Primes que murieron y le otorgaron la "verdadera Matrix", lo que le permitió resucitar a Optimus Prime. 
 
 El protagonista o Anticristo logra su objetivo de vencer a la muerte usando la tecnología del futuro, el conocimiento extraterrestre, la brujería, o una mezcla de todos. Cosas que los profetas de Dios no entendían en el momento de su revelación. La línea entre la tecnología transhumanista y la demonología se vuelven difusas al imitar el poder de Dios y sus milagros.
 
@@ -921,13 +921,13 @@ Hasta donde sabemos, el regreso a la vida del Anticristo será la primera vez qu
 
   
 
-La narrativa de muerte y resurrección es el climax de la historia, sugerida con preponderancia en el Viaje del Héroe, el protagonista o Anticristo resurge de la cenizas, como el símbolo ocultista del Fenix, para terminar su viaje alquímico-luciferino y derrotar al Demiurgo.
+La narrativa de muerte y resurrección es el climax de la historia, sugerida con preponderancia en el Viaje del Héroe, el protagonista o Anticristo resurge de la cenizas, como el símbolo ocultista del Fenix, para terminar su viaje alquímico-luciferino y derrotar al Demiurgo.
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2_a6aQEJ9k7jVVx8ya8AbvcYUITdUfUxpTlSkwco91LvSEc8lLJGU0rnSUZdzaG4KV5yNhB1EinoETUFc7pZ6EogEG2E0XM9k__Zkm-y5-c1kv6EIvXngIgy19mVRKHd94niD4Q1E9XuDqIg-LRlOHudGR-Txz9SQ0DyOdoZh5XawrEvM85ipUplj/s16000/ripley.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2_a6aQEJ9k7jVVx8ya8AbvcYUITdUfUxpTlSkwco91LvSEc8lLJGU0rnSUZdzaG4KV5yNhB1EinoETUFc7pZ6EogEG2E0XM9k__Zkm-y5-c1kv6EIvXngIgy19mVRKHd94niD4Q1E9XuDqIg-LRlOHudGR-Txz9SQ0DyOdoZh5XawrEvM85ipUplj/s548/ripley.jpg)
 
-Ellen Ripley de _Alien 3_ (1992), decide morir para evitar el nacimiento del desagradable extraterrestre que vive en su interior. Ella extiende sus brazos en forma de cruz antes de su sacrificio. Cinco años después, la secuela llamada _Alien: Resurrections_ (1997), presenta a Ripley resucitada en forma de androide.
+Ellen Ripley de _Alien 3_ (1992), decide morir para evitar el nacimiento del desagradable extraterrestre que vive en su interior. Ella extiende sus brazos en forma de cruz antes de su sacrificio. Cinco años después, la secuela llamada _Alien: Resurrections_ (1997), presenta a Ripley resucitada en forma de androide.
 
   
 
@@ -949,7 +949,7 @@ El personaje anticrístico de V muere por sus ideales revolucionarios, no sin an
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEga5L4D47S5FWhQLw0TYgMQX4QOsvjOeW73_fubv2KvbiNpTekIK6vhJMA9L2EQKRGyhdNowikIScPTggq6os5feDWvMisHxMOnC0m9Bc97X-k3pizn6P7v1xJIodO4GwfWXa2rO6Jvtlle98K5_XFmQyohWS1_6dlKYE3YoAaiNstzHrkUckykk2bA=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEga5L4D47S5FWhQLw0TYgMQX4QOsvjOeW73_fubv2KvbiNpTekIK6vhJMA9L2EQKRGyhdNowikIScPTggq6os5feDWvMisHxMOnC0m9Bc97X-k3pizn6P7v1xJIodO4GwfWXa2rO6Jvtlle98K5_XFmQyohWS1_6dlKYE3YoAaiNstzHrkUckykk2bA=s548)
 
-Cesar de _El Planeta de los Simios_ (2014) es herido mortalmente pero vive para seguir en su lucha como el jinete blanco.
+Cesar de _El Planeta de los Simios_ (2014) es herido mortalmente pero vive para seguir en su lucha como el jinete blanco.
 
   
 
@@ -965,9 +965,9 @@ Apocalipsis 13 es un capítulo importante que trata de la Bestia (también conoc
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEgqPeh9FGeFeen0y9EURaBVtYRuCyx2MK-7xL1ntW1M4CtX7K6zVUn6BvUbu8eY5DxuzawmKoULIpOOhoPFrzd49gffx6rgyPGfz7MxFvofY9yyp1s6YrdjRRr6yICgtnW78Glm7ZGuHKZu5JnafXW8YLsdbbBFlxS3j6ROiNQVWfj1yj-AovAE8U9t=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEgqPeh9FGeFeen0y9EURaBVtYRuCyx2MK-7xL1ntW1M4CtX7K6zVUn6BvUbu8eY5DxuzawmKoULIpOOhoPFrzd49gffx6rgyPGfz7MxFvofY9yyp1s6YrdjRRr6yICgtnW78Glm7ZGuHKZu5JnafXW8YLsdbbBFlxS3j6ROiNQVWfj1yj-AovAE8U9t=s548)
 
-El Superhéroe y Anticristo Shang-Chi, en _Shang-Chi y la leyenda de los Diez Anillos_ (2021), se hunde en el mar en un tipo de muerte simbólica, para luego tener un encuentro con un dragón. Ambos suben del mar con poder.
+El Superhéroe y Anticristo Shang-Chi, en _Shang-Chi y la leyenda de los Diez Anillos_ (2021), se hunde en el mar en un tipo de muerte simbólica, para luego tener un encuentro con un dragón. Ambos suben del mar con poder.
 
-> **"Después vi a una bestia que subía del mar. Tenía siete cabezas y diez cuernos, y una corona en cada cuerno; y escrito en cada cabeza había nombres que blasfemaban a Dios. Esta bestia se parecía a un leopardo, ¡pero tenía las patas de un oso y la boca de un león! Y el dragón le dio a la bestia su propio poder y trono y gran autoridad."** –**Apocalipsis 13:1-2**
+> **"Después vi a una bestia que subía del mar. Tenía siete cabezas y diez cuernos, y una corona en cada cuerno; y escrito en cada cabeza había nombres que blasfemaban a Dios. Esta bestia se parecía a un leopardo, ¡pero tenía las patas de un oso y la boca de un león! Y el dragón le dio a la bestia su propio poder y trono y gran autoridad."** –**Apocalipsis 13:1-2**
 
 Una postulación sería que el Anticristo será poseído por una entidad demoniaca que saldrá del Hades, es decir, del centro de la Tierra, cruzará el mar y llegará al cuerpo del Anticristo para poder resucitarlo con un nivel superior de su estado anterior. No necesariamente Satanás será la fuente de estos eventos milagrosos. De hecho, 2 Tesalonicenses 2:11–12 dice: “Por tanto, Dios enviará sobre ellos un poder engañoso, para que crean en la mentira, a fin de que sean juzgados todos los que no creyeron a la verdad, sino que se complacieron en la malicia." Dios es quien permite que Satanás y sus discípulos hagan estas cosas de manera similar a como Él usaría cualquier instrumento humano para obrar verdaderos milagros. La posibilidad de que el Anticristo regrese a la vida, ya sea con el permiso soberano de Dios o con su obra activa, no debe causar asombro. No es imposible que el Anticristo regrese a la vida debido al estado único de la Tribulación y la mayor capacidad del poder satánico durante ese tiempo.
 
@@ -996,11 +996,11 @@ El Anticristo, el hijo de perdición, será un imitador de Cristo, y tratará de
 
 456 de la serie _Squid Game_ es herido en la batalla final, su mano es atravesada por un cuchillo al igual que su costado. Ambos referencias a los clavos que atravesaron las manos de Jesucristo y la lanza del centurión romano.
 
-> "Le dijeron, pues, los otros discípulos: Al Señor hemos visto. Él les dijo: Si no viere en sus manos la señal de los clavos, y metiere mi dedo en el lugar de los clavos, y metiere mi mano en su costado, no creeré." –Juan 20:25
+> "Le dijeron, pues, los otros discípulos: Al Señor hemos visto. Él les dijo: Si no viere en sus manos la señal de los clavos, y metiere mi dedo en el lugar de los clavos, y metiere mi mano en su costado, no creeré." –Juan 20:25
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi1HwjnyV20LKNChyDdPAsCHmmxa6Np6Gw6t1yCCGCbIsoyIAexymehKxfD86tksznhzpJRL22hzAefOiBbfUvENlY4rkF-_NOjDV7juegguSWN9y40nVrv-fJFOa2s1jvDOR5z1SEiDvF3QwZ2IQnDKtKEeLo-1EhRM3i8UkepVZfByqI6L2aLzrp/s16000/456-jesus.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi1HwjnyV20LKNChyDdPAsCHmmxa6Np6Gw6t1yCCGCbIsoyIAexymehKxfD86tksznhzpJRL22hzAefOiBbfUvENlY4rkF-_NOjDV7juegguSWN9y40nVrv-fJFOa2s1jvDOR5z1SEiDvF3QwZ2IQnDKtKEeLo-1EhRM3i8UkepVZfByqI6L2aLzrp/s548/456-jesus.jpg)
 
-Luego de ganar el Juego del Calamar, 456 es arrojado inconsciente en la acera. Un predicador que anuncia el juicio final lo encuentra, colocando una cruz que dice "Cree en Jesús" a su lado. El vínculo que intenta crear la serie entre 456 y Jesucristo es evidente.   
+Luego de ganar el Juego del Calamar, 456 es arrojado inconsciente en la acera. Un predicador que anuncia el juicio final lo encuentra, colocando una cruz que dice "Cree en Jesús" a su lado. El vínculo que intenta crear la serie entre 456 y Jesucristo es evidente.   
 
   
 
@@ -1014,7 +1014,7 @@ En la escena superior Satanás se manifiesta frente a Constantine antes de su mu
 
 > **"¡Ay de los que a lo malo dicen bueno, y a lo bueno malo; que hacen de la luz tinieblas, y de las tinieblas luz; que ponen lo amargo por dulce, y lo dulce por amargo!¡Ay de los sabios en sus propios ojos, y de los que son prudentes delante de sí mismos!" –Isaías 5:20-21**
 
-El derramamiento de sangre es muchas veces asociado a la figura del Anticristo en el cine. Referencia al calvario de Cristo y la importancia de su sangre en el plan de salvación de Dios. Esto puede ser muy evidente en personajes como Eleven de _Stranger Things_ o Goreng, en las escenas finales de _El Hoyo_, sin embargo la mayoría de los protagonistas mostrarán solo sutiles heridas como resultado de su batalla final con el antagonista.
+El derramamiento de sangre es muchas veces asociado a la figura del Anticristo en el cine. Referencia al calvario de Cristo y la importancia de su sangre en el plan de salvación de Dios. Esto puede ser muy evidente en personajes como Eleven de _Stranger Things_ o Goreng, en las escenas finales de _El Hoyo_, sin embargo la mayoría de los protagonistas mostrarán solo sutiles heridas como resultado de su batalla final con el antagonista.
 
   
 
@@ -1054,7 +1054,7 @@ Superman, el Anticristo por excelencia, es apuñalado con kriptonita en su costa
 
 > **"Mas cuando llegaron a Jesús, como le vieron ya muerto, no le quebraron las piernas. Pero uno de los soldados le abrió el costado con una lanza, y al instante salió sangre y agua." –Juan 19:33-34**
 
->  **"Llenaré a la familia de David y a los habitantes de Jerusalén con un espíritu de bondad y compasión. Ellos me mirarán a mí, a quien ellos atravesaron con una lanza, y se lamentarán como si estuvieran sufriendo la muerte de un hijo único. Sentirán tanta amargura como quien sufre la muerte del hijo mayor." –Zacarías 12:10**
+>  **"Llenaré a la familia de David y a los habitantes de Jerusalén con un espíritu de bondad y compasión. Ellos me mirarán a mí, a quien ellos atravesaron con una lanza, y se lamentarán como si estuvieran sufriendo la muerte de un hijo único. Sentirán tanta amargura como quien sufre la muerte del hijo mayor." –Zacarías 12:10**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjacpD2IPutApWMQWV1_mZWk1lQy5yzlYpvjO4kwIXC-0uxOO3ajeEYZQ4rDsap_fkOIK8Fy_Nz2gOzJF_6Vzfyjo_4tmvUnNg3yM2uOwamzmS8dxLLL6TkoLJWqVIHOhJg4yzuR-q78v_h8F-UNfVtRB0JWqD6Kd-Hb79jGuXL1IDRn0cgV-_tPAGm/s16000/gladiator.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjacpD2IPutApWMQWV1_mZWk1lQy5yzlYpvjO4kwIXC-0uxOO3ajeEYZQ4rDsap_fkOIK8Fy_Nz2gOzJF_6Vzfyjo_4tmvUnNg3yM2uOwamzmS8dxLLL6TkoLJWqVIHOhJg4yzuR-q78v_h8F-UNfVtRB0JWqD6Kd-Hb79jGuXL1IDRn0cgV-_tPAGm/s548/gladiator.jpg)
 
@@ -1076,13 +1076,13 @@ John Snow, protagonista de _Juego de Tronos_ recibe una serie de heridas mortale
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL5NWZXx9oZuUgWiEhT5EutbHnk4YDldfJVrgBETFH4okiOJtMPS4dSTp8vUnZbSIA3_9QmrDd24jraLYop_KDlCjJJsLjx7X_hPnu6i6cZHrMpH20soTnDiHkIvry6WBmRkqnfQiWAVwraRwEwfmnil2s1Ac9blVHYhg8w2bZS0nX6JuHteSIwKT4/s16000/sersei-stabbed.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL5NWZXx9oZuUgWiEhT5EutbHnk4YDldfJVrgBETFH4okiOJtMPS4dSTp8vUnZbSIA3_9QmrDd24jraLYop_KDlCjJJsLjx7X_hPnu6i6cZHrMpH20soTnDiHkIvry6WBmRkqnfQiWAVwraRwEwfmnil2s1Ac9blVHYhg8w2bZS0nX6JuHteSIwKT4/s548/sersei-stabbed.jpg)
 
-Sersei, en Eternals (2021) es apuñalada por el bando contrario, pero vive para detener el juicio final de Ikaris, quien representa ocultamente a YHWH. Los Eternals son una raza superior extraterrestre, descritos en la Biblia como los Nefilim. Estos son el resultado de ángeles caídos cruzados con mujeres humanas. 
+Sersei, en Eternals (2021) es apuñalada por el bando contrario, pero vive para detener el juicio final de Ikaris, quien representa ocultamente a YHWH. Los Eternals son una raza superior extraterrestre, descritos en la Biblia como los Nefilim. Estos son el resultado de ángeles caídos cruzados con mujeres humanas. 
 
   
 
 Es interesante que las Escrituras también hacen referencia a las cicatrices del Anticristo ¿Cuáles podrían ser estas? En el capítulo anterior vimos que el Anticristo morirá y resucitará luego de que algo o alguien atente contra su vida durante el tiempo de la Tribulación. Una profecía en el libro de Zacarías parece dar más luz sobre las marcas del Anticristo, heridas que serán evidentes luego de su resurrección.
 
-> **“Y me dijo Jehová: Toma aún los aperos de un pastor insensato; porque he aquí, yo levanto en la tierra a un pastor que no visitará las perdidas, ni buscará la pequeña, ni curará la perniquebrada, ni llevará la cansada a cuestas, sino que comerá la carne de la gorda, y romperá sus pezuñas. ¡Ay del pastor inútil que abandona el ganado! Hiera la espada su brazo, y su ojo derecho; del todo se secará su brazo, y su ojo derecho será enteramente oscurecido.”** –**Zacarías 11:15-17**
+> **“Y me dijo Jehová: Toma aún los aperos de un pastor insensato; porque he aquí, yo levanto en la tierra a un pastor que no visitará las perdidas, ni buscará la pequeña, ni curará la perniquebrada, ni llevará la cansada a cuestas, sino que comerá la carne de la gorda, y romperá sus pezuñas. ¡Ay del pastor inútil que abandona el ganado! Hiera la espada su brazo, y su ojo derecho; del todo se secará su brazo, y su ojo derecho será enteramente oscurecido.”** –**Zacarías 11:15-17**
 
 > **"Vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada; y se maravilló toda la tierra en pos de la bestia, y adoraron al dragón que había dado autoridad a la bestia, y adoraron a la bestia, diciendo: ¿Quién como la bestia, y quién podrá luchar contra ella?" –Apocalipsis 13:3-4**
 
@@ -1094,11 +1094,11 @@ El Anticristo, luego de resucitar, ser poseído por la bestia que sube del mar, 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyFNS0yI-x--tcq-e2erq3D97EtxHo7og4pfvhm90ry2P_k0X-vvMkH9Q5CU7oLk7WS-gL0dLjyFjiujIaxrcc0CjkXe-UwhkOwlf36oeM7ZbOG3QuTdz2wLbJBTI-0s1nu1wdNFVw1lQmPq9ZHvGLSHB9zpDElCX20-jOmKWM08VCv43x_uPOsLiR/s16000/thor-one-eye.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyFNS0yI-x--tcq-e2erq3D97EtxHo7og4pfvhm90ry2P_k0X-vvMkH9Q5CU7oLk7WS-gL0dLjyFjiujIaxrcc0CjkXe-UwhkOwlf36oeM7ZbOG3QuTdz2wLbJBTI-0s1nu1wdNFVw1lQmPq9ZHvGLSHB9zpDElCX20-jOmKWM08VCv43x_uPOsLiR/s548/thor-one-eye.jpg)
 
-El dios nórdico Thor pierde un ojo en _Thor: Ragnarok_ (2017). La película termina con el juicio final sobre la nación extraterrestre de Asgard. Jesucristo describe en Lucas 10:18 a Lucifer cayendo del cielo como un rayo.
+El dios nórdico Thor pierde un ojo en _Thor: Ragnarok_ (2017). La película termina con el juicio final sobre la nación extraterrestre de Asgard. Jesucristo describe en Lucas 10:18 a Lucifer cayendo del cielo como un rayo.
 
   
 
-El líder del nuevo orden mundial, al que adorarán y se arrodillan las naciones, será conocido por tener el ojo derecho oscurecido. ¿Se ha preguntado porque muchas celebridades cubren uno de sus ojos en las sesiones fotográficas, portadas de revistas o videos musicales? Ellos, sin saberlo le rinden culto a la simiente de Satanás, el Anticristo. Los Egipcios retrataron a su dios Horus como tuerto, y existe el billete estadounidense de un dólar con el **[ojo que todo lo ve](https://www.ritualypropaganda.com/2021/09/ojo-que-todo-lo-ve.html)**, o el "ojo de la providencia" en el reverso. Los francmasones, dicen que es el ojo de dios, porque su dios es Lucifer, el adversario de Dios. Todas estas manifestaciones son un culto predictivo al futuro Anticristo.
+El líder del nuevo orden mundial, al que adorarán y se arrodillan las naciones, será conocido por tener el ojo derecho oscurecido. ¿Se ha preguntado porque muchas celebridades cubren uno de sus ojos en las sesiones fotográficas, portadas de revistas o videos musicales? Ellos, sin saberlo le rinden culto a la simiente de Satanás, el Anticristo. Los Egipcios retrataron a su dios Horus como tuerto, y existe el billete estadounidense de un dólar con el **[ojo que todo lo ve](https://www.ritualypropaganda.com/2021/09/ojo-que-todo-lo-ve.html)**, o el "ojo de la providencia" en el reverso. Los francmasones, dicen que es el ojo de dios, porque su dios es Lucifer, el adversario de Dios. Todas estas manifestaciones son un culto predictivo al futuro Anticristo.
 
   
 
@@ -1110,7 +1110,7 @@ El Caballero Templario y protagonista de _Temporada de Brujas_ (2011), Behman vo
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVO9CKolB3Rf_EbKb3a_IfSvGGsHsNKfMAZc2_8PzVj-Db_1DoLP3ECZXLeG62Y-Cnt632L4GH_GEPZIgUlyvE3EbMHt-EPpYrG4Byp5p3FXHTRZMfDN7U5xbNHI1-JCjozZfHQL4QQqvyoyxxAs-L5zw14kISdRc0ijHekrXRj25YWhDOBmYPPj_/s16000/valkiria.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVO9CKolB3Rf_EbKb3a_IfSvGGsHsNKfMAZc2_8PzVj-Db_1DoLP3ECZXLeG62Y-Cnt632L4GH_GEPZIgUlyvE3EbMHt-EPpYrG4Byp5p3FXHTRZMfDN7U5xbNHI1-JCjozZfHQL4QQqvyoyxxAs-L5zw14kISdRc0ijHekrXRj25YWhDOBmYPPj_/s548/valkiria.jpg)
 
-El film _Operación Valkiria_ (2008) cuenta la historia del coronel Claus von Stauffenberg, mejor conocido por su intento fallido el 20 de julio de 1944 de asesinar a Adolf Hitler. Antes fue herido de un ojo y afectado permanentemente de un brazo. La historia retrata al personaje principal con ciertos símbolos del Anticristo.
+El film _Operación Valkiria_ (2008) cuenta la historia del coronel Claus von Stauffenberg, mejor conocido por su intento fallido el 20 de julio de 1944 de asesinar a Adolf Hitler. Antes fue herido de un ojo y afectado permanentemente de un brazo. La historia retrata al personaje principal con ciertos símbolos del Anticristo.
 
   
 
@@ -1137,13 +1137,13 @@ Harry Potter es temporalmente cegado de un ojo durante su lucha contra Voldemort
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1O_hqmPACWTfQPO_et6KuSd71fv7XO1H4S7HEKhe0ZFESVtZk81NLxS2Wg9DpiW8T1k16aq9Z8rjHHlbshl_1aECzycmvsPs_-VluI43Q3YYh4ZTJF8OdR-oZrLyL2_8ane2lLAS3CpjcWUN6jLWmLyU8Q2uYi69vnxRLAQaV2rXXP8U_hmWu6CgL/s16000/terminator-eye.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1O_hqmPACWTfQPO_et6KuSd71fv7XO1H4S7HEKhe0ZFESVtZk81NLxS2Wg9DpiW8T1k16aq9Z8rjHHlbshl_1aECzycmvsPs_-VluI43Q3YYh4ZTJF8OdR-oZrLyL2_8ane2lLAS3CpjcWUN6jLWmLyU8Q2uYi69vnxRLAQaV2rXXP8U_hmWu6CgL/s548/terminator-eye.jpg)
 
-El cyborg del futuro, T-800, se auto-sacrifica para detener el juicio final que traen las máquinas en _Terminator 2: Día del Juicio_ (1992). Su ojo derecho y su brazo han sido dañados.
+El cyborg del futuro, T-800, se auto-sacrifica para detener el juicio final que traen las máquinas en _Terminator 2: Día del Juicio_ (1992). Su ojo derecho y su brazo han sido dañados.
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbTe-0kpWP_Kz22KGYEVKwhwqKRRHDdPflJqGXrFmImkgtZEs1uQfEiToT5ZHSvZz8Fq0l-PJSGSUkZLgRpU_odhYciNv8cpwYorPSnipNVe1J35YwycMxXTVuwF5yuapMjJfvvZjYMuu6URt7hGhHhMdEs6eKWeJcU5dg0MxOYVY8Y3u4uQyGWTtp/s16000/hulk.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbTe-0kpWP_Kz22KGYEVKwhwqKRRHDdPflJqGXrFmImkgtZEs1uQfEiToT5ZHSvZz8Fq0l-PJSGSUkZLgRpU_odhYciNv8cpwYorPSnipNVe1J35YwycMxXTVuwF5yuapMjJfvvZjYMuu6URt7hGhHhMdEs6eKWeJcU5dg0MxOYVY8Y3u4uQyGWTtp/s548/hulk.jpg)
 
-El uso del _Guante del Destino_ termina por "secar" literalmente el brazo de todos sus portadores en _Avenger: Infinity War_. 
+El uso del _Guante del Destino_ termina por "secar" literalmente el brazo de todos sus portadores en _Avenger: Infinity War_. 
 
   
 
@@ -1153,7 +1153,7 @@ La profecía de Zacarías 11:15-17 que detalla que "su brazo se secará", tiene 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8NqErKFFAcMMS1mhCGpC5XTEeCNqu95XVlw0za_Z6PPMyaeSoUkLlI2zcZRc_Rh5RQEtEw5K0QsqFfrG-WvRGyhI5jL6LngiFUoNrUm6qtpoyWiefAgSajN56tkJdQySYChyJMkxmu4J9N_ZysdiHRiuoDtkTEvTFRzeV9jjfhB_Ab1vzcZv7DkF9/s16000/klatuu-arm.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8NqErKFFAcMMS1mhCGpC5XTEeCNqu95XVlw0za_Z6PPMyaeSoUkLlI2zcZRc_Rh5RQEtEw5K0QsqFfrG-WvRGyhI5jL6LngiFUoNrUm6qtpoyWiefAgSajN56tkJdQySYChyJMkxmu4J9N_ZysdiHRiuoDtkTEvTFRzeV9jjfhB_Ab1vzcZv7DkF9/s406/klatuu-arm.jpg)
 
-Klaatu, el extraterrestre que llegó del cielo se recupera de una herida de bala en _El día que la Tierra se detuvo._
+Klaatu, el extraterrestre que llegó del cielo se recupera de una herida de bala en _El día que la Tierra se detuvo._
 
   
 

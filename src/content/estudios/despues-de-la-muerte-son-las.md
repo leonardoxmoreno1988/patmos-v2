@@ -9,7 +9,7 @@ description: "En el éxito de ventas multimillonario de 1975, Vida Después de l
 tags: ["Falsas Doctrinas"]
 ---
 
-En el éxito de ventas multimillonario de 1975, _Vida Después de la Vida_, Raymond Moody, ampliamente considerado como el padre de las **experiencias cercanas a la muerte**, ofrece un retrato conmovedor del amor incondicional y la aceptación universal que emana de la frontera entre este mundo y el próximo.
+En el éxito de ventas multimillonario de 1975, _Vida Después de la Vida_, Raymond Moody, ampliamente considerado como el padre de las **experiencias cercanas a la muerte**, ofrece un retrato conmovedor del amor incondicional y la aceptación universal que emana de la frontera entre este mundo y el próximo.
 
   
 
@@ -23,7 +23,7 @@ Atrás quedaron los retratos de recompensa y castigo en el más allá, reemplaza
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el plano espiritual, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el plano espiritual, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 En 2004, el pastor bautista Don Piper añadió al creciente corpus de información sobre vida tras vida después de su propia resurrección de entre los muertos. "Ahora", escribe el pastor Piper en sus 90 minutos en el cielo, "puedo hablar con autoridad sobre el cielo desde el conocimiento de primera mano". Entre los descubrimientos de primera mano de Piper estaba que las calles del cielo eran realmente de oro y que quienes las caminaban eran "viejos y jóvenes y de todas las edades intermedias". De hecho, dice Piper, "todas las personas que encontré tenían la misma edad que la última vez que las vi". Su abuelo todavía tenía la misma "mata de pelo blanco" y "nariz grande de plátano". Más notablemente, como Piper reveló a una audiencia televisiva cristiana mundial, porque él ya murió, y la gente solo muere una vez, Jesús regresará dentro de su propia vida. En esta edición del semanario global watch volvemos a examinar un tema que está al margen del cristianismo pero que está profundamente dentro del círculo del movimiento de la nueva era. Esta edición comparte totalmente las opiniones de Hank Hanegraaff, presidente del Christian Research Institute  
 
@@ -81,9 +81,9 @@ Independientemente de lo que haga que algunos eviten este tema misterioso, la EC
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsFxRVcAFFxT1yF4oYBTSyRqKshGrJAUUWJzpaPmuRomVbbe56tHgp76i4uXV-Rdqk3J4DJ1dMlTVFHxQP5u0ktQqxsXGZkHVlDdg-N6pzGT9r2UUMPq_xjm5w1ucC5hGg0-ynuybXQvo/w215-h320/vida.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsFxRVcAFFxT1yF4oYBTSyRqKshGrJAUUWJzpaPmuRomVbbe56tHgp76i4uXV-Rdqk3J4DJ1dMlTVFHxQP5u0ktQqxsXGZkHVlDdg-N6pzGT9r2UUMPq_xjm5w1ucC5hGg0-ynuybXQvo/s722/vida.png)
 
-Portada de _Vida Después de la Vida_.
+Portada de _Vida Después de la Vida_.
 
- 
+ 
 
 Para comprender mejor lo que es una experiencia cercana a la muerte, debemos remontarnos 17 años a la publicación de un libro que catapultó este tema al centro de atención nacional: Vida Después de la Vida de Raymond Moody. En este libro pequeño pero fascinante, Moody compiló una gran cantidad de relatos de ECM y descubrió 15 elementos separados que son comunes en estas experiencias.
 
@@ -141,7 +141,7 @@ Entre la legión de investigadores en el campo de las ECM, destacan dos: uno es
 
 Portada de _Vida al Morir_.
 
- 
+ 
 
 En _La Vida al Morir_ Ring trató de medir las experiencias de varias personas que afirmaban haberse sometido a ECM. Después de delinear sus experiencias en componentes bastante similares a los 15 elementos de Moody, asignó valores a cada componente. Su objetivo era determinar si se podía construir un patrón único a partir de sus relatos. Descubrió que ciertos sentimientos, percepciones y experiencias eran comunes entre las personas que entrevistó. _La Vida al Morir_ despertó un renovado interés en las ECM, tanto que la Asociación Internacional de Estudios Cercanos a la Muerte (IANDS) se estableció en Storrs, Connecticut. Ring cofundó y una vez se desempeñó como presidente de IANDS, que tiene sucursales internacionales.  
   
@@ -304,11 +304,11 @@ De hecho, este mensaje huele a ideas de la Nueva Era. Hillstrom examina este men
   
 Hay dos razones importantes por las que debemos acudir a la Biblia al tratar de comprender el fenómeno de las ECM. Primero (y obviamente para los cristianos), la Biblia es la autoridad suprema para guiar la vida de los creyentes. Transmite lo que Dios declara esencial para que los humanos sepan acerca de la verdad y cómo agradarle. Por lo tanto, todo lo que la Biblia tiene que decir sobre las experiencias cercanas a la muerte debe ser examinado a fondo y con objetividad. Además, debemos recurrir a la Biblia porque los defensores de las ECM también recurren a la Biblia para respaldar sus interpretaciones de este fenómeno. Dado que muchos de estos defensores creen en la universalidad de todas las religiones, naturalmente buscan pasajes de tantos textos religiosos como puedan encontrar que parezcan ser paralelos a la experiencia cercana a la muerte, incluido un relato bíblico particular que, según afirman, describe algunos elementos de una ECM.  
   
-Sin embargo, lo que los defensores de las ECM afirman encontrar en este relato bíblico no debe tomarse al pie de la letra, sino que también debe estudiarse en contraste con el modelo total de ECM que han establecido. El evento bíblico que los escritores de la Nueva Era frecuentemente tratan de vincular con las ECM está tomado de Hechos 9: 3-6 y 26: 12-23, que relatan respectivamente el encuentro de Pablo con Cristo en el camino a Damasco y el propio relato de Pablo sobre su experiencia. En esta historia, Pablo, que todavía se llamaba Saulo en ese momento, estaba ampliando su celosa persecución de los cristianos cuando una luz ardiente detuvo su viaje a Damasco. Después de ser cegado por la luz, Pablo escuchó una voz que le decía: "Saulo, Saulo, ¿por qué me persigues?" (9: 4). En ese momento, la voz se identificó a sí mismo como Jesús. A partir de esta experiencia, Pablo se convirtió en un discípulo dedicado de Cristo. Según Raymond Moody, "este episodio obviamente guarda cierta semejanza con el encuentro con el ser de luz en experiencias cercanas a la muerte".  
+Sin embargo, lo que los defensores de las ECM afirman encontrar en este relato bíblico no debe tomarse al pie de la letra, sino que también debe estudiarse en contraste con el modelo total de ECM que han establecido. El evento bíblico que los escritores de la Nueva Era frecuentemente tratan de vincular con las ECM está tomado de Actos 9:3-6 y 26:12-23, que relatan respectivamente el encuentro de Pablo con Cristo en el camino a Damasco y el propio relato de Pablo sobre su experiencia. En esta historia, Pablo, que todavía se llamaba Saulo en ese momento, estaba ampliando su celosa persecución de los cristianos cuando una luz ardiente detuvo su viaje a Damasco. Después de ser cegado por la luz, Pablo escuchó una voz que le decía: "Saulo, Saulo, ¿por qué me persigues?" (9: 4). En ese momento, la voz se identificó a sí mismo como Jesús. A partir de esta experiencia, Pablo se convirtió en un discípulo dedicado de Cristo. Según Raymond Moody, "este episodio obviamente guarda cierta semejanza con el encuentro con el ser de luz en experiencias cercanas a la muerte".  
   
 Moody apoya su afirmación trazando paralelismos entre la luz radiante, la presencia de un ser espiritual, la transmisión de un mensaje y el efecto transformador de esta experiencia con elementos que atribuye a las ECM. Además, dice Moody, aunque Pablo fue etiquetado como loco por su historia, pasó a predicar el amor como una forma de vida a los demás. Las correlaciones son bastante claras.  
   
-Sin embargo, existen evidentes distinciones entre los dos. Primero y más importante, Pablo no tuvo una experiencia cercana a la muerte. Algunas personas han preguntado cómo sabemos que no lo hizo. La mejor respuesta proviene del mismo Pablo cuando más tarde explica el incidente, ofreciendo más detalles al rey Agripa sin mencionar ni una vez que había muerto (Hechos 26: 2-29).  
+Sin embargo, existen evidentes distinciones entre los dos. Primero y más importante, Pablo no tuvo una experiencia cercana a la muerte. Algunas personas han preguntado cómo sabemos que no lo hizo. La mejor respuesta proviene del mismo Pablo cuando más tarde explica el incidente, ofreciendo más detalles al rey Agripa sin mencionar ni una vez que había muerto (Actos 26:2-29).  
   
 Otra diferencia es que la luz cegó a Paul, mientras que en las ECM la luz no daña visualmente los ojos de las personas. Moody admite estas dos variaciones, pero no menciona ninguna otra diferencia crítica. Si bien la mayoría de los que experimentan una ECM prefieren mantener su experiencia en privado, Paul se sintió obligado a proclamar su experiencia de conversión a todos los que lo rodeaban, incluso a aquellos que serían extremadamente hostiles a sus palabras. De hecho, Pablo demostró el mejor ejemplo de cumplimiento de la Gran Comisión de Jesús: no solo predicó el amor, sino que declaró a Jesucristo como el único camino a Dios. Más allá de la historia de conversión de Pablo, los de la Nueva Era tienen dificultades para enlistar otros relatos bíblicos con los que establecer similitudes con las ECM.
 
@@ -321,11 +321,11 @@ Representación del encuentro de Pablo con Jesús.
   
 Han aludido a la discusión de Pablo sobre los cuerpos espirituales (1 Cor. 15: 35-52); La referencia de Pablo a un hombre (aparentemente él mismo) que vio el tercer cielo (2 Cor. 12: 2-4), que afirman que fue una ECM; y la autodeclaración de Jesús como "la luz del mundo" (Juan 8:12). Sin embargo, ninguno de estos pasajes bíblicos tenía la intención de iluminar los misterios de la experiencia cercana a la muerte. En contexto, los "cuerpos espirituales" de los que Pablo escribe en 1 Corintios 15 son los cuerpos que los creyentes poseerán después de haber resucitado en el momento de la segunda venida de Cristo. La declaración de Jesús de que Él es la luz del mundo se refiere a la iluminación espiritual que Él trae al mundo; no tiene relevancia necesaria para la experiencia cercana a la muerte.  
   
-Si bien la experiencia que Pablo discute en 2 Corintios 12: 2-4 podría llamarse una experiencia cercana a la muerte, él mismo no sabía si había muerto ("fuera del cuerpo") o había tenido una visión ("en el cuerpo") - no se describe en términos similares al perfil de Moody de una ECM. Más bien, fue una experiencia reveladora única de acuerdo con el llamado único de Pablo como el "apóstol de los gentiles" (Gálatas 2: 7-9). Por tanto, no puede tomarse como representativo de una experiencia cercana a la muerte común a la humanidad.  
+Si bien la experiencia que Pablo discute en 2 Corintios 12:2-4 podría llamarse una experiencia cercana a la muerte, él mismo no sabía si había muerto ("fuera del cuerpo") o había tenido una visión ("en el cuerpo") - no se describe en términos similares al perfil de Moody de una ECM. Más bien, fue una experiencia reveladora única de acuerdo con el llamado único de Pablo como el "apóstol de los gentiles" (Gálatas 2:7-9). Por tanto, no puede tomarse como representativo de una experiencia cercana a la muerte común a la humanidad.  
   
-Hay varios casos en la Biblia en los que la gente ha regresado de entre los muertos: Eliseo devolvió la vida al niño sunamita (2 Reyes 4: 8-37); Jesús sanó a la hija muerta de un gobernante (Mateo 9: 18-26); y Jesús resucitó a Lázaro de entre los muertos (Juan 11: 38-44). Sin embargo, nunca se describe lo que les sucedió mientras estaban muertos y, por lo tanto, no necesitan discusión.  
+Hay varios casos en la Biblia en los que la gente ha regresado de entre los muertos: Eliseo devolvió la vida al niño sunamita (2 Reyes 4:8-37); Jesús sanó a la hija muerta de un gobernante (Mateo 9:18-26); y Jesús resucitó a Lázaro de entre los muertos (Juan 11:38-44). Sin embargo, nunca se describe lo que les sucedió mientras estaban muertos y, por lo tanto, no necesitan discusión.  
   
-Un relato bíblico que merece comentario es el apedreamiento de Esteban (Hechos 8: 54-60). En esta historia, Esteban mira al cielo y ve la gloria de Dios y Jesús. Pero lo que debe notarse es que Esteban tuvo esta visión antes de ser apedreado, es decir, no estaba muriendo cuando vio a Jesús. El punto es que la Biblia dice poco, si es que dice algo, sobre lo que ocurre durante una experiencia cercana a la muerte.  
+Un relato bíblico que merece comentario es el apedreamiento de Esteban (Actos 8:54-60). En esta historia, Esteban mira al cielo y ve la gloria de Dios y Jesús. Pero lo que debe notarse es que Esteban tuvo esta visión antes de ser apedreado, es decir, no estaba muriendo cuando vio a Jesús. El punto es que la Biblia dice poco, si es que dice algo, sobre lo que ocurre durante una experiencia cercana a la muerte.  
   
 Sin embargo, la Biblia es muy clara sobre el disgusto de Dios con aquellos que invitan a seres espirituales a sus vidas.  
   
@@ -333,11 +333,11 @@ Sin embargo, la Biblia es muy clara sobre el disgusto de Dios con aquellos que i
 > “No practiques la adivinación ni la hechicería... No recurran a los que evocan a los muertos ni busquen a los adivinos para contaminarse con ellos. Yo soy el Señor tu Dios”.  
 > —Levítico 19:26, 31
 
-Y, si el ser de luz es una entidad espiritual real que en realidad está transmitiendo un mensaje universalista, entonces, bíblicamente, debemos concluir que él es un espíritu maligno, no Jesucristo (Juan 14: 6-2 Corintios 11: 3).  
+Y, si el ser de luz es una entidad espiritual real que en realidad está transmitiendo un mensaje universalista, entonces, bíblicamente, debemos concluir que él es un espíritu maligno, no Jesucristo (Juan 14:6-2 Corintios 11:3).  
   
 Ahora, muchos ECM nunca buscaron una experiencia cercana a la muerte, ni buscaron el ser de luz. Por tanto, no se les puede acusar de violar la prohibición del espiritismo de Dios. Pero muchos otros, especialmente aquellos que defienden las ideas de la Nueva Era, buscan activamente nuevos encuentros con este ser. Estos son culpables de espiritismo y necesitan desesperadamente el arrepentimiento y la restauración ante el Dios verdadero. Pero ¿cómo podemos concluir que este ser de luz es un espíritu maligno cuando exuda amor, gozo y paz, y cuando anima a las personas a amar a los demás? Es difícil hablar en contra de tal argumento. Es mucho más fácil hablar contra un demonio cornudo con una horquilla que ordena a la gente odiar, herir y rebelarse.  
   
-La guerra espiritual, sin embargo, es un campo de batalla donde a menudo es difícil identificar al enemigo. Con frecuencia se disfraza de amigo querido. El engaño siempre ha sido su camino, y ha sido un arma mortal en su arsenal evidente desde que la usó en el Jardín del Edén. De hecho, Pablo advirtió a Timoteo que “en tiempos posteriores algunos abandonarán la fe y seguirán a los espíritus engañadores ya las enseñanzas de los demonios” (1 Timoteo 4: 1). Por supuesto, el engaño más perverso es cuando el diablo parece ser Dios. Una vez más, las palabras de Pablo suenan verdaderas: "Satanás mismo se disfraza de ángel de luz" (2 Corintios 11:14).  
+La guerra espiritual, sin embargo, es un campo de batalla donde a menudo es difícil identificar al enemigo. Con frecuencia se disfraza de amigo querido. El engaño siempre ha sido su camino, y ha sido un arma mortal en su arsenal evidente desde que la usó en el Jardín del Edén. De hecho, Pablo advirtió a Timoteo que “en tiempos posteriores algunos abandonarán la fe y seguirán a los espíritus engañadores ya las enseñanzas de los demonios” (1 Timoteo 4:1). Por supuesto, el engaño más perverso es cuando el diablo parece ser Dios. Una vez más, las palabras de Pablo suenan verdaderas: "Satanás mismo se disfraza de ángel de luz" (2 Corintios 11:14).  
   
 
 ## Conclusiones
@@ -361,6 +361,6 @@ En conclusión, debemos evitar generalizar demasiado las implicaciones de las E
   
 En muchos casos, algo decididamente mal ha ocurrido en algún momento a nivel espiritual; en otros casos, la experiencia puede haber sido simplemente un fenómeno natural; y en otros casos, el Señor mismo pudo haber estado involucrado en una auténtica experiencia cercana a la muerte.  
   
-Sin embargo, no podemos sacar ninguna conclusión sobre casos individuales sin primero tomar lo que se ha informado sobre la experiencia y el mensaje y examinar este informe a la luz de la Palabra de Dios. Según esta prueba, se condena cualquier doctrina que niegue el juicio de Dios. Pero cualquier testimonio que glorifique a Jesucristo como el único Señor y Salvador es digno de nuestra seria consideración (1 Corintios 12: 3).  
+Sin embargo, no podemos sacar ninguna conclusión sobre casos individuales sin primero tomar lo que se ha informado sobre la experiencia y el mensaje y examinar este informe a la luz de la Palabra de Dios. Según esta prueba, se condena cualquier doctrina que niegue el juicio de Dios. Pero cualquier testimonio que glorifique a Jesucristo como el único Señor y Salvador es digno de nuestra seria consideración (1 Corintios 12:3).  
   
 Gracias por leer _Después de la Muerte_, no olvide compartir este material con sus familiares y cercanos.

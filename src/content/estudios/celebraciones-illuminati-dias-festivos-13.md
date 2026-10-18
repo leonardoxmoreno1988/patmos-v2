@@ -9,7 +9,7 @@ description: "En este artículo intentamos transmitir el simbolismo que se encue
 tags: ["Sociedad"]
 ---
 
-En este artículo intentamos transmitir el simbolismo que se encuentra en prácticamente todas las **fiestas** y la importancia oculta que cada uno de ellas tiene. Cuando usted da un paso atrás e intenta mirar el propósito de la **simbología** extraña que se encuentra en nuestros **días festivos** (por ejemplo, ¿Por qué un conejo pondría huevos?), Comenzará a entender la manipulación que sucede en todos los niveles a nuestro alrededor. Verás que las fiestas tienen su propio rol que jugar en la adoración oculta del antiguo dios pagano **Nimrod** y la diosa **Semiramis**.  
+En este artículo intentamos transmitir el simbolismo que se encuentra en prácticamente todas las **fiestas** y la importancia oculta que cada uno de ellas tiene. Cuando usted da un paso atrás e intenta mirar el propósito de la **simbología** extraña que se encuentra en nuestros **días festivos** (por ejemplo, ¿Por qué un conejo pondría huevos?), Comenzará a entender la manipulación que sucede en todos los niveles a nuestro alrededor. Verás que las fiestas tienen su propio rol que jugar en la adoración oculta del antiguo dios pagano **Nimrod** y la diosa **Semiramis**.  
   
 
 [![semiramis y nimrod en la fiesta pagana romana de la saturnalia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhghsqNpfqicFnDNy0N_ajtZ5sjQV7pvgSV4oR3RAFke_SbpuPcZ2mnubI9dzW9feTl3MwETw5uQIKCWD4dqycqC7_Ks9ACaePHxo8KC3TKM18vkmozAhGHRMpuFOCVYYszNLN9J17bQH0/s1600/fiestas-paganas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhghsqNpfqicFnDNy0N_ajtZ5sjQV7pvgSV4oR3RAFke_SbpuPcZ2mnubI9dzW9feTl3MwETw5uQIKCWD4dqycqC7_Ks9ACaePHxo8KC3TKM18vkmozAhGHRMpuFOCVYYszNLN9J17bQH0/s1600/fiestas-paganas.jpg)
@@ -17,7 +17,7 @@ En este artículo intentamos transmitir el simbolismo que se encuentra en práct
 [](https://www.blogger.com/null)  
 La mayoría de los feriados y el simbolismo adjunto tienen lazos con el sacrificio humano y la magia. Intentaremos hacerlo lo más indoloro posible, pero los recién llegados a este territorio podrían tener dificultades para navegar a través del material.  
   
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, sociedades secretas, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, sociedades secretas, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Toda la información a ser presentada proviene de nuestra interpretación personal y lecturas de diversas fuentes, seleccionando y escogiendo lo que consideramos relevante. Simplemente tratamos de unir las piezas del rompecabezas para tener sentido a partir de lo que hemos oído explicar de otros teóricos de la conspiración.  
   
@@ -26,7 +26,7 @@ Las teorías parecen tener ciertos agujeros pero es duro probar o refutar sin un
 
 ## El Inicio de los días festivos
 
-La edad de bronce de la cultura mesopotámica es cuando los conceptos del politeísmo (adoración de dioses múltiples, por ejemplo, el paganismo) parecen originarse (3600-1200 aC), y vemos referencias a este tipo de adoración en la Biblia. La cultura mesopotámica incluía a los sumerios, asirios y babilonios, y estas culturas vivían en el actual Irak y Siria.  
+La edad de bronce de la cultura mesopotámica es cuando los conceptos del politeísmo (adoración de dioses múltiples, por ejemplo, el paganismo) parecen originarse (3600-1200 a. C.), y vemos referencias a este tipo de adoración en la Biblia. La cultura mesopotámica incluía a los sumerios, asirios y babilonios, y estas culturas vivían en el actual Irak y Siria.  
   
 Los cananeos mencionados en la Biblia vivían justo fuera de la región de Mesopotamia en el oeste de Siria, Jordania e Israel.  
   
@@ -37,9 +37,9 @@ Los mesopotámicos tuvieron la primera forma registrada de religión. Creían en
 
   
   
-Un ministro protestante llamado Alexander Hislop escribió un libro titulado _The Two Babylons_ (Las Dos Babilonias) en 1853 en el que postulaba que Semiramis era una persona real de Mesopotamia y fue la responsable de la creencia de múltiples dioses y diosas. Todos los dioses y diosas en última instancia se refieren a esta diosa, Semiramis, y su homólogo dios, Nimrod.  
+Un ministro protestante llamado Alexander Hislop escribió un libro titulado _The Two Babylons_ (Las Dos Babilonias) en 1853 en el que postulaba que Semiramis era una persona real de Mesopotamia y fue la responsable de la creencia de múltiples dioses y diosas. Todos los dioses y diosas en última instancia se refieren a esta diosa, Semiramis, y su homólogo dios, Nimrod.  
   
-Nimrod era también una persona real escrita en la Biblia como descendiente de Noé. Él es el líder del pueblo que construyó la Torre de Babel y estableció la práctica del culto al fuego y la idolatría, de acuerdo con una obra de literatura árabe llamada el Libro de los Rollos. Se le hace referencia como Zoroastro (el fundador del zoroastrismo, una religión iraní de 600 aC), y el rey asirio Ninus.  
+Nimrod era también una persona real escrita en la Biblia como descendiente de Noé. Él es el líder del pueblo que construyó la Torre de Babel y estableció la práctica del culto al fuego y la idolatría, de acuerdo con una obra de literatura árabe llamada el Libro de los Rollos. Se le hace referencia como Zoroastro (el fundador del zoroastrismo, una religión iraní de 600 a. C.), y el rey asirio Ninus.  
   
 Él es polémico porque que se declaró a sí mismo como un dios, y también celebró creencias en múltiples deidades, que desafiaban los principios monoteístas que Abraham (de la Biblia) trabajó para establecer. Algunas tradiciones judías e islámicas afirman que Abraham y Nimrod se enfrentaron en un enfrentamiento del tipo bien contra el mal.  
   
@@ -130,8 +130,7 @@ Establecido 13 días después de Imbolg está el Día de San Valentín. El Día 
   
 El día de fiesta fue fijado originalmente para honrar Semiramis, Tammuz, y Nimrod (la primera familia del ocultismo). Había un cierto etiquetado de nombres a lo largo del camino, incluyendo Semiramis transferido a Venus - la diosa de la luna de la fertilidad. El hijo, Tammuz, fue identificado como Cupido, y Nimrod (considerado la figura paterna de esta familia) fue reetiquetado como Júpiter (la versión romana de Zeus). Tammuz, también conocido como Cupido, era conocido por disparar flechas en el corazón, y se consideraba la semilla de todas las emociones en el cuerpo a la vez. La tradición de dar flores y dulces viene de la práctica oculta durante esta celebración cuando los fieles traían flores de primavera, dulces, etc. al templo para la diosa de la primavera (Semiramis) que había estado hibernando y ahora estaba empezando a despertar.  
 
-##   
-Día De San Patricio: 17 De Marzo
+## Día De San Patricio: 17 De Marzo
 
 La historia oficial de esta fiesta fue que San Patricio expulsó a todas las serpientes de Irlanda con la ayuda de Dios. Es conocido principalmente porque trató de llevar el cristianismo católico a las Islas Británicas. Sin embargo, los poderes ocultos se transforman en duendes (leprechauns), tréboles y arco iris.  
   
@@ -156,7 +155,7 @@ Ellos creían que Moloch les daría bendiciones financieras si sacrificaban a su
 
   
 
-El cuerno del unicornio fue atribuido con poderes curativos, y fue considerado una de las cosas más valiosas en la tierra. La Inquisición torturaría a aquellos que no reconocerían la fuerza y ​​la existencia del unicornio y su cuerno. El cuerno del unicornio espiral (al igual que el zigurat de la Torre de Babel), es otra referencia a Moloch. El cuerno te da bendiciones si pudieras adquirirlo (de nuevo, la misma lógica para los sacrificios Moloch). El _shillelagh_ o vastón del Leprechaun era apenas otra representación del cuerno de Moloch con sus energías.  
+El cuerno del unicornio fue atribuido con poderes curativos, y fue considerado una de las cosas más valiosas en la tierra. La Inquisición torturaría a aquellos que no reconocerían la fuerza y la existencia del unicornio y su cuerno. El cuerno del unicornio espiral (al igual que el zigurat de la Torre de Babel), es otra referencia a Moloch. El cuerno te da bendiciones si pudieras adquirirlo (de nuevo, la misma lógica para los sacrificios Moloch). El _shillelagh_ o vastón del Leprechaun era apenas otra representación del cuerno de Moloch con sus energías.  
   
 Los arco iris son también un símbolo de la antigua adoración de Moloch. Al final del arco iris hay tesoros que el duende o leprechaun haría cualquier cosa por conseguir. Se representa como un caldero lleno de oro. Una vez más, son las bendiciones financieras que Moloch le dio a cambio del sacrificio. Estos calderos fueron utilizados en las prácticas ocultas, incluyendo el baile sádico de las manzanas.  
   
@@ -181,10 +180,9 @@ El huevo de pascua es una leyenda babilónica que afirma que la diosa Ishtar (al
 
 El símbolo del conejo viene debido a la velocidad de la procreación, que vino junto con la leyenda de la fertilidad.
 
-###   
-Dulces de Pascua y bollos calientes en forma de cruz
+### Dulces de Pascua y bollos calientes en forma de cruz
 
-Como se mencionó en los otras festividades, la torre de Babel tenía un templo a Moloch en la cumbre. La gente traía caramelos, bollos calientes de la cruz, y flores hasta Moloch para honrarlo. La tradición de comer bollos calientes de la cruz en Viernes Santo se celebra en varios países alrededor del mundo, y los teóricos hacen referencia al siguiente pasaje de la Biblia de Jeremías 7: 17-21:
+Como se mencionó en los otras festividades, la torre de Babel tenía un templo a Moloch en la cumbre. La gente traía caramelos, bollos calientes de la cruz, y flores hasta Moloch para honrarlo. La tradición de comer bollos calientes de la cruz en Viernes Santo se celebra en varios países alrededor del mundo, y los teóricos hacen referencia al siguiente pasaje de la Biblia de Jeremías 7:17-21:
 
   
 
@@ -328,7 +326,7 @@ La fecha del 25 de diciembre se produjo en la tradición romana porque Julio Cé
 
 ### Árboles
 
-El libro de Jeremiah en la biblia dice no aprender las maneras de los paganos (por ejemplo paganos y ocultistas) y entonces habla sobre la decoración de un árbol que los paganos solía hacer. Aquí hay un extracto de Jeremías 10: 2-4:
+El libro de Jeremiah en la biblia dice no aprender las maneras de los paganos (por ejemplo paganos y ocultistas) y entonces habla sobre la decoración de un árbol que los paganos solía hacer. Aquí hay un extracto de Jeremías 10:2-4:
 
   
 
@@ -358,8 +356,7 @@ David Rockefeller mismo dijo:
 
 > **"Algunos incluso creen que somos parte de una camarilla secreta que trabaja en contra de los mejores intereses de Estados Unidos, caracterizando a mi familia y a mí como" internacionalistas "y de conspirar con otros alrededor del mundo para construir una estructura política y económica global más integrada - mundo, si quieres. Si esa es la acusación, me declaro culpable, y estoy orgulloso de ello."**
 
-###   
-Tronco de Navidad
+### Tronco de Navidad
 
 Como se mencionó anteriormente, cualquier cosa con "Navidad" en ella se refiere a la fiesta pagana del 21 de diciembre (una noche de sacrificio humano). El tronco de Navidad debía ser hecho de abedul y un pedazo de él debió haber estado ardiendo durante todo el año hasta la próxima Navidad, simbolizando el ciclo de reencarnación (de nuevo Semiramis y Nimrod).
 
@@ -375,8 +372,7 @@ La tradición del muérdago es interesante en que las bayas en él son venenosas
 
 La corona es otro símbolo de fertilidad; circular, para representar los órganos de las mujeres (el "círculo de la vida"). La vela en el centro es la representación fálica del hombre. Este mismo símbolo se usa en el Vaticano en la Plaza de San Pedro. En el centro hay un obelisco egipcio de 4.000 años con un círculo alrededor de él (que representa el falo masculino y la fertilidad femenina). El obelisco fue trasladado de Egipto, al Circo de Nero en Roma, donde fue testigo de incontables martirios cristianos y ejecuciones. Las líneas que emanan de la ubicación actual en el Vaticano (su tercer movimiento) lo convierten en un reloj de sol. Si la sombra del obelisco se encuentra dentro de uno de los ocho conjuntos de líneas, indicará una noche de sacrificio.
 
-###   
-Acebo y Papá Noel
+### Acebo y Papá Noel
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BVBOgAty36QXvhFhfJQIT33Y8zna8mHjyu2IU9msZZd8RlOYyY8RywavVXesU3BHvfSFzNmpU0JpVdVy_YFKB5u61kLJU0q1nq8apZ8uebvx1uPfvFouaNmzNGq3UnDzxrGzGpqMXkU/s1600/santa.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BVBOgAty36QXvhFhfJQIT33Y8zna8mHjyu2IU9msZZd8RlOYyY8RywavVXesU3BHvfSFzNmpU0JpVdVy_YFKB5u61kLJU0q1nq8apZ8uebvx1uPfvFouaNmzNGq3UnDzxrGzGpqMXkU/s1600/santa.jpg)El acebo fue utilizado por los Druidas para colgarlo en las ventanas para mantener a los malos espíritus alejados. El acebo fue considerada la planta sagrada de Saturno durante el festival romano de Saturnalia. Decorarían las imágenes del dios Saturno, y los cristianos eventualmente decorarían sus hogares como una manera de evitar la persecución de los romanos. También se consideraba como símbolo sagrado de la fertilidad. El acebo se asocia con la fertilidad masculina, mientras que su homólogo hiedra representa el aspecto femenino.  
   

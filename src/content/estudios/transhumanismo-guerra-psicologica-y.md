@@ -9,11 +9,11 @@ description: "Este artículo explora brevemente el tema del video transhumanista
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-Este artículo explora brevemente el tema del video **transhumanista** de **Black Eyed Peas "Imma Be / Rock That Body"**. Vigilant Citizen colaborando con LVB se expanden sobre este tema y describen las técnicas de la guerra psicológica utilizadas en este vídeo.   
+Este artículo explora brevemente el tema del video **transhumanista** de **Black Eyed Peas "Imma Be / Rock That Body"**. Vigilant Citizen colaborando con LVB se expanden sobre este tema y describen las técnicas de la guerra psicológica utilizadas en este vídeo.   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirKVOZTHuw9iTCh34pjoPMoNbZqVylReaWyTbnjiQEAt3lopm2S7has4jCRreK3IRkjUN4UqlpRoEnlrNPQc_ab1lYohujJRsDaWKjke_tNOfMoLXe1KQYTFQ0prlVbhz1dnceMbg46iDM/s1600/leadimmabe.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirKVOZTHuw9iTCh34pjoPMoNbZqVylReaWyTbnjiQEAt3lopm2S7has4jCRreK3IRkjUN4UqlpRoEnlrNPQc_ab1lYohujJRsDaWKjke_tNOfMoLXe1KQYTFQ0prlVbhz1dnceMbg46iDM/s1600/leadimmabe.jpg)
 
@@ -88,7 +88,7 @@ Los transhumanistas creen que están trabajando por una existencia nueva y mejor
 
   
 
-La mente de colmena 
+La mente de colmena 
 
   
 [](http://vigilantcitizen.com/wp-content/uploads/2010/04/worker-bees3-e1271531795711.jpg)Uno de los conceptos principales de la agenda transhumanista es:  
@@ -390,7 +390,7 @@ El bueno blanco Borg, los BEP\`s y los hombres nuevos y mejorados han sobrevivid
   
 Y, esto también es sólo otra versión de la típica “Hollyweird” forzando un "final feliz”, para dar a los espectadores la ilusión de alivio después del huracán de disonancia cognitiva que acabamos de presenciar en este vídeo. El giro es que la mayoría de los espectadores, probablemente no se dan cuenta de que acaba de ver a su propia raza morir aquí, y sustituida por la visión transhumanista de seres superinteligentes, sobrehumanos. Este final realmente lleva a casa el engaño principal en esta historia, y lo poderoso y eficaz que estas herramientas de guerra psicológica realmente son.
 
-   
+   
 
 ## Conclusión
 

@@ -33,13 +33,11 @@ Sus acciones no representan los preceptos amorosos encontrados en la Palabra de 
 
 La mayoría de las sectas están a un paso de ser un culto completo. La doctrina bíblica y la teología son desechadas en favor de niveles elevados de emocionalismo. Aunque no hay nada inherentemente malo con el emocionalismo, la pérdida de la integridad bíblica se convierte en algunas prácticas francamente extrañas. La ortodoxia afecta a la ortopraxia. En las iglesias auténticas, la ortodoxia bíblica es enseñada y practicada.  
 
-##   
-2\. Las interpretaciones personales son tomadas iguales o más altas que la verdad bíblica
+## 2\. Las interpretaciones personales son tomadas iguales o más altas que la verdad bíblica
 
 Recientemente, entrevisté al experto en culto, Michael Boehm. Boehm señaló que muchos líderes sectarios entrenados pueden torcer a la mayoría de los cristianos tomando varias citas de la Biblia. Sin una formación adecuada, los líderes sectarios y cultuales harán conexiones bíblicas que no existen. Por lo tanto, la interpretación del líder se da una posición igual, si no más alta, que los claros preceptos bíblicos. En las iglesias auténticas, a la verdad bíblica se le da más peso que las opiniones personales.  
 
-##   
-3\. No se permite que los miembros crezcan intelectualmente
+## 3\. No se permite que los miembros crezcan intelectualmente
 
 En las sectas y con los líderes cultuales, el intelecto es desechado. A los miembros se les desalienta el aprendizaje de la filosofía, la historia, la ciencia, la teología sistemática o cualquier cosa con la que los líderes no estén familiarizados. Gran parte de este antiintelectualismo viene del líder amenazado con información que mostraría una debilidad potencial en la filosofía o teología del líder.  
   
@@ -52,8 +50,7 @@ En las sectas, las preguntas son condenadas. Lo más probable es que los lídere
   
 En las iglesias auténticas, las preguntas son los medios de crecimiento. El líder y el liderazgo son transparentes. Las personas que no tienen nada que ocultar y son transparentes.  
 
-##   
-5\. Las tradiciones son equiparadas a mandamientos
+## 5\. Las tradiciones son equiparadas a mandamientos
 
 Aunque todas las iglesias han favorecido las tradiciones, las sectas elevan sus tradiciones al nivel de los Diez Mandamientos. Jesús combatió a los fariseos sobre esta misma cuestión. Jesús dijo a los fariseos en respuesta a una pregunta relativa a sus tradiciones,  
 
@@ -71,8 +68,7 @@ La sexta señal fluye desde la 5ta. Los miembros están obligados a seguir un ri
   
 Las iglesias auténticas, basadas en la Biblia, promoverán a los miembros a vivir un santo estilo de vida que proviene de la ética bíblica. Pero, los líderes se dan cuenta de que la gente es libre de tomar sus propias decisiones y no son dictatoriales (1 Pedro 5:1-5).  
 
-##   
-7\. Los desconocidos son vistos con escepticismo, se evita el evangelismo
+## 7\. Los desconocidos son vistos con escepticismo, se evita el evangelismo
 
 La séptima señal, octava y novena son complementarias. Dado que los líderes del culto buscan el control completo de sus miembros, los desconocidos o forasteros son vistos con gran escepticismo. Los miembros potenciales pueden ser permitidos de forma lenta y con gran reserva. Las sectas no están comprometidas con la Gran Comisión. El evangelismo es evitado. Los cultos están comprometidos con el poder y el control. Las iglesias auténticas están comprometidas con el evangelio. Los auténticos líderes cristianos tienen una pasión de ver a las almas venir a Cristo. Por lo tanto, las iglesias saludables son iglesias de misión.  
   
@@ -90,8 +86,7 @@ Un signo fuerte en el espectro de la autenticidad es la transparencia. Las igles
   
 Los líderes de las sectas no quieren que el público en general sepa lo que están haciendo. Cuanto más secreto es un movimiento, más motivo de preocupación. Jesús enseñó públicamente, realizó milagros públicamente, fue públicamente crucificado, resucitado públicamente, fue públicamente visto vivo después de su resurrección y públicamente ascendió al cielo.  
 
-##   
-10\. La iglesia desea que sus miembros se vuelvan más como ellos mismos que como Cristo.
+## 10\. La iglesia desea que sus miembros se vuelvan más como ellos mismos que como Cristo.
 
 El signo final de una iglesia de culto trata con el objetivo final. ¿Qué desean los líderes? Los líderes de sectas quieren que sus miembros sean más como sí mismos. Las iglesias auténticas desean que la gente se vuelva más parecida a Cristo. Si Cristo es el Hijo de Dios, entonces es el ejemplo perfecto para modelar.  
   
@@ -99,8 +94,7 @@ Cuando los líderes se vuelven sectarios, desean que la gente se vuelva como ell
   
 En cuanto a los líderes del culto, Jesús advirtió a los que abusivamente usaban a la gente en su día, diciendo: "¡Ay de ustedes, maestros de la ley y fariseos, hipócritas!, que recorren tierra y mar para ganar un adepto, y cuando lo han logrado, hacen de él una persona dos veces más merecedora del infierno que ustedes mismos." (Mateo 23:15).  
 
-##   
-Conclusión
+## Conclusión
 
 Este artículo no es un ataque contra la iglesia. La iglesia es una bendición. Muchas buenas iglesias basadas en la Biblia existen y están prosperando. Una persona necesita encontrar un lugar donde él o ella pueda asistir, crecer, desarrollarse y servir. Sin embargo, debemos darnos cuenta de que hay muchos lugares que dicen ser iglesias, pero no poseen características que están honrando al Señor.  
   

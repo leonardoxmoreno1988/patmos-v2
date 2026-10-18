@@ -9,10 +9,10 @@ description: "Un detalle en el libro acertadamente titulado El Suicidio de Europ
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
-Un detalle en el libro acertadamente titulado _**El Suicidio de Europa**_ (1968) de Michel Sturdza encendió mis campanas de alarma. En agosto de 1940, cuando Europa Occidental fue conquistada por los **nazis**, el almirante Canaris informó al Ministro de Relaciones Exteriores de Rumania que **Alemania** perdería la guerra.  
+Un detalle en el libro acertadamente titulado _**El Suicidio de Europa**_ (1968) de Michel Sturdza encendió mis campanas de alarma. En agosto de 1940, cuando Europa Occidental fue conquistada por los **nazis**, el almirante Canaris informó al Ministro de Relaciones Exteriores de Rumania que **Alemania** perdería la guerra.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNs4OqsMMJWkIXUvzZJqxkQUC_SFa5Ycosi_nKFwSKVImaFprc_mDdvvDsLCK8mX5iZELy1WL1aK7AADQ7pnD5oMatSU3gHflob2tgRbcC-E9HJY79mLuxyMO3REqj31rC0wVolFvpF8s/s1600/GUERRA-mundial-creada.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNs4OqsMMJWkIXUvzZJqxkQUC_SFa5Ycosi_nKFwSKVImaFprc_mDdvvDsLCK8mX5iZELy1WL1aK7AADQ7pnD5oMatSU3gHflob2tgRbcC-E9HJY79mLuxyMO3REqj31rC0wVolFvpF8s/s1600/GUERRA-mundial-creada.jpg)
@@ -57,4 +57,4 @@ La sede de la **[Internacional Comunista Capitalista](http://www.savethemales.ca
   
 No veo la Segunda Guerra Mundial como "la guerra buena". Fue fabricada para concentrar la riqueza y el poder, y para degradar y desmoralizar a la humanidad. Ambas partes eran culpables de atrocidades indecibles.  
   
-Las dos grandes guerras, y la potencial tercera, se destinarán a promover la dictadura Illuminati de un solo mundo y bajo su **[control mental](http://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html)**. La humanidad está en las garras de una conspiración diabólica multigeneracional, y está demasiado fascinada por el sexo y el dinero para darse cuenta de ello.
+Las dos grandes guerras, y la potencial tercera, se destinarán a promover la dictadura Illuminati de un solo mundo y bajo su **[control mental](http://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html)**. La humanidad está en las garras de una conspiración diabólica multigeneracional, y está demasiado fascinada por el sexo y el dinero para darse cuenta de ello.

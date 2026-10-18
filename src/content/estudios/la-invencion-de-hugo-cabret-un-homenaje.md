@@ -9,7 +9,7 @@ description: "En la obra de Martin Scorcese, La Invención de Hugo Cabret, un ho
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -54,8 +54,7 @@ Muchos antiguos alquimistas trataron de repetir este sistema de creación. Basad
   
 Debido a que solo Dios puede crear un alma, la verdad detrás de estas práctica cabalística es canalizar a un demonio para tomar posesión del ente creado. Esto es lo que el cuento de Pinocho trata de encubrir con "El Hada Azul" y lo que "La Invención de Hugo Cabret" representa como la llave en forma de corazón. Más adelante veremos cómo se relaciona esto con el luciferismo y la posesión de espíritus.
 
-##   
-Juegos Mentales De La CIA
+## Juegos Mentales De La CIA
 
 Al terminar la segunda guerra mundial EE.UU trajo consigo decenas de científicos nazis que habían experimentado con judíos en los campos de concentración, entre ellos Joseph Mengele, un sádico doctor con años de investigación en el control mental basado en el trauma. Una vez que estos científicos fueron instalados en bases subterráneas norteamericanas, la CIA los financió y haciendo caso omiso de sus crímenes contra la humanidad ayudaron a continuar con su experimentación sobre el control mental, esta vez con niños norteamericanos. En ese tiempo ya existían inmensas conexiones de la CIA con sacrificios de niños en rituales satánicos, esto es básicamente porque la CIA es manejada por miembros de sociedades secretas y escuelas de misterio, en su mayoría por masones de grado 33. Cuando estos experimentos comenzaron en 1950 la CIA empezó a secuestrar niños de diversas partes de EE.UU y enfermos de centros psiquiátricos.  
   
@@ -182,7 +181,7 @@ Uno de los subproyectos que nacieron del MK Ultra fue el proyecto Monarca, el cu
 
 **En otro de los dibujos vemos una joven con alas de mariposa, un símbolo del control mental monarca. En el momento que la víctima es drogada con fuertes dosis de LCD la sensación de poder volar como una mariposa es incrementada por sus controladores.**
 
-   
+   
 Cuando Hugo ya ha atravesado por diversas formas de programación junto a Isabelle, entre ellas conocer al verdadero George Melies, este descubre el propósito final del autómata (su psique). La película retrata esta parte de la programación con un extraño sueño donde primero es arrollado por un tren y otro donde Hugo se convierte en el mismo autómata. La primera es la muerte de su voluntad o alter principal, mientras que la conversión en un autómata indica que la programación ha finalizado y procede a cumplir el "propósito" para el que fue programado.  
   
 
@@ -263,7 +262,7 @@ Realmente es un viaje muy interesante por el que la película hace caminar al es
 
 **Un tributo a George Melies refleja nuevamente la fuerza detrás del nacimiento del cine: "el símbolo de un solo ojo"**
 
-   
+   
 
 En resumen, mientras se desenvuelve la trama vemos a un Hugo funcionando como un propio autómata, un ser programado que tiene como propósito traer de regreso a George Melies al mundo de la magia. En cierto punto se le dice a Melies que no podrá olvidar y que mas bien debe "desenterrar" los recuerdos, una marcada expresión reflejó el terror de Melies ante esta propuesta. ¿Podría ser la película el intento frustrado de Melies por librarse de la influencia de estas entidades? Si fue así, el personaje de Hugo estuvo ahí para recordarle que no podrá esconderse de su pasado.
 

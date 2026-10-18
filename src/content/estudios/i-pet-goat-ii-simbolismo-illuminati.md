@@ -115,7 +115,7 @@ Al lado de la escuela también vemos las torres gemelas colapsando mediante una 
 
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoB986LoI_UXX4Dz1dPZs-30aCyrLFn0wKqsqaTW4PMIsZv6Dwc5v3PqYMuhu-_3bxyAv-PEC6adStu28WpwunZLuSNVYH8HWHc1jXP5Do-db5o5AAtzKYoU4Jr9m1YETEzI-5Ab4iS0/s1600/osama.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoB986LoI_UXX4Dz1dPZs-30aCyrLFn0wKqsqaTW4PMIsZv6Dwc5v3PqYMuhu-_3bxyAv-PEC6adStu28WpwunZLuSNVYH8HWHc1jXP5Do-db5o5AAtzKYoU4Jr9m1YETEzI-5Ab4iS0/s1600/osama.jpg)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoB986LoI_UXX4Dz1dPZs-30 a. C.yrLFn0wKqsqaTW4PMIsZv6Dwc5v3PqYMuhu-_3bxyAv-PEC6adStu28WpwunZLuSNVYH8HWHc1jXP5Do-db5o5AAtzKYoU4Jr9m1YETEzI-5Ab4iS0/s1600/osama.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoB986LoI_UXX4Dz1dPZs-30 a. C.yrLFn0wKqsqaTW4PMIsZv6Dwc5v3PqYMuhu-_3bxyAv-PEC6adStu28WpwunZLuSNVYH8HWHc1jXP5Do-db5o5AAtzKYoU4Jr9m1YETEzI-5Ab4iS0/s1600/osama.jpg)
 
 **Osama Bin Laden se dirige a EE. UU. con su ejército para iniciar la guerra... durante un eclipse de luna. La insignia de la CIA en su pecho muestra que todo sigue siendo un espectáculo de títeres.**
 

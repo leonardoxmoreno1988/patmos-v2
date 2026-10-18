@@ -9,7 +9,7 @@ description: "En abril de 2017 apareció un artículo en The Guardian titulado \
 tags: ["Cine y Cultura"]
 ---
 
-En abril de 2017 apareció un artículo en The Guardian titulado "Dios en la máquina: mi extraño viaje al **transhumanismo**" El artículo fue escrito por una ex cristiana evangélica que pierde su fe y luego encuentra consuelo en una **filosofía tecnológica radical** que promete la **inmortalidad** y la trascendencia espiritual a pesar de que tales conceptos para ella parecían inquietantemente familiares.  
+En abril de 2017 apareció un artículo en The Guardian titulado "Dios en la máquina: mi extraño viaje al **transhumanismo**" El artículo fue escrito por una ex cristiana evangélica que pierde su fe y luego encuentra consuelo en una **filosofía tecnológica radical** que promete la **inmortalidad** y la trascendencia espiritual a pesar de que tales conceptos para ella parecían inquietantemente familiares.  
   
 
 [![cyborg humano mitad robot mitad hombre](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB-Sz0C8ZSDOImBi9aAtaB1AkMXLa3JlPAt1kbYo8Fxh63eVsY77qN3DsPEgeOHq2uWtjQxuRzZGCdQ_HHJCgAC_SWsRGe6WpFKELXsBjHxPVND7EiSL1Zp_wKJFwUfEKAEPZbxq2hEFI/s640/WhatIs_GenSix.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB-Sz0C8ZSDOImBi9aAtaB1AkMXLa3JlPAt1kbYo8Fxh63eVsY77qN3DsPEgeOHq2uWtjQxuRzZGCdQ_HHJCgAC_SWsRGe6WpFKELXsBjHxPVND7EiSL1Zp_wKJFwUfEKAEPZbxq2hEFI/s1600/WhatIs_GenSix.jpg)
@@ -26,7 +26,7 @@ Ella afirma:
   
 El transhumanismo, la filosofía que ha atrapado a esta ex cristiana, construye la ruptura posthumanista de los binarios humanistas (humano / máquina, humano / animal, hombre / mujer, etc.) y afirma que debemos usar la tecnología para mejorar a nosotros mismos hasta el punto de convertirnos en algo más que simples seres humanos. Los transhumanistas tienden a apoyar la investigación que prolongaría indefinidamente la vida humana, erradicaría las enfermedades, haría que las personas fueran más inteligentes y fuertes y pusiera fin a la pobreza y al sufrimiento. Mientras que el objetivo suena algo noble, el examen posterior demuestra que la filosofía es una reencarnación moderna de las serpiente en el Génesis. Más importante aún, la filosofía ya no es un producto de los curanderos tecnológicos, sino también ha entrado en las corrientes masivas donde está incrustando sus mensajes venenosos en la psique de la población. Y uno de los canales que está utilizando con gran efecto es la industria de la música.  
   
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 
 ## La Industria De La Música - Un Promotor
@@ -54,7 +54,7 @@ Con todo esto dicho, hay un empuje de la industria del entretenimiento para "nor
 Carl Jung fue un psicoanalista que habló de eventos sincrónicos, en los que básicamente puedes moldear tu mundo a través de tus pensamientos y porque los niños son capaces de proyectarse en un mundo imaginario cuando juegan con juguetes, su imaginación está madura para la auto sugerencia encontrada en la industria de la música.
 
   
-La industria de la música atrae a este público más joven y busca agarrar su imaginación para que puedan influir en su subconsciente a través de repetidos mantras. Mantenga un ojo 
+La industria de la música atrae a este público más joven y busca agarrar su imaginación para que puedan influir en su subconsciente a través de repetidos mantras. Mantenga un ojo 
 
 en los videos de música, ilustraciones y portadas de álbumes. No sólo verá el simbolismo de los Illuminati, sino notará un tema con los seres humanos robóticos.
 
@@ -189,7 +189,7 @@ Por otra parte, la música activa la segregación de la dopamina, que viene del 
 
   
 
-En la actualidad hay una serie de servicios que generan música personalizada o paisajes sonoros, basados ​​en su entorno y actividades. Uno de ellos es Melomics, que se describe como capaz de componer la música clásica contemporánea sin ayuda humana.  
+En la actualidad hay una serie de servicios que generan música personalizada o paisajes sonoros, basados en su entorno y actividades. Uno de ellos es Melomics, que se describe como capaz de componer la música clásica contemporánea sin ayuda humana.  
   
 Luego hay aplicaciones de música adaptable que retroalimentan los sonidos de su entorno en música. A través del aprendizaje automático, estos algoritmos pueden ser más inteligentes con el tiempo.  
   
@@ -237,10 +237,9 @@ Eventualmente, este arte será combinado totalmente con la realidad virtual, don
 
 > **"La tradición dice que la belleza está en los ojos del espectador. Menos poéticamente, la neurociencia sugiere que la belleza está en la activación de la corteza orbitofrontal medial. En principio, los agentes inteligentes pueden utilizar la biotecnología para amplificar y enriquecer la firma molecular de la apreciación estética más allá de los límites de la experiencia humana normal. Las creaciones artísticas y el mundo cotidiano por igual pueden parecer sublimes."**
 
-##   
-Conclusión
+## Conclusión
 
-Las semillas del Transhumanismo fueron sembradas primero en el Jardín del Edén. En Génesis 3 vemos a Satanás prometiendo a Adán y Eva que se convertirían en "semejantes a Dios" al comer el fruto del árbol del conocimiento del bien y del mal. Habiendo comido el fruto prohibido, fueron luego expulsados ​​del Jardín, para que no pudieran comer del Árbol de la Vida, y "vivir para siempre".  
+Las semillas del Transhumanismo fueron sembradas primero en el Jardín del Edén. En Génesis 3 vemos a Satanás prometiendo a Adán y Eva que se convertirían en "semejantes a Dios" al comer el fruto del árbol del conocimiento del bien y del mal. Habiendo comido el fruto prohibido, fueron luego expulsados del Jardín, para que no pudieran comer del Árbol de la Vida, y "vivir para siempre".  
   
 Mientras que la Biblia sólo nos da información incompleta e imprecisa, es evidente en estos versículos que la inmortalidad, fuera de la voluntad de Dios, estaba literalmente al alcance del hombre. Todo lo que tenía que hacer era comer el fruto del Árbol de la Vida.  
   

@@ -9,7 +9,7 @@ description: "El Templo \"satánico\" es un intento de integrar el satanismo pre
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
   
@@ -23,7 +23,7 @@ Leo Zagami: "Los verdaderos satanistas creen realmente que el diablo existe. Ell
   
 "El Templo satánico" se presenta como una nueva marca de "Satanismo" en los medios de comunicación estadounidenses.  
   
-El **[New York Times](http://www.nytimes.com/2015/07/11/us/a-mischievious-thorn-in-the-side-of-conservative-christianity.html?_r=0)** escribió recientemente que los fundadores Lucien Greaves y Malcolm Jarry seudónimos -- -- "han hecho más por la marca satánica que nadie desde Anton LaVey, el ocultista de San Francisco que escribió "La Biblia Satánica" (Avon, 1969). Solo con un sitio web, algunas astucias legales y una ingeniosa manera tipo sátira, los dos Bostonians' y su religión virtual se han convertido en una fuerte espina en la ceja de Cristianismo conservador."  
+El **[New York Times](http://www.nytimes.com/2015/07/11/us/a-mischievious-thorn-in-the-side-of-conservative-christianity.html?_r=0)** escribió recientemente que los fundadores Lucien Greaves y Malcolm Jarry seudónimos -- -- "han hecho más por la marca satánica que nadie desde Anton LaVey, el ocultista de San Francisco que escribió "La Biblia Satánica" (Avon, 1969). Solo con un sitio web, algunas astucias legales y una ingeniosa manera tipo sátira, los dos Bostonians' y su religión virtual se han convertido en una fuerte espina en la ceja de Cristianismo conservador."  
   
 Greaves y Jarry son dos niños ricos conectados a la **[élite del nuevo orden mundial](http://www.shanebugbee.com/?p=2161)**. Al menos uno, Jarry, es judío como LaVey.  
   

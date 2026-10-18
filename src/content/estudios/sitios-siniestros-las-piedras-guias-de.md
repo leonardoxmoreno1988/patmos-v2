@@ -9,12 +9,12 @@ description: "The Georgia Guidestone (Las Piedras Guías de Georgia) son un monu
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
   
-The Georgia Guidestone (**Las Piedras Guías de Georgia**) son un monumento misterioso en el cual están tallados diez “mandamientos” para una **“Nueva Edad de la Razón”**. El primer mandamiento: Mantenimiento de la población mundial en menos de 500 millones de personas. Otro hecho siniestro: Los autores de lo que nosotros ahora llamamos El Stonehedge Américano son aún un “misterio”… a excepción de los que saben. Vamos a ver las numerosas funciones de este monumento, de este mensaje pidiendo un Nuevo Orden Mundial y tratar de explicar cómo es el trabajo de una sociedad oculta y secreta. 
+The Georgia Guidestone (**Las Piedras Guías de Georgia**) son un monumento misterioso en el cual están tallados diez “mandamientos” para una **“Nueva Edad de la Razón”**. El primer mandamiento: Mantenimiento de la población mundial en menos de 500 millones de personas. Otro hecho siniestro: Los autores de lo que nosotros ahora llamamos El Stonehedge Américano son aún un “misterio”… a excepción de los que saben. Vamos a ver las numerosas funciones de este monumento, de este mensaje pidiendo un Nuevo Orden Mundial y tratar de explicar cómo es el trabajo de una sociedad oculta y secreta. 
 
   
 
@@ -31,7 +31,7 @@ Las Piedras Guías de Georgia es un enigmático monumento de granito situado en 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDSqlovJ8RI9bh6JbGGeYr_QOggPB8mgnmLwJ2jww66wceK77PhDfekD0b1Oq10fkE63iEYhhhoEhDLtsg_hPe91OUhljz_UECBNLoqaJTgS_p_nOLlaTHis2HU0uxD9Qn_rSR0q3qh0M/d/leadgeorgia-1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDSqlovJ8RI9bh6JbGGeYr_QOggPB8mgnmLwJ2jww66wceK77PhDfekD0b1Oq10fkE63iEYhhhoEhDLtsg_hPe91OUhljz_UECBNLoqaJTgS_p_nOLlaTHis2HU0uxD9Qn_rSR0q3qh0M/s590/leadgeorgia-1.jpg)
 
-**En silencio, de pie en el condado de Elberton, Las Piedras Guías de Georgia probablemente ganarán relevancia en los próximos años.** 
+**En silencio, de pie en el condado de Elberton, Las Piedras Guías de Georgia probablemente ganarán relevancia en los próximos años.** 
 
   
 Hecho de la pirámide de granito azul, Las Piedras Guías están destinados a soportar la prueba del tiempo y de comunicar el conocimiento en varios niveles: filosófico, político, astronómicamente, etc. Esto consiste de 4 principales bloques duros, los cuales contienen 10 guías para vivir en 8 idiomas: Inglés, español, swahili, hindú, hebreo, árabe, chino y ruso. Un mensaje corto está inscrito en la cima de la estructura en 4 antiguos códigos de lenguajes: Babilonio, griego clásico, sánscrito, y jeroglíficos egipcios. Es importante notar que estos últimos lenguajes antiguos son de una gran importancia en las enseñanzas de escuelas de misterios ocultos, como los masones y los rosacruces, organizaciones de las cuales hablaré después.  
@@ -48,7 +48,7 @@ Las Piedras Guías de Georgia se encuentran en una aclaratoria tableta listando 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyXgdhVNq8d7CJD3pvBkRljHJPAW3tihwa69dsDV6vG8Kkf_A1CrhVTJqJNwdoGUCtxueH4KVQzMh5AzKpvW2b1Gsg7pbo07Urs27QcfKDqGI3Zw-ziZeIcr3Vxmx9tzekrEsEVcVBCnU/d/guidestones2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyXgdhVNq8d7CJD3pvBkRljHJPAW3tihwa69dsDV6vG8Kkf_A1CrhVTJqJNwdoGUCtxueH4KVQzMh5AzKpvW2b1Gsg7pbo07Urs27QcfKDqGI3Zw-ziZeIcr3Vxmx9tzekrEsEVcVBCnU/s500/guidestones2.jpg)
 
-**La tabla de motivos (o tabla aclaratoria) explica algunas de las características de los monumentos y sus autores. La fecha de apertura de la cápsula del tiempo ha sido dejada en blanco.** 
+**La tabla de motivos (o tabla aclaratoria) explica algunas de las características de los monumentos y sus autores. La fecha de apertura de la cápsula del tiempo ha sido dejada en blanco.** 
 
   
 Características astronómicas son de una gran importancia en el diseño de Las Piedras Guías. En una relativamente “nueva” nación como Estados Unidos, monumentos que son alineados con cuerpos celestiales son a menudo el trabajo de sociedades secretas, como las de los masones. Dibujando sus enseñanzas desde las escuelas de misterio del antiguo Egipto, Grecia o los Celtas Druidas, ellos son conocidos por incorporar dentro de sus monumentos algo de su “conocimiento sagrado”.  
@@ -105,7 +105,7 @@ La segunda regla ("Guía de la sabia reproducción - la mejora de la diversidad 
 
 ## Un Gobierno Mundial
 
-> "Algunos incluso creen que somos parte de un grupo secreto de trabajo contra los mejores intereses de los Estados Unidos, que caracterizan a mi familia y a mí como" internacionalistas "y de conspirar con otros alrededor del mundo para construir un mundo más integrado de la estructura política y económica mundial – un mundo, si se quiere. Si ese es el cargo, me considero culpable, y estoy orgulloso de ello." 
+> "Algunos incluso creen que somos parte de un grupo secreto de trabajo contra los mejores intereses de los Estados Unidos, que caracterizan a mi familia y a mí como" internacionalistas "y de conspirar con otros alrededor del mundo para construir un mundo más integrado de la estructura política y económica mundial – un mundo, si se quiere. Si ese es el cargo, me considero culpable, y estoy orgulloso de ello." 
 
 > \-David Rockefeller, "Memorias de David Rockefeller", p.405
 
@@ -136,7 +136,7 @@ Desde la erección del monumento el 22 de marzo de 1980, numerosos autores e inv
 
 > [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEileDVgqDmskLB2dWhcYqumvtGoxlhYfxBiDKYkSi2FrZxpQEeDuSpD9L-21RMUOljz9w8eMob6Vf_sVZ4fer7vZ0O2aVOLjzZkLAxi5n5qk9ggM1_NjHboDJMgPXjGUXVKVI2PfToUPlc/s0/guidestonesvocer2-e1289596608158.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEileDVgqDmskLB2dWhcYqumvtGoxlhYfxBiDKYkSi2FrZxpQEeDuSpD9L-21RMUOljz9w8eMob6Vf_sVZ4fer7vZ0O2aVOLjzZkLAxi5n5qk9ggM1_NjHboDJMgPXjGUXVKVI2PfToUPlc/s311/guidestonesvocer2-e1289596608158.jpg)
 > 
-> Portada de las Piedras Guías de Georgia 
+> Portada de las Piedras Guías de Georgia 
 > 
 >
 > "Es muy probable que la humanidad ahora posea los conocimientos necesarios para establecer un gobierno mundial efectivo. De alguna manera que el conocimiento debería estar ampliamente sembrado en la conciencia de toda la humanidad. Muy pronto los corazones de nuestra familia humana deben ser tocado y alegrado, entonces nosotros daremos la bienvenida a una regla global de la razón.”  
@@ -202,7 +202,7 @@ Entonces, ¿quién era este "pequeño grupo de estadounidenses que buscan la eda
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0GRp2fj49c7ciZpNyIJ_xbe9KlMbs4jquDgW8Z1WYPbc0EQN5y4WWgns4rFMOlN5c1i0DBzwGzTSHnSR9fZIA4JU_L20YEwIvWMIxdVkrrbRYBwfOfwTfMu3clHPd6d2380fRNK10Qas/d/unveiling-e1289679168190.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0GRp2fj49c7ciZpNyIJ_xbe9KlMbs4jquDgW8Z1WYPbc0EQN5y4WWgns4rFMOlN5c1i0DBzwGzTSHnSR9fZIA4JU_L20YEwIvWMIxdVkrrbRYBwfOfwTfMu3clHPd6d2380fRNK10Qas/s450/unveiling-e1289679168190.jpg)
 
-**La revelación de The Georgia Guidestones ¿Podría una de esas personas ser el misterioso R.C. Cristian?** 
+**La revelación de The Georgia Guidestones ¿Podría una de esas personas ser el misterioso R.C. Cristian?** 
 
   
 
@@ -236,7 +236,7 @@ Si el nombre R.C. Cristian era simplemente un seudónimo sin sentido, ¿por qué
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLd2oUYGqT82YH7KHsOACe_Bf7gHR_Uh1o4RvFBAP6JWe3bxQejgrQSKlRX1Mb9H8GGJn3PRagTMBcu6swX9qyAYIpwv-HbZSnZm1gtRseqR_3wYELqndLVNGUAsPiYf-Ip5M-doVT7wc/d/SeekingEntry4.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLd2oUYGqT82YH7KHsOACe_Bf7gHR_Uh1o4RvFBAP6JWe3bxQejgrQSKlRX1Mb9H8GGJn3PRagTMBcu6swX9qyAYIpwv-HbZSnZm1gtRseqR_3wYELqndLVNGUAsPiYf-Ip5M-doVT7wc/s497/SeekingEntry4.jpg)
 
-**Buscando entrar en los misterios de Los Rosacruces. Nótece que el candidato está mostrando el signo de la mano discretamente. Observe también las letras "RC", como en R.C. Cristian.** 
+**Buscando entrar en los misterios de Los Rosacruces. Nótece que el candidato está mostrando el signo de la mano discretamente. Observe también las letras "RC", como en R.C. Cristian.** 
 
   
 Los Rosacruces son conocidos por publicar tres Manifiestos, publicado a principios del siglo 17: Fama Fraternitatis Rosae Crucis, Confessio Fraternitatis y Bodas Químicas de Christian Rosenkreutz.  

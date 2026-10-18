@@ -9,7 +9,7 @@ description: "Cisco Wheeler es una sobreviviente del Proyecto MK Ultra y co-auto
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
 **Cisco Wheeler** es una sobreviviente del Proyecto MK Ultra y co-autora del libro "La Formula Illuminati Utilizada Para Crear Esclavos Indetectables de Control Mental". En esta entrevista de radio trasmitida el 11 de enero de 1988, Cisco habla sobre las técnicas para la creación del desorden de personalidad múltiple (MPD), el satanismo generacional y como operan los illuminati para la creación de esclavos MK Ultra.
 
@@ -47,7 +47,7 @@ Wayne Morris:
 
 ¿Estas hablando de personas dentro de la Casa Blanca?:
 
- Cisco Wheeler:
+ Cisco Wheeler:
 
 Si. El Presidente Eisenhower fue el primer Presidente que yo recuerdo. El se hizo mi amigo cuando yo era una niña pequeña. Yo me sentaba en su regazo, le cantaba, habia gestos sexuales hacia atrás y hacia adelante. Yo estaba siendo entrenada. Yo entretuve Alcaldes, Gobernadores, Ministros. Yo estaba siendo entrenada en actividad sexual, y yo era parte de las funciones Illuminati en las juntas de la familia Real Británica.
 
@@ -59,7 +59,7 @@ Cisco Wheeler.
 
 Yo fui traumatizada en el útero.
 
-Wayne Morris: 
+Wayne Morris: 
 
 ¿Cómo te diste cuenta de que tu familia estaba conectada con los Illuminati?
 
@@ -543,7 +543,7 @@ Ellos lo hacen, por lo que te invalidan. Hay ciertos programas en los que si tu 
 
 Wayne Morris:
 
-En un sentido general, me pregunto si puedes dar alguna información a nuestros escuchas para sensibilizarlos en el sentido de que tipo de cosas fueron hechas, ¿que tipo  de técnicas fueron usadas para los propósitos de control mental?. Usted mencionó hipnosis, drogas, trauma.
+En un sentido general, me pregunto si puedes dar alguna información a nuestros escuchas para sensibilizarlos en el sentido de que tipo de cosas fueron hechas, ¿que tipo  de técnicas fueron usadas para los propósitos de control mental?. Usted mencionó hipnosis, drogas, trauma.
 
 Cisco Wheeler:
 

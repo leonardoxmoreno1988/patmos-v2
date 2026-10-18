@@ -9,15 +9,15 @@ description: "Uno de los 13 linajes Satánicos que gobiernan el mundo es el Lina
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-Uno de los 13 linajes Satánicos que gobiernan el mundo es el **Linaje Rockefeller**. Hoy en dia, hay alrededor de 190 miembros de esta familia con el nombre Rockefeller y por supuesto muchos otros con distintos apellidos. Este articulo busca explorar mas allá para aquellos que estudian a los **Illuminati** el cómo el **linaje Rockefeller** está envuelto en la promoción del **ocultismo** y del **satanismo**, y como ejercen control sobre las **denominaciones Cristianas**.   
+Uno de los 13 linajes Satánicos que gobiernan el mundo es el **Linaje Rockefeller**. Hoy en dia, hay alrededor de 190 miembros de esta familia con el nombre Rockefeller y por supuesto muchos otros con distintos apellidos. Este articulo busca explorar mas allá para aquellos que estudian a los **Illuminati** el cómo el **linaje Rockefeller** está envuelto en la promoción del **ocultismo** y del **satanismo**, y como ejercen control sobre las **denominaciones Cristianas**.   
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnezo7wTmytnZMLp1dvBKOu4jQvsWNUsQFtGjgM3apJqLYWvYF_FUKUMFHpmopNZNh6Xpq24fGirAqiiD3Q0XgwOqqG8fM-ttAB9tXbeRXoIOu78c_UHdxPC38rSE4syRVTnt5cQwv6f8/s1600/rockefeller.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnezo7wTmytnZMLp1dvBKOu4jQvsWNUsQFtGjgM3apJqLYWvYF_FUKUMFHpmopNZNh6Xpq24fGirAqiiD3Q0XgwOqqG8fM-ttAB9tXbeRXoIOu78c_UHdxPC38rSE4syRVTnt5cQwv6f8/s1600/rockefeller.jpg)  
   
-INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS. 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. 8: LOS ONASSIS. 9: LOS REYNOLDS. **10: LOS ROCKEFELLER.** 11: LOS ROTHSCHILD. 12: LOS RUSSELL. 13:  LOS VAN DUYN.  
+INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS. 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. 8: LOS ONASSIS. 9: LOS REYNOLDS. **10: LOS ROCKEFELLER.** 11: LOS ROTHSCHILD. 12: LOS RUSSELL. 13:  LOS VAN DUYN.  
   
 Familias de la Realeza Europea: Los Merovingios.  
 Familias Interconectadas: -Krupp -Disney -McDonald  
@@ -51,7 +51,7 @@ Cuatro Candidaturas seleccionadas para becas en 1984 de la Fundación de los Her
 
   
 
-El Concilio de las Fundaciones: 41,000 dólares. Este dinero fue otorgado de acuerdo con la Fundación R.B, hacia un proyecto de trabajo que llevará a cabo recomendaciones a partir de estudios que señale y elimine nuestra falta de conocimiento acerca de la interdependencia global sobre las relaciones internacionales y locales. Se dará énfasis en programas  de información y educacionales que permitan localizar grandes oportunidades de negocio en el comercio internacional.
+El Concilio de las Fundaciones: 41,000 dólares. Este dinero fue otorgado de acuerdo con la Fundación R.B, hacia un proyecto de trabajo que llevará a cabo recomendaciones a partir de estudios que señale y elimine nuestra falta de conocimiento acerca de la interdependencia global sobre las relaciones internacionales y locales. Se dará énfasis en programas  de información y educacionales que permitan localizar grandes oportunidades de negocio en el comercio internacional.
 
   
 
@@ -63,7 +63,7 @@ La Comisión Trilateral: 240,000 dólares.
 
   
 
-Ocho Gratificaciones Seleccionadas de 1984  de la Fundación de la Familia Rockefeller y la Fundación Rockefeller:
+Ocho Gratificaciones Seleccionadas de 1984  de la Fundación de la Familia Rockefeller y la Fundación Rockefeller:
 
 -   ACLU: 15,000 dólares.
 -   Asociación Histórica Americana:42,000 dólares.
@@ -87,7 +87,7 @@ Ahora ahondaremos profundamente en los siguientes seis elementos:
 
   
 
-El Seminario de la Unión Teológica ha venido operando a partir de las Fundaciones Rockefeller. La UTS no ha sido  el único Seminario Protestante recibiendo donaciones de las  Fundaciones de los Rockefeller, pero puede ser el mejor ejemplo de un Seminario controlado por los Rockefellers. La Fundación Sealantic declara dentro de sus propósitos y actividades, "Los Intereses actuales son principalmente la educación Teológica Protestante... El Presidente de la Fundación Sealantic cuándo ésta operaba fué David Rockefeller, y Laurance (no Lawrence) Rockefeller era el Vice-Presidente. Steven C. Rockefeller era uno de los fideicomisarios.
+El Seminario de la Unión Teológica ha venido operando a partir de las Fundaciones Rockefeller. La UTS no ha sido  el único Seminario Protestante recibiendo donaciones de las  Fundaciones de los Rockefeller, pero puede ser el mejor ejemplo de un Seminario controlado por los Rockefellers. La Fundación Sealantic declara dentro de sus propósitos y actividades, "Los Intereses actuales son principalmente la educación Teológica Protestante... El Presidente de la Fundación Sealantic cuándo ésta operaba fué David Rockefeller, y Laurance (no Lawrence) Rockefeller era el Vice-Presidente. Steven C. Rockefeller era uno de los fideicomisarios.
 
   
 
@@ -95,7 +95,7 @@ El Seminario de la Unión Teológica ha venido operando a partir de las Fundacio
 
   
 
-En 1952, el Congresista Eugene E. Cox encabezó un comité que por primera vez trató de descubrir las actividades de  los Rockefellers y de otras Fundaciones. Por alguna razón, Cox encontró una oposición muy dura contra todas las actividades de su comité, y el Congresista por alguna razón se enfermó y murió. Un miembro del comité, el Congresista Carroll Reese y su abogado Rene Wormser intentó continuar su investigación. Los periódicos y los secuaces de los Rockefeller hicieron su mejor esfuerzo  para destruir al Congresista Reese. A la investigación de Reese se le otorgó el minimo más elemental en cuanto a recursos y tiempo para su investigación. Sin embargo aún asi pudo descubrir que en los 1930s vastas sumas de dinero fueron gastadas por las Fundaciones Rockefeller y Carnegie. Este dinero fue para promover al Marxista Jhon Dewey en torno a una agenda del Nuevo Orden Mundial y al Socialismo. Las Fundaciones, (principalmente de los Rockefellers y Carnegies) estimularon a dos-tercios de la dotación de la financiación de todas las instituciones de alto aprendizaje en América durante el primer tercio del Siglo 20. LA NEA (Asociación Nacional de Educación) fue vastamente financiada por las fundaciones Carnegie/Rockefeller. Un reporte de la NEA de 1934 comunicó: "Una muerte completa de la laissez-faire (dejar hacer) debe ser destruida completamente y todos nosotros, incluidos los propietarios, debemos someternos a un alto grado de control social". El Abogado del comité de Reese, Rene Wormser escribió lo siguiente: "Se ha descubierto que la Fundación Rockefeller en colusión con algunos de los lideres educacionales de América, han llevado a un cuerpo natural de conspiración actual de las cosas, en orden de traer el Socialismo a través del uso de los sistemas escolares". Ellos descubrieron que la Fundación Rockefeller era la principal culpable detrás de la enseñanza del Socialismo en las Universidades y Escuelas de América y también descubrieron que se escondian detrás de las politicas de la NEA. Rene Wormser, el Consejero del comité de Reese reportó: "Un poderoso complejo de Fundaciones y organizaciones aliadas han desarrollado durante los años el ejercer un grado de control sobre la educación. Parte de este complejo de Fundaciones y principales responsables de este hecho, son los grupos de Fundaciones Rockefeller y Carnegie. Esta era la situación en 1950, cuando el comité de Reese investigó parcialmente. Los grupos Carnegie/Rockefeller han mantenido un control continuo sin oposición sobre la educación durante los últimos 70 años. Los Rockefeller tienen miembros  tales como Avery Rockefeller Jr, quien se sentó en la mesa directiva de Grolier Inc. Otro miembro interesante de la junta directiva es Theodore Waller el cual es director de Grolier Inc. El fué miembro del Comité del Libro Internacional de la UNESCO. Los Rockefeller mantienen una gran influencia sobre las Naciones Unidas.
+En 1952, el Congresista Eugene E. Cox encabezó un comité que por primera vez trató de descubrir las actividades de  los Rockefellers y de otras Fundaciones. Por alguna razón, Cox encontró una oposición muy dura contra todas las actividades de su comité, y el Congresista por alguna razón se enfermó y murió. Un miembro del comité, el Congresista Carroll Reese y su abogado Rene Wormser intentó continuar su investigación. Los periódicos y los secuaces de los Rockefeller hicieron su mejor esfuerzo  para destruir al Congresista Reese. A la investigación de Reese se le otorgó el minimo más elemental en cuanto a recursos y tiempo para su investigación. Sin embargo aún asi pudo descubrir que en los 1930s vastas sumas de dinero fueron gastadas por las Fundaciones Rockefeller y Carnegie. Este dinero fue para promover al Marxista Jhon Dewey en torno a una agenda del Nuevo Orden Mundial y al Socialismo. Las Fundaciones, (principalmente de los Rockefellers y Carnegies) estimularon a dos-tercios de la dotación de la financiación de todas las instituciones de alto aprendizaje en América durante el primer tercio del Siglo 20. LA NEA (Asociación Nacional de Educación) fue vastamente financiada por las fundaciones Carnegie/Rockefeller. Un reporte de la NEA de 1934 comunicó: "Una muerte completa de la laissez-faire (dejar hacer) debe ser destruida completamente y todos nosotros, incluidos los propietarios, debemos someternos a un alto grado de control social". El Abogado del comité de Reese, Rene Wormser escribió lo siguiente: "Se ha descubierto que la Fundación Rockefeller en colusión con algunos de los lideres educacionales de América, han llevado a un cuerpo natural de conspiración actual de las cosas, en orden de traer el Socialismo a través del uso de los sistemas escolares". Ellos descubrieron que la Fundación Rockefeller era la principal culpable detrás de la enseñanza del Socialismo en las Universidades y Escuelas de América y también descubrieron que se escondian detrás de las politicas de la NEA. Rene Wormser, el Consejero del comité de Reese reportó: "Un poderoso complejo de Fundaciones y organizaciones aliadas han desarrollado durante los años el ejercer un grado de control sobre la educación. Parte de este complejo de Fundaciones y principales responsables de este hecho, son los grupos de Fundaciones Rockefeller y Carnegie. Esta era la situación en 1950, cuando el comité de Reese investigó parcialmente. Los grupos Carnegie/Rockefeller han mantenido un control continuo sin oposición sobre la educación durante los últimos 70 años. Los Rockefeller tienen miembros  tales como Avery Rockefeller Jr, quien se sentó en la mesa directiva de Grolier Inc. Otro miembro interesante de la junta directiva es Theodore Waller el cual es director de Grolier Inc. El fué miembro del Comité del Libro Internacional de la UNESCO. Los Rockefeller mantienen una gran influencia sobre las Naciones Unidas.
 
   
 
@@ -103,7 +103,7 @@ En 1952, el Congresista Eugene E. Cox encabezó un comité que por primera vez t
 
   
 
-El 31 de Enero de 1945, Jhon D. Rockefeller direccionó a la iglesia Protestante en la ciudad de Nueva York y dijo que la respuesta a los problemas de la comunidad Cristiana era que la Cristiandad necesitaba convertirse en la "iglesia del Dios Viviente", muchos escuchando aquel dia, no se dan o no se dieron cuenta que los Illuminati de la cúspide se consideran a si mismos  Dioses, y la solución que Jhon D. Rockefeller cripticamente le dió a la comunidad Cristiana, era que le sirvieran a él como "Dios Viviente".
+El 31 de Enero de 1945, Jhon D. Rockefeller direccionó a la iglesia Protestante en la ciudad de Nueva York y dijo que la respuesta a los problemas de la comunidad Cristiana era que la Cristiandad necesitaba convertirse en la "iglesia del Dios Viviente", muchos escuchando aquel dia, no se dan o no se dieron cuenta que los Illuminati de la cúspide se consideran a si mismos  Dioses, y la solución que Jhon D. Rockefeller cripticamente le dió a la comunidad Cristiana, era que le sirvieran a él como "Dios Viviente".
 
   
 
@@ -119,7 +119,7 @@ Para esa gente con el cerebro lavado que piensan que esta publicidad gratuita de
 
   
 
-Finalmente, el 19 de Junio de 1972 la revista Time ofreció más cobertura a Anton Lavey con un articulo titulado "Lo Oculto Una Fé Substituta". Créanme, los grupos formados por verdaderos devotos Cristianos jamás han recibido tan buena publicidad de manera gratuita. No me estoy refieriendo a hombres como el Masón de grado 33 Billy Graham, quien trabaja para el Nuevo Orden Mundial y los Caballeros Templarios, tampoco a Charles T Russelll, fundador de la Sociedad de la Watchtower quienes reciben ambos gran cobertura por parte de la prensa. Otro ejemplo menor, y estoy señalando ejemplos menores porque estos ocurren muchas veces durante el transcurso del año, son los libros sobre Ovnis de Van Daniken. Lew Wasserman, cabeza de la MCA, quien es propietaro de la G.P Hijos de Putnam, es miembro del Consejo de la Universidad Rockefeller. La G.P Hijos de Putnam publicó los articulos Anticristianos de las teorias religiosas sobre Ovnis de Van Daniken.  Las Industrias Cadence son las propietarias de Marvel Comics. El hombre de la junta directiva de Cadence se sienta bajo las órdenes de David Rockefeller en lugares como la CFR. No es de extrañar que la Marvel Comics promueva el ocultismo y a héroes como "El Hijo de Satanás", ¿cual es el punto en donde los dólares paran?, ¿quién dice que los Rockefellers no tienen control sobre sus subordinados?.
+Finalmente, el 19 de Junio de 1972 la revista Time ofreció más cobertura a Anton Lavey con un articulo titulado "Lo Oculto Una Fé Substituta". Créanme, los grupos formados por verdaderos devotos Cristianos jamás han recibido tan buena publicidad de manera gratuita. No me estoy refieriendo a hombres como el Masón de grado 33 Billy Graham, quien trabaja para el Nuevo Orden Mundial y los Caballeros Templarios, tampoco a Charles T Russelll, fundador de la Sociedad de la Watchtower quienes reciben ambos gran cobertura por parte de la prensa. Otro ejemplo menor, y estoy señalando ejemplos menores porque estos ocurren muchas veces durante el transcurso del año, son los libros sobre Ovnis de Van Daniken. Lew Wasserman, cabeza de la MCA, quien es propietaro de la G.P Hijos de Putnam, es miembro del Consejo de la Universidad Rockefeller. La G.P Hijos de Putnam publicó los articulos Anticristianos de las teorias religiosas sobre Ovnis de Van Daniken.  Las Industrias Cadence son las propietarias de Marvel Comics. El hombre de la junta directiva de Cadence se sienta bajo las órdenes de David Rockefeller en lugares como la CFR. No es de extrañar que la Marvel Comics promueva el ocultismo y a héroes como "El Hijo de Satanás", ¿cual es el punto en donde los dólares paran?, ¿quién dice que los Rockefellers no tienen control sobre sus subordinados?.
 
   
 
@@ -155,11 +155,11 @@ Ellos necesitan una red de seguridad para atrapar a todos en su lavado de cerebr
 
   
 
-Michael Rockefeller murió cuando trató de sobornar con grandes sumas de dinero a miembros de una tribu de Nueva Guinea para que le fueran a cazar  cabezas y hacer que las cabezas fueran reducidas para él. Los nativos habían abandonado la caza de cabezas y Michael no podía sobornarlos con éxito. Finalmente cansados de Michael, ¡los nativos decidieron dirigirse a sí mismos a la caza de Michael!.
+Michael Rockefeller murió cuando trató de sobornar con grandes sumas de dinero a miembros de una tribu de Nueva Guinea para que le fueran a cazar  cabezas y hacer que las cabezas fueran reducidas para él. Los nativos habían abandonado la caza de cabezas y Michael no podía sobornarlos con éxito. Finalmente cansados de Michael, ¡los nativos decidieron dirigirse a sí mismos a la caza de Michael!.
 
   
 
-Muchos de los miembros de la familia Rockefeller tienen vidas problemáticas, llenas de grandes cantidades de miedos y con todo tipo de actividades ocultistas. Es sabido que los Rockefellers han frecuentemente construido túneles y cuartos secretos dentro de sus edificios. Ellos han desarrollado su ocultismo y poderes mundanos hasta el punto de considerarse Dioses. Debido a su gran cantidad de poder sufren a menudo de muertes violentas en rituales   por los cuales miembros del alto nivel de la jerarquia Satánica deben de pasar tradicionalmente. Uno que murió en Arizona es conocido por haber sido cremado.
+Muchos de los miembros de la familia Rockefeller tienen vidas problemáticas, llenas de grandes cantidades de miedos y con todo tipo de actividades ocultistas. Es sabido que los Rockefellers han frecuentemente construido túneles y cuartos secretos dentro de sus edificios. Ellos han desarrollado su ocultismo y poderes mundanos hasta el punto de considerarse Dioses. Debido a su gran cantidad de poder sufren a menudo de muertes violentas en rituales   por los cuales miembros del alto nivel de la jerarquia Satánica deben de pasar tradicionalmente. Uno que murió en Arizona es conocido por haber sido cremado.
 
   
 
@@ -171,10 +171,9 @@ Muchos de los miembros de la familia Rockefeller tienen vidas problemáticas, ll
 -   Allen Gary. Los Archivos Rockefeller. (Edición reimpresa de 1976). P.47.
 -   Alice Bailey. La Externalización de la Jerarquia. NY (866 United Nations Plaza!) Lucis Publicaciones Co., 1982.
 -   Josephson, Emanuel M. La Verdad Acerca de los Rockefeller, El Enemigo Público No.1. Estudios en Psicopatia Criminal. NY Chedney Press, 1964.
--   Springmeier Fritz. Ser Prudentes Como Las Serpientes.  Portland, OR : Fritz Springmeier, 1991.
+-   Springmeier Fritz. Ser Prudentes Como Las Serpientes.  Portland, OR : Fritz Springmeier, 1991.
 
-##   
-Otras Fuentes:
+## Otras Fuentes:
 
 Entrevistas con un ex-Illuminati, de un Francmasón de alto rango quien murió en circunstancias extrañas (fué llamado suicidio) justo después de completar esta exposición sobre el Nuevo Orden Mundial de la élite.
 
@@ -192,7 +191,7 @@ Ellos pusieron esto en un libro llamado "Santa Sangre, Santo Grial". Yo recomien
 
   
 
-Abraham Lincoln era la cabeza secreta de los Rosacruces, un miembro del Consejo Superior de los 3. (He visto las pistas sobre el papel de estas cosas acerca de Lincoln y para mi satisfacción son todas ciertas). Adolf Hitler también era en secreto miembro del linaje Rothschild. Hitler llevaba a cabo rituales sangrientos para abrir su mente a un alto nivel espiritual de control demoniaco. Rockefeller le vendió petróleo a Hitler durante la Segunda Guerra Mundial a través de España para que la Segunda Guerra Mundial se alargase. La historia en el libro menciona a personas que los "libros de historia" no mencionan, como Michael Augustus Martinelli Von Braun Rheinhold, el Satanista más poderoso del mundo hace unos pocos años.  Michael Augustus Martinelli Von Braun Rheinhold tuvo 66 novias Satánicas. Y ese libro Satánico en el castillo de las Madres de la Obscuridad también menciona al linaje Rockefeller. Sólo los iniciados deben saber la verdadera historia de lo que ha tenido lugar en la historia humana. Las verdaderas decisiones y los reales movedores y agitadores del mundo han estado escondidos del ojo público.
+Abraham Lincoln era la cabeza secreta de los Rosacruces, un miembro del Consejo Superior de los 3. (He visto las pistas sobre el papel de estas cosas acerca de Lincoln y para mi satisfacción son todas ciertas). Adolf Hitler también era en secreto miembro del linaje Rothschild. Hitler llevaba a cabo rituales sangrientos para abrir su mente a un alto nivel espiritual de control demoniaco. Rockefeller le vendió petróleo a Hitler durante la Segunda Guerra Mundial a través de España para que la Segunda Guerra Mundial se alargase. La historia en el libro menciona a personas que los "libros de historia" no mencionan, como Michael Augustus Martinelli Von Braun Rheinhold, el Satanista más poderoso del mundo hace unos pocos años.  Michael Augustus Martinelli Von Braun Rheinhold tuvo 66 novias Satánicas. Y ese libro Satánico en el castillo de las Madres de la Obscuridad también menciona al linaje Rockefeller. Sólo los iniciados deben saber la verdadera historia de lo que ha tenido lugar en la historia humana. Las verdaderas decisiones y los reales movedores y agitadores del mundo han estado escondidos del ojo público.
 
   
 

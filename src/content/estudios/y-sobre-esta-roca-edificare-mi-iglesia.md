@@ -32,7 +32,7 @@ Con esto sabemos que en Mateo 16:18-19 Jesucristo señaló primero a Pedro (pied
   
 Debemos entender que Pedro rechazó ser exaltado [como a un dios](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhd7nTWHBzs6-uFMxhcKU_tEYQwmC4pks1g&usqp=CAU), evitando que se postren ante Él (Actos 10:25-26), pero el Pontífice católico, supuesto sucesor de Pedro, permite que se postren ante Él.  
   
-Pedro no reclama la supremacía sobre los otros apóstoles en ninguna parte del Nuevo Testamento. Si uno lee sus propios escritos (1 y 2 de Pedro) el apóstol no reclamó ninguna autoridad piramidal sobre la iglesia primitiva.  
+Pedro no reclama la supremacía sobre los otros apóstoles en ninguna parte del Nuevo Testamento. Si uno lee sus propios escritos (1 y 2 Pedro) el apóstol no reclamó ninguna autoridad piramidal sobre la iglesia primitiva.  
   
 Otro fundamento de la doctrina católica es la exaltación de María, a un [nivel equivalente](https://catholicreview.org/wp-content/uploads/2022/03/lori-ukraine-bow-768x512.jpg) o casi equivalente a Jesucristo. Esta idea proviene de varias falsas aseveraciones extrabíblicas (Concilio de Constantinopla II; Documento Bula).  
   

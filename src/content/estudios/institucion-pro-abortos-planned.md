@@ -9,11 +9,11 @@ description: "La demanda de aborto es el culto a Baal en los tiempos modernos. E
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-La demanda de **aborto** es el culto a **Baal** en los tiempos modernos. El rey Acab y la reina Jezabel llevaron a los israelitas en el culto a **Baal** y el sacrificio de los niños en el Antiguo Testamento. Acaz fue tan lejos como para quemar "a su hijo como una ofrenda" a **Baal/Moloc**, como había hecho Manasés (ver 2 Reyes 16:3; 21:6).  
+La demanda de **aborto** es el culto a **Baal** en los tiempos modernos. El rey Acab y la reina Jezabel llevaron a los israelitas en el culto a **Baal** y el sacrificio de los niños en el Antiguo Testamento. Acaz fue tan lejos como para quemar "a su hijo como una ofrenda" a **Baal/Moloc**, como había hecho Manasés (ver 2 Reyes 16:3; 21:6).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7QCbc9TDT8qVID4_yYRuc7GmEV4SB2euth4YYIVe4s-5MYZTCFlb_fC_DJwzjJEFZfT6O0sOBvCj108TNrW4BuBu9VN2c5BbP8spUOLC0Ej1hG4Me4w3sVDAckoVCiPR99XU5HR_CKhA/s1600/baal.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7QCbc9TDT8qVID4_yYRuc7GmEV4SB2euth4YYIVe4s-5MYZTCFlb_fC_DJwzjJEFZfT6O0sOBvCj108TNrW4BuBu9VN2c5BbP8spUOLC0Ej1hG4Me4w3sVDAckoVCiPR99XU5HR_CKhA/s1600/baal.jpg)
@@ -35,7 +35,7 @@ Pero ¿dónde está la indignación? Cecil el león y una foto reciente de un ca
 
   
 
-Para preparar el terreno, tras la publicación de los dos primeros videos impactantes que muestran a los mejores médicos de Planned Parenthood discutiendo y organizando la venta de bebés abortados con actores que se hacen pasar por funcionarios de la firma de biotecnología, la empresa StemExpress, que compra los bebés abortados de Planned Parenthood para venderlos a universidades de investigación y otros lugares, consiguieron un juez que emita una orden de restricción para impedir la liberación de más videos relacionados con StemExpress.  
+Para preparar el terreno, tras la publicación de los dos primeros videos impactantes que muestran a los mejores médicos de Planned Parenthood discutiendo y organizando la venta de bebés abortados con actores que se hacen pasar por funcionarios de la firma de biotecnología, la empresa StemExpress, que compra los bebés abortados de Planned Parenthood para venderlos a universidades de investigación y otros lugares, consiguieron un juez que emita una orden de restricción para impedir la liberación de más videos relacionados con StemExpress.  
   
 **¿Por qué?**  
   

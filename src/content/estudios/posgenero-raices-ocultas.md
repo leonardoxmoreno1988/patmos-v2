@@ -17,7 +17,7 @@ Pero no es solo en las comunidades religiosas donde encontramos este tipo de enf
 
 En su libro _La Venganza de Eva: Las Mujeres y la Espiritualidad del Cuerpo_, Lilian Calles Barger comparte algunas de las formas en que las mujeres modernas están profundamente preocupadas por el hecho de su cuerpo físico. Ella muestra cómo la búsqueda de una espiritualidad incorpórea ha dejado a las mujeres extrañas en sus propios cuerpos. Influenciadas por el feminismo, las mujeres han sido sutilmente alentadas a ver su cuerpo como una barrera para la verdadera realización. El cuerpo de una mujer, una vez una fuente de orgullo, ahora se ve a menudo como una maldición, una barrera para la verdadera liberación cuando buscamos construir identidades independientes de las fijaciones de la creación material.
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
 Barger ilustró esto en una sección fascinante de su libro donde describe una conversación que tuvo en una conferencia feminista del Medio Oeste. Barger asistió a algunos debates fascinantes sobre género, sexualidad e identidad femenina. Posteriormente, Barger tuvo la oportunidad de tomar un café con una joven lesbiana, que había "salido del closet" a los catorce años. Barger reflexiona:
 
@@ -37,7 +37,7 @@ El movimiento consiste en individuos que trabajan a través de canales de influe
 
 Estos y muchos otros ejemplos similares denotan un cambio drástico dentro de la política global. Prácticamente cualquier religión oculta/mágica o de una sociedad secreta mantiene que Dios y/o el humano perfecto es andrógino o hermafrodita. Tal conocimiento oculto antiguo literalmente se está convirtiendo en una corriente principal, con noticias recientes, como por ejemplo, un niño de ocho años que decide elegir su propia expresión de género y los padres lo apoyan (en realidad, el caso más probable es que los padres manipularon al niño de ocho años, ya que a esa edad no se llega a tales conclusiones, ni se está reflexionando sobre tales problemas).
 
-Las religiones esotéricas o sociedades secretas ocultas de magia generalmente también sostienen que el Dios creador, YHVH, el Dios de la Biblia, es un Dios opresivo que quería mantener a la humanidad sometida  e ignorante. Por el contrario, afirman que Satanás (la serpiente) es el salvador de la humanidad que nos trajo la iluminación al alentar a Eva a comer del Árbol del Conocimiento. Por supuesto, el Árbol es el del Conocimiento del Bien y del Mal. Ahora, dado que se hace referencia al bien en numerosas ocasiones dentro del Génesis antes del consumo de la fruta prohibida, ¿Qué se podría haber añadido al comer de él, sino solo el mal?
+Las religiones esotéricas o sociedades secretas ocultas de magia generalmente también sostienen que el Dios creador, YHVH, el Dios de la Biblia, es un Dios opresivo que quería mantener a la humanidad sometida  e ignorante. Por el contrario, afirman que Satanás (la serpiente) es el salvador de la humanidad que nos trajo la iluminación al alentar a Eva a comer del Árbol del Conocimiento. Por supuesto, el Árbol es el del Conocimiento del Bien y del Mal. Ahora, dado que se hace referencia al bien en numerosas ocasiones dentro del Génesis antes del consumo de la fruta prohibida, ¿Qué se podría haber añadido al comer de él, sino solo el mal?
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjrEQ5UMnMwOKy2iAPIxR6gfcInyZy5h2jDXNtVEWn0zX3_8QDSO6Pt2W0QhUeM2-F6Dj_CVYxBJVBaGv9WDL8k3LVH_hcX3VRgcxdHpJ3ssCijRPiUvNrxgSBoxvLii3G3X1QWpyrvg/w400-h380/Captura+de+Pantalla+2021-04-02+a+la%2528s%2529+09.28.26.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjrEQ5UMnMwOKy2iAPIxR6gfcInyZy5h2jDXNtVEWn0zX3_8QDSO6Pt2W0QhUeM2-F6Dj_CVYxBJVBaGv9WDL8k3LVH_hcX3VRgcxdHpJ3ssCijRPiUvNrxgSBoxvLii3G3X1QWpyrvg/s1158/Captura+de+Pantalla+2021-04-02+a+la%2528s%2529+09.28.26.png)
 
@@ -47,7 +47,7 @@ Se está considerando el artículo _Posgenerismo: Más Allá de Género Binario_
 
 Génesis 1:27 dice:
 
->  **“Entonces Dios creó al hombre a su propia imagen, a imagen de Dios lo creó; hombre y mujer los creó".**
+>  **“Entonces Dios creó al hombre a su propia imagen, a imagen de Dios lo creó; hombre y mujer los creó".**
 
 Con la humanidad en general como "hombre" (como en “humano”) se nos dice que Dios creó los dos géneros. Todo lo que Satanás hace es copiar lo que Dios hace, pero al revés, invertido.
 
@@ -76,29 +76,29 @@ Según el ocultismo, la última concepción de Dios y, por lo tanto, la humanida
   
 
 > **"La tradición de que la humanidad era antiguamente hermafrodita es mundial".  
-> —Magus Incognito, La Doctrina Secreta de los Rosacruces, 1918 dC.**
+> —Magus Incognito, La Doctrina Secreta de los Rosacruces, 1918 d. C..**
 > 
 > **"Que el hombre era principalmente andrógino es universalmente aceptado y es una presunción razonable que finalmente recuperará este estado bisexual".  
-> —Manly P. Hall, Las Enseñanzas Secretas de Todas Las Edades, 1928 dC.**
+> —Manly P. Hall, Las Enseñanzas Secretas de Todas Las Edades, 1928 d. C..**
 > 
 > **"Es evidente que la concepción de un sexo doble, o de un sexo que combina los personajes de hombres y mujeres, atormentaba las mentes de los pueblos primitivos".  
-> —Edward Carpenter, Tipos Intermedios Entre La Gente Primitiva, 1914 dC.**
+> —Edward Carpenter, Tipos Intermedios Entre La Gente Primitiva, 1914 d. C..**
 > 
 > **"... la mitología de los Antiguos reconoce la naturaleza del hombre y la mujer ... en la unión mística ... que constituyen la Gran Deidad Hermafrodita ... los Panteones de las naciones antiguas reconocieron las mismas deidades".  
-> —Isaac P. Cory, Fragmentos Antiguos, 1923 dC.**
+> —Isaac P. Cory, Fragmentos Antiguos, 1923 d. C..**
 > 
 > **"En casi todas las mitologías primitivas encontramos, no solo un Gran Padre y una Madre, los representantes de los principios recíprocos, sino una Gran Unidad Hermafrodita de la cual proceden los primeros y en quienes ambos se combinan".  
-> —La Ophiolatreia de Autor Anónimo, 1889 dC.**
+> —La Ophiolatreia de Autor Anónimo, 1889 d. C..**
 > 
 > **"Al ver el proceso generativo en la unión de los órganos sexuales, el hombre primitivo llegó a concebirlo como esencialmente de naturaleza hermafrodita".  
-> —B.Z. Goldberg, El Fuego Sagrado, 1930 dC.**
+> —B.Z. Goldberg, El Fuego Sagrado, 1930 d. C..**
 > 
 > **"Amaury de Chartres sostuvo que, en el fin del mundo, ambos sexos deberían volver a unirse en la misma persona".  
-> —Hargrave Jennings, Los Rosacruces - Sus Ritos y Misterios, 1870 dC.**
+> —Hargrave Jennings, Los Rosacruces - Sus Ritos y Misterios, 1870 d. C..**
 
   
 
-Habiendo obtenido un contexto, podremos profundizar un poco más en las referencias ocultas del Posgénero.—Isaac P. Cory, en _Fragmentos Antiguos_ (1923 dC., introducción 34):  
+Habiendo obtenido un contexto, podremos profundizar un poco más en las referencias ocultas del Posgénero.—Isaac P. Cory, en _Fragmentos Antiguos_ (1923 d. C.., introducción 34):  
   
 
 > **“Al comparar todas las variadas leyendas de Oriente y Occidente en conjunto, obtenemos el siguiente esquema de la mitología de los Antiguos: reconoce, como elementos primarios de las cosas, dos principios independientes de la naturaleza del hombre y la mujer; y estos, en unión mística, como el alma y el cuerpo, constituyen la Gran Deidad Hermafrodita, El UNO, el universo mismo, que consta aún de los dos elementos separados de su composición, modificados aunque combinados en un solo individuo, de los cuales todas las cosas son consideradas pero como partes…**
@@ -107,23 +107,23 @@ Habiendo obtenido un contexto, podremos profundizar un poco más en las referenc
 
   
 
-El texto _La divina Pymander - Hermes Mercurius Trismegistus_ (1650 dC.) se atribuye a Hermes. En la sección “El segundo libro, llamado, Poemander” dice:
+El texto _La divina Pymander - Hermes Mercurius Trismegistus_ (1650 d. C..) se atribuye a Hermes. En la sección “El segundo libro, llamado, Poemander” dice:
 
 > **“Y por esta razón, el Hombre ... siendo sobre todo Armonía, está hecho y se convierte en un sirviente de la Armonía, es Hermafrodita, o Hombre y Mujer, y vigilante, está gobernado y sujeto a un Padre, que es Hombre y Mujer, y vigilante.”**
 
-C.A. Musés señala lo siguiente en _Enseñanzas Esotéricas del Tantra Tibetano_ (1961 dC.), Parte I, “Siete Rituales de Iniciación del Tantra Tibetano, cap. I”, “El Ritual de Iniciación del Feroz Gurú”:
+C.A. Musés señala lo siguiente en _Enseñanzas Esotéricas del Tantra Tibetano_ (1961 d. C..), Parte I, “Siete Rituales de Iniciación del Tantra Tibetano, cap. I”, “El Ritual de Iniciación del Feroz Gurú”:
 
 > **“Con furia ardiente arrancó los corazones de todos los Demonios de las Ocho Divisiones y los aplastó en la llanura. Luego los revivió y dijo: “Cuando tengo hambre, soy el ser que se come la carne de los demonios masculinos. Cuando tengo sed, bebo la sangre de las demonias. Cuando estoy activo, destrozo a los demonios de doble sexo.”**
 
-B.Z. Goldberg señaló lo siguiente en _El Fuego Sagrado_ (1930 dC.), cap. I, p. 202, “Amor en la Sinagoga”:
+B.Z. Goldberg señaló lo siguiente en _El Fuego Sagrado_ (1930 d. C..), cap. I, p. 202, “Amor en la Sinagoga”:
 
 > **“Así como el universo es un dualismo que busca la unidad, también el hombre mismo era originalmente dual; porque Dios creó al hombre de dos caras, que es de doble sexo, y lo dividió en hombres y mujeres. Desde que se logró esa separación, ni el hombre ni la mujer han estado completamente solos. Para darse cuenta de sí mismo, para encontrar la compleción y la armonía, debe buscar la unión con su pareja del sexo opuesto.”**
 
-En el cap. III, “En la Fundición de los Dioses”, señala: 
+En el cap. III, “En la Fundición de los Dioses”, señala: 
 
 > **“Aquí nuevamente la evolución del dios generativo siguió al desarrollo del sexo en la naturaleza. Cuando el hombre vino a vestir a su dios sexual con la forma humana, hizo que un individuo contuviera ambos órganos sexuales. Janus de los griegos no solo era de doble cabeza, sino también de doble sexo, hermafrodita, como una planta que produce estambres y pistilos en el mismo sobre floral. Siva, el gran dios de la India, es el Reproductor. Originalmente era una sola sustancia; pero por su propia voluntad se dividió en hombre y mujer.”**
 
-En P. 96, cap. V, “Formas Ocultas del Amor” Goldberg escribió: 
+En P. 96, cap. V, “Formas Ocultas del Amor” Goldberg escribió: 
 
 > **“Al ver el proceso generativo en la unión de los órganos sexuales, el hombre primitivo llegó a concebirlo como esencialmente de naturaleza hermafrodita. Y así, el escarabajo, porque se creía que era de doble sexo y capaz de fructificar, se convirtió en un emblema sagrado. Simbolizaba la fuerza generativa en la naturaleza.**
 > 
@@ -141,7 +141,7 @@ _Padres Antenicenos_, vol. VIII, cap. XVII, “Cosmogonía Gentil”:
 > 
 > **A esto lo llamaron Phanetas, por aparecer, porque cuando apareció, dicen, también brillaba la luz. Y de esto, dicen que se produjeron sustancia, prudencia, movimiento y coito, y de ellos se hicieron los cielos y la tierra. Desde el cielo dicen que se produjeron seis machos, a quienes llaman Titanes; y de la misma manera, de la tierra seis hembras, a quienes llamaron Titanides. Y estos son los nombres de los machos que surgieron del cielo: Oceanus, Cœus, Crios, Hyperion, Iapetus, Chronos, que entre nosotros se llama Saturno. De la misma manera, los nombres de las hembras que surgieron de la tierra son los siguientes: Theia, Rea, Themis, Mnemosyne, Tethys, Hebe.”**
 
-_Metamorfosis de Ovidio_ (1717 dC.) incluye la siguiente declaración dentro del "Libro cuarto: Así rezó la ninfa, y no rezó en vano”:
+_Metamorfosis de Ovidio_ (1717 d. C..) incluye la siguiente declaración dentro del "Libro cuarto: Así rezó la ninfa, y no rezó en vano”:
 
 > _Por ahora ella lo encuentra, mientras sus extremidades se mueven,  
 > __Crece más y más cerca de su pecho;  
@@ -153,7 +153,7 @@ _Metamorfosis de Ovidio_ (1717 dC.) incluye la siguiente declaración dentro del
 > __Ambos cuerpos en una sola mezcla corporal,  
 > __Un solo cuerpo con doble sexo._
 
-Albert Pike escribió lo siguiente en _Morales y Dogma del Antiguo y Aceptado Rito Escocés de la Masonería_ (1871 dC.), XXVIII, "Caballero del Sol o Príncipe Adepto": 
+Albert Pike escribió lo siguiente en _Morales y Dogma del Antiguo y Aceptado Rito Escocés de la Masonería_ (1871 d. C..), XXVIII, "Caballero del Sol o Príncipe Adepto": 
 
 > **“La doctrina de Ocelo era la doctrina general en todas partes, naturalmente ocurría en todo para hacer la misma distinción. Los egipcios lo hicieron, al seleccionar aquellos animales en los que reconocieron estas cualidades emblemáticas, para simbolizar el doble sexo del Universo.**
 > 
@@ -165,8 +165,7 @@ Albert Pike escribió lo siguiente en _Morales y Dogma del Antiguo y Aceptado Ri
 
 La ilustración de Eliphas Levi, Baphomet, combina rasgos femeninos como los senos con rasgos masculinos como un falo estilizado como un caduceo. Tenga en cuenta los términos “resolver” y “coagula” en los brazos: estos se refieren a la química alquímica en términos de solución y disolución.
 
-##   
-Postgenerismo y Transhumanismo
+## Postgenerismo y Transhumanismo
 
 El movimiento posthumano está activo en muchos frentes, la trascendencia del género por medios sociales y políticos ahora se está complementando y completando por medios tecnológicos.
 
@@ -207,7 +206,7 @@ En la década de 1980, la influyente socialista-feminista Alison Jaggar ”seña
 > **"... una mujer podría inseminar a otra, para que los hombres y las mujeres no parturgentes pudieran amamantar y para que los óvulos fecundados pudieran trasplantarse en los cuerpos de las mujeres o incluso de los hombres".  
 > —Jaggar, 1983: 132**
 > 
-> **“El progreso en la transferencia nuclear de células somáticas a embriones fertilizados, y en el uso de células somáticas como espermatozoides y óvulos falsos para crear embriones (Aldhous, 2008) sugieren que pronto las parejas homosexuales y lesbianas podrán combinar el germoplasma para crear hijos biológicos, donde los individuos poder clonarse a sí mismos, y que tres o más padres podrán contribuir con plasma germinal para crear un niño ... Una vez que hayamos perfeccionado la clonación de tejidos y la ingeniería genética, en las próximas dos décadas  podremos crear senos completamente funcionales y órganos sexuales para transexuales ... la ingeniería de tejidos y las terapias genéticas somáticas prometen una reasignación de sexo mucho menos dolorosa y más completa.”  
+> **“El progreso en la transferencia nuclear de células somáticas a embriones fertilizados, y en el uso de células somáticas como espermatozoides y óvulos falsos para crear embriones (Aldhous, 2008) sugieren que pronto las parejas homosexuales y lesbianas podrán combinar el germoplasma para crear hijos biológicos, donde los individuos poder clonarse a sí mismos, y que tres o más padres podrán contribuir con plasma germinal para crear un niño ... Una vez que hayamos perfeccionado la clonación de tejidos y la ingeniería genética, en las próximas dos décadas  podremos crear senos completamente funcionales y órganos sexuales para transexuales ... la ingeniería de tejidos y las terapias genéticas somáticas prometen una reasignación de sexo mucho menos dolorosa y más completa.”  
 > —BBC, 2007**
 > 
 > **“La ingeniería tisular y las interfaces nanoneurales sugieren que sería posible tener ... algún órgano sexual completamente nuevo  
@@ -267,7 +266,7 @@ Shulamith Firestone se articuló en 1971 a favor de los úteros artificiales com
 En la década de 1980, la influyente socialista-feminista Alison Jaggar señaló:  
   
 
-> **"... la última transformación de la naturaleza humana a la que apuntan las feministas socialistas ... las capacidades en la inseminación, la lactancia yla  gestación para que, por ejemplo, una mujer pueda inseminar a otra, para que los hombres y las mujeres no parturgentes puedan amamantar y que los óvulos fertilizados puedan ser transplantados en cuerpos de mujeres o incluso de hombres".  
+> **"... la última transformación de la naturaleza humana a la que apuntan las feministas socialistas ... las capacidades en la inseminación, la lactancia yla  gestación para que, por ejemplo, una mujer pueda inseminar a otra, para que los hombres y las mujeres no parturgentes puedan amamantar y que los óvulos fertilizados puedan ser transplantados en cuerpos de mujeres o incluso de hombres".  
 > —Jaggar, 1983: 132**
 
   
@@ -277,6 +276,6 @@ En la década de 1980, la influyente socialista-feminista Alison Jaggar señaló
 > **“Y Dios vio todo lo que había hecho, y he aquí que era muy bueno. Y fue la tarde y fue la mañana, el sexto día."  
 > —Génesis 1:31**
 
-Sobre la base de pasajes como Génesis 1:31 y Romanos 8:23, los cristianos pueden afirmar de todo corazón la bondad de la creación. Y eso incluye nuestros cuerpos. De hecho, el cuerpo y todo lo que implica (manos, ojos, piernas, cerebro, huesos) es realmente bueno. Cristo pudo haber resucitado como un fantasma, pero no lo hizo (Lucas 24: 37-39). El cuerpo físico de Cristo fue renovado y transformado. Aquellos de nosotros que estamos unidos a Cristo podemos esperar que nuestro cuerpo físico también se renueve y se transforme, no como algo que se deseche ni como un obstáculo para la verdadera liberación.
+Sobre la base de pasajes como Génesis 1:31 y Romanos 8:23, los cristianos pueden afirmar de todo corazón la bondad de la creación. Y eso incluye nuestros cuerpos. De hecho, el cuerpo y todo lo que implica (manos, ojos, piernas, cerebro, huesos) es realmente bueno. Cristo pudo haber resucitado como un fantasma, pero no lo hizo (Lucas 24:37-39). El cuerpo físico de Cristo fue renovado y transformado. Aquellos de nosotros que estamos unidos a Cristo podemos esperar que nuestro cuerpo físico también se renueve y se transforme, no como algo que se deseche ni como un obstáculo para la verdadera liberación.
 
 Gracias por leer Posgénero, no olvide compartir este material con sus familiares y cercanos.

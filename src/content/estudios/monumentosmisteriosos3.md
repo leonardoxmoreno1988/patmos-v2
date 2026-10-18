@@ -11,19 +11,19 @@ tags: ["Sociedad"]
 
 > **"Todas las sociedades secretas espirituales se suscriben a los misterios gnósticos; es decir, postulan una Sabiduría Divina que se puede lograr a través de los propios esfuerzos del hombre."**
 > 
->  **- James Wasserman, Tradiciones Misteriosas: Símbolos Secretos y Arte Sagrado**  
+>  **- James Wasserman, Tradiciones Misteriosas: Símbolos Secretos y Arte Sagrado**  
 >   
 > **"Existe hoy en el mundo, y ha existido durante miles de años, un cuerpo de humanos iluminados unidos en lo que podría llamarse una Orden de la Búsqueda. Está compuesto por aquellos cuyas percepciones intelectuales y espirituales les han revelado que la civilización tiene un Destino Secreto."**
 > 
->  **- Manly P. Hall El Destino Secreto de América**  
+>  **- Manly P. Hall El Destino Secreto de América**  
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvWsrl__pqiZVNjVUnziQL7Ysf7d4kfa3CbUhK_TbMDoy6NgRyFM6gzmGnJqfrxLER3gX0EEQ-m4vdjuZLfmUerNkcmbvJlPb1ZDNAC_FTtc6fOxTLdcbYApe3VfjwC0Cri7nfe-ShbF8/s16000/mm3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvWsrl__pqiZVNjVUnziQL7Ysf7d4kfa3CbUhK_TbMDoy6NgRyFM6gzmGnJqfrxLER3gX0EEQ-m4vdjuZLfmUerNkcmbvJlPb1ZDNAC_FTtc6fOxTLdcbYApe3VfjwC0Cri7nfe-ShbF8/s590/mm3.jpg)
 
   
 
-Si la arrogancia y el orgullo son virtudes, la élite de los Illuminati debe ser verdaderamente un modelo de virtud. Presumiendo de sí mismos que están iluminados e intelectualmente superiores al hombre común, afirman estar dotados sobrenaturalmente de una convicción inquebrantable de que su Plan no solo es supremamente sabio, es el Destino. Infligidos con un complejo mesiánico, tienen la intención de gobernar sobre la humanidad, tanto si la humanidad lo quiere como si no. La suya es una búsqueda de poder, poder absoluto. De hecho, uno de sus líderes, Manly P. Hall, de grado 33, dice que estos elitistas de conciencia superior comprenden una "Orden de la Búsqueda" cuya "percepción intelectual y espiritual les ha revelado que la civilización tiene un Destino Secreto". **(1)**   
+Si la arrogancia y el orgullo son virtudes, la élite de los Illuminati debe ser verdaderamente un modelo de virtud. Presumiendo de sí mismos que están iluminados e intelectualmente superiores al hombre común, afirman estar dotados sobrenaturalmente de una convicción inquebrantable de que su Plan no solo es supremamente sabio, es el Destino. Infligidos con un complejo mesiánico, tienen la intención de gobernar sobre la humanidad, tanto si la humanidad lo quiere como si no. La suya es una búsqueda de poder, poder absoluto. De hecho, uno de sus líderes, Manly P. Hall, de grado 33, dice que estos elitistas de conciencia superior comprenden una "Orden de la Búsqueda" cuya "percepción intelectual y espiritual les ha revelado que la civilización tiene un Destino Secreto". **(1)**   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -151,7 +151,7 @@ El iniciado masónico, el filósofo oculto, el adepto de la sociedad secreta, ve
 
   
 
-Según la filosofía oculta de los Illuminati, el mundo material debe reinventarse. Todo debe cambiar; ¡la materia pasada de moda y la arquitectura y el arte basados ​​en la tierra y los materiales deben desaparecer!
+Según la filosofía oculta de los Illuminati, el mundo material debe reinventarse. Todo debe cambiar; ¡la materia pasada de moda y la arquitectura y el arte basados en la tierra y los materiales deben desaparecer!
 
   
 
@@ -419,13 +419,13 @@ En Oracle, Arizona, en las afueras de Tucson, se encuentra la Biosfera mal dise�
 
   
 
-## Oral Roberts — Ciudad de Fé Illuminati 
+## Oral Roberts — Ciudad de Fé Illuminati 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdfpCYF8uDdPOFY_0MGktEPkwM-SZXAtLayrYV4p4fiYfsNnbDSXBPh9_HueoCyjE5mH9sNTeIHlzF3AzCLSh2mKdeEtKqtHrqopzsrRjsph3ybDABAPAhKRVSEAjeHl_urO6J7W2uCtU/w458-h640/Captura+de+Pantalla+2020-10-01+a+la%2528s%2529+16.29.00.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdfpCYF8uDdPOFY_0MGktEPkwM-SZXAtLayrYV4p4fiYfsNnbDSXBPh9_HueoCyjE5mH9sNTeIHlzF3AzCLSh2mKdeEtKqtHrqopzsrRjsph3ybDABAPAhKRVSEAjeHl_urO6J7W2uCtU/s1148/Captura+de+Pantalla+2020-10-01+a+la%2528s%2529+16.29.00.png)
 
   
 
-La arquitectura de la Universidad Oral Roberts, Tulsa, Oklahoma, y ​​el complejo cercano Ciudad de Fé es reveladora en su extensa exhibición de simbología relacionada con los iluministas. La Torre de Oración es un excelente ejemplo, empleando elementos tales como (1) Un exterior acanalado serpentino; (2) La aguja, con forma de pirámide y triángulos en cada una de las cuatro esquinas; (3) Rayos del sol que irradian hacia afuera desde un círculo, con ventanas con paneles dorados; (4) El poste de la antorcha sobre la estructura con una llama brillante encendida por la noche.
+La arquitectura de la Universidad Oral Roberts, Tulsa, Oklahoma, y el complejo cercano Ciudad de Fé es reveladora en su extensa exhibición de simbología relacionada con los iluministas. La Torre de Oración es un excelente ejemplo, empleando elementos tales como (1) Un exterior acanalado serpentino; (2) La aguja, con forma de pirámide y triángulos en cada una de las cuatro esquinas; (3) Rayos del sol que irradian hacia afuera desde un círculo, con ventanas con paneles dorados; (4) El poste de la antorcha sobre la estructura con una llama brillante encendida por la noche.
 
   
 
@@ -443,7 +443,7 @@ El logotipo oficial de la Universidad Oral Roberts saluda a los visitantes al ca
 
   
 
-El complejo médico Ciudad de Fé de la Universidad Oral Roberts es de diseño iluminista. Observe, por ejemplo, el triángulo, el diamante y la piscina reflectante. Las tres torres de rascacielos son emblemáticas del Padre (centro), Madre (derecha) e Hijo (izquierda). En la mitología egipcia, esto es idéntico a Osiris, el Padre y Dios del Sol; Isis, la Diosa Madre, y su hijo, Horus. El diamante en el medio en teología oculta representaría simbólicamente el falo de Osiris.
+El complejo médico Ciudad de Fé de la Universidad Oral Roberts es de diseño iluminista. Observe, por ejemplo, el triángulo, el diamante y la piscina reflectante. Las tres torres de rascacielos son emblemáticas del Padre (centro), Madre (derecha) e Hijo (izquierda). En la mitología egipcia, esto es idéntico a Osiris, el Padre y Dios del Sol; Isis, la Diosa Madre, y su hijo, Horus. El diamante en el medio en teología oculta representaría simbólicamente el falo de Osiris.
 
   
 

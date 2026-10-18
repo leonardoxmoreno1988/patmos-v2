@@ -9,7 +9,7 @@ description: "No mucha gente sabe que los orígenes de la masonería residen en 
 tags: ["Sociedad"]
 ---
 
-No mucha gente sabe que los orígenes de la **masonería** residen en un grupo que durante la época medieval eran conocidos como los **Caballeros Templarios**. Este grupo controvertido inicialmente ayudó a cumplir con la solicitud del Papa Urbano II de conquistar las tierras santas (Jerusalén) en nombre del cristianismo solo para terminar siendo perseguido por la misma Iglesia que habían protegido durante cientos de años.  
+No mucha gente sabe que los orígenes de la **masonería** residen en un grupo que durante la época medieval eran conocidos como los **Caballeros Templarios**. Este grupo controvertido inicialmente ayudó a cumplir con la solicitud del Papa Urbano II de conquistar las tierras santas (Jerusalén) en nombre del cristianismo solo para terminar siendo perseguido por la misma Iglesia que habían protegido durante cientos de años.  
   
 [![La cruz templaria junto con un caballero templario y la cabeza de baphomet](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7POHt0drMv80z1JXja30INO9NaxcFdCmDFnzVBxXZnHidd0tUVsx174ONlvxHKlomTiuygclBSGIkeycIoMY1_ce5-Ni3vnX0o_1IWjbW5FvNibZbMVrp5sm_nDWW-S8JgXMZOz7SsC0/s16000/templarios.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7POHt0drMv80z1JXja30INO9NaxcFdCmDFnzVBxXZnHidd0tUVsx174ONlvxHKlomTiuygclBSGIkeycIoMY1_ce5-Ni3vnX0o_1IWjbW5FvNibZbMVrp5sm_nDWW-S8JgXMZOz7SsC0/s590/templarios.png)  
 
@@ -21,7 +21,7 @@ Los esfuerzos de la Orden fueron ayudados sustancialmente por el patrocinio de B
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 En respuesta a estas críticas, el influyente Bernard de Clairvaux escribió un tratado de varias páginas titulado _De Laude Novae Militae_ o "Elogio de la Nueva Caballería", en el que defendió su misión y defendió la idea de una orden religiosa militar apelando a la larga teoría cristiana de la guerra justa, que legitimaba "tomar la espada" para defender a los inocentes y a la Iglesia de ataques violentos. Al hacerlo, Bernard legitimó a los templarios, que se convirtieron en los primeros "monjes guerreros" del mundo occidental. Bernard escribió:  
   
@@ -57,7 +57,7 @@ En el camino, hordas codiciosas asesinaron a innumerables musulmanes y judíos c
   
 En Los Monjes de la Guerra, el investigador Desmond Seward narra los eventos de estos trágicos días:  
   
-> “Jerusalén fue asaltada en julio de 1099. La ferocidad rabiosa de su saco mostró cuán poco había logrado la Iglesia cristianizar los instintos atávicos. Toda la población de la Ciudad Santa fue atacada, tanto judíos como musulmanes, 70,000 hombres, mujeres y niños perecieron en un holocausto que se prolongó durante tres días. En algunos lugares, los hombres vadeaban con sangre hasta los tobillos y los jinetes se salpicaban con ella mientras cabalgaban por las calles.” La primera cruzada terminó con la caída de Jerusalén en 1099. Después de 460 años de dominio musulmán, La Tierra Santa quedó bajo el control cristiano. Los cruzados establecieron un reino que se extendía desde Palestina hasta Antioquía e hizo de Jerusalén su capital.  
+> “Jerusalén fue asaltada en julio de 1099. La ferocidad rabiosa de su saco mostró cuán poco había logrado la Iglesia cristianizar los instintos atávicos. Toda la población de la Ciudad Santa fue atacada, tanto judíos como musulmanes, 70,000 hombres, mujeres y niños perecieron en un holocausto que se prolongó durante tres días. En algunos lugares, los hombres vadeaban con sangre hasta los tobillos y los jinetes se salpicaban con ella mientras cabalgaban por las calles.” La primera cruzada terminó con la caída de Jerusalén en 1099. Después de 460 años de dominio musulmán, La Tierra Santa quedó bajo el control cristiano. Los cruzados establecieron un reino que se extendía desde Palestina hasta Antioquía e hizo de Jerusalén su capital.  
   
 A partir de entonces, los cruzados comenzaron a luchar para establecerse en el Medio Oriente. Pero para mantener el estado que habían fundado, necesitaban organizarse y, para lograrlo, establecieron órdenes militares sin precedentes. Los miembros de estas órdenes habían emigrado de Europa y, en Palestina, vivían una especie de vida monástica. Al mismo tiempo, se entrenaron para la guerra contra los musulmanes. Una de estas órdenes fue por una ruta diferente, experimentando un cambio que alteraría significativamente el curso de la historia en Europa y, eventualmente, en el mundo: los Caballeros Templarios.  
   
@@ -113,7 +113,7 @@ La Cábala literalmente significa "tradición oral". Siendo una rama esotérica 
   
 Hay más, sin embargo, un examen minucioso de la Cábala revela que en realidad precede a la Torá. Como una enseñanza pagana, continuó existiendo después de la revelación de la Torá y se extendió entre los seguidores del judaísmo. Es por eso por lo que Jesús fue tan agresivo con los fariseos, ya que ciertas sectas entre ellos eran seguidores de la Cábala.  
   
-Durante miles de años, la Cábala ha sido un recurso para hechiceros y practicantes de magia negra y ahora disfruta de un fuerte seguimiento en todo el mundo, no solo en la comunidad judía. Los templarios eran uno de esos grupos, dedicados a la investigación de la Cábala con el objetivo de adquirir poderes sobrenaturales. Estaban interesados ​​en establecer relaciones continuas con los cabalistas en Jerusalén y en Europa, una opinión ampliamente aceptada por los investigadores que trabajan en el tema.  
+Durante miles de años, la Cábala ha sido un recurso para hechiceros y practicantes de magia negra y ahora disfruta de un fuerte seguimiento en todo el mundo, no solo en la comunidad judía. Los templarios eran uno de esos grupos, dedicados a la investigación de la Cábala con el objetivo de adquirir poderes sobrenaturales. Estaban interesados en establecer relaciones continuas con los cabalistas en Jerusalén y en Europa, una opinión ampliamente aceptada por los investigadores que trabajan en el tema.  
   
 
 ## El Reconocimiento de Roma
@@ -223,9 +223,9 @@ Pero ¿dónde se originaron estas perversiones? Durante su tiempo en Medio Orien
   
 De ellos, los templarios habían aprendido algunas enseñanzas místicas y estrategias bárbaras, así como también cómo organizar una secta. Los niveles superiores de la orden en particular también se habían familiarizado e incorporado a su práctica, creencias basadas en las enseñanzas místicas de la Cabalá, la influencia de los bogomilos y luciferinos, dejando atrás el cristianismo. Según los templarios, Jesús era un dios que gobernaba en otro mundo, con poco o ningún poder en el presente. Satanás era el señor de este mundo material.  
   
-Los candidatos a la orden debían negar a Dios, Cristo y los santos, cometer actos sacrílegos, escupir y orinar en una cruz, ser besados ​​en la boca con el "Oscolum Infame" o "El beso de la vergüenza" en el ombligo y las nalgas de los Caballeros Templarios más antiguos durante la ceremonia de iniciación. Practicaban libremente la homosexualidad y otras perversiones sexuales.  
+Los candidatos a la orden debían negar a Dios, Cristo y los santos, cometer actos sacrílegos, escupir y orinar en una cruz, ser besados en la boca con el "Oscolum Infame" o "El beso de la vergüenza" en el ombligo y las nalgas de los Caballeros Templarios más antiguos durante la ceremonia de iniciación. Practicaban libremente la homosexualidad y otras perversiones sexuales.  
   
-Ilustración de un manuscrito medieval en el que los templarios son acusados ​​de sodomía. “Templario besa a un clérigo” de Jacques de Longuyon.
+Ilustración de un manuscrito medieval en el que los templarios son acusados de sodomía. “Templario besa a un clérigo” de Jacques de Longuyon.
 
   
 
@@ -244,7 +244,7 @@ También veneraban cráneos humanos e ídolos de gatos. El consenso entre los hi
   
 La mayoría de los templarios confesaron que no creían en Jesús porque lo consideraban "un falso profeta"; el papado se encontró en una situación difícil, sin saber qué hacer. Clemente V, elegido Papa en 1305, estaba tratando de calcular el daño al cristianismo y, por lo tanto, al Vaticano y cómo minimizar sus efectos. Al mismo tiempo, tuvo que poner fin a la presión constante de las diócesis regionales y el Rey de Francia. Mientras tanto, en Chipre, Jacques de Molay, líder de los templarios, estaba haciendo preparativos para la guerra, ya que la orden no había perdido la esperanza de regresar a Oriente Medio. Fue llamado a Francia y el Papa le ordenó que investigara estas acusaciones.  
   
-Todo esto, sin embargo, era inaceptable para el rey francés. Rápidamente aprobó una nueva ley, bajo la cual hizo arrestar a los templarios. El 13 de octubre de 1309, fueron acusados ​​en los tribunales con los siguientes cargos:  
+Todo esto, sin embargo, era inaceptable para el rey francés. Rápidamente aprobó una nueva ley, bajo la cual hizo arrestar a los templarios. El 13 de octubre de 1309, fueron acusados en los tribunales con los siguientes cargos:  
   
 
 1.  Que durante la ceremonia de iniciación, los nuevos hermanos debían negar a Cristo, a Dios, la virgen o los santos por orden de quienes los recibían.
@@ -372,7 +372,7 @@ Christian D. Ginsburg ha escrito:
 
 Según Eliphas Levi, los tres mejores libros del cabalismo son el Sepher Yetzirah, El libro de la formación; el Sepher ha Zohar, El libro del esplendor; y Apocalipsis, El libro de las Revelaciones.  
   
-Las fechas de redacción de estos libros no están en absoluto establecidas. Los cabalistas declaran que el Sepher Yetzirah fue escrito por Abraham. Aunque es, con mucho, el más antiguo de los libros cabalísticos, probablemente fue de la pluma del rabino Akiba, 120 d.C.  
+Las fechas de redacción de estos libros no están en absoluto establecidas. Los cabalistas declaran que el Sepher Yetzirah fue escrito por Abraham. Aunque es, con mucho, el más antiguo de los libros cabalísticos, probablemente fue de la pluma del rabino Akiba, 120 d. C.  
   
 Los templarios financiaron amplios estudios de Cábala, tuvieron tratos amistosos con musulmanes y árabes, incluida la absorción de partes del ocultismo árabe, investigaron y utilizaron muchas formas de magia, rituales y, en general, tuvieron sus manos en cada arte (oscuro) imaginable. Aquellos que creen en la magia real atribuyen su éxito a los artefactos mágicos adquiridos a través de Salomón, y dicen que el ascenso al poder asombrosamente rápido de los templarios se debió a la magia negra genuina, al uso de poderes divinos, o a ambos.  
   

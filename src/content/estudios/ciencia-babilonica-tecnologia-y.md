@@ -25,7 +25,7 @@ Aunque el primer uso conocido del término "transhumanismo" data de 1957, el si
 
   
 
-**Nota:** Si deseas recibir más contenido sobre transhumanismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**   
+**Nota:** Si deseas recibir más contenido sobre transhumanismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**   
   
 Simon Downing ofrece algunas ideas bastante sorprendentes sobre el hecho de que el Transhumanismo y el Singularitarismo son los resultados de la fusión entre la antigua religión y ciencia de Babilonia, y que estas iniciativas modernas no son más que el regreso del hombre a los días de Nimrod y la Torre de Babel.  
   
@@ -42,7 +42,7 @@ Incluso en la época de Nimrod en el libro de Génesis, vemos esta caracterí
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTlrIvisL6wzW8cTxYZQ6i9pFw2W94UN9RUNBhuNvjeJfozRzb_EJN8Bvudd3Xtw9Jnz-dtYzrDYHq4cawC3oHSbdeRoQYvI-8YKjfoHGJp2nL42mjUeU0GuL5eHghX6uxRtZOLS2Cz_w/s16000/chakras.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTlrIvisL6wzW8cTxYZQ6i9pFw2W94UN9RUNBhuNvjeJfozRzb_EJN8Bvudd3Xtw9Jnz-dtYzrDYHq4cawC3oHSbdeRoQYvI-8YKjfoHGJp2nL42mjUeU0GuL5eHghX6uxRtZOLS2Cz_w/s540/chakras.jpg)
 
-En los tiempos finales la idea del hombre como Dios formará parte del sistema de creencias mundial. 
+En los tiempos finales la idea del hombre como Dios formará parte del sistema de creencias mundial. 
 
   
 Hemos examinado ampliamente los sistemas de creencias relacionados con la antigua Babilonia y hemos descubierto, de una forma u otra, espiritualidades y creencias orientadas a este énfasis particular. Algunos son más sutiles que otros, por supuesto, pero en todos los casos el hombre, siendo su propio dios, construyendo un mundo independiente del Dios de la Biblia, es axiomático.  
@@ -66,7 +66,7 @@ George Wilhelm Friedrich Hegel creó lo que se llamó "La dialéctica hegelia
 
   
 
-Dentro de la filosofía de Friedrich Nietzsche tenemos el concepto de _Ubermensch_: Superman o Overman. En su filosofía encontramos el concepto de "muerte de Dios", que esencialmente significa que la idea de Dios, en particular en el cristianismo, ya no puede proporcionar ningún valor real para vivir. Lo que importa es el desarrollo de la raza humana, que "evoluciona" y se convierte en Superman/Overman, postulando que la humanidad puede encontrar significado por cómo avanza a sí misma.
+Dentro de la filosofía de Friedrich Nietzsche tenemos el concepto de _Ubermensch_: Superman o Overman. En su filosofía encontramos el concepto de "muerte de Dios", que esencialmente significa que la idea de Dios, en particular en el cristianismo, ya no puede proporcionar ningún valor real para vivir. Lo que importa es el desarrollo de la raza humana, que "evoluciona" y se convierte en Superman/Overman, postulando que la humanidad puede encontrar significado por cómo avanza a sí misma.
 
   
 
@@ -183,7 +183,7 @@ Los drones inteligentes, armas que tienen sus propias mentes, también se han d
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPS95t_1yapJvAIyaGVwRlp2M3Bcj266FST0gSYNvko4gHtDOgxLZTisWB1beoexQGUbTepG1wMzmvTqrrKGj00NkF_YDH5XsIVbKxYDutqzqAzB6DVX17eMDbuRT_gt5RDjD-JMjIDts/s16000/dron.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPS95t_1yapJvAIyaGVwRlp2M3Bcj266FST0gSYNvko4gHtDOgxLZTisWB1beoexQGUbTepG1wMzmvTqrrKGj00NkF_YDH5XsIVbKxYDutqzqAzB6DVX17eMDbuRT_gt5RDjD-JMjIDts/s540/dron.jpg)
 
-En 2018 se vendieron mil drones diseñados por la compañía estadounidense de drones Skycatch a la constructora japonesa Komatsu. Cada uno de estos drones contiene un software diseñado por Skycatch que les permite funcionar con una mínima interacción humana. 
+En 2018 se vendieron mil drones diseñados por la compañía estadounidense de drones Skycatch a la constructora japonesa Komatsu. Cada uno de estos drones contiene un software diseñado por Skycatch que les permite funcionar con una mínima interacción humana. 
 
   
 

@@ -25,7 +25,7 @@ Los iluministas y las brujas afirman que el pentagrama, una estrella de cinco pu
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 
 ## La estrella de iniciación
@@ -45,7 +45,7 @@ De izquierda a derecha: Pentagrama, Pentagrama Invertido, Hexagrama (Estrella de
 Los francmasones, debido a que veneran al sol y sus rayos, conocen el emblema de la estrella como la "Estrella ardiente". Steve Worrall-Clare, un antiguo Masón, en la Francmasonería - El lenguaje secreto, escribe que en la Logia:  
   
 
-> **"La estrella llameante señala la gloria del sol. Es central para toda idea masónica, porque ilumina la tierra y, por su influencia benévola, dispensa sus bendiciones a la humanidad ... Se encuentra en el grado veintiocho y es el símbolo de la verdad. Se encuentra en el cuarto grado como símbolo de la luz y en el noveno grado es un símbolo de la divina providencia. A veces se instala simbólicamente como la letra "G" ... Es una puerta, una entrada al conocimiento ..." 3**
+> **"La estrella llameante señala la gloria del sol. Es central para toda idea masónica, porque ilumina la tierra y, por su influencia benévola, dispensa sus bendiciones a la humanidad ... Se encuentra en el grado veintiocho y es el símbolo de la verdad. Se encuentra en el cuarto grado como símbolo de la luz y en el noveno grado es un símbolo de la divina providencia. A veces se instala simbólicamente como la letra "G" ... Es una puerta, una entrada al conocimiento ..." 3**
 
   
   
@@ -65,7 +65,7 @@ Esotéricamente, la estrella simboliza al hombre como deidad, como el universo e
 Esta misma estrella dios fue adorado en Egipto, y los hijos de Israel, mientras deambulaban por el desierto, cayeron bajo sus poderes hipnóticos. Lo llamaron Moloch, Chiun y Remphan. El profeta Amós castigó a los idólatras judíos por este profano sacrilegio:  
   
 
-> **"Antes bien, llevabais el tabernáculo de vuestro Moloc y Quiún, ídolos vuestros, la estrella de vuestros dioses que os hicisteis." (Amós 5:20)**
+> **"Antes bien, llevabais el tabernáculo de vuestro Moloc y Quiún, ídolos vuestros, la estrella de vuestros dioses que os hicisteis." (Amós 5:20)**
 
   
 
@@ -163,7 +163,7 @@ Un practicante de la Wicca (defensor de la brujería) rompe una Biblia por la mi
 
   
 
-Cuando la esposa del autor de Codex Magica envió una carta a la Unión Fascista Unida solicitando información para nuestros archivos sobre el propósito y las actividades del grupo, recibimos esta carta a cambio.  
+Cuando la esposa del autor de Codex Magica envió una carta a la Unión Fascista Unida solicitando información para nuestros archivos sobre el propósito y las actividades del grupo, recibimos esta carta a cambio.  
   
 Tenga en cuenta que dos símbolos del pentagrama se muestran de manera prominente como ilustraciones simbólicas en el membrete de la Unión Fascista Unida, un grupo con sede en EE. UU. Con sede en Wilmington, Delaware. También se observan las fasces (hachas y trigo agrupados por insignias X). En el bloque de la firma de la carta, el "Director y CEO" de la Unión Fascista Unida ha tipeado las frases "Viva Nova Roma" (¡Larga vida a la Nueva Roma) y "¡Santo es Babilonia!"  
   
@@ -186,7 +186,7 @@ De un catálogo reciente que ofrece una gran cantidad de talismanes y amuletos, 
 
   
 
-En este anuncio de _Magical Blend_, una revista de New Age, vemos muchos símbolos ocultistas y paganos, incluida la estrella de 5 por encima de la cabeza de la diosa. El caparazón representa a la diosa del amor Afrodita que, según la mitología, surgió del mar (véase Apocalipsis 13: 1 para una profecía acerca de la bestia que se eleva del mar).  
+En este anuncio de _Magical Blend_, una revista de New Age, vemos muchos símbolos ocultistas y paganos, incluida la estrella de 5 por encima de la cabeza de la diosa. El caparazón representa a la diosa del amor Afrodita que, según la mitología, surgió del mar (véase Apocalipsis 13:1 para una profecía acerca de la bestia que se eleva del mar).  
   
 La figura de la diosa en este anuncio se sienta en la posición familiar de loto con la llama en su área genital y sus brazos y manos dispuestos simbólicamente.  
   

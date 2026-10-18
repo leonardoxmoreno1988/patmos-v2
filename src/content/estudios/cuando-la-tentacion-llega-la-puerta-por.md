@@ -9,11 +9,11 @@ description: "¿Cuántos hombres casados pueden resistir cuando dos bellas jóve
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
   
-¿Cuántos hombres casados pueden resistir cuando dos bellas jóvenes empapadas en la lluvia tocan su puerta pidiendo ayuda? La película **"Knock Knock"** (2015) examina la suerte del matrimonio en medio del **culto satanista sexual** que pasa como una sociedad secular.  
+¿Cuántos hombres casados pueden resistir cuando dos bellas jóvenes empapadas en la lluvia tocan su puerta pidiendo ayuda? La película **"Knock Knock"** (2015) examina la suerte del matrimonio en medio del **culto satanista sexual** que pasa como una sociedad secular.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPPe77ppsDzm806znKxnbfCQPPMNxmHRqeWgVZmhyZhsaDtscmKe-vCcJKGQGk5VHARIuLTFu41ICM12f0kBgJccUF6dAOfjLCciUxT1f7L_yrs-yuQ12wQqGYZZpVXQM5ymVq370lk4A/s1600/mujeres%252Cjpg.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPPe77ppsDzm806znKxnbfCQPPMNxmHRqeWgVZmhyZhsaDtscmKe-vCcJKGQGk5VHARIuLTFu41ICM12f0kBgJccUF6dAOfjLCciUxT1f7L_yrs-yuQ12wQqGYZZpVXQM5ymVq370lk4A/s1600/mujeres%252Cjpg.jpeg)
@@ -21,7 +21,7 @@ tags: ["Sociedad"]
   
 Oscar Wilde dijo que "nada puede resistir a la tentación." Afortunadamente para la mayoría de los hombres, que no son ni ricos ni famosos, no hay mucha tentación.  
   
-Estaba intrigado cuando Bret Easton Ellis, autor de American Psycho, una película que admiro, tuiteó que "Knock Knock" era "anárquico, misógino, hilarante, terrorífico, milenario y de lejos la mejor película de Eli Roth".  
+Estaba intrigado cuando Bret Easton Ellis, autor de American Psycho, una película que admiro, tuiteó que "Knock Knock" era "anárquico, misógino, hilarante, terrorífico, milenario y de lejos la mejor película de Eli Roth".  
   
 Vivimos en una sociedad facto-comunista donde lo que pasa por arte y entretenimiento en general, sirve para la agenda satánica del nuevo orden mundial. Estoy hambriento de una sátira social objetiva.  
   
@@ -32,7 +32,7 @@ Keanu Reeves interpreta a Evan Webber, un exitoso hombre de Los Ángeles, arquit
   
 En un fin de semana cuando la esposa y los niños están lejos, dos jovencitas aparecen en la puerta pidiendo utilizar su ordenador para buscar direcciones. Mientras esperaban por un taxi, las dos niñas dejan claro que están orgullosas de ser putas. "Todos somos animales; está en nuestro ADN", dicen los Illuminati reflejando al credo satanista: "Haz lo que quieras, será toda la ley."  
   
-**Recomiendo leer: [Playboy, Alfred Kinsey Y La Revolución (Homo) Sexual](http://www.ritualypropaganda.com/2015/08/playboy-alfred-kinsey-y-la-revolucion.html)**  
+**Recomiendo leer: [Playboy, Alfred Kinsey Y La Revolución (Homo) Sexual](http://www.ritualypropaganda.com/2015/08/playboy-alfred-kinsey-y-la-revolucion.html)**  
   
 Weber hace un esfuerzo valiente para resistir, lanzándose cautelosamente de silla en silla, pero inevitablemente él sucumbe ante lo que parece un inofensivo ménage à trois. El sexo libre se convierte en horror cuando se sabe que las niñas habían apuntado a Evan Weber y su familia. Haciendo su negocio de probar hombres felizmente casados y castigan a aquellos que fallan.  
   

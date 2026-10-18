@@ -9,7 +9,7 @@ description: "\"Y clamó poderosamente con voz fuerte, diciendo: Babilonia la Gr
 tags: ["Sociedad"]
 ---
 
-> **"Y clamó poderosamente con voz fuerte, diciendo: Babilonia la Grande ha caído, ha caído, y ha llegado a ser morada de demonios, y contención de todo espíritu inmundo, y jaula de toda ave inmunda y odiosa."\- Apocalipsis 18: 2**
+> **"Y clamó poderosamente con voz fuerte, diciendo: Babilonia la Grande ha caído, ha caído, y ha llegado a ser morada de demonios, y contención de todo espíritu inmundo, y jaula de toda ave inmunda y odiosa."\- Apocalipsis 18:2**
 
 [![estatua de oro de águila de dos cabezas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhuMigQLcUEuIhYYrEBTpu-Cj_ZfeCS4O1Vp6adpfs_B5IfoBCLTPFomLXHk9bEe6O96l4sosgVuiJrbrqKdgH3fLObNrrlYCs6lXSzubYbjlRQ3pE3Sk93QHqbGPmTjTtB6DzxTc2Y/s1600/aguila-dos-cabezas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhuMigQLcUEuIhYYrEBTpu-Cj_ZfeCS4O1Vp6adpfs_B5IfoBCLTPFomLXHk9bEe6O96l4sosgVuiJrbrqKdgH3fLObNrrlYCs6lXSzubYbjlRQ3pE3Sk93QHqbGPmTjTtB6DzxTc2Y/s1600/aguila-dos-cabezas.jpg)
 
@@ -22,7 +22,7 @@ tags: ["Sociedad"]
   
 ¿Puede el cuerpo de un pájaro tener dos cabezas? ¿Es una locura tal idea? Eso creo. La locura puede describirse como la firme creencia de un hombre demente de que dos cosas totalmente contradictorias y opuestas son, no obstante, una y la misma. Si un hombre abraza simultáneamente dos ideas o filosofías compitiendo, mutuamente excluyentes, puede apropiadamente ser considerado que está "demente", o insano. Si, por ejemplo, está convencido de que una manzana es un pájaro o que el color negro es realmente blanco, entonces está loco.  
   
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
   
 Pero los **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** no están de acuerdo. Toda su doctrina insana se basa en la suposición de que el negro es blanco, que el bien es mal, que dos más dos es igual a cinco. Son hombres de mentes insanas. Y han desarrollado un sistema "científico" igualmente deshonesto, diseñado para reprogramar y recrear el material social y la realidad espiritual para ajustarla a su teología pervertida y viceversa.  
@@ -50,7 +50,7 @@ Ezequiel 28 nos dice que, como fue creado por primera vez por Dios, **[Lucifer](
 Pero entonces el engañoso Lucifer se rebeló, llevando consigo un tercio de los ángeles. Él y ellos aparentemente se convirtieron en seres viles, feos y deformes, apareciendo en formas grotescas apropiadas a sus deformidades mentales y espirituales.  
   
 
-> **"¡Cómo has caído del cielo, oh Lucero, hijo de la mañana! ¡Cómo has sido derribado por tierra, tu que debilitadabas a las naciones! Porque has dicho en tu corazón: Subiré al cielo, exaltaré mi trono sobre las estrellas de Dios ... Subiré sobre las alturas de las nubes; Seré como el Altísimo. Sin embargo, serás llevado al infierno, a los lados del abismo" (Isaías 14: 12-15)**
+> **"¡Cómo has caído del cielo, oh Lucero, hijo de la mañana! ¡Cómo has sido derribado por tierra, tu que debilitadabas a las naciones! Porque has dicho en tu corazón: Subiré al cielo, exaltaré mi trono sobre las estrellas de Dios ... Subiré sobre las alturas de las nubes; Seré como el Altísimo. Sin embargo, serás llevado al infierno, a los lados del abismo" (Isaías 14:12-15)**
 
   
 La Biblia dice que el enfurecido y furioso Lucifer caído ahora camina de un lado a otro en la tierra como un león buscando a quien devorar. Su objetivo es arruinar la creación de Dios, bastardizarla y corromperla, transformarla en lo que es: una creación monumentalmente fea y deformada, totalmente opuesta a lo que Dios quiso. El hombre y el mundo deben ser arruinados, destruidos, transformados en una tierra baldía estéril, no productora, horriblemente formada.  
@@ -121,7 +121,7 @@ Para los Illuminati, nada es estático, todo es un engaño; La Fuerza es dinámi
 
 ## La Luz Invisible
 
-Esto es una locura, por supuesto, pero para el Iluminista es la Razón. Así, Francis Adams Moore, en la publicación Lucis Trust, The Beacon, escribió un artículo titulado "The Invisible Sun" (El Sol Invisible).  En ella, Moore habla de "La sabiduría eterna":
+Esto es una locura, por supuesto, pero para el Iluminista es la Razón. Así, Francis Adams Moore, en la publicación Lucis Trust, The Beacon, escribió un artículo titulado "The Invisible Sun" (El Sol Invisible).  En ella, Moore habla de "La sabiduría eterna":
 
   
 La Sabiduría Eterna enseña que esta oscuridad de la que salió la Luz visible, es en realidad la Luz pura -la Luz tan brillante, radiante y trascendente que aparece como oscuridad en el mundo. **(6)**
@@ -131,7 +131,7 @@ Para Moore, lo que percibimos como oscuridad es en realidad Luz invisible. En to
   
 Una vez más vemos la doctrina insana de la dualidad de los iluministas. El bisexual es el preferido, el mal es bueno, y así sucesivamente. Dualidad y síntesis, y más dualidad y síntesis, en encarnaciones interminables de confusos ciclos de luz y sombra de irrealidad mezclados con la realidad.  
   
-No es de extrañar que la Biblia diga: "Un hombre de doble ánimo es inestable en todos sus caminos". (Santiago 1: 8)  
+No es de extrañar que la Biblia diga: "Un hombre de doble ánimo es inestable en todos sus caminos". (Santiago 1:8)  
 
   
 
@@ -159,8 +159,7 @@ El águila aparece en la insignia de muchas naciones, incluyendo la antigua Roma
   
 Detalle de un escudo de armas musulmán muestra el águila heráldica que lleva el lema caligráfico octagonal de Sufi en su pecho. (Del libro, A History Secret Societies, de Arkon Daraul, Citadel Press, Secaucus, Nueva Jersey, 1961)  
 
-##   
-La oficina oval y el águila en el gran sello
+## La oficina oval y el águila en el gran sello
 
 En Tlxe Wall Street Journal, la ex redactora de discursos presidencial Peggy Noonan informó sobre una entrevista que tuvo con el presidente George W. Bush en la Casa Blanca. **(9)** Mientras se sentaba ante él, un amable jefe ejecutivo (Bush) planteó el tema de la Símbolo del águila tan prominente exhibido en la oficina oval.  
   
@@ -333,7 +332,7 @@ En las cartas de tarot, una de las cartas representa "El Mago" (también llamado
 
   
 
-Este diseño ilustra la blasfemia de su mensaje, que es que Satanás es la deidad del universo, que será rey sobre todos los reinos, arriba y abajo, y que el reino de él, la serpiente, permanecerá por toda la eternidad. El libro de texto del Rito Escocés, un puente a la luz, por Rex Hutchens, 33ro grado, bosqueja los conocimientos y los símbolos usados ​​para los diversos grados de la masonería.  
+Este diseño ilustra la blasfemia de su mensaje, que es que Satanás es la deidad del universo, que será rey sobre todos los reinos, arriba y abajo, y que el reino de él, la serpiente, permanecerá por toda la eternidad. El libro de texto del Rito Escocés, un puente a la luz, por Rex Hutchens, 33ro grado, bosqueja los conocimientos y los símbolos usados para los diversos grados de la masonería.  
   
 En este libro, Hutchens reafirma los principios del clásico del siglo XIX de Albert Pike, Morales y Dogma. Según estos principios, la **[serpiente de los ouroboros](http://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html)** mostrada en este diseño (la magia oculta de Levi de "como arriba, es abajo") representa la eternidad y el Espíritu Santo de la trinidad. En otras palabras, los iluministas están declarando que la serpiente, identificada en las Escrituras como el diablo, es, en su religión, el Espíritu Santo divino!  
   

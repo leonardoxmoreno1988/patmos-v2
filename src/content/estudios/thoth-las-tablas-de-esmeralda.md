@@ -28,14 +28,14 @@ Ahora que tenemos una pequeña información de fondo, echemos un vistazo más pr
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 
 ## Las tablas de esmeralda
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiefnowC0RMcbxATOHoopkg3KZxw4o8Xg2kbnN_eE0tNVfcdhn90IiPaIg1-hTd0Ng2yE-EiCeSdhIGn2wjPPXZ3BKgYcjbfMISWDn9T_MbbIZv-jRttq-WxrUmiagJqUp9uu0gNBGFGzE/s1600/tablas-esmeraldas.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiefnowC0RMcbxATOHoopkg3KZxw4o8Xg2kbnN_eE0tNVfcdhn90IiPaIg1-hTd0Ng2yE-EiCeSdhIGn2wjPPXZ3BKgYcjbfMISWDn9T_MbbIZv-jRttq-WxrUmiagJqUp9uu0gNBGFGzE/s1600/tablas-esmeraldas.png)
 
-Las **[Tablas Esmeralda](http://www.crystalinks.com/emerald.html)** son una serie de escritos que nos fueron dados por Thoth que aparentemente fueron escritos en un material creado a través de un proceso alquímico. Nadie ha visto todas estas tablas. Sólo existe una en su forma original, y las Tablas Esmeralda (como un cuerpo textual) se consideran generalmente como material canalizado dado por Thoth al hombre.  
+Las **[Tablas Esmeralda](http://www.crystalinks.com/emerald.html)** son una serie de escritos que nos fueron dados por Thoth que aparentemente fueron escritos en un material creado a través de un proceso alquímico. Nadie ha visto todas estas tablas. Sólo existe una en su forma original, y las Tablas Esmeralda (como un cuerpo textual) se consideran generalmente como material canalizado dado por Thoth al hombre.  
   
 Hablan de todo, desde la historia antigua hasta la alquimia, hasta la metafísica, con el objetivo principal de enseñarnos sobre los Misterios del Universo para que podamos unirnos a la Luz. Las tabletas esmeraldas son un elemento básico para cualquier nuevaerista que aspira a ascender a estados superiores de conciencia.  
   
@@ -51,7 +51,7 @@ Pero al examinarlas más de cerca, estas tabletas representan la existencia de �
 En la primera tabla, Thoth habla de un grupo de seres sabios llamados los Hijos de la Luz:  
   
 
-> **"Sabios éramos nosotros con la sabiduría de los Hijos de Luz que habitaban entre nosotros. Fuerte estábamos con el poder extraído del fuego eterno." (Emerald Tablet I).** 
+> **"Sabios éramos nosotros con la sabiduría de los Hijos de Luz que habitaban entre nosotros. Fuerte estábamos con el poder extraído del fuego eterno." (Emerald Tablet I).** 
 
   
 ¿Quiénes son estos Hijos de Luz que obtienen su poder del fuego eterno? Según la segunda tabla de esmeralda, su historia tiene una sorprendente similitud con los ángeles caídos:  
@@ -59,7 +59,7 @@ En la primera tabla, Thoth habla de un grupo de seres sabios llamados los Hijos 
 > **"En un tiempo pasado, perdidos en el espacio-tiempo, los Hijos de la Luz miraron al mundo. Vieron a los hijos de los hombres en su esclavitud, atados por la fuerza que venía de más allá. Sabían que sólo por la libertad de la esclavitud el hombre podría levantarse de la Tierra al Sol. Abajo descendieron y crearon cuerpos, tomando la apariencia de hombres para ellos." (Tabla Esmeralda II: El Salón de Amenti).**
 
   
-Así que estos Hijos de Luz alimentados por el fuego eterno hicieron un descenso a la tierra y crearon cuerpos humanos con la apariencia de hombres. Veamos la historia de los ángeles caídos descendiendo a la tierra en el Libro de Génesis 6: 1-5:  
+Así que estos Hijos de Luz alimentados por el fuego eterno hicieron un descenso a la tierra y crearon cuerpos humanos con la apariencia de hombres. Veamos la historia de los ángeles caídos descendiendo a la tierra en el Libro de Génesis 6:1-5:  
   
 
 > **"Cuando el hombre comenzó a multiplicarse sobre la faz de la tierra y les nacieron hijas, los hijos de Dios vieron que las hijas del hombre eran atractivas. Y tomaron por mujer a cualquiera que quisieran... Los [nefilim](http://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html) estaban en la tierra en aquellos días, y también después, cuando los hijos de Dios vinieron a las hijas de los hombres y les dieron hijos."**
@@ -74,7 +74,7 @@ También suena similar a la historia de los ángeles caídos en el Libro de Enoc
 O en el libro de Judas en la Biblia, donde dice en el versículo 6  
   
 
-> **"Y los ángeles que no guardaron su primer estado, sino que dejaron su propia morada".** 
+> **"Y los ángeles que no guardaron su primer estado, sino que dejaron su propia morada".** 
 
   
 Así que la Biblia nos dice que los ángeles miran hacia abajo a los seres humanos y bajan a la tierra para cumplir deseos lujuriosos, y las Tablillas Esmeralda nos dicen que los "Hijos de la Luz" miraron a los seres humanos y descendieron y tomaron cuerpos humanos.  
@@ -82,7 +82,7 @@ Así que la Biblia nos dice que los ángeles miran hacia abajo a los seres human
 En la línea siguiente de la primera Tabla, Thoth dice:  
   
 
-> **"Y de todos estos, el más grande entre los hijos de los hombres fue mi padre, THOTME, guardián del gran templo, enlace entre los Hijos de la Luz que habitaban dentro del templo y las razas de los hombres que habitaban las diez islas".** 
+> **"Y de todos estos, el más grande entre los hijos de los hombres fue mi padre, THOTME, guardián del gran templo, enlace entre los Hijos de la Luz que habitaban dentro del templo y las razas de los hombres que habitaban las diez islas".** 
 
   
 Aquí clarificamos la distinción entre los Hijos de la Luz, alimentados por el fuego eterno, y las "razas de hombres".  
@@ -141,7 +141,7 @@ En el satanismo y en todas las filosofías luciferianas, se cree que Lucifer es 
 > **"Lucifer representa la vida, el pensamiento, el progreso, la civilización, la libertad, la independencia. Lucifer es el Logos, la Serpiente, el Salvador" y "Es Lucifer quien es el Dios de nuestro planeta y el único Dios", y continúa: "La Virgen celestial que así se convierte en la Madre de Dioses y Diablos en uno y al mismo tiempo, porque ella es la divinidad siempre benévola, pero en la antigüedad y la realidad, Lucifer o Luciferius es el nombre. Lucifer es la luz divina y terrestre, el Espíritu Santo y Satanás a la vez".**
 
   
-Debajo está una oración que Thoth nos dice para orar en la Tabla Esmeralda IV, que es un oración de texto luciferiano:  
+Debajo está una oración que Thoth nos dice para orar en la Tabla Esmeralda IV, que es un oración de texto luciferiano:  
   
 
 > **"Poderoso ESPÍRITU de LUZ que brilla a través del Cosmos, dibuja mi llama más cerca en armonía contigo. Levanta mi fuego de la oscuridad, imán de fuego que es Uno con el TODO. Alza mi alma, poderosa y fuerte. Hijo de la Luz, no te apartes. Tómenme en poder para derretirme en tu horno; Uno con todas las cosas y todas las cosas en Uno, el fuego de la fuerza vital y Uno con el Cerebro".**
@@ -161,18 +161,17 @@ Suena un poco familiar. Eso es porque para los luciferinos y satanistas, la ilum
 También puede llegar a los 'Maestros' (ángeles caídos) para que su guía y la sabiduría divina le ayuden a ascender a la conciencia superior. Cuanto más profundo es su entendimiento de los Misterios y cuanto más tiempo se dedica a oraciones, meditaciones y rituales, más divino se convertirá hasta llegar a la unidad con la "Luz" y convertirse en inmortal. Esta es la esencia de las enseñanzas de las Tablas de Esmeralda, y se puede encontrar en cualquier templo de los Francmasones y en la iglesia Satánica. Y este paradigma es un fraude completo, como se verá evidentemente en futuros artículos.  
   
 
-> **"Conclúyanos, receptores de tus misterios; ¿Por que? ¡Nuestro Señor y Maestro es el Todo-Uno!" (La Biblia Satánica, pg 186).** 
+> **"Conclúyanos, receptores de tus misterios; ¿Por que? ¡Nuestro Señor y Maestro es el Todo-Uno!" (La Biblia Satánica, pg 186).** 
 
   
 Con la filosofía Luciferiana y las referencias a los ángeles caídos, al infierno y a Satanás, necesitamos empezar a cuestionar la identidad real de Thoth. Echemos un vistazo más profundo a las cosas:  
 
-##   
-Thoth en el satanismo moderno
+## Thoth en el satanismo moderno
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjilAPqLnUhnEuCVyVGquc3N5UamfWUe5HJEX_Bdi-3RI-lgn6-f24mgPJpvFzOKMt3fBoPYXQ-mnAsF6p5Pqxft69bbYsGIjAmWqW1tGyuDYRpX2sTkW0Tdd3rxuUMYw3zh-tHs65HVHU/s1600/thoth2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjilAPqLnUhnEuCVyVGquc3N5UamfWUe5HJEX_Bdi-3RI-lgn6-f24mgPJpvFzOKMt3fBoPYXQ-mnAsF6p5Pqxft69bbYsGIjAmWqW1tGyuDYRpX2sTkW0Tdd3rxuUMYw3zh-tHs65HVHU/s1600/thoth2.jpg)Not sólo las Tablas de Esmeralda glorifican a los ángeles caídos, a Satanás, al lucerfianismo, y el **[Ministerio de la Dicha de Satanás](http://www.angelfire.com/empire/serpentis666/DEMONSI.html)**, Thoth es uno de los demonios más activos y es un príncipe coronado en el Infierno:  
   
 
-> **"THOTH también conocido como "Hermes" \[griego\], "Mercurio" \[romano\],"Tehuti","Ningishzidda" y" Quetzalcoatl" \[Centroamérica\].Signo del Zodiaco: Gemini- CancerTarjeta de Tarot: 3 de RodsPlanetas: Mercurio, LunaColores de vela: Plata, RojoMetal: MercurioElemento: AireRango: REGISTRADOR DE ESCRITOS Y DOCUMENTOS LEGALES EN EL INFIERNO; LA GRAN OFICINA\* La información anterior fue dictada por Thoth, personalmente.Thoth es un Demonio muy alto e importante. Él es uno de los 7 hijos de Satanás. Es el más brillante e intelectual de los dioses. Es muy simpático, extremadamente carismático y amistoso. Es el más ocupado de todos los Demonios y puede ser difícil conseguir que aparezca en una convocatoria a menos que uno sea importante para él".** 
+> **"THOTH también conocido como "Hermes" \[griego\], "Mercurio" \[romano\],"Tehuti","Ningishzidda" y" Quetzalcoatl" \[Centroamérica\].Signo del Zodiaco: Gemini- CancerTarjeta de Tarot: 3 RodsPlanetas: Mercurio, LunaColores de vela: Plata, RojoMetal: MercurioElemento: AireRango: REGISTRADOR DE ESCRITOS Y DOCUMENTOS LEGALES EN EL INFIERNO; LA GRAN OFICINA\* La información anterior fue dictada por Thoth, personalmente.Thoth es un Demonio muy alto e importante. Él es uno de los 7 hijos de Satanás. Es el más brillante e intelectual de los dioses. Es muy simpático, extremadamente carismático y amistoso. Es el más ocupado de todos los Demonios y puede ser difícil conseguir que aparezca en una convocatoria a menos que uno sea importante para él".** 
 
   
 Esto viene de una Alta Sacerdotisa en la Iglesia de Satanás, quien afirma haber estado en contacto personalmente con Thoth.  
@@ -191,8 +190,7 @@ En la página 144 de la Biblia Satánica, te da un pasaje para recitar e invocar
   
 La satanista y fundadora de la Escuela de Teosofía, Helena Blavatsky, resume a Thoth de la siguiente manera: "Hermes, el dios de la sabiduría, también llamado Thoth, Tat, Set y Sat-an; Y que, además, fue visto bajo su mal aspecto, Typhon, el Satanás egipcio, que también fue Set." \[Helena Petrovna Blavatsky, Isis Unveiled, Vol. I: Science, Nueva York, Trow's Printing and Bookbinding Company, 1877, p. 554, xxxiii.  
 
-##   
-Aleister Crowley, Thoth y La Magia
+## Aleister Crowley, Thoth y La Magia
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiscDUVDCy-AVv_WxGyeR4a4T9xf13ZgK6X2dralEuoUT7wKK_r_8h3X1m6Yb94cJh_0JQAsmsDoL4GGJWMzkcYJBTiCeHyfg_6AloJrpua8QV_ywuaIKlWE0hcP5VbW8_OWzptPLV01oc/s1600/crowley25.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiscDUVDCy-AVv_WxGyeR4a4T9xf13ZgK6X2dralEuoUT7wKK_r_8h3X1m6Yb94cJh_0JQAsmsDoL4GGJWMzkcYJBTiCeHyfg_6AloJrpua8QV_ywuaIKlWE0hcP5VbW8_OWzptPLV01oc/s1600/crowley25.jpg)
 
@@ -218,7 +216,7 @@ El "**[Ritual Menor del Barrido del Pentagrama](https://en.wikipedia.org/wiki/Le
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq2hFvkiplCplN_9V04IStb8WCRKVpV7s-gNkMWvFZMvNWY8bzLDvVVXo4a5_Aoufg3MAEk8R91j0o4CsNafbG5LjdY3Fz4OFTrDvFBt7ln_bhPVqJJuRBZpV8tu7WBPe0ZtgU70iJV1A/s1600/sacrificio-humano.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq2hFvkiplCplN_9V04IStb8WCRKVpV7s-gNkMWvFZMvNWY8bzLDvVVXo4a5_Aoufg3MAEk8R91j0o4CsNafbG5LjdY3Fz4OFTrDvFBt7ln_bhPVqJJuRBZpV8tu7WBPe0ZtgU70iJV1A/s1600/sacrificio-humano.jpg)
 
   
-Según la leyenda procedente de materiales canalizados, Thoth comenzó una colonia en el antiguo Egipto al comienzo de la civilización egipcia después de que la Atlántida se hundió después de la caída de la Atlántida hace aproximadamente 10.000 años y donde fue un sumo sacerdote. Esto significaría que Thoth gobernó sobre la dinastía pre-dinística y quizá incluso la Primera Dinastía de Egipto justo al comienzo de su civilización. Según el antropólogo Dr. Sasha Lessin, 3450 aC es cuando Thoth fue gobernante de Egipto. El único problema con esto es que Thoth, el dios de la religión y el ritual, gobernó en el momento exacto en que los egipcios practicaban sacrificios humanos.  
+Según la leyenda procedente de materiales canalizados, Thoth comenzó una colonia en el antiguo Egipto al comienzo de la civilización egipcia después de que la Atlántida se hundió después de la caída de la Atlántida hace aproximadamente 10.000 años y donde fue un sumo sacerdote. Esto significaría que Thoth gobernó sobre la dinastía pre-dinística y quizá incluso la Primera Dinastía de Egipto justo al comienzo de su civilización. Según el antropólogo Dr. Sasha Lessin, 3450 a. C. es cuando Thoth fue gobernante de Egipto. El único problema con esto es que Thoth, el dios de la religión y el ritual, gobernó en el momento exacto en que los egipcios practicaban sacrificios humanos.  
   
 Según un artículo publicado en National Geographic, el sacrificio humano es claramente demostrado como existente durante y antes de la Primera Dinastía por los "retenedores" (sirvientes humanos) que fueron enterrados cerca de la tumba de cada faraón para que pudieran ir a la otra vida para seguir sirviendo a la Faraones y la realeza. Y Thoth como el dios de la religión, los rituales, y el sumo sacerdote de Egipto, habría estado supervisando esta práctica religiosa si esta leyenda es verdad.  
   
@@ -240,7 +238,7 @@ Contrario a cómo está representado en la cultura pop y las enseñanzas de la N
 Las Tablas de Esmeralda son casi tan luciferianas como son posibles y están llenas de referencias a las "llamas eternas", Satanás, los "Maestros" y contienen cantos demoníacos tan misteriosos que sólo Dios sabe qué espíritus demoníacos invocan. Por ejemplo, en la tabla X vemos instrucciones de los Señores de Amenti:  
   
 
-> "AHORA HOMBRE, ESTAS PALABRAS LE DEJO. UTILÍCELO Y ENCONTRARÁ LA ENERGÍA EN SU SONIDO. DIGA LA PALABRA: "ZIN-URU" Y ENCONTRARÁ EL PODER .
+> "AHORA HOMBRE, ESTAS PALABRAS LE DEJO. UTILÍCELO Y ENCONTRARÁ LA ENERGÍA EN SU SONIDO. DIGA LA PALABRA: "ZIN-URU" Y ENCONTRARÁ EL PODER .
 
   
 O en la Tabla Esmeralda VI, Thoth convoca a dioses demoníacos: "Por sus nombres los llamo para que me ayuden, me liberen y me salvaguarden de la oscuridad de la noche: UNTANAS, QUERTAS, CHIETAL, GOYANA, HUERTAL, SEMVETA-ARDAL. Por sus nombres te imploro, me liberas de las tinieblas y me llenas de LUZ". O en la tableta XII: "Llámame cuando me necesites. Usa mi nombre tres veces seguidas: Chequetet, Arelich, Volmalites.  

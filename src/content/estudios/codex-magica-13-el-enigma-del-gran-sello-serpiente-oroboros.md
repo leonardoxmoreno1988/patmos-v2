@@ -5,19 +5,19 @@ updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros"
 redirectFrom: "/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html"
-description: "\"Y el gran dragón fue echado fuera, esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero...\" - Apocalipsis 12: 9 \"La gran serpiente del…"
+description: "\"Y el gran dragón fue echado fuera, esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero...\" - Apocalipsis 12:9 \"La gran serpiente del…"
 tags: ["Sociedad"]
 ---
 
-> **"Y el gran dragón fue echado fuera, esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero..."** 
+> **"Y el gran dragón fue echado fuera, esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero..."** 
 
-> **\- Apocalipsis 12: 9**
+> **\- Apocalipsis 12:9**
 
 [![ojo que todo lo ve con el gran sello de los estados unidos y la serpiente uróboros](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkp8zGKqonLonqgIdNkaKrtHq7HHM8a0_cm6J1T8yFR8nfoHHnKv-yqJJeBVgnLY3lPB7unkDlfxBJyXGfLiBgpOHQdoFM3WBJZA47d-hXnK6Og-FhH_6Ytnm5cBcfE4Fcr3brBicLOFg/s1600/uoroboros.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkp8zGKqonLonqgIdNkaKrtHq7HHM8a0_cm6J1T8yFR8nfoHHnKv-yqJJeBVgnLY3lPB7unkDlfxBJyXGfLiBgpOHQdoFM3WBJZA47d-hXnK6Og-FhH_6Ytnm5cBcfE4Fcr3brBicLOFg/s1600/uoroboros.jpg)
 
   
 
-> **"La gran serpiente del jardín del Edén y el Señor dios son idénticos."**  
+> **"La gran serpiente del jardín del Edén y el Señor dios son idénticos."**  
 
 > **\- Helena Blavatsky, La Doctrina Secreta**
 
@@ -38,7 +38,7 @@ Verdaderamente extraño, especialmente, es el hecho de que hay dos lados del Gra
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 De hecho, ambos lados del Gran Sello, cada uno con varias imágenes, han existido desde los días del Congreso Continental.  
   
@@ -65,8 +65,7 @@ El objetivo final de los Illuminati es eventualmente sacar a Haym Salomon del ar
   
 Ahora, examinemos los símbolos del Gran Sello de América y veamos si podemos entender su verdadero significado esotérico y sus propósitos. Vamos a limpiar el brillo y bajar a la superficie de la base para comprender mejor. Esto es vital debido al futuro de los Estados Unidos -y al destino de toda la humanidad- que está envuelto y se revela en esta colección de símbolos y marcas iluministas.  
 
-##   
-Las piedras de asfalto y la pirámide
+## Las piedras de asfalto y la pirámide
 
 La masonería es una peculiar institución egipcio-babilónica-judía, y así la pirámide misma se remonta a la dinastía de los faraones y a los dioses y diosas del antiguo Egipto. Las piedras que componen la pirámide también son de significado esotérico. En la filosofía masónica se enseña que el hombre no iluminado está en un estado bruto y natural.  
   
@@ -82,8 +81,7 @@ Es cuando este objetivo ambicioso se logra que, simbólicamente, la piedra angul
   
 El Fenix, sin embargo, es, en realidad, un "cockatrice", un dragón-pájaro, una serpiente voladora. La palabra "pirámide", por cierto, significa literalmente "en medio del fuego". Y ahora usted conoce el verdadero significado oculto de la palabra.  
 
-##   
-Mirando en el ojo que todo lo ve
+## Mirando en el ojo que todo lo ve
 
 En pocas palabras, los francmasones, bajo la dirección de Haym Salomon, Ben Franklin y otros, diseñaron el Gran Sello con su ojo que todo lo ve en la pirámide trunca en medio del fondo del sol radiante. Como seguidores de los egipcios, se ha asumido desde hace mucho tiempo que el ojo es el de Osiris, el Dios del sol egipcio, y / o de su hijo, Horus. Esto es cierto, pero hay mucho más.  
   
@@ -105,7 +103,7 @@ Es evidente que los Illuminati adoran un panteón, una multiplicidad de dioses. 
 
 ## Su dios es la serpiente
 
-Ahora, la Biblia, en Isaías 14 y Apocalipsis 12: 9, identifica a Lucifer como "el gran dragón ... esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero". Así que, por cualquier nombre que lo llamen, el dios de los Illuminati y la Masonería es la serpiente. De hecho, en Un Puente a la Luz, un libro oficial del Consejo Supremo de la Madre, 33 °, el más alto consejo del Rito Escocés, Rex Hutchens, 33 °, revela que "el cuerpo del Espíritu Santo, el agente universal" No es otra que "la serpiente devorando su propia cola". **(4)**  
+Ahora, la Biblia, en Isaías 14 y Apocalipsis 12:9, identifica a Lucifer como "el gran dragón ... esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero". Así que, por cualquier nombre que lo llamen, el dios de los Illuminati y la Masonería es la serpiente. De hecho, en Un Puente a la Luz, un libro oficial del Consejo Supremo de la Madre, 33 °, el más alto consejo del Rito Escocés, Rex Hutchens, 33 °, revela que "el cuerpo del Espíritu Santo, el agente universal" No es otra que "la serpiente devorando su propia cola". **(4)**  
   
 Es decir, la serpiente Ouroboros.  
   
@@ -146,7 +144,7 @@ El camino destructivo, por lo tanto, es el camino de los Illuminati. Como he dem
 En Occult Geometry, A.S. Raleigh examina el símbolo del círculo. El escribe:  
   
 
-> **"Una forma del círculo es una serpiente con una cola en su boca ... Es el regreso a la Unidad ... El verdadero círculo simboliza la evolución,  el círculo de la serpiente, la involución... es el poder que trae a la unidad de la diversidad ... Por lo tanto, el Círculo de la Serpiente es siempre el símbolo de lo destructivo." (9)**
+> **"Una forma del círculo es una serpiente con una cola en su boca ... Es el regreso a la Unidad ... El verdadero círculo simboliza la evolución,  el círculo de la serpiente, la involución... es el poder que trae a la unidad de la diversidad ... Por lo tanto, el Círculo de la Serpiente es siempre el símbolo de lo destructivo." (9)**
 
   
 Más adelante, en las fotos e ilustraciones presentadas en este capítulo, descubrirá la sorprendente obra de arte en la postal del Año Nuevo por el artista judío Alain Roth en 1915. El diseño muestra a la Serpiente Ouroboros (Satanás) rodeando y conquistando toda la tierra. ¿Feliz año nuevo?  

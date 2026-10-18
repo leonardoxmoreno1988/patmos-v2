@@ -9,9 +9,9 @@ description: "Alberto Romero Rivera, español y ex católico, aseguró hasta su 
 tags: ["Falsas Doctrinas"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
-**Alberto Romero Rivera**, español y excatólico, aseguró hasta su muerte en 1997 haber pertenecido a la Orden de los **Jesuitas** y haber recibido de primera mano los planes de la inmensa conspiración masónica/jesuita para instaurar la nueva religión mundial. Solo al adentrarse en la primera parte de su testimonio se muestra que lo que vivió a puertas cerradas en aquel seminario es real y muy comprobable con los tiempos que vivimos actualmente. **[Chick Publications](http://www.chick.com/es/)** retrata la historia de este exsacerdote jesuita y su conversión al evangelio. Una historia reveladora:  
+**Alberto Romero Rivera**, español y excatólico, aseguró hasta su muerte en 1997 haber pertenecido a la Orden de los **Jesuitas** y haber recibido de primera mano los planes de la inmensa conspiración masónica/jesuita para instaurar la nueva religión mundial. Solo al adentrarse en la primera parte de su testimonio se muestra que lo que vivió a puertas cerradas en aquel seminario es real y muy comprobable con los tiempos que vivimos actualmente. **[Chick Publications](http://www.chick.com/es/)** retrata la historia de este exsacerdote jesuita y su conversión al evangelio. Una historia reveladora:  
 
   
 

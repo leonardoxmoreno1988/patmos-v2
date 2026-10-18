@@ -9,7 +9,7 @@ description: "Por un lapso tiempo en el 2004, las tiendas de descuento Target ve
 tags: ["Falsas Doctrinas"]
 ---
 
-Por un lapso tiempo en el 2004, las tiendas de descuento _Target_ vendían una **pulsera roja** como parte de un paquete **Red String** por $ 25.99. El origen de esa pulsera era el **Centro de Cábala** en Los Ángeles (Heather Svokos, "Brazaletes de Cábala" encadenados en un serio debate religioso", Fort Worth Star-Telegram, 18 de agosto de 2004).  
+Por un lapso tiempo en el 2004, las tiendas de descuento _Target_ vendían una **pulsera roja** como parte de un paquete **Red String** por $ 25.99. El origen de esa pulsera era el **Centro de Cábala** en Los Ángeles (Heather Svokos, "Brazaletes de Cábala" encadenados en un serio debate religioso", Fort Worth Star-Telegram, 18 de agosto de 2004).  
   
 
 [![símbolo del árbol de la vida de la cábala](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXkAPmxV31LBv0lYwMjy26A-nLI4-eUv3ct1kz0neG6hf3SYbMC-XunYzPS_9bYOLN7j_zJ8N0RCAFBoLo4KU304wATZGeVRcE9gbeEeVPu3j57lZ7jBWC0Vez8_ICAS7cMPinfOztgGE/s1600/cabala-satanismo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXkAPmxV31LBv0lYwMjy26A-nLI4-eUv3ct1kz0neG6hf3SYbMC-XunYzPS_9bYOLN7j_zJ8N0RCAFBoLo4KU304wATZGeVRcE9gbeEeVPu3j57lZ7jBWC0Vez8_ICAS7cMPinfOztgGE/s1600/cabala-satanismo.jpg)
@@ -17,7 +17,7 @@ Por un lapso tiempo en el 2004, las tiendas de descuento _Target_ vendían una *
   
 El llamado bendel, ha adornado las muñecas de las estrellas como Madonna y Britney Spears, que han estado estudiando esta forma de misticismo judío en el Centro de Cábala (otras formas escritas para la Cábala incluyen Cábala, Qabala, Kabbala, Khabala y otros). Un auténtico bendel había sido cortado de una larga cadena envuelta siete veces alrededor de la tumba de la matriarca bíblica Raquel en Belén (Svokos). El uso de este supuestamente trae protección y suerte.  
   
-**Nota:** Si deseas recibir más contenido sobre sociedades secretas, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre sociedades secretas, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
   
 El Centro de Cábala también vende agua de Kabbalah, supuestamente cargada de "energía positiva" (Jim Remsen, "Secretos de Cábala en la línea principal", The Philadelphia Inquirer, 31 de julio de 2003).  
@@ -32,7 +32,7 @@ El rabino Michael Berg, el otro hijo de Berg, es el editor de los 22 volúmenes 
   
 Según Yehuda Berg, más de 18.000 estudiantes están matriculados en las clases del Centro de Cábala en los Estados Unidos, y otros 90.000 son "miembros activos". El sitio web de la organización es visitado por 90.000 personas mensualmente "(Debra Nussbaum Cohen,"El misticismo judío se vuelve tendencia", New York Times, 15 de diciembre de 2003).  
   
-Berg ha popularizado la Cábala, y algunos dicen que la ha comercializado, ofreciéndola a cualquiera que esté dispuesto a estudiar. Tradicionalmente, la Cábala sólo es estudiada por hombres judíos casados ​​mayores de 40 años que han estudiado la Torá (Remsen). Sin embargo, la Cábala ya está montando una ola en la cultura dominante a través de otros escritores como el Rabino David Cooper, cuyo libro, Dios es un verbo, fue un bestseller a finales de 1990, y el estudioso de la Kabbalah Daniel C. Matt.  
+Berg ha popularizado la Cábala, y algunos dicen que la ha comercializado, ofreciéndola a cualquiera que esté dispuesto a estudiar. Tradicionalmente, la Cábala sólo es estudiada por hombres judíos casados mayores de 40 años que han estudiado la Torá (Remsen). Sin embargo, la Cábala ya está montando una ola en la cultura dominante a través de otros escritores como el Rabino David Cooper, cuyo libro, Dios es un verbo, fue un bestseller a finales de 1990, y el estudioso de la Kabbalah Daniel C. Matt.  
   
 
 ## ¿Qué es la Cábala?
@@ -71,7 +71,7 @@ Cooper, al igual que Matt, enseña que la Torá se puede estudiar en cuatro nive
   
 Este nivel más profundo es muy difícil y sólo se puede comprender después de "un estudio considerable" (Cooper, 50). La Torá es vista como un libro codificado que contiene toda la "sabiduría de la creación" (Cooper, 53).  
   
-La enseñanza más temprana de la Cábala es El Libro de la Formación, supuestamente revelado por el Creador a Abraham alrededor de 2000 aC. (P. Berg, 5, Y. Berg, 232). Yehuda Berg afirma que tanto el Libro de Mormón como el Corán citan este libro, y que la sabiduría de esta enseñanza fue hacia Oriente y desarrolló las religiones que conocemos hoy como Hinduismo y Budismo Zen (Y. Berg, 232).  
+La enseñanza más temprana de la Cábala es El Libro de la Formación, supuestamente revelado por el Creador a Abraham alrededor de 2000 a. C.. (P. Berg, 5, Y. Berg, 232). Yehuda Berg afirma que tanto el Libro de Mormón como el Corán citan este libro, y que la sabiduría de esta enseñanza fue hacia Oriente y desarrolló las religiones que conocemos hoy como Hinduismo y Budismo Zen (Y. Berg, 232).  
   
 La siguiente pieza fundacional fueron los 10 Mandamientos dados a Moisés. Sin embargo, supuestamente éstos no eran realmente mandamientos pero supuestamente un código para las Diez Sefirot, que son emanaciones o aspectos de la naturaleza de Dios.  
   
@@ -93,7 +93,7 @@ Matt afirma que el Zohar tiene muchas palabras desconocidas, rompecabezas, error
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguTfDv3Ryh2o48wM0Kdj9BF1InsEy0cCVf3C2ORwtKxzReTy0P8UmhUBHxuTu_X-0BzgsMDEkAVUxQ3MT_kGl1sl-4kx5ZCPs_MQrROEZcFg8MnFZ9IcitRVk2MLLcJj-8Fy1wJY_HRnw/s1600/que-sea-la-luz.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguTfDv3Ryh2o48wM0Kdj9BF1InsEy0cCVf3C2ORwtKxzReTy0P8UmhUBHxuTu_X-0BzgsMDEkAVUxQ3MT_kGl1sl-4kx5ZCPs_MQrROEZcFg8MnFZ9IcitRVk2MLLcJj-8Fy1wJY_HRnw/s1600/que-sea-la-luz.jpg)
 
   
-En la Cábala, el Creador es Ein Sof, que literalmente significa "sin fin" (Matt, xxiii). Lo que conocemos como Dios es en realidad una de las emanaciones más elevadas de Ein Sof, ya que, según Matt, Génesis 1: 1 dice en realidad: "Con el principio, \[Ein Sof\] creó a Dios" (Mateo 12).  
+En la Cábala, el Creador es Ein Sof, que literalmente significa "sin fin" (Matt, xxiii). Lo que conocemos como Dios es en realidad una de las emanaciones más elevadas de Ein Sof, ya que, según Matt, Génesis 1:1 dice en realidad: "Con el principio, \[Ein Sof\] creó a Dios" (Mateo 12).  
   
 Ein Sof impregna toda la creación, de modo que incluso una piedra tiene divinidad; La divinidad impregna toda la existencia (Daniel C. Matt, The Essential Kabbalah: El Corazón del Misticismo Judío \[NY: HarperCollins Publishers, HarperSanFrancisco, 1995\], 24, Will Parfitt, The Elements of Kabbalah, 68).  
   
@@ -102,7 +102,7 @@ Se dan varios relatos de la creación, uno es que Ein Sof emanó una chispa, "de
   
 Otra cuento explica que el mundo físico provino de una chispa, que se expandió y dio a luz a través de varios puntos o emanaciones del ser divino, con Ein Sof descendiendo a través de estos puntos hasta que el mundo físico se creó. Según algunos comentaristas, esta luz original estaba escondida en el Jardín del Edén; Según otros, estaba oculto en la Torá (Mt 14,16).  
   
-Otra fuente afirma que originalmente había energía, una Luz cuya esencia era alegría y plenitud. Para compartir esta esencia, la energía creó un Vasija, que tenía un deseo infinito de recibir. La vasija, sin embargo, recibió parte del deseo del Creador de compartir. Esta tensión entre el deseo de dar y el deseo de recibir destruyó la vasija, y la Luz se retiró. Esto causó el big bang cosmológico, del que emanaba la materia. La Luz dio un paso atrás para permitir que  la vasija tenga "tiempo y espacio en donde evolucionar su propia naturaleza divina" (Y. Berg, 61).  
+Otra fuente afirma que originalmente había energía, una Luz cuya esencia era alegría y plenitud. Para compartir esta esencia, la energía creó un Vasija, que tenía un deseo infinito de recibir. La vasija, sin embargo, recibió parte del deseo del Creador de compartir. Esta tensión entre el deseo de dar y el deseo de recibir destruyó la vasija, y la Luz se retiró. Esto causó el big bang cosmológico, del que emanaba la materia. La Luz dio un paso atrás para permitir que  la vasija tenga "tiempo y espacio en donde evolucionar su propia naturaleza divina" (Y. Berg, 61).  
   
 Según el Rabino David Cooper, Ein Sof "no debe ser llamado Creador, Todopoderoso, Padre, Madre, Infinito, Braham, Buddhamind, Allah, Adonay, Elohim, o Shaddai", y "nunca debe ser llamado Él" (Cooper, 65). Estos nombres son meramente aspectos de Ein Sof; Sólo podemos conocer Ein Sof en formas que trascienden el pensamiento (Cooper, 67-68).
 
@@ -211,22 +211,22 @@ Para comparar el popular Centro con la realidad "es como la relación entre la p
   
 Los Bergs y otros responden que estamos viviendo en tiempos en que los kabbalistas necesitan compartir esta sabiduría para que la humanidad pueda afrontar sus desafíos (Matt, Zohar, xi, P. Berg, 249, 263 y Y. Berg, 218). Un rabino, que no está afiliado a los Bergs, escribe que revelar los secretos de la Kabbalah puede crear el "potencial para un cambio de paradigma que cambiará nuestro propio proceso de pensamiento y nuestra relación con lo Divino" (Cooper, viii).  
   
-Lo que también ha indignado a tantos rabinos es la conexión con superestrellas como Madonna, dando la apariencia de una cultura de celebridad alegremente participando de una sabiduría antigua. Los rabinos ortodoxos consideran que la Cábala es un tesoro sagrado que debe ser abordado con reverencia y respeto. Ellos afirman que esta actitud es muy escasa en aquellos asociados con el Centro de Cábala.  
+Lo que también ha indignado a tantos rabinos es la conexión con superestrellas como Madonna, dando la apariencia de una cultura de celebridad alegremente participando de una sabiduría antigua. Los rabinos ortodoxos consideran que la Cábala es un tesoro sagrado que debe ser abordado con reverencia y respeto. Ellos afirman que esta actitud es muy escasa en aquellos asociados con el Centro de Cábala.  
   
-La conexión del Centro de Cábala con las celebridades y su comercialización de productos de Cábala lo han convertido en un blanco más visible de las críticas (el Centro de Cábala y la controversia que rodea a este programa fueron presentados en junio de 2005). El método de enseñanza y la disponibilidad pública, incluso aparte de la comercialización, es probablemente un factor clave para producir la incomodidad de los rabinos ortodoxos.  
+La conexión del Centro de Cábala con las celebridades y su comercialización de productos de Cábala lo han convertido en un blanco más visible de las críticas (el Centro de Cábala y la controversia que rodea a este programa fueron presentados en junio de 2005). El método de enseñanza y la disponibilidad pública, incluso aparte de la comercialización, es probablemente un factor clave para producir la incomodidad de los rabinos ortodoxos.  
   
-Cabe señalar, sin embargo, que el Centro de Cábala no es el primero en ofrecer la Cábala fuera de su tradición habitual. Las enseñanzas cabalísticas antes de la popularidad del Centro de Cabalá han estado disponibles para el público en general desde la segunda mitad del siglo XX, incluyendo varios libros mencionados en este artículo. A mediados de los años ochenta, una organización donde enseñé astrología ofreció un popular curso de dos años sobre Kabbalah.  
+Cabe señalar, sin embargo, que el Centro de Cábala no es el primero en ofrecer la Cábala fuera de su tradición habitual. Las enseñanzas cabalísticas antes de la popularidad del Centro de Cabalá han estado disponibles para el público en general desde la segunda mitad del siglo XX, incluyendo varios libros mencionados en este artículo. A mediados de los años ochenta, una organización donde enseñé astrología ofreció un popular curso de dos años sobre Kabbalah.  
   
 
 ## En Respuesta: Revelación esotérica versus revelación literal
 
 Ein Sof se considera remoto e incognoscible, y cree que el Árbol de la Vida es una revelación de los atributos de Ein Sof. El Dios bíblico, sin embargo, no es remoto; Él está íntimamente involucrado con Sus criaturas y ha revelado sus atributos a través de la naturaleza (Romanos 1.20), Su Palabra (Hebreos 1.1) y Cristo (Juan 14.9), no a través de pistas misteriosas.  
   
-La Cábala presenta los atributos de Ein Sof más como principios abstractos que como cualidades personales. El Dios de la Biblia, sin embargo, se revela como poseedor de atributos personales; Él puede pensar (Sal 147.5), sentir (Sal 116.15), (Rev. 4.11), y se relaciona con Sus criaturas (los seres humanos) en quien Él también ha colocado esos atributos personales (Gn 1,26-27).  
+La Cábala presenta los atributos de Ein Sof más como principios abstractos que como cualidades personales. El Dios de la Biblia, sin embargo, se revela como poseedor de atributos personales; Él puede pensar (Sal 147.5), sentir (Sal 116.15), (Rev. 4.11), y se relaciona con Sus criaturas (los seres humanos) en quien Él también ha colocado esos atributos personales (Gn 1,26-27).  
   
-Se dice que los atributos de Ein Sof son dualistas (macho y hembra) y los opuestos están equilibrados dentro de Ein Sof. El Dios bíblico no une los opuestos. Él es uno (Deuteronomio 6.4); Él es una perfecta unidad de justicia, justicia, verdad, misericordia y amor, pero éstos no coexisten en equilibrio con sus opuestos dentro de Dios. En primer lugar, Juan 1: 5 afirma claramente que "Dios es luz, y en El no hay tinieblas en absoluto" y que el Dios de la verdad "no puede mentir" (Tito 1.2).  
+Se dice que los atributos de Ein Sof son dualistas (macho y hembra) y los opuestos están equilibrados dentro de Ein Sof. El Dios bíblico no une los opuestos. Él es uno (Deuteronomio 6.4); Él es una perfecta unidad de justicia, justicia, verdad, misericordia y amor, pero éstos no coexisten en equilibrio con sus opuestos dentro de Dios. En primer lugar, Juan 1:5 afirma claramente que "Dios es luz, y en El no hay tinieblas en absoluto" y que el Dios de la verdad "no puede mentir" (Tito 1.2).  
   
-Ein Sof es incompleto, ya que necesita al hombre para completar su plan. Pero un Dios incompleto es un Dios imperfecto, y no puede ser Dios en absoluto. Si Dios es el estándar para la justicia, Él debe ser perfecto y completo. El Dios de la Biblia existía desde toda la eternidad (Génesis 1.1, Col. 1.17) en perfección completa en Él mismo (Éxodo 3.14, Mateo 5.48 y Hechos 17.25). La creación del hombre no fue por necesidad, sino por Su complacencia (Apocalipsis 4.11).  
+Ein Sof es incompleto, ya que necesita al hombre para completar su plan. Pero un Dios incompleto es un Dios imperfecto, y no puede ser Dios en absoluto. Si Dios es el estándar para la justicia, Él debe ser perfecto y completo. El Dios de la Biblia existía desde toda la eternidad (Génesis 1.1, Col. 1.17) en perfección completa en Él mismo (Éxodo 3.14, Mateo 5.48 y Actos 17.25). La creación del hombre no fue por necesidad, sino por Su complacencia (Apocalipsis 4.11).  
   
 La Cábala enseña que la Torá está codificada con significados ocultos. En contraste, la interpretación cristiana histórica asume que Dios le comunicó la Torá a Moisés de una manera normal, y que el texto dice lo que parece decir; No hay un significado oculto.  
   
@@ -242,4 +242,4 @@ En la Cábala, La Shekinah es a veces llamado Eden, y la Torá es el Jardín don
   
 Esta redención comenzó con la muerte de Cristo en la cruz, y fue el mayor tikkun de todos. Su obra proporcionó la sanidad, es decir, la redención, para todos los que confían en Cristo y, en última instancia, para toda la creación física (Romanos 8.21-23), la redención completa de nuestros cuerpos (1 Corintios 15.12) y de la creación física está en el futuro después de que Cristo regrese.  
   
-Al confiar en Cristo, somos reconciliados con nuestro Creador, liberados de su ira sobre el pecado, y ganamos una relación con Dios, que nos ama (Juan 3.16, Romanos 5.9, 2 Corintios 5.17-19). La luz versus la oscuridad es un tema tan usual en la Cábala como en la Biblia. La verdadera luz, sin embargo, no está en el Árbol de la Vida, sino en Cristo, quien proclamó: "Yo soy la Luz del mundo" (Juan 8.12).
+Al confiar en Cristo, somos reconciliados con nuestro Creador, liberados de su ira sobre el pecado, y ganamos una relación con Dios, que nos ama (Juan 3.16, Romanos 5.9, 2 Corintios 5.17-19). La luz versus la oscuridad es un tema tan usual en la Cábala como en la Biblia. La verdadera luz, sin embargo, no está en el Árbol de la Vida, sino en Cristo, quien proclamó: "Yo soy la Luz del mundo" (Juan 8.12).

@@ -9,7 +9,7 @@ description: "Los medios de comunicación son la herramienta más poderosa usada
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -114,7 +114,7 @@ Las campañas de marketing pioneras de Bernay han cambiado profundamente el func
 
 ## Harold Lasswell
 
-   
+   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg48MLs3IN2ZeFs0ahXiAp5mb_Kr_GQbGNoiOFQgbitS2jgn4eosCu3SiEvofSRsjGLQn8rT-WcQvQXqXnqbzNjnjhQ8q6D1YcJ-GWceoFxfak0T6pngBa4mEXvXzFjPEk8okw6cAg_0YiB/s1600/lasswell1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg48MLs3IN2ZeFs0ahXiAp5mb_Kr_GQbGNoiOFQgbitS2jgn4eosCu3SiEvofSRsjGLQn8rT-WcQvQXqXnqbzNjnjhQ8q6D1YcJ-GWceoFxfak0T6pngBa4mEXvXzFjPEk8okw6cAg_0YiB/s1600/lasswell1.jpg)
 
@@ -262,7 +262,7 @@ Estos hechos fueron señalados como los peligros para la libertad humana en la d
 La noción de escapismo es aún más relevante hoy en día con el advenimiento de los videojuegos en línea, películas en 3D y el cine en casa. Las masas, buscando constantemente el estado de entretenimiento de última generación, recurrirán a los productos de alto presupuesto que sólo puede ser producido por las más grandes corporaciones de medios del mundo. Estos productos contienen mensajes cuidadosamente calculados y los símbolos son nada más y nada menos que la propaganda de entretenimiento. El público se ha capacitado a AMAR su propaganda en la medida en que gasta su dinero duramente ganado para ser expuestos a ella. La Propaganda (utilizada tanto en sentido político, cultural y comercial) ya no es la forma de comunicación o la imposición coercitiva de autoridad que se encuentran en las dictaduras: se ha convertido en sinónimo de entretenimiento y placer.  
   
 > "En lo que respecta a la propaganda de los primeros defensores de la alfabetización universal y la libertad de prensa contempla sólo dos posibilidades: la propaganda puede ser cierta o puede ser falsa. No previeron lo que en realidad estaba pasando, sobre todo en las democracias capitalistas occidentales - el desarrollo de una industria masiva inmensa de comunicaciones, interesados principalmente no en lo verdadero ni falso, pero sí en lo irreal, más o menos totalmente irrelevante."  
-> \- Aldous Huxley, Prólogo a Un mundo feliz Una sola pieza de los medios de comunicación a menudo no tienen un efecto duradero en la psique humana. Los medios de comunicación, sin embargo, por su naturaleza omnipresente, crea un ambiente de vida que evoluciona en el día a día. Se define la norma y excluye a los indeseables. De la misma manera que los caballos de carrera usan anteojeras por lo que sólo puede ver lo que está justo en frente de ellos, las masas sólo pueden ver a dónde se supone que deben ir.  
+> \- Aldous Huxley, Prólogo a Un mundo feliz Una sola pieza de los medios de comunicación a menudo no tienen un efecto duradero en la psique humana. Los medios de comunicación, sin embargo, por su naturaleza omnipresente, crea un ambiente de vida que evoluciona en el día a día. Se define la norma y excluye a los indeseables. De la misma manera que los caballos de carrera usan anteojeras por lo que sólo puede ver lo que está justo en frente de ellos, las masas sólo pueden ver a dónde se supone que deben ir.  
   
 
 > "Es la aparición de los medios de comunicación que hace posible el uso de técnicas de propaganda en una escala social. La orquestación de la prensa, la radio y la televisión crean un ambiente que hace continua, duradera y total la influencia de la propaganda prácticamente desapercibida, precisamente porque crea un ambiente constante. Los medios de comunicación constituye el vínculo esencial entre el individuo y las exigencias de la sociedad tecnológica ".  
@@ -315,7 +315,7 @@ El sexo es omnipresente en los medios de comunicación, ya que se basa y mantien
 > "La percepción subliminal es un proceso deliberado creado por técnicos de comunicaciones, por el cual uno percibe y responde a la información y las instrucciones sin ser consciente de las instrucciones"  
 > \- Steve Jacobson, Control Mental en los Estados Unidos.
 
-   
+   
 Esta técnica es utilizada a menudo en el marketing y todos sabemos que el sexo vende.
 
   
@@ -363,7 +363,7 @@ La programación predictiva se encuentra a menudo en el género de ciencia ficci
 
   
 
-## Simbolismo Oculto en la Cultura Popular 
+## Simbolismo Oculto en la Cultura Popular 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPY1ZWySVvL_CUlykB50VlmNS66xgHRgLk0I1Yv5Lqi6GpMKvFVJwv-4lwC0hZFLXjvca4Ma3LeiPuCu0pmw8CzaeX-mdNud_IUbno_fXibvOlHWGbgxGme6bVSg20EKrsYKilL41v1FwQ/s1600/metropolis-19281.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPY1ZWySVvL_CUlykB50VlmNS66xgHRgLk0I1Yv5Lqi6GpMKvFVJwv-4lwC0hZFLXjvca4Ma3LeiPuCu0pmw8CzaeX-mdNud_IUbno_fXibvOlHWGbgxGme6bVSg20EKrsYKilL41v1FwQ/s1600/metropolis-19281.jpg)
 

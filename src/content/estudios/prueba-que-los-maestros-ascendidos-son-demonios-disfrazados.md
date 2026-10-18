@@ -22,22 +22,21 @@ Hay 7 rayos de ascensión y todos los supuestos maestros ascendidos se clasifica
 
   
 
-**Nota:** Si deseas recibir más contenido sobre falsas doctrinas, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre falsas doctrinas, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
-Las iniciaciones son niveles de conciencia y etapas de desarrollo del alma, y ​​cuanto más universal se convierta tu conciencia, más alto subes las filas de iniciación hasta alcanzar el cuarto nivel de iniciación donde ya no es necesario reencarnar. En el sexto nivel de iniciación ha logrado la unidad con el "Yo Soy" y así llegando a la categoría de ser un "maestro ascendido".  
+Las iniciaciones son niveles de conciencia y etapas de desarrollo del alma, y cuanto más universal se convierta tu conciencia, más alto subes las filas de iniciación hasta alcanzar el cuarto nivel de iniciación donde ya no es necesario reencarnar. En el sexto nivel de iniciación ha logrado la unidad con el "Yo Soy" y así llegando a la categoría de ser un "maestro ascendido".  
   
 La gente medita para ponerse en contacto con los maestros ascendidos, orar a los maestros ascendidos, e incluso usar las cartas del oráculo del maestro ascendido para la guía espiritual y la sabiduría. En la comunidad de la **[Nueva Era](http://www.ritualypropaganda.com/2017/04/10-ideas-falsas-nueva-era-sobre-dios.html)**, casi se han convertido en algún tipo de dioses que algunas personas incluso rezan para protección de la oscuridad y **[espíritus negativos en los planos astrales](https://www.ritualypropaganda.com/2016/05/proyeccion-astral-al-descubierto.html)**.  
   
 Esto se piensa como algo totalmente inofensivo y espiritualmente seguro. Pero como estamos a punto de ver, los Maestros Ascendidos tienen orígenes mucho más oscuros.  
 
-##   
-La Gran Hermandad Blanca le dio a Aleister Crowley su satanismo
+## La Gran Hermandad Blanca le dio a Aleister Crowley su satanismo
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEianO-c4wp-vVDzJ55-Wx6tAi9j5wU3z6WXFgnyCv2ufHhuLYpRrePMvUCsik5wAQlRqe0C2dWwVO9inWmqKaNYuH13N_kwbngna8g0jE8emgaIbwA7RNGvW5ErbGCkm3zXp6iw28_zWyE/s1600/aliester-crowley.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEianO-c4wp-vVDzJ55-Wx6tAi9j5wU3z6WXFgnyCv2ufHhuLYpRrePMvUCsik5wAQlRqe0C2dWwVO9inWmqKaNYuH13N_kwbngna8g0jE8emgaIbwA7RNGvW5ErbGCkm3zXp6iw28_zWyE/s1600/aliester-crowley.jpg)
 
 Crowley era un famoso ocultista y satanista de los años 1900. Se refirió a sí mismo como "**[La Bestia 666](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**" y una vez dijo: "No me contentaba con creer en Satanás, quería ser su jefe de personal".  
   
-Solía ​​torturar y matar animales, usar sangre menstrual para lanzar hechizos, ha admitido abiertamente que sacrificaba sangre a demonios, y realizaba **[magia sexual](http://www.ritualypropaganda.com/2015/10/la-magia-sexual-el-plan-cabalista-para.html)** en sus amantes, 5 de los cuales terminaron suicidándose. Él también era un francmasón de grado 33, un adicto a la heroína, y creía que:  
+Solía torturar y matar animales, usar sangre menstrual para lanzar hechizos, ha admitido abiertamente que sacrificaba sangre a demonios, y realizaba **[magia sexual](http://www.ritualypropaganda.com/2015/10/la-magia-sexual-el-plan-cabalista-para.html)** en sus amantes, 5 de los cuales terminaron suicidándose. Él también era un francmasón de grado 33, un adicto a la heroína, y creía que:  
   
 
 > "PARA EL MÁS ALTO TRABAJO ESPIRITUAL DEBE DE ESCOGER A ESA VÍCTIMA QUE CONTIENE LA FORMA MÁS GRANDE Y PURA. UN NIÑO MASCULINO DE INOCENCIA PERFECTA Y ALTA INTELIGENCIA ES LA VICTIMA MÁS SATISFACTORIA Y ADECUADA... PORQUE PARA TODOS LOS PROPÓSITOS RELACIONADOS CON LA MAGIA, EL SACRIFICIO HUMANO ES EL MEJOR. "- CAPÍTULO 12 DEL SANGRADO SACRIFICIO: Y CUESTIONES RELACIONADAS.
@@ -93,7 +92,7 @@ El Señor del Mundo en las Enseñanzas de los Maestros Ascendidos es Sanat Kumar
   
 Incluso la Biblia Satánica se refiere a Satanás como el Señor de la Tierra (pg 162). La Biblia también habla de Satanás y sus demonios gobernando desde el aire:  
   
-"En el cual vivías cuando sigues los caminos de este mundo y del gobernante del reino del aire, el espíritu que ahora está trabajando en los que son desobedientes." Efesios 2: 2.  
+"En el cual vivías cuando sigues los caminos de este mundo y del gobernante del reino del aire, el espíritu que ahora está trabajando en los que son desobedientes." Efesios 2:2.  
 
 >   
 > "NO LUCHAMOS CONTRA LA CARNE Y LA SANGRE, SINO CONTRA LOS GOBERNANTES, CONTRA LAS POTESTADES, CONTRA LOS PODERES CÓSMICOS SOBRE ESTA OSCURIDAD ACTUAL, CONTRA LAS FUERZAS ESPIRITUALES DEL MAL EN LOS LUGARES CELESTIALES" EFESIOS 6:12.
@@ -172,7 +171,7 @@ De acuerdo con Iniciación Solar y Humana, el Maestro Jesús fue encarnado anter
   
 Jesús entonces reencarnó otra vez como Jesús de Nazareth, y otra vez como el filósofo griego Apolonio de Tyana inmediatamente después de su muerte física alrededor de la mitad del primer siglo. Después de que él murió como Apollonios, se convirtiò en un iniciado del 5to nivel. Luego encarnó de nuevo como el filósofo hindú, Ramanuja.  
   
-Recomiendo leer: [La Farsa Extraterrestre: Predisponiendo A Las Masas Para La Aceptación De Vida En Otros Planetas - Parte I](http://www.ritualypropaganda.com/2012/06/la-farsa-extraterrestre-predisponiendo.html)  
+Recomiendo leer: [La Farsa Extraterrestre: Predisponiendo A Las Masas Para La Aceptación De Vida En Otros Planetas - Parte I](http://www.ritualypropaganda.com/2012/06/la-farsa-extraterrestre-predisponiendo.html)  
   
 Según la profeta Elizabeth Clare, la falsa profeta de la **[Church Universal and Triumphant](https://en.wikipedia.org/wiki/Church_Universal_and_Triumphant)**, la más grande religión sobre maestros ascendidos, el Maestro Jesús encarnó dos veces como el Emperador de la Atlántida, una vez en 33,050 a. C. y de nuevo en 15000 a. C.  
   
@@ -184,8 +183,7 @@ Aparentemente, el Maestro Jesús y Sanat Kumara, el Señor del Mundo (aka Satan�
 
 Esta ridícula doctrina enseña que Jesucristo vivió un total de al menos 10 veces diferentes en la tierra. Como enseña el modelo de los Maestros Ascendidos, él es simplemente "el Cristo" que es un maestro cósmico del sexto grado que ha vivido 10 vidas tratando de ayudar a la gente a ascender. La misión de Satanás de alejar a la gente del verdadero Jesús (su única amenaza) está completa con las enseñanzas de los maestros ascendidos.  
 
-##   
-Las Enseñanzas de los Ángeles Caídos
+## Las Enseñanzas de los Ángeles Caídos
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhylFHCTtu7VfLP7UHcLJZJ0oUZn3tY3QApo-5N7Sj882OoWBaxHxVC12I32n1_pYJDHCAiuRF2AyNM7mMdS-BrgSRVyklYQuL00-rcfDkjcCY7WM69A3wCO85m8vUquGeA1k6kKiEINkE/s640/teachnigs-1024x443.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhylFHCTtu7VfLP7UHcLJZJ0oUZn3tY3QApo-5N7Sj882OoWBaxHxVC12I32n1_pYJDHCAiuRF2AyNM7mMdS-BrgSRVyklYQuL00-rcfDkjcCY7WM69A3wCO85m8vUquGeA1k6kKiEINkE/s1600/teachnigs-1024x443.jpg)
 
@@ -254,9 +252,9 @@ Si sientes una convicción en tu espíritu o una luz roja que se apaga en tu rad
   
 Sus enseñanzas son malas y no son de Dios. Son ángeles caídos que sirven al Señor del Mundo que ahora conocemos como Satanás, según los mismos teósofos.  
   
-Recomiendo leer: [Teorías De Control Mental Y Técnicas Utilizadas Por Los Medios Masivos](http://www.ritualypropaganda.com/2011/05/teorias-de-control-mental-y-tecnicas.html)  
+Recomiendo leer: [Teorías De Control Mental Y Técnicas Utilizadas Por Los Medios Masivos](http://www.ritualypropaganda.com/2011/05/teorias-de-control-mental-y-tecnicas.html)  
   
-Como Jesús dijo en Mateo 24:24 "Porque falsos mesías y falsos profetas aparecerán y harán grandes señales y prodigios para engañar, si es posible, a los elegidos. Mira, lo he anunciado antes de tiempo". "Satanás mismo se disfraza de ángel de luz. No es de sorprender, entonces, que sus siervos también se disfracen como siervos de justicia." 2 Corintios 11: 14-15.  
+Como Jesús dijo en Mateo 24:24 "Porque falsos mesías y falsos profetas aparecerán y harán grandes señales y prodigios para engañar, si es posible, a los elegidos. Mira, lo he anunciado antes de tiempo". "Satanás mismo se disfraza de ángel de luz. No es de sorprender, entonces, que sus siervos también se disfracen como siervos de justicia." 2 Corintios 11:14-15.  
   
 Es muy fácil ser engañado a veces, y los Maestros Ascendidos me hicieron engañar por un tiempo también. Una vez dormí con algunas cartas de oráculo en una habitación en la que dormía, y mirando hacia atrás, sólo me hizo sentir extraño y asustado, incluso cuando no tenía idea de quiénes eran.  
   

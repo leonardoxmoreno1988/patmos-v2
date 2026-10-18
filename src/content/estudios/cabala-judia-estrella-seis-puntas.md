@@ -5,17 +5,17 @@ updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "cabala-judia-estrella-seis-puntas"
 redirectFrom: "/2018/03/cabala-judia-estrella-seis-puntas.html"
-description: "\"Él me dijo además: Hijo de hombre, ¿ves lo que hacen? incluso las grandes abominaciones que la casa de Israel comete aquí...\"- Ezequiel 8: 6 \"El cabalismo es…"
+description: "\"Él me dijo además: Hijo de hombre, ¿ves lo que hacen? incluso las grandes abominaciones que la casa de Israel comete aquí...\"- Ezequiel 8:6 \"El cabalismo es…"
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-> **"Él me dijo además: Hijo de hombre, ¿ves lo que hacen? incluso las grandes abominaciones que la casa de Israel comete aquí..."\- Ezequiel 8: 6**  
+> **"Él me dijo además: Hijo de hombre, ¿ves lo que hacen? incluso las grandes abominaciones que la casa de Israel comete aquí..."\- Ezequiel 8:6**  
 >   
-> **"El cabalismo es un sistema de misticismo y magia judía y es el elemento fundamental de la brujería moderna. Prácticamente todas las grandes brujas y brujos de este siglo fueron Cabalistas."- William J. Schnoebelen, en El Lado Oscuro de la Masonería**
+> **"El cabalismo es un sistema de misticismo y magia judía y es el elemento fundamental de la brujería moderna. Prácticamente todas las grandes brujas y brujos de este siglo fueron Cabalistas."- William J. Schnoebelen, en El Lado Oscuro de la Masonería**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTzDodjKIZwvx3M_jDpSV0Z0FFtN6CszLQq27WpNLPbMP-EsklS1tb_RiR3I-G-ZUam5MpTftwTjFXY4Wqc-wNNhNChXqqqvA-ofXFsdEIzV_0SAgEkNHzS0nSXmK9Mk8OVac7HWFpNNo/s1600/cabala-judia.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTzDodjKIZwvx3M_jDpSV0Z0FFtN6CszLQq27WpNLPbMP-EsklS1tb_RiR3I-G-ZUam5MpTftwTjFXY4Wqc-wNNhNChXqqqvA-ofXFsdEIzV_0SAgEkNHzS0nSXmK9Mk8OVac7HWFpNNo/s1600/cabala-judia.png)
 
@@ -55,12 +55,12 @@ Su actuación es parte integrante de la religión judía. Así que cada vez que 
 
 En uno de los documentales en video más controvertidos que he producido, _Cauldron of Abbadon_, afirmé:  
 
-> **"Desde Jerusalén e Israel fluye un torrente de maldad satánica y malicia que pone en peligro al mundo entero". (5)** 
+> **"Desde Jerusalén e Israel fluye un torrente de maldad satánica y malicia que pone en peligro al mundo entero". (5)** 
 
   
 Judíos sionistas y sus cohortes en la comunidad sionista cristiana se enfureció por lo que dije, pero no tuvieron respuesta a la montaña de hechos presentados en el video que prueban mi punto.  
   
-Es innegable que Dios mismo, en Apocalipsis 11: 8, declara que en los últimos días justo antes del regreso de Cristo, uno de los lugares más malvados de la tierra será Jerusalén e Israel. En Apocalipsis, Dios llama a Jerusalén "Sodoma y Egipto".  
+Es innegable que Dios mismo, en Apocalipsis 11:8, declara que en los últimos días justo antes del regreso de Cristo, uno de los lugares más malvados de la tierra será Jerusalén e Israel. En Apocalipsis, Dios llama a Jerusalén "Sodoma y Egipto".  
   
 La pregunta es, ¿por qué? ¿Por qué Jerusalén y la nación de Israel son espiritualmente "Sodoma y Egipto"? Creo que es a causa de la religión judía, una religión diametralmente opuesta a la fe del Antiguo Testamento de Moisés, Isaac, Jacob y los profetas.  
   
@@ -156,7 +156,7 @@ El fallecido Papa Juan Pablo II era un creyente en la Cábala judía. El 22 de m
 
 "Estoy orgulloso de ser un masón", escribe el rabino Seymour Adas, 32o, en este número de _The New Age Magazine_ (abril de 1987).  
   
-Nota: El nombre de esta revista ha sido cambiado a The Scottish Rite Journal, para ocultar la conexión de los masones con el movimiento ocultista New Age. De hecho, la orden masónica está liderada predominantemente por judíos. Como ha revelado su antiguo Soberano Gran Comandante, Albert Pike, los símbolos y rituales de la Francmasonería están todos basados ​​en la Cábala de los Judíos.  
+Nota: El nombre de esta revista ha sido cambiado a The Scottish Rite Journal, para ocultar la conexión de los masones con el movimiento ocultista New Age. De hecho, la orden masónica está liderada predominantemente por judíos. Como ha revelado su antiguo Soberano Gran Comandante, Albert Pike, los símbolos y rituales de la Francmasonería están todos basados en la Cábala de los Judíos.  
   
 El líder masónico más honrado en la historia de la Francmasonería fue Albert Pike. Pike sostenía que "cada Logia Masónica es un templo de religión, y sus enseñanzas son instrucción en religión". **(14)**  
   
@@ -344,7 +344,7 @@ Der Golem es mostrado durante la película con el símbolo del pentagrama. Aquí
 
   
 
-La posición de la estrella varía durante la película. Aquí es vista apuntando hacia arriba, representando la "magia buena". 
+La posición de la estrella varía durante la película. Aquí es vista apuntando hacia arriba, representando la "magia buena". 
 
   
 

@@ -9,11 +9,11 @@ description: "Este cómic revela cómo el Vaticano está utilizando su fuerza oc
 tags: ["Falsas Doctrinas"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-Este cómic revela cómo el **Vaticano** está utilizando su **fuerza oculta** para engañar a millones. Es la "morada de los demonios" descrita en Revelación 18:2. Las películas y la televisión han condicionado a la gente a creer que un **sacerdote católico** está obligado a exorcizar a los demonios que han tomado el control de una persona. ¿Es esto cierto, o es un esquema diabólicamente inteligente de **Satanás** para hacer que el pueblo confíe más y más en su sacerdote para su protección? La respuesta contiene muchas sorpresas.  
+Este cómic revela cómo el **Vaticano** está utilizando su **fuerza oculta** para engañar a millones. Es la "morada de los demonios" descrita en Revelación 18:2. Las películas y la televisión han condicionado a la gente a creer que un **sacerdote católico** está obligado a exorcizar a los demonios que han tomado el control de una persona. ¿Es esto cierto, o es un esquema diabólicamente inteligente de **Satanás** para hacer que el pueblo confíe más y más en su sacerdote para su protección? La respuesta contiene muchas sorpresas.  
 
   
 

@@ -13,7 +13,7 @@ tags: ["Sociedad"]
 
   
 
-Esta generación es testigo del surgimiento de un nuevo movimiento social radical conocido como **transhumanismo**. Al expresar una fe inquebrantable en el avance continuo y rápido de la **tecnología humana**, los transhumanistas miran hacia el futuro con lo que solo puede describirse como un fervor religioso. Muchos de los seguidores de este movimiento señalan la singularidad tecnológica (un aumento exponencial en el avance tecnológico tan rápido que la mente humana es incapaz de comprender sus implicaciones) como el clímax de la civilización humana. Creyendo que este evento marcará el comienzo de una nueva era para la raza humana en la que los mortales limitados trascienden sus cuerpos biológicos o pueden extender su conciencia a un nuevo recipiente anfitrión y se disponen a conquistar el universo, la espera transhumanista de la singularidad es comparable a la cristiana. La espera de la segunda venida de Jesucristo.
+Esta generación es testigo del surgimiento de un nuevo movimiento social radical conocido como **transhumanismo**. Al expresar una fe inquebrantable en el avance continuo y rápido de la **tecnología humana**, los transhumanistas miran hacia el futuro con lo que solo puede describirse como un fervor religioso. Muchos de los seguidores de este movimiento señalan la singularidad tecnológica (un aumento exponencial en el avance tecnológico tan rápido que la mente humana es incapaz de comprender sus implicaciones) como el clímax de la civilización humana. Creyendo que este evento marcará el comienzo de una nueva era para la raza humana en la que los mortales limitados trascienden sus cuerpos biológicos o pueden extender su conciencia a un nuevo recipiente anfitrión y se disponen a conquistar el universo, la espera transhumanista de la singularidad es comparable a la cristiana. La espera de la segunda venida de Jesucristo.
 
   
 
@@ -21,13 +21,13 @@ Irónicamente, la Biblia señala que, en el momento justo antes de la Segunda Ve
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el transhumanismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**   
+**Nota:** Si deseas recibir más contenido sobre el transhumanismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**   
   
 El apóstol Pablo previó este conflicto hace casi dos mil años:  
   
 
 > **"Nadie os engañe en ninguna manera; porque no vendrá sin que antes venga la apostasía, y se manifieste el hombre de pecado, el hijo de perdición, el cual se opone y se levanta contra todo lo que se llama Dios o es objeto de culto; tanto que se sienta en el templo de Dios como Dios, haciéndose pasar por Dios."  
-> \- 2 Tesalonicenses 2: 3-4**
+> \- 2 Tesalonicenses 2:3-4**
 
   
 Para comprender adecuadamente los orígenes de esta rebelión, primero debemos examinar el desarrollo de la civilización humana después del diluvio. Es un momento marcado por otra rebelión narrada por primera vez en Génesis capítulo 11, la historia de la Torre de Babel:  
@@ -36,7 +36,7 @@ Para comprender adecuadamente los orígenes de esta rebelión, primero debemos e
 > **“Tenía entonces toda la tierra una sola lengua y unas mismas palabras. Y aconteció que cuando salieron de oriente, hallaron una llanura en la tierra de Sinar, y se establecieron allí. Y se dijeron unos a otros: Vamos, hagamos ladrillo y cozámoslo con fuego. Y les sirvió el ladrillo en lugar de piedra, y el asfalto en lugar de mezcla. Y dijeron: Vamos, edifiquémonos una ciudad y una torre, cuya cúspide llegue al cielo; y hagámonos un nombre, por si fuéremos esparcidos sobre la faz de toda la tierra. Y descendió Jehová para ver la ciudad y la torre que edificaban los hijos de los hombres. Y dijo Jehová: He aquí el pueblo es uno, y todos éstos tienen un solo lenguaje; y han comenzado la obra, y nada les hará desistir ahora de lo que han pensado hacer. Ahora, pues, descendamos, y confundamos allí su lengua, para que ninguno entienda el habla de su compañero. Así los esparció Jehová desde allí sobre la faz de toda la tierra, y dejaron de edificar la ciudad. Por esto fue llamado el nombre de ella Babel, porque allí confundió\[a\] Jehová el lenguaje de toda la tierra, y desde allí los esparció sobre la faz de toda la tierra.”**
 
   
-En esta historia, Dios dispersa a la raza humana y confunde a las personas con diferentes idiomas. Su razón para hacerlo es evitar el inevitable desastre provocado por el gobierno global y un lenguaje común. ¿Por qué son estas cosas una preocupación? Porque si continúan sin cesar, a su debido tiempo, "nada será imposible" para la raza humana. Esto es más que un comentario impertinente de Dios. Es una profecía de lo que vendrá. 
+En esta historia, Dios dispersa a la raza humana y confunde a las personas con diferentes idiomas. Su razón para hacerlo es evitar el inevitable desastre provocado por el gobierno global y un lenguaje común. ¿Por qué son estas cosas una preocupación? Porque si continúan sin cesar, a su debido tiempo, "nada será imposible" para la raza humana. Esto es más que un comentario impertinente de Dios. Es una profecía de lo que vendrá. 
 
   
 
@@ -50,7 +50,7 @@ Es una profecía de algo tan malo que Dios lo detuvo en el momento en que lo vio
   
 
 > **"¡Construyamos una gran ciudad con una torre que llegue a los cielos, un monumento a nuestra grandeza!"  
-> \- Génesis 11: 4.**
+> \- Génesis 11:4.**
 
   
 La raza humana se propuso construir un monumento a su propia grandeza, exaltando a la humanidad por encima de Dios y extendiendo su torre hacia el cielo con el único propósito de usurpar la gloria y la autoridad de Dios. Este deseo humano innato no terminó con la Torre de Babel. Continúa hasta nuestros días, y pronto resultará en un intento final de usurpar la autoridad del creador.  
@@ -70,7 +70,7 @@ Pablo deja en claro que estas personas serán engañadas para creer "las mentira
   
 
 > **“¡No morirás! siseó la serpiente. Dios sabe que tus ojos se abrirán cuando lo comas. Te volverás como Dios, sabiendo todo, tanto el bien como el mal.”  
-> \- Génesis 3: 4-5**
+> \- Génesis 3:4-5**
 
   
 Estas mentiras del Jardín del Edén sobre alcanzar la divinidad son las mismas mentiras a las que se refiere Pablo. Las mismas mentiras que trajeron el pecado al mundo serán las mismas mentiras que provocarán la rebelión final contra Dios Todopoderoso. La humanidad cerrará el círculo. En los últimos días, los mismos proyectos de construcción previstos por los arquitectos de la Torre de Babel darán como resultado que la humanidad alcance un nivel de sofisticación tecnológica tan avanzada que "nada les será imposible". La raza humana llegará a creer las grandes mentiras de la serpiente.  
@@ -85,7 +85,7 @@ La ciencia del transhumanismo ha entrado en la corriente principal a través de 
   
 Ray Kurzweil de Google, a quien muchos llaman el padre del movimiento transhumanista moderno, ha introducido el concepto de que la muerte, la enfermedad y el envejecimiento pueden superarse mediante nuevos avances científicos. El transhumanismo es la nueva religión que ofrece al hombre una resurrección tecnológica de la muerte y la entrada a un cielo artificial llamado Cerebro Mundial o Mente Colmena.  
   
-El transhumanismo, que ofrece en varios niveles beneficios potenciales reales para la humanidad, al final se convierte en una alternativa tecnológica a la oferta de Jesucristo a la humanidad de una verdadera resurrección de la muerte y la verdadera vida eterna. La pregunta es, ¿puede el transhumanismo realmente ofrecer una resurrección viable de la muerte y la vida eterna real? 
+El transhumanismo, que ofrece en varios niveles beneficios potenciales reales para la humanidad, al final se convierte en una alternativa tecnológica a la oferta de Jesucristo a la humanidad de una verdadera resurrección de la muerte y la verdadera vida eterna. La pregunta es, ¿puede el transhumanismo realmente ofrecer una resurrección viable de la muerte y la vida eterna real? 
 
   
 
@@ -95,7 +95,7 @@ La engañosa teoría de la evolución completaría su círculo con la aceptació
 
   
 
-Las nuevas generaciones de hombres y mujeres no quieren que sus cuerpos y mentes envejezcan como sus padres y abuelos, y buscan la ciencia del transhumanismo para otorgarles una inmortalidad transhumanista. Un número cada vez mayor de personas en todo el mundo exige que sus gobiernos comiencen a obtener fondos masivos para combatir el envejecimiento. 
+Las nuevas generaciones de hombres y mujeres no quieren que sus cuerpos y mentes envejezcan como sus padres y abuelos, y buscan la ciencia del transhumanismo para otorgarles una inmortalidad transhumanista. Un número cada vez mayor de personas en todo el mundo exige que sus gobiernos comiencen a obtener fondos masivos para combatir el envejecimiento. 
 
   
 ¿Quién no querría que los gobiernos del mundo dejen de gastar dinero en burocracias y guerras sin sentido y comiencen a financiar tecnologías antienvejecimiento?  
@@ -108,7 +108,7 @@ Una reciente conferencia sobre transhumanismo contó con expertos nuevos y exper
   
 Nuevamente, aunque muchos de los objetivos del transhumanismo pueden ser admirables, el transhumanismo es considerado como la forma en que el hombre puede lograr la inmortalidad y una especie de resurrección de la muerte a través de la ciencia y la tecnología. El problema con este enfoque es que el transhumanismo niega las realidades científicas fundamentales, incluida la razón principal por la cual los hombres y las mujeres envejecen, se enferman y mueren. Aunque existen poderosos factores genéticos, nutricionales y de otro tipo que causan la muerte y la enfermedad, la razón principal es espiritual. Si vemos la Biblia no como un mito hecho por el hombre, una parábola o un cuento de hadas, sino como un registro científico, holográfico, genético, multidimensional, biológico e histórico preciso, descubrimos que la Biblia nos da la verdadera razón científica de la enfermedad, envejecimiento y muerte.  
   
-Primero, nuestros antepasados ​​genéticos fueron un hombre y una mujer llamados Adán y Eva, que fueron creados por un Dios infinito, que no vive dentro de nuestras leyes físicas del tiempo. De igual importancia es saber que fuimos creados con el ADN de Dios. 
+Primero, nuestros antepasados genéticos fueron un hombre y una mujer llamados Adán y Eva, que fueron creados por un Dios infinito, que no vive dentro de nuestras leyes físicas del tiempo. De igual importancia es saber que fuimos creados con el ADN de Dios. 
 
   
 
@@ -145,7 +145,7 @@ De lo que se trata realmente el transhumanismo es del hombre intentando crear a 
 
   
 
-Cuando los hombres y mujeres moribundos cargen su conciencia en las computadoras, fusionarán su conciencia humana con una Inteligencia Súper Artificial que supera a la de los seres humanos comunes. Este punto de inflexión donde las computadoras se volverán más inteligentes que las personas se llama La Singularidad. Pero el gran peligro es que existe una alta probabilidad de que las computadoras y toda la tecnología utilicen la Inteligencia Artificial para gobernar sobre la raza humana y hacer de los seres humanos sus esclavos porque serán mucho más inteligentes y poderosos que el hombre. Los transhumanistas creen que la singularidad sucederá alrededor de 2045 d.C.
+Cuando los hombres y mujeres moribundos cargen su conciencia en las computadoras, fusionarán su conciencia humana con una Inteligencia Súper Artificial que supera a la de los seres humanos comunes. Este punto de inflexión donde las computadoras se volverán más inteligentes que las personas se llama La Singularidad. Pero el gran peligro es que existe una alta probabilidad de que las computadoras y toda la tecnología utilicen la Inteligencia Artificial para gobernar sobre la raza humana y hacer de los seres humanos sus esclavos porque serán mucho más inteligentes y poderosos que el hombre. Los transhumanistas creen que la singularidad sucederá alrededor de 2045 d. C.
 
   
 
@@ -271,7 +271,7 @@ Los líderes cristianos deben participar activamente en la guerra ideológica pa
 
   
 
-Fracasar en esta responsabilidad sería abdicar a una visión transhumana aterradora del futuro tal como fue predicho por el teólogo y apologista cristiano C. S. Lewis en The Abolition of Man. Lewis previó el día en que triunfaría el razonamiento transhumanista y científico, deshaciendo permanentemente a la humanidad al alterar la especie, reduciendo en última instancia el Homo Sapiens a productos utilitarios. 
+Fracasar en esta responsabilidad sería abdicar a una visión transhumana aterradora del futuro tal como fue predicho por el teólogo y apologista cristiano C. S. Lewis en The Abolition of Man. Lewis previó el día en que triunfaría el razonamiento transhumanista y científico, deshaciendo permanentemente a la humanidad al alterar la especie, reduciendo en última instancia el Homo Sapiens a productos utilitarios. 
 
   
 
@@ -436,7 +436,7 @@ Hace aproximadamente 3.000 años, el rey David escribió sobre los corazones de 
 
 > **"¿Por qué se enfurecen las naciones? ¿Por qué la gente pierde su tiempo con planes inútiles? Los reyes de la tierra se preparan para la batalla; los gobernantes conspiran juntos contra el Señor y contra Su Ungido. 'Rompamos sus cadenas', gritan "Y libéranos de esta esclavitud". Pero el que gobierna en el cielo se ríe. El Señor se burla de ellos".**
 > 
-> **\- Salmo 2: 1-4**
+> **\- Salmo 2:1-4**
 
   
 
@@ -486,7 +486,7 @@ Y no se necesita un salto ilógico de fe para sacar esta conclusión. Después d
 
   
 
-> **"Entonces vi a la bestia reuniendo a los reyes de la tierra y sus ejércitos para luchar contra el que estaba sentado sobre el caballo y su ejército".** 
+> **"Entonces vi a la bestia reuniendo a los reyes de la tierra y sus ejércitos para luchar contra el que estaba sentado sobre el caballo y su ejército".** 
 > 
 > **\- Apocalipsis 19:19 (NTV)**
 
@@ -498,7 +498,7 @@ Con respecto al Anticristo, la reunión en Armagedón y la Aparición de Jesucri
 
 > **"De uno de los cuernos prominentes salió un cuerno pequeño cuyo poder se hizo muy grande. Se extendió hacia el sur y el este y hacia la gloriosa tierra de Israel. Su poder llegó al cielo donde atacó a los ejércitos celestiales, arrojando algunos de los cielos seres y estrellas al suelo y pisoteándolos. Incluso desafió al Comandante de los ejércitos celestiales cancelando los sacrificios diarios que le ofrecían y destruyendo su Templo".**
 > 
-> **\- Daniel 8: 9-11 (NTV)**
+> **\- Daniel 8:9-11 (NTV)**
 
   
 

@@ -21,7 +21,7 @@ Lo que va a leer y ver en este libro está prohibido. El descubrimiento de estas
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 No estoy siendo demasiado dramático, ni tratando de ser sensacionalista. Esta es una advertencia: debemos estar muy seguros de que posee la audacia y el coraje para proceder antes de ir más lejos.  
@@ -40,7 +40,7 @@ Algo que persiste en mi mente son los nombres de los hombres valientes que se ha
 
 Como ven, estamos rodeados por el mal en cada lado, literalmente sumergidos en él, pero los malos y los engañadores nos quieren hacer creer que la maldad es excepcional. Desde la infancia se nos ha enseñado que el mal y la corrupción son la provincia de los pocos, que la mayoría de la gente es virtuosa, honesta y buena, que la mayoría de nuestros políticos realmente tienen nuestros intereses en el corazón, que el sistema social, con la excepción de solo unos desviados y tipos criminales, son fundamentalmente sólidos.  
   
-Recomiendo leer: [Playboy, Alfred Kinsey Y La Revolución (Homo) Sexual](http://www.ritualypropaganda.com/2015/08/playboy-alfred-kinsey-y-la-revolucion.html)  
+Recomiendo leer: [Playboy, Alfred Kinsey Y La Revolución (Homo) Sexual](http://www.ritualypropaganda.com/2015/08/playboy-alfred-kinsey-y-la-revolucion.html)  
   
 Con estas garantías, la mayoría de la gente respira un profundo suspiro de alivio. "No se preocupe, sea feliz," dicen las palabras de una canción de hace una década. Y la mayoría de nosotros apreciamos y están de acuerdo con ese sentimiento. Después de todo, no es agradable ser negativo, para que ser un escéptico en medio de una nación de caras felices y aspirantes.  
   
@@ -86,7 +86,7 @@ Thomas Mann, el observador social y filósofo, sugirió una vez que a los hombre
 
 ## Deleite Secreto
 
-Qué interesante darse cuenta de que, como Thomas Mann lo pone, el infierno toma el "deleite secreto" como una capacidad para mantener secretos. Proverbios 9: 13-18 parece tener una relación con esto. Afirma:  
+Qué interesante darse cuenta de que, como Thomas Mann lo pone, el infierno toma el "deleite secreto" como una capacidad para mantener secretos. Proverbios 9:13-18 parece tener una relación con esto. Afirma:  
 
 > **"La mujer insensata es alborotadora, es simple y no sabe nada. Y se sienta a la puerta de su casa, en un asiento, en los lugares altos de la ciudad, llamando a los que pasan, a los que van derechos por sus sendas: El que sea simple, que entre aquí. Y al falto de entendimiento, le dice: Dulces son las aguas hurtadas, y el pan comido en secreto es sabroso. Pero él no sabe que allí están los muertos, que sus invitados están en las profundidades del Seol."**
 
@@ -129,7 +129,7 @@ Que el "Dios" desconocido y adorado por los masones y llamado por nombres tan ne
   
 Ese es el mayor de los secretos que los Illuminati deben ocultar a la vista.  
   
-Recomiendo leer: [Fraternidades Universitarias Y Sus Vínculos Con La Francmasonería](http://www.ritualypropaganda.com/2011/05/fraternidades-universitarias-y-sus.html)  
+Recomiendo leer: [Fraternidades Universitarias Y Sus Vínculos Con La Francmasonería](http://www.ritualypropaganda.com/2011/05/fraternidades-universitarias-y-sus.html)  
   
 El Iluminado es el hombre que conoce esto y es enseñado por sus superiores y llega a creer que todos los que están en el secretismo son de algún modo más sofisticado, finos y corteses, inteligentes y astutos, que las toscas, vulgares, y groseras personas que estúpidamente siguen al **[Dios de la Biblia](http://www.bibliotecapleyades.net/biblianazar/esp_biblianazar_jehovah.htm)**. La gente estúpida merece ser engañada, dicen los masones y los iluministas. Por lo tanto, como dice en comentarios de Emile Grillot DeGivry, la élite "oculta cosas con el fin de confundir a los vulgares." **(9)**  
   
@@ -142,7 +142,7 @@ Marie Roberts y Hugh Ormsby-Lennon, en Secret Texts: The Literature of Secret So
 
 Para mantener su cuerpo podrido y corrupto de secretos, los líderes y grupos Illuminati emplean símbolos. Los ritos, ceremonias y apretones de mano de los iluministas se basan en la ciencia y el arte del simbolismo.  
   
-Se dice que el simbolismo comenzó como está registrado en el libro del Génesis de la Biblia cuando Dios puso una "marca" o signo de Caín, luego de que había matado a su hermano Abel. A lo largo de la historia humana, marcas, signos, imágenes y jeroglíficos llegaron a ser usados ​​para transmitir palabras, ideas, conceptos y secretos.  
+Se dice que el simbolismo comenzó como está registrado en el libro del Génesis de la Biblia cuando Dios puso una "marca" o signo de Caín, luego de que había matado a su hermano Abel. A lo largo de la historia humana, marcas, signos, imágenes y jeroglíficos llegaron a ser usados para transmitir palabras, ideas, conceptos y secretos.  
   
 
 > **"Por símbolos", escribió Thomas Carlyle en su libro Sartor Resartus, "el hombre es guiado y controlado, feliz de ser desgraciado. Se encuentra rodeado por todos lados con símbolos, reconocidos como tal o no reconocidos." (11)**
@@ -198,7 +198,7 @@ Para ellos, estos no son simplemente formas geométricas, motivos arquitectónic
   
 ¡Pobre, engañado Mason, ya es bastante malo que la élite oculte sus sucios secretos detrás de este tipo de cortinas de humo con apretones de mano secretos, códigos, etc. Pero lo que es muy obsceno es que engañan a su propia gente.  
   
-Recomiendo leer: [Las 10 Principales Sociedades Secretas Que Manejan el Mundo](http://www.ritualypropaganda.com/2015/09/las-10-sociedades-secretas-que-influyen.html)  
+Recomiendo leer: [Las 10 Principales Sociedades Secretas Que Manejan el Mundo](http://www.ritualypropaganda.com/2015/09/las-10-sociedades-secretas-que-influyen.html)  
   
 Los niveles más altos de la masonería, por ejemplo, tienen una palabra especial para la manera en la que tratan de engañar y confundir no sólo el "profano" (usted y yo), pero la gran mayoría de los compañeros masones. Esa palabra es "hoodwink" (enceguecer). Se define como el esfuerzo realizado por los hombres colocados en los niveles más altos para mantener a los miembros de nivel inferior en la oscuridad.  
 
@@ -241,7 +241,7 @@ Es por esto que cuando entrevisto a amigos masónicos de nivel inferior sobre la
 Como Albert Pike se refiere,  
   
 
-> **"Lo que más vale la pena conocer en la Masonería nunca es abiertamente enseñado. Se muestran los símbolos, pero son mudos. Es por consejos solamente... que el iniciado es puesto sobre la pista del secreto oculto".  (22)**
+> **"Lo que más vale la pena conocer en la Masonería nunca es abiertamente enseñado. Se muestran los símbolos, pero son mudos. Es por consejos solamente... que el iniciado es puesto sobre la pista del secreto oculto".  (22)**
 
   
 ¿Cómo se puede finalmente descubrir los secretos internos de la masonería? Mi propia experiencia nos da la respuesta. Me ha llevado muchos años de investigación y estudio de las religiones mistéricas antiguas de Babilonia, Sumeria, Grecia, Roma, China, etc. He pasado muchas noches leyendo viejos libros de texto y tratados sobre temas medievales y ocultos; realizado una intensiva investigación de los rituales y los símbolos de las puntuaciones de las sociedades y órdenes secretas; y pasé años examinando las verdaderas enseñanzas y prácticas de la Nueva Era, la brujería y el satanismo.  
@@ -271,13 +271,13 @@ A lo que autor podría añadir:
 
 La _Hermandad de la Oscuridad_, como un buen amigo mío, el Dr. Stanley Monteith, llama a los Illuminati, está bastante segura de que pueden mantenerse fácilmente en el más alto nivel del secretismo con respecto al significado real de sus signos y símbolos. Sus líderes incluso creen que pueden darse el lujo de comunicar estas señales y colocar estos mensajes a la vista, seguros de que las masas en trance son incapaces de reconocer la terrible mascarada de engaño que se encuentra justo frente a su rostro.  
   
-Martin Short, que fue autor de un libro, _Inside the Brotherhood_, donde expuso a la Orden Masónica en el interior Gran Bretaña, observó que los masones, creyendo que sus secretos son ajenos a la detección, murmuran palabras de casi desprecio mientras cantan una pequeña canción llamada " "La canción del aprendiz iniciado". Un verso de esta melodía va así:  
+Martin Short, que fue autor de un libro, _Inside the Brotherhood_, donde expuso a la Orden Masónica en el interior Gran Bretaña, observó que los masones, creyendo que sus secretos son ajenos a la detección, murmuran palabras de casi desprecio mientras cantan una pequeña canción llamada " "La canción del aprendiz iniciado". Un verso de esta melodía va así:  
   
 
 > **"El mundo está en dolor, nuestros secretos son para ganar. Todavía les permiten preguntar y poner la mirada en ellos, nunca podrán adivinar, la palabra o el signo de un Masón Libre y Aceptado." (24)**
 
   
-Oh, no podemos, ¿verdad? Tal vez sea cierto que el "mundo" desinformado en general no puede adivinar la palabra y signo de los masones, pero los lectores deberán hacer exactamente eso. Vamos, por tanto, a seguir adelante con gran expectativa a medida que descubrimos en este libro muchos de los secretos más preciosos y despreciables secretos de la élite — cosas que ni en un millón de años pensaron que podríamos descubrir.  
+Oh, no podemos, ¿verdad? Tal vez sea cierto que el "mundo" desinformado en general no puede adivinar la palabra y signo de los masones, pero los lectores deberán hacer exactamente eso. Vamos, por tanto, a seguir adelante con gran expectativa a medida que descubrimos en este libro muchos de los secretos más preciosos y despreciables secretos de la élite — cosas que ni en un millón de años pensaron que podríamos descubrir.  
   
 
 ## Vidas silenciosas de desesperación y tormento...
@@ -293,9 +293,9 @@ Atormentados por dentro, pero haciendo todo lo posible para mantener una sonrisa
   
 Para escapar de la realidad, estos hombres se apartan de los hechos, con la esperanza de que todo saldrá de forma satisfactoria al final. La realidad de que existe una conspiración monstruosa contra ellos y contra sus seres queridos se convierte en una enorme carga que simplemente no pueden soportar. Cobardes, al parecer, mueren mil veces.  
   
-Recomiendo leer: ["Cuando El Hombre Llegue A Nuevos Mundos, La Masonería Estará Allí"](http://www.ritualypropaganda.com/2014/07/cuando-el-hombre-llegue-nuevos-mundos.html)  
+Recomiendo leer: ["Cuando El Hombre Llegue A Nuevos Mundos, La Masonería Estará Allí"](http://www.ritualypropaganda.com/2014/07/cuando-el-hombre-llegue-nuevos-mundos.html)  
   
-El investigador sueco Juri Lina, autor de _Architects of Deception_, un revelador libro lleno de hechos que exponen a las sociedades secretas, advierten que la ideología del "Iluminismo", propagada por la masonería internacional y otros grupos de élite, es un abrumador peligro oculto para todos nosotros. Ya han llevado a los levantamientos y revoluciones más violentas y son responsables de la "degeneración moral y espiritual de la persona." 25  
+El investigador sueco Juri Lina, autor de _Architects of Deception_, un revelador libro lleno de hechos que exponen a las sociedades secretas, advierten que la ideología del "Iluminismo", propagada por la masonería internacional y otros grupos de élite, es un abrumador peligro oculto para todos nosotros. Ya han llevado a los levantamientos y revoluciones más violentas y son responsables de la "degeneración moral y espiritual de la persona." 25  
   
 Sin embargo, sorprendentemente, escribe Lina, la mayoría de los hombres y las mujeres son irremediablemente ajenos a las mismas fuerzas que más afectan a sus vidas de forma diaria y continua.  
   
@@ -316,7 +316,7 @@ Lina se lamenta de la ignorancia rampante de las masas que poseen poca o ninguna
 
 El Dr. Peter Ruckman, autor de muchos libros que exponen la conspiración y la defensa de la Biblia, en su reciente boletín escribió un artículo sobre "El pequeño hombre que nunca estuvo allí." 28 Ruckman observó sabiamente que los historiadores, al igual que otros "expertos" apenas se les puede tener confianza, ya que siempre escriben la historia que les gustaría creer.  
   
-Se limitan sólo a  lo que conlleva y está de acuerdo con la opinión socialmente aceptada de la historia y la representación de informes de la "verdad". Si un conjunto de hechos es desagradable o inconveniente para el mantra de la autorización oficial, o la versión de los acontecimientos, la realidad debe sufrir. Los datos no deben llegar a ser hechos y las mentiras deben ser convertidos en "verdades confiables."  
+Se limitan sólo a  lo que conlleva y está de acuerdo con la opinión socialmente aceptada de la historia y la representación de informes de la "verdad". Si un conjunto de hechos es desagradable o inconveniente para el mantra de la autorización oficial, o la versión de los acontecimientos, la realidad debe sufrir. Los datos no deben llegar a ser hechos y las mentiras deben ser convertidos en "verdades confiables."  
   
 Ruckman remarca:  
   
@@ -326,14 +326,14 @@ Ruckman remarca:
   
 "Algunos fantasmas inexistentes," Ruckman añade, "son muy persistentes." 30  
   
-Hace falta una luz brillante sobre el hombre pequeño sentado en la escalera y ¡voilá! - Descubrimos el hecho inamovible de que está allí, pero él no es un hombre pequeño en absoluto. Es un gigante, conspirardor, astuto, un ogro oscuro, malvado, corrupto, taimado y peligroso que merece toda la atención que podamos darle para centrarnos en él. Él es más que un espectro, es un parásito chupasangre, un monstruo que está sentado en la escalera que bloquea la entrada, un matón al acecho que roba nuestras pertenencias, nuestra salud y nuestra vida misma.  
+Hace falta una luz brillante sobre el hombre pequeño sentado en la escalera y ¡voilá! - Descubrimos el hecho inamovible de que está allí, pero él no es un hombre pequeño en absoluto. Es un gigante, conspirardor, astuto, un ogro oscuro, malvado, corrupto, taimado y peligroso que merece toda la atención que podamos darle para centrarnos en él. Él es más que un espectro, es un parásito chupasangre, un monstruo que está sentado en la escalera que bloquea la entrada, un matón al acecho que roba nuestras pertenencias, nuestra salud y nuestra vida misma.  
   
 Sin él sentado allí, bloqueando perjudicialmente nuestro camino, el mundo sería un lugar mucho mejor. Sin duda un lugar más seguro y más feliz.  
   
 
 ## "Dos más dos son cuatro"
 
-Bob Whitaker, un Carolino del Sur que ha hecho cosas buenas y de aventura en su vida, enseñando clases de la universidad, sirviendo como un miembro del personal de alto nivel en el Congreso,  y escribiendo para la radio en la _Voz de América_, señala que cualquier persona hoy en día que simplemente cree lo obvio se califica por ignorancia e injustamente extremista, una creador de conspiraciones, un racista, o peor. Los hombres no son libres, Whitaker sugiere, de decir la verdad:  
+Bob Whitaker, un Carolino del Sur que ha hecho cosas buenas y de aventura en su vida, enseñando clases de la universidad, sirviendo como un miembro del personal de alto nivel en el Congreso,  y escribiendo para la radio en la _Voz de América_, señala que cualquier persona hoy en día que simplemente cree lo obvio se califica por ignorancia e injustamente extremista, una creador de conspiraciones, un racista, o peor. Los hombres no son libres, Whitaker sugiere, de decir la verdad:  
   
 
 > **En [el libro 1984](http://www.bibliotecapleyades.net/archivos_pdf/1984.pdf) de George Orwell, resulta que todo el horrible totalitarismo que aplastó al héroe se basaba en ponerle fin a un simple sonido inútil de libertad; "La libertad", dice, "es la libertad de decir que dos más dos son cuatro." (31)**

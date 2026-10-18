@@ -9,7 +9,7 @@ description: "En este 7mo capítulo de \"Linajes De Los Illuminati\" se expone l
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -41,7 +41,7 @@ Un nombre chino se compone de un nombre de familia (apellido), que se escribe pr
 
 ## Los Apellidos Son Mas Significativos Para Los Chinos (En China) Que Para Los Americanos
 
-El apellido Li es un apellido muy popular en China, tal vez no tan difundido como Smith en este país, pero ciertamente usado como el apellido Brown en Estados Unidos. Los Chinos que tienen el mismo apellido tienen mucha mas lealtad a aquellos con su mismo apellido. Por ejemplo, dos chinos con el nombre Li se considerarian a si mismos familiares aunque fueran completos extraños. Aunque dos personas con el mismo apellido no tengan lazos de sangre, en China se considera incestuoso y contra la moral que dos personas con el mismo apellido se casen. En Estados Unidos si dos Browns sin ningun lazo entre ellos se conocen, ellos no se sentirian como si fuesen dos familiares o cercanos como dos personas con el mismo apellido en China se sentirian. El apellido Li tiene una larga historia que se remonta a una persona especifica llamada Emperador Zhuanzu, quien fue el primer Li y vivió después del 2000 D.C. Esto acorde al Xing Zuan, el diccionario de apellidos chino. La familia Li tiene una larga historia en China junto con otras historias. Durante la Dinastia Tang a 15 distintos apellidos se les concedió el honor de tener el apellido Li. Li Yuang fue el fundador de la Dinastia Tang que duró del 618 al 906 A.C. El hijo que gobernó después de el fue Li Shimin. Durante el dominio de esta Dinastia, la imprenta y el papel moneda fueron introducidas a China. (Es interesante que los Li estén conectados con la introducción del papel moneda).  
+El apellido Li es un apellido muy popular en China, tal vez no tan difundido como Smith en este país, pero ciertamente usado como el apellido Brown en Estados Unidos. Los Chinos que tienen el mismo apellido tienen mucha mas lealtad a aquellos con su mismo apellido. Por ejemplo, dos chinos con el nombre Li se considerarian a si mismos familiares aunque fueran completos extraños. Aunque dos personas con el mismo apellido no tengan lazos de sangre, en China se considera incestuoso y contra la moral que dos personas con el mismo apellido se casen. En Estados Unidos si dos Browns sin ningun lazo entre ellos se conocen, ellos no se sentirian como si fuesen dos familiares o cercanos como dos personas con el mismo apellido en China se sentirian. El apellido Li tiene una larga historia que se remonta a una persona especifica llamada Emperador Zhuanzu, quien fue el primer Li y vivió después del 2000 d. C. Esto acorde al Xing Zuan, el diccionario de apellidos chino. La familia Li tiene una larga historia en China junto con otras historias. Durante la Dinastia Tang a 15 distintos apellidos se les concedió el honor de tener el apellido Li. Li Yuang fue el fundador de la Dinastia Tang que duró del 618 al 906 a. C. El hijo que gobernó después de el fue Li Shimin. Durante el dominio de esta Dinastia, la imprenta y el papel moneda fueron introducidas a China. (Es interesante que los Li estén conectados con la introducción del papel moneda).  
   
 
 ## ¿Están Los Importantes Y Diferentes Li Conectados?

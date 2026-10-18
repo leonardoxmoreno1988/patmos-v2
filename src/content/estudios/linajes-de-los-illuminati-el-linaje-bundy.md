@@ -9,13 +9,13 @@ description: "En este capítulo de \"Linajes de los Illuminati\" el Linaje Bundy
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-En este capítulo de **"Linajes de los Illuminati"** el **Linaje Bundy** es expuesto no solo por tener un extraño vínculo con el asesino en serie más famoso de los 80s, Ted Bundy. Sino por el satanismo generacional vinculado con la masonería, los rituales satánicos y diversas ramas del poder illuminati.
+En este capítulo de **"Linajes de los Illuminati"** el **Linaje Bundy** es expuesto no solo por tener un extraño vínculo con el asesino en serie más famoso de los 80s, Ted Bundy. Sino por el satanismo generacional vinculado con la masonería, los rituales satánicos y diversas ramas del poder illuminati.
 
- 
+ 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhncmQ-kLgXOZqxBRx5PkRwH7B4NSDNpKXPgZJniSB2qy-Zy_Fj4ELO6SRGaBSSQR326bwK05Ls-IWehuw55spac-4YzU8upDKKVYW7pi_YIPUhA7C1b-S6cNYjVkQA8NoZ7Iz5pn3AlxU/d/bundy.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhncmQ-kLgXOZqxBRx5PkRwH7B4NSDNpKXPgZJniSB2qy-Zy_Fj4ELO6SRGaBSSQR326bwK05Ls-IWehuw55spac-4YzU8upDKKVYW7pi_YIPUhA7C1b-S6cNYjVkQA8NoZ7Iz5pn3AlxU/s590/bundy.jpg)
 
@@ -53,7 +53,7 @@ Una gran rama de esta familia fue hacia Connecticut, y después unos pocos fuero
 
 ERIC BUNDY - Colocado a cargo del prisionero Howard Hughes, por la familia Illuminati Onassis. (Mas de esto mas adelante).  
   
-EUGENE BUNDY - Un prominente miembro de Skull and Bones.  
+EUGENE BUNDY - Un prominente miembro de Skull and Bones.  
   
 KATHERINE LAWRENCE BUNDY - Hija de Harvey Hollister Sr.  
   

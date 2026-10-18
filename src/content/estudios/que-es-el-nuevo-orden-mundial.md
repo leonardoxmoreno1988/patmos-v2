@@ -9,7 +9,7 @@ description: "Una búsqueda mundial en Google puede atraer instantáneamente has
 tags: ["Sociedad"]
 ---
 
-Una búsqueda mundial en Google puede atraer instantáneamente hasta 760 millones de resultados del término **nuevo orden mundial**, en comparación con los 719 millones de la palabra "política". Parece bastante claro que el concepto no es algo nuevo, y más bien es un tema muy discutido y reconocido dentro de la conciencia en el mundo.  
+Una búsqueda mundial en Google puede atraer instantáneamente hasta 760 millones de resultados del término **nuevo orden mundial**, en comparación con los 719 millones de la palabra "política". Parece bastante claro que el concepto no es algo nuevo, y más bien es un tema muy discutido y reconocido dentro de la conciencia en el mundo.  
   
 
 [![pirámide de la masonería y los illuminati para alcanzar el nuevo orden mundial](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQO3ykXgfEyQoJojfynoLRXlkOIjZc2rDsfvUdhFG8xU6siLJrzLb_j1Qyc-7P-3-ICZEAp1gxmO2pRN-1bkr28V7hArx7zZd4SWSv63KVpCJ2iDFxWvu7_VbPrJQg47HUtrqCdIwq4lc/s1600/nuevo-orden-mundial.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQO3ykXgfEyQoJojfynoLRXlkOIjZc2rDsfvUdhFG8xU6siLJrzLb_j1Qyc-7P-3-ICZEAp1gxmO2pRN-1bkr28V7hArx7zZd4SWSv63KVpCJ2iDFxWvu7_VbPrJQg47HUtrqCdIwq4lc/s1600/nuevo-orden-mundial.jpg)
@@ -19,7 +19,7 @@ Pero ¿Es acaso este esquema para establecer un nuevo orden mundial, de hecho, u
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 
 ## Historia
@@ -44,7 +44,7 @@ Años más tarde, en su discurso titulado "Hacia un nuevo orden mundial", emitid
 > \- George Bush, 11 de Septiembre de 1990.
 
   
-En los años siguientes muchos presidentes, personajes políticos y líderes religiosos utilizaron el término en un contexto para una reforma mundial y el final de los problemas mundiales. En un **[conferencia en Washington](https://www.youtube.com/watch?v=gJDwUHE5x90)**, Bill Clinton recordó a los norteamericanos el plan a largo plazo del que George H. W. Bush había hablado hace años, estableciendo la necesidad de ese nuevo orden internacional. El papa Francisco en una **[carta dirigida a los obispos católicos](http://www.acontecercristiano.net/2015/09/papa-francisco-pide-un-nuevo-gobierno-mundial.html)** dijo que necesitábamos un "sistema de gobierno mundial" para hacerle frente al cambio climático.  
+En los años siguientes muchos presidentes, personajes políticos y líderes religiosos utilizaron el término en un contexto para una reforma mundial y el final de los problemas mundiales. En un **[conferencia en Washington](https://www.youtube.com/watch?v=gJDwUHE5x90)**, Bill Clinton recordó a los norteamericanos el plan a largo plazo del que George H. W. Bush había hablado hace años, estableciendo la necesidad de ese nuevo orden internacional. El papa Francisco en una **[carta dirigida a los obispos católicos](http://www.acontecercristiano.net/2015/09/papa-francisco-pide-un-nuevo-gobierno-mundial.html)** dijo que necesitábamos un "sistema de gobierno mundial" para hacerle frente al cambio climático.  
   
 
 El presidente Barack Obama mencionó en uno de sus discursos en Berlín:  
@@ -92,7 +92,7 @@ La masonería acepta miembros de casi cualquier religión, incluyendo el cristia
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9AX6BqTIRRwnplji8xSHYDKlZv2wPQU5K4GcNe-9bmrkGeFEhmiqa8Flvk5r5s485luC_iXbBFCP_FsQihWnAX58Det4FH9PO90aWEzEN_WBmwNgLWQzYRgymhErAA-Oh7Ax5_Hu88nw/s1600/grados-masoneria.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9AX6BqTIRRwnplji8xSHYDKlZv2wPQU5K4GcNe-9bmrkGeFEhmiqa8Flvk5r5s485luC_iXbBFCP_FsQihWnAX58Det4FH9PO90aWEzEN_WBmwNgLWQzYRgymhErAA-Oh7Ax5_Hu88nw/s1600/grados-masoneria.jpg)
 
-_A la izquierda los 33 grados de Rito Escocés, a la derecha los 13 grados de rito de York. ([Click aquí](http://www.indianaknightstemplar.com/images/structureoffreemasonryac3.jpg) para agrandar)_
+_A la izquierda los 33 grados de Rito Escocés, a la derecha los 13 grados de rito de York. ([Click aquí](http://www.indianaknightstemplar.com/images/structureoffreemasonryac3.jpg) para agrandar)_
 
 La agenda para el establecimiento de un gobierno mundial se menciona a veces por los conocedores masónicos como el "Gran Plan" o simplemente "el Plan". La mayoría de los masones que son conscientes de ello creen sinceramente que este "Gran Plan" algún día dará comienzo a una nueva era de paz y de la cooperación mundiales. Está sociedad está dividida en 33 grados para el Rito de York y 13 para el rito Escocés.  
   
@@ -122,7 +122,7 @@ Este grupo llegó a ser tan poderosa que incluso la Iglesia Católica Romana, qu
 
   
 
-### El Grupo Bilderberg 
+### El Grupo Bilderberg 
 
 El Grupo Bilderberg o conferencia Bilderberg, es una conferencia privada anual de 120 a 150 personas de la élite política de Europa y América del Norte, expertos de la industria, las finanzas, la academia y los medios de comunicación, fue establecido en 1954.
 
@@ -130,7 +130,7 @@ El Grupo Bilderberg o conferencia Bilderberg, es una conferencia privada anual d
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdIssMrkha-PZ7-fDlQGc-NGMdZxloOB6iR_ERGHw3Q7oftVbXu4P6Mrr7zxfOxHsbdeNkspdpU0IC9oMJI2f-ZgZ-8XR7z52ikolFTbbAhmVYT45WrrhzpR3rCUw07HNAhX_Lux8199U/s1600/bilderberg-primera.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdIssMrkha-PZ7-fDlQGc-NGMdZxloOB6iR_ERGHw3Q7oftVbXu4P6Mrr7zxfOxHsbdeNkspdpU0IC9oMJI2f-ZgZ-8XR7z52ikolFTbbAhmVYT45WrrhzpR3rCUw07HNAhX_Lux8199U/s1600/bilderberg-primera.jpg)
 
-_Primera reunión del Grupo en el hotel Bilderberg  en 1954._
+_Primera reunión del Grupo en el hotel Bilderberg  en 1954._
 
 Hasta hace pocos años, ni siquiera se podía encontrar mención de este grupo en cualquier fuente mediática. En años pasados, muchos de los que trataron de exponer a los Bilderberg se les marcaron como locos de la conspiración. Sin embargo, sólo en los últimos años, los medios de comunicación han comenzado a cubrir estas reuniones anuales de alto secreto.  
   
@@ -171,11 +171,11 @@ Las Naciones Unidas no intenta mantener una discreción en su plan por alcanzar 
 ### La Comisión Trilateral
 
   
-La Comisión Trilateral fue fundada por David Rockefeller y Zbigniew Brzezinski en Julio de 1973 y se compone de aproximadamente 325 negocios de élite, la banca y la política. La Comisión Trilateral se propaga como una cooperación económica entre Estados Unidos, Europa y Japón , pero en realidad es otra sociedad/organización secreta - ésta se especializa en la creación de la interdependencia económica trilateral necesaria para traer el sistema del Nuevo Orden Mundial de la moneda mundial y gobernanza mundial. Este grupo está detrás de la creación de la estructura y el poder necesarios para estos bancos y corporaciones multinacionales que asumen el control global, que dominará las poblaciones, los gobiernos y las economías del mundo.
+La Comisión Trilateral fue fundada por David Rockefeller y Zbigniew Brzezinski en Julio de 1973 y se compone de aproximadamente 325 negocios de élite, la banca y la política. La Comisión Trilateral se propaga como una cooperación económica entre Estados Unidos, Europa y Japón , pero en realidad es otra sociedad/organización secreta - ésta se especializa en la creación de la interdependencia económica trilateral necesaria para traer el sistema del Nuevo Orden Mundial de la moneda mundial y gobernanza mundial. Este grupo está detrás de la creación de la estructura y el poder necesarios para estos bancos y corporaciones multinacionales que asumen el control global, que dominará las poblaciones, los gobiernos y las economías del mundo.
 
   
 
-La Comisión Trilateral no es una conspiración diseñada para dominar el mundo, pero realmente se esfuerza por involucrar a los estadounidenses, los europeos occidentales y los japoneses en un esfuerzo común para dar forma a un futuro gobierno mundial. 
+La Comisión Trilateral no es una conspiración diseñada para dominar el mundo, pero realmente se esfuerza por involucrar a los estadounidenses, los europeos occidentales y los japoneses en un esfuerzo común para dar forma a un futuro gobierno mundial. 
 
   
 
@@ -192,7 +192,7 @@ El sionismo es una ideología política judía que promueve celosamente la exist
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmBWNUjyyfBBupF75wY9tE1IkInJPJq1dDnqEMEtn9upg-0yet4agaw_rJ-cBeLXxm5j8MOXOR2GqI4kV1UIeAW1hTI9LYkdByCF1xb8O93u_19meLDQANfrRuGeNIPAPOjfjZs9o6Kr8/s1600/zionismo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmBWNUjyyfBBupF75wY9tE1IkInJPJq1dDnqEMEtn9upg-0yet4agaw_rJ-cBeLXxm5j8MOXOR2GqI4kV1UIeAW1hTI9LYkdByCF1xb8O93u_19meLDQANfrRuGeNIPAPOjfjZs9o6Kr8/s1600/zionismo.jpg)
 
-_Manifestantes judíos_ _frente al Consulado General de los Estados Unidos en Jerusalén,_ _protestando en contra del sionismo._
+_Manifestantes judíos_ _frente al Consulado General de los Estados Unidos en Jerusalén,_ _protestando en contra del sionismo._
 
 Los bancos más grandes, incluyendo la Reserva Federal que en realidad esclaviza al mundo con las divisas basados en la deuda, están todos dirigidos por judíos sionistas: Rothschild de Londres y Berlín, Lazard Brothers de París , Israel Moisés de Italia, Kuhn , Loeb & Co. de Alemania y Nueva York , Warburg & Co. de Alemania, Lehman Brothers de Nueva York , Goldman Sachs de Nueva York, Rockefeller Brothers de Nueva York, y muchos más. Es importante destacar que no todos los judíos son sionistas.
 
@@ -217,7 +217,7 @@ Desde la fundación del club, la mascota de la Bohemian Grove ha sido un búho, 
 ### El Movimiento Nueva Era
 
   
-La ocultista y teósofa Alice Bailey, fue una de las fundadoras del llamado movimiento de la Nueva Era, ella profetizó en 1940 la victoria final de los aliados de la Segunda Guerra Mundial sobre las Potencias del Eje y el establecimiento por los aliados de un [**nuevo orden mundial**](http://apocalipsisyactualidad.blogspot.pe/2013/12/nuevo-orden-mundial-comienza-gestarse.html) político y religioso. Vio a un gobierno federal como la culminación de los tiempos y que sería guiado por los "maestros de la sabiduría antigua", con la intención de preparar a la humanidad para la venida del Cristo místico, y el amanecer de la Era de Acuario. 
+La ocultista y teósofa Alice Bailey, fue una de las fundadoras del llamado movimiento de la Nueva Era, ella profetizó en 1940 la victoria final de los aliados de la Segunda Guerra Mundial sobre las Potencias del Eje y el establecimiento por los aliados de un [**nuevo orden mundial**](http://apocalipsisyactualidad.blogspot.pe/2013/12/nuevo-orden-mundial-comienza-gestarse.html) político y religioso. Vio a un gobierno federal como la culminación de los tiempos y que sería guiado por los "maestros de la sabiduría antigua", con la intención de preparar a la humanidad para la venida del Cristo místico, y el amanecer de la Era de Acuario. 
 
   
 
@@ -310,7 +310,7 @@ _Más imaginería política relacionada al "nuevo amanecer"._
 En uso del sol naciente o del término "un nuevo amanecer" está siendo popularizado para idealizar la llegada de un nuevo tiempo de gobernanza mundial. Tiene una conexión muy estrecha con el condicionamiento a la "Era del Acuario" del movimiento nueva era y lo que vendría a ser la "Edad de Horus" en los escritos del ocultista Aleyster Crowley.
 
   
-**Recomiendo leer:** 
+**Recomiendo leer:** 
 
 [Símbolos en el Dinero de América](https://www.philadelphiafed.org/education/teachers/publications/symbols-on-american-money/)  
 [Los Símbolos en el Billete de Un Dolar](http://famguardian.org/subjects/MoneyBanking/Money/SymbolsOnTheDollar.pdf)  
@@ -325,7 +325,7 @@ La Biblia no usa la frase "gobierno mundial" o "religión mundial", en referenci
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizm_UbqF57W8cJIPETgw4ipqJJDgrMx6gybUAzdRQGpSoFLVWR4JsAFp2ibmfJRzHPfHjhzJybVIdu151J4PdGsQnV2fhah9GT0Lb_ceU_rq1p8u9AbdXQwMVqo8PpygasbB08zs3uzN4/s1600/bestia.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizm_UbqF57W8cJIPETgw4ipqJJDgrMx6gybUAzdRQGpSoFLVWR4JsAFp2ibmfJRzHPfHjhzJybVIdu151J4PdGsQnV2fhah9GT0Lb_ceU_rq1p8u9AbdXQwMVqo8PpygasbB08zs3uzN4/s1600/bestia.jpg)
 
-_"La Bestia con los Diez Cuernos y La Bestia con los Cuernos del Cordero" de Matthias Gerung (1530-1532)._
+_"La Bestia con los Diez Cuernos y La Bestia con los Cuernos del Cordero" de Matthias Gerung (1530-1532)._
 
 En su visión apocalíptica en el libro de Apocalipsis, el apóstol Juan ve la "bestia", también llamada el Anticristo, que sube del mar y que tenía siete cabezas y diez cuernos (Apocalipsis 13:1). La combinación de esta visión es similar a la del profeta Daniel (Daniel 7:16-24), usando ambas podemos concluir que algún tipo de sistema mundial será inaugurado por la bestia, el más poderoso "cuerno", que va a derrotar a los otros nueve y comenzará la guerra contra los cristianos. Una confederación de diez naciones que regirán el mundo también se ve en la estatua del sueño del rey Nabucodonosor en Daniel 2:41-42, donde se ilustra el último gobierno mundial formado por diez entidades representadas por los diez dedos de los pies de la estatua.
 
@@ -343,7 +343,7 @@ Dado que Nabucodonosor era la cabeza del imperio de Babilonia (que prácticament
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnd_wv_PGr4RNO9BH6X3Kz5ovJDdngacv4BgVvefLKXwxdFOARjhhFrVwd8lgQd1pCOCiY9BrZh5wYxMdP5tBz-INix8M-BzT1VEpD6_nLP8rzCd8OMx-KK7uink8p9EhLKgMRmvNfEm0/s640/Nabucodonosor.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnd_wv_PGr4RNO9BH6X3Kz5ovJDdngacv4BgVvefLKXwxdFOARjhhFrVwd8lgQd1pCOCiY9BrZh5wYxMdP5tBz-INix8M-BzT1VEpD6_nLP8rzCd8OMx-KK7uink8p9EhLKgMRmvNfEm0/s1600/Nabucodonosor.jpg)
 
-_Los Biblia anuncia que un nuevo imperio mundial vendría después del imperio romano._  
+_Los Biblia anuncia que un nuevo imperio mundial vendría después del imperio romano._  
 
   
 
@@ -351,7 +351,7 @@ Años después los medo-persas dieron paso a los griegos (el vientre y los muslo
   
 ¿Qué significa el hierro y el barro? Se trata de un Imperio Romano revivido, posiblemente en la forma del Vaticano (La iglesia Católica Apostólica y Romana) y su influencia religiosa en el mundo. Parte del hierro del antiguo imperio romano, y parte de barro cocido, algo más débil y quebradizo. Se le incluirían algunas de las antiguas áreas, pero no sería tan fuerte y monolítico como el antiguo Imperio Romano. La profecía termina cuando una piedra viene del cielo y aterriza en estos pies destrozándolos y haciendo que la estatua se derrumbe. La piedra que cae del cielo representa la venida de Jesucristo que vendrá a destruir el gobierno del Anticristo.
 
-**Recomiendo leer:** 
+**Recomiendo leer:** 
 
 [El Sueño de Nabucodonosor](http://www.tiemposprofeticos.org/el-sueno-de-nabucodonosor/)  
 [El Libro de Daniel Capítulo 5](https://www.youtube.com/watch?v=fM3BBkbbYyY)  
@@ -367,7 +367,7 @@ Años después los medo-persas dieron paso a los griegos (el vientre y los muslo
   
 3 Discurso de Bush, el **[significado detrás de las palabras](http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_nwo72.htm)**  
   
-4 **[El origen de los Illuminati, sus métodos y su influencia en el mundo de  hoy](http://vigilantcitizen.com/hidden-knowledge/the-order-of-the-illuminati/)**  
+4 **[El origen de los Illuminati, sus métodos y su influencia en el mundo de  hoy](http://vigilantcitizen.com/hidden-knowledge/the-order-of-the-illuminati/)**  
   
 5 ¿Están vigentes los **[Caballeros Templarios](http://www.mdzol.com/nota/670626-estan-vigentes-los-caballeros-templarios/)**?  
   
@@ -379,7 +379,7 @@ Años después los medo-persas dieron paso a los griegos (el vientre y los muslo
   
 9 Video sobre **[Bill Clinton y el mensaje de Bush](https://www.youtube.com/watch?v=gJDwUHE5x90)**  
   
-10 **[Nuevo Orden Mundial](https://ebooks.adelaide.edu.au/w/wells/hg/new_world_order/)** por H.G Wells  
+10 **[Nuevo Orden Mundial](https://ebooks.adelaide.edu.au/w/wells/hg/new_world_order/)** por H.G Wells  
   
 11 Jerarquía de la conspiración - **[La Historia del Comité de los 300](https://ellosviven.wordpress.com/2012/04/07/el-comite-de-los-300/)**  
   
@@ -387,10 +387,10 @@ Años después los medo-persas dieron paso a los griegos (el vientre y los muslo
   
 13 **[La marca misteriosa de la nueva era](https://www.amazon.com/Mystery-Mark-New-Age-Domination/dp/0891074791)** por Texe Marrs  
   
-14 **[El Imperio final de Satanás](http://www.ldolphin.org/kingdom/ch7.html)**  
+14 **[El Imperio final de Satanás](http://www.ldolphin.org/kingdom/ch7.html)**  
   
-15 **[Un mundo, una moneda: ¿Podría funcionar?](http://www.investopedia.com/financial-edge/0310/one-world-one-currency-could-it-work.aspx)**  
+15 **[Un mundo, una moneda: ¿Podría funcionar?](http://www.investopedia.com/financial-edge/0310/one-world-one-currency-could-it-work.aspx)**  
   
-16 **[Los cuatro reinos de la tierra y el Reino Futuro](http://www.clasebiblica.com/?p=91)**  
+16 **[Los cuatro reinos de la tierra y el Reino Futuro](http://www.clasebiblica.com/?p=91)**  
   
 17 Símbolos en el **[dinero de América](https://www.philadelphiafed.org/education/teachers/publications/symbols-on-american-money)**

@@ -9,7 +9,7 @@ description: "\"El camino al infierno en la tierra es recorrido por el camino a 
 tags: ["Sociedad"]
 ---
 
-> **"El camino al infierno en la tierra es recorrido por el camino a la utopía." \- Michael A. Hoffman II, Sociedades secretas y guerra psicológica.**
+> **"El camino al infierno en la tierra es recorrido por el camino a la utopía." \- Michael A. Hoffman II, Sociedades secretas y guerra psicológica.**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBlvHIotKUtUFUN6w6eQz6d_MVPNlrvx04ZbOTsSIFtNL2TUGuvEZQJ7c6dycn7RZ8haZiwifyFoFgwoJi92QLAJuVfOsqTyyt9CVqE8fkh6LfwhScB2HbCotU_CZNBBzWvb39Jil1qvo/s1600/cover-mm1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBlvHIotKUtUFUN6w6eQz6d_MVPNlrvx04ZbOTsSIFtNL2TUGuvEZQJ7c6dycn7RZ8haZiwifyFoFgwoJi92QLAJuVfOsqTyyt9CVqE8fkh6LfwhScB2HbCotU_CZNBBzWvb39Jil1qvo/s1600/cover-mm1.jpg)
 
@@ -20,11 +20,11 @@ tags: ["Sociedad"]
 
 ## Mi Odisea por el Mundo, desde Egipto hasta la Isla de Pascua
 
-Durante gran parte de mi vida he reflexionado sobre estas preguntas, pero más que eso, he buscado encontrar respuestas veraces a ellas.  Mi investigación sobre el enigmático y sombrío mundo de los Iluminati me ha llevado a través del planeta, de vuelta a la antigua Babilonia en Irak, a Roma, el nexo del Santo Imperio Romano, y al inescrutable Oriente. He peinado meticulosamente los anales de la historia, mirando hacia atrás en el tiempo para visitar los faraones y las pirámides de Egipto, la fabulosa Acrópolis y el Partenón de Grecia, y los crípticos megalitos de Stonehenge y la Isla de Pascua.
+Durante gran parte de mi vida he reflexionado sobre estas preguntas, pero más que eso, he buscado encontrar respuestas veraces a ellas.  Mi investigación sobre el enigmático y sombrío mundo de los Iluminati me ha llevado a través del planeta, de vuelta a la antigua Babilonia en Irak, a Roma, el nexo del Santo Imperio Romano, y al inescrutable Oriente. He peinado meticulosamente los anales de la historia, mirando hacia atrás en el tiempo para visitar los faraones y las pirámides de Egipto, la fabulosa Acrópolis y el Partenón de Grecia, y los crípticos megalitos de Stonehenge y la Isla de Pascua.
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Mi odisea a través de las fronteras geográficas me ha llevado naturalmente también a estudiar las sociedades secretas, las Órdenes Masónicas y las organizaciones globalistas que trabajan activamente para instalar un Nuevo Orden Mundial. Me refiero específicamente a las élites que mueven y sacuden los imperios políticos y la crème de la crème financiera de las Américas, Europa, Rusia, Japón y otras sociedades llamadas "democráticas". Tampoco debemos subestimar la traición de los líderes y organizaciones religiosas. Muchos están profunda e inextricablemente involucrados en la promoción y la complicidad en los planes inhumanos de la élite política y económica.  
   
@@ -104,7 +104,7 @@ Más pertinente a nuestra discusión, ¿Por qué el obelisco más alto e imponen
 ¿Es cierto, como sostienen la mayoría de los arqueólogos de renombre, que el obelisco representa en realidad el órgano sexual masculino cortado, o pene, de Osiris, adorado hace miles de años como el Dios Sol egipcio, también venerado por los antiguos como Baal, dios del fuego de los cananeos y fenicios? ¿No podría el monumento de Washington, por lo tanto, ser descrito con precisión como "El pozo de Baal"? ¿Y por qué se encuentran tantos de estos ídolos fálicos, los obeliscos, en los cementerios americanos donde sirven como lápidas para los muertos?  
   
 
-## Una tumba exactamente a trece cuadras de la Casa Blanca 
+## Una tumba exactamente a trece cuadras de la Casa Blanca 
 
 Una y otra vez descubrimos que la adoración y la veneración de los dioses y diosas paganas no se desvanecieron y se extinguieron con el advenimiento del cristianismo y sus religiones mundiales rivales, el islamismo, el budismo y otras. En _Monumentos Misteriosos_ descubrirá las maravillas del antiguo Halicarnaso, la monumental tumba funeraria del rey Mausolus. Sin embargo, este impresionante edificio se encuentra no muy lejos en Halicarnaso, sino en Washington, D.C. Citado exactamente a trece cuadras de la Casa Blanca, este austero edificio de piedra, adornado con ídolos egipcios y babilónicos, sirve sorprendentemente como la Casa del Templo de la Suprema Logia Materna, 33°, de la Masonería Internacional de Rito Escocés. Y de hecho, sirve como tumba. El cuerpo de Albert Pike, 33°, ilustre ex Soberano Gran Comendador del Rito Escocés y autor de los treinta y tres grados rituales de la Orden Masónica y de su libro de texto clásico y de su "biblia", _Moral and Dogma_, está sepultado en las entrañas del propio Halicarnasio adornado de Washington, D.C. ¿Qué otros misterios increíbles están contenidos dentro de estos muros paganos?¿Encontraremos tesoros... o horrores dentro?  
   
@@ -120,7 +120,7 @@ Se dice que periódicamente se realizan extraños rituales luciferinos en el int
 Serpientes masónicas en espiral de oro: Dos serpientes fénix doradas se enfrentan en el interior de la Sala del Templo de la sede central del Rito Escocés, _The House of the Temple_, en Washington, D.C., ubicada exactamente a 13 cuadras de la Casa Blanca. Mientras que el punto central es el altar de piedra negra con sus tres medallones solares, las dos serpientes proporcionan el espectáculo más grotesco. En la alfombra leemos "La Meta de la Iniciación" y, de hecho, se dice que ante este imponente altar de piedra negra el candidato al grado 33 se arrodilla y bebe vino de un cráneo humano.  
   
 
-## Baphomet, ¿El ídolo de los cuernos, en la Universidad de Yale? 
+## Baphomet, ¿El ídolo de los cuernos, en la Universidad de Yale? 
 
 Muchos lectores han oído hablar de Bafometo, el repulsivo y espantoso ídolo de los templarios medievales, representado como una horrible cabra andrógina, decorado con la imagen del pentagrama satánico y adornado con una multitud de otros símbolos ocultos. Seguramente, la gente puede decir que el hombre inteligente del siglo XXI no se dignaría a adorar un ejemplo tan grotesco y blasfemo de argucias infernales. Pero, ¡espera! En _Mysterious Monuments_, visitamos una de las universidades más prestigiosas del mundo; sí, una de las ciudades más históricas de la Ivy League de aprendizaje avanzado e instrucción académica, Yale University, en la congestionada ciudad de New Haven, Connecticut. ¿Podría el horrible Baphomet estar escondido en algún lugar dentro de los confines de esta ostentosa y muy aclamada institución de educación superior?  
   
@@ -129,7 +129,7 @@ En Yale, cientos de estudiantes y profesores entran en el edificio de educación
 Justo al lado del campus de Yale, junto a un antiguo cementerio, se encuentra la premonitoria Tumba, residencia de la Orden de la Calavera y los Huesos. Este mausoleo es el hogar de quince estudiantes de élite de la Universidad de Yale que cada año son elegidos para iniciarse en "Bones". Tres generaciones de hombres de la Dinastía Bush - Prescott Sheldon Bush, George Herbert Walker Bush y George W. Bush - una vez yacían desnudos en el interior de este edificio en un ataúd mientras figuras encapuchadas cantaban e invocaban al espíritu de Lucifer a salir. Muchos otros Yalees se convirtieron en senadores, diplomáticos y directores ejecutivos de empresas de Estados Unidos. Cada uno también entró en las filas de la élite a modo de iniciación dentro de los muros sin ventanas de la Tumba. **(4)**  
   
 
-## ¿Cinco mil quinientos millones de inocentes serán exterminados? 
+## ¿Cinco mil quinientos millones de inocentes serán exterminados? 
 
 Los misteriosos monumentos revelan quién está detrás de los increíbles y modernos monumentos y templos construidos en todo el mundo en "lugares sagrados" y en las llamadas "líneas de energía". Usted será llevado, con los ojos bien abiertos, a una fascinante gira de edificios ocultos, desafíos de piedra y "campos de exterminio" a través de América. Descubrirán los extraños secretos de las Piedras Directrices de Georgia, con su críptico mensaje en inglés y también en cuneiforme babilónico, llamando a la ex-terminación de cinco mil quinientos millones de personas para crear una "tierra sostenible".  
   
@@ -150,7 +150,7 @@ En Francia, podrá contemplar con curiosidad el antiguo y aristocrático Museo d
 Proclamando como su lema, "Que estas sean las piedras guía de una era de la razón", los constructores masónicos de Elberton, Georgia, han erigido las curiosas Piedras Guía de Georgia. Hechas de granito, las Piedras tienen una piedra central orientada astrológicamente hacia el sol, alineada con la salida y puesta del orbe ardiente en su ciclo de 186 años (traducido numéricamente como 666-6). Un mensaje iluminista de diez preceptos está inscrito en ocho idiomas diferentes en las piedras, incluyendo el inglés, el chino y el cuneiforme babilónico. El primero de los 10 preceptos declara, "mantener a la humanidad por debajo de [500.000.000.000](tel:500.000.000.000) en perpetuo equilibrio con la naturaleza". Por supuesto, si la población se redujera en este número, tendría que producirse un exterminio genocida de la inmensa mayoría de la población mundial de 6.500 millones de personas. Eso implicaría un importante derramamiento de sangre.  
   
 
-## "¡Este lugar es terrible!" 
+## "¡Este lugar es terrible!" 
 
 Hay mucho más, por supuesto. En los Pirineos franceses encontramos la antigua capilla católica de piedra cerca de la pintoresca y remota ciudad de Rennes le Chateau. El gigantesco libro de Dan Brown, El Código DaVinci, puso en el mapa a esta aislada región de Francia sugiriendo que un sacerdote de Rennes le Chateau, junto con una Orden Misteriosa cuyos iniciados se dice que son los Guardianes del Grial, conspiraron para ocultar un Gran Secreto que tenía que ver con un infame encubrimiento del Vaticano.  
   
@@ -159,13 +159,13 @@ Se puede descubrir mucho más sobre los extraños acontecimientos en Rennes le C
 ¿Por qué los fieles, al entrar en esta iglesia aparentemente insignificante, se encuentran casi inmediatamente, justo ahí en el vestíbulo, enfrentándose cara a cara a una estatua de tamaño natural de una horrible estatua del diablo con cuernos pintada de negro? Igual de horripilante es el letrero colocado sobre la puerta que anuncia: "¡Este lugar es terrible!". ¿Es posible que estas cosas extrañas y macabras sean una coincidencia? ¿En cuántas iglesias o capillas cristianas has estado que exhibían una estatua de un diablo de color ébano, con cuernos y un letrero en la entrada que decía: "Este lugar es terrible"?  
   
 
-## La Torre de Babel se levanta una vez más: ¡en medio de America! 
+## La Torre de Babel se levanta una vez más: ¡en medio de America! 
 
 Por milenios ha sido el deseo de Satanás de reconstruir la legendaria Torre de Babel de Babilonia. En el libro bíblico del Génesis, encontramos que Nimrod, el "Cazador de Hombres" y Rey de Babilonia, construyó una gran torre que llegó hasta los cielos. Nimrod y su encantadora reina, Semiramis, se presentaron como seres divinos en la tierra, y buscaron la manera de exaltarse como tales construyendo la Torre de Babel. Pero Dios los confundió a ellos y a sus seguidores haciendo que los constructores hablaran inexplicablemente diferentes idiomas.  
   
 Confundidos y desorientados, los constructores descontinuaron sus labores y se dispersaron de Babilonia por todo el mundo. La Torre de Babel cayó en ruinas... hasta ahora.  
   
-En los Estados Unidos de América, en la ciudad de Independence, Missouri, la Iglesia Reorganizada de los Santos de los Últimos Días (Mormones) ha construido un nuevo e imponente templo en forma de zigurat. **(4)** El nuevo templo se parece asombrosamente a la antigua Torre de Babel. ¿Es esto una señal de que Estados Unidos ha tomado la bandera y la misión de Nimrod y Semiramis?
+En los Estados Unidos de América, en la ciudad de Independence, Missouri, la Iglesia Reorganizada de los Santos de los Últimos Días (Mormones) ha construido un nuevo e imponente templo en forma de zigurat. **(4)** El nuevo templo se parece asombrosamente a la antigua Torre de Babel. ¿Es esto una señal de que Estados Unidos ha tomado la bandera y la misión de Nimrod y Semiramis?
 
   
 ¿Se predice el destino de los Estados Unidos en este misterioso y sinuoso templo zigurat que se eleva hacia el sol, en una ciudad relativamente desconocida en el estado de Missouri? ¿Y no es extraño que José Smith, aclamado profeta de la Iglesia SUD y fundador del mormonismo, profetizó una vez que el mismo Jesucristo regresaría a la tierra para reinar por mil años, y que su trono y sede central estarían ubicados en Independence, Missouri?  
@@ -177,21 +177,21 @@ Aquí encontrará evidencia fotográfica reveladora de la bestia marina, un ído
 En el histórico Monte Vernon, usted explorará una réplica de un antiguo palacio de la Reina Egipcia, que, increíblemente, sirvió como mausoleo oculto para el cofundador y primer presidente de Estados Unidos, George Washington.  
   
 
-## Inventores de las cosas malvadas 
+## Inventores de las cosas malvadas 
 
 "Inventores de cosas malvadas": asi es como llamo a los hombres y mujeres arrogantes y engreídos que son responsables de la explosión de la arquitectura mística y las estatuas satánicas en todo el planeta. Ellos, por supuesto, se consideran intelectuales, pensadores profundos, sofisticados, filósofos. Mirándose en el espejo, los iluministas se ven a sí mismos como mucho más conscientes cerebral y racialmente que el resto de nosotros. Para ellos somos las masas vulgares, profanas; sólo merecemos ser engañados. Es por eso que a menudo visten y envuelven sus atrocidades arquitectónicas, en vanos intentos de ocultar los secretos ocultos y los mensajes iluminadores incorporados en sus formas. Francamente, disfruto desenmascarando estos secretos cuidadosamente inventados. Me llena de placer la oportunidad de revelar sus oscuros secretos y, si es posible, revocar sus planes cuidadosamente trazados, elaborados y simbolizados en piedra, madera, acero, hormigón y vidrio.  
   
 La élite de los Iluminati, en su apetito consumista por conquistar a la humanidad y ayudar a su señor y maestro, Lucifer, en su búsqueda de dominio, nos han legado una asombrosa variedad de curiosidades arquitectónicas. Sin que el ciudadano medio lo sepa, muchos de los monumentos, edificios y obras de escultura más famosos de Estados Unidos y del mundo están diseñados secretamente como talismanes satánicos. Estas estructuras son construidas por verdaderos creyentes. En la manera en que se construyen muchos de estos artefactos -los estilos arquitectónicos, las formas, las medidas y la ornamentación- el Iluminista rinde homenaje a Lucifer y le presta servicio a él y a su jerarquía de ángeles caídos.  
   
 
-## ¿Tontos Engañados o Participantes Dispuestos? 
+## ¿Tontos Engañados o Participantes Dispuestos? 
 
 Muchos de los arquitectos y constructores de la arquitectura de misterio son celebrados y honrados como líderes en sus campos. ¿Cómo puede ser que participen en una empresa tan audaz y bestial como ésta? ¿Su participación es involuntaria o saben lo que están haciendo y a quién sirven? Es muy posible que algunos de estos hombres y mujeres extraordinarios sean simplemente tontos. Unos pocos parecen tener poca conciencia del mal que representa su trabajo. El mundo está repleto de chiflados e inocentes benefactores que son llevados a la travesura por los dobles señores y los astutos engañadores. Pero hay que señalar que algunos de los arquitectos y constructores de la arquitectura oculta e iluminista saben exactamente lo que hacen. Estas personas están dispuestas a participar en un viejo plan para derrocar el orden mundial existente e instituir un Nuevo Orden de las Edades presidido por Lucifer, "esa vieja serpiente y dragón".  
   
 Aunque suene absurdo, es cierto. Incluso si usted personalmente no cree ni en Dios ni en el Diablo, Su adversario, por favor tenga en cuenta que hay millones de personas que lo hacen. Entre estas multitudes hay un gran número de ricos y poderosos que han asumido voluntariamente papeles de liderazgo en la comunidad oculta. Iniciados y discípulos de Satanás y a veces devotos y seguidores de una legión de otras deidades e intelegencias antiguas, estas personas son obedientes a una visión infernal. Ellos no toman su misión, la Gran Obra de los Iluminati, a la ligera. Están persuadidos de que serán recompensados, tanto en esta vida como en la siguiente, por sus dedicados esfuerzos. Su meta es honrar a su dios y/o diosa personal, ya sea Lucifer o un sustituto para él. Para ello, buscan construir una utopía, un paraíso, en el planeta tierra. La arquitectura oculta y masónica contribuye a este objetivo primordial y, como resultado, el mundo se ha saturado completamente con las creaciones monumentales del diablo.  
   
 
-## El Plan del Diablo: Perestroika, Perelandra, Tikkun Olam 
+## El Plan del Diablo: Perestroika, Perelandra, Tikkun Olam 
 
 En última instancia, el Plan oculto es destruir toda la otra arquitectura que compite. Sí, el mundo debe ser restaurado o renovado. Gorbachov y otros iluministas llaman a este plan de renovación Perestroika; _Perelandra_ de C.S. Lewis fue una idea relacionada. Los rabinos cabalistas emplean la frase hebrea Tikkun Olam, reparación de la tierra.  
   
@@ -200,7 +200,7 @@ En última instancia, el Plan oculto es destruir toda la otra arquitectura que c
 La arquitectura oculta y masónica es el presagio de un futuro desesperado, brutal y aterrador para la humanidad. Después de todo, la filosofía de la élite Iluminati les asegura que en su código moral, no existe tal cosa como una dicotomía entre el "bien" y el "mal". Se niegan a ser encerrados en una camisa de fuerza moral. Su lema Crowleyano, "Haz lo que quieras", es el _shibboleth_ de los Iluminados, su principal principio operativo. En el sistema global de arquitectura idólatra que han construido, en edificios, monumentos y otras estructuras, estos hombres y mujeres decadentes y despiadados anuncian de antemano sus sangrientas intenciones.  
   
 
-## Aunque proclaman altos ideales y nobles aspiraciones.... 
+## Aunque proclaman altos ideales y nobles aspiraciones.... 
 
 Los Illuminati y sus secuaces pueden protestar por lo que digo aquí. Su literatura y sus libros de texto proclaman constantemente altos ideales y nobles aspiraciones. Como los marxistas, los leninistas, los maoístas, insisten en que simplemente quieren servir a la humanidad. Su intención, dicen, es ser benefactores del planeta tierra. La suya, añaden, es una búsqueda espiritual. Los iluministas dicen que su objetivo filantrópico es liberar a los hombres de las cadenas de la superstición y la ignorancia. Para hacer esto, proponen extinguir las religiones, como el cristianismo, basado como está, sostienen, en la crueldad, el mito y la tergiversación. La Nueva Civilización, insisten, se basará en la filosofía pura y el amor, y el mundo será sanado por ello:  
   
@@ -209,7 +209,7 @@ Los Illuminati y sus secuaces pueden protestar por lo que digo aquí. Su literat
 En suma, proclaman que sus trabajos, su Gran Obra, persiguen un objetivo altruista y digno. Están construyendo para nosotros, lo queramos o no, una Nueva Realidad, una Utopía virtual. Lo mejor para nosotros es prestar atención, sin embargo, a un comentario sabio hecho hace unos años por Michael Hoffman II, un oponente declarado de la conspiración Iluminati y un defensor tanto de la verdad como de la tradición. "El camino al infierno", advirtió Hoffman, "es recorrido por el camino de la utopía." (19).  
   
 
-## Por qué escribí este libro 
+## Por qué escribí este libro 
 
 El horror pendiente, si el plan Iluminati tuviera éxito, es una de las razones principales por las que investigué, escribí y publiqué Misteriosos Monumentos. Esto, en verdad, es una llamada de atención a los hombres y mujeres de buena voluntad. Espero y ruego que se unan a mí para desenmascarar este plan atroz para llenar la tierra de arquitectura oculta y masónica de tonalidad luciferiana. Puede que no nos quede mucho tiempo. El ritmo de construcción de estas oscuras y amenazantes construcciones arquitectónicas se ha acelerado en los últimos años. Los iluministas parecen tener mucha, mucha prisa. La única cosa que más detestan, la única cosa que puede disuadir su rápido movimiento hacia adelante, es la exposición.
 
@@ -263,11 +263,11 @@ Abajo: Mapa turístico que muestra la luz láser holográfica del Lighthouse Mon
 
   
 
-Isaac Tigrett, el rico piramidólogo ocultista que construyó la Gran Pirámide Americana en Memphis, Tennessee, es el fundador de la cadena "Hgleiso'C'keaiet'9I?estaurant". 
+Isaac Tigrett, el rico piramidólogo ocultista que construyó la Gran Pirámide Americana en Memphis, Tennessee, es el fundador de la cadena "Hgleiso'C'keaiet'9I?estaurant". 
 
   
 
-Este es un anuncio para el Indianapolis, Hard Rock Café. La camiseta que ves aquí  se vende en todas las franquicias locales de la cadena. La imagen del sol es reveladora en el hecho de que todos los iluministas de una forma u otra adoran al antiguo dios sol.  
+Este es un anuncio para el Indianapolis, Hard Rock Café. La camiseta que ves aquí  se vende en todas las franquicias locales de la cadena. La imagen del sol es reveladora en el hecho de que todos los iluministas de una forma u otra adoran al antiguo dios sol.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhglijYeQ1AQq8u68MY-At3xv1w_wXCSfitSfF7ojFPLA6GS9BppvvgYK5ZZlJtl2meYHgd8tJ9B-0rdGswHiBXOUFzxX9Q4iuWyN1skr-aOhuBv1pMADnGhV_Tvvla7WGE_EGjXOednaE/s1600/Mysterious_monuments_13.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhglijYeQ1AQq8u68MY-At3xv1w_wXCSfitSfF7ojFPLA6GS9BppvvgYK5ZZlJtl2meYHgd8tJ9B-0rdGswHiBXOUFzxX9Q4iuWyN1skr-aOhuBv1pMADnGhV_Tvvla7WGE_EGjXOednaE/s1600/Mysterious_monuments_13.jpg)
@@ -345,7 +345,7 @@ Membresía de los dos Presidentes de la Dinastía Bush de los Estados Unidos, el
 Puertas de entrada a la misteriosa y oscura Capilla Católica Romana de Rennes-Le-Chateau en Francia. Sobre el arco de la puerta está la alucinante inscripción, "Terribilis Est Locus Iste", que traducido al español significa "Este lugar es terrible". ¿Qué clase de iglesia es ésta? ¿Qué hay de las alegaciones de que esta iglesia y sus misteriosos mensajes están de alguna manera conectados con una de las sectas más heréticas de los Illuminati, El Priorato de Sión?  
   
 
-## Nueva Torre de Babel... Una Espiral que Sube a Sión 
+## Nueva Torre de Babel... Una Espiral que Sube a Sión 
 
 El Templo de la Iglesia Reorganizada de Jesucristo de los Santos de los Últimos Días (RLDS), que cambió su nombre extraoficialmente a "Comunidad de Cristo" en el año 2000, es un extraño y bizarro zigurat de estilo babilónico, casi parecido a un sacacorchos. Al lado y conectado hay un edificio con cúpula. La persona que está de pie fuera del Templo es su servidor, Texe Marrs. Desde el interior del santuario, el techo en espiral asciende, emitiendo luz desde ventanas rectangulares a lo largo de la línea en espiral. La Iglesia RLDS es un grupo escindido y separado de la Iglesia Mormona original (LDS). Fue fundada en 1860 por José Smith III, hijo del fundador mormón, el profeta José Smith. El Templo del grupo está en Independence, Missouri, una pequeña ciudad que los mormones creen que, en los últimos días, se convertirá en la Ciudad de Sión desde donde Jesús mora y reina como dios del planeta tierra. Otros planetas y estrellas, dicen los mormones, tienen sus propios dioses.  
   

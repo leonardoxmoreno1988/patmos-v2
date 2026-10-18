@@ -9,7 +9,7 @@ description: "El año era 1969. En lo que parecía a la mayoría la proeza más 
 tags: ["Sociedad"]
 ---
 
-El año era 1969. En lo que parecía a la mayoría la proeza más monumental y tecnológicamente increíble en la historia humana, el hombre había caminado sobre la luna. Volando de la tierra al espacio, la nave **Apolo 11** de la **NASA**, que llevaba tres astronautas heroicos, se sentó sobre la superficie polvorienta de la luna.  
+El año era 1969. En lo que parecía a la mayoría la proeza más monumental y tecnológicamente increíble en la historia humana, el hombre había caminado sobre la luna. Volando de la tierra al espacio, la nave **Apolo 11** de la **NASA**, que llevaba tres astronautas heroicos, se sentó sobre la superficie polvorienta de la luna.  
   
 
 [![Logo de la nasa con el logo de la franmasonería y una ilustración de Stanley Kubrick](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBajDBlmP3C3GdO3P9ZttY1xVnWH5n8YqvyjSwxBNh3layKhnLZ2viGLRAj2qq_omCF7P2vtGIai0iUmQKbrhSfzoZF9psbZ62R6gYBz-Xi2uTBc_zQLeut_H0T3pGSwL-tmHdkd4Opfc/s1600/nasa-secretos-kubrick.jpg "Nasa portada")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBajDBlmP3C3GdO3P9ZttY1xVnWH5n8YqvyjSwxBNh3layKhnLZ2viGLRAj2qq_omCF7P2vtGIai0iUmQKbrhSfzoZF9psbZ62R6gYBz-Xi2uTBc_zQLeut_H0T3pGSwL-tmHdkd4Opfc/s1600/nasa-secretos-kubrick.jpg)
@@ -17,7 +17,7 @@ El año era 1969. En lo que parecía a la mayoría la proeza más monumental y t
   
 Una audiencia sin aliento y extática, numerada en miles de millones, estaba pegada a sus televisores y radios. Luego, escucharon esas palabras históricas de los astronautas: "El águila ha aterrizado" Poco después, esta misma multitud de simpatizantes vio al comandante Neil Armstrong salir al ambiente lunar y declarar la frase histórica: "Un pequeño paso para el hombre. Pero un gran salto para la humanidad."  
   
-Es cierto que una pequeña réplica de la bandera estadounidense fue cuidadosamente transportada en el Eagle Lander y publicada para que todos la vieran. Pero, también un extraño ritual de un tipo totalmente diferente, de un carácter oscuro y ominoso, tuvo lugar en la base de la tranquilidad en la luna. No fue transmitido a la tierra a través de la televisión, porque este ritual fue cuidadosamente elaborado de antemano como una ceremonia secreta, para ser ocultado y visto sólo por los ojos de los adeptos de los **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** y su fraternidad masónica.  
+Es cierto que una pequeña réplica de la bandera estadounidense fue cuidadosamente transportada en el Eagle Lander y publicada para que todos la vieran. Pero, también un extraño ritual de un tipo totalmente diferente, de un carácter oscuro y ominoso, tuvo lugar en la base de la tranquilidad en la luna. No fue transmitido a la tierra a través de la televisión, porque este ritual fue cuidadosamente elaborado de antemano como una ceremonia secreta, para ser ocultado y visto sólo por los ojos de los adeptos de los **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** y su fraternidad masónica.  
   
   
 
@@ -30,11 +30,11 @@ El logotipo de la NASA es sin duda uno de los logotipos más reconocidos en el m
 
   
   
-El logo "meatball" de la NASA es el logotipo primario de la agencia. Fue introducido públicamente en 1958, durante los años iniciales de la NASA. El logo permaneció en servicio hasta 1982, por un poco más de tres décadas. Cuando el logotipo del gusano fue desechado en 1992, la insignia de "meatball" fue recuperada y sigue siendo el logotipo oficial de la NASA a este día.
+El logo "meatball" de la NASA es el logotipo primario de la agencia. Fue introducido públicamente en 1958, durante los años iniciales de la NASA. El logo permaneció en servicio hasta 1982, por un poco más de tres décadas. Cuando el logotipo del gusano fue desechado en 1992, la insignia de "meatball" fue recuperada y sigue siendo el logotipo oficial de la NASA a este día.
 
   
 
-**Nota:** Si deseas recibir más contenido sobre sociedades secretas, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre sociedades secretas, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 El sello de la NASA, que se utiliza principalmente para el uso formal y legal, fue conceptualizado por un diseñador interno en Lewis Research Center, una oficina de la NASA ubicada en Cleveland, Ohio. El secretario ejecutivo de la agencia, influenciado favorablemente por su diseño, dijo al encargado de la instalación de investigación, James Modarelli, diseñar otro logotipo que se utilizaría para un uso menos formal.  
   
@@ -112,7 +112,7 @@ Los simbolismos que proporcionan tal abundancia de pruebas son una de las razone
   
 Esta camarilla sombría incluye no sólo tipos de inteligencia militar como los asociados del Majestic 12 que podrían estar razonablemente preocupados por las confrontaciones con los extraterrestres, sino miembros de algún tipo de sociedad oculta. Una **[sociedad secreta](http://www.ritualypropaganda.com/2015/09/las-10-sociedades-secretas-que-influyen.html)** con raíces o creencias al menos aparentemente centradas en el antiguo Egipto por las que Hoagland realmente ha encontrado algunas pistas intrigantes. Pues parece que en momentos cruciales tales como lanzamientos y aterrizajes en el curso de muchas misiones, incluyendo los aterrizajes lunares, hay alineaciones significativas de la constelación de Orión con el horizonte. Alineamientos, hay que añadir, que él afirma son virtualmente matemáticamente imposibles de ser mera casualidad.  
   
-Todos los nombres, misiones, sitios de aterrizaje y eventos del Programa Espacial Apolo del pasado hicieron eco de las metáforas ocultas, los rituales y la simbología de la religión secreta de los Illuminati. La más transparente fue la llamada explosión de la nave espacial Apolo 13, llamada "Acuario" (nueva era) a las 1:13 (1313 del tiempo militar) el 13 de abril de 1970, que era la metáfora de la ceremonia de iniciación que implicaba la muerte (explosión), 13 es el número de muerte y renacimiento, muerte y reencarnación, sacrificio, el Fénix, el Cristo gnóstico (alma perfecta aprisionada en la materia) y la transición de lo viejo a lo nuevo.  
+Todos los nombres, misiones, sitios de aterrizaje y eventos del Programa Espacial Apolo del pasado hicieron eco de las metáforas ocultas, los rituales y la simbología de la religión secreta de los Illuminati. La más transparente fue la llamada explosión de la nave espacial Apolo 13, llamada "Acuario" (nueva era) a las 1:13 (1313 del tiempo militar) el 13 de abril de 1970, que era la metáfora de la ceremonia de iniciación que implicaba la muerte (explosión), 13 es el número de muerte y renacimiento, muerte y reencarnación, sacrificio, el Fénix, el Cristo gnóstico (alma perfecta aprisionada en la materia) y la transición de lo viejo a lo nuevo.  
   
 A partir de esto, Hoagland hace una afirmación sobre que el "culto" en la NASA es uno sobre los adoradores secretos de Osiris, que veneran al dios en su forma de Orión. Por ejemplo, la fecha del primer desembarque tripulado, el 20 de julio, es la fecha en que empieza el calendario egipcio. Además fue Farouk Al Baz, un geólogo egipcio que ayudó a seleccionar los sitios de aterrizaje de Apolo en la Luna y, con el póstumo, gran Eugene Shoemaker, se entrenó a los astronautas en la geología lunar. No sólo eso, sino que Al Baz también ha participado en la arqueología egipcia, desempeñando un papel importante en el uso del radar de penetración terrestre en la meseta de Giza y la detección remota desde el espacio.  
   
@@ -311,7 +311,7 @@ Su vaina termina en un dormitorio. Dave ahora se ve más viejo, su piel arrugada
 
   
 
-Un tercero y aún más viejo Dave es entonces acostado en la cama y ve el monolito. En este momento Dave tiene una experiencia **[gnóstica](http://www.ritualypropaganda.com/2013/03/pildora-roja-y-gnosticismo-la.html)**: su mano se levanta y él señala que ha comprendido lo incognoscible. Ahora sabe lo que es, para qué sirve. Entonces renace. Pero no renace en el vientre de la madre; Él ha escapado del ciclo del nacimiento y por lo tanto está ahora libre del mundo material. Dave Bowman, un descendiente de los simios, cuyos antepasados ​​han sido guiados por la inteligencia alienígena, ha alcanzado la iluminación y la comunión con la Fuente a través de la gnosis, la auto-salvación. Finalmente se convierte en un cuerpo celestial.  
+Un tercero y aún más viejo Dave es entonces acostado en la cama y ve el monolito. En este momento Dave tiene una experiencia **[gnóstica](http://www.ritualypropaganda.com/2013/03/pildora-roja-y-gnosticismo-la.html)**: su mano se levanta y él señala que ha comprendido lo incognoscible. Ahora sabe lo que es, para qué sirve. Entonces renace. Pero no renace en el vientre de la madre; Él ha escapado del ciclo del nacimiento y por lo tanto está ahora libre del mundo material. Dave Bowman, un descendiente de los simios, cuyos antepasados han sido guiados por la inteligencia alienígena, ha alcanzado la iluminación y la comunión con la Fuente a través de la gnosis, la auto-salvación. Finalmente se convierte en un cuerpo celestial.  
   
 El trabajo del director Stanley Kubrick, co-escrito con Arthur C. Clarke, es tanto ciencia ficción como poesía metafísica, todos unidos por la imagen recurrente de un monolito como símbolo de una existencia sobrehumana.  
   

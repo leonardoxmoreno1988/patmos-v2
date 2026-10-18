@@ -9,7 +9,7 @@ description: "En 2001 la producción de Spielberg/Kubrick, Inteligencia Artifici
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
   
@@ -18,7 +18,7 @@ En 2001 la producción de Spielberg/Kubrick, **Inteligencia Artificial**, mostra
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMWJfvb7R1_wU0H4hgGB5W_4HK4uEMhu-51F3W64q3YNyvWQlqaveTQJ_B8riI9DY9GrgZNZ7SXQl7bQiKDYUZ5iAPUikg3XyEICY2mmKEpvHwLUGEoQDW8Pgx7-s-R1wJSsvm3Hv8vIw/s1600/a-i.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMWJfvb7R1_wU0H4hgGB5W_4HK4uEMhu-51F3W64q3YNyvWQlqaveTQJ_B8riI9DY9GrgZNZ7SXQl7bQiKDYUZ5iAPUikg3XyEICY2mmKEpvHwLUGEoQDW8Pgx7-s-R1wJSsvm3Hv8vIw/s1600/a-i.jpg)
 
   
-Cualquier comentario de esta película, inevitablemente, nos dice que AI se basa en el cuento de hadas de Pinocho; y eso es una especie de verdad relativa. Mientras Pinocho constituye el marco de la narración, A.I se basa realmente en el mismo tema que Pinocho: la de la transformación alquímica del golem. El golem es algo que discutí en el artículo [La Invención de Hugo Cabret](http://www.ritualypropaganda.com/2012/04/la-invencion-de-hugo-cabret-un-homenaje.html). El término proviene de la palabra hebrea para la sustancia sin forma o forma cruda (Salmo 139: 16). Dios creó a la humanidad del polvo de la tierra, entonces respiro el "aliento de vida" en él, la sustancia formada a la imagen de Dios.  
+Cualquier comentario de esta película, inevitablemente, nos dice que AI se basa en el cuento de hadas de Pinocho; y eso es una especie de verdad relativa. Mientras Pinocho constituye el marco de la narración, A.I se basa realmente en el mismo tema que Pinocho: la de la transformación alquímica del golem. El golem es algo que discutí en el artículo [La Invención de Hugo Cabret](http://www.ritualypropaganda.com/2012/04/la-invencion-de-hugo-cabret-un-homenaje.html). El término proviene de la palabra hebrea para la sustancia sin forma o forma cruda (Salmo 139:16). Dios creó a la humanidad del polvo de la tierra, entonces respiro el "aliento de vida" en él, la sustancia formada a la imagen de Dios.  
   
 
 ## Un Nuevo Mundo
@@ -88,7 +88,7 @@ Monica (Moonica= moon/luna) decide mantener a David. Hay un procedimiento a segu
 
 **En el protocolo de impresión, vemos que hay una lista de palabras para recitar con instrucciones específicas.**
 
-   
+   
 También vemos que David está sentado en una alfombra circular con números. La simbologia del círculo de números y palabras para recitar crean una referencia oculta hacia el concepto la magia. Así no miremos profundamente en el significado de los números o palabras, basta con decir que este es un conjuro mágico para traer el golem David "a la vida". Curiosamente Arthur C. Clarke, autor de la novela 2001: Una odisea del espacio, dijo: "Cualquier tecnología suficientemente avanzada es indistinguible de la magia."  
   
 
@@ -96,7 +96,7 @@ También vemos que David está sentado en una alfombra circular con números. La
 
 **Después de la impresión, David ahora ama Mónica y la llama mamá. Es interesante que Mónica en realidad no dio a luz a David: se trata de una inmaculada concepción tecnológica.**
 
-   
+   
 Si hay alguna otra duda sobre la simbologia de la alfombra, más tarde vemos a Mónica sacar un viejo oso robot de juguete que estaba guardado, enciende el interruptor de alimentación, y luego lo deja en el centro del mismo círculo donde se pone de pie. Se usa el mismo recurso visual para darle vida a un segundo Golem bajo la figura del oso de peluche.  
   
 
@@ -128,7 +128,7 @@ David es expulsado del "Jardín del Edén". Mónica lo deja en el bosque y le di
 
 **La luna alquímica guiará David lo largo de su misión. La luna es un símbolo de la transformación, sobre todo en películas de propaganda illuminati.**
 
-   
+   
 Primero la luna aparece como un globo llevando cazadores de recompensas que capturan a David y a un robot llamado Gigolo Joe. Los robots son llevados a la Feria de la carne, también simbolizada por la luna. Aquí es donde los mecas son "asesinados" en una arena de tipo gladiadores para "celebrar" la vida.  
   
 David y Joe se sujetan para ser ejecutados. Durante la etapa de iniciación de la búsqueda, el héroe debe enfrentar desafíos intensos, a veces con ayuda - aquí vemos el papel de Joe. El locutor dice a la multitud que este niño es lo más moderno "en el gran plan para eliminar todos los hijos de Dios."  
@@ -138,7 +138,7 @@ David y Joe se sujetan para ser ejecutados. Durante la etapa de iniciación de l
 
 **"Sólo estamos demoliendo artificialidad!" Este es un discurso bastante magnánimo para un cazador meca. ¿Podría ser en referencia a la finalidad de esta etapa de iniciación?**
 
-   
+   
 Luego se menciona: "El que esté sin pecado tire la primera piedra". Aquí en alusión a las palabras de Cristo, en el que tenemos nuestra pieza religiosa obligatoria y mostrado al cristianismo como una ideología sin compasión; siempre anti-tecnología y anti-progreso. Algo que Hollywood hace con mucha regularidad.  
   
 David suplica por su vida, algo que nunca hacen los mecas, y la multitud se enfurece con el anunciador, lo que termina en la liberación de ambos personajes. Después de escapar de la Feria de carne, y luego que pasar la primera prueba de la iniciación, David y Joe siguen la luna hacia la Ciudad Rouge.  
@@ -148,7 +148,7 @@ David suplica por su vida, algo que nunca hacen los mecas, y la multitud se enfu
 
 **Las vías de acceso a la Ciudad Rouge pasan a través de algo que parecen bocas grandes, como si fueran tragados. Esto es, por supuesto, semejante a Pinocho siendo tragado por el pez, y de igual forma como la interpretación gnóstica del Jonás bíblico.**
 
-   
+   
 Rouge City es un submundo libertino y sexual, donde el libidinoso Gígolo Joe aprendió su oficio. Por lo que es bastante extraño encontrar una capilla; esto ciertamente no es una asociación halagadora. Esto alude a la religión como una especie de deseo primitivo, como el sexo, una actividad de muy bajo nivel, por eso el robot Joe lo describe así: "van a doblar las manos, mirando fijamente a sus zapatos, cantar y cuando salen me encuentran a mí. He ganado mucho dinero en este lugar".  
   
 
@@ -164,7 +164,7 @@ Luego visitan al Dr. Know, un software animado que puede responder a cualquier p
 
 **La palabra "know" en español significa conocimiento, o en el latín: gnosis.**
 
-   
+   
 David y Joe escapan de la policía en el amphibicopter. A medida que se van volando, nos damos cuenta de que vuelan a través de un gran par de labios. Entraron en la ciudad Rouge por la boca y salen de la misma forma; esto simboliza ser escupidos por el gran pez, o en otros términos, salir del inframundo.  
   
 La importancia de esto lo encontramos en Mateo 12:40: "Porque así como Jonás estuvo tres días y tres noches en el vientre de la ballena; así estará el Hijo del Hombre tres días y tres noches en el corazón de la tierra." El relato de Jonás prefigura la muerte y resurrección de Jesucristo. En A.I., ya hemos establecido que David es el niño crístico, por lo que podemos esperar que él también va a morir y ser resucitado.  
@@ -177,7 +177,7 @@ Ambos mecas vuelan hacia el fin del mundo, Manhattan.
 
 **El lugar donde los leones lloran es Rockefeller Center. Aquí es donde se encuentran Hobby y Cybertronics.**
 
-   
+   
 Aquí David se entera de que él no es especial, sólo uno más de varios. Él se enfurece y destruye otro meca igual que él. Y de nuevo lo vemos con un halo de luz. También se entera de que el modelo de David se basa realmente en el propio hijo muerto de Hobby. El profesor Hobby/Osiris es el padre "espiritual" y su creador.  
   
 
@@ -185,7 +185,7 @@ Aquí David se entera de que él no es especial, sólo uno más de varios. Él s
 
 **David descubre existen varias versiones igual a él. De la misma forma, en la filosofía gnóstica se enseña que no todos nacieron para ser "iluminados".**
 
-   
+   
 David le pregunta: "¿El Hada Azul está también aquí?"  
   
 Hobby: "La primera vez que oí hablar de su Hada Azul fue de Mónica ¿Qué crees que el Hada Azul puede hacer por ti?"  
@@ -201,7 +201,7 @@ David entonces se entera de que él era una prueba para ver si podía encontrar 
 
 **El profesor Hobby, el demiurgo dios/padre/Osiris, está esencialmente diciéndole a David que su sueño es inalcanzable.**
 
-   
+   
 El profesor Hobby le explica la prueba como tal: "¿Dónde te llevaría tu razonamiento auto-motivado si no es a la conclusión lógica de que... el Hada Azul es parte del gran defecto humano de desear cosas que no existen, o el mayor regalo humano... la capacidad de perseguir nuestros sueños."  
   
 David es tan real como lo que va a conseguir, es decir, nunca se va a transformar o volver a ver a su madre. Esto no habla muy bien del demiurgo Hobby: su vanidad pone a la gente en esta crisis emocional sin recompensa. No hay transformación, no hay cielo. La búsqueda fue en vano. La promesa de los cielos es solo un cuento de hadas.  
@@ -214,7 +214,7 @@ Observe que este mensaje se encuentra el base a la razón y la lógica. Después
 
 **La muerte y la futura resurrección del cristo cinemático.**
 
-   
+   
 Después de que él es rescatado por Joe, David utiliza el amphibicopter Policía para ir a la exposición de Coney Island de Pinocho. Allí finalmente encuentra al Hada Azul, que en realidad es una estatua de esta. Incluso después de que Hobby le dice que no hay Hada Azul, todavía continúa su búsqueda y su deseo de que su madre lo ame se conserva. Al llegar este se sienta allí, mendigando al Hada Azul que lo convierta en un niño de verdad.  
   
 El narrador menciona:  
@@ -233,7 +233,7 @@ Es interesante como al igual que el pensamiento esotérico afirma que el cristia
 
 **La rueda de Chicago, que ha atrapado el anfiocóptero de David y que lo ha tenido confinado por dos mil años, tiene escondido entre la estructura metálica, lo que parece ser un Cristo crucificado.**
 
-   
+   
 A continuación, han pasado 2.000 años. Las aguas de las inundaciones se han congelado. La humanidad se ha extinguido.  
   
 
@@ -241,7 +241,7 @@ A continuación, han pasado 2.000 años. Las aguas de las inundaciones se han co
 
 **El Golem es resucitado para seguir con la búsqueda alquímica.**
 
-   
+   
 David es descubierto por los extraterrestres del futuro. Recordemos que a principios de la película vimos un niño congelado bajo el cristal: El hijo de Mónica, Martin. Ahora vemos la misma "historia criogénica" con David.  
   
 David vuelve a ver al Hada Azul, la toca, y ella se rompe en pedazos. Ahora por fin se da cuenta de que ella - y su sueño de convertirse en un niño de verdad - eran sólo una ilusión.  
@@ -254,7 +254,7 @@ Los extraterrestres (que también se interpretan como robots del futuro) aprende
 
 **Notemos que ella tiene las alas de una mariposa - símbolo de la transformación de una forma primitiva a una forma ascendida. "La obtención de alas" representa el logro de la divinidad.**
 
-   
+   
 Los extraterrestres pueden resucitar a Mónica usando un mechón de su cabello, pero ella sólo estará viva por un día. Este extraterrestre le dice a David que encontraron "la fabrica del espacio-tiempo capaz de almacenar información sobre cada evento que ha ocurrido en el pasado." Lo que descubren era el llamado registro Akáshico, o lo que Jung describe como el inconsciente colectivo, la mente, un gran almacén de datos etéreos en el cielo.  
   
 Este es el sueño de David hecho realidad, estar de vuelta con su madre en el "cielo". Sin embargo, sus papeles se invierten ahora: al comienzo de la película David fue traído a casa por Mónica; Ahora Mónica fue traída a casa por David. Anteriormente, Mónica/Isis trató de "resucitar" a su hijo; ahora el hijo está resucitando la madre. Él la despierta por la mañana, hace su café, le cuenta sus historias, y se mete en su cama esa noche.
@@ -283,4 +283,4 @@ El transhumanismo es un modo de pensar sobre el futuro basado en la idea de que 
   
 Haciendo un paralelo muy preciso, vemos que las profecías bíblicas detallan que en los últimos tiempos la humanidad se embriagaría de su propio orgullo y autosuficiencia, quizás por la intelectualidad desarrollada y sus avances tecnológicos, ocasionando que sean llevados a una rebelión contra Dios y todo lo que este representa. En resumen, estos medios de propaganda sirven como catalizadores sugestivos en la creencia de que podemos ser más grandes que Dios y sus planes para el futuro.  
 
-> "¿Por qué se alborotan los pueblos paganos? ¿Por qué hacen planes sin sentido? Los reyes y gobernantes de la tierra se rebelan, y juntos conspiran contra el Señor y su rey escogido. Y gritan: «¡Vamos a quitarnos sus cadenas!¡Vamos a librarnos de sus ataduras!» El Señor, el que reina en el cielo, se ríe de ellos." - Salmos 2:1-4
+> "¿Por qué se alborotan los pueblos paganos? ¿Por qué hacen planes sin sentido? Los reyes y gobernantes de la tierra se rebelan, y juntos conspiran contra el Señor y su rey escogido. Y gritan: «¡Vamos a quitarnos sus cadenas!¡Vamos a librarnos de sus ataduras!» El Señor, el que reina en el cielo, se ríe de ellos." - Salmo 2:1-4

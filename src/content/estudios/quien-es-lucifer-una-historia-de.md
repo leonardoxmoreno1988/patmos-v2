@@ -9,7 +9,7 @@ description: "En diferentes religiones y culturas el significado del ángel caí
 tags: ["Apologética"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -31,9 +31,9 @@ Muy independiente de cualquier credo o filosofía religiosa, se expresa en la me
 Antes de la creación del mundo, la Biblia nos brinda detalles sobre seres creados semejantes a nosotros, el término Malak en hebreo fue traducido como ángeles, para referirse a estos miles de seres celestiales que habitaban en el cielo y vivían bajo la soberanía de Dios. En varios pasajes de las escrituras solo tres de estos son nombrados bajo diferentes cargos, cumpliendo diferentes funciones en este plano espiritual. Gabriel (Lucas 1:26), Miguel (Judas 9:1) y un tercero descrito por su gran belleza, poder de liderazgo y ocupando la posición más cercana al trono de Dios, la Biblia nos dice que su nombre era Lucifer, que significa "El portador de la luz".  
   
 
-> "Tú eras el sello de la perfección, lleno de sabiduría, y acabado de hermosura. En Edén, en el huerto de Dios estuviste; de toda piedra preciosa era tu vestidura; de cornerina, topacio, jaspe, crisólito, berilo y ónice; de zafiro, carbunclo, esmeralda y oro; los primores de tus tamboriles y flautas estuvieron preparados para ti en el día de tu creación. Tú, querubín grande, protector, yo te puse en el santo monte de Dios, allí estuviste; en medio de las piedras de fuego te paseabas. Perfecto eras en todos tus caminos desde el día que fuiste creado, hasta que se halló en ti maldad." -Ezequiel 28:12,15
+> "Tú eras el sello de la perfección, lleno de sabiduría, y acabado de hermosura. En Edén, en el huerto de Dios estuviste; de toda piedra preciosa era tu vestidura; de cornerina, topacio, jaspe, crisólito, berilo y ónice; de zafiro, carbunclo, esmeralda y oro; los primores de tus tamboriles y flautas estuvieron preparados para ti en el día de tu creación. Tú, querubín grande, protector, yo te puse en el santo monte de Dios, allí estuviste; en medio de las piedras de fuego te paseabas. Perfecto eras en todos tus caminos desde el día que fuiste creado, hasta que se halló en ti maldad." -Ezequiel 28:12,15
 
-   
+   
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUUqng3aFXQ5xzGfXPZrpQ7dQTlQivLoEhVa1PxJk_wPkEI5wlndIBJCmudZG8kXHS_XKPf7XIivYU9-wHKMzZvvthLsCp14UQwlnkO_JxTj5IFMMeuuUJrwGS8AOfb2hSu6JOE2RfP7g/s1600/Lucifero.gif)
 
@@ -47,7 +47,7 @@ La historia continúa describiendo que algo pasó en el corazón de Lucifer, una
 
 Las escrituras nos enseñan que este ser convenció a un tercio de los ángeles del cielo para apoyar su rebelión, propagando la mentira de que ellos también deberían compartir la gloria de Dios y dejar de vivir subyugados bajo los mandamientos que su creador había establecido. Con casi la mitad de los ángeles a su favor se inicio una batalla cósmica en el tercer cielo.
 
-   
+   
 
 > "Después hubo una gran batalla en el cielo: Miguel y sus ángeles luchaban contra el dragón; y luchaban el dragón y sus ángeles; pero no prevalecieron, ni se halló ya lugar para ellos en el cielo. Y fue lanzado fuera el gran dragón, la serpiente antigua, que se llama diablo y Satanás, el cual engaña al mundo entero; fue arrojado a la tierra, y sus ángeles fueron arrojados con él." -Apocalipsis 12:7-9
 
@@ -181,7 +181,7 @@ El asociar estas ideas de un gobierno injusto con los conceptos que las personas
 
 Angelina Jolie como Maléfica, una película que glorifica el ocultismo usando la historia de Lúcifer como el máximo héroe. Si bien Disney no pudo hacer esto con su historia original de 1956, La Bella Durmiente, ahora tiene una nueva generación de jóvenes muchos más sugestionados que pueden aceptar la inversión del bien por el mal.
 
-   
+   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHaF36k3XOCS5ojnTcQi12sTw10ge2sCap3s-lz0qLoVJOjxtHrk5n5ITiQsyTyx7Ecv-Ynq7SKtAl5Y0quicns4MIMRR_eGvTiOu6Bhl14pyStOGyFgT0KJFF1oMKYp1r4cYc5azqNdU/s1600/maleficent_stefan.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHaF36k3XOCS5ojnTcQi12sTw10ge2sCap3s-lz0qLoVJOjxtHrk5n5ITiQsyTyx7Ecv-Ynq7SKtAl5Y0quicns4MIMRR_eGvTiOu6Bhl14pyStOGyFgT0KJFF1oMKYp1r4cYc5azqNdU/s1600/maleficent_stefan.jpg)
 
@@ -224,7 +224,7 @@ A la izquierda Drácula, revestido con la armadura de un Dragón, a la derecha s
   
 
 El libro de Apocalipsis menciona:  
-> "También apareció otra señal en el cielo: he aquí un gran dragón escarlata, que tenía siete cabezas y diez cuernos, y en sus cabezas siete diademas; y su cola arrastraba la tercera parte de las estrellas del cielo, y las arrojó sobre la tierra."-Apocalipsis 12:3-4 
+> "También apareció otra señal en el cielo: he aquí un gran dragón escarlata, que tenía siete cabezas y diez cuernos, y en sus cabezas siete diademas; y su cola arrastraba la tercera parte de las estrellas del cielo, y las arrojó sobre la tierra."-Apocalipsis 12:3-4 
 
 De la misma forma sobre la aparición de Jesucristo menciona:  
 
@@ -261,7 +261,7 @@ Al momento de internarnos en la imagen mediática de Satanás tenemos que hacer 
   
 En el conocimiento esotérico de las sociedades secretas y grupos sectarios tenemos a Satanás en un camuflaje de "dios", el cual también podemos dividir en dos grupos principales. En el primer nivel Lucifer ha sabido negar su propia existencia a sus seguidores, y en el nivel más alto de las sociedades herméticas este se presenta como el ser benigno que las religiones judío-cristianas calumniaron a su conveniencia. Un ejemplo de esto es la Iglesia Satánica de Antón Lavey. Por más extraño que parezca esta organización no cree en el Satanás como un dios real que necesite adoración, sino como una alegoría del humanismo o la desinhibición sexual del ser humano, para ellos Satanás es sólo un símbolo. Por otro lado, la Ordo Temple Orientis de Aleyster Crowley, enseña a sus adeptos de que Lucifer es muy real y merece se adorado como el verdadero dios del conocimiento.
 
-   
+   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1wYlXR9x7BjbR30nROEHdhAcBsqw0QttIMl7_lkLo_VzLYXmb_lpms0o1AKYxyvlsrdeXhu1Clguv8fpzQhquW68k0CNZD4cuPvP96E0ykZnewXbnHJpUwva7BN3tyvPZ45jksrHMjkk/w400-h160/IOI_LUCIFER-GREEN_LITH_BEARE.jpg)](https://www.blogger.com/u/2/#)
 
@@ -333,11 +333,11 @@ Liliandil en "Las Crónicas de Narnia: La Travesía del Viajero del Alba".
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirYi8pVGDqJdzv8_ZxZzYqpvr6pGInxuQsiCC5xQ9M2cRTYRD3FZ3KYjQB97WavLWEnm3hyfMhUw1unNQBh72pKnY8roOqs44vDsc3gk0yoawAdMuxGBtPv17BSRztu277_07t3CVf0LA/s1600/MatrixTrinity.jpg)
 
-Trinity, la guía del Neo para salir de la Matrix.
+Trinity, la guía del Neo para salir de la Matrix.
 
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirYi8pVGDqJdzv8_ZxZzYqpvr6pGInxuQsiCC5xQ9M2cRTYRD3FZ3KYjQB97WavLWEnm3hyfMhUw1unNQBh72pKnY8roOqs44vDsc3gk0yoawAdMuxGBtPv17BSRztu277_07t3CVf0LA/s1600/MatrixTrinity.jpg)
 
-    
+    
 Siendo Lucifer una entidad andrógena no es de extrañar sus manifestaciones femeninas en diversas partes del mundo. Ishtar, Inanna, Isis, Venus, Afrodita, Astarté, Artemisa, Lilith, Seminaris, Freya, Demetria, Diana, Diosa Madre, Kali, Gaia, de la misma forma las apariciones marianas o de la Virgen de Guadalupe/del Perpetuo Socorro/de Fatima/de la Merced/de Suyapa/de Lujan/del Carmen etc. Es importante destacar que ninguna de ellas es la madre de Jesús, la cual sí existió bajo el nombre de María. La siguiente imagen expone crudamente esta metamorfosis.
 
   
@@ -393,7 +393,7 @@ En el último ejemplo presentado de la película _Pleasentville_ esta inversión
 
   
 
-> "¡Ay de los que llaman al mal bien y al bien mal, que tienen las tinieblas por luz y la luz por tinieblas, que tienen lo amargo por dulce y lo dulce por amargo!"- Isaías 5:20  
+> "¡Ay de los que llaman al mal bien y al bien mal, que tienen las tinieblas por luz y la luz por tinieblas, que tienen lo amargo por dulce y lo dulce por amargo!"- Isaías 5:20  
 
 ## Nombres, Figuras y Características
 
@@ -500,7 +500,7 @@ De cierta forma no existe una gran diferencia de objetivos entre las tablillas s
 
 ## Un Príncipe Condenado
 
-Jesús fue claro al decir que estamos en un campo de batalla espiritual, los constantes ataques por parte de su antagonista el diablo habrían de saturar la mente de los hombres con más intensidad que en aquel antiguo Edén. De igual forma, lo que llega a ser aún más increíble es la facilidad que tiene Satanás de realizar estas artimañas valiéndose de su poder en la Tierra, absolutamente todas las áreas seculares trabajan para promover su agenda a cambio de fama y poder, de igual forma todas las sociedades secretas desean establecer su gobierno mundial anticristiano. También es claro que estas personas han decidido, por voluntad propia, hacerlo su señor. A causa de esta elección el mismo Jesucristo le atribuye un título de poder:
+Jesús fue claro al decir que estamos en un campo de batalla espiritual, los constantes ataques por parte de su antagonista el diablo habrían de saturar la mente de los hombres con más intensidad que en aquel antiguo Edén. De igual forma, lo que llega a ser aún más increíble es la facilidad que tiene Satanás de realizar estas artimañas valiéndose de su poder en la Tierra, absolutamente todas las áreas seculares trabajan para promover su agenda a cambio de fama y poder, de igual forma todas las sociedades secretas desean establecer su gobierno mundial anticristiano. También es claro que estas personas han decidido, por voluntad propia, hacerlo su señor. A causa de esta elección el mismo Jesucristo le atribuye un título de poder:
 
 > "No hablaré mucho más con ustedes, porque viene el príncipe de este mundo, y él no tiene nada en mí." -Juan 14:30
 

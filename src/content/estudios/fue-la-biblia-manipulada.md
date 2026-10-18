@@ -39,7 +39,7 @@ Más alarmante fue que estos manuscritos "más antiguos" provenían de la regió
   
 Estos manuscritos alejandrinos dieron lugar a una nueva versión llamada texto moderno o "texto crítico", que alteró significativamente el contenido del Nuevo Testamento, llegando a omitir pasajes completos sobre doctrinas esenciales como la deidad de Cristo, la Trinidad y la salvación por gracia.
 
-   
+   
 Por ejemplo, Orígenes (185-254 d. C.), el padre de la interpretación alegórica \[otra falsa doctrina\], junto con Clemente de Alejandría (150-215 d. C.) contribuyeron a corromper los manuscritos correctos, lo que nos dio las versiones adulteradas actuales como la NTV, DHH o la NVI. El sistema de creencias de Orígenes indica claramente que estuvo influenciado por la filosofía y el gnosticismo.
 
   

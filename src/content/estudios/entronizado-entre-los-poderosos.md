@@ -22,7 +22,7 @@ En su [visión del cielo](https://t.me/ritualypropaganda), Juan vio cuatro queru
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/390/original/cuatro-rostros.jpg)  
   
-Casi 700 años antes, en el 593 a.C., el profeta Ezequiel también había visto a estas [criaturas celestiales](https://es.m.wikipedia.org/wiki/Querub%C3%ADn_ca%C3%ADdo_del_Ed%C3%A9n#/media/Archivo%3AEzekiel). Él describe de forma similar a estos seres que corrían y se movían como si fueran relámpagos (Ezequiel 1:4-14).  
+Casi 700 años antes, en el 593 a. C., el profeta Ezequiel también había visto a estas [criaturas celestiales](https://es.m.wikipedia.org/wiki/Querub%C3%ADn_ca%C3%ADdo_del_Ed%C3%A9n#/media/Archivo%3AEzekiel). Él describe de forma similar a estos seres que corrían y se movían como si fueran relámpagos (Ezequiel 1:4-14).  
   
 Es interesante que Juan describe a los querubines como cuatro criaturas distintas, cada uno con la cara respectiva de estos animales, teniendo cada uno seis alas. Pero Ezequiel describe a cada querubín con [cuatro caras](https://miro.medium.com/v2/resize:fit:640/0*4ODJV4NonEwmoIPg) y cuatro alas. No siendo tan exacto a la descripción de Juan. Esto puede tener dos explicaciones:
 

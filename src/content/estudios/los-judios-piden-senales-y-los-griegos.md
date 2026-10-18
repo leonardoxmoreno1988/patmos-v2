@@ -21,7 +21,7 @@ Cuando hablamos sobre los dones con señal (don de lenguas, milagros y sanacione
 2.  Milagros: manifestaciones tangibles y visibles que van en contra de las leyes de la física.
 3.  Sanaciones: que una persona tenga la capacidad de sanar enfermedades milagrosamente.
 
-Todos estos dones son lo que la Biblia describe como "señales": 
+Todos estos dones son lo que la Biblia describe como "señales": 
 
 > “Así que las lenguas por señal son, no a los que creen, sino a los incrédulos”  
 > –1 Corintios 14:22a.
@@ -52,10 +52,10 @@ Debemos saber que “los judíos requieren una señal” porque su nación comie
   
 Un judío está condicionado a ver señales. Su origen nacional comienza con señales y estas se manifiestan hasta la llegada de Jesucristo, quien también realizó señales y milagros (Mateo 16:4). También debemos saber que no hay ningún otro lugar en la Biblia donde se registre que alguien haya hablado en lenguas más que en Actos 2, 10 y 19.
 
-   
+   
 En Actos 2 es una señal para ciertos judíos incrédulos que asesinaron a Cristo y no creían que Él era el Mesías. En Actos 10 es una señal para los judíos que no creían que los gentiles podían recibir el Espíritu Santo. En Actos 19 hubo algunos discípulos de Juan que hablaron en lenguas para evidenciar que Cristo realmente les había dado el Espíritu Santo.
 
-   
+   
 Los cristianos que creen en los dones con señal para la Iglesia no están entendiendo el tiempo de salvación por medio de la fe y no por vista (2 Corintios 5:7). No están entendiendo que el tiempo de la Iglesia es una burbuja de tiempo, un paréntesis que separa la semana 69 de la semana 70 de Daniel (Daniel 9:20-27).
 
   

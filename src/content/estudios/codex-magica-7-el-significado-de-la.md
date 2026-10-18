@@ -9,7 +9,7 @@ description: "\"Las personas que son cristianos ahora, pero eran satanistas, rec
 tags: ["Sociedad"]
 ---
 
-> **"Las personas que son cristianos ahora, pero eran satanistas, reconocieron la señal del presidente Clinton en su inauguración como la señal de Satanás. Eso parece bastante directo y crudo y lo es. Clinton comunicó lo que quería a la gente a la que quería comunicárselo. Todo el asunto de él mostrando el signo de la mano satánica sólo tomó un par de segundos."** 
+> **"Las personas que son cristianos ahora, pero eran satanistas, reconocieron la señal del presidente Clinton en su inauguración como la señal de Satanás. Eso parece bastante directo y crudo y lo es. Clinton comunicó lo que quería a la gente a la que quería comunicárselo. Todo el asunto de él mostrando el signo de la mano satánica sólo tomó un par de segundos."** 
 
 > **\- Fritz Springmeier, Linajes de los Illuminati**
 
@@ -18,7 +18,7 @@ tags: ["Sociedad"]
   
 Está siendo transmitido por todas partes: en la televisión, en periódicos y revistas, en eventos deportivos e incluso en las inauguraciones presidenciales. Me estoy refiriendo, por supuesto, al signo de El Diablo, el diablo con cuernos, también conocido como el signo del Il Cornuto y como Diabolicus. Comenzó en la era moderna con los seguidores de los cultos satánicos, los miembros de la Iglesia oficial de Satanás, y las bandas de rock heavy metal y los aficionados mostrando la señal de dos dedos separados como un signo ascendente. Las bandas de rock lo hicieron popular y lo pusieron de moda, y ahora parece que casi todo el mundo lo está haciendo.  
   
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Tres versiones del "El Diablo", la señal de Satanás, el Dios con cuernos. El signo de mano a la derecha es también el gesto de la persona sorda, o la firma, para "Te amo", un hecho que tiene a muchas personas confundidas.  
   
@@ -407,7 +407,7 @@ Anuncio de página completa en USA Today, 22 de julio de 2003 p. 5D
 
   
 
-Los Beatles a la izquierda en un dibujo de historieta de su álbum _Yellow Submarine_ donde John Lennon mostró la señal "El Diablo". A la derecha, Paul McCartney da el "OK", o "666", mientras que Lennon vuelve a mostrar la señal del diablo de cuernos con su mano izquierda.  
+Los Beatles a la izquierda en un dibujo de historieta de su álbum _Yellow Submarine_ donde John Lennon mostró la señal "El Diablo". A la derecha, Paul McCartney da el "OK", o "666", mientras que Lennon vuelve a mostrar la señal del diablo de cuernos con su mano izquierda.  
   
 Lennon, que una se vez jactó de que los Beatles eran más populares que Jesús, fue asesinado justo fuera de los condominios de la casa Dakota en la ciudad de Nueva York, donde él y su esposa Yoko Ono vivieron. Fue en el condominio gótico del Dakota donde la película profundamente satánica, _El Bebé de Rosemary_, fue filmada.  
 
@@ -447,6 +447,6 @@ Lance Armstrong es un residente de Austin, Texas, y es posible que la señal del
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg1PfjUFRhI5p8q_CempKLNfR34xifuVbEqmEfQJGTcrwQvThgAdNQ5Vmo_WD7-zVyEvSo4gn7_PLoWfEbEXY9Y_78uNiQonczwmhKo9GZk10qD1zjqiNFi1GU5Hvaz04xbXQqSYxR8y4/s1600/acodex_42.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg1PfjUFRhI5p8q_CempKLNfR34xifuVbEqmEfQJGTcrwQvThgAdNQ5Vmo_WD7-zVyEvSo4gn7_PLoWfEbEXY9Y_78uNiQonczwmhKo9GZk10qD1zjqiNFi1GU5Hvaz04xbXQqSYxR8y4/s1600/acodex_42.jpg)
 
   
-La actriz Meryl Streep da la señal del diablo justo sobre la cabeza del director de _Angels in America_, Mike Nichols. En 2004, la serie de HBO _Angels in America_ ​​fue transmitida. Era posiblemente el programa de televisión más maligno jamás transmitido. El director y la actriz recibieron el premio "Globo de Oro", lo que indica cuán venerados han sido Hollywood y las redes de televisión.  
+La actriz Meryl Streep da la señal del diablo justo sobre la cabeza del director de _Angels in America_, Mike Nichols. En 2004, la serie de HBO _Angels in America_ fue transmitida. Era posiblemente el programa de televisión más maligno jamás transmitido. El director y la actriz recibieron el premio "Globo de Oro", lo que indica cuán venerados han sido Hollywood y las redes de televisión.  
   
 La serie representaba ángeles que tenían relaciones sexuales con homosexuales y se burlaban blasfemamente de Dios. También elogió a espías comunistas como Ethel Rosenberg. (Foto: Newsweek, 17 de noviembre de 2003)

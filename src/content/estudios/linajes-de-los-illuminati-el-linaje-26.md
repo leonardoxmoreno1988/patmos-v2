@@ -9,11 +9,11 @@ description: "En este 5to capítulo del libro \"Linajes De Los Illuminati\" se r
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-En este 5to capítulo del libro **"Linajes De Los Illuminati"** se revela los vínculos del Linaje Freeman con el Priorato de Zión, los Caballeros Templarios, la Ordo Temple Orientis y los miembros de Skull and Bones. También su participación en diversos rituales satánicos.  
+En este 5to capítulo del libro **"Linajes De Los Illuminati"** se revela los vínculos del Linaje Freeman con el Priorato de Zión, los Caballeros Templarios, la Ordo Temple Orientis y los miembros de Skull and Bones. También su participación en diversos rituales satánicos.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghQptmwEz0y1eq8kNWgT-TmT41o8gtGnt9qIqUaSS3c60PAB0rPlSIpp3sHli4J2iJB_9u6wOT4_dKLQ9uZhgVd5zGUual-dR-u_iS7ytdy9FBk9jgOyqdw24q4QSDdYMU_3TttwhpFwc/s1600/templarios10127.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghQptmwEz0y1eq8kNWgT-TmT41o8gtGnt9qIqUaSS3c60PAB0rPlSIpp3sHli4J2iJB_9u6wOT4_dKLQ9uZhgVd5zGUual-dR-u_iS7ytdy9FBk9jgOyqdw24q4QSDdYMU_3TttwhpFwc/s1600/templarios10127.jpg)
@@ -30,7 +30,7 @@ Lo sorprendente de esta familia, es que uno no pensaria que forma parte de las p
 
 ## Descubrimientos Independientes Sobre El Priorato De Sión
 
-¿Que es el Priorato de Sión?, ¿estamos seguros de que existe?, ¿cómo se ata este con la jerarquia?. El Priorato de Sión, (Priorato de Zión) era desconocido para el público en general hasta 1982, cuando un libro co-escrito por Michael Baigent, Richard Leigh, y Henry Lincoln salió a la luz. El libro se titulaba, "Santa Sangre, Santo Grial", el cual ofrece pruebas históricas de que la organización del Priorato de Sión ha existido desde el tiempo de las primeras cruzadas, (1099 A.D.). En 1991, obtuve mas información sobre el Priorato de Sión. La organización era muy poco conocida inclusive entre mi número de lectores, por lo que tuvimos que detenernos y realmente examinar al Priorato de Sión.  
+¿Que es el Priorato de Sión?, ¿estamos seguros de que existe?, ¿cómo se ata este con la jerarquia?. El Priorato de Sión, (Priorato de Zión) era desconocido para el público en general hasta 1982, cuando un libro co-escrito por Michael Baigent, Richard Leigh, y Henry Lincoln salió a la luz. El libro se titulaba, "Santa Sangre, Santo Grial", el cual ofrece pruebas históricas de que la organización del Priorato de Sión ha existido desde el tiempo de las primeras cruzadas, (1099 d. C.). En 1991, obtuve mas información sobre el Priorato de Sión. La organización era muy poco conocida inclusive entre mi número de lectores, por lo que tuvimos que detenernos y realmente examinar al Priorato de Sión.  
   
 Tratando de descifrar los misterios que rodean a esta organización, la investigación de Lincoln, Leigh y Baigent los llevó a la conclusión de que el linaje santo que el Priorato de Sión guardaba era el de Jesús. Esto inmediatamente hizo de su investigación un anatema, (condenado y visto con desagrado) por la mayoria de la cristiandad. Yo estaba intrigado en ver si los cristianos podian refutar debidamente los hechos históricos y bíblicos, pero además de un par de articulos cortos, (Christian Century, 9/1-8/82, - "Asaltantes del Grial perdido" y "Christianity Today" 9/3/82, "Santa Sangre Santo Grial") en periódicos cristianos, (en adición a esto, un pequeño libro en Inglaterra "El Santo Grial Revelado") en el que simplemente se declara que el libro no tenia ningun valor porque obviamente estaba equivocado, nadie se atrevió a tratar de refutar el libro, (lo más lejos que se llegó segun tengo entendido, fué ese pequeño libro inglés que pretendió hacerlo pero no refutó nada). Los autores se dedicaron entonces a escribir dos exposiciones históricas más concernientes al Priorato de Sión y a la francmasoneria, (El Legado Mesiánico y el Templo de la Logia).  
   

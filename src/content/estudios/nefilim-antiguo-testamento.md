@@ -9,7 +9,7 @@ description: "A la luz del interés creciente por los Nefilim de Génesis 6, dec
 tags: ["Apologética"]
 ---
 
-A la luz del interés creciente por los **Nefilim** de **Génesis 6**, decidí compartir parte de mi investigación sobre el asunto. El lector promedio puede haber oído hablar algunas de las cosas contenidas en este artículo, pero estoy dispuesto a apostar que hay otros puntos que serán nuevos para la gran mayoría.  
+A la luz del interés creciente por los **Nefilim** de **Génesis 6**, decidí compartir parte de mi investigación sobre el asunto. El lector promedio puede haber oído hablar algunas de las cosas contenidas en este artículo, pero estoy dispuesto a apostar que hay otros puntos que serán nuevos para la gran mayoría.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOHvTPrEv2EX-Nx3CMQtam4UwEbVyVXhAqyyifylHkGriGppbPSaz9bFD5KgThhSaJaWuzRiNS6cn6rR9Vi16mNk4dwjaDbEP4n1X4OAbGpXE_Fo776Gr6e3Uzw_pJYgQJsWmzriZrEtk/s16000/nefilim.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOHvTPrEv2EX-Nx3CMQtam4UwEbVyVXhAqyyifylHkGriGppbPSaz9bFD5KgThhSaJaWuzRiNS6cn6rR9Vi16mNk4dwjaDbEP4n1X4OAbGpXE_Fo776Gr6e3Uzw_pJYgQJsWmzriZrEtk/s590/nefilim.jpg)
@@ -18,7 +18,7 @@ A la luz del interés creciente por los **Nefilim** de **Génesis 6**, decidí
 
 Vamos a ver algunas cosas concernientes al sexto capítulo de Génesis que conducirán a varias creencias concernientes al fin de los tiempos y la supuesta forma de vida alienígena. Cuando entramos en cosas tales como extraterrestres y OVNIs, hay un sentimiento casi involuntario de escepticismo que inmediatamente golpea a algunas personas, especialmente nosotros los cristianos.  
   
-**Nota:** Si deseas recibir más contenido sobre los Nefilim, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre los Nefilim, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
   
 Experimenté lo mismo cuando comencé a estudiar esto. Fui criado con la creencia tradicional cristiana de que no hay vida física en otros planetas y cualquier evidencia que diga otra cosa es una mentira de Satanás.  
@@ -35,19 +35,19 @@ No espero que crean todo lo que se va a presentar aquí. Sé que la mayoría, si
   
 He oído que el término "hijos de Dios" causa mucha controversia dentro de la Iglesia. He escuchado casi todas las definiciones imaginables para este término. He oído "hijos de Dios" llamados hombres pecaminosos, descendientes de Caín, demonios, e incluso visitantes de otro planeta. Por eso digo que lo mejor es comparar las Escrituras con las Escrituras.  
   
-Para entender este punto de vista al máximo, debemos comenzar desde el principio. Para eso, vamos a la Biblia. Génesis 6: 1-2 dice:  
+Para entender este punto de vista al máximo, debemos comenzar desde el principio. Para eso, vamos a la Biblia. Génesis 6:1-2 dice:  
   
 
 > **"Y sucedió que cuando los hombres comenzaron a multiplicarse sobre la faz de la tierra, y les nacieron hijas, los hijos de Dios vieron a las hijas de los hombres que eran justas; Y tomaron las mujeres de todo lo que ellos escogieron ".**
 
   
-Este versículo no nos dice directamente quiénes son los "hijos de Dios". Para definir a los "hijos de Dios", debemos comparar la Escritura con la Escritura. El término "hijos de Dios" se define para nosotros dos veces en el libro de Job. Primero leemos en Job 1: 6:  
+Este versículo no nos dice directamente quiénes son los "hijos de Dios". Para definir a los "hijos de Dios", debemos comparar la Escritura con la Escritura. El término "hijos de Dios" se define para nosotros dos veces en el libro de Job. Primero leemos en Job 1:6:  
   
 
 > "AHORA HABÍA UN DÍA CUANDO LOS HIJOS DE DIOS VINIERON A PRESENTARSE DELANTE DEL SEÑOR, Y SATANÁN VINO TAMBIÉN ENTRE ELLOS."
 
   
-En segundo lugar leemos en Job 38: 4-7:  
+En segundo lugar leemos en Job 38:4-7:  
   
 
 > **"¿Dónde estabas tú cuando yo puse los cimientos de la tierra? Declara, si tienes comprensión. ¿Quién ha puesto las medidas de esto, si tú lo sabes? ¿O quién extendió la línea sobre ella? ¿Sobre qué están fijados los cimientos? O que puso la piedra angular de ella; Cuando las estrellas de la mañana cantaron juntas, y todos los hijos de Dios gritaron de gozo? "**
@@ -69,11 +69,11 @@ Recuerdo cuando me enseñaron esta teoría. Fue antes de que yo supiera algo ace
   
 No podía entender cómo un ser etéreo podría impregnar a una mujer física, así que comencé a preguntar para encontrar la verdad. El problema era que yo estaba confiando en otras personas para mi respuesta en lugar de plantearla directamente con Dios. Cuando dejas a Dios fuera del proceso de interpretación, obtienes malas interpretaciones como lo que me fue dado en la forma de "La Teoría Sethita".  
   
-Hay muchas variaciones, pero la teoría básicamente dice que los "hijos de Dios" mencionados en Génesis 6: 2 no eran ángeles sino descendientes masculinos de Seth. Las "hijas de los hombres" mencionadas en el mismo versículo eran las descendientes de los impíos de Caín.  
+Hay muchas variaciones, pero la teoría básicamente dice que los "hijos de Dios" mencionados en Génesis 6:2 no eran ángeles sino descendientes masculinos de Seth. Las "hijas de los hombres" mencionadas en el mismo versículo eran las descendientes de los impíos de Caín.  
   
 La teoría afirma que los descendientes de Seth se aparearon con los descendientes de Caín y produjeron los "gigantes". Hay desacuerdo en cuanto a lo que significa "gigante" en las personas que se suscriben a esta teoría. Algunos creen que significa **[gigantes reales](http://www.ritualypropaganda.com/2017/03/genetica-angelical-por-que-los-nefilim-son-gigantes.html)**, mientras que otros creen que significa sólo poderosos guerreros humanos. Algunos incluso creen que significa descendencia maligna conectada con el término "semilla de Satanás", de la que se hace referencia desde Génesis 3:15. La verdad, como veremos más adelante, es un poco de los tres.  
   
-El problema con esta teoría es que es completamente no-bíblico. Para hacer que la teoría Sethita encaje, uno tendría que torcer completamente las escrituras, incluso en el hebreo original, que definen ángeles (Job 38: 4-7), gigantes (Génesis 6: 2-4) y el hombre (Génesis 6: 1 - 7). La teoría Sethita apenas no funciona cuando se compara con el resto de la Biblia sin reescribir por completo las escrituras mismas.  
+El problema con esta teoría es que es completamente no-bíblico. Para hacer que la teoría Sethita encaje, uno tendría que torcer completamente las escrituras, incluso en el hebreo original, que definen ángeles (Job 38:4-7), gigantes (Génesis 6:2-4) y el hombre (Génesis 6:1 - 7). La teoría Sethita apenas no funciona cuando se compara con el resto de la Biblia sin reescribir por completo las escrituras mismas.  
   
 Esto es peligroso porque mantiene al creyente alejado de la verdad. Puede hacer que uno busque lo equivocado en la gente tratando de averiguar quién es un descendiente del apareamiento entre la línea de Caín y Seth en vez de mirar su corazón y discernir en su espíritu. Incluso puede llevar al creyente a levantar la teoría Sethita sobre la validez de la Biblia misma.  
   
@@ -84,7 +84,7 @@ Esto es peligroso porque mantiene al creyente alejado de la verdad. Puede hacer 
 
   
 
-Cuando nos fijamos en el relato del Génesis 6, encontramos que fueron ángeles los que vieron a las hijas de los hombres y las tomaron por esposas. Poco después en Génesis 6: 4 leemos:  
+Cuando nos fijamos en el relato del Génesis 6, encontramos que fueron ángeles los que vieron a las hijas de los hombres y las tomaron por esposas. Poco después en Génesis 6:4 leemos:  
   
 
 > "HABÍA GIGANTES EN LA TIERRA EN ESTOS DÍAS; Y TAMBIÉN DESPUÉS, CUANDO LOS HIJOS DE DIOS SE UNIERON A LAS HIJAS DE LOS HOMBRES, Y ELLAS LES DIERON A LUZ HIJOS, ESTOS SON LOS HÉROES DE LA ANTIGUEDAD, HOMBRES DE RENOMBRE."
@@ -100,7 +100,7 @@ Un hecho interesante a conocer es la definición de la palabra hebrea "napal" qu
   
 No estaban caídos en el sentido de que los ángeles que los crearon habían caído. Los ángeles tuvieron una vez un alto estado en el Cielo, desobedecieron a Dios, y luego cayeron. Los Nephilim, por otra parte, habían caído desde el principio. Siempre fueron conocidos como los Nefilim, incluso desde el momento en que nacieron. No eran hombres que fueron creados por primera vez con una esperanza de redención. Nacieron caídos. Fueron hechos para perecer. En un sentido espiritual, estaban muertos en la creación.  
   
-Si bien esto puede parecer duro a primera vista, tenemos que ser conscientes de lo que realmente sucedió y lo que estamos tratando aquí. Cuando Dios creó a Adán, el primer hombre, le inspiró el aliento de vida y Adán se convirtió en alma viviente (Génesis 2: 7). Desde entonces, cada descendiente de Adán ha tenido este componente espiritual en su fisiología, llamado alma, transmitida a ellos. Claramente, esto no sucedió con los Nefilim.  
+Si bien esto puede parecer duro a primera vista, tenemos que ser conscientes de lo que realmente sucedió y lo que estamos tratando aquí. Cuando Dios creó a Adán, el primer hombre, le inspiró el aliento de vida y Adán se convirtió en alma viviente (Génesis 2:7). Desde entonces, cada descendiente de Adán ha tenido este componente espiritual en su fisiología, llamado alma, transmitida a ellos. Claramente, esto no sucedió con los Nefilim.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg48DdmxLOT1k7_5VAMM4cdFC_94nTD0sOyAMwJ-Dms8tPeGcvF7TQI-QrOzbYWgYnCP2vLPJdSDUi_IuLgfIaYfEynre3VAOmORNYlxzdW2reJszdGtmDjWVqVmCjUSRb_lYrzBwcz3-k/s1600/gigantes-nefilim-taman%25CC%2583o.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg48DdmxLOT1k7_5VAMM4cdFC_94nTD0sOyAMwJ-Dms8tPeGcvF7TQI-QrOzbYWgYnCP2vLPJdSDUi_IuLgfIaYfEynre3VAOmORNYlxzdW2reJszdGtmDjWVqVmCjUSRb_lYrzBwcz3-k/s1600/gigantes-nefilim-taman%25CC%2583o.jpg)
@@ -122,13 +122,13 @@ El problema principal habría sido la parte espiritual del ángel mezclándose c
   
 Hay una especulación más que es interesante pensar. Si el alma de Nefilim no tenía la capacidad de tener vida eterna y estaba muerto en la creación, ¿qué pasaría con las almas cuando los Nefilim murieran? Es posible que lo que hoy conocemos como "demonios" sean realmente los espíritus desencarnados de los muertos Nephilim.  
   
-Si las almas y los espíritus de los Nefilim no fueron creados por Dios y no pudieron alcanzar la vida eterna, no tendrían a dónde ir cuando murieran. Según las Escrituras, las almas y los espíritus de los Nefilim muertos no irían inicialmente al Infierno antes de la resurrección y el juicio. Hablando sobre personas no salvas en el juicio, Jesús dice en Mateo 25: 4:  
+Si las almas y los espíritus de los Nefilim no fueron creados por Dios y no pudieron alcanzar la vida eterna, no tendrían a dónde ir cuando murieran. Según las Escrituras, las almas y los espíritus de los Nefilim muertos no irían inicialmente al Infierno antes de la resurrección y el juicio. Hablando sobre personas no salvas en el juicio, Jesús dice en Mateo 25:4:  
 
 >   
 > "ENTONCES LES DIRÁ TAMBIÉN A LOS DE LA MANO IZQUIERDA, ALEJAOS DE MÍ, MALDITOS, AL FUEGO ETERNO, PREPARADO PARA EL DIABLO Y SUS ÁNGELES"
 
   
-Aunque los seres humanos no salvos participan también, el infierno fue creado originalmente para el diablo y sus ángeles. Esto sugeriría que los Nefilim muertos serían maldecidos para permanecer en la Tierra hasta el juicio. Serían lo que hoy llamamos "demonios". Puesto que los ángeles no mueren, sin embargo, los ángeles caídos continuarán existiendo con Satanás que reina como el príncipe del poder del aire hasta el juicio (Efesios 2: 2). Esto demuestra que los demonios y ángeles caídos son completamente diferentes.  
+Aunque los seres humanos no salvos participan también, el infierno fue creado originalmente para el diablo y sus ángeles. Esto sugeriría que los Nefilim muertos serían maldecidos para permanecer en la Tierra hasta el juicio. Serían lo que hoy llamamos "demonios". Puesto que los ángeles no mueren, sin embargo, los ángeles caídos continuarán existiendo con Satanás que reina como el príncipe del poder del aire hasta el juicio (Efesios 2:2). Esto demuestra que los demonios y ángeles caídos son completamente diferentes.  
   
 Esto es sólo especulación, pero miren la naturaleza de los demonios en comparación con los ángeles caídos. Está bien documentado en la Biblia que los demonios (o demonios, espíritus inmundos, etc.) tienen gusto de poseer a gente y tomar el control de sus cuerpos físicos si pueden. Los ángeles caídos, por otro lado, tienen un tipo de cuerpo físico que es muy superior a nuestros cuerpos humanos, como descubriremos un poco más adelante en este capítulo.  
   
@@ -154,7 +154,7 @@ Los ángeles caídos que cometieron este acto que llevó a la creación de los N
   
 Hay un error común con respecto a este versículo. Por lo general, cuando se cita o se explica este versículo, la última parte que dice "... de Dios en el cielo" es dejada de lado. Este versículo se usa a veces para decir que ninguno de los ángeles en la historia han tomado parte en matrimonio. Tal declaración es un error y una mala interpretación.  
   
-Este versículo está explicando un atributo de sólo "los ángeles de Dios en el cielo" y no todos los ángeles. Los ángeles que tomaron parte en la unión impía con las mujeres humanas no son ángeles de Dios ni residen en el Cielo más. Los ángeles que están en el Cielo nunca han cometido este terrible pecado. En épocas pasadas, cuando ciertos ángeles decidieron casarse con mujeres y tener hijos, cayeron del cielo y así se convirtieron en lo que nos referimos como "ángeles caídos". Podemos leer más sobre esto en Judas 1: 6-8. Se lee:  
+Este versículo está explicando un atributo de sólo "los ángeles de Dios en el cielo" y no todos los ángeles. Los ángeles que tomaron parte en la unión impía con las mujeres humanas no son ángeles de Dios ni residen en el Cielo más. Los ángeles que están en el Cielo nunca han cometido este terrible pecado. En épocas pasadas, cuando ciertos ángeles decidieron casarse con mujeres y tener hijos, cayeron del cielo y así se convirtieron en lo que nos referimos como "ángeles caídos". Podemos leer más sobre esto en Judas 1:6-8. Se lee:  
   
 
 > **"Y los ángeles que no guardaron su primer estado, sino que dejaron su propia morada, se le ha reservado cadenas eternas en tinieblas para el juicio del gran día. Así como Sodoma y Gomorra, y las ciudades de ellos de la misma manera, entregándose a la fornicación y tras la carne extraña, son puestos por ejemplo, sufriendo del fuego eterno. Así también estos inmundos soñadores contaminan la carne, desprecian el dominio y hablan mal de las dignidades."**
@@ -166,7 +166,7 @@ Podemos comenzar al principio con las palabras "primer estado". La palabra "prim
   
 Ahora, echemos un vistazo a la siguiente parte del versículo, "... pero dejaron su propia morada...". La palabra "morada" proviene de la palabra griega "oiketerion" y significa una residencia, como una casa familiar. Esto es decir que ciertos ángeles dejaron a su familia celestial (Dios y los otros ángeles) en el Cielo que era su hogar.  
   
-Estos ángeles abandonaron a Dios y a los otros ejércitos celestiales dejando el Cielo y viniendo a la Tierra. Sus acciones en la Tierra condujeron a que ahora estuvieran atados en cadenas y esperando su juicio del fuego eterno. También, si nos fijamos en 2 Corintios 5: 2, Pablo está hablando de ser "... vestido con nuestra morada que es del cielo".  
+Estos ángeles abandonaron a Dios y a los otros ejércitos celestiales dejando el Cielo y viniendo a la Tierra. Sus acciones en la Tierra condujeron a que ahora estuvieran atados en cadenas y esperando su juicio del fuego eterno. También, si nos fijamos en 2 Corintios 5:2, Pablo está hablando de ser "... vestido con nuestra morada que es del cielo".  
   
 Cuando lees todo el capítulo, está claro que la "morada" es otra palabra para un cuerpo. Es posible que los ángeles caídos no sólo abandonaran a Dios y al Cielo, sino que también abandonaran sus cuerpos espirituales celestiales por un tipo de cuerpo físico que pudieran usar para operar dentro de nuestra dimensión física.  
   
@@ -177,7 +177,7 @@ Esto podría estar diciendo que los ángeles caídos fornicaban con carne que er
   
 Hay lugares en la Biblia que mencionan ángeles con la apariencia de hombres e incluso tienen atributos físicos. Jacob luchó con un ángel en Génesis 32:24, que creo que era el Jesús pre encarnado, e incluso Jesús mismo tenía un tipo de cuerpo físico después de que fue resucitado.  
   
-Este cuerpo sería diferente al nuestro, ya que fuimos creados inferiores que los ángeles (Hebreos 2: 7). El cuerpo del ángel sería más poderoso y capaz de hacer cosas que el cuerpo humano no puede. La "carne" del cuerpo del ángel sería diferente de la carne humana. Realmente no sé si "carne" sería incluso una palabra apropiada para describir el cuerpo de un ángel porque es claramente diferente que la carne de un ser humano. Sin embargo, por falta de una mejor palabra, sólo me referiré a ella como un tipo de carne angélica, diferente de la carne humana.  
+Este cuerpo sería diferente al nuestro, ya que fuimos creados inferiores que los ángeles (Hebreos 2:7). El cuerpo del ángel sería más poderoso y capaz de hacer cosas que el cuerpo humano no puede. La "carne" del cuerpo del ángel sería diferente de la carne humana. Realmente no sé si "carne" sería incluso una palabra apropiada para describir el cuerpo de un ángel porque es claramente diferente que la carne de un ser humano. Sin embargo, por falta de una mejor palabra, sólo me referiré a ella como un tipo de carne angélica, diferente de la carne humana.  
   
 
 ## Generaciones y Linajes
@@ -185,7 +185,7 @@ Este cuerpo sería diferente al nuestro, ya que fuimos creados inferiores que lo
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-LOSQYni15oa6GZILyTBWHcabIdZdGQ1T6YETjJqo7lFTLl-o9wSfXKYyZKCm7jjei227NPckJzvrqc4x4Lh8krVaP3MaCDIsSkCCasJ58jBVyDlwKFJ8tCsVVbKqiY8kanOFGF1-jw4/s1600/adn-nephilim.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-LOSQYni15oa6GZILyTBWHcabIdZdGQ1T6YETjJqo7lFTLl-o9wSfXKYyZKCm7jjei227NPckJzvrqc4x4Lh8krVaP3MaCDIsSkCCasJ58jBVyDlwKFJ8tCsVVbKqiY8kanOFGF1-jw4/s1600/adn-nephilim.jpg)
 
   
-Volviendo a donde lo dejamos en Génesis, leemos en Génesis 6: 9 ...  
+Volviendo a donde lo dejamos en Génesis, leemos en Génesis 6:9 ...  
   
 
 > **"Estas son las generaciones de Noé: Noé fue un hombre justo y perfecto en sus generaciones, y Noé caminó con Dios".**
@@ -195,9 +195,9 @@ Lo que es interesante aquí es que hay dos palabras hebreas diferentes usadas pa
   
 La palabra "perfecto" viene de la palabra hebrea "tamim" y significa sin mancha, completa y sin mancha. Volviendo al pasaje de Judas, la palabra para "impuro" también significa corrupto, como en carne corrupta.  
   
-Así que primero Génesis 6: 9 hace mención de los descendientes de Noé, y luego dice que él era un hombre justo, entonces que fue incorrupto en toda su revolución del tiempo. Si sólo Noé era perfecto, entonces por deducción el resto del mundo estaba manchado, o contaminado, o corrompido.  
+Así que primero Génesis 6:9 hace mención de los descendientes de Noé, y luego dice que él era un hombre justo, entonces que fue incorrupto en toda su revolución del tiempo. Si sólo Noé era perfecto, entonces por deducción el resto del mundo estaba manchado, o contaminado, o corrompido.  
   
-En Judas, aprendimos que los ángeles caídos corrompieron la carne humana apareandose con ellos. Parece que Génesis 6: 9 nos está diciendo que en ese tiempo Noé y sus descendientes eran las únicas personas en el mundo que estaban completamente incorruptas.  
+En Judas, aprendimos que los ángeles caídos corrompieron la carne humana apareandose con ellos. Parece que Génesis 6:9 nos está diciendo que en ese tiempo Noé y sus descendientes eran las únicas personas en el mundo que estaban completamente incorruptas.  
   
 El resto del mundo fue corrompido por el apareamiento con los ángeles caídos y los Nefilim. La línea de sangre entera de Noé, todo el camino comenzando con Adán, era completamente pura y perfecta; Significando que nadie en la línea de sangre de Adán a Noé había apareado nunca con un ángel caído o un Nephilim.  
   
@@ -218,7 +218,7 @@ Esta no fue la última vez que Satanás trató de corromper la línea de sangre 
   
 "Y allí vimos a los gigantes, los hijos de Anac, que venían de los gigantes: y nosotros estábamos en nuestra propia vista como saltamontes, y así estábamos en su presencia".  
   
-Otro ejemplo se puede encontrar en Amós 2: 9, que dice ...
+Otro ejemplo se puede encontrar en Amós 2:9, que dice ...
 
   
 "Y destruí a los amorreos delante de ellos, cuya altura era como la altura de los cedros, y eran fuerte como los robles; Pero destruí su fruto de arriba, y sus raíces de abajo ".  
@@ -229,7 +229,7 @@ La primera teoría afirma que los ángeles caídos se aparearon de nuevo con muj
   
 La segunda teoría afirma que no fueron los ángeles caídos los que provocaron la segunda afluencia de los Nephilim, sino que pudieron tener algo que ver con los genes corruptos que sobrevivieron en el arca. Conocemos dos cosas sobre el mundo previo a la inundación en relación con la segunda afluencia de Nephilim.  
   
-Primero, Noé era puro en todas sus generaciones (Génesis 6: 9). Segundo, todo el resto de la humanidad fue corrompido (Génesis 6:12). Esto significaría que Noé y sus tres hijos hubieran sido puros, pero, siendo que toda la otra carne estaba corrompida, las esposas de los hijos de Noé quizás no habrían sido puras. Una o más de las esposas podrían haber llevado el gen Nephilim.
+Primero, Noé era puro en todas sus generaciones (Génesis 6:9). Segundo, todo el resto de la humanidad fue corrompido (Génesis 6:12). Esto significaría que Noé y sus tres hijos hubieran sido puros, pero, siendo que toda la otra carne estaba corrompida, las esposas de los hijos de Noé quizás no habrían sido puras. Una o más de las esposas podrían haber llevado el gen Nephilim.
 
   
 
@@ -244,13 +244,13 @@ Creo que es totalmente más probable que el propósito de la inundación fue pre
   
 Dios sólo necesitaría a uno de los hijos de Noé para producir una línea de sangre limpia. Esto significa que Dios sólo habría necesitado una línea de sangre de los muchos descendientes de Noé para estar libre del gen Nephilim. Es posible que Ham, el hijo de Noé, tuviera una esposa que llevara este gen Nephilim.  
   
-Es posible que el gen Nephilim se presentara en Canaán, el hijo de Ham. Esto podría ayudar a explicar por qué Noé maldijo a Canaán en lugar de Ham en Génesis 9: 25-27. Además, cuando leemos la genealogía de Canaán, leemos que Canaán engendró a los amorreos (Génesis 10:15). Una vez más, en Amós 2: 9, leemos...  
+Es posible que el gen Nephilim se presentara en Canaán, el hijo de Ham. Esto podría ayudar a explicar por qué Noé maldijo a Canaán en lugar de Ham en Génesis 9:25-27. Además, cuando leemos la genealogía de Canaán, leemos que Canaán engendró a los amorreos (Génesis 10:15). Una vez más, en Amós 2:9, leemos...  
   
 
 > **"Y destruí a los amorreos delante de ellos, cuya altura era como la altura de los cedros, y era fuerte como los robles; Pero destruí su fruto de arriba, y sus raíces de abajo ".**
 
   
-También vemos conexiones del hijo de Ham, Canaán, en Números 13: 28-29 que dice ...  
+También vemos conexiones del hijo de Ham, Canaán, en Números 13:28-29 que dice ...  
 
 > **"Sin embargo, el pueblo es fuerte que habitan en la tierra, y las ciudades están amuralladas, y muy grande; y además vimos allí a los hijos de Anac. Los amalecitas habitan en la tierra del mediodía; los hititas, los jebuseos y los amorreos habitan en los montes; y los cananeos habitan junto al mar y en la costa del Jordán.**
 
@@ -269,9 +269,9 @@ Esas son las dos teorías sobre el origen de la segunda afluencia de los Nefilim
   
 Creo que ambos tienen pie igual como posibilidades válidas, pero parece que la teoría del gen Nephilim tiene más evidencia que lo apoya. Esta es una de esas cosas que debemos investigar para llegar a nuestras propias conclusiones acerca de qué teoría queremos creer y apoyar.  
   
-En cualquier caso, parece posible que Satanás y sus secuaces estuvieran tratando de corromper la línea de sangre mesiánica nuevamente a través de la segunda afluencia de los Nefilim. Creo que esto es por lo que, al menos en parte, Dios dio reglas tan estrictas con respecto al pueblo judío que no se casara fuera de su propio pueblo (Deuteronomio 7: 1-6).  
+En cualquier caso, parece posible que Satanás y sus secuaces estuvieran tratando de corromper la línea de sangre mesiánica nuevamente a través de la segunda afluencia de los Nefilim. Creo que esto es por lo que, al menos en parte, Dios dio reglas tan estrictas con respecto al pueblo judío que no se casara fuera de su propio pueblo (Deuteronomio 7:1-6).  
   
-Las tierras circundantes tenían Nefilim y Dios no quería que la sangre mesiánica se contaminara con la corrupción original de los ángeles caídos. Los Nefilim no eran humanos y no tenían nada bueno en ellos. Sirvieron a dioses falsos (que podrían haber sido los mismos ángeles caídos) e incluso pelearon contra el único Dios vivo (1 Samuel 17: 23-58).  
+Las tierras circundantes tenían Nefilim y Dios no quería que la sangre mesiánica se contaminara con la corrupción original de los ángeles caídos. Los Nefilim no eran humanos y no tenían nada bueno en ellos. Sirvieron a dioses falsos (que podrían haber sido los mismos ángeles caídos) e incluso pelearon contra el único Dios vivo (1 Samuel 17:23-58).  
   
 Está claro que, puesto que no tenían un alma humana con la posibilidad de redención, los Nefilim eran abominaciones sin alma que necesitaban ser destruidos. Esto se evidencia más cuando leemos el relato de Jericó. En Josué 6:21 leemos...  
   
@@ -283,13 +283,13 @@ Las únicas personas salvadas de Josué y su ejército fueron Rahab y su familia
   
 La fe que Rahab mostró y sus acciones nunca habrían tenido lugar si ella hubiera sido de los Nephilim. Creo que así es como Josué y su ejército sabían que toda su familia era digna de ser salvos. La línea de sangre de Rahab no debe de haber sido corrompida por los Nefilim. Si lo fuera, nunca habrían ayudado a Josué contra Jericó.  
   
-Otra cosa interesante a considerar es el hecho de que Dios ordenó a Josué y su ejército destruir todos los animales también. Leemos en Génesis 6: 12-13 que toda carne fue corrompida. Lo único que podía causar este tipo de corrupción eran los ángeles caídos. Siendo que dice "toda carne", esto tendría que incluir tanto a los animales como a los seres humanos. Es posible que los ángeles caídos hicieron algo a los animales que corrompieron su línea de sangre también.  
+Otra cosa interesante a considerar es el hecho de que Dios ordenó a Josué y su ejército destruir todos los animales también. Leemos en Génesis 6:12-13 que toda carne fue corrompida. Lo único que podía causar este tipo de corrupción eran los ángeles caídos. Siendo que dice "toda carne", esto tendría que incluir tanto a los animales como a los seres humanos. Es posible que los ángeles caídos hicieron algo a los animales que corrompieron su línea de sangre también.  
   
 No estoy sugiriendo que la bestialidad ocurrió. Creo que es más probable que algún tipo de manipulación de genes y la manipulación del ADN se produjo. No tenemos idea de las tecnologías que los ángeles caídos tenían a su disposición (para más información, consulte el capítulo titulado "Las Profecías de Ezequiel" en mi libro Desclasificación).  
   
-Con todas las antiguas leyendas y mitos de los híbridos humanos / animales en todo el mundo, como en la mitología griega, creo que  es posible que algo hubiera podido ocurrir para crear otras abominaciones. Los ángeles caídos no pueden haberse detenido con los Nefilim. Pueden haber intentado crear otros híbridos.  
+Con todas las antiguas leyendas y mitos de los híbridos humanos / animales en todo el mundo, como en la mitología griega, creo que  es posible que algo hubiera podido ocurrir para crear otras abominaciones. Los ángeles caídos no pueden haberse detenido con los Nefilim. Pueden haber intentado crear otros híbridos.  
   
-No debería ser demasiado difícil aceptar la posibilidad porque hay científicos en todo el mundo haciendo lo mismo hoy en día. Como dice en Eclesiastés 1: 9-10 ...  
+No debería ser demasiado difícil aceptar la posibilidad porque hay científicos en todo el mundo haciendo lo mismo hoy en día. Como dice en Eclesiastés 1:9-10 ...  
   
 
 > **"Lo que ha sido, es lo que será; Y lo que se hace es lo que se hará; y no hay cosa nueva bajo el sol. ¿Hay algo de lo que se pueda decir, ves, esto es nuevo? Ya ha sido de antaño, lo que estaba delante de nosotros ".**
@@ -311,17 +311,17 @@ Creo que esta es la razón por la cual se ordenó a Josué que destruyera a todo
   
 Sabemos que hubo una afluencia original de Nephilim antes de que la inundación mundial los destruyera a todos. Sabemos que hubo una segunda afluencia después de la inundación. ¿Es posible que haya una tercera afluencia de Nephilim y, de ser así, podríamos estar viéndolo en nuestros tiempos?  
   
-En Lucas 17: 26-30, Jesús dijo que los últimos días serían como los días de Noé y Lot, y entonces Él enumeró algunos ejemplos. El punto principal que Jesús está tratando aquí es que el mundo no verá su venida hasta que suceda. La gente del mundo no lo esperará.  
+En Lucas 17:26-30, Jesús dijo que los últimos días serían como los días de Noé y Lot, y entonces Él enumeró algunos ejemplos. El punto principal que Jesús está tratando aquí es que el mundo no verá su venida hasta que suceda. La gente del mundo no lo esperará.  
   
 Para aquellos que no se mantienen vigilantes y no espiritualmente preparados para ello, para cuando Él regrese, será demasiado tarde. Su destino será sellado. Si bien esta es una enseñanza muy clara y directa, creo que es posible que haya una verdad escondida, o una indirecta, encontrada dentro de este pasaje concerniente a la profecía del tiempo del fin.  
   
-De todos los juicios inesperados de Dios que Jesús pudo escoger, usó los días de Noé y Lot como sus ejemplos. Sabemos que los días de Noé fueron únicos debido a la presencia de los Nefilim. Leemos en 2 Pedro 2: 4-7 ...  
+De todos los juicios inesperados de Dios que Jesús pudo escoger, usó los días de Noé y Lot como sus ejemplos. Sabemos que los días de Noé fueron únicos debido a la presencia de los Nefilim. Leemos en 2 Pedro 2:4-7 ...  
   
 
 > **"Porque si Dios no perdonó a los ángeles que pecaron, sino que los arrojó al infierno y los entregó en cadenas de tinieblas, para ser reservados para el juicio; Y no perdonó al viejo mundo, sino que salvó a Noé, la octava persona, predicadora de la justicia, trayendo el diluvio sobre el mundo de los impíos; Y convirtiendo las ciudades de Sodoma y Gomorra en cenizas, las condenó con derrocamiento, haciéndolas un ejemplo para los que despues de vivir perversamente; Entregaron solo a Lot, irritado con la inmunda conversación de los impíos"**
 
   
-Vemos mucha similitud cuando asociamos este pasaje con el pasaje de Judas 1: 6-8 descrito anteriormente. Aquí está hablando de Noé y Lot. Este pasaje, como Judas 1: 6-8, comienza con hablar de los ángeles que pecaron. Incluso los llama ejemplos. Creo que es posible que Jesús usó los días de Noé y Lot para describir los últimos días a causa de los Nefilim y estos dos pasajes se pueden usar para respaldarlo.  
+Vemos mucha similitud cuando asociamos este pasaje con el pasaje de Judas 1:6-8 descrito anteriormente. Aquí está hablando de Noé y Lot. Este pasaje, como Judas 1:6-8, comienza con hablar de los ángeles que pecaron. Incluso los llama ejemplos. Creo que es posible que Jesús usó los días de Noé y Lot para describir los últimos días a causa de los Nefilim y estos dos pasajes se pueden usar para respaldarlo.  
   
 Considera también que en el relato de Lot, independiente de si lo sabían o no, la gente de Sodoma estaba tratando de tener relaciones sexuales con ángeles. Pueden haber visto a los ángeles que fueron enviados a Lot como simples hombres mortales, pero las Escrituras no son completamente claras. De cualquier manera si lo analizamos, el hecho es que eran ángeles y la gente de Sodoma estaba tratando de tener relaciones sexuales con ellos.  
   
@@ -366,22 +366,22 @@ Por más loco que parezca, si algo así sucediera, no pasaría mucho tiempo ante
 
 ## Conclusión
 
-Sabemos que Satanás es el príncipe del poder del aire (Efesios 2: 2). Sabemos que vendrá con señales y prodigios mentirosos, y a los que le creerán, Dios enviará una fuerte ilusión (2 Tesalonicenses 2: 7-11). Sabemos que los corazones de los hombres le fallarán por lo que verán en el cielo (Lucas 21:26) y que, si es posible, hasta los mismos elegidos podrían ser engañados (Mateo 24: 22-24).  
+Sabemos que Satanás es el príncipe del poder del aire (Efesios 2:2). Sabemos que vendrá con señales y prodigios mentirosos, y a los que le creerán, Dios enviará una fuerte ilusión (2 Tesalonicenses 2:7-11). Sabemos que los corazones de los hombres le fallarán por lo que verán en el cielo (Lucas 21:26) y que, si es posible, hasta los mismos elegidos podrían ser engañados (Mateo 24:22-24).  
   
 ¿Hay algo realmente más allá de Satanás, sus ángeles y su mal combinado? ¿Hay algun límite al que no iría para engañar a la humanidad? ¿Conocemos el límite de su poder?  
   
-Lo bueno de todo esto independientemente de como termine, que servimos a un Dios mucho más poderoso que cualquier otra cosa. No nos es dado un espíritu de temor, sino de poder, amor y dominio propio (2 Timoteo 1: 7). Es posible que no conozcamos todos los detalles de la verdad que nos espera en el futuro, pero Dios sí, y mientras tengamos una buena posición con Él a través de Jesús, no tenemos nada que temer.  
+Lo bueno de todo esto independientemente de como termine, que servimos a un Dios mucho más poderoso que cualquier otra cosa. No nos es dado un espíritu de temor, sino de poder, amor y dominio propio (2 Timoteo 1:7). Es posible que no conozcamos todos los detalles de la verdad que nos espera en el futuro, pero Dios sí, y mientras tengamos una buena posición con Él a través de Jesús, no tenemos nada que temer.  
   
-Somos salvos y Satanás no tiene ningún poder sobre nosotros. Tenemos comodidad en el hecho de que, pase lo que pase, estamos a salvo. Incluso cuando morimos, estamos a salvo. Dios nos tiene y nada nos puede quitar de sus manos (Juan 10: 27-30 y Romanos 8: 37-39). Nunca tenemos que tener miedo.  
+Somos salvos y Satanás no tiene ningún poder sobre nosotros. Tenemos comodidad en el hecho de que, pase lo que pase, estamos a salvo. Incluso cuando morimos, estamos a salvo. Dios nos tiene y nada nos puede quitar de sus manos (Juan 10:27-30 y Romanos 8:37-39). Nunca tenemos que tener miedo.  
   
 Puesto que ninguno de nosotros sabe el futuro completo, es importante para nosotros mantener una mente abierta en teorías como esta. He estado estudiando la profecía de la Biblia durante años y todavía no sé en absoluta seguridad qué sucederá. Tengo mis creencias, y encuentro que continúo aprendiendo, siempre suceden cosas diferentes.  
   
-Si hay una contradicción entre una teoría y la escritura, usted tiene que desechar esa teoría y encontrar una nueva, a menos que usted esté dispuesto a abandonar la verdad para tener una historia interesante. Sea inteligente, tenga una base sólida en la Biblia y conozca a Dios lo mejor que pueda. Si te acercas a Él primero, Él se acercará a ti (Santiago 4: 8).  
+Si hay una contradicción entre una teoría y la escritura, usted tiene que desechar esa teoría y encontrar una nueva, a menos que usted esté dispuesto a abandonar la verdad para tener una historia interesante. Sea inteligente, tenga una base sólida en la Biblia y conozca a Dios lo mejor que pueda. Si te acercas a Él primero, Él se acercará a ti (Santiago 4:8).  
   
 En cualquier búsqueda de la verdad, haga su propia investigación, pruebe lo que está aprendiendo y póngalo en contraste con la Biblia, y lo más importante, siga la dirección de Dios. Él tiene un camino para ustedes, y Su camino siempre conducirá a la verdad.  
 
 Referencias  
   
-1: [http://www.dailymail.co.uk/sciencetech/article-2017818/Embryos-involving-genes-animals-mixed-humans-produced-secretively-past-years.html](http://www.dailymail.co.uk/sciencetech/article-2017818/Embryos-involving-genes-animals-mixed-humans-produced-secretively-past-years.html)  
+1: [http://www.dailymail.co.uk/sciencetech/article-2017818/Embryos-involving-genes-animals-mixed-humans-produced-secretively-past-years.html](http://www.dailymail.co.uk/sciencetech/article-2017818/Embryos-involving-genes-animals-mixed-humans-produced-secretively-past-years.html)  
   
-2: [http://ligerliger.com/](http://ligerliger.com/)
+2: [http://ligerliger.com/](http://ligerliger.com/)

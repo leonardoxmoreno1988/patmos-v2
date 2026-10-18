@@ -19,7 +19,7 @@ tags: ["Sociedad"]
 
 > **"El más grande, pero más terrible momento en la vida de un masón... Los tres funcionarios supremos de la logia, con tres llaves separadas, desbloquean la caja de madera con el "secreto de los secretos" y le dan a leer una hoja de papel, sobre el que está escrito el nombre de "Dios", el cuál es... JAH-BUL-ON."\- D.C. Yermak**
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 
 ## El eje de la muerte
@@ -32,14 +32,14 @@ Su queja es típica:
 > **"¿Cómo se atreve a decir esas cosas acerca de la Masonería! Tiene que saber que soy cristiano, y no hay nada en las logias o en sus rituales que no sería aceptable para mi fe cristiana."**
 
   
-Por supuesto, es súper fácil, casi como quitarle el dulce a un niño, el desengañar al llorón y quejoso mason que grita que usted o yo hemos calumniado a los masones, negando los "atributos cristianos" de su orden. Después de todo, hay decenas de puntos que pueden dar ese golpe a la tonta idea de que la logia masónica o los grupos similares son ni siquiera vagamente "cristianos" en la naturaleza. Sin embargo, la forma más fácil de manejar una reclamación de este tipo es preguntarle al mason si ha alcanzado el nivel ritual Mason del Real Arco o su equivalente (grado 13 en el Rito Escocés). Si responde "sí", entonces él está en un gran problema.  
+Por supuesto, es súper fácil, casi como quitarle el dulce a un niño, el desengañar al llorón y quejoso mason que grita que usted o yo hemos calumniado a los masones, negando los "atributos cristianos" de su orden. Después de todo, hay decenas de puntos que pueden dar ese golpe a la tonta idea de que la logia masónica o los grupos similares son ni siquiera vagamente "cristianos" en la naturaleza. Sin embargo, la forma más fácil de manejar una reclamación de este tipo es preguntarle al mason si ha alcanzado el nivel ritual Mason del Real Arco o su equivalente (grado 13 en el Rito Escocés). Si responde "sí", entonces él está en un gran problema.  
   
 
 ## ¿Qué pasa con Jahbuhlun?
 
 Entonces le pregunté por el nombre de su sagrado dios revelado en el ritual grado del Real Arco; es decir, le pregunté por Jahbuhlun. Y por lo general, puedo oír ya sea un tartamudeo largo e ininterrumpido, o de lo contrario simplemente un gran jadeo. En general, esto termina la discusión allí mismo. Un mason definitivamente no quiere hablar públicamente sobre ese nombre, Jahbuhlun. Todo menos eso. Bamm! El se va. Y puedo entender por qué.  
   
-Ed Decker, un amigo mío, que es un ex-mason y ex-mormón, ahora dirige un ministerio cristiano destinado a ayudar a los hombres que salen de estos cultos. En un libro de Ed, titulado, _El Lado Oscuro de la Masonería_, se menciona que el Mason no está en conocimiento del sagrado nombre de su dios y luego tardíamente descubre que el nombre de esta deidad definitivamente no es Jesús, el nombre ante todo nombre (Filipenses 2: 9-11).  
+Ed Decker, un amigo mío, que es un ex-mason y ex-mormón, ahora dirige un ministerio cristiano destinado a ayudar a los hombres que salen de estos cultos. En un libro de Ed, titulado, _El Lado Oscuro de la Masonería_, se menciona que el Mason no está en conocimiento del sagrado nombre de su dios y luego tardíamente descubre que el nombre de esta deidad definitivamente no es Jesús, el nombre ante todo nombre (Filipenses 2:9-11).  
   
 
 ## El Nombre de Perdido de Dios
@@ -48,15 +48,15 @@ A los masones de la logia azul, que abarcan los tres primeros grados de la Mason
   
 Ellos encuentran que el sagrado nombre (masónico) de Dios se compone de tres nombres que representan las tres identidades de Dios. Es tan sagrado que se necesitan tres masones reales del arco para poder pronunciarlo ...Jahbuhlun. Tres masones con el signo de la garra cantan, "Jah-buh-lun, Jah-buh-lun, Jah-buh-lun, Je-hov-ah".  
   
-El nombre Jahbuhlun tiene tres sílabas que representan a un Dios compuesto y formado por tres deidades subordinadas. El material masónico identifica los tres como Yah (o Yahvé), Baal, y Osiris. Lógicamente, el nombre debe escribirse Yah-Baal-On, pero el _Ritual Masónico Y Monitor_ de Duncan admite que en los últimos años la ortografía se ha "corrompido" por la masonería hasta alcanzar su actual forma. **(1)**  
+El nombre Jahbuhlun tiene tres sílabas que representan a un Dios compuesto y formado por tres deidades subordinadas. El material masónico identifica los tres como Yah (o Yahvé), Baal, y Osiris. Lógicamente, el nombre debe escribirse Yah-Baal-On, pero el _Ritual Masónico Y Monitor_ de Duncan admite que en los últimos años la ortografía se ha "corrompido" por la masonería hasta alcanzar su actual forma. **(1)**  
   
 Decker afirma correctamente que,  
   
 "Lo que estos hombres están haciendo es adorar a un demonio tan lejano del Dios real que este culto seguramente debe contaminar la santidad de Dios y garantizar que los que pronuncian ese nombre en una ceremonia den un paseo rápido al infierno..." **(2)**  
   
-C.C Zain, un masón que es parte de un grupo llamado "La Hermandad de la Luz", es desarrollador y autor de un curso completo en Masonería Antigua que tiene que ver con "el significado espiritual de los rituales masónicos, títulos y símbolos." Zain señala que  Jahbuhlun es _La gran palabra que todo lo crea_, el nombre de su deidad omnipotente. Se muestra, además, la importancia del hecho de que el nombre Jahbuhlun tiene nueve letras y se compone de tres sílabas, Jah, buh, lun. En el ritual para el grado de Real Arco, ya que hay tres masones reales del arco pronunciando el nombre tres veces cada uno, en total, dice Zain, veintisiete sílabas se pronuncian. Esto, representa "los veintisiete días que tarda la luna para pasar a través del círculo de los signos zodiacales." **(3)**  
+C.C Zain, un masón que es parte de un grupo llamado "La Hermandad de la Luz", es desarrollador y autor de un curso completo en Masonería Antigua que tiene que ver con "el significado espiritual de los rituales masónicos, títulos y símbolos." Zain señala que  Jahbuhlun es _La gran palabra que todo lo crea_, el nombre de su deidad omnipotente. Se muestra, además, la importancia del hecho de que el nombre Jahbuhlun tiene nueve letras y se compone de tres sílabas, Jah, buh, lun. En el ritual para el grado de Real Arco, ya que hay tres masones reales del arco pronunciando el nombre tres veces cada uno, en total, dice Zain, veintisiete sílabas se pronuncian. Esto, representa "los veintisiete días que tarda la luna para pasar a través del círculo de los signos zodiacales." **(3)**  
   
-Curiosamente, en el drama ritual, se dice que los tres masones que pronuncian la palabra Jahbuhlun! han llegado de Babilonia. Por lo tanto, tenemos un grado ritual —el número 13 en el Rito Escocés y el 7 en el rito de York— en la que tres "maestros" volvieron de Babilonia para instruir al candidato sobre la manera de construir el Arco Real (simbólicamente, la forma de reconstruir el templo judío en Jerusalén y así establecer el reino de la élite y su diablo/dios en la tierra).  
+Curiosamente, en el drama ritual, se dice que los tres masones que pronuncian la palabra Jahbuhlun! han llegado de Babilonia. Por lo tanto, tenemos un grado ritual —el número 13 en el Rito Escocés y el 7 en el rito de York— en la que tres "maestros" volvieron de Babilonia para instruir al candidato sobre la manera de construir el Arco Real (simbólicamente, la forma de reconstruir el templo judío en Jerusalén y así establecer el reino de la élite y su diablo/dios en la tierra).  
   
 
 ## La palabra perdida y encontrada
@@ -64,7 +64,7 @@ Curiosamente, en el drama ritual, se dice que los tres masones que pronuncian la
   
 Por otra parte, los tres mensajeros de Babilonia informan al candidato que el verdadero nombre de Dios, el nombre que se había perdido durante tanto tiempo, no es Jesús, sino Jahbuhlun. Se omite convenientemente el hecho de que este es, de hecho, el nombre de una monstruoso dios diabólico, y que el nombre es en realidad un compuesto profano y blasfemo de Yahvéh, Baal, y Osiris, u On.  
   
-(On es una ciudad en Egipto, acusada de haber comenzado el culto al Dios Sol, Osiris, De alguna manera, muchos en la masonería hoy dan honor y reverencia a Osiris bajo el nombre de On, el nombre de su ciudad, curiosamente deletreado Un en el nombre: Jahbuhlun).  
+(On es una ciudad en Egipto, acusada de haber comenzado el culto al Dios Sol, Osiris, De alguna manera, muchos en la masonería hoy dan honor y reverencia a Osiris bajo el nombre de On, el nombre de su ciudad, curiosamente deletreado Un en el nombre: Jahbuhlun).  
   
 No es de extrañar que la autoridad masónica W. L. Wilmshurst, en su bien considerado libro (por los masones) _El significado de la Masonería_, proclama este grado muy vital para la transformación de la vida del candidato. Incluso se sugiere que en la consecución de este grado, uno "exhibe la consecución de un nuevo orden de la vida." **(4)**  
   
@@ -77,7 +77,7 @@ El grado del Arco Real, hace hincapié en que Wilmshurst ofrece "un sumamente al
   
 Al aceptar al diablo dios Jahbuhlun como el sagrado nombre de Dios, el hombre que llega a este nivel en la masonería o una secta semejante es poseído por un demonio, lleno de este, se dirige hacia el infierno, preparado para hacer las obras más malvadas y posibles por su oculta deidad, Baphomet, también conocido como Lucifer, también conocido como Satanás, también conocido como Jahbuhlun.  
   
-Ahora, un nuevo y fatal símbolo (que termina en la muerte espiritual) se enseña en este grado y es el que usted encontrará en las fotografías de este capítulo. Cabe destacar que sólo suelen verse iniciados y adeptos de más alto nivel dando esta señal; y a su vez, mostrándose como discípulos poseídos de Satanás. A esto le llamo _la mano oculta de los hombres de Jahbuhlun_.  
+Ahora, un nuevo y fatal símbolo (que termina en la muerte espiritual) se enseña en este grado y es el que usted encontrará en las fotografías de este capítulo. Cabe destacar que sólo suelen verse iniciados y adeptos de más alto nivel dando esta señal; y a su vez, mostrándose como discípulos poseídos de Satanás. A esto le llamo _la mano oculta de los hombres de Jahbuhlun_.  
   
 
 ## Desde Washington hasta Rothschild
@@ -123,7 +123,7 @@ En otras palabras, en el ritual de este grado el masón no sólo ha reconocido a
 
 Ahora ves por qué he titulado este capítulo, "La mano oculta de los Hombres de Jahbuhlun."  
   
-En los primeros grados, el masón se le dice que el nombre de Dios se ha perdido. Él incluso dijo que se debe utilizar un nombre sustituto de Dios, MAHABONE. Pero más tarde, después de que ha tragado todo la estafa de ritual tras ritual, al engañado y propagandeado iniciado se le dice finalmente  que se conoce con el nombre de Jahbuhlun y que ahora está listo para declararse a sí mismo, un simple hombre, como el gran YO SOY.  
+En los primeros grados, el masón se le dice que el nombre de Dios se ha perdido. Él incluso dijo que se debe utilizar un nombre sustituto de Dios, MAHABONE. Pero más tarde, después de que ha tragado todo la estafa de ritual tras ritual, al engañado y propagandeado iniciado se le dice finalmente  que se conoce con el nombre de Jahbuhlun y que ahora está listo para declararse a sí mismo, un simple hombre, como el gran YO SOY.  
   
 Obviamente, la élite masónica de los Illuminati no quieren que el público en general sepa de estas cosas terribles. Después de todo, increíblemente, la imagen pública de la masonería es que es una especie de grupo "cristiano". Por lo tanto, la pretensión debe mantenerse y los secretos alejados de las masas "vulgares y profanas"(usted y yo, querido lector).  
   
@@ -183,7 +183,7 @@ Este es el recorte del Capítulo (Logia) para el ritual del Maestro Super-Excele
 
   
 
-Una vez más, encontramos al Capitán de la Guardia que da la señal de "mano escondida" (oficialmente la señal del Maestro del Segundo Velo). Esta vez durante el ritual para el grado de Orden de los Caballeros Templarios. El altar de forma triangular con el emblema del ataúd y con  cráneo y huesos es revelador.
+Una vez más, encontramos al Capitán de la Guardia que da la señal de "mano escondida" (oficialmente la señal del Maestro del Segundo Velo). Esta vez durante el ritual para el grado de Orden de los Caballeros Templarios. El altar de forma triangular con el emblema del ataúd y con  cráneo y huesos es revelador.
 
   
 
@@ -210,7 +210,7 @@ George Washington en una pose masónica. Alrededor de su cuello está el emblema
   
 
   
-El Marqués de Lafayette de Francia presentó a George Washington con este delantal masónico que ahora se conserva en la biblioteca de la Gran Logia de Pennsylvania, en Filadelfia. Contiene muchos símbolos ocultistas, el significado de lo que presumiblemente está reservado para los hermanos masones de nivel superior. Muchos, sin embargo, son expuestos ​​y se explican en este libro, para disgusto, estoy seguro, de la hermandad masónica.  
+El Marqués de Lafayette de Francia presentó a George Washington con este delantal masónico que ahora se conserva en la biblioteca de la Gran Logia de Pennsylvania, en Filadelfia. Contiene muchos símbolos ocultistas, el significado de lo que presumiblemente está reservado para los hermanos masones de nivel superior. Muchos, sin embargo, son expuestos y se explican en este libro, para disgusto, estoy seguro, de la hermandad masónica.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAtCDENUSCVBfrLJz_Ab2wuI2q-Ew4cJbeK0awToTNYxTker48GulcjnyM-OayDFi0XRQnvxIhDUpkrKMoTycXmiPzud4dPp2AE5vIW_hpRasGtABc1HyCSpf41HY15bEnQZhKUScWimA/s1600/emblema-orden-cincinnati.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAtCDENUSCVBfrLJz_Ab2wuI2q-Ew4cJbeK0awToTNYxTker48GulcjnyM-OayDFi0XRQnvxIhDUpkrKMoTycXmiPzud4dPp2AE5vIW_hpRasGtABc1HyCSpf41HY15bEnQZhKUScWimA/s1600/emblema-orden-cincinnati.jpg)
@@ -476,7 +476,7 @@ En el libro, el investigador McCarty incluye esta foto del cardenal Antonelli, s
 
   
 
-Orígenes (185-254 dC) es a menudo llamado un "padre de la iglesia temprana." Pero, de hecho, Orígenes trajo muchas herejías, incluyendo el gnosticismo (ideología iluminista) a la Iglesia.  
+Orígenes (185-254 d. C.) es a menudo llamado un "padre de la iglesia temprana." Pero, de hecho, Orígenes trajo muchas herejías, incluyendo el gnosticismo (ideología iluminista) a la Iglesia.  
   
 Orígenes, un erudito muy citado, procedía de Alejandría, Egipto, que nos da otra pista a sus filosofías heréticas. En esta pluma y tinta que revela el dibujo, parece que la mano izquierda de Orígenes está demostrando el signo misterioso de una antigua sociedad secreta.  
   

@@ -20,7 +20,7 @@ tags: ["Sociedad"]
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Así es como el diccionario Webster define estas palabras:  
   
@@ -30,7 +30,7 @@ Personalidad psicopática:
 2\. Una persona que tiene una personalidad psicopática.  
 
   
-Megalomanía: 
+Megalomanía: 
 
   
 1\. Una manía de presentar un rendimiento grandioso.  
@@ -51,7 +51,7 @@ Frustrar la ambición desenfrenada del psicópata puede disparar sus actos de fo
 William Krasner, en un artículo camino de 1946, titulada _Neurotica_, advirtió de los peligros que acechan a las sociedades que caen en las garras del psicópata criminal. El escribio:  
   
 
-> **"El psicópata es un parásito de influencia inmoral. Cualquier grupo, si bien puede apoyar por diversas razones e incluso honrar** a**l psicópata... en proporción directa a la medida en que el psicópata es tolerado, sus se actitudes encuentran apoyadas en el patrón de la cultura, en esa medida, se trata de una sociedad poco saludable" (2)**
+> **"El psicópata es un parásito de influencia inmoral. Cualquier grupo, si bien puede apoyar por diversas razones e incluso honrar** a**l psicópata... en proporción directa a la medida en que el psicópata es tolerado, sus se actitudes encuentran apoyadas en el patrón de la cultura, en esa medida, se trata de una sociedad poco saludable" (2)**
 
   
 Trágicamente, América en realidad se ha convertido en un refugio para los psicópatas peligrosos con trastornos mentales. El [Consejo de Relaciones Exteriores](http://www.bibliotecapleyades.net/esp_sociopol_cfr.htm), una organización iluminista, cuyos 3.000 miembros ejecutan casi todas las facetas de nuestro gobierno federal, sobre todo al nivel oficial más alto, es sin duda poblado en su mayoría por psicópatas.  
@@ -61,18 +61,18 @@ La Orden Masónica en el U.S.A. tiene unos dos millones de iniciados que han sid
 
 ## Mentirosos y engañadores
 
-Los psicópatas son mentirosos empedernidos y engañadores. De hecho, ellos se encuentran en una escala orwelliana. Si se enfrentan a una situación en la que la veracidad y la verdad son requisito previo, estos hombres que dirigen el gobierno federal de los Estados Unidos o que asistan como directores generales de las principales instituciones y corporaciones financieras de este país, tienen el  "talento" psicopático de mirar a la ciudadanía en la cara e insistirles que, "dos más dos no son cuatro."  
+Los psicópatas son mentirosos empedernidos y engañadores. De hecho, ellos se encuentran en una escala orwelliana. Si se enfrentan a una situación en la que la veracidad y la verdad son requisito previo, estos hombres que dirigen el gobierno federal de los Estados Unidos o que asistan como directores generales de las principales instituciones y corporaciones financieras de este país, tienen el  "talento" psicopático de mirar a la ciudadanía en la cara e insistirles que, "dos más dos no son cuatro."  
   
-Al ser engañadores y profesionales de la brujería, los psicópatas que conducen el círculo interior de los Illuminati son más que capaces de estar ante las cámaras y ejecutar un ritual oculto de magia ante nuestros propios ojos, fingiendo todo el tiempo que simplemente están actuando normal, como de costumbre. Se ha dicho que si uno realmente quiere ocultar un gran secreto, debe ocultarlo de la vista. Pues bien, esta máxima se aplica ciertamente a la desordenada, pero de alguna manera ilógica, manera de actuar de los hombres iluministas. No es racional ver lo que estos hombres hacen en público, sin embargo, lo hacen y esperan salirse con la suya. ¡Y logran salirse con la suya! O por lo menos, lo hacian antes de que libros como este fueran publicados para revelar su guión y  su comportamiento indebido ritual.  
+Al ser engañadores y profesionales de la brujería, los psicópatas que conducen el círculo interior de los Illuminati son más que capaces de estar ante las cámaras y ejecutar un ritual oculto de magia ante nuestros propios ojos, fingiendo todo el tiempo que simplemente están actuando normal, como de costumbre. Se ha dicho que si uno realmente quiere ocultar un gran secreto, debe ocultarlo de la vista. Pues bien, esta máxima se aplica ciertamente a la desordenada, pero de alguna manera ilógica, manera de actuar de los hombres iluministas. No es racional ver lo que estos hombres hacen en público, sin embargo, lo hacen y esperan salirse con la suya. ¡Y logran salirse con la suya! O por lo menos, lo hacian antes de que libros como este fueran publicados para revelar su guión y  su comportamiento indebido ritual.  
   
 ¿Por qué todo esta parafarnalia ritualista? ¿Por qué algunos de los hombres más ricos e influyentes del mundo toman los riesgos de efectuar actos mágicos demoníacas a la vista de todos, tanto como para hacerlo en las principales revistas de noticias y periódicos, en la televisión, y en otras avenidas con grandes audiencias potenciales?  
   
-Edgar Allan Poe, el famoso novelista oscuro y de suspenso, una vez escribió un cuento, _"Perverse of the Imp"_, en la que sugirió que los criminales tienen a menudo un abrumador deseo de confesar públicamente sus crímenes tortuosos. ¿Podría ser esta es la razón de los Illuminati para alardear tan flagrantemente de sus conocimientos ocultistas? ¿Es que poseen una habilidad única para el engaño y las artimañas? ¿O los efectúan a la vista de todos porque creen que esta acción infunde de poder y dominio a sus objetivos y metas?  
+Edgar Allan Poe, el famoso novelista oscuro y de suspenso, una vez escribió un cuento, _"Perverse of the Imp"_, en la que sugirió que los criminales tienen a menudo un abrumador deseo de confesar públicamente sus crímenes tortuosos. ¿Podría ser esta es la razón de los Illuminati para alardear tan flagrantemente de sus conocimientos ocultistas? ¿Es que poseen una habilidad única para el engaño y las artimañas? ¿O los efectúan a la vista de todos porque creen que esta acción infunde de poder y dominio a sus objetivos y metas?  
   
 
 ## Burladores y Engañosos
 
-¿Es que simplemente disfrutan de burlarse y engañarnos? Se burlan y juegan con nuestras mentes, dándose cuenta de que la gran mayoría de las personas en la sociedad son incautos dispuestos. Después de todo, el asesino en serie [John Wayne Gacy](http://www.batanga.com/curiosidades/8778/la-tremebunda-historia-de-john-wayne-gacy-el-payaso-asesino) (foto) -sin duda una personalidad psicopática- se jactó una vez diciendo, "Un payaso puede asesinar y salirse con la suya."  
+¿Es que simplemente disfrutan de burlarse y engañarnos? Se burlan y juegan con nuestras mentes, dándose cuenta de que la gran mayoría de las personas en la sociedad son incautos dispuestos. Después de todo, el asesino en serie [John Wayne Gacy](http://www.batanga.com/curiosidades/8778/la-tremebunda-historia-de-john-wayne-gacy-el-payaso-asesino) (foto) -sin duda una personalidad psicopática- se jactó una vez diciendo, "Un payaso puede asesinar y salirse con la suya."  
   
 Gacy disfrutó de vestirse como un payaso alegre y de visitar las salas de los hospitales para animar a los jóvenes pacientes varones. También obtuvo gran placer en los confines de su casa, torturando y asesinando niños pequeños.  
   
@@ -103,7 +103,7 @@ Por otra parte, después de una larga y cuidadosa consideración propongo que, a
 -   Rebelión
 
   
-Es importante examinar estas doce claves para entender por qué los Illuminati hacen lo que hacen. Ya hemos cubierto el tema de la obsesión de la élite con el secretismo en el capítulo uno. En las siguientes secciones y páginas de este capítulo, vamos a ver las 12 razones restantes. Comenzamos con el uso de la magia  para lograr sus fines.  
+Es importante examinar estas doce claves para entender por qué los Illuminati hacen lo que hacen. Ya hemos cubierto el tema de la obsesión de la élite con el secretismo en el capítulo uno. En las siguientes secciones y páginas de este capítulo, vamos a ver las 12 razones restantes. Comenzamos con el uso de la magia  para lograr sus fines.  
   
 
 ### MAGIA
@@ -122,7 +122,7 @@ Sin embargo, para lograr estos objetivos, esta "configuración" de la sociedad, 
   
 Ahora, el Illuminista puede imaginar que él no está mas que accediendo a la "fuerza de la energía cósmica" o que está explotando en una "cuarta dimensión", o a la "atmósfera etérea."  
   
-Recomiendo leer: [La "Magia Es Ciencia" Y Como Hollywood Prepara La Nueva Doctrina Masónica](http://www.ritualypropaganda.com/2011/09/la-magia-es-ciencia-y-como-hollywood.html)  
+Recomiendo leer: [La "Magia Es Ciencia" Y Como Hollywood Prepara La Nueva Doctrina Masónica](http://www.ritualypropaganda.com/2011/09/la-magia-es-ciencia-y-como-hollywood.html)  
   
 De este modo podrá reclamar que su trabajo mágico, o actividad, es benigna, que es simplemente la denominada magia blanca, magia buena, el camino "derecho" como los satanistas y otros ocultista lo han llamado.  
   
@@ -130,7 +130,7 @@ Sin embargo, como veremos más adelante, las autoridades más altas del mundo de
   
 ¿Quién, o a qué, entonces, accede el iluminista en su actuación ritual de magia? De mis muchos años de investigación sobre las obras y planes de los Illuminati, brujas, satanistas, chamanes, masones y otros ocultistas, declaro sin duda que a lo que estos hombres están haciendo-a sabiendas, en algunos casos, sin saberlo en otros- es a la invocación de demonios de un reino invisible ( "más allá de la esfera humana ordinaria").  
   
-Las comunidades ocultas o masónicas pueden llamar a estas presencias malignas por cualquier nombre que deseen en forma de encubrimiento. —la Gran Hermandad Blanca, Shamballa, entidades planetarias, la Jerarquía, etc., pero, de hecho, el trabajo de la magia, estoy convencido, no es nada menos de la invocación, o invitación de demonios.  
+Las comunidades ocultas o masónicas pueden llamar a estas presencias malignas por cualquier nombre que deseen en forma de encubrimiento. —la Gran Hermandad Blanca, Shamballa, entidades planetarias, la Jerarquía, etc., pero, de hecho, el trabajo de la magia, estoy convencido, no es nada menos de la invocación, o invitación de demonios.  
   
 Esto, de hecho, es una actividad muy peligrosa; sin embargo los Illuminati han diseñado sus muchos rituales, signos, códigos, símbolos, arquitectura, arte, y otros dispositivos para que el mundo que nos rodea se convierta en un gran y real teatro del ocultismo. Debido a los Illuminati, todo el mundo está hechizado, oscurecido con lo sobrenatural, y el que es llamado el Príncipe de la potencia del aire, también conocido como Satanás y Lucifer, debe estar muy orgulloso de sus secuaces humanos.  
   
@@ -151,7 +151,7 @@ De hecho, los constructores están enojados de que cada vez que han tratado de u
   
 Ahora es el [nuevo orden mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html) (o la "democracia para todas las naciones" de Bush) lo que tienen en mente. Las Naciones Unidas han de ser "reformadas", que se "fortalezcan". Las pocas naciones rebeldes que quedan deben ser erradicadas.  
   
-Recomiendo leer: [Las 10 Principales Sociedades Secretas Que Manejan el Mundo](http://www.ritualypropaganda.com/2015/09/las-10-sociedades-secretas-que-influyen.html)  
+Recomiendo leer: [Las 10 Principales Sociedades Secretas Que Manejan el Mundo](http://www.ritualypropaganda.com/2015/09/las-10-sociedades-secretas-que-influyen.html)  
   
 Las economías de todas las naciones deben ser igualadas, las empresas extinguidas, las constituciones modificadas o ignoradas, las propiedad privadas expropiadas o reguladas severamente, las religiones transformadas, etc. Esos son los objetivos.  
   
@@ -176,7 +176,7 @@ La voluntad y el plan de Dios incomparable se mantendrá. Cristo y su pueblo rei
 
 El hambre de poder motiva a los discípulos humanos en la estructura Illuminati. Porque sirven a Satanás, instintivamente saben que también están sirviendo a la voluntad de su jerarquía humana. Ellos esperan ser recompensados por este servicio al lado del mal.  
   
-George Bernard Shaw, que mantiene un odio abrumador a Dios y el cristianismo, escribió acerca de una "voluntad" encarnada en el hombre de conciencia superior (la élite) que deberá "finalmente amoldarse hacia una raza de dioses." **(5)** fantaseando sobre sí mismos como en un estado de transformación divina, como super humanos, especiales y superiores que habrán de lograr elevarse como parte de una "raza de los dioses", es una perspectiva que intoxica.
+George Bernard Shaw, que mantiene un odio abrumador a Dios y el cristianismo, escribió acerca de una "voluntad" encarnada en el hombre de conciencia superior (la élite) que deberá "finalmente amoldarse hacia una raza de dioses." **(5)** fantaseando sobre sí mismos como en un estado de transformación divina, como super humanos, especiales y superiores que habrán de lograr elevarse como parte de una "raza de los dioses", es una perspectiva que intoxica.
 
   
 **"Haz lo que desees"**  
@@ -193,11 +193,11 @@ Se dice que el hombre que posee el poder de la serpiente puede operar en un ámb
   
 Oh, que emocionante es para los egomaniacos Illuminati la comprensión de que ellos poseen y ejercen un poder tan increíble dentro de la esfera planetaria. El poder es adictivo.  
   
-El ex secretario de Estado y  privilegiado Illuminati Henry Kissinger una vez sonrió y confesó, "El poder es el último afrodisíaco."  
+El ex secretario de Estado y  privilegiado Illuminati Henry Kissinger una vez sonrió y confesó, "El poder es el último afrodisíaco."  
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg23KcVy5pYiQxfe6kq7rXKgaasQQ9yYGWf8jefJFZBOJKW4ufuca-9LyF0afbFtW2o2s-5iokpWeQFLlBgq5DHQIYw_OIiO7oowO9av01TOP88GUo6L6Ophddkxp5eT5IIW-10pmzfER4/s1600/jerarquia.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg23KcVy5pYiQxfe6kq7rXKgaasQQ9yYGWf8jefJFZBOJKW4ufuca-9LyF0afbFtW2o2s-5iokpWeQFLlBgq5DHQIYw_OIiO7oowO9av01TOP88GUo6L6Ophddkxp5eT5IIW-10pmzfER4/s1600/jerarquia.jpg)Para comunicar ultra secretos, codificados, mensajes visuales de una naturaleza maligna entre sí o con todo el grupo a través de los medios de comunicación más influyentes del mundo, sin temor a ser perjudicados ni de volver a ser castigados por el crimen, debe de hecho, ser similar a la ingestión de un alterador mental, un afrodisíaco que satisface el alma. Estos hombres codician el poder, y transmitir mensajes secretos ininteligibles para las masas ignorantes les deben dar gran placer emocional. Debe inspirar en ellos el deseo de lograr aún mayores objetivos ocultos.  
   
-Recomiendo leer: [Culto Sexual Se expande Entre Las Celebridades: O.T.O. de Aleister Crowley](http://www.ritualypropaganda.com/2013/05/culto-sexual-se-expande-entre-las.html)  
+Recomiendo leer: [Culto Sexual Se expande Entre Las Celebridades: O.T.O. de Aleister Crowley](http://www.ritualypropaganda.com/2013/05/culto-sexual-se-expande-entre-las.html)  
   
 Como escribió Shakespeare, "El mundo es mi ostra, la que yo, con espada, tomaré y saquearé." Sí, el mundo es su "ostra", y algunos en la jerarquía Illuminati están tan impregnados de la ambición y la lujuria carnal al poder que incluso tratan de conquistar y gobernar el reino estrellado más allá de los límites de este planeta. Fue el colonialista británico Cecil Rhodes que una vez declaró: "Me gustaría anexar los planetas si pudiera."  
   
@@ -250,7 +250,7 @@ El mejor de los historiadores admite ahora, por ejemplo, que el presidente Frank
 
   
 
-El Gobierno EE.UU. también tenía conocimiento previo tanto del bombardeo del Oklahoma City de 1993  y los ataques con explosivos contra el World Trade Center y el Pentágono el 9/11. La pérdida masiva de vidas no es ningún obstáculo que a la élite le preocupe.  
+El Gobierno EE.UU. también tenía conocimiento previo tanto del bombardeo del Oklahoma City de 1993  y los ataques con explosivos contra el World Trade Center y el Pentágono el 9/11. La pérdida masiva de vidas no es ningún obstáculo que a la élite le preocupe.  
   
 
 Su agenda de sangre fría se calcula para engendrar el caos y la destrucción en un proceso alquímico sin fin, de traer Ordo ab Chao (el orden del caos). Para la élite, el asesinato un negocio de costumbre. Y así, una vez más, descubrimos que un vacío moral es inherente a la mente de estos hombres de orgullo perverso.  
@@ -258,7 +258,7 @@ Su agenda de sangre fría se calcula para engendrar el caos y la destrucción en
 
 ### ELITISMO
 
-Muy relacionado a su perversidad y orgullo exagerado está la realidad corrupta de que los hombres "iluminados", de hecho, ejecutan la mayoría de las cosas en la sociedad. Ellos son la élite, y, por desgracia, que están afectados por el elitismo. Ellos reciben ventajas injustas y estatus elevados en la sociedad. Por desgracia, las masas adoran a los hombres y mujeres de la élite.
+Muy relacionado a su perversidad y orgullo exagerado está la realidad corrupta de que los hombres "iluminados", de hecho, ejecutan la mayoría de las cosas en la sociedad. Ellos son la élite, y, por desgracia, que están afectados por el elitismo. Ellos reciben ventajas injustas y estatus elevados en la sociedad. Por desgracia, las masas adoran a los hombres y mujeres de la élite.
 
   
 
@@ -303,7 +303,7 @@ Como se ha señalado sabiamente Michael Hoffman II, la analogía de "insectos" a
 
 Jim Keith, en _Control de la Mente y los Ovnis_, también tomó nota de esta mentalidad de colmena. Keith escribió que en la nación sudamericana de Colombia, hay una comunidad alemana que, incluso hoy en día, 60 años después de la Segunda Guerra Mundial, usa la esvástica como su símbolo. Este grupo llama a su compuesto "Hormiga", en honor de la hormiga trabajadora obediente, sin embargo, es otra forma de control Illuminati. **(9)**
 
-Recomiendo leer: [Orígenes Y Técnica Del Control Mental Monarca](http://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)  
+Recomiendo leer: [Orígenes Y Técnica Del Control Mental Monarca](http://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)  
   
 
 Por lo tanto, nos encontramos con la colmena o el hormiguero como metáforas aptas para los agentes de los Illuminati. Es fascinante darse cuenta de que estas personas son débiles, y arrastran pequeñas personalidades. Se hacen eco al unísono de las palabras "Sí, maestro" a sus superiores, los potentados de las diversas sociedades y órdenes secretas.
@@ -425,13 +425,13 @@ Interesante es el hecho de que cada uno de los co-conspiradores reconocen plenam
 
   
 
-No todos los hombres malvados y poderosos son ricos, pero muchos lo son. De manera desproporcionada. Después de haber estudiado la vida y la obra de la élite, puedo dar fe de que su estilo de vida ocioso y su riqueza a menudo se convierten en un impedimento para su desarrollo moral y de su potencial  para ejercitar el buen juicio y el sentido común. Esto es especialmente cierto con miembros de dinastías familioares - los Bush, Kennedy, Clinton, Roosevelt, Bronfman, Rothschild, las familias reales de Europa, etc.  
+No todos los hombres malvados y poderosos son ricos, pero muchos lo son. De manera desproporcionada. Después de haber estudiado la vida y la obra de la élite, puedo dar fe de que su estilo de vida ocioso y su riqueza a menudo se convierten en un impedimento para su desarrollo moral y de su potencial  para ejercitar el buen juicio y el sentido común. Esto es especialmente cierto con miembros de dinastías familioares - los Bush, Kennedy, Clinton, Roosevelt, Bronfman, Rothschild, las familias reales de Europa, etc.  
 
 **Comportamiento idiota, Brujería y Magia**
 
   
 
-La riqueza y la ociosidad llevan al aburrimiento, y el aburrimiento te vuelve idiota y aberrante, de un comportamiento extraño. Pero aunque podemos reírnos de lo que parece ser las tentativas infructuosas de una comedia y de una élite que  utiliza mensajes codificados y simbolismo en revistas, periódicos, televisión, y otros medios de comunicación, para ellos esto no es cosa de risa. Es un asunto serio. Es una brujería ritual, y sin ella, su vida volvería a lo mundano. La brujería y la magia han llegado a ser una parte esencial de sus vidas, se vuelven adictos y deben continuar. Como una bruja famosa dijo una vez:
+La riqueza y la ociosidad llevan al aburrimiento, y el aburrimiento te vuelve idiota y aberrante, de un comportamiento extraño. Pero aunque podemos reírnos de lo que parece ser las tentativas infructuosas de una comedia y de una élite que  utiliza mensajes codificados y simbolismo en revistas, periódicos, televisión, y otros medios de comunicación, para ellos esto no es cosa de risa. Es un asunto serio. Es una brujería ritual, y sin ella, su vida volvería a lo mundano. La brujería y la magia han llegado a ser una parte esencial de sus vidas, se vuelven adictos y deben continuar. Como una bruja famosa dijo una vez:
 
   
 
@@ -481,7 +481,7 @@ Algún día, uno ser malvado vendrá, que será tan malvado y diabólico que har
 El complacer a su amo, Lucifer, es la más alta prioridad de los Illuminati. El Illuminista Albert Pike, 33 °, ex Soberano Gran Comendador cuyo comentario sobre los rituales de la masonería, _Morales y Dogma_, es el libro de texto de aprendizaje clásico para todos los masones, da instrucciones el 14 de julio de 1889, a Consejo Superior del Mundo identificando al Maestro a quien los masones universalmente adorar y venerar:  
   
 
-> **"Lo que debemos decirle a la multitud es** — **adoramos a un Dios, pero es el Dios que uno adora sin superstición... A usted, Soberano Gran Inspector, les digo esto; que deben repetir a los hermanos del grado 32, 31, y 30**— **La religión masónica debe ser, por todos nosotros los iniciados de los altos grados, mantenida en la pureza de la doctrina luciferina." (14)**
+> **"Lo que debemos decirle a la multitud es** — **adoramos a un Dios, pero es el Dios que uno adora sin superstición... A usted, Soberano Gran Inspector, les digo esto; que deben repetir a los hermanos del grado 32, 31, y 30**— **La religión masónica debe ser, por todos nosotros los iniciados de los altos grados, mantenida en la pureza de la doctrina luciferina." (14)**
 
   
 
@@ -515,13 +515,13 @@ En lugar de ello, apuntan al Gran Arquitecto del Universo como su deidad, o un n
 
   
 
-En su revelador libro, _The Initiation of the World_, La ocultista Vera Stanley Alder refuerza esta pretensión de la élite. Ella señala que existe una "deidad" sin nombre que es admirado y adorado. Por otra parte, esta misteriosa deidad es descrita esotéricamente por ella como la "AQUEL SOBRE QUIEN NADA PUEDE DECIRSE". Irónicamente, Alder tiene mucho que decir en cuanto a "aquel de quien nada se puede decirse."  
+En su revelador libro, _The Initiation of the World_, La ocultista Vera Stanley Alder refuerza esta pretensión de la élite. Ella señala que existe una "deidad" sin nombre que es admirado y adorado. Por otra parte, esta misteriosa deidad es descrita esotéricamente por ella como la "AQUEL SOBRE QUIEN NADA PUEDE DECIRSE". Irónicamente, Alder tiene mucho que decir en cuanto a "aquel de quien nada se puede decirse."  
   
 
 De hecho, se elogia a este Dios no identificado como un ser de inmenso "asombro y magnitud." Sugiere, también, que el Unico que la élite adora puede ser denominado como el "absoluto". Alder también brinda observaciones de que la entidad reconocida como el "Uno" divino se compone de "fuerzas", y que tiene dominio sobre determinadas entidades menores. **(16)**
 
   
-Recomiendo leer: [¿Quién es Lúcifer? Una Historia De Rebelión vs Propaganda](http://www.ritualypropaganda.com/2014/01/quien-es-lucifer-una-historia-de.html)  
+Recomiendo leer: [¿Quién es Lúcifer? Una Historia De Rebelión vs Propaganda](http://www.ritualypropaganda.com/2014/01/quien-es-lucifer-una-historia-de.html)  
   
 
 Por supuesto, una rosa con cualquier otro nombre sigue siendo una rosa. Y no importa cuán reacios o provisionales son los magos de los Illuminati para identificar a aquel a quien sirven, los que hemos estudiado durante mucho tiempo a estos gobernantes inadaptados y psicópatas no tienen que esquivar el problema.  
@@ -549,7 +549,7 @@ Estos dioses, entidades, poderes o fuerzas se dice que están dispuestos jerárq
 
   
 
-Huston dice que talismanes, imágenes y símbolos —y los signos y las posiciones que se efectúan con las partes del cuerpo— "participan de la naturaleza de un espíritu o elemento." En otras palabras, los espíritus son atraídos y se supone que van a trabajar en nombre de la persona que lleva o muestra el talismán, el hechizo, la imagen, el símbolo, o prácticas que pongan en funcionamiento una señal de la mano en particular, un apretón de manos, un movimiento del cuerpo, una posición, o ritual, ya sea que el ritual es sencillo o sofisticado.
+Huston dice que talismanes, imágenes y símbolos —y los signos y las posiciones que se efectúan con las partes del cuerpo— "participan de la naturaleza de un espíritu o elemento." En otras palabras, los espíritus son atraídos y se supone que van a trabajar en nombre de la persona que lleva o muestra el talismán, el hechizo, la imagen, el símbolo, o prácticas que pongan en funcionamiento una señal de la mano en particular, un apretón de manos, un movimiento del cuerpo, una posición, o ritual, ya sea que el ritual es sencillo o sofisticado.
 
   
 
@@ -584,7 +584,7 @@ De hecho, Leadbetter dijo que el ritual para el grado 33 en realidad une el Sobe
 
   
 
-Naturalmente, para el iniciado menor, ver a los mejores adeptos que muestran signos masónicos, Rosacruces, templarios y otros símbolos en los principales órganos de propaganda (televisión, periódicos, revistas, internet, libros, foros públicos, etc.) también infunde miedo y pavor. El miedo y el temor de lo que la Organización —poderosa como lo demuestra la exhibición pública de sus principales símbolos a una audiencia profana de masas ignorantes— puede hacer con ellos si es que alguna vez son tan tontos como para dañar sus actividades, revelar sus secretos o traicionarla:  
+Naturalmente, para el iniciado menor, ver a los mejores adeptos que muestran signos masónicos, Rosacruces, templarios y otros símbolos en los principales órganos de propaganda (televisión, periódicos, revistas, internet, libros, foros públicos, etc.) también infunde miedo y pavor. El miedo y el temor de lo que la Organización —poderosa como lo demuestra la exhibición pública de sus principales símbolos a una audiencia profana de masas ignorantes— puede hacer con ellos si es que alguna vez son tan tontos como para dañar sus actividades, revelar sus secretos o traicionarla:  
   
 
 > **Existe algo inevitable... que es a la vez es su horror y su alegría... una vez que un discípulo aceptado ha emprendido definitivamente los rituales de preparación para la iniciación, para él no hay vuelta atrás. No podría si ya él hubiera oído la voz de su Maestro. La obediencia oculta da lugar a la voluntad iluminada. Ahora se puede confiar en su caminar y su trabajo, solo porque es inalterablemente uno con el grupo, con la Jerarquía, y finalmente con Shamballa (infierno). (21)**
@@ -616,7 +616,7 @@ El elitista iluminado no se considera a sí mismo como un hombre, sino como un d
 
   
 
-Vera Alder Stanley, en su célebre libro de texto, _The Initiation of The World_, escribe que una vez que el iluminista se ha elevado para convertirse en una "unidad dentro de una gran hermandad", que progresa hacia la fusión y la unidad con el todo/conciencia. Menciona...
+Vera Alder Stanley, en su célebre libro de texto, _The Initiation of The World_, escribe que una vez que el iluminista se ha elevado para convertirse en una "unidad dentro de una gran hermandad", que progresa hacia la fusión y la unidad con el todo/conciencia. Menciona...
 
   
 
@@ -670,7 +670,7 @@ En su juicio por homicidio, se observó al rebelde satanista Charles Manson dand
 
   
 
-Joseph Smith, sin duda, no podía creer que él, un hombre que afirmaba ser el profeta  elegido de Dios, y que secretamente adoraba a Lucifer; él, un hombre de tal intelecto "superior" y dotado con el don oculto de la iluminación espiritual, estaba a punto de conocer a su creador, víctima de una turba vigilante que lo despreció.
+Joseph Smith, sin duda, no podía creer que él, un hombre que afirmaba ser el profeta  elegido de Dios, y que secretamente adoraba a Lucifer; él, un hombre de tal intelecto "superior" y dotado con el don oculto de la iluminación espiritual, estaba a punto de conocer a su creador, víctima de una turba vigilante que lo despreció.
 
   
 

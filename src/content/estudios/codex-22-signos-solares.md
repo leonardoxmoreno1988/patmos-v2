@@ -9,7 +9,7 @@ description: "\"Es Él (Dios) el que se sienta sobre el círculo de la tierra...
 tags: ["Sociedad"]
 ---
 
-> **"Es Él (Dios) el que se sienta sobre el círculo de la tierra..."  
+> **"Es Él (Dios) el que se sienta sobre el círculo de la tierra..."  
 > \- Isaías 40:22 (Escrito unos 1,000 años antes de que Colón probara que la tierra no era plana)**
 
 [![símbolos solares y adoración del faraón egipcio del sol](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiUZm6t7apn0dLidTkZd4KjvG4NE5veNHFVyZjLHnKkgM7BzEM3cd4ZG-PbbjcnTCRa1ddoRpydjZScxBFnRWvyYs8DpB1i5Oyzk3cyw-Bc-4dH5-d9zehpCUxrvabCrbbdSVs2nsm7TM/s1600/adoracion-solar.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiUZm6t7apn0dLidTkZd4KjvG4NE5veNHFVyZjLHnKkgM7BzEM3cd4ZG-PbbjcnTCRa1ddoRpydjZScxBFnRWvyYs8DpB1i5Oyzk3cyw-Bc-4dH5-d9zehpCUxrvabCrbbdSVs2nsm7TM/s1600/adoracion-solar.jpg)
@@ -20,7 +20,7 @@ tags: ["Sociedad"]
 > **"No sería imposible demostrar, con suficiente repetición y comprensión psicológica de las personas afectadas, que un cuadrado es, de hecho, un círculo."  
 > \- Joseph Goebbels, Ministro de Propaganda Nazi**
 
-> **"En la mitología del mundo primitivo, la serpiente es universalmente el símbolo del sol... La serpiente estaba universalmente representada por el símbolo del sol, el círculo o el disco."** 
+> **"En la mitología del mundo primitivo, la serpiente es universalmente el símbolo del sol... La serpiente estaba universalmente representada por el símbolo del sol, el círculo o el disco."** 
 
 > **\- Obispo Alexander Hislop, Las Dos Babilonias**
 
@@ -40,7 +40,7 @@ El inglés John Yarker, conocido mago y ocultista masónico del siglo XIX, en su
 
   
 
-En realidad, al adorar al sol, los antiguos estaban adorando a Satanás. G.H. Pember, en un trabajo académico llamado _Misterios, Las Edades Tempranas de la Tierra_, afirma este hecho cuando afirma:
+En realidad, al adorar al sol, los antiguos estaban adorando a Satanás. G.H. Pember, en un trabajo académico llamado _Misterios, Las Edades Tempranas de la Tierra_, afirma este hecho cuando afirma:
 
   
 
@@ -57,7 +57,7 @@ Hoy, los masones, como lo hicieron los sacerdotes apóstatas judíos en los día
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 
 Es por eso que, en la guía autorizada _Dioses de la Logia_, Reginald Haupt informa que en la Logia:
@@ -92,7 +92,7 @@ Al honrar y adorar al sol en sus rituales, la Francmasonería y el Iluminismo de
 
   
 
-"Si he mirado al sol cuando resplandecía, Y á la luna cuando iba hermosa, Y mi corazón se engañó en secreto, Y mi boca besó mi mano... esto también es una iniquidad para ser castigada por el juez; porque debería haber negado al Dios que está arriba." (Job 31: 26-28)
+"Si he mirado al sol cuando resplandecía, Y á la luna cuando iba hermosa, Y mi corazón se engañó en secreto, Y mi boca besó mi mano... esto también es una iniquidad para ser castigada por el juez; porque debería haber negado al Dios que está arriba." (Job 31:26-28)
 
   
 
@@ -303,7 +303,7 @@ Imágenes circulares de adoración de Diosas y adoración al sol se encuentran e
 
   
 
-Las brujas son los principales promotores del avivamiento de la Diosa. Arriba está el anuncio del periódico  de una bruja (dirección eliminada).
+Las brujas son los principales promotores del avivamiento de la Diosa. Arriba está el anuncio del periódico  de una bruja (dirección eliminada).
 
   
 

@@ -9,7 +9,7 @@ description: "En este 9to capítulo del libro \"Linajes De Los Illuminati\" se r
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -55,7 +55,7 @@ Algunos miembros de la familia Reynolds han escrito libros ocultistas. Yo no sé
 
 Antes de adentrarnos a profundidad en "la arena movediza" haremos una rápida revisión de la visión general de los intereses financieros de los Reynolds. Mucho del dinero de la familia ha sido escondido tras fachadas, compañias de holdings, etc. El ala Satanista de la familia Reynolds ha estado envuelta en altos tratos de tráfico de drogas durante este siglo. Ellos tambien tienen importantes y fuertes intereses en la banca, compañias tabacaleras, compañias de aluminio y parece ser que un buen número se ha dedicado a el negocio de las funerarias y cremaciones, en donde la cremación es de gran ayuda después de efectuar rituales que incluyen sacrificios humanos. Los intereses financieros de los Reynolds parecen ser los más fuertes en la zona del Medio Sur y fuertes tanto en Virginia como en Carolina del Norte. Los Intereses financieros de la Reynolds están tan estrechamente entretejidos con los de los Cullmans y Duques que voy a tener que lidiar con las tres familias juntas. Hace tres años, las cabezas financieras de las tres familia eran las siguientes: Angier Biddle Duke, Richard S. Reynolds, Jr., y Joseph F. Cullman, los tres eran miembros de la Sociedad de los Peregrinos. Es posible que la familia también tenga un tipo de sonido de la jerarquía espiritual secreta. Si es así, podría seguir a lo largo de los linajes de las 13 familias que tienen Reyes, Príncipes y Princesas, etc de sus linajes.
 
-   
+   
 Richard S. Reynolds ha sido Presidente de la junta de la Compañia Robertshaw Controls, que tiene un monopolio absoluto sobre los termostatos de fabricación de automóviles y piezas de otros coches.  
   
 Los tres más grandes manufactureros Americanos compran a la Compañia de controles Robertshaw. Pero desde que las 3 empresas manufactureras Americanas de autos son controladas por los Illuminati, ciertamente no les importa que los Reynolds tengan un dominio completo sobre ellos. Cadence, quien es dueño de teatros y ha publicado comics ocultistas como las series "Viajes al Misterio con el Poderoso Thor" está tambien enlazado con la familia Reynolds. Cadence promueve el ocultismo mientras hace dinero.  
@@ -92,13 +92,13 @@ SOCIEDAD DE LOS PEREGRINOS. (PILGRIM SOCIETY)
   
 Richard S. Reynolds Jr.
 
-   
+   
 33 MASONES  
   
 Harman Gansvort Reynolds.  
 Marshall S. Reynolds.
 
-   
+   
 32 MASONES.  
   
 Arthur Rowley Reynolds.  
@@ -110,14 +110,14 @@ Issac Reynolds.
 Harry Edwards Reynolds.  
 Henry James Reynolds.
 
-   
+   
 MASONES DE LOS CABALLEROS TEMPLARIOS  
   
 Alex Reynolds.  
 J. Hyatt Reynolds.  
 T. Spaulding Reynolds.
 
-   
+   
 CABALLEROS DE MALTA  
   
 Jhon Charles Reynolds, quien trabajó como ejecutivo para Comunicaciones Grace, y como fideicomisario para el Hospital Presbiteriano de San Juan.  
@@ -193,7 +193,7 @@ En 1989 hubo mas gratificaciones de similar naturaleza. Las siguientes son solam
 
 No quiero tomar más tiempo ni espacio enlistando a estas fundaciones. Espero que el lector se haga una idea del panorama de como todas estas fundaciones son capaces de controlar a la sociedad por medio de los Illuminati. Hemos visto agencias gubernamentales, especialmente aquellas de las que los Illuminati quieren estar seguros que estén controladas por ellos, reciben muy buen apoyo financiero. Las personas que viven en las Carolinas (sur y norte) y Virgina reportan que la corrupción en esos estados es absoluta. Estas estadisticas dan algunos hechos detrás de esas declaraciones. Una organización de las de arriba recibiendo tales cantidades de dinero merece ser expuesta. El Concilio de Abuso de Drogas ha sido lidereado por un Illuminatus y miembro de la Sociedad de los Peregrinos, Bethuel M. Webster.
 
-   
+   
 
 ## Industrias de R.J Reynolds
 
@@ -205,7 +205,7 @@ De 1958 a 1964 Stokes fue director del Parque Memorial de William y Kate B Reyno
   
 Otro director de Industrias R.J Reynolds es Jhon D Macomber, un graduado de Yale en 1950, (yo no sé si el perteneció a una de las 5 fraternidades Illuminati en Yale o no). Macomber se casó dentro de la familia Illuminati Morgan, y es un miembro de la Sociedad de los Peregrinos. Además de servir como director de los Li y los Reynolds, el sirvió como director para Rockefeller en el banco Chase Manhattan. El tambien es director de la Corporación Norlin. Gordon Gray, de la familia Satanista de los Gray, también se sentó en la mesa ejecutiva de los Li/Reynolds. Ambos, tanto Gordon Gray como Jhon Macomber pertenecieron a la CFR. Gray también fue a Yale (grado 33) y estuvo transmitiendo junto con el triángulo por el miembro de la Sociedad de los Peregrinos Walter H Annenberg (el cual está cerca de ser billonario). Como ud. puede ver, algunos hombres de la bateria pesada de los Illuminati dirigen las industrias Li/Reynolds. Gray, un miembro de la C.F.R también sirvió como enlace de los intereses financieros de los Corcoran. William W. Corcoran era un banquero corrupto de Washington el cual era visto de cara al público como si fuese un lirio blanco. Corcoran sobornó al Presidente del Comité Ways y Means para que el pudiera obtener ganancias ilegales de medio millón de dólares por ser el hombre que estuvo en medio de la transacción del pago de la deuda de Estados Unidos a México de las tierras tomadas durante la guerra Mexicana. (Ver el reporte de Comités, del Congreso 33 vol. 354:4). Los Estados Unidos no necesitaban a un hombre en el medio para pagarle a México, pero debido a la corrupción en el Congreso, Corcoran fue capaz de hacer un montón de dinero sin ningún esfuerzo. El banco Riggs está asociado con la fortuna de Corcoran. El CFR, graduado de Yale y miembro de la Sociedad de los Peregrinos William McChesney Martin, Jr, trabajó para Riggs para el Banco Nacional de Riggs como su consejero. La multitud de conexiones de las personas al servicio de los Reynolds para la elite son alucinantes. Muchas de las instituciones en el Suroeste se conectan de nuevo a los Illuminati y sus organizaciones fachada tales como la masonería y las Cámaras de Comercio, la CFR, etc, etc. Algunos de los enclaves de las empresas de R.J Reynolds son: Arista Co, los productos Avon, Charlette, el Banco de Richmond el cual es una rama de la Reserva Federal, las Compañias Dun y Broadstreet, Foremost McKeeson Inc. Seguridad Hatteras Income, la Corporación Hayes Albion, Industrias McClean, Seguros de Vida de Nortwestern, Corporación Perkin Elmer, Richardson Elmer Inc. S.C Jhonson, la Standard Oil de Indiana, Ahorros Loan, la Compañia Quimica Stauffer, la Corporación de Filtros de los Estados Unidos, la Corporación de Acero de los Estados Unidos, Corporación Wachovia, yo dudo si está información es actual, pero es necesario decirlo, hoy en dia las empresas de los Li / Reynolds se interconectan con muchas otras compañias.
 
-   
+   
 
 ## Otras compañias de los Reynold / Dukes
 
@@ -219,7 +219,7 @@ Colvard tambien ha sido un para los Illuminati via la controlada Fundación Kell
 El primo de Hugh está dentro de la Sociedad de los Peregrinos. Hugh es tambien el Presidente de Philip Moms Inc, de la Asociación de la Policia Extranjera y de la Cámara Internacional del Comercio.  
   
 También trabajando con el en la mesa directiva de la United Virginia Bancshares está Herbert Stein, director de la Compañia de Metales Reynolds. Stein también trabajó con L.F. Rothschilds y Compañia como consultor de 1976 en adelante. Otro director trabajando con Stein, David Reynolds y Hugh Culliman, es Kenneth A. Randall quien es un fideicomisario del Concilio de las Américas de los Rockefeller y trabaja con varios miembros Illuminati en otros lugares también. Algunos de los Reynolds son Mormones. Jhon Reynolds escribió un comentario en el libro de los Mormones. La Compañia Eskimo Pie es una de tantas otras que los Reynolds han controlado. Julian Louis Reynolds está tanto en la mesa directiva de la Compañia de Metales como en la Compañia Eskimo Pie.  
- 
+ 
 
 Este articulo sólo ha tocado en cómo los Reynolds operan. Sin embargo, el punto de esta parte del articulo apunta claramente a que los Reynolds trabajan con muchas otras familias Illuminati, y están activos en la banca, la industria del aluminio y el tabaco.  
   

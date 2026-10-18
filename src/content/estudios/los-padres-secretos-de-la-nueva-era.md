@@ -9,7 +9,7 @@ description: "Muchos artículos sobre la historia del movimiento de la nueva era
 tags: ["Falsas Doctrinas"]
 ---
 
-Muchos artículos sobre la historia del movimiento de la **nueva era** convergerán en una serie de personas influyentes como **Helena Blavatsky** y **Alice Bailey**, siguiendo el nacimiento y el surgimiento de los movimientos de la nueva era con estos dos individuos. Ellas han sido claramente escritoras prolíficas y canalizadoras de información del mundo oculto. Sus libros _Externalización de la Jerarquía_ y _La Doctrina Secreta_ son obras gigantescas en el área de lo oculto y proporcionan ideas significativas sobre el objetivo religioso detrás de la agenda del orden mundial.  
+Muchos artículos sobre la historia del movimiento de la **nueva era** convergerán en una serie de personas influyentes como **Helena Blavatsky** y **Alice Bailey**, siguiendo el nacimiento y el surgimiento de los movimientos de la nueva era con estos dos individuos. Ellas han sido claramente escritoras prolíficas y canalizadoras de información del mundo oculto. Sus libros _Externalización de la Jerarquía_ y _La Doctrina Secreta_ son obras gigantescas en el área de lo oculto y proporcionan ideas significativas sobre el objetivo religioso detrás de la agenda del orden mundial.  
   
 
 [![Emanuel Swedenborg, Franz Anton Mesmer y Sir Francis Bacon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM7QJGeycTZrSHU_8Ez9VvxuaFMbNqah2pQAW0gJynXlzifLklqSwo8n4XLjNr_F_Tjypxgarz92ZPt7kJlx9vhDcRL8KRJTFcEn0-Vw5ihFyFbCEqqDL3rDQdU_4lrlJMXuAFchaPhxE/s1600/padres-nuevaera.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM7QJGeycTZrSHU_8Ez9VvxuaFMbNqah2pQAW0gJynXlzifLklqSwo8n4XLjNr_F_Tjypxgarz92ZPt7kJlx9vhDcRL8KRJTFcEn0-Vw5ihFyFbCEqqDL3rDQdU_4lrlJMXuAFchaPhxE/s1600/padres-nuevaera.jpg)
@@ -21,7 +21,7 @@ En esta edición vemos algunos de estos personajes no reconocidos.
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Incluso te sorprenderá saber que algunas palabras que usas en el lenguaje cotidiano se originan con ellos. Por ejemplo, ¿Alguna vez ha usado la palabra "hipnotizar", reconociendo de dónde viene la palabra?  
 
@@ -59,19 +59,19 @@ En 1747, renunció a su puesto en la Junta Sueca de Minas para trabajar en esta 
 
   
 
-Recuerde que en 1 Timoteo 4: 1 se nos dice que:
+Recuerde que en 1 Timoteo 4:1 se nos dice que:
 
   
 
-> "EL ESPÍRITU DICE CLARAMENTE QUE EN LOS ÚLTIMOS TIEMPOS ALGUNOS ABANDONARÁN LA FE Y SEGUIRÁN A ESPÍRITUS ENGAÑADORES Y COSAS ENSEÑADAS POR DEMONIOS". 
+> "EL ESPÍRITU DICE CLARAMENTE QUE EN LOS ÚLTIMOS TIEMPOS ALGUNOS ABANDONARÁN LA FE Y SEGUIRÁN A ESPÍRITUS ENGAÑADORES Y COSAS ENSEÑADAS POR DEMONIOS". 
 
   
 
 Irónicamente, Swedenborg (que estaba muy familiarizado con su Biblia) era consciente de los peligros de comunicarse de esta manera mística con espíritus desconocidos. El famoso vidente del siglo XVIII, conocía bien el mundo de los espíritus, habiendo experimentado visiones detalladas registradas más tarde en forma de libro. Sin embargo, advirtió a los que cortejan a los espíritus:
 
-> **"Cuando los espíritus comienzan a hablar con un hombre, él debe tener cuidado de que no cree nada de ellos; porque dicen casi cualquier cosa. Las cosas son fabricadas por ellos, y mienten... dirían tantas mentiras y, de hecho, con solemne afirmación de la que un hombre se sorprendería... si un hombre escucha y cree que presionan, engañan y seducen."** 
+> **"Cuando los espíritus comienzan a hablar con un hombre, él debe tener cuidado de que no cree nada de ellos; porque dicen casi cualquier cosa. Las cosas son fabricadas por ellos, y mienten... dirían tantas mentiras y, de hecho, con solemne afirmación de la que un hombre se sorprendería... si un hombre escucha y cree que presionan, engañan y seducen."** 
 
->  **- Secretos de los Cielos**
+>  **- Secretos de los Cielos**
 
 A pesar de ser ostensiblemente cristiano, Swedenborg no creía que la Biblia fuera un trabajo literal, sino más bien una obra de alegoría de que él personalmente tenía las llaves para desbloquear. Fue privilegiado con esta información privilegiada debido a su trato con el mundo de los espíritus. También sintió que la fe en Jesucristo no era necesaria, ni suficiente para recibir la gracia de Dios. Él afirmó que las acciones de un individuo crearon la adoración que serviría como requisito para seguir el plan del Señor.
 
@@ -91,7 +91,7 @@ La influencia directa de Swedenborg ha sido fuerte. Algunas personas conocidas y
 
   
 
-El dominio indirecto de Swedenborg sobre las creencias espirituales del mundo ha sido aún más sustancial. Muchos cristianos de hoy tienen creencias que se hacen eco directamente de los sentimientos expresados ​​por Swedenborg hace siglos. A medida que aprendamos más, exploraremos el crecimiento del movimiento de la Nueva Era a partir de estas mismas enseñanzas. La afirmación de Swedenborg de que muchos caminos podrían conducir a la salvación sin reconocer a Jesús como el Salvador se ha hecho eco especialmente del movimiento de la Nueva Era en muchas formas diferentes. El trabajo de Swedenborg en el reino espiritual a través de la meditación fue una influencia directa en muchos que creen que el misticismo es el camino hacia la iluminación, desde Blavatsky hasta Carl Jung.
+El dominio indirecto de Swedenborg sobre las creencias espirituales del mundo ha sido aún más sustancial. Muchos cristianos de hoy tienen creencias que se hacen eco directamente de los sentimientos expresados por Swedenborg hace siglos. A medida que aprendamos más, exploraremos el crecimiento del movimiento de la Nueva Era a partir de estas mismas enseñanzas. La afirmación de Swedenborg de que muchos caminos podrían conducir a la salvación sin reconocer a Jesús como el Salvador se ha hecho eco especialmente del movimiento de la Nueva Era en muchas formas diferentes. El trabajo de Swedenborg en el reino espiritual a través de la meditación fue una influencia directa en muchos que creen que el misticismo es el camino hacia la iluminación, desde Blavatsky hasta Carl Jung.
 
   
 
@@ -99,7 +99,7 @@ Emanuel Swedenborg se apartó de la ciencia para dedicar plenamente su tiempo a 
 
   
 
-Algunos pueden estar interesados ​​en saber qué H.P. Blavatsky, fundadora del moderno Movimiento Teosófico, hace poco más de un siglo, describió a Swedenborg como "el más grande entre los videntes modernos", pero no escatimaba sus críticas a él en las áreas en las que sentía que las críticas se debían hacer.
+Algunos pueden estar interesados en saber qué H.P. Blavatsky, fundadora del moderno Movimiento Teosófico, hace poco más de un siglo, describió a Swedenborg como "el más grande entre los videntes modernos", pero no escatimaba sus críticas a él en las áreas en las que sentía que las críticas se debían hacer.
 
   
 
@@ -220,7 +220,7 @@ Bacon fue un personaje singularmente único cuya influencia en la historia no pu
 
   
 
-> **"El intelecto de Bacon fue uno de los más poderosos y jamás poseídos por el hombre, y sus desarrollos de la filosofía inductiva revolucionaron el pensamiento futuro de la raza humana". \- Un breve diccionario biográfico de literatura inglesa. ed. John W. Cousins ​​(1910).**
+> **"El intelecto de Bacon fue uno de los más poderosos y jamás poseídos por el hombre, y sus desarrollos de la filosofía inductiva revolucionaron el pensamiento futuro de la raza humana". \- Un breve diccionario biográfico de literatura inglesa. ed. John W. Cousins (1910).**
 
   
 
@@ -248,11 +248,11 @@ La visión baconiana para el establecimiento de la "Antigua Orden de las Edades"
 **_La Nueva Atlántida_ de Sir Francis Bacon**
 
   
-También describió su visión de esta sociedad perfecta y "dorada". Sin embargo, la visión utópica de Bacon no era nueva ni novedosa ya que simplemente hizo público, aunque de una manera única, el antiguo deseo de ciertos grupos ocultistas de una sociedad mundial idealizada. Es decir, aunque Bacon no originó el concepto de la "Nueva Atlántida", fue él quien primero articuló y publicó el antiguo plan para que el Imperio Mundial sea llevado a cabo por todas las órdenes secretas. El programa establecido por Bacon ha sido la fuerza motriz detrás del curso de los acontecimientos que han dado forma al mundo moderno y convirtieron a los Estados Unidos de América en la fuerza impulsora hacia el **[establecimiento del nuevo orden mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)**. Esta es la razón por la cual Thomas Jefferson, un hombre que comprende bien la influencia oculta sobre los acontecimientos humanos, consideraba a Bacon uno de los tres hombres más influyentes de la historia. La preeminencia de Bacon en el esquema de las cosas fue confirmada por un exponente moderno de las artes oscuras, Manly P. Hall.
+También describió su visión de esta sociedad perfecta y "dorada". Sin embargo, la visión utópica de Bacon no era nueva ni novedosa ya que simplemente hizo público, aunque de una manera única, el antiguo deseo de ciertos grupos ocultistas de una sociedad mundial idealizada. Es decir, aunque Bacon no originó el concepto de la "Nueva Atlántida", fue él quien primero articuló y publicó el antiguo plan para que el Imperio Mundial sea llevado a cabo por todas las órdenes secretas. El programa establecido por Bacon ha sido la fuerza motriz detrás del curso de los acontecimientos que han dado forma al mundo moderno y convirtieron a los Estados Unidos de América en la fuerza impulsora hacia el **[establecimiento del nuevo orden mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)**. Esta es la razón por la cual Thomas Jefferson, un hombre que comprende bien la influencia oculta sobre los acontecimientos humanos, consideraba a Bacon uno de los tres hombres más influyentes de la historia. La preeminencia de Bacon en el esquema de las cosas fue confirmada por un exponente moderno de las artes oscuras, Manly P. Hall.
 
   
 
-Este papel futuro de América como el motor del movimiento hacia el Imperio Mundial es aludido por algunos ocultistas como el "destino secreto de América". Además, esta antigua ambición para el Imperio Mundial y este "destino secreto de América" ​​fueron los principales principios motivadores detrás del establecimiento del Imperio Británico, que alcanzó su apogeo al final de la Primera Guerra Mundial. Pero, entiendo, esta gran intriga isabelina para el gobierno global, la economía y la religión no eran más que otra formulación del Plan Antiguo para el Imperio Mundial que se extendía en el lejano pasado.
+Este papel futuro de América como el motor del movimiento hacia el Imperio Mundial es aludido por algunos ocultistas como el "destino secreto de América". Además, esta antigua ambición para el Imperio Mundial y este "destino secreto de América" fueron los principales principios motivadores detrás del establecimiento del Imperio Británico, que alcanzó su apogeo al final de la Primera Guerra Mundial. Pero, entiendo, esta gran intriga isabelina para el gobierno global, la economía y la religión no eran más que otra formulación del Plan Antiguo para el Imperio Mundial que se extendía en el lejano pasado.
 
   
 
@@ -260,7 +260,7 @@ Lord Bacon fue ciertamente un espíritu conmovedor en los campos de la política
 
   
 
-En 1660, Thomas Sprat publicó su _Historia de la Sociedad Real de Londres_ con... numerosas referencias a la deuda que la \[Royal\] Society le debía a Lord Bacon. El sueño utópico de la comunidad filosófica parecía casi cumplido... La utopía de Bacon fue publicada en 1627 bajo el título de que _The New Atlantis_ \[era\] una obra inacabada.
+En 1660, Thomas Sprat publicó su _Historia de la Sociedad Real de Londres_ con... numerosas referencias a la deuda que la \[Royal\] Society le debía a Lord Bacon. El sueño utópico de la comunidad filosófica parecía casi cumplido... La utopía de Bacon fue publicada en 1627 bajo el título de que _The New Atlantis_ \[era\] una obra inacabada.
 
   
 
@@ -308,7 +308,7 @@ Nota: El trascendentalismo fue un movimiento literario y filosófico que afirmó
 
   
 
-**Napoleón Hill (1883 - 1970)** Hill, uno de los primeros pioneros del "nuevo pensamiento", no estaba buscando contacto con seres espirituales cuando, de repente, un intruso inesperado y no invitado lo confrontó en su estudio y le informó que había sido "bajo la guía de la Gran Escuela" durante años y habían sido elegidos por ellos para dar al mundo la fórmula del éxito, el "Secreto Supremo". _Think and Grow Rich_ (Piénsalo y Crece Rico), publicado en 1937, al final de la Gran Depresión, sigue siendo popular después de 60 años. Más tarde, Hill fue coautor del libro _Success through a Positive Mental Attitude_ (El éxito a través de una actitud de pensamiento positivo) con Clement Stone.
+**Napoleón Hill (1883 - 1970)** Hill, uno de los primeros pioneros del "nuevo pensamiento", no estaba buscando contacto con seres espirituales cuando, de repente, un intruso inesperado y no invitado lo confrontó en su estudio y le informó que había sido "bajo la guía de la Gran Escuela" durante años y habían sido elegidos por ellos para dar al mundo la fórmula del éxito, el "Secreto Supremo". _Think and Grow Rich_ (Piénsalo y Crece Rico), publicado en 1937, al final de la Gran Depresión, sigue siendo popular después de 60 años. Más tarde, Hill fue coautor del libro _Success through a Positive Mental Attitude_ (El éxito a través de una actitud de pensamiento positivo) con Clement Stone.
 
   
 
@@ -329,7 +329,7 @@ El nuevo pensamiento y la nueva ciencia en los siglos 20 y 21 no solo han lograd
 
   
 
-J.Z. Knight canalizó a Ramtha, quien afirmó ser un espíritu guerrero de 35,000 años de edad que una vez conquistó Atlántida, y cuyo mensaje fue: "Tú eres Dios, y por lo tanto capaz de crear cualquier realidad que desees, si no ahora, luego en una encarnación posterior ". En 1988, JZ Knight estableció la Escuela de Iluminación de Ramtha (RSE), una escuela espiritual con sede en los Estados Unidos cerca del pueblo rural de Yelm, Washington. criticada por tener tendencias sectarias, y ex estudiantes  a menudo los han acusado de actividades ocultas.
+J.Z. Knight canalizó a Ramtha, quien afirmó ser un espíritu guerrero de 35,000 años de edad que una vez conquistó Atlántida, y cuyo mensaje fue: "Tú eres Dios, y por lo tanto capaz de crear cualquier realidad que desees, si no ahora, luego en una encarnación posterior ". En 1988, JZ Knight estableció la Escuela de Iluminación de Ramtha (RSE), una escuela espiritual con sede en los Estados Unidos cerca del pueblo rural de Yelm, Washington. criticada por tener tendencias sectarias, y ex estudiantes  a menudo los han acusado de actividades ocultas.
 
   
 
@@ -377,4 +377,4 @@ La agenda final del Movimiento de la Nueva Era es la convergencia de todas las r
 
   
 
-Sin embargo, aunque el origen del movimiento data del siglo XIX con la enseñanza teosófica de Helena Blavatsky y Annie Besant y recibió impulso en la década de 1920 con la enseñanza de Alice Ann Bailey, con suerte este informe te mostrará que las semillas del dogma de la nueva era ya existía antes del siglo 19 con oscuro trabajo de Swedenborg, Mezmer, Bacon y Quimby.
+Sin embargo, aunque el origen del movimiento data del siglo XIX con la enseñanza teosófica de Helena Blavatsky y Annie Besant y recibió impulso en la década de 1920 con la enseñanza de Alice Ann Bailey, con suerte este informe te mostrará que las semillas del dogma de la nueva era ya existía antes del siglo 19 con oscuro trabajo de Swedenborg, Mezmer, Bacon y Quimby.

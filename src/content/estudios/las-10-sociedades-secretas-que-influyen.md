@@ -9,7 +9,7 @@ description: "Las 10 principales sociedades secretas, think tanks, clubs exclusi
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -75,9 +75,9 @@ Daniel Estulin, 2009
   
 [**"La verdadera historia del Club Bilderberg"**](http://www.globalresearch.ca/the-true-story-of-the-bilderberg-group-and-what-they-may-be-planning-now/13808) y lo que podría estar planeando ahora - Excelente reseña del libro de Estulin  
   
-Vídeo de Hillary Clinton donde [**miente sobre jamás haber asistido a Bilderberg**](https://youtu.be/iYLdZvkAi0E) mientras que una solicitud de FOIA confirmó que asistió a la [c**onferencia en 1997**](http://www.clintonlibrary.gov/assets/Documents/Finding-Aids/2008/2008-0637-F.pdf).  
+Vídeo de Hillary Clinton donde [**miente sobre jamás haber asistido a Bilderberg**](https://youtu.be/iYLdZvkAi0E) mientras que una solicitud de FOIA confirmó que asistió a la [c**onferencia en 1997**](http://www.clintonlibrary.gov/assets/Documents/Finding-Aids/2008/2008-0637-F.pdf).  
   
-WikiLeaks tiene una serie de [**documentos sobre Bilderberg**](https://wikileaks.org/wiki/Category:Series/Bilderberg_reports). Así mismo informes de las reuniones de 1955, 1957, 1958, 1960, 1962, 1963, 1980, así como una [**historia del grupo**](https://wikileaks.org/wiki/Bilderberg_Group_History,_1956) de 1956.  
+WikiLeaks tiene una serie de [**documentos sobre Bilderberg**](https://wikileaks.org/wiki/Category:Series/Bilderberg_reports). Así mismo informes de las reuniones de 1955, 1957, 1958, 1960, 1962, 1963, 1980, así como una [**historia del grupo**](https://wikileaks.org/wiki/Bilderberg_Group_History,_1956) de 1956.  
   
 [**2003 BBC Radio 4 informe sobre Bilderberg**](https://wikileaks.org/w/images/5/5d/BBC-bilderberg-2003.mp3)(mp3)  
   
@@ -90,12 +90,12 @@ WikiLeaks tiene una serie de [**documentos sobre Bilderberg**](https://wikileaks
 Sociedad secreta bávara activa desde los finales del siglo 18 y término general para la crème de la crème de la élite. Los Illuminati de Baviera fue fundada por Adam Weishaupt el 1 de mayo de 1776. Los Illuminati son una sociedad secreta dentro de las sociedades secretas. En 1784, la orden fue prohibida por el gobierno bávaro. Hoy en día, el término Illuminati se utiliza por lo general para definir el círculo interior de la élite.
 
   
-Los Illuminati se separaron en tres clases; 1. La clase de la guardería; 2. La clase masónica; 3. La clase de misterio. Cada clase se divide en grados. Las clases bajas no tenían conocimiento de la existencia de las clases más altas. Los no  Illuminati fueron llamados "profanos".  
+Los Illuminati se separaron en tres clases; 1. La clase de la guardería; 2. La clase masónica; 3. La clase de misterio. Cada clase se divide en grados. Las clases bajas no tenían conocimiento de la existencia de las clases más altas. Los no  Illuminati fueron llamados "profanos".  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLqMRDVey2IirY04cHxkdWhWkTVy3ctOaPtJtEHkunKklDKFGVVBILZqrTZ9VSqg2YYau-WS7eUxvoYT7WlN8se9WjIPxEyQoG7oNS2q6dngKqoHkxJl5brhtNXEnkVn7Rf5d3JtGEvUE/s1600/buho-illuminati.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLqMRDVey2IirY04cHxkdWhWkTVy3ctOaPtJtEHkunKklDKFGVVBILZqrTZ9VSqg2YYau-WS7eUxvoYT7WlN8se9WjIPxEyQoG7oNS2q6dngKqoHkxJl5brhtNXEnkVn7Rf5d3JtGEvUE/s1600/buho-illuminati.jpg)
 
-**El búho, un símbolo ancestral usado para representar el conocimiento.**
+**El búho, un símbolo ancestral usado para representar el conocimiento.**
 
   
 **I. clase de la guardería:**  
@@ -113,7 +113,7 @@ Masonería Escocesa
 1\. Illuminati Major (Scot principiante)  
 2\. Illuminati Dirigens (Scot Knight)  
   
-**III. Clase de Misterio:**  
+**III. Clase de Misterio:**  
 Misterios Menores  
 1\. Sacerdote Illuminati  
 2\. Illuminati Prince (Regente)  
@@ -138,7 +138,7 @@ Otros creen que la élite moderna y los defensores actuales del nuevo orden mund
 **Fuentes y más información:**  
 **[Perfectibilists: The 18th Century Bavarian Order of the Illuminati](http://www.amazon.com/exec/obidos/ASIN/0977795381/conspiracynut-20)** Terry Melanson, 2009  
   
-**[Los Illuminati: Hechos y ficción](http://www.amazon.com/exec/obidos/ASIN/0967346657/conspiracynut-20)** Amazon, Mark Dice 2009.  
+**[Los Illuminati: Hechos y ficción](http://www.amazon.com/exec/obidos/ASIN/0967346657/conspiracynut-20)** Amazon, Mark Dice 2009.  
   
   
 
@@ -168,7 +168,7 @@ La iniciación ocurre cada mes de abril. Es supervisado por el tío Toby, con Do
   
 El reloj está 5 minutos más rápido, lo que representa a Skull and Bones para diferenciar el tiempo que pasan dentro de la tumba desde el exterior, que es referido como el tiempo Bárbaro.  
   
-En 1876 un grupo de estudiantes que se hacen llamar "Archivo y Garra" irrumpieron en la tumba y descubrieron que la Orden fue fundada en 1832 (32) como el segundo capítulo (2) de una sociedad secreta alemana. Descubrieron la pintura de un cráneo rodeado de símbolos masónicos en la habitación 322 y planos de planta de la tumba. El cráneo mismo afirma que 322 representa 322 aC, el año que Demóstenes murió. En consonancia con esta leyenda, su calendario comienza 322 años antes de que el calendario romano. El año 2013 sería 2.335 Anno Demostheni en Bonespeak.  
+En 1876 un grupo de estudiantes que se hacen llamar "Archivo y Garra" irrumpieron en la tumba y descubrieron que la Orden fue fundada en 1832 (32) como el segundo capítulo (2) de una sociedad secreta alemana. Descubrieron la pintura de un cráneo rodeado de símbolos masónicos en la habitación 322 y planos de planta de la tumba. El cráneo mismo afirma que 322 representa 322 a. C., el año que Demóstenes murió. En consonancia con esta leyenda, su calendario comienza 322 años antes de que el calendario romano. El año 2013 sería 2.335 Anno Demostheni en Bonespeak.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64MZ_jIlHV5lB-7YvGWtO6eZu3F-G5PB7uVE3ipFUjme8AOr_MK_ohdPu0GAW9LzxGc4zpgJzzbiYsURPqsUfmSrf47utT-6c6KE9uCNZPBVf5iLqfhWGyhRjLtsLPf0xG9RfmgRmlvI/s1600/bush-skulls-satanismo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64MZ_jIlHV5lB-7YvGWtO6eZu3F-G5PB7uVE3ipFUjme8AOr_MK_ohdPu0GAW9LzxGc4zpgJzzbiYsURPqsUfmSrf47utT-6c6KE9uCNZPBVf5iLqfhWGyhRjLtsLPf0xG9RfmgRmlvI/s1600/bush-skulls-satanismo.jpg)
@@ -181,7 +181,7 @@ Según los informes, tienen los huesos de Gerónimo y Pancho Villa ocultos en la
 El autor e investigador Kris Milliken, afirma que el grupo central de _Skull and Bones_ sigue muy involucrado en el tráfico de droga. Son hechiceros de la muerte que realizan magia negra. La fortuna de la familia de Taft Russell vino de opio y de acuerdo a Eustace Mullins, la fraternidad siguió participando en el comercio de la droga desde la guerra de Vietnam.  
   
 Coordenadas de la Tumba: 41 ° 18'30.85 "N, 72 ° 55'48.33" W  
-Coordenadas de Deer Island : 44 ° 21'44 "N, 75 ° 54'25" W  
+Coordenadas de Deer Island : 44 ° 21'44 "N, 75 ° 54'25" W  
   
 **Fuentes y más información:**  
   
@@ -191,16 +191,15 @@ Ron Rosenbaum - Esquire Magazine - Septiembre de 1977
 **[George W. Caballero de Eulogia](http://www.theatlantic.com/magazine/archive/2000/05/george-w-knight-of-eulogia/304686/)**  
 Alexandra Robbins, 2000  
   
-**[Secretos de Tumba: Skull and Bones, la Ivy League, y los caminos ocultos de Potencia](http://www.amazon.com/exec/obidos/ASIN/0316735612/conspiracynut-20)** (Amazon) Alexandra Robbins, 2002  
+**[Secretos de Tumba: Skull and Bones, la Ivy League, y los caminos ocultos de Potencia](http://www.amazon.com/exec/obidos/ASIN/0316735612/conspiracynut-20)** (Amazon) Alexandra Robbins, 2002  
   
 **[Skull & Bones: Las investigaciones sobre la más poderosa sociedad secreta de los Estados Unidos](http://www.amazon.com/exec/obidos/ASIN/0975290606/conspiracynut-20)** (Amazon) - incluye una reimpresión de Archivo y garra folleto  
 Kris Millegan, 2004  
   
-**[El Secreto de América Establecido: Una introducción a la Orden de los Skull & Bones](http://www.amazon.com/exec/obidos/ASIN/0972020748/conspiracynut-20)**   
+**[El Secreto de América Establecido: Una introducción a la Orden de los Skull & Bones](http://www.amazon.com/exec/obidos/ASIN/0972020748/conspiracynut-20)**   
 (Amazon) Antony C. Sutton, 2004 ed  
 
-##   
-Nº 4 Consejo de Relaciones Exteriores
+## Nº 4 Consejo de Relaciones Exteriores
 
 3000 élites del mundo académico, el gobierno, los medios de comunicación, inteligencia, la milicia, la banca y las corporaciones.
 
@@ -304,7 +303,7 @@ Asistentes famosos: Henry Kissinger, David Rockefeller, Ronald Reagan, GW Bush, 
   
 Fundado en 1872, el Bohemian Grove es un camping 2,700 acres en medio de antiguos árboles de secoya ubicados en el condado de Sonoma, California. Cada mes de julio, las élites participaN en un campamento de 2 semanas para hacer sacrificios rituales al siniestro búho dios Moloch. Agentes del poder se reúnen en "El Santuario del Búho" para las informales "conversaciones junto al lago" Nixon canceló su programada _Lakeside Talk_ en 1971 debido a que los medios de comunicación insistieron en cubrirlo.  
   
-Gracias al trabajo de Alex Jones, Chris Jones y Phillip Weiss quienes se han infiltrado cada uno de forma individual en la arboleda, el mundo exterior ha sido capaz de reunir una gran cantidad de información sobre lo que sucede allí. Las imágenes de Alex Jones se pueden ver en **_Oscuros Secretos: Dentro del Bohemian Grove_** (Youtube, 2:02:56) y de Chris Jones (que trabajaba encubierto en el Grove) se puede ver en **_El fin de la Muerte_**, que fue lanzado 5 años más tarde para conmemorar la infiltración de la arboleda de Alex Jones (Youtube, 44:46).  
+Gracias al trabajo de Alex Jones, Chris Jones y Phillip Weiss quienes se han infiltrado cada uno de forma individual en la arboleda, el mundo exterior ha sido capaz de reunir una gran cantidad de información sobre lo que sucede allí. Las imágenes de Alex Jones se pueden ver en **_Oscuros Secretos: Dentro del Bohemian Grove_** (Youtube, 2:02:56) y de Chris Jones (que trabajaba encubierto en el Grove) se puede ver en **_El fin de la Muerte_**, que fue lanzado 5 años más tarde para conmemorar la infiltración de la arboleda de Alex Jones (Youtube, 44:46).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjozqkmkU9xj7MhLaVLmn9bS0O2W00zY6BUel-gb-rmuzgDHZYNIQoci7RVx50i-smrpMgREj_Ai0PQT-yGF5Yhkmg0W_bO5wmaf6QB9TIjipFnHIUE7E5yJx57_xbCDLMANx3h4iTos8o/s1600/reagan-nixon-grove.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjozqkmkU9xj7MhLaVLmn9bS0O2W00zY6BUel-gb-rmuzgDHZYNIQoci7RVx50i-smrpMgREj_Ai0PQT-yGF5Yhkmg0W_bO5wmaf6QB9TIjipFnHIUE7E5yJx57_xbCDLMANx3h4iTos8o/s1600/reagan-nixon-grove.jpg)
@@ -327,7 +326,7 @@ Philip Weiss, Spy Magazine, noviembre de 1989, páginas 59-76
 
 Los fundadores, la masonería y la capital de los Estados Unidos Parcialmente "inofensivos" hoy, los masones tuvieron un inmenso poder en el siglo 18 y 19. El documento histórico más antiguo de mencionar son los "Antiguos Cargos" de la masonería, un poema de Regius alrededor del año 1425. La Gran Logia de Inglaterra formada en 1717. Las expresiones masónicas que se han convertido en modismos comunes incluyen: "En la plaza", "En el nivel"y "otorgar/conseguir el tercer grado".  
   
-Han sido acusados ​​de planear la revolución americana y francesa y de los asesinatos de Jack el Destripador. El autor Stephen Knight escribe en _**La Hermandad**_ que la KGB controla la masonería y que esta ejerce el control sobre el MI5 y el MI6 y es un requisito para cualquier avance en Scotland Yard. En sus orígenes la orden se remonta a los Caballeros Templarios, y la _clave de Hiram_ traza el linaje hasta Jesús y el antiguo Egipto.  
+Han sido acusados de planear la revolución americana y francesa y de los asesinatos de Jack el Destripador. El autor Stephen Knight escribe en _**La Hermandad**_ que la KGB controla la masonería y que esta ejerce el control sobre el MI5 y el MI6 y es un requisito para cualquier avance en Scotland Yard. En sus orígenes la orden se remonta a los Caballeros Templarios, y la _clave de Hiram_ traza el linaje hasta Jesús y el antiguo Egipto.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihxhmOgC57mfm3O0UDbIn64bqrBIGJeTj-xMFhph6CQD1FyqVDoAfWSTV0zBSZP1auYBxhn3NaFc0aYfhb6lLzlsCQOIdLWoG1-xW4XFPJ5CWvFsIBAIzG2Aml77HUGVrQt2pYeykfh64/s1600/masoneria_estructura.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihxhmOgC57mfm3O0UDbIn64bqrBIGJeTj-xMFhph6CQD1FyqVDoAfWSTV0zBSZP1auYBxhn3NaFc0aYfhb6lLzlsCQOIdLWoG1-xW4XFPJ5CWvFsIBAIzG2Aml77HUGVrQt2pYeykfh64/s1600/masoneria_estructura.jpg)
@@ -335,7 +334,7 @@ Han sido acusados ​​de planear la revolución americana y francesa y de los 
 **Diagrama de los dos grandes cuerpos masónicos más influyentes.**
 
   
-Debido a las múltiples prohibiciones de la masonería por los Papas, un buen católico todavía espera unirse a los Caballeros de Colón, al igual que el presidente Kennedy, el Vaticano respondió a la Francmasonería. El Vaticano aún no revierte su postura sobre esta sociedad secreta, aunque hay muchos indicios de _insiders_ que indicarían que existen muchos masones infiltrados en el Vaticano. Véase el caso del **[ex jesuita Alberto Rivera](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)**.  
+Debido a las múltiples prohibiciones de la masonería por los Papas, un buen católico todavía espera unirse a los Caballeros de Colón, al igual que el presidente Kennedy, el Vaticano respondió a la Francmasonería. El Vaticano aún no revierte su postura sobre esta sociedad secreta, aunque hay muchos indicios de _insiders_ que indicarían que existen muchos masones infiltrados en el Vaticano. Véase el caso del **[ex jesuita Alberto Rivera](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)**.  
   
 Masonería se compone de tres niveles, conocidos como los grados de la Logia Azul:  
   
@@ -343,13 +342,13 @@ Masonería se compone de tres niveles, conocidos como los grados de la Logia Azu
 2\. Compañero  
 3\. Maestro Masón  
   
-Los no masones son llamados _Cowans_. Hay varios otros grados que un masón puede obtener una vez que se ha convertido en un Maestro Masón (tercer grado), que los mismo masones llaman grados adjuntos. Las más populares son el Rito Escocés de la Masonería, con 33 grados y el Rito de York.  
+Los no masones son llamados _Cowans_. Hay varios otros grados que un masón puede obtener una vez que se ha convertido en un Maestro Masón (tercer grado), que los mismo masones llaman grados adjuntos. Las más populares son el Rito Escocés de la Masonería, con 33 grados y el Rito de York.  
   
 Además, existen logias masónicas no "reconocidas" por la Gran Logia de Inglaterra, y como resultado, la mayoría de las logias masónicas "regulares". Por ejemplo, el Rito de Memphis-Misraim tiene 99 grados y el Gran Oriente de Francia acepta mujeres.  
   
 **Fuentes y más información:**  
 
-[Masonería Más Allá de la Luz](http://www.ritualypropaganda.com/2014/01/la-masoneria-mas-alla-de-la-luz-por.html) de Bill Schnoebelen  
+[Masonería Más Allá de la Luz](http://www.ritualypropaganda.com/2014/01/la-masoneria-mas-alla-de-la-luz-por.html) de Bill Schnoebelen  
 
 ### 
 
@@ -359,16 +358,16 @@ Un grupo de trescientos individuos descendientes de la Nobleza Negra, miembros f
 
   
 
-La existencia del Comité de los 300 es totalmente dependiente de la palabra del Dr. John Coleman, autor de la **_J_**_**erarquía de los**_ _**Conspiradores - La historia de El Comité de los 300**_.  
+La existencia del Comité de los 300 es totalmente dependiente de la palabra del Dr. John Coleman, autor de la **_J_**_**erarquía de los**_ _**Conspiradores - La historia de El Comité de los 300**_.  
   
-Joseph Pavlonksy - John Clarke - Doctor - Coleman nos dice que él escuchó sobre el Comité supranacional de 300 o "los olímpicos" durante su permanencia en el MI6 en Angola. Entonces decidió dedicar el resto de su vida a la exposición de este grupo. Su condición de denunciante MI6 y el origen de su doctorado no se discuten en las entrevistas. (que conduce Eustace Mullins al cuestionar sus motivos.)  
+Joseph Pavlonksy - John Clarke - Doctor - Coleman nos dice que él escuchó sobre el Comité supranacional de 300 o "los olímpicos" durante su permanencia en el MI6 en Angola. Entonces decidió dedicar el resto de su vida a la exposición de este grupo. Su condición de denunciante MI6 y el origen de su doctorado no se discuten en las entrevistas. (que conduce Eustace Mullins al cuestionar sus motivos.)  
   
 Coleman utiliza el núcleo de la literatura sobre teoría de la conspiración y añade su propio grupo secreto que supuestamente controla todos los demás. Todos los "jugadores" habituales están allí. El Grupo Bilderberg, el Instituto Real de Asuntos Internacionales, el Club de Roma, la Comisión Trilateral y del Consejo de Relaciones Exteriores todos hacen su aparición y sirven como los brazos ejecutivos del Comité de 300. En el escenario de Coleman, el RIIA está por encima de todo los demás y elige al secretario de Estado norteamericano y mediante él/ella, dan al presidente de Estados Unidos las órdenes que debe poner en marcha.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN_fmfIJ0oAyap-OlXNhZry7HrGnHC5k7oud9Vu5yB6Miw7NTi92Bu_sOWJfvmNOmAg_C5mLNS2oRjRQBW79ZdORSQZuAjuj9Q-_T0iPefR4-Vg5x5SKQU8gT_XckWLK7HJkdOen1PYHE/s1600/Club-DE-LOS-300.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN_fmfIJ0oAyap-OlXNhZry7HrGnHC5k7oud9Vu5yB6Miw7NTi92Bu_sOWJfvmNOmAg_C5mLNS2oRjRQBW79ZdORSQZuAjuj9Q-_T0iPefR4-Vg5x5SKQU8gT_XckWLK7HJkdOen1PYHE/s1600/Club-DE-LOS-300.jpg)
 
- "**Jerarquía de los Conspiradores, La historia de El Comité de los 300" del Dr. John Coleman.**
+ "**Jerarquía de los Conspiradores, La historia de El Comité de los 300" del Dr. John Coleman.**
 
   
 También habla sobre temas populares, tales como la Nobleza Negra, (el grupo varía mucho en la tradición de la conspiración histórica) que según Coleman, hace parecer a los Borgia como maestros de escuela dominical. (Los nobles misteriosos son siempre un deleitó al público.) De acuerdo con los extensos estudios del Dr. Coleman en el Museo de El Cairo (?), ninguno de los miembros de las familias de la Nobleza Negra han muerto a causa de la peste negra. Descubrió que bebían un compuesto secreto de hierbas y se expusieron a la radiación de baja frecuencia haciéndolos inmunes a la enfermedad.  
@@ -411,8 +410,7 @@ Alex Jones Show
 **[21 Metas de los Illuminati y el Comité de los 300](http://educate-yourself.org/cn/johncolemangoalsofIlluminati.shtml)** (educate-yourself.org)  
 Lista típica de las metas de los Illuminati  
 
-##   
-Nº 10 Caballeros Templarios
+## Nº 10 Caballeros Templarios
 
 La Orden Militar de monjes guerreros fundada en las postrimerías de la Primera Cruzada.  
   

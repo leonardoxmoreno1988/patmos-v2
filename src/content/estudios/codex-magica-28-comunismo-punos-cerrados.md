@@ -9,7 +9,7 @@ description: "\"¡Cómo se corta y rompe el martillo de toda la tierra! ¡cómo 
 tags: ["Sociedad"]
 ---
 
-> "¡Cómo se corta y rompe el martillo de toda la tierra! ¡cómo se convierte Babilonia en desolación entre las naciones! ... Esta es la obra del Señor Dios de los ejércitos ..."- Jeremías 50:23, 25  
+> "¡Cómo se corta y rompe el martillo de toda la tierra! ¡cómo se convierte Babilonia en desolación entre las naciones! ... Esta es la obra del Señor Dios de los ejércitos ..."- Jeremías 50:23, 25  
 >   
 > "El comunismo fue únicamente la invención de los judíos."- Sir Winston Churchill, London Illustrated Herald (8 de febrero de 1920)
 
@@ -21,7 +21,7 @@ tags: ["Sociedad"]
 La pandilla más brutal, asesina y monstruosa de todos los tiempos fue el régimen comunista en la Rusia soviética, la U.S.S.R. Según el famoso historiador Aleksandr Solzhenitsyn, sesenta y seis millones de personas perecieron en los campos de concentración del gulag soviético y en la liquidación de los granjeros y pequeños empresarios. **(1)** Por el contrario, el notorio Adolf Hitler y sus nazis eran los que pugnaban. El verdadero holocausto ocurrió en la Unión Soviética, y muchas de esas muertes y tormentos ocurrieron antes de que los nazis construyeran un solo campamento. Hitler y Himmler deben haber estado verdes de envidia.  
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Lo que es más sorprendente, al menos para el público general desinformado, es que pocos son conscientes del Holocausto soviético. Debido a la propiedad judía de los medios occidentales, todo el énfasis se pone en los crímenes de los nazis. Los horrores del Terror Rojo están descuidados. Tal vez más notable, en muchos medios y círculos académicos, los monstruos que cometieron las atrocidades en la Rusia Soviética -auspiciados por Lenin, Trotsky, Stalin, Kaganovich, Beria y otros- a menudo son adorados, siendo arrojados con una luz favorable.  
   
@@ -53,7 +53,7 @@ Lenin estaba casado con una esposa judía, Krupsakaya. Molotov se casó con una 
 
 Tan dominante era la influencia judía en el régimen comunista y su sangriento Terror Rojo que Sir Winston Churchill, en el periódico _London Illustrated Herald_, declaró que, "El comunismo era únicamente la invención de los judíos". **(5)** Y, añadió, no es una cosa nueva, ya que los judíos históricamente han sido personas que han fomentado revoluciones y horrores sangrientos. Churchill dijo que la trama revolucionaria mundial judía se remonta a los días de Adam Weishaupt y su Orden bávara de los Illuminati (1776).  
   
-Churchill continuó enfatizando que esta "conspiración mundial para el derrocamiento de la civilización y la reconstrucción de la sociedad ... ha estado creciendo constantemente". Ahora, advierte, esta banda de asesinos y matones "se han convertido en los amos indiscutibles del enorme imperio ruso". **(6)**  
+Churchill continuó enfatizando que esta "conspiración mundial para el derrocamiento de la civilización y la reconstrucción de la sociedad ... ha estado creciendo constantemente". Ahora, advierte, esta banda de asesinos y matones "se han convertido en los amos indiscutibles del enorme imperio ruso". **(6)**  
   
 Solzhenitsyn registra que más del 60 por ciento de los comisarios que encabezaban los campamentos de Gulag en los EE. UU. Eran judíos. Otros historiadores estiman que el número es del 80 por ciento. Todos los líderes de la temida Checka, la KGB y la policía secreta eran judíos, incluida la carnicería Beria.  
   
@@ -172,7 +172,7 @@ Actualizado a tiempos más recientes, encontramos que en su libro de ocultismo, 
 En _El Simbolismo del Color_, Faber Birren señala la primacía del color rojo. Él nota:  
   
 
-> **"En la religión del antiguo Egipto, el dios Shu era rojo, y los animales rojos simbolizaban a Seth. La amapola roja era sagrada para Ceres, la Diosa de la cosecha. La cara del vino: Dios Dionisio a veces se pintaba de rojo." (20)**
+> **"En la religión del antiguo Egipto, el dios Shu era rojo, y los animales rojos simbolizaban a Seth. La amapola roja era sagrada para Ceres, la Diosa de la cosecha. La cara del vino: Dios Dionisio a veces se pintaba de rojo." (20)**
 
   
 En mis investigaciones de tradiciones ocultas, el color rojo es siempre el color del fuego y la sangre, del mal y la destrucción, y de la inmoralidad. Incluso el Diablo a veces se concibe como una bestia roja.  
@@ -398,7 +398,7 @@ Sin embargo, la Francmasonería inglesa (la Logia Unida de Gran Bretaña) sustit
   
 Finalmente, llegamos a la escuadra modificada y el compás de la francmasonería francesa y su Gran Logia del Oriente. Esta Logia y sus miembros son decididamente anticristianos y son marcadamente procomunistas. En 1877, la Gran Logia de Oriente declaró: "No hay más dios que la humanidad". Adoptando la Razón como su dios, reemplazaron la "G" con el ahora símbolo comunista de la hoz y el martillo. Esto representa al hombre común colectivo, el proletariado.  
   
-John Daniel señala que el símbolo sustituido de la Logia francesa dentro de la escuadra y el compás  forma la letra "G" hacia atrás, "que es un símbolo de la negación de Dios". Fue Albert Pike quien escribió, en _Morales y Dogma_, que no existe una persona o entidad real llamada "Satanás". Pike afirmó que Satanás es simplemente una Fuerza, la negación de Dios. (Ilustraciones: Scarlet and the Beast, por John Daniel, publicado en 1994, JKI Publishing, P. O. Box 131480, Tyler, TX 75713)  
+John Daniel señala que el símbolo sustituido de la Logia francesa dentro de la escuadra y el compás  forma la letra "G" hacia atrás, "que es un símbolo de la negación de Dios". Fue Albert Pike quien escribió, en _Morales y Dogma_, que no existe una persona o entidad real llamada "Satanás". Pike afirmó que Satanás es simplemente una Fuerza, la negación de Dios. (Ilustraciones: Scarlet and the Beast, por John Daniel, publicado en 1994, JKI Publishing, P. O. Box 131480, Tyler, TX 75713)  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYZPEEwF80UheFJvjZliVqGVo3-XZ8jk04Dd7SNqjE9NsstfyeAQMplOX9usABaLhFLxEsq2u6wxe6M75mZEGgqFrsyNyi9i_ATwClKeoHAyNCReO6govz0JeMMf3DiXkXf6fnW8KuZHY/s1600/codex_197.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYZPEEwF80UheFJvjZliVqGVo3-XZ8jk04Dd7SNqjE9NsstfyeAQMplOX9usABaLhFLxEsq2u6wxe6M75mZEGgqFrsyNyi9i_ATwClKeoHAyNCReO6govz0JeMMf3DiXkXf6fnW8KuZHY/s1600/codex_197.jpg)

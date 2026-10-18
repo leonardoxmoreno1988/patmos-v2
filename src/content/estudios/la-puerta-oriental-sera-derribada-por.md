@@ -11,7 +11,7 @@ tags: ["Escatología"]
 
 Estimado lector,  
   
-Es interesante que haya dos ciudades en Palestina conectadas directamente con el futuro Rey de los judíos, estas son [Belén](https://es.wikipedia.org/wiki/Bel%C3%A9n) y [Hebrón](https://es.wikipedia.org/wiki/Hebr%C3%B3n), y ambas han sido entregadas al control musulmán.  
+Es interesante que haya dos ciudades en Palestina conectadas directamente con el futuro Rey de los judíos, estas son [Belén](https://es.wikipedia.org/wiki/Bel%C3%A9n) y [Hebrón](https://es.wikipedia.org/wiki/Hebr%C3%B3n), y ambas han sido entregadas al control musulmán.  
   
 Si los musulmanes pudieran, tomarían también el control de la ciudad más importante, Jerusalén. Ellos no quieren que tal Rey regrese (Salmo 2:1-3); es por eso que cementaron la [Puerta Oriental de Jerusalén](https://es.wikipedia.org/wiki/Puerta_Dorada#:~:text=La%20Puerta%20Dorada%20\(%D7%A9%D7%A2%D7%A8%20%D7%94%D7%A8%D7%97%D7%9E%D7%99%D7%9D,Puerta%20de%20la%20Vida%20Eterna.) y la cerraron en 1187 d. C., para evitar que se cumpliera Ezequiel 44:1-3 y Ezequiel 46:1-2.  
 

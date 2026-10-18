@@ -9,7 +9,7 @@ description: "Tomando como medio la ciencia ficción, Hollywood a logrado infilt
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -46,7 +46,7 @@ Básicamente Thor es el hijo de Odín, el cual cae a la tierra como un rayo, rep
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGPPM73Yv-9-1vVZjj0Hm7W_nMSE6qfVQdYW_h_HBJsbaLnBV8uihJPM1TRFAacCfn2kZNuUnViJwLA5r4mN13aW1-aNx8XlA5SGrqdOUn0TcQgucBMyUUk1pJec8EQ3Vj3NNCII-oVxbx/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGPPM73Yv-9-1vVZjj0Hm7W_nMSE6qfVQdYW_h_HBJsbaLnBV8uihJPM1TRFAacCfn2kZNuUnViJwLA5r4mN13aW1-aNx8XlA5SGrqdOUn0TcQgucBMyUUk1pJec8EQ3Vj3NNCII-oVxbx/)
 
-  **Odin/Lucifer/Horus representado como el Dios de un solo ojo. Su hijo Loki con cuernos revelando la verdadera naturaleza satánica.**
+  **Odin/Lucifer/Horus representado como el Dios de un solo ojo. Su hijo Loki con cuernos revelando la verdadera naturaleza satánica.**
 
   
 
@@ -64,7 +64,7 @@ Lo que finalmente lo trae a este artículo es un dialogo entre el extraterrestre
 
 > **"Tus ancestros lo llamaron magia, pero tu lo llamas ciencia. Yo vengo de una tierra donde son la misma cosa."**
 
- En otra escena de la película Jane le dice a su compañero astrofísico:
+ En otra escena de la película Jane le dice a su compañero astrofísico:
 
 > **"La magia es solo ciencia que todavía no entendemos"**
 
@@ -76,13 +76,13 @@ Esta película realmente fue una fiesta de símbolos y satanismo gnóstico. En e
 
   
 
- [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiThqxcrDoXutg8ZgK0MA3ahyphenhyphenMWoOTPCJVYKb2jhBO1UoiRv5vCArxgoIzn0FUmlv-pYif0RarJXA5RmO_YCEWC62CMQsWaYfwMJcvn21glZON4pFa4wD0vLH747_kgirOGLm157D8pl1pD/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiThqxcrDoXutg8ZgK0MA3ahyphenhyphenMWoOTPCJVYKb2jhBO1UoiRv5vCArxgoIzn0FUmlv-pYif0RarJXA5RmO_YCEWC62CMQsWaYfwMJcvn21glZON4pFa4wD0vLH747_kgirOGLm157D8pl1pD/)
+ [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiThqxcrDoXutg8ZgK0MA3ahyphenhyphenMWoOTPCJVYKb2jhBO1UoiRv5vCArxgoIzn0FUmlv-pYif0RarJXA5RmO_YCEWC62CMQsWaYfwMJcvn21glZON4pFa4wD0vLH747_kgirOGLm157D8pl1pD/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiThqxcrDoXutg8ZgK0MA3ahyphenhyphenMWoOTPCJVYKb2jhBO1UoiRv5vCArxgoIzn0FUmlv-pYif0RarJXA5RmO_YCEWC62CMQsWaYfwMJcvn21glZON4pFa4wD0vLH747_kgirOGLm157D8pl1pD/)
 
   
 
 Se podría escribir un artículo completo de esta película, pero los puntos principales para promover la agenda illuminati es nuevamente la creencia en seres extraterrestres, superiores y su casi deber para salvarnos de cualquier peligro inminente. Muy aparte de esto, Linterna Verde simboliza iniciación de Hall Jordan a una sociedad secreta intergaláctica. Existe muchas conexiones en la trama de esta película con la masonería, donde el iniciado también se le dice que fue escogido por los "Maestros Ocultos" para extender su conocimiento y estar por encima del ciudadano promedio. Uno de estos ejemplos se ve cuando Hall sobrevuela un avión militar de prueba, él esta sujeto a los limites mortales de la tecnología. Minutos mas tarde tras recibir sus poderes, él rompe estos paradigmas y es capaz de volar por el universo usando solo su anillo, este anillo representa las enseñanzas de las sociedades secretas y las supuestas verdades que encierra.  
   
-Cuando Hall llega al planeta de los linterna verde, otros extraterrestres se encargan de enseñarle acerca de los poderes de la mente sobre la materia. Obviando la clara reminiscencia al Proyecto Montauk, es una de las frases mencionadas por el E.T que llama la atención.  
+Cuando Hall llega al planeta de los linterna verde, otros extraterrestres se encargan de enseñarle acerca de los poderes de la mente sobre la materia. Obviando la clara reminiscencia al Proyecto Montauk, es una de las frases mencionadas por el E.T que llama la atención.  
 
 > **"He escuchado sobre los humanos, se creen el centro del universo"**
 
@@ -112,7 +112,7 @@ Tomándome el riesgo de ser insistente, la película en sí forma parte del inme
 
 Lo que esta organización hace con esta información no se ve en la película, incluso esta escena llega a parecer innecesaria para la historia, pero esta ahí, posiblemente para dejar en claro quien maneja la información y la verdad sobre la vida extraterrestre. En otra escena la novia de Hal descubre su identidad y él trata de explicar la razón de sus poderes:  
 
-> **"¿Osea que todo tiene q ver con ese anillo mágico?"** 
+> **"¿Osea que todo tiene q ver con ese anillo mágico?"** 
 
 > **"No, no existe tal cosa como la magia. Guardianes Intergalácticos de Paz."**
 
@@ -134,13 +134,13 @@ Estos experimentos para crear al supersoldados realmente se efectuaron y si estu
 
   
 
-Otro hecho basado en la realidad y llevado a la película fue una división de los Nazis llamada Craneo Rojo, encargada de buscar nuevas fuentes del conocimiento oculto para ganar la guerra. Johann Schmidt es el líder de Craneo Rojo, un ser que en la película busca una fuente de poder inagotable y que le daría ventaja en la guerra incluso por encima de [Adolf Hitler](http://www.ritualypropaganda.com/2017/05/hitler-era-cristiano-historiadores-dicen-no.html). Este personaje, al igual que su organización si existieron en la historia con el nombre de Sociedad Thule. Esta sociedad fue literalmente ocultista y basaba sus creencias en rituales de magia y la brujería. La Sociedad Thule afirmaba que la raza aria era una de las descendientes de la Atlántida y que debido a su pureza era la única que debía prevalecer, esta estrecha relación con el racismo la llevo a fusionarse con el Partido Nazi de Hitler. Muchas teorías afirman que la Sociedad Thule no dejo de existir, sino que se volvió una división interna del Partido Nazi, muchos de los miembros se volvieron funcionario de alto rango de Hitler y se dice que lo adiestraron en el ocultismo y sus doctrinas místicas. Heinrich Himmler era uno de ellos y fácilmente podría ser el Johann Schmidt que vemos en la película.  
+Otro hecho basado en la realidad y llevado a la película fue una división de los Nazis llamada Craneo Rojo, encargada de buscar nuevas fuentes del conocimiento oculto para ganar la guerra. Johann Schmidt es el líder de Craneo Rojo, un ser que en la película busca una fuente de poder inagotable y que le daría ventaja en la guerra incluso por encima de [Adolf Hitler](http://www.ritualypropaganda.com/2017/05/hitler-era-cristiano-historiadores-dicen-no.html). Este personaje, al igual que su organización si existieron en la historia con el nombre de Sociedad Thule. Esta sociedad fue literalmente ocultista y basaba sus creencias en rituales de magia y la brujería. La Sociedad Thule afirmaba que la raza aria era una de las descendientes de la Atlántida y que debido a su pureza era la única que debía prevalecer, esta estrecha relación con el racismo la llevo a fusionarse con el Partido Nazi de Hitler. Muchas teorías afirman que la Sociedad Thule no dejo de existir, sino que se volvió una división interna del Partido Nazi, muchos de los miembros se volvieron funcionario de alto rango de Hitler y se dice que lo adiestraron en el ocultismo y sus doctrinas místicas. Heinrich Himmler era uno de ellos y fácilmente podría ser el Johann Schmidt que vemos en la película.  
   
-Una escena muy simbólica se puede ver al comienzo cuando Johann Schmidt entra abruptamente a un castillo para robar "el cubo". El anciano que resguarda este artefacto sostiene un pequeña conversación con Schmidt antes de su muerte. 
+Una escena muy simbólica se puede ver al comienzo cuando Johann Schmidt entra abruptamente a un castillo para robar "el cubo". El anciano que resguarda este artefacto sostiene un pequeña conversación con Schmidt antes de su muerte. 
 
 > **"Lo que otros creen una superstición (magia) usted y yo lo consideramos una ciencia."**
 
-Schmidt descubre que el cubo esta escondido en una pared donde se encuentra tallado un árbol. Este árbol en términos cabalísticos simboliza el conocimiento oculto, el proveedor de la sabiduría. Esta es la escencia de las sociedades secretas por lo que tiene mucha importancia durante la película. Mientras camina hacia el árbol menciona:  
+Schmidt descubre que el cubo esta escondido en una pared donde se encuentra tallado un árbol. Este árbol en términos cabalísticos simboliza el conocimiento oculto, el proveedor de la sabiduría. Esta es la escencia de las sociedades secretas por lo que tiene mucha importancia durante la película. Mientras camina hacia el árbol menciona:  
 
 > **"El árbol de los mundos, guardián de la sabiduría y también del destino."**
 
@@ -179,8 +179,7 @@ Después de robar el cubo, Schmidt es visitado por Nazis para ver los avances de
 
 Luego se rebela contra los propios Nazis y los asesina, creando su propio ejército y con sus propios métodos de conquista mundial. La intención de interpretar la magia como ciencia es muy constante durante el avance de la película y como también hemos visto en casi todas las últimas producciones de Marvel, en el caso de Iron Man es mediante el [transhumanismo](http://www.ritualypropaganda.com/2017/07/transhumanismo-industria-musical-y-el-futuro.html) y su vinculo con el dios Prometeus.
 
-##   
-El Aprendiz de Brujo (2010)
+## El Aprendiz de Brujo (2010)
 
 En el film "El Aprendiz de Brujo" de Disney, Nicolas Cage interpreta a Baltazar, un viejo mago en busca de un joven aprendiz con la capacidad de vencer a una antigua bruja y su intento por resucitar a los muertos. Al encontrar al joven mago este lo empieza a instruir acerca de la magia y diversas técnicas de hechicería.  
   
@@ -258,7 +257,7 @@ Es conocido principalmente por ser el fundador de la Iglesia de Satán, fue un i
 
 Fue una escritora, ocultista y teósofa rusa. Fue también una de las fundadoras de la Sociedad Teosófica y contribuyó a la difusión de la Teosofía moderna. Sus doctrinas forman parte de la actual enseñanza masónica y nueva era, así como lo es la canalización de seres de otras galaxias.  
 > "La magia considerada como una ciencia es el conocimiento de los principios y la forma mediante la cual puede ser la omnisciencia y la omnipotencia del Espíritu y de su control sobre las fuerzas de la naturaleza adquiridos por el individuo, a pesar de que todavía está dentro de su propio cuerpo . Considerada como un arte, la magia es la aplicación de este conocimiento a la práctica."  
-> \- Helena Blavatsky - Isis Unveiled 
+> \- Helena Blavatsky - Isis Unveiled 
 
 ## Aleister Crowley
 

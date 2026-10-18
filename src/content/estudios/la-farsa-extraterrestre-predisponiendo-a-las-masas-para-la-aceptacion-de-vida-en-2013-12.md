@@ -9,7 +9,7 @@ description: "Según narra la historia, en Julio de 1959 el Papa Juan XXIII sost
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -25,7 +25,7 @@ Durante los últimos años no ha habido tema tan aludido por la Iglesia Católic
 
 ## El Papa Bueno
 
-Uno de los relatos que han repercutido en la temática OVNIs/Vaticano, incluyen al "Papa Bueno", Juan XXIII, en una de sus caminatas junto a su asistente. Este ultimo dio una entrevista en 2005 donde seguro que el Sumo Pontífice habría tenido un contacto con un ser de otro planeta. El hecho ocurrió una noche de julio de 1961 cuando Juan XXIII se encontraba paseando junto con el citado secretario en los jardines de la locación veraniega de Castel Gandolfo. Narra el asistente:  
+Uno de los relatos que han repercutido en la temática OVNIs/Vaticano, incluyen al "Papa Bueno", Juan XXIII, en una de sus caminatas junto a su asistente. Este ultimo dio una entrevista en 2005 donde seguro que el Sumo Pontífice habría tenido un contacto con un ser de otro planeta. El hecho ocurrió una noche de julio de 1961 cuando Juan XXIII se encontraba paseando junto con el citado secretario en los jardines de la locación veraniega de Castel Gandolfo. Narra el asistente:  
   
 
 > "El Papa y yo estábamos caminando a través del jardín, una noche del mes de julio de 1961, cuando observamos sobre nuestras cabezas una nave muy luminosa. Era de forma oval y tenía luces intermitentes, de un color azul y ámbar. La nave pareció sobrevolar nuestras cabezas por unos minutos, para luego aterrizar sobre el césped, en el lado sur del jardín.  
@@ -90,7 +90,7 @@ Sitchin por su parte, describe su encuentro con Balducci en con las siguientes p
 
 > Durante la sesión de varias horas, Monseñor Balducci delineó la posición que iba a establecer, de un texto preparado, en su parlamento del día siguiente. Mientras mi acercamiento se basó en la evidencia física, él suyo fue uno teológico-filosófico Católico Romano, en busca de los aspectos espirituales. Sin embargo, nuestras conclusiones convergieron."
 
-   
+   
 
 [Zecharia Sitchin](http://www.youtube.com/watch?v=gNrCUwLw1y8) es muy bien conocido en el fenómeno extraterrestre por concluir, tras el estudio y traducción de las tablas sumerias, que seres de otros planetas tuvieron una comunicación directa con esta cultura antigua, también que estos personajes estelares llamados "Annunaki" habrían creado a la raza humana en base a experimentos genéticos. Si es verdad que las conclusiones de Balducci convergen con las historias sumerias, el Monseñor tiene mucho más en común con la doctrina nueva era que con la misma historia del Génesis. Personalmente puedo decir que Corrado Balducci fue usado -al igual que otros contactados- por estas entidades para impulsar la misma doctrina de Sitchin y los altos niveles de la masonería.  
   
@@ -145,7 +145,7 @@ La película del 2009, "El Presagio" es un claro arquetipo de programación pred
 
 La película comienza en 1959 en una escuela primaria en Lexington, Massachusetts. Una joven llamada Lucinda Embry tiene la habilidad de oír voces en forma de susurros indistinguibles.
 
-   
+   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW2XX2qDLrvdNdq20Ynye0z3APy8-AX2dzhflvmbnxD_ys8IjAWKB1n8C2pKEcdZcnGUDJULGQGTNqztB8lKXnmmZIGL0EvS-U6sk8iHvSS3H5smLRo0jh7lIbWa9pzhRedmgrMEP-T8I/s1600/photo1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW2XX2qDLrvdNdq20Ynye0z3APy8-AX2dzhflvmbnxD_ys8IjAWKB1n8C2pKEcdZcnGUDJULGQGTNqztB8lKXnmmZIGL0EvS-U6sk8iHvSS3H5smLRo0jh7lIbWa9pzhRedmgrMEP-T8I/s1600/photo1.jpg)
 
@@ -257,7 +257,7 @@ En su segunda visita, estos seres le muestran a Caleb un escenario perturbador s
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV82CLZx_qh5JFjRQU8VCS-rAPQEfcOMQ9vthDl4DVv5y1QmrKje87EfgIh7eApLTUkohKb3cTlq5KLqExuWA9vYbC-AkmMM1t9jXhTidvJtPr7SGzI9-Y9UTnAklPLSPE55UKdbrcSYs/s1600/photo11.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV82CLZx_qh5JFjRQU8VCS-rAPQEfcOMQ9vthDl4DVv5y1QmrKje87EfgIh7eApLTUkohKb3cTlq5KLqExuWA9vYbC-AkmMM1t9jXhTidvJtPr7SGzI9-Y9UTnAklPLSPE55UKdbrcSYs/s1600/photo11.jpg)
 
-**"Por tanto, así como la cizaña se recoge y se quema en el fuego, de la misma manera será en el fin del mundo." -Mateo 13: 40**
+**"Por tanto, así como la cizaña se recoge y se quema en el fuego, de la misma manera será en el fin del mundo." -Mateo 13:40**
 
   
 
@@ -293,7 +293,7 @@ Algo que completa el estado de hipnosis subconsciente de la película tiene luga
 
   
 
- [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAQWgySBiDp4VPt6yMEMEXxO0dcHp6CqnZWE6IR3K_H-zwxGPVYJH0FJq6BzlWY4cMkrX8v2n0dV08oZ9ty7sCRDqe2C9OTOtaXc97OYRo7B7yVvvUgESXuvrC2K3gKIvrXVm_sPXCUQQ/s1600/photo18.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAQWgySBiDp4VPt6yMEMEXxO0dcHp6CqnZWE6IR3K_H-zwxGPVYJH0FJq6BzlWY4cMkrX8v2n0dV08oZ9ty7sCRDqe2C9OTOtaXc97OYRo7B7yVvvUgESXuvrC2K3gKIvrXVm_sPXCUQQ/s1600/photo18.jpg)
+ [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAQWgySBiDp4VPt6yMEMEXxO0dcHp6CqnZWE6IR3K_H-zwxGPVYJH0FJq6BzlWY4cMkrX8v2n0dV08oZ9ty7sCRDqe2C9OTOtaXc97OYRo7B7yVvvUgESXuvrC2K3gKIvrXVm_sPXCUQQ/s1600/photo18.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAQWgySBiDp4VPt6yMEMEXxO0dcHp6CqnZWE6IR3K_H-zwxGPVYJH0FJq6BzlWY4cMkrX8v2n0dV08oZ9ty7sCRDqe2C9OTOtaXc97OYRo7B7yVvvUgESXuvrC2K3gKIvrXVm_sPXCUQQ/s1600/photo18.jpg)
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ttnS33YjUOPkHUv0urdWThf83f3VvZjzVNuRmDKtyow5kFKRXxMwGeDHjR91l1Lit2L67y0N81muir6InWbwLFIA8DfUNYxVvr3sQOdaXDSAlqgvIyp_k49OIp6RLcidHrDrcnmpe8A/s1600/photo19.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ttnS33YjUOPkHUv0urdWThf83f3VvZjzVNuRmDKtyow5kFKRXxMwGeDHjR91l1Lit2L67y0N81muir6InWbwLFIA8DfUNYxVvr3sQOdaXDSAlqgvIyp_k49OIp6RLcidHrDrcnmpe8A/s1600/photo19.jpg)
 

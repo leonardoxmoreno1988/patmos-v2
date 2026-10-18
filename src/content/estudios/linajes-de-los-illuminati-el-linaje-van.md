@@ -9,13 +9,13 @@ description: "Siendo uno de los últimos capítulos de \"Bloodlines of the Illum
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
 Siendo uno de los últimos capítulos de "Bloodlines of the Illuminati", el **Linaje Van Duyn** es expuesto como una de las familias más poderosas de Holanda. Descubra también sus estrategias para la despoblación mundial y su conexión con los servicios secretos.
 
- 
+ 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQoqs9KpIuY_Id1TPTv022g5H-LKTmfRwMz0n_jZu7mNUE90H9DYAnf5sS1XUK-zoPzXqrK6rJO16IwCVvIp1608MAT7LUumWRmGUlEY9L6vyrGEh8XLkjtvnO_wCNimxbtMDq9X44Y5c/s1600/vanduyn.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQoqs9KpIuY_Id1TPTv022g5H-LKTmfRwMz0n_jZu7mNUE90H9DYAnf5sS1XUK-zoPzXqrK6rJO16IwCVvIp1608MAT7LUumWRmGUlEY9L6vyrGEh8XLkjtvnO_wCNimxbtMDq9X44Y5c/s1600/vanduyn.jpg)
 
@@ -92,7 +92,7 @@ Historicamente, hubo algunos Van Duyns que llamaron mi atenciòn:
 -   William Van Duyn (1695-1773) - dejò dos plantaciones a sus hijos.
 -   Aaron Van Duyn (1830- 1899) - trustee y diàcono de la Iglesia Episcopal Metòdica.
 -   Alfred Van Duyn Voorhees (1843 -?) - Un empresario de pompas fúnebres o Middlebush, NJ.
--   Harrison Van Duyn (1845-1914) - miembro de la legislatura de NJ. en 1879, se convirtió en Presidente de la Cámara en 1881, masòn, miembro del Rito de York escocès, miembro de la Sociedad de Holanda 
+-   Harrison Van Duyn (1845-1914) - miembro de la legislatura de NJ. en 1879, se convirtió en Presidente de la Cámara en 1881, masòn, miembro del Rito de York escocès, miembro de la Sociedad de Holanda 
 -   (ver el libro de la Sociedad de Holanda de 1915), y miembro de otras numerosas organizaciones empresariales y de las sociedades .
 -   Horace N. Van Duyn - accionista del Banco Nacional de Boston.
 -   Lewis Van Duyn - Supervisor, organizador y presidente de Boonton Water Co., propietario de un montón de bienes raíces.
@@ -245,7 +245,7 @@ Sin embargo. funcionarios de la empresa declararon que la quiebra no era más qu
 
 ## Una Cadena De Extrañas Coincidencias
 
-Una cosa extraña que me ocurriò, pienso yo que puede ser sólo una coincidencia o una pieza más del rompecabezas. 
+Una cosa extraña que me ocurriò, pienso yo que puede ser sólo una coincidencia o una pieza más del rompecabezas. 
 
   
 No voy a mencionar nombres, porque no sé cómo esto encaja en todo. Uno de los hombres que es dueño de dos tiendas Van Duyn es un ex misionero de Taiwán y un ministro. Este ex - misionero es un amigo cercano de uno de los más poderosos generales del ejército chino libre. Conduce Cadillacs, y cuando visita China le es puesta la alfombra roja por parte de su amigo el general militar.  
@@ -291,7 +291,7 @@ Si en el período de 1968 hubiera habido un Van Duyn sirviendo como enlace entre
 
 Uno de los hombres que ha trabajado para el Nuevo Orden Mundial en sus centros de investigación y con sus agencias de inteligencia es el profesor William R. Van Cleave, quien es descendiente de las familias de la Nueva Holanda. Su nombre es mencionado ahora, porque es muy posible que los Van Duyn y los Van Cleeve se casaran entre ellos.  
   
-Sé que William Van Duyn se casó con Sarah Van Cleef en Somerset, Nueva Jersey, en torno a 1750. El Prof. Van Cleave trabajó para la RAND, el Instituto de Investigaciòn de Stanford, y el Departamento de Estudios Estratégicos y de Defensa en la Universidad. de So. California, y fue asesor del Pentágono, de las conferencias SALT, etc. 
+Sé que William Van Duyn se casó con Sarah Van Cleef en Somerset, Nueva Jersey, en torno a 1750. El Prof. Van Cleave trabajó para la RAND, el Instituto de Investigaciòn de Stanford, y el Departamento de Estudios Estratégicos y de Defensa en la Universidad. de So. California, y fue asesor del Pentágono, de las conferencias SALT, etc. 
 
   
 Los Van Cleves se dice que se originaron a partir de un antepasado, Jan Van Cleef, quien era hijo de la nobleza holandesa - el último Duque de Cleves.  
@@ -500,7 +500,7 @@ Los servicios de inteligencia británicos y estadounidenses lo saben. Algunos de
   
 Bob Hope era "sólo un artista, " y sin embargo, él visitó a Roosevelt, Churchill, Eisenhower, Pattan, y todo tipo de militares.  
   
-Bob viajó por todo el mundo en todos los frentes durante la guerra, incluyendo Inglaterra, África, el Pacífico Sur, el Este y la costa oeste de los EE.UU, el Caribe, Panamá, etc. Él podría encajar todo tipo de señales en sus bromas y charlas, y nadie lo sabría. Bajo el disfraz de la construcción moral por ser un comediante, Bob podría ir a cualquier parte y porque siempre estaba haciendo bromas, nadie lo tomó en serio. Bob Hope era un mensajero, un mensajero portador de mensajes codificados. 
+Bob viajó por todo el mundo en todos los frentes durante la guerra, incluyendo Inglaterra, África, el Pacífico Sur, el Este y la costa oeste de los EE.UU, el Caribe, Panamá, etc. Él podría encajar todo tipo de señales en sus bromas y charlas, y nadie lo sabría. Bajo el disfraz de la construcción moral por ser un comediante, Bob podría ir a cualquier parte y porque siempre estaba haciendo bromas, nadie lo tomó en serio. Bob Hope era un mensajero, un mensajero portador de mensajes codificados. 
 
   
 A veces, los mensajes codificados casi parecen saltar fuera cuando nos fijamos en sus conversaciones en tiempo de guerra. La M16 y la MIS Sección BIA bajo la supervisión del Consejo de Administración de W Londres y el Comité de los 20, supervisó el funcionamiento de agentes dobles y correos y espías controlados mentalmente. El Servicio Especial de Inteligencia (SIS) para los británicos trataba mucho sobre el control mental de todos los tipos.  

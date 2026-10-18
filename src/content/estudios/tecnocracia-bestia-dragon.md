@@ -25,11 +25,11 @@ Para Francis Bacon, la búsqueda del conocimiento y la tecnología tenía tres r
 
   
 
-**Nota:** Si deseas recibir más contenido sobre nuevas tecnologías, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre nuevas tecnologías, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-En el siglo XVII, doctos teólogos de Inglaterra y del continente, como Joseph Mede y Johann Heinrich Alsted, dedicaron sus poderes intelectuales al estudio de la profecía bíblica. De particular interés para ellos fueron el Apocalipsis de Juan y el libro de Daniel. En Daniel 12: 4 el profeta escribió: 
+En el siglo XVII, doctos teólogos de Inglaterra y del continente, como Joseph Mede y Johann Heinrich Alsted, dedicaron sus poderes intelectuales al estudio de la profecía bíblica. De particular interés para ellos fueron el Apocalipsis de Juan y el libro de Daniel. En Daniel 12:4 el profeta escribió: 
 
 > **“Muchos correrán de aquí para allá, y el conocimiento se aumentará.”**
 
@@ -47,7 +47,7 @@ Acompañando a esta creencia estaba el deseo de recuperar la perfección adánic
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQUqdBgqpX7irNiyL7Rv7nQ8lmABFT3s217h7nx-H2xH0uxZaU6Q80jiTxafiJNVZRm12ifwrgOwUaevfyT_Mq0kShyphenhyphennUZOJS29twzbMy-8I-6U2bi2-KSiSOv-JQwcJNzTyJFJosIlv0/s16000/royal-society.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQUqdBgqpX7irNiyL7Rv7nQ8lmABFT3s217h7nx-H2xH0uxZaU6Q80jiTxafiJNVZRm12ifwrgOwUaevfyT_Mq0kShyphenhyphennUZOJS29twzbMy-8I-6U2bi2-KSiSOv-JQwcJNzTyJFJosIlv0/s490/royal-society.jpg)
 
-La Real Sociedad de Londres o Royal Society es una de las sociedades científicas más antiguas de Europa. 
+La Real Sociedad de Londres o Royal Society es una de las sociedades científicas más antiguas de Europa. 
 
   
 
@@ -55,7 +55,7 @@ En los escritos masónicos de la época, Dios es identificado muy específicamen
 
   
 
-Un legado particular de la masonería en Inglaterra y Francia fue el desarrollo de la ingeniería como profesión. August Comte escribió sobre el papel que desempeñarían los ingenieros en la recuperación del Edén por parte de la humanidad: 
+Un legado particular de la masonería en Inglaterra y Francia fue el desarrollo de la ingeniería como profesión. August Comte escribió sobre el papel que desempeñarían los ingenieros en la recuperación del Edén por parte de la humanidad: 
 
 > “El establecimiento de la clase de ingenieros ... constituirá, sin duda, el instrumento directo y necesario de coalición entre hombres de ciencia e industriales, por medio del cual el nuevo orden social puede comenzar."
 
@@ -65,11 +65,11 @@ En esta publicación analizamos cómo el desarrollo de estas escuelas de pensami
 
 ## La Profecía Atemporal
 
-Para cualquiera que esté atento, observe y conozca la Biblia, es evidente que el mundo se está moviendo hacia la marca de la bestia a un ritmo increíble. Es posible ver el cumplimiento real de la profecía que se habló hace casi 2000 años. El libro de Apocalipsis (escrito en 95 d.C.) habla de una época en que el gobierno del mundo impondrá a todos sus ciudadanos la necesidad de tener una marca para poder comprar y vender. El cumplimiento real de esta profecía por parte de un gobierno mundial habría sido altamente improbable hasta los recientes avances en tecnología y mentalidad mundial.
+Para cualquiera que esté atento, observe y conozca la Biblia, es evidente que el mundo se está moviendo hacia la marca de la bestia a un ritmo increíble. Es posible ver el cumplimiento real de la profecía que se habló hace casi 2000 años. El libro de Apocalipsis (escrito en 95 d. C.) habla de una época en que el gobierno del mundo impondrá a todos sus ciudadanos la necesidad de tener una marca para poder comprar y vender. El cumplimiento real de esta profecía por parte de un gobierno mundial habría sido altamente improbable hasta los recientes avances en tecnología y mentalidad mundial.
 
   
 
-Los versículos clave que hablan de "la marca de la bestia" se encuentran en Apocalipsis 13: 16-18.
+Los versículos clave que hablan de "la marca de la bestia" se encuentran en Apocalipsis 13:16-18.
 
 > “Y hace que todos, pequeños y grandes, ricos y pobres, libres y esclavos, reciban una marca en la mano derecha o en la frente, y que nadie pueda comprar ni vender excepto el que tenga la marca o el nombre de la bestia, o el número de su nombre. Aquí está la sabiduría. El que tiene entendimiento, calcule el número de la bestia, porque es el número de un hombre: su número es 666 ".
 
@@ -116,11 +116,11 @@ Es fácil ver cómo este pequeño cambio hacia la biometría producirá un gran 
 
   
 
-**Atención médica:** Otra área donde la identificación positiva y adecuada es absolutamente necesaria en todo el mundo es la atención médica. Kayla Matthews publicó un artículo el 23 de febrero de 2017, titulado _¿Son los datos biométricos la clave para la industria de TI para la salud?_ En ese artículo, hizo esta declaración: 
+**Atención médica:** Otra área donde la identificación positiva y adecuada es absolutamente necesaria en todo el mundo es la atención médica. Kayla Matthews publicó un artículo el 23 de febrero de 2017, titulado _¿Son los datos biométricos la clave para la industria de TI para la salud?_ En ese artículo, hizo esta declaración: 
 
 > “¿Sabías que los latidos de tu corazón, el ritmo y la sincronización con los que bombea tu corazón, son únicos para ti? En realidad, existen dispositivos portátiles que pueden medir y convertir los latidos de su corazón en una especie de contraseña. Increíble, ¿verdad?… Los datos son fundamentales en la industria de la salud. Es por eso por lo que existen políticas como HIPAA. Todas y cada una de las fechas relacionadas con la salud deben protegerse de una infracción".
 
-**Programas sociales del gobierno:** El fraude también es desenfrenado a medida que los gobiernos del mundo intentan ayudar a sus ciudadanos con programas como asistencia social y cupones de alimentos. Todos estos programas necesitan una identificación sólida.
+**Programas sociales del gobierno:** El fraude también es desenfrenado a medida que los gobiernos del mundo intentan ayudar a sus ciudadanos con programas como asistencia social y cupones de alimentos. Todos estos programas necesitan una identificación sólida.
 
   
 
@@ -208,7 +208,7 @@ Un siglo y medio después de su muerte, parece que Jeremy Bentham tenía razón:
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUWZkE_iE4nhGjnAVqzOVDngt6F3zf2o1QoMlK60lSsF0VIekDR28rdp3Abu7i9Tg7XO_DHY861-B28enisHF_EZDdfNAjrBzVZ1NdVAIJaFoYYLfDRa4X3mckAPIJcxxuzdKPvELwRMk/s16000/orwell.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUWZkE_iE4nhGjnAVqzOVDngt6F3zf2o1QoMlK60lSsF0VIekDR28rdp3Abu7i9Tg7XO_DHY861-B28enisHF_EZDdfNAjrBzVZ1NdVAIJaFoYYLfDRa4X3mckAPIJcxxuzdKPvELwRMk/s565/orwell.jpg)
 
-La novela de George Orwell, _1984,_ una historia política de ficción distópica que popularizó los conceptos del omnipresente y vigilante Gran Hermano. 
+La novela de George Orwell, _1984,_ una historia política de ficción distópica que popularizó los conceptos del omnipresente y vigilante Gran Hermano. 
 
   
 
@@ -360,7 +360,7 @@ Tal es la imparable evolución de la tecnología, y solo unos pocos visionarios 
 
 ¿Quién tiene la culpa en este escenario distópico: los humanos o las máquinas? Se podría argumentar que una vez que se eclipsa el horizonte de la IA, es simplemente demasiado tarde para lamentarse, y mucho menos analizar los méritos de una tecnología tan avanzada. La respuesta a esta pregunta puede surgir de un cuidadoso análisis psicológico del hombre posmoderno. El autor Jay Dyer explica los peligros que podrían derivarse del fetiche o la perversión caracterizados por la aceptación ciega de la tecnología como una fuerza omnipotente en el mundo, donde la sociedad y sus líderes son incapaces de cuestionar la manifestación de una nueva tecnología. El explica:
 
-> “Esto encaja con la idea del tecno fetichismo y la idea de que la tecnología puede resolver todos nuestros problemas. La gran narrativa que presenta \[Richard\] Dawkins, esta es la idea genérica de que todos estamos en esta gran pista de progreso donde la tecnología encaja en este esquema donde todo es automáticamente progresivo. Este fetichismo puede extenderse incluso a aplicaciones militares. Por ejemplo, alguien detona una bomba nuclear y esto se ve como alta tecnología y, por lo tanto, progresivo". 
+> “Esto encaja con la idea del tecno fetichismo y la idea de que la tecnología puede resolver todos nuestros problemas. La gran narrativa que presenta \[Richard\] Dawkins, esta es la idea genérica de que todos estamos en esta gran pista de progreso donde la tecnología encaja en este esquema donde todo es automáticamente progresivo. Este fetichismo puede extenderse incluso a aplicaciones militares. Por ejemplo, alguien detona una bomba nuclear y esto se ve como alta tecnología y, por lo tanto, progresivo". 
 
 Dyer no se limita a exagerar al presentar la perspectiva de una guerra termonuclear. En parte debido a que los principales medios de comunicación tienen miedo o son demasiado ignorantes para abordar este problema, la mayoría del público desconoce los avances recientes y el aumento de las existencias de armamento nuclear de próxima generación, en poder principalmente de las potencias mundiales. Con toda probabilidad, estos eventualmente serán vendidos y distribuidos a sus socios geopolíticos estratégicos.
 
@@ -384,7 +384,7 @@ El exjefe del Comando Estratégico de EE. UU., El general de la Infantería de M
 
 > “Si puedo reducir el rendimiento, reduciré, por lo tanto, la probabilidad de consecuencias, etc., ¿Eso lo hace más utilizable a los ojos de algunos, algún presidente o proceso de toma de decisiones de seguridad nacional? Y la respuesta es que probablemente podría ser más útil".
 
-El autor del artículo de The Guardian, Julian Borger, concluye: 
+El autor del artículo de The Guardian, Julian Borger, concluye: 
 
 > “Lo mejor de las armas nucleares era que se suponía que su uso era impensable y, por lo tanto, eran un impedimento para la contemplación de una nueva guerra mundial. Una vez que se vuelven 'pensables', estamos en un universo diferente y mucho más peligroso".
 
@@ -398,6 +398,6 @@ Es una historia épica, que se repite en la tradición bíblica y en la mitolog�
 
 Para aquellos que realmente valoran su libertad y quieren transmitir un legado positivo a su progenie, la batalla final es inevitable: enfrentarse a la máquina y pelear contra ella. Sin embargo, la implicación profética es clara.
 
-> "Y la adoraron todos los moradores de la tierra cuyos nombres no estaban escritos en el libro de la vida del Cordero que fue inmolado desde el principio del mundo." -Apocalipsis 13: 8
+> "Y la adoraron todos los moradores de la tierra cuyos nombres no estaban escritos en el libro de la vida del Cordero que fue inmolado desde el principio del mundo." -Apocalipsis 13:8
 
 Gracias por leer _Tecnocrácia, Teocracia, la Bestia y el Dragón_, no olvide compartir este material con sus familiares y cercanos.

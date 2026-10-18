@@ -9,7 +9,7 @@ description: "El 30 de octubre de 1938 \"La Guerra de los Mundos\" de Orson Well
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -65,7 +65,7 @@ En una de las escenas emotivas el agente "K" y "J" mencionan:
 
 De la misma forma que se envía un mensaje de doble sentido, la hermenéutica invertida es utilizada para cambiar paradigmas radicalmente. El arrepentimiento es uno de las enseñanzas cristianas más reconocidas y más impartidas por el mismo Jesús, por lo que describirla como una fuerza destructiva y más aún relacionarlo con la existencia de extraterretres es otra forma de propaganda gnóstica a gran escala. El libro de Lucas dice:  
 
-> "Jesús les contestó: La gente sana no necesita médico, los enfermos sí. No he venido a llamar a los que se creen justos, sino a los que saben que son pecadores y necesitan arrepentirse." -Lucas 5: 31,32
+> "Jesús les contestó: La gente sana no necesita médico, los enfermos sí. No he venido a llamar a los que se creen justos, sino a los que saben que son pecadores y necesitan arrepentirse." -Lucas 5:31,32
 
 Algo que es un patrón constante en estas películas es la co-participación de extraterrestres benignos peleando junto y a favor de la humanidad. En el caso de hombres de negro el personaje de Griffin es un extraterrestre que puede ver los diferentes futuros y ayuda a los hombres de negro a salvar el mundo.  
   
@@ -76,7 +76,7 @@ Algo que es un patrón constante en estas películas es la co-participación de 
 
   
 
- [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBq7yDnhh22TexXxuG2j2Mz2DvkUJyyrJ6jnrgTcB-oktBc2pxJxuqDA4A9SfO9zsqHfmBmExkWd66BGjNXv8N0yj268thE2jS6JgQ6vW0tBEk4L_i064Qd3-IL-xnHgCg0jsGcpiQ7HU/s1600/men-in-black-3-back-in-time.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBq7yDnhh22TexXxuG2j2Mz2DvkUJyyrJ6jnrgTcB-oktBc2pxJxuqDA4A9SfO9zsqHfmBmExkWd66BGjNXv8N0yj268thE2jS6JgQ6vW0tBEk4L_i064Qd3-IL-xnHgCg0jsGcpiQ7HU/s1600/men-in-black-3-back-in-time.jpg) 
+ [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBq7yDnhh22TexXxuG2j2Mz2DvkUJyyrJ6jnrgTcB-oktBc2pxJxuqDA4A9SfO9zsqHfmBmExkWd66BGjNXv8N0yj268thE2jS6JgQ6vW0tBEk4L_i064Qd3-IL-xnHgCg0jsGcpiQ7HU/s1600/men-in-black-3-back-in-time.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBq7yDnhh22TexXxuG2j2Mz2DvkUJyyrJ6jnrgTcB-oktBc2pxJxuqDA4A9SfO9zsqHfmBmExkWd66BGjNXv8N0yj268thE2jS6JgQ6vW0tBEk4L_i064Qd3-IL-xnHgCg0jsGcpiQ7HU/s1600/men-in-black-3-back-in-time.jpg) 
 
 En la película Griffin explica mediante un juego de beistball como funcionan los futuros alternos y multiuniversos. Esto es una forma de hacer digerible las enseñanzas gnósticas a las masas.  
 Quizás algunos podrían preguntarse ¿Es acaso la ciencia algo demoníaco? La respuesta obviamente es no, sin embargo la meta de estas personas que están “en el poder” es convertir la ciencia y el contacto extraterrestre en una nueva religión mundial, que en términos de las propias doctrinas ocultistas usurpará el lugar de las religiones judío-cristianas. Esta pseudo-ciencia, que reciben los privilegiados en las sociedades secretas están diseñadas para promover el inicio de un “nuevo amanecer”.
@@ -108,7 +108,7 @@ Esta es una reminiscencia a las palabras de Jesús en Juan 14:16 “Yo soy el ca
 
 **La única forma de detener la futura invasión es desplegando el arc-net (escudo arcaniano), que es un escudo entregado a "K" por Griffin, el extraterrestre "benigno". Siendo más claros: la tierra solo puede ser salvada con ayuda extraterrestre.**
 
-   
+   
 Otra estrategia psicológica usada en la película es la “conmovedora” historia del padre de “J”, el cual es un coronel asesinado por Boris El Animal. Antes de su muerte este coronel ayuda a los Hombres de Negro para colocar el arc-net en el Apollo 11. Esto funciona de tal forma que las masas tengan una futura afinidad con las fuerzas militares y la protección de la tierra. Como veremos, esto también se puede ver en otras películas como Transformers o Los Vengadores. En fin es dar a entender que las fuerzas militares deberán trabajar junto con los extraterrestres por el bien de la humanidad, lo que implicaría el sometimiento de los civiles a cualquier ley marcial propuesta a un futuro. Este concepto se mantiene en diferentes películas mientras los personajes son meramente fachadas que cambian de acuerdo al argumento.  
   
 Respecto al control basado en el trauma es reconocible sutiles referencias a las técnicas de disociación y re-programación de la memoria. En una escena el agente “K” decapita a un extraterrestre y juega bolos con su cabeza —recordemos que en el simbolismo monarca la decapitación simboliza la disociación de la mente— Durante otra escena los Hombres de Negro llegan a una fiesta de super modelos con el pintor Andy Warhol, en este realidad todos los modelos son extraterrestres, lo que es otra forma de decir que la industria de la moda es completamente manipulada por estas entidades. Cuando Boris el Animal llega a la fiesta, un grupo de mariposas monarca se dispersa por la sala.  
@@ -135,7 +135,7 @@ En las escenas de acción -las más esperadas por los fans- vemos como los civil
 
   
 
- [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27NfOLoNbsRrDigHp7L0qJTFT0OWhHhrSH3HXj5bJHybw-EiVp4YXn5SG8oSbjyDGbMSE2MH84xIzL52px8r9c86c-Vj5ugBRnVbgvkmZQCfOkU0e30fBYF7yYM81XEXPKdlilPpVSYc/s1600/ZZ26A3C060.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27NfOLoNbsRrDigHp7L0qJTFT0OWhHhrSH3HXj5bJHybw-EiVp4YXn5SG8oSbjyDGbMSE2MH84xIzL52px8r9c86c-Vj5ugBRnVbgvkmZQCfOkU0e30fBYF7yYM81XEXPKdlilPpVSYc/s1600/ZZ26A3C060.jpg)
+ [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27NfOLoNbsRrDigHp7L0qJTFT0OWhHhrSH3HXj5bJHybw-EiVp4YXn5SG8oSbjyDGbMSE2MH84xIzL52px8r9c86c-Vj5ugBRnVbgvkmZQCfOkU0e30fBYF7yYM81XEXPKdlilPpVSYc/s1600/ZZ26A3C060.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27NfOLoNbsRrDigHp7L0qJTFT0OWhHhrSH3HXj5bJHybw-EiVp4YXn5SG8oSbjyDGbMSE2MH84xIzL52px8r9c86c-Vj5ugBRnVbgvkmZQCfOkU0e30fBYF7yYM81XEXPKdlilPpVSYc/s1600/ZZ26A3C060.jpg)
 
 **Los Decepticons son solo otra forma de introducir la amenaza extraterrestre a las masas.**
 
@@ -192,9 +192,9 @@ Al escuchar esto un anciano se levanta y menciona:
 
 Cuando Loki se propone a matarlo el Capitán América llega para salvar la situación. Esta parte de la película podría pasar desapercibida, pero realmente expone la visión gnóstica/illuminati del Dios bíblico. El arrodillarse siempre a sido una forma de reconocer a Dios como creador y declarar la sumisión ante su voluntad. Jesús se arrodillaba ante la presencia de Dios y muchas personas se arrodillaron frente a él.
 
-> "Vengan, adoremos e inclinémonos. Arrodillémonos delante del Señor, nuestro creador,porque él es nuestro Dios". -Salmos 95:5-7 
+> "Vengan, adoremos e inclinémonos. Arrodillémonos delante del Señor, nuestro creador,porque él es nuestro Dios". -Salmo 95:5-7 
 
-> "Cuando Jesús estaba por emprender su camino a Jerusalén, un hombre se le acercó corriendo, se arrodilló y le preguntó: —Maestro bueno, ¿qué debo hacer para heredar la vida eterna?" -Marcos 10:16-18 
+> "Cuando Jesús estaba por emprender su camino a Jerusalén, un hombre se le acercó corriendo, se arrodilló y le preguntó: —Maestro bueno, ¿qué debo hacer para heredar la vida eterna?" -Marcos 10:16-18 
 
 Lo que esta escena expresa, y en general todas en las que Loki se proclama como rey, es que someterse a la voluntad de Dios es para débiles. Según las doctrinas gnósticas, la rebelión al “Demiurgo” (Dios) es el camino que debemos tomar para alcanzar la libertad. Por otro lado, el Capitán América no solo representa a Lúcifer, el ángel caído que llega para “rescatar a la humanidad”. Sino él es el símbolo literal de EEUU y que se unirá como dice el libro de **[Apocalipsis](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** con la Nueva Babilonia.
 

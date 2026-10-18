@@ -26,7 +26,7 @@ Sí, Dios complica las cosas; puedes leer acerca de Su sabiduría oculta en luga
 
   
 
-**Nota:** Si deseas recibir más contenido sobre cristianismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre cristianismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Pablo advirtió a los creyentes que eran inmaduros y necesitaban la leche materna (véase 1 Corintios 3:2 y Hebreos 5:11). La Palabra advierte que las cosas se complican: "El hombre nace con problemas". (Job 5:7) "Muchas son las aflicciones del justo, pero el SEÑOR lo libra de la angustia". (Salmo 34:19) Los que siembran con lágrimas, con gozo segarán. (Salmo 126:5) ¡Note que Dios no detiene los problemas, Él los permite y luego viene en nuestra ayuda!  
   

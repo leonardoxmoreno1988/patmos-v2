@@ -9,11 +9,11 @@ description: "De todos los engaños que envuelven hoy en día a la humanidad, no
 tags: ["Falsas Doctrinas"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-De todos los **engaños** que envuelven hoy en día a la humanidad, no he descubierto aún ninguno que haya engañado hasta la fecha a tantas personas de tantos y tan diferentes credos, visiones del mundo, antecedentes políticos o personalidades.
+De todos los **engaños** que envuelven hoy en día a la humanidad, no he descubierto aún ninguno que haya engañado hasta la fecha a tantas personas de tantos y tan diferentes credos, visiones del mundo, antecedentes políticos o personalidades.
 
   
 
@@ -40,9 +40,9 @@ La receta para todos nosotros es la misma:
 8.  Las “buenas” palabras pueden encerrar pensamientos puros y pensamientos e intenciones “impuras”. Se requiere siempre un ejercicio posterior de alinear las palabras a los actos, para detectar posibles incoherencias.
 
   
-Después de una “milagrosa” aparición en Nairobi, Kenia, en Junio de 1988 ante 6000 personas (reportado por la CNN), el 25 de abril de 1982, millones de personas en el mundo leyeron este titular en los periódicos que decía además  “la evolución de la humanidad a través de la historia, ha sido guiada por un grupo de hombres iluminados, los Maestros de la Sabiduría, una Jerarquía Espiritual en el centro de la cual se encuentra el Maestro Mundial, Lord Maitreya, conocido por los cristianos como “El Cristo”.  
+Después de una “milagrosa” aparición en Nairobi, Kenia, en Junio de 1988 ante 6000 personas (reportado por la CNN), el 25 de abril de 1982, millones de personas en el mundo leyeron este titular en los periódicos que decía además  “la evolución de la humanidad a través de la historia, ha sido guiada por un grupo de hombres iluminados, los Maestros de la Sabiduría, una Jerarquía Espiritual en el centro de la cual se encuentra el Maestro Mundial, Lord Maitreya, conocido por los cristianos como “El Cristo”.  
   
-Mucha gente, metida de lleno en todo lo que se conoce como “Nueva Era”, una tendencia cultural que comenzó en los años 60,  que nunca había tenido tanta pujanza como en este momento, se tomó la noticia de la forma más seria. el “New Age  abarca un sin fin de expresiones llamadas “espirituales” que van desde la lectura del aura, la conversación con los cristales de cuarzo, cienciología, repetición de mantras llamados “sagrados”, hermandades blancas, invocaciones en masa,  meditación trascendental,  planes cósmicos, peregrinajes a la India, conversión al budismo, meditaciones y canalizaciones en grupo, panteísmo místico, el retorno de lo “maya”, etc.   
+Mucha gente, metida de lleno en todo lo que se conoce como “Nueva Era”, una tendencia cultural que comenzó en los años 60,  que nunca había tenido tanta pujanza como en este momento, se tomó la noticia de la forma más seria. el “New Age  abarca un sin fin de expresiones llamadas “espirituales” que van desde la lectura del aura, la conversación con los cristales de cuarzo, cienciología, repetición de mantras llamados “sagrados”, hermandades blancas, invocaciones en masa,  meditación trascendental,  planes cósmicos, peregrinajes a la India, conversión al budismo, meditaciones y canalizaciones en grupo, panteísmo místico, el retorno de lo “maya”, etc.   
 
 La lista completa de los grupos que forman el Nuevo Movimiento Religioso (y Espiritualista) es larga. Procuro aquí tan sólo nombrar a algunos de estos grupos:  
   
@@ -70,7 +70,7 @@ La lista completa de los grupos que forman el Nuevo Movimiento Religioso (y Espi
   
 ¿Quién era o es este personaje misterioso denominado “Maitreya”?  
   
-En una conferencia en Londres el 21 de Abril de 1990, se volvió a proclamar la llegada de Maitreya cuando este sujeto-ser Maitreya reunió juntos a 200 líderes mundiales o a sus emisarios de los campos de gobierno, negocio, ciencia, religión y periodismo, en el marco de una conferencia mundial en Londres.  
+En una conferencia en Londres el 21 de Abril de 1990, se volvió a proclamar la llegada de Maitreya cuando este sujeto-ser Maitreya reunió juntos a 200 líderes mundiales o a sus emisarios de los campos de gobierno, negocio, ciencia, religión y periodismo, en el marco de una conferencia mundial en Londres.  
   
 Desde 1991 hasta el presente, Maitreya ha aparecido milagrosamente frente a grandes grupos de personas en todo el mundo. En la mayoría de los casos, éste magnetiza el agua en la vecindad antes de su aparición. Mucha gente reporta sus curaciones con esta agua. En Tiacote (México), Nordenau (Alemania) y Nadana (India) los pozos de curación cargados por Maitreya atraen a números cada vez más grandes de visitantes.  
   
@@ -100,15 +100,15 @@ Nuestra respuesta a esta experiencia determinará el futuro entero de este plane
 
 ## ¿Qué es todo esto?
 
-Este artículo que traduzco a continuación contiene datos y referencias que os permitirán, al final de su lectura, comprender qué es toda esa mezcla de cosas denominada “Nueva Era”, qué hay detrás de ella  y qué peligro y alma encierra en su interior.  
+Este artículo que traduzco a continuación contiene datos y referencias que os permitirán, al final de su lectura, comprender qué es toda esa mezcla de cosas denominada “Nueva Era”, qué hay detrás de ella  y qué peligro y alma encierra en su interior.  
   
-Una lectura de las referencias que emplean los financiadores y apoyadores de la Nueva Era nos dan idea de por dónde van los tiros: van desde  la luciferina y teosófica Blavatsky al favorito de las cadenas de televisión americana, y leído actualmente por millones, gurú de la Nueva Era, Eckhart Tole (“tú eres Dios”), pasando por el satanista Manly Palmer Hall.  
+Una lectura de las referencias que emplean los financiadores y apoyadores de la Nueva Era nos dan idea de por dónde van los tiros: van desde  la luciferina y teosófica Blavatsky al favorito de las cadenas de televisión americana, y leído actualmente por millones, gurú de la Nueva Era, Eckhart Tole (“tú eres Dios”), pasando por el satanista Manly Palmer Hall.  
   
 Incluyen también entre sus referencias a Krisnamurti, lo cual nos obligaría, si somos coherentes, a leer con lupa a Krisnamurti a partir de ahora.  
   
 No hay que recordar a nadie que sepa cual es el tamaño de nuestro mayor enemigo en la Tierra que si el enemigo me recomienda una lectura, esta lectura y enseñanza está desde ese mismo instante bajo mi sospecha. Porque la herramienta del enemigo, del mayor enemigo de la humanidad, es el engaño. Por lo tanto, examinad con lupa todo cuanto entra en vuestra mente y todo cuanto sale de ella, porque el engaño se agazapa en cada letra, en cada símbolo y en cada melodía. No hay tregua en la batalla final.  
   
-En la Nueva Era, lo que le parece al individuo una “evolución personal y espiritual”, un mejoramiento de su humanidad y una “búsqueda de su equilibrio  personal”, es en realidad el resultado de un ejercicio orquestado desde los años 60 del siglo XX por miles de organizaciones interrelacionadas, muchas de ellas basadas en plataformas de Internet, instituciones mundiales como las Naciones Unidas, con el objetivo de desviar a la gente de sus creencias religiosas al ateismo panteísta, o bien del ateismo materialista a la espiritualidad “budista” o la espiritualidad “de la unión con la Tierra” o cosas similares, llamadas en todas las épocas “religiones paganas”.  
+En la Nueva Era, lo que le parece al individuo una “evolución personal y espiritual”, un mejoramiento de su humanidad y una “búsqueda de su equilibrio  personal”, es en realidad el resultado de un ejercicio orquestado desde los años 60 del siglo XX por miles de organizaciones interrelacionadas, muchas de ellas basadas en plataformas de Internet, instituciones mundiales como las Naciones Unidas, con el objetivo de desviar a la gente de sus creencias religiosas al ateismo panteísta, o bien del ateismo materialista a la espiritualidad “budista” o la espiritualidad “de la unión con la Tierra” o cosas similares, llamadas en todas las épocas “religiones paganas”.  
   
 Para resumir en forma de ecuación lo que han hecho los estrategas de la Nueva Era, te lo resumo de forma explícita:  
   
@@ -121,7 +121,7 @@ Nos han hundido en el materialismo ciego y el ateísmo contagiado de “lo comun
 **Píramide y ojo de Horus.**
 
   
-La Nueva Era es el mayor de los peligros. Contiene tantos colores que parece mentira que se pueda ver alguna esperanza en el mundo después de pasar por sus atracciones espiritualistas llenas de “amor”.  
+La Nueva Era es el mayor de los peligros. Contiene tantos colores que parece mentira que se pueda ver alguna esperanza en el mundo después de pasar por sus atracciones espiritualistas llenas de “amor”.  
   
 Y sin embargo, no hay despertar dentro de la Nueva Era. Es un despertar dentro de una pesadilla y un gran engaño.  
   
@@ -141,7 +141,7 @@ No tengo la pretensión de que lo que sigue a continuación sea original, de nin
   
 Lo que he intentado aquí es recoger información obtenida de la lectura de investigadores excepcionales como son William J. Sutton, Fritz Springmeier, William F. Jasper, Henry Makow, David Livingstone o Texe Marrs y crear un sumario condensado de pruebas que mostrarán que lo que dice la Biblia en el verso de arriba es completamente cierto; que Lucifer está entre nosotros, y que la locura y el caos que estamos experimentando a escala internacional en esta primera década del siglo veintiuno, se debe a la culminación de muchos miles de años conspirando y planificando esto por parte del eterno adversario, tal y como mencionan las Sagradas Escrituras.  
   
- Si sólo hace cuatro años, alguien me hubiera hecho una afirmación así, yo hubiera arqueado las cejas y, educadamente o no, hubiera rechazado completamente esta idea. Pero toda mi investigación de los pasados años, me ha llevado a creer justamente esto: que Lucifer es real, que está aquí en la tierra, en esta dimensión y por medio de aquellos que descienden de él directamente, y sus marionetas, está causando el caos aquí, en un intento desesperado de sentarse él mismo o sentar a alguien de los suyos en el trono de un Estado Mundial, e inaugurar, de ese modo, una Nueva Religión con él mismo como única deidad a la que adorar.  
+ Si sólo hace cuatro años, alguien me hubiera hecho una afirmación así, yo hubiera arqueado las cejas y, educadamente o no, hubiera rechazado completamente esta idea. Pero toda mi investigación de los pasados años, me ha llevado a creer justamente esto: que Lucifer es real, que está aquí en la tierra, en esta dimensión y por medio de aquellos que descienden de él directamente, y sus marionetas, está causando el caos aquí, en un intento desesperado de sentarse él mismo o sentar a alguien de los suyos en el trono de un Estado Mundial, e inaugurar, de ese modo, una Nueva Religión con él mismo como única deidad a la que adorar.  
   
 Durante mis investigaciones de la Hermandad Illuminati y sus maquinaciones diabólicas para esclavizar a la humanidad, no había sido, hasta hace muy recientemente, consciente de un aspecto clave de la Conspiración Global, con una profundidad, amplitud y dimensión como no hay otro. Me refiero, por supuesto, al Movimiento de la Nueva Era y a su plan para introducir una Religión Mundial.  
   
@@ -177,7 +177,7 @@ Blavatsky escribió entre otras cosas lo siguiente:
   
 Ella aseguraba que había tenido experiencias con **[proyecciones astrales](https://www.ritualypropaganda.com/2016/05/proyeccion-astral-al-descubierto.html)** y la capacidad de comunicar cuando quisiera con el mundo espiritual. Sus libros, “Isis Sin Velo” y sus “la Doctrina Secreta” de 3 volúmenes, fueron escritos, supuestamente por medio de su canalización de los “Maestros de la Sabiduría”, “hombres sagrados” tibetanos, que cualquier cristiano, judío o musulmán reconocería fácilmente con el sinónimo de demonios.  
   
- En su libro, “La Doctrina Secreta”, Blavatsky escribió:  
+ En su libro, “La Doctrina Secreta”, Blavatsky escribió:  
   
 
 > “Lucifer representa la vida, el pensamiento, el progreso, la civilización, la independencia. Lucifer es el Logos, la Serpiente, el Salvador, y “es Lucifer quien es el Dios de nuestro planeta y el único Dios”  
@@ -191,11 +191,11 @@ Como amiga cercana de George Bernard Shaw, H.G. Wells y otros líderes Fabianos,
   
 Tras Besant, tomó las riendas Alice Bailey y su marido, Foster Bailey, un conocido masón de grado 32. Habiendo asumido el liderazgo de la Sociedad Teosófica juntos, ellos formularon y construyeron las bases de lo que ahora se refiere como el Movimiento Nueva Era. No les tomó ningún esfuerzo conciliar sus simpatías por los demonios y crearon la Compañía de Publicaciones Lucifer, junto con la revista teosófica “Lucifer”. Más tarde, dándose cuenta de que el mundo cristiano en ese momento, aun no había sido suficientemente minado culturalmente, y que no podían airear su abierta inclinación por la religión satánica, renombraron su proyecto como “la Empresa de Publicaciones Lucis”.  
   
-En 1922, establecieron la Fundación “Lucis”  que continúa sirviendo como paraguas de organizaciones de sectas, cultos, organizaciones y programas del Gobierno Mundial, la Nueva Era, lo Oculto, que son los jugadores principales en la emergente religión del nuevo mundo.  
+En 1922, establecieron la Fundación “Lucis”  que continúa sirviendo como paraguas de organizaciones de sectas, cultos, organizaciones y programas del Gobierno Mundial, la Nueva Era, lo Oculto, que son los jugadores principales en la emergente religión del nuevo mundo.  
   
 Este grupo incluye la Escuela Arcana, La Buena Esperanza del Mundo, Triángulos, Empresa de Publicaciones Lucis, Lucis Productions, Librerías de la Fundación Lucs, y el Nuevo Grupo de Servidores de Mundo.  
   
-(Nota Trinity:En este artículo podemos ampliar la infomración sobre las organizaciones y personalidades que alimentan esa red. Aquí La Biblioteca Pléyades conserva la página del Windsor International Bank and Trust Company Limited  donde se especifica la lista de organizaciones y empresas de las que son miembros, consejeros o afiliados. La Lucis Trust está entre ellos. Y ahora pregúntate que hace el Banco de los Windsor de Inglaterra financiando el proyecto de la “Escuela Arcana“).  
+(Nota Trinity:En este artículo podemos ampliar la infomración sobre las organizaciones y personalidades que alimentan esa red. Aquí La Biblioteca Pléyades conserva la página del Windsor International Bank and Trust Company Limited  donde se especifica la lista de organizaciones y empresas de las que son miembros, consejeros o afiliados. La Lucis Trust está entre ellos. Y ahora pregúntate que hace el Banco de los Windsor de Inglaterra financiando el proyecto de la “Escuela Arcana“).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRvlcq1e5px-PyIqXBtfGkrc4tJY4zhtWCEzKZjBx_RczRsGHKxyNwmlxBWwUPVQ-U1dpcY7UCddecLS82Mt68Lgv1n_RCCMEzb9Par0qj3FgO0KWQIBLPa9YBvOfhSxY-wDRq-Qcfj29a/s320/AshtarSheran2.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRvlcq1e5px-PyIqXBtfGkrc4tJY4zhtWCEzKZjBx_RczRsGHKxyNwmlxBWwUPVQ-U1dpcY7UCddecLS82Mt68Lgv1n_RCCMEzb9Par0qj3FgO0KWQIBLPa9YBvOfhSxY-wDRq-Qcfj29a/s1600/AshtarSheran2.JPG)
@@ -214,19 +214,19 @@ Este “Cristo” es también conocido como Lord (Señor) Maitreya, del cual ell
   
 Bailey deja muy claro que habrá también una religión mundial:  
   
-“El espíritu de las antiguas creencias se ha ido y la verdadera luz espiritual se está transfiriendo y convirtiendo en una nueva forma que se manifestará en la Tierra finalmente como la nueva religión mundial. El judaísmo es viejo, obsoleto y separatista y no tiene un verdadero mensaje para la mente espiritual que no puede obtener más de esta fe.  La fe cristiana también ha servido ya su propósito; su Fundador busca traer un nuevo credo y un nuevo mensaje que iluminará a todos los hombres en todas partes”.  
+“El espíritu de las antiguas creencias se ha ido y la verdadera luz espiritual se está transfiriendo y convirtiendo en una nueva forma que se manifestará en la Tierra finalmente como la nueva religión mundial. El judaísmo es viejo, obsoleto y separatista y no tiene un verdadero mensaje para la mente espiritual que no puede obtener más de esta fe.  La fe cristiana también ha servido ya su propósito; su Fundador busca traer un nuevo credo y un nuevo mensaje que iluminará a todos los hombres en todas partes”.  
   
 En su libro, “Terrorismo e Illuminati”, las propias investigaciones del autor canadiense David Livingstone revelaban que la Fundación Lucis está dirigida desde un panel de fundaciones internacional cuya membresía, se dice, incluye a John D. Rockefeller, Norman Cousins, Robert S. McNamara, Thomas Watson, Jr. De IBM, Henry Clauson (ex embajador de USA en Moscú) y el Gran comandante del Consejo Supremo de grado 33 y Rito Escocés Henry Kissinger y organizaciones relacionadas con los grupos de La Mesa Redonda, incluyendo el Consejo de Relaciones Exteriores, el grupo Bilderberger y la Comisión Trilateral .  
   
 Cuando uno examina e investiga las relaciones del Movimiento de la Nueva Era, es demasiado fácil de entrada ser escéptico y rechazarlas de plano, pero aquellos que lideran el camino en esta moderna versión de lo que son en verdad “los misterios de Babilonia”, renovados, están trabajando mano a mano con un poder grande y poderoso.  
   
- Algunos de los hombres y mujeres más ricos e influyentes del planeta se han identificado a sí mismos, abiertamente con la Nueva Era. Hablamos de banqueros, industrialistas, políticos, celebridades de todo tipo…  
+ Algunos de los hombres y mujeres más ricos e influyentes del planeta se han identificado a sí mismos, abiertamente con la Nueva Era. Hablamos de banqueros, industrialistas, políticos, celebridades de todo tipo…  
   
 Da la impresión de que todo el mundo se ha convertido a la Nueva Era y está llevando de calle a grandes masas de la población con ellos. Este “despertar espiritual” puede ser sólo un aspecto del objetivo illuminati hacia el Gobierno Mundial Único, pero es el más importante y el tiempo demostrará que es un elemento crucial en su plan.  
   
 Sería una locura ignorar la influencia creciente de la Nueva era, lo Oculto, el Satanismo, la Wicca y el fenómeno Hedonista, manifestándose por todas partes a nuestro alrededor, sin el reconocimiento de que si estas tendencias persisten, no queda muy lejos el día cuando estas fuerzas serán capaces de arrimar al ascua a su sardina.  
   
- As G. K. Chesterton una vez hizo esta observación:  
+ As G. K. Chesterton una vez hizo esta observación:  
   
 “Si el hombre no cree en Dios, el peligro no es que no crea en nada, sino que podrá creer en todo”  
   
@@ -241,7 +241,7 @@ En numerosas conferencias y discursos, aclaró que no era Jesucristo a favor de 
   
 Como el Lord Maitreya de Creme no apareció ese día, uno podría pensar que él junto con su “Cristo” y toda la eufórica propaganda acuariana habrían quedado completamente desacreditadas. Pero desgraciadamente, no vivimos en la era de la razón y el Sr. Creme todavía es reverenciado como una luz importante para todo la red Nueva Era y su credo arcano puede ser encontrado en el mundo en conferencias de la ONU y programas donde la Elite illuminati del el Club de Roma, el Instituto Aspen, el Consejo de Relaciones Exteriores, los Federalistas Mundiales, el Banco Mundial, etc. son consortes de los Nueva Era de cualquier pelaje imaginable.  
   
-(nota trinity; aquí podréis ver algunas fotografías de “apariciones maitreyanas” así como de  ”milagrosos” efectos luminosos entorno a Creme. El documento contiene falsas fotografías “photoshop” de Maitreya, esponsorizadas por las Naciones Unidas. Un “Dios” que “está aquí y ahora”,  según dicen estos mentirosos, que ha venido a salvarnos del hambre, la guerra y las injusticias. Para ayudar a su llegada, nosotros debemos repetir sus mantras y caer en toda su absurdez Nueva Era para acelerar el proceso de que Maitreya se muestre ante el mundo.  Puede observarse que el “Proyecto Maitreya es apoyado con millones de dólares, de manera que es fácil demostrar que no es una iniciativa de “cuatro amigos llenos de amor y mucho tiempo libre”).  
+(nota trinity; aquí podréis ver algunas fotografías de “apariciones maitreyanas” así como de  ”milagrosos” efectos luminosos entorno a Creme. El documento contiene falsas fotografías “photoshop” de Maitreya, esponsorizadas por las Naciones Unidas. Un “Dios” que “está aquí y ahora”,  según dicen estos mentirosos, que ha venido a salvarnos del hambre, la guerra y las injusticias. Para ayudar a su llegada, nosotros debemos repetir sus mantras y caer en toda su absurdez Nueva Era para acelerar el proceso de que Maitreya se muestre ante el mundo.  Puede observarse que el “Proyecto Maitreya es apoyado con millones de dólares, de manera que es fácil demostrar que no es una iniciativa de “cuatro amigos llenos de amor y mucho tiempo libre”).  
   
 
 ## Las Naciones Unidas y la Religión del Nuevo Mundo.
@@ -253,7 +253,7 @@ Como el Lord Maitreya de Creme no apareció ese día, uno podría pensar que él
   
 Muchos críticos de las Naciones Unidas lo han descrito como una expresión moderna de la “Torre de Babel”. La mayor parte se refería al acto del hombre de arrogancia espiritual que el libro de Génesis nos dice que ganó el disgusto de Dios. Para apoyar la idea de tan acertada caracterización hoy, uno puede fijar su atención en la mezcla confusa, combustible de lenguas, culturas, ideologías y políticas promovidas por “la casa de la paz” algo que la ha llevado a ser justamente poco popular.  
   
-Las Naciones Unidas, así como sus programas y políticas, merecen además enormemente ser comparadas con la Torre de Babel, por la rampante idolatría y el paganismo militante que permean todos los estamentos de la organización. 
+Las Naciones Unidas, así como sus programas y políticas, merecen además enormemente ser comparadas con la Torre de Babel, por la rampante idolatría y el paganismo militante que permean todos los estamentos de la organización. 
 
   
 
@@ -276,7 +276,7 @@ Pero los “adoradores” actuales que lideran este Movimiento de la Nueva Era, 
   
 **David Livingstone**  
   
- En su libro “Tiranía Global Paso por Paso”, William F Jasper escribe:  
+ En su libro “Tiranía Global Paso por Paso”, William F Jasper escribe:  
   
 
 > **“En Junio de 1992 se celebró la Cumbre de la Tierra de las Naciones Unidas en Brasil. La Conferencia Oficial de la ONU sobre Medio Ambiente y Desarrollo, junto al Forum Global “La Cumbre de las Personas”, mostró una mezcla de ritos paganos aborígenes con un colectivo ecuménico de tendencias “místicas” y espirituales de Oriente y Occidente para traer a la realidad una forma ininteligible de lo que se llama “Una Fe Universal”**
@@ -315,7 +315,7 @@ Spangler, Muller, Strong y otros personajes tales como la Reina Juliana de Holan
   
 Fundado por la luminaria de la Nueva Era y anterior consultor de las Naciones Unidas, Donald Keys, y presidido durante muchos años por Norman Cousins (CFR), La Organización “Planetary Citizens” ha reunido a muchas figuras mundiales de gran prestigio y ha hecho un muy buen uso de ellas para apoyar la expansión de las Naciones Unidas y sus instituciones. Keys, un discípulo autoconfeso de Alice Bailey, se refiere a las Naciones Unidas como “el nexo de los valores planetarios emergentes” y expresa la esperanza de que se establecerá un sistema de gestión planetaria (una forma de hablar por los “ Nueva Era” para significar “Gobierno Mundial”)  
   
- Otra figura que respaldaba a “Ciudadanos Planetarios”  era Aurelio Peccei , el fundador del Club de Roma  , que aunqué inicialmente reconoció su papel lanzando el medioambientalismo del “no crecimiento” en los años 70, fue evolucionando hacia lo “espiritual” en su vida. Su receta para la “sabiduría” espiritual incluía una adherencia esclava a los mandados de Blavatsky que, como sabemos, dictaba que el cristianismo, el Islam y el judaísmo debían ser excluidos para siempre o bien denigrados completamente.  
+ Otra figura que respaldaba a “Ciudadanos Planetarios”  era Aurelio Peccei , el fundador del Club de Roma  , que aunqué inicialmente reconoció su papel lanzando el medioambientalismo del “no crecimiento” en los años 70, fue evolucionando hacia lo “espiritual” en su vida. Su receta para la “sabiduría” espiritual incluía una adherencia esclava a los mandados de Blavatsky que, como sabemos, dictaba que el cristianismo, el Islam y el judaísmo debían ser excluidos para siempre o bien denigrados completamente.  
   
 Una de las avenidas principales por las cuales esta tendencia de espiritualismo oriental se ha extendido ha sido el Templo del Entendimiento, localizado en la misma Catedral de San Juan el Divino que aloja a la organización de Luciferinos Lindisfarne.  
   
@@ -345,13 +345,13 @@ Con gente como esta en la vanguardia, el espiritualismo pagano de las Naciones U
 > **\- Fritz Springmeier, Ser Sabios Como Serpientes**
 
   
- Dado que “Dios”, en el sistema metafísico panteísta, no es el Dios Creador de la Biblia, sino una fuerza impersonal, inmanente que ocupa todas las cosas, el universo en sí mismo, cada roca, cada árbol todo, cada hombre, cada mujer son “Dios”. Desde este punto de vista del mundo pagano, el hombre no es una creación especial del único, verdadero Dios, ante quien, en última instancia debe responder. Ni tampoco está unido a su Creador por derechos y deberes intrínsecos e inalienables. De ese modo, el panteísmo funciona como una herramienta efectiva en la religión centrada en un Dios por medio de transformar la religión en una sistema de creencias centradas en el hombre, y por ende, dando una sanción religiosa a las doctrinas y programas del colectivismo político.  
+ Dado que “Dios”, en el sistema metafísico panteísta, no es el Dios Creador de la Biblia, sino una fuerza impersonal, inmanente que ocupa todas las cosas, el universo en sí mismo, cada roca, cada árbol todo, cada hombre, cada mujer son “Dios”. Desde este punto de vista del mundo pagano, el hombre no es una creación especial del único, verdadero Dios, ante quien, en última instancia debe responder. Ni tampoco está unido a su Creador por derechos y deberes intrínsecos e inalienables. De ese modo, el panteísmo funciona como una herramienta efectiva en la religión centrada en un Dios por medio de transformar la religión en una sistema de creencias centradas en el hombre, y por ende, dando una sanción religiosa a las doctrinas y programas del colectivismo político.  
   
 El panteísmo puede también ser empleado como un paso para llevar a la humanidad del teísmo al materialismo ateísta. En la religión, el panteísmo está más a menudo expresado como “naturalismo”, la doctrina de que la verdad religiosa se deriva de la naturaleza, no de la revelación.  
   
- El tema de Junio de 1941 de la revista de ocultismo “Revista Rosacruciana” predijo que “la multiplicidad de estados sociales, países y naciones dejará de existir”. Dichas naciones serán superadas por “Un Estado Mundial Unido y Único”. Los rosacrucianos tenían razón en concluir que el panteísmo místico por el que abogaban, llevaría, si se aceptaba por todos, a un estado mundial colectivista. Y hay muy pocas personas en el mundo hoy que entiende la directa relación causa-efecto entre las dos.  
+ El tema de Junio de 1941 de la revista de ocultismo “Revista Rosacruciana” predijo que “la multiplicidad de estados sociales, países y naciones dejará de existir”. Dichas naciones serán superadas por “Un Estado Mundial Unido y Único”. Los rosacrucianos tenían razón en concluir que el panteísmo místico por el que abogaban, llevaría, si se aceptaba por todos, a un estado mundial colectivista. Y hay muy pocas personas en el mundo hoy que entiende la directa relación causa-efecto entre las dos.  
   
-El Padre Clarence Kelly  , una autoridad conocida en lo que es el engaño de lo oculto escribe:  
+El Padre Clarence Kelly  , una autoridad conocida en lo que es el engaño de lo oculto escribe:  
   
 
 > **“el panteísmo es la doctrina favorita de los colectivistas, porque ofrece un concepto del hombre que, sobre una base religiosa, subordina lo individual a lo colectivo”.**
@@ -404,9 +404,9 @@ El plan maestro Luciferino no puede tener éxito a menos que la gente acepte que
   
 Las brujas creen que Lucifer es el Dios del Sol y el Dios Sol es también conocido como “Dios con Cuernos” (Lucifer es también conocido como “el ángel de la luz”). Muchos de los días sagrados de las brujas giran entorno al Sol. Una gran parte de su sistema de creencias es el concepto del despertar de Sol y el mundo muriente, y durante el solsticio de invierno, el Dios Solar Lucifer renace y calienta la Tierra. Para los antiguos latinos Lucifer era el Dios Sol, padre de Aradia y hermano de y amante de Diana.  
   
-Para darse cuenta de cómo este adversario de Dios ha sido capaz de insinuarse clandestinamente en nuestras vidas, sólo tenemos que mirar alrededor a la plétora de simbolismo solar pagano que ahora prolifera en todos los rincones de nuestra sociedad. Otro ejemplo de esto puede ser encontrado también en el mundo del bodybuilding femenino, donde, cada año, un trofeo en un diseño es usado para simbolizar la adoración de Lucifer y se entrega en un evento de bodybuling de mujeres importante (I.F.B.B  ). El significado de este trofeo es oculto para la mayoría, con excepción de unos cuantos iniciados.  
+Para darse cuenta de cómo este adversario de Dios ha sido capaz de insinuarse clandestinamente en nuestras vidas, sólo tenemos que mirar alrededor a la plétora de simbolismo solar pagano que ahora prolifera en todos los rincones de nuestra sociedad. Otro ejemplo de esto puede ser encontrado también en el mundo del bodybuilding femenino, donde, cada año, un trofeo en un diseño es usado para simbolizar la adoración de Lucifer y se entrega en un evento de bodybuling de mujeres importante (I.F.B.B  ). El significado de este trofeo es oculto para la mayoría, con excepción de unos cuantos iniciados.  
   
-El trofeo tiene la forma de un obelisco, el cual a los que no están familiarizados con ello, es un construcción de cuatro lados con una pirámide en el vértice. El obelisco es un símbolo que definitivamente  tiene conexiones con la masonería. El obelisco es importante para los masones y tiene raíces en el antiguo Egipto. Es el símbolo de un dios adorado por los creyentes y relacionado con los antiguos misterios.  
+El trofeo tiene la forma de un obelisco, el cual a los que no están familiarizados con ello, es un construcción de cuatro lados con una pirámide en el vértice. El obelisco es un símbolo que definitivamente  tiene conexiones con la masonería. El obelisco es importante para los masones y tiene raíces en el antiguo Egipto. Es el símbolo de un dios adorado por los creyentes y relacionado con los antiguos misterios.  
   
   
 
@@ -421,10 +421,10 @@ El obelisco representa al Dios Sol Lucifer. El sol es también un símbolo masó
 > **“El Sol es el símbolo antiguo del dador de la vida y el poder generativo de la Deidad”.**
 
   
- Ralph Epperson, un historiador y conferenciante sobre el tema escribe;  
+ Ralph Epperson, un historiador y conferenciante sobre el tema escribe;  
   
 
->  **“El Sol era un símbolo de algo que sólo los creyentes en la religión entendían. Estos creyentes, sabían que la gente no aceptaría sus religiones de misterio así que tuvieron que esconderlas de ellos. De forma que la tarea consistía en crear una religión que la gente aceptara. Su propósito básico era crear una religión popular como cubierta para su adoración secreta. Ellos debían esconder sus creencias de la gente, y ocultar su adoración secreta en símbolos ocultos”**
+>  **“El Sol era un símbolo de algo que sólo los creyentes en la religión entendían. Estos creyentes, sabían que la gente no aceptaría sus religiones de misterio así que tuvieron que esconderlas de ellos. De forma que la tarea consistía en crear una religión que la gente aceptara. Su propósito básico era crear una religión popular como cubierta para su adoración secreta. Ellos debían esconder sus creencias de la gente, y ocultar su adoración secreta en símbolos ocultos”**
 
   
 Epperson continua:  
@@ -432,7 +432,7 @@ Epperson continua:
 > **“¡El obelisco se levanta por la misma presencia del Dios Sol! ¡Y el Dios Sol es Lucifer!**
 
   
- La Religión Mundial expuesta  
+ La Religión Mundial expuesta  
   
 
 > **“Las religiones gnósticas son a menudo llamadas paganas. Esta adoración pagana es a menudo la cubierta esotérica en la que los primeros niveles están iniciados. Los niveles más altos son a menudo la adoración esotérica real y ésta, a menudo, implica adoración directa luciferina o satánica. En otras palabras, la adoración Solar de los masones y otros grupos no es más que una cara de la adoración de los niveles más altos a Satán la Divina Serpiente”**  
@@ -441,7 +441,7 @@ Epperson continua:
 
   
 
->  **“Según Alice Bailey, el movimiento masónico será la religión del Nuevo Sistema. Benjamin Creme también cree que la masonería será la religión de la Nueva Era. Lola Davis, otro líder de la Nueva Era también ve a la masonería como la Religión de la Nueva Era”.**
+>  **“Según Alice Bailey, el movimiento masónico será la religión del Nuevo Sistema. Benjamin Creme también cree que la masonería será la religión de la Nueva Era. Lola Davis, otro líder de la Nueva Era también ve a la masonería como la Religión de la Nueva Era”.**
 
 > **\- Texe Marrs: Dark Secrets of the New Age**
 
@@ -449,11 +449,11 @@ Epperson continua:
 Alice Bailey escribió en 1957:  
   
 
->  **“el movimiento masónico es el custodio de la ley; es la casa de los Misterios y el sitio de la iniciación. Contiene en su simbolismo el ritual de la deidad y la forma de salvación está pictóricamente preservada en su trabajo. Es una organización mucho más oculta de lo que puede parecer y su objetivo es ser la escuela de formación para los ocultistas avanzados del futuro. En sus ceremoniales se ocultan las fuerzas conectadas con el crecimiento y la vida de los reinos de la naturaleza y el desplegamiento de los aspectos divinos del hombre.”**  
->  **“Cuando la nueva religión universal se haya impuesto y la naturaleza del esoterismo se haya comprendido, será empleada por los organismos esotéricos, los organismos masónicos y los organismos de la Nueva Iglesia como centros de iniciación. Estos tres grupos convergen como sus santuarios internos. No hay disociación entre la Única Iglesia Universal, la logia interna sagrado de todos los verdaderos masones, y los círculo más internos de las sociedades esotéricas”.\- Fritz Springmeier - Ser Sabios Como Serpientes**
+>  **“el movimiento masónico es el custodio de la ley; es la casa de los Misterios y el sitio de la iniciación. Contiene en su simbolismo el ritual de la deidad y la forma de salvación está pictóricamente preservada en su trabajo. Es una organización mucho más oculta de lo que puede parecer y su objetivo es ser la escuela de formación para los ocultistas avanzados del futuro. En sus ceremoniales se ocultan las fuerzas conectadas con el crecimiento y la vida de los reinos de la naturaleza y el desplegamiento de los aspectos divinos del hombre.”**  
+>  **“Cuando la nueva religión universal se haya impuesto y la naturaleza del esoterismo se haya comprendido, será empleada por los organismos esotéricos, los organismos masónicos y los organismos de la Nueva Iglesia como centros de iniciación. Estos tres grupos convergen como sus santuarios internos. No hay disociación entre la Única Iglesia Universal, la logia interna sagrado de todos los verdaderos masones, y los círculo más internos de las sociedades esotéricas”.\- Fritz Springmeier - Ser Sabios Como Serpientes**
 
   
- ¿Ha sido subestimada la masonería como religión mundial?. Al menos un autor masónico, que ha investigado a fondo sobre el tema llegó a la conclusión de que el poder religioso de la masonería ha sido subestimado y escribe:  
+ ¿Ha sido subestimada la masonería como religión mundial?. Al menos un autor masónico, que ha investigado a fondo sobre el tema llegó a la conclusión de que el poder religioso de la masonería ha sido subestimado y escribe:  
   
 
 > “en el pasado, la masonería fue condenada como una sustituto superficial de la religión. Esto es algo que la masonería siempre ha negado pero, de hecho, la masonería revitalizada por medio de la nueva era será una forma evolucionada paralela de aproximación del hombre a Dios y la masonería y la religión cooperarán de ese modo fácilmente”.  
@@ -466,7 +466,7 @@ Albert Pike fue un luciferino que tenía en Lucifer a su propio Dios. Fue el ant
   
 Pike puede ser analizado de forma justificada como el masón más influyente de todos los que han existido jamás. Durante la Guerra Civil Americana, fue un general confederado que, se dice, cometió las atrocidades más terribles que se pueden llevar a cabo en guerra; sin embargo, su tumba está situada justo a trece bloques del Edificio del Capitolio en Washington DC. Fue un alto miembro de la Orden Illuminati, que es reverenciada por la Cabala del Nuevo Orden Mundial.  
   
- En su libro “Moral y Dogma”, Pike confirma para la posteridad que el Dios de los illuminati y del Nuevo Orden Mundial es Lucifer. Escribe: “la religión masónica debería ser, por todos nosotros iniciados en los altos grados, mantenida en la pureza de la doctrina luciferina…sí, Lucifer es Dios, y desafortunadamente Adonay (Jesús) también es Dios. Para la ley eterna, no hay luz sin sombra, no hay belleza sin fealdad, no hay blanco sin negro, porque lo absoluto puede existir solamente en base a dos Dioses: La oscuridad es necesaria a la luz para servirla como suelo y pedestal necesitan la estatua, y como el motor necesita el freno”.  
+ En su libro “Moral y Dogma”, Pike confirma para la posteridad que el Dios de los illuminati y del Nuevo Orden Mundial es Lucifer. Escribe: “la religión masónica debería ser, por todos nosotros iniciados en los altos grados, mantenida en la pureza de la doctrina luciferina…sí, Lucifer es Dios, y desafortunadamente Adonay (Jesús) también es Dios. Para la ley eterna, no hay luz sin sombra, no hay belleza sin fealdad, no hay blanco sin negro, porque lo absoluto puede existir solamente en base a dos Dioses: La oscuridad es necesaria a la luz para servirla como suelo y pedestal necesitan la estatua, y como el motor necesita el freno”.  
   
 Pike confirma de manera inequívoca en su libro que la masonería es idéntica a los misterios de la Antigüedad, lo que claramente significa que todas sus enseñanzas en todos sus libros son precisamente lo mismo que la Antigüedad, lo Pagano, ¡los misterios satánicos!  
   
@@ -504,7 +504,7 @@ Referencias donde se afirma que Lucifer es el Dios de la Masonería:
 El libro de la Magia Negra por Arthur Edward Waite 33rd:  
   
 
->  **“Prometo de este modo al Gran Espíritu Lucífugo, Príncipe de los Demonios, que cada año, traeré ante él a un alma humana para hacer con ella lo que le parezca, y a cambio, Lucifugo me promete otorgarme los tesoros de la Tierra y colmarme con todos los deseos que tenga durante la extensión de mi vida natural. Si no soy capaz de traerle cada año el ofrecimiento especificado arriba, entonces mi propia alma será ofrecida a él firmado en sangre”**  
+>  **“Prometo de este modo al Gran Espíritu Lucífugo, Príncipe de los Demonios, que cada año, traeré ante él a un alma humana para hacer con ella lo que le parezca, y a cambio, Lucifugo me promete otorgarme los tesoros de la Tierra y colmarme con todos los deseos que tenga durante la extensión de mi vida natural. Si no soy capaz de traerle cada año el ofrecimiento especificado arriba, entonces mi propia alma será ofrecida a él firmado en sangre”**  
 > **\- Manly Palmer Hall, Masón del grado 33 de su libro “Las enseñanzas secretas de todas las Eras”.**
 
 > **“Cuando el masón aprende que la llave del guerrero en el bloque es la propia aplicación de la dinamo del poder divino, ha aprendido el Misterio de su Obra. Las energías de Lucifer están en sus manos y antes de que pueda avanzar adelante o atrás, debe probar su capacidad para aplicar apropiadamente esta energía”**  
@@ -517,14 +517,14 @@ El libro de la Magia Negra por Arthur Edward Waite 33rd:
 > **\- Albert Pike, Grado 33.**
 
   
- La masonería es verdaderamente la adoración de Lucifer. Una vez que esto sea entendido, se hace patente la razón por la que se han esmerado tanto todos estos siglos para mantener la clave del secreto, bien guardada y oculta de gente. Si la gente realmente entendiera que la masonería es una adoración de Lucifer, nadie se interesaría o se uniría a ella, y los ciudadanos de la mayor parte de las comunidades se levantarían para exigir la completa abolición de esta organización. De esta manera, encuentras secretos encerrados dentros de otros secretos, ruedas dentro de otras ruedas, como la referencia anterior confirma.  
+ La masonería es verdaderamente la adoración de Lucifer. Una vez que esto sea entendido, se hace patente la razón por la que se han esmerado tanto todos estos siglos para mantener la clave del secreto, bien guardada y oculta de gente. Si la gente realmente entendiera que la masonería es una adoración de Lucifer, nadie se interesaría o se uniría a ella, y los ciudadanos de la mayor parte de las comunidades se levantarían para exigir la completa abolición de esta organización. De esta manera, encuentras secretos encerrados dentros de otros secretos, ruedas dentro de otras ruedas, como la referencia anterior confirma.  
   
 
 ## El Portador de Luz regresa.
 
 Muchos creen que el Movimiento de la Nueva Era es poco más que una colección y mezcla de Hippies, Feministas, místicos que cantan y rezan a quien sabe qué o para qué. Pero esto está lejos de la realidad de lo que es una situación peligrosa y desesperada, ya que los illuminati y sus conspiradores en la Nueva era, por medio del uso de todas las armas de control mediático de la información disponibles a su alcance, conducen su proyecto de Nuevo Orden Mundial a su conclusión lógica y definitiva, llevando a la gente a una Dictadura “Acuariana”.  
   
- En su libro “Terrorismo y los illuminati”, el autor canadiense David Livingstone escribe:  
+ En su libro “Terrorismo y los illuminati”, el autor canadiense David Livingstone escribe:  
 
 > **“los illuminati aseguran haber descendido de Ángeles Caídos, que les enseñaron “La Sabiduría de la Antigüedad”, también conocida como la Kabalah, que ellos han estado preservado durante siglos. Estos Ángeles Caídos son mencionados en la Biblia, el Libro del Génesis, como los Nephilim (Nota Trinity; en hebreo “aquellos que han caído del cielo”) , o “Hijos de Dios”, y se dice que descendieron a la tierra y formaron matrimonios con seres humanos. Las interpretaciones cristianas se han peleado con este pasaje a menudo, prefiriendo traducir el término como “hombres poderosos” . Sin embargo, los textos judíos apócrifos explican que ellos eran el diablo y sus legiones, que fueron expulsados del Cielo, y tomaron mujeres entre las descendientes de Cain. Produjeron una raza conocida como los “Anakim”.**
 

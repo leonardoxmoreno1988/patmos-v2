@@ -9,7 +9,7 @@ description: "Sin duda, hay muchos vínculos evidentes entre el mundo imaginario
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
   
@@ -304,7 +304,7 @@ Un anillo para encontrarlos,
 Un anillo para atraerlos a todos,  
 Y en la oscuridad atarlos "_  
   
-Hay un sitio web completo con la investigación sobre Lewis y "Las Crónicas de Narnia". Hay que discutir en profundidad los aspectos teológicos de la epopeya. Es una lectura interesante, y yo le aconsejo que se le eche un vistazo para construir su propia opinión. El nombre del sitio web es ["En la profundidad de las Crónicas de Narnia"](http://www.balaams-ass.com/journal/homemake/narnia.htm). 
+Hay un sitio web completo con la investigación sobre Lewis y "Las Crónicas de Narnia". Hay que discutir en profundidad los aspectos teológicos de la epopeya. Es una lectura interesante, y yo le aconsejo que se le eche un vistazo para construir su propia opinión. El nombre del sitio web es ["En la profundidad de las Crónicas de Narnia"](http://www.balaams-ass.com/journal/homemake/narnia.htm). 
 
   
   

@@ -9,7 +9,7 @@ description: "¿Es cierto que las grandes producciones como Crepúsculo y Harry 
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -37,11 +37,11 @@ Mientras que la edad de Edward y la naturaleza parece que plantean grandes bande
 >   
 > "Porque en cuanto a la vida de toda carne, su sangre es su vida. Por tanto, dije a los hijos de Israel: No comeréis la sangre de ninguna carne, porque la vida de toda carne es su sangre; cualquiera que la coma será exterminado." -Levítico 17:14
 > 
->  "Sólo que ustedes no comerán la sangre; la derramarán sobre la tierra como el agua." -Deuteronomio 12:16  
+>  "Sólo que ustedes no comerán la sangre; la derramarán sobre la tierra como el agua." -Deuteronomio 12:16  
 >   
 > "Sólo asegúrese de no comer la sangre, porque la sangre es la vida, y no comerás la vida con la carne." -Deuteronomio 12:23
 > 
->  **"sino que les escribamos que se abstengan de cosas contaminadas por los ídolos, de fornicación, de lo estrangulado y de sangre." -Hechos 15:20**
+>  **"sino que les escribamos que se abstengan de cosas contaminadas por los ídolos, de fornicación, de lo estrangulado y de sangre." -Actos 15:20**
 
   
 
@@ -56,7 +56,7 @@ A lo largo de la saga de Crepúsculo, Edward y su familia son presentados de la 
 
 Trágicamente, muchos wiccanos han sido engañados haciéndoles creer que pueden tener relaciones con "buenos" espíritus y hacer "buenos" hechizos, cuando en realidad, han abierto la puerta a la opresión demoníaca e incluso la posesión del demonio. Después de que muchos wiccanos abren las puertas al reino demoníaco, se les enseña que pueden usar hechizos en contra, para convocar "buenos" espíritus y protegerlos de los malos espíritus. Este dispositivo ha sido utilizado efectivamente por Satanás para engañar acerca del prospecto de la Wicca y el poder de la promesa, al tiempo que les esclaviza a una construcción oculta. Lamentablemente, el vampiro, Edward, se presenta como un héroe romántico sobrenatural, cuyo efecto neto en el mundo real le da suficiente combustible a la mentira oculta de que existen espíritus malignos "buenos".  
   
-Muchos de sus seguidores, por desgracia, nunca se dan cuenta de que Satanás está ejecutando una estafa de "policía bueno, policía malo", o en su caso, "demonio bueno, demonio malo" como si uno pudiera jugar contra el otro. Dios ha revelado en su Palabra que los espíritus contactados por medios ocultos son malos y parte de la rebelión original de Satanás (Efesios 6:10-12). La Palabra de Dios está saturado con las advertencias categóricas contra todas las formas de lo oculto, incluyendo la astrología, la hechicería, la adivinación, la magia y la brujería. (Gén. 3:1-6; Ex 22:18; Lev.19:. 26, 31-32, 20:6, 27; Deut.18 :10-12; un Sam.15: 23 bis, 2 Reyes 21: 6, 23:24; I Chron.10: 13; Isa 2:6, 8:19-20, 19:03, 47:13-14; Ez.13 :20-23; Dan.2 :27-28. , 5:15-17; Mal 3:5;. Hechos 13:7-10a, 16:16-18, 19:19;. Gal 5:19-20; Apocalipsis 9:19-21, 21:08, 22 : 15, etc)  
+Muchos de sus seguidores, por desgracia, nunca se dan cuenta de que Satanás está ejecutando una estafa de "policía bueno, policía malo", o en su caso, "demonio bueno, demonio malo" como si uno pudiera jugar contra el otro. Dios ha revelado en su Palabra que los espíritus contactados por medios ocultos son malos y parte de la rebelión original de Satanás (Efesios 6:10-12). La Palabra de Dios está saturado con las advertencias categóricas contra todas las formas de lo oculto, incluyendo la astrología, la hechicería, la adivinación, la magia y la brujería. (Gén. 3:1-6; Ex 22:18; Lev.19:. 26, 31-32, 20:6, 27; Deut.18 :10-12; un Sam.15: 23 bis, 2 Reyes 21:6, 23:24; I Chron.10: 13; Isa 2:6, 8:19-20, 19:03, 47:13-14; Ez.13 :20-23; Dan.2 :27-28. , 5:15-17; Mal 3:5;. Actos 13:7-10a, 16:16-18, 19:19;. Gal 5:19-20; Apocalipsis 9:19-21, 21:08, 22 : 15, etc)  
   
 La siguiente admonición que Dios dio a través del profeta Moisés prohíbe la mayor parte de lo que se practica hoy en día por muchos neo-paganos:  
   
@@ -64,8 +64,7 @@ La siguiente admonición que Dios dio a través del profeta Moisés prohíbe la 
 > "No sea hallado en ti nadie que haga pasar a su hijo o a su hija por el fuego, ni quien practique adivinación, ni hechicería, o sea agorero, o hechicero, 11 o encantador, o médium, o espiritista, ni quien consulte a los muertos. Porque cualquiera que hace estas cosas es abominable al SEÑOR; y por causa de estas abominaciones el SEÑOR tu Dios expulsará a esas naciones de delante de ti. Serás intachable delante del SEÑOR tu Dios."  
 > \- Deuteronomio 18:10-13
 
-##   
-Hollywood y El Renacimiento De La Wicca
+## Hollywood y El Renacimiento De La Wicca
 
 El aumento es increíblemente notorio de jóvenes que se identificaron como neo-paganos, en la última década se debe principalmente a los medios de comunicación de propaganda y la glorificación de temas ocultos en Hollywood. Hollywood tiene una larga historia de proveer combustible para la mentira de que existen brujas "buenas" y brujas "malas". Las palabras del Mago de Oz: "Ding, Dong, la bruja ha muerto! Que la vieja bruja? La bruja malvada! Ding, dong, la bruja malvada ha muerto!", Implica que también hay "brujas buenas". Por supuesto, en el Mago de Oz, los niños aprendieron que si bien existen brujas malvadas, también hay brujas buenas, como la "Bruja Buena del Norte."
 
@@ -90,7 +89,7 @@ MTV también admitió lo siguiente:
 > "Un número sorprendente de jóvenes brujas hablaron con Noticias MTV y también dijeron que sintieron curiosidad acerca de su fe a través de desviarla a la cultura pop, como "El campamento de Neve Campbell", "The Craft" y la serie de "Harry Potter". (Supongo que algunos grupos cristianos estaban en lo cierto sobre eso.)"
 
 El Teólogo, Alan D. Ingalls, advirtió sobre el proceso de desensibilización que Harry Potter y otras producciones ocultan en nuestra juventud:  
-> "Harry Potter trata de lo oculto y sus prácticas como neutrales y en algunos casos útiles. La magia enseñada en 'Hogwarts' puede ser utilizado por las brujas y los magos buenos y por aquellos en el lado oscuro también. La implicación es que el poder, venga de donde venga, es neutral. De hecho, los libros hacen más que magia considerada como neutral. "Muggles", personajes que se muestran sin ningún tipo de poder mágico, se tratan con condescendencia que van de la lástima al desprecio absoluto. Por el contrario, esos personajes con habilidades mágicas son claramente superiores a los que no, incluso entre las brujas y los magos más tolerantes". 
+> "Harry Potter trata de lo oculto y sus prácticas como neutrales y en algunos casos útiles. La magia enseñada en 'Hogwarts' puede ser utilizado por las brujas y los magos buenos y por aquellos en el lado oscuro también. La implicación es que el poder, venga de donde venga, es neutral. De hecho, los libros hacen más que magia considerada como neutral. "Muggles", personajes que se muestran sin ningún tipo de poder mágico, se tratan con condescendencia que van de la lástima al desprecio absoluto. Por el contrario, esos personajes con habilidades mágicas son claramente superiores a los que no, incluso entre las brujas y los magos más tolerantes". 
 
 ## La Mentira de la Magia Blanca
 
@@ -127,7 +126,7 @@ Este reconocimiento está en realidad de acuerdo con la Palabra de Dios, que est
 **La Biblia Satánica, Anton LaVey.**
 
 Incluso Anton LaVey, fundador de la Iglesia de Satán en 1966, admitió en su "Biblia Satánica" que no hay ninguna diferencia real entre la magia "blanca" y la magia "negra", afirmando que...  
-> "La magia blanca supuestamente se utilizada solamente para propósitos buenos o altruistas, y la magia negra, se nos dice, se utiliza sólo por razones egoístas o malas. El satanismo no establece esa línea divisoria." 
+> "La magia blanca supuestamente se utilizada solamente para propósitos buenos o altruistas, y la magia negra, se nos dice, se utiliza sólo por razones egoístas o malas. El satanismo no establece esa línea divisoria." 
 
 LaVey también declaró:  
 
@@ -190,7 +189,7 @@ Lamentablemente, si la verdad se conoce, y los fans de Twilight son realmente co
 
 **Las portadas de Crepúsculo también contienen referencias ocultistas, como la manzana del génesis representando el gnosticismo y el patrón de las logias masónicas.)**
 
-   
+   
 Puede ser significativo que Stephenie Meyer eligió a una mujer sosteniendo una manzana de la portada de Twilight, un antiguo símbolo de la fruta prohibida tomado por Eva, que se rebeló contra su Creador y buscó la posición del mismo Dios. Si bien no podemos estar seguros de qué tipo de fruta había en el árbol de la ciencia, la manzana se ha convertido en una representación popular de la fruta prohibida que Satanás utiliza para engañar a Eva. Meyer, que es una mormona, puede ver la manzana de la forma en que muchos mormones principales y los satanistas en el pasado lo hicieron. Al igual que el gnosticismo antiguo y la nueva espiritualidad, el mormonismo enseña que uno puede llegar a ser un dios a través del conocimiento secreto. Los antiguos gnósticos veneraban a la serpiente y Eva celebró participar del fruto prohibido en el Edén. En la Iglesia Mormona, el logro de la divinidad viene a través de la investidura del templo y rituales secretos Mormones.  
   
 Por desgracia, los líderes mormones, al igual que sus predecesores gnósticos, han torcido el relato del Génesis e hicieron de la caída de Eva un paso heroico hacia un siguiente nivel... a la divinidad. Los líderes mormones han contradicho el testimonio de Dios como está registrado en el libro del Génesis y han enseñado que Satanás le dijo a Eva la verdad sobre la deificación de la humanidad. Brigham Young, el profeta más reverenciado en el mormonismo después José Smith, hizo eco de la mentira de Satanás en el Edén, cuando declaró:  
@@ -246,8 +245,7 @@ Mientras Satanás aparece para premiar a algunos de sus funcionarios así (tempo
 
 **Símbolo de las reliquias de la muerte como el ojo que todo lo ve. Para mayor entendimiento leer el artículo "[Análisis De Los Símbolos Ocultos en Harry Potter Y Las Reliquias De La Muerte](http://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html)".)**
 
-##   
-La Luz Verdadera
+## La Luz Verdadera
 
 Querido lector, las personas no son conscientes de que hay una batalla espiritual entre el bien y el mal, porque muchos están ciegos al hecho de que ellos mismos, ya sea consciente o inconscientemente, se han convertido en participantes. El resultado triste y trágico es que muchos han sido engañados, hasta el punto de convertirse en ciegos espirituales.  
   
@@ -268,6 +266,6 @@ Mientras que los vampiros -al igual que los dioses paganos- demandaban de la san
 Si usted está pasando de la oscuridad a la luz, es imperativo que se asegure de renunciar a la fortalezas satánicas que los han mantenido en la esclavitud. Esta fue la práctica de los primeros cristianos, según consta en el libro de los Hechos:  
 
 > "Y un número de los que habían practicado artes mágicas juntaron sus libros y los quemaron delante de todos. Y ellos el valor de ellos y encontró que era cincuenta mil piezas de plata."  
-> \-Hechos 19:19
+> \-Actos 19:19
 
 Que Dios te dé la gracia y la sabiduría para andar como es digno del llamamiento celestial que tenemos en nuestro amado Salvador, el Señor Jesucristo.

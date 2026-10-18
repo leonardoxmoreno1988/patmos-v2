@@ -9,13 +9,13 @@ description: "Con un campus de 1.06 km2 en Tulsa, Oklahoma, la universidad crist
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
   
   
-Con un campus de 1.06 km2 en Tulsa, Oklahoma, la universidad cristiana **Oral Roberts** ha sido catalogada como una de las mejores instituciones norteamericanas en el 2012. Pero muy lejos de sus reconocimientos o sus 60 licenciaturas, diversos testimonios han señalado la **ORU** como un centro del **abuso ritual satánico** y prácticas de pedofilia. ¿Podrá explicarnos el ya fallecido Roberts que ocurre realmente en su universidad?
+Con un campus de 1.06 km2 en Tulsa, Oklahoma, la universidad cristiana **Oral Roberts** ha sido catalogada como una de las mejores instituciones norteamericanas en el 2012. Pero muy lejos de sus reconocimientos o sus 60 licenciaturas, diversos testimonios han señalado la **ORU** como un centro del **abuso ritual satánico** y prácticas de pedofilia. ¿Podrá explicarnos el ya fallecido Roberts que ocurre realmente en su universidad?
 
   
 
@@ -51,7 +51,7 @@ En su libro [**La Formula Illuminati Para Crear Un Esclavo De Control Mental Ind
 > Oral Roberts ha sido visto por testigos que participan en SRA (Abuso Ritual Satánico) y control mental. Oral Roberts University y el movimiento carismático es otro frente religioso importante. El movimiento carismático ha sido infiltrado por múltiples desde el primer día. La historia de la infiltración es extensa. Oral Roberts tenía sangre cherokee, De acuerdo con algunas cosas que Oral Roberts ha dicho, algunos cristianos piensan que recibió sus poderes de curación de un viejo indio que lo curó a través de chamanismo indio cuando Oral era joven. A veces, Oral usa los mismos métodos que los médiums espiritistas utilizan para sanar. De acuerdo con los esclavos que han sido desprogramados, ellos estaban en rituales satánicos con Oral Roberts."
 
   
- 
+ 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7EZRI1zWG-L-vwwhgFobn21F9mPlUYj5HXv-V5r_JLsIsLX-la__bJpUdwwlzWln04kMnc_1n999ThponjtsFXi4Orz6scKf7iKIiuLk9USpeVIBkciUzLt-iE7zcZsz2uP_e0jgWJO8/s1600/oral_roberts.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7EZRI1zWG-L-vwwhgFobn21F9mPlUYj5HXv-V5r_JLsIsLX-la__bJpUdwwlzWln04kMnc_1n999ThponjtsFXi4Orz6scKf7iKIiuLk9USpeVIBkciUzLt-iE7zcZsz2uP_e0jgWJO8/s1600/oral_roberts.jpg)
 
@@ -61,11 +61,11 @@ Oral Roberts haciendo sus sanaciones "milagrosas" en la década de los 50s.
 
 El libro continua:
 
-   
+   
 
 > "Los ministros cristianos, que han participado en su ministerio están diciendo que han visto la estafa masiva en su ministerio de sanidad. Su universidad está siendo utilizado como un centro de programación mental. Su equipo de baloncesto en un momento tenía esclavos Monarca jugando en ella. No sabemos si todavía lo hacen. Debajo de la Torre de la Oración es uno de los sitios de programación. Billy Graham, un controlador MK-ultra, ayudó a lanzar la Oral Roberts University, y es un amigo de Oral Roberts. Desde el punto de vista de los Illuminati, Tulsa es el Guarda de la ciudad de Apolo. La Ciudad de la Fe es ser el centro para la curación de Esculapio, un demonio relacionado con Apolo. Mientras que se retratan a sí mismos como cristianos, los infiltrados en el movimiento carismático están llevando a cabo rituales satánicos para obtener poderes curativos demoníacos.  
 >   
-> Tulsa es el centro principal de la campaña para infiltrarse en el cristianismo a través del movimiento carismático/pentecostal con múltiples programados. G. Bromiey Oxnam, masón grado 33°, fue jefe de las iglesias de la FCC (Consejo Mundial de Iglesias), amigo de apoyo de Billy Graham, G. Bromley Oxnam tiene una larga historia trabajando con él para la élite, los lectores interesados ​​pueden leer su historia en el libro Prudentes como Serpientes, en el capítulo que se dedica a los detalles sobre cómo se organizaron las iglesias cristianas por la FCC y del CMI para los Illuminati."
+> Tulsa es el centro principal de la campaña para infiltrarse en el cristianismo a través del movimiento carismático/pentecostal con múltiples programados. G. Bromiey Oxnam, masón grado 33°, fue jefe de las iglesias de la FCC (Consejo Mundial de Iglesias), amigo de apoyo de Billy Graham, G. Bromley Oxnam tiene una larga historia trabajando con él para la élite, los lectores interesados pueden leer su historia en el libro Prudentes como Serpientes, en el capítulo que se dedica a los detalles sobre cómo se organizaron las iglesias cristianas por la FCC y del CMI para los Illuminati."
 
   
 
@@ -131,7 +131,7 @@ Recomiendo altamente leer toda su historia en su blog [**MultiJudy's World**](ht
 Advertencia: la siguiente narración puede herir las susceptibilidad de algunos lectores.  
 
 >   
-> "Esta iglesia estaba conectada a la Oral Roberts University y la Rhema Bible Collage también. ¿Estoy diciendo que Oral Roberts y Kenneth Hagen son satanistas? En mi mente un gran SI! Pero sólo Dios sabe la verdad sobre su corazón, lo que estoy diciendo es que las prácticas satánicas, así como la programación se realizó en sus campus. Las personas fueron víctimas de abusos, ritualmente asesinados y los niños fueron abusados ​​sexualmente allí también. Lo sé porque yo era uno de esos niños.  
+> "Esta iglesia estaba conectada a la Oral Roberts University y la Rhema Bible Collage también. ¿Estoy diciendo que Oral Roberts y Kenneth Hagen son satanistas? En mi mente un gran SI! Pero sólo Dios sabe la verdad sobre su corazón, lo que estoy diciendo es que las prácticas satánicas, así como la programación se realizó en sus campus. Las personas fueron víctimas de abusos, ritualmente asesinados y los niños fueron abusados sexualmente allí también. Lo sé porque yo era uno de esos niños.  
 >   
 > Me llevaron a la ORU de niña y fui abusada en un habitación con otras personas. Yo fui abusada por el mismo Oral Roberts. Me desnudaron y me hicieron pararme en el medio de un círculo mientras mi cuerpo era examinado y pinchado. Estuve ahí, hasta que alguien puso algo en mi vagina que me produjo mucho dolor, la sangre se deslizo por mis piernas hasta mis pies y caí en el suelo. Me levantaron dos hombres y me pusieron de pie con mucho dolor hasta que me desmayé. Vi que esto se hacía con otras chicas también. También vi a muchachos sodomizados, y golpeados. Vi a bebés asesinados y su sangre drenada hacia altares con cruces de lo que se suponía que era Jesús colgado por encima. No al revés como en las películas, pero la justo hacia arriba tratando de hacer a Jesús parecer culpable e impotente. A día de hoy no me gusta ver los crucifijos con Jesús colgado en ellos."  
 >   
@@ -146,7 +146,7 @@ En el libro _La Formula Illuminati_, se explica el uso de símbolos cristianos p
 >   
 > \- Tomado del Blog "Mi Historia" de la artista y víctima de SRA, Multi-Judy.
 
-   
+   
 En el 2005 Judy realizo una entrevista a una radio donde también menciona su experiencia como esclava sexual en la Oral Roberts University. Solo disponible en ingles -- muy recomendable.  
   
   
@@ -232,7 +232,7 @@ La masonería y la arquitectura están muy relacionadas, incluso desde sus oríg
 >
 > \-Texe Marrs
 
-   
+   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm9qaFeediQmF_VgLHkS_RljijcF6uIfTZ41U8KZiqsrRRe3zvPx5Mz7x5uNaTJYv34iQn1BG6Kqfygv0TTTayMuBbmvgKo7bSHGFlMUTA4ak6kZicI6J-Pw57OE0iwHWgdHvwjCdWQE0/s1600/masoneri4.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm9qaFeediQmF_VgLHkS_RljijcF6uIfTZ41U8KZiqsrRRe3zvPx5Mz7x5uNaTJYv34iQn1BG6Kqfygv0TTTayMuBbmvgKo7bSHGFlMUTA4ak6kZicI6J-Pw57OE0iwHWgdHvwjCdWQE0/s1600/masoneri4.jpg)
 
@@ -292,9 +292,9 @@ Es curioso que los ocultistas creen que pueden acumular poder mágico si desplie
 
 Basándonos en estas imágenes ¿Qué clase de cristianismo es el que se enseña en la Oral Roberts University? Estudiando las doctrinas de muchos de sus egresados -algunos de estos grandes figuras mediáticas, autores de best-sellers y/o pastores de mega-iglesias- he encontrado las siguientes afirmaciones que revelan, en su fachada de cristianismo, diversos trasfondos humanistas, doctrina de la nueva era y masonería. En muchas de sus iglesias estas afirmaciones pueden ser escuchadas comúnmente:
 
-   
+   
 
-1.  Los cristianos tenemos la autoridad y la obligación de dominar los "7 montes" de la sociedad. 
+1.  Los cristianos tenemos la autoridad y la obligación de dominar los "7 montes" de la sociedad. 
 2.  Los cristianos debemos crear un Reino de Dios en esta tierra por mandato divino.
 3.  Nosotros, al igual que Jesús, somos dioses.
 4.  Los eventos de **[el libro de Apocalipsis](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** ya ocurrieron en el pasado.

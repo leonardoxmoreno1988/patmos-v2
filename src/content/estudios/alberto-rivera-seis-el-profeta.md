@@ -9,11 +9,11 @@ description: "En este sexto comic llamado El Profeta, el ex jesuita Alberto Rive
 tags: ["Falsas Doctrinas"]
 ---
 
-En este sexto cómic llamado **El Profeta**, el exjesuita **Alberto Rivera** explica cómo el papado ayudó a iniciar el **Islam**, solo para que esta nueva hija se rebelara contra este. También entenderás el papel del mundo árabe en la profecía bíblica. Lea cómo la Virgen María está siendo utilizada para traer a esa hija rebelde, el Islam, de vuelta a la cooperación con la "Iglesia Matriz". La "superiglesia" global está formándose.
+En este sexto cómic llamado **El Profeta**, el exjesuita **Alberto Rivera** explica cómo el papado ayudó a iniciar el **Islam**, solo para que esta nueva hija se rebelara contra este. También entenderás el papel del mundo árabe en la profecía bíblica. Lea cómo la Virgen María está siendo utilizada para traer a esa hija rebelde, el Islam, de vuelta a la cooperación con la "Iglesia Matriz". La "superiglesia" global está formándose.
 
   
 
-**Nota:** Si deseas recibir más contenido sobre las falsas religiones, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre las falsas religiones, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
 [![portada de el profeta de la serie los cruzados](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs7q6HccsmL1XblOA8zWv6R3FFEVft8PevNMwB7nkv1P8Yki8p8YXjEeXv_zfosZ5JlstD4gmK8jSB-Wn7Cd95m5tp8RsNNtmZFUvc9lUYqKmZehD9RIQoQ2r2l4ACjQpCybcX0K4IP9I/s1600/el-profeta-alberto.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs7q6HccsmL1XblOA8zWv6R3FFEVft8PevNMwB7nkv1P8Yki8p8YXjEeXv_zfosZ5JlstD4gmK8jSB-Wn7Cd95m5tp8RsNNtmZFUvc9lUYqKmZehD9RIQoQ2r2l4ACjQpCybcX0K4IP9I/s1600/el-profeta-alberto.jpg)
 

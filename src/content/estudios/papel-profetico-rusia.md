@@ -9,7 +9,7 @@ description: "La profecía bíblica es clara sobre el papel que Rusia y sus soci
 tags: ["Escatología"]
 ---
 
-La **profecía bíblica** es clara sobre el papel que **Rusia** y sus socios asiáticos y del medio oriente jugarán en la Tercera Guerra Mundial: la guerra más sangrienta que jamás la humanidad haya experimentado.  
+La **profecía bíblica** es clara sobre el papel que **Rusia** y sus socios asiáticos y del medio oriente jugarán en la Tercera Guerra Mundial: la guerra más sangrienta que jamás la humanidad haya experimentado.  
   
 
 [![catedral de san basilio rusia con el oso ruso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtwYqS4IXOg136-c_EMIz0QtwJDbihVegDO0Lb8Zuce-QzCbwLdsNAq5x3jOV6pE-weV_u_Fmsc8YXeIjl_fxMvnwaPaLqXhOIRQKuCI6S5qhhkuiSZOBfsfSYfacFF-nPtBdjdV83BkQ/s1600/rusia-oso.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtwYqS4IXOg136-c_EMIz0QtwJDbihVegDO0Lb8Zuce-QzCbwLdsNAq5x3jOV6pE-weV_u_Fmsc8YXeIjl_fxMvnwaPaLqXhOIRQKuCI6S5qhhkuiSZOBfsfSYfacFF-nPtBdjdV83BkQ/s1600/rusia-oso.jpg)
@@ -18,11 +18,11 @@ La **profecía bíblica** es clara sobre el papel que **Rusia** y sus socios a
 Glasnost (en ruso: literalmente: Apertura) fue una política que exigía una mayor apertura y transparencia en las instituciones y actividades gubernamentales en la Unión Soviética. Introducido por Mikhail Gorbachev en la segunda mitad de la década de 1980, Glasnost a menudo se combina con la Perestroika (literalmente: Reestructuración), otra reforma instituida por Gorbachov al mismo tiempo.  
   
 
- La palabra "glasnost" se usa en ruso al menos desde finales del siglo XVIII. La palabra fue frecuentemente utilizada por Gorbachov para especificar las políticas que él creía que podrían ayudar a reducir la corrupción en la parte superior del Partido Comunista y el gobierno soviético, y moderar el abuso del poder administrativo en el Comité Central. Esto tuvo una influencia para finalmente desentrañar a la Unión Soviética comunista a medida que la creciente ola de libertad en toda Europa oriental derrocaba a los gobiernos comunistas y conducía a la ruptura final del bloque oriental.
+ La palabra "glasnost" se usa en ruso al menos desde finales del siglo XVIII. La palabra fue frecuentemente utilizada por Gorbachov para especificar las políticas que él creía que podrían ayudar a reducir la corrupción en la parte superior del Partido Comunista y el gobierno soviético, y moderar el abuso del poder administrativo en el Comité Central. Esto tuvo una influencia para finalmente desentrañar a la Unión Soviética comunista a medida que la creciente ola de libertad en toda Europa oriental derrocaba a los gobiernos comunistas y conducía a la ruptura final del bloque oriental.
 
   
 
-**Nota:** Si deseas recibir más contenido sobre la guerra de Gog y Magog, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre la guerra de Gog y Magog, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 Desde la desintegración de la Unión Soviética y la independencia de los países de Europa oriental que estaban bajo el dominio comunista ha habido una sensación general de que el residuo de la Unión Soviética; Rusia, ya no tiene una posición destacada en los asuntos mundiales. Se considera que su presencia como miembro permanente del Consejo de Seguridad de la ONU se basa meramente en un legado histórico, ya que Rusia ya no se ve coN el mismo poder que tenía durante la era de la guerra fría.  
@@ -30,13 +30,13 @@ Desde la desintegración de la Unión Soviética y la independencia de los país
 Sin embargo, ¿está el comunismo realmente muerto y la antigua visión del imperialismo ruso se ha marchitado o el oso ha tendido una trampa que ha arrullado al mundo con una falsa sensación de seguridad? En este artículo abordamos el papel de Rusia y los tiempos del fin para ver pistas que pueden darnos una idea de lo que depara el futuro para esta nación tan importante.  
   
 
-> **"Para vencer a un enemigo debes primero desmoralizarlos y destruir su voluntad de resistir. El arte más consumado es someter a tus enemigos sin tener que luchar contra ellos en el campo ... Destruye por supuesto los suministros de armas de tus oponentes".** 
+> **"Para vencer a un enemigo debes primero desmoralizarlos y destruir su voluntad de resistir. El arte más consumado es someter a tus enemigos sin tener que luchar contra ellos en el campo ... Destruye por supuesto los suministros de armas de tus oponentes".** 
 
 > **Sun Tsu - "El arte de la guerra" - 500 a. C.**
 
   
 
-> **"La guerra hasta la empuñadura entre el comunismo y el capitalismo es inevitable. Pero hoy estamos demasiado débiles para atacar. Nuestro día llegará en 30 - 40 años. Pero primero debemos arrullar a las naciones capitalistas para que duerman con las mayores propuestas de paz y desarme conocidas a lo largo de la historia. Y luego, cuando se les quite la guardia, los aplastaremos con nuestro puño cerrado".** 
+> **"La guerra hasta la empuñadura entre el comunismo y el capitalismo es inevitable. Pero hoy estamos demasiado débiles para atacar. Nuestro día llegará en 30 - 40 años. Pero primero debemos arrullar a las naciones capitalistas para que duerman con las mayores propuestas de paz y desarme conocidas a lo largo de la historia. Y luego, cuando se les quite la guardia, los aplastaremos con nuestro puño cerrado".** 
 
 > **\- Dimitri Manuilski. En un discurso ante la Escuela Lenin de Guerra Política en Moscú en la década de 1930.**
 
@@ -53,7 +53,7 @@ En Daniel 7, el profeta Daniel tiene una visión de cuatro potencias mundiales r
 
   
 
-Sin embargo, sabemos que las cuatro bestias de la visión de Daniel en Daniel 7 son poderes modernos y no imperios antiguos porque en el momento de la destrucción de la cuarta bestia (el gobierno mundial final) en la Segunda Venida de Cristo, los tres reinos anteriores de las bestias tenían una continuación como se ve en Daniel 7: 11-12. Este versículo establece el contexto para la interpretación en lugar de tratar de interpretar estas bestias como imperios antiguos.  
+Sin embargo, sabemos que las cuatro bestias de la visión de Daniel en Daniel 7 son poderes modernos y no imperios antiguos porque en el momento de la destrucción de la cuarta bestia (el gobierno mundial final) en la Segunda Venida de Cristo, los tres reinos anteriores de las bestias tenían una continuación como se ve en Daniel 7:11-12. Este versículo establece el contexto para la interpretación en lugar de tratar de interpretar estas bestias como imperios antiguos.  
   
 
 > **"En cuanto al resto de las bestias, se les quitó su dominio, pero sus vidas se prolongaron durante una temporada y un tiempo".**
@@ -62,7 +62,7 @@ Sin embargo, sabemos que las cuatro bestias de la visión de Daniel en Daniel 7 
 En una edición anterior nos habíamos centrado en la primera bestia (el león con alas de águila) como representante de la alianza angloamericana, pero ¿qué pasa con la segunda bestia en la visión. ¿Qué poder representa esto? ¿Hay alguna pista que nos proporcione para identificar este poder del tiempo del fin?  
   
 
->  **"Y he aquí otra bestia, un segundo, semejante a un oso, y se levantó de un lado, y tenía tres costillas en su boca entre los dientes del mismo; y le dijeron así: Levántate, devora mucha carne".\- Daniel 7: 5**
+>  **"Y he aquí otra bestia, un segundo, semejante a un oso, y se levantó de un lado, y tenía tres costillas en su boca entre los dientes del mismo; y le dijeron así: Levántate, devora mucha carne".\- Daniel 7:5**
 
   
 El oso ruso es una personificación nacional de Rusia, utilizada en caricaturas y artículos y obras dramáticas al menos desde el siglo XVII, y se relaciona por igual con la Rusia zarista, la Unión Soviética y la Federación Rusa. Los occidentales a menudo lo usaban y lo usan, especialmente en Gran Bretaña y luego también en los EE. UU., Y no siempre en un contexto halagador en ocasiones solía implicar que Rusia es "grande, brutal y torpe".  
@@ -119,7 +119,7 @@ La política exterior de Pedro el Grande inevitablemente dictaba una nación cuy
   
 La invasión de Rusia por Hitler allanó el camino para los sentimientos históricos que siempre han definido la política exterior de Moscú. La Unión Soviética después de la Segunda Guerra Mundial aceleró la acumulación de armas y la capacidad militar como reacción para evitar nuevas invasiones de enemigos extranjeros. En 1990, cincuenta años de desarrollo militar habían convencido a los generales militares soviéticos de que su Ejército Rojo era intocable. Las fuerzas estratégicas de cohetes estaban convencidas de que con suficientes misiles adicionales y ojivas señuelo, podrían hundir las defensas estadounidenses. La armada, con su posición de fortalecimiento en el Mediterráneo, afirmó que sus submarinos de gran tamaño con misiles desnatados que transportaban cabezas nucleares serían capaces de agacharse bajo el dosel de defensa estadounidense. Finalmente, la fuerza aérea argumentó que su nuevo bombardero supersónico con el nombre en código Tu-160 Black Jack por parte de la OTAN, sería capaz de lanzar bombas de apoyo y lanzar misiles de crucero que someterían cualquier enemigo.  
   
-Hoy, mientras los medios occidentales intentan convencer al público de que los restos del Ejército Rojo soviético, esencialmente el ejército ruso, se autodestruyen debido a una escasez financiera, el nuevo escenario geográfico y la nueva política exterior de la era posterior a la guerra fría, la verdad es que el ejército ruso sigue siendo la única nación en la tierra que podría destruir a los Estados Unidos en 30 minutos. Si bien es improbable que el ejército ruso tenga la fuerza y ​​la delicadeza de sus días de gloria comunista, de poder lanzar un ataque sorpresa contra los Estados Unidos mientras fuerza una rápida invasión de Europa, siguen siendo capaces de causar estragos e inmensas destrucción en el planeta. La inestabilidad que plagó la política rusa desde el golpe de 1991 siempre podría ser un trampolín para ese escenario.  
+Hoy, mientras los medios occidentales intentan convencer al público de que los restos del Ejército Rojo soviético, esencialmente el ejército ruso, se autodestruyen debido a una escasez financiera, el nuevo escenario geográfico y la nueva política exterior de la era posterior a la guerra fría, la verdad es que el ejército ruso sigue siendo la única nación en la tierra que podría destruir a los Estados Unidos en 30 minutos. Si bien es improbable que el ejército ruso tenga la fuerza y la delicadeza de sus días de gloria comunista, de poder lanzar un ataque sorpresa contra los Estados Unidos mientras fuerza una rápida invasión de Europa, siguen siendo capaces de causar estragos e inmensas destrucción en el planeta. La inestabilidad que plagó la política rusa desde el golpe de 1991 siempre podría ser un trampolín para ese escenario.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSalX70lA2Gj7K1JjIIUR5FQaYf554Qyz5aqvGSOb24u3rOzrY_LB0dHACcw9Zjht53r1LHYbTNSonzVZZGy59UNf9rVkQdCj8SdvaZsQKdaBK9CLf0_A0IEQL7rzPiwY8Cmew6-i__E0/s1600/armada-rusa.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSalX70lA2Gj7K1JjIIUR5FQaYf554Qyz5aqvGSOb24u3rOzrY_LB0dHACcw9Zjht53r1LHYbTNSonzVZZGy59UNf9rVkQdCj8SdvaZsQKdaBK9CLf0_A0IEQL7rzPiwY8Cmew6-i__E0/s1600/armada-rusa.jpg)
@@ -219,7 +219,7 @@ Claramente, en la comprensión de la agenda de los iluminati para dar paso al Nu
   
 Dos principios de la hermenéutica tienen una relación directa con el estudio de Ezequiel 38. Primero es la importancia del literalismo. Es un poco irónico que esto deba ser afirmado en un argumento en contra de muchos expertos en profecía bíblica pero, como se mostrará, la necesidad es real. Los términos deben interpretarse en su significado principal, ordinario y habitual. La tentación de aplicarlos a algo muy alejado del autor, sin una garantía exegética explícita, debe ser resistida con cuidado. Esto lleva a enfatizar el segundo principio: la interpretación histórica. Esto simplemente significa que el pasaje debe considerarse dentro del marco de referencia del autor y los destinatarios de la escritura. Para llevarlo más allá, se requiere, una vez más, una garantía explícita.  
   
-Ezequiel 38: 1-7 da diez nombres como participantes en la invasión de Israel que seguirá a la reunión de los judíos en su tierra natal. Primero mencionado, es la tierra de Magog. La identidad más común para Magog es en Asia Central. El historiador judío Josefo dijo:  
+Ezequiel 38:1-7 da diez nombres como participantes en la invasión de Israel que seguirá a la reunión de los judíos en su tierra natal. Primero mencionado, es la tierra de Magog. La identidad más común para Magog es en Asia Central. El historiador judío Josefo dijo:  
   
 
 > **"Magog fundó Magogians, llamado Scythians por los griegos. Los escitas eran una tribu nómada que habitaba el antiguo territorio de Asia Central en la parte sur de la antigua Rusia".**
@@ -308,7 +308,7 @@ El Islam fue en gran medida controlado en la Unión Soviética, pero ha tenido u
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXiwGjTEtPkXm4LcD84zGq4q4vrDzOox160setYpdno6d3aGTeWqiMCFkXG9NVuk9jYOYlppL5QDDlZCKm1T8t6Ua-LFY9DL5ws2tUFPJOVY2nROntMORmRyW7ZjXLaPB1sUX7s3Lsozo/s1600/rusos-arabes.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXiwGjTEtPkXm4LcD84zGq4q4vrDzOox160setYpdno6d3aGTeWqiMCFkXG9NVuk9jYOYlppL5QDDlZCKm1T8t6Ua-LFY9DL5ws2tUFPJOVY2nROntMORmRyW7ZjXLaPB1sUX7s3Lsozo/s1600/rusos-arabes.jpg)
 
-**Presentes en el territorio ruso desde el siglo X, la mayor parte de los musulmanes rusos habitan en la región del río Volga y en el Cáucaso Norte.** 
+**Presentes en el territorio ruso desde el siglo X, la mayor parte de los musulmanes rusos habitan en la región del río Volga y en el Cáucaso Norte.** 
 
   
 Paul Goble, un experto en minorías de la antigua Unión Soviética, ha afirmado la tendencia del crecimiento exponencial en el Islam desde la desaparición de la Unión Soviética: Rusia tenía alrededor de 300 mezquitas en 1991 y ahora hay al menos 8,000, aproximadamente la mitad de las cuales construido con dinero del exterior, especialmente de Turquía, Irán y Arabia Saudita. No hubo escuelas religiosas islámicas en 1991 y hoy hay entre 50 y 60, enseñando hasta 50,000 estudiantes. El número de rusos que pasan el Hajj cada año ha pasado de 40 en 1991 a 13.500 en 2005. Cita a un comentarista ruso que predice que en las próximas décadas habrá una mezquita en la Plaza Roja:  
@@ -323,7 +323,7 @@ Es este último razonamiento más que nada da la clave de por qué Rusia decidir
 
 > **"Aquellos que intentan defender estos ideales falsos (extremistas), aquellos que son utilizados como carne de cañón, que plantan una mina por diez dólares o que disparan con armas automáticas, o no saben o han olvidado esto", dijo el presidente.**
 
-> **"Aquellos que organizan tal actividad ciertamente lo hacen deliberadamente, entendiendo qué objetivos quieren lograr, los líderes de los principales estados islámicos entienden esto.**
+> **"Aquellos que organizan tal actividad ciertamente lo hacen deliberadamente, entendiendo qué objetivos quieren lograr, los líderes de los principales estados islámicos entienden esto.**
 
 > **"Por esta razón, sus representantes estuvieron presentes en la votación general en el referéndum sobre la Constitución de la República Chechena, estuvieron en las elecciones presidenciales; tanto la Organización de la Conferencia Islámica como la Liga de los Estados Árabes, nuestros colegas y amigos estuvieron presentes en las elecciones al parlamento".**
 

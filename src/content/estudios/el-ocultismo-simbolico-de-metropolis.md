@@ -9,13 +9,13 @@ description: "La película de 1927 \"Metropolis\" de Fritz Lang es uno de esos c
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
   
   
-La película de 1927 **"Metropolis"** de **Fritz Lang** es uno de esos clásicos atemporales que resisten la prueba del tiempo. En lugar de quedar olvidado y obsoleto, **"Metropolis"** es cada vez más relevante ya que muchas de sus predicciones se están convirtiendo en realidad. Vamos a ver el mensaje oculto subyacente de la película y el uso de sus imágenes en las estrellas del pop como Lady Gaga, **Madonna, Beyonce, Kylie Minogue** y otros.  
+La película de 1927 **"Metropolis"** de **Fritz Lang** es uno de esos clásicos atemporales que resisten la prueba del tiempo. En lugar de quedar olvidado y obsoleto, **"Metropolis"** es cada vez más relevante ya que muchas de sus predicciones se están convirtiendo en realidad. Vamos a ver el mensaje oculto subyacente de la película y el uso de sus imágenes en las estrellas del pop como Lady Gaga, **Madonna, Beyonce, Kylie Minogue** y otros.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicwGLDiJ3e-72mK519kj5k6QicPZgq1l6iZhPZjImkkuFOi-rPSLIlcQKwfk4cngQD4F3tiuXKfpPwuEId-XK0FD9jyGrSpeVmEVfb2gaGWyiLN6U0dhXeaqThV3_vkO3PLDa2BaRzKc/s1600/metropolis-significado.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicwGLDiJ3e-72mK519kj5k6QicPZgq1l6iZhPZjImkkuFOi-rPSLIlcQKwfk4cngQD4F3tiuXKfpPwuEId-XK0FD9jyGrSpeVmEVfb2gaGWyiLN6U0dhXeaqThV3_vkO3PLDa2BaRzKc/s1600/metropolis-significado.jpg)
@@ -104,8 +104,7 @@ La ciudad fue fundada, construida y está dirigida por el autocrático Joh Frede
 El hijo de Juan, llamado Freder, que, como todos los hijos de los gerentes, disfruta de una vida de lujo, descubre la dura realidad de los trabajadores. Queriendo experimentar la realidad de los trabajadores primera mano, Freder desciende al nivel inferior y cambia de lugar con un trabajador. Por lo tanto, Freder se convierte en una figura del Cristo, un salvador que desciende de lo alto. También queda enamorado de María, una mujer santa y joven del proletariado.  
   
 
-##   
-María
+## María
 
   
 
@@ -157,7 +156,7 @@ Sin embargo, dice María, "los himnos de un hombre se convirtieron en la maldici
 **Rotwang con su marca comercial... una mano derecha mecánica, que sustituye a la que perdió durante una de sus experimentos. ¿Es esto un símbolo de que el inventor abarca el "camino zurdo"?**
 
   
-Al enterarse de que los trabajadores están planeando un levantamiento, Joh Federsen busca el consejo de Rotwang, un inventor y científico loco. Aunque su trabajo expone la última de las tecnologías, muchas pistas dentro de la película indican que también utilizan el antiguo conocimiento oculto para crear sus inventos. Él dice que vivimos en "una pequeña casa pasada por alto durante siglos",  lo que significa simbólicamente que los arcanos del científico son descendientes de antiguas tradiciones ocultas; el sótano de su casa tiene una puerta secreta que conduce a catacumbas de 2.000 años de antigüedad, aludiendo además a las fuentes antiguas y misteriosas de Rotwang. Además, la puerta principal de su casa tiene una estrella de cinco puntas, que se refiere a los pitagóricos, el ocultismo y la masonería.  
+Al enterarse de que los trabajadores están planeando un levantamiento, Joh Federsen busca el consejo de Rotwang, un inventor y científico loco. Aunque su trabajo expone la última de las tecnologías, muchas pistas dentro de la película indican que también utilizan el antiguo conocimiento oculto para crear sus inventos. Él dice que vivimos en "una pequeña casa pasada por alto durante siglos",  lo que significa simbólicamente que los arcanos del científico son descendientes de antiguas tradiciones ocultas; el sótano de su casa tiene una puerta secreta que conduce a catacumbas de 2.000 años de antigüedad, aludiendo además a las fuentes antiguas y misteriosas de Rotwang. Además, la puerta principal de su casa tiene una estrella de cinco puntas, que se refiere a los pitagóricos, el ocultismo y la masonería.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8jYp1DieWZLDy1H4gV7LAP7GYdzcFNbcIRj7NSjyF0Nw24QG_CpDNpBfwXlSDTjpPrFj2jUxNThIcFHcOwAPBccfedQDWNmvU-felK9s7ETYL1Ck38fGL15FA_kfiMiACe2e7J75xxHM/s1600/pentagrama-metropolis.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8jYp1DieWZLDy1H4gV7LAP7GYdzcFNbcIRj7NSjyF0Nw24QG_CpDNpBfwXlSDTjpPrFj2jUxNThIcFHcOwAPBccfedQDWNmvU-felK9s7ETYL1Ck38fGL15FA_kfiMiACe2e7J75xxHM/s1600/pentagrama-metropolis.jpg)

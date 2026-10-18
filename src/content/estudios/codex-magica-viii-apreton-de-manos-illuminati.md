@@ -9,7 +9,7 @@ description: "Se cree que los saludos en la mano de los iluministas ponen a trab
 tags: ["Sociedad"]
 ---
 
-Se cree que los **saludos** en la mano de los **iluministas** ponen a trabajar la magia, sirve para evocar a seres sobrenaturales y, por supuesto, para comunicar mensajes. Por ejemplo, un grado superior **mason, rosacruz** u otro **iluminista** puede discernir a qué nivel ritual está un hermano en la magia al probar su apretón de manos. Es, por lo tanto, un modo importante de reconocimiento. La frase comúnmente usada, "apretón de manos" tiene orígenes masónicos.  
+Se cree que los **saludos** en la mano de los **iluministas** ponen a trabajar la magia, sirve para evocar a seres sobrenaturales y, por supuesto, para comunicar mensajes. Por ejemplo, un grado superior **mason, rosacruz** u otro **iluminista** puede discernir a qué nivel ritual está un hermano en la magia al probar su apretón de manos. Es, por lo tanto, un modo importante de reconocimiento. La frase comúnmente usada, "apretón de manos" tiene orígenes masónicos.  
 
   
 
@@ -24,7 +24,7 @@ El saludo o "apretón de manos", es un signo de unidad, unidad de propósito y l
 El apretón de manos de los iluministas, el estrechamiento o la unión de las manos, puede tener muchos significados. El más simple es como un símbolo de fidelidad. Curiosamente, la Dra. Cathy Burns, en su exposición informativa, _Secretos Ocultos de la Estrella de Pascua_, señala que incluso en este nivel básico, el Iluminista está significando su lealtad a una deidad que no es el Dios cristiano.  
   
 
-Las instrucciones dadas al candidato para Aprendiz Escrito, o Primer Grado de la Francmasonería incluyen las dadas aquí. Noten que al candidato se le pregunta: 
+Las instrucciones dadas al candidato para Aprendiz Escrito, o Primer Grado de la Francmasonería incluyen las dadas aquí. Noten que al candidato se le pregunta: 
 
   
 
@@ -42,7 +42,7 @@ Las instrucciones dadas al candidato para Aprendiz Escrito, o Primer Grado de la
   
 Entonces, cuando se le pregunta,  
   
-"¿Qué son los simbólicos?", Responde, "Ciertas maneras amistosas o fraternales, por las cuales un masón puede conocer a otro en la oscuridad, así como en la luz". (Ritual y Monitor Masónico de Duncan, página 42)  
+"¿Qué son los simbólicos?", Responde, "Ciertas maneras amistosas o fraternales, por las cuales un masón puede conocer a otro en la oscuridad, así como en la luz". (Ritual y Monitor Masónico de Duncan, página 42)  
   
 Por ejemplo, el Dr. Burns cita a Albert Mackey, 33 °, ex Soberano Gran Comandante del Rito Escocés, quien admite:  
   
@@ -64,7 +64,7 @@ Mackey revela que la mano se considera importante "como símbolo de la inteligen
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Él continúa para discutir el uso de la mano en tales religiones de misterio antiguas como el Mitraísmo y en la adoración de los dioses sumerios, asirios, y babilónicos. Él señala que la tradición del sello rojo adjunto en documentos importantes es una adaptación al antiguo uso de la mano ensangrentada como una forma para autenticar documentos.  
   
@@ -96,7 +96,7 @@ He hecho todo lo posible por tener en cuenta todos estos factores incontrolables
 >   
 > Una enorme fotografía mostraba a Tony Blair, nuestro primer ministro revolucionario fabiano, estrechando la mano de Adrian Nastase, hijo de Illie, un líder comunista que "sobrevivió" a la caída de Ceausescu. El primer ministro rumano se muestra haciendo un apretón de cinco dedos (grado de cinco puntos), indicando a aquellos a quienes Lenin llamó "los interesados" que es "un miembro del club". Los masones llaman a sus saludos de manos "apretones" - de ahí el refrán, "consigue un apretón".  
 >   
-> Vamos a "obtener un apretón" con lo que está pasando aquí. De repente, los periódicos de ambos lados del Atlántico han llevado a publicar grandes fotos de nuestros "elegidos" que se entregan a diversas manifestaciones de los "apretones" masónicos. Ya había  ese apretón de manos de Kerry-Clinton publicado en _The Washington Times_ en marzo.  
+> Vamos a "obtener un apretón" con lo que está pasando aquí. De repente, los periódicos de ambos lados del Atlántico han llevado a publicar grandes fotos de nuestros "elegidos" que se entregan a diversas manifestaciones de los "apretones" masónicos. Ya había  ese apretón de manos de Kerry-Clinton publicado en _The Washington Times_ en marzo.  
 >   
 > En ese caso, Clinton estaba demostrando, para aquellos "en el saber", quién era el jefe, y qué tan alto en la estratósfera geomasonica está (en la parte superior). El "apretón" en cuestión era el saludo de garra de león de Ma-Ha-Bone, que deja saber a la contraparte sin duda quién está a cargo.  
 >   
@@ -118,7 +118,7 @@ Nuestro experto analista de apretón de manos geomasonicos escribe que "el apret
 "El apretón de manos apropiado," escribió, "se hace brevemente... y uno debe mirar en el rostro de la persona cuya mano toma" (Blair estaba mirando a la cámara en su lugar). Pero llendo al punto, esta referencia gratuita a Emily Post estaba destinada, escribe nuestro experto en Estados Unidos, "para mostrar compatibilidad con el Rito Escocés de los Estados Unidos. El palmetto en el fondo (había un fondo de pantalla verde claro detrás del ambos) Me recuerda al State Flag of Carolina del Sur (Charleston, en el paralelo 33 es la sede del Rito Esocés Americano de la Masonería), Y también se refiere a la prominencia del Oriente Medio en todas las cosas ocultas.  
   
 
-El mismo día (es decir, la investigación fotográfica había sido hecha con bastante antelación), el periódico The Independent llevaba una propaganda doble titulada:
+El mismo día (es decir, la investigación fotográfica había sido hecha con bastante antelación), el periódico The Independent llevaba una propaganda doble titulada:
 
   
 
@@ -248,7 +248,7 @@ El cardenal Bernard Law de Boston y el sacerdote católico Paul Shanley intercam
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3i_1rhUcYHDiH3Tz2sz2HoXbpTKslXmHJd1XuHhjblqxf-LDBwVR19j-2eVipZjUXupH83WTsfr840Hx5zEFDuESPtjt-U_SXhk9KsbJQVcPqpwt33LmMAFZ4DSGT7gwEfaHCRxVYqi4/s1600/acodex_5447.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3i_1rhUcYHDiH3Tz2sz2HoXbpTKslXmHJd1XuHhjblqxf-LDBwVR19j-2eVipZjUXupH83WTsfr840Hx5zEFDuESPtjt-U_SXhk9KsbJQVcPqpwt33LmMAFZ4DSGT7gwEfaHCRxVYqi4/s1600/acodex_5447.jpg)
 
   
-En un libro en lengua griega que expone el vínculo masónico con la religión, encontramos esta imagen del prelado ortodoxo y del papa Pablo VI en un apretón masónico. 
+En un libro en lengua griega que expone el vínculo masónico con la religión, encontramos esta imagen del prelado ortodoxo y del papa Pablo VI en un apretón masónico. 
 
   
 
@@ -274,7 +274,7 @@ La acuñación y monedas estadounidenses con frecuencia han llevado mensajes ocu
   
 
   
-Apretón de manos masónico incrustado en griego 500 d.C.  
+Apretón de manos masónico incrustado en griego 500 d. C.  
   
   
 
@@ -429,7 +429,7 @@ El secretario de Estado Donald Rumsfeld en la administración Bush le da un apre
 
   
 
-Falwell afirma ser un defensor de la vida, pero nunca se quejó cuando Bush Senior nominó a partidarios del aborto como el juez David Souter (Jerry Falwell, héroe bautista), en un saludo masónico con el alumno de Skull & Bones, el presidente George HW Bush. A la Corte Suprema de los Estados Unidos y otros cargos federales.  
+Falwell afirma ser un defensor de la vida, pero nunca se quejó cuando Bush Senior nominó a partidarios del aborto como el juez David Souter (Jerry Falwell, héroe bautista), en un saludo masónico con el alumno de Skull & Bones, el presidente George HW Bush. A la Corte Suprema de los Estados Unidos y otros cargos federales.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFKUS1lqMPKnwdFaZ3bC5Nst5TDPtLvaUm5LKDY7kDNxY1bR3che7z8cA5UF0CRAxjiz1kb4vPkcR3CJsX_cypBVZ-gkGuuHa3lb4e7b9znmWry_lCOVLqyNl3YQ-fuNf9aOUn68He0yY/s1600/acodex_79.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFKUS1lqMPKnwdFaZ3bC5Nst5TDPtLvaUm5LKDY7kDNxY1bR3che7z8cA5UF0CRAxjiz1kb4vPkcR3CJsX_cypBVZ-gkGuuHa3lb4e7b9znmWry_lCOVLqyNl3YQ-fuNf9aOUn68He0yY/s1600/acodex_79.jpg)
@@ -498,7 +498,7 @@ El embajador egipcio en Israel Mohammed Bassiouny (centro) y su esposa con el pr
 
 El presidente Bill Clinton se reúne en 1995 con el Papa Juan Pablo II. El Papa está extendiendo su mano izquierda en un intento talmúdico para ocultar el control masónico que está a punto de ocurrir. El Dr. Dennis Cuddy, investigador principal de la conspiración global y experto en símbolos ocultos, escribe:  
   
-"Algunos cristianos se han preguntado por qué el Papa Juan Pablo II parecía usar un gesto de mano cuando fue fotografiado con Gorbachov en 1989 que era similar al apretón real del Maestro Masón (un apretón mostrado en Duncan's Masonic Ritual and Monitor, edición 3d, 1976) y Star Trek Spock 'Vulcan Salute' ".  
+"Algunos cristianos se han preguntado por qué el Papa Juan Pablo II parecía usar un gesto de mano cuando fue fotografiado con Gorbachov en 1989 que era similar al apretón real del Maestro Masón (un apretón mostrado en Duncan's Masonic Ritual and Monitor, edición 3d, 1976) y Star Trek Spock 'Vulcan Salute' ".  
   
 (Dr. Dennis Cuddy, Ahora es el amanecer del Nuevo Orden Mundial de la _[Nueva Era](http://www.ritualypropaganda.com/2017/04/10-ideas-falsas-nueva-era-sobre-dios.html)_, Hearthstone Pub., Oklahoma City, OK, 1991, página 387)  
   
@@ -507,7 +507,7 @@ El presidente Bill Clinton se reúne en 1995 con el Papa Juan Pablo II. El Papa 
 
   
 
-El fallecido Papa Juan Pablo II saluda al Arzobispo Charles Salatka y comparten el Apretón Real de un Compañero Mason. Simultáneamente, el Pontífice da el "el apretón cubierto" con su mano izquierda para ocultar la maniobra.  
+El fallecido Papa Juan Pablo II saluda al Arzobispo Charles Salatka y comparten el Apretón Real de un Compañero Mason. Simultáneamente, el Pontífice da el "el apretón cubierto" con su mano izquierda para ocultar la maniobra.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4b2lsC_seZ2EVtmyaVXVQTHNgaP5OYvUCUoupqhc7_X78wxUet7Afg07eKtwB87gVLlaiwDGPbamPCDLcwdERsILDcweur52GE1VO8PcXm5pgAE9taIdPfayr-dMJaheAKevXuYgMcZ0/s400/acodex_89_small.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4b2lsC_seZ2EVtmyaVXVQTHNgaP5OYvUCUoupqhc7_X78wxUet7Afg07eKtwB87gVLlaiwDGPbamPCDLcwdERsILDcweur52GE1VO8PcXm5pgAE9taIdPfayr-dMJaheAKevXuYgMcZ0/s1600/acodex_89_small.jpg)

@@ -9,20 +9,20 @@ description: "En este capítulo de \"Bloodlines of the Illuminati\", el Linaje K
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-En este capítulo de **"Bloodlines of the Illuminati"**, el **Linaje Krupp** se expone como una de estas familias alemanas interconectadas a los Illuminati. Descubra su conexión con el ascenso de Hitler al poder, la élite satánica de Alemania y como operan los Krupp de hoy en día.  
+En este capítulo de **"Bloodlines of the Illuminati"**, el **Linaje Krupp** se expone como una de estas familias alemanas interconectadas a los Illuminati. Descubra su conexión con el ascenso de Hitler al poder, la élite satánica de Alemania y como operan los Krupp de hoy en día.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN8mU2zrDDAl_mqKb3lONGmlzBpQfm8ffC8l2MjIow51Ap7VV85Oq-Xo4Wbr0bKBC9FmW6GTwXJDwB-jkPK0pwNhb7laejSu73bQbxntUcHCnGjxNtYMduOGd7IfL1QgNKEgUOfAARDjM/s1600/krupp.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN8mU2zrDDAl_mqKb3lONGmlzBpQfm8ffC8l2MjIow51Ap7VV85Oq-Xo4Wbr0bKBC9FmW6GTwXJDwB-jkPK0pwNhb7laejSu73bQbxntUcHCnGjxNtYMduOGd7IfL1QgNKEgUOfAARDjM/s1600/krupp.jpg)
 
   
-INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS. 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. 8: LOS ONASSIS. 9: LOS REYNOLDS. 10: LOS ROCKEFELLER. 11: LOS ROTHSCHILD. 12: LOS RUSSELL. 13:  LOS VAN DUYN.  
+INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS. 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. 8: LOS ONASSIS. 9: LOS REYNOLDS. 10: LOS ROCKEFELLER. 11: LOS ROTHSCHILD. 12: LOS RUSSELL. 13:  LOS VAN DUYN.  
   
 Familias de la Realeza Europea: Los Merovingios.  
-Familias Interconectadas: **\-Krupp** -Disney -McDonald  
+Familias Interconectadas: **\-Krupp** -Disney -McDonald  
   
 
 **Los Krupps y los Illuminati.**
@@ -56,7 +56,7 @@ Y sin embargo, a los americanos se les dice muy seguido que mientras Charles Boh
 
   
 
-Hay un libro ahi afuera que muestra los registros médicos militares del Rudolph Hess real quien fue herido en la Primera Guerra Mundial y los registros médicos del falso "Rudolph Hess" quien fue encarcelado en la prisión de Spandau después de la Segunda Guerra Mundial. Esta es la razón por la cual los Nazis en los juicios de Nuremberg se rieron cuando vieron a "Hess" por primera vez en custodia. Ellos se rieron porque sabían que el no era el "Hess" real. Bormann proviene de una familia ocultista generacional. El abuelo de Bormann fue Johan Friedrich Bormann (nacido en 1830), su padre fue Theodor Bormann y su madre fue Louis Grobbler. Antes de unirse a los Nazis, Bormann trabajó para Herman von Treuenlels como hombre precursor de una granja. El era notorio por su rudeza, brutalidad y personalidad dominante. El también dió la orden a un grupo de gamberros para que golpeasen a un hombre llamado Walter Kadow, quien murió después de la golpiza. Bormann sirvió un tiempo en prisión por su involucramiento en la muerte de Kadow, quien murió mientras era golpeado. Después, Bormann como el hombre número 2 de Hitler estableció crueles medidas contra los Europeos controlados por los Alemanes. Todos los lideres nazis acordaron de que Bormann era el "Lucifer de Hitler". Goring declarò en Nuremberg: "la influencia decisiva del mismo Fuhrer durante la guerra y particularmente de 1942 hacia adelante, fue ejercida por Herr Bormann. Fue una influencia desastrosa".
+Hay un libro ahi afuera que muestra los registros médicos militares del Rudolph Hess real quien fue herido en la Primera Guerra Mundial y los registros médicos del falso "Rudolph Hess" quien fue encarcelado en la prisión de Spandau después de la Segunda Guerra Mundial. Esta es la razón por la cual los Nazis en los juicios de Nuremberg se rieron cuando vieron a "Hess" por primera vez en custodia. Ellos se rieron porque sabían que el no era el "Hess" real. Bormann proviene de una familia ocultista generacional. El abuelo de Bormann fue Johan Friedrich Bormann (nacido en 1830), su padre fue Theodor Bormann y su madre fue Louis Grobbler. Antes de unirse a los Nazis, Bormann trabajó para Herman von Treuenlels como hombre precursor de una granja. El era notorio por su rudeza, brutalidad y personalidad dominante. El también dió la orden a un grupo de gamberros para que golpeasen a un hombre llamado Walter Kadow, quien murió después de la golpiza. Bormann sirvió un tiempo en prisión por su involucramiento en la muerte de Kadow, quien murió mientras era golpeado. Después, Bormann como el hombre número 2 Hitler estableció crueles medidas contra los Europeos controlados por los Alemanes. Todos los lideres nazis acordaron de que Bormann era el "Lucifer de Hitler". Goring declarò en Nuremberg: "la influencia decisiva del mismo Fuhrer durante la guerra y particularmente de 1942 hacia adelante, fue ejercida por Herr Bormann. Fue una influencia desastrosa".
 
   
 
@@ -210,7 +210,7 @@ Algunos de sus castillos y fincas se han mantenido a distancia y otros se han qu
 
   
 
-Lo que hemos aprendido es que los Krupps han participado dentro de los Illuminati, y fueron los principales responsables de que Hitler llegara al poder y del rearme de Alemania en secreto en violación del Tratado de Versalles. Hemos aprendido que los capos Illuminati como los Krupp están por encima de la ley, y por lo general por encima de conseguir el que ellos mismos sean expuestos sinceramente en los medios controlados. Los Krupps proporcionan un excelente ejemplo de cómo un fortalecimiento militar se puede ocultar, y cómo el comportamiento escandaloso de la élite puede ir por ahí sin publicidad y sin castigo. Las mismas cosas siguen sucediendo hoy. Hemos aprendido acerca de dos Krupps que ejercían un enorme poder durante el siglo XX, Alfred Krupp y Chip Bohien. Alfred Krupp fue el hombre más poderoso de los asuntos económicos europeos durante su vida, y Chip Bohlen, quien era quizás el diplomático estadounidense más influyente del siglo XX. Hemos tenido un vistazo de cómo la Krupps restantes hoy están dispersos y es de esperarse de que sigan desempeñando un papel activo en la programación de la vida / y de control mental ritual de los Illuminati.
+Lo que hemos aprendido es que los Krupps han participado dentro de los Illuminati, y fueron los principales responsables de que Hitler llegara al poder y del rearme de Alemania en secreto en violación del Tratado de Versalles. Hemos aprendido que los capos Illuminati como los Krupp están por encima de la ley, y por lo general por encima de conseguir el que ellos mismos sean expuestos sinceramente en los medios controlados. Los Krupps proporcionan un excelente ejemplo de cómo un fortalecimiento militar se puede ocultar, y cómo el comportamiento escandaloso de la élite puede ir por ahí sin publicidad y sin castigo. Las mismas cosas siguen sucediendo hoy. Hemos aprendido acerca de dos Krupps que ejercían un enorme poder durante el siglo XX, Alfred Krupp y Chip Bohien. Alfred Krupp fue el hombre más poderoso de los asuntos económicos europeos durante su vida, y Chip Bohlen, quien era quizás el diplomático estadounidense más influyente del siglo XX. Hemos tenido un vistazo de cómo la Krupps restantes hoy están dispersos y es de esperarse de que sigan desempeñando un papel activo en la programación de la vida / y de control mental ritual de los Illuminati.
 
   
 
@@ -226,7 +226,7 @@ a) el "Rey" Adolphus Busch, que adquirió de Ulysses Grant (ancestro de varios e
 
   
 
-b) Bleichroeder, quien fue un importante satanista y Masòn de alto rango y un importante líder del ocultismo. 
+b) Bleichroeder, quien fue un importante satanista y Masòn de alto rango y un importante líder del ocultismo. 
 
 Berlín fue una de las sedes masónica importante durante años.
 

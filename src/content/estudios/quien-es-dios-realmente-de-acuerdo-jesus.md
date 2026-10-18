@@ -24,8 +24,7 @@ Jesús, como un obrador de milagros que predijo su propia resurrección de los m
   
 He aquí algunas cosas que la Escritura nos revela acerca de la identidad de Dios:  
 
-##   
-1\. Dios es un ser personal
+## 1\. Dios es un ser personal
 
 Por personal no queremos decir que Dios es un ser humano, o se encarna en algún sentido. Lo que queremos decir es que el Padre es una conciencia individual que es autoconsciente, racional, dotada de libertad de voluntad y volición. Estas son típicamente vistas como las condiciones suficientes para la personalidad.  
   
@@ -111,8 +110,7 @@ Dios no es sólo personal, sino que está fuera del universo, residiendo en el C
 
 > **"Así que no es la voluntad de mi Padre que está en los cielos que uno de estos pequeños se pierda." - Mateo 18:14**
 
-##   
-3\. Este ser celestial personal es el Dios de Israel, el Dios de los judíos del Antiguo Testamento:
+## 3\. Este ser celestial personal es el Dios de Israel, el Dios de los judíos del Antiguo Testamento:
 
 > **"Pero en cuanto a que los muertos han de resucitar, aun Moisés lo enseñó en el pasaje de la zarza, cuando llama al Señor, Dios de Abraham, Dios de Isaac y Dios de Jacob." - Lucas 20:37**
 

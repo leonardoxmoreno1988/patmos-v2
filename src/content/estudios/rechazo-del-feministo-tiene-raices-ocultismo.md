@@ -30,8 +30,7 @@ Lea la entrevista y verá que ella piensa que los hombres y las mujeres son inte
   
 Paradójicamente, cuando las hembras rechazan al macho, usurpan el papel masculino y abandonan la feminidad.  
 
-##   
-Lilith, la primera feminista
+## Lilith, la primera feminista
 
 Inocentes como Anna Montrose son las víctimas del feminismo, que tiene sus raíces en la tradición cabalística oculta y gnóstica que desplaza a Dios y rechaza el matrimonio y la familia como impedimentos al sexo libre y el control de la sociedad oculta. (**[La Cábala](http://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html)** y el gnosticismo son la base de la masonería, a su vez, la base del liberalismo moderno, el comunismo, el socialismo, el fascismo, el sionismo y el feminismo.)  
   
@@ -62,8 +61,7 @@ Es por eso que los Diez Mandamientos se arrastraron fuera de los juzgados y se s
   
 Es por ello que nuestras mujeres jóvenes son criadas para ser disfuncionales e inútiles; por qué los hombres jóvenes no se les enseña a servir a Dios (la verdad, el amor) y dar a las mujeres un propósito noble.  
 
-##   
-El amor tiene que ser ganado
+## El amor tiene que ser ganado
 
 Las raíces ocultas de la cultura moderna también explican la neblina mística confusa que rodea el amor romántico. La idea de que los hombres obtienen su significado del amor y el matrimonio es muy confuso y equivocado. También es femenino. Los hombres consiguen su confianza de su trabajo.  
   

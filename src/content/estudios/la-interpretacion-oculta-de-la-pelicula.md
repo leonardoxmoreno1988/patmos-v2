@@ -9,7 +9,7 @@ description: "Cisne Negro es un intenso thriller psicológico que describe la me
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -88,7 +88,7 @@ Cada noche, Erica Sayers coloca la caja de música al lado de Nina a fin de crea
 
 [![nataly portman desnuda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaHnOC_R9vmxc80-dNkKG0U8c2c8XQ8Y_CB-rmASRl5-1YgfZ-r1-rpfNigul4jbwG38sM_OZ29Oj_yJqY0iFKBB7e8cAsWOrh7eUTeSMlfMVzyICXY5uCYak44nwxhV_rPoPtGP5P12BR/s1600/blackswan21-e1299875531724.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaHnOC_R9vmxc80-dNkKG0U8c2c8XQ8Y_CB-rmASRl5-1YgfZ-r1-rpfNigul4jbwG38sM_OZ29Oj_yJqY0iFKBB7e8cAsWOrh7eUTeSMlfMVzyICXY5uCYak44nwxhV_rPoPtGP5P12BR/s1600/blackswan21-e1299875531724.jpg)
 
- Erica, la madre de Nina, fuerza a desnudarse a su hija adulta. Esta escena inquietante muestra de la sumisión total de Nina a su madre y también la no saludable "familiaridad" sexual entre las dos.
+ Erica, la madre de Nina, fuerza a desnudarse a su hija adulta. Esta escena inquietante muestra de la sumisión total de Nina a su madre y también la no saludable "familiaridad" sexual entre las dos.
 
   
 
@@ -110,7 +110,7 @@ Volviendo a la historia, Thomas, el director de ballet, está buscando una nueva
 
   
 
- [![cisne negro maquillaje](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi29SPphO8mT0mqLxg8C2Y5ucLDfvBFxw1yvuBoIMeUz_h6c6ZPOvGRA63nKaCdqSx2jkYlnNZ5bGs-IZ-pVoUFO8wYnR2TDtM6ec8_78WG2lKWjywKDpKF1f6c24t-xMNXJ39U76alrSE/s1600/blackswan171-e1299875952944.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi29SPphO8mT0mqLxg8C2Y5ucLDfvBFxw1yvuBoIMeUz_h6c6ZPOvGRA63nKaCdqSx2jkYlnNZ5bGs-IZ-pVoUFO8wYnR2TDtM6ec8_78WG2lKWjywKDpKF1f6c24t-xMNXJ39U76alrSE/s1600/blackswan171-e1299875952944.jpg)
+ [![cisne negro maquillaje](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi29SPphO8mT0mqLxg8C2Y5ucLDfvBFxw1yvuBoIMeUz_h6c6ZPOvGRA63nKaCdqSx2jkYlnNZ5bGs-IZ-pVoUFO8wYnR2TDtM6ec8_78WG2lKWjywKDpKF1f6c24t-xMNXJ39U76alrSE/s1600/blackswan171-e1299875952944.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi29SPphO8mT0mqLxg8C2Y5ucLDfvBFxw1yvuBoIMeUz_h6c6ZPOvGRA63nKaCdqSx2jkYlnNZ5bGs-IZ-pVoUFO8wYnR2TDtM6ec8_78WG2lKWjywKDpKF1f6c24t-xMNXJ39U76alrSE/s1600/blackswan171-e1299875952944.jpg)
 
 Thomas "sacando" el Cisne Negro de Nina.
 
@@ -119,7 +119,7 @@ Thomas "sacando" el Cisne Negro de Nina.
 En un momento, Tomás le dice a Nina:  
   
 
-> **"La perfección no se trata sólo de control. También se trata de dejar ir. Sorprenderse uno mismo para que pueda sorprender a la audiencia. Trascendencia. Muy pocos lo tienen."**
+> **"La perfección no se trata sólo de control. También se trata de dejar ir. Sorprenderse uno mismo para que pueda sorprender a la audiencia. Trascendencia. Muy pocos lo tienen."**
 
   
 Viendo la danza de Nina, más tarde dice:  
@@ -164,7 +164,7 @@ Thomas presentando a la nueva reina de los cisnes, Nina.
 
   
 
- [![winona ryder cisne negro](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCW7SKO4cIUVKDUbC8qh8ujm9T-U-2RGqC-YI1FQ2XCEeMS3jf-nTb_4mpI1cDld3B7Q7kQ5jFdH-EYZHnRkpkNFXn-amXHgVNUzIGLpjxYh9kLBp6hNggJCS2e4iyqZ5XKmeHwImVZg2/s1600/blackswan91-e1299876069739.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCW7SKO4cIUVKDUbC8qh8ujm9T-U-2RGqC-YI1FQ2XCEeMS3jf-nTb_4mpI1cDld3B7Q7kQ5jFdH-EYZHnRkpkNFXn-amXHgVNUzIGLpjxYh9kLBp6hNggJCS2e4iyqZ5XKmeHwImVZg2/s1600/blackswan91-e1299876069739.jpg)
+ [![winona ryder cisne negro](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCW7SKO4cIUVKDUbC8qh8ujm9T-U-2RGqC-YI1FQ2XCEeMS3jf-nTb_4mpI1cDld3B7Q7kQ5jFdH-EYZHnRkpkNFXn-amXHgVNUzIGLpjxYh9kLBp6hNggJCS2e4iyqZ5XKmeHwImVZg2/s1600/blackswan91-e1299876069739.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCW7SKO4cIUVKDUbC8qh8ujm9T-U-2RGqC-YI1FQ2XCEeMS3jf-nTb_4mpI1cDld3B7Q7kQ5jFdH-EYZHnRkpkNFXn-amXHgVNUzIGLpjxYh9kLBp6hNggJCS2e4iyqZ5XKmeHwImVZg2/s1600/blackswan91-e1299876069739.jpg)
 
 **Beth MacIntyre en la ceremonia de coronación de Nina. Ella acaba de enterarse de que ya no es la Reina de los Cisnes. Ella obviamente no es feliz.**
 
@@ -189,7 +189,7 @@ Entonces el "espíritu", el alter ego que consumió y destruyó a Beth, también
 
 [![afiche black swan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhHUTPa3WrqaRS_kRbnqqMtyA8Ei0a7yYdekOTRs_uiRAK2ZaQzKTP8kyiuFAh9a1f-LwcTQxTKfqpLxusH1U7ZLFQDEyldCGz32bNs7SOWxKJlZhAXFGiG6vrzcoAeWYZoQaOF3BqyIcY/s1600/blackswan_0111-e1299876101810.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhHUTPa3WrqaRS_kRbnqqMtyA8Ei0a7yYdekOTRs_uiRAK2ZaQzKTP8kyiuFAh9a1f-LwcTQxTKfqpLxusH1U7ZLFQDEyldCGz32bNs7SOWxKJlZhAXFGiG6vrzcoAeWYZoQaOF3BqyIcY/s1600/blackswan_0111-e1299876101810.jpg)
 
-**Un póster simbólico de la película. La pequeña bailarina se levanta, como un ave fénix de sus cenizas, un Cisne Negro gigantesco y amenazador.** 
+**Un póster simbólico de la película. La pequeña bailarina se levanta, como un ave fénix de sus cenizas, un Cisne Negro gigantesco y amenazador.** 
 
   
 El Cisne Negro es la fuerza artística lumínica y espiritualmente destructiva. Thomas quiere hace nacer esto en Nina. Obviamente, él sabe acerca de los poderes devastadores de El Cisne Negro, pero no le importa y nunca lo hizo. Una vez que Nina sea "utilizada" por el Cisne, se encontrará con otra bailarina que la reemplace. Es una representación de la industria del entretenimiento, que manipula a los artistas a convertirse en cisnes Negros, en última instancia se les desecha cuando los efectos de El Cisne se han desvanecido.  
@@ -203,7 +203,7 @@ La "fuerza" de El Cisne Negro es simbólicamente representado por las alas negra
 
 [![angel caido](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsHp8CqZvTNHSKOXXmsLoJj37dsbXoBvKc3k66y2nEuQgavCy7cFvY0NIdFFLjS-8H8RAsiCCKGX-Q-sUMEyIwa0EjlbfygmI6t1O30Y-tzYFOH-JzQaeNo3Lk89Ma7L42hM5mJ9gMQ4hf/s1600/blackwan71-e1299876132991.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsHp8CqZvTNHSKOXXmsLoJj37dsbXoBvKc3k66y2nEuQgavCy7cFvY0NIdFFLjS-8H8RAsiCCKGX-Q-sUMEyIwa0EjlbfygmI6t1O30Y-tzYFOH-JzQaeNo3Lk89Ma7L42hM5mJ9gMQ4hf/s1600/blackwan71-e1299876132991.jpg)
 
-Poco después de ser coronada "Reina de los cisnes", Nina se siente fascinada por esta estatua espeluznante. Poco sabe ella que representa lo que está a punto de llegar a ser.   
+Poco después de ser coronada "Reina de los cisnes", Nina se siente fascinada por esta estatua espeluznante. Poco sabe ella que representa lo que está a punto de llegar a ser.   
 
   
 
@@ -213,7 +213,7 @@ Alas Negras en la espalda de Lily (interpretado por Mila Kunis), mientras que el
 
   
 
- [![angel caido](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwHjh7ws36x0ksFde5BmeOSaCpS7VEU9z5cINT3ECfE6c2njEryMvznn2tajCmk26xmvbm1E3hq7CWV98vkYnkdRUGTU6mt9qrjGi9i07OTpRqEey0yJ7oVAvIJy5TnXyxBJO_4vq_nfnr/s1600/blackwan81-e1299876209443.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwHjh7ws36x0ksFde5BmeOSaCpS7VEU9z5cINT3ECfE6c2njEryMvznn2tajCmk26xmvbm1E3hq7CWV98vkYnkdRUGTU6mt9qrjGi9i07OTpRqEey0yJ7oVAvIJy5TnXyxBJO_4vq_nfnr/s1600/blackwan81-e1299876209443.jpg)
+ [![angel caido](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwHjh7ws36x0ksFde5BmeOSaCpS7VEU9z5cINT3ECfE6c2njEryMvznn2tajCmk26xmvbm1E3hq7CWV98vkYnkdRUGTU6mt9qrjGi9i07OTpRqEey0yJ7oVAvIJy5TnXyxBJO_4vq_nfnr/s1600/blackwan81-e1299876209443.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwHjh7ws36x0ksFde5BmeOSaCpS7VEU9z5cINT3ECfE6c2njEryMvznn2tajCmk26xmvbm1E3hq7CWV98vkYnkdRUGTU6mt9qrjGi9i07OTpRqEey0yJ7oVAvIJy5TnXyxBJO_4vq_nfnr/s1600/blackwan81-e1299876209443.jpg)
 
 Nina al final de su "perfecta" actuación como el Cisne Negro. Ella se muestra brevemente con alas negras, simbolizando que se ha convertido en "uno" con el Cisne Negro.
 
@@ -250,7 +250,7 @@ Justo antes de su gran actuación como el Cisne Negro, Nina lucha contra sí mis
 
 ## El Opus Magnum y el Sacrificio
 
-En el estreno de la serie, Nina da una actuación estelar. Ella interpreta con éxito el Cisne Blanco dulce y tímido, y, cuando llegó el momento, fue superada por la "fuerza" para convertirse en el trenzado, pero emocionante, Cisne Negro. Al casarse el blanco y el negro, el bien y el mal, la luz y la oscuridad, Nina ha logrado la Gran Obra Alquímica, el camino oculto a la iluminación. 
+En el estreno de la serie, Nina da una actuación estelar. Ella interpreta con éxito el Cisne Blanco dulce y tímido, y, cuando llegó el momento, fue superada por la "fuerza" para convertirse en el trenzado, pero emocionante, Cisne Negro. Al casarse el blanco y el negro, el bien y el mal, la luz y la oscuridad, Nina ha logrado la Gran Obra Alquímica, el camino oculto a la iluminación. 
 
   
 El proceso, sin embargo, la consume. Al permitir que el Cisne Negro la posea completamente, Nina dio la actuación de su vida, pero ella se ha convertido en una persona diferente. Thomas y el público está enamorado de Nina como el Cisne Negro - del mismo modo que el príncipe del ballet se enamora del gemelo malvado del Cisne Blanco. Pero este no es la "verdadera" Nina. El Cisne Negro es una fuerza destructiva que no puede vivir. Es su tormento en un nivel físico y psicológico. No se puede seguir, la única manera que Nina puede liberarse, es matándose a sí misma. Y esto es lo que hace.  
@@ -258,9 +258,9 @@ El proceso, sin embargo, la consume. Al permitir que el Cisne Negro la posea com
   
   
 
- [![sacrificio ritual](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJnx6_8fbScgOZsmfcvLw80AND6cIw_Aza-wMf1OwegamTMjzIqHSCK8xre6xWvNnuAEdvaUaSfp85mlQ8dc0j5ehEBtbRfe-rvn75N-iIc81qwmUgmFDcgHbVe40aXhljf71Ntz6mS-qH/s1600/blackswan161-e1299876379822.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJnx6_8fbScgOZsmfcvLw80AND6cIw_Aza-wMf1OwegamTMjzIqHSCK8xre6xWvNnuAEdvaUaSfp85mlQ8dc0j5ehEBtbRfe-rvn75N-iIc81qwmUgmFDcgHbVe40aXhljf71Ntz6mS-qH/s1600/blackswan161-e1299876379822.jpg)
+ [![sacrificio ritual](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJnx6_8fbScgOZsmfcvLw80AND6cIw_Aza-wMf1OwegamTMjzIqHSCK8xre6xWvNnuAEdvaUaSfp85mlQ8dc0j5ehEBtbRfe-rvn75N-iIc81qwmUgmFDcgHbVe40aXhljf71Ntz6mS-qH/s1600/blackswan161-e1299876379822.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJnx6_8fbScgOZsmfcvLw80AND6cIw_Aza-wMf1OwegamTMjzIqHSCK8xre6xWvNnuAEdvaUaSfp85mlQ8dc0j5ehEBtbRfe-rvn75N-iIc81qwmUgmFDcgHbVe40aXhljf71Ntz6mS-qH/s1600/blackswan161-e1299876379822.jpg)
 
-Niña muere al final de su actuación. Sus últimas palabras a Tomás: "Yo era perfecta".   
+Niña muere al final de su actuación. Sus últimas palabras a Tomás: "Yo era perfecta".   
   
 
 ¿Esto te recuerda a alguien más?
@@ -275,7 +275,7 @@ Lady Gaga "sacrificándose" en su actuación en los VMA 2009.
 
 [![beyonce alter ego](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxNIdy9Rl0Ij5b4vzGAULpxDiDGUwf9476AfHssaSRZXjuQ7Q753y8L4Ek22R6OsunphrwWcX0OjaXCTseUxEy3XCkBne3vqNgWlCZ32svgk_DrCFTgXCjaF0WAGjG5Z_inr4nw-2bJVjk/s1600/bey21-e1299876431815.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxNIdy9Rl0Ij5b4vzGAULpxDiDGUwf9476AfHssaSRZXjuQ7Q753y8L4Ek22R6OsunphrwWcX0OjaXCTseUxEy3XCkBne3vqNgWlCZ32svgk_DrCFTgXCjaF0WAGjG5Z_inr4nw-2bJVjk/s1600/bey21-e1299876431815.jpg)
 
-Beyoncé y Sasha Fierce, un equivalente de la música pop del Cisne Blanco y Negro.
+Beyoncé y Sasha Fierce, un equivalente de la música pop del Cisne Blanco y Negro.
 
   
 
@@ -287,7 +287,7 @@ Un ejemplo reciente de una función de auto-destrucción es el Joker de Heath Le
 
 [![joker health ledger](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeEzwTYFLXiAorlAOxoyHeluZ7LcY7e0RKvKYxzI7UtgZQeOGt4G1xS2FHj4yJHo4H8-6v_pIZXJXTChlRl4cN-Ut8m31NVygKA0WmkZUlnSq40ok7CdQCu0btnD3AQHPqs1U9fn3Ir6z8/s1600/joker460.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeEzwTYFLXiAorlAOxoyHeluZ7LcY7e0RKvKYxzI7UtgZQeOGt4G1xS2FHj4yJHo4H8-6v_pIZXJXTChlRl4cN-Ut8m31NVygKA0WmkZUlnSq40ok7CdQCu0btnD3AQHPqs1U9fn3Ir6z8/s1600/joker460.jpg)
 
-**Personas cercanas declaran que el papel de Ledger como** 
+**Personas cercanas declaran que el papel de Ledger como** 
 
 **el Joker le causó la muerte.**
 

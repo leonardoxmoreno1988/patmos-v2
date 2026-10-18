@@ -9,18 +9,18 @@ description: "Luego de un largo periodo retomamos el 11vo capítulo de \"Bloodli
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
 Luego de un largo periodo retomamos el 11vo capítulo de "**Bloodlines of the Illuminati**", el **Linaje Rothschild**, uno de los más poderosos linajes que es expuesto detalladamente a traves de los años.
 
-   
+   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYU308TOd2IxIPOJWwrSfxRUJNg-rRvDtc8xdU5m0iZPeX7fZHcdJPkyiLhJ3cU5Dbjtctk5EwvOBMEnQPOcDL8YvPim3HpENVj6uNkb9XxJ-O3aYUL2Q9HhK8td2ADtFxalHOJ6YXr2E/s1600/roshchild.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYU308TOd2IxIPOJWwrSfxRUJNg-rRvDtc8xdU5m0iZPeX7fZHcdJPkyiLhJ3cU5Dbjtctk5EwvOBMEnQPOcDL8YvPim3HpENVj6uNkb9XxJ-O3aYUL2Q9HhK8td2ADtFxalHOJ6YXr2E/s1600/roshchild.jpg)  
 
   
 
-INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS. 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. 8: LOS ONASSIS. 9: LOS REYNOLDS. 10: LOS ROCKEFELLER. **11: LOS ROTHSCHILD.** 12: LOS RUSSELL. 13:  LOS VAN DUYN.  
+INDICE: - INTRODUCCION. 1: LOS ASTOR. 2: LOS BUNDY. 3: LOS COLLINS. 4: LOS DUPONTS. 5: LOS FREEMAN. 6: LOS KENNEDY. 7: LOS LI. 8: LOS ONASSIS. 9: LOS REYNOLDS. 10: LOS ROCKEFELLER. **11: LOS ROTHSCHILD.** 12: LOS RUSSELL. 13:  LOS VAN DUYN.  
 
   
 
@@ -38,16 +38,16 @@ El Judio Rothschild y su amigo Cristiano Baring. Ud. leerá sobre otros agricult
 
 ## Cronologia Rothschild: 1700 a 1800
 
-1.  Schönche Jeannette Rothschild (20 Agosto 1771 – 1859) cónyuge Benedikt Moses Worms (1772–1824). 
-2.  Amschel Mayer von Rothschild (1773 - 1855) se hizo cargo de la casa matriz en Fránkfurt tras la muerte de su padre. Frankfurt siguió siendo el principal centro de reunión de la familia. 
-3.  Salomon Rothschild Fundador de la familia banquera de Austria (1774 - 1855) abrió un banco en Viena en 1821. Entre otros, otorgó un crédito al gobierno austriaco de 900.000 florines. El príncipe Metternich y la casa de Habsburgo le quedaron adeudados. Se convirtió en el más importante financiador del estado austriaco y uno de los más grandes terratenientes. El banco en Viena perduró hasta 1938 cuando Hitler anexionó Austria a la Alemania nazi. 
-4.  Nathan Mayer Rothschild Fundador de la familia banquera de Inglaterra (1777 - 1836). En 1798 Nathan Mayer Rothschild fue enviado a Inglaterra (la primera sucursal en el extranjero) y fue comerciante textil en Manchester hasta 1800. En 1808 fundó el banco Rothschilds e hijos en Londres, que aun sigue operando con éxito. En 1810 Mayer y sus 3 hijos mayores crearon una intima sociedad en expansión: el más joven Jacob fue enviado a Paris en 1811, facilitando así las operaciones de la familia por toda Europa. Nathan invirtió el dinero del arriendo de soldados de Guillermo I en oro de la Compañía Británica de las Indias Orientales (Honourable East India Company); posteriormente, este oro fue necesario para financiar la campaña del Duque de Wellington y aprovecharon esta situación privilegiada para financiar al ejército de Wellington en Portugal, traficando con grandes cantidades de oro del gobierno británico. 
-5.  Isabella Rothschild (2 Julio 1781 – 1861). 
-6.  Babette Rothschild (29 Agosto 1784 – 16 Marzo 1869). 
-7.  Calmann "Carl" Mayer (24 Abril 1788 - 10 Marzo 1855) Fundador familia banquera de Nápoles. 
-8.  Julie Rothschild (1 Mayo 1790 – 19 Junio 1815) 
-9.  Henriette ("Jette") (1791–1866) cónyuge de Abraham Montefiore (1788–1824) 
-10.  Jacob "James" Mayer (1792–1868) Fundador de la familia banquera de Francia 
+1.  Schönche Jeannette Rothschild (20 Agosto 1771 – 1859) cónyuge Benedikt Moses Worms (1772–1824). 
+2.  Amschel Mayer von Rothschild (1773 - 1855) se hizo cargo de la casa matriz en Fránkfurt tras la muerte de su padre. Frankfurt siguió siendo el principal centro de reunión de la familia. 
+3.  Salomon Rothschild Fundador de la familia banquera de Austria (1774 - 1855) abrió un banco en Viena en 1821. Entre otros, otorgó un crédito al gobierno austriaco de 900.000 florines. El príncipe Metternich y la casa de Habsburgo le quedaron adeudados. Se convirtió en el más importante financiador del estado austriaco y uno de los más grandes terratenientes. El banco en Viena perduró hasta 1938 cuando Hitler anexionó Austria a la Alemania nazi. 
+4.  Nathan Mayer Rothschild Fundador de la familia banquera de Inglaterra (1777 - 1836). En 1798 Nathan Mayer Rothschild fue enviado a Inglaterra (la primera sucursal en el extranjero) y fue comerciante textil en Manchester hasta 1800. En 1808 fundó el banco Rothschilds e hijos en Londres, que aun sigue operando con éxito. En 1810 Mayer y sus 3 hijos mayores crearon una intima sociedad en expansión: el más joven Jacob fue enviado a Paris en 1811, facilitando así las operaciones de la familia por toda Europa. Nathan invirtió el dinero del arriendo de soldados de Guillermo I en oro de la Compañía Británica de las Indias Orientales (Honourable East India Company); posteriormente, este oro fue necesario para financiar la campaña del Duque de Wellington y aprovecharon esta situación privilegiada para financiar al ejército de Wellington en Portugal, traficando con grandes cantidades de oro del gobierno británico. 
+5.  Isabella Rothschild (2 Julio 1781 – 1861). 
+6.  Babette Rothschild (29 Agosto 1784 – 16 Marzo 1869). 
+7.  Calmann "Carl" Mayer (24 Abril 1788 - 10 Marzo 1855) Fundador familia banquera de Nápoles. 
+8.  Julie Rothschild (1 Mayo 1790 – 19 Junio 1815) 
+9.  Henriette ("Jette") (1791–1866) cónyuge de Abraham Montefiore (1788–1824) 
+10.  Jacob "James" Mayer (1792–1868) Fundador de la familia banquera de Francia 
 
   
   
@@ -68,7 +68,7 @@ En 1974, en el verano después de la guerra de Yon Kippur, este Autor tuvo el pr
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEi6XmoFDjABcH16YIlAZQvFa4_T487px40v-_gP_xHTIFtgomaYu9QhAFHM6KaumLMvvt0QBxaoo5HMIbQ0DxuzR6FTJvqog-zN9OKWEfKhpxBE5JKbEoE9_7ft9Z2ioAxncTEWFKykJPRDg8M_15p9mJ4uu40y2p2oPloaiPhwvWdvVNy_woQb70-N=w400-h225)](https://blogger.googleusercontent.com/img/a/AVvXsEi6XmoFDjABcH16YIlAZQvFa4_T487px40v-_gP_xHTIFtgomaYu9QhAFHM6KaumLMvvt0QBxaoo5HMIbQ0DxuzR6FTJvqog-zN9OKWEfKhpxBE5JKbEoE9_7ft9Z2ioAxncTEWFKykJPRDg8M_15p9mJ4uu40y2p2oPloaiPhwvWdvVNy_woQb70-N=s1280)
 
-Escudo de Armas de la Dinastia Rothschild.   
+Escudo de Armas de la Dinastia Rothschild.   
 
 Las personas Alemanas y Turcas han sido muy cercanas. Puedo recordar el encuentro de Turquía "Gastarbeiter" (trabajadores huéspedes) en Alemania. El lector podrá recordar que Turquia peleó del lado de Alemania en la Primera Guerra Mundial. Unos pocos poderosos Judios, incluyendo a los Rothschilds, fueron responsables en la redacción del tratado que se les impuso a los Alemanes al finalizar la Primera Guerra Mundial. El tratado le otorgó a los Rothschilds los derechos de propiedad de ferrocarriles Alemanes en Palestina. (El cual habia sido parte del imperio Turco Otomano) allanando asi el camino para que los Rothschilds tuvieran un apalancamiento para dictar las politicas relativas a Palestina. Los Rothschilds hicieron un centenar de préstamos a Turquia, que ascendieron a casi un centenar de millones de libras. Cuando el gobierno Turco colapsó luego de la Primera Guerra Mundial, debido a que ellos estaban en el lado perdedor, los Rothschilds hiceron una demanda a Palestina debido a los préstamos pendientes de pago por parte de Turquia. El gobierno Británico siguió los dictados de los Rothschilds. A los Rothschilds se les otorgó un mandato sobre Palestina, y los Rothschilds fueron capaces a través de sus poderes en el gobierno Británico, crear los pasos que llevaron a la nación de Israel.
 
@@ -135,13 +135,13 @@ Temprano en el Siglo 19, el Papa vino con los Rothschilds a pedirles dinero pres
 
 ## Control sobre la brujeria y el Satanismo
 
-En el capitulo 2.11 se da el nombre de el Concilio de Brujeria de los 13, el cual esta bajo el control de los Rothschilds, y a su vez, giran ordenes a otros grupos. Una de las más puras formas de Satanismo puede ser rastreada a la secta del Sabbatain Judio y a su simil Frankista. Los lideres de tal grupo hasta llegar a los Rothschilds fueron: 
+En el capitulo 2.11 se da el nombre de el Concilio de Brujeria de los 13, el cual esta bajo el control de los Rothschilds, y a su vez, giran ordenes a otros grupos. Una de las más puras formas de Satanismo puede ser rastreada a la secta del Sabbatain Judio y a su simil Frankista. Los lideres de tal grupo hasta llegar a los Rothschilds fueron: 
 
   
 
--   Sabbat Zevi (1626-1676) 
--   Nathan de Gaza (16???) 
--   Jacob Frank. (1726-1791) 
+-   Sabbat Zevi (1626-1676) 
+-   Nathan de Gaza (16???) 
+-   Jacob Frank. (1726-1791) 
 
   
 
@@ -207,21 +207,21 @@ En contraste, una maraña de grupos quienes se oponen a la conspiración, como v
 
 Eustice Mullins ha publicado su investigación en su libro "¿Quien Dirige las Cadenas de Televisión?", mostrando que los Rothschilds tienen el control de las tres principales cadenas de televisión de los Estados Unidos, además de otros aspectos de la industria discográfica y de los medios de comunicación. Se puede añadir que ellos controlan a Reuters también. Por otras fuentes, aparentemente tambien a la CNN, la cual comenzó como un reto independiente a la cadena monopólica Judia, la cual se topó con el engaño repetido, y terminó siendo parte del sistema. El dinero del B.C.C.I (El Banco de Crédito y de Comercio Internacional) ha sido uno de los sistemas cómplices de los sistemas del Nuevo Orden Mundial en hacer negocios sucios tales como controlar a los hombres del Congreso, (y están envueltos en el INSLA, el escándalo del Irán-Contras, Centrus, y otros escándalos recientes), los cuales han manchado tantos aspectos de la vida pública de los Estados Unidos, y están también detrás de CNN. Tal vez, nada domina más la vida de los Americanos como lo hace la televisión. Los Americanos se sientan frente a la pantalla de televisión y absorben todo lo que esta les proyecta. En una base regular del dia a dia, la mayor manera en que los Rothschilds tocan las vidas de los Americanos son las tres mas grandes cadenas de televisión las cuales están bajo la dirección de los Rothschilds. Para ilustrar esto, examinaremos quien dirige las cadenas. Esta lista no está actualizada, y no se intentó establecer que asi fuera. La longitud de escribir un libro asegura que algunos materiales estarán actualizados de todos modos.
 
--   NBC. Jhon Brademas.
+-   NBC. Jhon Brademas.
 -   Banco de la Reserva Federal de Nueva York. DIR. Rockefeller. Presidente.
--   Cecily B. Selby. (Directora de las mujeres Scouts). El ocultismo controla ahora al programa de los Boy Scouts. Directora también de productos Avone.
+-   Cecily B. Selby. (Directora de las mujeres Scouts). El ocultismo controla ahora al programa de los Boy Scouts. Directora también de productos Avone.
 -   Su esposo es James Cole. Presidente del Colegio Bowdoine.
 -   Peter G. Peterson. Presidente de Khun Loeb de la Secretaria del Comercio.
--   Robert Cizek. Director de la Primera Compañia de Bancorp. RCA. Jefe de Industrias Cooper.
+-   Robert Cizek. Director de la Primera Compañia de Bancorp. RCA. Jefe de Industrias Cooper.
 -   Thomas O. Payne. Presidente de Northrup.
 -   Contrato de Defensa y Director de Varios Estudios Estratégicos Asociados con varias compañias de municiones.
--   Donald Smiley. Director de varias firmas Morgan. 
--   Director de Ralston-Purina, Irving Trust, Metro Life y Aceros de Estados Unidos. También Jefe de Macy Co.
+-   Donald Smiley. Director de varias firmas Morgan. 
+-   Director de Ralston-Purina, Irving Trust, Metro Life y Aceros de Estados Unidos. También Jefe de Macy Co.
 -   David C. Jones. Presidente de Consolidated Contr. Gerente de Aceros de Estados Unidos. Seguros Kemper.
--   Thornton Bradshaw. Director del Instituto Aspen de Estudios Humanisticos, de Atlantic Richfield.
--   Brandon Tartikoff. (Lider de entretetenimiento de la NBC) Judio. CBS.
--   Harold Brown. Judio, ex-secretario de la Fuerza Aérea y de la Sec. de Defensa. Ex-Director de Trilat.com
--   Roswell Gilpatric, dir. de la Resrva Federal del Banco de Nueva York. La Firma Khun Loeb. C.S y M.
+-   Thornton Bradshaw. Director del Instituto Aspen de Estudios Humanisticos, de Atlantic Richfield.
+-   Brandon Tartikoff. (Lider de entretetenimiento de la NBC) Judio. CBS.
+-   Harold Brown. Judio, ex-secretario de la Fuerza Aérea y de la Sec. de Defensa. Ex-Director de Trilat.com
+-   Roswell Gilpatric, dir. de la Resrva Federal del Banco de Nueva York. La Firma Khun Loeb. C.S y M.
 -   Henry B. Schnacht. dir. del Banco Chase Manhattan. dir. de AT&T, miembro de la CFR, de Cummins y del Instituto Brookins. Miembro del Comité de Desarrollo Económico-
 -   Michel C. Bergerac: Gerente de Revlon. dir. de Manufacturers.
 -   James D. Wolfenson. dir. del Banco Henry Schroder.
@@ -254,25 +254,25 @@ Ellos hicieron su dinero haciendo técnicamente actividad ilegal. La larga suma 
 Bibliografia:  
   
 
-1.  Lord Rothschild. "La Sombra de un Gran Hombre". Londres, 1982, pág.6. 
-2.  Wilson, Derek. "Rothschilds, La Riqueza y el Poder de una Dinastia". NY. Charles Schribners e Hijos, p. 101. 
-3.  Armstrong, George. "Los Trust del Dinero de los Rothschilds". Versión reimpresa de 1960. Esta fuente también viene en el libro de Eustice Mullince, "El Orden Mundial", p.31-33. Y otras fuentes también. 
-4.  Darms, Anton. "La Desilusión del Israelismo Británico". N.Y. Hermanos Loizeaux. p.186-187. 
-5.  Darms, op. cit. Además de muchas otras aseveraciones de como Israel comenzó con la ayuda Británica, y uno simplemente tiene que ver lo que hicieron y sus conexiones con los Rothschilds. 
-6.  Como señaló en Sampson, Anthony. "Los Prestamistas". Middlesex, Eng. Penguin Books, Ltd, 1985, (pág.37). 
-7.  Enciclopedia Judaica: Pág. 696. 
-8.  Varios Satanistas de alto rango que el poder de Dios ha logrado jalar fuera del Satanismo han dicho haber sido testigos oculares de Satán apareciéndose a los Rothschilds. Lo que presenciaban cuando Satán se les aparecia a los Rothschilds era que Satán se aparecia en un traje de color negro, y en forma de un hombre extremadamente hermoso, excepto por sus pezuñas hendidas. El llevaba un traje negro para apostar y jugar cartas (las ganancias eran victimas sexuales), y un traje blanco cuando venia solo a socializar. 
-9.  Un libro de investigación excelentemente documentado por un periodista Cristiano de descendencia Judia es "La Estrella de Seis Puntas", de O.J Graham, de la libreria Novo Puritana, de 1984. Este libro cubre la historia Satánico/mágica del Sello de Salomón antes de su uso Judio moderno. El libro muestra como el simbolo no fue un simbolo Judio hasta tiempos recientes. 
-10.  Goldberg M. Hish. "La Conexión Judia". Publicaciones New York, 1976, pág 167. 
-11.  Koelster, Arthur. "La Tribu Número 13". NY. Random House, 1976. 
-12.  La estrella Satánica es referida en Hechos: 7:43, en Amos: 5:25-26. "Simbologia Judia y otros Significados". Almanaque Judio, 1944. Publicaciones Nueva York. 
-13.  Manly P Hall. "Filosofia Hermética, Cábala, Judia y Rosacruciana y Su Respectivo Simbolismo". Edición 17, Investigación de Estudio. 
-14.  Carta de Russell a Rothschild enviada desde Palestina en Agosto de 1891. 
-15.  Eustice Mullins. "El Nuevo Orden Mundial". (P.11). 
-16.   Wilson Derek. "Rothschild, La Riqueza y el Poder de Una Dinastia". NY, Charles Scribners. 
-17.  "El Reinado de la Casa Rothschild". (p.405). 
-18.  Anka Mulhstein. "El Ascenso de los Rothschilds Franceses". NY. Vendom Press, ndc 1980. 
-19.   Baleigh. Leight. Lincoln. "Santa Sangre, Santo Grial". 
+1.  Lord Rothschild. "La Sombra de un Gran Hombre". Londres, 1982, pág.6. 
+2.  Wilson, Derek. "Rothschilds, La Riqueza y el Poder de una Dinastia". NY. Charles Schribners e Hijos, p. 101. 
+3.  Armstrong, George. "Los Trust del Dinero de los Rothschilds". Versión reimpresa de 1960. Esta fuente también viene en el libro de Eustice Mullince, "El Orden Mundial", p.31-33. Y otras fuentes también. 
+4.  Darms, Anton. "La Desilusión del Israelismo Británico". N.Y. Hermanos Loizeaux. p.186-187. 
+5.  Darms, op. cit. Además de muchas otras aseveraciones de como Israel comenzó con la ayuda Británica, y uno simplemente tiene que ver lo que hicieron y sus conexiones con los Rothschilds. 
+6.  Como señaló en Sampson, Anthony. "Los Prestamistas". Middlesex, Eng. Penguin Books, Ltd, 1985, (pág.37). 
+7.  Enciclopedia Judaica: Pág. 696. 
+8.  Varios Satanistas de alto rango que el poder de Dios ha logrado jalar fuera del Satanismo han dicho haber sido testigos oculares de Satán apareciéndose a los Rothschilds. Lo que presenciaban cuando Satán se les aparecia a los Rothschilds era que Satán se aparecia en un traje de color negro, y en forma de un hombre extremadamente hermoso, excepto por sus pezuñas hendidas. El llevaba un traje negro para apostar y jugar cartas (las ganancias eran victimas sexuales), y un traje blanco cuando venia solo a socializar. 
+9.  Un libro de investigación excelentemente documentado por un periodista Cristiano de descendencia Judia es "La Estrella de Seis Puntas", de O.J Graham, de la libreria Novo Puritana, de 1984. Este libro cubre la historia Satánico/mágica del Sello de Salomón antes de su uso Judio moderno. El libro muestra como el simbolo no fue un simbolo Judio hasta tiempos recientes. 
+10.  Goldberg M. Hish. "La Conexión Judia". Publicaciones New York, 1976, pág 167. 
+11.  Koelster, Arthur. "La Tribu Número 13". NY. Random House, 1976. 
+12.  La estrella Satánica es referida en Hechos: 7:43, en Amos: 5:25-26. "Simbologia Judia y otros Significados". Almanaque Judio, 1944. Publicaciones Nueva York. 
+13.  Manly P Hall. "Filosofia Hermética, Cábala, Judia y Rosacruciana y Su Respectivo Simbolismo". Edición 17, Investigación de Estudio. 
+14.  Carta de Russell a Rothschild enviada desde Palestina en Agosto de 1891. 
+15.  Eustice Mullins. "El Nuevo Orden Mundial". (P.11). 
+16.   Wilson Derek. "Rothschild, La Riqueza y el Poder de Una Dinastia". NY, Charles Scribners. 
+17.  "El Reinado de la Casa Rothschild". (p.405). 
+18.  Anka Mulhstein. "El Ascenso de los Rothschilds Franceses". NY. Vendom Press, ndc 1980. 
+19.   Baleigh. Leight. Lincoln. "Santa Sangre, Santo Grial". 
 
   
 
@@ -285,20 +285,20 @@ El plan "brillante" dado en detalle a los Illuminati fue el de crear una tesis y
 A partir de la Primera Guerra Mundial vino:  
   
 
-1.  Una dictadura segura Satánica en Rusia, una base segura para llevar más allá una subversión mundial. 
-2.  La familia Satánica de los Rothschilds ganaron control parcial sobre Palestina, anallándole el camino a Satán para gobernar desde Jerusalem algún dia. 
-3.  Armas de destrucción masiva y terror. 
-4.  La Liga de las Naciones. 
+1.  Una dictadura segura Satánica en Rusia, una base segura para llevar más allá una subversión mundial. 
+2.  La familia Satánica de los Rothschilds ganaron control parcial sobre Palestina, anallándole el camino a Satán para gobernar desde Jerusalem algún dia. 
+3.  Armas de destrucción masiva y terror. 
+4.  La Liga de las Naciones. 
 
   
 A partir de la Segunda Guerra Mundial vino:  
   
 
-1.  La Ampliación de la base segura en Rusia convertida en una potencia mundial. 
-2.  El Control completo sobre Palestina por parte de los Rothschilds. 
-3.  Poder Aéreo, incluidos misiles de alto rango, jets, aviones secretos y poderosos submarinos, que no pueden ser construidos por individuos. Aquellos en control sobre la producción tendrán entonces control total sobre el espacio aéreo y rutas maritimas sobre la tierra. 
-4.  La Guerra fria y una era de terror que convenzan a la gente del Orden Mundial de Satán. 
-5.  Las Naciones Unidas. 
+1.  La Ampliación de la base segura en Rusia convertida en una potencia mundial. 
+2.  El Control completo sobre Palestina por parte de los Rothschilds. 
+3.  Poder Aéreo, incluidos misiles de alto rango, jets, aviones secretos y poderosos submarinos, que no pueden ser construidos por individuos. Aquellos en control sobre la producción tendrán entonces control total sobre el espacio aéreo y rutas maritimas sobre la tierra. 
+4.  La Guerra fria y una era de terror que convenzan a la gente del Orden Mundial de Satán. 
+5.  Las Naciones Unidas. 
 
   
 A partir de la Tercera Guerra Mundial vendrá un nuevo sistema religioso. La Tercera Guerra Mundial tendria que ser adoptada para que sea como el Armaggedón de la Biblia, Satanás le contó esto a sus mas altos esclavos, debido a que entre más se pareciese al Armaggedón, la gente mas se creeria que el sería su Mesías cuando esta llegue a su final. Tendria que ser terrible, para que el pueda traer un orden milagroso a partir de un mundo golpeado por el caos por la peor guerra de la historia. De nuevo, seria el "Orden a Partir del Caos", de nuevo, tal cual proclama el slogan Masónico. La Tercera Guerra Mundial vendrá a partir de un periodo de siete años de tribulación comenzando en 1992 y durante 1999. Justo como la Segunda Guerra Mundial surgió después de la Gran Depresión. Satán le dijo a sus seguidores que esta tribulación repetirá a gran escala las plagas de Egipto, por lo que el buscará venganza por lo que se hizo en Egipto por parte de Dios, (y Moisés) por darle la espalda al mundo en una gran escala por lo que pasó en el antiguo Egipto. Para una mente demoniaca manipuladora tal búsqueda de venganza tiene sentido, especialmente cuando el resultado final es llevar a cabo el salvar el mundo por el Portador de Luz, la Estrella de la Mañana, también conocido como Lucifer. Para la mayoria de nosotros, la idea de tal dolor y destrucción suena a locura demoniaca, lo cual es.  
@@ -317,7 +317,7 @@ En 1952, James Larrat Battersby publicó en Inglaterra el libro "El Libro Sagrad
 
 [![](https://fritzspringmeier.bligoo.com/media/users/17/879954/images/public/176310/KARL.jpeg?v=1357864853656)](http://fritzspringmeier.bligoo.com/media/users/17/879954/images/public/176310/KARL.jpeg?v=1357864853656)
 
- **Karl Marx. Financiado por los Rothschilds haciendo el saludo Masónico de "La Mano Oculta".**
+ **Karl Marx. Financiado por los Rothschilds haciendo el saludo Masónico de "La Mano Oculta".**
 
   
 
@@ -333,11 +333,11 @@ Hitler era visto como el Mesias, el espiritu santo, el mártir Salvador de su ge
   
 Yo raramente gusto de comentar sobre el final de los tiempos de las escrituras debido a que la gente tiende a confundirse acerca de las claras enseñanzas que las escrituras dan. 2 Thes. 2:3 y otras escrituras dejan claro que el mundo presenciará una gran apostasía y se verá al Anticristo revelado antes del regreso de Cristo. Podemos vivir cada dia como si fuera el útlimo, pero las escrituras son claras al decir que los Apóstoles no viven cada dia como si Jesús fuese a volver ese dia. Ellos sabian que ciertas cosas tenian que pasar primero. La Iglesia ha pasado por tribulaciones desde el Pentecostal. La Iglesia pasará por la "gran tribulación" de acuerdo con la palabra de Dios. Nosotros si queremos podemos ser el remanente fiel que se salvó de la ira de Dios, pero no vamos a estar a salvo de la tribulación de Satanás en el que se incluirá el martirio. Los lideres de la Nueva Era están enteramente comprometidos en cooperar con esta "limpieza" de la tierra de nosotros, los discípulos molestos de la verdad. En este sentido, su pensamiento se parecerá a la racionalización de los Nazis de que la gente debe pagar su deuda kármica, y se beneficiarán de ser asesinados. ¿Cómo puede ser que esta verdad se encuentre fija en sus cabezas?. Los Planes para esto ya están elaborados de cómo utilizaran las lineas de ferrocarriles para mover a grandes grupos de civiles a campos de trabajo. Al comparar la Alemania Nazi con los nuevos planes del Nuevo Orden Mundial, la Alemania Nazi puede ser vista como el modelo básico de lo que el calendario de Satanás incluye para nosotros en los próximos años.  
   
-Para ilustrar que la religión Pagana del Nazismo es un ejemplo de los Satanistas y creyentes de la New Age, reflexionemos sobre Anton Lavey (lider visible de una Iglesia de Satanás) en su viaje al castillo sagrado de iniciación de la Orden Negra de Hitler de las SS. La SS trajo aparentemente el Santo Grial a Alemania, y lo escondió antes del final de la guerra. El 2 de Mayo de 1945, un grupo selecto de oficiales de las SS, aquellos iniciados en los mas grandes misterios de la religión Pagana del Nazismo, escondieron el Grial en el glaciar de Schleigeiss de 3000 mil pies de alto en la montaña Hochfeiler. Los exploradores del área han sido hallados decapitados y mutilados. El área aún se encuentra resguardada por la Orden Negra en anticipación del dia del que se habrá de dar a conocer el Grial al mundo. Se especula que puede ser próximamente, pero es sólo especulación. Lo importante para nosotros es experimentar el Reino de Dios ahora mismo. Preparémonos entonces para el Nuevo Orden Mundial del Todopoderoso mientras los Satanistas preparan su ofensiva de su propio Nuevo Orden Mundial.
+Para ilustrar que la religión Pagana del Nazismo es un ejemplo de los Satanistas y creyentes de la New Age, reflexionemos sobre Anton Lavey (lider visible de una Iglesia de Satanás) en su viaje al castillo sagrado de iniciación de la Orden Negra de Hitler de las SS. La SS trajo aparentemente el Santo Grial a Alemania, y lo escondió antes del final de la guerra. El 2 Mayo de 1945, un grupo selecto de oficiales de las SS, aquellos iniciados en los mas grandes misterios de la religión Pagana del Nazismo, escondieron el Grial en el glaciar de Schleigeiss de 3000 mil pies de alto en la montaña Hochfeiler. Los exploradores del área han sido hallados decapitados y mutilados. El área aún se encuentra resguardada por la Orden Negra en anticipación del dia del que se habrá de dar a conocer el Grial al mundo. Se especula que puede ser próximamente, pero es sólo especulación. Lo importante para nosotros es experimentar el Reino de Dios ahora mismo. Preparémonos entonces para el Nuevo Orden Mundial del Todopoderoso mientras los Satanistas preparan su ofensiva de su propio Nuevo Orden Mundial.
 
   
 
-## Los Rothschilds
+## Los Rothschilds
 
 (Continuación de los artículos de los Rothschilds por Fritz Springmeier):  
   
@@ -353,7 +353,7 @@ Los Rothschilds son una de las más conocidas familias de las 30 principales. Se
 
   
 
-En 1808, Nancy Hanks, del linaje de la familia Escocesa de los McAdden visitó a algunos parientes en Lincolnton, N.C. Nancy Hawks visitó a la familia Springs y ahi fue cuando A.A Springs puso su semilla en ella, y el hijo que nació después fue Abraham Lincoln. La sangre Rothschild de Abraham Lincoln se mantuvo muy en secreto, pero el creció convirtiéndose en un abogado famoso, un lider secreto de los Rosacruces y Presidente de los Estados Unidos. Se cree por evidencia que la conspiración del establishment sacó a la persona de Thomas Lincoln de la nada. La actual historia temprana de Abraham Lincoln está rodeada de mitos y de misterios, y como una enciclopedia lo cita: "Sabemos muy poco sobre la familia de su madre, Nancy Hanks Lincoln". Siendo abogado, Abraham Lincoln tuvo relaciones con Elizabeth, quien era la hija ilegitima del Rey Germano Leopoldo, quien es también del linaje de la élite. Abraham Lincoln y Elizabeth tuvieron dos hijas gemelas, Ella y Emily en 1856 y más tarde serian adoptadas. Lincoln de hecho tuvo una gran cantidad de hijos ilegitimos. Ahora, A.A Springs, quien era tanto el padre biológico de Leroy Springs y de Abraham Lincoln, dejó una gran cantidad de terrenos en lo que ahora es Huntsville en Alabama, a su hijo Abraham Lincoln. Huntsville Alabama por cierto es hoy en dia un semillero de actividad del Nuevo Orden Mundial. Algunas investigaciones sobre control mental que la comunidad de inteligencia ha realizado, ha sido en Huntsville.  
+En 1808, Nancy Hanks, del linaje de la familia Escocesa de los McAdden visitó a algunos parientes en Lincolnton, N.C. Nancy Hawks visitó a la familia Springs y ahi fue cuando A.A Springs puso su semilla en ella, y el hijo que nació después fue Abraham Lincoln. La sangre Rothschild de Abraham Lincoln se mantuvo muy en secreto, pero el creció convirtiéndose en un abogado famoso, un lider secreto de los Rosacruces y Presidente de los Estados Unidos. Se cree por evidencia que la conspiración del establishment sacó a la persona de Thomas Lincoln de la nada. La actual historia temprana de Abraham Lincoln está rodeada de mitos y de misterios, y como una enciclopedia lo cita: "Sabemos muy poco sobre la familia de su madre, Nancy Hanks Lincoln". Siendo abogado, Abraham Lincoln tuvo relaciones con Elizabeth, quien era la hija ilegitima del Rey Germano Leopoldo, quien es también del linaje de la élite. Abraham Lincoln y Elizabeth tuvieron dos hijas gemelas, Ella y Emily en 1856 y más tarde serian adoptadas. Lincoln de hecho tuvo una gran cantidad de hijos ilegitimos. Ahora, A.A Springs, quien era tanto el padre biológico de Leroy Springs y de Abraham Lincoln, dejó una gran cantidad de terrenos en lo que ahora es Huntsville en Alabama, a su hijo Abraham Lincoln. Huntsville Alabama por cierto es hoy en dia un semillero de actividad del Nuevo Orden Mundial. Algunas investigaciones sobre control mental que la comunidad de inteligencia ha realizado, ha sido en Huntsville.  
   
 Los Rothschilds inclusive nombraron a uno de sus hijos después de Abraham Lincoln, su nombre fue Lincoln Rothschild. Aunque Abraham Lincoln tenia secretamente poderosa sangre ocultista, el era un gran hombre por derecho propio. Y justo como JFK, el tenia una personalidad fuerte como para no seguir las instrucciones de los Illuminati. Lincoln se negó a seguir el camino que sus parientes del distante Banco Internacional Europeo los Rothschilds, querian para los Estados Unidos. El objetivo que los Illuminati querian para los Estados Unidos era el de dividirlo en dos, para más facilmente controlar a las naciones. Y al igual que Jhon F. Kennedy quien también provenia de una de las 13 familias principales de los Illuminati, se realizó una conspiración a gran escala se puso en marcha que involucraba a muchos agentes gubernamentales y al Secretario de la Defensa para asesinar a Lincoln. Hay muchos indicadores que muestran que los Rothschilds estuvieron detrás del asesinato de Lincoln.  
   
@@ -405,11 +405,11 @@ Los Illuminati comenzaron a impulsar a la Revolución Francesa para 1790, y el P
 
 [![](https://fritzspringmeier.bligoo.com/media/users/17/879954/images/public/176310/1357865445814-thurn-and-taxis.jpg?v=1357865569290)](http://fritzspringmeier.bligoo.com/media/users/17/879954/images/public/176310/1357865445814-thurn-and-taxis.jpg?v=1357865569290)
 
- **La Casa Real de Thurn and Taxis. Propaganda de la Epoca.**
+ **La Casa Real de Thurn and Taxis. Propaganda de la Epoca.**
 
   
 
-En 1516, el Emperador Romano Maximiliano I (del Linaje Merovingio y esposo de una miembro de la Nobleza Negra) comisionó a la Casa para crear un equipado sistema postal entre Viena y Bruselas. El servicio incluyó eventualmente a toda Europa Central. La Sede de la oficina del sistema postal estaba en Frankfurt, lo que era conveniente para Mayer quien procedió a realizar negocios con ellos. Su relación con Thurn y Taxis se volvió tan cercana que el servicio comenzó a informarle sobre cualquier información pertinente que se encontrara entre las cartas (puesto que ellos tenian el hábito de leerlas en cubierto). Este servicio postal fraudulento fue usado también por el Emperador Francis para mantenerse al tanto de sus enemigos. Mientras Mayer recibía noticias robadas de Thurn y Taxis el estaba ocupado preparando su propio servicio postal para que nadie descubriera secretamente sus tratos. El sistema se volvió tan efectivo, que los Rothschilds se convirtieron en los individuos mejor y más informados del mundo. El sistema era tan bueno, que muchos hombres prominentes comenzaron a mandar sus correos a través de los Rothschilds, quienes por supuesto, siempre husmeaban los contenidos. El negocio de Thurn y Taxis le ayudó a Mayer a recibir el titulo de "Agente Imperial de la Corona" en 1800. Este  
+En 1516, el Emperador Romano Maximiliano I (del Linaje Merovingio y esposo de una miembro de la Nobleza Negra) comisionó a la Casa para crear un equipado sistema postal entre Viena y Bruselas. El servicio incluyó eventualmente a toda Europa Central. La Sede de la oficina del sistema postal estaba en Frankfurt, lo que era conveniente para Mayer quien procedió a realizar negocios con ellos. Su relación con Thurn y Taxis se volvió tan cercana que el servicio comenzó a informarle sobre cualquier información pertinente que se encontrara entre las cartas (puesto que ellos tenian el hábito de leerlas en cubierto). Este servicio postal fraudulento fue usado también por el Emperador Francis para mantenerse al tanto de sus enemigos. Mientras Mayer recibía noticias robadas de Thurn y Taxis el estaba ocupado preparando su propio servicio postal para que nadie descubriera secretamente sus tratos. El sistema se volvió tan efectivo, que los Rothschilds se convirtieron en los individuos mejor y más informados del mundo. El sistema era tan bueno, que muchos hombres prominentes comenzaron a mandar sus correos a través de los Rothschilds, quienes por supuesto, siempre husmeaban los contenidos. El negocio de Thurn y Taxis le ayudó a Mayer a recibir el titulo de "Agente Imperial de la Corona" en 1800. Este  
 nombramiento le sirvió como un pasaporte que le permitió viajar a través del Santo Imperio Romano. También le permitía el derecho de portar armas, y le exentaba de pagar los impuestos y obligaciones entre los Judios en ese periodo. Mayer comenzó a obtener cada vez mas titulos, incluido uno de la Orden Alemana de St.Jhon. Sus hijos, Amschel y Salomón estaban ocupados también obteniendo varios titulos. En 1801, ellos se convirtieron en agentes de la corona del Terrateniente William de Hesse-Cassel. Todos estos titulos eran magnificos, pero mas importantes aún era el Terrateniente. El Terrateniente era el Principe más rico de Europa y los Rothschilds estaban  
 determinados a tomar ventaja de su riqueza.  
   
@@ -437,7 +437,7 @@ La Casa Rothschild necesitaba de una nueva escalera. La vieja, el Terrateniente,
 
 ## Los "Cinco Magos"
 
-Cuando Mayer murió, la jefatura de la familia recayó en Nathan Rothschild de Inglaterra. Aunque Nathan no era el mayor, los 5 hermanos votaron unánimemente y Nathan fue elegido el más capaz para liderearlos. Nathan era un patán ensimismado muy inteligente y sin educación. Aunque el no era amable y era un hombre grosero (el podia maldecir como camionero), su dinero le permitió entrar en la alta sociedad Inglesa. Su fria visión de la vida y el poder es vista en su respuesta a un Mayor Inglés que estaba empezando a ser sentimental sobre las horribles muertes de una gran cantidad de soldados que habian muerto en la guerra. "Bueno", dijo Rothschild, "Si todos esos no hubieran muerto, usted probablemente seguría siendo un baterista". Hay una historia que dice que uno de los hijos de Nathan le preguntó cuántas naciones habian en el mundo y este le respondió, "Hay solo dos de las que tu tienes que preocuparte". Está la "Mishposhe", (Familia en Yiddish), y están las otras". La historia puede ser falsa, pero la actitud asumida es real.  
+Cuando Mayer murió, la jefatura de la familia recayó en Nathan Rothschild de Inglaterra. Aunque Nathan no era el mayor, los 5 hermanos votaron unánimemente y Nathan fue elegido el más capaz para liderearlos. Nathan era un patán ensimismado muy inteligente y sin educación. Aunque el no era amable y era un hombre grosero (el podia maldecir como camionero), su dinero le permitió entrar en la alta sociedad Inglesa. Su fria visión de la vida y el poder es vista en su respuesta a un Mayor Inglés que estaba empezando a ser sentimental sobre las horribles muertes de una gran cantidad de soldados que habian muerto en la guerra. "Bueno", dijo Rothschild, "Si todos esos no hubieran muerto, usted probablemente seguría siendo un baterista". Hay una historia que dice que uno de los hijos de Nathan le preguntó cuántas naciones habian en el mundo y este le respondió, "Hay solo dos de las que tu tienes que preocuparte". Está la "Mishposhe", (Familia en Yiddish), y están las otras". La historia puede ser falsa, pero la actitud asumida es real.  
   
 Nathan se estableció primero en Manchester, Inglaterra, el centro de la manufactura textil de la época. En 1804, se trasladó a Londres. Como su riqueza y su reputación comenzó a crecer, le fue posible casarse con Hannah Cohen. Los Cohens fueron una familia Judia acaudalada de Amsterdam, y el padre de Hannah, Salomon Cohen era un respetado mercader en Londres. Nathan sirvió junto a el como Guardián de la Gran Sinagoga (la relación de los Rothschilds con los Judios será discutida mas adelante). La hermana de Hannah, Judith, se casó con el poderoso Francmasón Judío, Moses Montefiore (los Montefiore descienden de una "antigua" y extremadamente aristocrática casta Judía, probablemtente, otra familia Cabalista), quienes eran amigos de Nathan, (la hermana de Nathan, Henrieta, se casó con un Montefiore, asi como también su segundo hijo, Anthony, y su hermano, el bisnieto de Salomón se casó con Sebag Montefiore en 1911). La vida social de Nathan transcurrió con los Cohens.  
   
@@ -451,7 +451,7 @@ Metternich era un feroz enemigo de los fuegos revolucionarios que estaban esparc
 
 ![](https://fritzspringmeier.bligoo.com/media/users/17/879954/images/public/176310/von_gentz.JPG?v=1379486245716)
 
-**Frederick Von Gentz.**   
+**Frederick Von Gentz.**   
 Gentz es un personaje interesante. El era un Francmasón por lo que probablemente era ocultista. Su involucramiento en la Primera Liga Tugenbund (Liga de la Virtud) apunta hacia la inmoralidad. Otro hecho interesante que encontré es que la mayoría de sus visitas a los Rothschilds ocurrían en dias de celebración ocultista, tales como el Solsticio de Invierno. Esto puede que sea una coincidencia, pero aún así es interesante. Gentz llamaba a los Rothschilds "una nespecie especial de plantas con sus propias características". Gentz llevó sostenidamente a Metternich denro de la red de los Rothschilds. Alrededor de 1814, Metternich era ya un aliado de la Casa Rothschild. Su meta era proteger el poder de la antigua aristocracia. Su plan era simplemente extinguir a la revolución, y comenzó por Napoleón. Austria le declaró la guerra a Francia y se alió con Rusia. Inglaterra se les unió para formar una poderosa coalición en contra de Napoleón. La batalla de Waterloo en 1815 decidió la guerra. Metternich había llevado a Europa a la victoria con la ayuda de la red de distribución de Nathan que financió el derrocamiento. La victoría hizo a Metternich el hombre más poderoso de Europa. En gran medida debido a su veloz sistema mensajero. Nathan conocía el resultado de la batalla de Waterloo antes de que la noticia llegara a ningún otro Inglés. Un mito persistente es que el aumentó totalmente el volumen de su fortuna por medio de manipular el mercado bursátil con su conocimiento privilegiado de este suceso. Primero que nada, el de hecho manipuló el mercado, pero ya tenía desde antes una vasta fortuna. Este suceso simplemente le añadió más dinero. En segundo lugar, puede que no haya sacado una utilidad tan significativa derivado de este hecho, (el debate en torno a esto es complicado y no ahondaré en el mismo). Dos años antes de su derrota, Napoleón se había retirado de Alemania. En 1813, el Terrateniente William de Hesse-Cassel retornó a su provincia. Un biógrafo dijo: "Al principio fueron los Rothschilds los que habían pedido por favores, ahora eran tanto el Terrateniente como Buderus los que querían mantener una relación cercana". En 1818 Buderus murió. Para 1815 Nathan controlaba las finanzas de Inglaterra. El hizo grandes cantidades de dinero con el Tesoro de Inglaterra. Jhon Hemes permitió hacer tratos que lastimaban a Inglaterra pero permitió a la Casa Rothschilds llenarse los bolsillos.  
   
 La siguiente cita de parte de uno de los contemporáneos de Nathan describe su semblante misterioso: "Los ojos son a menudo llamados las ventanas del alma. Pero en el caso de los Rothschilds uno puede concluir que tales ventanas son falsas. O que no hay alma que mirar dentro de ellas. No viene siquiera ni un ápice de luz de su interior. Ni siquiera un destello de lo que viene de fuera se refleja en cualquier dirección. El conjunto y la sumatoria hace pensar a uno en una piel vacía, y uno se pregunta que es lo que hace que sigue en pie sin al menos algo dentro. Poco a poco otra figura llega a la altura, a continuación pisa dos pasos a un lado, y a la mirada más inquisitiva que jamás haya usted visto, le sigue una mirada aún más inquisitiva de la que se hubiera pensado, extraída de los ojos fijos y de plomo, como si se estuviera dibujando una espada de una vaina".
@@ -492,7 +492,7 @@ La Casa de Italia terminó de la misma manera. El primer hijo de Carl que se hab
 
   
 
-## La Influencia De Rothschild En America
+## La Influencia De Rothschild En America
 
 Este tema es tan masivo que solo será tocado de manera breve. En 1837, August Belmont, arribó a los Estados Unidos, durante el pánico de 1837. Parece ser que August Belmont fue un prestanombres de Rothschild. Belmont compró bienes del gobierno durante este periodo de Pánico y eventualmente su triunfo lo condujo a la Casa Blanca donde se convirtió en el "asesor financiero del Presidente de los Estados Unidos". Sus politicas ayudaron a las fuerzas del Norte contra el Sur en la Guerra Civil.  
   
@@ -508,8 +508,8 @@ La siguiente cita les ayudará a comprender la actitud de los Rothschilds para c
   
 Uno de los tantos agentes que los Rothschilds utilizaron para promover la emancipación de los pueblos Judíos en Frankfurt fue Frederick Von Gentz, la malvada "Pluma de Europa". En este punto, debo clarificar algo al lector. Hay 3 Barones Edmond Rothschilds, y los 3 han estado envueltos con la nación de Israel. Para evadir la confusión los enumeraré:  
 
-1.  Barón Edmond de Rothschild (1845-1934): Casa de Francia. Hijo de James y hermano de Alphonse. 
-2.  Barón Edmund "Eddie" L de Rothschild: (1916): Casa de Inglaterra. Hijo de Uonei Nathan y gran tatara, tatara nieto del infame Nathan Rothschild. 
+1.  Barón Edmond de Rothschild (1845-1934): Casa de Francia. Hijo de James y hermano de Alphonse. 
+2.  Barón Edmund "Eddie" L de Rothschild: (1916): Casa de Inglaterra. Hijo de Uonei Nathan y gran tatara, tatara nieto del infame Nathan Rothschild. 
 3.  Barón Edmond de Rothschild: (1926): Casa de Francia. Hijo de Maurice y gran nieto de Edmond primero.
 
   
@@ -539,7 +539,7 @@ El Segundo Edmond es el "más consciente de la raza" de todos los Rothschilds. E
 Bibliografia:
 
 -   Corti, Conde Egoe César. EL ASCENSO DE LA CASA ROTHSCHILD. Boston, Los Angeles: Western Islands. 1972, Derechos de Autor de Cosmopolitan Books Corporation.
--   Graham, O.J. LA ESTRELLA DE SEIS PUNTAS. Fletcher, N.C: New Puritan Library, 1984. 
+-   Graham, O.J. LA ESTRELLA DE SEIS PUNTAS. Fletcher, N.C: New Puritan Library, 1984. 
 -   Springmeier, Fritz. SER PRUDENTES COMO LAS SERPIENTES. Portland, Oregon. Publicado privadamente en 1991.
 -   Cowles, Virginia. LOS ROTHSCHILDS, UNA FAMILIA DE FORTUNA. Nueva York. Alfred A. Knopf. Inc, 1973.
 -   Morton, Frederik. LOS ROTHSCHILDS: UN RETRATO FAMILIAR. Nueva York, libros Collier, 1961. Introducción y epílogo de 1991.
@@ -550,7 +550,7 @@ Bibliografia:
 
 Lenin dijo que el establecimiento de un Banco Central se daría a partir de comunizar a una nación al 90%, el propio Lenin (y Trotsky) les fueron requeridos realizar operativos de la M16 en posiciones clave durante la Revolución Rusa, y estos operativos, fueron a su vez controlados por la élite Satánica desde Londres, Inglaterra. No es ningún secreto que los Rothschilds jugaron un gran rol en los Bancos Internacionales, y los varios Rothschilds como Lord Victor Rothschild han jugado grandes papeles en la M16. Yo toco estos elementos para llevar a casa lo que vendría a ser una conclusión obvia, que los Rothschilds son los grandes jugadores en el control del mundo y del Nuevo Orden Mundial.  
   
-Hay mucha actividad ocurriendo en la parte de los dias modernos de los Rothschilds, que el aparato de censura de los grandes medios que protegen a los Rothschilds no han sido capaz de transmitir todo a la pantalla, sin embargo,hay todavia elementos aqui y allá que se filtran por la máquina de censura de los grandes medios. Sin embargo, mi investigación continúa buscando a los descendientes de los Rothschilds tratando de exponerlos y de ver de que van estos. He encontrado algunos. Uno el cual no he tenido la oportunidad de entrevistar, es el esposo de Rebecca Brown. Se reporta que el esposo de Rebecca fue un Illuminatus del linaje Rothschild, y que escapó de ellos y que ha estado intentando hacer alguna exposición de sus prácticas Satánicas. De acuerdo con lo que se me ha dicho, lo quieren despellejar vivo. No he sido capaz de entrevistar al esposo de Rebecca Brown, Yoder, quien ha sido llamado por el Señor para reforzar la Iglesia de los ultimos tiempos. 
+Hay mucha actividad ocurriendo en la parte de los dias modernos de los Rothschilds, que el aparato de censura de los grandes medios que protegen a los Rothschilds no han sido capaz de transmitir todo a la pantalla, sin embargo,hay todavia elementos aqui y allá que se filtran por la máquina de censura de los grandes medios. Sin embargo, mi investigación continúa buscando a los descendientes de los Rothschilds tratando de exponerlos y de ver de que van estos. He encontrado algunos. Uno el cual no he tenido la oportunidad de entrevistar, es el esposo de Rebecca Brown. Se reporta que el esposo de Rebecca fue un Illuminatus del linaje Rothschild, y que escapó de ellos y que ha estado intentando hacer alguna exposición de sus prácticas Satánicas. De acuerdo con lo que se me ha dicho, lo quieren despellejar vivo. No he sido capaz de entrevistar al esposo de Rebecca Brown, Yoder, quien ha sido llamado por el Señor para reforzar la Iglesia de los ultimos tiempos. 
 
   
 
@@ -572,7 +572,7 @@ Uno de los principios que se debe tener en cuenta, es que el actual poder oculti
 
 ## Por Encima de la Ley
 
-La historia de lo que pasó con BankCal, el cual era el Banco mas viejo en California, ilustra que tan poderosos son los Rothschilds en los Estados Unidos. A veces, la corrupción en la cúspide apesta tanto que no puedo estar sorprendido del todo. Los Estados Unidos tienen a la Comisión de Seguridad e Intercambio (SEC) para proteger a las personas de un fraude en el mercado de las acciones. Durante la década de 1980, hubo tres casos de fraude publicitados que la SEC reveló. Estos tres casos crearon la confianza en los Americanos de que el mercado accionario estaba honestamente dirigido. La historia de lo que Edmond Rothschild, (cuyo nombre completo era Edmond Adolphe Jules Jacques Maurice Baron de Rothschild) hizo con Banckal le demuestra al mundo que los Rothschilds no se rigen por las mismas reglas por las que se rige todo mundo. Ellos están literalmente por encima de la ley. Los Illuminati poderosos controlan la ley. En 1937, el CEO de Bankcal, De Breteville, le vendió a Edmond Rothschild 300,000 acciones de Bancal Tristate Corp. 22% del holding de la compañia para el Banco de California. De Breteville le había preguntado antes a dos primos Rothschilds Ingleses si querían comprar las acciones. Estos dos primos Ingleses llamaron entonces a dos primos Rothschilds Franceses, quienes a su vez le llamaron a Edmond a Ginebra, Suiza, para que diera su consejo y asesoramiento. Edmond les dijo que les ayudaría a comprar, y después de eso el adquirió las acciones. El pudo haberse volteado y repartido los beneficios con sus familiares. El mintió. Y durante los siguientes años, el continuaría mintiéndoles a numerosas personas sobre sus intenciones con el banco. De Breteville dijo: "El le mintió a su familia y me mintió a mi, había mano negra ocurriendo". El Banco de California tenía la única franquicia bancaria en el tiempo en que la hegemonía circundaba alrededor de tres estados del pacífico (OR, WA, CA).  
+La historia de lo que pasó con BankCal, el cual era el Banco mas viejo en California, ilustra que tan poderosos son los Rothschilds en los Estados Unidos. A veces, la corrupción en la cúspide apesta tanto que no puedo estar sorprendido del todo. Los Estados Unidos tienen a la Comisión de Seguridad e Intercambio (SEC) para proteger a las personas de un fraude en el mercado de las acciones. Durante la década de 1980, hubo tres casos de fraude publicitados que la SEC reveló. Estos tres casos crearon la confianza en los Americanos de que el mercado accionario estaba honestamente dirigido. La historia de lo que Edmond Rothschild, (cuyo nombre completo era Edmond Adolphe Jules Jacques Maurice Baron de Rothschild) hizo con Banckal le demuestra al mundo que los Rothschilds no se rigen por las mismas reglas por las que se rige todo mundo. Ellos están literalmente por encima de la ley. Los Illuminati poderosos controlan la ley. En 1937, el CEO de Bankcal, De Breteville, le vendió a Edmond Rothschild 300,000 acciones de Bancal Tristate Corp. 22% del holding de la compañia para el Banco de California. De Breteville le había preguntado antes a dos primos Rothschilds Ingleses si querían comprar las acciones. Estos dos primos Ingleses llamaron entonces a dos primos Rothschilds Franceses, quienes a su vez le llamaron a Edmond a Ginebra, Suiza, para que diera su consejo y asesoramiento. Edmond les dijo que les ayudaría a comprar, y después de eso el adquirió las acciones. El pudo haberse volteado y repartido los beneficios con sus familiares. El mintió. Y durante los siguientes años, el continuaría mintiéndoles a numerosas personas sobre sus intenciones con el banco. De Breteville dijo: "El le mintió a su familia y me mintió a mi, había mano negra ocurriendo". El Banco de California tenía la única franquicia bancaria en el tiempo en que la hegemonía circundaba alrededor de tres estados del pacífico (OR, WA, CA).  
   
 Resultó que el Banco de California funcionó como una pieza de arte para Rothschild. El no tenía intenciones de mejorar el banco, el simplemente lo quería para su colección de compañias. Edmond ya tenía compañias en Brazil, compañias de juguetes, el 10% de la Compañia Minera De Beers en Sudáfrica, negocios de Joint Ventures con Robert Vesco, el 30% del Club del Mediterráneo el cual co-fundó entre muchos otros. El Club del Mediterráneo fue creado a partir de la idea para que otros de la élite pudieran disfrutar de las áreas de juego junto al mar. Edmond se fue a casar con una chica del coro llamada Nadine. Actualmente, las fuentes indican que el Barón ha querido regalar el Banco de California a su único hijo, Bengie, (Benjamín de Rothschild), como regalo de graduación. Pero Bengie, quien estuvo asistiendo a la Universidad de Pepperdine, estaba más interesado en irse de fiesta. Bengie vivía a lo grande en su fabulosa y lujosa casa de playa en California mientras faltaba a la escuela y vivía ligera y desentendidamente. Aparentemente, su padre decidió que su hijo no estaba listo para su regalo de graduación. De hecho, el dejó la Universidad de Pepperdine luego de 4 años con 31 materias aprobadas (se requieren minimo de 97 para aprobar) y se devolvió a casa al Catillo de Pregny a orillas del lago Ginebra, cerca de Ginebra, Suiza. No fue hasta 1989, que Benjamín dió un paso al frente hacia el mundo de las finanzas, al lanzar "La Compaigne de Tresorerie de Benjamin de Rothschild". El San José Mercury, reportó el 12 de Junio de 1992 que "El sangre azul y por largo tiempo Jefe Ejecutivo invitó a Rothschild a invertir". Los reguladores bancarios animaron a Rothschild a hacerse cargo. Los investigadores de seguridad ignoraron la locura de intercambiar cruzando las fronteras del mar, y luego, la documentación del intercambio desde dentro. El Director del Banco era lisonjeado mientras el Barón lo utilizaba como su juguete personal. "No es esto lo que hizo grande a este pais", dijo Bill Miles, un Ex-Vicepresidente de Bankcal. "Esto es codicia de la A la Z", declaró.  
   
@@ -584,7 +584,7 @@ En Marzo de 1982, Mitsubichi comenzó una negociación en secreto para comprar e
 
 ## El Grupo De la Mesa Redonda
 
-David Smith quien ha escrito el siguiente articulo de los Rothschilds para este libro me pidió una introducción sobre los Rothschilds y el Grupo de la Mesa Redonda. Los hombres que forman el Grupo de Milner de la Mesa Redonda por las varias pistas en sus vidas, son y han sido grandes Satanistas en secreto. Rhodes y Stead crearon la sociedad secreta que cuenta con un gran número de iniciados. Este circulo incluye a hombres tales como Albert (Lord) Grey, Arthur (Lord) Balfour, Sir Harry Jhonston y Lord Rothschild. Milner estaba en el Comité Ejecutivo de este grupo secreto. Carrol Quigley data el inicio del grupo en Marzo de 1891. Aparentemente, los Rothschilds ayudaron financieramente a esta sociedad secreta. De 1909 a 1913, esta sociedad secreta, a su vez, formó los grupos de la Mesa Redonda en las dependencias Británicas y de los Estados Unidos. Ocho de estos grupos de mesa redonda estuvieron funcionales aún en los 1970s. Sir Abe Bailey apoyó a la revista de los grupos de la Mesa Redonda llamada "La Mesa Redonda" en 1919, Sir Abe Bailey y los Astors financiaron la creación del Instituto Real de Asuntos Internacionales que a su vez creó a las organizaciones hijas tales como el Consejo de Relaciones Exteriores (CFR) en los Estados Unidos. El RIIA es a veces llamado Chatham House (Casa Chatham). El primer grupo de Mesa Redonda del grupo Rhode Milner es a veces llamado la Junta Cliveden, porque se reúnen con frecuencia en el Estado de Cliveden de los Astors. La biografía de Terence O´Brien describe las relaciones de Milner para con los Rothschilds como muy cercanas. Lord Alfred Milner (1854-1925), visitaba con frecuencia a los Rothschilds, se quedaba hasta muy noche con varios Rothschilds, e incluso pasaba noches enteras sin dormir con ellos, sin ninguna explicación o un porque. Milner también trabajó para Rothschild como director de Rio Tinto. Tres familias Illuminati se destacan en la creación de los grupos de la Mesa Redonda, las cuales se convirtieron en la RIIA y en la CFR y otros grupos similares. Estas familias fueron los Rothschilds, los Astors y los Greys. La familia Bailey tambien se destaca como una importante familia generacional Satánica. La RIIA y sus varias ramas tales como la CFR son muy poderosas hoy en dia. En mi libro de Ser Prudentes Como las Serpientes el lector podrá encontrar un gráfico mostrando el rol que juega la CFR en los procesos politicos de los Estados Unidos. 
+David Smith quien ha escrito el siguiente articulo de los Rothschilds para este libro me pidió una introducción sobre los Rothschilds y el Grupo de la Mesa Redonda. Los hombres que forman el Grupo de Milner de la Mesa Redonda por las varias pistas en sus vidas, son y han sido grandes Satanistas en secreto. Rhodes y Stead crearon la sociedad secreta que cuenta con un gran número de iniciados. Este circulo incluye a hombres tales como Albert (Lord) Grey, Arthur (Lord) Balfour, Sir Harry Jhonston y Lord Rothschild. Milner estaba en el Comité Ejecutivo de este grupo secreto. Carrol Quigley data el inicio del grupo en Marzo de 1891. Aparentemente, los Rothschilds ayudaron financieramente a esta sociedad secreta. De 1909 a 1913, esta sociedad secreta, a su vez, formó los grupos de la Mesa Redonda en las dependencias Británicas y de los Estados Unidos. Ocho de estos grupos de mesa redonda estuvieron funcionales aún en los 1970s. Sir Abe Bailey apoyó a la revista de los grupos de la Mesa Redonda llamada "La Mesa Redonda" en 1919, Sir Abe Bailey y los Astors financiaron la creación del Instituto Real de Asuntos Internacionales que a su vez creó a las organizaciones hijas tales como el Consejo de Relaciones Exteriores (CFR) en los Estados Unidos. El RIIA es a veces llamado Chatham House (Casa Chatham). El primer grupo de Mesa Redonda del grupo Rhode Milner es a veces llamado la Junta Cliveden, porque se reúnen con frecuencia en el Estado de Cliveden de los Astors. La biografía de Terence O´Brien describe las relaciones de Milner para con los Rothschilds como muy cercanas. Lord Alfred Milner (1854-1925), visitaba con frecuencia a los Rothschilds, se quedaba hasta muy noche con varios Rothschilds, e incluso pasaba noches enteras sin dormir con ellos, sin ninguna explicación o un porque. Milner también trabajó para Rothschild como director de Rio Tinto. Tres familias Illuminati se destacan en la creación de los grupos de la Mesa Redonda, las cuales se convirtieron en la RIIA y en la CFR y otros grupos similares. Estas familias fueron los Rothschilds, los Astors y los Greys. La familia Bailey tambien se destaca como una importante familia generacional Satánica. La RIIA y sus varias ramas tales como la CFR son muy poderosas hoy en dia. En mi libro de Ser Prudentes Como las Serpientes el lector podrá encontrar un gráfico mostrando el rol que juega la CFR en los procesos politicos de los Estados Unidos. 
 
   
 
@@ -714,14 +714,14 @@ Como se puede ver claramente, la red Rothschild tuvo una influencia significativ
 Bibliografía  
   
 
--   Virginia Cowles: LOS ROTHSCHILDS: UNA FAMILIA DE FORTUNA. New York: Alfred A Knopf, Inc., 1973 
+-   Virginia Cowles: LOS ROTHSCHILDS: UNA FAMILIA DE FORTUNA. New York: Alfred A Knopf, Inc., 1973 
 -   Sampson Anthony: "LOS PRESTAMISTAS". New York: Penguin Books, 1983
 -   Morton, Frederick: "LOS ROTHSCHILDS: UN RETRATO FAMILIAR". New York: Collier Books, 1991
--   Wechsberg, Jhosep: "LOS MERCADERES BANCARIOS". New York: Pocket Books, 1968 
+-   Wechsberg, Jhosep: "LOS MERCADERES BANCARIOS". New York: Pocket Books, 1968 
 -   Still, William: "NUEVO ORDEN MUNDIAL". Lafayette, Louisiana: Huntington House Publishers, 1990.
--   Sutton, Antony C. "EL ESTABLECIMIENTO SECRETO DE AMERICA: UNA INTRODUCCION A LA ORDEN DE LA SKULL AND BONES". Liberty House Press. 
--   Mullins, Eustace. "EL ORDEN MUNDIAL". Boring, OR: CPA Book Publisher, 1985. 
--   Epperson, A. Ralph. "LA MANO OCULTA". Tucson, Arizona: Publius Press, 1985. 
+-   Sutton, Antony C. "EL ESTABLECIMIENTO SECRETO DE AMERICA: UNA INTRODUCCION A LA ORDEN DE LA SKULL AND BONES". Liberty House Press. 
+-   Mullins, Eustace. "EL ORDEN MUNDIAL". Boring, OR: CPA Book Publisher, 1985. 
+-   Epperson, A. Ralph. "LA MANO OCULTA". Tucson, Arizona: Publius Press, 1985. 
 
   
   

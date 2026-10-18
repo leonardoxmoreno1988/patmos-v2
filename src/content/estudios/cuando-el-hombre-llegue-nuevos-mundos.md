@@ -9,7 +9,7 @@ description: "Lo anterior fue una cita de la edición de diciembre de 1969 The N
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -36,7 +36,7 @@ En aquel entonces, la masonería no fue tímida a la hora de admitir que la "nav
   
 Kenneth S. Kleinknecht, por cierto, fue el hermano de C. Fred Kleinknecht, grado 33°, Gran Soberano Comendador, El Consejo Supremo, 33°, Jurisdicción del Sur, EE.UU., Washington.
 
-   
+   
 
 [![masoneria bandera](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprC3MVvvZi6foLjRQtOrzhLtJQuDOaAe5I0Wasy1hYJmcWArhoieRufPZAbE6jT862tV_8VN7StbbgZhzP9yM7a6H6iRUHioWZjI0u2k_p58BE0bDkNupekrcUTfsQIUF7FDz-3yicjY/s1600/flag.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjprC3MVvvZi6foLjRQtOrzhLtJQuDOaAe5I0Wasy1hYJmcWArhoieRufPZAbE6jT862tV_8VN7StbbgZhzP9yM7a6H6iRUHioWZjI0u2k_p58BE0bDkNupekrcUTfsQIUF7FDz-3yicjY/s1600/flag.jpg)
 

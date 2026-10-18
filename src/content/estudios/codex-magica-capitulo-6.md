@@ -22,14 +22,13 @@ tags: ["Sociedad"]
   
 El hombre cree que el satanismo y el culto luciferino está muy lejos respecto a los rituales, prácticas y filosofías de las sociedades secretas y la Orden de los Illuminati. De hecho, no hay distinción real entre estos grupos. Como el Dr. Michael Aquino, satanista importante y fundador del Templo de Set, una vez reconocido, los satanistas tienen una comprensión meramente "más precisa" de la realidad oculta. **[Aleister Crowley](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**, satanista británico, que disfrutó de llamarse a sí mismo, "el hombre más malvado del planeta", sin duda habría estado de acuerdo con Aquino.  
   
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 Crowley fue iniciado en un número de diferentes fraternidades masónicas, ritos satánicos, y grupos ocultos, incluyendo el Rito de Memphis, el Rito Escocés Mexicano 33 °, 33 ° Gran Oriente, y el Rito de Misraim. En 1912 fue honrado por sus compañeros Luciferinos de la Ordo Templi Orientis (O.T.O.), siendo reconocido por su conocimiento gnóstico superior y talento con el siguiente alto rango y título: **(1)**  
   
-Aleister Crowley San Eduardo 33 °, 90 °, 95 °, X ° Maestro Nacional General de _Mysteria Mystica Maxima de_ Gran Bretaña e Irlanda  
+Aleister Crowley San Eduardo 33 °, 90 °, 95 °, X ° Maestro Nacional General de _Mysteria Mystica Maxima de_ Gran Bretaña e Irlanda  
 
-##   
-**"Un elefante se vendría abajo ..."**
+## **"Un elefante se vendría abajo ..."**
 
 Crowley afirmó que desde Bucarest, Hungría a Salt Lake City, Utah, recibió una lluvia de honores, títulos, grados y parafernalia oculta. Tanto fue reconocido que Crowley desconcertado comentó con humor, "un elefante se vendría abajo con las insignias que debo llevar." **(2)** Fue Napoleón quien observó en una ocasión lo fácil que es ganar a los hombres a través de la adulación simplemente por legar un título a ellos o fijar una medalla en su pecho.  
   
@@ -61,10 +60,9 @@ Este Baphomet en traje de hombre está tallado en piedra en el edificio del arco
 
 Sin duda, el Círculo Interno de los Illuminati tienen objetivos específicos en mente que están siendo atendidos por hombres como Crowley, LaVey, Hubbbard, y Kinsey. Estos hombres y sus seguidores se utilizan para degradar y rebajar a la humanidad, vulgarizar la religión, y destruir la cultura sana y moral. En verdad, las filosofías de estos hombres están de acuerdo con la de los Illuminati. En el nivel básico de la filosofía de Weishaupt fue siempre la "elevación" de la humanidad al estado de Dios.  
 
-##   
-**"Haz lo que desees..."**
+## **"Haz lo que desees..."**
 
-El  juego es inspirar a los hombres a rechazar las leyes de Dios y golpear por una libertad, haciendo nuestros propios asuntos independientemente. En otras palabras, vivir libres más allá de los límites de la moral o del decoro. La lujuria, el sexo libre, conducta inmoral, violación, pillaje, saqueo—todo está permitido el nuevo hombre de la razón. Como el gran mandamiento de Crowley menciona, "Haz lo que desees será la totalidad de la ley."  
+El  juego es inspirar a los hombres a rechazar las leyes de Dios y golpear por una libertad, haciendo nuestros propios asuntos independientemente. En otras palabras, vivir libres más allá de los límites de la moral o del decoro. La lujuria, el sexo libre, conducta inmoral, violación, pillaje, saqueo—todo está permitido el nuevo hombre de la razón. Como el gran mandamiento de Crowley menciona, "Haz lo que desees será la totalidad de la ley."  
   
 Ahora Baphomet, el andrógino de cuernos, mitad hombre mujer, mitad cabra-dios de los caballeros templarios medievales, inculcaba esta filosofía de "Hagan sus propia cosas" del Iluminismo. Él es la imagen misma de la librepensador, el mason e iluminista que plantea la "**[antorcha de la libertad](http://www.ritualypropaganda.com/2012/05/el-significado-de-la-antorcha-olimpica.html)**", el fuego del infierno y la luz de Lucifer. La Orden del Temple, predecesora de los francmasones de hoy, veneraba a Baphomet como la deidad de la sabiduría. Mira de cerca el reverso del billete de un dólar EE.UU. y encontrará los cuernos de Baphomet meticulosamente diseñados y encajados.  
   
@@ -72,10 +70,9 @@ En este capítulo, usted descubrirá más sobre Baphomet; sobre el Hombre Verde;
   
 Miguel Ángel y otros artistas, extrañamente, creaban esculturas creadas blasfemamente a Moisés, el profeta bíblico, con cuernos. Todas estas deidades cornudas y sus imágenes representan la lujuria, ya que el cuerno es en sí mismo un símbolo fálico en el mundo de lo oculto.  
 
-##   
-**De estrellas y barbas** 
+## **De estrellas y barbas** 
 
-En los últimos tiempos, los revolucionarios comunistas adoptaron la estrella, también símbolo de Baphomet (ver la estrella en la frente de la cabra de Baphomet en este capítulo), y algunos —Karl Marx, el Che Gueverra y otros— adoptaron la enorme y desordenada barba en honor al goatee (estilo de barba en el mentón) de Baphomet, la deidad a quien adoraban en secreto.  
+En los últimos tiempos, los revolucionarios comunistas adoptaron la estrella, también símbolo de Baphomet (ver la estrella en la frente de la cabra de Baphomet en este capítulo), y algunos —Karl Marx, el Che Gueverra y otros— adoptaron la enorme y desordenada barba en honor al goatee (estilo de barba en el mentón) de Baphomet, la deidad a quien adoraban en secreto.  
   
 Es revelador que el fallecido Anton LaVey, soltando su filosofía infernal en su último libro, _Satanás Habla_, dice de la barba de Baphomet:  
 
@@ -84,7 +81,7 @@ Es revelador que el fallecido Anton LaVey, soltando su filosofía infernal en su
   
 Muchas celebridades de Hollywood se han involucrado en las profundidades del satanismo. Bellas actrices como Jayne Mansfield y Marilyn Monroe fueron utilizadas como herramientas del sexo de la élite, y hombres como el cantante Sammy Davis, Jr., así como decenas de estrellas del rock n' roll, se utilizaron como juguetes Iluministas, proporcionando diversión, juegos, y entretenimiento para la élite. Davis se hizo un honorario de 11° en el Templo de Set del Dr. Michael Aquino.  
   
-La bomba rubia y actriz Jayne Mansfield estaba tan enamorada de culto satánico que tenía un ídolo de Baphomet negro y rosa hecho a medida para ella. Llevaba el ídolo alrededor de su cuello en un Festival de San Francisco en 1966. La participación de Hollywood en la oscuridad satánica continúa en la actualidad, aunque los nombres han cambiado.  
+La bomba rubia y actriz Jayne Mansfield estaba tan enamorada de culto satánico que tenía un ídolo de Baphomet negro y rosa hecho a medida para ella. Llevaba el ídolo alrededor de su cuello en un Festival de San Francisco en 1966. La participación de Hollywood en la oscuridad satánica continúa en la actualidad, aunque los nombres han cambiado.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ63vn5j16L_pamYvVbk4vbTrhGmAuXwYAlB8tIpilE9tPyTx4QShcSmK3cQFXn81bN6k4jgCFbudoKcUvdjbWjyIhMwPfvS1o6Nqk134pWpeODK2XGD-ih5IUIEyY4XKFq8XY-9XQ05I/s1600/coodex_76.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ63vn5j16L_pamYvVbk4vbTrhGmAuXwYAlB8tIpilE9tPyTx4QShcSmK3cQFXn81bN6k4jgCFbudoKcUvdjbWjyIhMwPfvS1o6Nqk134pWpeODK2XGD-ih5IUIEyY4XKFq8XY-9XQ05I/s1600/coodex_76.jpg)
@@ -104,17 +101,17 @@ Según una fuente respetada, el presidente EE.UU., George Herbert Walker Bush (B
 
 ## El macho cabrío de la profecía
 
-Igual de significativo es el pasaje de la Biblia en Daniel 8: 8-22, qué simbólicamente describe a un gran líder mundial en los últimos días como un "macho cabrío". Este macho cabrío, dicen las escrituras, se hace muy fuerte y su poder está simbolizado por un cuerno que surge de su frente.  
+Igual de significativo es el pasaje de la Biblia en Daniel 8:8-22, qué simbólicamente describe a un gran líder mundial en los últimos días como un "macho cabrío". Este macho cabrío, dicen las escrituras, se hace muy fuerte y su poder está simbolizado por un cuerno que surge de su frente.  
   
 Esta criatura extraña y malvada hace guerra contra el ejército de Dios e intenta suplantarlo. ¿No es esta una imagen similar de la bestia Baphomet, adorado en secreto por los llluminati?  
   
 
 ## El bautismo de una bruja satánica
 
-En las ceremonias de las religiones paganas, bautismos—falsificaciones del sacramento cristiano— se llevan a cabo como ritos de iniciación. A continuación se cita una muestra de un bautismo oscuro, tal y como se registra en el libro, _La bruja satánica_, de Anton LaVey, cabeza de la Iglesia de Satán. LaVey ha declarado que el objetivo de su iglesia es nefasta para marcar el comienzo de una "nueva era". (La persona que está siendo bautizada es la hija de LaVey, Zeena, y las palabras son de ella misma.)  
+En las ceremonias de las religiones paganas, bautismos—falsificaciones del sacramento cristiano— se llevan a cabo como ritos de iniciación. A continuación se cita una muestra de un bautismo oscuro, tal y como se registra en el libro, _La bruja satánica_, de Anton LaVey, cabeza de la Iglesia de Satán. LaVey ha declarado que el objetivo de su iglesia es nefasta para marcar el comienzo de una "nueva era". (La persona que está siendo bautizada es la hija de LaVey, Zeena, y las palabras son de ella misma.)  
   
 
-> **"Mi bautismo fue de hecho la inversión de un bautismo cristiano. En lugar de estar sumergido en un baño de agua fría por un hombre extraño, siendo purificada del "pecado original", nosotros celebramos al hombre y su naturaleza como lo que realmente son.** 
+> **"Mi bautismo fue de hecho la inversión de un bautismo cristiano. En lugar de estar sumergido en un baño de agua fría por un hombre extraño, siendo purificada del "pecado original", nosotros celebramos al hombre y su naturaleza como lo que realmente son.** 
 
 > **Mientras estaba sentado vistiendo la túnica roja que mi madre hizo esa mañana, jugué con el amuleto Baphomet colgando alrededor de mi cuello. Imperiosamente, examiné el mar de paticipantes con capuchas negras. Me tomó un par de años darme cuenta de que algunos de ellos pueden haber estado más fascinados con la mujer desnuda tumbada en el altar que conmigo. Las cepas góticas de un órgano Hammond hicieron eco contra las paredes negras y rojas... me sentí feliz por ser el punto focal de toda esta actividad.Mi padre, el Sumo Sacerdote, alzó la espada ceremonial en bendición. Sentí una gran sensación de calidez y respeto. ¿Cuánta gente puede decir honestamente que tiene este sentimiento en cualquier momento de su vida? "Tengo algo que ellos no", pensé con orgullo, de acuerdo con la filosofía del satanismo indulgente. Desde esa noche entendí lo que significa ser una bruja satánica, una mujer que hace pleno uso de sus armas de mujer. A lo largo de mi vida me gustaría jugar de nuevo las palabras entonadas durante mi bautismo:Los muchos caminantes de patas que dan la fuerza, el poder de colmillo rojo y garra, todos los demonios bailando locamente se llenan con el conocimiento perdido de los antiguos. Pequeña bruja, el mago más natural y verdadero, sus pequeñas manos tienen el poder de tirar los cielos hacia abajo y de sus fragmentos construir un monumento a su propia dulce indulgencia... Y con estas otras personas del diablo en el templo, les producirás que sus cabezas avancen y saltén, ya que los llenarás con el deseo. Y por dedicar tu vida al amor, a la pasión, a la indulgencia, a Satanás y el camino de la oscuridad.**
 
@@ -122,7 +119,7 @@ En las ceremonias de las religiones paganas, bautismos—falsificaciones del sac
 
   
 
-## Un generación hipnotizada 
+## Un generación hipnotizada 
 
 Recientemente, numerosos jóvenes han sido llevados hacia el reino de Satanás a través de películas, dibujos animados, videojuegos, cómics y otros medios. Los **[libros de brujería de Harry Potter](http://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html)** han iniciado a muchos en los elementos más oscuros de infierno. Las películas de fantasía ocultas (Star Wars, Jedi, etc.) han borrado cualquier concepción de los absolutos y han traído cada vez más jóvenes hacia las filosofías satánicas.  
   
@@ -139,7 +136,7 @@ El resultado final es una generación enteramente hipnotizada, todos marchando e
 
   
 
-Réplica de _El Hombre Florentino_ de Miguel Ángel, un ídolo de el _Hombre Verde_ esculpido por el famoso artista del Renacimiento italiano (Del catálogo Toscano de Diseño, Hollyday, 1999).  
+Réplica de _El Hombre Florentino_ de Miguel Ángel, un ídolo de el _Hombre Verde_ esculpido por el famoso artista del Renacimiento italiano (Del catálogo Toscano de Diseño, Hollyday, 1999).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiagUBuVKY61rNo9Mjd8ldqwXd1W9-cc_s1zNXisZzilHXKFdQh7uYsLA2ETQAh-6NSXNGJF4YO_cZlu64CoCsD2k9ntYr4cHPWYI1Q_0WCNMmixms0CrbYC1wcxBNtfZ6L_tZHragqs4E/s1600/coodex_80.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiagUBuVKY61rNo9Mjd8ldqwXd1W9-cc_s1zNXisZzilHXKFdQh7uYsLA2ETQAh-6NSXNGJF4YO_cZlu64CoCsD2k9ntYr4cHPWYI1Q_0WCNMmixms0CrbYC1wcxBNtfZ6L_tZHragqs4E/s1600/coodex_80.jpg)
@@ -154,7 +151,7 @@ Aldaba del _Hombre Verde_, "Il Vecchio", réplica de un auténtico modelo de la 
 
   
 
-En sus _Canciones de la Inocencia_, el artista inglés y autor William Blake grabó, imprimió y coloreó a mano esta ilustración para su poema, "El Pastor". Para los cristianos, el pastor es Jesucristo. Pero para Blake, como vemos aquí, el pastor es Lucifer, con barba y todo, con la forma serpentina en su cabeza. (1802; Harry Ransom Center, University of Texas at Austin)  
+En sus _Canciones de la Inocencia_, el artista inglés y autor William Blake grabó, imprimió y coloreó a mano esta ilustración para su poema, "El Pastor". Para los cristianos, el pastor es Jesucristo. Pero para Blake, como vemos aquí, el pastor es Lucifer, con barba y todo, con la forma serpentina en su cabeza. (1802; Harry Ransom Center, University of Texas at Austin)  
   
 Pan, el dios de cuernos de las montañas, bosques, arroyos y valles, es casi universalmente adorado por las brujas, como el arte de la cubierta de este libro lo indican. La hiedra y el acebo son su vegetación favorita (es por esto los edificios cubiertos de hiedra en los campus de las universidades de Harvard o Yale, y otros centro educativos de la élite. Podemos incluir también el nombre de _Hollywood_).  
   
@@ -163,7 +160,7 @@ Pan, el dios de cuernos de las montañas, bosques, arroyos y valles, es casi uni
 
   
 
-Pan, cuyo padre es Hermes, el dios del secreto, a menudo se representa como el hombre verde, una deidad cubierta de vegetación. El cuento del alegre gigante verde fue un mito iniciado por sus admiradores. ¿Quién, realmente es Pan? Bueno, Pan es simplemente el diablo en un nuevo disfraz.  
+Pan, cuyo padre es Hermes, el dios del secreto, a menudo se representa como el hombre verde, una deidad cubierta de vegetación. El cuento del alegre gigante verde fue un mito iniciado por sus admiradores. ¿Quién, realmente es Pan? Bueno, Pan es simplemente el diablo en un nuevo disfraz.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO9NgfdIBFsf4i8XgKbij2TEvKxnhq7BCNkoIufEyJTjL8DHOeiNCmZfQwHT_v0vLZTvzoDSVv0dc8LX96rEE2RCQkj18HoKzbqt9Ubx3HQLqytLKYBKJngtsFAXrtXSAatS9GYKmc7Ps/s1600/coodex_83_small.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO9NgfdIBFsf4i8XgKbij2TEvKxnhq7BCNkoIufEyJTjL8DHOeiNCmZfQwHT_v0vLZTvzoDSVv0dc8LX96rEE2RCQkj18HoKzbqt9Ubx3HQLqytLKYBKJngtsFAXrtXSAatS9GYKmc7Ps/s1600/coodex_83_small.jpg)
@@ -184,7 +181,7 @@ El rebelde revolucionario de barba es un símbolo de Baphomet, que también tien
   
 
   
-Una placa de pared de Baphomet y una escultura vendida por una tienda oculta vía correo, junto con una placa de pared con el sello de Babalon y la Hermandad A: .A :.(La Hermandad Atlante). También se ofrece un amuleto de "cabra sabática", descrito en el libro del satanista Eliphas Levi "_Baphomet Dios de las Brujas_".  
+Una placa de pared de Baphomet y una escultura vendida por una tienda oculta vía correo, junto con una placa de pared con el sello de Babalon y la Hermandad A: .A :.(La Hermandad Atlante). También se ofrece un amuleto de "cabra sabática", descrito en el libro del satanista Eliphas Levi "_Baphomet Dios de las Brujas_".  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEick5N6smS6YP5dXHz9-1GZEnDrZDMYgdmML1QARaD-Eq0pCbBq1izF3HJim5v_VGiM1ekd2YkAR2nocIF5b6xQHBqkyWeo7TkcZmUto1YTwxmYoFwYFk6fOLIOfTr0IOUKD3naBwLnzgM/s1600/coodex_86.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEick5N6smS6YP5dXHz9-1GZEnDrZDMYgdmML1QARaD-Eq0pCbBq1izF3HJim5v_VGiM1ekd2YkAR2nocIF5b6xQHBqkyWeo7TkcZmUto1YTwxmYoFwYFk6fOLIOfTr0IOUKD3naBwLnzgM/s1600/coodex_86.jpg)
@@ -193,7 +190,7 @@ Una placa de pared de Baphomet y una escultura vendida por una tienda oculta v
 
 El presidente George Herbert Walker Bush. No sabemos lo que la estrella de cuernos largos representan en su gorra, ni el significado de la faja alrededor de su cuello. Especulativamente, tal vez tenga algo que ver con un grupo del estado de Texas o una asociación de ganaderos (Lone Star State) de Texas, etc.  
   
-Sin embargo, desde Australia llegaron dos informes de que George Bush padre una vez sorprendió a los líderes del Congreso mientras esperaban verlo en la oficina oval de la Casa Blanca. El presidente entró a la oficina usando una máscara de la cabeza de una cabra! (Peter Sawyer's Inside News, November 1991 and South East Christian Witness, January 1992, p. 5 and July /August 1989, p. 9)  
+Sin embargo, desde Australia llegaron dos informes de que George Bush padre una vez sorprendió a los líderes del Congreso mientras esperaban verlo en la oficina oval de la Casa Blanca. El presidente entró a la oficina usando una máscara de la cabeza de una cabra! (Peter Sawyer's Inside News, November 1991 and South East Christian Witness, January 1992, p. 5 and July /August 1989, p. 9)  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnlmXd6x0-hyTBA9DH_twszVlQwxIucpR_zljNkTx5Wmf5GepOn5wLJIPehH9FyIymutgMtz_EO5wGpKFEA_7INO9zcxnk9KE5_sNZRhzqQ4KFagRvwPRQ4xR0jdl_ht_EVihBDkzIe2c/s1600/coodex_87.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnlmXd6x0-hyTBA9DH_twszVlQwxIucpR_zljNkTx5Wmf5GepOn5wLJIPehH9FyIymutgMtz_EO5wGpKFEA_7INO9zcxnk9KE5_sNZRhzqQ4KFagRvwPRQ4xR0jdl_ht_EVihBDkzIe2c/s1600/coodex_87.jpg)
@@ -269,7 +266,7 @@ El diablo siempre ha sido concebido en el imaginario popular de las masas como u
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3sCY_Ac6WlD0mzrpyTbLaaV6g8Mfgf32jSMXy5Z9rTuHc6Qt9YetwEstvpaG3kqGQpIQJxCLSauIfxKhOFLwVcBWUcCqoSmKnYK3q9O4ZVFevr8-r_iQJndmLyC5V0oAmz8qPlt9kdwA/s1600/coodex_97_small.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3sCY_Ac6WlD0mzrpyTbLaaV6g8Mfgf32jSMXy5Z9rTuHc6Qt9YetwEstvpaG3kqGQpIQJxCLSauIfxKhOFLwVcBWUcCqoSmKnYK3q9O4ZVFevr8-r_iQJndmLyC5V0oAmz8qPlt9kdwA/s1600/coodex_97_small.jpg)
 
   
-Este anuncio para teléfonos Nokia parece bastante inofensivo. Pero si mira de cerca existe una imagen sutil, unos cuernos en la hebilla de cinturón del sujeto. Además, él está usando lo que parece ser una cuerda en su muñeca izquierda característica de los seguidores de la Cábala.  
+Este anuncio para teléfonos Nokia parece bastante inofensivo. Pero si mira de cerca existe una imagen sutil, unos cuernos en la hebilla de cinturón del sujeto. Además, él está usando lo que parece ser una cuerda en su muñeca izquierda característica de los seguidores de la Cábala.  
 
   
 
@@ -323,7 +320,7 @@ El arquitecto holandés Rem Koolhaas está en gran demanda. En los últimos año
   
 
   
-Un periódico conocido de brujería lleva esta ilustración de la diosa junto a su consorte y señor, el Dios de cuernos (Lucifer).  
+Un periódico conocido de brujería lleva esta ilustración de la diosa junto a su consorte y señor, el Dios de cuernos (Lucifer).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuPe43UeWEASDSyP3OcQh1v3zO8l0k7XArS268GpDUn96uaIICwG3GLwCqP_wUgwr6DytIq5povJkZL6h3fjRTzGN7dcJO1GyPTf1Z1hF2jGu3U5WxpJEIZKj0ssuDQNPFqJeTxsWd6i0/s1600/codex-pan.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuPe43UeWEASDSyP3OcQh1v3zO8l0k7XArS268GpDUn96uaIICwG3GLwCqP_wUgwr6DytIq5povJkZL6h3fjRTzGN7dcJO1GyPTf1Z1hF2jGu3U5WxpJEIZKj0ssuDQNPFqJeTxsWd6i0/s1600/codex-pan.jpg)

@@ -9,7 +9,7 @@ description: "En la época romana, el mitraísmo era quizá el principal competi
 tags: ["Apologética"]
 ---
 
-En la época romana, el **mitraísmo** era quizá el principal competidor del **cristianismo** en los corazones y las mentes de los demás. Hoy en día, el mitraísmo religiosamente no es un factor, pero todavía "compite" con el cristianismo, dicho de otra manera: es un principal candidato para la tesis de la "copia pagana" que sirvió como una supuesta fuente para el cristianismo.  
+En la época romana, el **mitraísmo** era quizá el principal competidor del **cristianismo** en los corazones y las mentes de los demás. Hoy en día, el mitraísmo religiosamente no es un factor, pero todavía "compite" con el cristianismo, dicho de otra manera: es un principal candidato para la tesis de la "copia pagana" que sirvió como una supuesta fuente para el cristianismo.  
   
 
 [![pintura de mitra asesinando a un toro](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn_9QSwyPYnAt_VuTWhaM7BQv9yFDkjyl0WK67JNcclvc8AhiJC6ttLR1qil6ga3nw8dhUg0B02OBJKQQDbpp5JPZekX7F7DyY_6oftx9s-nXzUOGp7j_AvND7407-51b3WBqFGsnKJGk/s1600/mithra.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn_9QSwyPYnAt_VuTWhaM7BQv9yFDkjyl0WK67JNcclvc8AhiJC6ttLR1qil6ga3nw8dhUg0B02OBJKQQDbpp5JPZekX7F7DyY_6oftx9s-nXzUOGp7j_AvND7407-51b3WBqFGsnKJGk/s1600/mithra.jpg)
@@ -18,21 +18,21 @@ En la época romana, el **mitraísmo** era quizá el principal competidor del 
 Varios documentos nos fueron presentados sobre cosas que Jesús supuestamente tiene en común con Mitra y, por extensión, el cristianismo presuntamente lo tomó para crear el carácter de Jesús. Los puntos son:  
   
 
-**Nota:** Si deseas recibir más contenido sobre la persona de Jesucristo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre la persona de Jesucristo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
--   Mitra nació de una virgen el 25 de diciembre en una cueva, y su nacimiento fue atendido por pastores. 
--   Fue considerado un gran maestro y profesor itinerante. 
--   Tenía 12 compañeros o discípulos. 
--   Le prometió a los seguidores de Mithra la inmortalidad. 
--   Realizó milagros. 
--   Como el "gran toro del Sol", Mithra se sacrificó por la paz mundial. 
--   Fue enterrado en una tumba y después de tres días resucitó. 
--   Su resurrección se celebraba cada año. 
--   Fue llamado "el Buen Pastor" e identificado con el Cordero y el León. 
--   Fue considerado el "Camino, la Verdad y la Luz", y el "Logos", "Redentor", "Salvador" y "Mesías". 
--   Su día sagrado era el domingo, el "Día del Señor", cientos de años antes de la aparición de Cristo. 
--   Mithra tuvo su principal fiesta de lo que más tarde sería la Pascua. 
--   Su religión tenía una Eucaristía o "Cena del Señor", en la cual Mithra dijo: "El que no come de mi cuerpo ni beba de mi sangre para que sea uno conmigo y yo con él, no será salvo". 
+-   Mitra nació de una virgen el 25 de diciembre en una cueva, y su nacimiento fue atendido por pastores. 
+-   Fue considerado un gran maestro y profesor itinerante. 
+-   Tenía 12 compañeros o discípulos. 
+-   Le prometió a los seguidores de Mithra la inmortalidad. 
+-   Realizó milagros. 
+-   Como el "gran toro del Sol", Mithra se sacrificó por la paz mundial. 
+-   Fue enterrado en una tumba y después de tres días resucitó. 
+-   Su resurrección se celebraba cada año. 
+-   Fue llamado "el Buen Pastor" e identificado con el Cordero y el León. 
+-   Fue considerado el "Camino, la Verdad y la Luz", y el "Logos", "Redentor", "Salvador" y "Mesías". 
+-   Su día sagrado era el domingo, el "Día del Señor", cientos de años antes de la aparición de Cristo. 
+-   Mithra tuvo su principal fiesta de lo que más tarde sería la Pascua. 
+-   Su religión tenía una Eucaristía o "Cena del Señor", en la cual Mithra dijo: "El que no come de mi cuerpo ni beba de mi sangre para que sea uno conmigo y yo con él, no será salvo". 
 -   Su sacrificio anual es la pascua de los Reyes Magos, una expiación simbólica o prenda de regeneración moral y física.
 -   Shmuel Golding es citado diciendo que 1 Cor. 10: 4 son "palabras idénticas a las encontradas en las escrituras mitraicas, excepto que el nombre Mithra se usa en lugar de Cristo".
 -   La Enciclopedia Católica se cita diciendo que los servicios mitraicos fueron conducidos por "padres" y que el "jefe de los padres, una especie de papa, que siempre vivió en Roma, fue llamado "Pater Patratus".
@@ -167,8 +167,7 @@ No he encontrado en ninguna parte ninguna indicación de que Mithra fuera un mae
   
 En cualquier caso, ya que no hay evidencia de esto en ninguna de las obras de Mitra, publicamos nuestro primer desafío a los teóricos de los dioses paganos-imitadores: ¿Cómo se demuestra que Mithra fue un "gran maestro itinerante"? ¿Qué enseñó, dónde, ya quién? ¿Cómo era un "maestro" y por qué es semejante a Jesús?  
 
-##   
-3\. Tenía 12 compañeros o discípulos.
+## 3\. Tenía 12 compañeros o discípulos.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiNqBWwiYC8f6pxyusSP74xh8lahR_kG2jxHaWHwuq-hkYhVumfOL0tRRGUgmzXK6x-6fFiS7YbZ7k3SQPKwqYHCFBiNDb29iY61IlI9_3XZHscYTOvMFjrSejrb_kjGTGikhCt0BPxig/s1600/jesus-versus-mitra.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiNqBWwiYC8f6pxyusSP74xh8lahR_kG2jxHaWHwuq-hkYhVumfOL0tRRGUgmzXK6x-6fFiS7YbZ7k3SQPKwqYHCFBiNDb29iY61IlI9_3XZHscYTOvMFjrSejrb_kjGTGikhCt0BPxig/s1600/jesus-versus-mitra.jpg)
 
@@ -188,8 +187,7 @@ Donde ellos (o mejor dicho, su fuente) obtienen esta información sobre los mét
   
 Para ser justos, sin embargo, Freke y Gandy no dan el número de página donde Godwin supuestamente dice esto - y su material sobre Mitraísmo no dice nada sobre ninguna ceremonia de iniciación. Sin embargo, aparte del hecho de que esta escultura es (una vez más!) Significativamente post-cristiana (de modo que cualquier copia habría tenido que ser al revés), estas cifras han sido identificadas por los modernos eruditos mitraicos como representando símbolos zodiacales. De hecho, las dos caras superiores se supone que son el sol y la luna.  
 
-##   
-4\. A los seguidores de Mithra se les prometió la inmortalidad.
+## 4\. A los seguidores de Mithra se les prometió la inmortalidad.
 
 Éste no es más que una suposición, aunque probablemente una buena: como dijo un erudito mitraico, el mitraísmo "seguramente ofreció a sus iniciados la liberación de algún destino horrible al que todos los demás hombres estaban condenados y un paso privilegiado a algún estado final de bienestar". \[MS.470\]  
   
@@ -210,8 +208,7 @@ Debe recordarse que ALGUNAS semejanzas generales DEBEN aplicarse a cualquier lí
   
 Por supuesto, nuestros teóricos de las copias paganas son bienvenidos para tratar de trazar paralelos más exactos, pero hasta ahora no he visto ningún ejemplo citado donde Mithra convirtió el agua en vino o calmó una tormenta.  
 
-##   
-6\. Como el "gran toro del Sol", Mithra se sacrificó por la paz mundial.
+## 6\. Como el "gran toro del Sol", Mithra se sacrificó por la paz mundial.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdK8x88sTYwtS2mzJwtZ4Kni20evF-5Uog-FbNxN9aw5KbouI7ConWYjH9ucagk9TPpSXMjrXAFPkoVaQTWGyqwIAIXugucs9RbWvVBt9TXcq_CI-WW3AstOIEDdO3JMBVUZ_Gj68yBME/s1600/mitra-no-murio.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdK8x88sTYwtS2mzJwtZ4Kni20evF-5Uog-FbNxN9aw5KbouI7ConWYjH9ucagk9TPpSXMjrXAFPkoVaQTWGyqwIAIXugucs9RbWvVBt9TXcq_CI-WW3AstOIEDdO3JMBVUZ_Gj68yBME/s1600/mitra-no-murio.jpg)
 
@@ -234,12 +231,11 @@ El asistente de la investigación de Tekton Punkish agrega: La nota de pie de p�
   
 Wynne-Tyson \[Wyn.MFC, 24; Cf. Ver.MSG, 38\] también se refiere a un escritor de la iglesia del siglo IV, Firmicus, que dice que los mitraistas lamentan la imagen de un Mithras muerto - ¡llegó demasiado tarde! - pero después de leer el trabajo de Firmicus, no encuentro ninguna referencia en absoluto.  
 
-##   
-9\. Fue llamado "el Buen Pastor" y se identificó con el Cordero y el León.
+## 9\. Fue llamado "el Buen Pastor" y se identificó con el Cordero y el León.
 
 Sólo el tercer aspecto tiene alguna verdad en cuanto a lo que puedo encontrar en las fuentes de los estudios mitraicos: El león era considerado en el mitraismo romano como el animal "tótem" de Mithra, al igual que el animal de Athena era el búho y el animal de Artemisa era el ciervo .PM, 32\]. Puesto que Mithra era un dios-sol, también había una asociación con Leo, que era la Casa del Sol en la astrología babilónica.  
   
-Pero aparte de esta evidencia que todo esto es post-cristiano, uno puede preguntarse... cuál es la gran cosa. ¿Esperamos que los cristianos o los mitraistas digan, "Rayos, no podemos usar el león, ya está tomado por los otros chicos" ¿Debería Exxon renunciar a su tigre debido a Frosted Flakes? Pero si realmente quieren ser técnico, Jesús poseía los derechos al símbolo del león como miembro de la tribu de Judá mucho antes de que Mithra apareciera en su encarnación iraní (Génesis 49: 9).  
+Pero aparte de esta evidencia que todo esto es post-cristiano, uno puede preguntarse... cuál es la gran cosa. ¿Esperamos que los cristianos o los mitraistas digan, "Rayos, no podemos usar el león, ya está tomado por los otros chicos" ¿Debería Exxon renunciar a su tigre debido a Frosted Flakes? Pero si realmente quieren ser técnico, Jesús poseía los derechos al símbolo del león como miembro de la tribu de Judá mucho antes de que Mithra apareciera en su encarnación iraní (Génesis 49:9).  
   
 Hay otras asociaciones también: En el material romano, uno de los compañeros de Mithra en la escena del toro es un león; El león es a veces la caza de Mithra y el compañero del banquete; Mitra se asocia a veces con un ser de cabeza de león que a veces se identifica como el malvado dios zoroastriano Ahriman \[MS.277\]; Una de las siete etapas de iniciación en mitraísmo es la etapa del león.  
   

@@ -134,9 +134,9 @@ predijeron el nacimiento de Jesucristo al observar un evento estelar).
 Incluso algunos de los cronistas más antiguos y varios sabios estaban
 desconcertados por algunas de las cosas que observaban en los cielos.
 
-[![Pintura en una cueva que se encuentra en las cuevas de Niaux en Francia. Dibujada en algún momento entre 13,000 aC y 10,000 a. C.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHEWYuAjW-iFVrWQ2Qzsr1YOmOl8W3xn5X-BnzvUFooXj8bCOeivxWMT5GGV8-lweIhvVQLsEi7iPItL0j6VVlIbrempllF_dCfvymdspOzk0l18ZPXmUpwSYT6eyEOs42qS690Hmmq3g/s1600/ufo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHEWYuAjW-iFVrWQ2Qzsr1YOmOl8W3xn5X-BnzvUFooXj8bCOeivxWMT5GGV8-lweIhvVQLsEi7iPItL0j6VVlIbrempllF_dCfvymdspOzk0l18ZPXmUpwSYT6eyEOs42qS690Hmmq3g/s1600/ufo.jpg)
+[![Pintura en una cueva que se encuentra en las cuevas de Niaux en Francia. Dibujada en algún momento entre 13,000 a. C. y 10,000 a. C.](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHEWYuAjW-iFVrWQ2Qzsr1YOmOl8W3xn5X-BnzvUFooXj8bCOeivxWMT5GGV8-lweIhvVQLsEi7iPItL0j6VVlIbrempllF_dCfvymdspOzk0l18ZPXmUpwSYT6eyEOs42qS690Hmmq3g/s1600/ufo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHEWYuAjW-iFVrWQ2Qzsr1YOmOl8W3xn5X-BnzvUFooXj8bCOeivxWMT5GGV8-lweIhvVQLsEi7iPItL0j6VVlIbrempllF_dCfvymdspOzk0l18ZPXmUpwSYT6eyEOs42qS690Hmmq3g/s1600/ufo.jpg)
 
-Lo que se ve exactamente cómo la silueta de una nave espacial en las películas de ciencia ficción es en realidad un dibujo que se encuentra en las cuevas de Niaux en Francia. Esta pintura rupestre paleolítica fue dibujada en algún momento entre 13,000 a.C. y 10,000 a.C.
+Lo que se ve exactamente cómo la silueta de una nave espacial en las películas de ciencia ficción es en realidad un dibujo que se encuentra en las cuevas de Niaux en Francia. Esta pintura rupestre paleolítica fue dibujada en algún momento entre 13,000 a. C. y 10,000 a. C.
 
 > *“Tenemos un relato de una chispa que cae de una estrella, y aumenta
 > a medida que se acerca a la tierra, hasta que se vuelve del tamaño
@@ -145,7 +145,7 @@ Lo que se ve exactamente cómo la silueta de una nave espacial en las películas
 > de Cn. Octavius y C. Scribonius. Fue visto por Silano, el procónsul
 > y sus asistentes.”*
 >
-> — Plinio el Joven, 66 a.C. Del libro *Fireballs: A History of Meteors and Other Atmospheric Phenomena*
+> — Plinio el Joven, 66 a. C. Del libro *Fireballs: A History of Meteors and Other Atmospheric Phenomena*
 
 *La Historia de Inglaterra del Venerable Bede* (673-735) los
 menciona; y curiosamente, Cristobal Colón informó haberlos visto en lo
@@ -282,7 +282,7 @@ involucrado la Fuerza Aérea.
 
 Además de darles a los niños varios mensajes que reforzaban la doctrina
 católica, la "dama" predijo una "señal" espectacular en los cielos
-(Lucas 21: 11). El día en que ocurrió esto fue originalmente lluvioso,
+(Lucas 21:11). El día en que ocurrió esto fue originalmente lluvioso,
 con una nubosidad pesada. El signo "celestial" consistió en que el sol
 (o algo que emergió de detrás de las nubes y se parecía al sol) se movía
 erráticamente alrededor del cielo ante la vista de miles. Este brillante
@@ -501,7 +501,7 @@ volver a Roswell con más detalle, pero por ahora debemos seguir
 adelante.
 
 Solo seis meses después, ocurrió el siguiente hito. El 7 de enero de
-1948 a la 1: 15 p.m., se avistó un enorme OVNI cerca de Ft. Knox,
+1948 a la 1:15 p.m., se avistó un enorme OVNI cerca de Ft. Knox,
 Kentucky en la base de la fuerza aérea de Godman. Un escuadrón Mustang
 F-51 voló para interceptar. El capitán Thomas Mantell, líder de los
 aviones, siguió al OVNI hacia las nubes a una velocidad increíble de
@@ -687,7 +687,7 @@ de las tendencias populares. Pero en el fondo, nunca debemos olvidar a
 quién realmente pertenece la industria del entretenimiento. No a Ted
 Turner, ni a Sony, ni a M.G.M., sino un poder invisible más allá de las
 escenas que tiende a dejar huellas de pezuñas donde quiera que vaya.
-Turner, Spielberg, los "dioses" modernos (Salmos 82: 6-7) de la industria
+Turner, Spielberg, los "dioses" modernos (Salmos 82:6-7) de la industria
 del entretenimiento saben de dónde obtienen su dinero y su poder, por lo
 que no les importa que solo sean títeres manipulados por el "príncipe" del
 poder del aire (¿Ondas?) - Efesios. 2: 2.
@@ -737,7 +737,7 @@ poder del aire (¿Ondas?) - Efesios. 2: 2.
 
 Después de haber sentado las bases históricas lo más rápidamente posible
 (ya que se trata de un tema complejo), ahora debemos empezar a utilizar
-el bisturí de la Palabra de Dios (Hebreos 4: 12) para retirar las capas
+el bisturí de la Palabra de Dios (Hebreos 4:12) para retirar las capas
 de "cirugía estética" que se han hecho sobre este tema y separar la
 verdad del error.
 
@@ -797,7 +797,7 @@ nuevo en el cuerpo de Cristo. No había gente así en Génesis 6, porque
 nadie podría haber nacido de nuevo hasta el calvario. (Juan 7:39)
 
 Por otra parte, el término "hijos de Dios" se utiliza varias veces en el
-Antiguo Testamento para referirse a los ángeles. (Vea Job 1:6, Job 2: 1;
+Antiguo Testamento para referirse a los ángeles. (Vea Job 1:6, Job 2:1;
 y Job 38:7). Por lo tanto, nos quedamos con la idea un tanto inquietante
 de que Satanás de alguna manera convenció a los ángeles para que dejaran
 su "primer estado" y tuvieran relaciones sexuales con mujeres humanas.
@@ -824,7 +824,7 @@ idéntica. El pecado de los ángeles, que no se menciona explícitamente,
 se compara con el pecado de Sodoma, un pecado de perversión sexual.
 
 Esto tiene sentido, porque si Dios considera a los hombres que tienen
-sexo con bestias como perversión. (Éxodo 22: 19, Deuteronomio 27:21) Él
+sexo con bestias como perversión. (Éxodo 22:19, Deuteronomio 27:21) Él
 estaría igualmente enojado por los ángeles (un orden superior del ser)
 fornicando con las mujeres.
 
@@ -1077,7 +1077,7 @@ Dios va a juzgar a estos "dioses del espacio exterior" con mucha dureza:
 > Altísimo. Pero ustedes morirán como hombres, y caerán como uno de los
 > príncipes*”
 >
-> — Salmos 82:6-7
+> — Salmo 82:6-7
 
 > *“Acontecerá en aquel día, que Jehová castigará al ejército de los
 > cielos en lo alto, y a los reyes de la tierra sobre la tierra.*”
@@ -1114,7 +1114,7 @@ extraterrestres en realidad hayan sido violadas por los celestiales.
    estoy de acuerdo, pero no tengo ningún problema con todos los que desean
    ser fieles a las Escrituras tal como las entienden; Mientras no degenere
    en legalismo.
-2. Consulte "Deuteronomio 32: 8 y los Hijos de Dios" disponible para descarga
+2. Consulte "Deuteronomio 32:8 y los Hijos de Dios" disponible para descarga
    gratuita en su sitio web, http://www.facadenovel.com/ También tiene una
    novela excelente, La fachada, que es una expresión ficticia de muchos de
    sus excelentes Ideas sobre el encubrimiento actual de los ovnis y su
@@ -1330,13 +1330,13 @@ premisa que esperamos que todos los lectores acepten. Pero el segundo también
 está claro en la Palabra. En el Antiguo Testamento, los fieles iban al "seno
 de Abraham" y los malvados iban al infierno (Lucas 16). ¿Dónde está el
 infierno? Recordemos la profecía concerniente a la muerte de Jesús citada en
-Hechos 2:27 y 31:
+Actos 2:27 y 31:
 
 > "Porque no dejarás mi alma en el Hades, ni permitirás que tu Santo vea
-> corrupción." - Hechos 2:27
+> corrupción." - Actos 2:27
 
 > "Viendo esto antes, habló de la resurrección de Cristo, que su alma no
-> fue dejada en el Hades, ni su carne vio corrupción." - Hechos 2:31
+> fue dejada en el Hades, ni su carne vio corrupción." - Actos 2:31
 
 ¿Adónde fue Jesús cuando murió? Simplemente, su alma se fue al infierno
 (Hades). ¿Y dónde dice Jesús que está el infierno? Él debería saberlo.
@@ -1345,7 +1345,7 @@ Hechos 2:27 y 31:
 > noches, así estará el Hijo del Hombre en el corazón de la tierra tres
 > días y tres noches.”*
 >
-> — Salmos 82:6-7
+> — Salmo 82:6-7
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLKpMm1rJhdGzCYRpmOmHvKFrFHeMGzDYspsiTBcvgQYObDJPOB7PxDWblm2YnTHad7JamRmFqb8bi4nH-HFsY35_5nGl-P-V6OqVsqpQ8ewqJ-9pAZ5Ob7zOHqzXaHvSBWI-Btw9_Zs/s1600/jesus-infierno.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLKpMm1rJhdGzCYRpmOmHvKFrFHeMGzDYspsiTBcvgQYObDJPOB7PxDWblm2YnTHad7JamRmFqb8bi4nH-HFsY35_5nGl-P-V6OqVsqpQ8ewqJ-9pAZ5Ob7zOHqzXaHvSBWI-Btw9_Zs/s1600/jesus-infierno.jpg)
 
@@ -1519,7 +1519,7 @@ Espíritu Santo para obtener más información.
    artículo en la revista OMNI, Septiembre de 1983, pág. 80
 3. Richard Sauder, PhD., *Bases Subterráneas y Túneles: ¿Qué está tratando
    de ocultar el gobierno?*
-4. PD.  46: 10, Job 38: 33, Salmos 16: 3 - Habla de los santos en la
+4. PD.  46: 10, Job 38:33, Salmos 16:3 - Habla de los santos en la
    tierra, por lo tanto, obviamente no se trata del infierno.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGrQpLYY5HyKiyjvO4mTzj4QbUUvaLCI_bqFwWM33DUd1ebMdUR9Pq5M6uVQpIx3RSDJkvSHLonLH0pzWqL9FOfFqt-e7ngxjpxhGpafasiwBTunUMFyQQ56WAreC4WjNX2Ag0Cewkkw/s1600/circle5.png)
@@ -1592,8 +1592,7 @@ Sus libros fueron escritos en la primera mitad de este siglo, cuando
 la literatura (incluso el horror) eran mucho más gentiles. Así que
 mientras se leían discretas historias victorianas. Él escribió sobre
 "cultos indescriptibles e innombrables", y manifestaciones de algún
-tipo de seres que eran más que extraterrestres: eran dioses (Salmo 82:
-6, Salmo 97: 7), los "dioses mayores". Cuarenta años antes de Von
+tipo de seres que eran más que extraterrestres: eran dioses (Salmo 82:6, Salmo 97:7), los "dioses mayores". Cuarenta años antes de Von
 Daniken, ¡Estos eran "dioses del espacio exterior!"
 
 Sus libros e historias cortas, como *La llamada de Cthulhu*,
@@ -2635,7 +2634,7 @@ extraterrestres son realmente de otros mundos; si lo son, no podemos decir
 de qué "lado" están, aparte de sus acciones. La mayoría de sus "frutos"
 indicaría que están trabajando para el diablo, vengan de donde vengan,
 porque:
-   - Predican un evangelio falso (Gálatas 1: 8).
+   - Predican un evangelio falso (Gálatas 1:8).
    - Trabajan enteramente en secreto, en contra de las políticas establecidas por el
 Señor y la iglesia primitiva (Juan 18:20)
    - Parecen estar haciendo cosas horribles a las personas en violación de sus derechos y dignidad
@@ -2644,14 +2643,13 @@ de la madre, secuestro, mutilación e incluso asesinato y canibalismo.
 - La Biblia nos advierte que ciertas cosas que ocurrieron en los "días de
 Noé" volverían a suceder en el momento justo antes del regreso de Jesús
 (Mateo 24:37); el jefe de estos parecería ser la impiedad y la fornicación
-entre ángeles caídos y mujeres (Génesis 6: 1-5).
+entre ángeles caídos y mujeres (Génesis 6:1-5).
 - La Biblia también nos advierte sobre la iniquidad espiritual creciente e
 increíble, tanto entre los líderes como entre la gente común a medida que
-se acerca el día del Señor (Lucas 18: 8, 2 Tesalonicenses 2: 3,
+se acerca el día del Señor (Lucas 18:8, 2 Tesalonicenses 2:3,
 Apocalipsis 16:11).
 - Un pecado universal y muy grave en todas las dispensaciones es beber
-sangre literalmente (Génesis 9: 4, Levítico 3:17, 7:26, 17:14, Hechos
-15:29).
+sangre literalmente (Génesis 9:4, Levítico 3:17, 7:26, 17:14, Actos 15:29).
 - La Biblia identifica claramente al infierno como algo profundo en el
 "corazón de la tierra". (Mateo 12:40)
 
@@ -3158,7 +3156,7 @@ Apocalipsis, capítulo 9, habla de los demonios que son liberados del infierno, 
 
 La forma anfibia de los llamados "grises" puede darnos una pista de tres espíritus inmundos.
 
-En Apocalipsis 16: 13-15, vemos tres espíritus de demonios que salen de la boca del Anticristo; realizan tan grandes señales y maravillas que engañan a los gobernantes de la tierra. Esta es precisamente la parte del Plan que deben realizar los alienígenas. Engañarán especialmente a los presidentes, primeros ministros, reyes y reinas de los gobiernos de todo el mundo.
+En Apocalipsis 16:13-15, vemos tres espíritus de demonios que salen de la boca del Anticristo; realizan tan grandes señales y maravillas que engañan a los gobernantes de la tierra. Esta es precisamente la parte del Plan que deben realizar los alienígenas. Engañarán especialmente a los presidentes, primeros ministros, reyes y reinas de los gobiernos de todo el mundo.
 
 > **"Vi salir de la boca del dragón, de la boca de la bestia y de la boca del falso profeta, tres espíritus inmundos semejantes a ranas. Son espíritus de demonios, que hacen señales y van a los reyes de la tierra en todo el mundo para reunirlos para la batalla de aquel gran día del Dios Todopoderoso."**
 >

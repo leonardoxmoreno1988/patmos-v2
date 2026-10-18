@@ -9,7 +9,7 @@ description: "Los secuestros de OVNIS no son un fenómeno raro y se estima que s
 tags: ["Falsas Doctrinas"]
 ---
 
-Los secuestros de **OVNIS** no son un fenómeno raro y se estima que se han producido a tres millones de estadounidenses. Cada año más y más personas afirman haber tenido contacto que los deja ansiosos, desorientados y confundidos. Durante décadas, la comunidad científica ha tratado casos de **abducción** como evidencia de psicosis, pero esta visión ahora está empezando a cambiar.  
+Los secuestros de **OVNIS** no son un fenómeno raro y se estima que se han producido a tres millones de estadounidenses. Cada año más y más personas afirman haber tenido contacto que los deja ansiosos, desorientados y confundidos. Durante décadas, la comunidad científica ha tratado casos de **abducción** como evidencia de psicosis, pero esta visión ahora está empezando a cambiar.  
   
 
 [![hombre siendo abducido por tres extraterrestres](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgivnDaY_AqfJu9GButbRjkw73TGbOS5KGooaXb0fm3tdJ7GDFNZXejOI4b102eZ6kvoROTAjZ6lDxuaK0WubhGrLbsPICT9EX-sWZ0btBCoEu_QapADZoUK-95T69E6TySw1PpZYuNWzE/s1600/ovni-abduccion.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgivnDaY_AqfJu9GButbRjkw73TGbOS5KGooaXb0fm3tdJ7GDFNZXejOI4b102eZ6kvoROTAjZ6lDxuaK0WubhGrLbsPICT9EX-sWZ0btBCoEu_QapADZoUK-95T69E6TySw1PpZYuNWzE/s1600/ovni-abduccion.jpg)
@@ -23,7 +23,7 @@ Los secuestros de **OVNIS** no son un fenómeno raro y se estima que se han pr
 La historia moderna del fenómeno de la abducción comenzó en 1961 con el caso de Betty y Barney Hill. La pareja afirmó que una noche, mientras conducía a su casa en New Hampshire de un viaje a Montreal, vieron un OVNI y perdieron un par de horas que no pudieron explicar.  
   
 
-**Nota:** Si deseas recibir más contenido sobre el engaño OVNI, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre el engaño OVNI, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -203,8 +203,7 @@ Hay tres puntos de vista definidos sobre quiénes son los Grises y cómo se orig
 2.  El investigador OVNI, el Dr. Greg Little hizo un estudio del Libro de Enoc y notó que había referencias a los ángeles a las puertas del Cielo y el Infierno. Little también notó que los guardianes de Sheol (infierno) fueron descritos como ángeles, "grises de color, pequeños como niños, con una forma que es algo similar a la forma humana". Little observó que esta descripción no estaba presente en la edición eslava del Libro de Enoc (el más utilizado), pero estaba presente en la versión hebrea. Siendo este el caso, proporciona una poderosa indicación de que los Grises son en realidad seres espirituales.
 3.  Hay otra teoría que es algo inquietante, pero fascinante al mismo tiempo. En la serie Stargate SG-1, los Asgard eran una raza de grises que creaban cuerpos para que su conciencia los habitara, para que pudieran alcanzar la inmortalidad. El exterior no era más que un cuerpo sintético altamente avanzado. Esta teoría es bien conocida entre los ufólogos, pero no necesariamente aceptada por todos. Algunos secuestrados afirman que los grises que vieron no parecían ser "reales", lo que podría explicar la falta de genitales. ¿Es posible que los Grises sean algún tipo de cuerpo creado para albergar espíritus demoníacos? Al mirar a los demonios en el Nuevo Testamento y aún hoy (que posiblemente podrían ser los espíritus de los Nephilim que murieron en los tiempos del Antiguo Testamento) siempre existe la situación en la que buscan encarnación.
 
-##   
-¿Transformación De Los Caídos?
+## ¿Transformación De Los Caídos?
 
 Aquellos con un entendimiento bíblico en esta área, sabrían que las razas de los ángeles caídos se convirtieron en lo que son hoy en día como resultado de apartarse de Dios y volverse malvados. Recuerde, los ángeles son llamados "estrellas" debido a su gloria original iluminada.
 
@@ -220,7 +219,7 @@ Antes de que cayeran de su gloria y belleza originales, su apariencia podría pa
 
   
 
-Imagina esta imagen con hermosos ojos, cabello lleno y vestida de luz gloriosa y feliz. Incluso el Señor está vestido de luz, "que se cubre de luz como de vestidura" (Salmo 104: 2). Luego, cuando estos seres angelicales cayeron de la gloria, se oscurecieron. Esto probablemente no sucedió de inmediato. La Biblia dice: "El pecado, cuando termina, da a luz la muerte, no cuando se comete por primera vez (Santiago 1:15).
+Imagina esta imagen con hermosos ojos, cabello lleno y vestida de luz gloriosa y feliz. Incluso el Señor está vestido de luz, "que se cubre de luz como de vestidura" (Salmo 104:2). Luego, cuando estos seres angelicales cayeron de la gloria, se oscurecieron. Esto probablemente no sucedió de inmediato. La Biblia dice: "El pecado, cuando termina, da a luz la muerte, no cuando se comete por primera vez (Santiago 1:15).
 
   
 
@@ -246,7 +245,7 @@ Se desnudarían, como lo fueron Adán y Eva cuando pecaron, sin ropa ni luz glor
 
   
 
-"Dejad que se oscurezcan sus ojos". Salmos 69:23. Su apariencia podría muy fácilmente eventualmente deteriorarse y parecerse a los seres que se muestran abajo con piel oscura, vestidos con ropa artificial y sin verdadera belleza.
+"Dejad que se oscurezcan sus ojos". Salmo 69:23. Su apariencia podría muy fácilmente eventualmente deteriorarse y parecerse a los seres que se muestran abajo con piel oscura, vestidos con ropa artificial y sin verdadera belleza.
 
   
 
@@ -258,7 +257,7 @@ Es interesante que en el libro de Génesis, cuando Dios separó la luz de la osc
 
   
 
-La palabra para la noche en hebreo es "layla" (Concordancia Strong # 3915), lo que significa, un giro (lejos de la luz), o figurativamente adversidad. En 1 Tesalonicenses 5: 5 dice, "Ustedes son todos hijos de la luz e hijos del día. No somos de la noche ni de la oscuridad".
+La palabra para la noche en hebreo es "layla" (Concordancia Strong # 3915), lo que significa, un giro (lejos de la luz), o figurativamente adversidad. En 1 Tesalonicenses 5:5 dice, "Ustedes son todos hijos de la luz e hijos del día. No somos de la noche ni de la oscuridad".
 
   
 
@@ -310,25 +309,25 @@ En general, ya sea que deseemos creer si estos seres son experiencias reales con
 Robbie Graham fue un candidato a doctorado a tiempo completo en la Universidad de Bristol para un doctorado que examina las representaciones históricas de Hollywood de los ovnis y las visitas extraterrestres. Ha transmitido en BBC Radio, Coast to Coast AM y Canal + TV y ha escrito para una variedad de publicaciones que incluyen The Guardian, New Statesman, Filmfax, Fortean Times, Adbusters y la revista arbitrada 49th Parallel. En 2011 produjo un artículo que es uno de los mejores para abordar la influencia de Hollywood en la configuración de la percepción de la cultura popular sobre el fenómenos de los ovnis. Un extracto del artículo es el siguiente:
 
 >   
-> **"Podemos definir una "película OVNI" como cualquier película que toque directamente cualquier aspecto de la mitología OVNI o que se inspire especialmente en la literatura ufológica, incorporando en su trama referencias a fenómenos ufológico frecuentemente debatidos, eventos y lugares, así como terminología ufológica especializada . Con esta definición en mente, es seguro decir que la primera década del nuevo milenio fue testigo del lanzamiento de una vertiginosa serie de películas de ovnis de Hollywood.** 
+> **"Podemos definir una "película OVNI" como cualquier película que toque directamente cualquier aspecto de la mitología OVNI o que se inspire especialmente en la literatura ufológica, incorporando en su trama referencias a fenómenos ufológico frecuentemente debatidos, eventos y lugares, así como terminología ufológica especializada . Con esta definición en mente, es seguro decir que la primera década del nuevo milenio fue testigo del lanzamiento de una vertiginosa serie de películas de ovnis de Hollywood.** 
 
-> **Por supuesto, los platillos voladores siempre se vendieron bien en la taquilla, desde el Día en que la Tierra se detuvo (1951) hasta el Día de la Independencia (1996) y más allá, pero la década pasada vio una explosión en la popularidad del subgénero OVNI en Hollywood como Señales (2002), Hombres de Negro 2 (2002), Dreamcatcher (2003), The Forgotten (2004), La Guerra de los Mundos (2005), Chicken Little (2005), Altered (2006), Slither (2006) , Transformers (2007), El Día Que la Tierra se Detuvo remake (2008), Indiana Jones y el Reino de la Calavera de Cristal (2008), The Objective (2008) Carrera a la Montaña Embrujada (2009), Monsters vs. Aliens (2009) , Aliens en el Ático (2009), El Presagio (2009), El Cuarto Tipo (2009), Planeta 51 (2009) y Skyline (2010), por nombrar algunos. Con grandes series de televisión como V (2009-) recientemente relanzada y Taken (2002) de Spielberg agregadas a la mezcla, el público tenía pocas posibilidades contra lo que equivalía a una invasión extraterrestre a gran escala de nuestra cultura popular.** 
+> **Por supuesto, los platillos voladores siempre se vendieron bien en la taquilla, desde el Día en que la Tierra se detuvo (1951) hasta el Día de la Independencia (1996) y más allá, pero la década pasada vio una explosión en la popularidad del subgénero OVNI en Hollywood como Señales (2002), Hombres de Negro 2 (2002), Dreamcatcher (2003), The Forgotten (2004), La Guerra de los Mundos (2005), Chicken Little (2005), Altered (2006), Slither (2006) , Transformers (2007), El Día Que la Tierra se Detuvo remake (2008), Indiana Jones y el Reino de la Calavera de Cristal (2008), The Objective (2008) Carrera a la Montaña Embrujada (2009), Monsters vs. Aliens (2009) , Aliens en el Ático (2009), El Presagio (2009), El Cuarto Tipo (2009), Planeta 51 (2009) y Skyline (2010), por nombrar algunos. Con grandes series de televisión como V (2009-) recientemente relanzada y Taken (2002) de Spielberg agregadas a la mezcla, el público tenía pocas posibilidades contra lo que equivalía a una invasión extraterrestre a gran escala de nuestra cultura popular.** 
 
 > ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUQ2njjDMxp-ysxRVY4MZBAPDMGRPQgw6SPNNQdn6fI8yVbywDIs4vjuA_OBBKVjLmVW-XpCPN4XcYmMPugHKeUehNHFxtFeEHjAUDWpTFcc3nW2kzHE6f5sXmIGO57LL2yZIOTOTTz1Y/s5000/%255BUNSET%255D)
 
-> **Pero la invasión no terminó cuando la década lo hizo, ya que 2011 también comenzó con un boom extraterrestre en la taquilla. Con la comedia británica Paul y la producción de Spielberg: Soy el Número Cuatro, comenzando el año, y con Batalla: Los Angeles y Marte Necesita Mamás, estrenadas en cines estadounidenses esta semana, el 2011 verá el lanzamiento de numerosas películas de OVNIs, incluyendo el post- apocalíptico La Hora Más Oscura, el generador de conspiraciones lunares de la NASA Apollo 18, un remake de La Cosa, el área de terror de bajo presupuesto 51, y, con Spielberg actuando como productor: Transformers: El Lado Oscuro de la Luna, Cowboys and Aliens, Super 8, y el épica serie de invasión alienígena Falling Skies. Mirando más lejos, 2012 traerá Hombres de Negro 3 (Spielberg otra vez), el accionador 'Navy vs. aliens', Battleship (2012), y el thriller de dark-ops de la NASA Dark Moon (¿notando el desarrollo de un siniestro tema lunar?), Mientras 2013 promete el thriller conspiratorio paranoico alienígena, Umbra (2013).** 
+> **Pero la invasión no terminó cuando la década lo hizo, ya que 2011 también comenzó con un boom extraterrestre en la taquilla. Con la comedia británica Paul y la producción de Spielberg: Soy el Número Cuatro, comenzando el año, y con Batalla: Los Angeles y Marte Necesita Mamás, estrenadas en cines estadounidenses esta semana, el 2011 verá el lanzamiento de numerosas películas de OVNIs, incluyendo el post- apocalíptico La Hora Más Oscura, el generador de conspiraciones lunares de la NASA Apollo 18, un remake de La Cosa, el área de terror de bajo presupuesto 51, y, con Spielberg actuando como productor: Transformers: El Lado Oscuro de la Luna, Cowboys and Aliens, Super 8, y el épica serie de invasión alienígena Falling Skies. Mirando más lejos, 2012 traerá Hombres de Negro 3 (Spielberg otra vez), el accionador 'Navy vs. aliens', Battleship (2012), y el thriller de dark-ops de la NASA Dark Moon (¿notando el desarrollo de un siniestro tema lunar?), Mientras 2013 promete el thriller conspiratorio paranoico alienígena, Umbra (2013).** 
 
-> **El debate se ha prolongado durante años entre los investigadores de OVNIs en cuanto a qué impacto -en su caso- ha tenido Hollywood en las percepciones populares de los ovnis. ¿Las películas OVNI sirven para ficcionalizar el fenómeno para el público o para actualizarlo? Hay un argumento que se debe hacer para que el entretenimiento de Hollywood pueda servir ambas funciones simultáneamente. El filósofo Jean Baudrillard sugirió que "la simulación amenaza la diferencia entre lo verdadero y lo falso, entre lo real y lo imaginario".** 
+> **El debate se ha prolongado durante años entre los investigadores de OVNIs en cuanto a qué impacto -en su caso- ha tenido Hollywood en las percepciones populares de los ovnis. ¿Las películas OVNI sirven para ficcionalizar el fenómeno para el público o para actualizarlo? Hay un argumento que se debe hacer para que el entretenimiento de Hollywood pueda servir ambas funciones simultáneamente. El filósofo Jean Baudrillard sugirió que "la simulación amenaza la diferencia entre lo verdadero y lo falso, entre lo real y lo imaginario".** 
 
 > **En el caso de una película OVNI de Hollywood, esto es cierto ahora más que nunca, ya que las simulaciones cinemáticas de la historia ufológica han consumido todo el proceso de replicación de la historia misma, así como los humanos fueron consumidos y replicados como "personas repositorio" en clásicos del género tales como La invasión de los ultracuerpos (1956) o La Cosa (1982) de John Carpenter. La difuminación de lo verdadero y lo falso, real e imaginario dentro del contexto de los géneros más fantásticos - ciencia ficción - engendra la aceptación popular de los OVNIs como algo así: una construcción cinematográfica ficticia con poca o ninguna base en la realidad histórica vivida.**
 
-> **Pero si bien el cine puede ficcionalizar el fenómeno OVNI en la mente del espectador, también, paradójicamente, puede actualizarlo. El filósofo Walter Benjamin reconoció el cine por su "facultad única para expresar por medios naturales y con una persuasión incomparable todo lo que es de cuento de hadas, maravilloso, sobrenatural \[y, podríamos agregar, extranjero\]", y el artista Valie Export habla de películas como "expansiones". de nuestras estructuras de tiempo y espacio, de nuestras estructuras experienciales... son expansiones de nuestra realidad y nuestra conciencia independiente ".** 
+> **Pero si bien el cine puede ficcionalizar el fenómeno OVNI en la mente del espectador, también, paradójicamente, puede actualizarlo. El filósofo Walter Benjamin reconoció el cine por su "facultad única para expresar por medios naturales y con una persuasión incomparable todo lo que es de cuento de hadas, maravilloso, sobrenatural \[y, podríamos agregar, extranjero\]", y el artista Valie Export habla de películas como "expansiones". de nuestras estructuras de tiempo y espacio, de nuestras estructuras experienciales... son expansiones de nuestra realidad y nuestra conciencia independiente ".** 
 
-> **A través del cine, Export sugiere que "el pasado se hace visible, el espacio y el tiempo pueden transportarse... se trascienden los límites entre la realidad artificial y natural, entre la realidad y lo posible... entre el hombre y el objeto". El poder actualizador de la imagen no debe subestimarse, ya que, como observó el pensador radical Guy Debord, "donde el mundo real se transforma en imágenes simples \[como lo hace en la cultura visual actual\], las imágenes simples se convierten en seres reales y motivaciones efectivas del comportamiento hipnótico \[o, de hecho, la creencia\]".** 
+> **A través del cine, Export sugiere que "el pasado se hace visible, el espacio y el tiempo pueden transportarse... se trascienden los límites entre la realidad artificial y natural, entre la realidad y lo posible... entre el hombre y el objeto". El poder actualizador de la imagen no debe subestimarse, ya que, como observó el pensador radical Guy Debord, "donde el mundo real se transforma en imágenes simples \[como lo hace en la cultura visual actual\], las imágenes simples se convierten en seres reales y motivaciones efectivas del comportamiento hipnótico \[o, de hecho, la creencia\]".** 
 
-> **Aunque prevalece la suposición de que el público cinematográfico reconoce con claridad cristalina la diferencia entre realidad y fantasía, ficción y realidad, espectáculo y realidad, Debord sugirió que nuestra "realidad vivida está materialmente invadida por la contemplación del espectáculo \[el espectáculo en este caso es el cine ; específicamente, la imagen colectiva de lo extraterrestre\]"; a su vez, "la realidad se levanta dentro del espectáculo y el espectáculo es real". Del mismo modo, el historiador de arte John Moffitt observa que en la cultura visual actual, "la imagen importa más que el objeto, de hecho, mucho más que la mera verdad objetiva": La imagen reemplaza la verdad; es la verdad, es la realidad.** 
+> **Aunque prevalece la suposición de que el público cinematográfico reconoce con claridad cristalina la diferencia entre realidad y fantasía, ficción y realidad, espectáculo y realidad, Debord sugirió que nuestra "realidad vivida está materialmente invadida por la contemplación del espectáculo \[el espectáculo en este caso es el cine ; específicamente, la imagen colectiva de lo extraterrestre\]"; a su vez, "la realidad se levanta dentro del espectáculo y el espectáculo es real". Del mismo modo, el historiador de arte John Moffitt observa que en la cultura visual actual, "la imagen importa más que el objeto, de hecho, mucho más que la mera verdad objetiva": La imagen reemplaza la verdad; es la verdad, es la realidad.** 
 
-> **Ya sea que el cine sirva para ficcionalizar el fenómeno OVNI, actualizarlo, o ambas cosas, una cosa está clara: lo que era cierto en el siglo XX es cierto en el siglo XXI: Hollywood no informa tanto a la ufología como la ufología informa a Hollywood. Las ideas verdaderamente originales, o al menos las ideas originales sobre las ideas existentes, en el subgénero OVNI, o en cualquier género, son raras en el cine estadounidense. Inevitablemente, en el nuevo milenio, como siempre, Hollywood sigue confiando en la literatura ufológica para inspirarse, y nunca antes la dependencia parásita de la industria en la ufología ha sido más evidente, ni la borrosidad del hecho y la fantasía de los ovnis más sofisticados. Para demostrar estos puntos, echemos un vistazo a las películas de OVNIS seleccionadas de los últimos años.** 
+> **Ya sea que el cine sirva para ficcionalizar el fenómeno OVNI, actualizarlo, o ambas cosas, una cosa está clara: lo que era cierto en el siglo XX es cierto en el siglo XXI: Hollywood no informa tanto a la ufología como la ufología informa a Hollywood. Las ideas verdaderamente originales, o al menos las ideas originales sobre las ideas existentes, en el subgénero OVNI, o en cualquier género, son raras en el cine estadounidense. Inevitablemente, en el nuevo milenio, como siempre, Hollywood sigue confiando en la literatura ufológica para inspirarse, y nunca antes la dependencia parásita de la industria en la ufología ha sido más evidente, ni la borrosidad del hecho y la fantasía de los ovnis más sofisticados. Para demostrar estos puntos, echemos un vistazo a las películas de OVNIS seleccionadas de los últimos años.** 
 
 > **Al mismo tiempo, a la luz de la notable capacidad del cine para trascender los límites "entre la realidad real y posible", esta misma dependencia también puede haber contribuido a la actualización de los ovnis y extraterrestres. Hollywood nos ha saturado con imágenes extraterrestres y nos ha familiarizado con conceptos y terminología ufológica en la medida en que los ovnis y alienígenas son ahora elementos permanentes en nuestro paisaje cultural, ocupando el ámbito de nuestra realidad cinematográfica expandida, de nuestra hiperrealidad, un reino donde "La realidad y la simulación se experimentan sin diferencia".**
 
@@ -388,7 +387,7 @@ Estos alienígenas usaron la técnica de "Policía Bueno, Policía Malo". Están
 
   
 
-Ellos hablarán algo de verdad; esto es hacer que una persona acepte todo lo que dicen. Si el diablo hablara solo falsedad, nunca sería capaz de engañar a nadie. Jesús respondió una de las escrituras que Satanás le citó en el desierto diciendo: "Escrito está..." (Mateo 4: 7)
+Ellos hablarán algo de verdad; esto es hacer que una persona acepte todo lo que dicen. Si el diablo hablara solo falsedad, nunca sería capaz de engañar a nadie. Jesús respondió una de las escrituras que Satanás le citó en el desierto diciendo: "Escrito está..." (Mateo 4:7)
 
   
 
@@ -402,7 +401,7 @@ Creemos que le resultará muy interesante cómo los extraterrestres, como "foras
 
   
 
-El engaño aquí es que todas las religiones llevan a Dios. Muchos creen que es verdad. Sin embargo, Jesús, que es llamado "La Palabra de Dios", dijo: "Yo soy el camino, la verdad y la vida". Nadie viene al Padre sino por mí "(Juan 14: 6).
+El engaño aquí es que todas las religiones llevan a Dios. Muchos creen que es verdad. Sin embargo, Jesús, que es llamado "La Palabra de Dios", dijo: "Yo soy el camino, la verdad y la vida". Nadie viene al Padre sino por mí "(Juan 14:6).
 
   
 
@@ -442,7 +441,7 @@ Satanás primero comenzó a señalar la bondad de Dios en cuanto dijo que podía
 
   
 
-Ahora, así es como la serpiente engañó a Eva (2 Corintios 11: 3). Primero tuvo que evitar que pensara en el peligro de comer de ese árbol en particular. Él dijo,
+Ahora, así es como la serpiente engañó a Eva (2 Corintios 11:3). Primero tuvo que evitar que pensara en el peligro de comer de ese árbol en particular. Él dijo,
 
   
 
@@ -470,7 +469,7 @@ Hmmm, la Biblia dice que el Espíritu Santo es nuestro ayudante, no extraterrest
 
   
 
-Recuerde, la escritura llama a Satanás el dios de este mundo (2 Corintios 4: 4). Entonces, cuando los alienígenas usan la palabra "Dios", no están hablando del Dios Santo del cielo, están hablando de "su dios", que es el Diablo.
+Recuerde, la escritura llama a Satanás el dios de este mundo (2 Corintios 4:4). Entonces, cuando los alienígenas usan la palabra "Dios", no están hablando del Dios Santo del cielo, están hablando de "su dios", que es el Diablo.
 
   
 
@@ -480,7 +479,7 @@ Recuerde, la escritura llama a Satanás el dios de este mundo (2 Corintios 4: 4)
 
   
 
-Para completar el engaño y convencer a Eva de que ella está haciendo lo correcto, el enfoque de Eva debe estar en el hecho de que lo que Dios creó fue bueno. Después de todo, Él hizo esto en la creación de todos los otros árboles en el jardín. Génesis 2: 9 dice:
+Para completar el engaño y convencer a Eva de que ella está haciendo lo correcto, el enfoque de Eva debe estar en el hecho de que lo que Dios creó fue bueno. Después de todo, Él hizo esto en la creación de todos los otros árboles en el jardín. Génesis 2:9 dice:
 
   
 
@@ -496,9 +495,9 @@ Eva no vio ningún mal en el árbol y, por lo tanto, hizo lo que vio en lugar de
 
   
 
-> **"... ellos no recibieron el amor de la verdad, para que pudieran ser salvos. Y por esta razón Dios les enviará una poderosa ilusión, para que crean la mentira."** 
+> **"... ellos no recibieron el amor de la verdad, para que pudieran ser salvos. Y por esta razón Dios les enviará una poderosa ilusión, para que crean la mentira."** 
 
-> **\- 2 Tesalonicenses 2: 10-11**
+> **\- 2 Tesalonicenses 2:10-11**
 
   
 

@@ -9,9 +9,9 @@ description: "La Cruz Doble sigue contando las experiencias del ex jesuita Alber
 tags: ["Falsas Doctrinas"]
 ---
 
-\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)
+\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)
 
-**La Cruz Doble** sigue contando las experiencias del exjesuita **Alberto Romero Rivera**, su persecución por parte de la Iglesia Católica, la búsqueda de su hermana, su intento de asesinato y cómo estos poderes se vinculan con el fariseísmo y la crucifixión de Cristo. También la traición espiritual de la que ha sido víctima el planeta entero. Revista publicada por **[Chick Publications](http://www.chick.com/es/)**.
+**La Cruz Doble** sigue contando las experiencias del exjesuita **Alberto Romero Rivera**, su persecución por parte de la Iglesia Católica, la búsqueda de su hermana, su intento de asesinato y cómo estos poderes se vinculan con el fariseísmo y la crucifixión de Cristo. También la traición espiritual de la que ha sido víctima el planeta entero. Revista publicada por **[Chick Publications](http://www.chick.com/es/)**.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_lzSzF_CzsB_ehM_-ajCb37Raf8LpHWeBI51C4rGvcEK9L08_5LxA1y6mnuSPo3cg0Y88xl91-7RKcePxTHX422xdjl0Fhbtc8Am-yNMxydiF67ZOWA_w_8XzEFhqsFAbxZb5Py3hCbU/s1600/cruzdoble.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_lzSzF_CzsB_ehM_-ajCb37Raf8LpHWeBI51C4rGvcEK9L08_5LxA1y6mnuSPo3cg0Y88xl91-7RKcePxTHX422xdjl0Fhbtc8Am-yNMxydiF67ZOWA_w_8XzEFhqsFAbxZb5Py3hCbU/s1600/cruzdoble.jpg)  
   

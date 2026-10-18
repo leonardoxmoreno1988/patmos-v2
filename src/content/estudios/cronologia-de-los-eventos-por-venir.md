@@ -25,7 +25,7 @@ Efesios 2:8-9, Juan 3:16, Romanos 5:8, Romanos 4:25
 Revelación 6:2-4, 2 Tesalonicenses 2:3-10, Daniel 9:27, Revelación 11:1, Daniel 12:1, Jeremías 30:3–9, Mateo 24:21–25  
 │  
 **4\. El Falso Profeta:** El falso profeta como líder religioso unificará las religiones del mundo bajo una sola religión gnóstica/satánica, la Gran Ramera. En cierto momento, el Falso Profeta será contemporáneo con dos profetas de Dios: los dos testigos, quienes morirán a manos del Anticristo, pero resucitarán por el poder de Dios.  
-Revelación 13:11-15, Revelación 16:13, 2 de Pedro 2:1, Revelación 17:1–18, Revelación 11:3–12  
+Revelación 13:11-15, Revelación 16:13, 2 Pedro 2:1, Revelación 17:1–18, Revelación 11:3–12  
 │  
 **5\. La resurrección del Anticristo:** El Anticristo será herido gravemente y morirá, pero resucitará frente a millones de espectadores, posiblemente con los poderes ocultos del Falso Profeta. Él imita la resurrección de Jesucristo, pero su muerte lo dejará marcado, perderá la visión de un ojo y uno de sus brazos quedará inhabilitado.  
 Revelación 13:3-4, Revelación 13:12, Zacarías 11:17  

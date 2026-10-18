@@ -28,7 +28,7 @@ La Biblia nos muestra pasajes importantes que evidencian que uno de los grandes 
 
 El aspecto más asombroso de esta profecía es el tamaño del ejército, que se calcula en 200 millones. Nunca en la historia militar ha habido un ejército ni siquiera cerca de este tamaño. El número total de tropas en la Segunda Guerra Mundial nunca superó los cincuenta millones.  
   
-De hecho, algunos han estimado que cuando el apóstol Juan escribió estas palabras en el año 95 d.C., la población del mundo entero no superaba los 200 millones. Por esta razón, muchos se sienten tentados a espiritualizar el número o tomarlo como un número simbólico, pero no hay señal en el texto de que el número se use de otra manera que no sea literal.  
+De hecho, algunos han estimado que cuando el apóstol Juan escribió estas palabras en el año 95 d. C., la población del mundo entero no superaba los 200 millones. Por esta razón, muchos se sienten tentados a espiritualizar el número o tomarlo como un número simbólico, pero no hay señal en el texto de que el número se use de otra manera que no sea literal.  
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfVRqJfJJnM108q_TlNcJzhZgpscgye1kFEMJO4URtj2dZGyxBbc18C4FmHn6Q6t1LGfIB_On1Jx78TVrvcA9mx5MgfkmRDVfQ8VpZYEUyIJXub6TE0u9jj4XfXyArnqRO00kJCPTPOTO2E3VBAyIcQ9IJ-Lnq3qFempNpE_WhjIDXoaOZ9We4lzr/s16000/china-ejercito.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfVRqJfJJnM108q_TlNcJzhZgpscgye1kFEMJO4URtj2dZGyxBbc18C4FmHn6Q6t1LGfIB_On1Jx78TVrvcA9mx5MgfkmRDVfQ8VpZYEUyIJXub6TE0u9jj4XfXyArnqRO00kJCPTPOTO2E3VBAyIcQ9IJ-Lnq3qFempNpE_WhjIDXoaOZ9We4lzr/s700/china-ejercito.jpg)  
   

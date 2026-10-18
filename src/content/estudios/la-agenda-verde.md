@@ -19,7 +19,7 @@ En 1992, la ONU formó una Comisión de Gobernanza Global encargada de diseñar 
 
 El informe contenía muchas recomendaciones muy controvertidas. Los activistas de la ONU lo acogieron calurosamente, pero los libertarios de todo el mundo lo criticaron duramente y afirmaron que sus recomendaciones implicaban la abolición de la soberanía nacional y la supresión de la libertad de las personas. El informe negó específicamente que estuviera apoyando al "gobierno global" prefiriendo el término "gobernanza global", pero su contenido revela todos los elementos necesarios para un gobierno genuino. Además, una pequeña reflexión genera la siguiente pregunta: ¿Cómo se puede tener una "gobernanza" global sin un "gobierno" global?
 
-**Nota:** Si deseas recibir más contenido sobre la propaganda anticristiana, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre la propaganda anticristiana, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
 Uno de los principales objetivos de Nuestro Vecindario Global fue la formación de "bloques o sindicatos regionales para mejorar la seguridad política, económica y ambiental". El informe propuso que se establecieran "vecindarios regionales" siguiendo el modelo del ejemplo exitoso de la Unión Europea. En los últimos años, un gran número de estos sindicatos regionales surgieron o se fortalecieron, incluida la Unión Africana, la Asociación de Vecinos del Mediterráneo, la Coalición de Estados del Golfo y la Unión de América del Norte propuesta. El informe también recomendó una reducción gradual de la soberanía de los estados independientes, argumentando firmemente a favor de los "tribunales de responsabilidad" internacionales, los acuerdos globales vinculantes y la mejora significativa de la autoridad legal de la ONU. El fallecido Dr. Robert Muller, quien fue Subsecretario General de la ONU y cofundador de la UNESCO, describió claramente este plan de la ONU para una nueva 'Unión Mundial':
 
@@ -95,11 +95,11 @@ Sin embargo, la participación directa de las Naciones Unidas en este proyecto h
 
 > **"Hace tres años y medio, una llamada telefónica llegó a San Francisco desde las Naciones Unidas preguntando si nosotros, en Grace Cathedral, seríamos anfitriones de un gran servicio de adoración interreligiosa en honor al 50 aniversario de la firma de la Carta de las Naciones Unidas en nuestra ciudad".**
 
- Esta solicitud, y la posterior conversación con Muller, supuestamente es lo que llevó a Swing a involucrarse en la Iniciativa de Religiones Unidas. Él continúa,
+ Esta solicitud, y la posterior conversación con Muller, supuestamente es lo que llevó a Swing a involucrarse en la Iniciativa de Religiones Unidas. Él continúa,
 
 > **"Me levanté de la cama al día siguiente decidido a comprometer el resto de mi vida a una iniciativa que crearía una Religión Unida que, de manera espiritualmente apropiada, sería paralela a las Naciones Unidas".**
 
-El URI ha atraído a un grupo diverso de seguidores, y parece ser notablemente hábil para atraer a las diferentes cosmovisiones. El reverendo James Davis, un ministro anglicano de Nueva York declaró: 
+El URI ha atraído a un grupo diverso de seguidores, y parece ser notablemente hábil para atraer a las diferentes cosmovisiones. El reverendo James Davis, un ministro anglicano de Nueva York declaró: 
 
 > **“Nunca hemos visto a ninguna organización construir coaliciones tan rápido o tan exitosamente como la Iniciativa de las Religiones Unidas ".**
 
@@ -117,7 +117,7 @@ El URI afirma que más de 1,000 grupos religiosos, que representan a 600 millone
 -   Por lo tanto, como personas interdependientes arraigadas en nuestras tradiciones, ahora nos unimos para el beneficio de nuestra comunidad de la Tierra.
 -   Nos unimos para construir culturas de paz y justicia.
 -   Nos unimos para sanar y proteger la Tierra.
--   Nos unimos para construir lugares seguros para la resolución de conflictos, la curación y la reconciliación. 
+-   Nos unimos para construir lugares seguros para la resolución de conflictos, la curación y la reconciliación. 
 -   Nos unimos para apoyar la libertad de religión y expresión espiritual, y los derechos de todas las personas y pueblos según lo establecido en el derecho internacional.
 -   Nos unimos en una acción cooperativa responsable para llevar la sabiduría y los valores de nuestras religiones, expresiones espirituales y tradiciones indígenas a los desafíos económicos, ambientales, políticos y sociales que enfrenta nuestra comunidad de la Tierra.
 -   Nos unimos para brindar una oportunidad global para la participación de todas las personas, especialmente de aquellas cuyas voces no se escuchan con frecuencia.
@@ -137,7 +137,7 @@ En una conferencia interreligiosa patrocinada por la ONU, el obispo Swing lanzó
 
 > **"Estamos en el umbral de un nuevo orden mundial que puede definirse ya sea por una polarización creciente que alimenta una espiral de conflicto y violencia en aumento, o por una creciente cooperación global que llama a la raza humana a trabajar a través de las fronteras nacionales, étnicas y religiosas para servir a un bien global más amplio".**
 
-El obispo Swing también se disculpó por dos milenios de evangelismo cristiano. Su disculpa no se limita a la "violencia religiosa" cometida por los cristianos, también incluye el arrepentimiento por "proclamar que Jesucristo es el Señor y Salvador de todos" y por buscar "hacer cristiano al mundo entero". La URI condena enérgicamente todas las formas de fundamentalismo religioso; de hecho, la necesidad de una nueva espiritualidad a menudo se basa en la actitud intolerante de los cristianos evangélicos y los musulmanes radicales". 
+El obispo Swing también se disculpó por dos milenios de evangelismo cristiano. Su disculpa no se limita a la "violencia religiosa" cometida por los cristianos, también incluye el arrepentimiento por "proclamar que Jesucristo es el Señor y Salvador de todos" y por buscar "hacer cristiano al mundo entero". La URI condena enérgicamente todas las formas de fundamentalismo religioso; de hecho, la necesidad de una nueva espiritualidad a menudo se basa en la actitud intolerante de los cristianos evangélicos y los musulmanes radicales". 
 
 > **"Porque algún día, el ascenso de las voces fundamentalistas militantes de las religiones que aspiran políticamente podría ser tan penetrante que será necesario crear una Religión Unida para salvar a las religiones de estos fundamentalistas".**
 
@@ -205,9 +205,9 @@ Y luego, utilizando esta excusa para evitar que los países del Tercer Mundo des
 
 ## ¿Gaia o Lucifer?
 
-Como vimos la religión verde del movimiento ambiental es el fenómeno social más grande e influyente en la historia moderna. De la relativa oscuridad de hace solo unas décadas, ha generado miles de organizaciones y reclama millones de activistas comprometidos. Al leer el periódico hoy, es difícil imaginar un momento en que apenas se mencionen el calentamiento global, el agotamiento de los recursos, las catástrofes ambientales y la salvación del planeta. Ahora se encuentran entre las principales prioridades en la agenda global social, política y económica. 
+Como vimos la religión verde del movimiento ambiental es el fenómeno social más grande e influyente en la historia moderna. De la relativa oscuridad de hace solo unas décadas, ha generado miles de organizaciones y reclama millones de activistas comprometidos. Al leer el periódico hoy, es difícil imaginar un momento en que apenas se mencionen el calentamiento global, el agotamiento de los recursos, las catástrofes ambientales y la salvación del planeta. Ahora se encuentran entre las principales prioridades en la agenda global social, política y económica. 
 
-Considere lo que se usó como la invocación en la Cumbre de la Tierra en Río de Janeiro en 1992: 
+Considere lo que se usó como la invocación en la Cumbre de la Tierra en Río de Janeiro en 1992: 
 
 > **“Desde el punto de luz dentro de la mente de Dios; deja que la luz fluya hacia las mentes de los hombres. Deja que la luz descienda sobre la tierra ... El propósito que los maestros conocen y sirven ... Que la luz, el amor y el poder restablezcan el plan en la tierra".**
 
@@ -227,7 +227,7 @@ En la última década, con la ayuda de Al Gore, la Asociación Religiosa Naciona
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKrQpmVfOiPT5BGN_mlQkZofBOdj0-fGODBzW81W1RNI2g6WvKMQHV0P-9LMM6tDM7kbMzvqGVjUBjaUySgIVIL4oCfVq3PRoIF3oxYtQDY1iFtGbKZ4Rw4l3dvoD0Cf3VTcwSf6u5wQ/s16000/rick-warren.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKrQpmVfOiPT5BGN_mlQkZofBOdj0-fGODBzW81W1RNI2g6WvKMQHV0P-9LMM6tDM7kbMzvqGVjUBjaUySgIVIL4oCfVq3PRoIF3oxYtQDY1iFtGbKZ4Rw4l3dvoD0Cf3VTcwSf6u5wQ/s455/rick-warren.jpg)
 
-    Rick Warren estrecha la mano del Papa Francisco en un evento ecuménico.
+    Rick Warren estrecha la mano del Papa Francisco en un evento ecuménico.
 
 El número de signatarios había aumentado a más de 100 en diciembre de 2007, y en julio de 2011, más de 220 líderes evangélicos habían firmado el llamado a la acción. David P. Gushee, profesor de ética cristiana en la Universidad de Mercer, ayudó a redactar el documento.
 
@@ -259,7 +259,7 @@ La evaluación de la diversidad global de las Naciones Unidas no solo demoniza l
 
 ## Conclusiones
 
-La Agenda Verde no es bíblica, sin embargo, hay decenas de miles de púlpitos muy dispuestos que han cooperado en los últimos años, y muchos más siguen su ejemplo. Pastores crédulos, líderes y "congregantes están tragando voluntariamente el "evangelio verde ", todo en nombre de “salvar el planeta". Esta falsa doctrina busca contaminar púlpitos que alguna vez fueron sólidos y distraer a los miembros de la iglesia de las cosas que importan, como el verdadero mensaje del evangelio de Jesucristo y la cruz. El principio fundamental detrás del asombroso plan global verde se basa en la idea de estar "fuera de Dios" y "dentro de Gaia". 
+La Agenda Verde no es bíblica, sin embargo, hay decenas de miles de púlpitos muy dispuestos que han cooperado en los últimos años, y muchos más siguen su ejemplo. Pastores crédulos, líderes y "congregantes están tragando voluntariamente el "evangelio verde ", todo en nombre de “salvar el planeta". Esta falsa doctrina busca contaminar púlpitos que alguna vez fueron sólidos y distraer a los miembros de la iglesia de las cosas que importan, como el verdadero mensaje del evangelio de Jesucristo y la cruz. El principio fundamental detrás del asombroso plan global verde se basa en la idea de estar "fuera de Dios" y "dentro de Gaia". 
 
 El plan incluye a todos los hombres y mujeres que se inclinan ante las "cosas", ante los ídolos, en fidelidad a un dios de su propia creación.
 

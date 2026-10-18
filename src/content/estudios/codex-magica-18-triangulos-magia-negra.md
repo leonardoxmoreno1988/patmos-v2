@@ -26,7 +26,7 @@ Entre los satanistas y las brujas, el doble triángulo, el Sello de Salomón, ta
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
   
 
@@ -42,8 +42,7 @@ La sugerencia blasfema en el símbolo se vuelve clara.
 
 Recuerde: en todas partes del mundo del Iluminismo, descubrimos connotaciones sexuales. El suyo es un culto sexual; de hecho, es el culto sexual más grande del mundo; sin embargo, los Illuminati usan símbolos y signos para enmascarar sus mensajes sexuales.
 
-##   
-La estrella de David y el número de la bestia, 666
+## La estrella de David y el número de la bestia, 666
 
 La naturaleza supremamente malvada del doble triángulo, el hexagrama, el Sello de Salomón, el Magen David (Escudo de David), se prueba por el hecho de que el símbolo contiene el número oculto 666, el número de la bestia (Apocalipsis 13).  
   
@@ -115,7 +114,7 @@ Es significativo que en el primer Libro de Reyes de la Biblia, el rey Salomón s
 
   
 
-Sin lugar a dudas, el número 666 es simbólicamente el triángulo triple, porque el número sagrado de la Diosa era 666. 
+Sin lugar a dudas, el número 666 es simbólicamente el triángulo triple, porque el número sagrado de la Diosa era 666. 
 
   
 
@@ -130,7 +129,7 @@ En el _Ritualista Masónico_ de Mackey, el autor, el Soberano Gran Comandante de
 El difunto Jim Keith, en _Una exposición de conspiraciones y cultos_, también discutió la importancia de este símbolo para la Masonería. Él escribe: "De hecho, hay una tríada de tres oficiales de gobierno que se encuentran en casi todos los grados" **(3)**.  
   
 
-En varios libros escritos por los masones, el triángulo que apunta hacia abajo se relaciona con Set, el Dios de Egipto y con Baco. Ambas deidades son Satanás en otras formas. **(4)**  
+En varios libros escritos por los masones, el triángulo que apunta hacia abajo se relaciona con Set, el Dios de Egipto y con Baco. Ambas deidades son Satanás en otras formas. **(4)**  
   
 
 Jim Tresner, 33 °, cuyas obras académicas a menudo se publican en revistas y publicaciones masónicas, señala el uso de triángulos en el ritual del decimoquinto grado del Rito escocés, el Caballero del Este, de la Espada o del Águila. Tresner dice que el delantal usado para el ritual de este grado en la Logia es de terciopelo rojo, y "en el delantal hay tres triángulos, uno dentro del otro, formado de cadenas con eslabones triangulares". Estos tres triángulos, explica, "representan las tres grandes limitaciones o enemigos del intelecto humano: tiranía, privilegio, superstición" **(5)**.  
@@ -204,7 +203,7 @@ Como oficial de alto nivel del grupo ocultista, _Orden de la Aurora Dorada_, Cro
   
   
 
-##  ABRACADABRA No es solo diversión infantil
+##  ABRACADABRA No es solo diversión infantil
 
 Brujas y profundos magos ocultos se unen a Bailey en el uso del triángulo.
 
@@ -214,7 +213,7 @@ Tome la palabra ABRACADABRA que se usa repetidamente en dibujos animados y progr
 
   
 
-En realidad, esta palabra es de origen antiguo. En un poema sobre medicina oculta escrito por un médico pagano en la antigua Roma alrededor del año 250 dC, para evitar fiebres y enfermedades, el médico recomendó escribir la palabra abracadabra en un triángulo invertido como este:
+En realidad, esta palabra es de origen antiguo. En un poema sobre medicina oculta escrito por un médico pagano en la antigua Roma alrededor del año 250 d. C., para evitar fiebres y enfermedades, el médico recomendó escribir la palabra abracadabra en un triángulo invertido como este:
 
   
   
@@ -306,7 +305,7 @@ Superpuestos detrás están el triángulo descendiente (infierno) y el símbolo 
 
   
 
-Dos sellos mágicos basados ​​en el Libro Negro de Honorius.
+Dos sellos mágicos basados en el Libro Negro de Honorius.
 
   
 
@@ -558,7 +557,7 @@ La ONU incluso tiene un capellán de algún tipo; Sri Chinmoy, un gurú hindú q
 
   
 
-Evidentemente, los Illuminati no estaban interesados ​​en separar la iglesia y el estado cuando fundaron su organismo mundial: las Naciones Unidas.
+Evidentemente, los Illuminati no estaban interesados en separar la iglesia y el estado cuando fundaron su organismo mundial: las Naciones Unidas.
 
   
 
@@ -687,7 +686,7 @@ Los tres super ricos hermanos Hunt en una composición de triángulo descendente
 
   
 
-Fritz Springmeier, autor del best seller **[Linajes de los Illuminati](http://www.ritualypropaganda.com/2013/10/linajes-de-los-illuminati-fritz.html),** hizo este dibujo basado en un ritual real conducido por una secta satánica conocida como Ordo Saturnus (Orden de Saturno).
+Fritz Springmeier, autor del best seller **[Linajes de los Illuminati](http://www.ritualypropaganda.com/2013/10/linajes-de-los-illuminati-fritz.html),** hizo este dibujo basado en un ritual real conducido por una secta satánica conocida como Ordo Saturnus (Orden de Saturno).
 
   
 
@@ -819,7 +818,7 @@ Esta portada de la revista se rinde homenaje a su "miembro más honrado, Harry S
 
   
 
-El símbolo de los _Royal Arch Masons_ (Masones del Arco Real) también se ve a la izquierda: el Triple Tau, un signo de trinidad dentro de un triángulo dentro de un círculo, un símbolo compuesto que se dice que connota triple poder.
+El símbolo de los _Royal Arch Masons_ (Masones del Arco Real) también se ve a la izquierda: el Triple Tau, un signo de trinidad dentro de un triángulo dentro de un círculo, un símbolo compuesto que se dice que connota triple poder.
 
   
 

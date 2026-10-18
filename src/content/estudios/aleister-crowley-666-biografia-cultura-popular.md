@@ -9,13 +9,13 @@ description: "Aleister Crowley fue un mago gnóstico conocido por ser un ocultis
 tags: ["Cine y Cultura"]
 ---
 
-**Aleister Crowley** fue un mago gnóstico conocido por ser un ocultista infame y autor del Libro de la Ley, que introdujo a **Thelema** al mundo. Sin dejar esto de lado, Crowley también fue un inspirador para aquellos que decidieron servir a la **élite luciferina**. Él es, de muchas formas, la gran mente que descifró los secretos de hombre y los compartió tanto con sus seguidores (luciferinos) contemporáneos como con los que vendrían años después de él. En este artículo evaluamos su vida y su legado hasta la actualidad.  
+**Aleister Crowley** fue un mago gnóstico conocido por ser un ocultista infame y autor del Libro de la Ley, que introdujo a **Thelema** al mundo. Sin dejar esto de lado, Crowley también fue un inspirador para aquellos que decidieron servir a la **élite luciferina**. Él es, de muchas formas, la gran mente que descifró los secretos de hombre y los compartió tanto con sus seguidores (luciferinos) contemporáneos como con los que vendrían años después de él. En este artículo evaluamos su vida y su legado hasta la actualidad.  
   
 
 [![ilustración de aleister crowley en fondo rojo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7LBTZApyXQGvrYS8MyqsBfeZx7EDrYbndSWBxJpjD6T2pU8fIofy5VafLNStdvqRnDECkzw8rfjD-R4j6uyDiCYC6Qc3YuRIwEmeGq8NNTSFE0DdAucBHwFSE3PAVrqXPD37LWaXQjhE/s1600/crowley.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7LBTZApyXQGvrYS8MyqsBfeZx7EDrYbndSWBxJpjD6T2pU8fIofy5VafLNStdvqRnDECkzw8rfjD-R4j6uyDiCYC6Qc3YuRIwEmeGq8NNTSFE0DdAucBHwFSE3PAVrqXPD37LWaXQjhE/s1600/crowley.jpg)
 
   
-Aleister Crowley nació el 12 de octubre de 1875 en Warwickshire, Inglaterra como Edward Alexander Crowley en una familia rica y religiosa en el apogeo de la era victoriana. Crowley despreciaba y se rebelaba contra su familia en cada paso, incluso renombrándose a sí mismo como "Aleister" para evitar compartir el mismo nombre que su padre, que falleció cuando Crowley tenía 11 años.  
+Aleister Crowley nació el 12 de octubre de 1875 en Warwickshire, Inglaterra como Edward Alexander Crowley en una familia rica y religiosa en el apogeo de la era victoriana. Crowley despreciaba y se rebelaba contra su familia en cada paso, incluso renombrándose a sí mismo como "Aleister" para evitar compartir el mismo nombre que su padre, que falleció cuando Crowley tenía 11 años.  
 
   
 Al igual que muchos muchachos traviesos, Aleister se entretuvo a través de varias actividades, especialmente creando un "fuego artificial casero" con el que casi se suicidó, además de torturar a un gato de varias maneras horribles para probar la teoría de las "nueve vidas". Él se deshizo de su virginidad en la edad 14 con la ayuda de una criada. A los 17 años, contrajo gonorrea y andaba con la ayuda de un andador de la calle.  
@@ -30,7 +30,7 @@ Crowley pasó a estudiar en la Universidad de Cambridge, donde aparentemente est
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
 ## Su ingreso a la Golden Dawn
 
@@ -44,7 +44,7 @@ La contribución de la Golden Dawn a la Tradición Mágica Occidental merece la 
 **Aleister Crowley retratado en su juventud.**
 
   
-Adoptando el nombre mágico Frater 'Perdurabo', latín para "Yo perduraré", Crowley avanzó rápidamente a través de las filas del Golden Dawn, estudiando inicialmente bajo Alan Bennett, que era el heredero espiritual de Mathers. Bennett abandonó Inglaterra en 1899 por razones de salud, trasladándose a Ceilán, lo que ahora es Sri Lanka, donde se unió a un monasterio budista. Desafortunadamente, Crowley, abandonado por su cuenta, logró fragmentar severamente la orden a través de la fuerza de su personalidad. En 1900, completó los estudios necesarios para obtener el rango de Adeptus Minor, sin embargo los controladores londinenses de la Orden, desaprobando los gustos homosexuales de Crowley, se negaron a adelantarlo. Crowley viajó a París, donde Mathers mismo realizó la ceremonia, que sólo sirvió para indignar aún más a los miembros de Londres.  
+Adoptando el nombre mágico Frater 'Perdurabo', latín para "Yo perduraré", Crowley avanzó rápidamente a través de las filas del Golden Dawn, estudiando inicialmente bajo Alan Bennett, que era el heredero espiritual de Mathers. Bennett abandonó Inglaterra en 1899 por razones de salud, trasladándose a Ceilán, lo que ahora es Sri Lanka, donde se unió a un monasterio budista. Desafortunadamente, Crowley, abandonado por su cuenta, logró fragmentar severamente la orden a través de la fuerza de su personalidad. En 1900, completó los estudios necesarios para obtener el rango de Adeptus Minor, sin embargo los controladores londinenses de la Orden, desaprobando los gustos homosexuales de Crowley, se negaron a adelantarlo. Crowley viajó a París, donde Mathers mismo realizó la ceremonia, que sólo sirvió para indignar aún más a los miembros de Londres.  
   
   
 Crowley fue expulsado de la Golden Dawn, sólo 2 años después de unirse, principalmente a través de los esfuerzos de William Butler Yeats, que según los informes no aprobó los métodos mágicos de Crowley.  
@@ -98,7 +98,7 @@ El hecho de propagar la filosofía liberal de hacer lo que deseas es también ot
 En una entrevista Aleister Crowley menciona:  
   
 
-> **"Yo digo hoy: Al diablo con el cristianismo... me construiré un nuevo cielo y una nueva tierra, quiero blasfemia, asesinato, violación, revolución, todo lo malo, etc."** 
+> **"Yo digo hoy: Al diablo con el cristianismo... me construiré un nuevo cielo y una nueva tierra, quiero blasfemia, asesinato, violación, revolución, todo lo malo, etc."** 
 
 > **\- Israel Regardie, Ther Eye of the Triangle, 1986, pg 287.**
 
@@ -106,7 +106,7 @@ En una entrevista Aleister Crowley menciona:
 En otra entrevista de 1991, él menciona:  
   
 
-> **"Bajo el estandar de la objetividad sirvo a mi gran maestro Satán y el consejo de nueve conformado por Beelzebub."** luego continúa...
+> **"Bajo el estandar de la objetividad sirvo a mi gran maestro Satán y el consejo de nueve conformado por Beelzebub."** luego continúa...
 
 > **"Juro seguir en este trabajo aborrecido, ausente de todo pero con una recompensa, el placer del diablo nuestro señor."**
 
@@ -216,8 +216,7 @@ Boleskine House fue la finca de Aleister Crowley de 1899 a 1913. Crowley compró
   
 Desde principios de los setenta hasta bien entrados los años 80, Boleskine fue la propiedad del famoso guitarrista de Led Zeppelin y entusiasta de Aleister Crowley, Jimmy Page. La secuencia de fantasía de Page en el film de Led Zeppelin _The Song Remains the Same_ fue filmada por la noche en el lado de la colina directamente detrás de Boleskine House. La casa fue construida a finales del siglo XVIII por Archibald Fraser.  
 
-###   
-**Alan Moore**
+### **Alan Moore**
 
 El escritor y guionista de historietas, Alan Moore, conocido por su trabajo en Watchmen, V de Venganza, ha dicho en diferentes entrevistas su fascinación por la magia ritual, el ocultismo y especificamente por el satanista Aleister Crowley.  
   
@@ -227,7 +226,7 @@ El escritor y guionista de historietas, Alan Moore, conocido por su trabajo en W
   
 
   
-Una de sus principales obras titulada, From Hell está llena de referencias ocultistas mientras expone una supuesta conspiración detrás de Jack el destripador. En V from Vendetta, un revolucionario vigilante derroca un gobierno fascista sublevando a todos los ciudadanos. En este caso, la historia  esconde una fábula gnóstica donde Lucifer es dios. Recomiendo leer el artículo **[Las Referencias Gnósticas De "V For Vendetta" Y Como La Elite Controla La Oposición](http://www.ritualypropaganda.com/2012/05/las-referencias-gnosticas-de-v-for.html)**.  
+Una de sus principales obras titulada, From Hell está llena de referencias ocultistas mientras expone una supuesta conspiración detrás de Jack el destripador. En V from Vendetta, un revolucionario vigilante derroca un gobierno fascista sublevando a todos los ciudadanos. En este caso, la historia  esconde una fábula gnóstica donde Lucifer es dios. Recomiendo leer el artículo **[Las Referencias Gnósticas De "V For Vendetta" Y Como La Elite Controla La Oposición](http://www.ritualypropaganda.com/2012/05/las-referencias-gnosticas-de-v-for.html)**.  
   
 Una foto de Aleyster Crowley a los 14 años de edad fue usada por Moore para una de sus novelas ocultistas.  
   
@@ -244,8 +243,7 @@ Una foto de Aleyster Crowley a los 14 años de edad fue usada por Moore para una
 
 Existe también referencias a la ley del Thelema de Crowley, por ejemplo el "haz lo que desees ha de ser la totalidad de la ley" se encuentra en algunas conversaciones de los personajes en sus comics.  
 
-###   
-**Jack Parsons**
+### **Jack Parsons**
 
 En los años inmediatamente anteriores a la Segunda Guerra Mundial, Jack Parsons y sus amigos de Cal Tech estaban trabajando para perfeccionar la propulsión de un cohete de combustible sólido. El proyecto de cohetes de Parson carecía de un presupuesto hasta que sus esfuerzos llamaron la atención del Departamento de Defensa.  
   
@@ -265,7 +263,7 @@ Pero Jack Parsons estaba poseído de ideas extraordinarias que buscaban metas mu
   
 Poco después, Parsons se apoderó de la logia Agape. Observando la aptitud natural de Parsons para la magia sexual ritual llamada "Thelema", la membresía lo vio como un sucesor potencial de la "Gran Bestia", es decir, el propio Aleister Crowley, a quien Parsons se refirió como "El Padre Más Amado".  
   
-En el trabajo, Parsons estaba sobresaliendo en sus desarrollos de cohetes, y mezclando su ocultismo recién descubierto con sus prácticas de trabajo bailando y cantando el "Himno de Pan" de Crowley antes del lanzamiento de cada cohete de prueba. En aquel momento, nadie le dio mucha importancia, y Von Kármán, que acababa de arreglar los fondos del gobierno para el "GALCIT Rocket Project", lo consideraba solo un "juguete delicioso".  
+En el trabajo, Parsons estaba sobresaliendo en sus desarrollos de cohetes, y mezclando su ocultismo recién descubierto con sus prácticas de trabajo bailando y cantando el "Himno de Pan" de Crowley antes del lanzamiento de cada cohete de prueba. En aquel momento, nadie le dio mucha importancia, y Von Kármán, que acababa de arreglar los fondos del gobierno para el "GALCIT Rocket Project", lo consideraba solo un "juguete delicioso".  
   
 
 ### L. Ron Hubbard
@@ -281,7 +279,7 @@ Jack Parson más tarde se asoció con un individuo que llegaría a ser enormemen
 Parsons tuvo un gran afición a Hubbard, que era entonces un Capitán de la Armada de los Estados Unidos, y lo inició a los secretos de la O.T.O. En un comunicado de 1946 dirigido a Crowley, Parsons escribió:  
   
 
-> **"Hace unos tres meses conocí al capitán L. Ron, de la Marina de los Estados Unidos. Hubbard... Aunque Ron no tiene entrenamiento formal en Magick, tiene una cantidad extraordinaria de experiencia y comprensión en el campo... Él es la persona más thelemica que he conocido y está en total acuerdo con nuestros principios. También está interesado en establecer el Nuevo Aeon... Estamos uniendo nuestros recursos en una sociedad que actuará como una compañía limitada para controlar nuestros negocios." \[18. Ibídem.\]** 
+> **"Hace unos tres meses conocí al capitán L. Ron, de la Marina de los Estados Unidos. Hubbard... Aunque Ron no tiene entrenamiento formal en Magick, tiene una cantidad extraordinaria de experiencia y comprensión en el campo... Él es la persona más thelemica que he conocido y está en total acuerdo con nuestros principios. También está interesado en establecer el Nuevo Aeon... Estamos uniendo nuestros recursos en una sociedad que actuará como una compañía limitada para controlar nuestros negocios." \[18. Ibídem.\]** 
 
 > **\- Parte de un artículo de 1969 sobre el vínculo entre Hubbard y Crowley.**
 
@@ -334,7 +332,7 @@ En el simbolismo oculto, la unión de un triángulo ascendente y descendente cre
 
 El hexagrama unicursal es un símbolo considerado como sagrado por los miembros de la O.T.O. Y se utiliza en rituales reales de Magia Negra.  
   
-Oportunamente también existe un personaje en Yu-Gi-Oh! llamado "Alister" que lleva en su frente "El Sello de Orichalcos", que es una copia del hexagrama unicursal de Crowley.  
+Oportunamente también existe un personaje en Yu-Gi-Oh! llamado "Alister" que lleva en su frente "El Sello de Orichalcos", que es una copia del hexagrama unicursal de Crowley.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCN1NDQkC8kjLoWfNyT61kO2Oht9NbbDIY0zc8FXxIRtXa1xGcPlmRMLbLop2HiVf-bJ7f1DWJYMgsHErXh9bVyKU3YaizcHkApGxHzzpC1ciJFOcJqrQ7eEsBI7wYW2YWDJMafP59oNo/s1600/167_alister_scowl.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCN1NDQkC8kjLoWfNyT61kO2Oht9NbbDIY0zc8FXxIRtXa1xGcPlmRMLbLop2HiVf-bJ7f1DWJYMgsHErXh9bVyKU3YaizcHkApGxHzzpC1ciJFOcJqrQ7eEsBI7wYW2YWDJMafP59oNo/s1600/167_alister_scowl.jpg)

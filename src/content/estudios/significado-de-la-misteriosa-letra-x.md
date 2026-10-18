@@ -15,14 +15,14 @@ tags: ["Sociedad"]
 
   
 
-> **"El significado iluminista / masónico de la X es simplemente este: Es el signo de Osiris, el gran dios del sol (egipcio)."\- Texe Marrs, Dark Majesty**
+> **"El significado iluminista / masónico de la X es simplemente este: Es el signo de Osiris, el gran dios del sol (egipcio)."\- Texe Marrs, Dark Majesty**
 
   
-La señal o **letra X**, tiene una larga historia de uso en las Religiones del Misterio Antiguo, en el judaísmo apóstata, en la Francmasonería y en el **ocultismo**. La élite de los **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** lo usa hasta nuestros días para simbolizar fenómenos clave y marcar eventos significativos.  
+La señal o **letra X**, tiene una larga historia de uso en las Religiones del Misterio Antiguo, en el judaísmo apóstata, en la Francmasonería y en el **ocultismo**. La élite de los **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** lo usa hasta nuestros días para simbolizar fenómenos clave y marcar eventos significativos.  
   
 El significado de la misteriosa letra X parece tener una vida amplia y variada en sí misma, con o sin la ayuda secreta del patrocinio de la élite. Mark Euston, de la Christian Intelligence Resource Network, en una carta al autor detalló algunos de los muchos ejemplos del uso de la letra X. Por ejemplo, el conocido programa de televisión de ciencia ficción The X Files.  
   
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
   
 Las películas pornográficas son clasificadas X y las películas más sensacionales en la categoría de "carne cruda" son promocionadas como XXX, o triple X. Euston señaló que tenemos la creación de Microsoft Corporation de X-box, la **[película X-Men](http://www.ritualypropaganda.com/2016/06/significado-x-men-apocalipsis.html)**, los productos fuera de marca se llaman "Marca X" y, por supuesto, el campamento terrorista de los Estados Unidos, Camp X-Ray en Guantánamo, Cuba. A los jóvenes de hoy se les ha llamado Generación X, y mucha gente está preocupada por un planeta, o estrella, que se dice que se está acelerando hacia nosotros, llamado Planeta X, que tiene un significado oculto.  
@@ -40,7 +40,7 @@ John Myers, otro astuto amigo interesado en estos temas, me envió una larga car
   
 Y el uso continuo de la misteriosa X abunda. Los niños que juegan pueden oírse decir: "Cruzo mi corazón y espero morir". En el alfabeto griego, la letra Chi se denota con el símbolo X, y se le da la numeración de 600. Los numeroligistas dicen que el triple X, entonces, daría el número 666.  
   
-Líderes musulmanes negros obviamente ven la X como un nombre sustituto de gran significado espiritual. Dos conocidos líderes musulmanes negros han sido nombrados Malcolm X y Louis X, nombres que eligieron por sí mismos. Este último, que nació como Louis Eugene Wolcott en 1933 en la ciudad de Nueva York, cambió su nombre a Louis X después de su conversión al Islam por el líder musulmán negro Elijah Muhammed. Hoy en día, se le conoce como Louis Farrakhan. Es bien sabido que Farrakhan es un  príncipe masón de 33°.  
+Líderes musulmanes negros obviamente ven la X como un nombre sustituto de gran significado espiritual. Dos conocidos líderes musulmanes negros han sido nombrados Malcolm X y Louis X, nombres que eligieron por sí mismos. Este último, que nació como Louis Eugene Wolcott en 1933 en la ciudad de Nueva York, cambió su nombre a Louis X después de su conversión al Islam por el líder musulmán negro Elijah Muhammed. Hoy en día, se le conoce como Louis Farrakhan. Es bien sabido que Farrakhan es un  príncipe masón de 33°.  
   
 
 ## La X como símbolo para el Dios Sol
@@ -118,8 +118,7 @@ En su interesante enciclopedia llamada El Diccionario de la Mujer de Símbolos y
   
 La Iglesia de la Cientología, nueva erista en sus creencias, tiene como logo una cruz tradicional (vertical) integrada con una X, o Cruz Caída.  
 
-##   
-La X como signo de muerte
+## La X como signo de muerte
 
 Finalmente, como si quisieran el significado sombrío y horrible de la letra X en el ritual de la Masonería, hay que señalar que a su muerte, cuando el cuerpo del masón es dado en un entierro masónico por los hermanos reunidos, la X nuevamente entra en juego. El Monitor del Trabajo, Conferencias y Ceremonias de la Antigua Masonería para la Gran Logia del Estado de Nueva York en parte describe el ritual y la escena prescrita para los funerales:  
   
@@ -147,7 +146,7 @@ Incluso han incorporado el ojo atento de Osiris, el ojo que todo lo ve, que se r
 
   
 
-El parche del brazo del uniforme militar del presidente paquistaní, general Pervez Musharraf, cuenta varios cuentos. Contra el fondo negro del círculo encontramos la conocida luna creciente y estrella del Islam (en realidad, de origen pagano, siendo representante de Diana, la "estrella" de la brujería y la diosa "luna"), así como las dos espadas cruzadas (en la era pagana, un signo de Marte, dios de la guerra). Es dudoso que Musharraf tenga alguna idea del significado real de estos símbolos.  
+El parche del brazo del uniforme militar del presidente paquistaní, general Pervez Musharraf, cuenta varios cuentos. Contra el fondo negro del círculo encontramos la conocida luna creciente y estrella del Islam (en realidad, de origen pagano, siendo representante de Diana, la "estrella" de la brujería y la diosa "luna"), así como las dos espadas cruzadas (en la era pagana, un signo de Marte, dios de la guerra). Es dudoso que Musharraf tenga alguna idea del significado real de estos símbolos.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheZmkModh49o7lojYhBJoAdrO_Yhu_sUqZDWw9FwwkbyRVrJ8r6enByIUx1EXkT-PHqPN5mn-LHqnQSt1Qxg1wCNUVZ1nb0jvPeQRW4gzvVt8sbHdNToP4i-YpsWt0WrE7TJuRxAq3fMQ/s1600/ccodex_47.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheZmkModh49o7lojYhBJoAdrO_Yhu_sUqZDWw9FwwkbyRVrJ8r6enByIUx1EXkT-PHqPN5mn-LHqnQSt1Qxg1wCNUVZ1nb0jvPeQRW4gzvVt8sbHdNToP4i-YpsWt0WrE7TJuRxAq3fMQ/s1600/ccodex_47.jpg)
@@ -180,7 +179,7 @@ Ehud Barak, un masón elegido Primer Ministro de Israel en 1999, con su esposa, 
 
 Larry Summers, Secretario del Tesoro en el segundo mandato de la Administración Bill Clinton, señala a sus asociados en la élite Illuminati la fuerza de su Orden. Vemos primero su posición cruzada de la mano "X", dominando el de la mano izquierda.  
   
-Luego está el pilar de fuerza de **[Jaquin y Boaz](http://www.ritualypropaganda.com/2011/07/el-significado-esoterico-de-los-dos.html)**, y finalmente el **[tablero blanco y negro a cuadros](http://www.ritualypropaganda.com/2011/06/el-misterio-del-patron-en-el-pavimento.html)** sobre el que se encuentra, la ciencia de los opuestos polares, la dialéctica hegeliana, el principio masónico de equilibrio. Summers es actualmente Presidente de la Universidad de Harvard.  
+Luego está el pilar de fuerza de **[Jaquin y Boaz](http://www.ritualypropaganda.com/2011/07/el-significado-esoterico-de-los-dos.html)**, y finalmente el **[tablero blanco y negro a cuadros](http://www.ritualypropaganda.com/2011/06/el-misterio-del-patron-en-el-pavimento.html)** sobre el que se encuentra, la ciencia de los opuestos polares, la dialéctica hegeliana, el principio masónico de equilibrio. Summers es actualmente Presidente de la Universidad de Harvard.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnSXXdPQ81fPVCjBiJHeqsccEoIHAsRBjn00eBk6QLnkjgeNdkk5Bx09H2IR-As7FPXAoAHK1_QdJ8fQ5L_ytBLWb64a0cDbon9nDf9TPBjwZHiGK76z4cTcvL4ROUM5ay9fRn2RUSsL0/s1600/maddi.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnSXXdPQ81fPVCjBiJHeqsccEoIHAsRBjn00eBk6QLnkjgeNdkk5Bx09H2IR-As7FPXAoAHK1_QdJ8fQ5L_ytBLWb64a0cDbon9nDf9TPBjwZHiGK76z4cTcvL4ROUM5ay9fRn2RUSsL0/s1600/maddi.jpg)
@@ -234,7 +233,7 @@ La revista Fortune (20 de diciembre de 1999) tenía esta foto bastante inusual q
 
   
 
-James Erwin, vicepresidente de Bank of America, dirige las operaciones de la gigantesca institución financiera en Dallas, Texas. ¿Es el cruce de sus piernas en "X" sólo un gesto de "buen hombre" o un signo fraternal iluminista?  
+James Erwin, vicepresidente de Bank of America, dirige las operaciones de la gigantesca institución financiera en Dallas, Texas. ¿Es el cruce de sus piernas en "X" sólo un gesto de "buen hombre" o un signo fraternal iluminista?  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWsSSUUgSWMqHRd5KccFOAlEklKGeXd-vBPzfZ7IFI_CqZIQNnbwMkI6gAC2_zCfAJPfZE4GCPcD61hLpwXdBT_MczjcO01Kc0UK_4Z32t9HGOemGsROEzDkMsv4Bl8PROHA458GjR0sc/s1600/ccodex_58.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWsSSUUgSWMqHRd5KccFOAlEklKGeXd-vBPzfZ7IFI_CqZIQNnbwMkI6gAC2_zCfAJPfZE4GCPcD61hLpwXdBT_MczjcO01Kc0UK_4Z32t9HGOemGsROEzDkMsv4Bl8PROHA458GjR0sc/s1600/ccodex_58.jpg)
@@ -321,7 +320,7 @@ Estas antiguas figuras egipcias demuestran lo frecuente que era el signo sagrado
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja9bPISBUJSBCpVN9CaGg9d7OwZbKvoE4ujej29qF8z0LBFm1tFB0Ss2Sin_HmHDNShufs9R_h4duhSzO6lMzut4H5nxrfAF3rBaSbH5jM_qkKpBAGxvAKgv6d_qPsFUPHlmJZR7rb6q4/s1600/ccodex_69.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja9bPISBUJSBCpVN9CaGg9d7OwZbKvoE4ujej29qF8z0LBFm1tFB0Ss2Sin_HmHDNShufs9R_h4duhSzO6lMzut4H5nxrfAF3rBaSbH5jM_qkKpBAGxvAKgv6d_qPsFUPHlmJZR7rb6q4/s1600/ccodex_69.jpg)
 
   
-La momia de Ramsés el Grande (1279-1213 a.C.) se encontró en este sarcófago de cedro. Este faraón es considerado por los egiptólogos como el gobernante que esclavizó a los israelitas y los forzó a construir ciudades.  
+La momia de Ramsés el Grande (1279-1213 a. C.) se encontró en este sarcófago de cedro. Este faraón es considerado por los egiptólogos como el gobernante que esclavizó a los israelitas y los forzó a construir ciudades.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyCOVHLvi2ckB8dIf5LjJJpO-sC4bcp_7bhVmOA0pS-C9mgiFviOMXezktSU0TwskTQDKHsBzDMr7ckAmyKdZVSAc-YRTGbU7mOhvX8f8BR0GZwPT8oEnGbHk0jbogUpyj9ktg66uK8V0/s1600/ccodex_70.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyCOVHLvi2ckB8dIf5LjJJpO-sC4bcp_7bhVmOA0pS-C9mgiFviOMXezktSU0TwskTQDKHsBzDMr7ckAmyKdZVSAc-YRTGbU7mOhvX8f8BR0GZwPT8oEnGbHk0jbogUpyj9ktg66uK8V0/s1600/ccodex_70.jpg)
@@ -363,7 +362,7 @@ La estatuilla pre-azteca, exhibida hoy en México, tiene los brazos cruzados en 
 
   
 
-Estatuilla de bronce del demonio dios Pazuzu, 800-600 A.C. Pazuzu todavía es secretamente adorado hoy por muchos.  
+Estatuilla de bronce del demonio dios Pazuzu, 800-600 a. C. Pazuzu todavía es secretamente adorado hoy por muchos.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9XxroyHsnNJSRa0IfEY4GBUlkbfEpdTBp1j3tHGt-LWIMUc-XS-1Q0Ml53DLN-9CJJX-Ev1tT_xg6d3vN-e7gtcSPZafUjbaZi19-3NoZ4_bkCeK88_lbEOYoUS7OjikxGBeL7vCrF1c/s1600/ccodex_76.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9XxroyHsnNJSRa0IfEY4GBUlkbfEpdTBp1j3tHGt-LWIMUc-XS-1Q0Ml53DLN-9CJJX-Ev1tT_xg6d3vN-e7gtcSPZafUjbaZi19-3NoZ4_bkCeK88_lbEOYoUS7OjikxGBeL7vCrF1c/s1600/ccodex_76.jpg)
@@ -397,7 +396,7 @@ Su color es azul, del mismo color que la Logia Azul de la Francmasonería (prime
 
   
 
-Fachada y elevación frontal de la Capilla de Nuestra Señora de la Gracia y el Centro de Espiritualidad Padre Pío en Pennsylvania. El Padre Pío era un monje católico que se hizo famoso por los estigmas en sus manos. El Papa Juan Pablo II declaró santo al Padre Pío el 2 de mayo de 1949. 
+Fachada y elevación frontal de la Capilla de Nuestra Señora de la Gracia y el Centro de Espiritualidad Padre Pío en Pennsylvania. El Padre Pío era un monje católico que se hizo famoso por los estigmas en sus manos. El Papa Juan Pablo II declaró santo al Padre Pío el 2 de mayo de 1949. 
 
   
 
@@ -431,7 +430,7 @@ Georges Darboy, arzobispo de París en 1870. Observa las manos cruzadas (X) y la
 Esta imagen fue encontrada bajo la raíz de un árbol desenterrado en Roscommon en Irlanda. Está hecho de latón. El dorado, sin embargo, está casi agotado. Está en exhibición en el museo de la universidad de la trinidad, Dublín.  
   
 
-> **"A esta deidad en particular se le adoraba para el éxito cuando van a cazar o pescar, y para el alivio de todos los que están indispuestos!"** 
+> **"A esta deidad en particular se le adoraba para el éxito cuando van a cazar o pescar, y para el alivio de todos los que están indispuestos!"** 
 
 > **\- Miramba. (Del libro, las torres redondas de la Atlántida, por Henry O'Brien, publicado 2002, originalmente en 1834, Adventures Unlimited Press, Kempton, IL 60946)**
 
@@ -510,7 +509,7 @@ Sus defensores afirman que el diseño X de la vieja bandera confederada (las "es
 
   
 
-Esta carta de un "caballero" que dice ser del Imperio Invisible de la KKK fue enviada al autor después de haber tenido en su programa de radio a un invitado judío, un cristiano que era jefe de la Junta Internacional de Misiones Judías, un grupo que evangeliza a los judíos por Cristo. Obviamente, el KKK estaba un poco molesto porque el autor no es antisemita. El logo en el membrete es de interés con su círculo negruzco, triángulo, y el diseño trino masónico del "47º problema de Euclides". El KKK fue fundado por los masones después de la derrota del Sur en la Guerra Civil de América. 1865. 
+Esta carta de un "caballero" que dice ser del Imperio Invisible de la KKK fue enviada al autor después de haber tenido en su programa de radio a un invitado judío, un cristiano que era jefe de la Junta Internacional de Misiones Judías, un grupo que evangeliza a los judíos por Cristo. Obviamente, el KKK estaba un poco molesto porque el autor no es antisemita. El logo en el membrete es de interés con su círculo negruzco, triángulo, y el diseño trino masónico del "47º problema de Euclides". El KKK fue fundado por los masones después de la derrota del Sur en la Guerra Civil de América. 1865. 
 
   
 
@@ -518,7 +517,7 @@ Esta carta de un "caballero" que dice ser del Imperio Invisible de la KKK fue en
 
   
 
-Obra de arte para camisetas ofrecida por correo por una empresa llamada Aryan Graphics. Las barras y rayas estilo X de la bandera confederada son un punto central. 
+Obra de arte para camisetas ofrecida por correo por una empresa llamada Aryan Graphics. Las barras y rayas estilo X de la bandera confederada son un punto central. 
 
   
 
@@ -526,7 +525,7 @@ Obra de arte para camisetas ofrecida por correo por una empresa llamada Aryan Gr
 
   
 
-Estos miembros del Ku Kux Klan llevan una X en el pecho izquierdo de sus túnicas blancas. La KKK fue fundada por los generales Albert Pike y Nathan B. Forrest. Pike fue también el Gran Comandante Soberano del Rito Escocés de la Masonería, y su libro, _Morales y Dogma_, sigue siendo considerado un clásico por el liderazgo masónico global. Aunque Pike era un general confederado y el presidente Abraham Lincoln lo calificó de criminal, hoy, una estatua de Pike se encuentra frente a la sede del Departamento de Justicia de Estados Unidos en Washington D.C. Su cuerpo está sepultado en la sede central de la Casa del Templo de Rito Escocés en Washington. D.C. 
+Estos miembros del Ku Kux Klan llevan una X en el pecho izquierdo de sus túnicas blancas. La KKK fue fundada por los generales Albert Pike y Nathan B. Forrest. Pike fue también el Gran Comandante Soberano del Rito Escocés de la Masonería, y su libro, _Morales y Dogma_, sigue siendo considerado un clásico por el liderazgo masónico global. Aunque Pike era un general confederado y el presidente Abraham Lincoln lo calificó de criminal, hoy, una estatua de Pike se encuentra frente a la sede del Departamento de Justicia de Estados Unidos en Washington D.C. Su cuerpo está sepultado en la sede central de la Casa del Templo de Rito Escocés en Washington. D.C. 
 
   
 
