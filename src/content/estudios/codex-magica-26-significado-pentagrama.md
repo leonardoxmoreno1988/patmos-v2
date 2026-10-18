@@ -13,7 +13,7 @@ tags: ["Sociedad"]
 > \- Amós 5:26  
 >   
 > "Todo hombre y mujer es una estrella."  
-> \- Aleister Crowley El libro de la ley
+> \- Aleister Crowley, El libro de la ley
 
 [![michael aquino junto a su esposa lilith y un pentagrama satánico en el templo de seth](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOLd1ZIkM_ybaYVogP1aZyRaAQl9Wbr69VYn26DeN1ZpKkC49zTQ02OEmROdU3TaKVN0jaMhfHYEikjXw49wz08j2L0WtC8fWsfCFgi-fuGfRAFxrN64PZ-NCf6-iJNoHtS1SUnmdvbp4/s1600/pentagrama.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOLd1ZIkM_ybaYVogP1aZyRaAQl9Wbr69VYn26DeN1ZpKkC49zTQ02OEmROdU3TaKVN0jaMhfHYEikjXw49wz08j2L0WtC8fWsfCFgi-fuGfRAFxrN64PZ-NCf6-iJNoHtS1SUnmdvbp4/s1600/pentagrama.jpg)
 
@@ -42,7 +42,7 @@ De izquierda a derecha: Pentagrama, Pentagrama Invertido, Hexagrama (Estrella de
 
 ## La estrella ardiente
 
-Los francmasones, debido a que veneran al sol y sus rayos, conocen el emblema de la estrella como la "Estrella ardiente". Steve Worrall-Clare, un antiguo Masón, en la Francmasonería - El lenguaje secreto, escribe que en la Logia:  
+Los francmasones, debido a que veneran al sol y sus rayos, conocen el emblema de la estrella como la "Estrella ardiente". Steve Worrall-Clare, un antiguo Masón, en la Francmasonería — El lenguaje secreto, escribe que en la Logia:  
   
 
 > **"La estrella llameante señala la gloria del sol. Es central para toda idea masónica, porque ilumina la tierra y, por su influencia benévola, dispensa sus bendiciones a la humanidad ... Se encuentra en el grado veintiocho y es el símbolo de la verdad. Se encuentra en el cuarto grado como símbolo de la luz y en el noveno grado es un símbolo de la divina providencia. A veces se instala simbólicamente como la letra "G" ... Es una puerta, una entrada al conocimiento ..." 3**
@@ -65,7 +65,7 @@ Esotéricamente, la estrella simboliza al hombre como deidad, como el universo e
 Esta misma estrella dios fue adorado en Egipto, y los hijos de Israel, mientras deambulaban por el desierto, cayeron bajo sus poderes hipnóticos. Lo llamaron Moloch, Chiun y Remphan. El profeta Amós castigó a los idólatras judíos por este profano sacrilegio:  
   
 
-> **"Antes bien, llevabais el tabernáculo de vuestro Moloc y Quiún, ídolos vuestros, la estrella de vuestros dioses que os hicisteis." (Amós 5:20)**
+> **"Antes bien, llevabais el tabernáculo de vuestro Moloc y Quiún, ídolos vuestros, la estrella de vuestros dioses que os hicisteis." (Amós 5:26)**
 
   
 
@@ -73,7 +73,7 @@ Esta misma estrella dios fue adorado en Egipto, y los hijos de Israel, mientras 
 
 Para los iluministas de todas partes, la estrella del pentagrama, o estrella de cinco puntas, se considera un poderoso hechizo, un talismán y un emblema de favor de la deidad del inframundo. ¡Oh, cómo los comunistas, fundados por Karl Marx, un gran sacerdote de Satanás, apreciaron sus estrellas rojas!  
   
-En los rituales de grado de la Francmasonería, se otorga a una "Joya" apropiada al iniciado en ascenso. Se cree que esta Joya tiene poderes mágicos. Se puede usar para invocar, invitar, espíritus y para trabajar hechizos. Albert Pike aconsejó así:  
+En los rituales de grado de la Francmasonería, se otorga a una "Joya" apropiada al iniciado en ascenso. Se cree que esta Joya tiene poderes mágicos. Se puede usar para invocar, invitar espíritus y para trabajar hechizos. Albert Pike aconsejó así:  
   
 
 > **"Otra joya es necesaria para ti, y en ciertas labores no se puede prescindir de ella. Es lo que se denomina el pantalito kabalístico (pentagrama) ... Esto conlleva el poder de comandar los espíritus de los elementos. Es necesario que sepa cómo usarlo." 6**
@@ -81,9 +81,9 @@ En los rituales de grado de la Francmasonería, se otorga a una "Joya" apropiada
   
 En otras palabras, Pike está recomendando que la estrella sea el vehículo para invocar poderes demoníacos y hacer que hagan un trabajo mágico.  
   
-Ahora, antes de descartar la sugerencia de Pike e imaginar que era solo una loca tonteria, permítame recordarle que este hombre fue tan respetado por los Illuminati de hoy, que una estatua de Albert Pike está frente al edificio del Departamento de Justicia, en las oficinas del Fiscal General de los EE. UU., en Washington, DC. Mostrada en terrenos públicos, esa estatua es atendida cuidadosamente por el Servicio de Parques Nacionales. Además, el cuerpo del venerado ex Gran Soberano Comandante Albert Pike, fallecido en 1891, está sepultado en la Casa del Templo del Rito Escocés, exactamente a 13 cuadras de la Casa Blanca.  
+Ahora, antes de descartar la sugerencia de Pike e imaginar que era solo una loca tontería, permítame recordarle que este hombre fue tan respetado por los Illuminati de hoy, que una estatua de Albert Pike está frente al edificio del Departamento de Justicia, en las oficinas del Fiscal General de los EE. UU., en Washington, DC. Mostrada en terrenos públicos, esa estatua es atendida cuidadosamente por el Servicio de Parques Nacionales. Además, el cuerpo del venerado ex Gran Soberano Comandante Albert Pike, fallecido en 1891, está sepultado en la Casa del Templo del Rito Escocés, exactamente a 13 cuadras de la Casa Blanca.  
   
-Técnicamente, hay varios tipos diferentes de estrellas ocultistas, cada una con su propio conjunto de características doctrinales. El eneagrama, por ejemplo, una estrella de nueve puntas, es popular como un talismán espiritual en la fe y la teosofía Bahai y en otras sectas ocultas de la Nueva Era.  
+Técnicamente, hay varios tipos diferentes de estrellas ocultistas, cada una con su propio conjunto de características doctrinales. El eneagrama, por ejemplo, una estrella de nueve puntas, es popular como un talismán espiritual en la fe y la teosofía bahaí y en otras sectas ocultas de la Nueva Era.  
   
 El pentagrama, del griego "pente", que significa cinco, y "gramma", una letra (por lo tanto, la "letra cinco") es una estrella de cinco puntas. Un pentalpha es más descaradamente satánico. Es la forma de un triple triángulo. La estrella del pentagrama también se puede llamar el pentáculo, el pentalpha, la estrella de Isis, la estrella de Venus y otros nombres. Su uso se remonta a Babilonia y a menudo se ha empleado en ritos mágicos y actividades.  
   
@@ -96,7 +96,7 @@ La estrella de seis puntas, conocida como el Sello de Salomón, como el Magen Da
   
 La estrella de seis puntas fue especialmente amada por los rabinos cabalísticos de la época medieval. La dinastía Rothschild más tarde adoptó esta estrella como un dispositivo mágico y fue instrumental en persuadir (¡el dinero habla!) a la incipiente entidad sionista, Israel, a adoptar la estrella de seis puntas como el emblema nacional. Es el símbolo de la bandera nacional de Israel, aunque un dispositivo más apropiado indudablemente sería la Torá, la Menorah o algún otro símbolo histórico o religioso.7  
   
-Geométrica y numéricamente (puntos, líneas, triángulos) la estrella de seis puntas se traduce en el número 666. Por lo tanto, es muy posible que la estrella de seis puntas se convierta en la Marca de la Bestia, el Anticristo, como se profetizó en Apocalipsis 13.  
+Geométrica y numéricamente (puntos, líneas, triángulos) la estrella de seis puntas se traduce en el número 666. Por lo tanto, es muy posible que la estrella de seis puntas se convierta en la Marca de la Bestia, el Anticristo, como se profetizó en Revelación 13.  
   
 Los iluministas, cabalistas y masones astutamente también han elegido la estrella de seis puntas como símbolo debido a sus significados sexuales ocultos. Está compuesto por dos triángulos, integrados juntos, uno superpuesto en el otro. El triángulo que apunta hacia abajo (Delta) representa la vagina femenina; el triángulo apuntaba hacia arriba, el falo masculino. Unido, o unificado, los dos triángulos representan el acto sexual generativo. 8  
   
@@ -105,11 +105,11 @@ Los iluministas, cabalistas y masones astutamente también han elegido la estrel
 
 Los Illuminati han diseñado inteligentemente la arquitectura y el arte sobre la faz de la tierra para integrar sus talismanes estrella en la cultura global. Por ejemplo, a Texas se lo llama el "estado de la estrella solitaria", una elección de los masones: Sam Houston, James Bowie, David Crockett, Stephen F. Austin y otros, que arrebataron el control político del estado en una lucha encarnizada con la masonería mexicana. (El presidente mexicano, el general Santa Anna, también era masón). Hoy, la estrella de cinco puntas de Texas, en realidad un ícono de los Illuminati, se muestra en todo el estado.  
   
-Las estrellas en la bandera de EE. UU. Son de origen masónico. La música más tarde utilizada para nuestro himno nacional, Star-Spangled Banner, fue compuesta por Mason, John Stafford Smith, miembro de Royal Somerset House e Inverness Lodge No. 4, Londres. Otro masón, Francis Scott Key, puso las palabras a la música, y se convirtió en el himno nacional de Estados Unidos. 9  
+Las estrellas en la bandera de EE. UU. son de origen masónico. La música más tarde utilizada para nuestro himno nacional, Star-Spangled Banner, fue compuesta por Mason, John Stafford Smith, miembro de Royal Somerset House e Inverness Lodge No. 4, Londres. Otro masón, Francis Scott Key, puso las palabras a la música, y se convirtió en el himno nacional de Estados Unidos. 9  
   
-Desde la Segunda Guerra Mundial, las estrellas han sido pintadas de forma destacada en equipos militares de EE. UU. -En tanques, jeeps, aviones- y como insignias y emblemas en los uniformes de los militares estadounidenses.  
+Desde la Segunda Guerra Mundial, las estrellas han sido pintadas de forma destacada en equipos militares de EE. UU. —en tanques, jeeps, aviones— y como insignias y emblemas en los uniformes de los militares estadounidenses.  
   
-Los comunistas en Rusia, China y en otros lugares -los iluministas adoptaron a la Estrella Roja como un icono dominante de la dictadura totalitaria y lo blasonaron en todo, desde sus banderas y monumentos hasta obras de arte y prendas de vestir.  
+Los comunistas en Rusia, China y en otros lugares, los iluministas adoptaron a la Estrella Roja como un icono dominante de la dictadura totalitaria y lo blasonaron en todo, desde sus banderas y monumentos hasta obras de arte y prendas de vestir.  
   
 Nada de esto es por accidente. Recuerda siempre, todo el planeta es una etapa ritual para estos locos.  
   
@@ -143,7 +143,7 @@ Dr. (Coronel) Michael Aquino, Ipsissimus y fundador del Templo de Set, con su es
 
   
 
-Los medios dedicaron alegremente una máxima atención al asesinato de un hombre negro en Jasper, Texas, por parte de tres hombres blancos. Los tres encadenaron a la víctima mutilada al parachoques de su camioneta y lo drogaron hasta que murió. Los medios informaron el asesinato grotesco como un crimen racial, un horrible víctima de prejuicio racial y odio.  
+Los medios dedicaron alegremente una máxima atención al asesinato de un hombre negro en Jasper, Texas, por parte de tres hombres blancos. Los tres encadenaron a la víctima mutilada al parachoques de su camioneta y lo drogaron hasta que murió. Los medios informaron el asesinato grotesco como un crimen racial, una horrible víctima de prejuicio racial y odio.  
   
 De hecho, el motivo del asesinato era satánico, no racial. John William King, uno de los hombres blancos acusados, tenía tatuajes de un niño Jesús con cuernos, del pentagrama satánico, la cabeza de la cabra, y más. Incluso el cabello de King fue cortado con forma de símbolos del mal. (Austin American-Statesman, 18 de febrero de 1999, p. A12)  
   
@@ -156,7 +156,7 @@ De hecho, el motivo del asesinato era satánico, no racial. John William King, u
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6MldDxRlBDNubdcJ71YU5ZMhN6wyzAXsd_Sx975oRBjS4cTOUG3zw3K1ODwK3aENf36tD3JXvv8XDXPzXpsDZdfl_uzrFYZjO57_2-i2_G-Auk_dQVl8JoZCqQvYQ9sXSO-7P29nu1o/s1600/codex_138-er1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6MldDxRlBDNubdcJ71YU5ZMhN6wyzAXsd_Sx975oRBjS4cTOUG3zw3K1ODwK3aENf36tD3JXvv8XDXPzXpsDZdfl_uzrFYZjO57_2-i2_G-Auk_dQVl8JoZCqQvYQ9sXSO-7P29nu1o/s1600/codex_138-er1.jpg)
 
   
-Un practicante de la Wicca (defensor de la brujería) rompe una Biblia por la mitad en una reunión de comisionados del condado en Florida. El hombre estaba exigiendo que la Biblia fuera eliminada de la biblioteca pública. Noten la estrella del pentáculo que cuelga de su cuello, un símbolo que representa la adoración del sol. A la izquierda, el mismo hombre se sienta en la audiencia realizando una oración pagana mientras muestra el familiar **[símbolo de "cuernos"](https://www.ritualypropaganda.com/2016/11/codex-magica-7-el-significado-de-la.html)** con ambas manos. Aún así, el abogado de brujas protestó que no practica ni practicará el satanismo o la magia negra.  
+Un practicante de la Wicca (defensor de la brujería) rompe una Biblia por la mitad en una reunión de comisionados del condado en Florida. El hombre estaba exigiendo que la Biblia fuera eliminada de la biblioteca pública. Noten la estrella del pentáculo que cuelga de su cuello, un símbolo que representa la adoración del sol. A la izquierda, el mismo hombre se sienta en la audiencia realizando una oración pagana mientras muestra el familiar **[símbolo de "cuernos"](https://www.ritualypropaganda.com/2016/11/codex-magica-7-el-significado-de-la.html)** con ambas manos. Aun así, el abogado de brujas protestó que no practica ni practicará el satanismo o la magia negra.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjekQdxuPYGPmUUcRUGlntm9iij1Rtb78u-_Sn1Gk3GzS3BpuIgf3rSrVMS3yRpAOt4orK01l4MzmcMXYXN9dUe69rP4MaMDIsmLcRXdbWDpj0xG0DVqh8P0k0NCwYcJ1zob74kbPBKBIY/s1600/codex_139.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjekQdxuPYGPmUUcRUGlntm9iij1Rtb78u-_Sn1Gk3GzS3BpuIgf3rSrVMS3yRpAOt4orK01l4MzmcMXYXN9dUe69rP4MaMDIsmLcRXdbWDpj0xG0DVqh8P0k0NCwYcJ1zob74kbPBKBIY/s1600/codex_139.jpg)
@@ -186,7 +186,7 @@ De un catálogo reciente que ofrece una gran cantidad de talismanes y amuletos, 
 
   
 
-En este anuncio de _Magical Blend_, una revista de New Age, vemos muchos símbolos ocultistas y paganos, incluida la estrella de 5 por encima de la cabeza de la diosa. El caparazón representa a la diosa del amor Afrodita que, según la mitología, surgió del mar (véase Apocalipsis 13:1 para una profecía acerca de la bestia que se eleva del mar).  
+En este anuncio de _Magical Blend_, una revista de la Nueva Era, vemos muchos símbolos ocultistas y paganos, incluida la estrella de 5 por encima de la cabeza de la diosa. La concha representa a la diosa del amor Afrodita que, según la mitología, surgió del mar (véase Revelación 13:1 para una profecía acerca de la bestia que se eleva del mar).  
   
 La figura de la diosa en este anuncio se sienta en la posición familiar de loto con la llama en su área genital y sus brazos y manos dispuestos simbólicamente.  
   
@@ -231,7 +231,7 @@ Aquino dice ser un iniciado del "Camino de la mano izquierda", que indica el cul
 
 El santuario vacío de la Orden del Templo Solar muestra signos de adoración satánica: velas dispuestas en el suelo en un patrón triangular y un hexagrama satánico en el suelo.  
   
-En octubre de 1994, los 53 adultos y niños que participaron en los rituales impíos de este culto, con sede en Suiza pero que también operan en Canadá, fueron encontrados muertos, víctimas de un suicidio en masa. El logotipo oficial del "Templo Solar" (no se muestra) es un triángulo con 1a cruz maltesa puntiaguda.  
+En octubre de 1994, los 53 adultos y niños que participaron en los rituales impíos de este culto, con sede en Suiza pero que también operan en Canadá, fueron encontrados muertos, víctimas de un suicidio en masa. El logotipo oficial del "Templo Solar" (no se muestra) es un triángulo con una cruz maltesa puntiaguda.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-pNq2FmC1paKKtROq8zPYAPsjQyJK1KoS1_83Ypgkxj8nUGCIVR3lDA85QojN5Yecg22EDF-KcdxtM3fBHNk5Y7opaGlbonOk14XGe2c14mRb-lt9kMa6unzihonek4L4m_jMi5bkkvE/s1600/anton.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-pNq2FmC1paKKtROq8zPYAPsjQyJK1KoS1_83Ypgkxj8nUGCIVR3lDA85QojN5Yecg22EDF-KcdxtM3fBHNk5Y7opaGlbonOk14XGe2c14mRb-lt9kMa6unzihonek4L4m_jMi5bkkvE/s1600/anton.jpg)
@@ -242,7 +242,7 @@ En octubre de 1994, los 53 adultos y niños que participaron en los rituales imp
 
   
 
-Portada del bestseller _The Satanic Bible_, de Anton LaVey. Sumo Sacerdote de la Iglesia de Satanás. Publicado por Avon Books, un importante editor, el título ha sido durante mucho tiempo un bestseller en las grandes cadenas de librerías. En la página 25 del libro, LaVey enumera sus "Nueve Mandamientos" sugeridos, o principios de la Iglesia de Satanás. La Biblia Satánica es sincera con sus horribles recomendaciones de adorar a Satanás como "Su infernal Majestad", y LaVey cosechó cientos, si no miles, de seguidores abiertos, incluidos políticos, cantantes y animadores, etc. Entre los devotos: el músico negro Sammy Davis Jr. y la rubia actriz de moda, Jayne Mansfield.  
+Portada del bestseller _The Satanic Bible_, de Anton LaVey. Sumo Sacerdote de la Iglesia de Satanás. Publicado por Avon Books, un importante editor, el título ha sido durante mucho tiempo un bestseller en las grandes cadenas de librerías. En la página 25 del libro, LaVey enumera sus "Nueve Mandamientos" sugeridos, o principios de la Iglesia de Satanás. La Biblia Satánica es franca con sus horribles recomendaciones de adorar a Satanás como "Su infernal Majestad", y LaVey cosechó cientos, si no miles, de seguidores abiertos, incluidos políticos, cantantes y animadores, etc. Entre los devotos: el músico negro Sammy Davis Jr. y la rubia actriz de moda, Jayne Mansfield.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEM2cFMx5s6Jt2Di3LMASTAA5WdwnbdBJZtzNY_x1IZ1eM6sFYy2cRj-5dLN1bgvTPlOhYZ9d1bs9ExFAXkg9-VfcQhF4FUrJlP2cqKFsUNXcdPqwP9yOCB2pJnlisBMLwZLG3NCx60Ro/s1600/codex_149.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEM2cFMx5s6Jt2Di3LMASTAA5WdwnbdBJZtzNY_x1IZ1eM6sFYy2cRj-5dLN1bgvTPlOhYZ9d1bs9ExFAXkg9-VfcQhF4FUrJlP2cqKFsUNXcdPqwP9yOCB2pJnlisBMLwZLG3NCx60Ro/s1600/codex_149.jpg)
@@ -260,7 +260,7 @@ En la década de 1990, el Fondo Nacional para las Artes (NEA, por sus siglas en 
   
 Extremadamente satisfecha con el arte pornográfico de Robert Mapplethorpe, la comunidad de artistas de la NEA rápidamente organizó la exhibición de sus fotografías obscenas en algunos de los mejores museos de arte de Estados Unidos. Todo esto, por supuesto, fue financiado por los contribuyentes a través de esa amable agencia cultural del gobierno, el NEA.  
   
-Bueno, trágicamente, Robert Mapplethorpe ya no está con nosotros. Murió a causa del virus del SIDA, resultado de su estilo de vida homosexual. Pero dejó una fotografía muy reveladora que se había quitado. La fotografía, titulada "Autorretrato", muestra a Mapplethorpe con un abrigo de cuero de terrorista / gángster, ametralladora en las manos. En la pared detrás del artista hay un pentagrama satánico, la estrella de cinco puntas venerada por los ocultistas.  
+Bueno, trágicamente, Robert Mapplethorpe ya no está con nosotros. Murió a causa del virus del SIDA, resultado de su estilo de vida homosexual. Pero dejó una fotografía muy reveladora que se había tomado. La fotografía, titulada "Autorretrato", muestra a Mapplethorpe con un abrigo de cuero de terrorista / gángster, ametralladora en las manos. En la pared detrás del artista hay un pentagrama satánico, la estrella de cinco puntas venerada por los ocultistas.  
   
 Francamente, mi corazón está con el fallecido Robert Mapplethorpe. Él era un hombre engañado, enfermo. Pero tengo poca simpatía por los políticos que año tras año financian los perversos gustos de la multitud de artistas de la NEA. Tampoco tengo un punto débil en mi corazón por el clero liberal que insistentemente apoya y aplaude el estilo de vida homosexual.  
   
@@ -278,7 +278,7 @@ Jack Roper, un amigo de Texe Marrs, que es un consultor de cumplimiento de la le
 
   
 
-El británico Mick Hurknell, vocalista del grupo soul Simply Red. Los fanáticos lo llaman un "dios del sexo que se pavonea" con su chaleco rojo con una estrella plateada de seis puntas como talismán alrededor del cuello. La banda ha vendido más de 20 millones de álbumes. (Foto: The European Magazine, 6 de diciembre de 1995, p.17)  
+El británico Mick Hucknall, vocalista del grupo soul Simply Red. Los fanáticos lo llaman un "dios del sexo que se pavonea" con su chaleco rojo con una estrella plateada de seis puntas como talismán alrededor del cuello. La banda ha vendido más de 20 millones de álbumes. (Foto: The European Magazine, 6 de diciembre de 1995, p. 17)  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAMne1z2Vt65j9yEwqE6Mt0TNsAjmSXhPtrI3giTmtiFmbJA6d5Kp9WnsC7peIUzfMfhgjx_e_wFmeW48a_npz_XvPjkoZXh4dhqzOUhli_Y46QF40oYRh7hZFfKavTBJD1n7UrHDMnlI/s1600/bruja-pentagrama.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAMne1z2Vt65j9yEwqE6Mt0TNsAjmSXhPtrI3giTmtiFmbJA6d5Kp9WnsC7peIUzfMfhgjx_e_wFmeW48a_npz_XvPjkoZXh4dhqzOUhli_Y46QF40oYRh7hZFfKavTBJD1n7UrHDMnlI/s1600/bruja-pentagrama.jpg)
@@ -299,9 +299,9 @@ La portada del álbum de música del grupo de rock "Rush" tiene un desnudo oblig
 
   
 
-Fortean Times (marzo de 2000), una revista especializada en lo extraño y extraño que es real, dedicó su portada y artículo a la historia documentada de Jack Parsons, el científico y genio estadounidense que hizo posible el viaje espacial con sus inventos y descubrimientos científicos. . Parsons era un sacerdote luciferino e iniciado del Ordo Templi Orientis (O.T.O.), una orden ocultista hecha infame por el inglés Aleister Crowley ("la bestia, 666").  
+Fortean Times (marzo de 2000), una revista especializada en lo extraño y extraño que es real, dedicó su portada y artículo a la historia documentada de Jack Parsons, el científico y genio estadounidense que hizo posible el viaje espacial con sus inventos y descubrimientos científicos. Parsons era un sacerdote luciferino e iniciado del Ordo Templi Orientis (O.T.O.), una orden ocultista hecha infame por el inglés Aleister Crowley ("la bestia, 666").  
   
-Parsons murió en una explosión misteriosa hace unos 50 años, pero su nombre y leyenda siguen siendo honrados por los iluministas de todo el mundo. La NASA, la agencia espacial de los Estados Unidos, incluso nombró un cráter en Marte después de Parsons. Parsons llevó a cabo rituales sexuales diseñados para invocar la venida del anticristo. Los Satanistas llaman a estos pervertidos y oscuros rituales "Babalon trabajando".  
+Parsons murió en una explosión misteriosa hace unos 50 años, pero su nombre y leyenda siguen siendo honrados por los iluministas de todo el mundo. La NASA, la agencia espacial de los Estados Unidos, incluso nombró un cráter en Marte después de Parsons. Parsons llevó a cabo rituales sexuales diseñados para invocar la venida del anticristo. Los satanistas llaman a estos pervertidos y oscuros rituales "Babalon trabajando".  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ17IIWCxuMdKjTgN56aL6gS7ijDjemIEhEGgVbMfR1Iz7FW-ZdtwZNW-7yPfOrhbroPvqPEmTWhC1z9EZUWru3dliT3j_XFT-1LYtXRIAz30N0vmHw0Nm4a8oQdbpmV5DqmFoNS7LI18/s1600/codex_155.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ17IIWCxuMdKjTgN56aL6gS7ijDjemIEhEGgVbMfR1Iz7FW-ZdtwZNW-7yPfOrhbroPvqPEmTWhC1z9EZUWru3dliT3j_XFT-1LYtXRIAz30N0vmHw0Nm4a8oQdbpmV5DqmFoNS7LI18/s1600/codex_155.jpg)
@@ -317,7 +317,7 @@ Los diseñadores creen que la estrella de cinco puntas, diseñada para flotar se
 
   
 
-Este cartel oficial increíblemente revelador fue presentado y distribuido por el Consejo de Europa, suborganización de la Comunidad Europea. Representa la reconstrucción de la Torre de Babel con el anuncio "Europa: muchas lenguas, una sola voz". Sobre la torre hay una constelación circular de estrellas en forma de pentagramas satánicos. Los masones siempre se han dado el apodo de "Los constructores". En el libro de Génesis en la Biblia, se nos dice que la construcción original de la Torre de Babel quedó en nada después de que Dios confundió a los malvados habitantes al hacerles hablar muchos idiomas diferentes. Como demuestra este póster, sin embargo, esto es un dejá vu.  
+Este cartel oficial increíblemente revelador fue presentado y distribuido por el Consejo de Europa, suborganización de la Comunidad Europea. Representa la reconstrucción de la Torre de Babel con el anuncio "Europa: muchas lenguas, una sola voz". Sobre la torre hay una constelación circular de estrellas en forma de pentagramas satánicos. Los masones siempre se han dado el apodo de "Los constructores". En el libro de Génesis en la Biblia, se nos dice que la construcción original de la Torre de Babel quedó en nada después de que Dios confundió a los malvados habitantes al hacerles hablar muchos idiomas diferentes. Como demuestra este póster, sin embargo, esto es un déjà vu.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh36WS_MYV9_UCFC52aR3mN_T5gZMlN_uT4bzqz21gyXKUgXbnFM5GZyfYiKmGRjocDNSRh7KstaZfVKVsVnN-RE6rxTbs-sU4GgnQVkvlaYMMbiSFGiUYJVLlM131DT4Tzt90ix4lJFfw/s1600/mao.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh36WS_MYV9_UCFC52aR3mN_T5gZMlN_uT4bzqz21gyXKUgXbnFM5GZyfYiKmGRjocDNSRh7KstaZfVKVsVnN-RE6rxTbs-sU4GgnQVkvlaYMMbiSFGiUYJVLlM131DT4Tzt90ix4lJFfw/s1600/mao.jpg)
@@ -331,13 +331,13 @@ El dictador comunista chino Mao Tse Tung a menudo llevaba una gorra con una estr
 
   
 
-"The Great Experiment" fue el título de este mural pintado por el artista ruso llya Glazunov. El mural pretende representar la historia de la Rusia del siglo XX. La estrella satánica de los bolcheviques es el contenedor general y en su interior se encuentra la estrella del pentáculo satánico junto con las imágenes de Lenin, Trotsky, Gorbachov y otros.  
+"The Great Experiment" fue el título de este mural pintado por el artista ruso Ilia Glazunov. El mural pretende representar la historia de la Rusia del siglo XX. La estrella satánica de los bolcheviques es el contenedor general y en su interior se encuentra la estrella del pentáculo satánico junto con las imágenes de Lenin, Trotsky, Gorbachov y otros.  
   
 **Referencias:**  
 
 1.  Aleister Crowley, El Libro de la Ley (1904).
-2.  Helena P. Blavastsky, La Voz del Silencio (Pasadena, CA: Theosophical University Press, 1889).
-3.  Steve Worrall-Clare, Freemasonry -The Secret Language (Dorset, Inglaterra: Freedom Ministries International).
+2.  Helena P. Blavatsky, La Voz del Silencio (Pasadena, CA: Theosophical University Press, 1889).
+3.  Steve Worrall-Clare, Freemasonry: The Secret Language (Dorset, Inglaterra: Freedom Ministries International).
 4.  Eliphas Levi, citado en Cathy Burns, Secretos ocultos de la Estrella del Este (Mt. Carmel, PA: Sharing, 1994), p. 316.
 5.  Cathy Burns, Ibid.
 6.  Albert Pike, citado en Ibid, p. 314.

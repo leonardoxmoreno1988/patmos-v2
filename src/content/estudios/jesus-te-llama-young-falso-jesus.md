@@ -15,35 +15,35 @@ tags: ["Falsas Doctrinas"]
 [![portada del libro Jesús Te Llama o Jesus Calling de la autora Sarah Young](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJYCtf2gi879wY7fSiiF03OZPA8nKjxSiPh19cWvPHR6x7072yMXSLf7tmZejsrDDCRXPjsQiBgVENKWsdFU62Vzzfyfw5jNe9s2lKwlenrxoN0WESjqB0BmDWepcK903MvloYp_9MXwQ/s1600/jesus-te-llama.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJYCtf2gi879wY7fSiiF03OZPA8nKjxSiPh19cWvPHR6x7072yMXSLf7tmZejsrDDCRXPjsQiBgVENKWsdFU62Vzzfyfw5jNe9s2lKwlenrxoN0WESjqB0BmDWepcK903MvloYp_9MXwQ/s1600/jesus-te-llama.jpg)
 
   
-Esto no es un comentario convencional del libro o su historia, ni es el propósito analizar todo el contenido. Aunque se tratan varias áreas preocupantes, este documento es una respuesta principalmente a dos cuestiones: 1) Las afirmaciones hechas por Young con respecto a lo que ella escribió y las supuestas palabras que le habló Jesús; Y 2) la afirmación de Young sobre la influencia de las "dos oyentes" que estuvo en ella cuando escribía el libro. La admiración de Young e inspiración admitida de este último libro, también será examinadas.  
+Esto no es un comentario convencional del libro o su historia, ni es el propósito de analizar todo el contenido. Aunque se tratan varias áreas preocupantes, este documento es una respuesta principalmente a dos cuestiones: 1) Las afirmaciones hechas por Young con respecto a lo que ella escribió y las supuestas palabras que le habló Jesús; Y 2) la afirmación de Young sobre la influencia de las "dos oyentes" que estuvo en ella cuando escribía el libro. La admiración de Young e inspiración admitida de este último libro, también serán examinadas.  
 
 ## ¿La Palabra de Dios - Suficiente Alimento?
 
 Jesús Te Llama ofrece devociones diarias compuestas de palabras como si fueran habladas por Jesús, con la citación acompañante de versos. Antes de mirar el contenido, es crucial examinar lo que afirma Young sobre la fuente de estas palabras: por qué escribió esto y cómo lo escribió.  
   
-En la introducción a su primer libro, Jesús Te Llama, Young escribe, **"Yo sabía que Dios se comunicaba conmigo en la Biblia, pero anhelaba más."** \[1\] ¿Por qué la palabra de Dios sería insuficiente para entregar el alimento espiritual que Dios afirma es suficente?
+En la introducción a su primer libro, Jesús Te Llama, Young escribe, **"Yo sabía que Dios se comunicaba conmigo en la Biblia, pero anhelaba más."** \[1\] ¿Por qué la palabra de Dios sería insuficiente para entregar el alimento espiritual que Dios afirma es suficiente?
 
   
 
 **Nota:** Si deseas recibir más contenido sobre el falso evangelio, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
-Hay contraste del anhelo de Young por "más" con cómo la Biblia retrata la palabra de Dios. En respuesta a una de las tentaciones de Satanás, tenemos a Jesús citando Deut. 8: 3:  
+Hay contraste del anhelo de Young por "más" con cómo la Biblia retrata la palabra de Dios. En respuesta a una de las tentaciones de Satanás, tenemos a Jesús citando Deut. 8:3:  
   
 "Pero él respondió:"Está escrito: El hombre no debe vivir sólo de pan, sino de toda palabra que sale de la boca de Dios".  
   
-En primera de Pedro, leemos: "Como el recién nacido, anhela la leche sin mancilla de la palabra, para que por ella seas crecido para la salvación" (1 Pedro 2:2, también ver 1 Corintios 3:2, Heb.5 : 14). Pablo exhortó a Timoteo a "ser nutrido con las palabras de la fe y de la buena enseñanza que han seguido de cerca" (1 Tim 4:6).  
+En 1 Pedro, leemos: "Como el recién nacido, anhela la leche sin mancilla de la palabra, para que por ella seas crecido para la salvación" (1 Pedro 2:2, también ver 1 Corintios 3:2, Heb. 5:14). Pablo exhortó a Timoteo a "ser nutrido con las palabras de la fe y de la buena enseñanza que han seguido de cerca" (1 Tim 4:6).  
   
 Volviendo al Antiguo Testamento, vemos las palabras de Dios comparadas a la comida:  
   
 "Cuando llegaron tus palabras, las comí; Fueron mi alegría y el deleite de mi corazón." - Jeremías 15:16a.  
   
-"¡Qué dulces son tus palabras a mi gusto, más dulces que la miel a mi boca!" PD. 119: 103  
+"¡Qué dulces son tus palabras a mi gusto, más dulces que la miel a mi boca!" Salmo 119:103  
   
-"Y me dijo: Hijo de hombre, come este rollo que te doy y llena tuestómago. Y lo comí, y en mi boca me pareció dulce como la miel." -Ezequiel 3:3 (véase también Apocalipsis 10:9, 10)  
+"Y me dijo: Hijo de hombre, come este rollo que te doy y llena tu estómago. Y lo comí, y en mi boca me pareció dulce como la miel." -Ezequiel 3:3 (véase también Revelación 10:9, 10)  
   
 Uno de los temas de la Biblia es el poder de la palabra de Dios para consolar, exhortar, alentar y nutrir a los que han creído. Uno nunca puede llegar a terminar de estudiar o conocer la Biblia porque, reflejando la naturaleza de Dios, su palabra es infinitamente profunda y sabia.  
   
-"Toda la Escritura es inspirada por Dios y es útil para enseñar, para reprender, para corregir y para instruir en justicia, para que el hombre de Dios sea perfectamente preparado para toda buena obra" (2 Timoteo 3:16, 17; 19: 8, 10, Mateo 22:29, Juan 10:35, Actos 17:11, 1 Tesalonicenses 2:13, Hebreos 4:12, 2 Pedro 1:19-21).  
+"Toda la Escritura es inspirada por Dios y es útil para enseñar, para reprender, para corregir y para instruir en justicia, para que el hombre de Dios sea perfectamente preparado para toda buena obra" (2 Timoteo 3:16, 17; 19:8, 10, Mateo 22:29, Juan 10:35, Actos 17:11, 1 Tesalonicenses 2:13, Hebreos 4:12, 2 Pedro 1:19-21).  
   
 Si alguien no está satisfecho con la Palabra de Dios como el camino para crecer más cerca de Cristo y crecer como cristiano, eso abre la puerta a vías extrabíblicas de engaño. Si bien es cierto que la oración, el compañerismo con otros cristianos y la adoración son necesarios para madurar en la vida cristiana, estos son lugares adicionales y diferentes, nunca sustituyen la palabra de Dios. El descontento con la palabra de Dios debería ser una advertencia, y de hecho llevó a Young a una avenida de comunicación llena de peligro espiritual.  
   
@@ -60,7 +60,7 @@ Consciente de que podría ser acusada de equiparar estos mensajes con la Biblia,
   
 Young afirma categóricamente que el Espíritu Santo está "ayudándola" y guiando su pensamiento al escribir estos mensajes de Jesús. Entonces, ¿por qué necesita "asegurarse de que son consistentes con la Escritura?" Si los escritos necesitan ser revisados, ¿por qué ella piensa que es Jesús quien está hablando, y si hay duda, por qué grabar las palabras, especialmente en libros a ser comercializados. Además, si son de Jesús, que es como se presentan, entonces, por definición, son inspirados.  
   
-Usted no puede tener ambos caminos, diciendo que estas palabras son de Jesús pero necesitan ser revisadas; Son de Jesús pero no son inspirados; O los mensajes están escritos con la guía del Espíritu Santo pero no a la par con la Escritura. ¿No ve Young las afirmaciones increíbles que se están haciendo y el problema insoluble y contradictorio resultante? Aparentemente no.  
+Usted no puede tener ambos caminos, diciendo que estas palabras son de Jesús pero necesitan ser revisadas; son de Jesús pero no son inspirados; o los mensajes están escritos con la guía del Espíritu Santo pero no a la par con la Escritura. ¿No ve Young las afirmaciones increíbles que se están haciendo y el problema insoluble y contradictorio resultante? Aparentemente no.  
   
 Como alguien que anteriormente estaba involucrado en la Nueva Era, estoy obligado a decir que escuchar un mensaje de un ser sobrenatural para escribir palabras oídas o dictadas por este ser en una forma de escritura automática, una práctica oculta. No hay otro término apropiado para esto.  
   
@@ -80,7 +80,7 @@ La primera vez que encontré a Dios Te Llama fue como un creyente muy nuevo mien
   
 Aunque en ese momento yo no conocía muy bien la Biblia, reconocí declaraciones que yo sabía que no eran compatibles con lo que había leído en la Biblia y que conocía de Dios. Casi me dirigí al empleado con mis preocupaciones, pero siendo un cristiano tan nuevo, no estaba lo suficientemente seguro como para decir nada.  
   
-Las devociones diarias en Dios Te Llama, escrito como si Dios / Jesús está hablando, se produjo en 1932 cuando dos mujeres anónimas decidieron sentarse con lápices y papeles y esperar a escuchar las palabras de Dios. La afirmación está hecha en el prólogo del editor A. J. Russell de que estas dos mujeres recibieron mensajes "del mismo Cristo Viviente". \[9\]  
+Las devociones diarias en Dios Te Llama, escrito como si Dios / Jesús estuviera hablando, se produjeron en 1932 cuando dos mujeres anónimas decidieron sentarse con lápices y papeles y esperar a escuchar las palabras de Dios. La afirmación está hecha en el prólogo del editor A. J. Russell de que estas dos mujeres recibieron mensajes "del mismo Cristo Viviente". \[9\]  
   
 Una oyente, que escribe en la introducción, declara cuán agradecidos estaban de recibir esta comunicación directa "cuando millones de almas, mucho más dignas, tuvieron que contentarse con la guía de la Biblia, sermones, iglesias, libros y otras fuentes" \[10\]  
   
@@ -90,7 +90,7 @@ Aquí de nuevo, como con Young, está la insatisfacción con la palabra de Dios 
 > "ERES MUY PRIVILEGIADO, AMBOS LO SON. COMPARTO MIS PLANES Y MIS SECRETOS CON USTEDES Y LES HAGO CONOCER MI PROPÓSITO, MIENTRAS OTROS TIENEN QUE BUSCAR CIEGAMENTE".
 
   
-Por lo tanto, ¿Al resto del mundo cristiano se les deja a indagar "con la escasez implícita" de la revelación de Dios en la Biblia? Esto es alarmante.  
+Por lo tanto, ¿al resto del mundo cristiano se les deja a indagar "con la escasez implícita" de la revelación de Dios en la Biblia? Esto es alarmante.  
   
 
 ## Orígenes del "Escuchar"
@@ -106,14 +106,14 @@ Aunque Russell escribe que varios criterios se utilizaron para medir esta "orien
   
 Al parecer, las "dos oyentes" eran seguidores de este método y, sin duda, parte del Grupo de Oxford. Así que no es sorprendente que se hagan muchas declaraciones no bíblicas. Por ejemplo, uno que se repite unas cuantas veces y es uno de los más atroces es esta:  
   
-"En verdad dije a mis discípulos: "Todavía tengo muchas cosas que deciros, pero ahora no podéis soportarlas." Pero a ustedes y a las dos que se reúnen para escucharme, puedo declarar esas cosas ahora, que entonces me fui sin decirlas. (14 de abril)  
+"En verdad dije a mis discípulos: "Todavía tengo muchas cosas que deciros, pero ahora no podéis soportarlas." Pero a ustedes y a las dos que se reúnen para escucharme, puedo declarar esas cosas ahora, que entonces me fui sin decirlas." (14 de abril)  
   
 Esta declaración está siendo usada como si Jesús se estuviera refiriendo a la gente más adelante, como las dos oyentes y otros, que recibirían revelación adicional. Sin embargo, Jesús no está diciendo eso. Jesús está hablando a sus discípulos y deja claro en el versículo siguiente lo que esto significa:
 
   
 "Todavía tengo muchas cosas que decirte, pero no puedes soportarlas ahora. Cuando el Espíritu de verdad venga, Él os guiará a toda la verdad. Porque no hablará por sí mismo, sino que hablará todo lo que oyere. Él también le declarará lo que está por venir." -Juan 16:12-13  
   
-Esto se refería a cuando los discípulos recibirían el Espíritu Santo en el Pentecostés y las enseñanzas posteriores a través de la Escritura. \[14\] Convertir esto en un respaldo de escuchar y escribir lo que uno siente viene de Dios es cambiar el texto. Este es el tipo de torcedura bíblica hecha por los cultos. Otro ejemplo de como se tuerce la escritura el libro. \[15\]  
+Esto se refería a cuando los discípulos recibirían el Espíritu Santo en el Pentecostés y las enseñanzas posteriores a través de la Escritura. \[14\] Convertir esto en un respaldo de escuchar y escribir lo que uno siente viene de Dios es cambiar el texto. Este es el tipo de torcedura bíblica hecha por los cultos. Otro ejemplo de cómo el libro tuerce la Escritura. \[15\]  
   
 
 ## Filosofía del Nuevo Pensamiento
@@ -128,7 +128,7 @@ El Nuevo Pensamiento, un movimiento en los siglos XIX y XX, afirmó ser parte de
   
 El hombre está naturalmente conectado con Dios y al afirmar estas nuevas verdades, el pensamiento de uno se cambia, trayendo así el estado espiritual (la conciencia) a un supuesto "nivel superior". \[16\] Al referirse a Jesús y al reconocer la historia bíblica, imbuye el texto bíblico con significados completamente diferentes. La Nueva Era adoptó el núcleo del Nuevo Pensamiento como otra faceta de su corpus masivo y, por lo tanto, los dos a menudo se superponen.  
   
-Los términos observados en las entradas del  27 de febrero, 10 y 13 de marzo, 19 de junio, 29 de julio, 18 de agosto y 17 de noviembre incluyen "manifestación material", "vida espiritual", " , "Espíritu-reino", "el plano material", "Espíritu de sonido", "espíritu entendido" y "mundo-Espíritu". Este lenguaje se usa en el Nuevo Pensamiento y la Nueva Era, denotando un material gnóstico basado en la dualidad.  
+Los términos observados en las entradas del 27 de febrero, 10 y 13 de marzo, 19 de junio, 29 de julio, 18 de agosto y 17 de noviembre incluyen "manifestación material", "vida espiritual", " , "Espíritu-reino", "el plano material", "Espíritu de sonido", "espíritu entendido" y "mundo-Espíritu". Este lenguaje se usa en el Nuevo Pensamiento y la Nueva Era, denotando un gnosticismo material basado en la dualidad.  
   
 Incluso teniendo en cuenta cuando este libro fue escrito, estos términos no son cristianos y nunca lo han sido, y algunos se usan en el Espiritismo (aunque una lectura condena irónicamente el espiritismo). \[17\]  
   
@@ -156,13 +156,13 @@ Este concepto, enfatizando la divinidad innata del hombre, así como la dualidad
   
 Y de manera similar,  
   
-Vivir en el pensamiento sobre lo material, una vez vivas que en Mí - es llamarlo a la existencia".  
+"Vivir en el pensamiento sobre lo material, una vez vivas que en Mí - es llamarlo a la existencia".  
   
 En otras palabras, una vez que su mente se convierte a la longitud de onda del Nuevo Pensamiento, que es la conciencia de la naturaleza divina, usted puede manifestar en realidad lo que está pensando. Este es exactamente el mismo mensaje dado por el libro más vendido y DVD, El Secreto. \[19\]  
   
 Esta obra popular enseña que se puede producir lo que se piensa a través de ciertas técnicas y se deriva directamente de las enseñanzas del Nuevo Pensamiento. (Muchos de los primeros maestros del Nuevo Pensamiento son citados, y la autora Rhonda Byrne elaboró este trabajo como resultado de la lectura del maestro del Nuevo Pensamiento Wallace Wattles).  
   
-Además, esta capacidad de manifestarse del Nuevo Pensamiento se aplica también al "plano espiritual", por lo que hay que tener cuidado en cómo se piensa. Este es el concepto que dio lugar a la locura del "pensamiento positivo" (el "plano espiritual" es auténtico espiritualismo y un término usado para el nuevo pensamiento):  
+Además, esta capacidad de manifestarse del Nuevo Pensamiento se aplica también al "plano espiritual", por lo que hay que tener cuidado en cómo se piensa. Este es el concepto que dio lugar a la locura del "pensamiento positivo" (el "plano espiritual" es auténtico espiritualismo y un término usado para el Nuevo Pensamiento):  
   
 
 > "ASÍ QUE USTED DEBE TENER CUIDADO PARA PENSAR SÓLO LO QUE DESEA Y LO QUE LE AYUDA, NO ALEJANDO, SU CRECIMIENTO ESPIRITUAL. LA MISMA LEY OPERA TAMBIÉN EN EL PLANO ESPIRITUAL ".
@@ -227,7 +227,7 @@ El término "camino alto" se usa al menos tres veces (18 de enero, 27 de enero, 
   
 Atrévete a caminar en el camino alto conmigo, porque es el camino más directo al cielo. El camino bajo es tortuoso: se tuerce y gira en nudos agonizantes. (27 de enero)  
   
-El punto es confiar, pero ¿Cómo es la confianza (asumiendo que esto es a lo que el "camino alto" se refiere a) la "ruta más directa al cielo?" Incluso si un cristiano está en el "camino bajo" ¿No llegará a cielo también? Si un camino es el "más directo", significa que hay otros caminos al cielo que son menos directos. Este término ambiguo y esta declaración bastante confusa no es una idea que se encuentre en las Escrituras.  
+El punto es confiar, pero ¿cómo es la confianza (asumiendo que esto es a lo que el "camino alto" se refiere a) la "ruta más directa al cielo?" Incluso si un cristiano está en el "camino bajo" ¿No llegará al cielo también? Si un camino es el "más directo", significa que hay otros caminos al cielo que son menos directos. Este término ambiguo y esta declaración bastante confusa no es una idea que se encuentre en las Escrituras.  
   
 Hay un enfoque excesivo en el silencio y la quietud que se encuentra en tantas lecturas que sería imposible enumerarlas todas, lo que implica que estas son prácticas espirituales superiores. Como en muchos otros textos, sermones y sitios web en línea, el Salmo 46:10 es mal utilizado. El Salmo 46:10, traducido como "Quédate quieto" en algunas versiones es "Deja de luchar" en la Nueva Norma Americana, y en realidad es un reproche a las naciones que luchan contra el pueblo de Dios. Cuando se lee en contexto, está muy claro que esto no tiene nada que ver con estar físicamente inmóvil para meditar o contemplar algo. \[22\]  
   
@@ -236,14 +236,14 @@ Hay un enfoque excesivo en el silencio y la quietud que se encuentra en tantas l
 
 La pregunta más importante a hacerse sobre este libro es: ¿Está Jesús hablando, como Young afirma que lo hace? Aparte de las inquietantes cuestiones mencionadas, vale la pena considerar algunas más.  
   
-Muchos de los devocionales se asemejan a los malos mensajes de las tarjeta de felicitaciónes con lenguaje sentimental. Por ejemplo, "Que el rocío de mi presencia refresque tu mente y corazón" (3 de septiembre, éste también hace mal uso de las palabras "Quédate quieto"); "Siente que tu rostro se encoge mientras disfrutas en mi luz de amor" (Sept. 7); Y "Como un velo luminoso de luz, flotaré sobre ti y todo lo que te rodea" (3 de diciembre). Considerando quién es Jesús y el lenguaje potente de la Escritura, ¿Por qué usaría frases tan ridículas?  
+Muchos de los devocionales se asemejan a los malos mensajes de las tarjetas de felicitación con lenguaje sentimental. Por ejemplo, "Que el rocío de mi presencia refresque tu mente y corazón" (3 de septiembre, éste también hace mal uso de las palabras "Quédate quieto"); "Siente que tu rostro se encoge mientras disfrutas en mi luz de amor" (Sept. 7); Y "Como un velo luminoso de luz, flotaré sobre ti y todo lo que te rodea" (3 de diciembre). Considerando quién es Jesús y el lenguaje potente de la Escritura, ¿Por qué usaría frases tan ridículas?  
   
-En otros lugares, El Jesús de Young muestra un complejo de mártir con un tono suave de auto-admiración. "Imagínate", dice, hablando de sí mismo, "el dominio propio que requiere un mártir que puede liberarse a voluntad" (20 de diciembre). Para el 25 de diciembre, este Jesús dice:  
+En otros lugares, el Jesús de Young muestra un complejo de mártir con un tono suave de auto-admiración. "Imagínate", dice, hablando de sí mismo, "el dominio propio que requiere un mártir que puede liberarse a voluntad" (20 de diciembre). Para el 25 de diciembre, este Jesús dice:  
   
 "Acepté las limitaciones de la infancia bajo las condiciones más espantosas: un establo sucio. Fue una noche oscura para mí.  
   
 
-> ESTAS DECLARACIONES NO REFLEJAN EL CARÁCTER DE CRISTO; CRISTO NO BUSCA NUESTRA SIMPATÍA O AGRADECIMIENTO POR MEDIO DE COMENTARIOS DE AUTOCOMPASÍON.
+> ESTAS DECLARACIONES NO REFLEJAN EL CARÁCTER DE CRISTO; CRISTO NO BUSCA NUESTRA SIMPATÍA O AGRADECIMIENTO POR MEDIO DE COMENTARIOS DE AUTOCOMPASIÓN.
 
   
 Aquellos que promueven este libro dirán que Young no está asegurando que estas palabras son de Jesús, pero como lo demostré anteriormente, ella realmente está haciendo eso mismo. No hay otra manera razonable de interpretar sus afirmaciones.  
@@ -252,11 +252,11 @@ Y cuando uno lee cada entrada escrita tan inequívocamente como si Jesús estuvi
   
 Mi respuesta a la pregunta: No, no creo que este sea Jesús el que está "llamando".  
   
-\[NOTA: Tenga en cuenta que un año después de que este artículo fue escrito, una edición del décimo aniversario de Jesús Te Llama fue lanzado por el editor Thomas Nelson. Partes de la Introducción original del libro, a las que se hace referencia en este artículo, fueron eliminadas o cambiadas. Esto incluye la eliminación de la declaración de Young de que el libro Dios Te Llama era la inspiración principal de ella para escribir este libro, y el intercambio de palabras que previamente indicó que estaba escuchando directamente de Jesús.  
+\[NOTA: Tenga en cuenta que un año después de que este artículo fue escrito, una edición del décimo aniversario de Jesús Te Llama fue lanzada por el editor Thomas Nelson. Partes de la Introducción original del libro, a las que se hace referencia en este artículo, fueron eliminadas o cambiadas. Esto incluye la eliminación de la declaración de Young de que el libro Dios Te Llama era la inspiración principal de ella para escribir este libro, y el intercambio de palabras que previamente indicó que estaba escuchando directamente de Jesús.  
   
-Las declaraciones anteriores de que estaba recibiendo "mensajes" de Jesús fueron cambiadas a "escritos" que ella "recolectó" en momentos de silencio y "devocionales". Otras partes de la edición original, como Young afirmando que anhelaba más que el Biblia, también han sido eliminados.  
+Las declaraciones anteriores de que estaba recibiendo "mensajes" de Jesús fueron cambiadas a "escritos" que ella "recolectó" en momentos de silencio y "devocionales". Otras partes de la edición original, como Young afirmando que anhelaba más que la Biblia, también han sido eliminadas.  
   
-Además, algunas de las supuestas palabras de Jesús en las ediciones originales fueron alteradas. En consecuencia, este artículo se refiere y cita declaraciones que no se encuentran en ediciones posteriores. Estos cambios indican que el editor reconoce estos problemas, pero en lugar de una retracción o explicación, sólo existe y se planeó un encubrimiento silencioso.\]  
+Además, algunas de las supuestas palabras de Jesús en las ediciones originales fueron alteradas. En consecuencia, este artículo se refiere y cita declaraciones que no se encuentran en ediciones posteriores. Estos cambios indican que el editor reconoce estos problemas, pero en lugar de una retracción o explicación, sólo existe un encubrimiento silencioso planeado.\]  
 **Referencias**  
   
 \[1\] Sarah Young, Jesús Te Llama (Nashville: Thomas Nelson, 2004), XI.  
@@ -273,7 +273,7 @@ Además, algunas de las supuestas palabras de Jesús en las ediciones originales
   
 \[7\] Ibid., XI.  
   
-\[8\] Dios Te Llama, ed. A. J. Russell (Eversham, Reino Unido: Arthur James Ltd., 1989), "The Voice Divine" en Introducción (esta edición no tiene números de página).  
+\[8\] Dios Te Llama, ed. A. J. Russell (Evesham, Reino Unido: Arthur James Ltd., 1989), "The Voice Divine" en Introducción (esta edición no tiene números de página).  
   
 \[9\] Ibid., "Los dos oyentes".  
   

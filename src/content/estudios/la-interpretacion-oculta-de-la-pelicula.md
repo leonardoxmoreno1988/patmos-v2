@@ -28,7 +28,7 @@ Dirigida por Darren Aronofsky, Cisne Negro sigue a la tímida bailarina Nina a l
 
   
 
-A menudo me recuerda que las grandes obras de arte se puede interpretar de muchas maneras, dependiendo de los conocimientos y las experiencias de cada espectador. Esta película no es una excepción ... hay maneras numerosas de hecho de interpretar la trama de la película. A través del uso de significados y símbolos, sin embargo, la película alude claramente a muchos temas discutidos previamente en este sitio: el lado oscuro y oculto de la fama, la dualidad, el control mental basado en el trauma, la creación forzada de una alter personalidad y mucho más. El personaje principal, Nina, pasa por un cambio metafísico - poniéndose en contacto con su "lado oscuro" - con el fin de mejorar su desempeño. Este cambio se impone a Nina por su "controlador", en este caso, su director de ballet. La película utiliza sutiles referencias al control mental basado en el trauma para explicar la creación de un estado independiente (alter-persona) en la psique de Nina.
+A menudo me recuerda que las grandes obras de arte se pueden interpretar de muchas maneras, dependiendo de los conocimientos y las experiencias de cada espectador. Esta película no es una excepción ... hay maneras numerosas de hecho de interpretar la trama de la película. A través del uso de significados y símbolos, sin embargo, la película alude claramente a muchos temas discutidos previamente en este sitio: el lado oscuro y oculto de la fama, la dualidad, el control mental basado en el trauma, la creación forzada de una alter personalidad y mucho más. El personaje principal, Nina, pasa por un cambio metafísico - poniéndose en contacto con su "lado oscuro" - con el fin de mejorar su desempeño. Este cambio se impone a Nina por su "controlador", en este caso, su director de ballet. La película utiliza sutiles referencias al control mental basado en el trauma para explicar la creación de un estado independiente (alter-persona) en la psique de Nina.
 
   
 
@@ -41,13 +41,13 @@ A pesar de que el Cisne Negro es una ficción, no obstante, explora la realidad 
 Cisne Negro es una versión moderna del ballet clásico de Piotr Ilich Tchaikovsky, Lago de los Cisnes. En la película, el director de ballet, Leroy Thomas (interpretado por Vincent Cassel), describe a sus bailarines la trama básica del ballet:  
   
 
-> **"Todos sabemos la historia. chica virginal, pura y dulce, atrapada en el cuerpo de un cisne. Ella desea la libertad, pero sólo el amor verdadero puede romper el hechizo. Su deseo es casi concedido en forma de un príncipe. Pero, antes de que pueda declarar su amor, el gemelo lujurioso, el Cisne Negro, usa trucos y lo seduce. Devastado, el Cisne Blanco salta desde un acantilado, matándose a sí misma y, en la muerte, encuentra la libertad."**
+> **"Todos sabemos la historia. Chica virginal, pura y dulce, atrapada en el cuerpo de un cisne. Ella desea la libertad, pero sólo el amor verdadero puede romper el hechizo. Su deseo es casi concedido en forma de un príncipe. Pero, antes de que pueda declarar su amor, el gemelo lujurioso, el Cisne Negro, usa trucos y lo seduce. Devastado, el Cisne Blanco salta desde un acantilado, matándose a sí misma y, en la muerte, encuentra la libertad."**
 
   
 Nina, una joven tímida y frágil, es elegida para interpretar el papel de la Reina de los Cisnes y debe, por lo tanto, encarnar tanto al Cisne Blanco puro como al Cisne Negro malvado. Su búsqueda de la perfección como bailarina de ballet la lleva a experimentar, en su vida cotidiana, la transformación experimentada por el Cisne Blanco en la historia del ballet. Los eventos de la vida cotidiana de Nina, por lo tanto, reflejan la historia del personaje que interpreta como bailarina de ballet, lo que en última instancia conduce a la confusión y, a medida que la línea entre la realidad y la ficción se desdibuja, aparente locura.  
   
 
-El uso del director de los espejos y las reflexiones en numerosas escenas son un recordatorio constante de la percepción alterada de Nina de la realidad. Los espejos en la película son a menudo engañosos y las reflexiones de Nina parecen tener una "vida propia". A medida que Nina se obsesiona con el Cisne Negro, esta persona alternativa toma vida propia y actúa fuera del control consciente de Nina. Explicaremos más adelante cómo esto se relaciona con el control mental basado en el trauma.  
+El uso de los espejos por parte del director y las reflexiones en numerosas escenas son un recordatorio constante de la percepción alterada de Nina de la realidad. Los espejos en la película son a menudo engañosos y las reflexiones de Nina parecen tener una "vida propia". A medida que Nina se obsesiona con el Cisne Negro, esta persona alternativa toma vida propia y actúa fuera del control consciente de Nina. Explicaremos más adelante cómo esto se relaciona con el control mental basado en el trauma.  
   
 Si no ha leído otros artículos en este sitio, el control mental basado en el trauma, también conocido como **[Programación Monarca](https://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)**, es el proceso en el cual un individuo es sometido a un intenso trauma y deshumanización para causar una disociación mental. Esto provoca una fragmentación de la personalidad del esclavo y permite al controlador crear una persona alternativa que se puede programar a voluntad. Algunos investigadores afirman que hay elementos ocultos en este proceso.
 
@@ -82,13 +82,13 @@ La madre de Nina, una bailarina de ballet jubilada que no se convirtió en una e
 
 [![nina asustada](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsdaoXGL_w_eAJIN96BBOYlaTljJB9wOldu2SJeTMAtdTW7TRBGX-nDFP84JwNZeh1wB_QcLKjLf9ix2h78RKpNxVq7hnFCIk3ymEJH7GXAQHi8QsKqXAVn-Uilbwt9AG-tpGVt2S0rzik/s1600/blackswan31-e1299875500353.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsdaoXGL_w_eAJIN96BBOYlaTljJB9wOldu2SJeTMAtdTW7TRBGX-nDFP84JwNZeh1wB_QcLKjLf9ix2h78RKpNxVq7hnFCIk3ymEJH7GXAQHi8QsKqXAVn-Uilbwt9AG-tpGVt2S0rzik/s1600/blackswan31-e1299875500353.jpg)
 
-Cada noche, Erica Sayers coloca la caja de música al lado de Nina a fin de crear a la pequeña bailarina. Esto es muy simbólico en el estado de control mental de Nina.
+Cada noche, Erica Sayers coloca la caja de música al lado de Nina a fin de crear a la pequeña bailarina. Esto es muy simbólico del estado de control mental de Nina.
 
   
 
 [![nataly portman desnuda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaHnOC_R9vmxc80-dNkKG0U8c2c8XQ8Y_CB-rmASRl5-1YgfZ-r1-rpfNigul4jbwG38sM_OZ29Oj_yJqY0iFKBB7e8cAsWOrh7eUTeSMlfMVzyICXY5uCYak44nwxhV_rPoPtGP5P12BR/s1600/blackswan21-e1299875531724.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaHnOC_R9vmxc80-dNkKG0U8c2c8XQ8Y_CB-rmASRl5-1YgfZ-r1-rpfNigul4jbwG38sM_OZ29Oj_yJqY0iFKBB7e8cAsWOrh7eUTeSMlfMVzyICXY5uCYak44nwxhV_rPoPtGP5P12BR/s1600/blackswan21-e1299875531724.jpg)
 
- Erica, la madre de Nina, fuerza a desnudarse a su hija adulta. Esta escena inquietante muestra de la sumisión total de Nina a su madre y también la no saludable "familiaridad" sexual entre las dos.
+ Erica, la madre de Nina, fuerza a desnudarse a su hija adulta. Esta escena inquietante muestra la sumisión total de Nina a su madre y también la no saludable "familiaridad" sexual entre las dos.
 
   
 
@@ -97,11 +97,11 @@ Otras personas en la vida de Nina, al parecer, se aprovechan de su debilidad y "
 
 [![enfermo sexual](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzznegCaZstikl3LV5nckCeZ6MKYAPm07CAif0rncwSOej1NQDctTWHl11_Vj5JeywWngZenJP8o-rXXAPgIpK9gx-utWLTAovXU1msUx-d_40QTQo746gVI8Ue9ds7aD2HeNH56AALuVl/s1600/blackwan51-e1299875555461.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzznegCaZstikl3LV5nckCeZ6MKYAPm07CAif0rncwSOej1NQDctTWHl11_Vj5JeywWngZenJP8o-rXXAPgIpK9gx-utWLTAovXU1msUx-d_40QTQo746gVI8Ue9ds7aD2HeNH56AALuVl/s1600/blackwan51-e1299875555461.jpg)
 
-Un viejo pervertido hace gestos obscenos a Nina cuando viajen en el tren. Esta escena perturbadora dice mucho sobre la relación de Nina a la sexualidad. Los depredadores sexuales a veces tienen la capacidad de olfatear y aprovecharse de las víctimas de abuso sexual.
+Un viejo pervertido hace gestos obscenos a Nina cuando viaja en el tren. Esta escena perturbadora dice mucho sobre la relación de Nina con la sexualidad. Los depredadores sexuales a veces tienen la capacidad de olfatear y aprovecharse de las víctimas de abuso sexual.
 
   
 
-Por lo tanto, la madre de Nina sometió a su hija a un control mental basado en el trauma para convertirla en una mujer sumisa que realizaría los sueños fallidos de su madre. Esto ha capacitado a Nina para desasociarse y hacer que su existencia sea soportable, lo que a su vez convierte a Nina en el sujeto perfecto para la creación de un alter oscuro: el Cisne Negro.  
+Por lo tanto, la madre de Nina sometió a su hija a un control mental basado en el trauma para convertirla en una mujer sumisa que realizaría los sueños fallidos de su madre. Esto ha capacitado a Nina para disociarse y hacer que su existencia sea soportable, lo que a su vez convierte a Nina en el sujeto perfecto para la creación de un alter oscuro: el Cisne Negro.  
   
 
 ## Sacando al Cisne Negro
@@ -116,7 +116,7 @@ Thomas "sacando" el Cisne Negro de Nina.
 
   
 
-En un momento, Tomás le dice a Nina:  
+En un momento, Thomas le dice a Nina:  
   
 
 > **"La perfección no se trata sólo de control. También se trata de dejar ir. Sorprenderse uno mismo para que pueda sorprender a la audiencia. Trascendencia. Muy pocos lo tienen."**
@@ -128,9 +128,9 @@ Viendo la danza de Nina, más tarde dice:
 > **"Yo sabía que el Cisne Blanco no sería un problema. El verdadero trabajo sería la metamorfosis en su gemelo malvado."**
 
   
-Con el fin de obtener la perfección, o en términos alquímicos, para llevar a cabo la Gran Obra, Nina deben dominar tanto el bien y el mal - la luz y la oscuridad. El concepto oculto de la dualidad se convierte por tanto en extremadamente importante (más sobre esto adelante).  
+Con el fin de obtener la perfección, o en términos alquímicos, para llevar a cabo la Gran Obra, Nina debe dominar tanto el bien como el mal - la luz y la oscuridad. El concepto oculto de la dualidad se convierte por tanto en extremadamente importante (más sobre esto adelante).  
   
-El trabajo de Thomas es la creación de Nina en un nuevo y agresivo y sexual alter-ego. Por lo tanto, se convierte en el nuevo manejador de Nina sobre su control mental. Mientras que su madre "programaba" a su hija a ser una bailarina de ballet sumisa que nunca le hacia preguntas a su madre / controladora, Thomas le exija todo lo contrario. Él representa la "grandes ligas", el siguiente nivel de la programación Monarca.
+El trabajo de Thomas es la creación de Nina en un nuevo y agresivo y sexual alter-ego. Por lo tanto, se convierte en el nuevo manejador de Nina sobre su control mental. Mientras que su madre "programaba" a su hija a ser una bailarina de ballet sumisa que nunca le hacía preguntas a su madre / controladora, Thomas le exigía todo lo contrario. Él representa las "grandes ligas", el siguiente nivel de la programación Monarca.
 
   
 
@@ -139,10 +139,10 @@ El trabajo de Thomas es la creación de Nina en un nuevo y agresivo y sexual alt
 **Después de su reunión con Thomas, Nina, vestida de blanco, se cruza con otra Nina, vestida de negro. Esta simbólicamente representa la llegada del nuevo y oscuro alter-ego de Nina.**
 
   
-Con el fin de convertirse en un Cisne Negro, Nina debe ser capaz de sentirse cómoda con el sexo, e incluso disfrutar de él. Así que Thomas le da la tarea de Nina: de "tocarse". Dispuesta a hacer todo lo posible para convertirse en una mejor bailarina, Nina trata de masturbarse, pero su madre lo impide. El placer sexual se convierte por lo tanto una forma de emancipación del control de su madre y su iniciación a las "grandes ligas".  
+Con el fin de convertirse en un Cisne Negro, Nina debe ser capaz de sentirse cómoda con el sexo, e incluso disfrutar de él. Así que Thomas le da a Nina la tarea de "tocarse". Dispuesta a hacer todo lo posible para convertirse en una mejor bailarina, Nina trata de masturbarse, pero su madre lo impide. El placer sexual se convierte por lo tanto en una forma de emancipación del control de su madre y su iniciación a las "grandes ligas".  
   
 
-A medida que el Cisne Negro crece en poder, Nina comienza alucinar mutaciones físicas en su cuerpo. La única persona que puede ver estas mutaciones es la madre de Nina, quien, como un controlador, tiene la "clave" para su psique. Ella es consciente de la transformación gradual de Nina y la trata de reprimir, a sabiendas de que causará la pérdida de su "niña".
+A medida que el Cisne Negro crece en poder, Nina comienza a alucinar mutaciones físicas en su cuerpo. La única persona que puede ver estas mutaciones es la madre de Nina, quien, como un controlador, tiene la "clave" para su psique. Ella es consciente de la transformación gradual de Nina y la trata de reprimir, a sabiendas de que causará la pérdida de su "niña".
 
   
 
@@ -150,7 +150,7 @@ A medida que el Cisne Negro crece en poder, Nina comienza alucinar mutaciones f�
 
 **Nina alucina todo tipo de mutaciones extrañas en su cuerpo. Representan el grado de liberación del Cisne Negro en ella.**
 
-Esta situación refleja la cruda realidad detrás de abuso ritual en la vida real. Los niños, que ya están disociativos por los abusos de sus padres, son entregados a "instancias superiores" que continúan el proceso de programación. En este caso, Nina se entrega al mundo del entretenimiento (conocidos por utilizar la programación monarca en celebridades) para crear en ella una persona alter destinada a ser una estrella de fama mundial.
+Esta situación refleja la cruda realidad detrás del abuso ritual en la vida real. Los niños, que ya están disociativos por los abusos de sus padres, son entregados a "instancias superiores" que continúan el proceso de programación. En este caso, Nina se entrega al mundo del entretenimiento (conocido por utilizar la programación monarca en celebridades) para crear en ella una persona alter destinada a ser una estrella de fama mundial.
 
   
 
@@ -160,7 +160,7 @@ Esta situación refleja la cruda realidad detrás de abuso ritual en la vida rea
 
 Thomas presentando a la nueva reina de los cisnes, Nina.
 
-## Beth MacIntyre : La estrella que fue dejada de lado
+## Beth MacIntyre: La estrella que fue dejada de lado
 
   
 
@@ -192,11 +192,11 @@ Entonces el "espíritu", el alter ego que consumió y destruyó a Beth, también
 **Un póster simbólico de la película. La pequeña bailarina se levanta, como un ave fénix de sus cenizas, un Cisne Negro gigantesco y amenazador.** 
 
   
-El Cisne Negro es la fuerza artística lumínica y espiritualmente destructiva. Thomas quiere hace nacer esto en Nina. Obviamente, él sabe acerca de los poderes devastadores de El Cisne Negro, pero no le importa y nunca lo hizo. Una vez que Nina sea "utilizada" por el Cisne, se encontrará con otra bailarina que la reemplace. Es una representación de la industria del entretenimiento, que manipula a los artistas a convertirse en cisnes Negros, en última instancia se les desecha cuando los efectos de El Cisne se han desvanecido.  
+El Cisne Negro es la fuerza artística lumínica y espiritualmente destructiva. Thomas quiere hacer nacer esto en Nina. Obviamente, él sabe acerca de los poderes devastadores de El Cisne Negro, pero no le importa y nunca lo hizo. Una vez que Nina sea "utilizada" por el Cisne, se encontrará con otra bailarina que la reemplace. Es una representación de la industria del entretenimiento, que manipula a los artistas a convertirse en cisnes Negros, en última instancia se les desecha cuando los efectos de El Cisne se han desvanecido.  
   
 **Alas Negras**  
   
-La "fuerza" de El Cisne Negro es simbólicamente representado por las alas negras en las diferentes etapas de la película.
+La "fuerza" de El Cisne Negro es simbólicamente representada por las alas negras en las diferentes etapas de la película.
 
   
   
@@ -209,7 +209,7 @@ Poco después de ser coronada "Reina de los cisnes", Nina se siente fascinada po
 
 [![poseida por demonio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMwFj_-CEmcMuCMdoju9BXVcqVdqC6lRNhsUEJpFfYqejp8ywVN4vVNlNBmQYjq8HikM99KulOUJCd3hy7axNM2D3MyJU0XhIiTyOyevfTc7xATZAoebq9n3YQel3ATWA7YgZyjIRpAeM/s1600/blackswan121-e1299876153325.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMwFj_-CEmcMuCMdoju9BXVcqVdqC6lRNhsUEJpFfYqejp8ywVN4vVNlNBmQYjq8HikM99KulOUJCd3hy7axNM2D3MyJU0XhIiTyOyevfTc7xATZAoebq9n3YQel3ATWA7YgZyjIRpAeM/s1600/blackswan121-e1299876153325.jpg)
 
-Alas Negras en la espalda de Lily (interpretado por Mila Kunis), mientras que ella "da placer" a Nina. Las alas negras representan la "fuerza" que está en comunión con Nina. Es penetrante, no solo dándole un orgasmo, sino también tomando su vida.
+Alas Negras en la espalda de Lily (interpretada por Mila Kunis), mientras que ella "da placer" a Nina. Las alas negras representan la "fuerza" que está en comunión con Nina. Es penetrante, no solo dándole un orgasmo, sino también tomando su vida.
 
   
 
@@ -225,7 +225,7 @@ Nina al final de su "perfecta" actuación como el Cisne Negro. Ella se muestra b
 
 [](http://vigilantcitizen.com/wp-content/uploads/2011/01/black_swan_poster4-e1299876308195.jpg)
 
-**Otro cartel simbólico. El Negro pico fálico del Cisne se muestra como la"Penetración" a la psique de Nina.**
+**Otro cartel simbólico. El pico negro fálico del Cisne se muestra como la "Penetración" a la psique de Nina.**
 
   
   
@@ -238,7 +238,7 @@ Los espejos son utilizados en la película para reflejar simbólicamente el verd
 
 [![nataly portman](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz2B2xBLgdCwMf4yvcA37zeiA3MVik_3wq5FTS9Jgfv0BCGwqoXdniOtlnJ5KUqVz7OuwVEW_lY-PzVjaMT51U8XqFDN_yw1yvh2mIt5zrqzC3B3RKQgT15DP_jUd8c4EysC10qnwJgc5d/s1600/blackswan131-e1299876332170.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz2B2xBLgdCwMf4yvcA37zeiA3MVik_3wq5FTS9Jgfv0BCGwqoXdniOtlnJ5KUqVz7OuwVEW_lY-PzVjaMT51U8XqFDN_yw1yvh2mIt5zrqzC3B3RKQgT15DP_jUd8c4EysC10qnwJgc5d/s1600/blackswan131-e1299876332170.jpg)
 
-**Un reflejo escalofriante tiene vida propia. A medida que avanza su metamorfosis, Nina se da cuenta de que una entidad totalmente independiente vive en su interior. Esta actuando completamente fuera de su control. En el simbolismo de control mental, los reflejos del espejo representan un esclavo alter-personaje que está programado y manipulado por un controlador.**
+**Un reflejo escalofriante tiene vida propia. A medida que avanza su metamorfosis, Nina se da cuenta de que una entidad totalmente independiente vive en su interior. Esta actúa completamente fuera de su control. En el simbolismo de control mental, los reflejos del espejo representan un esclavo alter-personaje que está programado y manipulado por un controlador.**
 
   
 
@@ -250,17 +250,17 @@ Justo antes de su gran actuación como el Cisne Negro, Nina lucha contra sí mis
 
 ## El Opus Magnum y el Sacrificio
 
-En el estreno de la serie, Nina da una actuación estelar. Ella interpreta con éxito el Cisne Blanco dulce y tímido, y, cuando llegó el momento, fue superada por la "fuerza" para convertirse en el trenzado, pero emocionante, Cisne Negro. Al casarse el blanco y el negro, el bien y el mal, la luz y la oscuridad, Nina ha logrado la Gran Obra Alquímica, el camino oculto a la iluminación. 
+En el estreno de la serie, Nina da una actuación estelar. Ella interpreta con éxito el Cisne Blanco dulce y tímido, y, cuando llegó el momento, fue superada por la "fuerza" para convertirse en el trenzado, pero emocionante, Cisne Negro. Al unirse el blanco y el negro, el bien y el mal, la luz y la oscuridad, Nina ha logrado la Gran Obra Alquímica, el camino oculto a la iluminación. 
 
   
-El proceso, sin embargo, la consume. Al permitir que el Cisne Negro la posea completamente, Nina dio la actuación de su vida, pero ella se ha convertido en una persona diferente. Thomas y el público está enamorado de Nina como el Cisne Negro - del mismo modo que el príncipe del ballet se enamora del gemelo malvado del Cisne Blanco. Pero este no es la "verdadera" Nina. El Cisne Negro es una fuerza destructiva que no puede vivir. Es su tormento en un nivel físico y psicológico. No se puede seguir, la única manera que Nina puede liberarse, es matándose a sí misma. Y esto es lo que hace.  
+El proceso, sin embargo, la consume. Al permitir que el Cisne Negro la posea completamente, Nina dio la actuación de su vida, pero ella se ha convertido en una persona diferente. Thomas y el público están enamorados de Nina como el Cisne Negro - del mismo modo que el príncipe del ballet se enamora del gemelo malvado del Cisne Blanco. Pero este no es la "verdadera" Nina. El Cisne Negro es una fuerza destructiva que no puede vivir. Es su tormento en un nivel físico y psicológico. No se puede seguir, la única manera que Nina puede liberarse, es matándose a sí misma. Y esto es lo que hace.  
 
   
   
 
  [![sacrificio ritual](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJnx6_8fbScgOZsmfcvLw80AND6cIw_Aza-wMf1OwegamTMjzIqHSCK8xre6xWvNnuAEdvaUaSfp85mlQ8dc0j5ehEBtbRfe-rvn75N-iIc81qwmUgmFDcgHbVe40aXhljf71Ntz6mS-qH/s1600/blackswan161-e1299876379822.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJnx6_8fbScgOZsmfcvLw80AND6cIw_Aza-wMf1OwegamTMjzIqHSCK8xre6xWvNnuAEdvaUaSfp85mlQ8dc0j5ehEBtbRfe-rvn75N-iIc81qwmUgmFDcgHbVe40aXhljf71Ntz6mS-qH/s1600/blackswan161-e1299876379822.jpg)
 
-Niña muere al final de su actuación. Sus últimas palabras a Tomás: "Yo era perfecta".   
+Nina muere al final de su actuación. Sus últimas palabras a Thomas: "Yo era perfecta".   
   
 
 ¿Esto te recuerda a alguien más?
@@ -297,9 +297,9 @@ Un ejemplo reciente de una función de auto-destrucción es el Joker de Heath Le
 > Heath Ledger pensó que el exigente papel del Joker fue un sueño hecho realidad - pero ahora algunos piensan que fue una pesadilla que llevaron a su trágica muerte.  
 > Jack Nicholson, quien interpretó al Joker en 1989 - y que estaba furioso, porque no fue consultado sobre el papel espeluznante - ofrece un comentario críptico cuando se le dijo que Ledger había muerto.  
 > "Bueno", dijo Nicholson a los periodistas en Londres la madrugada del miércoles, "le advertí."  
-> Aunque el comentario es ambiguo, no hay duda que el papel en la película destinada como éxito de taquilla de este verano tuvo un final aterrador.  
-> Ledger dijo recientemente a la prensa que "dormía un promedio de dos horas por noche" durante la interpretaciòn de "un psicópata, asesino en masa, payaso esquizofrénico con cero empatía ...  
-> "No podía dejar de pensar. Mi cuerpo estaba exhausto, y mi mente seguia. "  
+> Aunque el comentario es ambiguo, no hay duda que el papel en la película destinada a ser un éxito de taquilla de este verano tuvo un final aterrador.  
+> Ledger dijo recientemente a la prensa que "dormía un promedio de dos horas por noche" durante la interpretación de "un psicópata, asesino en masa, payaso esquizofrénico con cero empatía ...  
+> "No podía dejar de pensar. Mi cuerpo estaba exhausto, y mi mente seguía. "  
 > Los medicamentos con receta no ayudan, dijo.  
 > \- NY Daily News, [Fuente](http://www.nydailynews.com/news/2008/01/24/2008-01-24_jack_nicholson_warned_heath_ledger_on_jo.html)**
 
@@ -313,7 +313,7 @@ Otro ejemplo de un actor que muere en misteriosas circunstancias después de jug
 
 [![el cuervo sacrificio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyfbnBByn4u_0qzqIkEiCnr3jzUGaCqKDVoMcPaamN9mqRHT0YU1XGwTKPCVd_VpY5ly1dXT9xAVZBeQESfzjBSMen6kTFj_I4nQBwTZuNSnrz59GInmGfJuFV4YW593n6jVEsfAQ31Ukf/s1600/Brandon-Lee-In-The-Crow1-e1299876462474.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyfbnBByn4u_0qzqIkEiCnr3jzUGaCqKDVoMcPaamN9mqRHT0YU1XGwTKPCVd_VpY5ly1dXT9xAVZBeQESfzjBSMen6kTFj_I4nQBwTZuNSnrz59GInmGfJuFV4YW593n6jVEsfAQ31Ukf/s1600/Brandon-Lee-In-The-Crow1-e1299876462474.jpg)
 
-Brandon Lee murió misteriosamente durante el rodaje de El Cuervo. La historia oficial de su muerte sigue siendo muy discutido. La escena en la que murió fue muy simbólico.
+Brandon Lee murió misteriosamente durante el rodaje de El Cuervo. La historia oficial de su muerte sigue siendo muy discutida. La escena en la que murió fue muy simbólica.
 
   
 
