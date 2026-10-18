@@ -19,7 +19,7 @@ El signo de un ojo es uno de los temas más recurrentes en el análisis conspira
 
 La señal está en todas partes: en videos musicales, en portadas de revistas, en carteles de películas, en anuncios, etc. La gran cantidad de estas imágenes es simplemente asombrosa. Teniendo en cuenta estos hechos, la aparición repetida del signo de un ojo simplemente no puede ser el resultado de una coincidencia. De hecho, hay un esfuerzo claro para que esta señal se muestre en todas partes.
 
-**Nota:** Si deseas recibir más contenido sobre simbologías, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre simbologías, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
 Entonces, ¿por qué este signo está en todas partes y qué significa? En este artículo echamos un vistazo al símbolo atemporal y trascendental del Ojo.  
   
@@ -38,9 +38,11 @@ En casi todas las culturas, el símbolo del ojo está asociado con conceptos esp
 
 > **“El ojo simboliza la vista y la luz, y por lo tanto la conciencia misma. El ojo es la parte de nosotros que contempla el universo y ve nuestro lugar en él. Es conocimiento, conciencia y sabiduría. El ojo capta la luz, la energía pura del universo y la presenta al espíritu interior. Es la puerta de entrada, de hecho la unión misma, entre el yo y el cosmos." - Peter Patrick Barreda, Arquetipo de Plenitud**
 
-Jung y el Mandala En la Biblia, Jesús se refirió al ojo como la “lámpara del cuerpo”.
+Jung y el Mandala
 
-> **“El ojo es la lámpara del cuerpo; Entonces, si tu ojo está limpio, todo tu cuerpo estará lleno de luz. Pero si tu ojo es malo, todo tu cuerpo se llenará de oscuridad. Entonces, si la luz que hay en ti es oscuridad, ¡Cuán grande es la oscuridad! " - Mateo 6: 22-23**
+En la Biblia, Jesús se refirió al ojo como la “lámpara del cuerpo”.
+
+> **“El ojo es la lámpara del cuerpo; Entonces, si tu ojo está limpio, todo tu cuerpo estará lleno de luz. Pero si tu ojo es malo, todo tu cuerpo se llenará de oscuridad. Entonces, si la luz que hay en ti es oscuridad, ¡Cuán grande es la oscuridad!" - Mateo 6:22-23**
 
 El símbolo del ojo siempre tuvo asignada una dimensión mística y espiritual. Como dice el refrán popular: "Los ojos son las ventanas del alma". Por esta razón, el símbolo del ojo es particularmente importante en los círculos ocultos y las escuelas de misterios.  
   
@@ -57,7 +59,7 @@ Una representación clásica del Ojo de Ra egipcio y el Ojo de Horus.
 > **“El dios del sol primitivo se llamaba Horus. Cuando Ra asumió el título de dios del sol, también se le conocía como "Ra-Horakhty o Ra, que es Horus de los 2 horizontes". Fue en una batalla con Set que Horus perdió el uso de un ojo. Thoth restauró el ojo, y fue entonces cuando Horus también fue nombrado Wadjet." - Páginas Antiguas, Ojo de Horus - Potente Símbolo Egipcio Antiguo Con Un Profundo Significado**
 
   
-Debido a que el símbolo del ojo está asociado con el sol, un representante de la divinidad, el ojo esotérico tiene una cualidad peculiar: es "que todo lo ve". El arquetipo del dios sol tuerto que todo lo ve también se puede encontrar en otras culturas antiguas. En Persia, Ahura Mazda fue considerado el creador de la Tierra, los cielos y la humanidad, así como la fuente de toda bondad y felicidad en la tierra. Se decía que tenía "el sol por ojo".  
+Debido a que el símbolo del ojo está asociado con el sol, un representante de la divinidad, el ojo esotérico tiene una cualidad peculiar: es "el que todo lo ve". El arquetipo del dios sol tuerto que todo lo ve también se puede encontrar en otras culturas antiguas. En Persia, Ahura Mazda fue considerado el creador de la Tierra, los cielos y la humanidad, así como la fuente de toda bondad y felicidad en la tierra. Se decía que tenía "el sol por ojo".  
 
 > "El dios supremo Ahura Mazda también tiene un Ojo, o se dice que con sus ojos, el sol, la luna y las estrellas, lo ve todo." - Manly P. Hall, Las Enseñanzas Secretas de Todas Las Edades
 
@@ -70,24 +72,25 @@ Una representación antigua de Odin.
 
   
 
-Odin es otra representación más de un dios sol creador de un solo ojo.  
-> “El Creador Supremo e invisible de todas las cosas se llamaba _All Father_. Su regente en la naturaleza era Odin, el dios tuerto. Los noruegos consideraban a Balder el Hermoso como una deidad solar, y Odin a menudo está conectado con el orbe celestial, especialmente debido a su único ojo." - Ibídem. 
+Odin es otra representación más de un dios sol creador de un solo ojo.
+
+> “El Creador Supremo e invisible de todas las cosas se llamaba _All Father_. Su regente en la naturaleza era Odin, el dios tuerto. Los noruegos consideraban a Balder el Hermoso como una deidad solar, y Odin a menudo está conectado con el orbe celestial, especialmente debido a su único ojo." - Ibídem.
 
 ## Ocultismo Occidental
 
-Teniendo en cuenta el hecho de que el ocultismo occidental estuvo muy influenciado por las enseñanzas esotéricas de las civilizaciones anteriores, el símbolo del ojo que todo lo ve se abrió camino en órdenes como los rosacruces, los illuminati y los masones. 
+Teniendo en cuenta el hecho de que el ocultismo occidental estuvo muy influenciado por las enseñanzas esotéricas de las civilizaciones anteriores, el símbolo del ojo que todo lo ve se abrió camino en órdenes como los rosacruces, los illuminati y los masones.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisaeJwU3rigTMEsDgTKJ2BNyT6htAJyFBI5hsy_G3vlo7EMS4Py6GOBbwT69N8jDJ5VWsyPQH3R5Vk0rmLPX_WDz3oWlUMslEaLh3MDvqMUtzgkeQ5-gveFatJB4QoAKBjPS0etMEN_UQ/s16000/simbolos.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisaeJwU3rigTMEsDgTKJ2BNyT6htAJyFBI5hsy_G3vlo7EMS4Py6GOBbwT69N8jDJ5VWsyPQH3R5Vk0rmLPX_WDz3oWlUMslEaLh3MDvqMUtzgkeQ5-gveFatJB4QoAKBjPS0etMEN_UQ/s365/simbolos.jpg)
 
 Símbolos masónicos bajo el ojo que todo lo ve.  
 
-> **"Albert Mackey escribe que el ojo que todo lo ve es un símbolo importante del Ser Supremo, tomado prestado por los masones de las naciones de la antigüedad. El ojo que todo lo ve es un símbolo que representa la mirada vigilante de Dios. Nos recuerda que cada pensamiento y acción debe ser registrado por el Gran Arquitecto del Universo, y que estamos sujetos a nuestras obligaciones tanto en espíritu como en sangre. ” - James E Frey, 32 °, Masones de Medianoche**
+> **"Albert Mackey escribe que el ojo que todo lo ve es un símbolo importante del Ser Supremo, tomado prestado por los masones de las naciones de la antigüedad. El ojo que todo lo ve es un símbolo que representa la mirada vigilante de Dios. Nos recuerda que cada pensamiento y acción debe ser registrado por el Gran Arquitecto del Universo, y que estamos sujetos a nuestras obligaciones tanto en espíritu como en sangre.” - James E Frey, 32.º, Masones de Medianoche**
 
-Debido a la gran influencia de la masonería en los eventos históricos de los siglos pasados, el símbolo del ojo que todo lo ve se incluyó en documentos prominentes como el reverso del Gran Sello de los Estados Unidos. Estados y la Declaración de Derechos Humanos.
+Debido a la gran influencia de la masonería en los eventos históricos de los siglos pasados, el símbolo del ojo que todo lo ve se incluyó en documentos prominentes como el reverso del Gran Sello de los Estados Unidos y la Declaración de los Derechos del Hombre y del Ciudadano.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXzByS6gu_CacujoD9hr41jsiXnfJx9GvIkH_NRHw-uSq0xpMgkUwNJE_Tqo41cE4eR5eoyJhshgzT_B9MzY96tTMt_QQfsC9ndc2G4XIJMP6nfEojd5VMjJ6ZjwuPAYyY5nI9DzTX8_E/s16000/providencia.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXzByS6gu_CacujoD9hr41jsiXnfJx9GvIkH_NRHw-uSq0xpMgkUwNJE_Tqo41cE4eR5eoyJhshgzT_B9MzY96tTMt_QQfsC9ndc2G4XIJMP6nfEojd5VMjJ6ZjwuPAYyY5nI9DzTX8_E/s520/providencia.jpg)
 
-Izquierda: el reverso del Gran Sello de los Estados Unidos. Derecha: Declaración de Derechos Humanos.  
+Izquierda: el reverso del Gran Sello de los Estados Unidos. Derecha: Declaración de los Derechos del Hombre y del Ciudadano.  
 
 > **“Si alguien duda de la presencia de influencias masónicas y ocultas en el momento en que se diseñó el Gran Sello, debe prestar la debida consideración a los comentarios del profesor Charles Eliot Norton de Harvard, quien escribió sobre la pirámide inacabada y el ojo que todo lo ve que adornaba el reverso del sello, de la siguiente manera: “El dispositivo adoptado por el Congreso es prácticamente incapaz de un tratamiento efectivo; difícilmente puede (sin importar cuán artísticamente lo trate el diseñador) verse de otro modo que como un aburrido emblema de una fraternidad masónica." - Hall, op. cit.**
 
@@ -100,40 +103,40 @@ El sello de la O.T.O (Ordo Templi Orientis).
   
 Dicho esto, ¿el símbolo del Ojo que Todo lo Ve realmente representa a Dios o algo más siniestro? Bueno, aquí es donde las cosas se ponen… ocultas (oculto significa escondido). El prominente francmasón estadounidense Albert Pike escribió que el verdadero significado de los símbolos ocultos solo se revela a los iniciados de alto nivel y él mismo no ocultó a quién sirvió en sus otros escritos.
 
-> **“Es en sus símbolos antiguos y su significado oculto donde residen los verdaderos secretos de la masonería. Pero estos no tienen ningún valor si no vemos nada en los símbolos de la logia azul más allá de las imbéciles pretensiones de las interpretaciones de los mismos contenidas en nuestros monitores. La gente ha pasado por alto la verdad de que los símbolos de la antigüedad no se usaban para revelar sino para ocultar. Cada símbolo es un enigma por resolver y no una lección para leer. ¿Cómo puede el masón inteligente dejar de ver que los grados azules son sólo preparatorios, para alistar y agrupar a las filas del ejército masónico para propósitos no revelados a ellos, que son los misterios menores en los que los símbolos se usan para ocultar la verdad? " - Albert Pike, Legenda y Lecturas del Antiguo y Aceptado Rito Escocés de la Masonería**
+> **“Es en sus símbolos antiguos y su significado oculto donde residen los verdaderos secretos de la masonería. Pero estos no tienen ningún valor si no vemos nada en los símbolos de la logia azul más allá de las imbéciles pretensiones de las interpretaciones de los mismos contenidas en nuestros monitores. La gente ha pasado por alto la verdad de que los símbolos de la antigüedad no se usaban para revelar sino para ocultar. Cada símbolo es un enigma por resolver y no una lección para leer. ¿Cómo puede el masón inteligente dejar de ver que los grados azules son sólo preparatorios, para alistar y agrupar a las filas del ejército masónico para propósitos no revelados a ellos, que son los misterios menores en los que los símbolos se usan para ocultar la verdad?" - Albert Pike, Legenda y Lecturas del Antiguo y Aceptado Rito Escocés de la Masonería**
 
-Manly P. Hall, otro prominente francmasón escribió que el ojo que todo lo ve representa esotéricamente el objetivo final del ocultismo: Alcanzar la divinidad a través de los propios medios. Esto se hace mediante la activación de la glándula pineal, el tercer ojo.
+Manly P. Hall, otro prominente francmasón escribió que el ojo que todo lo ve representa esotéricamente el objetivo final del ocultismo: alcanzar la divinidad a través de los propios medios. Esto se hace mediante la activación de la glándula pineal, el tercer ojo.
 
 > **“Masonería operativa, en el sentido más amplio de ese término, significa el proceso mediante el cual se abre el Ojo de Horus. En el cerebro humano hay una pequeña glándula llamada cuerpo pineal, que es el ojo sagrado de los antiguos y corresponde al tercer ojo del cíclope." - Hall, Op. Cit.**
 
 ## En el Islam
 
-En la escatología islámica, se dice que la figura de los últimos tiempos llamada Al-Masīḥ ad-Dajjal ("el falso mesías, mentiroso, engañador") es ciego de su ojo derecho. Al pretender ser el Mesías, el Dajjal engañaría y se apoderaría del mundo. Por estas razones, el Dajjal tiene grandes similitudes con el Anticristo en el cristianismo.
+En la escatología islámica, se dice que la figura de los últimos tiempos llamada Al-Masīḥ ad-Dajjal ("el falso mesías, mentiroso, engañador") es ciego del ojo derecho. Al pretender ser el Mesías, el Dajjal engañaría y se apoderaría del mundo. Por estas razones, el Dajjal tiene grandes similitudes con el Anticristo en el cristianismo.
 
-La llegada del Dajjal estaría precedida por varias señales como: La gente dejará de ofrecer las oraciones; la deshonestidad será el camino de la vida; la falsedad se convertirá en virtud; la gente hipotecará su fe por ganancias mundanas; la usura y el soborno serán legítimos; habrá una hambruna aguda en ese momento; no habrá vergüenza entre la gente; mucha gente adorará a Satanás; no habrá respeto por las personas mayores y la gente empezará a matarse entre sí sin ningún motivo.
+La llegada del Dajjal estaría precedida por varias señales: la gente dejará de ofrecer las oraciones; la deshonestidad será el camino de la vida; la falsedad se convertirá en virtud; la gente hipotecará su fe por ganancias mundanas; la usura y el soborno serán legítimos; habrá una hambruna aguda en ese momento; no habrá vergüenza entre la gente; mucha gente adorará a Satanás; no habrá respeto por las personas mayores y la gente empezará a matarse entre sí sin ningún motivo.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikEU_mjm6aXvEZPiZfhOuOCpROcv6uh12RRknleE6LXdVeAaV8cL-vdjxFcxsve_Py77JcWmvv6Dp8j0x2Yngv2R_lHihEXQiwnJknweoxCRLZ5TM4n_5B3XQ5X89xgTM43QcQhn_QEpE/w400-h313/DAJJAL.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikEU_mjm6aXvEZPiZfhOuOCpROcv6uh12RRknleE6LXdVeAaV8cL-vdjxFcxsve_Py77JcWmvv6Dp8j0x2Yngv2R_lHihEXQiwnJknweoxCRLZ5TM4n_5B3XQ5X89xgTM43QcQhn_QEpE/s608/DAJJAL.jpg)
 
-El Dajaal de un solo ojo de la escatología islámica  
+El Dajjal de un solo ojo de la escatología islámica  
 
   
 
 ## El Signo Moderno De Un Ojo
 
-Teniendo en cuenta el hecho de que el mundo de hoy está gobernado por lo que llamamos la "élite oculta" (debido a sus vínculos con las órdenes ocultas), no es de extrañar que su símbolo principal se encuentre en todas partes. Sin embargo, todo se hace de forma engañosa. La industria del entretenimiento actual prospera gracias al control, la manipulación y la distorsión. También se trata de degradar a las masas de todo lo que es verdadero, puro y saludable. Hoy, el símbolo del ojo que todo lo ve ahora se trata de un grupo selecto de personas que oprimen, monitorean y controlan a la población mundial.
+Teniendo en cuenta el hecho de que el mundo de hoy está gobernado por lo que llamamos la "élite oculta" (debido a sus vínculos con las órdenes ocultas), no es de extrañar que su símbolo principal se encuentre en todas partes. Sin embargo, todo se hace de forma engañosa. La industria del entretenimiento actual prospera gracias al control, la manipulación y la distorsión. También se trata de alejar a las masas de todo lo que es verdadero, puro y saludable. Hoy, el símbolo del ojo que todo lo ve ahora representa a un grupo selecto de personas que oprimen, vigilan y controlan a la población mundial.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEJG479rk88DKhzmjxIsyI8SF51c2fz5l53NeGwG9BvBjZyY2meQW2ghnvW97T1QquJnPUHVBc74NuswRjsfM67xjx70kZWVSzL0heEYjMcv4Wj2g_J9-Its66_fdWfX9H4Y-IppguxFk/w288-h400/1984.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEJG479rk88DKhzmjxIsyI8SF51c2fz5l53NeGwG9BvBjZyY2meQW2ghnvW97T1QquJnPUHVBc74NuswRjsfM67xjx70kZWVSzL0heEYjMcv4Wj2g_J9-Its66_fdWfX9H4Y-IppguxFk/s556/1984.jpg)
 
 El libro 1984 de George Orwell es un modelo para el control y la censura de la élite. Apropiadamente, casi todas las ediciones cuentan con un ojo que todo lo ve.
 
-Mientras que este se asocia esotéricamente con la apertura del Tercer Ojo para alcanzar la iluminación espiritual, el signo de Un Ojo hecho por las celebridades es exactamente lo opuesto: Ocultar e incapacitar un ojo. El simbolismo de este gesto es poderoso.
+Mientras que este se asocia esotéricamente con la apertura del Tercer Ojo para alcanzar la iluminación espiritual, el signo de Un Ojo hecho por las celebridades es exactamente lo opuesto: ocultar e incapacitar un ojo. El simbolismo de este gesto es poderoso.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJd1p2rVnlsDKGYYzFGm4tMyO0fDgUYMFzzl-hdZawGT2Qco3dm9JPl2GpMu_kOc9jlqdRH3eENaHScjyf5sM5qBbCIyFefll0HGCR19KTdjvRbfDdgsZ678aDkJ3lR968dVljIPux3vI/s16000/Katyperry-e1559862308940.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJd1p2rVnlsDKGYYzFGm4tMyO0fDgUYMFzzl-hdZawGT2Qco3dm9JPl2GpMu_kOc9jlqdRH3eENaHScjyf5sM5qBbCIyFefll0HGCR19KTdjvRbfDdgsZ678aDkJ3lR968dVljIPux3vI/s500/Katyperry-e1559862308940.jpg)
 
 Katy Perry escondiendo un ojo con el Ojo de Horus en su video Dark Horse.
 
   
-Cuando oculta un ojo, bloquea efectivamente la mitad de su visión. En términos simbólicos, te vuelves medio ciego a la verdad. Al ocultar un ojo, las celebridades "sacrifican" simbólicamente una parte vital de su ser para obtener ganancias materiales temporales. Y, como los ojos son las "ventanas del alma", este gesto simboliza la pérdida parcial o total del alma.  
+Cuando oculta un ojo, bloquea efectivamente la mitad de su visión. En términos simbólicos, se vuelve medio ciego a la verdad. Al ocultar un ojo, las celebridades "sacrifican" simbólicamente una parte vital de su ser para obtener ganancias materiales temporales. Y, como los ojos son las "ventanas del alma", este gesto simboliza la pérdida parcial o total del alma.  
   
 
 ## En El Control Mental
@@ -154,7 +157,7 @@ Esta pintura llamada I-Test también describe visualmente el trauma y la program
 
 La omnipresencia del signo de Un Ojo en los medios de comunicación también tiene otro propósito: demuestra que todos los medios de comunicación son propiedad de un grupo de élite muy pequeño. De hecho, para que aparezca el mismo signo exacto de manera constante y repetida en todas las plataformas de medios y en todo el mundo, es necesario que haya una fuente de poder centralizada que haga que esto suceda por la fuerza.
 
-Piense en la cantidad de dinero, poder e influencia que se requiere para que todas estas celebridades realicen este gesto específico en videos y sesiones de fotos. Ahora, reflexione sobre la cantidad de dinero, poder e influencia que se requiere para que esta señal específica pegue en portadas de revistas, carteles de películas, videos musicales y cualquier otra cosa que pueda llegar a los ojos de las masas.
+Piense en la cantidad de dinero, poder e influencia que se requiere para que todas estas celebridades realicen este gesto específico en videos y sesiones de fotos. Ahora, reflexione sobre la cantidad de dinero, poder e influencia que se requiere para que esta señal específica aparezca en portadas de revistas, carteles de películas, videos musicales y cualquier otra cosa que pueda llegar a los ojos de las masas.
 
 La industria del entretenimiento está llena de simbolismo de un ojo
 
@@ -167,4 +170,4 @@ El símbolo del ojo es un arquetipo que trasciende el tiempo y el espacio. Quiz�
 
 Hoy en día, la industria del entretenimiento se deleita con la deformación y la corrupción de símbolos poderosos en la búsqueda de su agenda degradante. La omnipresencia del signo de Un Ojo ahora simboliza la omnipresencia de la élite oculta. Son ellos diciendo: “Mira a quién controlamos”.
 
-Dicho esto, hay un lado positivo aquí. El signo de Un Ojo es una forma conveniente de identificar los medios que se deben evitar porque lo más probable es que esté empapado en la agenda degradante de la élite oculta.
+Dicho esto, hay un lado positivo aquí. El signo de Un Ojo es una forma conveniente de identificar los medios que se deben evitar porque lo más probable es que estén empapados en la agenda degradante de la élite oculta.

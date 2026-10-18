@@ -1,5 +1,5 @@
 ---
-title: "Entre Paramore,  Mariposas Y Un Proyecto Llamado \"Monarca\""
+title: "Entre Paramore, Mariposas Y Un Proyecto Llamado \"Monarca\""
 date: "2010-03-27"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
@@ -9,14 +9,14 @@ description: "“Brick by Boring Brick” de Paramore describe las aventuras de 
 tags: ["Cine y Cultura"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
   
   
 
-**“Brick by Boring Brick”** de **Paramore** describe las aventuras de una niña en una tierra de fantasía. La maravilla se convierte rápidamente en una pesadilla y las criaturas amigables se en ponen en su contra. ¿Cuál es el significado de este video? La respuesta se oculta en el simbolismo del vídeo y alude a una práctica preocupante: el control mental.
+**“Brick by Boring Brick”** de **Paramore** describe las aventuras de una niña en una tierra de fantasía. La maravilla se convierte rápidamente en una pesadilla y las criaturas amigables se ponen en su contra. ¿Cuál es el significado de este video? La respuesta se oculta en el simbolismo del vídeo y alude a una práctica preocupante: el control mental.
 
   
   
@@ -26,13 +26,13 @@ tags: ["Cine y Cultura"]
 [  
 ](http://4.bp.blogspot.com/-GPKCt2G9iz8/TdfjeG_TitI/AAAAAAAABUw/xFxx4Yospqo/s1600/paramore.jpg)
 
-Ellos han obtenido éxito en todo el mundo y ganado numerosos premios por sus singles crushcrushcrush y Decode. La banda ha aparecido en numerosas películas (Twilight) y juegos de video. El nuevo álbum de la banda, llamado Brand New Eyes, introduce simbolismos con los que quizás los fans no están familiarizados. En cuanto a los materiales de promoción, los lectores de este sitio probablemente reconocen los signos y símbolos utilizados por otras estrellas del pop también. Para hacerlo simple: Paramore parece haber sido influenciado por [**los Illuminati**](https://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html). “Brick by Boring Brick” se aleje de los temas escolares para hacer frente a un tema que es totalmente ajeno a la mayoría de los adolescentes: el control mental y, más precisamente, de **[programación de la mariposa monarca](https://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)**.
+Ellos han obtenido éxito en todo el mundo y ganado numerosos premios por sus singles crushcrushcrush y Decode. La banda ha aparecido en numerosas películas (Twilight) y juegos de video. El nuevo álbum de la banda, llamado Brand New Eyes, introduce simbolismos con los que quizás los fans no están familiarizados. En cuanto a los materiales de promoción, los lectores de este sitio probablemente reconocen los signos y símbolos utilizados por otras estrellas del pop también. Para hacerlo simple: Paramore parece haber sido influenciado por [**los Illuminati**](https://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html). “Brick by Boring Brick” se aleja de los temas escolares para hacer frente a un tema que es totalmente ajeno a la mayoría de los adolescentes: el control mental y, más precisamente, de **[programación de la mariposa monarca](https://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)**.
 
   
 
   
 
-Como se ha visto con Lady Gaga, Rihanna y otros artistas, utilizando el simbolismo de control mental en sus videos, Paramore ha adoptado el "One-Eye" símbolo en sus fotos promocionales:
+Como se ha visto con Lady Gaga, Rihanna y otros artistas, utilizando el simbolismo de control mental en sus videos, Paramore ha adoptado el símbolo "One-Eye" en sus fotos promocionales:
 
   
 
@@ -52,15 +52,15 @@ Como se discutió en los artículos anteriores, la programación de Monarca es u
 
   
 
-> "Una de las principales razones que la programación mental fue nombrada “monarca” a causa de la mariposa Monarca. La mariposa monarca aprende donde nació (sus raíces) y pasa ese conocimiento través de la genética a su descendencia (de generación en generación). Este fue uno de los animales clave que los científicos descubrieron, y que el conocimiento se puede transmitir genéticamente.
+> "Una de las principales razones por las que la programación mental fue nombrada “monarca” es la mariposa monarca. La mariposa monarca aprende donde nació (sus raíces) y pasa ese conocimiento a través de la genética a su descendencia (de generación en generación). Este fue uno de los animales clave que los científicos descubrieron, y que el conocimiento se puede transmitir genéticamente.
 > 
 >   
 > 
-> El factor importante y primordial del el control mental basado en el trauma es la capacidad de disociar. Se descubrió que esta capacidad se transmite genéticamente de generación en generación. Las tribus indias americanas (que hacían danzas rituales y que esperaba inmóvilwa durante horas cuando cazaban), los niños de los faquires en la India (que dormía en una cama de clavos o caminaban sobre brasas), los niños de los yoguis (los expertos en yoga, , que tendría el control total sobre su cuerpo en un trance), los budistas tibetanos, los niños de Vodoun, Bizango y otros grupos tienen una buena capacidad de disociar.
+> El factor importante y primordial del control mental basado en el trauma es la capacidad de disociar. Se descubrió que esta capacidad se transmite genéticamente de generación en generación. Las tribus indias americanas (que hacían danzas rituales y esperaban inmóviles durante horas cuando cazaban), los niños de los faquires en la India (que dormían en una cama de clavos o caminaban sobre brasas), los niños de los yoguis (los expertos en yoga, que tienen el control total sobre su cuerpo en un trance), los budistas tibetanos, los niños de Vodoun, Bizango y otros grupos tienen una buena capacidad de disociar.
 > 
 >   
 > 
-> Los niños de los abusos multigeneracionales son también buenos en la disociación. Las familias Illuminati y los ocultistas europeos fueron a la India y al Tíbet para estudiar el ocultismo y la filosofía oriental. Estos europeos aprendieron de yoga, yoga tántrico, meditaciones, y trances y otros métodos para disociar. Estas habilidades se transmiten a sus hijos a través de la genética. La prueba se ejecuta cuando los niños son de unos 18 meses para determinar si se puede disociar lo suficiente para ser seleccionados para la programación o no ".
+> Los niños de los abusos multigeneracionales son también buenos en la disociación. Las familias Illuminati y los ocultistas europeos fueron a la India y al Tíbet para estudiar el ocultismo y la filosofía oriental. Estos europeos aprendieron de yoga, yoga tántrico, meditaciones, y trances y otros métodos para disociar. Estas habilidades se transmiten a sus hijos a través de la genética. La prueba se ejecuta cuando los niños son de unos 18 meses para determinar si se puede disociar lo suficiente para ser seleccionados para la programación o no".
 > 
 >   
 > 
@@ -74,13 +74,13 @@ Como se discutió en los artículos anteriores, la programación de Monarca es u
   
   
 
-Durante el abuso sexual, terapia de electroshock y todo tipo de torturas sádicas, a los esclavos de control mental se les anima a disociarse de la realidad y para ir a "un lugar feliz". El uso de imágenes de cuentos de hadas se utiliza para reforzar la programación y para crear una realidad alternativa. El cerebro de la víctima, en el modo de conservación, crea un nuevo personaje (un "alter") como un mecanismo de defensa para el abuso. La difuminación de las líneas entre la realidad y la fantasía hace que el esclavo sea totalmente inconsciente de su estado real.
+Durante el abuso sexual, terapia de electroshock y todo tipo de torturas sádicas, a los esclavos de control mental se les anima a disociarse de la realidad y a ir a "un lugar feliz". El uso de imágenes de cuentos de hadas se utiliza para reforzar la programación y para crear una realidad alternativa. El cerebro de la víctima, en el modo de conservación, crea un nuevo personaje (un "alter") como un mecanismo de defensa para el abuso. La difuminación de las líneas entre la realidad y la fantasía hace que el esclavo sea totalmente inconsciente de su estado real.
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinL8HMI0TM9cPePIbR1zVds4vjxgJ5Ply6dC0V7tsIFYQPTtTYAULp3xMwehMH1Zqt-umm1FcNvvz1wt3hbCrpqE4vP2JX7VwsDw3kpCNoTlHcZZBQV-D5cCCWVbNO7ELFF6fuz3gAztrF/s1600/paramore-brand-new-eyes-300x300.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinL8HMI0TM9cPePIbR1zVds4vjxgJ5Ply6dC0V7tsIFYQPTtTYAULp3xMwehMH1Zqt-umm1FcNvvz1wt3hbCrpqE4vP2JX7VwsDw3kpCNoTlHcZZBQV-D5cCCWVbNO7ELFF6fuz3gAztrF/s1600/paramore-brand-new-eyes-300x300.jpg)
 
-**El último álbum de Paramore se llama "Brand New Eyes", tienendo connotaciones sobre el control de la mente Illuminati. La cubierta dispone de una mariposa clavada con las alas separadas de su cuerpo.**
+**El último álbum de Paramore se llama "Brand New Eyes", teniendo connotaciones sobre el control de la mente Illuminati. La portada muestra una mariposa clavada, con las alas separadas de su cuerpo.**
 
 ## El Video
 
@@ -88,7 +88,7 @@ Durante el abuso sexual, terapia de electroshock y todo tipo de torturas sádica
 
   
 
-La canción de Paramore es sobre una chica que escapar de sus problemas y actuando infantilmente, sólo para darse cuenta de que empeora las cosas. Detrás de este primer concepto, se encuentra una segunda capa de interpretación: la canción describe, en detalle escalofriante, la realidad de una mente esclava de control. El vídeo se las arregla para reunir todos los símbolos generalmente asociados con la programación Monarca en solo tres minutos, sin dejar dudas respecto a este segundo significado de la canción.
+La canción de Paramore es sobre una chica que escapa de sus problemas y actúa infantilmente, sólo para darse cuenta de que empeora las cosas. Detrás de este primer concepto, se encuentra una segunda capa de interpretación: la canción describe, en detalle escalofriante, la realidad de una mente esclava del control. El vídeo se las arregla para reunir todos los símbolos generalmente asociados con la programación Monarca en solo tres minutos, sin dejar dudas respecto a este segundo significado de la canción.
 
   
 
@@ -96,7 +96,7 @@ La canción de Paramore es sobre una chica que escapar de sus problemas y actuan
 
   
 
-Desde el principio del vídeo, el tema de la canción es muy claro. El escenario es totalmente irreal y sintético. Una niña, al parecer una versión infantil de la cantante Hayley Williams, corre hacia un mundo extraño, teniendo alas de mariposa monarca en su espalda, simboliza que ella es un esclavo Monarca. Ella casi a regañadientes entra en una puerta de enlace simbólico, que representa el comienzo de su estado disociativo. La puerta se cierra violentamente a sus espaldas, que sugiere a los espectadores al hecho de que este país de las maravillas es inducida por la fuerza al niño. La letra de la primera estrofa describen la realidad de los esclavos.
+Desde el principio del vídeo, el tema de la canción es muy claro. El escenario es totalmente irreal y sintético. Una niña, al parecer una versión infantil de la cantante Hayley Williams, corre hacia un mundo extraño con alas de mariposa monarca en la espalda, lo que simboliza que es una esclava Monarca. Ella casi a regañadientes entra en una puerta de enlace simbólica, que representa el comienzo de su estado disociativo. La puerta se cierra violentamente a sus espaldas, lo que sugiere a los espectadores que este país de las maravillas es impuesto por la fuerza a la niña. La letra de la primera estrofa describe la realidad de los esclavos.
 
   
 
@@ -108,7 +108,7 @@ Desde el principio del vídeo, el tema de la canción es muy claro. El escenario
 > Los ángulos están mal ahora  
 > Ella es arranca las alas de mariposa
 
-La niña vive en un "cuento de hadas", que es su estado mental disociativo. Es"demasiado lejos para nosotros encontrar" por el hecho de que este mundo sólo puede encontrarse en los límites de su conciencia. El esclavo se ha eliminado de su familia y del mundo real para vivir en un ambiente confinado. Ella ha "olvidado el gusto y el olfato" del "mundo real" que ha dejado atrás. Ella vive en una cárcel para niños, una rata de laboratorio humanos y que es constantemente manipulada por sus cuidadores. Todos sus sentidos están sometidos a una presión constante y el dolor y su percepción de la realidad es completamente distorsionada:"Los ángulos están mal ahora". Ella es una esclava monarca y es así "arranca las de mariposa".
+La niña vive en un "cuento de hadas", que es su estado mental disociativo. Es "demasiado lejos para nosotros encontrar" por el hecho de que este mundo sólo puede encontrarse en los límites de su conciencia. El esclavo se ha eliminado de su familia y del mundo real para vivir en un ambiente confinado. Ella ha "olvidado el gusto y el olfato" del "mundo real" que ha dejado atrás. Ella vive en una cárcel para niños, una rata de laboratorio humana y que es constantemente manipulada por sus cuidadores. Todos sus sentidos están sometidos a una presión y un dolor constantes, y su percepción de la realidad es completamente distorsionada: "Los ángulos están mal ahora". Ella es una esclava monarca y es así "arranca las de mariposa".
 
   
 
@@ -125,7 +125,7 @@ El estado disociativo experimentado por los esclavos Monarca es a menudo descrit
 
   
 
-La chica en el vídeo camina alrededor de este mundo extraño lleno de personajes de cuento de hadas que recuerdan a los que se encuentran en Alice in Wonderland o el Mago de Oz, las historias más comúnmente asociadas con el control de la mente. La visión borrosa de las escenas y la presencia de hongos en el fondo se refieren al uso de drogas alucinógenas durante la programación de la mariposa monarca
+La chica en el vídeo camina alrededor de este mundo extraño lleno de personajes de cuento de hadas que recuerdan a los que se encuentran en Alice in Wonderland o el Mago de Oz, las historias más comúnmente asociadas con el control de la mente. La visión borrosa de las escenas y la presencia de hongos en el fondo se refieren al uso de drogas alucinógenas durante la programación de la mariposa monarca.
 
   
 
@@ -133,7 +133,7 @@ La chica en el vídeo camina alrededor de este mundo extraño lleno de personaje
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDH5FbIPma_ZB_fyB8GCNvmZafBFzmdTKm-9Qp1LfR-kYvQbFusPVjdOLmOR3GsRBNLi7nFML3HnB7z3mxBkx0PqY2VjaCztdLDcvGCo8I8XBaRglyi-llLVSu2cM8g-zSL1fMlN37PK3s/s1600/para2.png)](https://www.blogger.com/u/1/#)
 
-**La niña entra en un castillo, en representación de su conciencia interna. Espejos, los reflejos y la multiplicación de la niña son símbolo de fragmentación de su mente.**
+**La niña entra en un castillo, en representación de su conciencia interna. Los espejos, los reflejos y la multiplicación de la niña son símbolos de fragmentación de su mente.**
 
   
 
@@ -141,13 +141,13 @@ La chica en el vídeo camina alrededor de este mundo extraño lleno de personaje
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoHAiE_q1hJv0H_DBZbET8FqFl948ZvIuM7ajVu_KnJpn4iQRO-xAz6COFu0gaIY5oZlOEf9TgZudKAM6js7oKPBuq0SyrJB4REvhKeONSEIgpkRsLJUqEGg7PdgGpn4S_h07SwOpErWYT/s1600/para3.png)](https://www.blogger.com/u/1/#)
 
-**La niña se queda quieta, mientras que independientemente su personalidad alternativa la mira a través espejo, mientras peina su cabello. Los espejos y los castillos son los desencadenantes que se utilizan a menudo en la programación de la mariposa monarca.**
+**La niña se queda quieta, mientras su personalidad alternativa, de forma independiente, la mira a través del espejo y se peina el cabello. Los espejos y los castillos son los desencadenantes que se utilizan a menudo en la programación de la mariposa monarca.**
 
   
 
   
 
-> "La premisa de trauma basado en el control de la mente (una versión que fue conocido como el proyecto MK Ultra) es compartimentar el cerebro, y luego usar las técnicas para acceder a las diferentes secciones del cerebro mientras el sujeto está hipnotizado. Sistema enteros se puede incrustar en la mente de una persona, cada uno con su propio tema, códigos de acceso y palabras de activación. Algunos de los más comunes y de simbología popular son Alicia en el País de las Maravillas, Peter Pan y El mago de Oz, espejos, porcelana / máscaras de Arlequín, el Fenix / Fenix Renaciendo, arco iris, mariposas, búhos, llaves, carruseles, títeres / marionetas y muñecas, los sauces, los tornados, las espirales / hélices, castillos, anillos, pasillos y puertas, los ascensores y las escaleras."
+> "La premisa de trauma basado en el control de la mente (una versión que fue conocido como el proyecto MK Ultra) es compartimentar el cerebro, y luego usar las técnicas para acceder a las diferentes secciones del cerebro mientras el sujeto está hipnotizado. Sistemas enteros se pueden incrustar en la mente de una persona, cada uno con su propio tema, códigos de acceso y palabras de activación. Algunos de los más comunes y de simbología popular son Alicia en el País de las Maravillas, Peter Pan y El mago de Oz, espejos, porcelana / máscaras de Arlequín, el Fénix / Fénix Renaciendo, arco iris, mariposas, búhos, llaves, carruseles, títeres / marionetas y muñecas, los sauces, los tornados, las espirales / hélices, castillos, anillos, pasillos y puertas, los ascensores y las escaleras."
 
   
 
@@ -169,11 +169,11 @@ El segundo verso de la canción describe una realidad preocupante de los esclavo
 
   
 
-Este es el cuadro pintado por este verso: controlador de la esclava entra en su "celda", donde se enrolla y profundamente traumatizados. El suelo está sucio. Se ha documentado que las víctimas de control mental se ven obligados a vivir las habitaciones llenas de heces (que no puedo hacer estas cosas más). Su "príncipe", que es de hecho, su controlador, llega para "salvarla de su dolor".
+Este es el cuadro pintado por este verso: el controlador de la esclava entra en su "celda", donde se enrolla, profundamente traumatizada. El suelo está sucio. Se ha documentado que las víctimas de control mental se ven obligadas a vivir en habitaciones llenas de heces (no me lo estoy inventando). Su "príncipe", que es, de hecho, su controlador, llega para "salvarla de su dolor".
 
   
 
-Los controladores se retratan a menudo como el salvador de los esclavos, que le guían a través de eventos traumáticos. La línea “Y el resto se puede imaginar" alude a lo peor: el "Príncipe" llegó a su violación. Era un truco, que no era un príncipe, sólo un controlador de sádicos promover el trauma de la niña con el abuso sexual. Durante esos ataques repetidos, los esclavos se ven obligados a disociarse de la realidad. Las letras del puente de la canción definir adecuadamente este concepto.
+Los controladores se retratan a menudo como el salvador de los esclavos, a quienes guían a través de eventos traumáticos. La línea “Y el resto se puede imaginar” alude a lo peor: el "príncipe" llegó para violarla. Era un truco: no era un príncipe, sino un controlador sádico que provocaba más trauma en la niña con el abuso sexual. Durante esos ataques repetidos, los esclavos se ven obligados a disociarse de la realidad. Las letras del puente de la canción definen adecuadamente este concepto.
 
   
 
@@ -183,7 +183,7 @@ Los controladores se retratan a menudo como el salvador de los esclavos, que le 
 
   
 
-Ella ha construido, ladrillo a ladrillo, un muro en su conciencia que se disocia de la realidad. Ella se escapa a un mundo de magia debido al trauma extremo que tiene que vivir en una base diaria.
+Ella ha construido, ladrillo a ladrillo, un muro en su conciencia que la disocia de la realidad. Ella se escapa a un mundo de magia debido al trauma extremo que tiene que vivir a diario.
 
   
 
@@ -191,7 +191,7 @@ Ella ha construido, ladrillo a ladrillo, un muro en su conciencia que se disocia
 
   
 
-El despertar Probablemente, la curiosidad de la niña acerca de su propia mente la ha llevado demasiado lejos, el mundo de las maravillas rápidamente se convierte en una pesadilla. Títeres tenebrosos hacen su salida de los espejos. Los personajes de su mundo de cuento de hadas se han convertido de repente en aterradores. Un personaje de aspecto malvado, vestido como un ladrón sosteniendo un hacha, se acerca a ella. ¿Está siendo reprendido por sus programadores para "no seguir la secuencia de comandos" de su programación? La niña se asusta y empieza a huir. Las letras explican esta diferencia entre la realidad y la ficción.
+El despertar: probablemente, la curiosidad de la niña acerca de su propia mente la ha llevado demasiado lejos y el mundo de las maravillas se convierte rápidamente en una pesadilla. Títeres tenebrosos hacen su salida de los espejos. Los personajes de su mundo de cuento de hadas se han convertido de repente en aterradores. Un personaje de aspecto malvado, vestido como un ladrón sosteniendo un hacha, se acerca a ella. ¿Está siendo reprendido por sus programadores por "salirse del guion" de su programación? La niña se asusta y empieza a huir. Las letras explican esta diferencia entre la realidad y la ficción.
 
   
 
@@ -213,28 +213,28 @@ El despertar Probablemente, la curiosidad de la niña acerca de su propia mente 
 
   
 
-La chica sale corriendo del castillo y cae en la fosa cavada por Paramore ...? Eso no es realmente agradable de ellos. Hayley se levanta, tira muñeca de la niña en la tumba y comienzan a enterrar su cadáver. A primera vista, esto puede interpretarse como el entierro de "la niña irresposable" que vive en un cuento de hadas. En un segundo nivel, esto puede ser visto como el entierro de la inocencia de un niño después de haber experimentado eventos traumáticos. Si tienes ojos de lince, notará un conejo blanco dentro del agujero. ¿Es el conejo blanco de Alice in Wonderland? Como dice Morpheo en The Matrix:
+La chica sale corriendo del castillo y cae en la fosa cavada por Paramore... Eso no es realmente muy amable de su parte. Hayley se levanta, tira la muñeca de la niña en la tumba y comienzan a enterrar su cadáver. A primera vista, esto puede interpretarse como el entierro de "la niña irresponsable" que vive en un cuento de hadas. En un segundo nivel, esto puede ser visto como el entierro de la inocencia de un niño después de haber experimentado eventos traumáticos. Si tienes ojos de lince, notarás un conejo blanco dentro del agujero. ¿Es el conejo blanco de Alice in Wonderland? Como dice Morfeo en The Matrix:
 
-"Si te tomas la píldora roja te queda en el país de las maravillas y te enseño qué tan profundo es el agujero de conejo."
+"Si te tomas la píldora roja te quedas en el país de las maravillas y te enseño qué tan profundo es el agujero de conejo."
 
   
 
-Cualquiera que sea el significado que se le atribuya a la sepultura, el mensaje del video no parece el de la búsqueda de una niña por su auto-conocimiento y emancipación. Parece que están diciendo "Esto es lo que consigues cuando tratas de conocer tu verdadero yo".
+Cualquiera que sea el significado que se le atribuya a la sepultura, el mensaje del video no parece el de la búsqueda de una niña por su autoconocimiento y emancipación. Parece que están diciendo "Esto es lo que consigues cuando tratas de conocer tu verdadero yo".
 
   
 
 ## En Conclusión
 
-Después de ver el vídeo de un par de veces, me pregunté si la canción era en realidad una denuncia de las prácticas de control de la mente ... tal vez estaban tratando de informar y advertir a la gente sobre el tema. Así que he visitado algunos sitios relacionados con Paramore y foros para ver si la canción había desatado los debates sobre su significado más profundo. Rápidamente noté la realidad de las cosas: los jóvenes escuchan esta música y no tienen absolutamente ninguna idea de que trata. Alrededor del 97% de los adultos educados son totalmente inconscientes de la existencia de control de la mente (por no hablar de su simbolismo), de modo que esperar que chicos de secundaria sepan acerca de esto es totalmente absurdo.
+Después de ver el vídeo de un par de veces, me pregunté si la canción era en realidad una denuncia de las prácticas de control de la mente... tal vez estaban tratando de informar y advertir a la gente sobre el tema. Así que visité algunos sitios relacionados con Paramore y foros para ver si la canción había desatado los debates sobre su significado más profundo. Rápidamente noté la realidad de las cosas: los jóvenes escuchan esta música y no tienen absolutamente ninguna idea de qué trata. Alrededor del 97% de los adultos educados son totalmente inconscientes de la existencia de control de la mente (por no hablar de su simbolismo), de modo que esperar que chicos de secundaria sepan acerca de esto es totalmente absurdo.
 
   
 
-Éstos son algunos de los comentarios reales de los fans sobre esta canción:"Adoro la parte…Badabada!", "Hailey luce espectacular de rubia!" O "No me gusta la parte del entierro!". Así que con eso en mente me pregunto: ¿Por qué ellos utilizan el simbolismo y los desencadenantes relacionados con el control de la mente en vídeos destinados a jóvenes? Son totalmente ajenos a la realidad de la programación Monarca, entonces ¿por qué los exponen a ello? Después de darme cuenta de que el grupo ha adoptado algunos de los símbolos Illuminati discutidos en artículos anteriores, la respuesta fue muy clara: Ellos son parte del sistema. 
+Éstos son algunos de los comentarios reales de los fans sobre esta canción: "¡Adoro la parte… Badabada!", "¡Hayley luce espectacular de rubia!" o "¡No me gusta la parte del entierro!". Así que con eso en mente me pregunto: ¿Por qué ellos utilizan el simbolismo y los desencadenantes relacionados con el control de la mente en vídeos destinados a jóvenes? Son totalmente ajenos a la realidad de la programación Monarca, entonces ¿por qué los exponen a ello? Después de darme cuenta de que el grupo ha adoptado algunos de los símbolos Illuminati discutidos en artículos anteriores, la respuesta fue muy clara: Ellos son parte del sistema.
 
   
 
-Estesistema condiciona hipnóticamente a la gente para aceptar el control mental como parte de su vida cotidiana y la tendencia cada vez es más evidente. Ya puedo oír a los detractores diciendo "no" a todo y encontrando formas de racionalizar todo lo que se ha debatido aquí. Tal vez se debería reflexionar sobre estas palabras:
+Este sistema condiciona hipnóticamente a la gente para aceptar el control mental como parte de su vida cotidiana y la tendencia es cada vez más evidente. Ya puedo oír a los detractores diciendo "no" a todo y encontrando formas de racionalizar todo lo que se ha debatido aquí. Tal vez se debería reflexionar sobre estas palabras:
 
- > "Incluso mientras él baila al compás de la élite dirigente de la conducta humana, el hombre moderno se burla sobre la idea de la existencia y funcionamiento de una tecnología de control mental que emana de los medios de comunicación de masas y el gobierno. El hombre moderno es demasiado inteligente para creer que algo tan supersticiosos como eso! El hombre moderno es el sujeto hipnótico ideal, atiborrado en la idea de que es la corona de la creación, niega con vehemencia el poder de control del hipnotizador sobre él como su cabeza se menea y arriba y abajo en una cadena. "
+> "Incluso mientras él baila al compás de la élite dirigente de la conducta humana, el hombre moderno se burla sobre la idea de la existencia y funcionamiento de una tecnología de control mental que emana de los medios de comunicación de masas y el gobierno. El hombre moderno es demasiado inteligente para creer que algo tan supersticioso como eso! El hombre moderno es el sujeto hipnótico ideal, atiborrado en la idea de que es la corona de la creación, niega con vehemencia el poder de control del hipnotizador sobre él como su cabeza se menea arriba y abajo en una cadena."
 > 
-> \-Michael A. Hoffman II, sociedades secretas y Guerra Psicológica
+> \-Michael A. Hoffman II, Sociedades Secretas y Guerra Psicológica
