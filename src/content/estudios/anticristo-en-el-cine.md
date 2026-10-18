@@ -448,7 +448,7 @@ El multiverso es una teoría en la que nuestro universo no es el único, sino qu
 
   
 
-Si bien Dios en su soberanía puede hacer lo que le plazca con su creación y los universos, la Biblia no enseña nada sobre que existen otras realidades paralelas, mas que el universo, la realidad y tiempo donde la humanidad es redimida a través de la muerte de Jesucristo. Lo que Dios dice se convierte en realidad (Salmos 33:6, 9). Las palabras que salieron de Dios se convirtieron en partículas de luz, energía y materia, por lo que entendemos la Palabra de Dios como la base inamovible de la realidad.
+Si bien Dios en su soberanía puede hacer lo que le plazca con su creación y los universos, la Biblia no enseña nada sobre que existen otras realidades paralelas, mas que el universo, la realidad y tiempo donde la humanidad es redimida a través de la muerte de Jesucristo. Lo que Dios dice se convierte en realidad (Salmo 33:6, 9). Las palabras que salieron de Dios se convirtieron en partículas de luz, energía y materia, por lo que entendemos la Palabra de Dios como la base inamovible de la realidad.
 
   
 

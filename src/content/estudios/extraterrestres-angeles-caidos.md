@@ -687,7 +687,7 @@ de las tendencias populares. Pero en el fondo, nunca debemos olvidar a
 quién realmente pertenece la industria del entretenimiento. No a Ted
 Turner, ni a Sony, ni a M.G.M., sino un poder invisible más allá de las
 escenas que tiende a dejar huellas de pezuñas donde quiera que vaya.
-Turner, Spielberg, los "dioses" modernos (Salmos 82:6-7) de la industria
+Turner, Spielberg, los "dioses" modernos (Salmo 82:6-7) de la industria
 del entretenimiento saben de dónde obtienen su dinero y su poder, por lo
 que no les importa que solo sean títeres manipulados por el "príncipe" del
 poder del aire (¿Ondas?) - Efesios. 2: 2.
@@ -1519,7 +1519,7 @@ Espíritu Santo para obtener más información.
    artículo en la revista OMNI, Septiembre de 1983, pág. 80
 3. Richard Sauder, PhD., *Bases Subterráneas y Túneles: ¿Qué está tratando
    de ocultar el gobierno?*
-4. PD.  46: 10, Job 38:33, Salmos 16:3 - Habla de los santos en la
+4. PD.  46: 10, Job 38:33, Salmo 16:3 - Habla de los santos en la
    tierra, por lo tanto, obviamente no se trata del infierno.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGrQpLYY5HyKiyjvO4mTzj4QbUUvaLCI_bqFwWM33DUd1ebMdUR9Pq5M6uVQpIx3RSDJkvSHLonLH0pzWqL9FOfFqt-e7ngxjpxhGpafasiwBTunUMFyQQ56WAreC4WjNX2Ag0Cewkkw/s1600/circle5.png)
