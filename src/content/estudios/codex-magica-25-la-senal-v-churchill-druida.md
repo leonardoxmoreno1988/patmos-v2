@@ -72,7 +72,7 @@ Aquí vemos las fantásticas creencias de los ocultistas de que sus rituales cre
 
 Como hemos visto anteriormente, la cábala judía está en la raíz de los sistemas de magia más perversos. **[La cábala](https://www.ritualypropaganda.com/2017/04/plan-de-lucifer-impulso-cabala-francmasoneria.html)** (o Kabbalah) es la fuente de la doctrina de la masonería y de muchas otras sociedades secretas. Podemos esperar, por lo tanto, que el signo "V" también sea enfatizado por los sacerdotes rabínicos del cabalismo.  
   
-Y, de hecho, encontramos que los rabinos enseñan que el significado de la letra hebrea para V (Vau) es "Nail", y "Nail" es un título secreto para Satanás. (Su significado corrupto proviene de los clavos clavados en las manos de Jesús crucificado.) Vau, o V, es la sexta letra en el alfabeto hebreo, y, por supuesto, el Libro de Apocalipsis revela que el nombre de la bestia, o Anticristo , está codificado con el número de triple 6, o 666.  
+Y, de hecho, encontramos que los rabinos enseñan que el significado de la letra hebrea para V (Vau) es "Nail", y "Nail" es un título secreto para Satanás. (Su significado corrupto proviene de los clavos clavados en las manos de Jesús crucificado.) Vau, o V, es la sexta letra en el alfabeto hebreo, y, por supuesto, el libro de Revelación revela que el nombre de la bestia, o Anticristo , está codificado con el número de triple 6, o 666.  
   
 
 ## Churchill, Un Sacerdote Druida

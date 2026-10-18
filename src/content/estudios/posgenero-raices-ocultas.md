@@ -3,8 +3,8 @@ title: "Posgénero: Raíces Ocultas Y El Final De La Sexualidad Binaria"
 date: "2021-03-31"
 updated: "2023-07-17"
 author: "Kevin Farringdon"
-slug: "posgenero-raices-ocultas"
-redirectFrom: "/2021/03/posgenero-raices-ocultas.html"
+slug: posgenero-raices-ocultas
+redirectFrom: "/2021/03/posgenero-raíces-ocultas.html"
 description: "Recientemente, varios escritores han estado alertando a los cristianos sobre las formas en que su pensamiento se ha vuelto cautivo de las ideas de tipo…"
 tags: ["Sociedad"]
 ---

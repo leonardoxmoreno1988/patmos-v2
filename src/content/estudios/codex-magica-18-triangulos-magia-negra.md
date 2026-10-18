@@ -44,7 +44,7 @@ Recuerde: en todas partes del mundo del Iluminismo, descubrimos connotaciones se
 
 ## La estrella de David y el número de la bestia, 666
 
-La naturaleza supremamente malvada del doble triángulo, el hexagrama, el Sello de Salomón, el Magen David (Escudo de David), se prueba por el hecho de que el símbolo contiene el número oculto 666, el número de la bestia (Apocalipsis 13).  
+La naturaleza supremamente malvada del doble triángulo, el hexagrama, el Sello de Salomón, el Magen David (Escudo de David), se prueba por el hecho de que el símbolo contiene el número oculto 666, el número de la bestia (Revelación 13).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Ou4hf6EoyROyjs1ObvZAhOhBvQOVbVzd0ehxKNd0Z95u3zssVUBKOm0hyphenhyphenSDVjGdxRfO980CGOijDFa5t5-KMeEZ7VjeuVW8R9mFO3gLXKyNJgIjX8pkrSEEmI0xW320bGEzc33BoriE/s200/ecodex_7.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Ou4hf6EoyROyjs1ObvZAhOhBvQOVbVzd0ehxKNd0Z95u3zssVUBKOm0hyphenhyphenSDVjGdxRfO980CGOijDFa5t5-KMeEZ7VjeuVW8R9mFO3gLXKyNJgIjX8pkrSEEmI0xW320bGEzc33BoriE/s1600/ecodex_7.jpg)

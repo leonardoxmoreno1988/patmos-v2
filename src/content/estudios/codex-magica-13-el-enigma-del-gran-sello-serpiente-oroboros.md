@@ -5,13 +5,13 @@ updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros"
 redirectFrom: "/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html"
-description: "\"Y el gran dragón fue echado fuera, esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero...\" - Apocalipsis 12:9 \"La gran serpiente del…"
+description: "\"Y el gran dragón fue echado fuera, esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero...\" - Revelación 12:9 \"La gran serpiente del…"
 tags: ["Sociedad"]
 ---
 
 > **"Y el gran dragón fue echado fuera, esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero..."** 
 
-> **\- Apocalipsis 12:9**
+> **\- Revelación 12:9**
 
 [![ojo que todo lo ve con el gran sello de los estados unidos y la serpiente uróboros](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkp8zGKqonLonqgIdNkaKrtHq7HHM8a0_cm6J1T8yFR8nfoHHnKv-yqJJeBVgnLY3lPB7unkDlfxBJyXGfLiBgpOHQdoFM3WBJZA47d-hXnK6Og-FhH_6Ytnm5cBcfE4Fcr3brBicLOFg/s1600/uoroboros.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkp8zGKqonLonqgIdNkaKrtHq7HHM8a0_cm6J1T8yFR8nfoHHnKv-yqJJeBVgnLY3lPB7unkDlfxBJyXGfLiBgpOHQdoFM3WBJZA47d-hXnK6Og-FhH_6Ytnm5cBcfE4Fcr3brBicLOFg/s1600/uoroboros.jpg)
 
@@ -103,7 +103,7 @@ Es evidente que los Illuminati adoran un panteón, una multiplicidad de dioses. 
 
 ## Su dios es la serpiente
 
-Ahora, la Biblia, en Isaías 14 y Apocalipsis 12:9, identifica a Lucifer como "el gran dragón ... esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero". Así que, por cualquier nombre que lo llamen, el dios de los Illuminati y la Masonería es la serpiente. De hecho, en Un Puente a la Luz, un libro oficial del Consejo Supremo de la Madre, 33 °, el más alto consejo del Rito Escocés, Rex Hutchens, 33 °, revela que "el cuerpo del Espíritu Santo, el agente universal" No es otra que "la serpiente devorando su propia cola". **(4)**  
+Ahora, la Biblia, en Isaías 14 y Revelación 12:9, identifica a Lucifer como "el gran dragón ... esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero". Así que, por cualquier nombre que lo llamen, el dios de los Illuminati y la Masonería es la serpiente. De hecho, en Un Puente a la Luz, un libro oficial del Consejo Supremo de la Madre, 33 °, el más alto consejo del Rito Escocés, Rex Hutchens, 33 °, revela que "el cuerpo del Espíritu Santo, el agente universal" No es otra que "la serpiente devorando su propia cola". **(4)**  
   
 Es decir, la serpiente Ouroboros.  
   
@@ -270,7 +270,7 @@ Crown Royal es fabricado por Seagram & Sons, la destilería más grande del mund
 
   
 
-El dragón es, por supuesto, una forma mítica de serpiente. De hecho, la Biblia en el libro de Apocalipsis describe a Satanás como "esa vieja serpiente, el dragón". Bueno, para aquellos que desean rendir homenaje al dragón, el catálogo de _The Pyramid Collection_ ofrece joyas tales como este colgante, anillo y brazalete.  
+El dragón es, por supuesto, una forma mítica de serpiente. De hecho, la Biblia en el libro de Revelación describe a Satanás como "esa vieja serpiente, el dragón". Bueno, para aquellos que desean rendir homenaje al dragón, el catálogo de _The Pyramid Collection_ ofrece joyas tales como este colgante, anillo y brazalete.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiCv6Q6_iNUNa1zsKTQ46NlrCMuCrqq886UvpywFrIcdpuB64lGYPm1RGUYo6ndRvKX4V8PXJXkqqlhFmJWuKBvQ50DRscdPbXfr2X2VlE1eFuKsGnzDjrh4tJuWP78u4uXHWUP7nhBHo/s320/ccodex_116.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiCv6Q6_iNUNa1zsKTQ46NlrCMuCrqq886UvpywFrIcdpuB64lGYPm1RGUYo6ndRvKX4V8PXJXkqqlhFmJWuKBvQ50DRscdPbXfr2X2VlE1eFuKsGnzDjrh4tJuWP78u4uXHWUP7nhBHo/s1600/ccodex_116.jpg)

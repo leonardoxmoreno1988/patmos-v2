@@ -5,7 +5,7 @@ updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-rockefeller"
 redirectFrom: "/2012/09/linajes-de-los-illuminati-el-linaje.html"
-description: "Uno de los 13 linajes Satánicos que gobiernan el mundo es el Linaje Rockefeller. Hoy en dia, hay alrededor de 190 miembros de esta familia con el nombre…"
+description: "Uno de los 13 linajes Satánicos que gobiernan el mundo es el Linaje Rockefeller. Hoy en día, hay alrededor de 190 miembros de esta familia con el nombre…"
 tags: ["Sociedad"]
 ---
 
@@ -13,7 +13,7 @@ tags: ["Sociedad"]
 
   
 
-Uno de los 13 linajes Satánicos que gobiernan el mundo es el **Linaje Rockefeller**. Hoy en dia, hay alrededor de 190 miembros de esta familia con el nombre Rockefeller y por supuesto muchos otros con distintos apellidos. Este articulo busca explorar mas allá para aquellos que estudian a los **Illuminati** el cómo el **linaje Rockefeller** está envuelto en la promoción del **ocultismo** y del **satanismo**, y como ejercen control sobre las **denominaciones Cristianas**.   
+Uno de los 13 linajes Satánicos que gobiernan el mundo es el **Linaje Rockefeller**. Hoy en día, hay alrededor de 190 miembros de esta familia con el nombre Rockefeller y por supuesto muchos otros con distintos apellidos. Este articulo busca explorar mas allá para aquellos que estudian a los **Illuminati** el cómo el **linaje Rockefeller** está envuelto en la promoción del **ocultismo** y del **satanismo**, y como ejercen control sobre las **denominaciones Cristianas**.   
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnezo7wTmytnZMLp1dvBKOu4jQvsWNUsQFtGjgM3apJqLYWvYF_FUKUMFHpmopNZNh6Xpq24fGirAqiiD3Q0XgwOqqG8fM-ttAB9tXbeRXoIOu78c_UHdxPC38rSE4syRVTnt5cQwv6f8/s1600/rockefeller.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnezo7wTmytnZMLp1dvBKOu4jQvsWNUsQFtGjgM3apJqLYWvYF_FUKUMFHpmopNZNh6Xpq24fGirAqiiD3Q0XgwOqqG8fM-ttAB9tXbeRXoIOu78c_UHdxPC38rSE4syRVTnt5cQwv6f8/s1600/rockefeller.jpg)  
   

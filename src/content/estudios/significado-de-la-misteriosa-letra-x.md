@@ -75,7 +75,7 @@ Página 158 del Monitor de la Francmasonería de Richardson, detallando la cerem
   
 Sin embargo, el autor masónico del Monitor de la Francmasonería de Richardson autoriza, sin duda, al gato a salir de la bolsa, por así decirlo, detallando cómo, durante esta ceremonia ritual para el Grado de Caballero de Oriente y Occidente, la Palabra Sagrada es dada a los miembros reunidos de la Logia. Esa palabra sagrada es una sorpresa: es Abaddon.  
   
-Sí, Abaddon es la Palabra Sagrada de los Caballeros Masónicos de Oriente y Occidente. Y la Biblia revela exactamente quién es Abaddon en Apocalipsis 9:11:  
+Sí, Abaddon es la Palabra Sagrada de los Caballeros Masónicos de Oriente y Occidente. Y la Biblia revela exactamente quién es Abaddon en Revelación 9:11:  
   
 
 > **"Tienen sobre ellos por rey al ángel del abismo, cuyo nombre en hebreo es Abadón, y en griego se llama Apolión."**

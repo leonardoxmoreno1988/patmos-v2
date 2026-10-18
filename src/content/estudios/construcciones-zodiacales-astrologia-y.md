@@ -367,7 +367,7 @@ Mateo 25:41 dice:
 
 > **"Entonces dirá también a los de la mano izquierda: Apartaos de mí, malditos, al fuego eterno, preparado para el diablo y sus ángeles".** 
 
-Apocalipsis 12:7-9 dice:  
+Revelación 12:7-9 dice:  
 
 > **"Y hubo guerra en el cielo: Miguel y sus ángeles pelearon contra el dragón, y el dragón se regocijó y sus ángeles, y no prevaleció, ni su lugar se encontró más en el cielo. El dragón fue echado fuera, esa vieja serpiente, llamada el diablo, y Satanás, que engaña a todo el mundo: fue arrojado a la tierra, y sus ángeles fueron arrojados con él."**
 

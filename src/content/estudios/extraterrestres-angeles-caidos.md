@@ -1305,7 +1305,7 @@ pero tampoco los descarta.
    no salvo (Prov. 26:3, Sal. 32:9). Tales no deben ser unidas en yugo en
    el servicio cristiano o (por supuesto) en el matrimonio. La vestidura
    puede ser un símbolo de nuestra salvación (Isaías 61:10, Mateo 22:12,
-   Apocalipsis 3:4, Apocalipsis 16:15, Zacarías 3:4); la cual no debe ser
+   Revelación 3:4, Revelación 16:15, Zacarías 3:4); la cual no debe ser
    mezclada con las obras humanas.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjURnnKm_dRrcPFrYIaHy2uS54Al7Pa17IA7CpEDg6H_W3UFPN4eYn69Vc8pc6uJr2qSizJv4RHsbNNDyrtJgyJxsET_aUCQZGYURon9tskxITmilq0XDpzvix-JFQgxVZ65ahh7QpG-uw/s320/circle4.png)
@@ -1485,7 +1485,7 @@ extrañas bajo la tierra, tanto aquí como más allá.
 
 ¿Hay alguna base para esto en la Biblia? Tal vez. Mientras que la Palabra
 deja claro que por lo menos uno de los ejércitos de Satanás emerge de las
-entrañas de la tierra (Apocalipsis 9:2-11), no habla de civilizaciones
+entrañas de la tierra (Revelación 9:2-11), no habla de civilizaciones
 subterráneas con tantas palabras. Hay un par de versos, sin embargo, que son
 sugerentes. Uno de ellos está en el padre nuestro:
 
@@ -2544,7 +2544,7 @@ Si él realmente cree o no que estas personas que secuestra o los
 niños que tienen son "a prueba de evangelismo" es una incógnita. Sin
 embargo, no importa; ¡Porque algunos de ellos están naciendo de
 nuevo! No hay límite para el poder de la Sangre de Jesús. “Quien
-quiera" (Marcos 8:34, Apocalipsis 22:17) significa exactamente eso.
+quiera" (Marcos 8:34, Revelación 22:17) significa exactamente eso.
 Sus misericordias son infinitas. Como todos los planes de Satanás,
 este se viene abajo.
 
@@ -2647,7 +2647,7 @@ entre ángeles caídos y mujeres (Génesis 6:1-5).
 - La Biblia también nos advierte sobre la iniquidad espiritual creciente e
 increíble, tanto entre los líderes como entre la gente común a medida que
 se acerca el día del Señor (Lucas 18:8, 2 Tesalonicenses 2:3,
-Apocalipsis 16:11).
+Revelación 16:11).
 - Un pecado universal y muy grave en todas las dispensaciones es beber
 sangre literalmente (Génesis 9:4, Levítico 3:17, 7:26, 17:14, Actos 15:29).
 - La Biblia identifica claramente al infierno como algo profundo en el
@@ -3124,7 +3124,7 @@ Recuerde la advertencia profética del apóstol Pablo en 2 Corintios 11:14, "...
 
 El falso Cristo cumplirá los deseos de la religión católica, la Nueva Era, la masonería, el mormonismo y un gran grupo de falsas religiones.
 
-Sin embargo, creemos que el mundo aún no ha visto nada. Considere nuevamente la enseñanza bíblica sobre el reino del Anticristo en Apocalipsis 13:13. Él realiza grandes señales (milagros asombrosos) y debido a los milagros que se le permite realizar engaña a los que habitan la tierra y les ordena que erijan una estatua a semejanza de la bestia. Estos milagros sobrenaturales o aparentemente sobrenaturales llevarán a los hombres directamente a la adoración del Anticristo. Este es precisamente el resultado planeado de Satanás.
+Sin embargo, creemos que el mundo aún no ha visto nada. Considere nuevamente la enseñanza bíblica sobre el reino del Anticristo en Revelación 13:13. Él realiza grandes señales (milagros asombrosos) y debido a los milagros que se le permite realizar engaña a los que habitan la tierra y les ordena que erijan una estatua a semejanza de la bestia. Estos milagros sobrenaturales o aparentemente sobrenaturales llevarán a los hombres directamente a la adoración del Anticristo. Este es precisamente el resultado planeado de Satanás.
 
 La impactante realidad es que Satanás ha estado manipulando los eventos mundiales para lograr su gobierno, economía y religión mundial a través de las sociedades secretas, el comunismo, el nazismo, la Nueva Era y los OVNIs. La fusión final con el Nuevo Orden Mundial está casi completa. Los extraterrestres y las naves espaciales no son más que demonios a los que el Espíritu Santo ha permitido que en esta era final se manifiesten físicamente en nuestro reino.
 
@@ -3150,17 +3150,17 @@ Este evento, como lo detalla 1 Tesalonicenses 4:16-17 y 1 Corintios 15:52, sugie
 
 Los demonios del ejército de Satanás pronto se manifestarán físicamente como extraterrestres, llegando en armadas de naves espaciales que hasta ahora hemos llamado OVNIs. El plan exige que aparezcan repentinamente en muchos lugares de la Tierra simultáneamente. Algunos aparecerán en los países de más poder para conversar con los presidentes; algunos aparecerán en las Naciones Unidas; otros extraterrestres aparecerán en edificios gubernamentales clave en todo el mundo. Los extraterrestres aparecerán en las casas de algunas personas o en sus patios delanteros. La gente del mundo literalmente se volverá loca.
 
-Apocalipsis, capítulo 9, habla de los demonios que son liberados del infierno, llamado Abismo. Parecidas a langostas, fluirán sobre la tierra para afligir y atormentar a los inconversos. Su líder se llama Abaddon o Apollyon. Increíblemente, los escritos de la Nueva Era se refieren constantemente a estos seres, por estos mismos nombres, como líderes "iluminados" de la Nueva Era.
+Revelación, capítulo 9, habla de los demonios que son liberados del infierno, llamado Abismo. Parecidas a langostas, fluirán sobre la tierra para afligir y atormentar a los inconversos. Su líder se llama Abaddon o Apollyon. Increíblemente, los escritos de la Nueva Era se refieren constantemente a estos seres, por estos mismos nombres, como líderes "iluminados" de la Nueva Era.
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEgvXZkojYNZXupEOs3tPtkc8e2PMHNgJdhRfjWWO4oEmvnD_J_un3kdWHdoVfyselk2PBMQc5BAcep_AMFov2ih_Lt3jEWfxO6146miZvcm4s1HMm22NkjOhFdCweVQCpCx_wZGuIgVKI7oiwUjEt9V_Z8sXy00LlQMQYb67sb9_51wSgsDiXTmEpiF=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEgvXZkojYNZXupEOs3tPtkc8e2PMHNgJdhRfjWWO4oEmvnD_J_un3kdWHdoVfyselk2PBMQc5BAcep_AMFov2ih_Lt3jEWfxO6146miZvcm4s1HMm22NkjOhFdCweVQCpCx_wZGuIgVKI7oiwUjEt9V_Z8sXy00LlQMQYb67sb9_51wSgsDiXTmEpiF=s590)
 
 La forma anfibia de los llamados "grises" puede darnos una pista de tres espíritus inmundos.
 
-En Apocalipsis 16:13-15, vemos tres espíritus de demonios que salen de la boca del Anticristo; realizan tan grandes señales y maravillas que engañan a los gobernantes de la tierra. Esta es precisamente la parte del Plan que deben realizar los alienígenas. Engañarán especialmente a los presidentes, primeros ministros, reyes y reinas de los gobiernos de todo el mundo.
+En Revelación 16:13-15, vemos tres espíritus de demonios que salen de la boca del Anticristo; realizan tan grandes señales y maravillas que engañan a los gobernantes de la tierra. Esta es precisamente la parte del Plan que deben realizar los alienígenas. Engañarán especialmente a los presidentes, primeros ministros, reyes y reinas de los gobiernos de todo el mundo.
 
 > **"Vi salir de la boca del dragón, de la boca de la bestia y de la boca del falso profeta, tres espíritus inmundos semejantes a ranas. Son espíritus de demonios, que hacen señales y van a los reyes de la tierra en todo el mundo para reunirlos para la batalla de aquel gran día del Dios Todopoderoso."**
 >
-> — Apocalipsis 16:13-15
+> — Revelación 16:13-15
 
 ¿No son los supuestos "grises", subyugados de los nórdicos (ángeles caídos), semejantes a ranas humanoides? En todas partes el mensaje será el mismo. "Hemos venido para ayudar a llevar a nuestros hermanos de la Tierra a un nuevo nivel de conciencia del que habla el Cristo (Anticristo)". Los extraterrestres y los OVNIs literalmente flotarán sobre y alrededor del Anticristo mientras organiza su aparición. Este es el plan.
 

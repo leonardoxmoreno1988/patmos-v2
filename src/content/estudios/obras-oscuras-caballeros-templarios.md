@@ -370,7 +370,7 @@ Christian D. Ginsburg ha escrito:
 
 > "De Adán pasó a Noé, y luego a Abraham, el amigo de Dios, que emigró con él a Egipto, donde el patriarca permitió que una parte de esta misteriosa doctrina se derramara. Fue así como los egipcios obtuvieron algo de conocimiento de él, y las otras naciones orientales podrían introducirlo en sus sistemas filosóficos. Moisés, que aprendió con toda la sabiduría de Egipto, se inició por primera vez en la tierra de su nacimiento, pero se volvió más competente durante sus andanzas en el desierto, cuando no solo dedicó a él las horas de ocio de los cuarenta años completos, sino que recibió lecciones de uno de los ángeles. Moisés también inició a los setenta ancianos en los secretos de esta doctrina y nuevamente los transmitieron de mano a mano. De todos los que formaron la línea continua de tradición, David y Salomón fueron los más iniciados en la Cábala".
 
-Según Eliphas Levi, los tres mejores libros del cabalismo son el Sepher Yetzirah, El libro de la formación; el Sepher ha Zohar, El libro del esplendor; y Apocalipsis, El libro de las Revelaciones.  
+Según Eliphas Levi, los tres mejores libros del cabalismo son el Sepher Yetzirah, El libro de la formación; el Sepher ha Zohar, El libro del esplendor; y el libro de Revelación.  
   
 Las fechas de redacción de estos libros no están en absoluto establecidas. Los cabalistas declaran que el Sepher Yetzirah fue escrito por Abraham. Aunque es, con mucho, el más antiguo de los libros cabalísticos, probablemente fue de la pluma del rabino Akiba, 120 d. C.  
   

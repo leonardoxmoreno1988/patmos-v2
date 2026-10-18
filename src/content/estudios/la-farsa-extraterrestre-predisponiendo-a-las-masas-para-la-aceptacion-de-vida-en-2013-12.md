@@ -269,7 +269,7 @@ John sigue la pista de la hija de Lucinda Embry, Diana, y regresan a la casa mó
 
 **"Miré, y he aquí que un viento huracanado venía del norte, una gran nube con fuego fulgurante y un resplandor a su alrededor, y en su centro, algo como metal refulgente en medio del fuego. En su centro había figuras semejantes a cuatro seres vivientes. Y este era su aspecto: tenían forma humana. Tenía cada uno cuatro caras, y cuatro alas cada uno de ellos." -Ezequiel 1:4,6**
 
-Cuando uno hace un estudio completo y sistemático de la Biblia es claro que este no se refiere a naves extraterrestres, sino una evocación a ángeles que tan bien son descritos por el profeta Daniel y Juan en **[el libro de Apocalipsis](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)**. De la misma forma la simetría que se desarrolla entre la película y la Biblia están intencionalmente tratando de reducir las escrituras a simples mitos tribales y revelarlos como eventos históricos y futuros que necesitan una explicación científica.
+Cuando uno hace un estudio completo y sistemático de la Biblia es claro que este no se refiere a naves extraterrestres, sino una evocación a ángeles que tan bien son descritos por el profeta Daniel y Juan en **[el libro de Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)**. De la misma forma la simetría que se desarrolla entre la película y la Biblia están intencionalmente tratando de reducir las escrituras a simples mitos tribales y revelarlos como eventos históricos y futuros que necesitan una explicación científica.
 
   
 
@@ -279,7 +279,7 @@ Cuando uno hace un estudio completo y sistemático de la Biblia es claro que est
 
   
 
-La película también expone a Dios como un dios solar, el sol es quien causara el final de los tiempos, al igual que la Biblia menciona el juicio de Dios final de Apocalipsis. Esta ideología de adoración a los astros es común en muchas civilizaciones antiguas (incas, mayas, aztecas) y su culto al sol. Es claro que al final de los tiempos todo este conocimiento ancestral/pagano será usado por el anticristo (extraterrestre) de la nueva era para llevar a las masas hacia la Era del Acuario.
+La película también expone a Dios como un dios solar, el sol es quien causara el final de los tiempos, al igual que la Biblia menciona el juicio de Dios final en Revelación. Esta ideología de adoración a los astros es común en muchas civilizaciones antiguas (incas, mayas, aztecas) y su culto al sol. Es claro que al final de los tiempos todo este conocimiento ancestral/pagano será usado por el anticristo (extraterrestre) de la nueva era para llevar a las masas hacia la Era del Acuario.
 
   
 
@@ -331,7 +331,7 @@ La propaganda doctrinal de la nueva era se vuelve sobre el padre de John, un pas
 
   
 
-En la última escena Caleb y Abby son dejados en un nuevo planeta, (otras naves también aterrizan) ambos corren hacia un árbol que al parecer representa el árbol de la vida mencionado en Apocalipsis 22:2. Otra interpretación mas a fin con la nueva era señalaría a este como el árbol de la ciencia del bien del mal, el cual es usado en el gnosticismo o el cabalismo judío para representar la liberación del hombre a través del conocimiento.
+En la última escena Caleb y Abby son dejados en un nuevo planeta, (otras naves también aterrizan) ambos corren hacia un árbol que al parecer representa el árbol de la vida mencionado en Revelación 22:2. Otra interpretación mas a fin con la nueva era señalaría a este como el árbol de la ciencia del bien del mal, el cual es usado en el gnosticismo o el cabalismo judío para representar la liberación del hombre a través del conocimiento.
 
   
 

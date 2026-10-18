@@ -488,7 +488,7 @@ Y no se necesita un salto ilógico de fe para sacar esta conclusión. Después d
 
 > **"Entonces vi a la bestia reuniendo a los reyes de la tierra y sus ejércitos para luchar contra el que estaba sentado sobre el caballo y su ejército".** 
 > 
-> **\- Apocalipsis 19:19 (NTV)**
+> **\- Revelación 19:19 (NTV)**
 
   
 

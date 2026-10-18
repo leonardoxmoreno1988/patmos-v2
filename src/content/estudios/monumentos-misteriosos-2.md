@@ -21,7 +21,7 @@ tags: ["Sociedad"]
 
 > **"Y los otros hombres que no fueron muertos con estas plagas, ni aun así se arrepintieron de las obras de sus manos, ni dejaron de adorar a los demonios, y a las imágenes de oro, de plata, de bronce, de piedra y de madera, las cuales no pueden ver, ni oír, ni andar;"** 
 
-> **\- Apocalipsis 9:20** 
+> **\- Revelación 9:20** 
 
 > **"Y el pregonero anunciaba en alta voz: Mándase a vosotros, oh pueblos, naciones y lenguas, que al oír el son de la bocina, de la flauta, del tamboril, del arpa, del salterio, de la zampoña y de todo instrumento de música, os postréis y adoréis la estatua de oro que el rey Nabucodonosor ha levantado."** 
 

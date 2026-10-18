@@ -9,7 +9,7 @@ description: "Una figura importante en el desarrollo de la ciencia occidental mo
 tags: ["Sociedad"]
 ---
 
-Una figura importante en el desarrollo de la ciencia occidental moderna es Francis Bacon. En opinión de Bacon, la ciencia se limita principalmente a la construcción y el empleo de las artes mecánicas. Un ávido lector del Apocalipsis de Juan, el vizconde de St. Albans advirtió al público cristiano en Inglaterra sobre la aparición del **Anticristo**. Escribió que “el Anticristo usará estos medios libre y eficazmente, para que pueda aplastar y confundir el poder de este mundo ... la Iglesia debería considerar el uso de estos inventos debido a los peligros futuros en los tiempos del Anticristo que con la gracia de Dios serían fácil de encontrar, si los prelados y los príncipes promovieran el estudio e investigaran los secretos de esta naturaleza”.
+Una figura importante en el desarrollo de la ciencia occidental moderna es Francis Bacon. En opinión de Bacon, la ciencia se limita principalmente a la construcción y el empleo de las artes mecánicas. Un ávido lector del libro de Revelación, el vizconde de St. Albans advirtió al público cristiano en Inglaterra sobre la aparición del **Anticristo**. Escribió que “el Anticristo usará estos medios libre y eficazmente, para que pueda aplastar y confundir el poder de este mundo ... la Iglesia debería considerar el uso de estos inventos debido a los peligros futuros en los tiempos del Anticristo que con la gracia de Dios serían fácil de encontrar, si los prelados y los príncipes promovieran el estudio e investigaran los secretos de esta naturaleza”.
 
   
 
@@ -29,7 +29,7 @@ Para Francis Bacon, la búsqueda del conocimiento y la tecnología tenía tres r
 
   
 
-En el siglo XVII, doctos teólogos de Inglaterra y del continente, como Joseph Mede y Johann Heinrich Alsted, dedicaron sus poderes intelectuales al estudio de la profecía bíblica. De particular interés para ellos fueron el Apocalipsis de Juan y el libro de Daniel. En Daniel 12:4 el profeta escribió: 
+En el siglo XVII, doctos teólogos de Inglaterra y del continente, como Joseph Mede y Johann Heinrich Alsted, dedicaron sus poderes intelectuales al estudio de la profecía bíblica. De particular interés para ellos fueron el libro de Revelación y el libro de Daniel. En Daniel 12:4 el profeta escribió: 
 
 > **“Muchos correrán de aquí para allá, y el conocimiento se aumentará.”**
 
@@ -65,11 +65,11 @@ En esta publicación analizamos cómo el desarrollo de estas escuelas de pensami
 
 ## La Profecía Atemporal
 
-Para cualquiera que esté atento, observe y conozca la Biblia, es evidente que el mundo se está moviendo hacia la marca de la bestia a un ritmo increíble. Es posible ver el cumplimiento real de la profecía que se habló hace casi 2000 años. El libro de Apocalipsis (escrito en 95 d. C.) habla de una época en que el gobierno del mundo impondrá a todos sus ciudadanos la necesidad de tener una marca para poder comprar y vender. El cumplimiento real de esta profecía por parte de un gobierno mundial habría sido altamente improbable hasta los recientes avances en tecnología y mentalidad mundial.
+Para cualquiera que esté atento, observe y conozca la Biblia, es evidente que el mundo se está moviendo hacia la marca de la bestia a un ritmo increíble. Es posible ver el cumplimiento real de la profecía que se habló hace casi 2000 años. El libro de Revelación (escrito en 95 d. C.) habla de una época en que el gobierno del mundo impondrá a todos sus ciudadanos la necesidad de tener una marca para poder comprar y vender. El cumplimiento real de esta profecía por parte de un gobierno mundial habría sido altamente improbable hasta los recientes avances en tecnología y mentalidad mundial.
 
   
 
-Los versículos clave que hablan de "la marca de la bestia" se encuentran en Apocalipsis 13:16-18.
+Los versículos clave que hablan de "la marca de la bestia" se encuentran en Revelación 13:16-18.
 
 > “Y hace que todos, pequeños y grandes, ricos y pobres, libres y esclavos, reciban una marca en la mano derecha o en la frente, y que nadie pueda comprar ni vender excepto el que tenga la marca o el nombre de la bestia, o el número de su nombre. Aquí está la sabiduría. El que tiene entendimiento, calcule el número de la bestia, porque es el número de un hombre: su número es 666 ".
 
@@ -398,6 +398,6 @@ Es una historia épica, que se repite en la tradición bíblica y en la mitolog�
 
 Para aquellos que realmente valoran su libertad y quieren transmitir un legado positivo a su progenie, la batalla final es inevitable: enfrentarse a la máquina y pelear contra ella. Sin embargo, la implicación profética es clara.
 
-> "Y la adoraron todos los moradores de la tierra cuyos nombres no estaban escritos en el libro de la vida del Cordero que fue inmolado desde el principio del mundo." -Apocalipsis 13:8
+> "Y la adoraron todos los moradores de la tierra cuyos nombres no estaban escritos en el libro de la vida del Cordero que fue inmolado desde el principio del mundo." -Revelación 13:8
 
 Gracias por leer _Tecnocrácia, Teocracia, la Bestia y el Dragón_, no olvide compartir este material con sus familiares y cercanos.

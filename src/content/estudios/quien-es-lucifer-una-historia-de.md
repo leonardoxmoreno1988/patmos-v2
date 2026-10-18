@@ -49,7 +49,7 @@ Las escrituras nos enseñan que este ser convenció a un tercio de los ángeles 
 
    
 
-> "Después hubo una gran batalla en el cielo: Miguel y sus ángeles luchaban contra el dragón; y luchaban el dragón y sus ángeles; pero no prevalecieron, ni se halló ya lugar para ellos en el cielo. Y fue lanzado fuera el gran dragón, la serpiente antigua, que se llama diablo y Satanás, el cual engaña al mundo entero; fue arrojado a la tierra, y sus ángeles fueron arrojados con él." -Apocalipsis 12:7-9
+> "Después hubo una gran batalla en el cielo: Miguel y sus ángeles luchaban contra el dragón; y luchaban el dragón y sus ángeles; pero no prevalecieron, ni se halló ya lugar para ellos en el cielo. Y fue lanzado fuera el gran dragón, la serpiente antigua, que se llama diablo y Satanás, el cual engaña al mundo entero; fue arrojado a la tierra, y sus ángeles fueron arrojados con él." -Revelación 12:7-9
 
   
 
@@ -165,7 +165,7 @@ Mientras que los libertadores son presentados con trajes negros, el Capitolio lu
 
   
 
-El asociar estas ideas de un gobierno injusto con los conceptos que las personas tienen de Dios no son casuales. Katniss Everdeen es otra imagen de anticristo que como predice la Biblia en **[Apocalipsis](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** 16:14 pondrá a los habitantes del planeta en rebelión contra Dios. La imaginería que utiliza la película sobre las alas del sinsajo es bien sutil, pero a su vez solo una bien pensada estrategia para incorporar el mensaje espiritual y esotérico en la cinta. El símbolo no es un sinsajo, para los entendidos en enigmas es un ángel caído.
+El asociar estas ideas de un gobierno injusto con los conceptos que las personas tienen de Dios no son casuales. Katniss Everdeen es otra imagen de anticristo que como predice la Biblia en **[Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** 16:14 pondrá a los habitantes del planeta en rebelión contra Dios. La imaginería que utiliza la película sobre las alas del sinsajo es bien sutil, pero a su vez solo una bien pensada estrategia para incorporar el mensaje espiritual y esotérico en la cinta. El símbolo no es un sinsajo, para los entendidos en enigmas es un ángel caído.
 
   
 
@@ -191,7 +191,7 @@ Su contraparte es el rey Stefan, su primer interés amoroso y que luego la traic
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzDwHJ3AkTFq1BQ_EsOg9ZaTjNtrHrBcjoewsqb7q7XGs_A-s-d3_OLCf5-5MEwzqivmxRt-1GmVkOXdwbd7GpGund04H-vLxoxlf5chuCNFxBXTaRZ5RUORTrqXrT8GoBkencwl9HmA/s1600/dragon.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzDwHJ3AkTFq1BQ_EsOg9ZaTjNtrHrBcjoewsqb7q7XGs_A-s-d3_OLCf5-5MEwzqivmxRt-1GmVkOXdwbd7GpGund04H-vLxoxlf5chuCNFxBXTaRZ5RUORTrqXrT8GoBkencwl9HmA/s1600/dragon.jpg)
 
-Su ayudante "Diaval" emerge en forma de un gran dragón que ayuda a escapar a Maléfica y derrotar al tirano rey Stefan. Muy contrario a esto Apocalipsis 12:9 dice: "Y fue arrojado el gran dragón, la serpiente antigua que se llama el diablo y Satanás, el cual engaña al mundo entero; fue arrojado a la tierra y sus ángeles fueron arrojados con él."
+Su ayudante "Diaval" emerge en forma de un gran dragón que ayuda a escapar a Maléfica y derrotar al tirano rey Stefan. Muy contrario a esto Revelación 12:9 dice: "Y fue arrojado el gran dragón, la serpiente antigua que se llama el diablo y Satanás, el cual engaña al mundo entero; fue arrojado a la tierra y sus ángeles fueron arrojados con él."
 
   
 
@@ -213,7 +213,7 @@ Específicamente sobre _Drácula: la Historia Jamás Contada_, el personaje de V
 La historia jamás contada: Lúcifer es el héroe.  
 
   
-Al igual que en _Maléfica_ y _Los Juegos del Hambre_ la contraparte al liberador luciferiano encierra símbolos propios del cristianismo. Dando a entender de forma sugestiva la inversión de los roles. Revisando la descripción que **[el libro de Apocalipsis](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** hace sobre la batalla final contra la bestia, se toman muchas alegorías para asociar a Satanás, entre ellos a la del dragón escarlata, el cual tratara de hacer guerra contra Jesucristo. En el film, vemos que ambos bandos utilizan trajes con estas analogías.
+Al igual que en _Maléfica_ y _Los Juegos del Hambre_ la contraparte al liberador luciferiano encierra símbolos propios del cristianismo. Dando a entender de forma sugestiva la inversión de los roles. Revisando la descripción que **[el libro de Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** hace sobre la batalla final contra la bestia, se toman muchas alegorías para asociar a Satanás, entre ellos a la del dragón escarlata, el cual tratara de hacer guerra contra Jesucristo. En el film, vemos que ambos bandos utilizan trajes con estas analogías.
 
   
 
@@ -223,12 +223,12 @@ A la izquierda Drácula, revestido con la armadura de un Dragón, a la derecha s
 
   
 
-El libro de Apocalipsis menciona:  
-> "También apareció otra señal en el cielo: he aquí un gran dragón escarlata, que tenía siete cabezas y diez cuernos, y en sus cabezas siete diademas; y su cola arrastraba la tercera parte de las estrellas del cielo, y las arrojó sobre la tierra."-Apocalipsis 12:3-4 
+El libro de Revelación menciona:  
+> "También apareció otra señal en el cielo: he aquí un gran dragón escarlata, que tenía siete cabezas y diez cuernos, y en sus cabezas siete diademas; y su cola arrastraba la tercera parte de las estrellas del cielo, y las arrojó sobre la tierra."-Revelación 12:3-4 
 
 De la misma forma sobre la aparición de Jesucristo menciona:  
 
-> **"Entonces vi el cielo abierto; y he aquí un caballo blanco, y el que lo montaba se llamaba Fiel y Verdadero, y con justicia juzga y pelea." -Apocalipsis 19:11**
+> **"Entonces vi el cielo abierto; y he aquí un caballo blanco, y el que lo montaba se llamaba Fiel y Verdadero, y con justicia juzga y pelea." -Revelación 19:11**
 
 Es interesante que en la pelea final entre Dracula y Mehmed se utiliza la luz para herir a Vlad, durante este proceso su hijo ve cómo su padre es torturado. El común espectador podría sentirse muy conmovido por esta escena y a la vez tener un rechazo por Melhed, el conquistador que representa la luz y la segunda venida de Cristo. Nuevamente esta exaltación de las tinieblas es en realidad la "historia jamas contada" que el film introduce a los espectadores.  
 
@@ -430,7 +430,7 @@ Muchos de estas características parecieran describir algunas deidades que diver
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_5fMoFnOVksE3Nwf4x2QqyKA40Ndcm1DC_5t-LNbdc9pwQ0uGBhZfNFDDexYxYZb3_tOHAbAlsnmgvtgPwkULFeMJ4SJg8WB5vjbSqmIl2dsLbzp3pvhFqWO59k5EB8wjiGSlqVte93I/s1600/800px.Mario_the_Magnificent.jpg)
 
-El dragón europeo... o la serpiente antigua del Apocalipsis.
+El dragón europeo... o la serpiente antigua de Revelación.
 
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_5fMoFnOVksE3Nwf4x2QqyKA40Ndcm1DC_5t-LNbdc9pwQ0uGBhZfNFDDexYxYZb3_tOHAbAlsnmgvtgPwkULFeMJ4SJg8WB5vjbSqmIl2dsLbzp3pvhFqWO59k5EB8wjiGSlqVte93I/s1600/800px.Mario_the_Magnificent.jpg)
 

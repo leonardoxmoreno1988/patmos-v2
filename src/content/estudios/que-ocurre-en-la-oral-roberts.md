@@ -297,7 +297,7 @@ Basándonos en estas imágenes ¿Qué clase de cristianismo es el que se enseña
 1.  Los cristianos tenemos la autoridad y la obligación de dominar los "7 montes" de la sociedad. 
 2.  Los cristianos debemos crear un Reino de Dios en esta tierra por mandato divino.
 3.  Nosotros, al igual que Jesús, somos dioses.
-4.  Los eventos de **[el libro de Apocalipsis](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** ya ocurrieron en el pasado.
+4.  Los eventos de **[el libro de Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** ya ocurrieron en el pasado.
 5.  No existirá una manifestación física del anticristo.
 6.  Ser cristiano nos otorga un derecho de prosperidad económica.
 7.  El catolicismo es parte del cuerpo de Cristo

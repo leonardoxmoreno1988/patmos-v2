@@ -9,7 +9,7 @@ description: "\"Y clamó poderosamente con voz fuerte, diciendo: Babilonia la Gr
 tags: ["Sociedad"]
 ---
 
-> **"Y clamó poderosamente con voz fuerte, diciendo: Babilonia la Grande ha caído, ha caído, y ha llegado a ser morada de demonios, y contención de todo espíritu inmundo, y jaula de toda ave inmunda y odiosa."\- Apocalipsis 18:2**
+> **"Y clamó poderosamente con voz fuerte, diciendo: Babilonia la Grande ha caído, ha caído, y ha llegado a ser morada de demonios, y contención de todo espíritu inmundo, y jaula de toda ave inmunda y odiosa."\- Revelación 18:2**
 
 [![estatua de oro de águila de dos cabezas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhuMigQLcUEuIhYYrEBTpu-Cj_ZfeCS4O1Vp6adpfs_B5IfoBCLTPFomLXHk9bEe6O96l4sosgVuiJrbrqKdgH3fLObNrrlYCs6lXSzubYbjlRQ3pE3Sk93QHqbGPmTjTtB6DzxTc2Y/s1600/aguila-dos-cabezas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhuMigQLcUEuIhYYrEBTpu-Cj_ZfeCS4O1Vp6adpfs_B5IfoBCLTPFomLXHk9bEe6O96l4sosgVuiJrbrqKdgH3fLObNrrlYCs6lXSzubYbjlRQ3pE3Sk93QHqbGPmTjTtB6DzxTc2Y/s1600/aguila-dos-cabezas.jpg)
 

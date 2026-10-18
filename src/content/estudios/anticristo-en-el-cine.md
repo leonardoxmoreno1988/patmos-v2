@@ -190,7 +190,7 @@ Existen mesías enmarcados en lo psicológico, como sería el caso de Goreng en 
 
   
 
-En esta breve selección de películas, el protagonista, un personaje de ficción, esta diseñado para generar una profunda empatía con el espectador y sus objetivos. Y si llegamos a analizar su contenido y símbolos, nos encontramos con una reestructuración de muchas enseñanzas de Cristo, y un gran énfasis en los tiempos finales en un sentido simbólico, solo que en esta "nueva versión" del Apocalipsis, el Anticristo es el vencedor.
+En esta breve selección de películas, el protagonista, un personaje de ficción, esta diseñado para generar una profunda empatía con el espectador y sus objetivos. Y si llegamos a analizar su contenido y símbolos, nos encontramos con una reestructuración de muchas enseñanzas de Cristo, y un gran énfasis en los tiempos finales en un sentido simbólico, solo que en esta "nueva versión" del apocalipsis, el Anticristo es el vencedor.
 
   
 
@@ -202,7 +202,7 @@ Así como Jesús tuvo el poder de Dios para hacer milagros asombrosos, como darl
 
 > “Porque vendrán falsos profetas y falsos mesías, y harán cosas tan maravillosas que engañarán a la gente. Si pueden, también engañarán a los que Dios ha llamado a seguirlo.” –Mateo 24:24
 
-> “También hacía cosas grandiosas delante de la gente, y dejaba caer fuego del cielo sobre la tierra. Este monstruo engañó a la gente por medio de los milagros que hizo con el poder que la primera bestia le había dado.” –Apocalipsis 13:13-14
+> “También hacía cosas grandiosas delante de la gente, y dejaba caer fuego del cielo sobre la tierra. Este monstruo engañó a la gente por medio de los milagros que hizo con el poder que la primera bestia le había dado.” –Revelación 13:13-14
 
 Muchos protagonistas dentro de una narrativa gnóstica tienen algún poder físico y mental que los hace elegidos y superiores, ya sea por su naturaleza de fuera de este mundo, por magia o por el uso de tecnología que a menudo aún no existe. En otros casos, su poder puede surgir de tener cierto conocimiento que otros no tienen, casi siempre relacionado con la gnosis, el conocimiento esotérico y vinculado al engaño de la serpiente en el jardín del Edén.
 
@@ -258,7 +258,7 @@ Dejando de lado las capacidades físicas, el Anticristo también será el líder
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi699_00Ig-IbLjb20WqBZHdkwJNcX0xQiP5QXxTqOY7e8_xT-LuDA0zmcbdoivJwKXkrSqr55AALJQO4WYjshtPVgIvywkF0X4MxW9MCQh_jqnSD-QxiTPLQ62IShJ5B645eQor1ZabaM/s16000/james-cole.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi699_00Ig-IbLjb20WqBZHdkwJNcX0xQiP5QXxTqOY7e8_xT-LuDA0zmcbdoivJwKXkrSqr55AALJQO4WYjshtPVgIvywkF0X4MxW9MCQh_jqnSD-QxiTPLQ62IShJ5B645eQor1ZabaM/s548/james-cole.jpg)
 
-James Cole, de la película _12 Monos_ (1995), tiene la capacidad de viajar al pasado para prevenir la dispersión de un virus mortal que iniciará con el Apocalipsis. Sus características son mesiánicas en muchas formas.  
+James Cole, de la película _12 Monos_ (1995), tiene la capacidad de viajar al pasado para prevenir la dispersión de un virus mortal que iniciará con el apocalipsis. Sus características son mesiánicas en muchas formas.  
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja4VrfbLYYMLy150eAPqHaFLf2sGL7EU6yCzv8ogw64Aeebja13kdfFzrReRUdFcBlQKJJyrJQHoIHSUEVGZ_ygp3T7cRtnCFH1z97vwUec9osZ5LGfq4PaMo3gKZ7UcYmPeJOxAEvu4c/s16000/klattu2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja4VrfbLYYMLy150eAPqHaFLf2sGL7EU6yCzv8ogw64Aeebja13kdfFzrReRUdFcBlQKJJyrJQHoIHSUEVGZ_ygp3T7cRtnCFH1z97vwUec9osZ5LGfq4PaMo3gKZ7UcYmPeJOxAEvu4c/s548/klattu2.jpg)
 
@@ -365,7 +365,7 @@ Miharu es de interés sexual para el protagonista anticrístico de la película 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitUYE5dHNcm87Ds3wNyWkkWic212Ymrnc8levdKSklyz85rfnAX5WN9HDT0QhJrtUZr6r6sN3JnQChk1g1J41UfX0ZVM4u3Fdx1g-a6VmKKHBxB9uq9R57c4dxurqlpsQO1Jmrp_1jk0Q/s16000/silvie.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitUYE5dHNcm87Ds3wNyWkkWic212Ymrnc8levdKSklyz85rfnAX5WN9HDT0QhJrtUZr6r6sN3JnQChk1g1J41UfX0ZVM4u3Fdx1g-a6VmKKHBxB9uq9R57c4dxurqlpsQO1Jmrp_1jk0Q/s548/silvie.jpg)
 
-Loki y Silvie intentan escapar del "Apocalipsis" del planeta Lamentis en 2077. A pesar de su aparente atracción, no estarán juntos, ya que la serie sugiere que son bisexuales.
+Loki y Silvie intentan escapar del "apocalipsis" del planeta Lamentis en 2077. A pesar de su aparente atracción, no estarán juntos, ya que la serie sugiere que son bisexuales.
 
   
 
@@ -564,7 +564,7 @@ En muchos de los films que hemos analizado, y en un lenguaje profundamente simb�
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiELq8DpoQERPsO-QUvpM4CBuDxqqkcfJydrpyIUh0o2gLGtpYppikQZkgxw7Tx-ULUt97Dml0fRjgjzHjYghGPM00U8wrHTfct4hH5Xz7wu29I8En9dL2dV8Oi62cGoUfSy848s8iSC4Y/s16000/apoc.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiELq8DpoQERPsO-QUvpM4CBuDxqqkcfJydrpyIUh0o2gLGtpYppikQZkgxw7Tx-ULUt97Dml0fRjgjzHjYghGPM00U8wrHTfct4hH5Xz7wu29I8En9dL2dV8Oi62cGoUfSy848s8iSC4Y/s548/apoc.jpg)
 
-_En Sabah Nur_, también conocido como 'Apocalipsis' en los comics de Marvel, es traído al cine en _X-Men: Apocalipsis_ en 2016. Como su nombre lo indica, él viene a traer el Apocalipsis a la Tierra y la total aniquilación de la humanidad.
+_En Sabah Nur_, también conocido como 'Apocalipsis' en los comics de Marvel, es traído al cine en _X-Men: Apocalipsis_ en 2016. Como su nombre lo indica, él viene a traer el apocalipsis a la Tierra y la total aniquilación de la humanidad.
 
   
 
@@ -590,7 +590,7 @@ De la misma forma, el villano Ultron de _Los Vengadores: La era de Ultron_ (2015
 
   
 
-Ultron es fruto de un programa piloto dañado, creado por Tony Stark para lograr la paz en la Tierra. Cuando su programación se vuelve loca, es eliminado por su creador, pero Ultron regresa a la vida con el objetivo de destruir a la humanidad para alcanzar la paz mundial final. De una forma sutil, pero intencional, Ultron es retratado como Dios (YHVH), incluso, al igual que el personaje de Apocalipsis, cita muchos pasajes bíblicos como Mateo 16:18, Ultron menciona "Sobre esta roca edificaré mi iglesia", en referencia al avance de sus planes de destrucción masiva. Como se ve en la imagen superior, más de una escena se retrata al villano en una iglesia, incluso sentado en un trono, representando el trono de Dios en los cielos (Apocalipsis 4:1-6). En otro diálogo simbólico se menciona:
+Ultron es fruto de un programa piloto dañado, creado por Tony Stark para lograr la paz en la Tierra. Cuando su programación se vuelve loca, es eliminado por su creador, pero Ultron regresa a la vida con el objetivo de destruir a la humanidad para alcanzar la paz mundial final. De una forma sutil, pero intencional, Ultron es retratado como Dios (YHVH), incluso, al igual que el personaje de Apocalipsis, cita muchos pasajes bíblicos como Mateo 16:18, Ultron menciona "Sobre esta roca edificaré mi iglesia", en referencia al avance de sus planes de destrucción masiva. Como se ve en la imagen superior, más de una escena se retrata al villano en una iglesia, incluso sentado en un trono, representando el trono de Dios en los cielos (Revelación 4:1-6). En otro diálogo simbólico se menciona:
 
 > **Wanda: "¿Cuándo todos estén muertos?"**
 > 
@@ -635,7 +635,7 @@ El coronel, de _La Guerra del Planeta de los Simios_ (2017)_,_ dirige una cruzad
 
 > **"Yo soy el Alfa y la Omega, principio y fin, dice el Señor, el que es y que era y que ha de venir, el Todopoderoso."**
 > 
-> **–Apocalipsis 1:8**
+> **–Revelación 1:8**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU7ii2FWypY22z0OeNncqoKHbOTSAYufNb0qRVyFZtsIxYouXOAi3Z4MW5yECKfKTpEiNC7hmWT0f-fOB7uFjzas4M4c7HR-w63LoGWg2MOab57TNSaV9gV49EL_qkfwWAWduPZe6q1-MdVB2MzArVHEFUOEh85wCtYt1Gq6YvbYJzAHT57qlI4L2S/s16000/vecna.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU7ii2FWypY22z0OeNncqoKHbOTSAYufNb0qRVyFZtsIxYouXOAi3Z4MW5yECKfKTpEiNC7hmWT0f-fOB7uFjzas4M4c7HR-w63LoGWg2MOab57TNSaV9gV49EL_qkfwWAWduPZe6q1-MdVB2MzArVHEFUOEh85wCtYt1Gq6YvbYJzAHT57qlI4L2S/s548/vecna.jpg)
 
@@ -673,7 +673,7 @@ Gorr, el antagonista en _Thor: Amor y Trueno_ (2022), usa una espada como arma d
 
 > **"De su boca sale una espada aguda, para herir con ella a las naciones, y él las regirá con vara de hierro; y él pisa el lagar del vino del furor y de la ira del Dios Todopoderoso."**
 > 
-> **–Apocalipsis 19:15**
+> **–Revelación 19:15**
 
 Los objetos inertes y mundanos también ha sido utilizados en el cine para representar a YHVH (Jehová). Como menciona Glenn Erickson, quien sugirió que el planeta rebelde Zyra en la película _Cuando los mundos chocan_ (1951) era en realidad un Jesús oculto. Él argumentó:
 
@@ -701,7 +701,7 @@ En _Presagio_, el juicio de Dios es representado por una llama solar que destruy
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsZISfF9tl_1StRg_uI-BWqa4AJ6zdA81C25xzvXajCk5l15qaQz0bouG_NY62amR_rI_v4JWoh0j6KLAaWGtmUycsmFOZq5pjivenYswRUhq7f1i_34Y1KdBywt1Q9p5liafSiMlPfGY/s16000/particula-dios.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsZISfF9tl_1StRg_uI-BWqa4AJ6zdA81C25xzvXajCk5l15qaQz0bouG_NY62amR_rI_v4JWoh0j6KLAaWGtmUycsmFOZq5pjivenYswRUhq7f1i_34Y1KdBywt1Q9p5liafSiMlPfGY/s548/particula-dios.jpg)
 
-En la famosa serie _Dark_, el Apocalipsis se desencadena por la "partícula de Dios" que abre agujeros negros, crea paradojas de tiempo y destruye todo a su paso.  
+En la famosa serie _Dark_, el apocalipsis se desencadena por la "partícula de Dios" que abre agujeros negros, crea paradojas de tiempo y destruye todo a su paso.  
 
   
 
@@ -726,7 +726,7 @@ El General Zod, un extraterrestre del planeta Kriptón, intenta destruir el eje 
 
 En el film _Donnie Darko_ tenemos una alegoría similar, Donnie, quien representa al super-hombre o Anticristo, impide que el fin del mundo se lleve a cabo. Este juicio llega como la apertura de un agujero de gusano o puente de Einstein-Rosen. En el film, el agujero de gusano es literalmente la apertura de los cielos, el cual es una señal que representa la Segunda Venida de Jesucristo.
 
-> **"Luego vi el cielo abierto, y apareció un caballo blanco. Su jinete se llama Fiel y Verdadero. Con justicia dicta sentencia y hace la guerra. Sus ojos eran como llama de fuego, y había en su cabeza muchas diademas; y tenía un nombre escrito que ninguno conocía sino él mismo. Estaba vestido de una ropa teñida en sangre; y su nombre es: EL VERBO DE DIOS. Y los ejércitos celestiales, vestidos de lino finísimo, blanco y limpio, le seguían en caballos blancos. De su boca sale una espada aguda, para herir con ella a las naciones, y él las regirá con vara de hierro; y él pisa el lagar del vino del furor y de la ira del Dios Todopoderoso." \-Apocalipsis 19:11-16**
+> **"Luego vi el cielo abierto, y apareció un caballo blanco. Su jinete se llama Fiel y Verdadero. Con justicia dicta sentencia y hace la guerra. Sus ojos eran como llama de fuego, y había en su cabeza muchas diademas; y tenía un nombre escrito que ninguno conocía sino él mismo. Estaba vestido de una ropa teñida en sangre; y su nombre es: EL VERBO DE DIOS. Y los ejércitos celestiales, vestidos de lino finísimo, blanco y limpio, le seguían en caballos blancos. De su boca sale una espada aguda, para herir con ella a las naciones, y él las regirá con vara de hierro; y él pisa el lagar del vino del furor y de la ira del Dios Todopoderoso." \-Revelación 19:11-16**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwzymGM9LY7TVZsUWWE0qYrSmyhYdvaHFrKW4HNGMkioP8SwyxgxJ4EOisjaB0NtA1qmcWqB3x9J9qi8DmLH4KEVrm8z_ReJtiCcyfnjHuN3sQzw9EDavQE1U3Ug1I_zCSxdZi_myWGok/s16000/black-hole.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwzymGM9LY7TVZsUWWE0qYrSmyhYdvaHFrKW4HNGMkioP8SwyxgxJ4EOisjaB0NtA1qmcWqB3x9J9qi8DmLH4KEVrm8z_ReJtiCcyfnjHuN3sQzw9EDavQE1U3Ug1I_zCSxdZi_myWGok/s512/black-hole.jpg)
 
@@ -736,7 +736,7 @@ Donnie presenciando el fin del mundo que conocemos. Luego él, como la figura de
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCyD5gnZYhKyi2FXCPi5vkgWh7tR7xx8fGA_MIhbdiBOYskrPTfZYYDZsc1hr4UIXxAakcxLx1XZ_S7HtzzVEdfByWMSITc4txgr00HAAr7QCTRtNEShJDKHSHE3ZlxJX44YKNE3VIDDY/s16000/black-hole-avengers.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCyD5gnZYhKyi2FXCPi5vkgWh7tR7xx8fGA_MIhbdiBOYskrPTfZYYDZsc1hr4UIXxAakcxLx1XZ_S7HtzzVEdfByWMSITc4txgr00HAAr7QCTRtNEShJDKHSHE3ZlxJX44YKNE3VIDDY/s548/black-hole-avengers.jpg)
 
-En la película _Avengers_ (2012) los superhéroes se enfrentan a una invasión de extraterrestres que planea invadir la Tierra. Un portal o agujero negro se habré sobre Nueva York de donde empiezan a salir alienígenas de aspecto monstruoso. Esta es otra alegoría al juicio de Dios sobre las naciones (Apocalipsis 19:15) y que inicia con la Segunda Venida de Cristo, en su llegada de entre las nubes del cielo. 
+En la película _Avengers_ (2012) los superhéroes se enfrentan a una invasión de extraterrestres que planea invadir la Tierra. Un portal o agujero negro se habré sobre Nueva York de donde empiezan a salir alienígenas de aspecto monstruoso. Esta es otra alegoría al juicio de Dios sobre las naciones (Revelación 19:15) y que inicia con la Segunda Venida de Cristo, en su llegada de entre las nubes del cielo. 
 
   
 
@@ -798,7 +798,7 @@ Luego de lograr su plan genocida, Thanos se aísla en un tipo de Edén en otro p
 
   
 
-Los Vengadores, sin embargo, encuentran la manera de revertir los planes de Thanos, volviendo al pasado (uso de la ciencia avanzada y magia) e impidiendo que Thanos alguna vez haya realizado tal “milagro”. Al final del film, cuando los desaparecidos vuelven, o resucitan, se genera la gran batalla final, que es una reminiscencia a la batalla del Armagedón, es decir, la batalla donde el Anticristo y sus ejércitos pelearán contra el Señor Jesucristo en su Segunda Venida (Apocalipsis 19:17-19).
+Los Vengadores, sin embargo, encuentran la manera de revertir los planes de Thanos, volviendo al pasado (uso de la ciencia avanzada y magia) e impidiendo que Thanos alguna vez haya realizado tal “milagro”. Al final del film, cuando los desaparecidos vuelven, o resucitan, se genera la gran batalla final, que es una reminiscencia a la batalla del Armagedón, es decir, la batalla donde el Anticristo y sus ejércitos pelearán contra el Señor Jesucristo en su Segunda Venida (Revelación 19:17-19).
 
 > "Y vi a un ángel que estaba en pie en el sol, y clamó a gran voz, diciendo a todas las aves que vuelan en medio del cielo: Venid, y congregaos a la gran cena de Dios, para que comáis carnes de reyes y de capitanes, y carnes de fuertes, carnes de caballos y de sus jinetes, y carnes de todos, libres y esclavos, pequeños y grandes. Y vi a la bestia, a los reyes de la tierra y a sus ejércitos, reunidos para guerrear contra el que montaba el caballo, y contra su ejército."
 
@@ -808,7 +808,7 @@ La apertura de portales (otra dimensión) es usada para la llegada de los ejérc
 
   
 
-Tanto humanos, super-hombres, extraterrestres, gigantes, transhumanos, hechiceros, híbridos y dioses mitológicos se unen para pelear contra Thanos. Es interesante que esta alianza reúne muchas de las cosas que Dios describe como una abominación o prácticas prohibidas en las Escrituras. Al final del film, Thanos y su ejército son derrotados, invirtiendo lo que la Biblia dice sobre la victoria de Jesucristo y la derrota de Satanás, el cual es arrojado al abismo (Apocalipsis 20:1-3).
+Tanto humanos, super-hombres, extraterrestres, gigantes, transhumanos, hechiceros, híbridos y dioses mitológicos se unen para pelear contra Thanos. Es interesante que esta alianza reúne muchas de las cosas que Dios describe como una abominación o prácticas prohibidas en las Escrituras. Al final del film, Thanos y su ejército son derrotados, invirtiendo lo que la Biblia dice sobre la victoria de Jesucristo y la derrota de Satanás, el cual es arrojado al abismo (Revelación 20:1-3).
 
   
 
@@ -841,11 +841,11 @@ El Anticristo morirá y resucitará. No se puede confirmar si será una resurrec
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEgmO1Zd1YLFEuuMa5Z1nbs6cm9FY8tQtIBeEorJgXdH0v_3mlM0Mfd5W7gvCGGcLg7LrPkkasTXJZtRdcohBeT7WT7g-aUMf7pKCvdY5O8w7c5C3HH39vWOfLeda2lpVidWDUrjopJGPb_M0Ac8eRfns2jdJWINie50v-vp__0kRUt-aTjQ_hjX9Woz=s16000)](https://blogger.googleusercontent.com/img/a/AVvXsEgmO1Zd1YLFEuuMa5Z1nbs6cm9FY8tQtIBeEorJgXdH0v_3mlM0Mfd5W7gvCGGcLg7LrPkkasTXJZtRdcohBeT7WT7g-aUMf7pKCvdY5O8w7c5C3HH39vWOfLeda2lpVidWDUrjopJGPb_M0Ac8eRfns2jdJWINie50v-vp__0kRUt-aTjQ_hjX9Woz=s548)
 
-El extraterrestre de Kriptón muere en la popular _Batman vs Superman_ (2016) de Zack Snyder. Un evento que dio pie a que en secuela llamada _La Liga de la Justicia_ (2017), este sea resucitado con tecnología extraterrestre “avanzada”. Superman resucitado sale del agua ¿Una referencia a la bestia que sale del mar en Apocalipsis 13:1-2?
+El extraterrestre de Kriptón muere en la popular _Batman vs Superman_ (2016) de Zack Snyder. Un evento que dio pie a que en secuela llamada _La Liga de la Justicia_ (2017), este sea resucitado con tecnología extraterrestre “avanzada”. Superman resucitado sale del agua ¿Una referencia a la bestia que sale del mar en Revelación 13:1-2?
 
-> **"Después vi a una bestia que subía del mar. Tenía siete cabezas y diez cuernos, y una corona en cada cuerno; y escrito en cada cabeza había nombres que blasfemaban a Dios. Esta bestia se parecía a un leopardo, ¡pero tenía las patas de un oso y la boca de un león! Y el dragón le dio a la bestia su propio poder y trono y gran autoridad. Y vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada. Y la tierra entera se maravilló y seguía tras la bestia;"** –**Apocalipsis 13:1-3**
+> **"Después vi a una bestia que subía del mar. Tenía siete cabezas y diez cuernos, y una corona en cada cuerno; y escrito en cada cabeza había nombres que blasfemaban a Dios. Esta bestia se parecía a un leopardo, ¡pero tenía las patas de un oso y la boca de un león! Y el dragón le dio a la bestia su propio poder y trono y gran autoridad. Y vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada. Y la tierra entera se maravilló y seguía tras la bestia;"** –**Revelación 13:1-3**
 
-> **"Y engaña a los moradores de la tierra con las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan imagen a la bestia que tiene la herida de espada, y vivió."** –**Apocalipsis 13:14**
+> **"Y engaña a los moradores de la tierra con las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan imagen a la bestia que tiene la herida de espada, y vivió."** –**Revelación 13:14**
 
   
 
@@ -959,7 +959,7 @@ Tony Stark se sacrifica usando el guante del destino para poder asesinar a Thano
 
   
 
-Apocalipsis 13 es un capítulo importante que trata de la Bestia (también conocida como el Anticristo) y el Falso Profeta. Este capítulo nos dice que la Bestia tiene una “herida mortal que fue sanada”. El capítulo también dice que el Falso Profeta “hace que la tierra y los moradores de ella adoren a la primera bestia, cuya herida mortal fue sanada”; “Él engaña a los moradores de la tierra a causa de las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan una imagen a la bestia que tiene la herida de espada y ha cobrado vida”. El punto importante es que el gobernante mundial final llegará al poder apoyado por una liberación sobrenatural y engañosa del mismo Satanás.
+Revelación 13 es un capítulo importante que trata de la Bestia (también conocida como el Anticristo) y el Falso Profeta. Este capítulo nos dice que la Bestia tiene una “herida mortal que fue sanada”. El capítulo también dice que el Falso Profeta “hace que la tierra y los moradores de ella adoren a la primera bestia, cuya herida mortal fue sanada”; “Él engaña a los moradores de la tierra a causa de las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan una imagen a la bestia que tiene la herida de espada y ha cobrado vida”. El punto importante es que el gobernante mundial final llegará al poder apoyado por una liberación sobrenatural y engañosa del mismo Satanás.
 
   
 
@@ -967,7 +967,7 @@ Apocalipsis 13 es un capítulo importante que trata de la Bestia (también conoc
 
 El Superhéroe y Anticristo Shang-Chi, en _Shang-Chi y la leyenda de los Diez Anillos_ (2021), se hunde en el mar en un tipo de muerte simbólica, para luego tener un encuentro con un dragón. Ambos suben del mar con poder.
 
-> **"Después vi a una bestia que subía del mar. Tenía siete cabezas y diez cuernos, y una corona en cada cuerno; y escrito en cada cabeza había nombres que blasfemaban a Dios. Esta bestia se parecía a un leopardo, ¡pero tenía las patas de un oso y la boca de un león! Y el dragón le dio a la bestia su propio poder y trono y gran autoridad."** –**Apocalipsis 13:1-2**
+> **"Después vi a una bestia que subía del mar. Tenía siete cabezas y diez cuernos, y una corona en cada cuerno; y escrito en cada cabeza había nombres que blasfemaban a Dios. Esta bestia se parecía a un leopardo, ¡pero tenía las patas de un oso y la boca de un león! Y el dragón le dio a la bestia su propio poder y trono y gran autoridad."** –**Revelación 13:1-2**
 
 Una postulación sería que el Anticristo será poseído por una entidad demoniaca que saldrá del Hades, es decir, del centro de la Tierra, cruzará el mar y llegará al cuerpo del Anticristo para poder resucitarlo con un nivel superior de su estado anterior. No necesariamente Satanás será la fuente de estos eventos milagrosos. De hecho, 2 Tesalonicenses 2:11–12 dice: “Por tanto, Dios enviará sobre ellos un poder engañoso, para que crean en la mentira, a fin de que sean juzgados todos los que no creyeron a la verdad, sino que se complacieron en la malicia." Dios es quien permite que Satanás y sus discípulos hagan estas cosas de manera similar a como Él usaría cualquier instrumento humano para obrar verdaderos milagros. La posibilidad de que el Anticristo regrese a la vida, ya sea con el permiso soberano de Dios o con su obra activa, no debe causar asombro. No es imposible que el Anticristo regrese a la vida debido al estado único de la Tribulación y la mayor capacidad del poder satánico durante ese tiempo.
 
@@ -1006,7 +1006,7 @@ Luego de ganar el Juego del Calamar, 456 es arrojado inconsciente en la acera. U
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB8mEetwJQwwK9t6QEwrftbDanS1Wl7LsbNydA9nBZ-qh3IU70UosAv7Bthc4SFU2XMvglXsikQ-Vp7Dxmhq96yLabx_VoIv2c9NHHtXBaQ3EnZEU8t0upYWoEg3u1Kwa6WjjfbPEgl81HMFhXxI4vZT-6hs42S9kBiOFS_uZSLD2jE7FRod7zqpwn/s16000/constantine-sangre.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB8mEetwJQwwK9t6QEwrftbDanS1Wl7LsbNydA9nBZ-qh3IU70UosAv7Bthc4SFU2XMvglXsikQ-Vp7Dxmhq96yLabx_VoIv2c9NHHtXBaQ3EnZEU8t0upYWoEg3u1Kwa6WjjfbPEgl81HMFhXxI4vZT-6hs42S9kBiOFS_uZSLD2jE7FRod7zqpwn/s548/constantine-sangre.jpg)
 
-El cazador de demonios Constantine se sacrifica cortándose ambas muñecas con vidrio roto, una señal de las manos de Cristo. El derramamiento de su sangre conlleva a evitar el Apocalipsis.
+El cazador de demonios Constantine se sacrifica cortándose ambas muñecas con vidrio roto, una señal de las manos de Cristo. El derramamiento de su sangre conlleva a evitar el apocalipsis.
 
   
 
@@ -1084,11 +1084,11 @@ Es interesante que las Escrituras también hacen referencia a las cicatrices del
 
 > **“Y me dijo Jehová: Toma aún los aperos de un pastor insensato; porque he aquí, yo levanto en la tierra a un pastor que no visitará las perdidas, ni buscará la pequeña, ni curará la perniquebrada, ni llevará la cansada a cuestas, sino que comerá la carne de la gorda, y romperá sus pezuñas. ¡Ay del pastor inútil que abandona el ganado! Hiera la espada su brazo, y su ojo derecho; del todo se secará su brazo, y su ojo derecho será enteramente oscurecido.”** –**Zacarías 11:15-17**
 
-> **"Vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada; y se maravilló toda la tierra en pos de la bestia, y adoraron al dragón que había dado autoridad a la bestia, y adoraron a la bestia, diciendo: ¿Quién como la bestia, y quién podrá luchar contra ella?" –Apocalipsis 13:3-4**
+> **"Vi una de sus cabezas como herida de muerte, pero su herida mortal fue sanada; y se maravilló toda la tierra en pos de la bestia, y adoraron al dragón que había dado autoridad a la bestia, y adoraron a la bestia, diciendo: ¿Quién como la bestia, y quién podrá luchar contra ella?" –Revelación 13:3-4**
 
-> **"Y engaña a los moradores de la tierra con las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan imagen a la bestia que tiene la herida de espada, y vivió." –Apocalipsis 13:14**
+> **"Y engaña a los moradores de la tierra con las señales que se le ha permitido hacer en presencia de la bestia, mandando a los moradores de la tierra que le hagan imagen a la bestia que tiene la herida de espada, y vivió." –Revelación 13:14**
 
-El Anticristo, luego de resucitar, ser poseído por la bestia que sube del mar, y posiblemente después de tres años y medio de iniciada la Tribulación, perderá la visión de un ojo, y uno de sus brazos quedara inhabilitado. No sabemos detalles de cómo se reflejará eso en él, pero por Zacarías y Apocalipsis sabemos que será evidente en su cuerpo ya resucitado, como las cicatrices de un superviviente. La profecía lo señala sin duda como el pastor insensato o inútil, y tales cicatrices serán señal para el mundo inconverso de que el Anticristo está de su lado.
+El Anticristo, luego de resucitar, ser poseído por la bestia que sube del mar, y posiblemente después de tres años y medio de iniciada la Tribulación, perderá la visión de un ojo, y uno de sus brazos quedara inhabilitado. No sabemos detalles de cómo se reflejará eso en él, pero por Zacarías y Revelación sabemos que será evidente en su cuerpo ya resucitado, como las cicatrices de un superviviente. La profecía lo señala sin duda como el pastor insensato o inútil, y tales cicatrices serán señal para el mundo inconverso de que el Anticristo está de su lado.
 
   
 

@@ -60,7 +60,7 @@ En uno de los documentales en video más controvertidos que he producido, _Cauld
   
 Judíos sionistas y sus cohortes en la comunidad sionista cristiana se enfureció por lo que dije, pero no tuvieron respuesta a la montaña de hechos presentados en el video que prueban mi punto.  
   
-Es innegable que Dios mismo, en Apocalipsis 11:8, declara que en los últimos días justo antes del regreso de Cristo, uno de los lugares más malvados de la tierra será Jerusalén e Israel. En Apocalipsis, Dios llama a Jerusalén "Sodoma y Egipto".  
+Es innegable que Dios mismo, en Revelación 11:8, declara que en los últimos días justo antes del regreso de Cristo, uno de los lugares más malvados de la tierra será Jerusalén e Israel. En Revelación, Dios llama a Jerusalén "Sodoma y Egipto".  
   
 La pregunta es, ¿por qué? ¿Por qué Jerusalén y la nación de Israel son espiritualmente "Sodoma y Egipto"? Creo que es a causa de la religión judía, una religión diametralmente opuesta a la fe del Antiguo Testamento de Moisés, Isaac, Jacob y los profetas.  
   
