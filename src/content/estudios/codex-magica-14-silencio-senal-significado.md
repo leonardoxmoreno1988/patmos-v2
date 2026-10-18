@@ -9,38 +9,40 @@ description: "\"... atándome a mí mismo bajo pena no menor que la de cortar mi
 tags: ["Sociedad"]
 ---
 
-> **"... atándome a mí mismo bajo pena no menor que la de cortar mi garganta..."\- Juramento de la Francmasonería del Aprendiz Iniciado (1°)"Pero sobre todas las cosas, hermanos míos, no juréis, ni por el cielo, ni por elTierra, ni por otro juramento..."\- Santiago 5:12**
+> **"... atándome a mí mismo bajo pena no menor que la de cortar mi garganta..."\- Juramento de la Francmasonería del Aprendiz Iniciado (1°)**
+>
+> **"Pero sobre todas las cosas, hermanos míos, no juréis, ni por el cielo, ni por la Tierra, ni por otro juramento..."\- Santiago 5:12**
 
   
 
 [![kanye west, monje illuminati y dibujo del dios del silencio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtILfFlpjvmsgEj0G7Y-nQD0TimOzLzXoeqtU9nqViePqGruLyNJKhmeWmZeCgGVouCYHr7ghYMBTLWmFYWvw3yjV93mcmDzLMsLzAX2soc6NQ37NGnf4ZTt7At26YhXXk3Op5v0ZE0Vc/s1600/cover-silence.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtILfFlpjvmsgEj0G7Y-nQD0TimOzLzXoeqtU9nqViePqGruLyNJKhmeWmZeCgGVouCYHr7ghYMBTLWmFYWvw3yjV93mcmDzLMsLzAX2soc6NQ37NGnf4ZTt7At26YhXXk3Op5v0ZE0Vc/s1600/cover-silence.jpg)
 
   
-En cada grado ritual de la Francmasonería y en todos los rituales ceremoniales más importantes e iniciaciones de órdenes de élite, el candidato está obligado a prestar juramento y se le advierte de la pena horrible y grotesca que le espera si se atreve a revelar alguna de las secretos más íntimos. **(1)**  
+En cada grado ritual de la Francmasonería y en todos los rituales ceremoniales más importantes e iniciaciones de órdenes de élite, el candidato está obligado a prestar juramento y se le advierte de la pena horrible y grotesca que le espera si se atreve a revelar alguno de los secretos más íntimos. **(1)**  
   
 Por ejemplo, en el juramento de primer grado de la Francmasonería, el candidato declara:  
   
 
-> **... atándome a mí mismo bajo pena no menor que la de cortar mi garganta, arrancarme la lengua desde sus raíces y enterrar mi cuerpo en las arenas del mar, en la marea baja, donde la marea fluye y fluye dos veces en veinticuatro horas, si alguna vez violara a sabiendas esta obligación de mi Aprendíz Iniciado.**
+> **... atándome a mí mismo bajo pena no menor que la de cortar mi garganta, arrancarme la lengua desde sus raíces y enterrar mi cuerpo en las arenas del mar, en la marea baja, donde la marea fluye y fluye dos veces en veinticuatro horas, si alguna vez violara a sabiendas esta obligación de mi Aprendiz Iniciado.**
 
   
 Los masones de segundo grado recitan el siguiente juramento atroz:  
   
 
-> **...atándome a mí mismo bajo pena no menor que la de tener mi pecho abierto, mi corazón arrancado, y colocado en el pináculo más alto del templo allí para ser devorado por los buitres del aire, si alguna vez a sabiendas violo la obligación del compañero de la masonería.**
+> **...atándome a mí mismo bajo pena no menor que la de tener mi pecho abierto, mi corazón arrancado, y colocado en el pináculo más alto del templo allí para ser devorado por los buitres del aire, si alguna vez a sabiendas violo la obligación del compañero de la masonería.**
 
   
 El juramento de tercer grado proclama:  
   
 
-> **... atándome a mí mismo bajo pena no menor que la de tener mi cuerpo cortado en dos, mis intestinos sacados y quemados hasta cenizas, las cenizas esparcidas ante los cuatro vientos del cielo, para que no se pudiera recordar lo tan vil, malvado y miserable como sería, si alguna vez, a sabiendas, violo esta obligación de mi Maestro Mason.**
+> **... atándome a mí mismo bajo pena no menor que la de tener mi cuerpo cortado en dos, mis intestinos sacados y quemados hasta cenizas, las cenizas esparcidas ante los cuatro vientos del cielo, para que no se pudiera recordar lo tan vil, malvado y miserable como sería, si alguna vez, a sabiendas, violo esta obligación de mi Maestro Mason.**
 
   
 Eso no es todo.  
   
 En el cuarto grado, Mark Master del Rito de York, el candidato realiza un ritual que simboliza tener su "oído apagado" si revela los secretos de la orden.  
   
-Y para el 5 º grado, Past Master, el candidato está de acuerdo con lo siguiente:  
+Y para el 5.º grado, Past Master, el candidato está de acuerdo con lo siguiente:  
   
 
 > **...me obligaba a no menos pena (además de todas mis sanciones anteriores) a la que mi lengua se dividiera de punta a raíz, para que después de eso no pudiera pronunciar la palabra.**
@@ -49,7 +51,7 @@ Y para el 5 º grado, Past Master, el candidato está de acuerdo con lo siguient
 El sexto grado (el Más Excelente Amo) del Rito de York continúa con los horribles castigos:  
   
 
-> **...atándome a mí mismo bajo pena no menor que tener mi pecho abierto, y mi corazón y signos vitales tomados de allí, y expuestos a la putrefacción en el estiércol.**
+> **...atándome a mí mismo bajo pena no menor que tener mi pecho abierto, y mi corazón y signos vitales tomados de allí, y expuestos a la putrefacción en el estiércol.**
 
   
 
@@ -57,7 +59,8 @@ El sexto grado (el Más Excelente Amo) del Rito de York continúa con los horrib
 
 Los iluministas tienen un signo que debe usarse para recordar a los asociados cuando es necesario ser una piedra o callarse sobre un asunto. En la iniciación del Rito de York para el Real Maestro, este signo, llamado el _Due-guard_, "se hace colocando el dedo índice de la mano derecha sobre los labios". **(2)**
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+
 El Monitor de la Francmasonería de Richardson señala que este signo "es una advertencia para un compañero cuando usted desea que se mantenga en silencio". **(3)**  
   
 En la ceremonia del grado ritual del Maestro Secreto, el candidato coloca dos dedos en su labio y se le dice que la obligación que está tomando "ordena el secreto y obedece las órdenes y decretos del Consejo de Príncipes de Jerusalén, bajo penas de todos los ex Grados". **(4)**  
@@ -72,11 +75,11 @@ Para el quinto grado (Past Master) el signo de la debida guardia es la colocaci�
 El Monitor de la Francmasonería de Richardson (págs. 142-143) proporciona estos recordatorios sangrientos de las horribles penas que esperan al Masón u otro elitista que divulga secretos de la Orden. "Silencio, Esclavos" es ciertamente el eslogan para los sumisos sirvientes del cuerpo terrenal de líderes de Satanás.  
   
 
-## ¿Un suavisamiento de las penalidades?
+## ¿Un suavizamiento de las penalidades?
 
 La masonería y muchas otras sociedades secretas han estado bajo asedio en los últimos años a causa del autor del Codex Magica y un número de otros hombres valientes que se han presentado audazmente exponiendo los juramentos aterradores, fríos y sangrientos tomados por millones de masones alrededor del globo. Como consecuencia, según lo entiendo, el liderazgo de la Logia y otros grupos ha comenzado más recientemente a "suavizar los bordes", por así decirlo, y a eliminar algunas de las frases y palabras más atroces y horribles usadas en los rituales.  
   
-En junio de 2001, según el Scottish Rite Journal, C. Fred Kleinknecht, Soberano Gran Comandante, 33 °, el potentado reinante de la Francmasonería, presentó copias del Ritual Estándar Revisado a sus Subordinados Soberanos Grandes Comandantes. **(5)**  
+En junio de 2001, según el Scottish Rite Journal, C. Fred Kleinknecht, Soberano Gran Comandante, 33.º, el potentado reinante de la Francmasonería, presentó copias del Ritual Estándar Revisado a sus Subordinados Soberanos Grandes Comandantes. **(5)**  
   
 Kleinknecht explicó a sus lugartenientes que esta nueva guía proporciona "versiones modificadas" de los séptimo y vigésimo séptimo grados que originalmente fueron creados por Albert Pike, su muy reverenciado siglo XIX "Ilustre Soberano Gran Maestro". **(6)**  
   
@@ -88,20 +91,20 @@ Para el grado de Maestro Secreto, el candidato coloca dos dedos en su labio y se
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwfPFNEkooh2jIvSKIXDtiMPL_iWpOz-_v4qCyqXTRgjKhI0JkLcbuBe8YglyDhZpJi-hAH1zwqGkiCAzxamxJ_RSNxreoFvR9_ef8zNhpju9Kr8nqxWG_OWyaG_m1h7QAO3aVdjDJ9OE/s1600/dcodex_26.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwfPFNEkooh2jIvSKIXDtiMPL_iWpOz-_v4qCyqXTRgjKhI0JkLcbuBe8YglyDhZpJi-hAH1zwqGkiCAzxamxJ_RSNxreoFvR9_ef8zNhpju9Kr8nqxWG_OWyaG_m1h7QAO3aVdjDJ9OE/s1600/dcodex_26.jpg)
 
-El quinto grado en el Rito de York requiere que se otorgue esta guardia debida (pulgar de la mano derecha a la boca) y un juramento sobre que el candidato nunca revelará "los secretos de un hermano". (Ritual y Monitor Masónicos de Duncan, 3d ed., P, 189)  
+El quinto grado en el Rito de York requiere que se otorgue esta guardia debida (pulgar de la mano derecha a la boca) y un juramento sobre que el candidato nunca revelará "los secretos de un hermano". (Ritual y Monitor Masónicos de Duncan, 3.ª ed., p. 189)  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY4nodpAhY-8lF3izPkuDNYECePDZhuV21aAFRTPfOGnd171TjJFGpcsZ9EnHVDFvrXyVHxeoXEKIzRT92RWpUWi23i2uKZEZ3BMl5_UqOHiCsGAVji46TRjggmTpBSp0HLBdBNBjK0ys/s1600/dcodex_287.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY4nodpAhY-8lF3izPkuDNYECePDZhuV21aAFRTPfOGnd171TjJFGpcsZ9EnHVDFvrXyVHxeoXEKIzRT92RWpUWi23i2uKZEZ3BMl5_UqOHiCsGAVji46TRjggmTpBSp0HLBdBNBjK0ys/s1600/dcodex_287.jpg)
 
-En la Real Maestría, en la Guardia, colocar el dedo índice en el labio le dice al compañero que guarde silencio. (El Monitor de la Francmasonería de Richardson, p, 81)
+En la Real Maestría, en la Guardia, colocar el dedo índice en el labio le dice al compañero que guarde silencio. (El Monitor de la Francmasonería de Richardson, p. 81)
 
   
 
-Se puede suponer que para apaciguar a sus críticos, las ediciones posteriores del ritual diluirán las mas penosas de las penas.  
+Se puede suponer que para apaciguar a sus críticos, las ediciones posteriores del ritual diluirán las más penosas de las penas.  
   
 Sin embargo, otras maneras, sin duda, se encontrarán para motivar a los miembros a guardar los secretos, incluyendo el destierro del estatus de élite y posiblemente incluso el asesinato periódico de discípulos que se desvían y que imprudentemente ignoran el dictado para retener el secreto.  
   
-Aún así, es de interés que la élite masónica se avergüence de sus horribles juramentos. Es más, en la Iglesia Mormona (LDS), las porciones de penalización de los rituales masónicos que se celebran en el Templo también han sido recientemente diluidas.  
+Aun así, es de interés que la élite masónica se avergüence de sus horribles juramentos. Es más, en la Iglesia Mormona (LDS), las porciones de penalización de los rituales masónicos que se celebran en el Templo también han sido recientemente diluidas.  
   
 
 ## Orígenes paganos del signo del silencio
@@ -125,7 +128,7 @@ Harpócrates u Horus. Noten las serpientes y los otros símbolos alrededor de é
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9K0C6ZiFdhF2aQwwSIcSVBZDoWfw79IlaN3ZNthEH0bsBOwRTz8Mrev_qoyhO9uFckvMB79aoC0sCj_1O2ipBEvSzFSlsm71Dlidx2FK3fCy3vwQus1pMIGyR9WIlH2XPFUk_9OiA9dQ/s1600/dioses2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9K0C6ZiFdhF2aQwwSIcSVBZDoWfw79IlaN3ZNthEH0bsBOwRTz8Mrev_qoyhO9uFckvMB79aoC0sCj_1O2ipBEvSzFSlsm71Dlidx2FK3fCy3vwQus1pMIGyR9WIlH2XPFUk_9OiA9dQ/s1600/dioses2.jpg)
 
-A la izquierda Hapócrates, dios del silencio y el secreto, amamantándo los pechos de su madre isis. A la derecha: Hapócrates, el dios sol en la gema mágica, del libro _Jesucristo sol de dios: cosmología ancestral y primeros símbolos del cristianismo_, por David Fiedeler. quest Books, 1983.
+A la izquierda Harpócrates, dios del silencio y el secreto, amamantando los pechos de su madre, Isis. A la derecha: Harpócrates, el dios sol en la gema mágica, del libro _Jesucristo sol de dios: cosmología ancestral y primeros símbolos del cristianismo_, por David Fideler. Quest Books, 1983.
 
   
 Roma también tenía la Diosa Misteriosa Angerona. Su estatua mostraba a Angerona como una hermosa mujer con un dedo en la boca, "el emblema del secreto y el misterio". **(9)**  
@@ -134,7 +137,7 @@ Angerona se ocupaba de la promiscuidad sexual en varias orgías relacionadas con
   
 Las religiones de misterio de los romanos y de otros pueblos necesitaban especialmente el secreto máximo porque, durante las iniciaciones más altas, los nombres tácitos del dios o dioses ocultos o desconocidos eran a menudo revelados. A medida que los cristianos ganaban en número e influencia, comenzaron a comprender adecuadamente que estos nombres eran en realidad sinónimos de Satanás, Lucifer, el Diablo. Por lo tanto, un gran esfuerzo fue tomado por los paganos para ocultar o prevenir el desenmascaramiento de esta conexión satánica. **(10)**  
   
-Una nota secundaria interesante: Como un niño viendo la televisión en los primeros días (1950), uno de los programas más populares fue un programa de juegos organizado por el comediante judío Groucho Marx. Groucho tenía un hermano, Harpo Marx, que también era comediante y protagonizó numerosos programas de televisión y películas. Harpo siempre interpretaba el carácter querubín de un joven mudo, con pelo rubio en rizos. En otras palabras, Harpo fue diseñado a la imagen de Harpócrates, dios del silencio y el secreto, también conocido como Horus el niño.  
+Una nota secundaria interesante: Cuando era niño y veía televisión en sus primeros días (1950), uno de los programas más populares fue un programa de juegos organizado por el comediante judío Groucho Marx. Groucho tenía un hermano, Harpo Marx, que también era comediante y protagonizó numerosos programas de televisión y películas. Harpo siempre interpretaba el personaje querubín de un joven mudo, con pelo rubio en rizos. En otras palabras, Harpo fue diseñado a la imagen de Harpócrates, dios del silencio y el secreto, también conocido como Horus el niño.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVDmb2XPI7INGKTsEhcEIeo6tzOBVOY8UjPtTACCWZP1OffweH4RgVnthwxC9NDvORfGJtUf9yjnpJ-5_rgHquJuzLZPVMjc0ekERETeSIzqt1cdcTvurDMsLhtrhXH8-jzNjF7ZKxilo/s1600/dcodex_4.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVDmb2XPI7INGKTsEhcEIeo6tzOBVOY8UjPtTACCWZP1OffweH4RgVnthwxC9NDvORfGJtUf9yjnpJ-5_rgHquJuzLZPVMjc0ekERETeSIzqt1cdcTvurDMsLhtrhXH8-jzNjF7ZKxilo/s1600/dcodex_4.jpg)
@@ -171,7 +174,7 @@ Representación de Horus, hijo del dios egipcio Osiris. (Dibujado de _The Herder
 
   
 
-Phillip Kaplan quién ganó notoriedad por su website exitosa, f-- company.com. (Foto: US News & World Report, 10 de Julio del 2000, p41.)
+Phillip Kaplan, quien ganó notoriedad por su website exitosa, f-- company.com. (Foto: US News & World Report, 10 de julio de 2000, p41.)
 
   
 
@@ -187,7 +190,7 @@ Cura medieval relacionado a la secta de los Alumbrados (illuminati). Expresándo
 
   
 
-Collin Powell, involucrado en magia judía y canibalismo dando la señal del Arco del Real Masón.  
+Colin Powell, involucrado en magia judía y canibalismo dando la señal del Arco del Real Masón.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXBkVG4Kcu50EibHyvD-UfkXxsp4t8czWKD4CtMTfo38-5mjtfIXJSTfAMiqfZUgTGieQLiH7fxYBtIbBhOfEF3qtC9ucwB4BAczaaDUMrIJSQ7e8KgBGI07BCMNSwiGhjphbCrJ7k55M/s1600/dcodex_7.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXBkVG4Kcu50EibHyvD-UfkXxsp4t8czWKD4CtMTfo38-5mjtfIXJSTfAMiqfZUgTGieQLiH7fxYBtIbBhOfEF3qtC9ucwB4BAczaaDUMrIJSQ7e8KgBGI07BCMNSwiGhjphbCrJ7k55M/s1600/dcodex_7.jpg)

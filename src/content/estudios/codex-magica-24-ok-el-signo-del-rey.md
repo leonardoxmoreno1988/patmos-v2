@@ -9,7 +9,7 @@ description: "\"Annuit Coeptus - Él aprueba nuestro compromiso.\"- Inscripción
 tags: ["Sociedad"]
 ---
 
-> **"Annuit Coeptus - Él aprueba nuestro compromiso."\- Inscripción en latín sobre el ojo que todo lo ve en el billete de un dólar de EE. UU.**
+> **"Annuit Coeptus - Él aprueba nuestro compromiso."\- Inscripción en latín sobre el ojo que todo lo ve en el billete de un dólar de EE. UU.**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDy2AcqHBwdQ2A-n78JGRwChnKg5OC_bKR2wJ1TkeV90V-1NeU4No0A1JldVQQkl67etY7q17ejmZgGNG17rnd548w987ITMhxR8tLqPDcUuMpVPeX4zPLjdtpzoZ6f13aZxRWcrnsOBU/s1600/ok-signo-illuminati.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDy2AcqHBwdQ2A-n78JGRwChnKg5OC_bKR2wJ1TkeV90V-1NeU4No0A1JldVQQkl67etY7q17ejmZgGNG17rnd548w987ITMhxR8tLqPDcUuMpVPeX4zPLjdtpzoZ6f13aZxRWcrnsOBU/s1600/ok-signo-illuminati.jpg)
 
@@ -23,7 +23,7 @@ Pero para los ocultistas, el signo OK adquiere un significado más oscuro. Prime
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
@@ -31,7 +31,7 @@ En la práctica del yoga tántrico (rituales sexuales), el signo OK es una muest
 
   
 
-En el satanismo, cuando se hace este signo, los tres dedos que no se usan para formar el círculo se consideran simbólicos de la trinidad impía: dios con cuernos, diosa y descendencia (anticristo). Algunos llegan incluso a adoptar la opinión de que los tres dedos doblados tienen la forma de tres números seis, o 666. Por lo tanto, tenemos 666, la deidad solar (Lucifer), la diosa (Misterio, Babilonia la Grande, Madre de las Rameras) y la bestia (anticristo, 666), todo en una sola señal de mano. ¡Oh, qué telaraña pueden tejer los malvados alrededor de algo aparentemente tan ordinario y mundano!
+En el satanismo, cuando se hace este signo, los tres dedos que no se usan para formar el círculo se consideran simbólicos de la trinidad impía: dios con cuernos, diosa y descendencia (anticristo). Algunos llegan incluso a adoptar la opinión de que los tres dedos doblados tienen la forma de tres números seis, o 666. Por lo tanto, tenemos 666, la deidad solar (Lucifer), la diosa (Misterio, Babilonia la Grande, Madre de las Rameras) y la bestia (anticristo, 666), todo en una sola señal de mano. ¡Oh, qué telaraña pueden tejer los malvados alrededor de algo aparentemente tan ordinario y mundano!
 
   
 
@@ -41,7 +41,7 @@ En la filosofía Iluminista, el signo OK se convierte en un signo que indica la 
 
 ## ¿Un gesto para evitar?
 
-Como hemos notado, el gesto hecho al tocar las puntas del pulgar y el índice para formar un círculo, con los tres dedos restantes de la mano desplegados puede significar "A-Okay" en los Estados Unidos, pero en otras culturas, el mismo gesto no tendrá aprobación.
+Como hemos notado, el gesto hecho al tocar las puntas del pulgar y el índice para formar un círculo, con los tres dedos restantes de la mano desplegados, puede significar "A-Okay" en los Estados Unidos, pero en otras culturas, el mismo gesto no tendrá aprobación.
 
   
 
@@ -77,7 +77,7 @@ Donald Rumsfeld, Secretario de Defensa en la Administración Bush, otorga una mi
 
   
 
-La hermosa actriz, Brittany Murphy da la enigmática señal de OK. En el artículo acompañando la foto, la revista People cita a Murphy diciendo que ella se escabuye en medio de la noche para escribir poesía. La revista luego la llama una "excursionista nocturna".
+La hermosa actriz, Brittany Murphy da la enigmática señal de OK. En el artículo que acompaña la foto, la revista People cita a Murphy diciendo que ella se escabulle en medio de la noche para escribir poesía. La revista luego la llama una "excursionista nocturna".
 
   
 
@@ -133,7 +133,7 @@ Roddy Doyle, popular novelista irlandés. (Newsweek, 1 de julio de 1996, página
 
   
 
-Pat Robertson, Mason, Iluminista, Caballero de Malta y propagandista de élite en el campo de la religión.
+Pat Robertson, masón, iluminista, Caballero de Malta y propagandista de élite en el campo de la religión.
 
   
 
@@ -165,7 +165,7 @@ David Graham, funcionario de la FDA en la Administración Bush. (Associated Pres
 
   
 
-El vicepresidente Al Gore (izquierda) y el influyente enviado de Moscú y colega iluminista, Viktor Chernomyrdin. Chernomyrdin, un criptojudío y masón, supervisó la redistribución de los activos del antiguo Estado soviético en manos de oligarcas judíos. Este fue uno de los principales proyectos llluminati a finales de los años ochenta y noventa. La experta en símbolos, la Dra. Cathy Burns, al revisar esta foto, comentó:
+El vicepresidente Al Gore (izquierda) y el influyente enviado de Moscú y colega iluminista, Viktor Chernomyrdin. Chernomyrdin, un criptojudío y masón, supervisó la redistribución de los activos del antiguo Estado soviético en manos de oligarcas judíos. Este fue uno de los principales proyectos Illuminati a finales de los años ochenta y noventa. La experta en símbolos, la Dra. Cathy Burns, al revisar esta foto, comentó:
 
   
 
@@ -173,7 +173,7 @@ El vicepresidente Al Gore (izquierda) y el influyente enviado de Moscú y colega
 
   
 
-Por ejemplo, observe el libro con un águila en la portada. ¿Podrían los Estados Unidos ser el Águila? El pie de foto justo debajo menciona "hacer que Rusia esté a bordo". Tenga en cuenta también, el título del libro. _La compañía que mantenemos_ ¿Es esto una referencia de que los Estados Unidos mantienen una compañía con Rusia ("¿el conseguir que Rusia también participe")? (Foto: Newsweek, 17 de mayo de 1999, p.38)
+Por ejemplo, observe el libro con un águila en la portada. ¿Podrían los Estados Unidos ser el Águila? El pie de foto justo debajo menciona "hacer que Rusia esté a bordo". Tenga en cuenta también, el título del libro. _La compañía que mantenemos_. ¿Es esto una referencia de que los Estados Unidos mantienen una compañía con Rusia ("¿el conseguir que Rusia también participe")? (Foto: Newsweek, 17 de mayo de 1999, p.38)
 
   
 
@@ -181,7 +181,7 @@ Por ejemplo, observe el libro con un águila en la portada. ¿Podrían los Estad
 
   
 
-El presidente George W. Bush, afectuosamente sostiene la mano izquierda del presidente de Francia, Jacques Chirac, quién da la alta señal de los Illuminati con su mano derecha. (Foto: Insight magazine, 13 de abril 26 de 2004, p.41)
+El presidente George W. Bush, afectuosamente sostiene la mano izquierda del presidente de Francia, Jacques Chirac, quien da la alta señal de los Illuminati con su mano derecha. (Foto: Insight magazine, 13 de abril 26 de 2004, p.41)
 
   
 
@@ -197,7 +197,7 @@ El Jefe de la OLP Yasser Arafat con su sucesor actual, Mahmoud Abbas. Ambos homb
 
   
 
-Esta portada de uno de los libros más vendidos del autor ilustra a la ex Primera Dama con una "chapa de ángel" con las alas cruzadas en una X de Osiris.
+Esta portada de uno de los libros más vendidos del autor ilustra a la ex primera dama con una "chapa de ángel" con las alas cruzadas en una X de Osiris.
 
   
 
@@ -213,7 +213,7 @@ El presidente Bill Clinton con un signo de círculo doble, para enfatizar su pun
 
   
 
-La señal de mano de Clinton indica que sus superiores Illuministas habían decidido dejarlo permanecer en el cargo y no ser expulsados ​​mediante una acusación de juicio político debido a los cargos por escándalo de sexo / perjurio de Lewinsky presentados por el fiscal especial, Kenneth Starr. (Austin American-Statesman, 7 de febrero de 1998, p.1)
+La señal de mano de Clinton indica que sus superiores Illuministas habían decidido dejarlo permanecer en el cargo y no ser expulsados mediante una acusación de juicio político debido a los cargos por escándalo de sexo / perjurio de Lewinsky presentados por el fiscal especial, Kenneth Starr. (Austin American-Statesman, 7 de febrero de 1998, p.1)
 
   
 
@@ -223,7 +223,7 @@ La señal de mano de Clinton indica que sus superiores Illuministas habían deci
 
   
 
-Ídolo pre-cristiano de Irlanda.
+Ídolo precristiano de Irlanda.
 
   
 
@@ -251,7 +251,7 @@ Partidarios jubilosos del partido político israelí Shas bailan de alegría des
 
   
 
-El Beatle Paul McCartney, a la izquierda, le da la señal al "Divino Rey" de los llluminati, mientras que el también Beatle John Lennon nos deja saber que él es un luciferino.
+El Beatle Paul McCartney, a la izquierda, le da la señal al "Divino Rey" de los Illuminati, mientras que el también Beatle John Lennon nos deja saber que él es un luciferino.
 
   
 
@@ -291,7 +291,7 @@ En este caso, la Sra. Wescott se sienta en posición vertical, con las piernas c
 
   
 
-Un swami hindú y adorador del Dios Shiva en el _San Marga Sanctuary_ en Hawaii. Él está acompañado por un extraño ídolo de papel y un ídolo de cobra descarado.
+Un swami hindú y adorador del Dios Shiva en el _San Marga Sanctuary_ en Hawái. Él está acompañado por un extraño ídolo de papel y un ídolo de cobra descarado.
 
   
 

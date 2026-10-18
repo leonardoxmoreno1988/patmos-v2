@@ -1,5 +1,5 @@
 ---
-title: "Las Apariciones De Fatima: ¿Un Paradigma OVNI?"
+title: "Las Apariciones De Fátima: ¿Un Paradigma OVNI?"
 date: "2017-07-29"
 updated: "2023-07-20"
 author: "Kevin Farringdon"
@@ -9,25 +9,25 @@ description: "El cristianismo es una fuente de una gran cantidad de evidencia pa
 tags: ["Falsas Doctrinas"]
 ---
 
-El **cristianismo** es una fuente de una gran cantidad de evidencia para los encuentros entre seres humanos y seres humanos dotados de poderes místicos como **Fátima**. La **Iglesia Católica Romana**, en particular, ha desarrollado una vasta literatura sobre este tema, y ​​hay mucho escrito sobre las opiniones católicas sobre súcubos e íncubos.  
+El **cristianismo** es una fuente de una gran cantidad de evidencia para los encuentros entre seres humanos y seres humanos dotados de poderes místicos como **Fátima**. La **Iglesia Católica Romana**, en particular, ha desarrollado una vasta literatura sobre este tema, y hay mucho escrito sobre las opiniones católicas sobre súcubos e íncubos.  
   
 
 [![Virgen de Fátima con testigos de las apariciones de 1917 en Portugal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhohFj4PnpNpclV8VmjtKtlOs57gbTXQyhMa03pd1fFF7w0qUhnRVrCaAYuyX_v5JG7s5jWZrCz_EiJ8MOU51PgzKDKeEYvrTdIEND4BriYS7tIbW3oPKjzq3EHZJv0GyhtytgURC3n3IM/s1600/fatima-ovni.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhohFj4PnpNpclV8VmjtKtlOs57gbTXQyhMa03pd1fFF7w0qUhnRVrCaAYuyX_v5JG7s5jWZrCz_EiJ8MOU51PgzKDKeEYvrTdIEND4BriYS7tIbW3oPKjzq3EHZJv0GyhtytgURC3n3IM/s1600/fatima-ovni.jpg)
 
   
-Aquí se revisará brevemente la historia de las reuniones que tuvieron lugar en Fátima, Portugal, en 1917, entre tres hijos llamados Lucia, Francisco y Jacinta y una brillantemente resplandeciente dama a la que ellos entendían como la Virgen María. Como veremos, esta historia es relevante para la **[cuestión OVNI](http://www.ritualypropaganda.com/2017/02/las-propiedades-extra-dimensionales-de.html)**, y está respaldada por una cantidad sin precedentes de testimonios de testigos oculares.  
+Aquí se revisará brevemente la historia de las reuniones que tuvieron lugar en Fátima, Portugal, en 1917, entre tres niños llamados Lucía, Francisco y Jacinta y una dama brillantemente resplandeciente a la que ellos entendían como la Virgen María. Como veremos, esta historia es relevante para la **[cuestión OVNI](http://www.ritualypropaganda.com/2017/02/las-propiedades-extra-dimensionales-de.html)**, y está respaldada por una cantidad sin precedentes de testimonios de testigos oculares.  
 
   
 Las reuniones tuvieron lugar el 13 del mes durante seis meses sucesivos en un anfiteatro natural llamado _Cova da Iria_ cerca de la ciudad de Fátima. Se hicieron revelaciones a los tres niños en presencia de una gran multitud de espectadores, los cuales aumentaron considerablemente de mes a mes a medida que las noticias se extendían.
 
   
 
-**Nota:** Si deseas recibir más contenido sobre la verdad del catolicismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre la verdad del catolicismo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
 
 ## Los Testigos
 
-Las visiones reales de la bella dama sólo podían ser vistas por los tres hijos, por lo que nuestro conocimiento de estas visiones se limita a su testimonio. Sin embargo, durante las revelaciones ocurrieron fenómenos relacionados que fueron atestiguados por un gran número de personas.  
+Las visiones reales de la bella dama sólo podían ser vistas por los tres niños, por lo que nuestro conocimiento de estas visiones se limita a su testimonio. Sin embargo, durante las revelaciones ocurrieron fenómenos relacionados que fueron atestiguados por un gran número de personas.  
   
 Estos fenómenos incluyeron la aparición de un vehículo brillante y con forma de globo y la aparición de una lluvia de pétalos de rosa que desaparecieron al tocar el suelo.  
   
@@ -47,7 +47,7 @@ Por ejemplo, aquí hay un extracto de la descripción de la danza rasa de Krishn
 En cuanto al globo aéreo, un testigo ocular, Mons. J. Quaresma, describió su aparición el 13 de septiembre de 1917, como sigue:  
   
 
-> "PARA MI SORPRESA, VEO CLARAMENTE Y DISTINTAMENTE UN GLOBO DE LUZ QUE AVANZA DE ESTE A OESTE, DESLIZÁNDOSE LENTA Y MAJESTUOSAMENTE POR EL AIRE... DE REPENTE EL GLOBO CON SU EXTRAORDINARIA LUZ SE DESVANECIÓ, PERO CERCA DE NOSOTROS UNA NIÑA DE UNOS DIEZ CONTINÚA LLORANDO CON ALEGRÍA: "TODAVÍA LO VEO, TODAVÍA LO VEO, AHORA ESTÁ BAJANDO!"
+> "PARA MI SORPRESA, VEO CLARAMENTE Y DISTINTAMENTE UN GLOBO DE LUZ QUE AVANZA DE ESTE A OESTE, DESLIZÁNDOSE LENTA Y MAJESTUOSAMENTE POR EL AIRE... DE REPENTE EL GLOBO CON SU EXTRAORDINARIA LUZ SE DESVANECIÓ, PERO CERCA DE NOSOTROS UNA NIÑA DE UNOS DIEZ CONTINÚA LLORANDO CON ALEGRÍA: "¡TODAVÍA LO VEO, TODAVÍA LO VEO, AHORA ESTÁ BAJANDO!"
 
   
 En su informe sobre lo que ocurrió después de estos acontecimientos, Quaresma dijo,  
@@ -72,13 +72,13 @@ Dr. Joseph Garrett, Catedrático de Ciencias Naturales de la Universidad de Coim
 > **"El disco solar no se quedó inmóvil, no era el resplandor de un cuerpo celestial, porque giró sobre sí mismo en un movimiento brusco, cuando de repente se oyó un clamor de todo el pueblo, el sol girando parecía soltarse desde el firmamento y avanzar amenazadoramente sobre la tierra como para aplastarnos con su enorme peso ardiente... la sensación en esos momentos fue terrible."**
 
   
-El Dr. Formigao, profesor en el seminario de Santarem:  
+El Dr. Formigao, profesor en el seminario de Santarém:  
   
 
-> **"Como si fuera un cerrojo del azul, las nubes se arrancaron, y el sol en su cenit apareció en todo su esplendor y comenzó a girar vertiginosamente sobre su eje, como la más magnífica rueda de fuego que se podía imaginar, Los colores del arco iris y el envío de destellos multicolores de luz, producían el efecto más asombroso. Este espectáculo sublime e incomparable, que se repitió tres veces distintas, duró unos diez minutos. La inmensa multitud, superada por la evidencia de tremendo prodigio, se arrodilló."**
+> **"Como si fuera un cerrojo del azul, las nubes se arrancaron, y el sol en su cenit apareció en todo su esplendor y comenzó a girar vertiginosamente sobre su eje, como la más magnífica rueda de fuego que se podía imaginar, Los colores del arco iris y el envío de destellos multicolores de luz, producían el efecto más asombroso. Este espectáculo sublime e incomparable, que se repitió tres veces distintas, duró unos diez minutos. La inmensa multitud, superada por la evidencia de tremendo prodigio, se arrodilló."**
 
   
-Testimonio similar fue dado por un gran número de personas, tanto de la multitud en la Cova da Iria y de un área circundante que mide aproximadamente 20 por 30 millas. La presencia de testigos de confirmación sobre una área tan amplia sugiere que el fenómeno no puede explicarse como el resultado de la histeria de la multitud.  
+Testimonio similar fue dado por un gran número de personas, tanto de la multitud en la Cova da Iria y de un área circundante que mide aproximadamente 20 por 30 millas. La presencia de testigos de confirmación sobre un área tan amplia sugiere que el fenómeno no puede explicarse como el resultado de la histeria de la multitud.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWjc8QDp_n9xulpYgIAXc2Cs-vIPfrBfzhyHYohJez_JtbS3K5F9p5gv9j7RLvCGUWIWW9W1_2lc49OCz5JNmOxnwUYIB5wF2k_XSJ-latR7Qx_xLH9VGg__3eLFH2jC3NvdycQhBf9CU/s1600/testigos3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWjc8QDp_n9xulpYgIAXc2Cs-vIPfrBfzhyHYohJez_JtbS3K5F9p5gv9j7RLvCGUWIWW9W1_2lc49OCz5JNmOxnwUYIB5wF2k_XSJ-latR7Qx_xLH9VGg__3eLFH2jC3NvdycQhBf9CU/s1600/testigos3.jpg)
@@ -99,13 +99,13 @@ Aquí la sugestión simple y la histeria de la multitud se usan para explicar c�
 
   
 
-Por ejemplo, en 1960 el reverendo Joaquim Lourenco, abogado canónigo de la diócesis de Leira, describió lo que vio como un muchacho en la ciudad de Alburitel, a unas nueve millas de Fátima:  
+Por ejemplo, en 1960 el reverendo Joaquim Lourenço, abogado canónigo de la diócesis de Leiria, describió lo que vio como un muchacho en la ciudad de Alburitel, a unas nueve millas de Fátima:  
   
 
 > "ME SIENTO INCAPAZ DE DESCRIBIR LO QUE VI, MIRÉ FIJAMENTE AL SOL, QUE PARECÍA PÁLIDO Y NO ME DOLÍA LOS OJOS \[TAL VEZ NO PARECÍA EL SOL PORQUE NO ERA EL SOL ... ERA UN OVNI\] PARECÍA COMO UNA BOLA DE NIEVE, GIRANDO SOBRE SÍ MISMA, DE REPENTE PARECIÓ DESCENDER EN ZIGZAG, AMENAZANDO LA TIERRA. ATERRORIZADO, CORRÍ Y ME ESCONDÍ ENTRE LAS PERSONAS, QUE LLORABAN Y ESPERABAN EL FIN DEL MUNDO EN CUALQUIER MOMENTO".
 
   
-Parecería improbable que la histeria masiva diera lugar en las mismas ilusiones en Fátima, Alburitel y otras comunidades separadas. Las manifestaciones en Fátima estaban fuertemente relacionadas con la religión, y con el catolicismo romano en particular. Debo destacar, sin embargo, que todos los testimonios referentes a la comunicación con la dama resplandeciente y otros seres paranormales provienen únicamente de los tres niños, ya que sólo ellos podían realmente ver a estos seres y escucharlos hablar.  
+Parecería improbable que la histeria masiva diera lugar a las mismas ilusiones en Fátima, Alburitel y otras comunidades separadas. Las manifestaciones en Fátima estaban fuertemente relacionadas con la religión, y con el catolicismo romano en particular. Debo destacar, sin embargo, que todos los testimonios referentes a la comunicación con la dama resplandeciente y otros seres paranormales provienen únicamente de los tres niños, ya que sólo ellos podían realmente ver a estos seres y escucharlos hablar.  
   
 
 ## El Mensaje De La Dama
@@ -118,15 +118,15 @@ Su mensaje a los niños fue expresado explícitamente en la terminología de la 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLRBRWxrshkIQ-65CEbVTBqEDniQFlK6OwZzGdWCb4VPDe6VsLTTccg4mc-vCZh7QqWJdl5bTAONEpQNnHkkZqn331lgtTDdUuAyzJfqElujY_rhNcWbCWte3Xr40ww4dibOAh45tCb5c/s1600/fatima1-aparicion.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLRBRWxrshkIQ-65CEbVTBqEDniQFlK6OwZzGdWCb4VPDe6VsLTTccg4mc-vCZh7QqWJdl5bTAONEpQNnHkkZqn331lgtTDdUuAyzJfqElujY_rhNcWbCWte3Xr40ww4dibOAh45tCb5c/s1600/fatima1-aparicion.jpg)
 
   
-El mensaje era no-bíblico, y un mensajero de Dios no contradice el Evangelio. No importa lo que hacen los seres humanos, Dios llevará a cabo lo que Él ha determinado llevar a cabo, es decir, el castigo divino de los habitantes pecaminosos de la Tierra. El ser sobrenatural inteligente pretendiendo ser María instó a los oyentes a "orar constantemente", el Rosario, y vagamente de alguna manera "volver a Dios".  
+El mensaje era no bíblico, y un mensajero de Dios no contradice el Evangelio. No importa lo que hacen los seres humanos, Dios llevará a cabo lo que Él ha determinado llevar a cabo, es decir, el castigo divino de los habitantes pecaminosos de la Tierra. El ser sobrenatural inteligente que pretendía ser María instó a los oyentes a "orar constantemente", el Rosario, y vagamente de alguna manera "volver a Dios".  
 
 >   
-> **"No que haya otro, sino que hay algunos que os perturban y quieren alterar el evangelio de Cristo. Pero si aun nosotros, o un ángel del cielo, os anuncia un evangelio diferente del que os hemos anunciado, sea anatema."** 
+> **"No que haya otro, sino que hay algunos que os perturban y quieren alterar el evangelio de Cristo. Pero si aun nosotros, o un ángel del cielo, os anuncia un evangelio diferente del que os hemos anunciado, sea anatema."**
 
-> **\- Galatas 1: 7**  
+> **\- Gálatas 1:7**
 
   
-Antes de sus reuniones con la dama, los tres niños también tuvieron encuentros con un ángel. En el momento del primer encuentro, estaban cuidando sus ovejas en una colina rocosa, no lejos de su hogar. Vieron a través del valle un deslumbrante globo de luz como un sol en miniatura, deslizándose lentamente hacia ellos. A medida que se acercaba, la bola de luz gradualmente se resolvió en un joven brillantemente, que parecía tener catorce años. Se identificó como el "Ángel de la Paz" y les ordenó que recitaran la siguiente oración:  
+Antes de sus reuniones con la dama, los tres niños también tuvieron encuentros con un ángel. En el momento del primer encuentro, estaban cuidando sus ovejas en una colina rocosa, no lejos de su hogar. Vieron a través del valle un deslumbrante globo de luz como un sol en miniatura, deslizándose lentamente hacia ellos. A medida que se acercaba, la bola de luz gradualmente se resolvió en un joven resplandeciente, que parecía tener catorce años. Se identificó como el "Ángel de la Paz" y les ordenó que recitaran la siguiente oración:  
   
 
 > **"Dios mío, creo, adoro, espero, te amo, pido perdón a los que no creen, ni adoran, ni esperan, ni te aman".**
@@ -134,12 +134,12 @@ Antes de sus reuniones con la dama, los tres niños también tuvieron encuentros
   
 Luego desapareció.  
   
-¿Cómo debemos interpretar estas experiencias? Por supuesto, un enfoque es desestimarlas como ilusiones o intentar explicaciones físicas. Otra es proponer que sean encuentros OVNIs. Por ejemplo, Wendelle Stevens hizo esto directamente en uno de sus libros, en un capítulo titulado "Los avistamientos de OVNI de Fátima". Jacques Vallee también argumentó que los eventos en Fátima son encuentros OVNI y no milagros divinos tal como los entiende la Iglesia Católica.  
+¿Cómo debemos interpretar estas experiencias? Por supuesto, un enfoque es desestimarlas como ilusiones o intentar explicaciones físicas. Otro es proponer que sean encuentros OVNI. Por ejemplo, Wendelle Stevens hizo esto directamente en uno de sus libros, en un capítulo titulado "Los avistamientos de OVNI de Fátima". Jacques Vallee también argumentó que los eventos en Fátima son encuentros OVNI y no milagros divinos tal como los entiende la Iglesia Católica.  
   
 
 ## Fátima Y El Contacto Extraterrestre
 
-Una respuesta objetiva a esta hipótesis es decir "sí y no". Por un lado, los eventos en Fátima tienen muchas características que también se ven en las experiencias de OVNIs. Hay brillantes globos de luz que podrían ser vehículos y fueron considerados como tales por algunas de las personas que los vió. Stevens y Vallee incluso interpretaron el espectacular disco solar giratorio del 13 de octubre como un OVNI en forma de disco. Esto puede ser válido, ya que se movía en un patrón en zigzag, desprendía rayos de luz coloreados y podía verse directamente sin herir los ojos de la gente. Podría haber sido un dispositivo volador, que finalmente partió volando en la dirección del sol real cuando este último se hizo visible a través del cielo nublado.  
+Una respuesta objetiva a esta hipótesis es decir "sí y no". Por un lado, los eventos en Fátima tienen muchas características que también se ven en las experiencias de OVNIs. Hay brillantes globos de luz que podrían ser vehículos y fueron considerados como tales por algunas de las personas que los vieron. Stevens y Vallee incluso interpretaron el espectacular disco solar giratorio del 13 de octubre como un OVNI en forma de disco. Esto puede ser válido, ya que se movía en un patrón en zigzag, desprendía rayos de luz coloreados y podía verse directamente sin herir los ojos de la gente. Podría haber sido un dispositivo volador, que finalmente partió volando en la dirección del sol real cuando este último se hizo visible a través del cielo nublado.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpU4uuGRmMPCGkZsTFKUXBNHfmpD74ASBkjj5UQku25M1ClzosoRxAGKkRZnFwz6W16XKdPk3X90JjeYX7kJblcYcbwFy1Xm46dhfi6Uupn5dQObNPPMorSSlk7vVEkIZ1L3ruqXsjo8/s1600/fatima-ovni2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpU4uuGRmMPCGkZsTFKUXBNHfmpD74ASBkjj5UQku25M1ClzosoRxAGKkRZnFwz6W16XKdPk3X90JjeYX7kJblcYcbwFy1Xm46dhfi6Uupn5dQObNPPMorSSlk7vVEkIZ1L3ruqXsjo8/s1600/fatima-ovni2.jpg)
@@ -150,7 +150,7 @@ Por otro lado, existe el peligro de crear una idea estereotipada de OVNIs y encu
   
 Para apoyar su opinión de que los eventos de Fátima involucraron ovnis en lugar de revelaciones religiosas, Vallee estiró algunas de las pruebas. Así, dijo que la señora que se presentaba a los niños "no había dicho que era la Virgen María, sino que simplemente había dicho que era "del Cielo". Ella dijo esto durante su primera visita el 13 de mayo, pero agregó que revelaría su identidad el 13 de octubre.  
   
-En esa fecha se identificó como la "Dama del Rosario", una designación explícitamente católica. Esta es la verdad parcial de la gran mentira, por supuesto un ángel caído diría que era del cielo porque se identificaría con el Rosario, una herramienta de promoción de la idolatría y totalmente de acuerdo con el ocultismo y el misticismo oriental que desean promover en lugar de el Evangelio.  
+En esa fecha se identificó como la "Dama del Rosario", una designación explícitamente católica. Esta es la verdad parcial de la gran mentira, por supuesto un ángel caído diría que era del cielo porque se identificaría con el Rosario, una herramienta de promoción de la idolatría y totalmente de acuerdo con el ocultismo y el misticismo oriental que desean promover en lugar del Evangelio.  
   
 Los encuentros de los niños con el Ángel de la Paz son consistentes con esto: "A través del resplandor blanco de su presencia los niños pudieron ver que sostenía un cáliz con una hostia por encima de él, de la cual caían gotas de sangre en la copa".  
   
@@ -168,13 +168,13 @@ Vallee habló de esto como una parálisis y lo comparó con la parálisis relaci
   
 
   
-Hay un contraste llamativo entre las visitas de Fátima y muchos encuentros OVNI. En un gran grupo de estos encuentros, se dice que los seres implicados tienen tez grises, son pastosos, o con hongos, ojos aterrorizantes, ojivas, bocas hendidas y narices vestigiales. Vienen en la noche, llevan a la gente desamparada, y los someten a abuso sexual. Las víctimas experimentan trauma psicológico, y en algunos casos desarrollan enfermedades físicas.  
+Hay un contraste llamativo entre las visitas de Fátima y muchos encuentros OVNI. En un gran grupo de estos encuentros, se dice que los seres implicados tienen tez gris, son pastosos, o con hongos, ojos aterrorizantes, ojivas, bocas hendidas y narices vestigiales. Vienen en la noche, llevan a la gente desamparada, y los someten a abuso sexual. Las víctimas experimentan trauma psicológico, y en algunos casos desarrollan enfermedades físicas.  
   
 Por supuesto, hay otros casos en los que las personas han afirmado tener contactos relativamente amistosos con humanoides de diversas descripciones, incluyendo algunos que parecían completamente humanos. En algunos casos, estos seres han transmitido mensajes a la gente, y algunos de estos mensajes eran bastante complejos. Como en el caso de Fátima, estos mensajes han sido a menudo críticos del comportamiento humano, y a menudo han predicho desastres de diversos tipos. También a veces contienen material filosófico y teológico.  
   
 Testigos de exclusividad es otra característica que Fátima comparte con muchos otros casos de OVNI. Los ángeles y la señora resplandeciente fueron vistos sólo por los tres niños, aunque miles de otras personas presentes en la Cova da Iria presenciaron exhibiciones de luz aérea que tendían a respaldar la historia de los niños.  
   
-Los casos de OVNI pueden ser considerados como caen a lo largo de un amplio continuo de tipos. Este continuo no es lineal.  
+Los casos de OVNI pueden ser considerados como si cayeran a lo largo de un amplio continuo de tipos. Este continuo no es lineal.  
   
 Más bien debe definirse por varias variables, que pueden incluir (1) el grado de amistad de los contactos, (2) el grado de humanidad de los seres en contacto, y (3) alguna medida de la calidad del material comunicado.  
   
@@ -182,7 +182,7 @@ El caso de Fátima ciertamente se puede añadir a este continuo, pero yo sugerir
   
 Aparte de esto, muestran un énfasis en la devoción espiritual que rara vez se ve en las comunicaciones OVNI, incluyendo las de naturaleza filosófica.  
   
-Un proyecto interesante sería hacer un estudio general de todas las tradiciones culturales en busca de casos en los que las personas han afirmado encontrarse con seres hermosos y resplandecientes que transmitieron enseñanzas espirituales. Muchos de estos casos probablemente mostrarían características típicas relacionadas con el fenómeno OVNI, aunque éstos a menudo tendrían más que ver con el comportamiento y los poderes de los seres involucrados que con los OVNIs _per se_. Así, el OVNI continuo podría ser visto como parte de un continuo místico-humanoide más grande. Fátima probablemente aparecería como un punto típico en este conjunto más grande.  
+Un proyecto interesante sería hacer un estudio general de todas las tradiciones culturales en busca de casos en los que las personas han afirmado encontrarse con seres hermosos y resplandecientes que transmitieron enseñanzas espirituales. Muchos de estos casos probablemente mostrarían características típicas relacionadas con el fenómeno OVNI, aunque estos a menudo tendrían más que ver con el comportamiento y los poderes de los seres involucrados que con los OVNIs _per se_. Así, el OVNI continuo podría ser visto como parte de un continuo místico-humanoide más grande. Fátima probablemente aparecería como un punto típico en este conjunto más grande.  
   
 Vallee resumió su punto de vista diciendo:  
   
@@ -203,7 +203,7 @@ La respuesta es no, porque el mismo razonamiento que induciría a uno a tomar la
 
   
 
-Esto nos lleva a la conclusión de que los seres que dicen ser ángeles católicos, santos o la Virgen María son los mismos que los demonios. Cualquier cristiano verdadero te diría que los "seres divinos" avistados en apariciones modernas como Fátima, Bayside, Medjagorge, Georgia, etc. no son la María bíblica, sino alguna criatura que la suplantó para una agenda religiosa engañosa. Los cristianos no creen en las apariciones marianas, sólo los católicos lo hacen.  
+Esto nos lleva a la conclusión de que los seres que dicen ser ángeles católicos, santos o la Virgen María son los mismos que los demonios. Cualquier cristiano verdadero te diría que los "seres divinos" avistados en apariciones modernas como Fátima, Bayside, Medjugorje, Georgia, etc. no son la María bíblica, sino alguna criatura que la suplantó para una agenda religiosa engañosa. Los cristianos no creen en las apariciones marianas, sólo los católicos lo hacen.  
   
 También hay que señalar que, si bien las comunicaciones de Fátima se expresaban explícitamente en términos católicos, también añadían algo nuevo al catolicismo. En su discusión de las revelaciones de Fátima, Francis Johnston dejó claro que han causado una gran controversia dentro de la Iglesia Católica, y el nuevo material no ha sido inmediatamente y universalmente aceptable.  
   

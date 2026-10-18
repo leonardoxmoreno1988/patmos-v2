@@ -5,17 +5,17 @@ updated: "2023-07-21"
 author: "Vigilant Citizen"
 slug: "sitios-siniestros-la-plaza-del-templo"
 redirectFrom: "/2014/08/sitios-siniestros-la-plaza-del-templo.html"
-description: "Situado en el centro de Salt Lake City, Utah - EE.UU., la Plaza del Templo es el centro espiritual, cultural y administrativo de la fe mormona. Este terreno de…"
+description: "Situado en el centro de Salt Lake City, Utah - EE. UU., la Plaza del Templo es el centro espiritual, cultural y administrativo de la fe mormona. Este terreno de…"
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
   
   
-Situado en el centro de Salt Lake City, Utah - EE.UU., la **Plaza del Templo** es el centro espiritual, cultural y administrativo de la fe mormona. Este terreno de 10 acres de tierra incluye un templo, un tabernáculo abovedado y numerosos edificios, monumentos y memoriales. Aunque pueda parecer este lugar santo y sano, un vistazo a las estructuras revelan la presencia de símbolos ocultos, paganos y masónicos. Un estudio más profundo de estos motivos sólo se suma a la controversia sobre el mormonismo y revela la inquietante verdad sobre su verdadero Dios.
+Situado en el centro de Salt Lake City, Utah - EE. UU., la **Plaza del Templo** es el centro espiritual, cultural y administrativo de la fe mormona. Este terreno de 10 acres de tierra incluye un templo, un tabernáculo abovedado y numerosos edificios, monumentos y memoriales. Aunque pueda parecer este lugar santo y sano, un vistazo a las estructuras revela la presencia de símbolos ocultos, paganos y masónicos. Un estudio más profundo de estos motivos sólo se suma a la controversia sobre el mormonismo y revela la inquietante verdad sobre su verdadero Dios.
 
   
 
@@ -23,11 +23,11 @@ Situado en el centro de Salt Lake City, Utah - EE.UU., la **Plaza del Templo** e
 
   
 
-La intención de este artículo no es condenar el mormonismo como una fe, sino analizar los símbolos en la Plaza del templo en una forma objetiva. Un visitante de esta área religiosa se encuentra rodeado de símbolos asociados esotéricamente con la magia negra, el mal o el antiguo paganismo. ¿Por qué están estos símbolos visibles en edificios supuestamente cristianos, en todos los lugares? Muchos ex-mormones han afirmado que La Iglesia de Jesucristo de los Santos de los Últimos Días (IJSÚD) secretamente conduce a sus seguidores a la adoración de Lucifer. ¿Estarán en lo cierto?  
+La intención de este artículo no es condenar el mormonismo como una fe, sino analizar los símbolos en la Plaza del Templo en una forma objetiva. Un visitante de esta área religiosa se encuentra rodeado de símbolos asociados esotéricamente con la magia negra, el mal o el antiguo paganismo. ¿Por qué están estos símbolos visibles en edificios supuestamente cristianos, en todos los lugares? Muchos exmormones han afirmado que La Iglesia de Jesucristo de los Santos de los Últimos Días (IJSÚD) secretamente conduce a sus seguidores a la adoración de Lucifer. ¿Estarán en lo cierto?  
 
 ## El Templo
 
-El Templo es la pieza central de la Plaza del Templo y actúa como el corazón de la iglesia de Cristo de los Santos de los últimos días. El edificio en sí es austero e imponente y rodeado de muchas esculturas. Se dice que cumple las mismas funciones que el antiguo templo de Jerusalén. Mientras que podemos escribir páginas sobre el cómo esto no es cierto, nos centraremos en la propia estructura.
+El Templo es la pieza central de la Plaza del Templo y actúa como el corazón de la iglesia de Cristo de los Santos de los últimos días. El edificio en sí es austero e imponente y rodeado de muchas esculturas. Se dice que cumple las mismas funciones que el antiguo templo de Jerusalén. Mientras que podemos escribir páginas sobre cómo esto no es cierto, nos centraremos en la propia estructura.
 
   
 
@@ -37,7 +37,7 @@ El Templo es la pieza central de la Plaza del Templo y actúa como el corazón d
 
 ### 1.- El pentagrama invertido
 
-El exterior del templo contiene numerosos símbolos que no son simplemente remanentes del paganismo antiguo sino están directamente relacionados con el mal. El símbolo más flagrante es el pentagrama invertido.
+El exterior del templo contiene numerosos símbolos que no son simplemente remanentes del paganismo antiguo sino que están directamente relacionados con el mal. El símbolo más flagrante es el pentagrama invertido.
 
   
 
@@ -45,19 +45,19 @@ El exterior del templo contiene numerosos símbolos que no son simplemente reman
 
   
 
-Este símbolo se encuentra al alrededor de toda la Plaza del templo, en múltiples formas. Un pentagrama vertical representa los cinco elementos, la protección contra espíritus malignos y es una personificación de la proporción áurea. También significa la dominación del espíritu divino en la naturaleza más baja del hombre por el contrario, un revés del pentagrama representa la petición del espíritu a la materia y la presentación del hombre a sus impulsos más bajos.
+Este símbolo se encuentra alrededor de toda la Plaza del Templo, en múltiples formas. Un pentagrama vertical representa los cinco elementos, la protección contra espíritus malignos y es una personificación de la proporción áurea. También significa la dominación del espíritu divino en la naturaleza más baja del hombre; por el contrario, un pentagrama invertido representa la sumisión del espíritu a la materia y el sometimiento del hombre a sus impulsos más bajos.
 
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHlgTJI5dNDHUqxJZo-yc-0GbQ9pQaKqGHV3zP3HAnawiMxTLxsnZZ6TJlNXAEXXmM1ZsxfASH1NfLZoS5yLKD7XByo8N74H2qXWB6a483E3M6OiMWVlND7RNl8z6xXAUe1FVFZxP8JM/s1600/pentagram_lucifer_satan2.gif)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHlgTJI5dNDHUqxJZo-yc-0GbQ9pQaKqGHV3zP3HAnawiMxTLxsnZZ6TJlNXAEXXmM1ZsxfASH1NfLZoS5yLKD7XByo8N74H2qXWB6a483E3M6OiMWVlND7RNl8z6xXAUe1FVFZxP8JM/s1600/pentagram_lucifer_satan2.gif)
 
-**Representación de Eliphas Levi del pentagrama vertical e invertido. Contrariamente a la creencia popular, Levi no vino con el uso del pentagrama invertido como un símbolo negativo. Eso fue utilizado en rituales de magia siglos antes de la publicación de su obra.**
+**Representación de Eliphas Lévi del pentagrama vertical e invertido. Contrariamente a la creencia popular, Lévi no inventó el uso del pentagrama invertido como símbolo negativo. Este ya se utilizaba en rituales de magia siglos antes de la publicación de su obra.**
 
-> "El pentagrama con una punta hacia arriba repele el mal, pero un pentagrama invertido, con dos puntas hacia arriba, es un símbolo del diablo y atrae a fuerzas siniestras ya que esta boca abajo y porque representa el número 2. Representa la gran cabra del Aquelarre y las dos puntas hacia arriba son los cuerno de cabra". -Richard Cavendish, las Artes Negras.
+> "El pentagrama con una punta hacia arriba repele el mal, pero un pentagrama invertido, con dos puntas hacia arriba, es un símbolo del diablo y atrae a fuerzas siniestras ya que está boca abajo y porque representa el número 2. Representa la gran cabra del Aquelarre y las dos puntas hacia arriba son los cuernos de cabra". — Richard Cavendish, _Las artes negras_.
 
   
 
-### 2.-El Sol, la Luna y las Estrellas
+### 2.- El Sol, la Luna y las Estrellas
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhonMFcjLjmhJ-mOAMgyDdNsXCaeMNWM0BVvNPaHSq_KRAb9wYl7xCu-6MGxbG5Ah_aT01ygqYJlEg5ACTeN3N8Hef5qLe0DsImae_zGpd43ZfMkJ-0NsCSTgDW6faENnHAQOqH05B7lPo/s1600/estrella-mormon1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhonMFcjLjmhJ-mOAMgyDdNsXCaeMNWM0BVvNPaHSq_KRAb9wYl7xCu-6MGxbG5Ah_aT01ygqYJlEg5ACTeN3N8Hef5qLe0DsImae_zGpd43ZfMkJ-0NsCSTgDW6faENnHAQOqH05B7lPo/s1600/estrella-mormon1.jpg)
 
@@ -77,7 +77,7 @@ Las paredes del Templo llevan representaciones de la piedra solar, las fases de 
 
   
 
-Este clásico símbolo masónico que representa al "Gran Arquitecto" está situado en la fachada del Templo. Está rodeado de gloria y un velo. Probablemente representa el proceso iniciatico de la iglesia mormona, que es muy similar por la que los Masones pasan.
+Este clásico símbolo masónico que representa al "Gran Arquitecto" está situado en la fachada del Templo. Está rodeado de gloria y un velo. Probablemente representa el proceso iniciático de la iglesia mormona, que es muy similar al que atraviesan los masones.
 
   
 
@@ -101,7 +101,7 @@ Como los Masones, los Mormones aprenden los apretones de manos y contraseñas se
 
   
 
-En la parte superior del apretón de manos dice "Yo soy el Alfa y Omega", que se toma del libro del Apocalipsis. Puede ser traducido como "Yo Soy el Principio y el Fin". El hecho de que se coloca en la parte superior del apretón de manos, el símbolo que representa la doctrina secreta del IJSÚD, me hace preguntarme quién es el Alfa y el Omega.
+En la parte superior del apretón de manos dice "Yo soy el Alfa y Omega", que se toma del libro de Revelación. Puede ser traducido como "Yo Soy el Principio y el Fin". El hecho de que se coloca en la parte superior del apretón de manos, el símbolo que representa la doctrina secreta del IJSÚD, me hace preguntarme quién es el Alfa y el Omega.
 
   
 
@@ -111,7 +111,7 @@ En la parte superior del apretón de manos dice "Yo soy el Alfa y Omega", que se
 
   
 
-Cada Templo Mormón tiene su propia fuente bautismal, montada sobre los lomos de doce bueyes de tamaño natural. Los mormones dicen que es el modelo del "lavatorio", que se encontraba a la entrada del Templo de Salomón. Lo único que han olvidado mencionar es que el lavatorio fue utilizado por los sacerdotes para asearse después del sacrificio de animales (lavatorio significa "limpiar"). No fue utilizado para bautizar a la gente. Y ciertamente no era utilizado para el "bautismo de los muertos", una práctica Mormona donde personas fallecidas póstumamente forman parte de la iglesia Mormona. Numerosos bautismos escandalosos han tenido lugar donde, por ejemplo, las víctimas del Holocausto fueron bautizadas sin consentimiento de la familia. Más recientemente, la madre de Barak Obama, que murió de cáncer [ha sido bautizado por los mormones y sin consentimiento](http://www.huffingtonpost.com/2009/05/06/mormons-baptized-obamas-m_n_197707.html). No existe ningún rastro de esta práctica perturbadora en el antiguo cristianismo o judaísmo. Los ex-Mormones que han sido testigos de estas ceremonias dicen que los rituales moran en los campos de la brujería y la invocación del espíritu.
+Cada Templo Mormón tiene su propia fuente bautismal, montada sobre los lomos de doce bueyes de tamaño natural. Los mormones dicen que es el modelo del "lavatorio", que se encontraba a la entrada del Templo de Salomón. Lo único que han olvidado mencionar es que el lavatorio fue utilizado por los sacerdotes para asearse después del sacrificio de animales (lavatorio significa "limpiar"). No fue utilizado para bautizar a la gente. Y ciertamente no era utilizado para el "bautismo de los muertos", una práctica Mormona donde personas fallecidas póstumamente forman parte de la iglesia Mormona. Numerosos bautismos escandalosos han tenido lugar donde, por ejemplo, las víctimas del Holocausto fueron bautizadas sin consentimiento de la familia. Más recientemente, la madre de Barack Obama, que murió de cáncer [ha sido bautizada por los mormones y sin consentimiento](http://www.huffingtonpost.com/2009/05/06/mormons-baptized-obamas-m_n_197707.html). No existe ningún rastro de esta práctica perturbadora en el antiguo cristianismo o judaísmo. Los exmormones que han sido testigos de estas ceremonias dicen que los rituales moran en los campos de la brujería y la invocación del espíritu.
 
   
 
@@ -131,16 +131,16 @@ Este museo muestra exposiciones que celebran la Iglesia de Jesucristo de los San
 
   
 
-Estos dos pentagramas aparecen en la entrada del Museo de la historia y arte de la iglesia. Una vez más, es importante hacer hincapié en la importancia de este símbolo ya que es el equivalente del poner cabeza abajo la cruz en una iglesia.  
+Estos dos pentagramas aparecen en la entrada del Museo de la historia y arte de la iglesia. Una vez más, es importante hacer hincapié en la importancia de este símbolo ya que es el equivalente a poner la cruz cabeza abajo en una iglesia.  
 
-> "En el simbolismo, una figura invertida siempre significa una gran fuerza conquistadora. La persona promedio ni siquiera sospecha las propiedades ocultas del los emblemáticos pentáculos."  
-> \-Manly p. Hall, las enseñanzas secretas de todas las edades
+> "En el simbolismo, una figura invertida siempre significa una gran fuerza conquistadora. La persona promedio ni siquiera sospecha las propiedades ocultas de los emblemáticos pentáculos."  
+> \-Manly P. Hall, Las enseñanzas secretas de todas las edades
 
 El pentagrama en un círculo a la izquierda es especialmente significativo ya que se utiliza en rituales de magia negra.  
 
 > **"El mago negro no puede utilizar los símbolos de la magia blanca sin traer sobre sí las fuerzas de la magia blanca, que sería fatal para sus planes. Por lo tanto él debe distorsionar los hierogramas por lo que tipifica el hecho oculto de que él mismo está distorsionando los principios por los que se destacan los símbolos. La magia negra no es un arte fundamental; es el mal uso de un arte. Por lo tanto no tiene símbolos propios. Simplemente toma las figuras emblemáticas de la magia blanca y por la inversión y la reversión les dan un significado que es lo contrario.**
 > 
->  **El pentagrama se utiliza extensivamente en la magia negra, pero cuando es tan utilizado esa forma difiere siempre en una de tres maneras: la estrella puede romperse en algún momento al no permitir que las líneas convergentes se toquen; eso puede ser invertido al tener una punta abajo y dos arriba; o puede ser distorsionada por tener las puntas de diferentes longitudes. Cuando se utiliza en la magia negra, el pentagrama se llama el "signo de las pezuñas hendidas," o la huella del diablo. La estrella con dos puntas hacia arriba también se llama "La cabra de Mendes," porque la estrella invertida es la misma forma que la cabeza de una cabra."-Op. cit.**
+> **El pentagrama se utiliza extensivamente en la magia negra, pero cuando es tan utilizado esa forma difiere siempre en una de tres maneras: la estrella puede romperse en algún momento al no permitir que las líneas convergentes se toquen; eso puede ser invertido al tener una punta abajo y dos arriba; o puede ser distorsionada por tener las puntas de diferentes longitudes. Cuando se utiliza en la magia negra, el pentagrama se llama el "signo de las pezuñas hendidas," o la huella del diablo. La estrella con dos puntas hacia arriba también se llama "La cabra de Mendes," porque la estrella invertida es la misma forma que la cabeza de una cabra."-Op. cit.**
 
 Podemos encontrar más pentagramas en el museo en ... el rincón para niños.
 
@@ -162,9 +162,9 @@ El centro del visitante es el favorito turísticamente pero contiene el simbolis
 
   
 
-La Estatua de Cristo se dice que es el icono de la Iglesia Mormona y dramáticamente se muestra en el centro de visitante. Es una réplica del Cristo de Bertel en Copenhague, Dinamarca. La versión Mormona se coloca delante de un escenario inusual: el universo. Esto puede referirse al concepto gnóstico de "Cristo cósmico".  
+La Estatua de Cristo se dice que es el icono de la Iglesia Mormona y dramáticamente se muestra en el centro de visitante. Es una réplica del Cristo de Bertel Thorvaldsen en Copenhague, Dinamarca. La versión Mormona se coloca delante de un escenario inusual: el universo. Esto puede referirse al concepto gnóstico de "Cristo cósmico".  
   
-Un detalle sin embargo es sorprendente e inusual. Puede que conozcas que una de las formas más básicas para analizar una obra de arte es a través de la relación entre la luz y ls sombra. En este contexto, la figura de Cristo realmente esta proyectando una sombra en el planeta Tierra. ¿Acaso Jesús no es considerado la "luz del mundo"? Proyectando una sombra en algo que simbólicamente significa que esta para mantenernos en la oscuridad e ignorancia. Si esta figura de Jesús no es la fuente de luz, ¿Qué es entonces? La respuesta se encuentra dentro de la rotonda del centro de visitantes.
+Un detalle sin embargo es sorprendente e inusual. Puede que conozcas que una de las formas más básicas para analizar una obra de arte es a través de la relación entre la luz y la sombra. En este contexto, la figura de Cristo realmente está proyectando una sombra en el planeta Tierra. ¿Acaso Jesús no es considerado la "luz del mundo"? Proyectando una sombra en algo que simbólicamente significa que está para mantenernos en la oscuridad e ignorancia. Si esta figura de Jesús no es la fuente de luz, ¿qué es entonces? La respuesta se encuentra dentro de la rotonda del centro de visitantes.
 
   
 
@@ -174,19 +174,19 @@ Un detalle sin embargo es sorprendente e inusual. Puede que conozcas que una de 
 
   
 
-La rotonda enfrente a la estatua de Christus y lleva un tipo especial de pentagrama invertido.
+La rotonda está enfrente de la estatua de Christus y lleva un tipo especial de pentagrama invertido.
 
-   
+
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1kmN4WcV2vXE_-8IInAwtlEZ3n2aKLwdx0BgkJIswZJZw4JWsFBrHI7qKJOab3ioFSV9-MIiaM45hzdUEFCcMNn-413YnfHwMVvNDmBde5cviCh70_U0E0MIDdgwsDuh7YnhWtqm7Lw/s1600/pent3a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1kmN4WcV2vXE_-8IInAwtlEZ3n2aKLwdx0BgkJIswZJZw4JWsFBrHI7qKJOab3ioFSV9-MIiaM45hzdUEFCcMNn-413YnfHwMVvNDmBde5cviCh70_U0E0MIDdgwsDuh7YnhWtqm7Lw/s1600/pent3a.jpg)
 
 **Pentagrama invertido con la punta inferior alargada.**
 
-La punta inferior del pentagrama es alargado. Este detalle que pasa desapercibido para la mayoría de los visitantes, lleva un gran significado oculto. En primer lugar, la longitud irregular del punto inferior representa una perversión del poder del Bien. En segundo lugar, este pentagrama particular, con la punta inferior cayendo porta un significado esotérico preciso: la caída de Lucifer, la Estrella de la Mañana.  
+La punta inferior del pentagrama es alargada. Este detalle que pasa desapercibido para la mayoría de los visitantes, lleva un gran significado oculto. En primer lugar, la longitud irregular del punto inferior representa una perversión del poder del Bien. En segundo lugar, este pentagrama particular, con la punta inferior cayendo porta un significado esotérico preciso: la caída de Lucifer, la Estrella de la Mañana.  
 
-> "Cuando se gira la estrella en posición vertical y la punta superior corresponde a la parte inferior, significa la caída de la estrella de la mañana".-Manly p. Hall, las enseñanzas secretas de todas las edades
+> "Cuando se gira la estrella en posición vertical y la punta superior corresponde a la parte inferior, significa la caída de la estrella de la mañana".-Manly P. Hall, Las enseñanzas secretas de todas las edades
 
-Después de establecer este hecho, se puede solucionar fácilmente el enigma de la luz y la sombra. Lucifer, el portador de la luz, se considera la fuente de luz del universo. La figura que representa Jesucristo bloquea la fuente de luz en la Tierra y por tanto lo que significa que el cristianismo tiene un efecto de oscurecimiento en la humanidad. Así que esta configuración, que al parecer celebra la venida de Cristo sobre la Tierra representa en realidad todo lo contrario.
+Después de establecer este hecho, se puede solucionar fácilmente el enigma de la luz y la sombra. Lucifer, el portador de la luz, se considera la fuente de luz del universo. La figura que representa Jesucristo bloquea la fuente de luz en la Tierra y por tanto significa que el cristianismo tiene un efecto de oscurecimiento en la humanidad. Así que esta configuración, que al parecer celebra la venida de Cristo sobre la Tierra representa en realidad todo lo contrario.
 
   
 
@@ -196,7 +196,7 @@ Después de establecer este hecho, se puede solucionar fácilmente el enigma de 
 
   
 
-A lo largo de la historia, todas las corrientes espirituales han considerado a la luz como la última representación del bien, la verdad, la belleza, el conocimiento y la sabiduría divina. En todo el arte religioso, la fuente de luz es de suma importancia. Algunos ex-Mormones han afirmado que el IJSÚD adora a Lucifer en formas sutiles pero engañosas. El simbolismo en el lugar corroboran sus testimonios.
+A lo largo de la historia, todas las corrientes espirituales han considerado a la luz como la última representación del bien, la verdad, la belleza, el conocimiento y la sabiduría divina. En todo el arte religioso, la fuente de luz es de suma importancia. Algunos exmormones han afirmado que el IJSÚD adora a Lucifer en formas sutiles pero engañosas. El simbolismo en el lugar corrobora sus testimonios.
 
   
 
@@ -208,11 +208,11 @@ A lo largo de la historia, todas las corrientes espirituales han considerado a l
 
   
 
-Otra característica extraña del centro de visitantes es la disposición anterior: Adán y Eva se arrodillan delante de un altar que tiene fruta en él. Se trata de una referencia al Génesis IV, que describe las ofrendas de Caín y Abel a Dios.  
+Otra característica extraña del centro de visitantes es la disposición anterior: Adán y Eva se arrodillan delante de un altar que tiene fruta en él. Se trata de una referencia al Génesis 4, que describe las ofrendas de Caín y Abel a Dios.  
 
-> 1 - El hombre se unió a Eva, su mujer, y ella concibió y dio a luz a Caín. Entonces dijo: "He procreado un varón, con la ayuda del Señor".2 - Más tarde dio a luz a Abel, el hermano de Caín, Abel fue pastor de ovejas y Caín agricultor.3 - Al cabo de un tiempo, Caín presentó como ofrenda al Señor algunos frutos del suelo,4 - mientras que Abel le ofreció las primicias y lo mejor de su rebaño. El Señor miró con agrado a Abel y su ofrenda,5 - pero no miró a Caín ni su ofrenda. Caín se mostró muy resentido y agachó la cabeza.6 - El Señor le dijo: "¿Por qué estás resentido y tienes la cabeza baja?7 - Si obras bien podrás mantenerla erguida; si obras mal, el pecado está agazapado a la puerta y te acecha, pero tú debes dominarlo".8 - Caín dijo a su hermano Abel: "Vamos afuera". Y cuando estuvieron en el campo, se abalanzó sobre su hermano y lo mató.-Génesis, capítulo IV
+> 1 - El hombre se unió a Eva, su mujer, y ella concibió y dio a luz a Caín. Entonces dijo: "He procreado un varón, con la ayuda del Señor".2 - Más tarde dio a luz a Abel, el hermano de Caín, Abel fue pastor de ovejas y Caín agricultor.3 - Al cabo de un tiempo, Caín presentó como ofrenda al Señor algunos frutos del suelo,4 - mientras que Abel le ofreció las primicias y lo mejor de su rebaño. El Señor miró con agrado a Abel y su ofrenda,5 - pero no miró a Caín ni su ofrenda. Caín se mostró muy resentido y agachó la cabeza.6 - El Señor le dijo: "¿Por qué estás resentido y tienes la cabeza baja?7 - Si obras bien podrás mantenerla erguida; si obras mal, el pecado está agazapado a la puerta y te acecha, pero tú debes dominarlo".8 - Caín dijo a su hermano Abel: "Vamos afuera". Y cuando estuvieron en el campo, se abalanzó sobre su hermano y lo mató.-Génesis 4:1-8
 
-Para resumir la historia, Caín y Abel fueron los hijos de Adán y Eva. Abel estuvo a cargo de las ovejas, mientras que Caín tomó el cuidado de la tierra. Cuando llegó el momento para dar ofrendas a Dios, Abel mató a un cordero en sacrificio mientras que Caín dio los frutos de la tierra. Dios acepto el regalo de Abel pero rechazo los frutos de Cain (la razón para esto es confusa). Caín entonces cayó en tentación y, en definitiva, mató a su hermano.  
+Para resumir la historia, Caín y Abel fueron los hijos de Adán y Eva. Abel estuvo a cargo de las ovejas, mientras que Caín tomó el cuidado de la tierra. Cuando llegó el momento para dar ofrendas a Dios, Abel mató a un cordero en sacrificio mientras que Caín dio los frutos de la tierra. Dios aceptó el regalo de Abel pero rechazó los frutos de Caín (la razón para esto es confusa). Caín entonces cayó en tentación y, en definitiva, mató a su hermano.  
   
 La escultura muestra a la iglesia Mormona retratando a Adán y Eva ofreciendo fruta a Dios mientras un cordero (regalo de Abel) se sienta allí vivo y disfrutando de su estado no sacrificado. Uno no puede dejar de preguntarse: ¿Qué representa esta pieza si no es una sensación de resentimiento (incluso un desafío) hacia un Dios cruel e injusto? ¿Por qué nos retratan la ofrenda de Caín, que fue rechazada por Dios? El significado de esta disposición cae justo en las creencias de los luciferianos, que ven a Dios como un tirano testarudo. Las figuras bíblicas y mitológicas que desafían a Dios se celebran por la doctrina luciferiana. Lucifer, el portador de la luz se considera el oculto Salvador de la humanidad que trajo el regalo de la piedad a los seres humanos.
 
@@ -224,12 +224,12 @@ La escultura muestra a la iglesia Mormona retratando a Adán y Eva ofreciendo fr
 
   
 
-Situado en la esquina del State St. y el Templo del Sur, la puerta del águila que esta incluso con otra aparición de un pentagrama invertido. EN el podemos encontrar una enorme águila de 200 libras arañando un panal de abejas, el símbolo de Utah, del Mormonismo y coincidentemente un símbolo importante de la Masonería.
+Situado en la esquina del State St. y el Templo del Sur, la puerta del águila, que incluso presenta otra aparición de un pentagrama invertido. En ella podemos encontrar una enorme águila de 200 libras arañando un panal de abejas, el símbolo de Utah, del Mormonismo y coincidentemente un símbolo importante de la Masonería.
 
   
 
 ## Para Concluir
 
-Este artículo apenas araña la superficie en los símbolos ocultos en la Plaza del Templo. Hay numerosos conceptos esotéricos que pueden estudiarse como piscinas reflectantes (que encarnan la noción del "Como es Arriba es Abajo"), fálicas y yonic símbolos, referencias astronómicas a Saturno y muchos más. Sin siquiera tener conocimiento previo de la historia, la filosofía o creencias de los Mormones, una persona alfabetizada en los símbolo puede comprender la intención principal de esta iglesia leyendo el significado de su arte. Los rituales, los símbolos y el modus operandi de los Mormones se levantan directamente de la Masonería del rito escocés. El significado oculto del arte en la Plaza del Templo incorpora una mezcla de sutil y subversiva simbología pagana que celebra la adoración de Lucifer.  
+Este artículo apenas araña la superficie en los símbolos ocultos en la Plaza del Templo. Hay numerosos conceptos esotéricos que pueden estudiarse como piscinas reflectantes (que encarnan la noción del "Como es Arriba es Abajo"), símbolos fálicos y yónicos, referencias astronómicas a Saturno y muchos más. Sin siquiera tener conocimiento previo de la historia, la filosofía o creencias de los Mormones, una persona alfabetizada en los símbolos puede comprender la intención principal de esta iglesia leyendo el significado de su arte. Los rituales, los símbolos y el modus operandi de los Mormones se levantan directamente de la Masonería del rito escocés. El significado oculto del arte en la Plaza del Templo incorpora una mezcla de sutil y subversiva simbología pagana que celebra la adoración de Lucifer.  
   
-No pretendo ser un especialista del Mormonismo o de Joseph Smith Jr., el Profeta Mormón. He tratado de permanecer tan imparcial como sea posible en la investigación y la composición de este artículo. Sin embargo, sé que las escrituras advierten al mundo de falsos profetas, y de lo que he concluido, Joseph Smith es tan falso como es posible. Manténgase vigilantes.
+No pretendo ser un especialista del Mormonismo o de Joseph Smith Jr., el Profeta Mormón. He tratado de permanecer tan imparcial como sea posible en la investigación y la composición de este artículo. Sin embargo, sé que las Escrituras advierten al mundo de falsos profetas, y de lo que he concluido, Joseph Smith es tan falso como es posible. Manténganse vigilantes.

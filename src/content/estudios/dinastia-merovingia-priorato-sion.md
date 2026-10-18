@@ -5,11 +5,11 @@ updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "dinastia-merovingia-priorato-sion"
 redirectFrom: "/2018/02/dinastia-merovingia-priorato-sion.html"
-description: "Se dice que el Priorato de Sion (también el Prieure de Sion) es la \"sociedad secreta de las sociedades\" (1). Baigent, Leigh y Lincoln, autores de un aclamado…"
+description: "Se dice que el Priorato de Sión (también el Prieure de Sion) es la \"sociedad secreta de las sociedades\" (1). Baigent, Leigh y Lincoln, autores de un aclamado…"
 tags: ["Sociedad"]
 ---
 
-Se dice que el **Priorato de Sion** (también el Prieure de Sion) es la "**sociedad secreta** de las sociedades" **(1)**. Baigent, Leigh y Lincoln, autores de un aclamado libro, _Holy Blood, Holy Grail_, escriben que la hermandad del Priorato de Sion se ha conservado durante dos milenios.
+Se dice que el **Priorato de Sión** (también el Prieure de Sion) es la "**sociedad secreta** de las sociedades" **(1)**. Baigent, Leigh y Lincoln, autores de un aclamado libro, _Holy Blood, Holy Grail_, escriben que la hermandad del Priorato de Sión se ha conservado durante dos milenios.
 
   
 
@@ -18,13 +18,13 @@ Se dice que el **Priorato de Sion** (también el Prieure de Sion) es la "**soc
   
 
   
-Se dice que el linaje real de la Dinastía Merovingia de Francia es el protector de la secta, que se jacta de que es el linaje real de Jesús. La asombrosa afirmación es que Jesús y María Magdalena estaban casados ​​y tenían hijos, y de este linaje algún día surgirá un hombre que se convertirá en el gobernante del planeta Tierra.
+Se dice que el linaje real de la Dinastía Merovingia de Francia es el protector de la secta, que se jacta de que es el linaje real de Jesús. La asombrosa afirmación es que Jesús y María Magdalena estaban casados y tenían hijos, y de este linaje algún día surgirá un hombre que se convertirá en el gobernante del planeta Tierra.
 
   
 
 ## El Santo Grial
 
-Atado con esta leyenda no bíblica, incluso blasfema, están los cuentos del Santo Grial y la Lanza de Longinus. Algunos enseñan que cuando la sangre de Jesús se derramó de su cuerpo en la cruz, fue recogida en la copa del Santo Grial. Esotéricamente eso haría que el Santo Grial, si existe, sea mágico y capaz de grandes milagros.
+Ligados a esta leyenda no bíblica, incluso blasfema, están los cuentos del Santo Grial y la Lanza de Longinus. Algunos enseñan que cuando la sangre de Jesús se derramó de su cuerpo en la cruz, fue recogida en la copa del Santo Grial. Esotéricamente eso haría que el Santo Grial, si existe, sea mágico y capaz de grandes milagros.
 
   
 
@@ -32,9 +32,9 @@ Una variación de esta historia es que el Santo Grial fue el recipiente de Jesú
 
   
 
-## La lanza de longinus
+## La lanza de Longinus
 
-La Lanza de Longinus es otra leyenda relacionada con el Priorato de Sion. Sostiene que un centurión romano llamado Longino fue el que empujó su lanza en el costado de Jesús en la crucifixión. Se dice que parte de la sangre de Jesús cayó sobre él y se produjeron milagros. Por lo tanto, nuevamente, se creó un talismán mágico: la Lanza de Longinus.
+La Lanza de Longinus es otra leyenda relacionada con el Priorato de Sión. Sostiene que un centurión romano llamado Longino fue el que clavó su lanza en el costado de Jesús en la crucifixión. Se dice que parte de la sangre de Jesús cayó sobre él y se produjeron milagros. Por lo tanto, nuevamente, se creó un talismán mágico: la Lanza de Longinus.
 
   
 
@@ -42,11 +42,11 @@ A lo largo de la historia, los tiranos malvados, incluidos Napoleón y Hitler, h
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
-William Cooper, cuyo libro, _Behold a Pale Horse_, y sus revelaciones en su programa de radio nacional enojó tanto a la élite que pusieron un contrato a su vida, a veces mencionó la Lanza del Destino. **(2)**
+William Cooper, cuyo libro, _Behold a Pale Horse_, y sus revelaciones en su programa de radio nacional enojaron tanto a la élite que pusieron precio a su cabeza, a veces mencionó la Lanza del Destino. **(2)**
 
   
 
@@ -60,9 +60,9 @@ Cooper fue asesinado por un equipo combinado de la policía federal y local que 
 
 ## La lanza como pentagrama y Trueno
 
-La lanza es un símbolo de reputación de larga data en las antiguas religiones paganas y misteriosas. En la religión egipcia, se llamaba la Flecha de Re, o Ra, el Dios Sol, que también se llamaba Horus, hijo de Osiris y su reencarnación, que tenía el **[ojo que todo lo ve](http://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html)**.  
+La lanza es un símbolo de larga data en las antiguas religiones paganas y misteriosas. En la religión egipcia, se llamaba la Flecha de Re, o Ra, el Dios Sol, que también se llamaba Horus, hijo de Osiris y su reencarnación, que tenía el **[ojo que todo lo ve](http://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html)**.  
   
-Anton LaVey, en su libro _Satan Speaks_, señala que el signo de la lanza es en realidad el pentagrama invertido.4 A su vez, el pentagrama **(4)** (la estrella satánica de cinco puntas), según LaVey, representa:
+Anton LaVey, en su libro _Satan Speaks_, señala que el signo de la lanza es en realidad el pentagrama invertido. A su vez, el pentagrama **(4)** (la estrella satánica de cinco puntas), según LaVey, representa:
 
   
 
@@ -70,7 +70,7 @@ Anton LaVey, en su libro _Satan Speaks_, señala que el signo de la lanza es en 
 
 ## Los rosacruces y el signo de una flecha
 
-Además, la Orden de los Rosacruces parece estar relacionada de alguna manera con la leyenda de la Lanza y el Priorato de Sión. 
+Además, la Orden de los Rosacruces parece estar relacionada de alguna manera con la leyenda de la Lanza y el Priorato de Sión.
 
   
 
@@ -86,7 +86,7 @@ El Signo de la flecha de los Rosacruces es oscuro y perturbador porque el indivi
 
   
 
-Dean Grace, investigador autoritario en simbología y secretos masónicos, cree que al menos algunos discípulos modernos de esta logia negra internacional, el Priorato de Sión, comunican su participación a otros miembros ocultos al dar el Signo de la Lanza. **(7)** 
+Dean Grace, investigador con autoridad en simbología y secretos masónicos, cree que al menos algunos discípulos modernos de esta logia negra internacional, el Priorato de Sión, comunican su participación a otros miembros ocultos al dar el Signo de la Lanza. **(7)**
 
   
 
@@ -94,7 +94,7 @@ En este signo, la punta de la lanza puede ser agudamente angular o puede modific
 
   
 
-La investigación de Grace también indica que el Priorato de Sion está vinculado o tiene algo que ver con el desarrollo de otros grupos ocultos relacionados, como la Orden de los Caballeros Templarios.
+La investigación de Grace también indica que el Priorato de Sión está vinculado o tiene algo que ver con el desarrollo de otros grupos ocultos relacionados, como la Orden de los Caballeros Templarios.
 
 > **"El símbolo de punta de lanza", dice, "es el componente básico de la Cruz Maltesa de cuatro puntas y ocho puntas de la Orden de los Caballeros de Malta". (8)**
 
@@ -140,7 +140,7 @@ El símbolo representado es una punta de lanza superpuesta por una flor de lis m
 
   
 
-Dibujo de la Roca de Sion y el Signo del Priorato de Sion. (Del libro, Holy Blood, Holy Grail)
+Dibujo de la Roca de Sión y el Signo del Priorato de Sión. (Del libro, Holy Blood, Holy Grail)
 
   
 
@@ -148,7 +148,7 @@ Dibujo de la Roca de Sion y el Signo del Priorato de Sion. (Del libro, Holy Bloo
 
   
 
-La Ex Primera Dama Hillary Rodham Clinton, vistiendo un atuendo de campesina "Mao Tse Tung" y un look de moda, dando claramente la señal Baphomet / Priorato de Sion. Esta portada y artículo principal en Time (1 de marzo de 1999) examinó la posible candidatura de Hillary Clinton para el Senado de EE. UU. Del estado de Nueva York en las próximas elecciones (2000).
+La ex primera dama Hillary Rodham Clinton, vistiendo un atuendo de campesina "Mao Tse Tung" y un look de moda, dando claramente la señal Baphomet / Priorato de Sión. Esta portada y artículo principal en Time (1 de marzo de 1999) examinó la posible candidatura de Hillary Clinton para el Senado de EE. UU. del estado de Nueva York en las próximas elecciones (2000).
 
 De hecho, Clinton postuló y ganó. ¿Se mostró la simbología predictiva de su futura postulación exitosa?
 
@@ -158,11 +158,11 @@ De hecho, Clinton postuló y ganó. ¿Se mostró la simbología predictiva de su
 
   
 
-Considerado por los analistas políticos como una de las direcciones más importantes de su carrera política, a fines de agosto de 1998, el presidente Bill Clinton salió a la televisión nacional para dar un mea culpa limitado ("lo siento") por sus indiscreciones sexuales con la joven practicante de la Casa Blanca, Monica Lewinsky.
+Considerado por los analistas políticos como uno de los discursos más importantes de su carrera política, a fines de agosto de 1998, el presidente Bill Clinton salió a la televisión nacional para dar un mea culpa limitado ("lo siento") por sus indiscreciones sexuales con la joven practicante de la Casa Blanca, Monica Lewinsky.
 
   
 
-Arriba: Bill Clinton, triste, frustrado y enojado, se prepara para la sesión fotográfica, con la ayuda de un asociado. Abajo: Justo momentos antes de que las cámaras de televisión se enciendan, Clinton pone su rostro en una actitud sobria y resuelta. Con su signo de la mano de Baphomet / Priorato de Sion, invoca el éxito y las bendiciones del gobernante (Lucifer) y las fuerzas de la oscuridad. (Foto de arriba: Newsweek, 31 de agosto de 1998, p.3; Foto inferior: El periódico europeo, 24-30 de agosto, p.3)  
+Arriba: Bill Clinton, triste, frustrado y enojado, se prepara para la sesión fotográfica, con la ayuda de un asociado. Abajo: Justo momentos antes de que las cámaras de televisión se enciendan, Clinton pone su rostro en una actitud sobria y resuelta. Con su signo de la mano de Baphomet / Priorato de Sión, invoca el éxito y las bendiciones del gobernante (Lucifer) y las fuerzas de la oscuridad. (Foto de arriba: Newsweek, 31 de agosto de 1998, p.3; Foto inferior: El periódico europeo, 24-30 de agosto, p.3)  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCDkFmg8e41MgzQZq0UNkixzwzGPjbm9cJGiOskErcmXhyphenhyphenlNJzIcFs5Y_PtmiM4WRp0Iv8RZY_W72eG0_tHkfOM46aueJslrri5GvmUDGiu_lPXJDwJMJHldROUU5Fj-nYjWQYnUzjpcE/s1600/fcodex_79.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCDkFmg8e41MgzQZq0UNkixzwzGPjbm9cJGiOskErcmXhyphenhyphenlNJzIcFs5Y_PtmiM4WRp0Iv8RZY_W72eG0_tHkfOM46aueJslrri5GvmUDGiu_lPXJDwJMJHldROUU5Fj-nYjWQYnUzjpcE/s1600/fcodex_79.jpg)
@@ -173,9 +173,9 @@ Arriba: Bill Clinton, triste, frustrado y enojado, se prepara para la sesión fo
 
   
 
-Ejecutando otro poco de magia, el presidente Bill Clinton da un signo cabalístico (punta de lanza de Baphomet / Priorato de Sion) mientras es entrevistado a fines de marzo de 1999 por el presentador de CBS News, Dan Rather. Los editores del periódico USA Today aparentemente cumplieron con la petición del elitista de dar la máxima publicidad a la entrevista de Clinton y a esta foto en particular.
+Ejecutando otro poco de magia, el presidente Bill Clinton da un signo cabalístico (punta de lanza de Baphomet / Priorato de Sión) mientras es entrevistado a fines de marzo de 1999 por el presentador de CBS News, Dan Rather. Los editores del periódico USA Today aparentemente cumplieron con la petición del elitista de dar la máxima publicidad a la entrevista de Clinton y a esta foto en particular.
 
-El tema de esta entrevista fue la guerra de EE. UU. Contra Yugoslavia / Serbia, un proyecto clave de los Illuminati para ayudar a marcar el comienzo de su Nuevo Orden Mundial. Clinton invoca las fuerzas de la oscuridad para ayudar a su discurso y mejorar sus poderes de persuasión hipnótica sobre el pueblo estadounidense.  
+El tema de esta entrevista fue la guerra de EE. UU. contra Yugoslavia / Serbia, un proyecto clave de los Illuminati para ayudar a marcar el comienzo de su Nuevo Orden Mundial. Clinton invoca las fuerzas de la oscuridad para ayudar a su discurso y mejorar sus poderes de persuasión hipnótica sobre el pueblo estadounidense.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZKbr1b9fYpiAg1Y1a6qTtefZlRdgT3wVVQhyphenhyphen1mSZxuD-m_C0ywf7M-8Xn9G0RKBVLUgrw4EkioxP4DSSTupVXyjtaCQsPH7isHOGfhj-L-VlS2VOKEFwUXCxZzowscrDI8IF2nyhr0d0/s400/fcodex_81.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZKbr1b9fYpiAg1Y1a6qTtefZlRdgT3wVVQhyphenhyphen1mSZxuD-m_C0ywf7M-8Xn9G0RKBVLUgrw4EkioxP4DSSTupVXyjtaCQsPH7isHOGfhj-L-VlS2VOKEFwUXCxZzowscrDI8IF2nyhr0d0/s1600/fcodex_81.jpg)
@@ -189,7 +189,7 @@ El actor de televisión y películas Scott Bakula (Quantum Leap; Murphy Brown) (
 
   
 
-El vicepresidente Dick Cheney. Su esposa, Lynn, es una escritora de novelas de sexo lésbicas. Su hija es una Lesbiana declarada, ¿y Dick? Bueno... esta fotografía es bastante reveladora.
+El vicepresidente Dick Cheney. Su esposa, Lynn, es una escritora de novelas de sexo lésbicas. Su hija es una lesbiana declarada, ¿y Dick? Bueno... esta fotografía es bastante reveladora.
 
   
 
@@ -217,7 +217,7 @@ Presidente de los EE. UU. James K. Polk (1795-1849)
 
   
 
-Productor David Gest y esposa, la cantante Liza Minelli. Gest, un homosexual, y Minelli ahora están separados y buscan el divorcio.
+Productor David Gest y esposa, la cantante Liza Minnelli. Gest, un homosexual, y Minelli ahora están separados y buscan el divorcio.
 
   
 
@@ -242,7 +242,7 @@ El actor Danny Glover, notorio por su activismo político liberal marxista, env�
 
 La cara de Sam Donaldson ha sido un elemento básico durante muchos años en ABC News. Pero aquí, en esta foto de la revista Smart Business, debemos prestarle atención a las manos de Donaldson.
 
-Esta foto completa de Sam Donaldson no tiene subtítulos ni explicaciones. Obviamente, fue escenificado para el único beneficio de aquellos que saben.  
+Esta foto completa de Sam Donaldson no tiene subtítulos ni explicaciones. Obviamente, fue escenificada para el único beneficio de aquellos que saben.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIsHruLhhGbc7kMXPcsjT4ylGRka3qIP7n2e-EzXtnsAdijTObkXFHhWRO847N6tkhpF4XcgDGrprPU2tqZAi_H56AyqxSE6_R3rMqHKkhPQweGYBbHzy7VjEJokW7DChD6osgOyUcq3E/s1600/fcodex_90.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIsHruLhhGbc7kMXPcsjT4ylGRka3qIP7n2e-EzXtnsAdijTObkXFHhWRO847N6tkhpF4XcgDGrprPU2tqZAi_H56AyqxSE6_R3rMqHKkhPQweGYBbHzy7VjEJokW7DChD6osgOyUcq3E/s1600/fcodex_90.jpg)
@@ -253,7 +253,7 @@ Esta foto completa de Sam Donaldson no tiene subtítulos ni explicaciones. Obvia
 
   
 
-El empresario (y ahora presidente) Donald Trump demuestra su conocimiento del signo de la mano cabalística de Baphomet / Priorato de Sion de los Illuminati en el anuncio (izquierda, arriba) de su exitosa serie de televisión, _The Apprentice_. Luego, en la revista _Clubes Privados_, en junio de 2004, que es leída principalmente por miembros adinerados de clubes de élite. Trump se muestra tres veces, una en la portada y dos adentro, en poses cabalísticas. Análisis: en el centro, arriba, la corbata y las manos de Trump crean una posición sexual de "diamante en el loto", con tres **[triángulos](http://www.ritualypropaganda.com/2017/10/codex-magica-17-triangulos.html)**.  
+El empresario (y ahora presidente) Donald Trump demuestra su conocimiento del signo de la mano cabalística de Baphomet / Priorato de Sión de los Illuminati en el anuncio (izquierda, arriba) de su exitosa serie de televisión, _The Apprentice_. Luego, en la revista _Clubes Privados_, en junio de 2004, que es leída principalmente por miembros adinerados de clubes de élite. Trump se muestra tres veces, una en la portada y dos adentro, en poses cabalísticas. Análisis: en el centro, arriba, la corbata y las manos de Trump crean una posición sexual de "diamante en el loto", con tres **[triángulos](http://www.ritualypropaganda.com/2017/10/codex-magica-17-triangulos.html)**.  
   
 
 La foto de la portada de la revista a la izquierda incluye el factor espejo, el mensaje es que hay dos Trumps, el esotérico y privado "Trump Illuminati" y el "Trump Público" extrovertido y suelto. Finalmente, en la parte superior, a la derecha, también se nos muestra a Donald sentado y dando el signo de el **[triángulo cabalístico](http://www.ritualypropaganda.com/2017/11/codex-18-triangulo-magia.html)** requerido con los dedos de ambas manos tocándose. Este es un signo común de reconocimiento entre los Illuminati.  
@@ -263,7 +263,7 @@ La foto de la portada de la revista a la izquierda incluye el factor espejo, el 
 
   
 
-Whitfield Diffie, altamente aclamado criptógrafo y diseñador de programas de computadora para el Departamento de Defensa y para Sun Microsystem. Su esposa es egiptóloga. David Mayer, una autoridad en simbología y ocultismo, cree que la posición de Diffie es un símbolo tántrico o yoga sexual, también de la Lanza de Longinus del Priorato. (Foto: Omni, Invierno 1995.)
+Whitfield Diffie, altamente aclamado criptógrafo y diseñador de programas de computadora para el Departamento de Defensa y para Sun Microsystems. Su esposa es egiptóloga. David Mayer, una autoridad en simbología y ocultismo, cree que la posición de Diffie es un símbolo tántrico o yoga sexual, también de la Lanza de Longinus del Priorato. (Foto: Omni, Invierno 1995.)
 
   
   
@@ -274,6 +274,6 @@ Whitfield Diffie, altamente aclamado criptógrafo y diseñador de programas de c
 3.  Ibídem.
 4.  Anton LaVey, Satán Habla (Los Angeles: Feral House, 1998), p. 32
 5.  Ibídem.
-6.  D.C Yermak, El Eje de la Muerte: El Vaticano, la Masonería, el Sionismo, los Enemigos de Dios (Grecia).
+6.  D. C. Yermak, El Eje de la Muerte: El Vaticano, la Masonería, el Sionismo, los Enemigos de Dios (Grecia).
 7.  Dean Grace, carta a Texe Marrs, 20 de junio de 2001.
 8.  Ibídem.

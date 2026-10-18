@@ -1,5 +1,5 @@
 ---
-title: "El Significado De \"X-Men: Apocalipsis\" Y Como Se Reescriben Las Profecias Bíblicas"
+title: "El Significado De \"X-Men: Apocalipsis\" Y Cómo Se Reescriben Las Profecías Bíblicas"
 date: "2016-06-21"
 updated: "2023-07-21"
 author: "Jhonkbn"
@@ -15,22 +15,22 @@ La nueva película de los **X-Men Apocalipsis** utiliza la premisa del "primer m
 [![imagen promocional de xmen apocalipsis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ-UqJ_rXCgHG9Iosgj5-KchKFZEfmEvhZszqEh2ZaPpJ5iQqkqrc2i1448iKYR-xue_2m9ltXWEZ9SDIEalpZ_dVCHfN3t60_brOyGDLsm1LxKEr5U9Q7XmamxPcMjk5ZXHm1RNJQklo/s1600/x-men-apocalipsis-illuminati.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ-UqJ_rXCgHG9Iosgj5-KchKFZEfmEvhZszqEh2ZaPpJ5iQqkqrc2i1448iKYR-xue_2m9ltXWEZ9SDIEalpZ_dVCHfN3t60_brOyGDLsm1LxKEr5U9Q7XmamxPcMjk5ZXHm1RNJQklo/s1600/x-men-apocalipsis-illuminati.jpg)
 
   
-Escrito por el apóstol Juan con el fin de narrar los eventos de los últimos tiempos, el libro de Apocalipsis encierra muchos escenarios y alegorías para explicar el juicio de Dios sobre la Tierra. En este libro se marca el fin de la maldad en la Tierra mediante catástrofes y cataclismos que según el mismo Jesús, fueron revelados por Dios para que no permanezcamos ignorantes de los eventos por venir. Curiosamente, la palabra Apocalipsis procede del término griego A·po·ká·ly·psis, que significa “quitar la cubierta” o “develar (quitar el velo)”.
+Escrito por el apóstol Juan con el fin de narrar los eventos de los últimos tiempos, el libro de Revelación encierra muchos escenarios y alegorías para explicar el juicio de Dios sobre la Tierra. En este libro se marca el fin de la maldad en la Tierra mediante catástrofes y cataclismos que según el mismo Jesús, fueron revelados por Dios para que no permanezcamos ignorantes de los eventos por venir. Curiosamente, la palabra apocalipsis procede del término griego A·po·ká·ly·psis, que significa “quitar la cubierta” o “develar (quitar el velo)”.
 
   
 
-**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
+**Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
   
-Debido a su importancia profética, el libro de Apocalipsis tiene la capacidad de exponer el plan de Lúcifer, y en el camino, la agenda terrenal de sus seguidores. Como se ha visto en diversos artículos, estamos hablando de sociedades secretas, escuelas místicas, religiones gnósticas y toda organización ocultista que exalta la figura de este ángel caído como su Dios. La película de Bryan Singer utiliza el concepto del final de los tiempos para promover nuevamente, un evangelio luciferiano y gnóstico a la masas.  
+Debido a su importancia profética, el libro de Revelación tiene la capacidad de exponer el plan de Lúcifer, y en el camino, la agenda terrenal de sus seguidores. Como se ha visto en diversos artículos, estamos hablando de sociedades secretas, escuelas místicas, religiones gnósticas y toda organización ocultista que exalta la figura de este ángel caído como su Dios. La película de Bryan Singer utiliza el concepto del final de los tiempos para promover nuevamente, un evangelio luciferiano y gnóstico a las masas.  
   
-En el artículo **[El Significado Esotérico de X-Men Días Del Futuro Pasado y La Agenda Homosexual](http://www.ritualypropaganda.com/2014/06/el-significado-esoterico-de-x-men-dias.html)** se escribió sobre como los mutantes impulsaban el **[movimiento LGTB](http://www.ritualypropaganda.com/2013/07/existe-una-conspiracion-detras-del.html)** junto con un claro mensaje anti cristiano. Los elementos en la historia también favorecían a la agenda de experimentos genéticos y la redención de seres demonizados, practicamente idealizados como héroes. En la secuela de este film analizaremos como la trama evoluciona en el juego de Dios como villano y Satanás/Lúcifer como salvador de la humanidad.
+En el artículo **[El Significado Esotérico de X-Men Días Del Futuro Pasado y La Agenda Homosexual](http://www.ritualypropaganda.com/2014/06/el-significado-esoterico-de-x-men-dias.html)** se escribió sobre cómo los mutantes impulsaban el **[movimiento LGTB](http://www.ritualypropaganda.com/2013/07/existe-una-conspiracion-detras-del.html)** junto con un claro mensaje anti cristiano. Los elementos en la historia también favorecían a la agenda de experimentos genéticos y la redención de seres demonizados, prácticamente idealizados como héroes. En la secuela de este film analizaremos cómo la trama evoluciona en el juego de Dios como villano y Satanás/Lúcifer como salvador de la humanidad.
 
   
 
 ## El Culto al Dios Egipcio
 
-_En Sabah Nur_, que significa "el primero", (Dios menciona "yo soy el primero y el último") se presenta como un dios del antiguo Egipto. Él es el primer mutante, exaltado por sus poderes sobrehumanos, entre ellos el edificar construcciones con la mente. El los avances de la primera película se ve como este "dios" construye una pirámide, símbolo que es replicado en la actualidad por la masonería y se encuentra detrás del billete de un dolar.  
+_En Sabah Nur_, que significa "el primero", (Dios menciona "yo soy el primero y el último") se presenta como un dios del antiguo Egipto. Él es el primer mutante, exaltado por sus poderes sobrehumanos, entre ellos el edificar construcciones con la mente. En los avances de la primera película se ve como este "dios" construye una pirámide, símbolo que es replicado en la actualidad por la masonería y se encuentra detrás del billete de un dólar.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ElwG7g-JQDz7mirT2hOnr9KHWmSdoDe054eQdes4uryXPV7CYR7nhbHXo1ChlqerzBU6sNoevPl6I0dJjaFy8_-IPC93DwQ9Kptu-fRl5ylBID_GeeFwXNRy9jgCN5Zm9efN-oQo5-Y/s1600/piramide-apicalipsis.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ElwG7g-JQDz7mirT2hOnr9KHWmSdoDe054eQdes4uryXPV7CYR7nhbHXo1ChlqerzBU6sNoevPl6I0dJjaFy8_-IPC93DwQ9Kptu-fRl5ylBID_GeeFwXNRy9jgCN5Zm9efN-oQo5-Y/s1600/piramide-apicalipsis.jpg)
@@ -50,15 +50,15 @@ _En Sabah Nur_, que significa "el primero", (Dios menciona "yo soy el primero y 
 **El Ojo de Horus (aka Ojo de Lúcifer) aparece en la introducción de la película, justo frente a una gran "X".**
 
   
-En la historia _En Sabah Nur_ (Apocalipsis) es traicionado por un grupo disidente durante el ritual y es sepultado por dos mil años bajo la ciudad de Egipto. En 1984 es liberado de su prisión gracias a una sociedad secreta que encuentra su ubicación y es "resucitado". Noten el inicio del paralelismo con la segunda venida de Cristo, la cuál se hará más evidente por los eventos que desencadenan su despertar.  
+En la historia _En Sabah Nur_ (Apocalipsis) es traicionado por un grupo disidente durante el ritual y es sepultado por dos mil años bajo la ciudad de Egipto. En 1984 es liberado de su prisión gracias a una sociedad secreta que encuentra su ubicación y es "resucitado". Noten el inicio del paralelismo con la segunda venida de Cristo, la cual se hará más evidente por los eventos que desencadenan su despertar.  
   
 
 ## Dios como el Antagonista
 
-Mientras esto tiene lugar, la agente de la CIA Moira MacTaggert, descubre los planes de esta sociedad para traer de vuelta a su deidad. En su encuentro con el profesor Xavier, ella explica la connotación religiosa de este mutante en la actualidad. En sus misma palabras, él es una síntesis del sistema religioso mundial.  
+Mientras esto tiene lugar, la agente de la CIA Moira MacTaggert, descubre los planes de esta sociedad para traer de vuelta a su deidad. En su encuentro con el profesor Xavier, ella explica la connotación religiosa de este mutante en la actualidad. En sus mismas palabras, él es una síntesis del sistema religioso mundial.  
   
 
-> _**Moira MacTaggert:** Desde que el mundo se enteró de los mutantes, han habido sociedades secretas que los consideran como un segundo advenimiento o señal de Dios. Creen que hace decenas de años nació un ser antiguo, el primer mutante. Donde quiera que estaba siempre tenia cuatro seguidores que influía en poder.__**Alex Summers:** Como los cuatro jinetes del Apocalipsis. Eso lo sacó de la Biblia.__**Moira MacTaggert:** O la Biblia lo sacó de él._
+> _**Moira MacTaggert:** Desde que el mundo se enteró de los mutantes, han habido sociedades secretas que los consideran como un segundo advenimiento o señal de Dios. Creen que hace decenas de años nació un ser antiguo, el primer mutante. Donde quiera que estaba siempre tenía cuatro seguidores que influía en poder.__**Alex Summers:** Como los cuatro jinetes del apocalipsis. Eso lo sacó de la Biblia.__**Moira MacTaggert:** O la Biblia lo sacó de él._
 
   
 
@@ -67,7 +67,7 @@ Incorporando a la Biblia dentro de la narrativa, el film expone a Dios como part
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOIaEMV4kro4Hv6LetU8fxsfKIz5Qq6NKbsDoGvFq-6I28nMH7AmtQII_vK1qRHJ_fjpXQHjPG7Z6Ufp4rs5vguO12Gkyf8KtP9P4fDX7NbhRivbVMMr_ay3VnJ1Gj_ybgpijJ7VpL8rU/s1600/apocalipsis-xmen.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOIaEMV4kro4Hv6LetU8fxsfKIz5Qq6NKbsDoGvFq-6I28nMH7AmtQII_vK1qRHJ_fjpXQHjPG7Z6Ufp4rs5vguO12Gkyf8KtP9P4fDX7NbhRivbVMMr_ay3VnJ1Gj_ybgpijJ7VpL8rU/s1600/apocalipsis-xmen.jpg)
 
-_**En Sabah Nur**_ **reclutando al primer "jinete". Los triángulos de la ventana incluyen el mensaje esotérico de "como es arriba es abajo".**  
+_**En Sabah Nur**_ **reclutando al primer "jinete". Los triángulos de la ventana incluyen el mensaje esotérico de "como es arriba es abajo".**  
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWX4KsjN7M3wQSzupi0D1r1CYv5EOaLlFZDmu7dIgqWoYJUT6RwJAaB9xzKlQTgI-5NJdHFQcVQmdshU5jw2TwvRi4BjU3lHdOCGCKaSH49gu4Qzy3dxELPpvmah_8tzpCAraQJUpSr70/s1600/apocalipsis-dios.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWX4KsjN7M3wQSzupi0D1r1CYv5EOaLlFZDmu7dIgqWoYJUT6RwJAaB9xzKlQTgI-5NJdHFQcVQmdshU5jw2TwvRi4BjU3lHdOCGCKaSH49gu4Qzy3dxELPpvmah_8tzpCAraQJUpSr70/s1600/apocalipsis-dios.jpg)
 
@@ -77,27 +77,27 @@ _**En Sabah Nur**_ **reclutando al primer "jinete". Los triángulos de la venta
 Una vez que la figura mesiánica se manifiesta a la humanidad, el concepto de Dios se hace más evidente en cuanto a paralelismos y distorsiones del mensaje bíblico. Apocalipsis es arrogante, malvado y nada compasivo. Estos adjetivos son atribuidos al carácter de Dios mientras se proclama la deidad absoluta de todas las religiones. Existen dos citas muy interesantes que el personaje menciona:  
   
 
-> _"Me han llamado de diferentes formas durante mis muchas vidas, Ra, Krishna, Yhavé"_
+> _"Me han llamado de diferentes formas durante mis muchas vidas, Ra, Krishna, Yahvé"_
 
   
-Incorporando a los dioses de Egipto, la india y el cristianismo, el mensaje ecuménico degrada la Biblia y presenta lo que esta misma advierte sobre el final de los tiempos y la unificación de las religiones, posiblemente por algún tipo de "revelación" celestial. No muy lejana a la revelación ficticia del primer mutante como dios. En un segundo enunciado este menciona:  
+Incorporando a los dioses de Egipto, la India y el cristianismo, el mensaje ecuménico degrada la Biblia y presenta lo que esta misma advierte sobre el final de los tiempos y la unificación de las religiones, posiblemente por algún tipo de "revelación" celestial. No muy lejana a la revelación ficticia del primer mutante como dios. En un segundo enunciado este menciona:  
 
 > _"Todos ustedes son mis hijos, y están perdidos porque siguen a líderes ciegos."_
 
   
 
-En el libro de Corintios podemos leer:  
+En 2 Corintios podemos leer:  
 
-> **"Entonces yo los recibiré y seré un Padre para ustedes, y ustedes serán mis hijos y mis hijas, dice el Señor todopoderoso."** 
+> **"Entonces yo los recibiré y seré un Padre para ustedes, y ustedes serán mis hijos y mis hijas, dice el Señor todopoderoso."**
 
-> **\- 1 de Corintios 6:18**
+> **\- 2 Corintios 6:18**
 
-> **"Miren cuánto nos ama Dios el Padre, que se nos puede llamar hijos de Dios, y lo somos. Por eso, los que son del mundo no nos conocen, pues no han conocido a Dios."** 
+> **"Miren cuánto nos ama Dios el Padre, que se nos puede llamar hijos de Dios, y lo somos. Por eso, los que son del mundo no nos conocen, pues no han conocido a Dios."**
 
 > **\- 1 Juan 3:1**
 
   
-La repetición de este término en la película es una referencia directa al término "hijo de Dios" muy usado por Jesús para referirse a quienes creen en su mensaje y aceptan a Dios como Padre. El mutante Apocalipsis integra al Dios cristiano y su juicio del final de los tiempos para mostrarnos una imagen cruel en busca del exterminio. 
+La repetición de este término en la película es una referencia directa al término "hijo de Dios" muy usado por Jesús para referirse a quienes creen en su mensaje y aceptan a Dios como Padre. El mutante Apocalipsis integra al Dios cristiano y su juicio del final de los tiempos para mostrarnos una imagen cruel en busca del exterminio.
 
   
 
@@ -106,18 +106,18 @@ La repetición de este término en la película es una referencia directa al té
 **Una imagen de Jesús es mostrada en la introducción del título del film. Si bien se está tratando de representar los dos mil años de historia que han transcurrido, los elementos cuentan con un alto simbolismo esotérico.**
 
   
-En otra parte de la película _En Sabah Nur_ le dice al mundo:  
+En otra parte de la película _En Sabah Nur_ le dice al mundo:  
 
 > _"No más dioses falsos."_
 
-El libro de Levítico menciona: 
+El libro de Levítico menciona:
 
 > **"No adoren a dioses falsos, ni se fabriquen ídolos de metal fundido. Yo soy el Dios de Israel."**
 
 > **\- Levítico 19:4**
 
   
-Es interesante como los films luciferinos reflejan la lucha de la dualidad desde su perspectiva invertida. El mutante Arcangel tiene una pelea forzada con Nigthcrawler, a primera instancia uno luce como un ángel y el otro como un demonio, pero a través de los arquetipos el film expone la figura angelical como el villano y al demonio como alguien más compasivo que es obligado a pelear. Escenas más tarde ambos terminan en diferentes bandos y por supuesto, Arcangel se convierte en uno de loa 4 jinetes del mutante Apocalipsis.  
+Es interesante como los films luciferinos reflejan la lucha de la dualidad desde su perspectiva invertida. El mutante Arcángel tiene una pelea forzada con Nightcrawler, a primera instancia uno luce como un ángel y el otro como un demonio, pero a través de los arquetipos el film expone la figura angelical como el villano y al demonio como alguien más compasivo que es obligado a pelear. Escenas más tarde ambos terminan en diferentes bandos y por supuesto, Arcángel se convierte en uno de los 4 jinetes del mutante Apocalipsis.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN8ZFVXsjK1tHDUNCPKz_bMQtJVTQhrgom5CN_zlG5IPcvYWwxRc5eM3WTzbpRHgnqwDiytQXlXtRBbLDHokKPWBSZVB495TQVSK3HCbuYQ-qD5to-0iTH1b4jw1YaKagPQC3WYJZSQUo/s1600/nigthcrawlervsarcangel.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN8ZFVXsjK1tHDUNCPKz_bMQtJVTQhrgom5CN_zlG5IPcvYWwxRc5eM3WTzbpRHgnqwDiytQXlXtRBbLDHokKPWBSZVB495TQVSK3HCbuYQ-qD5to-0iTH1b4jw1YaKagPQC3WYJZSQUo/s1600/nigthcrawlervsarcangel.png)
@@ -128,17 +128,17 @@ Es interesante como los films luciferinos reflejan la lucha de la dualidad desde
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDXfcntc7UOvgXe9LU3mgFOHyHojVICC2O0dhKhufDWsQ2NAq6buNdIz3E5sbmSfwDUtxxtFE3vpsYtT_SJ1PRiq6l8TaK25wYptMX7IQQpXEk57BKlzXMLxuYt3rEk9ogQnMBOMw-HSE/s1600/angel-xmen.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDXfcntc7UOvgXe9LU3mgFOHyHojVICC2O0dhKhufDWsQ2NAq6buNdIz3E5sbmSfwDUtxxtFE3vpsYtT_SJ1PRiq6l8TaK25wYptMX7IQQpXEk57BKlzXMLxuYt3rEk9ogQnMBOMw-HSE/s1600/angel-xmen.png)
 
-En el arte conceptual de la película se incluye la imagen de Arcangel, que es obviamente uno de los ángeles de Dios.
+En el arte conceptual de la película se incluye la imagen de Arcángel, que es obviamente uno de los ángeles de Dios.
 
   
 
-Debemos saber que el trasfondo religioso está simplemente para ser ridiculizado, y en su lugar se trata de impulsar la propaganda darwiniana de la evolución, contraria a la creación bíblica y las enseñanzas de Jesúcristo. Toda esta idea de la evolución humana o la "raza superior" es estricta del humanismo luciferino: la falsa idea de que la humanidad es una divinidad en proceso de activar su "cristo interno" o la conciencia del cristo, la auto- salvación gnóstica, etcétera.
+Debemos saber que el trasfondo religioso está simplemente para ser ridiculizado, y en su lugar se trata de impulsar la propaganda darwiniana de la evolución, contraria a la creación bíblica y las enseñanzas de Jesucristo. Toda esta idea de la evolución humana o la "raza superior" es propia del humanismo luciferino: la falsa idea de que la humanidad es una divinidad en proceso de activar su "cristo interno" o la conciencia del cristo, la autosalvación gnóstica, etcétera.
 
   
 
 ## El Juicio Final del Demiurgo
 
-El gran plan del dios Apocalipsis es traer el fin del mundo, y como sugiere la agente de la CIA, Moira Mactaggert, la Biblia fue escrita a causa de él. Esto quiere decir que se está cumpliendo la profecía bíblica del final de los tiempos, ejecutado por el primer mutante mediante un plan masivo de eugenesia, donde solo los más fuertes (los mutantes/sus hijos) vivirán. Esta trama inserta dos ideas principales:  
+El gran plan del dios Apocalipsis es traer el fin del mundo, y como sugiere la agente de la CIA, Moira MacTaggert, la Biblia fue escrita a causa de él. Esto quiere decir que se está cumpliendo la profecía bíblica del final de los tiempos, ejecutado por el primer mutante mediante un plan masivo de eugenesia, donde solo los más fuertes (los mutantes/sus hijos) vivirán. Esta trama inserta dos ideas principales:  
   
 1\. El juicio de Dios es injusto y debe detenerse.  
 2\. Los que creen en su mensaje (los cristianos) son seres intolerantes y engañados.  
@@ -149,7 +149,7 @@ El gran plan del dios Apocalipsis es traer el fin del mundo, y como sugiere la a
 **Jean Grey tiene una profecía en sueños donde ve el fin del mundo. En su almohada se ven dibujos alegóricos a los cuatro jinetes y el juicio final.**
 
   
-El sueño de Jean muestra imágenes tipo flash de catástrofes reales por todo el mundo. La instigación del miedo a la muerte es un elemento que muchas películas utilizan para rechazar las verdades proféticas de la Biblia. Millones son condicionados a temer a los eventos del libro de Apocalipsis, ninguno es motivado a entender el mensaje de salvación del mismo.  
+El sueño de Jean muestra imágenes tipo flash de catástrofes reales por todo el mundo. La instigación del miedo a la muerte es un elemento que muchas películas utilizan para rechazar las verdades proféticas de la Biblia. Millones son condicionados a temer a los eventos del libro de Revelación, ninguno es motivado a entender el mensaje de salvación del mismo.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdKw-7U9av-csUSbdBav6b9bPznUiste6jvIdKupdkQHdJcwBXCGLD3x7oZ7EN227pRL4O1cK9lkojwRdc1ZR44_AT41NEXHN7AP32ROuPiXC1XpM6UISUXsITeViBqhfeaIwcpdkK0Is/s1600/biblia-4jinetes.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdKw-7U9av-csUSbdBav6b9bPznUiste6jvIdKupdkQHdJcwBXCGLD3x7oZ7EN227pRL4O1cK9lkojwRdc1ZR44_AT41NEXHN7AP32ROuPiXC1XpM6UISUXsITeViBqhfeaIwcpdkK0Is/s1600/biblia-4jinetes.jpg)
@@ -163,7 +163,7 @@ Apocalipsis no solo es un personaje mesiánico oculto, incluso en la visión exo
 > _"Todo lo que ellos construyeron será derrumbado, ¡Y de las cenizas de__su mundo, construiremos uno mejor!"._
 
   
-Cuando termina de reclutar a sus cuatro jinetes, Magneto, Arcángel, Tormenta y Psilock, Apocalipsis utiliza el poder del profesor Xavier para controlar las mentes de los mayores gobiernos mundiales y disparar todas su armamento nuclear al espacio. Mientras se ve como Charles Xavier es manipulado, es interesante que sus ojos se vuelven completamente negros, esto es una manifestación real de casos de posesión demoníaca.  
+Cuando termina de reclutar a sus cuatro jinetes, Magneto, Arcángel, Tormenta y Psylocke, Apocalipsis utiliza el poder del profesor Xavier para controlar las mentes de los mayores gobiernos mundiales y disparar todo su armamento nuclear al espacio. Mientras se ve como Charles Xavier es manipulado, es interesante que sus ojos se vuelven completamente negros, esto es una manifestación real de casos de posesión demoníaca.  
   
 
 > _"Pueden disparar sus flechas desde la torre de Babel, pero jamás podrán herir a Dios."_
@@ -172,24 +172,24 @@ Cuando termina de reclutar a sus cuatro jinetes, Magneto, Arcángel, Tormenta y 
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQMhesXb7JpW2DkmNs-FpFZaiemDypsxkGgfAWflojutKTdZUtdlAY9vP4YuLvWPnGaGSJSopMyggGeStWVLlpsYVyQrLiIqghyKV5681AcclZ8OvWW54mHT2eLeKb70iOWHRz8EfmsBs/s1600/juicio-final.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQMhesXb7JpW2DkmNs-FpFZaiemDypsxkGgfAWflojutKTdZUtdlAY9vP4YuLvWPnGaGSJSopMyggGeStWVLlpsYVyQrLiIqghyKV5681AcclZ8OvWW54mHT2eLeKb70iOWHRz8EfmsBs/s1600/juicio-final.jpg)
 
-**_En Sabah Nur_ desarma a toda la milicia mundial demostrando que Dios no puede ser vencido por simples humanos.**
+**_En Sabah Nur_ desarma a toda la milicia mundial demostrando que Dios no puede ser vencido por simples humanos.**
 
   
-Es curioso como se referencia a la Torre de Babel, una historia del libro de Génesis capítulo 9. En un análisis profundo, podemos leer que la Torre de Babel explica los intentos vagos del hombre por ser más grande que Dios, construyendo una torre que llegue hasta el cielo. Al final de la historia, Dios destruye la torre y confunde las lenguas de sus habitantes dispersándolos por el mundo. En un sentido espiritual, este capítulo descubre las razones de porque Dios debe ejecutar el juicio final y evitar que la maldad siga poblando la Tierra. En la película, el mutante juega al papel de Dios al afirmar que nunca podrán herirlo desde la Torre de Babel.  
+Es curioso cómo se referencia a la Torre de Babel, una historia del libro de Génesis capítulo 11. En un análisis profundo, podemos leer que la Torre de Babel explica los intentos vagos del hombre por ser más grande que Dios, construyendo una torre que llegue hasta el cielo. Al final de la historia, Dios destruye la torre y confunde las lenguas de sus habitantes dispersándolos por el mundo. En un sentido espiritual, este capítulo descubre las razones de por qué Dios debe ejecutar el juicio final y evitar que la maldad siga poblando la Tierra. En la película, el mutante juega el papel de Dios al afirmar que nunca podrán herirlo desde la Torre de Babel.  
   
-Recomiendo leer: [La Interpretación Oculta De La Película "Cisne Negro" Y Su Mensaje Sobre El Negocio Del Entretenimiento](http://www.ritualypropaganda.com/2011/02/la-interpretacion-oculta-de-la-pelicula.html)  
+Recomiendo leer: [La Interpretación Oculta De La Película "Cisne Negro" Y Su Mensaje Sobre El Negocio Del Entretenimiento](http://www.ritualypropaganda.com/2011/02/la-interpretacion-oculta-de-la-pelicula.html)  
   
-Luego de secuestrar a Xavier, Apocalipsis envía un mensaje mundial en diferentes lenguas a absolutamente todos los habitantes de la Tierra. (¿Proyecto Bluebeam?) Además de anunciar sus planes de extinción a todos lo no mutantes, él menciona:
+Luego de secuestrar a Xavier, Apocalipsis envía un mensaje mundial en diferentes lenguas a absolutamente todos los habitantes de la Tierra. (¿Proyecto Bluebeam?) Además de anunciar sus planes de extinción a todos los no mutantes, él menciona:
 
 > _"Se desviaron del camino, pero yo he regresado. El día del juicio"_
 
   
-En uno de los pasajes del nuevo testamento, Jesús dice:  
+En uno de los pasajes del Nuevo Testamento, Jesús dice:  
   
 
-> **"Yo soy el camino, la verdad y la vida"**  
+> **"Yo soy el camino, la verdad y la vida"**
 
-> **\- Juan 3:16**
+> **\- Juan 14:6**
 
   
 
@@ -201,7 +201,7 @@ Cuando esto tiene lugar, los X-Men deciden luchar. Ellos son los antagonistas de
 **"Les dirás que yo En Sabah Nur, desataré mi ira sobre ellos."**
 
   
-Como mencioné en párrafos anteriores, la idea de los poderes de los mutantes proviene de la teoría de la evolución darwiniana. Ellos son la siguiente etapa de la evolución.Y como la anterior película de los X-Men, impulsa la idea de héroes genéticamente modificados que pueden defendernos de la amenaza mutante negativa. Cuando los X-Men llegan para la batalla se encuentran que Apocalipsis ha levantado un nuevo templo en forma de pirámide.
+Como mencioné en párrafos anteriores, la idea de los poderes de los mutantes proviene de la teoría de la evolución darwiniana. Ellos son la siguiente etapa de la evolución. Y como la anterior película de los X-Men, impulsa la idea de héroes genéticamente modificados que pueden defendernos de la amenaza mutante negativa. Cuando los X-Men llegan para la batalla se encuentran que Apocalipsis ha levantado un nuevo templo en forma de pirámide.
 
   
   
@@ -211,19 +211,19 @@ Como mencioné en párrafos anteriores, la idea de los poderes de los mutantes p
 **Una estatua gigante de Apocalipsis lo muestra sentado en un trono, al lado de otra estatua de Arcángel. Esta composición muestra sutilmente el trono de Dios en el cielo.**  
   
 
-El libro de Apocalipsis menciona:
+El libro de Revelación menciona:
 
   
 
-> **"Al instante estaba yo en el Espíritu, y vi un trono colocado en el cielo, y a uno sentado en el trono."** 
+> **"Al instante estaba yo en el Espíritu, y vi un trono colocado en el cielo, y a uno sentado en el trono."**
 
-> **\- Apocalipsis 4:2** 
+> **\- Revelación 4:2**
 
 >   
 > 
-> "Y el que está sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas. Y añadió: Escribe, porque estas palabras son fieles y verdaderas." 
+> "Y el que está sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas. Y añadió: Escribe, porque estas palabras son fieles y verdaderas."
 
-> \- Apocalipsis 21:5
+> \- Revelación 21:5
 
   
 
@@ -237,10 +237,10 @@ Apocalipsis se enfrenta a los X-Men y los derrota. Mientras estrangula a la muta
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdCPcAhGUr6MuEkujyzS-AFP3Mbox-2gy4TnqjrSoCpLHgoqKwe315UOl3iVu3bWs8jxKRsZ_ei8tX3errpmBw-vroSgXEx5bzBlKQpSbVVfxO_htj25dFenmUafjhLWkwrrEpjAXEuXQ/s1600/fenix-xmen.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdCPcAhGUr6MuEkujyzS-AFP3Mbox-2gy4TnqjrSoCpLHgoqKwe315UOl3iVu3bWs8jxKRsZ_ei8tX3errpmBw-vroSgXEx5bzBlKQpSbVVfxO_htj25dFenmUafjhLWkwrrEpjAXEuXQ/s1600/fenix-xmen.jpg)
 
-**El ave Fenix, uno de los símbolos más antiguos del mundo y representación de Satanás.**  
+**El ave Fénix, uno de los símbolos más antiguos del mundo y representación de Satanás.**  
   
 
-Ella lo enfrenta y termina reduciendo a Apocalipsis, todos, incluso dos de sus propios jinetes, terminan eliminándolo. Esta escena de traición, en manos de Magento, es otro paralelismo al tema Jesús - Judas. Antes de morir Apocalipsis utiliza una frase muy parecida a las de Jesús en la cruz:  
+Ella lo enfrenta y termina reduciendo a Apocalipsis, todos, incluso dos de sus propios jinetes, terminan eliminándolo. Esta escena de traición, en manos de Magneto, es otro paralelismo al tema Jesús - Judas. Antes de morir Apocalipsis utiliza una frase muy parecida a las de Jesús en la cruz:  
 
 > **"Todo ha sido revelado."**
 
@@ -248,7 +248,7 @@ Juan 19:30 dice:
 
 > **"Todo está cumplido."**
 
-Al igual que las películas tipo Zeitgesit, X-Men: Apocalipsis hace un gran esfuerzo en la modificación de los evangelios. De hecho está re escribiendo las profecías y anunciando a Lúcifer como en vencedor.  El personaje de Apocalipsis se permite conjeturas religiosas en la pantalla gigante porque es un personaje antiguo con poderes divinos, haciendo que el ataque a la veracidad de la Biblia crezca progresivamente a lo largo de esta película. El mensaje será: no hay Dios sino el Dios que se desarrolla en la tierra. Mientras esta idea va preparando al mundo con este engaño gnóstico, esperemos que no sea tarde para el entendimiento humano.  
+Al igual que las películas tipo Zeitgeist, X-Men: Apocalipsis hace un gran esfuerzo en la modificación de los evangelios. De hecho, está reescribiendo las profecías y anunciando a Lúcifer como el vencedor. El personaje de Apocalipsis se permite conjeturas religiosas en la pantalla gigante porque es un personaje antiguo con poderes divinos, haciendo que el ataque a la veracidad de la Biblia crezca progresivamente a lo largo de esta película. El mensaje será: no hay Dios sino el Dios que se desarrolla en la tierra. Mientras esta idea va preparando al mundo con este engaño gnóstico, esperemos que no sea tarde para el entendimiento humano.  
   
 
 > **"El orgullo del hombre lo humillará, pero el de espíritu humilde obtendrá honores."**
