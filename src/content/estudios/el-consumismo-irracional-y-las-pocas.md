@@ -5,17 +5,17 @@ updated: "2023-07-22"
 author: "Vigilant Citizen"
 slug: "el-consumismo-irracional-y-las-pocas"
 redirectFrom: "/2011/04/el-consumismo-irracional-y-las-pocas.html"
-description: "No mucha gente se da cuenta de que la mayoría de los alimentos procesados en el mercado, ya sea en alimentos o cadenas de comida rápida, todos provienen de las…"
+description: "No mucha gente se da cuenta de que la mayoría de los alimentos procesados en el mercado, ya sea en tiendas de alimentos o en cadenas de comida rápida, todos provienen de las…"
 tags: ["Sociedad"]
 ---
 
-**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+**\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
 
   
 
   
   
-No mucha gente se da cuenta de que la mayoría de los **alimentos procesados** en el mercado, ya sea en alimentos o cadenas de comida rápida, todos provienen de las pocas y mismas empresas. Aun menos se dan cuenta que estas empresas son los actores principales en las organizaciones de élite que deciden sobre la salud, las políticas sociales y económicas en todo el mundo. Ahora veremos tres de las grandes empresas que alimentan al mundo, sus muchas marcas y las tácticas que efectúan para hacer que las personas anhelen sus productos.
+No mucha gente se da cuenta de que la mayoría de los **alimentos procesados** en el mercado, ya sea en tiendas de alimentos o en cadenas de comida rápida, todos provienen de las mismas pocas empresas. Aún menos se dan cuenta de que estas empresas son los actores principales en las organizaciones de élite que deciden sobre la salud, las políticas sociales y económicas en todo el mundo. Ahora veremos tres de las grandes empresas que alimentan al mundo, sus muchas marcas y las tácticas que efectúan para hacer que las personas anhelen sus productos.
 
   
 
@@ -23,15 +23,15 @@ No mucha gente se da cuenta de que la mayoría de los **alimentos procesados** e
 
   
 
-Si uno fuera a estudiar cuidadosamente las etiquetas de los productos envasados en un supermercado promedio, uno probablemente se daría cuenta de que los nombres de una misma empresa aparecen repetidamente: Nestlé, Kraft, General Mills y algunos otros. Muchas marcas que ofrecen comidas de "casa" o alimentos naturales y orgánicos no son más que filiales de estas mega-empresas en todo el mundo. La principal diferencia entre la marca principal y las filiales es el empaque y la publicidad, que son el objetivo para llegar a diferentes mercados. Con el fin de preservar la imagen cuidadosamente elaborada alrededor de un producto, las conexiones con la empresa matriz se han convenientemente ocultado. Imaginen un anuncio de agua embotellada que diga: "¡Bebe agua pura, clara, refrescante Aquafina, embotellada cuidadosamente desde las fuentes naturales en el Himalaya ... TRAIDA A USTEDES POR PEPSICO, FABRICANTE DE TACO BELL Y CHEETOS MIGHTY ZINGERS" Esto probablemente estropearía la imagen sana y natural que están tratando de crear para el producto.  
+Si uno fuera a estudiar cuidadosamente las etiquetas de los productos envasados en un supermercado promedio, uno probablemente se daría cuenta de que los nombres de una misma empresa aparecen repetidamente: Nestlé, Kraft, General Mills y algunos otros. Muchas marcas que ofrecen comidas de "casa" o alimentos naturales y orgánicos no son más que filiales de estas megaempresas en todo el mundo. La principal diferencia entre la marca principal y las filiales es el empaque y la publicidad, con el objetivo de llegar a diferentes mercados. Con el fin de preservar la imagen cuidadosamente elaborada alrededor de un producto, las conexiones con la empresa matriz se han ocultado convenientemente. Imaginen un anuncio de agua embotellada que diga: "¡Bebe agua pura, clara, refrescante Aquafina, embotellada cuidadosamente desde las fuentes naturales en el Himalaya ... TRAÍDA A USTEDES POR PEPSICO, FABRICANTE DE TACO BELL Y CHEETOS MIGHTY ZINGERS" Esto probablemente estropearía la imagen sana y natural que están tratando de crear para el producto.  
   
-Esa es la razón por la que el marketing y la marca son la parte más vital de la industria alimentaria. Cada producto debe vivir en su propio "mundo", separada de su empresa matriz y productos similares. La publicidad es tan poderosa que dos marcas similares de cereales, a partir de los mismos ingredientes básicos, pueden dirigirse a mercados completamente diferentes. Por ejemplo, son Special K y Rice Krispies tan diferentes? Desde un punto de vista estrictamente racional, estos productos son casi idénticos en forma, sabor e ingredientes. Desde un el punto de vista irracional (de marketing) sin embargo, están en dos mundos diferentes. Los anuncios de Rice Krispies giran en torno a personajes de dibujos animados de colores y niños jugando los sábados por la mañana, mientras que Special K tiende a mostrar a mujeres en forma haciendo yoga. Las cajas de Arroz Krispies tienen juegos y juguetes de regalo, La caja de Special K dan acceso a un site llamado "desafío de pérdida de peso". Todo esto es humo y espejos, sin embargo, al final de la línea, si usted elige una u otra o casi cualquier otro cereal en la tienda de comestibles, usted está comiendo la misma cosa y su dinero termina en el mismo lugar.  
+Esa es la razón por la que el marketing y la marca son la parte más vital de la industria alimentaria. Cada producto debe vivir en su propio "mundo", separado de su empresa matriz y productos similares. La publicidad es tan poderosa que dos marcas similares de cereales, a partir de los mismos ingredientes básicos, pueden dirigirse a mercados completamente diferentes. Por ejemplo, ¿son Special K y Rice Krispies tan diferentes? Desde un punto de vista estrictamente racional, estos productos son casi idénticos en forma, sabor e ingredientes. Desde el punto de vista irracional (de marketing), sin embargo, están en dos mundos diferentes. Los anuncios de Rice Krispies giran en torno a personajes de dibujos animados de colores y niños jugando los sábados por la mañana, mientras que Special K tiende a mostrar a mujeres en forma haciendo yoga. Las cajas de Rice Krispies tienen juegos y juguetes de regalo; la caja de Special K da acceso a un sitio web llamado "desafío de pérdida de peso". Todo esto es humo y espejos, sin embargo, al final de la línea, si usted elige una u otra o casi cualquier otro cereal en la tienda de comestibles, usted está comiendo la misma cosa y su dinero termina en el mismo lugar.  
   
-La industria de alimentos procesados se puede considerar un verdadero monopolio. En conjunto, las tres principales empresas de alimentos, Nestlé, Kraft Foods y PepsiCo, logran una proporción dominante de las ventas globales de alimentos procesados. De hecho, estas tres empresas se utilizan a menudo como un ejemplo de la "Regla de tres" en las escuelas de negocios, ya que son un ejemplo de la vida real de como un mercado está siendo dominado por tres actores gigantescos. Su posición como proveedores de alimentos en todo el mundo ha hecho de estos conglomerados muy poderosos y están representados en la mayoría de las organizaciones de élite como es el Consejo de Relaciones Exteriores. Esto no sólo les permite ofrecer sus políticas preferidas en cuestiones de nutrición y salud en todo el mundo, sino también en temas económicos, políticos y sociales. Esta importancia también permite a estas compañías asegurar su dominio en el mercado continuo, a través de la formulación de políticas, el acceso a la información privilegiada y la intimidación de los posibles competidores. Si se considera objetivamente, el monopolio de las grandes empresas como éstas son una amenaza directa a las teorías de libre mercado.  
+La industria de alimentos procesados se puede considerar un verdadero monopolio. En conjunto, las tres principales empresas de alimentos, Nestlé, Kraft Foods y PepsiCo, logran una proporción dominante de las ventas globales de alimentos procesados. De hecho, estas tres empresas se utilizan a menudo como un ejemplo de la "Regla de tres" en las escuelas de negocios, ya que son un ejemplo de la vida real de cómo un mercado está siendo dominado por tres actores gigantescos. Su posición como proveedores de alimentos en todo el mundo ha hecho de estos conglomerados muy poderosos y están representados en la mayoría de las organizaciones de élite como es el Consejo de Relaciones Exteriores. Esto no solo les permite promover sus políticas preferidas en cuestiones de nutrición y salud en todo el mundo, sino también en temas económicos, políticos y sociales. Esta importancia también permite a estas compañías asegurar su dominio en el mercado continuo, a través de la formulación de políticas, el acceso a la información privilegiada y la intimidación de los posibles competidores. Si se considera objetivamente, el monopolio de grandes empresas como estas es una amenaza directa a las teorías de libre mercado.  
   
-Hoy, si una empresa de alimentos pequeña desea crear un producto nuevo y revolucionario, le resultaría difícil obtener una distribución sin tener que renunciar sus derechos a uno de estos conglomerados. Además de dominar los estantes, las tres grandes controlan la mayoría de los canales de distribución en todo el mundo, hasta el punto que las empresas crecientes no pueden llegar a los consumidores sin tener que lidiar con ellos. La única manera de ser propietarios de pequeñas empresas y poder evitar años de lucha y de exclusión para obtener un espacio en los supermercados es llegar a un acuerdos de licencia con uno de los gigantes, donde el propietario cede la propiedad y los derechos del producto a cambio de cheques de regalías (que suelen ser un pequeño porcentaje de las ventas). Cada acuerdo de licencia consolida la posición de estas empresas y elimina amenazas de cualquier competidor potencial que podría crear cambios en el juego.  
+Hoy, si una empresa de alimentos pequeña desea crear un producto nuevo y revolucionario, le resultaría difícil obtener una distribución sin tener que renunciar a sus derechos en favor de uno de estos conglomerados. Además de dominar los estantes, las tres grandes controlan la mayoría de los canales de distribución en todo el mundo, hasta el punto de que las empresas crecientes no pueden llegar a los consumidores sin tener que lidiar con ellos. La única manera de que los propietarios de pequeñas empresas puedan evitar años de lucha y de exclusión para obtener un espacio en los supermercados es llegar a un acuerdo de licencia con uno de los gigantes, donde el propietario cede la propiedad y los derechos del producto a cambio de cheques de regalías (que suelen ser un pequeño porcentaje de las ventas). Cada acuerdo de licencia consolida la posición de estas empresas y elimina amenazas de cualquier competidor potencial que podría crear cambios en el juego.  
   
-Estas son las tres empresas y un sumario de sus múltiples marcas:
+Estas son las tres empresas y un resumen de sus múltiples marcas:
 
 ## Nestlé
 
@@ -42,7 +42,7 @@ Estas son las tres empresas y un sumario de sus múltiples marcas:
 
   
 
-Nestlé es la mayor compañía mundial de alimentos. Cuenta con 6.000 marcas, con una amplia gama de productos a través de una serie de mercados como el café, agua embotellada y otras bebidas, chocolate, helados, alimentos infantiles, rendimiento y la nutrición de la salud, condimentos, alimentos congelados y refrigerados, productos de confitería y alimentos para mascotas. En 2009, las ventas consolidadas fueron casi $ 120 mil millones de dólares y las inversiones en investigación y desarrollo fueron $ 2,240,000,000 USD. El presidente de la compañía, el Sr. Brabeck-Letmathe, se encuentra en el Consejo de Administración de Credit Suisse Group, L'Oréal y ExxonMobil. Es también miembro de la ERT (Mesa Redonda Europea de Industriales) y miembro del Patronato de la Fundación del Foro Económico Mundial (un personaje importante en el impulso de un gobierno mundial). Los productos vendidos por Nestlé incluyen:  
+Nestlé es la mayor compañía mundial de alimentos. Cuenta con 6.000 marcas, con una amplia gama de productos a través de una serie de mercados como el café, agua embotellada y otras bebidas, chocolate, helados, alimentos infantiles, rendimiento y la nutrición de la salud, condimentos, alimentos congelados y refrigerados, productos de confitería y alimentos para mascotas. En 2009, las ventas consolidadas fueron casi 120 mil millones de dólares y las inversiones en investigación y desarrollo fueron de 2240 millones de dólares. El presidente de la compañía, el Sr. Brabeck-Letmathe, se encuentra en el Consejo de Administración de Credit Suisse Group, L'Oréal y ExxonMobil. Es también miembro de la ERT (Mesa Redonda Europea de Industriales) y miembro del Patronato de la Fundación del Foro Económico Mundial (un personaje importante en el impulso de un gobierno mundial). Los productos vendidos por Nestlé incluyen:  
   
 
 ### Cereales
@@ -135,7 +135,7 @@ Juicy Juice
 Ski up and go  
   
 
-### Productos de Plataforma Estable
+### Productos de Larga Duración
 
 Bear Brand  
 Carnation  
@@ -332,7 +332,7 @@ Yorkie
 XXX mints  
   
 
-### Cuidado Canino
+### Cuidado de Mascotas
 
 Alpo  
 Beneful  
@@ -355,10 +355,10 @@ Tidy Cats
 
   
 
-Nestlé se ha enfrentado cierta resistencia en todo el mundo por su promoción de sus sustitutos de leche materna (fórmula infantil), especialmente en los países del tercer mundo. Según los activistas, Nestlé contribuye al sufrimiento y las muertes innecesarias, incluso de los bebés, principalmente entre los pobres.  
+Nestlé se ha enfrentado a cierta resistencia en todo el mundo por su promoción de sus sustitutos de leche materna (fórmula infantil), especialmente en los países del tercer mundo. Según los activistas, Nestlé contribuye al sufrimiento y las muertes innecesarias, incluso de los bebés, principalmente entre los pobres.  
   
 
-> **"Los grupos de defensa y organizaciones de caridad han acusado a Nestlé de métodos poco éticos en su promoción de la fórmula infantil en la leche materna hacia las madres pobres de los países en desarrollo. Por ejemplo, IBFAN afirma de que Nestlé distribuye muestras gratuitas de leche a los hospitales y las salas de maternidad, después de salir del hospital, la fórmula ya no es gratuita y debido a que la suplementación ha interferido con la lactancia, la familia debe seguir comprando la fórmula. IBFAN también alegan que Nestlé utiliza ayuda humanitaria para crear mercados, no etiqueta sus productos en un lenguaje apropiado para los países en los que se venden, y ofrece regalos y el patrocinio de influir en los trabajadores de salud para promover sus productos. Nestlé niega estas acusaciones."**  
+> **"Los grupos de defensa y organizaciones de caridad han acusado a Nestlé de métodos poco éticos en su promoción de la fórmula infantil en lugar de la leche materna entre las madres pobres de los países en desarrollo. Por ejemplo, IBFAN afirma que Nestlé distribuye muestras gratuitas de leche a los hospitales y las salas de maternidad; después de salir del hospital, la fórmula ya no es gratuita y debido a que la suplementación ha interferido con la lactancia, la familia debe seguir comprando la fórmula. IBFAN también alega que Nestlé utiliza ayuda humanitaria para crear mercados, no etiqueta sus productos en un lenguaje apropiado para los países en los que se venden, y ofrece regalos y patrocinios para influir en los trabajadores de salud para promover sus productos. Nestlé niega estas acusaciones."**  
 > [**\- Fuente**](https://www.blogger.com/u/1/#)
 
 [](https://www.blogger.com/u/1/#)
@@ -373,18 +373,18 @@ Nestlé se ha enfrentado cierta resistencia en todo el mundo por su promoción d
 
   
 
-Una filial de Philip Morris (fabricante de los cigarrillos Marlboro). Kraft Foods es la mayor corporación de confitería, alimentos, bebidas y con sede en los Estados Unidos. Se comercializa muchas de sus marcas en más de 155 países, de once de sus marcas en todo el mundo cada una gana más de $ 1 mil millones al año. Como Nestlé, Kraft ha consolidado su estatus en la oligarquía de alimentos mediante la compra de marcas gigantescas como Nabisco (Oreo, Chips Ahoy, Fig Newtons, Ritz, etc) y Cadbury (Ferrero Rocher, Dairy Milk, Caramilk, etc.)  
+Una filial de Philip Morris (fabricante de los cigarrillos Marlboro). Kraft Foods es la mayor corporación de confitería, alimentos y bebidas con sede en los Estados Unidos. Comercializa muchas de sus marcas en más de 155 países, y once de sus marcas en todo el mundo ganan cada una más de 1 mil millones de dólares al año. Como Nestlé, Kraft ha consolidado su estatus en la oligarquía de alimentos mediante la compra de marcas gigantescas como Nabisco (Oreo, Chips Ahoy, Fig Newtons, Ritz, etc) y Cadbury (Ferrero Rocher, Dairy Milk, Caramilk, etc.)  
   
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI0pB7ijjg3T9ojmAwG1Z8LSNroqEc78pRf9gry-i871-Op5z2ZYK6OVgcgI9XxELAaUNd7_2X44OAmhNwxBaEcS6-CsLKvVIjsVxUclwq0KftgnSHP9O5zTzHSw4a62VhUdBxeRItXayL/s1600/r266083_1112646-e1303151897237.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI0pB7ijjg3T9ojmAwG1Z8LSNroqEc78pRf9gry-i871-Op5z2ZYK6OVgcgI9XxELAaUNd7_2X44OAmhNwxBaEcS6-CsLKvVIjsVxUclwq0KftgnSHP9O5zTzHSw4a62VhUdBxeRItXayL/s1600/r266083_1112646-e1303151897237.jpg)
 
-**Si sumamos, ¿Cuántas horas hemos sido hipnotizado por remolinos de chocolate en la televisión?**
+**Si sumamos, ¿cuántas horas hemos sido hipnotizados por remolinos de chocolate en la televisión?**
 
   
 
   
-CEO de Kraft, Irene Rosenfeld Blecker fue considerada la "segunda mujer más poderosa del mundo" por la revista Forbes. No es de extrañar ya que la mayoría del mundo consume alimentos de Kraft. Antes de incorporarse a Kraft, Rosenfeld fue Presidenta y CEO de Frito-Lay, una división de PepsiCo (otro de los "Tres Grandes"). Las marcas de Kraft incluyen:  
+La CEO de Kraft, Irene Rosenfeld Blecker, fue considerada la "segunda mujer más poderosa del mundo" por la revista Forbes. No es de extrañar, ya que la mayor parte del mundo consume alimentos de Kraft. Antes de incorporarse a Kraft, Rosenfeld fue Presidenta y CEO de Frito-Lay, una división de PepsiCo (otro de los "Tres Grandes"). Las marcas de Kraft incluyen:  
   
 Toblerone chocolate bars  
 A1 Steak Sauce  
@@ -495,14 +495,14 @@ Tassimo (single-serve coffee machines using pods branded as T-Discs)
 
 ## PepsiCo
 
- [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLRj6FxeiKfWcs7io5GhqsXPeEcpYB8-DCxFEeWAKnnI2oqPlffGx2p2FsHasbEZ8NBa5Hjwt0zv6Lc130JNLarrpoexk-9PtNFW_FL01u6QbF4cgWgg6xHdlyCziuOHHROOp_SlkaJ8Jc/s1600/591px-Pepsico_logo.svg_-e1303153937262.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLRj6FxeiKfWcs7io5GhqsXPeEcpYB8-DCxFEeWAKnnI2oqPlffGx2p2FsHasbEZ8NBa5Hjwt0zv6Lc130JNLarrpoexk-9PtNFW_FL01u6QbF4cgWgg6xHdlyCziuOHHROOp_SlkaJ8Jc/s1600/591px-Pepsico_logo.svg_-e1303153937262.png)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLRj6FxeiKfWcs7io5GhqsXPeEcpYB8-DCxFEeWAKnnI2oqPlffGx2p2FsHasbEZ8NBa5Hjwt0zv6Lc130JNLarrpoexk-9PtNFW_FL01u6QbF4cgWgg6xHdlyCziuOHHROOp_SlkaJ8Jc/s1600/591px-Pepsico_logo.svg_-e1303153937262.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLRj6FxeiKfWcs7io5GhqsXPeEcpYB8-DCxFEeWAKnnI2oqPlffGx2p2FsHasbEZ8NBa5Hjwt0zv6Lc130JNLarrpoexk-9PtNFW_FL01u6QbF4cgWgg6xHdlyCziuOHHROOp_SlkaJ8Jc/s1600/591px-Pepsico_logo.svg_-e1303153937262.png)
 
   
 
   
-PepsiCo Incorporated es una empresa mundial de 500 con sede en Purchase, Harrison, Nueva York, con intereses en la fabricación, comercialización y distribución de bebidas, productos de aperitivo a base de cereales y otros productos. Si no lo adivinaron, su principal producto es Pepsi Cola, pero los refrescos de soda no es el único producto de la empresa. De hecho, un adolescente con el deseo de alimentarse fácilmente podría salir de una tienda con tres o cuatro productos de PepsiCo sin darse cuenta (o tener cuidado).  
+PepsiCo Incorporated es una empresa de la lista Fortune 500 con sede en Purchase, Harrison, Nueva York, con intereses en la fabricación, comercialización y distribución de bebidas, productos de aperitivo a base de cereales y otros productos. Si no lo adivinaron, su principal producto es Pepsi Cola, pero los refrescos no son el único producto de la empresa. De hecho, un adolescente con el deseo de alimentarse fácilmente podría salir de una tienda con tres o cuatro productos de PepsiCo sin darse cuenta (o tener cuidado).  
   
-PepsiCo es una miembro "Premium" del Consejo de Relaciones Exteriores y del instituto Brookings, dos de las organizaciones más importantes para la élite mundial (como se ve en el artículo "Nombrando Nombres: Su Gobierno Real"). El presidente y consejero delegado de PepsiCo, Indra Nooyi, forma parte del Foro Económico Mundial. Dentro de estas organizaciones, los ejecutivos de PepsiCo y otras mega-corporaciones como Sony (el sello más grande en la industria de la música), Nike (el mayor vendedor de zapatos en el mundo), el Rockefeller Group International, y Lockheed Martin (la mayor compañía de defensa en el mundo ), el trabajo junto a varios jefes de estado (incluyendo ex presidentes de EE.UU.), los responsables políticos (como la actual Secretaria de Estado de EE.UU. Hillary Rodham Clinton) y hacedores de la imagen (como Tom Brokaw y George Clooney), desarrollan las opiniones políticas, sociales, económicas y recomendaciones afectando a países enteros. Las políticas favorecidas por estas organizaciones son en conjunto llevar al mundo hacia un gobierno mundial unificado y a una única moneda mundial, en lo que a menudo se refiere como un "Nuevo Orden Mundial".  
+PepsiCo es un miembro "Premium" del Consejo de Relaciones Exteriores y del Instituto Brookings, dos de las organizaciones más importantes para la élite mundial (como se ve en el artículo "Nombrando Nombres: Su Gobierno Real"). El presidente y consejero delegado de PepsiCo, Indra Nooyi, forma parte del Foro Económico Mundial. Dentro de estas organizaciones, los ejecutivos de PepsiCo y otras mega-corporaciones como Sony (el sello más grande en la industria de la música), Nike (el mayor vendedor de zapatos en el mundo), el Rockefeller Group International, y Lockheed Martin (la mayor compañía de defensa en el mundo), trabajan junto a varios jefes de Estado (incluidos expresidentes de EE. UU.), responsables políticos (como la entonces secretaria de Estado de EE. UU., Hillary Rodham Clinton) y formadores de imagen (como Tom Brokaw y George Clooney), desarrollan opiniones políticas, sociales y económicas, y recomendaciones que afectan a países enteros. Las políticas favorecidas por estas organizaciones apuntan, en conjunto, a llevar al mundo hacia un gobierno mundial unificado y una única moneda mundial, en lo que a menudo se denomina un "Nuevo Orden Mundial".  
   
 Las marcas de PepsiCo incluyen:  
   
@@ -564,7 +564,7 @@ Sí, incluso el tipo bonachón de Quaker es parte de PepsiCo.
 
 ### La Empresa Subsidiaria
 
-PepsiCo también alimenta a millones todos los días a través de su subsidiaria, Yum!, Propietaria de cadenas de restaurantes como Pizza Hut, Taco Bell, KFC, Hot East Side Mario’s, D’Angelo Sandwich Shops, Chevys Fresh Mex, California Pizza Kitchen y Stolichnaya.
+PepsiCo también alimenta a millones todos los días a través de su subsidiaria, Yum!, propietaria de cadenas de restaurantes como Pizza Hut, Taco Bell, KFC, Hot East Side Mario’s, D’Angelo Sandwich Shops, Chevys Fresh Mex, California Pizza Kitchen y Stolichnaya.
 
   
   
@@ -575,52 +575,52 @@ PepsiCo también alimenta a millones todos los días a través de su subsidiaria
 
   
 
-Muchos de los productos enumerados anteriormente han existido durante décadas, algunos desde hace más de un siglo. ¿Cuál es el secreto de tal éxito duradero? En primer lugar, la receta tiene que ser justo como se mencionó anteriormente, Nestlé gastó más de $ 2 mil millones de dólares sólo en 2009 para la investigación y desarrollo, sobre todo para pagar a gente con batas de laboratorio y crear el más atractivo de los productos, que satisfagan, adictivo y por supuesto, con un costo-beneficioso para la mayor de papilas gustativas posibles. Las propiedades adictivas de la sal, grasa, azúcar y otros productos químicos son bien conocidos por los los investigadores ($ 2 mil millones al año). Los alimentos procesados contienen una mezcla cuidadosamente calculada de productos químicos y aditivos que envían "satisfacción" en forma de señales al cerebro, el cual continúa buscándolo en forma de antojos.  
+Muchos de los productos enumerados anteriormente han existido durante décadas, algunos desde hace más de un siglo. ¿Cuál es el secreto de tal éxito duradero? En primer lugar, la receta tiene que ser la justa; como se mencionó anteriormente, Nestlé gastó más de 2 mil millones de dólares solo en 2009 en investigación y desarrollo, sobre todo para pagar a gente con batas de laboratorio y crear los productos más atractivos, satisfactorios, adictivos y, por supuesto, rentables para la mayor cantidad posible de papilas gustativas. Las propiedades adictivas de la sal, grasa, azúcar y otros productos químicos son bien conocidos por los investigadores (2 mil millones de dólares al año). Los alimentos procesados contienen una mezcla cuidadosamente calculada de productos químicos y aditivos que envían "satisfacción" en forma de señales al cerebro, el cual continúa buscándolo en forma de antojos.  
   
 Sin embargo, hay innumerables empresas que venden productos similares. Así que para mantener a los consumidores regresando a su marca específica, las empresas invierten miles de millones de dólares en el segundo secreto del éxito: "fidelidad a la marca" logrado a través del marketing y la publicidad.  
   
 
 ### Publicidad Irracional
 
-Si bien el objetivo final de un anuncio es vender un producto, las relaciones públicas te dirán que están tratando de ir más allá de la venta barata. Su misión es crear un vínculo emocional a un producto, un concepto que es totalmente irracional, pero muy eficaz. No sólo quieren que te guste el producto, ellos quieren que usted se identifique con la marca. Quieren que usted se defina mediante él. Están buscando clientes fieles, de toda la vida mediante la creación de una imagen, un estilo de vida e incluso una filosofía en torno a un producto. Vamos a aprovechar este comercial de Miracle Whip como un ejemplo.  
+Si bien el objetivo final de un anuncio es vender un producto, las relaciones públicas te dirán que están tratando de ir más allá de la venta barata. Su misión es crear un vínculo emocional con un producto, un concepto que es totalmente irracional, pero muy eficaz. No solo quieren que le guste el producto: quieren que usted se identifique con la marca. Quieren que usted se defina a través de ella. Están buscando clientes fieles, de toda la vida mediante la creación de una imagen, un estilo de vida e incluso una filosofía en torno a un producto. Vamos a aprovechar este comercial de Miracle Whip como un ejemplo.  
 
   
   
   
 
-Al mostrar gente saliendo de una fiesta y corriendo en la playa, el anuncio hace intentos de crear una asociación entre el producto y ser joven, fresco y rebelde. Aunque el anuncio es un poco duro, estoy de acuerdo que no hay nada más rebelde que enterrar la cara en un sandwich lleno de mayonesa. A rockear.  
+Al mostrar gente saliendo de una fiesta y corriendo en la playa, el anuncio hace intentos de crear una asociación entre el producto y ser joven, fresco y rebelde. Aunque el anuncio es un poco duro, estoy de acuerdo en que no hay nada más rebelde que enterrar la cara en un sándwich lleno de mayonesa. A rockear.  
   
 Anuncios como estos son meticulosamente calculados para llegar a una población demográfica particular y para generar emociones específicas dentro de estos espectadores. Para alcanzar estos objetivos, se basan en una amplia investigación sobre el comportamiento humano.  
   
   
 
-> "Ningún grupo de sociólogos pueden aproximarse a los equipos de publicidad en la recolección y tratamiento de datos sociales explotables. Los equipos de publicidad tienen miles de millones para gastar anualmente en la investigación y las pruebas de reacciones, y sus productos son magníficas acumulaciones de material sobre la experiencia compartida y los sentimientos de toda la comunidad."  
-> \- Marshal McLuhan, Las Extensiones del Hombre
+> "Ningún grupo de sociólogos puede aproximarse a los equipos de publicidad en la recolección y tratamiento de datos sociales explotables. Los equipos de publicidad tienen miles de millones para gastar anualmente en la investigación y las pruebas de reacciones, y sus productos son magníficas acumulaciones de material sobre la experiencia compartida y los sentimientos de toda la comunidad."  
+> \- Marshall McLuhan, Las Extensiones del Hombre
 
-Para vender lealtad de marca a un espectador a través de un anuncio de televisión, losargumentos lógicos tienen efectos limitados. Los anuncios más eficaces y exitosos son capaces de evitar el pensamiento racional (en un argumento puede ser aceptado o rechazado) y tocar directamente en el subconsciente del espectador, a través de sus instintos, temores o inseguridades.  
+Para vender lealtad de marca a un espectador a través de un anuncio de televisión, los argumentos lógicos tienen efectos limitados. Los anuncios más eficaces y exitosos son capaces de evitar el pensamiento racional (en el que un argumento puede ser aceptado o rechazado) y tocar directamente en el subconsciente del espectador, a través de sus instintos, temores o inseguridades.  
   
 
 > "Es con el conocimiento del ser humano, sus tendencias, sus deseos, sus necesidades, sus mecanismos psíquicos, sus automatismos, así como el conocimiento de la psicología social y la psicología analítica que la propaganda refina sus técnicas."  
 > \- Propagandes, Jacques Ellul
 
-Para ilustrar esto, vamos a ver dos anuncios de comida típica dirigida a un mercado importante: las madres.  
+Para ilustrar esto, vamos a ver dos anuncios de comida típicos dirigidos a un mercado importante: las madres.  
   
 
 ### Publicidad Irracional: Vendiéndolo a las Madres
 
-Para los vendedores, las madres son un sueño. Ellas tienen un punto débil enorme: los niños, especialmente los suyos. Este amor por los niños no es racional: el instinto maternal es uno de los reflejos más primarios y hormonales de la humanidad. Para acceder al mismo consiste en intervenir directamente en el "disco duro" interno de una madre. A través del uso de grupos de investigación y enfoque, los anunciantes han aprendido las maneras más eficaces para obtener reacciones de las madres, y crear anuncios orientados que hacen que la madre se siente preocupada, asustada, enojada o inestable. Una vez que el blanco está en el estado emocional previsto el producto se presenta como la respuesta a todo. Aquí hay un anuncio de harina dirigida específicamente a las madres:
+Para los vendedores, las madres son un sueño. Ellas tienen un punto débil enorme: los niños, especialmente los suyos. Este amor por los niños no es racional: el instinto maternal es uno de los reflejos más primarios y hormonales de la humanidad. Para acceder al mismo consiste en intervenir directamente en el "disco duro" interno de una madre. A través del uso de grupos de investigación y grupos focales, los anunciantes han aprendido las maneras más eficaces para obtener reacciones de las madres, y crear anuncios orientados que hacen que la madre se sienta preocupada, asustada, enojada o inestable. Una vez que el blanco está en el estado emocional previsto, el producto se presenta como la respuesta a todo. Aquí hay un anuncio de harina dirigido específicamente a las madres:
 
   
   
   
   
 
-Así que en este anuncio se vende harina. Una gran bolsa vieja de polvo blanco. Si fuera racional, se había descrito el rendimiento por encima del promedio de la harina (lo cual es cierto) o tal vez su costo ventajoso por libra. No es así. Se va directo a las emociones.  
+Así que en este anuncio se vende harina. Una gran bolsa vieja de polvo blanco. Si fuera racional, se habría descrito el rendimiento por encima del promedio de la harina (lo cual es cierto) o tal vez su costo ventajoso por libra. No es así. Se va directo a las emociones.  
   
-Para llegar efectivamente a su público, el anuncio no habla de la harina en absoluto, pero si de amor a los hijos y "recuerdos para hornear". Detrás de lo cursi, y el sentimiento conmovedor, la verdad es que la publicidad crea el miedo visceral de la madre a ser considerada "un mala madre". Para ello, los vendedores han concebido una forma inteligente de anunciarlo, el discurso de manipulación psicológica dada por una linda niña animada, recomendando a las madres que no hornean hacer un mea-culpa. El anuncio dice básicamente lo siguiente:  
+Para llegar efectivamente a su público, el anuncio no habla de la harina en absoluto, sino del amor a los hijos y "recuerdos para hornear". Detrás de lo cursi, y el sentimiento conmovedor, la verdad es que la publicidad crea el miedo visceral de la madre a ser considerada "una mala madre". Para ello, los vendedores han concebido una forma inteligente de anunciarlo, el discurso de manipulación psicológica dado por una linda niña animada que recomienda a las madres que no hornean hacer un mea culpa. El anuncio dice básicamente lo siguiente:  
   
 
-> "Al negarse a hornear panecillos para sus hijos, les está robando felicidad. Y puesto que los recuerdos son todo lo que tenemos en la vida, usted les está robando su vida. ¿Cómo puede hacer esto con ellos? ¿Quieres que tus hijos sean personas rotas y vacías? ¿Lo quiere? ¿No? Bueno, deja de ser una madre incompetente y compra la bolsa de harina y a hacer unas magdalenas. Tal vez entonces sus hijos le recuerdan como un "Buena Madre". Tal vez. Si no es demasiado tarde. Es posible que haya estropeado todo ya con su manera no-horneadora. ¡Qué vergüenza! "
+> "Al negarse a hornear panecillos para sus hijos, les está robando felicidad. Y puesto que los recuerdos son todo lo que tenemos en la vida, usted les está robando su vida. ¿Cómo puede hacer esto con ellos? ¿Quieres que tus hijos sean personas rotas y vacías? ¿Lo quiere? ¿No? Bueno, deja de ser una madre incompetente y compra la bolsa de harina y a hacer unas magdalenas. Tal vez entonces sus hijos le recuerden como un "Buena Madre". Tal vez. Si no es demasiado tarde. Es posible que haya estropeado todo ya con su manera no-horneadora. ¡Qué vergüenza!"
 
 Aquí hay otro anuncio dirigido a las madres.  
 
@@ -628,15 +628,15 @@ Aquí hay otro anuncio dirigido a las madres.
   
 
   
-¿Te hace temblar un poco al verlo? Nada de eso tiene sentido. Menos mal que la racionalidad no es necesario para vender cosas. En primer lugar, vamos a señalar lo obvio: Si esto ocurrió en la vida real, la mayoría de los estudiantes universitarios estarían molestos. Esto sería una conversación más realista:  
+¿Te hace temblar un poco al verlo? Nada de eso tiene sentido. Menos mal que la racionalidad no es necesaria para vender cosas. En primer lugar, vamos a señalar lo obvio: Si esto ocurrió en la vida real, la mayoría de los estudiantes universitarios estarían molestos. Esto sería una conversación más realista:  
   
 
 > "Hola mamá. Tengo el paquete ... ¿Por qué me envían mantequilla de maní? No lo entiendo ... Eres consciente de que puedo comprar mantequilla de maní aquí, ¿verdad? Así que ¿por qué envías esto? ¿Sabes lo que los padres de Jenny le enviaron? Trescientos dólares. ¿Qué obtengo yo? Mantequilla de maní."
 
-Está bien, pero en serio, los publicistas han derivado los argumentos racionales donde uno considera que la mantequilla de maní como es un tarro de maní picado. En el mundo del marketing, la mantequilla de maní debe ser más que la mantequilla de maní. A través de su anuncio, Jif ya no es un frasco de producción masiva de maní de bajo grado y el azúcar, sino un símbolo de calidez materna en un frío mundo cruel. La Publicidad sustituye a la ignorancia o la indiferencia mediante un producto con un montón de sentimientos blandos que no tienen nada que ver con mantequilla de maní. Y en caso de que no recibieran el mensaje, el anuncio sigue con..."Es algo más que un gran sabor a maní, elegir Jif es una excelente manera de mostrar a alguien cuánto te importa".  
+Está bien, pero en serio, los publicistas han dejado de lado los argumentos racionales, según los cuales la mantequilla de maní es solo un tarro de maní molido. En el mundo del marketing, la mantequilla de maní debe ser más que la mantequilla de maní. A través de su anuncio, Jif ya no es un frasco de producción masiva de maní de baja calidad y azúcar, sino un símbolo de calidez materna en un frío mundo cruel. La publicidad reemplaza la ignorancia o la indiferencia con un producto cargado de sentimientos blandos que no tienen nada que ver con mantequilla de maní. Y en caso de que no recibieran el mensaje, el anuncio sigue con... "Es algo más que un gran sabor a maní, elegir Jif es una excelente manera de mostrar a alguien cuánto te importa".  
 
 ## En Conclusión
 
-¿Por qué debería preocuparme sobre que compañía vende que producto? En primer lugar, se trata de una cuestión de salud. Casi todos los cientos de productos citados en este artículo contienen ingredientes tóxicos, de cantidades excesivas de grasas saturadas a los aditivos como MSG, de alta fructosa (JMAF), el mercurio y / o aspartamo. Estas sustancias, y muchos más como esas, son tóxicos para el cuerpo, el sistema nervioso y el cerebro (como se explica en el artículo Idiotizando a la Sociedad: Alimentos, Bebidas y Medicamentos. Los alimentos procesados están haciendo al mundo más gordos, más enfermos y más idiotas, aunque sólo unas pocas empresas los producen, es de vital importancia conocerlos y reconocerlos ... así usted pueda evitarlos. También es importante reconocer las tácticas de marketing que se utilizan para empujar a los consumidores a comprar estos alimentos procesados.  
+¿Por qué debería preocuparme por qué compañía vende qué producto? En primer lugar, se trata de una cuestión de salud. Casi todos los cientos de productos citados en este artículo contienen ingredientes tóxicos, de cantidades excesivas de grasas saturadas a aditivos como el glutamato monosódico (MSG), el jarabe de maíz de alta fructosa (JMAF), el mercurio y/o el aspartamo. Estas sustancias, y muchas más como esas, son tóxicas para el cuerpo, el sistema nervioso y el cerebro (como se explica en el artículo Idiotizando a la Sociedad: Alimentos, Bebidas y Medicamentos). Los alimentos procesados están haciendo al mundo más gordo, más enfermo y más idiota; aunque solo unas pocas empresas los producen, es de vital importancia conocerlas y reconocerlas... para que usted pueda evitarlas. También es importante reconocer las tácticas de marketing que se utilizan para empujar a los consumidores a comprar estos alimentos procesados.  
   
-La cuestión es mucho más grande que la salud individual, sin embargo, estar al tanto de las empresas que venden su comida es ser consciente de los personajes importantes de la élite mundial. Como dice el refrán "controla de los alimentos y controlarás a la gente". Si usted cree que es importante saber la verdad sobre la estructura de poder del mundo, es fundamental saber sobre estas empresas y comprender su alcance amplio en todos los ámbitos de nuestra sociedad global. Puede ser que "sólo" venden alimentos, pero su poder y posición de estos conglomerados cumplen un papel activo en la gobernanza mundial, como la economía, la política, la elaboración de leyes e incluso militarismo (¿quién crees que suministra las salas militares?). Las tres empresas dominantes a nivel mundial son parte de la política de establecimiento de organizaciones como el Consejo de Relaciones Exteriores y el Grupo Bilderberg, que sirven como motores de verdad detrás de los cambios mundiales. ¿Acaso PepsiCo tiene voz y voto en la invasión de un país como Irán? Bueno, sí. Y cada vez que usted compra una Pepsi o una bolsa de Doritos o una jarra de Tropicana, está ayudando a que sean más ricos y poderosos. Afortunadamente, hay una manera fácil de dejar de apoyar a estas empresas: Sólo tiene que sustituir los productos transformados por estas empresas con alimentos frescos comprados a empresas locales. Usted va a mejorar su salud y su economía, pero lo más importante, también se convertirá en la peor pesadilla de la élite: un consumidor racional.
+La cuestión es mucho más grande que la salud individual; sin embargo, estar al tanto de las empresas que venden su comida es ser consciente de los personajes importantes de la élite mundial. Como dice el refrán "controla los alimentos y controlarás a la gente". Si usted cree que es importante saber la verdad sobre la estructura de poder del mundo, es fundamental saber sobre estas empresas y comprender su alcance amplio en todos los ámbitos de nuestra sociedad global. Puede ser que "solo" vendan alimentos, pero el poder y la posición de estos conglomerados cumplen un papel activo en la gobernanza mundial, como la economía, la política, la elaboración de leyes e incluso el militarismo (¿quién crees que suministra los comedores militares?). Las tres empresas dominantes a nivel mundial son parte de la política de establecimiento de organizaciones como el Consejo de Relaciones Exteriores y el Grupo Bilderberg, que sirven como motores de verdad detrás de los cambios mundiales. ¿Acaso PepsiCo tiene voz y voto en la invasión de un país como Irán? Bueno, sí. Y cada vez que usted compra una Pepsi o una bolsa de Doritos o una jarra de Tropicana, está ayudando a que sean más ricos y poderosos. Afortunadamente, hay una manera fácil de dejar de apoyar a estas empresas: Solo tiene que sustituir los productos transformados por estas empresas por alimentos frescos comprados a empresas locales. Usted va a mejorar su salud y su economía, pero lo más importante, también se convertirá en la peor pesadilla de la élite: un consumidor racional.
