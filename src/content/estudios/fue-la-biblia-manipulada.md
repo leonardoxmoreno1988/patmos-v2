@@ -1,11 +1,11 @@
 ---
-title: "¿Por qué uso la Reina Valera 1865?"
+title: "¿Fue la Biblia Manipulada? Por qué uso la Reina Valera 1865"
 date: "2022-05-29"
 updated: "2026-04-07"
 author: "Leonardo Moreno"
 slug: "fue-la-biblia-manipulada"
 redirectFrom: "/2022/05/fue-la-biblia-manipulada.html"
-description: "La razón por la que prefiero usar la versión Reina Valera 1865 de la Biblia es significativa, ya que se relaciona con un tema que, como es habitual, ha…"
+description: "¿Fue alterado el Nuevo Testamento? Descubre la diferencia histórica entre el Texto Recibido y los manuscritos alejandrinos, y por qué uso la RV1865."
 tags: ["Apologética"]
 ---
 
@@ -28,10 +28,9 @@ Su recopilación fue formada a partir de unas 5,000 copias de manuscritos que ca
 Este trabajo compilado por Erasmo, que tras algunas ediciones sería conocido también como el texto recibido o "textus receptus", ha permanecido casi intacto a lo largo de los siglos y fue la base imperativa de muchas traducciones a otros idiomas, incluyendo al español con la Reina Valera.  
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXAeyblXRtFbfzCH4wPIIGxkxtfAY5Cf-GHj2FQQaiR51Ek_cYIq0ZrMdkFdd9xzSQM_3KYDrMFrf8trzm5slmOb1P7JBrX2Coqy-oBouEGji_i6xNNmHKhvJ5lV6f4Vb4Cn6SRmOy4RqAiMvIZOO0J9roMZKOEWqQXTN-JJPL8WFx5hzBU2ksLIoxmHg/w400-h300/reina-valera-1865.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXAeyblXRtFbfzCH4wPIIGxkxtfAY5Cf-GHj2FQQaiR51Ek_cYIq0ZrMdkFdd9xzSQM_3KYDrMFrf8trzm5slmOb1P7JBrX2Coqy-oBouEGji_i6xNNmHKhvJ5lV6f4Vb4Cn6SRmOy4RqAiMvIZOO0J9roMZKOEWqQXTN-JJPL8WFx5hzBU2ksLIoxmHg/s2048/reina-valera-1865.jpg)
-
+![Biblia Reina Valera 1865 subrayada](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXAeyblXRtFbfzCH4wPIIGxkxtfAY5Cf-GHj2FQQaiR51Ek_cYIq0ZrMdkFdd9xzSQM_3KYDrMFrf8trzm5slmOb1P7JBrX2Coqy-oBouEGji_i6xNNmHKhvJ5lV6f4Vb4Cn6SRmOy4RqAiMvIZOO0J9roMZKOEWqQXTN-JJPL8WFx5hzBU2ksLIoxmHg/s2048/reina-valera-1865.jpg)
   
-Pero en el siglo XIX, algunos eruditos comenzaron a experimentar con manuscritos más antiguos pero de menor influencia histórica. Incluso la suma total de estos no llegaba ni al 10% de los manuscritos que respaldaban el texto crítico.
+Pero en el siglo XIX, algunos eruditos comenzaron a experimentar con manuscritos más antiguos pero de menor influencia histórica. Incluso la suma total de estos no llegaba ni al 10% de los manuscritos que respaldaban el texto recibido.
 
   
 Más alarmante fue que estos manuscritos "más antiguos" provenían de la región de Alejandría, Egipto, notablemente conocida por sus falsas doctrinas y su fascinación por el gnosticismo. Hablamos de grupos heréticos y sectas antiguas parecidas a los actuales testigos de Jehová.
