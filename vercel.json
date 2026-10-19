@@ -1,6 +1,30 @@
 {
   "redirects": [
     {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "ritualypropaganda.com" }],
+      "destination": "https://www.patmosresearch.com/estudios",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.ritualypropaganda.com" }],
+      "destination": "https://www.patmosresearch.com/estudios",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "rvnotas.app" }],
+      "destination": "https://www.patmosresearch.com/leer",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.rvnotas.app" }],
+      "destination": "https://www.patmosresearch.com/leer",
+      "permanent": true
+    },
+    {
       "source": "/p/apocalipsis-verso-verso.html",
       "destination": "/leer/revelacion/1",
       "permanent": true
