@@ -3,16 +3,18 @@ import { useQuery } from "@tanstack/react-query";
 
 import { BOOKS, bookQuery, localizeBookName } from "@/lib/bible";
 import type { ScriptureRef } from "@/lib/scripture-refs";
-import { useI18n } from "@/i18n";
+import { useI18n, type Lang } from "@/i18n";
 
 export interface PreviewTarget extends ScriptureRef {
   originId?: string;
   rect?: { top: number; bottom: number; left: number; width: number };
 }
 
-export function useVerseText(ref: ScriptureRef | null) {
+/** Optional `lang` forces a translation (estudios always pass `"es"` / RV1865). */
+export function useVerseText(ref: ScriptureRef | null, langOverride?: Lang) {
   const bookid = ref ? (BOOKS.find((b) => b.name === ref.book)?.bookid ?? 0) : 0;
-  const { t, lang } = useI18n();
+  const { t, lang: i18nLang } = useI18n();
+  const lang = langOverride ?? i18nLang;
   const query = useQuery({ ...bookQuery(bookid, lang), enabled: bookid > 0 });
   const chapter = query.data?.find((c) => c.chapter === ref?.chapter);
   const verse = chapter?.verses.find((v) => v.verse === ref?.verse);
@@ -78,13 +80,16 @@ export function VerseSheet({
   target,
   onClose,
   onGoToChapter,
+  lang,
 }: {
   target: PreviewTarget;
   onClose: () => void;
   onGoToChapter: () => void;
+  /** Force verse text language (estudios: `"es"`). */
+  lang?: Lang;
 }) {
   const { t } = useI18n();
-  const { display, label } = useVerseText(target);
+  const { display, label } = useVerseText(target, lang);
   const [open, setOpen] = useState(false);
   const [dragY, setDragY] = useState(0);
 

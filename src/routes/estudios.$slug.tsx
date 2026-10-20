@@ -4,6 +4,7 @@ import { ArrowLeft, Link2, Share2 } from "lucide-react";
 import { toast } from "sonner";
 
 import { SiteHeader } from "@/components/reader/site-header";
+import { EstudioProse } from "@/components/estudios/estudio-prose";
 import { PatmosCta } from "@/components/estudios/patmos-cta";
 import { Button } from "@/components/ui/button";
 import { formatEstudioDate, type Estudio } from "@/lib/estudios";
@@ -97,7 +98,7 @@ function EstudioPage() {
             </div>
           </header>
 
-          <div className="estudio-prose mt-8" dangerouslySetInnerHTML={{ __html: post.html }} />
+          <EstudioProse className="estudio-prose mt-8" html={post.html} />
         </article>
 
         <div className="mt-14">

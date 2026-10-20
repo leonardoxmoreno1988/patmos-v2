@@ -4,6 +4,7 @@ import type { Plugin } from "vite";
 import { ESTUDIOS_DIR, estudioFiles, readEstudioFile } from "./estudios-build.ts";
 import { HOUSE_AUTHOR, normalizeSearch, type Estudio, type EstudioSummary } from "./estudios.ts";
 import { buildRedirects } from "./redirects-build.ts";
+import { annotateScriptureAnchors, linkifyScriptureMarkdown } from "./scripture-refs.ts";
 import { SITE_URL } from "./seo.ts";
 
 const LIST_ID = "virtual:estudios";
@@ -82,7 +83,8 @@ function compile(
   render: (markdown: string) => string,
 ): { post: Estudio; text: string } {
   const { meta, body } = readEstudioFile(file);
-  const html = render(body);
+  // Spanish RV1865 citations → static `/leer/...` anchors (SEO), then data-ref-* for hydration.
+  const html = annotateScriptureAnchors(render(linkifyScriptureMarkdown(body)));
   const text = plainText(html);
   const image = /<img src="([^"]+)"/.exec(html)?.[1]?.replace(/&amp;/g, "&");
   const post: Estudio = {

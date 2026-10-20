@@ -1,4 +1,4 @@
-import { BOOKS, CHAPTER_COUNTS } from "./bible";
+import { BOOKS, CHAPTER_COUNTS, bookFromSlug } from "./bible";
 
 export interface ScriptureRef {
   book: string;
@@ -205,7 +205,7 @@ const slug = (name: string) =>
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "");
 
-/** Turns scripture references in Markdown text into reader links (skips existing links). */
+/** Turns scripture references in Markdown text into Spanish reader links (skips existing links). */
 export function linkifyScriptureMarkdown(md: string): string {
   return md
     .split(/(\[[^\]]*\]\([^)]*\))/g)
@@ -222,6 +222,27 @@ export function linkifyScriptureMarkdown(md: string): string {
       });
     })
     .join("");
+}
+
+const escapeAttr = (s: string) =>
+  s.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
+
+/**
+ * Adds `data-ref-*` (and the shared underline class when missing) to static `/leer/...`
+ * anchors so client hydration can attach the verse HoverCard / sheet. Spanish RV1865 only.
+ */
+export function annotateScriptureAnchors(html: string): string {
+  return html.replace(/<a(\s+)href="(\/leer\/[^"]+)"([^>]*)>/gi, (full, sp, href, rest) => {
+    if (/\bdata-ref-book=/.test(rest)) return full;
+    const m = /^\/leer\/([^/#]+)\/(\d+)(?:#verse-(\d+))?$/.exec(href);
+    if (!m) return full;
+    const book = bookFromSlug(m[1]!);
+    if (!book) return full;
+    const chapter = m[2]!;
+    const verse = m[3] ?? "1";
+    const attrs = /\bclass=/.test(rest) ? rest : ` class="${LINK_CLASS}"${rest}`;
+    return `<a${sp}href="${href}" data-ref-book="${escapeAttr(book.name)}" data-ref-chapter="${chapter}" data-ref-verse="${verse}"${attrs}>`;
+  });
 }
 
 export function readRefFromEvent(

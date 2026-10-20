@@ -1,104 +1,21 @@
 import { createElement, useEffect, useMemo, useState, type ReactNode } from "react";
-import { Link } from "@tanstack/react-router";
 
-import { HoverCard, HoverCardContent, HoverCardTrigger } from "@/components/ui/hover-card";
-import { slugifyBook } from "@/lib/bible";
 import { noteLabel, type BibleNote } from "@/lib/bible-notes";
 import { linkifyScriptureRefs, type ScriptureRef } from "@/lib/scripture-refs";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { hydrateCitations } from "@/utils/hydrateCitations";
-import { useVerseText, VerseSheet, type PreviewTarget } from "./verse-preview";
-import { localeParam, useI18n } from "@/i18n";
-
-type RefToken = ScriptureRef & { id: string; label: string };
+import { VerseSheet, type PreviewTarget } from "./verse-preview";
+import { ScriptureRefLink, type ScriptureRefToken } from "./scripture-ref-link";
+import { useI18n } from "@/i18n";
 
 const ALLOWED_TAGS = new Set(["b", "strong", "i", "em", "u", "br", "p", "ul", "ol", "li", "span"]);
 
-const LINK_CLASS =
-  "font-medium underline underline-offset-2 text-[#000f37] decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] cursor-pointer";
-
 const CITATION_RE = /\{\{cita:[^}]+\}\}/g;
-
-function RefPreview({ target }: { target: ScriptureRef }) {
-  const { display, label } = useVerseText(target);
-  return (
-    <>
-      <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-slate-600 dark:text-[#85878c]">
-        {label}
-      </p>
-      <p className="text-[15px] leading-relaxed text-slate-900 dark:text-[#bbbece]">
-        {display}
-      </p>
-    </>
-  );
-}
-
-function DesktopRefLink({
-  token,
-  onRefClick,
-}: {
-  token: RefToken;
-  onRefClick?: (ref: ScriptureRef & { originId?: string }) => void;
-}) {
-  const { lang } = useI18n();
-  return (
-    <HoverCard openDelay={120} closeDelay={80}>
-      <HoverCardTrigger asChild>
-        <Link
-          id={token.id}
-          to="/{-$locale}/leer/$libro/$cap"
-          params={{ locale: localeParam(lang), libro: slugifyBook(token.book), cap: String(token.chapter) }}
-          className={LINK_CLASS}
-          data-ref-book={token.book}
-          data-ref-chapter={String(token.chapter)}
-          data-ref-verse={String(token.verse)}
-          onClick={() =>
-            onRefClick?.({
-              book: token.book,
-              chapter: token.chapter,
-              verse: token.verse,
-              originId: token.id,
-            })
-          }
-        >
-          {token.label}
-        </Link>
-      </HoverCardTrigger>
-      <HoverCardContent
-        side="top"
-        align="center"
-        className="w-[340px] rounded-xl border-none bg-white p-4 shadow-[0_8px_30px_rgba(0,0,0,0.35)] text-slate-900 dark:bg-[#1c1b2d] dark:text-[#bbbece]"
-      >
-        <RefPreview target={token} />
-      </HoverCardContent>
-    </HoverCard>
-  );
-}
-
-function MobileRefButton({ token, onOpen }: { token: RefToken; onOpen: (t: PreviewTarget) => void }) {
-  return (
-    <button
-      type="button"
-      id={token.id}
-      className={LINK_CLASS}
-      onClick={() =>
-        onOpen({
-          book: token.book,
-          chapter: token.chapter,
-          verse: token.verse,
-          originId: token.id,
-        })
-      }
-    >
-      {token.label}
-    </button>
-  );
-}
 
 /** Converts sanitized note HTML into React nodes, swapping scripture anchors for interactive links. */
 function renderNodes(
   nodes: NodeListOf<ChildNode> | ChildNode[],
-  renderRef: (token: RefToken, key: string) => ReactNode,
+  renderRef: (token: ScriptureRefToken, key: string) => ReactNode,
   keyPrefix = "n",
 ): ReactNode[] {
   return Array.from(nodes).map((node, i) => {
@@ -189,12 +106,15 @@ export function StudyNoteCard({
 
   const sections = useMemo(() => {
     if (typeof window === "undefined" || linked === null) return null;
-    const renderRef = (token: RefToken, key: string) =>
-      isMobile ? (
-        <MobileRefButton key={key} token={token} onOpen={setSheet} />
-      ) : (
-        <DesktopRefLink key={key} token={token} {...(onRefClick ? { onRefClick } : {})} />
-      );
+    const renderRef = (token: ScriptureRefToken, key: string) => (
+      <ScriptureRefLink
+        key={key}
+        token={token}
+        isMobile={isMobile}
+        onMobileOpen={setSheet}
+        {...(onRefClick ? { onRefClick } : {})}
+      />
+    );
     return linked.notes.map((note, i) => {
       const doc = new DOMParser().parseFromString(`<body>${linked.parts[i] ?? ""}</body>`, "text/html");
       const label = noteLabel(note);
