@@ -18,17 +18,17 @@ tags: ["Falsas Doctrinas"]
 Se cree que los Maestros Ascendidos o la Gran Hermandad Blanca o los Jefes Secretos son seres espiritualmente iluminados que en encarnaciones pasadas eran seres humanos ordinarios, pero que han pasado por la transformación espiritual hasta el punto de alcanzar la ascensión.  
 
   
-Hay 7 rayos de ascensión y todos los supuestos maestros ascendidos se clasifican bajo estos rayos de acuerdo a sus cualidades espirituales, características y tipo de mensaje que enseñaron. Todos ellos han superado el ciclo del nacimiento, tienen más karma bueno que karma malo, ya no necesitan renacer desde entonces han ascendido sobrepasado el 6 º nivel de iniciación.
+Hay 7 rayos de ascensión y todos los supuestos maestros ascendidos se clasifican bajo estos rayos de acuerdo a sus cualidades espirituales, características y tipo de mensaje que enseñaron. Todos ellos han superado el ciclo del nacimiento, tienen más karma bueno que karma malo, ya no necesitan renacer, pues han ascendido sobrepasando el 6.º nivel de iniciación.
 
   
 
 **Nota:** Si deseas recibir más contenido sobre falsas doctrinas, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
-Las iniciaciones son niveles de conciencia y etapas de desarrollo del alma, y cuanto más universal se convierta tu conciencia, más alto subes las filas de iniciación hasta alcanzar el cuarto nivel de iniciación donde ya no es necesario reencarnar. En el sexto nivel de iniciación ha logrado la unidad con el "Yo Soy" y así llegando a la categoría de ser un "maestro ascendido".  
+Las iniciaciones son niveles de conciencia y etapas de desarrollo del alma, y cuanto más universal se convierta tu conciencia, más alto subes las filas de iniciación hasta alcanzar el cuarto nivel de iniciación donde ya no es necesario reencarnar. En el sexto nivel de iniciación ha logrado la unidad con el "Yo Soy" llegando así a la categoría de ser un "maestro ascendido".  
   
-La gente medita para ponerse en contacto con los maestros ascendidos, orar a los maestros ascendidos, e incluso usar las cartas del oráculo del maestro ascendido para la guía espiritual y la sabiduría. En la comunidad de la **[Nueva Era](http://www.ritualypropaganda.com/2017/04/10-ideas-falsas-nueva-era-sobre-dios.html)**, casi se han convertido en algún tipo de dioses que algunas personas incluso rezan para protección de la oscuridad y **[espíritus negativos en los planos astrales](https://www.ritualypropaganda.com/2016/05/proyeccion-astral-al-descubierto.html)**.  
+La gente medita para ponerse en contacto con los maestros ascendidos, orar a los maestros ascendidos, e incluso usar las cartas del oráculo del maestro ascendido para la guía espiritual y la sabiduría. En la comunidad de la **[Nueva Era](http://www.ritualypropaganda.com/2017/04/10-ideas-falsas-nueva-era-sobre-dios.html)**, casi se han convertido en algún tipo de dioses que algunas personas incluso rezan por protección de la oscuridad y **[espíritus negativos en los planos astrales](https://www.ritualypropaganda.com/2016/05/proyeccion-astral-al-descubierto.html)**.  
   
-Esto se piensa como algo totalmente inofensivo y espiritualmente seguro. Pero como estamos a punto de ver, los Maestros Ascendidos tienen orígenes mucho más oscuros.  
+Esto se considera algo totalmente inofensivo y espiritualmente seguro. Pero como estamos a punto de ver, los Maestros Ascendidos tienen orígenes mucho más oscuros.  
 
 ## La Gran Hermandad Blanca le dio a Aleister Crowley su satanismo
 
@@ -36,29 +36,29 @@ Esto se piensa como algo totalmente inofensivo y espiritualmente seguro. Pero co
 
 Crowley era un famoso ocultista y satanista de los años 1900. Se refirió a sí mismo como "**[La Bestia 666](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**" y una vez dijo: "No me contentaba con creer en Satanás, quería ser su jefe de personal".  
   
-Solía torturar y matar animales, usar sangre menstrual para lanzar hechizos, ha admitido abiertamente que sacrificaba sangre a demonios, y realizaba **[magia sexual](http://www.ritualypropaganda.com/2015/10/la-magia-sexual-el-plan-cabalista-para.html)** en sus amantes, 5 de los cuales terminaron suicidándose. Él también era un francmasón de grado 33, un adicto a la heroína, y creía que:  
+Solía torturar y matar animales, usar sangre menstrual para lanzar hechizos, admitió abiertamente que sacrificaba sangre a demonios, y realizaba **[magia sexual](http://www.ritualypropaganda.com/2015/10/la-magia-sexual-el-plan-cabalista-para.html)** en sus amantes, 5 de los cuales terminaron suicidándose. Él también era un francmasón de grado 33, un adicto a la heroína, y creía que:  
   
 
 > "PARA EL MÁS ALTO TRABAJO ESPIRITUAL DEBE DE ESCOGER A ESA VÍCTIMA QUE CONTIENE LA FORMA MÁS GRANDE Y PURA. UN NIÑO MASCULINO DE INOCENCIA PERFECTA Y ALTA INTELIGENCIA ES LA VICTIMA MÁS SATISFACTORIA Y ADECUADA... PORQUE PARA TODOS LOS PROPÓSITOS RELACIONADOS CON LA MAGIA, EL SACRIFICIO HUMANO ES EL MEJOR. "- CAPÍTULO 12 DEL SANGRADO SACRIFICIO: Y CUESTIONES RELACIONADAS.
 
   
-Después de leer sobre la Gran Hermandad Blanca en un libro llamado La Nube sobre el Santuario, Crowley quiso ascender a la cima de este último. Comenzó una orden llamada "AA" consistente en una serie de niveles que los estudiantes graduarían después de realizar tareas consistentes en magia negra y prácticas ocultas que involucran proyección astral, contacto con espíritus y brujería. En la parte superior de este orden como los seres de más alto rango se sentaron los jefes secretos del orden planetario (los maestros ascendidos).  
+Después de leer sobre la Gran Hermandad Blanca en un libro llamado La Nube sobre el Santuario, Crowley quiso ascender a la cima de esta última. Comenzó una orden llamada "AA" consistente en una serie de niveles que los estudiantes graduarían después de realizar tareas consistentes en magia negra y prácticas ocultas que involucran proyección astral, contacto con espíritus y brujería. En la parte superior de este orden como los seres de más alto rango se sentaron los jefes secretos del orden planetario (los maestros ascendidos).  
   
 Uno de estos jefes secretos en el que creía se llamaba Aiwass. Este es el ser que le dio toda su filosofía satánica y telepáticamente le comunicó su libro satánico titulado El Libro de la Ley que declaró que "hacer lo que tú quieras" es la ley suprema. Este libro es un elemento básico en cualquier biblioteca de satanistas y magos negros.  
   
-Si los miembros de la Gran Hermandad Blanca están contactando a satanistas Y magos negros que practicaban sacrificios de sangre a los demonios y les estaban dando una filosofía satánica, ¿estamos realmente seguros de que estos "maestros ascendidos" son de Dios? Ahora, vamos a entrar al asunto.  
+Si los miembros de la Gran Hermandad Blanca están contactando a satanistas y magos negros que practicaban sacrificios de sangre a los demonios y les estaban dando una filosofía satánica, ¿estamos realmente seguros de que estos "maestros ascendidos" son de Dios? Ahora, vamos a entrar al asunto.  
   
 
 ## Los Maestros Ascendidos se popularizaron primero en un libro publicado bajo "Lucifer Publishing Co." fundado por un satanista.
 
-Las ideas de los maestros ascendidos fueron introducidos primero en el ocultismo en los 1700s, pero fue totalmente desarrollado y popularizado como un concepto maduro alrededor de 1920, por **[C.W. Leadbeater](https://en.wikipedia.org/wiki/Charles_Webster_Leadbeater)** y **[Alice A. Bailey](https://en.wikipedia.org/wiki/Alice_Bailey)**.  
+Las ideas de los maestros ascendidos fueron introducidas primero en el ocultismo en los años 1700, pero fueron totalmente desarrolladas y popularizadas como un concepto maduro alrededor de 1920, por **[C.W. Leadbeater](https://en.wikipedia.org/wiki/Charles_Webster_Leadbeater)** y **[Alice A. Bailey](https://en.wikipedia.org/wiki/Alice_Bailey)**.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHkWCdN3gtz7wHN3HTLQ_4XnfmDGjzpDdyKeOheLUeChCixbWw074p_VDL8IfBIPUhew0N9e4NOcRENoG7Mnv1dsZ0PkKoNyV6wjsQ_85QZzLOH-JLE_T00m0-qPhYAZKDYbQ-u43EhyU/s320/initiation.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHkWCdN3gtz7wHN3HTLQ_4XnfmDGjzpDdyKeOheLUeChCixbWw074p_VDL8IfBIPUhew0N9e4NOcRENoG7Mnv1dsZ0PkKoNyV6wjsQ_85QZzLOH-JLE_T00m0-qPhYAZKDYbQ-u43EhyU/s1600/initiation.png)Alice A Baliey es una famosa ocultista, pionera en la metafísica y destacada miembro de la Sociedad Teosófica, que es una escuela metafísica que básicamente fundó el movimiento de la Nueva Era. Ella  
-publicó su primer trabajo el concepto de rayos, las iniciaciones, y la Gran Hermandad Blanca (los maestros ascendidos) en su libro "Iniciación, Solar y Humana", que trajo las ideas de los maestros ascendidos y la iniciación del alma en la corriente principal del ocultismo y La comunidad de la Nueva Era.  
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHkWCdN3gtz7wHN3HTLQ_4XnfmDGjzpDdyKeOheLUeChCixbWw074p_VDL8IfBIPUhew0N9e4NOcRENoG7Mnv1dsZ0PkKoNyV6wjsQ_85QZzLOH-JLE_T00m0-qPhYAZKDYbQ-u43EhyU/s320/initiation.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHkWCdN3gtz7wHN3HTLQ_4XnfmDGjzpDdyKeOheLUeChCixbWw074p_VDL8IfBIPUhew0N9e4NOcRENoG7Mnv1dsZ0PkKoNyV6wjsQ_85QZzLOH-JLE_T00m0-qPhYAZKDYbQ-u43EhyU/s1600/initiation.png)Alice A. Bailey es una famosa ocultista, pionera en la metafísica y destacada miembro de la Sociedad Teosófica, que es una escuela metafísica que básicamente fundó el movimiento de la Nueva Era. Ella  
+publicó su primer trabajo sobre el concepto de rayos, las iniciaciones, y la Gran Hermandad Blanca (los maestros ascendidos) en su libro "Iniciación, Solar y Humana", que trajo las ideas de los maestros ascendidos y la iniciación del alma en la corriente principal del ocultismo y La comunidad de la Nueva Era.  
   
-Este libro fue publicado bajo la editorial "Lucifer publishing Co.", que fue nombrado de la revista original de la Sociedad Teosófica titulada "Lucifer". Alice Bailey era un miembro de la sociedad teosófica y esta sociedad se considera típicamente siendo lo que comenzó el movimiento entero de la nueva era. La sociedad Theospophical era una escuela del misterio que enseñaba conocimiento esotérico y misterios antiguos.  
+Este libro fue publicado bajo la editorial "Lucifer publishing Co.", que fue nombrada a partir de la revista original de la Sociedad Teosófica titulada "Lucifer". Alice Bailey era un miembro de la sociedad teosófica y esta sociedad se considera típicamente como lo que comenzó el movimiento entero de la nueva era. La Sociedad Teosófica era una escuela del misterio que enseñaba conocimiento esotérico y misterios antiguos.  
   
-La fundadora de la Sociedad Teosófica fue un descarada satanista llamado **[Helena Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html)**, que era una freemasona del grado 32. Aquí hay algunas citas del Volumen II de su libro La Doctrina Secreta, que por cierto fue un libro favorito de **[Adolf Hitler](http://www.ritualypropaganda.com/2017/05/hitler-era-cristiano-historiadores-dicen-no.html)**:  
+La fundadora de la Sociedad Teosófica fue una descarada satanista llamada **[Helena Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html)**, que era una freemasona del grado 32. Aquí hay algunas citas del Volumen II de su libro La Doctrina Secreta, que por cierto fue un libro favorito de **[Adolf Hitler](http://www.ritualypropaganda.com/2017/05/hitler-era-cristiano-historiadores-dicen-no.html)**:  
   
 "En este caso es natural, incluso desde el punto de vista de la carta muerta, ver a Satanás, la Serpiente del Génesis, como el verdadero creador y benefactor, el Padre de la humanidad Espiritual. Pues es él quien fue el "Portador de la Luz", luminoso y radiante Lucifer, quien abrió los ojos del autómata creado por Jehová, según lo alegado; Y el que fue el primero en susurrar: "en el día que comáis de él seréis como Elohim, conociendo el bien y el mal" - sólo puede considerarse a la luz de un Salvador."  
   
@@ -70,7 +70,7 @@ La fundadora de la Sociedad Teosófica fue un descarada satanista llamado **[Hel
   
 "Dios creó a Satanás, el más bello y más sabio de todas sus criaturas en esta parte de Su Universo, y lo convirtió en Príncipe del Mundo y del Poder del Aire ... Así, Satanás siendo perfecto en sabiduría y belleza, Su vasto imperio Es nuestra tierra, si no todo el sistema solar. . . . Ciertamente ningún otro poder angélico de mayor o igual dignidad nos ha sido revelado "(p.222).  
   
-Hay más de 100 referencias a Satanás en La Doctrina Secreta, que fue la obra principal de la fundadora de la Sociedad Teosófica. Y de acuerdo con "Ponder of This" de Alice Bailey, la mayor parte de la Doctrina Secreta fue canalizada a Helena de un Maestro Ascendido llamado Djwal Kuhl. Para leer más citas de ella sobre Satanás puede hacer **[clic aquí](http://www.ritualypropaganda.com/2014/01/quien-es-lucifer-una-historia-de.html)**.  
+Hay más de 100 referencias a Satanás en La Doctrina Secreta, que fue la obra principal de la fundadora de la Sociedad Teosófica. Y de acuerdo con "Ponder of This" de Alice Bailey, la mayor parte de la Doctrina Secreta fue canalizada a Helena por un Maestro Ascendido llamado Djwal Khul. Para leer más citas de ella sobre Satanás puede hacer **[clic aquí](http://www.ritualypropaganda.com/2014/01/quien-es-lucifer-una-historia-de.html)**.  
   
 Así que la idea de los maestros ascendidos salió por primera vez de una escuela de misterio iniciada por un satanista y una editorial que lleva el nombre de Lucifer. Pero se pone peor.  
   
@@ -82,13 +82,13 @@ Así que la idea de los maestros ascendidos salió por primera vez de una escuel
   
 
   
-En las páginas 32-33 de Iniciación, Solar y Humana (que fue canalizada a Alice Bailey por la Maestra Ascendida Djwal Kuhl) ella habla sobre dónde están ubicados estos maestros y cómo vinieron aquí en primer lugar.  
+En las páginas 32-33 de Iniciación, Solar y Humana (que fue canalizada a Alice Bailey por la Maestro Ascendido Djwal Khul) ella habla sobre dónde están ubicados estos maestros y cómo vinieron aquí en primer lugar.  
   
 
-> **"Después del gran descenso de las Existencias Espirituales (los Maestros) a la tierra, el trabajo que planeaban hacer fue sistematizado. Las oficinas se repartieron y los procesos de evolución en todos los departamentos de la naturaleza fueron llevados bajo la sabiduría consciente de esta Hermandad inicial.Esta Jerarquía de Hermanos de Luz sigue existiendo, y la obra va continuamente. Están todos en existencia física, ya sea en cuerpos físicos densos, como muchos de los Maestros emplean, o en cuerpos etéricos, como los más exaltados ayudantes y el Señor del Mundo ocupan.Varios de los Maestros en cuerpos físicos habitan en las montañas del Himalaya, en un lugar aislado llamado Shigatse, lejos de los caminos de los hombres, pero la mayor parte están dispersos por todo el mundo, habitando en diferentes lugares de las diversas naciones, desconocidos y ocultos , Pero formando cada uno en su propio lugar, un punto focal para la energía del Señor del Mundo".**
+> **"Después del gran descenso de las Existencias Espirituales (los Maestros) a la tierra, el trabajo que planeaban hacer fue sistematizado. Las oficinas se repartieron y los procesos de evolución en todos los departamentos de la naturaleza fueron llevados bajo la sabiduría consciente de esta Hermandad inicial. Esta Jerarquía de Hermanos de Luz sigue existiendo, y la obra va continuamente. Están todos en existencia física, ya sea en cuerpos físicos densos, como muchos de los Maestros emplean, o en cuerpos etéricos, como los más exaltados ayudantes y el Señor del Mundo ocupan. Varios de los Maestros en cuerpos físicos habitan en las montañas del Himalaya, en un lugar aislado llamado Shigatse, lejos de los caminos de los hombres, pero la mayor parte están dispersos por todo el mundo, habitando en diferentes lugares de las diversas naciones, desconocidos y ocultos, pero formando cada uno en su propio lugar, un punto focal para la energía del Señor del Mundo".**
 
   
-El Señor del Mundo en las Enseñanzas de los Maestros Ascendidos es Sanat Kumara, el fundador de la Gran Hermandad Blanca y el gobernante sobre todo el plano etérico. La única entidad espiritual a la que se refiere de tal manera en la Biblia es el mismo Satanás, a quien Pablo llama "el dios de este mundo" (2 Cor.4: 4), y Jesús se refiere a Satanás como el "gobernante de este Mundo" 3 veces distintas (Jn.12: 31; 14:30; 16:11).  
+El Señor del Mundo en las Enseñanzas de los Maestros Ascendidos es Sanat Kumara, el fundador de la Gran Hermandad Blanca y el gobernante sobre todo el plano etérico. La única entidad espiritual a la que se refiere de tal manera en la Biblia es el mismo Satanás, a quien Pablo llama "el dios de este mundo" (2 Corintios 4:4), y Jesús se refiere a Satanás como el "gobernante de este Mundo" 3 veces distintas (Juan 12:31; 14:30; 16:11).  
   
 Incluso la Biblia Satánica se refiere a Satanás como el Señor de la Tierra (pg 162). La Biblia también habla de Satanás y sus demonios gobernando desde el aire:  
   
@@ -100,7 +100,7 @@ Incluso la Biblia Satánica se refiere a Satanás como el Señor de la Tierra (p
   
 La Biblia se refiere a todo lo que está sobre la tierra como "los cielos", de modo que lo que Pablo está hablando es un reino del aire sobre el plano físico terrestre que está ocupado por Satanás y sus ángeles caídos, también conocido como el plano etérico.  
   
-Así que estos "maestros" que dieron a Crowley su filosofía satánica existen dentro de los planos etéricos y sirven al "Señor del Mundo", y la Biblia nos dice que los demonios existen dentro de los lugares celestiales y sirven al Dios de este mundo (Satanás ).  
+Así que estos "maestros" que dieron a Crowley su filosofía satánica existen dentro de los planos etéricos y sirven al "Señor del Mundo", y la Biblia nos dice que los demonios existen dentro de los lugares celestiales y sirven al Dios de este mundo (Satanás).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQr2wzFFhsr2XOpbif5_7dXxs8aevSSy4X9djcqHccd2MO383ZujilXhTksY4JxVmKwNOHzndh01-kJMWu1UHqtUhLyrwYLdXcsF9BzZdJMohN99AZ-AaGw9v4zP-HZf15xjB9In9DIY/s320/astral-demon.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQr2wzFFhsr2XOpbif5_7dXxs8aevSSy4X9djcqHccd2MO383ZujilXhTksY4JxVmKwNOHzndh01-kJMWu1UHqtUhLyrwYLdXcsF9BzZdJMohN99AZ-AaGw9v4zP-HZf15xjB9In9DIY/s1600/astral-demon.jpg)
@@ -109,7 +109,7 @@ Echemos un vistazo a la primera oración del párrafo de nuevo.
   
 "Después del gran descenso de las Existencias espirituales \[los Maestros\] a la tierra", implica que los maestros ascendidos descendieron juntos y cayeron a la tierra todos al mismo tiempo. En su libro "La Externalización de la Jerarquía" en la página 118 dice esto "cuando los hijos de Dios que respondieron a la necesidad divina de experimentar, servir y sacrificar, se separaron de los hijos de Dios que no respondieron a tal inspiración". Así que esto es literalmente una referencia directa a los ángeles caídos.  
   
-La Biblia llama a ángeles caídos a los "hijos de Dios". En Revelación capítulo 12, Jesús está hablando a Juan y dice lo siguiente en los versículos 7-9:  
+La Biblia llama "hijos de Dios" a los ángeles caídos. En Revelación capítulo 12, Jesús está hablando a Juan y dice lo siguiente en los versículos 7-9:  
   
 
 > **"Y hubo guerra en el cielo: Miguel y sus ángeles lucharon contra el dragón; Y el dragón peleó y sus ángeles, Y no prevaleció; Ni su lugar se encontró más en el cielo. Y el gran dragón fue echado fuera, esa vieja serpiente, llamada Diablo, y Satanás, que engaña a todo el mundo: fue arrojado a la tierra, y sus ángeles fueron arrojados con él ".**
@@ -123,7 +123,7 @@ O en el libro de Judas en la Biblia, donde dice en el versículo 6:
 > "Y LOS ÁNGELES QUE NO MANTUVIERON SU PRIMERA MORADA, SINO QUE DEJARON SU PROPIA HABITACIÓN".
 
   
-¿Es sólo una coincidencia que el relato bíblico de los ángeles caídos coincida perfectamente con la historia de los Maestros Ascendidos? Si todavía parece una concidencia, no será después de entender que la Teosofía cree que Sanat Kumara es literalmente Satanás. Aquí hay una cita del famoso teosofista Dane Rudyar en Sanat Kumara:  
+¿Es sólo una coincidencia que el relato bíblico de los ángeles caídos coincida perfectamente con la historia de los Maestros Ascendidos? Si todavía parece una coincidencia, no será después de entender que la Teosofía cree que Sanat Kumara es literalmente Satanás. Aquí hay una cita del famoso teosofista Dane Rudhyar en Sanat Kumara:  
   
 
 > "SATANÁS ES UN ANAGRAMA PARA SANAT KUMARA, QUIEN EN LA FILOSOFÍA ESOTÉRICA DE LA INDIA ES EL PROMETHEO SER QUE DIO A LA HUMANIDAD EL FUEGO DE AUTO-CONSCIECIA, INDEPENDENCIA Y EXISTENCIA INDIVIDUAL" - LA MAGIA DEL TONO Y EL ARTE DE LA MÚSICA, PG 69
@@ -167,17 +167,17 @@ Jesús está agrupado allí con todos los otros maestros ascendidos, pero se le 
   
 **Este modelo enseña que Jesús es / no era el Hijo de Dios y que en realidad está subdesarrollado y no evolucionado en comparación con los seres que son iniciadores del 7º, 8º y 9º.** Esto contradice completamente todo lo que Jesús dijo sobre sí mismo.  
   
-De acuerdo con Iniciación Solar y Humana, el Maestro Jesús fue encarnado anteriormente como Josué, el líder militar hebreo en el siglo 13 AC, y Josué el Sumo Sacerdote en el siglo VI aC. Jesús también fue encarnado como José del escudo de muchos colores, el rey David (que vivió desde 1037 AC hasta alrededor de 970 a. C.) y Eliseo.  
+De acuerdo con Iniciación Solar y Humana, el Maestro Jesús fue encarnado anteriormente como Josué, el líder militar hebreo en el siglo XIII a. C., y Josué el Sumo Sacerdote en el siglo VI a. C.. Jesús también fue encarnado como José, el de la túnica de muchos colores, el rey David (que vivió desde 1037 a. C. hasta alrededor de 970 a. C.) y Eliseo.  
   
-Jesús entonces reencarnó otra vez como Jesús de Nazareth, y otra vez como el filósofo griego Apolonio de Tyana inmediatamente después de su muerte física alrededor de la mitad del primer siglo. Después de que él murió como Apollonios, se convirtiò en un iniciado del 5to nivel. Luego encarnó de nuevo como el filósofo hindú, Ramanuja.  
+Jesús entonces reencarnó otra vez como Jesús de Nazaret, y otra vez como el filósofo griego Apolonio de Tyana inmediatamente después de su muerte física alrededor de la mitad del primer siglo. Después de que él murió como Apollonios, se convirtió en un iniciado del 5.º nivel. Luego encarnó de nuevo como el filósofo hindú, Ramanuja.  
   
 Recomiendo leer: [La Farsa Extraterrestre: Predisponiendo A Las Masas Para La Aceptación De Vida En Otros Planetas - Parte I](http://www.ritualypropaganda.com/2012/06/la-farsa-extraterrestre-predisponiendo.html)  
   
 Según la profeta Elizabeth Clare, la falsa profeta de la **[Church Universal and Triumphant](https://en.wikipedia.org/wiki/Church_Universal_and_Triumphant)**, la más grande religión sobre maestros ascendidos, el Maestro Jesús encarnó dos veces como el Emperador de la Atlántida, una vez en 33,050 a. C. y de nuevo en 15000 a. C.  
   
-Según ella, "Él hizo esto para ayudar a los magos blancos en la guerra de los magos blancos y los magos negros que estaba pasando en la Atlántida en ese momento". Por cierto, la Atlántida nunca existió y yo probaré que es Todo parte del engaño satánico en otro artículo.  
+Según ella, "Él hizo esto para ayudar a los magos blancos en la guerra de los magos blancos y los magos negros que estaba pasando en la Atlántida en ese momento". Por cierto, la Atlántida nunca existió y yo probaré que todo es parte del engaño satánico en otro artículo.  
   
-Y según el famoso maestro de esoterismo y maestro ascendido **[Benjamin Creme](https://en.wikipedia.org/wiki/Benjamin_Creme)**, el Maestro Jesús y Sanat Kumara visitaron las Américas a finales del siglo VII y principios del siglo VIII. Esta visita dio origen a la leyenda maya de Quetzacoatl.  
+Y según el famoso maestro de esoterismo y maestro ascendido **[Benjamin Creme](https://en.wikipedia.org/wiki/Benjamin_Creme)**, el Maestro Jesús y Sanat Kumara visitaron las Américas a finales del siglo VII y principios del siglo VIII. Esta visita dio origen a la leyenda maya de Quetzalcóatl.  
   
 Aparentemente, el Maestro Jesús y Sanat Kumara, el Señor del Mundo (aka Satanás), aparecieron a los Mayas en forma de una serpiente alada que parecía un dragón y quería sacrificios de sangre humana. ¿Somos lo suficientemente ingenuos como para pensar que esto no es demoníaco?  
 
@@ -220,14 +220,14 @@ Bailey dijo que la "nueva raza" se distinguirá por "un estado de conciencia que
 
 Pro Guerra  
   
-Las siguientes citas fueron en referencias a la Segunda Guerra Mundial y lo que estaba pasando en Alemania nazi:  
+Las siguientes citas fueron en referencia a la Segunda Guerra Mundial y lo que estaba pasando en la Alemania nazi:  
   
 
 > [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIhzN3_Ao61k7gaWneBoaKhPINlmAEIMEL2bcf_LCWmfQKcgviRXCU5N8qZzg4MWhwcKX-CaNLxQsfcyLNegj63LWfoc4DZgSynHHMa9g3TqDLlNkQauUxwhy4Imanc1IWijg3jAADKs/s1600/holocaust-300x229.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIhzN3_Ao61k7gaWneBoaKhPINlmAEIMEL2bcf_LCWmfQKcgviRXCU5N8qZzg4MWhwcKX-CaNLxQsfcyLNegj63LWfoc4DZgSynHHMa9g3TqDLlNkQauUxwhy4Imanc1IWijg3jAADKs/s1600/holocaust-300x229.jpg)
 > 
-> **"Hoy estamos viendo la muerte de una civilización o ciclo de encarnación de la humanidad. En todos los ámbitos de la expresión humana se ha puesto en marcha a la cristalización y el deterioro... hay en todas partes un grito de cambio para esas nuevas formas en la vida religiosa, política, educativa y económica de la raza que permitirá una expresión espiritual más libre y mejor.Tal cambio está llegando rápidamente y es considerado por algunos como la muerte - terrible que debe evitarse si es posible. Es efectivamente la muerte, pero es beneficiosa y necesaria ". La Externalización de la Jerarquía, pág. 105**
+> **"Hoy estamos viendo la muerte de una civilización o ciclo de encarnación de la humanidad. En todos los ámbitos de la expresión humana se ha puesto en marcha a la cristalización y el deterioro... hay en todas partes un grito de cambio para esas nuevas formas en la vida religiosa, política, educativa y económica de la raza que permitirá una expresión espiritual más libre y mejor. Tal cambio está llegando rápidamente y es considerado por algunos como la muerte - terrible que debe evitarse si es posible. Es efectivamente la muerte, pero es beneficiosa y necesaria ". La Externalización de la Jerarquía, pág. 105**
 
-> **"El dolor siempre ha sido el agente purificador, empleado por los Señores del Destino, para lograr la liberación. El dolor acumulado de la guerra actual y el dolor heredado de la etapa anterior (iniciada en 1914) está produciendo una conciencia mundial saludable y cambiante.El Señor del Dolor ha descendido de Su trono y está pisando los caminos de la tierra de hoy, trayendo angustia, agonía y terror a aquellos que no pueden interpretar sus fines ". La Externalización de la Jerarquía, pág. 114-115**
+> **"El dolor siempre ha sido el agente purificador, empleado por los Señores del Destino, para lograr la liberación. El dolor acumulado de la guerra actual y el dolor heredado de la etapa anterior (iniciada en 1914) está produciendo una conciencia mundial saludable y cambiante. El Señor del Dolor ha descendido de Su trono y está pisando los caminos de la tierra de hoy, trayendo angustia, agonía y terror a aquellos que no pueden interpretar sus fines ". La Externalización de la Jerarquía, pág. 114-115**
 
   
 Después de que terminó la Segunda Guerra Mundial, ella dijo que "todos sus horrores indecibles, sus crueldades y sus desastres catastróficos - no era más que la escoba del Padre de todos, barriendo las obstrucciones en el camino para Su Hijo que regresaba". 619  
@@ -238,10 +238,10 @@ Después de que terminó la Segunda Guerra Mundial, ella dijo que "todos sus hor
 > "LA PRÓXIMA ETAPA DE LA EVOLUCIÓN HUMANA EMERGE COMO RESULTADO DE LA ACCIÓN PURIFICATORIA DE LA GUERRA MUNDIAL" EDUCACIÓN EN LA NUEVA EDAD, P. 149
 
   
-De acuerdo con los Maestros Ascendidos, la eugenesia, el racismo, la guerra, el antisemitismo y la Francmasonería no sólo son aceptables, sino que deben ser alentados y apoyados. Y sólo estamos rascando la superficie con citas como ésta. Más de estos se puede encontrar **[aquí](http://www.mgr.org/FalseDawn-CH11.html)**. Pero ahora que sabemos que son ángeles caídos que sirven al Señor del Mundo (Satanás) en los planos astrales, realmente no debe ser una sorpresa.  
+De acuerdo con los Maestros Ascendidos, la eugenesia, el racismo, la guerra, el antisemitismo y la Francmasonería no sólo son aceptables, sino que deben ser alentados y apoyados. Y sólo estamos rascando la superficie con citas como ésta. Más de estas se pueden encontrar **[aquí](http://www.mgr.org/FalseDawn-CH11.html)**. Pero ahora que sabemos que son ángeles caídos que sirven al Señor del Mundo (Satanás) en los planos astrales, realmente no debe ser una sorpresa.  
   
 
-## Intentándolo todo junto
+## Uniendo todo
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_jqr8Pt_jJ-WhFhCB_dYBHcVtjAS5-k66GN4z_TRK6eAqLkPAClRRIkVm8YOLXrknpLD4h1ZTHLggjylFT7nvSyUv8-frh_lpdp_QkwH-RVvLOSuiDrDlBDXVZ4PrfXtCnm-1qN0Ye4Y/s1600/ascended-masters-4-300x198.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_jqr8Pt_jJ-WhFhCB_dYBHcVtjAS5-k66GN4z_TRK6eAqLkPAClRRIkVm8YOLXrknpLD4h1ZTHLggjylFT7nvSyUv8-frh_lpdp_QkwH-RVvLOSuiDrDlBDXVZ4PrfXtCnm-1qN0Ye4Y/s1600/ascended-masters-4-300x198.jpg)Estos "Maestros Ascendidos" tienen una historia que refleja exactamente a los ángeles caídos, sirven  
 a Lucifer/Satán, de los que los teósofos mismos nos hablan, y primero fueron popularizados por la sociedad teosófica (fundada por un masón satanista) bajo la editorial Lucifer.  
@@ -256,6 +256,6 @@ Recomiendo leer: [Teorías De Control Mental Y Técnicas Utilizadas Por Los Medi
   
 Como Jesús dijo en Mateo 24:24 "Porque falsos mesías y falsos profetas aparecerán y harán grandes señales y prodigios para engañar, si es posible, a los elegidos. Mira, lo he anunciado antes de tiempo". "Satanás mismo se disfraza de ángel de luz. No es de sorprender, entonces, que sus siervos también se disfracen como siervos de justicia." 2 Corintios 11:14-15.  
   
-Es muy fácil ser engañado a veces, y los Maestros Ascendidos me hicieron engañar por un tiempo también. Una vez dormí con algunas cartas de oráculo en una habitación en la que dormía, y mirando hacia atrás, sólo me hizo sentir extraño y asustado, incluso cuando no tenía idea de quiénes eran.  
+Es muy fácil ser engañado a veces, y los Maestros Ascendidos también me engañaron por un tiempo. Una vez dormí con algunas cartas de oráculo en una habitación en la que dormía, y mirando hacia atrás, sólo me hizo sentir extraño y asustado, incluso cuando no tenía idea de quiénes eran.  
   
 Nos han engañado. Estos son sólo demonios en los planos etéricos que se disfrazan de portadores de sabiduría. Y de todos estos ángeles caídos, su misión es alejar a la gente de Jesucristo antes de que su tiempo haya terminado.

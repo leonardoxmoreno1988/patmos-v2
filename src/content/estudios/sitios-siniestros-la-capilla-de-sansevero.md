@@ -15,7 +15,7 @@ Las leyendas locales acerca de la **Capilla de Sansevero** de **Nápoles** afirm
 [![capilla de sansevero con el cristo velado](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGTG2jXA4sSLVCa8tK2E2o2gtDwZK4bSJBs7IKQhLlbzb-U_CjXjKG21tAQHmqqpMI6yluH0_BHP2f8l_hpsr69z4YHFRt9jqoYRwl37-SVav8SO-PwD506UWqvUjSVLo6HixanSHXy6M/s1600/capilla.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGTG2jXA4sSLVCa8tK2E2o2gtDwZK4bSJBs7IKQhLlbzb-U_CjXjKG21tAQHmqqpMI6yluH0_BHP2f8l_hpsr69z4YHFRt9jqoYRwl37-SVav8SO-PwD506UWqvUjSVLo6HixanSHXy6M/s1600/capilla.jpg)
 
   
-A primera vista, Capella Sansevero es la típica capilla italiana del siglo XVII, llena de pinturas y esculturas de carácter religioso. Sin embargo, una mirada más atenta a los diversos artículos en la capilla revela que algo está "no muy bien" con este lugar. Algunas esculturas son tan "orgánicas" que llevan a muchos a creer que fueron el resultado de un proceso sobrenatural. Además, el simbolismo enigmático encontrado alrededor de la capilla insinúa en gran medida un mensaje alegórico esotérico.  
+A primera vista, la Capilla Sansevero es la típica capilla italiana del siglo XVII, llena de pinturas y esculturas de carácter religioso. Sin embargo, una mirada más atenta a los diversos artículos en la capilla revela que algo está "no muy bien" con este lugar. Algunas esculturas son tan "orgánicas" que llevan a muchos a creer que fueron el resultado de un proceso sobrenatural. Además, el simbolismo enigmático encontrado alrededor de la capilla insinúa en gran medida un mensaje alegórico esotérico.  
 
   
 Y, cuando los visitantes bajan unas escaleras, ven esto:  
@@ -24,10 +24,10 @@ Y, cuando los visitantes bajan unas escaleras, ven esto:
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAhat5373stFQC6q2sM1Fy4DMdEd0J1j33k3B0fRzx0RvFe4Gv9u5DVmF-te_pKrG_zRlV0RG7FFByDHxS3jvreDOufnW3aQnGpzl884-h_qrd9N7QhMfBZ94lNIVg145n3a7NA9GtM74/s1600/nervios-humanos-capilla%257D.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAhat5373stFQC6q2sM1Fy4DMdEd0J1j33k3B0fRzx0RvFe4Gv9u5DVmF-te_pKrG_zRlV0RG7FFByDHxS3jvreDOufnW3aQnGpzl884-h_qrd9N7QhMfBZ94lNIVg145n3a7NA9GtM74/s1600/nervios-humanos-capilla%257D.jpg)
 
-**¿Pero Que..?**
+**¿Pero qué...?**
 
   
-La capilla tiene en la exhibición dos restos humanos reales con su sistema nervioso entero en exhibición. Terroríficamente llamados "Adán y Eva" - y aún más espeluznante referidos como "máquinas anatómicas" - esta exhibición extraña ha sido el tema de toda clase de rumores ocultos.
+La capilla tiene en la exhibición dos restos humanos reales con su sistema nervioso entero en exhibición. Terroríficamente llamados "Adán y Eva" - y, aún más espeluznante, referidos como "máquinas anatómicas" - esta exhibición extraña ha sido el tema de toda clase de rumores ocultos.
 
   
 
@@ -50,7 +50,7 @@ A partir de los 10 años, di Sangro fue educado en el Colegio Jesuita de Roma. E
 > **"A pesar de la formación religiosa que había recibido con los jesuitas, el joven pronto se unió a la hermandad secreta de los Rosacruces, donde fue iniciado en los antiguos rituales alquímicos, el llamado "arte sagrado" o "arte del rey" el cual ha sido transmitidos a través de los siglos por un sacerdote egipcio a sus discípulos. Don Raimondo había encontrado su llamando. Mientras mantenía el más absoluto silencio sobre "sus hermanos" y las enseñanzas que recibía (no dejó ningún documento sobre las actividades de la secta misteriosa), el Príncipe cambió radicalmente su vida y dedicó todo su tiempo a la alquimia. Frascos, hornos y alambiques llenaban el sótano de su palacio y por la noche no era raro ver extraños vapores de colores y olores asquerosos que salían de las ventanas de su sótano. Fue en ese momento que los napolitanos comenzaron a etiquetarlo como un hechicero.\- Rino Di Stefano, Raimondo de Sangro, El príncipe "Hechicero"**
 
   
-Di Sangro introdujo a la Francmasonería a su ciudad cuando se convirtió en el jefe de la Logia Masónica napolitana. Este hecho, combinado con su habilidad para presentar invenciones peculiares, como una "llama eterna" hecha de un compuesto químico de su creación y huesos de cráneo humano, sólo hiso crecer la leyenda que rodeaba a Di Sangro.  
+Di Sangro introdujo a la Francmasonería a su ciudad cuando se convirtió en el jefe de la Logia Masónica napolitana. Este hecho, combinado con su habilidad para presentar invenciones peculiares, como una "llama eterna" hecha de un compuesto químico de su creación y huesos de cráneo humano, sólo hizo crecer la leyenda que rodeaba a Di Sangro.  
   
 
 > **"El príncipe Raimondo di Sangro era conocido como un hombre excéntrico, enigmático y místico. Fue el jefe de la logia masónica napolitana, cuyos símbolos se intercalan a lo largo de la capilla, y fue estudiante de numerosas áreas de las ciencias, así como la alquimia y otras disciplinas místicas. También habló varios idiomas exóticos como el hebreo y el árabe y fue un inventor, algunas de sus invenciones de las cuales eran bastante extrañas, como un carro mecanizado con caballos de madera que se dice que era capaz de viajar sobre la tierra y el agua. Estas excentricidades condujeron al príncipe que ganó una reputación como un practicante de la magia negra, y los rumores abundaron que él realizó rituales mágicos siniestros, sacrificios humanos, y maldiciones. También se dijo que podía realizar grandes hazañas de la alquimia, como la creación de sangre a partir de agua o incluso aire, y que utilizó las diversas partes del cuerpo de sus víctimas sacrificadas en sus odiosos hechizos y pociones. Se decía que el príncipe se encerraría durante días y días para realizar experimentos dementes sobre seres humanos, como reanimar a los muertos. Estos oscuros rumores y leyendas que se arremolinaban alrededor del Príncipe lo convirtieron en un hombre a temer y evitar; Un hechicero negro tan grande que podría doblar las fuerzas mágicas y naturales a su voluntad. El príncipe hizo poco para negar estos rumores y se cree que incluso los animó.\- Brent Swancer, Las Bizarras Máquinas Anatómicas de Italia**
@@ -64,7 +64,7 @@ Sin embargo, para di Sangro, "Bel Canto" significa comprar a niños pequeños de
 > **"A pesar de estar familiarizado con los placeres de la vida familiar y de tener hijos (...), el príncipe disfrutó de recorrer sus muchas fincas buscando chicos jóvenes con voces hermosas. Por lo general los encontraba en el coro de la iglesia. Luego los "compraría" a sus padres (por lo general campesinos pobres y analfabetos que tenían muchos hijos) y su médico personal, don Giuseppe Salerno, los castró. Luego los encerrará en el Conservatorio de los pobres de Jesucristo en Nápoles, donde estos jóvenes castrados comenzaron su carrera como "sopranistas".(...)Vio en el castramiento una búsqueda de la perfección, que según los Rosacruces resultabs de "anular el dualismo que proviene de la separación, un retorno al ser andrógino primordial".\- Ibíd.**
 
   
-A medida que la reputación de di Sangro creció, y sus escritos ganaron publicidad, hizo amigos poderosos y poderosos enemigos. Su participación en la masonería condució a que sus escritos sean prohibidos y que sea excomulgado por la Iglesia Católica.  
+A medida que la reputación de di Sangro creció, y sus escritos ganaron publicidad, hizo amigos poderosos y poderosos enemigos. Su participación en la masonería condujo a que sus escritos fueran prohibidos y que fuera excomulgado por la Iglesia Católica.  
   
 Pasó los últimos días de su vida decorando la Capilla Sansevero, convirtiendo este pequeño lugar en una representación grandiosa del "camino alquímico y masónico a la iluminación".  
 
@@ -73,7 +73,7 @@ Pasó los últimos días de su vida decorando la Capilla Sansevero, convirtiendo
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgyiEaShnU5bWD58uMxyq2anrwHlc7hx9sBpt0VZ-xUHcytovZcC2OoWOo4aP5J4dDRw0NJ2AmN4D3izi5VBImdEUlrBnmahozzj2Wad1p8Hsg0ZfWZh9I25FwUxyfOWgbM6XyD17wl24/s1600/capilla.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgyiEaShnU5bWD58uMxyq2anrwHlc7hx9sBpt0VZ-xUHcytovZcC2OoWOo4aP5J4dDRw0NJ2AmN4D3izi5VBImdEUlrBnmahozzj2Wad1p8Hsg0ZfWZh9I25FwUxyfOWgbM6XyD17wl24/s1600/capilla.jpg)
 
   
-Antes de ser transformada por Raimondo di Sangro, la Capilla Sansevero ya era objeto de rumores extravagantes. Se dice que se construyó en un antiguo templo de Isis y, para demostrar este hecho, los lugareños señalan a una estatua masiva del Dios del Nilo, situada a la vuelta de la esquina de su casa.  
+Antes de ser transformada por Raimondo di Sangro, la Capilla Sansevero ya era objeto de rumores extravagantes. Se dice que se construyó en un antiguo templo de Isis y, para demostrar este hecho, los lugareños señalan una estatua masiva del Dios del Nilo, situada a la vuelta de la esquina de su casa.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5KrWrxeaa_Cq_8_qOCHMjslUy1Z4O1t5dQVxgZRV46eoYBbVQYmWUqUNdAVLer2gDHWcJrhbEDJ4rkYUR7ts87H27lasn8Oh74-Sxj4-5Hh6bhGhWS7H_GSQeTZlFNeg3nCZEnYopJw/s1600/naples.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5KrWrxeaa_Cq_8_qOCHMjslUy1Z4O1t5dQVxgZRV46eoYBbVQYmWUqUNdAVLer2gDHWcJrhbEDJ4rkYUR7ts87H27lasn8Oh74-Sxj4-5Hh6bhGhWS7H_GSQeTZlFNeg3nCZEnYopJw/s1600/naples.jpg)
@@ -82,13 +82,13 @@ Antes de ser transformada por Raimondo di Sangro, la Capilla Sansevero ya era ob
 
   
 
-Agregándole al factor siniestro, el Palazzo Sansevero fue escenario de un brutal asesinato a finales del siglo XVI, cuando el compositor Carlo Gesualdo descubrió a su esposa y su amante juntos y los mató en la cama. Hasta 1888, un pasaje conectó el Palazzo Sansevero a la capilla de Sansevero.  
+Sumándose al factor siniestro, el Palazzo Sansevero fue escenario de un brutal asesinato a finales del siglo XVI, cuando el compositor Carlo Gesualdo descubrió a su esposa y su amante juntos y los mató en la cama. Hasta 1888, un pasaje conectó el Palazzo Sansevero a la capilla de Sansevero.  
   
 Sin embargo, es cuando Raimondo di Sangro convirtió esta capilla en un proyecto alquímico que el sitio se convirtió en una atracción, especialmente en los círculos ocultistas. Aparte del enigmático "mensaje oculto" de la capilla, son las obras de arte las que confunden a los visitantes. Parecen atreverse a declarar: "Yo era ocultista y esto es lo que podía hacer".  
   
 Las obras de arte en la Capilla de Sansevero son únicas, poderosas e inquietantes, obligando a los visitantes a preguntar: "¿Cómo lo hizo?" Y cuando uno conoce el fondo esotérico y alquímico del Príncipe, observarlos lleva a la pregunta: "¿Se hizo esto a través de un proceso oculto?"  
   
-El ejemplo más convincente de esto es El Cristo velado. Situada en medio de la capilla, esta escultura de Cristo cubierta por un delgado velado tiene una calidad desconcertante: ¿Cómo se hizo esta escultura de mármol con un bloque de piedra y un cincel? El velo es demasiado... real.  
+El ejemplo más convincente de esto es El Cristo velado. Situada en medio de la capilla, esta escultura de Cristo cubierta por un delgado velo tiene una calidad desconcertante: ¿Cómo se hizo esta escultura de mármol con un bloque de piedra y un cincel? El velo es demasiado... real.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6XAXavsdao06xfvpRUXh9TQMmBPi7dDyXBpS7biaxgzDqZBY1kr8_xmR0QR00bW58w8mp6ywkueVp0_cVsW21R_gbsCquA28jkmsAyWLARjJlyU1TS8tfmrov3LShFK91kOeph-xgAYM/s1600/cristo-velado1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6XAXavsdao06xfvpRUXh9TQMmBPi7dDyXBpS7biaxgzDqZBY1kr8_xmR0QR00bW58w8mp6ywkueVp0_cVsW21R_gbsCquA28jkmsAyWLARjJlyU1TS8tfmrov3LShFK91kOeph-xgAYM/s1600/cristo-velado1.jpg)
@@ -106,7 +106,7 @@ El ejemplo más convincente de esto es El Cristo velado. Situada en medio de la 
 > **"Terminado en 1753 por Giuseppe Sanmartino y comisionado por Raimondo di Sangro, retrata a Cristo depuesto después de la crucifixión, cubierto por un velo transparente. Este velo se representa con tanta sutileza que casi engaña al ojo, y el efecto visto en persona es realmente sorprendente: uno tiene la impresión de que la escultura "real" está debajo y que el sudario puede ser fácilmente agarrado y levantado .Es precisamente por el extraordinario virtuosismo de Sanmartino al esculpir el velo que una leyenda que rodea a este Cristo se crea - engañando de vez en cuando revistas especializadas y sitios de arte irreprochables.La leyenda dice que el príncipe Raimondo di Sangro, encargado de la obra, fabricó el velo, colocándolo sobre la escultura de Sanmartino y petrificándolo con un método alquímico de su propia invención; De ahí la liquidez fenomenal de la cortina, y la "transparencia" del tejido".\- Bizarrobazar, el misterio de la capilla Sansevero**
 
   
-Durante siglos, una "leyenda negra" rodeó esta escultura y otros en la capilla que sostenían que el Príncipe usaba un misterioso proceso alquímico para "marbelizar" un fino paño colocado sobre la escultura.  
+Durante siglos, una "leyenda negra" rodeó esta escultura y otras en la capilla que sostenían que el Príncipe usaba un misterioso proceso alquímico para "marmolizar" un fino paño colocado sobre la escultura.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikHG3TwvJeQxd3pddYKXqzyGB8C1fnhdNxcKfbJUkjdKqHg03xuXMbhv1LOYSrLygxx9othyphenhyphenRIxTlNkTgWSkFqo2DkIVuCkl0X89-vEc2s4a8ioqgCSt5pkPAKMn6TJ5mlPbrHkhFO3j0/s1600/cristo-velado.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikHG3TwvJeQxd3pddYKXqzyGB8C1fnhdNxcKfbJUkjdKqHg03xuXMbhv1LOYSrLygxx9othyphenhyphenRIxTlNkTgWSkFqo2DkIVuCkl0X89-vEc2s4a8ioqgCSt5pkPAKMn6TJ5mlPbrHkhFO3j0/s1600/cristo-velado.jpg)
@@ -120,7 +120,7 @@ Algunos observadores notaron un preocupante detalle sobre esa escultura: El Cris
 > **"Puede haber otra pequeña" anomalía" en este Cristo velado, ya que hay una leve hendidura en la nariz, como si la mortaja fuera absorbida por el aliento - ¿está vivo este "Jesús muerto"? ¿Di Sangro creía que Jesús no había muerto en la Cruz? Si es así, tal vez no sólo era un masón, sino un miembro de otra orden aún más misteriosa.Jesús desapareció de su tumba, pero no está solo. La lápida del príncipe todavía se puede ver en la capilla. Murió el 22 de marzo de 1771, "de una enfermedad repentina causada por sus experimentos mecánicos". Durante las largas noches que pasó en su laboratorio probablemente había inhalado o ingerido alguna sustancia tóxica, que esta vez había llegado a ser letal. Su sarcófago, sin embargo, no contiene su cuerpo; alguien se lo robó. Cuando o por qué no se sabe.Raimondo tenía una placa colocada en la capilla, indicando que la persona que comisionó esas obras (es decir él mismo) fue movida por un deseo de "asombrar, descubrir y enseñar".\- Phillip Coppens, La Capilla Alquímica**
 
   
-A la izquierda de Velo Cristo está La Castidad, una escultura modelada por la madre de di Sangro Cecilia Caetani d'Aragona. La mujer desnuda está cubierta de la cabeza a los pies por un velo delgado que revela sus formas en cada detalle. Esta obra de arte es, una vez más, otra hazaña "sobrenatural" de la escultura. ¿Cómo se puede lograr este efecto usando mármol?  
+A la izquierda del Cristo Velado está La Castidad, una escultura modelada por la madre de di Sangro Cecilia Caetani d'Aragona. La mujer desnuda está cubierta de la cabeza a los pies por un velo delgado que revela sus formas en cada detalle. Esta obra de arte es, una vez más, otra hazaña "sobrenatural" de la escultura. ¿Cómo se puede lograr este efecto usando mármol?  
 
   
 
@@ -145,7 +145,7 @@ A pesar de que la estatua fue modelada después de la madre de di Sangro, es cla
 
   
   
-De hecho, en el simbolismo oculto, la Ísis Velada es la representación última de los misterios ocultos, donde la verdad es velada al profano hasta la verdadera iniciación esotérica.  
+De hecho, en el simbolismo oculto, la Isis Velada es la representación última de los misterios ocultos, donde la verdad es velada al profano hasta la verdadera iniciación esotérica.  
   
 
 > **"Los misterios del hermetismo, las grandes verdades espirituales ocultas al mundo por la ignorancia del mundo y las claves de las doctrinas secretas de los antiguos filósofos, son todos simbolizados por la Virgen Isis. El Velo de la cabeza a los pies, revela su sabiduría sólo a los pocos probados e iniciados que se han ganado el derecho de entrar en su sagrada presencia, desgarrando la velada de su manto de oscuridad y para estar cara a cara con la Realidad Divina. (...)Para el buscador moderno es el epítome del Gran Desconocido, y sólo aquellos que la desvelarán podrán resolver los misterios de la vida, la muerte, la generación y la regeneración".\- Manly P. Hall, Las Enseñanzas Secretas de Todas las Edades**
@@ -153,12 +153,12 @@ De hecho, en el simbolismo oculto, la Ísis Velada es la representación última
   
 Los locales aseguran que La Castidad está colocada exactamente donde una estatua de Isis se había colocado, cuando la capilla era un templo de Isis.  
   
-En el lado opuesto de La Castidad está La Desilusión, otra escultura desconcertante infundida con un profundo simbolismo. Siguiendo el modelo del padre del príncipe Antonio di Sangro, representa a un hombre que lucha por liberarse de una red mientras está siendo siendo ayudado por un joven alado.  
+En el lado opuesto de La Castidad está La Desilusión, otra escultura desconcertante infundida con un profundo simbolismo. Siguiendo el modelo del padre del príncipe Antonio di Sangro, representa a un hombre que lucha por liberarse de una red mientras está siendo ayudado por un joven alado.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYh_A0Rk9LO_faLksYHKnzZZbchGlFomURjzh7lILSS18X4zFtveUrXnPw8ogvQZDIqw_sWZWahNHGH417GuOyUNII8mWemezj9iA5R0zXV0i_qY3FuGFThWU2_oA5lYVtmbQA6XEEC0o/s1600/desilucion2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYh_A0Rk9LO_faLksYHKnzZZbchGlFomURjzh7lILSS18X4zFtveUrXnPw8ogvQZDIqw_sWZWahNHGH417GuOyUNII8mWemezj9iA5R0zXV0i_qY3FuGFThWU2_oA5lYVtmbQA6XEEC0o/s1600/desilucion2.jpg)
 
-**Desilución de Francesco Queirolo.**
+**Desilusión de Francesco Queirolo.**
 
   
 
@@ -211,7 +211,7 @@ Al igual que la dualidad se opone al blanco y negro, las sublimes obras de arte 
 **Las dos "máquinas anatómicas" expuestas en Capella Sansevero.**
 
   
-¿Qué demonios son esas cosas podría estarse preguntando? Bueno, son exactamente lo que esperas que no sean. Y tal vez peor.  
+¿Qué demonios son esas cosas?, podría estarse preguntando. Bueno, son exactamente lo que esperas que no sean. Y tal vez peor.  
   
 Esta exposición consta de dos esqueletos reales de un hombre maduro y una mujer embarazada. Su sistema nervioso entero está expuesto, donde las arterias son de color rojo y las venas son de color azul.  
   
