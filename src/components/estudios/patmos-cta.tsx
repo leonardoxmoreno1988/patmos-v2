@@ -50,7 +50,7 @@ export function PatmosCta({
         </Button>
         {showAssistant ? (
           <Button asChild size="sm" variant="outline" className="rounded-full px-4">
-            <Link to="/" search={{ consulta: "chat" }}>
+            <Link to="/dashboard" search={{ consulta: "chat" }}>
               <MessageSquare /> Consultar Patmos
             </Link>
           </Button>

@@ -18,6 +18,9 @@ import { localeParam, useI18n } from "@/i18n";
 
 export const Route = createFileRoute('/dashboard')({
   staticData: { sitemap: true },
+  validateSearch: ({ consulta }: { consulta?: unknown }): { consulta?: "chat" | "history" | undefined } => ({
+    consulta: consulta === "chat" || consulta === "history" ? consulta : undefined,
+  }),
   headers: () => PUBLIC_PAGE_HEADERS,
   head: () =>
     seoHead({
@@ -68,7 +71,7 @@ function Home() {
   const { user } = useAuth();
   const { t, lang } = useI18n();
   const navigate = useNavigate({ from: "/dashboard" });
-  const search = useSearch({ from: "/dashboard" }) as { consulta?: string };
+  const search = useSearch({ from: "/dashboard" });
   const [signupOpen, setSignupOpen] = useState(false);
   const [consultaOpen, setConsultaOpen] = useState(false);
   const [consultaView, setConsultaView] = useState<"chat" | "history">("chat");
