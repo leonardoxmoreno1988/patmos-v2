@@ -5,7 +5,7 @@ author: "Leonardo Moreno"
 slug: "de-los-arboles-tambien-disputo"
 redirectFrom: "/2026/08/de-los-arboles-tambien-disputo.html"
 description: "Un análisis tipológico de la flora en las Escrituras: el simbolismo de los cedros, la higuera, el olivo, la vid y la madera del madero en la crucifixión."
-tags: ["Tipología", "Doctrina"]
+tags: ["Apologética"]
 ---
 
 Estimado lector,

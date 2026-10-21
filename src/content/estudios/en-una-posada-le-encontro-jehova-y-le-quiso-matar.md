@@ -5,7 +5,7 @@ author: "Leonardo Moreno"
 slug: "en-una-posada-le-encontro-jehova-y-le-quiso-matar"
 redirectFrom: "/2026/07/en-una-posada-le-encontro-jehova-y-le-quiso-matar.html"
 description: "Un análisis tipológico de los dos incidentes donde Dios demandó la muerte de Moisés: la manifestación en Éxodo 4 y la transgresión de la roca en Números 20."
-tags: ["Tipología", "Doctrina"]
+tags: ["Apologética"]
 ---
 
 Estimado lector,

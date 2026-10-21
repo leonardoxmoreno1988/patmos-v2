@@ -5,7 +5,7 @@ author: "Leonardo Moreno"
 slug: "como-un-hijo-de-hombre-que-venia"
 redirectFrom: "/2026/10/como-un-hijo-de-hombre-que-venia.html"
 description: "Un análisis escatológico de la Segunda Venida de Cristo, el establecimiento del Reino milenial en Jerusalén y la falsificación mesiánica que prepara al mundo para el Anticristo."
-tags: ["Escatología", "Profecía", "Doctrina"]
+tags: ["Escatología"]
 ---
 
 Estimado lector,
