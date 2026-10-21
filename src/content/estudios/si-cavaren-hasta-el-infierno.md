@@ -48,7 +48,7 @@ Con este acto Jesucristo cumplía con la profecía de Isaías 61 que declaraba q
 Cuando descendió a las partes más bajas de la tierra (Efesios 4:9), llevó cautiva la cautividad y predicó también a los muertos (1 Pedro 4:6; Efesios 4:8), haciéndoles saber que su redención estaba completa. Luego subió del centro de la tierra hacia el tercer cielo.  
 
 > "Y el que subió, ¿qué es, sino que también había descendido primero a las partes inferiores de la tierra?"  
-> –Efesios 4:8
+> –Efesios 4:9
 
 En el Hades Cristo también predicó a los espíritus encarcelados (1 Pedro 3:19). Estos espíritus provienen de la época de Noé (1 Pedro 3:20) y podrían ser los hijos caídos de Dios (Génesis 6:2-4), ya que a los ángeles también se les llama espíritus (Hebreos 1:7), y sabemos que los ángeles caídos están reservados para juicio en [prisiones eternas](http://www.ritualypropaganda.com/2022/04/angeles-no-guardaron-dignidad.html) (2 Pedro 2:4; Judas 6).  
   

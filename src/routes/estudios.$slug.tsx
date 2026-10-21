@@ -5,9 +5,10 @@ import { toast } from "sonner";
 
 import { SiteHeader } from "@/components/reader/site-header";
 import { EstudioProse } from "@/components/estudios/estudio-prose";
+import { AuthorBox } from "@/components/estudios/author-box";
 import { PatmosCta } from "@/components/estudios/patmos-cta";
 import { Button } from "@/components/ui/button";
-import { formatEstudioDate, type Estudio } from "@/lib/estudios";
+import { HOUSE_AUTHOR, formatEstudioDate, type Estudio } from "@/lib/estudios";
 import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, brandTitle, seoHead } from "@/lib/seo";
 
 // One lazily loaded module per post, compiled from Markdown at build time (src/lib/estudios-plugin.ts).
@@ -108,6 +109,8 @@ function EstudioPage() {
             showIcon
           />
         </div>
+
+        {post.author === HOUSE_AUTHOR ? <AuthorBox /> : null}
       </main>
     </div>
   );
