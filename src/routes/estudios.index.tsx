@@ -18,7 +18,7 @@ import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, seoHead } from "@/lib/seo"
 
 const TITLE = "Estudios bíblicos — Profecía y Escatología";
 const DESCRIPTION =
-  "Estudios de Leonardo Moreno y autores invitados sobre profecía bíblica, escatología, apologética y la cultura actual a la luz de las Escrituras.";
+  "Una exploración de la profecía bíblica y el cristianismo actual. Un informe sobre propaganda anticristiana y otros engaños relevantes.";
 
 export const Route = createFileRoute("/estudios/")({
   staticData: { sitemap: true },
@@ -123,7 +123,7 @@ function EstudiosIndex() {
       <main className="mx-auto max-w-6xl px-4 pb-20 sm:px-6">
         <section className="py-10 sm:py-14">
           <h1 className="text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-            Estudios
+            Blog de Estudios
           </h1>
           <p className="mt-3 max-w-2xl text-base leading-relaxed text-muted-foreground">
             {DESCRIPTION}
