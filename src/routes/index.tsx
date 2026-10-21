@@ -146,7 +146,7 @@ function HomePage() {
         </div>
 
         <p className="text-sm text-gray-500 mt-4 dark:text-muted-foreground">
-          {lang === 'es' ? "Lectura 100% gratuita • Consultas y Notas Ilimitadas por $15/mes" : "100% Free Reading • Unlimited Questions & Notes for $15/month"}
+          {lang === 'es' ? "Lectura 100% gratuita • Consultas y Notas Ilimitadas por $9/mes" : "100% Free Reading • Unlimited Questions & Notes for $9/month"}
         </p>
 
         <div className="w-full mt-8 mb-0 rounded-xl overflow-hidden border border-[#e5e7eb] shadow-sm dark:border-border">
@@ -309,7 +309,7 @@ function HomePage() {
       <div>
         <h4 className="text-xl font-semibold">{lang === 'es' ? "Apoya Patmos" : "Support Patmos"}</h4>
         <div className="mt-4 flex items-baseline">
-          <span className="text-5xl font-bold">$15</span>
+          <span className="text-5xl font-bold">$9</span>
           <span className="ml-2 text-gray-500 dark:text-muted-foreground">{lang === 'es' ? "/ mes" : "/ month"}</span>
         </div>
         
