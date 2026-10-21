@@ -18,7 +18,7 @@ export function AuthorBox() {
         Bachelor of Divinity (BDiv) por The Bible Doctrine Institute (TBDI), con una especialización en escatología
         por el Instituto Teológico Internacional (ITI). A través de su{" "}
         <a
-          href={SITE_URL}
+          href="https://www.patmosresearch.com/estudios"
           className="text-foreground underline decoration-foreground/30 underline-offset-4 transition-colors hover:decoration-foreground"
           target="_blank"
           rel="noopener noreferrer"
