@@ -1,12 +1,12 @@
 ---
-title: "La Iniciación de Bimbo: Un Antiguo Cartoon Acerca de La Iniciación Masónica"
+title: "La iniciación de Bimbo: caricatura y simbolismo masónico"
 date: "2012-05-07"
 updated: "2023-07-22"
 author: "Vigilant Citizen"
 slug: "la-iniciacion-de-bimbo-un-antiguo"
 redirectFrom: "/2012/05/la-iniciacion-de-bimbo-un-antiguo.html"
-description: "En este breve video los queridos personajes de historieta de 1930 se describen en YouTube como \"espeluznantes\" e \"inquietantes\". La caricatura es de hecho muy…"
-tags: ["Cine y Cultura"]
+description: "Un cartoon de 1930, La iniciación de Bimbo, que el autor lee como una alegoría de la iniciación masónica a través de su simbolismo y sus escenas."
+tags: ["Cine y Cultura", "Masonería", "Simbolismo", "Caricatura"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

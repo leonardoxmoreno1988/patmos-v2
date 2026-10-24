@@ -1,12 +1,12 @@
 ---
-title: "La Mentalidad Illuminati"
+title: "La mentalidad illuminati y la guerra espiritual"
 date: "2012-03-23"
 updated: "2023-07-22"
 author: "Richard Evans"
 slug: "la-mentalidad-illuminati"
 redirectFrom: "/2012/03/la-mentalidad-illuminati.html"
-description: "\"Porque no luchamos contra carne y sangre, sino contra principados, contra poderes, contra los gobernantes de la oscuridad de este mundo, contra la maldad…"
-tags: ["Sociedad"]
+description: "Efesios 6:12 sobre la lucha contra principados y potestades, y su aplicación a la mentalidad illuminati que el autor describe en la sociedad."
+tags: ["Sociedad", "Illuminati", "Efesios 6", "Guerra espiritual"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

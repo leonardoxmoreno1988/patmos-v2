@@ -1,12 +1,12 @@
 ---
-title: "Leo Zagami: El Satanismo Está Tratando de Renombrarse A Sí Mismo"
+title: "Leo Zagami: el satanismo busca renombrarse"
 date: "2015-10-28"
 updated: "2023-07-21"
 author: "Leo Lyon Zagami"
 slug: "leo-zagami-el-satanismo-esta-tratando"
 redirectFrom: "/2015/10/leo-zagami-el-satanismo-esta-tratando.html"
-description: "El Templo \"satánico\" es un intento de integrar el satanismo pretendiendo que no adoran al diablo. Buscaron mayor influencia social a través del activismo…"
-tags: ["Sociedad"]
+description: "Según Leo Zagami, el Templo Satánico intenta integrar el satanismo en la sociedad, pretendiendo que no adora al diablo, mediante activismo político."
+tags: ["Sociedad", "Leo Zagami", "Templo Satánico", "Satanismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

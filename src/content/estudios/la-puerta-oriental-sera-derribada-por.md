@@ -5,8 +5,8 @@ updated: "2026-04-15"
 author: "Leonardo Moreno"
 slug: "la-puerta-oriental-sera-derribada-por"
 redirectFrom: "/2023/11/la-puerta-oriental-sera-derribada-por.html"
-description: "Es interesante que haya dos ciudades en Palestina conectada directamente con el futuro Rey de los judíos, estas son Belén y Hebrón, y ambas han sido entregadas…"
-tags: ["Escatología"]
+description: "Belén y Hebrón, ciudades de Palestina vinculadas al futuro Rey de los judíos, y su lugar en la profecía del fin de los tiempos, según el autor."
+tags: ["Escatología", "Profecía", "Mesías", "Israel"]
 ---
 
 Estimado lector,  

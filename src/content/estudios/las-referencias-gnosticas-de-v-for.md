@@ -1,12 +1,12 @@
 ---
-title: "Las Referencias Gnósticas De \"V For Vendetta\" Y Cómo La Élite Controla La Oposición"
+title: "Referencias gnósticas en V de Vendetta"
 date: "2012-05-12"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "las-referencias-gnosticas-de-v-for"
 redirectFrom: "/2012/05/las-referencias-gnosticas-de-v-for.html"
-description: "En la película de los hermanos Wachowski, V for Vendetta, vemos un régimen fascista, una sociedad sometida y un héroe dispuesto a liberarlos de la opresión…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, V de Vendetta de los hermanos Wachowski contiene referencias gnósticas y una lectura sobre cómo la élite controla la oposición."
+tags: ["Cine y Cultura", "V de Vendetta", "Gnosticismo", "Control social"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

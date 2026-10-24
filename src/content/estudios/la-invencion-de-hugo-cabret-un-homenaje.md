@@ -1,12 +1,12 @@
 ---
-title: "\"La Invención de Hugo Cabret\" Un Homenaje Al Control Mental Y Al Ocultismo Secreto En Hollywood"
+title: "La invención de Hugo Cabret: control mental en Hollywood"
 date: "2012-04-07"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "la-invencion-de-hugo-cabret-un-homenaje"
 redirectFrom: "/2012/04/la-invencion-de-hugo-cabret-un-homenaje.html"
-description: "En la obra de Martin Scorsese, La Invención de Hugo Cabret, un homenaje se cierne a las raíces del cine. No obstante, este viaje protagonizado por un niño y su…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, La invención de Hugo Cabret, de Martin Scorsese, es un homenaje al cine que revela intenciones ocultas relacionadas con el control mental."
+tags: ["Cine y Cultura", "Hugo Cabret", "Control mental", "Hollywood"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

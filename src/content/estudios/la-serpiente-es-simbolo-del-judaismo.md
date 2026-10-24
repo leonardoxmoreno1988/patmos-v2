@@ -1,12 +1,12 @@
 ---
-title: "Texe Marrs: La Serpiente Es Símbolo Del Satanismo Judío (Cábala)"
+title: "La serpiente como símbolo: la tesis de Texe Marrs"
 date: "2016-09-22"
 updated: "2023-07-21"
 author: "Texe Marrs"
 slug: "la-serpiente-es-simbolo-del-judaismo"
 redirectFrom: "/2016/09/la-serpiente-es-simbolo-del-judaismo.html"
-description: "En el evangelio de Mateo, Jesús llama sin rodeos a los religiosos judíos \"serpientes\" y \"víboras\" (Mateo 12 y 23). \"¿Cómo escaparéis de la condenación del…"
-tags: ["Sociedad"]
+description: "Texe Marrs sostiene que la serpiente es símbolo del satanismo judío y la cábala, a partir de las palabras de Jesús sobre los religiosos de Mateo 12 y 23."
+tags: ["Sociedad", "Texe Marrs", "Cábala", "Simbolismo"]
 ---
 
 En el evangelio de Mateo, **Jesús** llama sin rodeos a los **religiosos judíos** "serpientes" y "víboras" (Mateo 12 y 23). "¿Cómo escaparéis de la condenación del infierno?" dijo Jesús.  

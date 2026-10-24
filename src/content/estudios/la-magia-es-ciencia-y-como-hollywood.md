@@ -1,12 +1,12 @@
 ---
-title: "La \"Magia Es Ciencia\" Y Cómo Hollywood Prepara La Nueva Doctrina Masónica"
+title: "“Magia es ciencia” y la nueva doctrina de Hollywood"
 date: "2011-09-21"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "la-magia-es-ciencia-y-como-hollywood"
 redirectFrom: "/2011/09/la-magia-es-ciencia-y-como-hollywood.html"
-description: "Tomando como medio la ciencia ficción, Hollywood ha logrado infiltrar doctrinas y formas de pensamiento que van de acuerdo a la agenda satanista, una de las más…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, Hollywood usa la ciencia ficción para difundir doctrinas de una agenda satanista sobre la magia. Un análisis de ese mensaje."
+tags: ["Cine y Cultura", "Ciencia ficción", "Masonería", "Magia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

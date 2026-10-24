@@ -1,12 +1,12 @@
 ---
-title: "Lazos Familiares: George W. Bush, Barbara Bush, Y Aleister Crowley"
+title: "George W. Bush, Barbara Bush y Aleister Crowley"
 date: "2013-05-08"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "lazos-familiares-george-w-bush-barbara"
 redirectFrom: "/2013/05/lazos-familiares-george-w-bush-barbara.html"
-description: "En Francia de 1924 una joven llamada Pauline Pierce es presentada ante la O.T.O (the Ordo Templi Orientis) donde conoce a Aleister Crowley, miembro prominente…"
-tags: ["Sociedad"]
+description: "Según el artículo, una joven llamada Pauline Pierce conoció a Aleister Crowley en la O.T.O. en 1924, un vínculo que el texto relaciona con la familia Bush."
+tags: ["Sociedad", "Aleister Crowley", "O.T.O.", "Bush"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

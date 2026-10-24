@@ -1,12 +1,12 @@
 ---
-title: "La Interpretación Oculta De La Película \"Cisne Negro\" Y Su Mensaje Sobre El Negocio Del Entretenimiento"
+title: "Cisne negro: el mensaje oculto sobre el entretenimiento"
 date: "2011-02-06"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "la-interpretacion-oculta-de-la-pelicula"
 redirectFrom: "/2011/02/la-interpretacion-oculta-de-la-pelicula.html"
-description: "Cisne Negro es un intenso thriller psicológico que describe la metamorfosis de una bailarina de ballet para ser el \"cisne negro\". Detrás de la fachada confusa…"
-tags: ["Cine y Cultura"]
+description: "Análisis de la película Cisne negro, thriller sobre una bailarina, y del comentario que, según el autor, hace sobre el costo del entretenimiento."
+tags: ["Cine y Cultura", "Cisne negro", "Entretenimiento", "Simbolismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -1,12 +1,12 @@
 ---
-title: "\"Linajes De Los Illuminati\" : El Linaje Astor"
+title: "Linajes de los Illuminati: el linaje Astor"
 date: "2012-04-20"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-de-fritz"
 redirectFrom: "/2012/04/linajes-de-los-illuminati-de-fritz.html"
-description: "Sinceramente creo que no existe libro más completo sobre los linajes de sangre Illuminati que \"Linajes de los Illuminati\". En este extenso libro el…"
-tags: ["Sociedad"]
+description: "Fritz Springmeier, autor de Linajes de los Illuminati, expone la estructura de los linajes de sangre illuminati, con el caso del linaje Astor."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

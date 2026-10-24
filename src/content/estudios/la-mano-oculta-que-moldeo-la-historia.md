@@ -1,12 +1,12 @@
 ---
-title: "La Mano Oculta Que Moldeó La Historia"
+title: "La mano oculta que moldeó la historia"
 date: "2011-11-08"
 updated: "2023-07-22"
 author: "Vigilant Citizen"
 slug: "la-mano-oculta-que-moldeo-la-historia"
 redirectFrom: "/2011/11/la-mano-oculta-que-moldeo-la-historia.html"
-description: "¿Ha sido el curso de la Historia dirigido por un pequeño grupo de personas con intereses comunes? Las pinturas y cuadros de los grandes hombres de los siglos…"
-tags: ["Sociedad"]
+description: "Según el autor, un pequeño grupo de personas con intereses comunes dirige el curso de la historia, un hilo que revelan las pinturas de los grandes hombres."
+tags: ["Sociedad", "Historia", "Élites", "Simbolismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

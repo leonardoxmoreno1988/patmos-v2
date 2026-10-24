@@ -1,12 +1,12 @@
 ---
-title: "Las Propiedades Extradimensionales De Los OVNIs"
+title: "Las propiedades extradimensionales de los OVNIs"
 date: "2017-02-16"
 updated: "2023-07-20"
 author: "Josh Peck"
 slug: "las-propiedades-extra-dimensionales-de"
 redirectFrom: "/2017/02/las-propiedades-extra-dimensionales-de.html"
-description: "¿Cómo puede parecer algo hecho de material sólido, pero comportarse como si fuera más bien un líquido? Es un fenómeno que ha sido reportado, documentado y…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Un objeto sólido que se comporta como un líquido: el artículo examina este fenómeno reportado en relación con los OVNIs y sus supuestas hazañas."
+tags: ["Falsas Doctrinas", "Apologética", "OVNIs", "Fenómenos"]
 ---
 
 ¿Cómo puede parecer algo hecho de material sólido, pero comportarse como si fuera más bien un líquido? Es un fenómeno que ha sido reportado, **documentado** y discutido desde hace algún tiempo en relación con las hazañas extrañas y aparentemente imposibles que ciertos **OVNIs** son capaces de lograr. Por supuesto, la cantidad de videos que se encuentran en sitios web como YouTube es enorme y la clasificación de estos puede ser una hazaña ardua en sí misma.  

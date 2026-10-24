@@ -1,12 +1,12 @@
 ---
-title: "Las Raíces Ocultas De El Mago de Oz"
+title: "Las raíces ocultas de El mago de Oz: símbolos y ocultismo"
 date: "2013-03-11"
 updated: "2023-07-22"
 author: "Vigilant Citizen"
 slug: "las-raices-ocultas-de-el-mago-de-oz"
 redirectFrom: "/2013/03/las-raices-ocultas-de-el-mago-de-oz.html"
-description: "Con su historia memorable y su elenco de personajes pintorescos, el Mago de Oz se convirtió rápidamente en un clásico americano. Más de un siglo después del…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, el clásico El mago de Oz contiene raíces y simbolismo ocultos que este análisis examina, más allá de su historia infantil y su fama."
+tags: ["Cine y Cultura", "El mago de Oz", "Ocultismo", "Simbolismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

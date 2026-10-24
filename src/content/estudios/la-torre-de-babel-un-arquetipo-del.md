@@ -1,12 +1,12 @@
 ---
-title: "\"La Torre De Babel\" Un Arquetipo Del Nuevo Orden Mundial Y La Religión Babilónica"
+title: "La torre de Babel: arquetipo del nuevo orden mundial"
 date: "2012-05-04"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "la-torre-de-babel-un-arquetipo-del"
 redirectFrom: "/2012/05/la-torre-de-babel-un-arquetipo-del.html"
-description: "Durante el primer siglo de la humanidad un guerrero y monarca llamado Nimrod reinaba sobre la ciudad de Babel. La Biblia menciona que Nimrod era un “vigoroso…"
-tags: ["Sociedad"]
+description: "Nimrod, rey de Babel según Génesis 10, y la torre de Babel como arquetipo del nuevo orden mundial y de la religión babilónica, según el autor."
+tags: ["Sociedad", "Babel", "Nuevo Orden Mundial", "Babilonia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

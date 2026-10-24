@@ -1,12 +1,12 @@
 ---
-title: "¿La Violación Justifica El Aborto?"
+title: "Aborto por violación: respuesta desde la ética provida"
 date: "2017-04-18"
 updated: "2023-07-20"
 author: "Dr. John Ferrer"
 slug: "la-violacion-justifica-el-aborto"
 redirectFrom: "/2017/04/la-violacion-justifica-el-aborto.html"
-description: "Una de las defensas más comunes para el aborto es el embarazo por violación. Cualquier serio pro-vida debe esperar esta objeción, y necesita estar listo para…"
-tags: ["Sociedad"]
+description: "Una de las defensas más comunes del aborto es el embarazo por violación. Cómo responder a esta objeción con gracia y verdad desde una postura provida."
+tags: ["Sociedad", "Aborto", "Ética", "Provida"]
 ---
 
 Una de las defensas más comunes para el **aborto** es el **embarazo** por **violación**. Cualquier serio provida debe esperar esta objeción, y necesita estar listo para tratarlo con gracia y verdad. A veces, los provida responden señalando que solo un pequeño número, menor de 1,0%, de abortos son casos de violación (véase **[aquí](http://www.nytimes.com/1989/10/13/us/rape-and-incest-just-1-of-all-abortions.html)** y **[aquí](http://www.johnstonsarchive.net/policy/abortion/abreasons.html)**).  

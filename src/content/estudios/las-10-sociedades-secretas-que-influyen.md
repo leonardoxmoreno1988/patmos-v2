@@ -1,12 +1,12 @@
 ---
-title: "Las 10 Sociedades Secretas Que Influyen En Tu Vida Y Debes Conocer"
+title: "Las 10 sociedades secretas que influyen en tu vida"
 date: "2015-09-28"
 updated: "2023-07-21"
 author: "illuminatirex"
 slug: "las-10-sociedades-secretas-que-influyen"
 redirectFrom: "/2015/09/las-10-sociedades-secretas-que-influyen.html"
-description: "Las 10 principales sociedades secretas, think tanks, clubs exclusivos, grupos y fraternidades de la que cada persona consciente debe de estar familiarizado y…"
-tags: ["Sociedad"]
+description: "Diez sociedades secretas, think tanks y clubes exclusivos que, según el artículo, influyen en la vida de las personas, desde el Grupo Bilderberg."
+tags: ["Sociedad", "Sociedades secretas", "Bilderberg", "Illuminati"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

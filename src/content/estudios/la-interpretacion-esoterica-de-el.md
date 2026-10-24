@@ -1,12 +1,12 @@
 ---
-title: "La Interpretación Esotérica De \"El Laberinto Del Fauno\""
+title: "El laberinto del fauno: lectura esotérica de su simbolismo"
 date: "2011-10-12"
 updated: "2023-07-22"
 author: "Vigilant Citizen"
 slug: "la-interpretacion-esoterica-de-el"
 redirectFrom: "/2011/10/la-interpretacion-esoterica-de-el.html"
-description: "\"El Laberinto del Fauno\" es una película profunda que cuenta la historia de la búsqueda de una joven para escapar de la crueldad del fascismo español. La…"
-tags: ["Cine y Cultura"]
+description: "Una lectura de El laberinto del fauno, película sobre una joven que escapa del fascismo español, y de los símbolos ocultos que, según el autor, contiene."
+tags: ["Cine y Cultura", "El laberinto del fauno", "Simbolismo", "Esoterismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

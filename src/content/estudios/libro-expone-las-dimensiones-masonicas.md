@@ -1,12 +1,12 @@
 ---
-title: "Libro Expone Las Dimensiones Masónicas De La Bomba En Nagasaki"
+title: "La bomba de Nagasaki y las dimensiones masónicas"
 date: "2016-09-19"
 updated: "2023-07-21"
 author: "James Perloff"
 slug: "libro-expone-las-dimensiones-masonicas"
 redirectFrom: "/2016/09/libro-expone-las-dimensiones-masonicas.html"
-description: "El lanzamiento de las bombas atómicas sobre Japón en 1945 fue completamente innecesario; Japón ya se había, de hecho, ofrecido a entregar prácticamente en los…"
-tags: ["Sociedad"]
+description: "Un libro que, según su autor, muestra las dimensiones masónicas de la bomba atómica lanzada sobre Japón en 1945, que el texto considera innecesaria."
+tags: ["Sociedad", "Masonería", "Segunda Guerra Mundial", "Historia"]
 ---
 
 El lanzamiento de las **bombas atómicas** sobre Japón en **1945** fue completamente innecesario; Japón ya se había, de hecho, ofrecido a entregar prácticamente en los mismos términos que los EE.UU. aprobaron al **final de la guerra**.  

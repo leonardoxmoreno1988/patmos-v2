@@ -1,12 +1,12 @@
 ---
-title: "La Viuda Del Ex Jesuita Alberto Rivera Asegura Que El Vaticano Y Los Jesuitas Mataron A Su Esposo"
+title: "Viuda de Alberto Rivera: acusa al Vaticano de su muerte"
 date: "2016-10-17"
 updated: "2023-07-20"
 author: "Greg Szymanski"
 slug: "la-viuda-del-ex-jesuita-alberto-rivera"
 redirectFrom: "/2016/10/la-viuda-del-ex-jesuita-alberto-rivera.html"
-description: "Nury Rivera le dice a los estadounidenses cómo su marido fue perseguido y asesinado por intentar contar los secretos del Vaticano sobre la forma en que se…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Nury Rivera afirma que su esposo, el ex jesuita Alberto Rivera, fue perseguido y asesinado por revelar secretos del Vaticano sobre las iglesias."
+tags: ["Falsas Doctrinas", "Apologética", "Alberto Rivera", "Jesuitas"]
 ---
 
 **Nury Rivera** le dice a los estadounidenses cómo su marido fue perseguido y asesinado por intentar contar los secretos del **Vaticano** sobre la forma en que se **infiltran en las iglesias** y el gobierno de EE.UU. También habla sobre cómo ella ha sido acosada, atacada y amenazada por agentes del Vaticano y la **Orden Jesuita**.  

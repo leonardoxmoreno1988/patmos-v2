@@ -1,12 +1,12 @@
 ---
-title: "La \"Magia Sexual\", El Plan Cabalista Para Esclavizar a La Humanidad"
+title: "Magia sexual y el plan cabalista, según el autor"
 date: "2015-10-04"
 updated: "2023-07-21"
 author: "Henry Makow"
 slug: "la-magia-sexual-el-plan-cabalista-para"
 redirectFrom: "/2015/10/la-magia-sexual-el-plan-cabalista-para.html"
-description: "Estamos atrapados por la mente de un cabalista o un masón. Nuestros ojos y oídos son sus medios de comunicación. Nuestras leyes son dictadas por su gobierno y…"
-tags: ["Sociedad"]
+description: "Un análisis que presenta la magia sexual como parte de un plan cabalista y masónico que, según el autor, controla leyes, gobierno y educación."
+tags: ["Sociedad", "Magia sexual", "Cábala", "Masonería"]
 ---
 
 Estamos atrapados por la mente de un **cabalista** o un **masón**. Nuestros ojos y oídos son sus medios de comunicación. Nuestras leyes son dictadas por su gobierno y nuestros pensamientos de su sistema educativo. Por increíble que parezca, la sociedad sólo puede ser entendida en términos de un **culto satánico sexual**.  

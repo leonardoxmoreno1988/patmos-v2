@@ -1,12 +1,12 @@
 ---
-title: "\"Laberinto\" Protagonizada Por David Bowie, Una Guía De Control Mental"
+title: "Laberinto, con David Bowie: guía de control mental"
 date: "2011-11-25"
 updated: "2023-07-22"
 author: "Vigilant Citizen"
 slug: "laberinto-protagonizada-por-david-bowie"
 redirectFrom: "/2011/11/laberinto-protagonizada-por-david-bowie.html"
-description: "La película \"Laberinto\" de 1986, protagonizada por David Bowie y Jennifer Connelly, sumerge al espectador en un mundo de fantasía y maravilla. Al igual que…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, la película Laberinto (1986), con David Bowie y Jennifer Connelly, encierra mensajes sobre el control mental tras su fantasía."
+tags: ["Cine y Cultura", "David Bowie", "Control mental", "Películas"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

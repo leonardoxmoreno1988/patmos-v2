@@ -1,12 +1,12 @@
 ---
-title: "La película \"Jung_E\" y el gnosticismo escatológico"
+title: "Jung_E: el gnosticismo escatológico en el cine"
 date: "2025-11-20"
 updated: "2026-04-11"
 author: "Leonardo Moreno"
 slug: "la-pelicula-junge-y-el-gnosticismo"
 redirectFrom: "/2025/11/la-pelicula-junge-y-el-gnosticismo.html"
-description: "La película coreana de ciencia ficción Jung-E (2023) demuestra el culto moderno al luciferanismo gnóstico. Envuelta en una trama de I.A., amor maternal y…"
-tags: ["Cine y Cultura"]
+description: "La película surcoreana de ciencia ficción Jung_E (2023), que según el autor muestra el culto moderno al luciferanismo gnóstico en una trama de IA."
+tags: ["Cine y Cultura", "Jung_E", "Gnosticismo", "Inteligencia artificial"]
 ---
 
 Estimado lector,  

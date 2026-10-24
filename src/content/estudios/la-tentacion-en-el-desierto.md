@@ -1,12 +1,12 @@
 ---
-title: "La tentación en el desierto"
+title: "La tentación en el desierto y la existencia de Satanás"
 date: "2023-11-25"
 updated: "2026-04-15"
 author: "Leonardo Moreno"
 slug: "la-tentacion-en-el-desierto"
 redirectFrom: "/2023/11/la-tentacion-en-el-desierto.html"
-description: "Dado que la Biblia siempre da por sentada la existencia literal y personal de Satanás, los creyentes verdaderos de la Biblia también seguimos su ejemplo. Las…"
-tags: ["Apologética"]
+description: "La Biblia presenta a Satanás como un ser personal y literal, y el relato de la tentación en el desierto muestra cómo los creyentes deben resistirlo hoy."
+tags: ["Apologética", "Satanás", "Tentación", "Evangelio"]
 ---
 
 Estimado lector,  

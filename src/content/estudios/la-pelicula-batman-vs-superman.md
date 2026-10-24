@@ -1,12 +1,12 @@
 ---
-title: "La Película “Batman vs Superman” Representará El Ascenso de la Orden Luciferina"
+title: "Batman vs Superman y el ascenso de la orden luciferina"
 date: "2015-09-04"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "la-pelicula-batman-vs-superman"
 redirectFrom: "/2015/09/la-pelicula-batman-vs-superman.html"
-description: "Superman representa a Cristo, mientras que Batman es Satanás. “No nos equivoquemos: LOS SATANISTAS MILITANTES están en pie de guerra y son facultados como nunca…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, la película Batman vs Superman anticipa el ascenso de una orden luciferina, con Superman como figura de Cristo y Batman como Satanás."
+tags: ["Cine y Cultura", "Batman vs Superman", "Satanismo", "Películas"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
