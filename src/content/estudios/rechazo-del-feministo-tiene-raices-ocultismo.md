@@ -1,12 +1,12 @@
 ---
-title: "El Rechazo De Lo Femenino Tiene Raíces En El Ocultismo"
+title: "El rechazo de lo femenino y sus raíces ocultistas"
 date: "2016-09-27"
 updated: "2023-07-21"
 author: "Henry Makow"
 slug: "rechazo-del-feministo-tiene-raices-ocultismo"
 redirectFrom: "/2016/09/rechazo-del-feministo-tiene-raices-ocultismo.html"
-description: "Algún día nuestros educadores y políticos tendrán que rendir cuentas por convertir a las niñas impresionables en lesbianas y arruinar sus vidas. Se les enseña…"
-tags: ["Sociedad"]
+description: "Un artículo que atribuye el rechazo de lo femenino a raíces ocultistas y critica la enseñanza de un dogma feminista en las escuelas, según su autor."
+tags: ["Sociedad", "Feminismo", "Ocultismo", "Educación"]
 ---
 
 Algún día nuestros **educadores** y **políticos** tendrán que rendir cuentas por convertir a las niñas impresionables en **lesbianas** y arruinar sus vidas. Se les enseña un **dogma feminista** lleno de odio y sobre que la heterosexualidad es una "construcción social", los machos son depredadores violentos y que el sexo con un hombre es violación.  

@@ -1,12 +1,12 @@
 ---
-title: "Se gozará mucho su corazón"
+title: "Se gozará mucho su corazón: la paz en Cristo"
 date: "2023-11-12"
 updated: "2026-04-15"
 author: "Leonardo Moreno"
 slug: "se-gozara-mucho-su-corazon"
 redirectFrom: "/2023/11/se-gozara-mucho-su-corazon.html"
-description: "Una de las cosas más complejas de sobrellevar en la vida cristiana es la falta de paz. Al estar bajo ataques constantes a la carne (Romanos 8:5-9) y la mente…"
-tags: ["Apologética"]
+description: "La falta de paz en la vida cristiana y los ataques de la carne, según Gálatas 5 y Romanos 8, y cómo el creyente puede hallar gozo y paz en Cristo."
+tags: ["Apologética", "Paz", "Gozo", "Vida cristiana"]
 ---
 
 Estimado lector,  

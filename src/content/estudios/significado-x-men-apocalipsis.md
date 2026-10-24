@@ -1,12 +1,12 @@
 ---
-title: "El Significado De \"X-Men: Apocalipsis\" Y Cómo Se Reescriben Las Profecías Bíblicas"
+title: "X-Men: Apocalipsis y la reescritura de las profecías"
 date: "2016-06-21"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "significado-x-men-apocalipsis"
 redirectFrom: "/2016/06/significado-x-men-apocalipsis.html"
-description: "La nueva película de los X-Men Apocalipsis utiliza la premisa del \"primer mutante\" como una forma de alterar la profecía bíblica y desarrollar un nuevo…"
-tags: ["Cine y Cultura"]
+description: "El argumento de X-Men: Apocalipsis, que según el autor usa la premisa del primer mutante para alterar la profecía bíblica y proponer un nuevo evangelio."
+tags: ["Cine y Cultura", "X-Men", "Profecía", "Evangelio"]
 ---
 
 La nueva película de los **X-Men Apocalipsis** utiliza la premisa del "primer mutante" como una forma de alterar la profecía bíblica y desarrollar un nuevo **evangelio**, mientras que se sigue promocionando el concepto satánico que podemos ser dioses mediante una mezcla de mutaciones genéticas **darwinianas**.  

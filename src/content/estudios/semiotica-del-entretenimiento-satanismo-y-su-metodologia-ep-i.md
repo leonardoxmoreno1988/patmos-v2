@@ -1,12 +1,12 @@
 ---
-title: "Semiótica del Entretenimiento: Satanismo Y Su Metodología (Ep I)"
+title: "Semiótica del entretenimiento: satanismo, parte I"
 date: "2013-12-23"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "semiotica-del-entretenimiento-satanismo-y-su-metodologia-ep-i"
 redirectFrom: "/2013/12/semiotica-del-entretenimiento-satanismo.html"
-description: "\"Mediante la labor educativa del mundo, el gran señor (Lucifer) intenta llegar al público inteligente que no puede ser encontrado por medio de las ceremonias…"
-tags: ["Cine y Cultura"]
+description: "Primera entrega de una serie sobre la metodología del satanismo en el entretenimiento, según la cita que abre el artículo sobre el público inteligente."
+tags: ["Cine y Cultura", "Semiótica", "Satanismo", "Entretenimiento"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

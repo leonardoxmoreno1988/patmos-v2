@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 11: Cruzo Mi Corazón Y Espero Morir: La Misteriosa Letra \"X\""
+title: "Codex Magica 11: la misteriosa letra X"
 date: "2017-06-12"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "significado-de-la-misteriosa-letra-x"
 redirectFrom: "/2017/06/significado-de-la-misteriosa-letra-x.html"
-description: "\"Una X es un antiguo símbolo de cambio o transformación... asociado en el arte medieval y renacentista con la venida del Mesías que hará nuevas todas las…"
-tags: ["Sociedad"]
+description: "Codex Magica 11 examina la letra X, símbolo de cambio o transformación, y su asociación con la venida del Mesías en el arte medieval, según Jim Tresner."
+tags: ["Sociedad", "Codex Magica", "Simbolismo", "Illuminati"]
 ---
 
 > **"Una X es un antiguo símbolo de cambio o transformación... asociado en el arte medieval y renacentista con la venida del Mesías que hará nuevas todas las cosas."\- Jim Tresner, 33 °, Diario del Rito Escocés**

@@ -1,12 +1,12 @@
 ---
-title: "Satanás como autor de una contra-historia"
+title: "Satanás como autor de una contrahistoria de la iglesia"
 date: "2025-12-07"
 updated: "2026-04-11"
 author: "Leonardo Moreno"
 slug: "satanas-como-autor-de-una-contra"
 redirectFrom: "/2025/12/satanas-como-autor-de-una-contra.html"
-description: "El reto de todo nuevo creyente es entender la verdadera historia de la iglesia ¿Qué pasó desde la iglesia primitiva hasta nuestros días? Algunos historiadores…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Qué pasó con la iglesia desde la primitiva hasta hoy, y la tesis de que Satanás está detrás de una contrahistoria difundida por algunos historiadores."
+tags: ["Falsas Doctrinas", "Apologética", "Historia de la iglesia", "Satanás"]
 ---
 
 Estimado lector,  

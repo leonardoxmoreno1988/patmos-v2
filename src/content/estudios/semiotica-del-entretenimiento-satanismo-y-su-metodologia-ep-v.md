@@ -1,12 +1,12 @@
 ---
-title: "Semiótica del Entretenimiento: Satanismo Y Su Metodología (Ep V)"
+title: "Semiótica del entretenimiento: satanismo, parte V"
 date: "2016-11-07"
 updated: "2023-07-20"
 author: "Leonardo Moreno"
 slug: "semiotica-del-entretenimiento-satanismo-y-su-metodologia-ep-v"
 redirectFrom: "/2016/11/semiotica-del-entretenimiento-satanismo.html"
-description: "\"Satanás es el Dios de nuestro planeta y el único Dios...\" -Helena Blavatsky, La Doctrina Secreta En la entrega de verano de la revista Dazed hay una…"
-tags: ["Cine y Cultura"]
+description: "Quinta entrega de la serie sobre semiótica del entretenimiento, que abre con una cita de Helena Blavatsky y analiza una sesión de la revista Dazed."
+tags: ["Cine y Cultura", "Semiótica", "Dazed", "Entretenimiento"]
 ---
 
 _"Satanás es el Dios de nuestro planeta y el único Dios..."_   

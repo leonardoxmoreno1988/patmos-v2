@@ -1,12 +1,12 @@
 ---
-title: "Semiótica del Entretenimiento: Satanismo Y Su Metodología (Ep II)"
+title: "Semiótica del entretenimiento: satanismo, parte II"
 date: "2014-01-30"
 updated: "2024-09-02"
 author: "Leonardo Moreno"
 slug: "semiotica-del-entretenimiento-satanismo-y-su-metodologia-ep-ii"
 redirectFrom: "/2014/01/semiotica-del-entretenimiento-satanismo.html"
-description: "\"La magia negra no es un mito. Esta es una forma de magia totalmente no científica y emocional, pero obtiene resultados — de una naturaleza temporalmente…"
-tags: ["Cine y Cultura"]
+description: "Segunda entrega de la serie sobre semiótica del entretenimiento, con la cita de Aleister Crowley sobre la magia negra como fuerza emocional, no científica."
+tags: ["Cine y Cultura", "Semiótica", "Satanismo", "Aleister Crowley"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

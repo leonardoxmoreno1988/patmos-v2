@@ -1,12 +1,12 @@
 ---
-title: "Sitios Siniestros: Las Piedras Guías De Georgia"
+title: "Sitios siniestros: las Piedras Guía de Georgia"
 date: "2010-12-03"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "sitios-siniestros-las-piedras-guias-de"
 redirectFrom: "/2010/12/sitios-siniestros-las-piedras-guias-de.html"
-description: "The Georgia Guidestone (Las Piedras Guías de Georgia) son un monumento misterioso en el cual están tallados diez “mandamientos” para una “Nueva Edad de la…"
-tags: ["Sociedad"]
+description: "La Georgia Guidestone, monumento con diez mandamientos para una nueva edad de la razón, y las teorías que lo rodean, según el artículo sobre el tema."
+tags: ["Sociedad", "Georgia Guidestone", "Monumentos", "Sitios"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

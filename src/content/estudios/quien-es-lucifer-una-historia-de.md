@@ -1,12 +1,12 @@
 ---
-title: "¿Quién es Lúcifer? Una Historia De Rebelión vs Propaganda"
+title: "¿Quién es Lúcifer? Rebelión frente a propaganda"
 date: "2014-01-28"
 updated: "2024-09-02"
 author: "Jhonkbn"
 slug: "quien-es-lucifer-una-historia-de"
 redirectFrom: "/2014/01/quien-es-lucifer-una-historia-de.html"
-description: "En diferentes religiones y culturas el significado del ángel caído, Lúcifer, parece haber adoptado profundos significados sobre el mundo espiritual. ¿Quién es…"
-tags: ["Apologética"]
+description: "Quién es Lucifer, el ángel caído, según la Biblia, y cómo su figura ha adoptado profundos significados en distintas religiones y culturas del mundo."
+tags: ["Apologética", "Lucifer", "Ángeles caídos", "Satanás"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -1,12 +1,12 @@
 ---
-title: "Reveladoras Fotografías De Una Fiesta Illuminati De Los Rothschild (1972)"
+title: "Fotos de la fiesta de los Rothschild en 1972"
 date: "2014-01-03"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "reveladoras-fotografias-de-una-fiesta"
 redirectFrom: "/2014/01/reveladoras-fotografias-de-una-fiesta.html"
-description: "El 12 de diciembre de 1972 Marie-Hélène de Rothschild, miembro de la familia de la élite más poderosa del mundo, celebró una surrealista fiesta en el Château…"
-tags: ["Sociedad"]
+description: "Fotografías de la fiesta que Marie-Hélène de Rothschild celebró en el Château de Ferrières el 12 de diciembre de 1972, según el artículo y sus imágenes."
+tags: ["Sociedad", "Rothschild", "Illuminati", "Fotografías"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

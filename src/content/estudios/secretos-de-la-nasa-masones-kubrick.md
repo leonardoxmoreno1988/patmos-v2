@@ -1,12 +1,12 @@
 ---
-title: "Secretos De La NASA: Francmasonería, Stanley Kubrick y EL Rol De Saturno"
+title: "Secretos de la NASA: masonería, Kubrick y Saturno"
 date: "2017-03-15"
 updated: "2023-07-20"
 author: "Kevin Farringdon"
 slug: "secretos-de-la-nasa-masones-kubrick"
 redirectFrom: "/2017/03/secretos-de-la-nasa-masones-kubrick.html"
-description: "El año era 1969. En lo que parecía a la mayoría la proeza más monumental y tecnológicamente increíble en la historia humana, el hombre había caminado sobre la…"
-tags: ["Sociedad"]
+description: "El alunizaje de 1969 y las tesis del artículo sobre la francmasonería, Stanley Kubrick y el papel de Saturno en los supuestos secretos de la NASA."
+tags: ["Sociedad", "NASA", "Masonería", "Stanley Kubrick"]
 ---
 
 El año era 1969. En lo que parecía a la mayoría la proeza más monumental y tecnológicamente increíble en la historia humana, el hombre había caminado sobre la luna. Volando de la tierra al espacio, la nave **Apolo 11** de la **NASA**, que llevaba tres astronautas heroicos, se sentó sobre la superficie polvorienta de la luna.  

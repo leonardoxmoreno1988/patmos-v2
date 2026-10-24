@@ -1,12 +1,12 @@
 ---
-title: "Semiótica del Entretenimiento: Satanismo Y Su Metodología (Ep III)"
+title: "Semiótica del entretenimiento: satanismo, parte III"
 date: "2014-04-24"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "semiotica-del-entretenimiento-satanismo-y-su-metodologia-ep-iii"
 redirectFrom: "/2014/04/semiotica-del-entretenimiento-satanismo.html"
-description: "\"Este es el secreto de la propaganda: saturar totalmente a la persona a quien la propaganda quiera tomar posesión, con las ideas de la propaganda, sin que él…"
-tags: ["Cine y Cultura"]
+description: "Tercera entrega de la serie: la propaganda que satura a la persona hasta que no advierte que es influida, según la cita que abre el artículo sobre el tema."
+tags: ["Cine y Cultura", "Semiótica", "Propaganda", "Entretenimiento"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

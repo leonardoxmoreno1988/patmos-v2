@@ -1,12 +1,12 @@
 ---
-title: "De sociedades secretas y misterios de Babilonia"
+title: "Sociedades secretas y misterios de Babilonia"
 date: "2023-01-10"
 updated: "2026-04-10"
 author: "Leonardo Moreno"
 slug: "sociedades-misterios-babilonia"
 redirectFrom: "/2023/01/sociedades-misterios-babilonia.html"
-description: "Muchos creen que existe un grupo selecto de personas con riqueza, poder y alcance ilimitados. Tal grupo es conocido por muchos nombres: el \"gobierno en la…"
-tags: ["Sociedad"]
+description: "El supuesto gobierno en la sombra, con riqueza y poder ilimitados, que muchos creen que existe, y su posible relación con los misterios de Babilonia."
+tags: ["Sociedad", "Babilonia", "Sociedades secretas", "Gobierno en la sombra"]
 ---
 
 Estimado lector,  

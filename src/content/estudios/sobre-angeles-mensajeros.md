@@ -5,8 +5,8 @@ updated: "2026-04-10"
 author: "Leonardo Moreno"
 slug: "sobre-angeles-mensajeros"
 redirectFrom: "/2025/06/sobre-angeles-mensajeros.html"
-description: "El estudio de los ángeles es una parte importante de la teología que a menudo se malinterpreta. Las películas, las creencias de la iglesia católica y la…"
-tags: ["Apologética"]
+description: "Una introducción a la angelología bíblica: qué son los ángeles, los mensajeros y otros seres celestiales, y los malentendidos que las películas difunden."
+tags: ["Apologética", "Angelología", "Ángeles", "Teología"]
 ---
 
 Estimado lector,  

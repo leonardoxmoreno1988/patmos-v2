@@ -5,8 +5,8 @@ updated: "2025-05-27"
 author: "Leonardo Moreno"
 slug: "sectas-biblicas"
 redirectFrom: "/2023/01/sectas-biblicas.html"
-description: "Cuando José Luis de Jesús Miranda, líder de la secta Creciendo en Gracia, se autodenominó Jesucristo Hombre, nadie de sus seguidores lo desenmascaró, sino más…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Cómo distinguir una secta de una iglesia, con el caso de José Luis de Jesús Miranda, líder de Creciendo en Gracia, que se autodenominó Jesucristo Hombre."
+tags: ["Falsas Doctrinas", "Apologética", "Sectas", "Creciendo en Gracia"]
 ---
 
 Estimado lector,  

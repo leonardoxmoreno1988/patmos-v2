@@ -1,12 +1,12 @@
 ---
-title: "¿Quiénes Son Los Illuminati? [Línea De Tiempo]"
+title: "¿Quiénes son los illuminati? Línea de tiempo"
 date: "2017-05-22"
 updated: "2023-07-20"
 author: "Jhonkbn"
 slug: "quienes-son-los-illuminati"
 redirectFrom: "/2017/05/quienes-son-los-illuminati.html"
-description: "Los Illuminati son una sociedad privada de delegados de élite que controlan los principales bancos del mundo. Crean inflaciones, recesiones, depresiones y…"
-tags: ["Sociedad"]
+description: "Los illuminati, descritos por el artículo como una sociedad de élite que controla bancos y mercados, con una línea de tiempo de sus orígenes."
+tags: ["Sociedad", "Illuminati", "Historia", "Élites"]
 ---
 
 Los **Illuminati** son una sociedad privada de delegados de **élite** que controlan los principales bancos del mundo. Crean inflaciones, recesiones, depresiones y manipulan los mercados mundiales, apoyan a ciertos líderes, crean golpes de estado y socavan a otros para lograr sus **objetivos generales**.  

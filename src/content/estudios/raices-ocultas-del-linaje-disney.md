@@ -1,12 +1,12 @@
 ---
-title: "Raíces Ocultas Del Linaje Disney"
+title: "Raíces ocultas del linaje Disney y los illuminati"
 date: "2014-04-17"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "raices-ocultas-del-linaje-disney"
 redirectFrom: "/2014/04/linajes-de-los-illuminati-el-linaje.html"
-description: "Los Illuminati han refinado el arte del engaño mucho más allá de lo que el hombre común ha podido alguna vez imaginar. La misma vida y la libertad de la…"
-tags: ["Sociedad"]
+description: "Según el artículo, los illuminati habrían refinado el engaño en las raíces del linaje Disney, una tesis que el autor presenta como desenmascaramiento."
+tags: ["Sociedad", "Disney", "Illuminati", "Linajes"]
 ---
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmLfEsS-f_Q4ojv4eaVgqdk_JPDrxLHlEAMHfAcB_4wJmDepnC1ozJgvTlbcK7LJDjxSbxyg1f-9J1m5JdRZW2oJkAUJKJjNih0GNc38mt_i5QrewP6kjyOBCR_dll8DnRgJD62xScsbA/s1600/Walt_Disney.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmLfEsS-f_Q4ojv4eaVgqdk_JPDrxLHlEAMHfAcB_4wJmDepnC1ozJgvTlbcK7LJDjxSbxyg1f-9J1m5JdRZW2oJkAUJKJjNih0GNc38mt_i5QrewP6kjyOBCR_dll8DnRgJD62xScsbA/s1600/Walt_Disney.jpg)

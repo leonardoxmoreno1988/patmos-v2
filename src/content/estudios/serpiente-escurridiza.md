@@ -1,12 +1,12 @@
 ---
-title: "Aquella serpiente escurridiza y tortuosa"
+title: "Aquella serpiente escurridiza y tortuosa de Génesis 3"
 date: "2022-12-11"
 updated: "2026-04-13"
 author: "Leonardo Moreno"
 slug: "serpiente-escurridiza"
 redirectFrom: "/2022/12/serpiente-escurridiza.html"
-description: "Cuando la serpiente antigua se presentó en el capítulo tres de Génesis, no es estrictamente claro si tomó la forma de una serpiente literal o si el texto se…"
-tags: ["Apologética"]
+description: "Si la serpiente de Génesis 3 fue un animal literal o una figura de las características perniciosas de Satanás, un estudio del texto bíblico."
+tags: ["Apologética", "Génesis 3", "Satanás", "Serpiente"]
 ---
 
 Estimado lector,  

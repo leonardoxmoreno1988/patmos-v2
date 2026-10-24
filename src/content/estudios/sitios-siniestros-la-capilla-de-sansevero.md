@@ -1,12 +1,12 @@
 ---
-title: "Sitios Siniestros: La Capilla de Sansevero"
+title: "Sitios siniestros: la Capilla de Sansevero"
 date: "2017-05-27"
 updated: "2023-07-20"
 author: "Vigilant Citizen"
 slug: "sitios-siniestros-la-capilla-de-sansevero"
 redirectFrom: "/2017/05/sitios-siniestros-la-capilla-de-sansevero.html"
-description: "Las leyendas locales acerca de la Capilla de Sansevero de Nápoles afirman que las asombrosas obras de arte que contiene son el resultado de magia negra y…"
-tags: ["Sociedad"]
+description: "Las leyendas sobre la Capilla de Sansevero, en Nápoles, que atribuyen sus obras de arte a magia negra y brujería, frente a la historia documentada."
+tags: ["Sociedad", "Nápoles", "Magia negra", "Sitios"]
 ---
 
 Las leyendas locales acerca de la **Capilla de Sansevero** de **Nápoles** afirman que las asombrosas obras de arte que contiene son el resultado de **magia negra** y **brujería**. Las esculturas parecen imposibles de crear a mano, mientras que una macabra obra con dos cuerpos humanos reales se dice que es el resultado de asesinatos rituales. Además, añadiendo al aura oculta que ya rodea la capilla, esta está llena de **simbolismo masónico**.  

@@ -1,12 +1,12 @@
 ---
-title: "Sobre el 'rapto' o arrebatamiento de los cristianos"
+title: "El rapto o arrebatamiento de la iglesia"
 date: "2022-02-20"
 updated: "2025-05-23"
 author: "Leonardo Moreno"
 slug: "rapto-arrebatamiento"
 redirectFrom: "/2022/02/rapto-arrebatamiento.html"
-description: "Algunos suscriptores han mostrado interés sobre mi posición respecto al rapto o arrebatamiento de la iglesia. En la publicación de esta semana explico mi…"
-tags: ["Escatología"]
+description: "El autor explica su postura sobre el arrebatamiento de la iglesia, un evento escatológico sobre el que sus suscriptores han pedido su opinión."
+tags: ["Escatología", "Arrebatamiento", "Iglesia", "Tribulación"]
 ---
 
 Estimado lector,

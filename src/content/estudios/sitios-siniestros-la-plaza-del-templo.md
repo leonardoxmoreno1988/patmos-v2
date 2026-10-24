@@ -1,12 +1,12 @@
 ---
-title: "Sitios Siniestros: La Plaza Del Templo - El Centro Del Universo Mormón"
+title: "Sitios siniestros: la Plaza del Templo mormón"
 date: "2014-08-27"
 updated: "2023-07-21"
 author: "Vigilant Citizen"
 slug: "sitios-siniestros-la-plaza-del-templo"
 redirectFrom: "/2014/08/sitios-siniestros-la-plaza-del-templo.html"
-description: "Situado en el centro de Salt Lake City, Utah - EE. UU., la Plaza del Templo es el centro espiritual, cultural y administrativo de la fe mormona. Este terreno de…"
-tags: ["Sociedad"]
+description: "La Plaza del Templo en Salt Lake City, centro espiritual, cultural y administrativo de la fe mormona, y el terreno de diez acres que la forma."
+tags: ["Sociedad", "Mormonismo", "Salt Lake City", "Sitios"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

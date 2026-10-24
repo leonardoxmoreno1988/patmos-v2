@@ -1,12 +1,12 @@
 ---
-title: "Semiótica del Entretenimiento: Satanismo Y Su Metodología (Ep IV)"
+title: "Semiótica del entretenimiento: satanismo, parte IV"
 date: "2014-07-04"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "semiotica-del-entretenimiento-satanismo-y-su-metodologia-ep-iv"
 redirectFrom: "/2014/07/semiotica-del-entretenimiento-satanismo.html"
-description: "\"Y ahora está probado que Satanás, o el ardiente Dragón Rojo... Lucifer, o \"Portador de Luz\", está en nosotros: es nuestra mente, nuestro tentador y redentor…"
-tags: ["Cine y Cultura"]
+description: "Cuarta entrega de la serie sobre semiótica del entretenimiento, que abre con una cita sobre Lucifer como 'Portador de Luz' y la mente humana."
+tags: ["Cine y Cultura", "Semiótica", "Satanismo", "Lucifer"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
