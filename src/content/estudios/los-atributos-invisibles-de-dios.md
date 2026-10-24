@@ -23,7 +23,7 @@ Romanos dice que tenemos "la luz de la creación". Simplemente, el poder ver un 
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/373/original/aves-naturaleza.jpeg)  
   
-La complejidad de [las estrellas](https://www.ritualypropaganda.com/2022/11/evangelio-en-las-estrellas.html?m=1) y los planetas atestigua que no sucedieron por casualidad (Salmo 74:16). Toda la creación nos expone a entender que hay un Dios con gran poder que tuvo la capacidad de crear.  
+La complejidad de [las estrellas](/estudios/evangelio-en-las-estrellas) y los planetas atestigua que no sucedieron por casualidad (Salmo 74:16). Toda la creación nos expone a entender que hay un Dios con gran poder que tuvo la capacidad de crear.  
 
 > "Porque las cosas invisibles de él, entendidas son desde la creación del mundo, por medio de las cosas que son hechas, se ven claramente, es a saber, su eterno poder y divinidad, para que queden sin excusa."  
 > –Romanos 1:20

@@ -46,7 +46,7 @@ En el último acto se revela que en realidad la madre de Rose, una psicóloga al
 
   
 
-La película en gran parte se centra en el proceso que sufre Chris al intentar ser preparado para este proceso, donde él debe ser separado de su yo y dar "espacio" al que vendría a ser su nuevo "dueño". Algo que quizás pocos han notado es que muchas de las técnicas de programación usadas tienen relación con la programación monarca o MK Ultra de la CIA. Si no le es familiar ese término le recomiendo leer el artículo **[Orígenes y Técnica del Control Mental Monarca](https://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)**. Veamos cómo esto se hace evidente durante la trama.  
+La película en gran parte se centra en el proceso que sufre Chris al intentar ser preparado para este proceso, donde él debe ser separado de su yo y dar "espacio" al que vendría a ser su nuevo "dueño". Algo que quizás pocos han notado es que muchas de las técnicas de programación usadas tienen relación con la programación monarca o MK Ultra de la CIA. Si no le es familiar ese término le recomiendo leer el artículo **[Orígenes y Técnica del Control Mental Monarca](/estudios/origenes-y-tecnica-del-control-mental)**. Veamos cómo esto se hace evidente durante la trama.  
 
 ## El Uso Del Trauma
 
@@ -164,7 +164,7 @@ El protagonista logra detener la programación colocándose el algodón desgarra
 
 ## La Figura Mesiánica
 
-Un misterio oscuro y constante en las películas de Hollywood, es el personaje mesiánico o crístico, la figura que contiene relaciones con Jesucristo. Mucho más evidente en películas como **[Superman](http://www.ritualypropaganda.com/2013/06/en-las-profundidades-de-kripton-la.html)**, **[Harry Potter](http://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html)** o **[Donnie Darko](http://www.ritualypropaganda.com/2014/09/esquizofrenia-y-control-mental-el.html),** pero que en este caso tampoco falta. Este vínculo también se programa en las víctimas de control mental monarca y debemos saber el porqué.
+Un misterio oscuro y constante en las películas de Hollywood, es el personaje mesiánico o crístico, la figura que contiene relaciones con Jesucristo. Mucho más evidente en películas como **[Superman](/estudios/en-las-profundidades-de-kripton-la)**, **[Harry Potter](/estudios/analisis-de-los-simbolos-ocultos-en)** o **[Donnie Darko](/estudios/esquizofrenia-y-control-mental-el-significado-oculto-de-donnie-darko-parte-i),** pero que en este caso tampoco falta. Este vínculo también se programa en las víctimas de control mental monarca y debemos saber el porqué.
 
   
 

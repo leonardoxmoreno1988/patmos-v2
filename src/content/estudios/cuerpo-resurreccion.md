@@ -14,7 +14,7 @@ Estimado lector,
   
 Una de las verdades extraordinarias de la resurrección de Jesús es la promesa de que los cuerpos de los que confían en Él también resucitarán un día, como cuerpos nuevos y remodelados, aptos para la eternidad. A medida que envejecemos, esto es algo que puede darnos que pensar cada mañana. Nuestra cercanía con la muerte nos hace comprender el poder de Dios y el significado de la vida eterna (Daniel 12:2). ¿Qué nos espera detrás de esta promesa?  
   
-Muchas personas buscarán evitar la muerte a través de las promesas de la ciencia. El [transhumanismo](https://www.ritualypropaganda.com/2020/10/vida-eterna-transhumana.html), que desea fusionar el cuerpo con la tecnología y prolongar la vida, es una de ellas, así como la migración de la consciencia a una computadora.
+Muchas personas buscarán evitar la muerte a través de las promesas de la ciencia. El [transhumanismo](/estudios/vida-eterna-transhumana), que desea fusionar el cuerpo con la tecnología y prolongar la vida, es una de ellas, así como la migración de la consciencia a una computadora.
 
   
 
@@ -22,7 +22,7 @@ El objetivo a largo plazo es la simbiosis humana con la inteligencia artificial.
   
 [![silueta de un cuerpo resucitado y perfecto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_tdcsoyUn_X1rjZZoNWjZaFnDsFJpXNFypY3c8a7O2O8WEUxCrr4isYq0TQyxOUSNqgkPJk6IbUTkjqR71y0VBvzz0RDW7nIpdnhsKsrsf7tqOG9F-c6ftA2hRLgIp6DSVbsr7XS0v7C9Q9KuKPHABWxyzQJpFt0n-DqlVjba6R2C1ODjzmPZ_kse/s16000/body.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_tdcsoyUn_X1rjZZoNWjZaFnDsFJpXNFypY3c8a7O2O8WEUxCrr4isYq0TQyxOUSNqgkPJk6IbUTkjqR71y0VBvzz0RDW7nIpdnhsKsrsf7tqOG9F-c6ftA2hRLgIp6DSVbsr7XS0v7C9Q9KuKPHABWxyzQJpFt0n-DqlVjba6R2C1ODjzmPZ_kse/s700/body.jpg)  
   
-La emergente popularidad de los [superhéroes](https://www.ritualypropaganda.com/2013/06/en-las-profundidades-de-kripton-la.html), los antiguos dioses de las mitologías, han hecho deseables tales capacidades superhumanas y venden sus beneficios inmediatos en la forma de una nueva idolatría. Existe una campaña engañosa de que Satanás, a través de la tecnología y la ciencia, puede hacernos superhombres. Irónico que las personas busquen librarse de la muerte, pero ignoran al único que tuvo el poder de vencerla, Jesús de Nazaret.  
+La emergente popularidad de los [superhéroes](/estudios/en-las-profundidades-de-kripton-la), los antiguos dioses de las mitologías, han hecho deseables tales capacidades superhumanas y venden sus beneficios inmediatos en la forma de una nueva idolatría. Existe una campaña engañosa de que Satanás, a través de la tecnología y la ciencia, puede hacernos superhombres. Irónico que las personas busquen librarse de la muerte, pero ignoran al único que tuvo el poder de vencerla, Jesús de Nazaret.  
   
 En 1 Corintios 15, el apóstol Pablo discute y defiende la resurrección de Jesús, a la vez que describe cómo serán tales cuerpos futuros:  
 

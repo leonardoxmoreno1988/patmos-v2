@@ -89,7 +89,7 @@ El Nuevo Testamento claramente pinta para nosotros una imagen honesta y futura d
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJhfSCy7oB1GJZQlKTg-VuVLGstaSfcLe9LR9Czz3spmk2gEl_8CR2L_kI5PAyrIJ4iGnY05CZ58xgToUsYaL0SdrC0SrhPGiGBGiutvTZggoh6zAnUFGVd-9itJp2R_7vP7v_eRIdzQs/s1600/snake_eye.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJhfSCy7oB1GJZQlKTg-VuVLGstaSfcLe9LR9Czz3spmk2gEl_8CR2L_kI5PAyrIJ4iGnY05CZ58xgToUsYaL0SdrC0SrhPGiGBGiutvTZggoh6zAnUFGVd-9itJp2R_7vP7v_eRIdzQs/s1600/snake_eye.jpg)
 
-**Símbolo de la serpiente comiendo su cola, también nombrado como el _[Ouroboros](http://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html)_.**
+**Símbolo de la serpiente comiendo su cola, también nombrado como el _[Ouroboros](/estudios/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros)_.**
 
   
 Los profetas y apóstoles advirtieron asimismo de las enseñanzas de los rabinos, que Jesús dijo eran "tradiciones hechas por el hombre" y "no de Dios". Pablo dijo que aquellos que son víctimas de estas mentiras son "embrujados" (Gálatas 3). Isaías declaró que los hijos de Israel "despreciaron" la Palabra del Señor, y por lo tanto, "la verdad ha caído en las calles".  

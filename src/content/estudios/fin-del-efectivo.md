@@ -31,7 +31,7 @@ Unos breves conceptos:
   
 **Monedas digitales de los bancos centrales:** Una moneda digital del banco central, o CBDC, es un tipo de moneda virtual respaldada por un banco central como la Reserva Federal o el Banco de Inglaterra. Varios países, como Estados Unidos, China, Japón y Suecia se encuentran en las primeras fases de experimentación con las CBDC.  
   
-Con tales evidencias y una mirada objetiva del mundo actual, no es difícil el poder vislumbrar un mundo **[sin dinero físico](https://www.ritualypropaganda.com/2020/02/la-guerra-contra-el-efectivo-el-plan.html)**.
+Con tales evidencias y una mirada objetiva del mundo actual, no es difícil el poder vislumbrar un mundo **[sin dinero físico](/estudios/la-guerra-contra-el-efectivo-el-plan)**.
 
   
 Al mismo tiempo recordamos que la Marca de la Bestia (Revelación 13:16-17) está directamente relacionada con la capacidad de las personas para comprar o vender productos.  
@@ -54,7 +54,7 @@ Imagine un gobierno mundial, con autoridad global, que emite una moneda digital 
 
 Cuando un pescador llamado Juan recibió y escribió su visión en el libro de Revelación hace dos mil años, no tenía concepto de electricidad, computadoras, internet o monedas digitales. Probablemente no sabía cómo el Anticristo podría controlar las compras y ventas en todo el mundo. Simplemente relató lo que le fue revelado.  
   
-Ahora, aquí estamos hoy, quizás por primera vez en la historia de la humanidad, cristianos y no cristianos capaces de imaginar un escenario en el que la **[Marca de la Bestia](https://www.ritualypropaganda.com/2021/09/tecnocracia-bestia-dragon.html)** podría suceder absolutamente. Hoy estamos a las puertas de esa realidad digital.
+Ahora, aquí estamos hoy, quizás por primera vez en la historia de la humanidad, cristianos y no cristianos capaces de imaginar un escenario en el que la **[Marca de la Bestia](/estudios/tecnocracia-bestia-dragon)** podría suceder absolutamente. Hoy estamos a las puertas de esa realidad digital.
 
   
 La Biblia habla sobre el dinero 140 veces en 130 versículos. Es interesante también que la primera mención del dinero se da en Génesis 17:12, refiriéndose a la compra de un hombre, es decir la compra de un esclavo. Esta es una posible señal sobre cómo Cristo pagaría el precio de toda la humanidad con su muerte, librándonos de la esclavitud del pecado.  

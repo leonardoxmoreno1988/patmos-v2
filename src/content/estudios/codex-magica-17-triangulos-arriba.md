@@ -47,7 +47,7 @@ Para los ocultistas, el triángulo que apunta hacia arriba representa el fuego y
 
 ## Los Triángulos del Papa
 
-El **[Vaticano](http://www.ritualypropaganda.com/2017/05/el-origen-del-nombre-vaticano-y-vatika.html)** también entró en el acto triangular. En algunas iglesias católicas romanas hoy, detrás del altar encontramos el ojo que todo lo ve dentro de un triángulo. 
+El **[Vaticano](/estudios/el-origen-del-nombre-vaticano-y-vatika)** también entró en el acto triangular. En algunas iglesias católicas romanas hoy, detrás del altar encontramos el ojo que todo lo ve dentro de un triángulo. 
 
   
 
@@ -381,7 +381,7 @@ Mohammed El Baradei, jefe de la Asociación Internacional de Energía Atómica d
 
   
 
-Reuniéndose con la Primera Dama Nancy Reagan está el Papa Juan Pablo II. A la izquierda, el pontífice muestra otro signo masónico, el de la **[Mano sobre Corazón](http://www.ritualypropaganda.com/2017/09/codex-magica-16-la-mano-en-el-corazon.html)**, con el pulgar comunicando: "**[Estoy en la plaza](http://www.ritualypropaganda.com/2017/03/codex-magica-10-juro-en-verdad.html)**".  
+Reuniéndose con la Primera Dama Nancy Reagan está el Papa Juan Pablo II. A la izquierda, el pontífice muestra otro signo masónico, el de la **[Mano sobre Corazón](http://www.ritualypropaganda.com/2017/09/codex-magica-16-la-mano-en-el-corazon.html)**, con el pulgar comunicando: "**[Estoy en la plaza](/estudios/codex-magica-10-juro-en-verdad)**".  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq0EBwuzpVqaEb2C7NxuyavYrxR_uEq1kSP0y2EwjxzD7fDL9j7KuvuIt9ZSgQL2aqYELrP27UyruR4oZYnsaRAM2ER2FeIIwAePIdZE4nalqFsAkr6NEUMCMJbsj4z4tT8DsnyG37eDg/s1600/ecodex_91_small.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq0EBwuzpVqaEb2C7NxuyavYrxR_uEq1kSP0y2EwjxzD7fDL9j7KuvuIt9ZSgQL2aqYELrP27UyruR4oZYnsaRAM2ER2FeIIwAePIdZE4nalqFsAkr6NEUMCMJbsj4z4tT8DsnyG37eDg/s1600/ecodex_91_small.jpg)
@@ -412,7 +412,7 @@ Esta portada de una de las muchas publicaciones de Star Wars, representa un pers
 
   
 
-Anuncio de página completa para Phoenix Wealth Management, una empresa de inversión. Para información sobre el Fénix como símbolo, vea el capítulo en el Codex Magica, **E[xaminando el águila de dos cabezas](http://www.ritualypropaganda.com/2017/06/codex-significado-aguila-dos-cabezas_19.html)** (p.341).  
+Anuncio de página completa para Phoenix Wealth Management, una empresa de inversión. Para información sobre el Fénix como símbolo, vea el capítulo en el Codex Magica, **E[xaminando el águila de dos cabezas](/estudios/codex-significado-aguila-dos-cabezas-19)** (p.341).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xOQjx48lwro9Fua-pxhoFH9xnILiPhfbCribUT1KcGkTdOhOkmJzkKpMam1xh3VBekLD6LECz2vv7-31DsJafYWI9c6lXOFydnblYIfzR6CQHl8DX-qmuN4ccyuemhgNvraJT9yVtPU/s1600/ecodex_96.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xOQjx48lwro9Fua-pxhoFH9xnILiPhfbCribUT1KcGkTdOhOkmJzkKpMam1xh3VBekLD6LECz2vv7-31DsJafYWI9c6lXOFydnblYIfzR6CQHl8DX-qmuN4ccyuemhgNvraJT9yVtPU/s1600/ecodex_96.jpg)

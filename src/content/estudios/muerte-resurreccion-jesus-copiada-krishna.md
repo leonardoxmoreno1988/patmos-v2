@@ -15,7 +15,7 @@ tags: ["Apologética", "Krishna", "Resurrección", "Mitos paganos"]
 [![ilustracion de jesus y krishna sosteniéndose de la mano](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivhH6DZIOHELwXdyrwsUrIv4LJoAXVxsJajz-w1gpCZoWk_Lj7K15WGA5pr3o-XREl8Oeh-c-jTX7-w5_uZmmSHhK9Mxqcysj91Idz3Qz4DuhVx6oof4uURpGvmZBxuck58E7qL6Syh7Q/s1600/jesus-krishna.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivhH6DZIOHELwXdyrwsUrIv4LJoAXVxsJajz-w1gpCZoWk_Lj7K15WGA5pr3o-XREl8Oeh-c-jTX7-w5_uZmmSHhK9Mxqcysj91Idz3Qz4DuhVx6oof4uURpGvmZBxuck58E7qL6Syh7Q/s1600/jesus-krishna.png)
 
   
-Dijo que Jesús no era único entre las **[figuras religiosas](http://www.ritualypropaganda.com/2016/11/jesus-vs-buda-evidencia-historica.html)**. Los fans de su obra estaban convencidos de que la figura hindú Krishna no era sólo un dios moribundo y ascendente, sino también un salvador crucificado.  
+Dijo que Jesús no era único entre las **[figuras religiosas](/estudios/jesus-vs-buda-evidencia-historica)**. Los fans de su obra estaban convencidos de que la figura hindú Krishna no era sólo un dios moribundo y ascendente, sino también un salvador crucificado.  
 
   
 Tal vez usted no ha escuchado este desafío preciso sobre Jesús y Krishna antes. Pero la idea de que la historia de Jesús fue arrancada de los antiguos mitos paganos se repite una y otra vez en las conversaciones sobre la literatura religiosa mundial.
@@ -77,6 +77,6 @@ Curiosamente, los primeros críticos del cristianismo nunca dijeron que la histo
 
 ## La historia de Jesús no fue copiada de Krishna
 
-Conclusión: ¿Krishna fue crucificado? No. No en ninguna historia hindú en ninguna parte. ¿Resucitó Krishna? Tal vez. Pero a pesar de lo que Graves insiste, Krishna no fue un ejemplo precristiano de un **[salvador](http://www.ritualypropaganda.com/2013/06/en-las-profundidades-de-kripton-la.html)** crucificado.  
+Conclusión: ¿Krishna fue crucificado? No. No en ninguna historia hindú en ninguna parte. ¿Resucitó Krishna? Tal vez. Pero a pesar de lo que Graves insiste, Krishna no fue un ejemplo precristiano de un **[salvador](/estudios/en-las-profundidades-de-kripton-la)** crucificado.  
   
 No hay salvación, perdón de pecados (o escape del karma para esa materia) o esperanza de vida eterna vinculada a ella. Sólo comparar las historias de Jesús y Krishna muestra que Graves está equivocado en este caso. Puede estar seguro de que la muerte y resurrección de Jesús no fue copiada de Krishna.

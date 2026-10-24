@@ -69,7 +69,7 @@ El oso ruso es una personificación nacional de Rusia, utilizada en caricaturas 
   
 La imagen del oso fue, sin embargo, en varias ocasiones (especialmente en el siglo 20) también retomada por los propios rusos. Tener al oso de peluche "Misha" como la mascota de los Juegos Olímpicos de Moscú 1980, boicoteado por numerosos países debido a la invasión de Afganistán. Evidentemente, Rusia tenía la intención de contrarrestar la imagen del "grande y brutal Oso Ruso" con pequeños y cariñosos muñecos.  
   
-Después del colapso de la Unión Soviética, hubo cierto apoyo en el Parlamento ruso por tener un oso como el nuevo escudo de armas de Rusia, con los proponentes señalando que "Rusia se identifica de todos modos en el mundo con el oso", aunque finalmente fue el escudo de armas zarista del **[águila bicéfala](https://www.ritualypropaganda.com/2017/06/codex-significado-aguila-dos-cabezas_19.html)** que fue restaurada.  
+Después del colapso de la Unión Soviética, hubo cierto apoyo en el Parlamento ruso por tener un oso como el nuevo escudo de armas de Rusia, con los proponentes señalando que "Rusia se identifica de todos modos en el mundo con el oso", aunque finalmente fue el escudo de armas zarista del **[águila bicéfala](/estudios/codex-significado-aguila-dos-cabezas-19)** que fue restaurada.  
   
 Más tarde, el oso fue tomado como el símbolo del Partido Unido de Rusia, que domina la vida política en Rusia desde principios de la década de 2000. Casualmente, el apellido de Dmitry Medvedev, el presidente ruso elegido en 2008, es el adjetivo posesivo de медведь: es decir, su apellido significa "un oso".  
   

@@ -189,7 +189,7 @@ Al final de la Era, Bailey nos asegura, "los tres Centros principales estarán e
 
   
 
-**[Aleister Crowley](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**, el difunto satanista británico y francmasón, también era un devoto del triángulo como símbolo.  
+**[Aleister Crowley](/estudios/aleister-crowley-666-biografia-cultura-popular)**, el difunto satanista británico y francmasón, también era un devoto del triángulo como símbolo.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjotd5h-KfSr9lCiFJTooL1OvAhL6n_dxK_9LNwSfPqD6nHagiGHJPrztawBirOv5VKDj0x7T_B88e1jEI3jx5_FvzJ-OwZVc4xodcJZJrxnvLhNAwIEtwMvzbApZDcyRAbPoK9V8onmJM/s1600/ecodex_11.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjotd5h-KfSr9lCiFJTooL1OvAhL6n_dxK_9LNwSfPqD6nHagiGHJPrztawBirOv5VKDj0x7T_B88e1jEI3jx5_FvzJ-OwZVc4xodcJZJrxnvLhNAwIEtwMvzbApZDcyRAbPoK9V8onmJM/s1600/ecodex_11.jpg)
@@ -283,7 +283,7 @@ Páginas 800 y 801 de Encyclopedia of Freemasonry por Albert G. Mackey, 33 ° y 
   
 
   
-El delantal masónico tiene en su centro un triángulo radiante. También vemos la estrella, el escarabajo egipcio y la **[serpiente Oroboros](http://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html)** devorando su cola.
+El delantal masónico tiene en su centro un triángulo radiante. También vemos la estrella, el escarabajo egipcio y la **[serpiente Oroboros](/estudios/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros)** devorando su cola.
 
   
 
@@ -481,7 +481,7 @@ Se dice que el diagrama del Sri Yantra contiene, o sintetiza, todas las activida
 
   
 
-Compuesto por elementos triangulares en blanco y negro, el diseño lleva también el yin / yang, el negro es blanco y el negro es el principio subyacente al piso masónico (tablero de ajedrez) y también es paralelo a la doctrina de las "dos cabezas" implícita en el gran símbolo de la francmasonería de 33 ° grado, **[el águila bicéfala](http://www.ritualypropaganda.com/2017/06/codex-significado-aguila-dos-cabezas_19.html)**. (Dibujo del libro, _Sacred Geometry_, por Robert Lawlor, Thames y Hudson, Nueva York y Londres, 1989)
+Compuesto por elementos triangulares en blanco y negro, el diseño lleva también el yin / yang, el negro es blanco y el negro es el principio subyacente al piso masónico (tablero de ajedrez) y también es paralelo a la doctrina de las "dos cabezas" implícita en el gran símbolo de la francmasonería de 33 ° grado, **[el águila bicéfala](/estudios/codex-significado-aguila-dos-cabezas-19)**. (Dibujo del libro, _Sacred Geometry_, por Robert Lawlor, Thames y Hudson, Nueva York y Londres, 1989)
 
   
 
@@ -611,7 +611,7 @@ Duane Ackerman, CEO de BellSouth Corporation, sosteniendo su mano en lo que suti
 
   
 
-El gobernador de Texas, George W. Bush, en 1998 con el candidato presidencial ruso, el general Alexander Lebed intercambiaron un apretón de manos oculto mientras Lebed exhibe el enigmático signo del doble triángulo de la Logia que es similar al [**Real Saludo de un Maestro Masón**](http://www.ritualypropaganda.com/2016/12/codex-magica-viii-apreton-de-manos-illuminati.html) (_Ritual y Monitor Masónico de Duncan_, 3er) Ed., P.120).
+El gobernador de Texas, George W. Bush, en 1998 con el candidato presidencial ruso, el general Alexander Lebed intercambiaron un apretón de manos oculto mientras Lebed exhibe el enigmático signo del doble triángulo de la Logia que es similar al [**Real Saludo de un Maestro Masón**](/estudios/codex-magica-viii-apreton-de-manos-illuminati) (_Ritual y Monitor Masónico de Duncan_, 3er) Ed., P.120).
 
   
 
@@ -686,7 +686,7 @@ Los tres super ricos hermanos Hunt en una composición de triángulo descendente
 
   
 
-Fritz Springmeier, autor del best seller **[Linajes de los Illuminati](http://www.ritualypropaganda.com/2013/10/linajes-de-los-illuminati-fritz.html),** hizo este dibujo basado en un ritual real conducido por una secta satánica conocida como Ordo Saturnus (Orden de Saturno).
+Fritz Springmeier, autor del best seller **[Linajes de los Illuminati](/estudios/linajes-de-los-illuminati-fritz),** hizo este dibujo basado en un ritual real conducido por una secta satánica conocida como Ordo Saturnus (Orden de Saturno).
 
   
 

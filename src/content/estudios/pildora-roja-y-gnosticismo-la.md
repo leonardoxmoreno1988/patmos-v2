@@ -80,7 +80,7 @@ Luego de su primer y breve encuentro con Trinity, Neo vuelve a su trabajo normal
 El término revelación del método es usado para describir estas esporádicas profecías hollywoodenses, usualmente usadas para adoctrinar a los espectadores sobre los próximos atentados de falsa bandera. Si usted aún cree en la versión oficial del 11 de septiembre, tiene un grave problema de programación predictiva. Por otro lado, también es la forma en la que la élite se ríe en nuestras caras.
 
   
-Neo es sobornado con entregar a Morfeo a cambio de limpiar sus crímenes como hacker. Al negarse, este es "chipeado" con una especie de calamar robótico y luego despierta en su cama, como si todo hubiera sido una pesadilla. En la Matrix, al personaje de Neo le es difícil saber si está dormido o despierto -exactamente como al personaje de Edward Norton en la ya analizada película "[Fight Club](http://www.ritualypropaganda.com/2011/11/el-significado-oculto-de-fight-club-y.html)"-.  
+Neo es sobornado con entregar a Morfeo a cambio de limpiar sus crímenes como hacker. Al negarse, este es "chipeado" con una especie de calamar robótico y luego despierta en su cama, como si todo hubiera sido una pesadilla. En la Matrix, al personaje de Neo le es difícil saber si está dormido o despierto -exactamente como al personaje de Edward Norton en la ya analizada película "[Fight Club](/estudios/el-significado-oculto-de-fight-club-y)"-.  
   
 Como habrán notado algunos recurrentes lectores, los agentes de la Matrix representan al Dios cristiano (Yahweh), el cual según los gnósticos, es el verdadero opresor y tirano de la humanidad. La omnipresencia del Dios bíblico es simbolizada con las diversas formas que los agentes se transfiguran y pueden llegar a cualquier parte de la Matrix.  
   
@@ -115,7 +115,7 @@ Morfeo: que eres un esclavo, Neo. Como todos, naciste para esclavo. Naciste en u
 
   
 
-Probablemente se está preguntando: "¿No se supone que Neo era Jesús? ¿Ahora es Adán?" Esto se debe a que en el gnosticismo, Jesús y Adán poseen la misma naturaleza humana. Una de las metas de la élite es humanizar la figura de Cristo para ponerlo al nivel de Buda, Mahoma o [Krishna](http://www.ritualypropaganda.com/2017/03/muerte-resurreccion-jesus-copiada-krishna.html). Solo de esta forma se incorpora el pensamiento gnóstico del Jesús como no divino y que al igual que los no "iluminados", llegó a ser el Cristo gracias a los conocimientos orientales y sus supuestos viajes a la India. Entre las doctrinas del luciferanismo, la sangre de Cristo no tiene poder de salvación, solo eres salvo por el conocimiento.  
+Probablemente se está preguntando: "¿No se supone que Neo era Jesús? ¿Ahora es Adán?" Esto se debe a que en el gnosticismo, Jesús y Adán poseen la misma naturaleza humana. Una de las metas de la élite es humanizar la figura de Cristo para ponerlo al nivel de Buda, Mahoma o [Krishna](/estudios/muerte-resurreccion-jesus-copiada-krishna). Solo de esta forma se incorpora el pensamiento gnóstico del Jesús como no divino y que al igual que los no "iluminados", llegó a ser el Cristo gracias a los conocimientos orientales y sus supuestos viajes a la India. Entre las doctrinas del luciferanismo, la sangre de Cristo no tiene poder de salvación, solo eres salvo por el conocimiento.  
   
 Luego de aceptar lo que Morfeo le ofrece como "verdad", este es desconectado de la Matrix y Neo despierta logrando ver la realidad de su verdadera naturaleza en la Matrix. Todo es una ilusión y él es un esclavo bajo el control de las máquinas.
 
@@ -228,7 +228,7 @@ Jake Horsley en su artículo titulado: Gnosticismo renacido: La Matrix como un v
 
 ## Lana Wachowski
 
-¿Cuáles son las mentes detrás de esta historia de ciencia ficción? En cierto momento los hermanos Wachowski declararon que Matrix estaba basada en la filosofía del ateo Nietzsche, el cual también inspiró a [Adolf Hitler](http://www.ritualypropaganda.com/2017/05/hitler-era-cristiano-historiadores-dicen-no.html) en la búsqueda de la raza del superhombre.
+¿Cuáles son las mentes detrás de esta historia de ciencia ficción? En cierto momento los hermanos Wachowski declararon que Matrix estaba basada en la filosofía del ateo Nietzsche, el cual también inspiró a [Adolf Hitler](/estudios/hitler-era-cristiano-historiadores-dicen-no) en la búsqueda de la raza del superhombre.
 
 > **"No sabemos todavía de dónde proviene el impulso hacia la verdad: pues hasta ahora solamente hemos hablado de la obligación que la sociedad establece para existir, la de ser veraz, es decir, usar las metáforas usuales, así pues, dicho en términos morales, de la obligación de mentir según una convención fija, de mentir borreguilmente en un estilo obligatorio para todos."**
 > 

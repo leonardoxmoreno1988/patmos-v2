@@ -27,7 +27,7 @@ En tándem con esta deidad de la Serpiente, siempre encontramos a la Mujer, la d
 **Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
   
-Desde el principio de los tiempos, el hombre ha venerado y prestado homenaje al sol, a la luna, a las estrellas y a otros objetos celestiales y a las deidades que representan estos objetos celestiales. La Biblia llama a las entidades que estos seres extraterrestres representan, "huestes del cielo" y advierte contra la vanidad de adorarlos (Deuteronomio 4:13-20). Génesis, capítulo 6, revela que estas entidades no son dioses, sino que son seres creados, los "hijos de Dios", y fueron una vez venerados como "Hombres Poderosos" y como "Gigantes" (**[Nefilim](http://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html)**).  
+Desde el principio de los tiempos, el hombre ha venerado y prestado homenaje al sol, a la luna, a las estrellas y a otros objetos celestiales y a las deidades que representan estos objetos celestiales. La Biblia llama a las entidades que estos seres extraterrestres representan, "huestes del cielo" y advierte contra la vanidad de adorarlos (Deuteronomio 4:13-20). Génesis, capítulo 6, revela que estas entidades no son dioses, sino que son seres creados, los "hijos de Dios", y fueron una vez venerados como "Hombres Poderosos" y como "Gigantes" (**[Nefilim](/estudios/nefilim-antiguo-testamento)**).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhygkn4cCRyDmmOu5zqgoR6nzid9iP0xeBee7m82HbKPjnuxFSJQU8dOuHa2_IhZipPGc3rotvRzJp__5xML6G1LveQdulbrzT1XWqY0xZiOy8uTl-hJvDDgwpn2Fhxf_8iudAYx5J20is/s1600/firmamento-cielo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhygkn4cCRyDmmOu5zqgoR6nzid9iP0xeBee7m82HbKPjnuxFSJQU8dOuHa2_IhZipPGc3rotvRzJp__5xML6G1LveQdulbrzT1XWqY0xZiOy8uTl-hJvDDgwpn2Fhxf_8iudAYx5J20is/s1600/firmamento-cielo.jpg)
@@ -152,7 +152,7 @@ Esta ley de correspondencia se simboliza en la arquitectura monumental en las mu
 
   
 
-En la Francmasonería, por supuesto, encontramos **[el águila de dos cabezas](http://www.ritualypropaganda.com/2017/06/codex-significado-aguila-dos-cabezas_19.html)**, símbolo alto del iniciado del grado 33, y en muchas otras culturas este concepto de dualismo está representado en el símbolo y la piedra. Es la esencia misma de lo que los Illuminati llaman su Gran Obra, o magnum opus.
+En la Francmasonería, por supuesto, encontramos **[el águila de dos cabezas](/estudios/codex-significado-aguila-dos-cabezas-19)**, símbolo alto del iniciado del grado 33, y en muchas otras culturas este concepto de dualismo está representado en el símbolo y la piedra. Es la esencia misma de lo que los Illuminati llaman su Gran Obra, o magnum opus.
 
   
 
@@ -344,7 +344,7 @@ Estas presencias invisibles, pero reales, sostiene DuQuette, son los constructor
 
   
 
-Los nuevos agentes de hoy afirman que estos trabajadores cósmicos están en todas partes ayudando a los discípulos humanos en la construcción de un paraíso en la tierra, un **[Nuevo Orden Mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)** de paz, amor y armonía. A menudo son honrados y llamados a usar los nombres de los planetas, las estrellas, y los antiguos dioses y diosas que representan estos planetas celestiales. Puede sorprender a muchos lectores de este libro descubrir que millones de estadounidenses literalmente meditan en los nombres de estas entidades astrológicas, oran a ellos y ofrecen incienso en sus nombres. Las estanterías de las librerías New Age están llenas de libros que instruyen a los lectores sobre cómo presentar peticiones a deidades tales como Atenea, Hércules, Orión, Marte, Zeus, Draco, Diana, Sofía, Astera, Ra, Ashtar, Thoth, Set, Kali, Amaterasu, Apolo , Juno o Poseidón.Desde una perspectiva bíblica estos son conocidos como espíritus familiares y deben ser evitados.
+Los nuevos agentes de hoy afirman que estos trabajadores cósmicos están en todas partes ayudando a los discípulos humanos en la construcción de un paraíso en la tierra, un **[Nuevo Orden Mundial](/estudios/que-es-el-nuevo-orden-mundial)** de paz, amor y armonía. A menudo son honrados y llamados a usar los nombres de los planetas, las estrellas, y los antiguos dioses y diosas que representan estos planetas celestiales. Puede sorprender a muchos lectores de este libro descubrir que millones de estadounidenses literalmente meditan en los nombres de estas entidades astrológicas, oran a ellos y ofrecen incienso en sus nombres. Las estanterías de las librerías New Age están llenas de libros que instruyen a los lectores sobre cómo presentar peticiones a deidades tales como Atenea, Hércules, Orión, Marte, Zeus, Draco, Diana, Sofía, Astera, Ra, Ashtar, Thoth, Set, Kali, Amaterasu, Apolo , Juno o Poseidón.Desde una perspectiva bíblica estos son conocidos como espíritus familiares y deben ser evitados.
 
 ## El Veredicto Bíblico
 

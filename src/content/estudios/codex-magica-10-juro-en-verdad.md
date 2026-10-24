@@ -9,13 +9,13 @@ description: "Los saludos secretos de los iluministas y su lealtad a la Orden, c
 tags: ["Sociedad", "Codex Magica", "Illuminati", "Masonería"]
 ---
 
-Los **iluministas** utilizan una serie de **[saludos](http://www.ritualypropaganda.com/2016/12/codex-magica-viii-apreton-de-manos-illuminati.html)** para indicar su lealtad a su Orden y demostrar su **conocimiento**, ya que divulgar sus secretos traerá una retribución horrible, rápida y quizás **fatal**.  
+Los **iluministas** utilizan una serie de **[saludos](/estudios/codex-magica-viii-apreton-de-manos-illuminati)** para indicar su lealtad a su Orden y demostrar su **conocimiento**, ya que divulgar sus secretos traerá una retribución horrible, rápida y quizás **fatal**.  
   
 
 [![Rasputín haciendo una señal masónica](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikJup3-AaH1-vAy6bpEN7b4Cn1PtmqVD_oFBqg0O6QJvmP7bdgyRwvnELSGFJQoKCFvr7TAN2dT8YEmiNdifxUpIBiyV-suvT8BRnUh02vp52e52806GLXpQRkMfGzdHMeKkeIQDDXf9U/s1600/codex-10.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikJup3-AaH1-vAy6bpEN7b4Cn1PtmqVD_oFBqg0O6QJvmP7bdgyRwvnELSGFJQoKCFvr7TAN2dT8YEmiNdifxUpIBiyV-suvT8BRnUh02vp52e52806GLXpQRkMfGzdHMeKkeIQDDXf9U/s1600/codex-10.jpg)
 
   
-Cuando el presidente Richard M. Nixon renunció a la presidencia el 9 de agosto de 1974, efectuó el _Dueguard_ y signo del masón del Arco Real, como las cintas de audio de Nixon publicadas por la biblioteca presidencial muestran claramente. Nixon y su "Guardia Prusiana", el Jefe de Gabinete de la Casa Blanca, Robert Haldemann, y su mejor asesor John Erlichman, conspiraron para derrocar el poder de los medios de comunicación judío-Illuminati que envenenaban la mente de América. También conspiraron para derrocar al elaborado FBI y su red de inteligencia históricamente manejado detrás de las escenas por los jefes dirigentes **[Illuminati](http://www.ritualypropaganda.com/2013/10/linajes-de-los-illuminati-fritz.html)**.  
+Cuando el presidente Richard M. Nixon renunció a la presidencia el 9 de agosto de 1974, efectuó el _Dueguard_ y signo del masón del Arco Real, como las cintas de audio de Nixon publicadas por la biblioteca presidencial muestran claramente. Nixon y su "Guardia Prusiana", el Jefe de Gabinete de la Casa Blanca, Robert Haldemann, y su mejor asesor John Erlichman, conspiraron para derrocar el poder de los medios de comunicación judío-Illuminati que envenenaban la mente de América. También conspiraron para derrocar al elaborado FBI y su red de inteligencia históricamente manejado detrás de las escenas por los jefes dirigentes **[Illuminati](/estudios/linajes-de-los-illuminati-fritz)**.  
 
   
 Nixon sabía lo que estaba arriesgando. Sabía muy bien que el asesinato de John F. Kennedy fue orquestado por los Illuminati judíos con el respaldo del vicepresidente sionista Lyndon B. Johnson y con el consentimiento del FBI infiltrado por la mafia de J. Edgar Hoover y de la CIA de Skull & Bones. Nixon había sido un estrecho colaborador de David Rockefeller y se había reunido en privado con los Rothschilds varias veces. Nixon también había asistido a los notorios rituales ocultistas homoeróticos del Bohemian Club en las afueras de San Francisco. Sin embargo, como Presidente, él había esperado montar una ofensiva contra la élite y desalojarlos de su posición de impresionante poder en los Estados Unidos.
@@ -154,7 +154,7 @@ La señal del grado 7 dado por el presidente Nixon, como se ilustra en otro libr
   
 
   
-Rudolf Steiner, un contemporáneo de **[Hitler](http://www.ritualypropaganda.com/2017/05/hitler-era-cristiano-historiadores-dicen-no.html)** en Alemania, muestra el Apretón del Maestro. Durante la era nazi, Steiner se hizo mundialmente famoso por sus enseñanzas masónicas y rosacruzes.  
+Rudolf Steiner, un contemporáneo de **[Hitler](/estudios/hitler-era-cristiano-historiadores-dicen-no)** en Alemania, muestra el Apretón del Maestro. Durante la era nazi, Steiner se hizo mundialmente famoso por sus enseñanzas masónicas y rosacruzes.  
   
 Este cuadro proviene de su libro, _El Camino de la Iniciación - Cómo alcanzar el Conocimiento de los Mundos Superiores_, publicado por Macoy Publishing y Masonic Supply Co., New York City.  
   

@@ -122,7 +122,7 @@ Sin embargo, para lograr estos objetivos, esta "configuración" de la sociedad, 
   
 Ahora, el Illuminista puede imaginar que él no está mas que accediendo a la "fuerza de la energía cósmica" o que está explotando en una "cuarta dimensión", o a la "atmósfera etérea."  
   
-Recomiendo leer: [La "Magia Es Ciencia" Y Como Hollywood Prepara La Nueva Doctrina Masónica](http://www.ritualypropaganda.com/2011/09/la-magia-es-ciencia-y-como-hollywood.html)  
+Recomiendo leer: [La "Magia Es Ciencia" Y Como Hollywood Prepara La Nueva Doctrina Masónica](/estudios/la-magia-es-ciencia-y-como-hollywood)  
   
 De este modo podrá reclamar que su trabajo mágico, o actividad, es benigna, que es simplemente la denominada magia blanca, magia buena, el camino "derecho" como los satanistas y otros ocultista lo han llamado.  
   
@@ -149,15 +149,15 @@ Este nivel de la élite Illuminati han pensado históricamente en sí mismos com
   
 De hecho, los constructores están enojados de que cada vez que han tratado de unir al mundo en Uno, se han visto frustrados por Dios. Todos sus discípulos escogidos, los Césares, Carlomagno, Napoleón, Hitler, Stalin, FDR, Mao, vieron su gran plan de conquista descendiendo a la resonante derrota. Pero aún así, se esfuerzan para completar su misión asignada.  
   
-Ahora es el [nuevo orden mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html) (o la "democracia para todas las naciones" de Bush) lo que tienen en mente. Las Naciones Unidas han de ser "reformadas", que se "fortalezcan". Las pocas naciones rebeldes que quedan deben ser erradicadas.  
+Ahora es el [nuevo orden mundial](/estudios/que-es-el-nuevo-orden-mundial) (o la "democracia para todas las naciones" de Bush) lo que tienen en mente. Las Naciones Unidas han de ser "reformadas", que se "fortalezcan". Las pocas naciones rebeldes que quedan deben ser erradicadas.  
   
-Recomiendo leer: [Las 10 Principales Sociedades Secretas Que Manejan el Mundo](http://www.ritualypropaganda.com/2015/09/las-10-sociedades-secretas-que-influyen.html)  
+Recomiendo leer: [Las 10 Principales Sociedades Secretas Que Manejan el Mundo](/estudios/las-10-sociedades-secretas-que-influyen)  
   
 Las economías de todas las naciones deben ser igualadas, las empresas extinguidas, las constituciones modificadas o ignoradas, las propiedad privadas expropiadas o reguladas severamente, las religiones transformadas, etc. Esos son los objetivos.  
   
 En otras palabras, para construir su Nuevo Orden Mundial, la élite tiene la intención de destruir el orden mundial existente. Lo viejo debe dar paso a lo nuevo. Es el proceso dialéctico hegeliano que se utiliza para lograr este objetivo primordial. Lo que está arriba debe convertirse en lo que está abajo, menciona la ley iluminista de transmutaciones alquímicas.  
   
-Robert Oppenheimer, el espía soviético que supervisó el proyecto Manhattan, la construcción de la primera bomba atómica, y estuvo presente cuando la nube de hongo gigantesco se levantó con sus penachos en la implosión de fuego, se dice que exclamó: "Me convertí en el destructor de los mundos". Pocos se dieron cuenta de que esta es una cita importante de las escrituras hindúes, en el "Bhagavad Gita", y fue supuestamente del sol hindú Dios, **[Krishna](http://www.ritualypropaganda.com/2017/03/muerte-resurreccion-jesus-copiada-krishna.html)**. Oppenheimer, un Judío, nombrado en su posición científica por un mason de grado 33º, el presidente Franklin D. Roosevelt, quién era ocultista y un mago cabalista.  
+Robert Oppenheimer, el espía soviético que supervisó el proyecto Manhattan, la construcción de la primera bomba atómica, y estuvo presente cuando la nube de hongo gigantesco se levantó con sus penachos en la implosión de fuego, se dice que exclamó: "Me convertí en el destructor de los mundos". Pocos se dieron cuenta de que esta es una cita importante de las escrituras hindúes, en el "Bhagavad Gita", y fue supuestamente del sol hindú Dios, **[Krishna](/estudios/muerte-resurreccion-jesus-copiada-krishna)**. Oppenheimer, un Judío, nombrado en su posición científica por un mason de grado 33º, el presidente Franklin D. Roosevelt, quién era ocultista y un mago cabalista.  
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIaf7rN-z-KZdZbGhxp52flk1Xc4x87H7BW-AW5tkFcU-d0lFF2wEG3NVJMhzgIaSi7xiAni4OYCkPZhuvulFS6mL6af8ic754TnJlG3xfRbYv7lXCRKpowDlrtWdP7FUA3SaWUCKCEq4/s320/naciones-unidas-satanas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIaf7rN-z-KZdZbGhxp52flk1Xc4x87H7BW-AW5tkFcU-d0lFF2wEG3NVJMhzgIaSi7xiAni4OYCkPZhuvulFS6mL6af8ic754TnJlG3xfRbYv7lXCRKpowDlrtWdP7FUA3SaWUCKCEq4/s1600/naciones-unidas-satanas.jpg)Como Michael Hoffman II y algunos otros observadores agudos han señalado, el proyecto de la bomba atómica, la transmutación de la materia en formas intensas de energía, fue durante mucho tiempo un objetivo alquímico de los magos Illuminati. Al igual que el dios hindú que los representa, es el deseo más anhelado de estos malvados hombres nihilistas, que se conviertan en los destructores de mundos. **(4)**  
   
@@ -181,7 +181,7 @@ George Bernard Shaw, que mantiene un odio abrumador a Dios y el cristianismo, es
   
 **"Haz lo que desees"**  
   
-**[Aleister Crowley](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**, jefe de la orden ocultista, Ordo Templi Orientis, se enorgullecía de ser el "hombre más malvado en la tierra." Crowley predicaba que los satanistas tenían sólo un mandamiento: "Haz lo que desees será la totalidad de la ley."  
+**[Aleister Crowley](/estudios/aleister-crowley-666-biografia-cultura-popular)**, jefe de la orden ocultista, Ordo Templi Orientis, se enorgullecía de ser el "hombre más malvado en la tierra." Crowley predicaba que los satanistas tenían sólo un mandamiento: "Haz lo que desees será la totalidad de la ley."  
   
 Sólo los dioses pueden hacer lo que quieran. Esto se traduce en impresionante poder. Cambiar la realidad por la fuerza de la voluntad de uno, es de hecho, la verdadera esencia de la magia y la brujería.  
   
@@ -197,7 +197,7 @@ El ex secretario de Estado y  privilegiado Illuminati Henry Kissinger una vez so
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg23KcVy5pYiQxfe6kq7rXKgaasQQ9yYGWf8jefJFZBOJKW4ufuca-9LyF0afbFtW2o2s-5iokpWeQFLlBgq5DHQIYw_OIiO7oowO9av01TOP88GUo6L6Ophddkxp5eT5IIW-10pmzfER4/s1600/jerarquia.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg23KcVy5pYiQxfe6kq7rXKgaasQQ9yYGWf8jefJFZBOJKW4ufuca-9LyF0afbFtW2o2s-5iokpWeQFLlBgq5DHQIYw_OIiO7oowO9av01TOP88GUo6L6Ophddkxp5eT5IIW-10pmzfER4/s1600/jerarquia.jpg)Para comunicar ultra secretos, codificados, mensajes visuales de una naturaleza maligna entre sí o con todo el grupo a través de los medios de comunicación más influyentes del mundo, sin temor a ser perjudicados ni de volver a ser castigados por el crimen, debe de hecho, ser similar a la ingestión de un alterador mental, un afrodisíaco que satisface el alma. Estos hombres codician el poder, y transmitir mensajes secretos ininteligibles para las masas ignorantes les deben dar gran placer emocional. Debe inspirar en ellos el deseo de lograr aún mayores objetivos ocultos.  
   
-Recomiendo leer: [Culto Sexual Se expande Entre Las Celebridades: O.T.O. de Aleister Crowley](http://www.ritualypropaganda.com/2013/05/culto-sexual-se-expande-entre-las.html)  
+Recomiendo leer: [Culto Sexual Se expande Entre Las Celebridades: O.T.O. de Aleister Crowley](/estudios/culto-sexual-se-expande-entre-las)  
   
 Como escribió Shakespeare, "El mundo es mi ostra, la que yo, con espada, tomaré y saquearé." Sí, el mundo es su "ostra", y algunos en la jerarquía Illuminati están tan impregnados de la ambición y la lujuria carnal al poder que incluso tratan de conquistar y gobernar el reino estrellado más allá de los límites de este planeta. Fue el colonialista británico Cecil Rhodes que una vez declaró: "Me gustaría anexar los planetas si pudiera."  
   
@@ -303,7 +303,7 @@ Como se ha señalado sabiamente Michael Hoffman II, la analogía de "insectos" a
 
 Jim Keith, en _Control de la Mente y los Ovnis_, también tomó nota de esta mentalidad de colmena. Keith escribió que en la nación sudamericana de Colombia, hay una comunidad alemana que, incluso hoy en día, 60 años después de la Segunda Guerra Mundial, usa la esvástica como su símbolo. Este grupo llama a su compuesto "Hormiga", en honor de la hormiga trabajadora obediente, sin embargo, es otra forma de control Illuminati. **(9)**
 
-Recomiendo leer: [Orígenes Y Técnica Del Control Mental Monarca](http://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)  
+Recomiendo leer: [Orígenes Y Técnica Del Control Mental Monarca](/estudios/origenes-y-tecnica-del-control-mental)  
   
 
 Por lo tanto, nos encontramos con la colmena o el hormiguero como metáforas aptas para los agentes de los Illuminati. Es fascinante darse cuenta de que estas personas son débiles, y arrastran pequeñas personalidades. Se hacen eco al unísono de las palabras "Sí, maestro" a sus superiores, los potentados de las diversas sociedades y órdenes secretas.
@@ -521,7 +521,7 @@ En su revelador libro, _The Initiation of the World_, La ocultista Vera Stanley 
 De hecho, se elogia a este Dios no identificado como un ser de inmenso "asombro y magnitud." Sugiere, también, que el Unico que la élite adora puede ser denominado como el "absoluto". Alder también brinda observaciones de que la entidad reconocida como el "Uno" divino se compone de "fuerzas", y que tiene dominio sobre determinadas entidades menores. **(16)**
 
   
-Recomiendo leer: [¿Quién es Lúcifer? Una Historia De Rebelión vs Propaganda](http://www.ritualypropaganda.com/2014/01/quien-es-lucifer-una-historia-de.html)  
+Recomiendo leer: [¿Quién es Lúcifer? Una Historia De Rebelión vs Propaganda](/estudios/quien-es-lucifer-una-historia-de)  
   
 
 Por supuesto, una rosa con cualquier otro nombre sigue siendo una rosa. Y no importa cuán reacios o provisionales son los magos de los Illuminati para identificar a aquel a quien sirven, los que hemos estudiado durante mucho tiempo a estos gobernantes inadaptados y psicópatas no tienen que esquivar el problema.  

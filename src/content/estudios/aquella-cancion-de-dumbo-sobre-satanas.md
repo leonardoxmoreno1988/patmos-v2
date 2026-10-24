@@ -20,7 +20,7 @@ Existe una conexión poco publicitada entre Disney, la CIA y la masonería. Sin 
   
 **Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
-En los años 40 estos experimentos formaban parte del estudio sobre control mental basado en el trauma, una efectiva pero deshumanizada herramienta que llevaba a la víctima a fragmentar su mente y desarrollar un desorden de personalidad múltiple. Las víctimas sobrevivientes, que llegaron a ser miles, fueron usadas por la CIA para realizar labores específicas como prostitución infantil, chantajes, asesinatos, la creación de soldados para la guerra y como esclavos sexuales. Si quiere comprender estos eventos recomiendo leer el artículo **[Orígenes y Técnica del Proyecto Monarca](http://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)**.  
+En los años 40 estos experimentos formaban parte del estudio sobre control mental basado en el trauma, una efectiva pero deshumanizada herramienta que llevaba a la víctima a fragmentar su mente y desarrollar un desorden de personalidad múltiple. Las víctimas sobrevivientes, que llegaron a ser miles, fueron usadas por la CIA para realizar labores específicas como prostitución infantil, chantajes, asesinatos, la creación de soldados para la guerra y como esclavos sexuales. Si quiere comprender estos eventos recomiendo leer el artículo **[Orígenes y Técnica del Proyecto Monarca](/estudios/origenes-y-tecnica-del-control-mental)**.  
   
   
   

@@ -85,7 +85,7 @@ Con sus muchos trajes y maquillaje escandalosos, Gaga constantemente juega con l
   
 Mientras que su listado de diferentes razas y orientaciones sexuales revela las diferencias que tienen todas las personas, su afirmación de que todos tenemos el "mismo ADN, pero nacimos de esta manera" nos remite a la suposición humanista de que básicamente somos todos iguales. Sin embargo, los posthumanistas también usan el argumento de que todos los seres humanos comparten el 99,9 por ciento de su ADN con los binarios de desglose sobre raza, sexualidad y género.  
   
-Mientras que Lady Gaga utiliza las ideas posthumanistas y transhumanistas para promover un mensaje de justicia social, el video musical **["E.T." de Katy Perry](http://www.ritualypropaganda.com/2011/04/katy-perry-y-el-mensaje-oculto-en-et-la.html)** utiliza estas mismas ideas para proponer un tema de integración humana no sólo con la tecnología, sino también con los extraterrestres y los animales.  
+Mientras que Lady Gaga utiliza las ideas posthumanistas y transhumanistas para promover un mensaje de justicia social, el video musical **["E.T." de Katy Perry](/estudios/katy-perry-y-el-mensaje-oculto-en-et-la)** utiliza estas mismas ideas para proponer un tema de integración humana no sólo con la tecnología, sino también con los extraterrestres y los animales.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp9DqlRxe16dOyLBHSty0EJCOxPLSz3YxiKOrQyXkVrqzljF9f0AKJJa5IBWBABFQL9SIWjhRs4yUvcU0r3DIcGIJL31Dtzbs-6aW5buedaATt-ZFUj9faLZRmxMlMGBeACNbqdaOEAgo/s1600/Kate-Perry-ET.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp9DqlRxe16dOyLBHSty0EJCOxPLSz3YxiKOrQyXkVrqzljF9f0AKJJa5IBWBABFQL9SIWjhRs4yUvcU0r3DIcGIJL31Dtzbs-6aW5buedaATt-ZFUj9faLZRmxMlMGBeACNbqdaOEAgo/s1600/Kate-Perry-ET.jpg)
@@ -137,7 +137,7 @@ Desde un punto de vista transhumano, ella podría ser un ser humano que ha sido 
   
 
   
-El video de **[Black Eyed Peas "Imma Be / Rock that Body"](http://www.ritualypropaganda.com/2010/04/transhumanismo-guerra-psicologica-y.html)** es una obra maestra de imágenes generadas por computadora de alta tecnología y producción de música digital de última generación. También es otro ejemplo flagrante de la guerra psicológica y el engaño. Imma Be / Rock That Body es uno de los muchos videos que retratan la actualización de seres humanos a un estado super-robots.  
+El video de **[Black Eyed Peas "Imma Be / Rock that Body"](/estudios/transhumanismo-guerra-psicologica-y)** es una obra maestra de imágenes generadas por computadora de alta tecnología y producción de música digital de última generación. También es otro ejemplo flagrante de la guerra psicológica y el engaño. Imma Be / Rock That Body es uno de los muchos videos que retratan la actualización de seres humanos a un estado super-robots.  
   
 La constante repetición de este tema simplemente no puede ser una coincidencia. Es más bien el resultado de una constante agenda de desensibilización, programación predictiva y buena comercialización anticuada.  
   

@@ -120,7 +120,7 @@ Dijo que esto invalidaba sus acusaciones de blasfemia contra él, y servía para
 
 ## 4\. ¿Estaba Jesús diciendo que todos somos dioses?
 
-En el video de abajo, se analiza cómo Jesús no podría haber dicho que todos somos dioses por las razones principales de que cada persona en la Escritura que afirmó ser un dios (aparte de Cristo) fue castigado por el juicio de Dios. El Rey de **[Babilonia](http://www.ritualypropaganda.com/2017/07/creacion-del-genesis-mito-babilonico.html)** en Isaías 14, el Rey de Tiro en Ezequiel 28, el Rey Herodes en Actos 12:21-23, y el Anticristo mencionado en 2 Tesalonicenses 2:2-4 que se quemará en el lago de fuego según Revelación 19:20 y Revelación 20:10.  
+En el video de abajo, se analiza cómo Jesús no podría haber dicho que todos somos dioses por las razones principales de que cada persona en la Escritura que afirmó ser un dios (aparte de Cristo) fue castigado por el juicio de Dios. El Rey de **[Babilonia](/estudios/creacion-del-genesis-mito-babilonico)** en Isaías 14, el Rey de Tiro en Ezequiel 28, el Rey Herodes en Actos 12:21-23, y el Anticristo mencionado en 2 Tesalonicenses 2:2-4 que se quemará en el lago de fuego según Revelación 19:20 y Revelación 20:10.  
   
 Estas son las únicas personas en la historia de la Biblia que decían ser "dios", o trataron de ser una deidad por sí mismos de una manera directa. El precedente bíblico para los reclamantes de la divinidad en la Escritura no es nada menos que la pena capital y el fuego del infierno. Si Jesús quería que creyéramos esto sobre nosotros mismos, ¿por qué Dios se aseguró de que las personas que creían esto sobre sí mismos fueran sentenciadas a la forma más severa de castigo? La respuesta es simple:  
   

@@ -24,7 +24,7 @@ Este artículo habla sobre los demonios mientras nos preguntamos: ¿Quiénes son
 
 ## ¿Quiénes son demonios?
 
-Los demonios eran seres angelicales. Por lo tanto, son criaturas espirituales. Los demonios son antiguos ángeles que han caído por las mentiras de Satanás o **[Lucifer](http://www.ritualypropaganda.com/2014/01/quien-es-lucifer-una-historia-de.html)**. Mientras que las Escrituras no proveen mucha información relacionada con su caída, se describen en Revelación 12 como siendo engañados por Satanás, representado como un gran dragón rojo (Revelación 12:3), que barre "un tercio de las estrellas del cielo \[ángeles\] y los arroja a la tierra" (Revelación 12:4).  
+Los demonios eran seres angelicales. Por lo tanto, son criaturas espirituales. Los demonios son antiguos ángeles que han caído por las mentiras de Satanás o **[Lucifer](/estudios/quien-es-lucifer-una-historia-de)**. Mientras que las Escrituras no proveen mucha información relacionada con su caída, se describen en Revelación 12 como siendo engañados por Satanás, representado como un gran dragón rojo (Revelación 12:3), que barre "un tercio de las estrellas del cielo \[ángeles\] y los arroja a la tierra" (Revelación 12:4).  
   
 \[1\] Para mi sorpresa, descubrí que la Escritura presenta algunas categorías de demonios. \[2\]  
   

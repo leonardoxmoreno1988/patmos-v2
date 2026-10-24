@@ -26,9 +26,9 @@ Mientras la secta de la Cienciología tiene entre sus seguidores a los más famo
   
 El acrónimo de O.T.O. es una abreviatura de la Ordo Templi Orientis \[Orden del Templo Oriental\], una secta fundada a finales del siglo 19 en Alemania y Austria. Su fundador es un misterio, pero lo más probable es que sean los empresarios austríacos Carl Kellner, Franz Hartmann y Henry Klein.  
   
-O.T.O. fue más conocida gracias a los escritos de [Aleister Crowley](https://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html). Entre las prácticas religiosas de sus seguidores hay: rituales sexuales sadomasoquistas con hombres y mujeres y el uso de fuertes drogas como: opio, cocaína, heroína y mezcalina.  
+O.T.O. fue más conocida gracias a los escritos de [Aleister Crowley](/estudios/aleister-crowley-666-biografia-cultura-popular). Entre las prácticas religiosas de sus seguidores hay: rituales sexuales sadomasoquistas con hombres y mujeres y el uso de fuertes drogas como: opio, cocaína, heroína y mezcalina.  
   
-**Recomiendo leer:** [Las 10 Principales Sociedades Secretas Que Manejan el Mundo](https://www.ritualypropaganda.com/2015/09/las-10-sociedades-secretas-que-influyen.html)  
+**Recomiendo leer:** [Las 10 Principales Sociedades Secretas Que Manejan el Mundo](/estudios/las-10-sociedades-secretas-que-influyen)  
   
 Jimmy Page, guitarrista de la banda Led Zeppelin, el rapero Jay-Z y Peaches Geldof son celebridades que siguen este culto satánico. Page participa habitualmente en los rituales de magia negra e incluso compró la casa donde vivió Crowley a orillas del lago Ness en Escocia.  
   

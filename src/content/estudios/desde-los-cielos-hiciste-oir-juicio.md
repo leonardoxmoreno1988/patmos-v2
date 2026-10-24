@@ -19,7 +19,7 @@ Las Escrituras presentan ciertas verdades con forma poética para que aquellos q
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3L8kk3UP8Lj0SPtNluQ6boxyQDKwCIqGeezxvBdvgiA5NN8F5Jh-DJDTLqPEf-YAXH4dYOBHd5gCyE2EK-9rsGrLKnHlSSs0ZLiNwKzlEudIlE9lzVVq5XLajdHf8tjbYTCJhXmGbtGZtg-vcGnbppCy1K9hyphenhyphenttzn_-fO7YNTSHtMV68Zvke342lF6ZU/s800/salmos001.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3L8kk3UP8Lj0SPtNluQ6boxyQDKwCIqGeezxvBdvgiA5NN8F5Jh-DJDTLqPEf-YAXH4dYOBHd5gCyE2EK-9rsGrLKnHlSSs0ZLiNwKzlEudIlE9lzVVq5XLajdHf8tjbYTCJhXmGbtGZtg-vcGnbppCy1K9hyphenhyphenttzn_-fO7YNTSHtMV68Zvke342lF6ZU/s800/salmos001.jpg)  
   
-Hablamos de que la tendencia de algunas traducciones de categorizar los Salmos bajo un simple género poético puede inducir al cristiano al error de ignorar su relevante peso profético. Los Salmos contienen capítulos enteros que detallan como el Señor Jesucristo va a regresar por segunda vez a la tierra, y otorgan detalles del establecimiento de su **[reino terrenal físico](https://www.ritualypropaganda.com/2023/01/1000-anos-reinado-futuro.html)**.  
+Hablamos de que la tendencia de algunas traducciones de categorizar los Salmos bajo un simple género poético puede inducir al cristiano al error de ignorar su relevante peso profético. Los Salmos contienen capítulos enteros que detallan como el Señor Jesucristo va a regresar por segunda vez a la tierra, y otorgan detalles del establecimiento de su **[reino terrenal físico](/estudios/1000-anos-reinado-futuro)**.  
   
 En la división hebrea del Antiguo Testamento, la cual fue validada por el mismo Cristo al hablar de la Ley, los Profetas y los Salmos, este libro representa la sección de los Escritos o "Kethubim".
 
@@ -32,7 +32,7 @@ Debemos saber que debido a que David era un profeta de Dios que previó la resur
 
 Aunque el libro emplea poesía y cánticos como forma de expresión aprobada por el Espíritu de Dios, su utilidad es la de validar la fiabilidad de las Escrituras mediante el conocimiento del futuro, y su lectura debe tener un entendimiento que va mucho más allá de la simple impresión musical.  
   
-Por eso se tienen múltiples ejemplos donde los Salmos ocultan verdades proféticas literales sobre el Primer y **[Segundo Advenimiento](https://www.ritualypropaganda.com/2022/09/diferencias-importantes.html)** de Cristo, así como eventos precisos de la Tribulación y el Milenio. El Salmo 2 describe proféticamente la Segunda Venida y el establecimiento del reino terrenal, mostrando a Jesucristo recibiendo a las naciones por herencia y gobernándolas con vara de hierro desde el monte de Sion.  
+Por eso se tienen múltiples ejemplos donde los Salmos ocultan verdades proféticas literales sobre el Primer y **[Segundo Advenimiento](/estudios/diferencias-importantes)** de Cristo, así como eventos precisos de la Tribulación y el Milenio. El Salmo 2 describe proféticamente la Segunda Venida y el establecimiento del reino terrenal, mostrando a Jesucristo recibiendo a las naciones por herencia y gobernándolas con vara de hierro desde el monte de Sion.  
 
 > **"Y yo te establecí mi rey sobre Sión, el monte de mi santidad. Yo recitaré el decreto. Jehová me dijo: Mi hijo eres tú: yo te engendré hoy. Demándame, y yo daré las gentes por tu heredad, y por tu posesión los cabos de la tierra. Quebrantarlos has con vara de hierro: como vaso de ollero los desmenuzarás."  
 > –Salmo 2:6-9**

@@ -22,7 +22,7 @@ Advertencia: Estas acusaciones de que los presidentes explotan sexualmente a los
   
 Dos mujeres torturadas, bajo lavado de cerebro y prostituidas por los Illuminati pintan un cuadro preocupante de cómo el mundo está muy deteriorado. Ambas dicen que fueron prostituidas por los líderes mundiales cuando eran niñas.  
   
-Son Brice Taylor, autora de **[Gracias por los Recuerdos](http://www.ritualypropaganda.com/2011/10/brice-taylor-gracias-por-los-recuerdos.html)** (1999) y Cathy O'Brien (con Mark Phillips) autora de **[Trance-Formation of America](http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_mindcon08.htm)** (1995).  
+Son Brice Taylor, autora de **[Gracias por los Recuerdos](/estudios/brice-taylor-gracias-por-los-recuerdos)** (1999) y Cathy O'Brien (con Mark Phillips) autora de **[Trance-Formation of America](http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_mindcon08.htm)** (1995).  
   
 Estos libros son consistentes y confirman las revelaciones de la programadora Illuminati "Svali". Si usted quiere entender el mundo, debe leer estas tres mujeres.  
   

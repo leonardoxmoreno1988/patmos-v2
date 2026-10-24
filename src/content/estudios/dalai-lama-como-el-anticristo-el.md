@@ -80,7 +80,7 @@ La jerarquía de poder de China fue aparente y los comunistas chinos no eran má
 
 ## Lamaísmo y su conexión con el satanismo
 
-Gerald Yorke, un amigo y miembro de la orden secreta satanista de **[Aleister Crowley](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**, introdujo el budismo tibetano en el oeste y fue el emisario del 13.º Dalai Lama. Otros personajes famosos con intereses satánicos y que estuvieron en el Tíbet fueron Helena Blavatsky y Alexandra David-Neel. Es evidente para cualquiera que estudie el estilo de vida de los lamas que muchos de ellos estaban obsesionados con la magia negra y el engaño al pueblo tibetano. Además su estilo de vida incluye la depravación sexual con pequeños niños monjes y el consumo de carne, lo cual es contrario a las normas budistas.  
+Gerald Yorke, un amigo y miembro de la orden secreta satanista de **[Aleister Crowley](/estudios/aleister-crowley-666-biografia-cultura-popular)**, introdujo el budismo tibetano en el oeste y fue el emisario del 13.º Dalai Lama. Otros personajes famosos con intereses satánicos y que estuvieron en el Tíbet fueron Helena Blavatsky y Alexandra David-Neel. Es evidente para cualquiera que estudie el estilo de vida de los lamas que muchos de ellos estaban obsesionados con la magia negra y el engaño al pueblo tibetano. Además su estilo de vida incluye la depravación sexual con pequeños niños monjes y el consumo de carne, lo cual es contrario a las normas budistas.  
   
 
 > **"Es una especie de enfermedad cuando usted se considera una especie de dios, el creador de todo, pero me siento cómodo con ello desde que empecé a vivirlo."**

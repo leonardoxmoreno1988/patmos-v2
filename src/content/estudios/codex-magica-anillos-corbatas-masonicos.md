@@ -198,7 +198,7 @@ Aparentemente, los medios saben qué es qué y el fotógrafo siempre parece esta
 
   
 
-El recuadro arriba a la izquierda: C. W. Leadbeater, ocultista homosexual que era líder de la Teosofía de finales del siglo XIX después de **[Madame Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html)**, llevaba un anillo similar al que hoy luce Arnold Schwarzenegger. (Foto: Noticias de EE. UU. y World Report, 12 de enero de 2004, página 27)  
+El recuadro arriba a la izquierda: C. W. Leadbeater, ocultista homosexual que era líder de la Teosofía de finales del siglo XIX después de **[Madame Blavatsky](/estudios/blavatsky-madame-nueva-era)**, llevaba un anillo similar al que hoy luce Arnold Schwarzenegger. (Foto: Noticias de EE. UU. y World Report, 12 de enero de 2004, página 27)  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVAOjPJbzwA6bDCqu91JjzdBcElakM-T0pjQcIUvhIK5ZKJ_oAAMqzb51BRMo1K4oZ4l7P-TyDSJySM-NUzrpwgQPMOvqgb6goiwfHnBWRRUEBV_neDbmVtQbcqUqO7WpZu4wZ8fuJLsE/s1600/codex_61.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVAOjPJbzwA6bDCqu91JjzdBcElakM-T0pjQcIUvhIK5ZKJ_oAAMqzb51BRMo1K4oZ4l7P-TyDSJySM-NUzrpwgQPMOvqgb6goiwfHnBWRRUEBV_neDbmVtQbcqUqO7WpZu4wZ8fuJLsE/s1600/codex_61.jpg)
@@ -298,7 +298,7 @@ La corbata que Putin usa tiene un significado Illuminista. La X de Osiris destac
 
 Manly P. Hall, 33, nos informa del significado oculto del Anillo del Sello de Pitágoras en su libro de texto clásico, _Las enseñanzas secretas de todas las edades_. Albert Pike, ex Soberano Gran Comandante de los Masones del Rito Escocés, escribió en _Morales y Dogma_ que el pentagrama (estrella pentagonal, cabalística) en este anillo "lleva consigo el poder de comandar a los espíritus".  
   
-Úsalo, instruyó, para "atar a los demonios del aire, los espíritus del fuego, los espectros del agua y los fantasmas de la tierra". Tenga en cuenta que la estrella sobre el anillo está rodeada por la **[serpiente de Oroboros](https://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html)**.  
+Úsalo, instruyó, para "atar a los demonios del aire, los espíritus del fuego, los espectros del agua y los fantasmas de la tierra". Tenga en cuenta que la estrella sobre el anillo está rodeada por la **[serpiente de Oroboros](/estudios/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros)**.  
   
   
 **Referencias:**  

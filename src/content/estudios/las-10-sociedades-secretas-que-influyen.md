@@ -334,7 +334,7 @@ Han sido acusados de planear la revolución americana y francesa y de los asesin
 **Diagrama de los dos grandes cuerpos masónicos más influyentes.**
 
   
-Debido a las múltiples prohibiciones de la masonería por los Papas, un buen católico todavía espera unirse a los Caballeros de Colón, al igual que el presidente Kennedy, el Vaticano respondió a la Francmasonería. El Vaticano aún no revierte su postura sobre esta sociedad secreta, aunque hay muchos indicios de _insiders_ que indicarían que existen muchos masones infiltrados en el Vaticano. Véase el caso del **[ex jesuita Alberto Rivera](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)**.  
+Debido a las múltiples prohibiciones de la masonería por los Papas, un buen católico todavía espera unirse a los Caballeros de Colón, al igual que el presidente Kennedy, el Vaticano respondió a la Francmasonería. El Vaticano aún no revierte su postura sobre esta sociedad secreta, aunque hay muchos indicios de _insiders_ que indicarían que existen muchos masones infiltrados en el Vaticano. Véase el caso del **[ex jesuita Alberto Rivera](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-1)**.  
   
 Masonería se compone de tres niveles, conocidos como los grados de la Logia Azul:  
   

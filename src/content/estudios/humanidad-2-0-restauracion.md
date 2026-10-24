@@ -55,7 +55,7 @@ Cuando Dios hizo a Adán y Eva, dijo que ellos eran buenos (Génesis 1:31). En s
   
 Por lo tanto, es necesario seguir el camino de la restauración, no uno tecnológico, sino uno que nos vuelva a la familia de Dios. Espiritualmente, necesitamos que Cristo regenere nuestros corazones y en todos sentidos volver a nacer (Juan 3:4-6).  
   
-Por el contrario, muchos científicos ateos, agnósticos, etc., desean alterar la naturaleza humana en algo que Dios no pretendía. Muchos partidarios del [transhumanismo](https://www.ritualypropaganda.com/2022/03/futuro-transhumanista.html) imaginan transformar a la humanidad en seres superinteligentes e inmortales, esencialmente dioses.  
+Por el contrario, muchos científicos ateos, agnósticos, etc., desean alterar la naturaleza humana en algo que Dios no pretendía. Muchos partidarios del [transhumanismo](/estudios/futuro-transhumanista) imaginan transformar a la humanidad en seres superinteligentes e inmortales, esencialmente dioses.  
   
 Estas ideas apelan a la naturaleza pecaminosa del hombre. La humanidad es atraída a la idea de tener capacidades sobrehumanas. Si la tentación de convertirse en un dios suena como un déjà vu, es porque fue la primera tentación que experimentó la humanidad (Génesis 3:5).  
   

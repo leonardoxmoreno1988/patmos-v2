@@ -67,7 +67,7 @@ Sir Oswald Mosley, fundador del Partido Nuevo, iniciado en Gran Bretaña, encabe
 
   
 
-Más de 30,000 personas asistieron a esta manifestación en Gran Bretaña bajo el Partido Nuevo de Mosley y su estandarte del rayo y el círculo. La bandera británica también es interesante en su **[diseño masónico de Osiris X](https://www.ritualypropaganda.com/2017/06/significado-de-la-misteriosa-letra-x.html)** que se muestra con una cruz alargada horizontalmente.  
+Más de 30,000 personas asistieron a esta manifestación en Gran Bretaña bajo el Partido Nuevo de Mosley y su estandarte del rayo y el círculo. La bandera británica también es interesante en su **[diseño masónico de Osiris X](/estudios/significado-de-la-misteriosa-letra-x)** que se muestra con una cruz alargada horizontalmente.  
   
 El rayo ha sido por mucho tiempo un símbolo satánico. Su uso se deriva de la declaración de Jesús en las Sagradas Escrituras: "Vi a Satanás caer del cielo como un rayo" (Lucas 10:18). Los libros de Harry Potter fueron ingeniosamente empaquetados para introducir a decenas de millones de niños a símbolos, rituales y conceptos satánicos.  
   
@@ -80,7 +80,7 @@ El rayo ha sido por mucho tiempo un símbolo satánico. Su uso se deriva de la d
 
   
 
-Aquí vemos a **[Harry Potter](https://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html)**, en la portada de _Time_ (20 de septiembre de 1999) con el rayo en la frente. En el interior, en el artículo principal, hay una imagen de dos jóvenes tatuados también con rayos en la frente.  
+Aquí vemos a **[Harry Potter](/estudios/analisis-de-los-simbolos-ocultos-en)**, en la portada de _Time_ (20 de septiembre de 1999) con el rayo en la frente. En el interior, en el artículo principal, hay una imagen de dos jóvenes tatuados también con rayos en la frente.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6PmAl7AIi1_VRt3V-1N141hAG9Vlau4FKlBHabaDGciuzKzo58p_01HhT0Yu5Lb6zQ5xzVRPbpYu32gkzq5Obllio7n-qo1Lfsu6LNOJiaWyRlCjtoQeBF5yF3hhVF8uiZNZ40lckcRo/s1600/codex_164.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6PmAl7AIi1_VRt3V-1N141hAG9Vlau4FKlBHabaDGciuzKzo58p_01HhT0Yu5Lb6zQ5xzVRPbpYu32gkzq5Obllio7n-qo1Lfsu6LNOJiaWyRlCjtoQeBF5yF3hhVF8uiZNZ40lckcRo/s1600/codex_164.jpg)
@@ -101,7 +101,7 @@ Este anuncio a color de página completa en la revista _Time_ (23 de octubre de 
 
   
 
-Charles Colson, de _Prison Fellowship_, recibió el premio del millón de dólares "Progreso en la religión" en el Parlamento de las Religiones del Mundo en Chicago. Ahora está ayudando a promocionar los **[libros de brujería de Harry Potter](https://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html)**.  
+Charles Colson, de _Prison Fellowship_, recibió el premio del millón de dólares "Progreso en la religión" en el Parlamento de las Religiones del Mundo en Chicago. Ahora está ayudando a promocionar los **[libros de brujería de Harry Potter](/estudios/analisis-de-los-simbolos-ocultos-en)**.  
   
 Aun así, la cristiandad oficial considera a Colson como el epítome del ejemplo cristiano, y sus libros se venden en casi todas las librerías cristianas.  
   

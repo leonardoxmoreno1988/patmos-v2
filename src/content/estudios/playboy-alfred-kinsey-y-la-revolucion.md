@@ -14,7 +14,7 @@ enseñada y promovida en las escuelas públicas. ¿Qué hay detrás de este camb
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSceEvpON8DlZLD-yvPynS23DBZ4gNR6mvtVRRihF0kTGIMTZDhl8OS9OPfuSVaMkkBMOi3C9jLWtdWiqC4X5SjXLJg3-mMGxIyCKYiMOg96vEdRiMlmESWp6QJjks3wdRykTPoot6rmg/s1600/playboy-homo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSceEvpON8DlZLD-yvPynS23DBZ4gNR6mvtVRRihF0kTGIMTZDhl8OS9OPfuSVaMkkBMOi3C9jLWtdWiqC4X5SjXLJg3-mMGxIyCKYiMOg96vEdRiMlmESWp6QJjks3wdRykTPoot6rmg/s1600/playboy-homo.jpg)  
   
-Este artículo clave de 2001 describe cómo se lava el cerebro masculino para evitar valores heterosexuales saludables en favor de una [conducta homosexual](http://www.ritualypropaganda.com/2013/07/existe-una-conspiracion-detras-del.html) perversa. Esta ingeniería social fue diseñada por los bancos centrales de los Illuminati para inducir a la sociedad a un culto satánico, cabalismo judío (la masonería).  
+Este artículo clave de 2001 describe cómo se lava el cerebro masculino para evitar valores heterosexuales saludables en favor de una [conducta homosexual](/estudios/existe-una-conspiracion-detras-del) perversa. Esta ingeniería social fue diseñada por los bancos centrales de los Illuminati para inducir a la sociedad a un culto satánico, cabalismo judío (la masonería).  
   
 
 ## ¿Qué clase de hombre lee Playboy?

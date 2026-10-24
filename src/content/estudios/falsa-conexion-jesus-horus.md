@@ -45,7 +45,7 @@ En la película documental de 2008 _Religulous_ (cuyo nombre es una combinación
 > **Maher**: Escrito en el año 1280 a. C., el Libro de los Muertos describe a un dios, Horus. Horus es el hijo del dios Osiris, nacido de una madre virgen. Fue bautizado en un río por Anup el Bautista que fue decapitado después. Al igual que Jesús, Horus fue tentado, mientras estaba solo en el desierto, sanó a los enfermos, los ciegos, echó fuera demonios, y caminó sobre el agua. Resucitó a Asar de entre los muertos. "Asar" se traduce en "Lázaro." Oh, sí, él también tenía doce discípulos. Sí, Horus fue crucificado en primer lugar, y después de tres días, dos mujeres anunciaron que Horus, el salvador de la humanidad, había sido resucitado.
 
   
-Maher solamente repetía las cosas que son asimiladas por muchas personas hoy en día. Afirmaciones similares se hacen en películas tales como **[Zeitgeist](http://www.ritualypropaganda.com/2017/05/zeitgeist-refutado-jesus-no-es-una-copia.html)** y Religulous y en los libros pseudoacadémicos como _Cristo en Egipto: La conexión de Jesús-Horus y Los Orígenes Paganos del Mito De Cristo._  
+Maher solamente repetía las cosas que son asimiladas por muchas personas hoy en día. Afirmaciones similares se hacen en películas tales como **[Zeitgeist](/estudios/zeitgeist-refutado-jesus-no-es-una-copia)** y Religulous y en los libros pseudoacadémicos como _Cristo en Egipto: La conexión de Jesús-Horus y Los Orígenes Paganos del Mito De Cristo._  
   
 A menudo, los cristianos no están preparados para este tipo de encuentros, y algunos incluso se dejan llevar por esta línea de argumentación. La diatriba de Maher ofrece un buen resumen de estas afirmaciones, así que vamos a refutar, una línea a la vez.  
   

@@ -71,7 +71,7 @@ Benjamin Franklin, Rosacruz y Masón, en un retrato al óleo pintado por David M
   
 
   
-El mago israelí Uri Geller, cuyos amigos íntimos incluyen a la senadora opositora Claiborne Pell y al compañero cabalista, el cantante **[Michael Jackson](http://www.ritualypropaganda.com/2016/07/era-el-rancho-de-neverland-de-michael.html)**. (Foto: U.S. News & World Report, diciembre de 1998)  
+El mago israelí Uri Geller, cuyos amigos íntimos incluyen a la senadora opositora Claiborne Pell y al compañero cabalista, el cantante **[Michael Jackson](/estudios/era-el-rancho-de-neverland-de-michael)**. (Foto: U.S. News & World Report, diciembre de 1998)  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicVqN0lz4dQ3eeMaTT7IAuSymGshIdv7RSGZTInL0pnKYMkx84vx84WiWWubKNtrsXi3Uy4tRbXkxZtH-XZPZA1Yp807HLiLwhbAsqG6poKVhI2uXYdeSPDgUUGCU671-2DxzT8HGsApQ/s1600/dcodex_15.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicVqN0lz4dQ3eeMaTT7IAuSymGshIdv7RSGZTInL0pnKYMkx84vx84WiWWubKNtrsXi3Uy4tRbXkxZtH-XZPZA1Yp807HLiLwhbAsqG6poKVhI2uXYdeSPDgUUGCU671-2DxzT8HGsApQ/s1600/dcodex_15.jpg)

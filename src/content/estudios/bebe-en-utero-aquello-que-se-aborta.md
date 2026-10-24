@@ -15,7 +15,7 @@ tags: ["Sociedad", "Aborto", "Ética", "Vida"]
 [![bebe en utero](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1TMUm8gc6sRMJn5Wks1r3JrhsQlbZDoElnAqMEvT24LFhV1Oa6tQc8yAPrnDnQt-sF4ToYnN-o00b1Nbsx7iKr7e4lZUf4zjbvf535xpY3IlXsz1CsXxTqUrF3MDVy5onFdRdSAvafcw/s1600/aborto.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1TMUm8gc6sRMJn5Wks1r3JrhsQlbZDoElnAqMEvT24LFhV1Oa6tQc8yAPrnDnQt-sF4ToYnN-o00b1Nbsx7iKr7e4lZUf4zjbvf535xpY3IlXsz1CsXxTqUrF3MDVy5onFdRdSAvafcw/s1600/aborto.jpg)
 
   
-No es ninguna sorpresa entonces que los partidarios provida tienden a usar terminología con cualidades "humanizadoras" para el feto, mientras que los defensores de la elección del **[aborto](http://www.ritualypropaganda.com/2017/04/la-violacion-justifica-el-aborto.html)** tienden a usar términos cargados con cualidades "deshumanizantes".  
+No es ninguna sorpresa entonces que los partidarios provida tienden a usar terminología con cualidades "humanizadoras" para el feto, mientras que los defensores de la elección del **[aborto](/estudios/la-violacion-justifica-el-aborto)** tienden a usar términos cargados con cualidades "deshumanizantes".  
   
 
 El tema aquí es la precisión. Sin profundizar en las aguas más profundas de la definición legal de la "persona" o "bebé", ¿qué podemos decir acerca de aquello dentro del vientre de la madre? ¿Qué es exactamente lo que termina muriendo en un aborto? ¿Qué es?

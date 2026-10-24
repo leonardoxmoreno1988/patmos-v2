@@ -89,7 +89,7 @@ En ese mismo contexto, una consternada madre del compañero rescatado le dice a 
 
 > **"Es un acto de Dios, Jonathan, esto fue providencia"**
 
-Mientras que para los que no conocen la "verdad" esta es una referencia divina o celestial, los que poseen el "conocimiento" han podido [aceptar la existencia extraterrestre](http://www.ritualypropaganda.com/2012/09/la-farsa-extraterrestre-predisponiendo_18.html) como el verdadero origen religioso. Irónicamente para el joven Clark las cosas con Dios no andan muy bien. Él menciona al sentirse diferente:  
+Mientras que para los que no conocen la "verdad" esta es una referencia divina o celestial, los que poseen el "conocimiento" han podido [aceptar la existencia extraterrestre](/estudios/la-farsa-extraterrestre-predisponiendo-18) como el verdadero origen religioso. Irónicamente para el joven Clark las cosas con Dios no andan muy bien. Él menciona al sentirse diferente:  
 
 > "¿Dios me hizo esto a mí?"
 
@@ -187,7 +187,7 @@ Otro de los personajes comparable al contexto bíblico es el del General Zod, un
 
 ## Muerte y Resurrección
 
-Llega a ser obvio que no puede haber ningún papel mesiánico sin una resurrección, solo que en el lenguaje de la Nueva Era el término exacto sería el de un renacimiento esotérico, muy lejano del que realizó Jesucristo después de su muerte. En Man of Steel esto es retratado durante su primer encuentro con Zod. Kal'el cae desmayado ante la atmósfera extraña de Krypton (generada por la nave de Zod) y es llevado al "cielo", una proyección dentro de la mente del mismo Clark. En muchas películas gnósticas se proyecta un espacio dimensional donde llegan los Cristos cinemáticos antes de resucitar. En el caso de [Harry Potter](http://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html), este muere y es llevado a una estación de tren llamada King's Cross (La Cruz del Rey) donde tiene un encuentro con Dumbledore, en la película Transformers, el joven Samuel Witwicky muere por unos instantes y es llevado a este plano para conversar con los ancestros de la familia Prime. En la película de Snyder, este plano dimensional se ubica en su vieja casa de Kansas y mantiene una conversación con Zod, el arquetipo de "Dios".
+Llega a ser obvio que no puede haber ningún papel mesiánico sin una resurrección, solo que en el lenguaje de la Nueva Era el término exacto sería el de un renacimiento esotérico, muy lejano del que realizó Jesucristo después de su muerte. En Man of Steel esto es retratado durante su primer encuentro con Zod. Kal'el cae desmayado ante la atmósfera extraña de Krypton (generada por la nave de Zod) y es llevado al "cielo", una proyección dentro de la mente del mismo Clark. En muchas películas gnósticas se proyecta un espacio dimensional donde llegan los Cristos cinemáticos antes de resucitar. En el caso de [Harry Potter](/estudios/analisis-de-los-simbolos-ocultos-en), este muere y es llevado a una estación de tren llamada King's Cross (La Cruz del Rey) donde tiene un encuentro con Dumbledore, en la película Transformers, el joven Samuel Witwicky muere por unos instantes y es llevado a este plano para conversar con los ancestros de la familia Prime. En la película de Snyder, este plano dimensional se ubica en su vieja casa de Kansas y mantiene una conversación con Zod, el arquetipo de "Dios".
 
   
   

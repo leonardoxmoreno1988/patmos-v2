@@ -15,7 +15,7 @@ La Orden de los **Jesuitas** es una entidad encubierta, geopolítica y exclusiva
 [![papa Francisco con el papa negro y san Ignacio de Loyola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyIhho9JnW8SkagLPXk8NdjWUQr_PwnBGw0kWMEUTWEGqz7yJmuoU1r05Jteo_x85OX_EoqWeAxhwmng0qhqsrtDKDDBr8Ss9bLZGl3UBNpCerBq4uzoYXBOMsZ6z2ncs53HmUq8N6S1E/s1600/jesuitas-opusdai.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyIhho9JnW8SkagLPXk8NdjWUQr_PwnBGw0kWMEUTWEGqz7yJmuoU1r05Jteo_x85OX_EoqWeAxhwmng0qhqsrtDKDDBr8Ss9bLZGl3UBNpCerBq4uzoYXBOMsZ6z2ncs53HmUq8N6S1E/s1600/jesuitas-opusdai.jpg)
 
   
-[](https://www.blogger.com/null)La "Compañía de Jesús", como se les conoce oficialmente, fue usada originalmente por el Vaticano para contrarrestar los diversos movimientos de reforma en Europa, donde el Vaticano perdió gran parte de su poder religioso y político. El poder absoluto, temporal y gobernante siempre ha sido el objetivo principal de la institución del **[Vaticano](http://www.ritualypropaganda.com/2017/05/el-origen-del-nombre-vaticano-y-vatika.html)**.  
+[](https://www.blogger.com/null)La "Compañía de Jesús", como se les conoce oficialmente, fue usada originalmente por el Vaticano para contrarrestar los diversos movimientos de reforma en Europa, donde el Vaticano perdió gran parte de su poder religioso y político. El poder absoluto, temporal y gobernante siempre ha sido el objetivo principal de la institución del **[Vaticano](/estudios/el-origen-del-nombre-vaticano-y-vatika)**.  
 
 ## Organizaciones controladas
 
@@ -280,7 +280,7 @@ El objetivo neurótico fue y sigue siendo la esclavización humana mundial por c
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlvU5n6ACPh7CktqlKdYgXVN_oiVFis_Uhsj0afb0qOG_WcjNWhoi6-ZSc8HiNsT0xhEuvzRGtFj1ntXwGSQWz-gljU1xRre6HQzBNPOuI_gNpS_gb4imXbxKFDQex71bmNS9turaW0t4/s1600/jesuitas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlvU5n6ACPh7CktqlKdYgXVN_oiVFis_Uhsj0afb0qOG_WcjNWhoi6-ZSc8HiNsT0xhEuvzRGtFj1ntXwGSQWz-gljU1xRre6HQzBNPOuI_gNpS_gb4imXbxKFDQex71bmNS9turaW0t4/s1600/jesuitas.jpg)
 
-**Portada del comic "Jesuitas", que revela su manejo y modus operandi. ([Leer comic](http://www.ritualypropaganda.com/2016/09/la-historia-de-los-jesuitas-secretos.html))**
+**Portada del comic "Jesuitas", que revela su manejo y modus operandi. ([Leer comic](/estudios/la-historia-de-los-jesuitas-secretos))**
 
   
 A través de medios militaristas, tecnológicos, económicos y sobre todo religiosos y psicológicos. Esta secreta red de la mafia trata de mantener a las personas ignorantes de la conspiración fascista y los instrumentos que usan. ¡Abusar de la ignorancia ajena es su único poder real!  

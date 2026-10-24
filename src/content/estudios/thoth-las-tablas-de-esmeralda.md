@@ -62,7 +62,7 @@ En la primera tabla, Thoth habla de un grupo de seres sabios llamados los Hijos 
 Así que estos Hijos de Luz alimentados por el fuego eterno hicieron un descenso a la tierra y crearon cuerpos humanos con la apariencia de hombres. Veamos la historia de los ángeles caídos descendiendo a la tierra en el Libro de Génesis 6:1-5:  
   
 
-> **"Cuando el hombre comenzó a multiplicarse sobre la faz de la tierra y les nacieron hijas, los hijos de Dios vieron que las hijas del hombre eran atractivas. Y tomaron por mujer a cualquiera que quisieran... Los [nefilim](http://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html) estaban en la tierra en aquellos días, y también después, cuando los hijos de Dios vinieron a las hijas de los hombres y les dieron hijos."**
+> **"Cuando el hombre comenzó a multiplicarse sobre la faz de la tierra y les nacieron hijas, los hijos de Dios vieron que las hijas del hombre eran atractivas. Y tomaron por mujer a cualquiera que quisieran... Los [nefilim](/estudios/nefilim-antiguo-testamento) estaban en la tierra en aquellos días, y también después, cuando los hijos de Dios vinieron a las hijas de los hombres y les dieron hijos."**
 
   
 También suena similar a la historia de los ángeles caídos en el Libro de Enoc:  
@@ -89,7 +89,7 @@ Aquí clarificamos la distinción entre los Hijos de la Luz, alimentados por el 
   
 Los Hijos de la Luz son claramente no-humanos que están encarnados en cuerpos físicos y ganan poderes de este fuego eterno. Aparentemente, descendieron del "espacio-tiempo" y del "éter" (ET IV), lo que me hace pensar personalmente en cómo la Biblia se refiere a los demonios que viven dentro de los "lugares celestiales" (Efesios 6:12) y se dice que Satanás gobierna el "Reino del aire" (Efesios 2:2).  
   
-Estos Hijos de Luz (también conocidos como los Hermanos del Brillo) tienen exactamente la misma historia que la Gran Hermandad Blanca (**[Maestros Ascendidos](http://www.ritualypropaganda.com/2017/02/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados.html)**), la cual analizamos que ellos son en realidad demonios en un artículo anterior. Y se habla de ellos como portadores de sabiduría y maestros de los misterios en las Tablas de Esmeralda, y tienen una semejanza misteriosa con las historias de ángeles caídos en la Biblia y el Libro de Enoc.  
+Estos Hijos de Luz (también conocidos como los Hermanos del Brillo) tienen exactamente la misma historia que la Gran Hermandad Blanca (**[Maestros Ascendidos](/estudios/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados)**), la cual analizamos que ellos son en realidad demonios en un artículo anterior. Y se habla de ellos como portadores de sabiduría y maestros de los misterios en las Tablas de Esmeralda, y tienen una semejanza misteriosa con las historias de ángeles caídos en la Biblia y el Libro de Enoc.  
   
 
 ## Infierno
@@ -117,7 +117,7 @@ tableta:
   
 "El primero y más poderoso, se sienta la Presencia Velada, Señor de los Señores, el infinito Nueve, sobre el otro de cada uno de los Señores de los Ciclos" (Tabla Esmeralda II). Esta es una posible referencia a Satanás. En el satanismo, 9 es el número de Satanás. Sumando 666 juntos, se obtiene 18. 1 + 8 = 9. 9 es un 6 invertido, que comprende el Número de la Bestia. Las fuerzas satánicas trabajan en variables de nueve, por ejemplo hay 9 épocas, 9 edades y 9 declaraciones satánicas en la Biblia Satánica. En la Biblia Satánica, la palabra "Nueve" siempre está en mayúscula.  
   
-Según el libro "Los números: su poder oculto y virtudes místicas" por W. W. Wescott, el nueve tiene gran importancia entre muchas órdenes masónicas y sociedades secretas. Dijo: "Hay una orden masónica de nueve elegidos caballeros en la que se utilizan nueve rosas, nueve luces y nueve golpes". De hecho, el número nueve es el número de "la tierra bajo influencias malvadas". El satanista **[Aleister Crowley](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)** declaró que 9 es "el más malo, debido a su estabilidad" (777 y otros escritos cabalísticos de Aleister Crowley, p.43).  
+Según el libro "Los números: su poder oculto y virtudes místicas" por W. W. Wescott, el nueve tiene gran importancia entre muchas órdenes masónicas y sociedades secretas. Dijo: "Hay una orden masónica de nueve elegidos caballeros en la que se utilizan nueve rosas, nueve luces y nueve golpes". De hecho, el número nueve es el número de "la tierra bajo influencias malvadas". El satanista **[Aleister Crowley](/estudios/aleister-crowley-666-biografia-cultura-popular)** declaró que 9 es "el más malo, debido a su estabilidad" (777 y otros escritos cabalísticos de Aleister Crowley, p.43).  
   
 ¿Por qué Thoth llama al Señor de los Señores el infinito nueve? Otras referencias posibles a Satanás incluyendo las frases "Sol de la mañana", que es como Lucifer es llamado en la Biblia, y los Señores del Mundo que es como Satanás también es llamado en la Biblia. Estos dos términos son esparcidos a través de las Tablas de Esmeralda con bastante frecuencia. Jesús se refiere a Satanás como el "gobernante de este mundo" 3 veces separadas (Juan 12:31, 14:30, 16:11), y la Biblia Satánica se refiere a Satanás como el Señor de la Tierra (pg 162). Esto es palabra por palabra de cómo Satanás es llamado tanto en la Biblia como en la Biblia Satánica.  
   

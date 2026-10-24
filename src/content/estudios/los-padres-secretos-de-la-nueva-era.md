@@ -248,7 +248,7 @@ La visión baconiana para el establecimiento de la "Antigua Orden de las Edades"
 **_La Nueva Atlántida_ de Sir Francis Bacon**
 
   
-También describió su visión de esta sociedad perfecta y "dorada". Sin embargo, la visión utópica de Bacon no era nueva ni novedosa ya que simplemente hizo público, aunque de una manera única, el antiguo deseo de ciertos grupos ocultistas de una sociedad mundial idealizada. Es decir, aunque Bacon no originó el concepto de la "Nueva Atlántida", fue él quien primero articuló y publicó el antiguo plan para que el Imperio Mundial sea llevado a cabo por todas las órdenes secretas. El programa establecido por Bacon ha sido la fuerza motriz detrás del curso de los acontecimientos que han dado forma al mundo moderno y convirtieron a los Estados Unidos de América en la fuerza impulsora hacia el **[establecimiento del nuevo orden mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)**. Esta es la razón por la cual Thomas Jefferson, un hombre que comprende bien la influencia oculta sobre los acontecimientos humanos, consideraba a Bacon uno de los tres hombres más influyentes de la historia. La preeminencia de Bacon en el esquema de las cosas fue confirmada por un exponente moderno de las artes oscuras, Manly P. Hall.
+También describió su visión de esta sociedad perfecta y "dorada". Sin embargo, la visión utópica de Bacon no era nueva ni novedosa ya que simplemente hizo público, aunque de una manera única, el antiguo deseo de ciertos grupos ocultistas de una sociedad mundial idealizada. Es decir, aunque Bacon no originó el concepto de la "Nueva Atlántida", fue él quien primero articuló y publicó el antiguo plan para que el Imperio Mundial sea llevado a cabo por todas las órdenes secretas. El programa establecido por Bacon ha sido la fuerza motriz detrás del curso de los acontecimientos que han dado forma al mundo moderno y convirtieron a los Estados Unidos de América en la fuerza impulsora hacia el **[establecimiento del nuevo orden mundial](/estudios/que-es-el-nuevo-orden-mundial)**. Esta es la razón por la cual Thomas Jefferson, un hombre que comprende bien la influencia oculta sobre los acontecimientos humanos, consideraba a Bacon uno de los tres hombres más influyentes de la historia. La preeminencia de Bacon en el esquema de las cosas fue confirmada por un exponente moderno de las artes oscuras, Manly P. Hall.
 
   
 
@@ -351,7 +351,7 @@ La altamente publicitada Convergencia Armónica trajo el movimiento de la Nueva 
 
   
 
-Muchas de estas personas se referían a sí mismas como "seres de luz" que afirmaban haber recibido guía divina de los **[reinos astrales](https://www.ritualypropaganda.com/2016/05/proyeccion-astral-al-descubierto.html)** sobre el estado actual de la Tierra y la necesidad de transformación. A partir de ese momento, cada vez más las pequeñas tiendas de libros y regalos metafísicos se definieron a sí mismas como "librerías New Age".
+Muchas de estas personas se referían a sí mismas como "seres de luz" que afirmaban haber recibido guía divina de los **[reinos astrales](/estudios/proyeccion-astral-al-descubierto)** sobre el estado actual de la Tierra y la necesidad de transformación. A partir de ese momento, cada vez más las pequeñas tiendas de libros y regalos metafísicos se definieron a sí mismas como "librerías New Age".
 
   
 
@@ -373,7 +373,7 @@ El Movimiento de la Nueva Era no tiene sedes centrales; por lo tanto, no hay lis
 
   
 
-La agenda final del Movimiento de la Nueva Era es la convergencia de todas las religiones del mundo en una creencia unificada y la aceptación de que todas las religiones conducen al mismo Dios. El movimiento también promueve el concepto de que todas las religiones en algún lugar de su sistema de teología creen en la venida de un futuro mesías que finalmente es el mismo **[Maestro Ascendido](http://www.ritualypropaganda.com/2017/02/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados.html)**.
+La agenda final del Movimiento de la Nueva Era es la convergencia de todas las religiones del mundo en una creencia unificada y la aceptación de que todas las religiones conducen al mismo Dios. El movimiento también promueve el concepto de que todas las religiones en algún lugar de su sistema de teología creen en la venida de un futuro mesías que finalmente es el mismo **[Maestro Ascendido](/estudios/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados)**.
 
   
 

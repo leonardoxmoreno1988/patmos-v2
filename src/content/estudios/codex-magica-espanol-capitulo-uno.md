@@ -40,7 +40,7 @@ Algo que persiste en mi mente son los nombres de los hombres valientes que se ha
 
 Como ven, estamos rodeados por el mal en cada lado, literalmente sumergidos en él, pero los malos y los engañadores nos quieren hacer creer que la maldad es excepcional. Desde la infancia se nos ha enseñado que el mal y la corrupción son la provincia de los pocos, que la mayoría de la gente es virtuosa, honesta y buena, que la mayoría de nuestros políticos realmente tienen nuestros intereses en el corazón, que el sistema social, con la excepción de solo unos desviados y tipos criminales, son fundamentalmente sólidos.  
   
-Recomiendo leer: [Playboy, Alfred Kinsey Y La Revolución (Homo) Sexual](http://www.ritualypropaganda.com/2015/08/playboy-alfred-kinsey-y-la-revolucion.html)  
+Recomiendo leer: [Playboy, Alfred Kinsey Y La Revolución (Homo) Sexual](/estudios/playboy-alfred-kinsey-y-la-revolucion)  
   
 Con estas garantías, la mayoría de la gente respira un profundo suspiro de alivio. "No se preocupe, sea feliz," dicen las palabras de una canción de hace una década. Y la mayoría de nosotros apreciamos y están de acuerdo con ese sentimiento. Después de todo, no es agradable ser negativo, para que ser un escéptico en medio de una nación de caras felices y aspirantes.  
   
@@ -129,7 +129,7 @@ Que el "Dios" desconocido y adorado por los masones y llamado por nombres tan ne
   
 Ese es el mayor de los secretos que los Illuminati deben ocultar a la vista.  
   
-Recomiendo leer: [Fraternidades Universitarias Y Sus Vínculos Con La Francmasonería](http://www.ritualypropaganda.com/2011/05/fraternidades-universitarias-y-sus.html)  
+Recomiendo leer: [Fraternidades Universitarias Y Sus Vínculos Con La Francmasonería](/estudios/fraternidades-universitarias-y-sus)  
   
 El Iluminado es el hombre que conoce esto y es enseñado por sus superiores y llega a creer que todos los que están en el secretismo son de algún modo más sofisticado, finos y corteses, inteligentes y astutos, que las toscas, vulgares, y groseras personas que estúpidamente siguen al **[Dios de la Biblia](http://www.bibliotecapleyades.net/biblianazar/esp_biblianazar_jehovah.htm)**. La gente estúpida merece ser engañada, dicen los masones y los iluministas. Por lo tanto, como dice en comentarios de Emile Grillot DeGivry, la élite "oculta cosas con el fin de confundir a los vulgares." **(9)**  
   
@@ -198,14 +198,14 @@ Para ellos, estos no son simplemente formas geométricas, motivos arquitectónic
   
 ¡Pobre, engañado Mason, ya es bastante malo que la élite oculte sus sucios secretos detrás de este tipo de cortinas de humo con apretones de mano secretos, códigos, etc. Pero lo que es muy obsceno es que engañan a su propia gente.  
   
-Recomiendo leer: [Las 10 Principales Sociedades Secretas Que Manejan el Mundo](http://www.ritualypropaganda.com/2015/09/las-10-sociedades-secretas-que-influyen.html)  
+Recomiendo leer: [Las 10 Principales Sociedades Secretas Que Manejan el Mundo](/estudios/las-10-sociedades-secretas-que-influyen)  
   
 Los niveles más altos de la masonería, por ejemplo, tienen una palabra especial para la manera en la que tratan de engañar y confundir no sólo el "profano" (usted y yo), pero la gran mayoría de los compañeros masones. Esa palabra es "hoodwink" (enceguecer). Se define como el esfuerzo realizado por los hombres colocados en los niveles más altos para mantener a los miembros de nivel inferior en la oscuridad.  
 
 > **En la Enciclopedia de la Francmasonería, el editor Dr. Albert Mackey, 33 °, ex Gran Comandante Soberano, afirma que el secreto, el silencio, y el engaño, en otras palabras, hoodwink, es una necesidad absoluta para que, "los misterios de nuestro arte prevalezcan." (18)**
 
   
-**[Helena Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html)**, co-Masona y fundadora de la Teosofía, fue inusualmente franca cuando comentó:  
+**[Helena Blavatsky](/estudios/blavatsky-madame-nueva-era)**, co-Masona y fundadora de la Teosofía, fue inusualmente franca cuando comentó:  
   
 
 > **"¿Qué es lo que uno debe hacer, si para lograr controlar a los hombres, es necesario engañarlos?... Es casi invariable que mientras más simple, más tonto, y más bruto sea el fenómeno, es más probable que tenga éxito." (19)**
@@ -293,7 +293,7 @@ Atormentados por dentro, pero haciendo todo lo posible para mantener una sonrisa
   
 Para escapar de la realidad, estos hombres se apartan de los hechos, con la esperanza de que todo saldrá de forma satisfactoria al final. La realidad de que existe una conspiración monstruosa contra ellos y contra sus seres queridos se convierte en una enorme carga que simplemente no pueden soportar. Cobardes, al parecer, mueren mil veces.  
   
-Recomiendo leer: ["Cuando El Hombre Llegue A Nuevos Mundos, La Masonería Estará Allí"](http://www.ritualypropaganda.com/2014/07/cuando-el-hombre-llegue-nuevos-mundos.html)  
+Recomiendo leer: ["Cuando El Hombre Llegue A Nuevos Mundos, La Masonería Estará Allí"](/estudios/cuando-el-hombre-llegue-nuevos-mundos)  
   
 El investigador sueco Juri Lina, autor de _Architects of Deception_, un revelador libro lleno de hechos que exponen a las sociedades secretas, advierten que la ideología del "Iluminismo", propagada por la masonería internacional y otros grupos de élite, es un abrumador peligro oculto para todos nosotros. Ya han llevado a los levantamientos y revoluciones más violentas y son responsables de la "degeneración moral y espiritual de la persona." 25  
   

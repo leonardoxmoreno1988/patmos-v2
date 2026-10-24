@@ -9,7 +9,7 @@ description: "Los ángeles caídos y sus descendientes nefilim, y la explicació
 tags: ["Apologética", "Nephilim", "Ángeles caídos", "Génesis"]
 ---
 
-Los temas de los **ángeles caídos** y sus descendientes **[nefilim](http://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html)** son de hecho extraños. La mayoría de los investigadores en este campo conocen la historia básica. Hace mucho tiempo, ángeles rebeldes descendieron a la Tierra para procrear con mujeres humanas. El resultado de este acto fue la creación de híbridos **gigantes** de ángel y humano.  
+Los temas de los **ángeles caídos** y sus descendientes **[nefilim](/estudios/nefilim-antiguo-testamento)** son de hecho extraños. La mayoría de los investigadores en este campo conocen la historia básica. Hace mucho tiempo, ángeles rebeldes descendieron a la Tierra para procrear con mujeres humanas. El resultado de este acto fue la creación de híbridos **gigantes** de ángel y humano.  
   
 
 [![Ilustración de gigante Nefilim muerto en manos de la milicia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN8ZNfxyZokEwy-TZMIxCgzLlRq0uHpUGL44bwvKIIDStTyoNZ-l7-HumDaC37OGKTnkvIqwsMWcRiQ105Y9l9JeF8aMLXz9vebEYSiDjrv0jn8OLSPLUTL7fwDwPUVZOO4uuDVMcVCRI/s1600/nefilim-gigantes.jpg "gigante nefilim")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN8ZNfxyZokEwy-TZMIxCgzLlRq0uHpUGL44bwvKIIDStTyoNZ-l7-HumDaC37OGKTnkvIqwsMWcRiQ105Y9l9JeF8aMLXz9vebEYSiDjrv0jn8OLSPLUTL7fwDwPUVZOO4uuDVMcVCRI/s1600/nefilim-gigantes.jpg)
@@ -43,7 +43,7 @@ Bíblicamente hablando, un tamaño físico más grande no parece ser un atributo
 > **"Y a los ángeles que no conservaron su señorío original, sino que abandonaron su morada legítima, los ha guardado en prisiones eternas, bajo tinieblas para el juicio del gran día." \- Judas 1:6.**
 
   
-Se podría hacer una interpretación de que el primer estado o la vivienda se refiere al cuerpo angelical. Hay ciertamente una buena razón para esta opinión, y en parte estoy definitivamente de acuerdo con esa evaluación (para más información sobre esto, lea el artículo **[Secretos de los nefilim: ¿Quiénes son, qué están haciendo y por qué?](http://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html)** o mi libro **_Divulgación: Desvelando nuestro papel en la guerra secreta de los antiguos_** en **[MinistudyMinistry.com](http://ministudyministry.com/)**).  
+Se podría hacer una interpretación de que el primer estado o la vivienda se refiere al cuerpo angelical. Hay ciertamente una buena razón para esta opinión, y en parte estoy definitivamente de acuerdo con esa evaluación (para más información sobre esto, lea el artículo **[Secretos de los nefilim: ¿Quiénes son, qué están haciendo y por qué?](/estudios/nefilim-antiguo-testamento)** o mi libro **_Divulgación: Desvelando nuestro papel en la guerra secreta de los antiguos_** en **[MinistudyMinistry.com](http://ministudyministry.com/)**).  
   
 Sin embargo, esto todavía plantea una cuestión importante. Si los ángeles caídos se mudaron verdaderamente de su cuerpo angélico extradimensional hacia un cuerpo físico totalmente tridimensional, ¿no se aplicaría esto también a la genética? En otras palabras, si ya no había nada angelical en el cuerpo, ¿por qué eso sólo se detendría en la apariencia externa? ¿La composición celular, la genética y el ADN no serían también angelicales?  
   
@@ -71,7 +71,7 @@ Podemos aplicar esto a nuestra experiencia tridimensional como un ejercicio de p
   
 Para nosotros, sería lo mismo, sólo con una dimensión añadida. Primero veríamos aparecer un punto en el espacio. A medida que la hipersfera se mueve a través de nuestro espacio, el punto se convertiría en una bola y seguiría creciendo en tamaño. Una vez que el centro de la hipersfera pasa a través de nuestro espacio, veríamos la bola empezar a encogerse en tamaño hasta que desaparezca por completo.  
   
-Como una nota rápida, ¿no es interesante que muchos informes de **[ovnis](http://www.ritualypropaganda.com/2017/02/las-propiedades-extra-dimensionales-de.html)** contengan detalles como estos? Para obtener más información sobre este aspecto, consulte mis libros Quantum Creation y Cherubim Chariots, disponibles en MinistudyMinistry.com.  
+Como una nota rápida, ¿no es interesante que muchos informes de **[ovnis](/estudios/las-propiedades-extra-dimensionales-de)** contengan detalles como estos? Para obtener más información sobre este aspecto, consulte mis libros Quantum Creation y Cherubim Chariots, disponibles en MinistudyMinistry.com.  
   
 
 ## Intrusos de las dimensiones más altas
@@ -119,7 +119,7 @@ Puesto que hay al menos una dimensión menos espacial en la que puede crecer, el
 [![Extraterrestress grises](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYlZ9zcAY_ORbuDrnjVfz9toYtFZzx7Wc_Rp4UGmScYk9a1AM3k_r0R01TE9j2k41vfLciCw4UFDjQqLhKdHoerL64Puv2LjrnY755rUMLXlbyzrqTQC8lK3NtkTth9SZbrY7dhtmJTIc/s1600/aliens.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYlZ9zcAY_ORbuDrnjVfz9toYtFZzx7Wc_Rp4UGmScYk9a1AM3k_r0R01TE9j2k41vfLciCw4UFDjQqLhKdHoerL64Puv2LjrnY755rUMLXlbyzrqTQC8lK3NtkTth9SZbrY7dhtmJTIc/s1600/aliens.jpg)
 
   
-Esto también podría explicar por qué tantos relatos de abducción **[extraterrestre](http://www.ritualypropaganda.com/2013/12/la-farsa-extraterrestre-predisponiendo.html)** incluyen detalles sobre las entidades interesadas en nuestra genética. Para ser claro desde el principio, creo que los seres llamados extraterrestres son en realidad extradimensionales por naturaleza, y no extraterrestres. Creo que tienen la capacidad de crear cuerpos vivos tridimensionales; sin embargo, creo que el origen general de estas cosas no es otro planeta, sino una dimensión superior. Para más información sobre esto, refiérase al libro Quantum Creation y Cherubim Chariots.  
+Esto también podría explicar por qué tantos relatos de abducción **[extraterrestre](/estudios/la-farsa-extraterrestre-predisponiendo-a-las-masas-para-la-aceptacion-de-vida-en-2013-12)** incluyen detalles sobre las entidades interesadas en nuestra genética. Para ser claro desde el principio, creo que los seres llamados extraterrestres son en realidad extradimensionales por naturaleza, y no extraterrestres. Creo que tienen la capacidad de crear cuerpos vivos tridimensionales; sin embargo, creo que el origen general de estas cosas no es otro planeta, sino una dimensión superior. Para más información sobre esto, refiérase al libro Quantum Creation y Cherubim Chariots.  
   
 Al parecer, con la cópula directa entre un ángel y un ser humano, el problema del gigantismo es inevitable. También parecería que los genes angélicos podrían llevar rasgos que no se encuentran normalmente en los seres humanos. Estos rasgos podrían ser cualquier cantidad de habilidades sobrehumanas. Mirar a los antiguos semidioses podría darnos una idea de cuáles podrían ser algunos de esos rasgos. Tal vez las entidades alienígenas todavía están tratando de hibridarse con los seres humanos.  
   

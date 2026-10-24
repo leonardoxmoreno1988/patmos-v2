@@ -18,14 +18,14 @@ tags: ["Sociedad", "Codex Magica", "Simbolismo", "Illuminati"]
 > **"El significado iluminista / masónico de la X es simplemente este: Es el signo de Osiris, el gran dios del sol (egipcio)."\- Texe Marrs, Dark Majesty**
 
   
-La señal o **letra X**, tiene una larga historia de uso en las Religiones del Misterio Antiguo, en el judaísmo apóstata, en la Francmasonería y en el **ocultismo**. La élite de los **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** lo usa hasta nuestros días para simbolizar fenómenos clave y marcar eventos significativos.  
+La señal o **letra X**, tiene una larga historia de uso en las Religiones del Misterio Antiguo, en el judaísmo apóstata, en la Francmasonería y en el **ocultismo**. La élite de los **[Illuminati](/estudios/quienes-son-los-illuminati)** lo usa hasta nuestros días para simbolizar fenómenos clave y marcar eventos significativos.  
   
 El significado de la misteriosa letra X parece tener una vida amplia y variada en sí misma, con o sin la ayuda secreta del patrocinio de la élite. Mark Euston, de la Christian Intelligence Resource Network, en una carta al autor detalló algunos de los muchos ejemplos del uso de la letra X. Por ejemplo, el conocido programa de televisión de ciencia ficción The X Files.  
   
 **Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
   
-Las películas pornográficas son clasificadas X y las películas más sensacionales en la categoría de "carne cruda" son promocionadas como XXX, o triple X. Euston señaló que tenemos la creación de Microsoft Corporation de X-box, la **[película X-Men](http://www.ritualypropaganda.com/2016/06/significado-x-men-apocalipsis.html)**, los productos fuera de marca se llaman "Marca X" y, por supuesto, el campamento terrorista de los Estados Unidos, Camp X-Ray en Guantánamo, Cuba. A los jóvenes de hoy se les ha llamado Generación X, y mucha gente está preocupada por un planeta, o estrella, que se dice que se está acelerando hacia nosotros, llamado Planeta X, que tiene un significado oculto.  
+Las películas pornográficas son clasificadas X y las películas más sensacionales en la categoría de "carne cruda" son promocionadas como XXX, o triple X. Euston señaló que tenemos la creación de Microsoft Corporation de X-box, la **[película X-Men](/estudios/significado-x-men-apocalipsis)**, los productos fuera de marca se llaman "Marca X" y, por supuesto, el campamento terrorista de los Estados Unidos, Camp X-Ray en Guantánamo, Cuba. A los jóvenes de hoy se les ha llamado Generación X, y mucha gente está preocupada por un planeta, o estrella, que se dice que se está acelerando hacia nosotros, llamado Planeta X, que tiene un significado oculto.  
   
 Euston pregunta sobre todos los usos de X,  
 
@@ -179,7 +179,7 @@ Ehud Barak, un masón elegido Primer Ministro de Israel en 1999, con su esposa, 
 
 Larry Summers, Secretario del Tesoro en el segundo mandato de la Administración Bill Clinton, señala a sus asociados en la élite Illuminati la fuerza de su Orden. Vemos primero su posición cruzada de la mano "X", dominando el de la mano izquierda.  
   
-Luego está el pilar de fuerza de **[Jaquin y Boaz](http://www.ritualypropaganda.com/2011/07/el-significado-esoterico-de-los-dos.html)**, y finalmente el **[tablero blanco y negro a cuadros](http://www.ritualypropaganda.com/2011/06/el-misterio-del-patron-en-el-pavimento.html)** sobre el que se encuentra, la ciencia de los opuestos polares, la dialéctica hegeliana, el principio masónico de equilibrio. Summers es actualmente Presidente de la Universidad de Harvard.  
+Luego está el pilar de fuerza de **[Jaquin y Boaz](/estudios/el-significado-esoterico-de-los-dos)**, y finalmente el **[tablero blanco y negro a cuadros](/estudios/el-misterio-del-patron-en-el-pavimento)** sobre el que se encuentra, la ciencia de los opuestos polares, la dialéctica hegeliana, el principio masónico de equilibrio. Summers es actualmente Presidente de la Universidad de Harvard.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnSXXdPQ81fPVCjBiJHeqsccEoIHAsRBjn00eBk6QLnkjgeNdkk5Bx09H2IR-As7FPXAoAHK1_QdJ8fQ5L_ytBLWb64a0cDbon9nDf9TPBjwZHiGK76z4cTcvL4ROUM5ay9fRn2RUSsL0/s1600/maddi.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnSXXdPQ81fPVCjBiJHeqsccEoIHAsRBjn00eBk6QLnkjgeNdkk5Bx09H2IR-As7FPXAoAHK1_QdJ8fQ5L_ytBLWb64a0cDbon9nDf9TPBjwZHiGK76z4cTcvL4ROUM5ay9fRn2RUSsL0/s1600/maddi.jpg)
@@ -369,7 +369,7 @@ Estatuilla de bronce del demonio dios Pazuzu, 800-600 a. C. Pazuzu todavía es s
 
   
 
-La Orden Rosacruz y otras órdenes místicas enfatizan el proceso de la alquimia, unión mística que trae consigo la limpieza y la renovación. El objetivo de la alquimia Illuminati es realizar un **[Nuevo Orden Mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)** a través de la destrucción ("limpieza").  
+La Orden Rosacruz y otras órdenes místicas enfatizan el proceso de la alquimia, unión mística que trae consigo la limpieza y la renovación. El objetivo de la alquimia Illuminati es realizar un **[Nuevo Orden Mundial](/estudios/que-es-el-nuevo-orden-mundial)** a través de la destrucción ("limpieza").  
   
 Así, Ordo Ab Chao, orden del caos. En este dibujo de Philosophia Reformata de Mylius (1622) el proceso alquímico es "Bath", la unión de Sol (Sol) y Luna (Luna). La "X" es la intersección de los dos opuestos.  
   

@@ -41,7 +41,7 @@ Hecho de la manera típica, este signo significa literalmente la relación sexua
 
 ## La Ley De Los Opuestos
 
-En su reconocida enciclopedia de símbolos titulada _Símbolos Masónicos y Ocultos Ilustrados_, la Dra. Cathy Burns explora el significado del signo "V". Ella explica que los dos dedos hacia arriba se relacionan con la Ley Masónica y Gnóstica de los Opuestos, exactamente como el caso de los **[pisos de tablero blanco y negro](https://www.ritualypropaganda.com/2011/06/el-misterio-del-patron-en-el-pavimento.html)** de la Logia Masónica.  
+En su reconocida enciclopedia de símbolos titulada _Símbolos Masónicos y Ocultos Ilustrados_, la Dra. Cathy Burns explora el significado del signo "V". Ella explica que los dos dedos hacia arriba se relacionan con la Ley Masónica y Gnóstica de los Opuestos, exactamente como el caso de los **[pisos de tablero blanco y negro](/estudios/el-misterio-del-patron-en-el-pavimento)** de la Logia Masónica.  
   
 Esta es la doctrina de sacar el orden del caos, de reconciliar los dos opuestos, el mal y el bien, con Satanás reinando sobre el cielo y el infierno. **(2)** El signo "V" es también el signo del Dios Cornudo de la brujería, a menudo llamado Pan. ; o Baphomet, el dios caprino andrógino (masculino y femenino) (una vez más ilustrando la Ley de los Opuestos).  
   
@@ -70,7 +70,7 @@ Aquí vemos las fantásticas creencias de los ocultistas de que sus rituales cre
 
 ## Triple 6 o 666
 
-Como hemos visto anteriormente, la cábala judía está en la raíz de los sistemas de magia más perversos. **[La cábala](https://www.ritualypropaganda.com/2017/04/plan-de-lucifer-impulso-cabala-francmasoneria.html)** (o Kabbalah) es la fuente de la doctrina de la masonería y de muchas otras sociedades secretas. Podemos esperar, por lo tanto, que el signo "V" también sea enfatizado por los sacerdotes rabínicos del cabalismo.  
+Como hemos visto anteriormente, la cábala judía está en la raíz de los sistemas de magia más perversos. **[La cábala](/estudios/plan-de-lucifer-impulso-cabala-francmasoneria)** (o Kabbalah) es la fuente de la doctrina de la masonería y de muchas otras sociedades secretas. Podemos esperar, por lo tanto, que el signo "V" también sea enfatizado por los sacerdotes rabínicos del cabalismo.  
   
 Y, de hecho, encontramos que los rabinos enseñan que el significado de la letra hebrea para V (Vau) es "Nail", y "Nail" es un título secreto para Satanás. (Su significado corrupto proviene de los clavos clavados en las manos de Jesús crucificado.) Vau, o V, es la sexta letra en el alfabeto hebreo, y, por supuesto, el libro de Revelación revela que el nombre de la bestia, o Anticristo , está codificado con el número de triple 6, o 666.  
   
@@ -149,7 +149,7 @@ El actual arzobispo de Canterbury cabeza formal de la iglesia de Inglaterra es t
 
   
 
-El Dr. Roman Williams, Arzobispo de Cantembury, director de la iglesia de Inglaterra y Sacerdoten Druida Mayor comparten un **[apretón de manos secreto](https://www.ritualypropaganda.com/2016/12/codex-magica-viii-apreton-de-manos-illuminati.html)** en una ceremonia de la iglesia.  
+El Dr. Roman Williams, Arzobispo de Cantembury, director de la iglesia de Inglaterra y Sacerdoten Druida Mayor comparten un **[apretón de manos secreto](/estudios/codex-magica-viii-apreton-de-manos-illuminati)** en una ceremonia de la iglesia.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuGf4Ypq6wmv4AonT0SzhK7BqQHiK9nHirXu1Ucr9QNR09-89vh3bw_KDQfV7y-fZE9FIPkGSlyndgcQkyToNtGs4qdROynq0fMtHvXj5PcuJOB_Sw5EFPVvWfHa36KIEsa7HnC6LdSIc/s1600/codex_103.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuGf4Ypq6wmv4AonT0SzhK7BqQHiK9nHirXu1Ucr9QNR09-89vh3bw_KDQfV7y-fZE9FIPkGSlyndgcQkyToNtGs4qdROynq0fMtHvXj5PcuJOB_Sw5EFPVvWfHa36KIEsa7HnC6LdSIc/s1600/codex_103.jpg)
@@ -209,7 +209,7 @@ Detalle de una pintura al óleo anónima que representa al famoso compositor vie
 
   
 
-Albert Pike, el muy honrado adorador homosexual de Lúcifer que sirvió en la guerra civil como el Gran Soberano del Rito Masónico Escocés, reescribió e introdujo una nueva versión de los rituales dek grado 33. Aquí Pike utiliza la banda en forma de V del Soberano Gran Comandante. Colgando sobre su cuello hay una joya con el **[águila bicéfala](https://www.ritualypropaganda.com/2017/06/codex-significado-aguila-dos-cabezas_19.html)**.  
+Albert Pike, el muy honrado adorador homosexual de Lúcifer que sirvió en la guerra civil como el Gran Soberano del Rito Masónico Escocés, reescribió e introdujo una nueva versión de los rituales dek grado 33. Aquí Pike utiliza la banda en forma de V del Soberano Gran Comandante. Colgando sobre su cuello hay una joya con el **[águila bicéfala](/estudios/codex-significado-aguila-dos-cabezas-19)**.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBp_kZkVNqJeVvxln8tY2Hyct3nTtBkTtzjInQxbBW79n6q9Z7R4wH9sNxEAZIbC3vXxIv8HMYjwN6K6TMTZFeH3ioNaDQlCd1Dcy5tZIeGdajPQcjm5dZeuOeVz2VrArtvgbI7Je3b7I/s1600/codex_107.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBp_kZkVNqJeVvxln8tY2Hyct3nTtBkTtzjInQxbBW79n6q9Z7R4wH9sNxEAZIbC3vXxIv8HMYjwN6K6TMTZFeH3ioNaDQlCd1Dcy5tZIeGdajPQcjm5dZeuOeVz2VrArtvgbI7Je3b7I/s1600/codex_107.jpg)

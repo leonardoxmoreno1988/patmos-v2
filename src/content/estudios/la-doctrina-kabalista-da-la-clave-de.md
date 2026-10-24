@@ -27,7 +27,7 @@ Los cabalistas creen que el Antiguo Orden Cristiano debe ser destruido antes de 
 
 Esta doctrina de destrucción explica por qué la guerra y la revolución han estado siempre caracterizadas por una orgía gratuita de genocidio, terror y destrucción.  
   
-Explica la eliminación del concepto ‘Dios’ del discurso público y la aceptación por parte de amplios sectores de la obscenidad, la pornografía y lo oculto. Explica el ataque de género y la promoción de la [homosexualidad](http://www.ritualypropaganda.com/2013/07/existe-una-conspiracion-detras-del.html) a los heterosexuales. Explica por qué la humanidad parece sufrir una maldición con crisis que nunca se acaban y se suceden y catástrofes, económicas, políticas y naturales. Creo que están siendo diseñadas por los illuminati para atacar y destruir cualquier cosa que sea parecida al orden natural divino, natural o espiritual.  
+Explica la eliminación del concepto ‘Dios’ del discurso público y la aceptación por parte de amplios sectores de la obscenidad, la pornografía y lo oculto. Explica el ataque de género y la promoción de la [homosexualidad](/estudios/existe-una-conspiracion-detras-del) a los heterosexuales. Explica por qué la humanidad parece sufrir una maldición con crisis que nunca se acaban y se suceden y catástrofes, económicas, políticas y naturales. Creo que están siendo diseñadas por los illuminati para atacar y destruir cualquier cosa que sea parecida al orden natural divino, natural o espiritual.  
 
   
 

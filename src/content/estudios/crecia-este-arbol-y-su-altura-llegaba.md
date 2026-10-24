@@ -43,9 +43,9 @@ Aquí vemos el origen de la [licantropía](https://es.wikipedia.org/wiki/Licantr
   
 Después de este período de locura de siete años, recupera la conciencia y da gloria al Dios del cielo, entendiendo que Él es quien quita reyes y pone reyes (Daniel 2:21). Nabucodonosor se convierte al Dios verdadero.  
   
-La transformación de Nabucodonosor también contiene muchas referencias al [Anticristo](https://www.ritualypropaganda.com/2022/06/hombre-de-pecado.html). Él es un hombre-bestia. El Anticristo, luego de morir y resucitar, sale del mar como "la bestia que sube del abismo" (Revelación 11:7-8).  
+La transformación de Nabucodonosor también contiene muchas referencias al [Anticristo](/estudios/hombre-de-pecado). Él es un hombre-bestia. El Anticristo, luego de morir y resucitar, sale del mar como "la bestia que sube del abismo" (Revelación 11:7-8).  
   
-Nabucodonosor come hierba con los bueyes. Satanás era un querubín (Ezequiel 28:14), y el rostro de un [querubín](https://www.ritualypropaganda.com/2022/12/serpiente-escurridiza.html) era el rostro de un buey (Ezequiel 1:10; Ezequiel 10:14).  
+Nabucodonosor come hierba con los bueyes. Satanás era un querubín (Ezequiel 28:14), y el rostro de un [querubín](/estudios/serpiente-escurridiza) era el rostro de un buey (Ezequiel 1:10; Ezequiel 10:14).  
   
 Daniel describe que el cabello de Nabucodonosor creció “como plumas de águila”, y una de las caras de los querubines era la de un águila (Ezequiel 1:10; Ezequiel 10:14).  
   
@@ -55,7 +55,7 @@ El antiguo imperio de Babilonia también está conectado con el Anticristo. Dura
   
 También vemos que en el capítulo anterior de Daniel, Nabucodonosor levanta una estatua dorada de sí mismo en forma de [símbolo fálico](https://www.christiantruthcenter.com/wp-content/uploads/2013/04/nebuchadnezzar_golden-statue.jpg), para que todos adoren la estatua (Daniel 3:4-6). Esto es lo mismo que hará el Anticristo en el futuro (Revelación 13:14-15).  
   
-Pero a diferencia del Anticristo, Nabucodonosor se arrepiente de su orgullo y le da gloria al Dios del cielo una vez que recupera su cordura y su imperio. Reconoce que es el Señor el que tiene el reino que [nunca será destruido](https://www.ritualypropaganda.com/2023/01/1000-anos-reinado-futuro.html).  
+Pero a diferencia del Anticristo, Nabucodonosor se arrepiente de su orgullo y le da gloria al Dios del cielo una vez que recupera su cordura y su imperio. Reconoce que es el Señor el que tiene el reino que [nunca será destruido](/estudios/1000-anos-reinado-futuro).  
   
 Aquí vemos una gran evidencia del libre albedrío. El Anticristo acepta recibir el poder de Satanás para liderar una batalla contra Dios (Revelación 16:13-16). Nabucodonosor, por otro lado, accede a humillarse y reconoce que es un simple mortal (Daniel 4:37). Dos caminos muy distintos.  
   

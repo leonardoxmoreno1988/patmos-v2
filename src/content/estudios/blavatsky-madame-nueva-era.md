@@ -84,7 +84,7 @@ En _La Doctrina Secreta_, Blavatsky escribe:
   
 Blavatsky viajó mucho. En la década de 1850 y en la década de 1870, visitó la India repetidamente (también visitó Cachemira) mientras se sometía a su entrenamiento oculto y establecía varios contactos allí.
 
-Se cree que los **[Maestros Ascendidos](https://www.ritualypropaganda.com/2017/02/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados.html)** son individuos que antes estaban encarnados en la Tierra y aprendieron las lecciones de la vida durante sus encarnaciones. Obtuvieron dominio sobre las limitaciones de los planos de la materia (en la cosmología esotérica, un plano, que no sea el mundo físico, se concibe como un estado sutil de conciencia que trasciende el universo físico conocido).
+Se cree que los **[Maestros Ascendidos](/estudios/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados)** son individuos que antes estaban encarnados en la Tierra y aprendieron las lecciones de la vida durante sus encarnaciones. Obtuvieron dominio sobre las limitaciones de los planos de la materia (en la cosmología esotérica, un plano, que no sea el mundo físico, se concibe como un estado sutil de conciencia que trasciende el universo físico conocido).
 
 Un Maestro Ascendido, en tal entendimiento, se ha convertido en Dios y en una fuente de "Amor Divino" incondicional para toda la vida, y a través de la ascensión se ha unido con su propio "Dios mismo", la "Presencia YO SOY".
 

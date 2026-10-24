@@ -47,7 +47,7 @@ El vídeo comienza con un primer plano de Kanye West con los ojos que brillan en
 
 ## Dos Pilares
 
-Como los lectores habituales de este sitio ya lo saben, el [**significado oculto de los dos pilares**](http://www.ritualypropaganda.com//2011/07/el-significado-esoterico-de-los-dos.html) es antiguo, profundo y real en el simbolismo de casi todas las escuelas de misterio de la Historia. Hay muchos niveles de interpretación atribuida a las dos columnas, pero una constante siempre está presente: Los pilares representan la entrada - la puerta - al mundo de los iniciados. Detrás de las columnas se pueden encontrar la clave para los misterios y, por consiguiente, la fuente del verdadero poder. Este concepto ha sido utilizado en muchas culturas y escuelas de pensamiento.
+Como los lectores habituales de este sitio ya lo saben, el [**significado oculto de los dos pilares**](/estudios/el-significado-esoterico-de-los-dos) es antiguo, profundo y real en el simbolismo de casi todas las escuelas de misterio de la Historia. Hay muchos niveles de interpretación atribuida a las dos columnas, pero una constante siempre está presente: Los pilares representan la entrada - la puerta - al mundo de los iniciados. Detrás de las columnas se pueden encontrar la clave para los misterios y, por consiguiente, la fuente del verdadero poder. Este concepto ha sido utilizado en muchas culturas y escuelas de pensamiento.
 
   
 

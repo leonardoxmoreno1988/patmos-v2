@@ -77,7 +77,7 @@ Muchos investigadores de la conspiración mencionarán un vínculo entre esto y 
   
 El hombre salvaje desnudo en el logotipo de CFR sostiene su brazo derecho y su mano en una posición erecta, un saludo hacia el cielo, con los dedos formando el gesto masónico reconocible que hacen los iniciados del sexto grado de la masonería. La desnudez del hombre demuestra que él es un "Hombre Salvaje", un rebelde; sin embargo, por su comportamiento y actitud, el Jinete del Caballo Blanco es claramente un guerrero decidido confiado en su misión.  
   
-El saludo mano / brazo del hombre desnudo del CFR sobre el caballo blanco, en los libros de texto masónicos, se llama el "**[Signo de Admiración](http://www.ritualypropaganda.com/2017/02/codex-magica-9-mostrando-las-manos.html)**". Su explicación está ligada a los antiguos rituales paganos del templo del Israel apóstata bajo el liderazgo del Rey Salomón.  
+El saludo mano / brazo del hombre desnudo del CFR sobre el caballo blanco, en los libros de texto masónicos, se llama el "**[Signo de Admiración](/estudios/codex-magica-9-mostrando-las-manos)**". Su explicación está ligada a los antiguos rituales paganos del templo del Israel apóstata bajo el liderazgo del Rey Salomón.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFH0TX9PkCEqJ4HpTplgbi_rhiXhLcTKDuhXaHuXZOQOMFJI-n_Pl_yyHLwaSwG29OVrIHPzN_Ljw8dFAqjIg4eyRbhZK5INVUR8UFS2TDtpDBPCgo14ovkKWn_WDTrOG4qSEoGz_2FGE/s1600/napoleon.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFH0TX9PkCEqJ4HpTplgbi_rhiXhLcTKDuhXaHuXZOQOMFJI-n_Pl_yyHLwaSwG29OVrIHPzN_Ljw8dFAqjIg4eyRbhZK5INVUR8UFS2TDtpDBPCgo14ovkKWn_WDTrOG4qSEoGz_2FGE/s1600/napoleon.jpg)

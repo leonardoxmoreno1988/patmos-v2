@@ -99,7 +99,7 @@ El preterismo luego fue introducido a la iglesia protestante por el libro titula
 
   
 
-El testimonio de Alberto Rivera está documentado en una serie de cómics de la editorial cristiana Chick Publications, disponible en [este enlace](https://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html).
+El testimonio de Alberto Rivera está documentado en una serie de cómics de la editorial cristiana Chick Publications, disponible en [este enlace](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-1).
 
   
 

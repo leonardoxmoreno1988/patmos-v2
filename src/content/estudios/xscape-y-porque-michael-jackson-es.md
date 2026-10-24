@@ -34,7 +34,7 @@ El set está intencionalmente lleno de representaciones sutiles de una logia mas
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF8Fr45f0y4oPoK8U2x794cF85KRuKVwdprqJsBNgQ6ZCKxai9gqRF_uwmOJpbIABL9OAEOGinsWwhy-dDQxrS9w7mLGO14wHhWQNhrAJWyrm2miZ6mBaIRTk5zFHhNC3qsiTdVH1iuxM/s1600/slave3.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF8Fr45f0y4oPoK8U2x794cF85KRuKVwdprqJsBNgQ6ZCKxai9gqRF_uwmOJpbIABL9OAEOGinsWwhy-dDQxrS9w7mLGO14wHhWQNhrAJWyrm2miZ6mBaIRTk5zFHhNC3qsiTdVH1iuxM/s1600/slave3.jpg)
 
-**Estos dos pilares [Boaz y Jaquin](https://www.ritualypropaganda.com//2011/07/el-significado-esoterico-de-los-dos.html) (representados como piezas de ajedrez) son el simbolismo masón que da el paso desde el mundo material al mitológico.**
+**Estos dos pilares [Boaz y Jaquin](/estudios/el-significado-esoterico-de-los-dos) (representados como piezas de ajedrez) son el simbolismo masón que da el paso desde el mundo material al mitológico.**
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Xnsx4ObF3wfIznNNnHILomKlv4jP1lF3Y2vDgLW0nOdAG4fY5ejj20NpTXV41eCuDDttLiBBjSuTrrl7hl7uIJCAi-qBkB45z4naRil6S3K-uQDHzgBv-QYy_IrQviByfv5vFnhDeM4/s1600/slave4.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Xnsx4ObF3wfIznNNnHILomKlv4jP1lF3Y2vDgLW0nOdAG4fY5ejj20NpTXV41eCuDDttLiBBjSuTrrl7hl7uIJCAi-qBkB45z4naRil6S3K-uQDHzgBv-QYy_IrQviByfv5vFnhDeM4/s1600/slave4.jpg)
 

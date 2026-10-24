@@ -11,7 +11,7 @@ tags: ["Escatología", "Querubines", "Revelación", "Trono de Dios"]
 
 Estimado lector,  
   
-Esto podría considerarse una extensión del estudio de [Revelación](https://t.me/ritualypropaganda) de la semana pasada y la parte 2 del newsletter [№ 47](https://www.ritualypropaganda.com/2022/12/serpiente-escurridiza.html).  
+Esto podría considerarse una extensión del estudio de [Revelación](https://t.me/ritualypropaganda) de la semana pasada y la parte 2 del newsletter [№ 47](/estudios/serpiente-escurridiza).  
 
 > “Jehová de los ejércitos, Dios de Israel, que moras entre los querubines,”  
 > –Isaías 37:16
@@ -50,7 +50,7 @@ Otros señalan que los asirios y los antiguos mesopotámicos ya adoraban criatur
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/391/original/dios-asirio.jpeg)  
   
-Pero los querubines bíblicos no son meras copias de [religiones paganas](https://www.ritualypropaganda.com/2018/02/isis-y-horus-maria-y-jesus-la-verdad_26.html), es probable que los asirios y otros paganos de la antigüedad tuvieran débiles conceptos de los querubines y los copiaran. Su vago conocimiento podría venir de la era antediluviana.  
+Pero los querubines bíblicos no son meras copias de [religiones paganas](/estudios/isis-y-horus-maria-y-jesus-la-verdad-26), es probable que los asirios y otros paganos de la antigüedad tuvieran débiles conceptos de los querubines y los copiaran. Su vago conocimiento podría venir de la era antediluviana.  
   
 Ezequiel no fue la primera persona en ver a los querubines. Después de que Adán y Eva fueron expulsados del Paraíso, Dios colocó querubines al oriente del [Jardín del Edén](https://bibleask.org/es/por-que-puso-dios-querubines-para-bloquear-el-acceso-al-arbol-de-la-vida/) (Génesis 3:24).  
   

@@ -162,7 +162,7 @@ La fuente de su inspiración Gran parte de la arquitectura diseñada por estos a
 
   
 
-**[Helena P. Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html)**, filósofa del siglo XIX cuya Doctrina Secreta ha inspirado a muchos arquitectos iluministas, incluido Frank Lloyd Wright.  
+**[Helena P. Blavatsky](/estudios/blavatsky-madame-nueva-era)**, filósofa del siglo XIX cuya Doctrina Secreta ha inspirado a muchos arquitectos iluministas, incluido Frank Lloyd Wright.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb-OaBHrYGsQDNTIMBRX7j95SeXxQLGza5QbiemQKyd9x2LviOgp6mZc_jgzm4paFzc-ZDIa_G45vB8RA1rBVARvHofSc8hLPUjtlAHXOfVeBreMf6eyXnRwpgKo_9_tBaoF7_MY8BAgE/s400/mm2-6.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb-OaBHrYGsQDNTIMBRX7j95SeXxQLGza5QbiemQKyd9x2LviOgp6mZc_jgzm4paFzc-ZDIa_G45vB8RA1rBVARvHofSc8hLPUjtlAHXOfVeBreMf6eyXnRwpgKo_9_tBaoF7_MY8BAgE/s1600/mm2-6.jpg)

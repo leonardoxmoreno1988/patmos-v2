@@ -173,7 +173,7 @@ Lo último que voy a plantear aquí es el aspecto de la tecnología, porque se p
 
   
 
-En un artículo publicado en el Journal of Scientific Exploration, el investigador ovni Jacques Vallee dio algunas razones por las que cree que los ovnis no son de origen **[extraterrestre](http://www.ritualypropaganda.com/2012/09/la-farsa-extraterrestre-predisponiendo_18.html)**. Al escribir esto, Jacques Vallee venía de una cosmovisión secular. No estaba proponiendo nada desde una perspectiva cristiana. Vallee sacó sus conclusiones basándose en las pruebas que recogió de varios testigos y otras fuentes. No tenía lo que algunos llamarían una "agenda cristiana".
+En un artículo publicado en el Journal of Scientific Exploration, el investigador ovni Jacques Vallee dio algunas razones por las que cree que los ovnis no son de origen **[extraterrestre](/estudios/la-farsa-extraterrestre-predisponiendo-18)**. Al escribir esto, Jacques Vallee venía de una cosmovisión secular. No estaba proponiendo nada desde una perspectiva cristiana. Vallee sacó sus conclusiones basándose en las pruebas que recogió de varios testigos y otras fuentes. No tenía lo que algunos llamarían una "agenda cristiana".
 
   
 

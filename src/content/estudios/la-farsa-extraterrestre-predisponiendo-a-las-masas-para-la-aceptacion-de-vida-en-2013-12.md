@@ -45,7 +45,7 @@ Uno de los relatos que han repercutido en la temática OVNIs/Vaticano, incluyen 
 >   
 > Loris Francesco Copovilla Secretario personal del Papa Juan XXIII Diario "The Sun" 1985  
 
-Si esta historia es real o no, tuvo repercusión el los medios y es usada por muchas personas para ratificar la presencia de "hermanos siderales" --por que no, cristianos(?)-- como seres incluidos en la creación de Dios. Pero a todo esto, ¿Quién fue el Papa Juan XXIII? Entre uno de sus mayores méritos asignados se encuentra la convocación del Concilio Vaticano II, el cuál fue uno de los mayores acontecimientos de la Iglesia Católica en la era moderna. Este a su vez fue uno de los eventos ecuménicos más grandes de la historia de Roma, en este concilio se reunieron diversos líderes de diferentes denominaciones cristianas y etnias, dando paso a un tiempo nuevo de "unidad" entre creyentes. Si usted no lo sabe, el ecumenismo es una herramienta satánica que es y será usada para traer la nueva religión mundial del anticristo. No es una casualidad que el mencionado Papa envuelto con el contacto [OVNI](https://www.ritualypropaganda.com/2017/02/las-propiedades-extra-dimensionales-de.html) sea el que convoque esta unificación entre iglesias. La Iglesia católica, a través del Concilio Vaticano II, estableció, entre otros puntos los siguientes:  
+Si esta historia es real o no, tuvo repercusión el los medios y es usada por muchas personas para ratificar la presencia de "hermanos siderales" --por que no, cristianos(?)-- como seres incluidos en la creación de Dios. Pero a todo esto, ¿Quién fue el Papa Juan XXIII? Entre uno de sus mayores méritos asignados se encuentra la convocación del Concilio Vaticano II, el cuál fue uno de los mayores acontecimientos de la Iglesia Católica en la era moderna. Este a su vez fue uno de los eventos ecuménicos más grandes de la historia de Roma, en este concilio se reunieron diversos líderes de diferentes denominaciones cristianas y etnias, dando paso a un tiempo nuevo de "unidad" entre creyentes. Si usted no lo sabe, el ecumenismo es una herramienta satánica que es y será usada para traer la nueva religión mundial del anticristo. No es una casualidad que el mencionado Papa envuelto con el contacto [OVNI](/estudios/las-propiedades-extra-dimensionales-de) sea el que convoque esta unificación entre iglesias. La Iglesia católica, a través del Concilio Vaticano II, estableció, entre otros puntos los siguientes:  
 
 -   El ecumenismo debe ser fomentado por los obispos (Decreto Christus Dominus 16).
 -   Se ha de cultivar el espíritu ecuménico entre los neófitos (Decreto Ad gentes divinitus 15).
@@ -59,7 +59,7 @@ Si esta historia es real o no, tuvo repercusión el los medios y es usada por mu
 
 El ecumenismo en su sendo disfraz de paz y unidad, esconderá la adoración a la Bestia y la negación de que Jesús es la puerta como menciona Juan 10:1-21 o la verdad, el camino y la vida en Juan 14:16 (Esto con la ayuda de las Naciones Unidas y el Movimiento Nueva Era). Dará paso la religión gnóstica del falso profeta y por consecuencia la aceptación de su sistema económico como la marca de la bestia. El hecho de una intervención extraterrestre durante este proceso de hipnosis masiva es muy probable, ya que "resolvería" las supuestas incógnitas sobre el origen de la humanidad y cumpliría el rol que tanto la nueva era se ha enfocado en promocionar: mostrarnos el futuro de un "nuevo amanecer". Roma funcionará como los cuarteles principales de este movimiento.  
   
-Si deseas comprender el papel del Vaticano y el movimiento ecuménico recomiendo leer la serie de cómics de [Alberto Rivera](https://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html).  
+Si deseas comprender el papel del Vaticano y el movimiento ecuménico recomiendo leer la serie de cómics de [Alberto Rivera](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-1).  
   
 
 ## El Exorcista Del Vaticano
@@ -153,7 +153,7 @@ La película comienza en 1959 en una escuela primaria en Lexington, Massachusett
 
   
 
-El nombre de la niña "Lucinda" es una variante del nombre latino Lucy, que significa luz. Su apellido, Embry, significa "ardiente fuego". Ambos nombres esconden al espectador su función en la película como Lucifer, el portador de la luz. Ella no sólo recibe la luz, o la gnosis, -o lleva la [antorcha](http://www.ritualypropaganda.com/2012/05/el-significado-de-la-antorcha-olimpica.html)\- otros términos usados en el gnosticismo son: fuego, luz, conocimiento.
+El nombre de la niña "Lucinda" es una variante del nombre latino Lucy, que significa luz. Su apellido, Embry, significa "ardiente fuego". Ambos nombres esconden al espectador su función en la película como Lucifer, el portador de la luz. Ella no sólo recibe la luz, o la gnosis, -o lleva la [antorcha](/estudios/el-significado-de-la-antorcha-olimpica)\- otros términos usados en el gnosticismo son: fuego, luz, conocimiento.
 
   
 
@@ -305,7 +305,7 @@ Al final de la película se revela que los ETs están en la Tierra con el propó
 
   
 
-Una gigantesca nave espacial aparece en un punto estratégico y toman a los niños y con ellos dos conejos (reproducción - [control mental monarca](http://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html)) para que aborden la nave y logren sobrevivir la explosión solar que fulminara todo el planeta con altas temperaturas. John es dejado, alegando que no todos son los escogidos, sino solo los que "tengan oídos para oír (a los extraterrestres)". Esta es la razón por la que ambos niños y Lucinda Embry tenían la capacidad de escuchar los susurros de los dioses espaciales.
+Una gigantesca nave espacial aparece en un punto estratégico y toman a los niños y con ellos dos conejos (reproducción - [control mental monarca](/estudios/significado-cabala-peligros-respuestas)) para que aborden la nave y logren sobrevivir la explosión solar que fulminara todo el planeta con altas temperaturas. John es dejado, alegando que no todos son los escogidos, sino solo los que "tengan oídos para oír (a los extraterrestres)". Esta es la razón por la que ambos niños y Lucinda Embry tenían la capacidad de escuchar los susurros de los dioses espaciales.
 
   
 
@@ -355,7 +355,7 @@ Debemos saber que la industria del espectáculo no apunta solo a fines político
 
   
 
-En esta tercera parte queda implícito el cambio de paradigmas religiosos que el vaticano necesita, de un catolicismo tradicional a una filosofía ecuménica, llena de diferentes influencias esotéricas orientales y abierta a la figura de vida en otros planetas. La pregunta adecuada sería: ¿En verdad el ser humano esta dirigiéndose a un contacto extraterrestre? O estamos siendo arrastrados a este escenario propagandístico por una élite que requiere ejecutar una agenda? Realmente el fenómeno OVNI no trata sobre vida en otros planetas, sino sobre las percepciones del ser humano hacia una nueva creencia espiritual, lo que el inquietante ocultista [Aleister Crowley](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html) luego llamaría, la Edad de Horus.
+En esta tercera parte queda implícito el cambio de paradigmas religiosos que el vaticano necesita, de un catolicismo tradicional a una filosofía ecuménica, llena de diferentes influencias esotéricas orientales y abierta a la figura de vida en otros planetas. La pregunta adecuada sería: ¿En verdad el ser humano esta dirigiéndose a un contacto extraterrestre? O estamos siendo arrastrados a este escenario propagandístico por una élite que requiere ejecutar una agenda? Realmente el fenómeno OVNI no trata sobre vida en otros planetas, sino sobre las percepciones del ser humano hacia una nueva creencia espiritual, lo que el inquietante ocultista [Aleister Crowley](/estudios/aleister-crowley-666-biografia-cultura-popular) luego llamaría, la Edad de Horus.
 
   
 

@@ -21,11 +21,11 @@ Superman representa a Cristo, mientras que Batman es Satanás.
   
 La película “Batman vs Superman: Amanecer de Justicia”, a estrenarse el próximo año, es la película basada en un cómic más anticristiana en la historia del cine. Esta película enfrenta la “muerte” del cristianismo contra el ascenso de la Orden Luciferina.  
   
-Cada película y serie de televisión de Hollywood representa a la vez una batalla espiritual y una batalla física que está destrozando nuestro mundo en pedazos. Los **[X-Men han hecho su parte para la agenda homosexual](http://www.ritualypropaganda.com/2014/06/el-significado-esoterico-de-x-men-dias.html)**. Los Vengadores han presentado abiertamente el programa de supersoldados y resucitado los dioses nórdicos de la eugenesia nazi… al mismo tiempo que afirmaban que “los extraterrestres vendrán a atacarnos para la batalla final”.  
+Cada película y serie de televisión de Hollywood representa a la vez una batalla espiritual y una batalla física que está destrozando nuestro mundo en pedazos. Los **[X-Men han hecho su parte para la agenda homosexual](/estudios/el-significado-esoterico-de-x-men-dias)**. Los Vengadores han presentado abiertamente el programa de supersoldados y resucitado los dioses nórdicos de la eugenesia nazi… al mismo tiempo que afirmaban que “los extraterrestres vendrán a atacarnos para la batalla final”.  
   
 Sin embargo, dentro de toda la tradición del cómic, Superman es y siempre ha sido la exclusiva representación burlona del Hijo de Dios.  
   
-**Recomiendo leer: [En Las Profundidades De Krypton: La Interpretación Mesiánica De “El Hombre De Acero”](http://www.ritualypropaganda.com/2013/06/en-las-profundidades-de-kripton-la.html)**  
+**Recomiendo leer: [En Las Profundidades De Krypton: La Interpretación Mesiánica De “El Hombre De Acero”](/estudios/en-las-profundidades-de-kripton-la)**  
   
 La primera entrega de esta serie de películas, Hombre de Acero, contenía muchos marcadores bíblicos. Voy a señalar dos de ellos. Bajo su interrogatorio, Superman reveló su edad como 33 años (la edad en que Jesucristo fue crucificado), y en un momento en la película flotaba fuera en la atmósfera de la Tierra en una postura icónica de la crucifixión. También hubo mensajes de sacrificio infantil y control genético centralizado.  
   
@@ -81,7 +81,7 @@ No nos equivoquemos: LOS SATANISTAS MILITANTES están en pie de guerra y son fac
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKaK55XoPYF-qhAmAlhnMxg35N5qKftpQwrG8uALBcVZDZai6XnK-f0CASNxRn75-82XrT36SuWblbnS0ZFWn03OwQC9LvoffRg8hMibAYTyh1Cs7lrkyIn-sWNqC2XGtj83UjX-c1E8/s1600/falso-dios-superman.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKaK55XoPYF-qhAmAlhnMxg35N5qKftpQwrG8uALBcVZDZai6XnK-f0CASNxRn75-82XrT36SuWblbnS0ZFWn03OwQC9LvoffRg8hMibAYTyh1Cs7lrkyIn-sWNqC2XGtj83UjX-c1E8/s1600/falso-dios-superman.jpg)  
   
   
-Satanás ha convencido a sus discípulos de que ellos pueden luchar contra Jesús a través de la tecnología del control mental, super-avanzadas armas de nivel cuántico (léase: CERN), [inteligencia artificial](http://www.ritualypropaganda.com/2015/07/inteligencia-artificial-ai-gnosticismo.html), de deserción genética, la destrucción de los alimentos, la manipulación del tiempo y el desarrollo del Nimrod al estilo de Batman, que es capaz de hacer la guerra en contra del ahora inoportuno salvador dado por Dios, el falso Dios, el Hijo de Dios, ajeno a la Tierra.  
+Satanás ha convencido a sus discípulos de que ellos pueden luchar contra Jesús a través de la tecnología del control mental, super-avanzadas armas de nivel cuántico (léase: CERN), [inteligencia artificial](/estudios/inteligencia-artificial-ai-gnosticismo), de deserción genética, la destrucción de los alimentos, la manipulación del tiempo y el desarrollo del Nimrod al estilo de Batman, que es capaz de hacer la guerra en contra del ahora inoportuno salvador dado por Dios, el falso Dios, el Hijo de Dios, ajeno a la Tierra.  
   
 Christopher Nolan, Zack Snyder, Frank Miller, Alan Moore, el hermano Wachowski y su “hermana” (uno de los hermanos tuvo un “cambio de sexo”), James Cameron, Lars Von Trier, Ridley Scott (y su ritualmente sacrificado-hermano muerto, Tony Scott), Steven Spielberg, George Lucas, Paul Verhoeven, Roman Polanski, y otros nombres de Hollywood, BBC, la industria de la música, y el comic, creen que al perpetrar una blasfemia cabalística ritual al mundo, son guerreros eficaces para Lucifer.  
   
@@ -89,6 +89,6 @@ Christopher Nolan, Zack Snyder, Frank Miller, Alan Moore, el hermano Wachowski y
   
 “¿Usted sangra? Va a sangrar, como el falso Salvador que adora y que derramó su sangre como un sin nombre débil. Lo que hemos escondido en la oscuridad lo vamos a dar a luz, y lo matarán. Haremos que su sangre corra como un río”.  
   
-En los próximos años el **[nuevo orden mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)** atacará el verdadero cristianismo, NO la iglesia Apóstata. Se prohibirá en todo el mundo, y a los verdaderos seguidores de Cristo se les dirá “vuelvan a casa, vuelvan a casa” – y esto quiere decir, MUERAN. No desmayemos y recordemos que nuestra morada está en los cielos.  
+En los próximos años el **[nuevo orden mundial](/estudios/que-es-el-nuevo-orden-mundial)** atacará el verdadero cristianismo, NO la iglesia Apóstata. Se prohibirá en todo el mundo, y a los verdaderos seguidores de Cristo se les dirá “vuelvan a casa, vuelvan a casa” – y esto quiere decir, MUERAN. No desmayemos y recordemos que nuestra morada está en los cielos.  
   
-**Recomiendo leer: [En Las Profundidades De Krypton: La Interpretación Mesiánica De “El Hombre De Acero”](http://www.ritualypropaganda.com/2013/06/en-las-profundidades-de-kripton-la.html)**
+**Recomiendo leer: [En Las Profundidades De Krypton: La Interpretación Mesiánica De “El Hombre De Acero”](/estudios/en-las-profundidades-de-kripton-la)**

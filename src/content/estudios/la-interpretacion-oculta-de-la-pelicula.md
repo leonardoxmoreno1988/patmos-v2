@@ -49,7 +49,7 @@ Nina, una joven tímida y frágil, es elegida para interpretar el papel de la Re
 
 El uso de los espejos por parte del director y las reflexiones en numerosas escenas son un recordatorio constante de la percepción alterada de Nina de la realidad. Los espejos en la película son a menudo engañosos y las reflexiones de Nina parecen tener una "vida propia". A medida que Nina se obsesiona con el Cisne Negro, esta persona alternativa toma vida propia y actúa fuera del control consciente de Nina. Explicaremos más adelante cómo esto se relaciona con el control mental basado en el trauma.  
   
-Si no ha leído otros artículos en este sitio, el control mental basado en el trauma, también conocido como **[Programación Monarca](https://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)**, es el proceso en el cual un individuo es sometido a un intenso trauma y deshumanización para causar una disociación mental. Esto provoca una fragmentación de la personalidad del esclavo y permite al controlador crear una persona alternativa que se puede programar a voluntad. Algunos investigadores afirman que hay elementos ocultos en este proceso.
+Si no ha leído otros artículos en este sitio, el control mental basado en el trauma, también conocido como **[Programación Monarca](/estudios/origenes-y-tecnica-del-control-mental)**, es el proceso en el cual un individuo es sometido a un intenso trauma y deshumanización para causar una disociación mental. Esto provoca una fragmentación de la personalidad del esclavo y permite al controlador crear una persona alternativa que se puede programar a voluntad. Algunos investigadores afirman que hay elementos ocultos en este proceso.
 
 > **"El Proyecto Monarca podría describirse mejor como una forma de disociación estructurada e integración ocultista, a fin de dividir la mente en múltiples personalidades dentro de un marco sistemático. Durante este proceso, se lleva a cabo un ritual satánico, que generalmente incluye el misticismo cabalístico, con el propósito de vincular a un demonio o grupo de demonios concreto con los alter(s) correspondientes. Por supuesto, la mayoría de los escépticos verían esto como simplemente un medio para mejorar el trauma dentro de la víctima, negando cualquier creencia irracional de que la posesión demoníaca realmente ocurra." - Ron Patton, Proyecto Monarca**
 
@@ -305,7 +305,7 @@ Un ejemplo reciente de una función de auto-destrucción es el Joker de Heath Le
 
   
   
-Para más información sobre Heath Ledger, leer este artículo que escribí de su última película y los símbolos en relación con su sacrificio [**"The Imaginarium of Doctor Parnassus", y el Sacrificio de Heath Ledger.**](https://www.ritualypropaganda.com/2010/04/imaginarium-of-doctor-parnassus-el.html)  
+Para más información sobre Heath Ledger, leer este artículo que escribí de su última película y los símbolos en relación con su sacrificio [**"The Imaginarium of Doctor Parnassus", y el Sacrificio de Heath Ledger.**](/estudios/imaginarium-of-doctor-parnassus-el)  
   
 Otro ejemplo de un actor que muere en misteriosas circunstancias después de jugar el papel de un personaje diabólico y retorcido es Brandon Lee, El Cuervo.  
 

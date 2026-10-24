@@ -36,13 +36,13 @@ Los querubines son la clase de ángeles de los que recibimos más detalle en la 
 
 Sin embargo, querubines y serafines comparten algunas características, como su relación con el fuego, múltiples alas y alabanza constante, pero son distintos en apariencia y función. Las cuatro caras de los querubines simbolizan su supervisión sobre toda la creación de Dios: los mamíferos, las aves y los humanos.  
   
-La ausencia de anfibios, reptiles y peces entre sus caras contiene una razón importante: estas clases están conectadas con Satanás, que ocupa un dominio separado y caído como el dragón marino. Esto se vio a detalle en el reporte [№ 47 Aquella serpiente escurridiza y tortuosa](https://www.ritualypropaganda.com/2022/12/serpiente-escurridiza.html).  
+La ausencia de anfibios, reptiles y peces entre sus caras contiene una razón importante: estas clases están conectadas con Satanás, que ocupa un dominio separado y caído como el dragón marino. Esto se vio a detalle en el reporte [№ 47 Aquella serpiente escurridiza y tortuosa](/estudios/serpiente-escurridiza).  
   
 Existe la controversia entre las diferentes descripciones bíblicas de los querubines, como el número de alas o las caras entre Ezequiel y Revelación, pero no son contradicciones. Más bien los textos muestran la capacidad de estos seres para transfigurarse de formas distintas en el plano físico. Al final se entiende que los habitantes celestiales son complejos y pueden revelarse de maneras variadas.  
   
 Si hablamos de los arcángeles, la Biblia solo habla de uno, el arcángel Miguel (1 Tesalonicenses 4:16; Judas 9). Él es el "príncipe" asignado específicamente al pueblo de Israel y es el único que se registra luchando contra Satanás y sus ángeles (Daniel 12:1; Revelación 12:7-9). Debemos saber que cualquier otra afirmación de más arcángeles viene de textos que no son bíblicos. La autoridad de Miguel es grande como un líder militar y guerrero.  
   
-Existe la idea muy popular también que identifica a [Lucifer](https://www.ritualypropaganda.com/2023/03/piedras-de-fuego.html) como un ángel. Pero las Escrituras aclaran que Satanás "se transfigura en ángel de luz" (2 Corintios 11:14). Esto significa que imita la luz, pero no es un ser angelical que sirva a Dios. Su imitación es un engaño, un timo que contrasta con la verdadera [Estrella de la Mañana](https://www.ritualypropaganda.com/2023/11/como-las-estrellas-del-alba-que-alaban.html), que es Jesucristo (Revelación 22:16). Entender esto será fundamental para no confundir a los ángeles con la naturaleza única y caída de Satanás.  
+Existe la idea muy popular también que identifica a [Lucifer](/estudios/piedras-de-fuego) como un ángel. Pero las Escrituras aclaran que Satanás "se transfigura en ángel de luz" (2 Corintios 11:14). Esto significa que imita la luz, pero no es un ser angelical que sirva a Dios. Su imitación es un engaño, un timo que contrasta con la verdadera [Estrella de la Mañana](/estudios/como-las-estrellas-del-alba-que-alaban), que es Jesucristo (Revelación 22:16). Entender esto será fundamental para no confundir a los ángeles con la naturaleza única y caída de Satanás.  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/460/original/angel-luz.jpg)  
   
@@ -53,7 +53,7 @@ Ya se mencionó que se le asocia con criaturas de sangre fría como peces, anfib
 > "Tú, querubín grande, que cubre, y yo te puse: en el santo monte de Dios estuviste: en medio de piedras de fuego anduviste. Acabado eras en todos tus caminos desde el día que fuiste creado, hasta que se halló maldad en tí."  
 > –Ezequiel 28:14-15
 
-Dentro de este análisis de ángeles no podemos ignorar la aparición de lo que la Biblia describe como el "Ángel del Señor" o el "ángel de Jehová" (Génesis 16:7-13; Génesis 22:11-18; Éxodo 3:2-6; Jueces 13:3-21). Hablamos de intervenciones corporales de Jesucristo en el Antiguo Testamento, [muchos años antes](https://www.ritualypropaganda.com/2022/10/viajes-tiempo.html) de haber nacido del vientre de María. Un futuro análisis será enviado explorando este tema.  
+Dentro de este análisis de ángeles no podemos ignorar la aparición de lo que la Biblia describe como el "Ángel del Señor" o el "ángel de Jehová" (Génesis 16:7-13; Génesis 22:11-18; Éxodo 3:2-6; Jueces 13:3-21). Hablamos de intervenciones corporales de Jesucristo en el Antiguo Testamento, [muchos años antes](/estudios/viajes-tiempo) de haber nacido del vientre de María. Un futuro análisis será enviado explorando este tema.  
   
 Los diversos roles de los ángeles, tanto en el cielo como en la Tierra, amplían nuestra comprensión del conflicto cósmico y la importancia de la adoración a Dios. La postura de los querubines cubriendo sus rostros y pies es una evidente lección de reverencia y humildad ante la santidad del Señor.  
   

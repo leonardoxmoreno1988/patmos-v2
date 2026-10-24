@@ -9,7 +9,7 @@ description: "Marvel usa connotaciones ocultistas y de la Nueva Era en su pelíc
 tags: ["Cine y Cultura", "Marvel", "Nueva Era", "Ocultismo"]
 ---
 
-Marvel en su intento por incrementar su universo cinematográfico está desarrollando personajes más complejos y a su vez usando muchas connotaciones **ocultistas** propias de la **[nueva era](http://www.ritualypropaganda.com/2017/04/10-ideas-falsas-nueva-era-sobre-dios.html)** y el **misticismo**. Es por esto que su próxima película titulada **Dr. Strange** refleja el condicionamiento masivo de la sociedad hacia las prácticas esotéricas demoniacas.  
+Marvel en su intento por incrementar su universo cinematográfico está desarrollando personajes más complejos y a su vez usando muchas connotaciones **ocultistas** propias de la **[nueva era](/estudios/10-ideas-falsas-nueva-era-sobre-dios)** y el **misticismo**. Es por esto que su próxima película titulada **Dr. Strange** refleja el condicionamiento masivo de la sociedad hacia las prácticas esotéricas demoniacas.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5tLgqWPwc5i4xdNvVibBzgtmAHQdcasvZTRYXmpU_9cU2jRgUA-JG3BrOGmlQn0jG3IRC5gprynnJ_I1pva04l7sY6nwOVf28w3XgLQdKvOvPLtsJjhyjfCXACQY3HQz2SCs03En7OlQ/s1600/doctor-strange.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5tLgqWPwc5i4xdNvVibBzgtmAHQdcasvZTRYXmpU_9cU2jRgUA-JG3BrOGmlQn0jG3IRC5gprynnJ_I1pva04l7sY6nwOVf28w3XgLQdKvOvPLtsJjhyjfCXACQY3HQz2SCs03En7OlQ/s1600/doctor-strange.jpg)
@@ -58,7 +58,7 @@ Segundos después de hacer esta afirmación el personaje de Ancient One hace su 
   
 Al volver de su viaje fuera del cuerpo, su cambio de mentalidad se manifiesta al rogarle que le "enseñe" el poder de las artes oscuras. Según la historia él iniciará su viaje hacia la falsa iluminación y el inicio de sus habilidades como superhéroe.  
   
-Recomiendo leer: [La "Magia Es Ciencia" Y Cómo Hollywood Prepara La Nueva Doctrina Masónica](http://www.ritualypropaganda.com/2011/09/la-magia-es-ciencia-y-como-hollywood.html)  
+Recomiendo leer: [La "Magia Es Ciencia" Y Cómo Hollywood Prepara La Nueva Doctrina Masónica](/estudios/la-magia-es-ciencia-y-como-hollywood)  
   
 En resumen, la fuente de poder de Dr. Strange proviene de la invocación de principados demoniacos. Él es un maestro de magia negra, ocultismo y hechicería y como lo dicen las Escrituras, sus poderes provienen de Lúcifer. Su despertar de conciencia gnóstico es usado para introducir y seducir a los jóvenes hacia las enseñanzas de la nueva era, que en principio rechazan a Jesucristo como salvador y dan lugar al "yo soy mi propio salvador". Es nuestra responsabilidad como seres conscientes saber de qué lado queremos estar.  
   

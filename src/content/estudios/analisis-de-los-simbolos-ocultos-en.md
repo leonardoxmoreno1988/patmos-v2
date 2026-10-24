@@ -76,7 +76,7 @@ La trama principal de Las Reliquias de la Muerte se basa en la búsqueda de siet
 
 Muggles (humanos no magos) siendo oprimidos bajo el pilar.  
 
-Muchos podrían notar la semejanza simbólica de esta escena con los fines del [nuevo orden mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html) o la Gran Obra de la masonería, las masas inferiores sirviendo como base a una élite dominante y de "sangre pura". Así mismo el pilar y los escalones son símbolos representativos de la masonería. Tomando estos conceptos es muy claro que estas imágenes hacen referencia al sistema jerárquico Illuminati, aún más cuando proviene del Ministerio de Magia, una fuerza gubernamental con el poder de crear leyes y apresar a todos los magos o muggles que se les opongan. En esa misma escena vemos al Ministerio de Magia arrestando a todos los que no sean de sangre pura, una visión del plan de eutanasia que pocos conocen.  
+Muchos podrían notar la semejanza simbólica de esta escena con los fines del [nuevo orden mundial](/estudios/que-es-el-nuevo-orden-mundial) o la Gran Obra de la masonería, las masas inferiores sirviendo como base a una élite dominante y de "sangre pura". Así mismo el pilar y los escalones son símbolos representativos de la masonería. Tomando estos conceptos es muy claro que estas imágenes hacen referencia al sistema jerárquico Illuminati, aún más cuando proviene del Ministerio de Magia, una fuerza gubernamental con el poder de crear leyes y apresar a todos los magos o muggles que se les opongan. En esa misma escena vemos al Ministerio de Magia arrestando a todos los que no sean de sangre pura, una visión del plan de eutanasia que pocos conocen.  
 
   
 

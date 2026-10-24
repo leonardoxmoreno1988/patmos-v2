@@ -129,7 +129,7 @@ Obviamente, la élite masónica de los Illuminati no quieren que el público en 
   
 Por lo tanto, el nombre del horrible dios que los masones adoran debe permanecer oculto.  
   
-El nombre y la identidad del Dios oculto se deben disimulado a toda costa, y por lo tanto una apropiada señal con la mano ha sido ideado para representar este encubrimiento grotesco: **[La Señal de la Mano Oculta](http://www.ritualypropaganda.com/2011/11/la-mano-oculta-que-moldeo-la-historia.html)**.  
+El nombre y la identidad del Dios oculto se deben disimulado a toda costa, y por lo tanto una apropiada señal con la mano ha sido ideado para representar este encubrimiento grotesco: **[La Señal de la Mano Oculta](/estudios/la-mano-oculta-que-moldeo-la-historia)**.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaH1_Fzr2Zt0owGeUXVA8B2N1Ny3ZK8CHlDubQ_aDD6_p7RpVKjr_La7_XdpOMqQH2k1gsTCpg2kaYH8fWyais_9foAM4qblNvVNKijh8489nQTiSedvoC0y-yNoJQx6ssInAYzaiNMkA/s400/mano-escondida.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaH1_Fzr2Zt0owGeUXVA8B2N1Ny3ZK8CHlDubQ_aDD6_p7RpVKjr_La7_XdpOMqQH2k1gsTCpg2kaYH8fWyais_9foAM4qblNvVNKijh8489nQTiSedvoC0y-yNoJQx6ssInAYzaiNMkA/s1600/mano-escondida.jpg)
@@ -225,7 +225,7 @@ Emblema de la orden exclusivista de Cincinnati (también llamada la Sociedad de 
 
   
 
-Ilustraciones de un conjunto de porcelana que muestra los símbolos importantes de la Sociedad de Cincinnati, una orden secreta de hombres ricos elitistas que comenzó después de la Guerra de la Independencia, encabezada por George Washington. Los símbolos incluyen un extraño ángel coronado que sopla un cuerno y un ave fénix en llamas con una **[antorcha en la cabeza](http://www.ritualypropaganda.com/2012/05/el-significado-de-la-antorcha-olimpica.html)** de la cual emite un remolino ardiente o un símbolo de sol. La Sociedad de los Illuminati fue finalmente disuelta cuando creció la conciencia pública de que este pequeño grupo de conspiradores parecía ejercer un control indebido de los gobiernos.  
+Ilustraciones de un conjunto de porcelana que muestra los símbolos importantes de la Sociedad de Cincinnati, una orden secreta de hombres ricos elitistas que comenzó después de la Guerra de la Independencia, encabezada por George Washington. Los símbolos incluyen un extraño ángel coronado que sopla un cuerno y un ave fénix en llamas con una **[antorcha en la cabeza](/estudios/el-significado-de-la-antorcha-olimpica)** de la cual emite un remolino ardiente o un símbolo de sol. La Sociedad de los Illuminati fue finalmente disuelta cuando creció la conciencia pública de que este pequeño grupo de conspiradores parecía ejercer un control indebido de los gobiernos.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFvoC_kvrKBUHxuUbeifOi50h35RSqNubpWmxkizFtC-JzcibVE6t_O2nSKKOhpeFYPlE1936FwXhEzfOpAMvUv0FmbHppfEBU_JacBubHDig2iltRi4ryVt419bY-v-tqx8Iz41zrDZs/s1600/firma-washington-mason.gif)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFvoC_kvrKBUHxuUbeifOi50h35RSqNubpWmxkizFtC-JzcibVE6t_O2nSKKOhpeFYPlE1936FwXhEzfOpAMvUv0FmbHppfEBU_JacBubHDig2iltRi4ryVt419bY-v-tqx8Iz41zrDZs/s1600/firma-washington-mason.gif)

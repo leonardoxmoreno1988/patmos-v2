@@ -51,7 +51,7 @@ Pese a que ella fue una gran mujer, muchos católicos deberían estar exaltando 
 > **"Los hijos cogen la leña, y los padres encienden el fuego, y las mujeres amasan la masa para hacer tortas a la reina del cielo, y para hacer ofrendas a dioses ajenos, por provocarme a ira."**  
 > **–Jeremías 7:18**
 
-La frase "la Reina del Cielo" aparece en la Biblia dos veces, ambas en el libro de Jeremías. Este título se refiere a Astarté, diosa de Babilonia y Asiria, también llamada [Semíramis](https://www.ritualypropaganda.com/2017/10/celebraciones-illuminati-dias-festivos_13.html). Se creía que ella era la esposa del dios pagano Baal, también conocido como Moloc.  
+La frase "la Reina del Cielo" aparece en la Biblia dos veces, ambas en el libro de Jeremías. Este título se refiere a Astarté, diosa de Babilonia y Asiria, también llamada [Semíramis](/estudios/celebraciones-illuminati-dias-festivos-13). Se creía que ella era la esposa del dios pagano Baal, también conocido como Moloc.  
   
 Por último, la creencia de que existe un lugar llamado purgatorio. De acuerdo a la iglesia católica, este es un lugar transitorio donde el alma se purifica y se lava de los pecados que ha cometido en la Tierra (Catecismo 1030).  
   

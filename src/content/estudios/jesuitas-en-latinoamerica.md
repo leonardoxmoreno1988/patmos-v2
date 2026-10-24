@@ -78,7 +78,7 @@ Todos los líderes gubernamentales de América del Sur rinden homenaje al Papa y
   
 Referencias:
 
-1.  **[Alberto Series](https://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)** por Chick Publications
+1.  **[Alberto Series](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-1)** por Chick Publications
 2.  **[La Conspiración Jesuita](https://www.amazon.com/-/es/Jacopo-Leone/dp/1790528356)** por Jacopo Leone
 3.  **[La Historia Secreta de los Jesuitas](https://www.ritualypropaganda.com/2014/01/la-historia-secreta-de-los-jesuitas-por.html)** por Edmond Paris
-4.  **[Jesuitas, verdades terribles que quizás no encuentre en otro lugar](https://www.ritualypropaganda.com/2016/09/la-historia-de-los-jesuitas-secretos.html)** por Chick Publications
+4.  **[Jesuitas, verdades terribles que quizás no encuentre en otro lugar](/estudios/la-historia-de-los-jesuitas-secretos)** por Chick Publications

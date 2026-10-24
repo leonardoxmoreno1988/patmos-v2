@@ -13,7 +13,7 @@ tags: ["Sociedad", "Control mental", "MKUltra", "Historia"]
 
   
 
-Un artículo de Fortean Times de 2001 describe el infame caso de **Candy Jones**, una modelo que se convirtió en una víctima **MKULTRA**. Este es uno de los casos más documentados del mundo de la moda y su relación con el [**control mental**](http://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html).
+Un artículo de Fortean Times de 2001 describe el infame caso de **Candy Jones**, una modelo que se convirtió en una víctima **MKULTRA**. Este es uno de los casos más documentados del mundo de la moda y su relación con el [**control mental**](/estudios/origenes-y-tecnica-del-control-mental).
 
   
 

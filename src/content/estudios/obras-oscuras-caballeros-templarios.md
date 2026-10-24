@@ -327,7 +327,7 @@ Según su tesis, los templarios experimentaron un gran cambio mientras estaban e
 
 Los escritores de _Las Claves Secretas de Hiram_ argumentan que estas excavaciones de los templarios no fueron sin resultado; que la orden descubrió en Jerusalén ciertas reliquias que cambiaron la forma en que veían el mundo. Además, muchos investigadores tienen la misma opinión. Debe haber habido algo que llevó a los templarios, a pesar de que previamente habían sido cristianos y provenían de una parte cristiana del mundo, a adoptar un sistema de creencias y una filosofía tan completamente diferente de la del cristianismo, celebrar misas heréticas, y realizar rituales de magia negra.  
   
-Según las opiniones comunes de muchos investigadores, este "algo" era **[la Cábala](https://www.ritualypropaganda.com/2018/03/cabala-judia-estrella-seis-puntas.html)**.  
+Según las opiniones comunes de muchos investigadores, este "algo" era **[la Cábala](/estudios/cabala-judia-estrella-seis-puntas)**.  
   
 El significado de la palabra Cábala es "tradición oral". Las enciclopedias y los diccionarios lo definen como una rama esotérica y mística de la religión judía. Según esta definición, la Cábala investiga el significado oculto de la Torá y otros escritos religiosos judíos. Pero, cuando examinamos el asunto más de cerca, descubrimos que los hechos son otra cosa. Estos hechos nos llevan a la conclusión de que la Cábala es un sistema arraigado en la idolatría pagana; que existía antes de la Torá, y se generalizó dentro del judaísmo después de que se reveló la Torá.
 

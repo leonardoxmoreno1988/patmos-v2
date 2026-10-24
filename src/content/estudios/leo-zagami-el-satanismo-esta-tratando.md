@@ -13,7 +13,7 @@ tags: ["Sociedad", "Leo Zagami", "Templo Satánico", "Satanismo"]
 
   
   
-El Templo "satánico" es un intento de integrar **el satanismo** pretendiendo que no adoran al diablo. Buscaron mayor influencia social a través del **activismo político**, son otro frente en la guerra **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** en la humanidad.  
+El Templo "satánico" es un intento de integrar **el satanismo** pretendiendo que no adoran al diablo. Buscaron mayor influencia social a través del **activismo político**, son otro frente en la guerra **[Illuminati](/estudios/quienes-son-los-illuminati)** en la humanidad.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYzfr4DbUyRfeBHvtBGO2x6oSgFwSD8oo32ktmDz1C_6eRAKw4SmHQ0jc1Rt0mcYTdmYanGA8nI7QU4GgQ2HnnThFikBjk4AYJV_ZCU5vZemYv2d1PCajlh5VVkpTiJV786cNja0Bco1k/s1600/satanistas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYzfr4DbUyRfeBHvtBGO2x6oSgFwSD8oo32ktmDz1C_6eRAKw4SmHQ0jc1Rt0mcYTdmYanGA8nI7QU4GgQ2HnnThFikBjk4AYJV_ZCU5vZemYv2d1PCajlh5VVkpTiJV786cNja0Bco1k/s1600/satanistas.jpg)
@@ -27,7 +27,7 @@ El **[New York Times](http://www.nytimes.com/2015/07/11/us/a-mischievious-thorn-
   
 Greaves y Jarry son dos niños ricos conectados a la **[élite del nuevo orden mundial](http://www.shanebugbee.com/?p=2161)**. Al menos uno, Jarry, es judío como LaVey.  
   
-Inicialmente habían adquirido notoriedad en 2014 cuando intentaron celebrar una misa negra re-promulgación en la Universidad de Harvard, seguido por un "matrimonio homosexual" realizado en la parte superior de la tumba de la matriarca de la Iglesia Westboro. Sus esfuerzos por erigir una estatua de Baphomet en el **[Capitolio](http://www.ritualypropaganda.com/2017/05/el-simbolismo-masonico-del-capitolio.html)** de Missouri fue un instrumento en la decisión de un tribunal de retirar una estatua de los Diez Mandamientos.  
+Inicialmente habían adquirido notoriedad en 2014 cuando intentaron celebrar una misa negra re-promulgación en la Universidad de Harvard, seguido por un "matrimonio homosexual" realizado en la parte superior de la tumba de la matriarca de la Iglesia Westboro. Sus esfuerzos por erigir una estatua de Baphomet en el **[Capitolio](/estudios/el-simbolismo-masonico-del-capitolio)** de Missouri fue un instrumento en la decisión de un tribunal de retirar una estatua de los Diez Mandamientos.  
   
   
 ¿En qué se diferencian de la iglesia de Satanás, es decir, el satanismo de LaVey? Su sitio web dice: "Creemos que representamos una evolución natural en el pensamiento satánico", añadiendo después, "TST también rechaza enérgicamente la fetichización de autoritarismo de LaVey. Creemos que esta es la antítesis de las nociones satánicas de soberanía individual. Además, aunque LaVeyan es ateo -- en el sentido de que rechaza la idea de que Satanás es una entidad consciente -- aún es supernaturalista."  

@@ -33,7 +33,7 @@ El libro gnóstico de la teósofa Madame Blavatsky menciona sobre los juegos de 
 > “Muchos misteriosos nombres sagrados en sánscrito transmiten al oído profano nada más que una palabra ordinaria, y a menudo vulgar, porque está oculta gramaticalmente o de otra manera (…) No es la palabra lo importante, sino las letras."  
 > –Madame Blavatsky, La Doctrina Secreta
 
-Por lo que Santa, Satán e incluso el ente espiritual o falso dios del [movimiento nueva era](https://www.ritualypropaganda.com/2017/02/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados.html), llamado “Sanat Kumara”, comparten un significado en común, los tres hacen referencia al ángel caído, Lucifer.  
+Por lo que Santa, Satán e incluso el ente espiritual o falso dios del [movimiento nueva era](/estudios/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados), llamado “Sanat Kumara”, comparten un significado en común, los tres hacen referencia al ángel caído, Lucifer.  
   
 Pero en realidad la Navidad se trata de una joven pareja judía que, en un momento de inestabilidad socioeconómica, sigue la orden de un censo que estaba realizando el Imperio Romano.  
   

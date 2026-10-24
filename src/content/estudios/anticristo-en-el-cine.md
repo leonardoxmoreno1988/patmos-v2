@@ -19,14 +19,14 @@ En las páginas de este libro se describe por primera vez con gran detalle la fi
 
 **INDICE:**
 
-1.  **[Introducción](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html#capitulo1)**
-2.  **[Como ustedes oyeron que el Anticristo viene](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html#capitulo2)**
-3.  **[Cosas grandiosas delante de la gente](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html#capitulo3)**
-4.  **[Ni del amor de las mujeres](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html#capitulo4)**
-5.  **[Serán abiertos tus ojos](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html#capitulo5)**
-6.  **[A lo bueno llaman malo](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html#capitulo6)**
-7.  [**La bestia que tiene la herida de espada, y vivió**](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html#capitulo7)
-8.  [**Su ojo derecho será enteramente oscurecido**](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html#capitulo8)
+1.  **[Introducción](/estudios/anticristo-en-el-cine#capitulo1)**
+2.  **[Como ustedes oyeron que el Anticristo viene](/estudios/anticristo-en-el-cine#capitulo2)**
+3.  **[Cosas grandiosas delante de la gente](/estudios/anticristo-en-el-cine#capitulo3)**
+4.  **[Ni del amor de las mujeres](/estudios/anticristo-en-el-cine#capitulo4)**
+5.  **[Serán abiertos tus ojos](/estudios/anticristo-en-el-cine#capitulo5)**
+6.  **[A lo bueno llaman malo](/estudios/anticristo-en-el-cine#capitulo6)**
+7.  [**La bestia que tiene la herida de espada, y vivió**](/estudios/anticristo-en-el-cine#capitulo7)
+8.  [**Su ojo derecho será enteramente oscurecido**](/estudios/anticristo-en-el-cine#capitulo8)
 9.  En el lugar que en hebreo se llama Armagedón
 10.  La Nueva Jerusalén descendiendo del cielo 
 
@@ -1098,7 +1098,7 @@ El dios nórdico Thor pierde un ojo en _Thor: Ragnarok_ (2017). La película ter
 
   
 
-El líder del nuevo orden mundial, al que adorarán y se arrodillan las naciones, será conocido por tener el ojo derecho oscurecido. ¿Se ha preguntado porque muchas celebridades cubren uno de sus ojos en las sesiones fotográficas, portadas de revistas o videos musicales? Ellos, sin saberlo le rinden culto a la simiente de Satanás, el Anticristo. Los Egipcios retrataron a su dios Horus como tuerto, y existe el billete estadounidense de un dólar con el **[ojo que todo lo ve](https://www.ritualypropaganda.com/2021/09/ojo-que-todo-lo-ve.html)**, o el "ojo de la providencia" en el reverso. Los francmasones, dicen que es el ojo de dios, porque su dios es Lucifer, el adversario de Dios. Todas estas manifestaciones son un culto predictivo al futuro Anticristo.
+El líder del nuevo orden mundial, al que adorarán y se arrodillan las naciones, será conocido por tener el ojo derecho oscurecido. ¿Se ha preguntado porque muchas celebridades cubren uno de sus ojos en las sesiones fotográficas, portadas de revistas o videos musicales? Ellos, sin saberlo le rinden culto a la simiente de Satanás, el Anticristo. Los Egipcios retrataron a su dios Horus como tuerto, y existe el billete estadounidense de un dólar con el **[ojo que todo lo ve](/estudios/ojo-que-todo-lo-ve)**, o el "ojo de la providencia" en el reverso. Los francmasones, dicen que es el ojo de dios, porque su dios es Lucifer, el adversario de Dios. Todas estas manifestaciones son un culto predictivo al futuro Anticristo.
 
   
 
@@ -1147,7 +1147,7 @@ El uso del _Guante del Destino_ termina por "secar" literalmente el brazo de tod
 
   
 
-La profecía de Zacarías 11:15-17 que detalla que "su brazo se secará", tiene una interesante aplicación en la sociedad secreta masónica, que hace referencia a esto con **[el símbolo de la mano oculta](https://www.ritualypropaganda.com/2011/11/la-mano-oculta-que-moldeo-la-historia.html)**. Una señal que implicaba esconder una de sus manos a la altura del vientre. El primer presidente de Estados Unidos, George Washington, exhibió este signo, al igual que el libertador sudamericano Simón Bolivar. También tenemos comunistas como Karl Marx, Vladimir Lenin, Stalin que dan la señal, además de Napoleón (quién sin duda portaba el espíritu de Anticristo), Salomon de Rothschild, y muchos otros.
+La profecía de Zacarías 11:15-17 que detalla que "su brazo se secará", tiene una interesante aplicación en la sociedad secreta masónica, que hace referencia a esto con **[el símbolo de la mano oculta](/estudios/la-mano-oculta-que-moldeo-la-historia)**. Una señal que implicaba esconder una de sus manos a la altura del vientre. El primer presidente de Estados Unidos, George Washington, exhibió este signo, al igual que el libertador sudamericano Simón Bolivar. También tenemos comunistas como Karl Marx, Vladimir Lenin, Stalin que dan la señal, además de Napoleón (quién sin duda portaba el espíritu de Anticristo), Salomon de Rothschild, y muchos otros.
 
   
 

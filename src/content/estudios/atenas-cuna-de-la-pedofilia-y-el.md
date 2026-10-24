@@ -30,7 +30,7 @@ El objetivo de esa iniciación sexual no era abrirte a nuevas y más delicadas f
   
 Sólo después de siete años luego de que comenzó la pubertad tuviste derecho a la ciudadanía. Pero una vez que se recibió como tal ciudadano ya no tiene voluntad propia, todo su cuerpo y por lo tanto todo su cerebro, su propia alma estaba poseída por el estado, exactamente como en el programa MK-Ultra de la CIA.  
   
-Recomiendo leer: [¿Son Las Guerras Mundiales Orquestadas? Almirante Alemán Expone Dato Importante](http://www.ritualypropaganda.com/2015/10/son-las-guerras-mundiales-orquestradas.html)  
+Recomiendo leer: [¿Son Las Guerras Mundiales Orquestadas? Almirante Alemán Expone Dato Importante](/estudios/son-las-guerras-mundiales-orquestradas)  
   
 Ese punto nunca se dice a los estudiantes universitarios. Pero hay que saber que la mayor parte de la llamada educación clásica dada a los niños de élite europeos a partir del Renacimiento ha sido desde muy temprano concebida bajo la supervisión de los Illuminati.  
   
@@ -48,7 +48,7 @@ _Ho de:mos_ en la antigua Atenas de ninguna manera significó «el pueblo». Pod
   
 
   
-La cosa moderna que imitaba muy explícitamente la antigua educación ateniense es la que solía ser dada a los jóvenes de élite del Imperio Británico en las "Escuelas Públicas" bajo la reina Victoria: una iniciación en un club más que una "educación" propiamente dicha, con el **[control de la mente](http://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)** inducido por la **[homosexualidad](http://www.ritualypropaganda.com/2013/07/existe-una-conspiracion-detras-del.html)** a través de prácticas sadomasoquistas.  
+La cosa moderna que imitaba muy explícitamente la antigua educación ateniense es la que solía ser dada a los jóvenes de élite del Imperio Británico en las "Escuelas Públicas" bajo la reina Victoria: una iniciación en un club más que una "educación" propiamente dicha, con el **[control de la mente](/estudios/origenes-y-tecnica-del-control-mental)** inducido por la **[homosexualidad](/estudios/existe-una-conspiracion-detras-del)** a través de prácticas sadomasoquistas.  
   
 No se equivoquen al respecto: en la mayoría de los cuadros griegos atenienses que se pueden ver en los museos de clase mundial, si usted requiere ver sus colecciones completas (como muchos pedófilos hacen) de pinturas de vasos y frescos sobre la educación o la pedagogía son acerca de la pederastia, ya que la mayoría de los textos clásicos sobre la educación ateniense o de estilo ateniense eran sobre las relaciones de amor de jovencitos en primer lugar. De esa manera lograron tener una clase entera de élite de acuerdo al mismo formato. Funcionó tan bien que se conservó a través de todo el imperio romano haciendo que la élite romana más rica hiciera educar a sus hijos de esa manera solamente.  
 
@@ -61,7 +61,7 @@ La antigua Atenas no era una ciudad de arte y cultura, era una ciudad de la banc
 Atenea, la diosa patrona de la ciudad, no era sinónimo de sabiduría y arte, es decir, una traducción muy arqueada, en gran parte influida por el nuevo significado que las palabras griegas debían tomar en las bocas romanas (un pueblo más sentimental). Y mucho más aún el cristianismo debía dar a la lengua un segundo debut muy brillante a partir del primer siglo de nuestra era. Y así se introdujo la gnosis; _Sophia_ no significaba sabiduría, significaba astucia, el arte de ver sin ser visto, y de ocultar y falsificar sus emociones.
 
   
-Recomiendo leer: [Illuminati: El Destino Secreto De América](http://www.ritualypropaganda.com/2011/10/illuminati-el-destino-secreto-de.html)  
+Recomiendo leer: [Illuminati: El Destino Secreto De América](/estudios/illuminati-el-destino-secreto-de)  
   
 
 De la misma manera _technai_ no significaba artes ni técnicas ni tecnología, significaba trucos sucios como los usados principalmente en la guerra, especialmente en las batallas navales, y también en las especulaciones financieras. El búho como emblema para la ciudad y para la deidad era el pájaro de la noche por excelencia, el símbolo del espionaje que decidía sobre las fortunas de la ciudad, de guerras que debían ser emprendidas primero por el engaño.

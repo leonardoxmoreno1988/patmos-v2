@@ -42,7 +42,7 @@ De acuerdo con otros investigadores que han documentado los rituales satánicos 
   
 "Creo que la gente podrá ver la verdad, una vez que vean cómo han tratado de encubrir la vida y la muerte de Alberto", añadió Rivera. "La jerarquía del Vaticano adora el mal y al diablo. Ellos están en el medio de hacerse cargo de los Estados Unidos, la infiltración de los gobiernos y las religiones del mundo con el fin de hacer que cada uno sea fiel al Papa.  
   
-Recomiendo leer: [Alberto Rivera, Ex Jesuita Y Su Historia Sobre El Vaticano - Parte 1](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)  
+Recomiendo leer: [Alberto Rivera, Ex Jesuita Y Su Historia Sobre El Vaticano - Parte 1](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-1)  
   
 "Alberto trató de decirle al mundo acerca de sus planes para América y cómo se estaban poniendo gente en el poder que eran leales al Nuevo Orden Mundial y al Papa y no a sus propios países. Su maldad no tiene límites y cuando Alberto trató de alertar a las personas, ellos lo asesinaron.  
   
@@ -56,7 +56,7 @@ Recomiendo leer: [Alberto Rivera, Ex Jesuita Y Su Historia Sobre El Vaticano - P
   
 Durante la entrevista en el programa de radio de Greg Szymanski, _El Diario de Investigación_ en Republic Broadcasting Network en www.rbnlive.com, Rivera dijo que aprendió que el Vaticano tiene la intención de convertir este país en un estado fascista con la ayuda de la familia Bush y otros traidores que tienen su lealtad al Papa, no a las personas en sus países. Añadió que la inmigración ilegal de millones de mexicanos y de América del Sur de cruzar la frontera EE.UU. está siendo asistida con el dinero del Vaticano y el apoyo, sabiendo que esto proporciona una población fácilmente manipulable por las falsas enseñanzas de la jerarquía del Vaticano.  
   
-Recomiendo leer: [Alberto Rivera, Ex Jesuita Y Su Historia Sobre El Vaticano - Parte 2 (La Cruz Doble)](http://www.ritualypropaganda.com/2013/07/alberto-rivera-ex-jesuita-y-su-historia.html)  
+Recomiendo leer: [Alberto Rivera, Ex Jesuita Y Su Historia Sobre El Vaticano - Parte 2 (La Cruz Doble)](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-2-la-cruz-doble)  
   
 Además, el Vaticano tiene la intención de utilizar estos millones de países del tercer mundo como una base de votantes a seguir ciegamente el Papa y elegir a políticos "en favor con el nuevo orden mundial."  
   
@@ -81,21 +81,21 @@ Si quiere conocer el testimonio y las verdades que expuso Alberto Rivera puede h
   
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmZOcUMK_1vJwUgDbBAHA262_3laza3abxvozwz_9k2MDfbUZx1PSqg4iRMcA_mBl2wvbJz1i590Oo0ltpqQUN4Bt4f_ycCQalnro-4WyEtgmMJ1xHm3BDEgG8Ax-yXkHh1wgP2oYbgLs/s1600/alberto1.jpg)](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmZOcUMK_1vJwUgDbBAHA262_3laza3abxvozwz_9k2MDfbUZx1PSqg4iRMcA_mBl2wvbJz1i590Oo0ltpqQUN4Bt4f_ycCQalnro-4WyEtgmMJ1xHm3BDEgG8Ax-yXkHh1wgP2oYbgLs/s1600/alberto1.jpg)](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-1)
 
-**[Alberto](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)**
+**[Alberto](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-1)**
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2OHBHHONcEuncdVEBhT6r3zBielXso2CFUZ-B4XD0yghsSWJ1qlpQAxtQgVZKiWRyC6afUBhZvwMjKrpZBile2zJ9ujhneJcKBzU7YXJa3ywQHMGVmNtVJq8UgoFEg3YN97lYfflMIIE/s1600/cruz-doble.jpg)](http://www.ritualypropaganda.com/2013/07/alberto-rivera-ex-jesuita-y-su-historia.html)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2OHBHHONcEuncdVEBhT6r3zBielXso2CFUZ-B4XD0yghsSWJ1qlpQAxtQgVZKiWRyC6afUBhZvwMjKrpZBile2zJ9ujhneJcKBzU7YXJa3ywQHMGVmNtVJq8UgoFEg3YN97lYfflMIIE/s1600/cruz-doble.jpg)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2OHBHHONcEuncdVEBhT6r3zBielXso2CFUZ-B4XD0yghsSWJ1qlpQAxtQgVZKiWRyC6afUBhZvwMjKrpZBile2zJ9ujhneJcKBzU7YXJa3ywQHMGVmNtVJq8UgoFEg3YN97lYfflMIIE/s1600/cruz-doble.jpg)](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-2-la-cruz-doble)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2OHBHHONcEuncdVEBhT6r3zBielXso2CFUZ-B4XD0yghsSWJ1qlpQAxtQgVZKiWRyC6afUBhZvwMjKrpZBile2zJ9ujhneJcKBzU7YXJa3ywQHMGVmNtVJq8UgoFEg3YN97lYfflMIIE/s1600/cruz-doble.jpg)
 
-**[La Cruz Doble](http://www.ritualypropaganda.com/2013/07/alberto-rivera-ex-jesuita-y-su-historia.html)**
+**[La Cruz Doble](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-2-la-cruz-doble)**
 
   
   
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg8htCQhVAYCvVFDgMnv3SOJMBnj7JJA0VS89vBeYYcygx7RwQ2ktkK1h2YDfHtLCqktgdzgOLB4gdr8Khcg2Z0_i0zdhdWhqbsjF-6-Rq6LY1mq9pLa6h-uHyHONB1VgYYdJdnSN0QOc/s1600/la_fuerza.jpg)](http://www.ritualypropaganda.com/2013/10/alberto-rivera-ex-jesuita-y-su-historia.html)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg8htCQhVAYCvVFDgMnv3SOJMBnj7JJA0VS89vBeYYcygx7RwQ2ktkK1h2YDfHtLCqktgdzgOLB4gdr8Khcg2Z0_i0zdhdWhqbsjF-6-Rq6LY1mq9pLa6h-uHyHONB1VgYYdJdnSN0QOc/s1600/la_fuerza.jpg)](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-4-la-fuerza)
 
-**[La Fuerza](http://www.ritualypropaganda.com/2013/10/alberto-rivera-ex-jesuita-y-su-historia.html)**
+**[La Fuerza](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-4-la-fuerza)**
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwBA6ZD5PACbY2GJJcyMUtmltmEYjFZlidUSZayK_WsKTfbhswaP_XmAmFD1UgVNIjO_bS8s5dkP7POtSjWy743v37zJIwnlIkDrDt8Xh6hR_Z8uIPzzLNI_g-TbKX9ivBbYBUXaBv1z0/s1600/los-padrinos.jpg)](http://www.ritualypropaganda.com/2013/08/alberto-rivera-ex-jesuita-y-su-historia.html)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwBA6ZD5PACbY2GJJcyMUtmltmEYjFZlidUSZayK_WsKTfbhswaP_XmAmFD1UgVNIjO_bS8s5dkP7POtSjWy743v37zJIwnlIkDrDt8Xh6hR_Z8uIPzzLNI_g-TbKX9ivBbYBUXaBv1z0/s1600/los-padrinos.jpg)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwBA6ZD5PACbY2GJJcyMUtmltmEYjFZlidUSZayK_WsKTfbhswaP_XmAmFD1UgVNIjO_bS8s5dkP7POtSjWy743v37zJIwnlIkDrDt8Xh6hR_Z8uIPzzLNI_g-TbKX9ivBbYBUXaBv1z0/s1600/los-padrinos.jpg)](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-3-los-padrinos)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwBA6ZD5PACbY2GJJcyMUtmltmEYjFZlidUSZayK_WsKTfbhswaP_XmAmFD1UgVNIjO_bS8s5dkP7POtSjWy743v37zJIwnlIkDrDt8Xh6hR_Z8uIPzzLNI_g-TbKX9ivBbYBUXaBv1z0/s1600/los-padrinos.jpg)
 
-**[Los Padrinos](http://www.ritualypropaganda.com/2013/08/alberto-rivera-ex-jesuita-y-su-historia.html)**
+**[Los Padrinos](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-3-los-padrinos)**

@@ -17,7 +17,7 @@ La energía vital universal, el chi o el prana, están vinculados en muchas cult
   
 Los primeros chamanes en China creían que esta fuerza se encontraba en el universo, en la naturaleza e incluso dentro de ellos mismos, disponible para el uso de una mente iluminada.  
   
-La [cábala oculta](https://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html) lo llama luz astral; y el hipnotizador [Franz Mesmer](https://en.wikipedia.org/wiki/Franz_Mesmer) lo llamó fluido magnético. El chi es también la fuente de poder para la supuesta levitación y otras hazañas ocultas, todas prácticas prohibidas en las Escrituras.  
+La [cábala oculta](/estudios/significado-cabala-peligros-respuestas) lo llama luz astral; y el hipnotizador [Franz Mesmer](https://en.wikipedia.org/wiki/Franz_Mesmer) lo llamó fluido magnético. El chi es también la fuente de poder para la supuesta levitación y otras hazañas ocultas, todas prácticas prohibidas en las Escrituras.  
   
 La curación con energía alternativa y la sanación con chi no es más que una técnica basada en creencias esotéricas sobre la manipulación de una fuerza invisible y se practica universalmente en el ocultismo.  
 
@@ -38,7 +38,7 @@ El poder de Dios no venía a través de una técnica o enseñanza secreta, sino 
   
 Esta autoridad sobre la enfermedad era solo un aspecto de su poder y autoridad como Hijo de Dios. También demostrando autoridad sobre la muerte (Mateo 9:23-26; Juan 11:43-45).  
   
-La habilidad de Jesús para sanar no solo fue una señal de su cumplimiento de las [profecías sobre el Mesías](https://www.ritualypropaganda.com/2022/08/piezas-rompecabezas.html), sino que eran para darle gloria a Dios. Después de que el ciego al borde del camino fue sanado en Lucas 18:35-43, siguió a Jesús, “glorificando a Dios; y cuando todo el pueblo lo vio, alabó a Dios”.  
+La habilidad de Jesús para sanar no solo fue una señal de su cumplimiento de las [profecías sobre el Mesías](/estudios/piezas-rompecabezas), sino que eran para darle gloria a Dios. Después de que el ciego al borde del camino fue sanado en Lucas 18:35-43, siguió a Jesús, “glorificando a Dios; y cuando todo el pueblo lo vio, alabó a Dios”.  
   
 Esta misma alabanza a Dios sucedió después de que Jesús sanó al paralítico (Mateo 9:2-8), y cuando sanó a otros enfermos, "la multitud se maravillaba, viendo a los mudos hablar, a los mancos sanados, a los cojos andar, y a los ciegos ver; y glorificaban al Dios de Israel.” (Mateo 15:30-31).  
   

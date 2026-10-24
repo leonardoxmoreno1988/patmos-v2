@@ -24,7 +24,7 @@ Escrito por el apóstol Juan con el fin de narrar los eventos de los últimos ti
   
 Debido a su importancia profética, el libro de Revelación tiene la capacidad de exponer el plan de Lúcifer, y en el camino, la agenda terrenal de sus seguidores. Como se ha visto en diversos artículos, estamos hablando de sociedades secretas, escuelas místicas, religiones gnósticas y toda organización ocultista que exalta la figura de este ángel caído como su Dios. La película de Bryan Singer utiliza el concepto del final de los tiempos para promover nuevamente, un evangelio luciferiano y gnóstico a las masas.  
   
-En el artículo **[El Significado Esotérico de X-Men Días Del Futuro Pasado y La Agenda Homosexual](http://www.ritualypropaganda.com/2014/06/el-significado-esoterico-de-x-men-dias.html)** se escribió sobre cómo los mutantes impulsaban el **[movimiento LGTB](http://www.ritualypropaganda.com/2013/07/existe-una-conspiracion-detras-del.html)** junto con un claro mensaje anti cristiano. Los elementos en la historia también favorecían a la agenda de experimentos genéticos y la redención de seres demonizados, prácticamente idealizados como héroes. En la secuela de este film analizaremos cómo la trama evoluciona en el juego de Dios como villano y Satanás/Lúcifer como salvador de la humanidad.
+En el artículo **[El Significado Esotérico de X-Men Días Del Futuro Pasado y La Agenda Homosexual](/estudios/el-significado-esoterico-de-x-men-dias)** se escribió sobre cómo los mutantes impulsaban el **[movimiento LGTB](/estudios/existe-una-conspiracion-detras-del)** junto con un claro mensaje anti cristiano. Los elementos en la historia también favorecían a la agenda de experimentos genéticos y la redención de seres demonizados, prácticamente idealizados como héroes. En la secuela de este film analizaremos cómo la trama evoluciona en el juego de Dios como villano y Satanás/Lúcifer como salvador de la humanidad.
 
   
 
@@ -177,7 +177,7 @@ Cuando termina de reclutar a sus cuatro jinetes, Magneto, Arcángel, Tormenta y 
   
 Es curioso cómo se referencia a la Torre de Babel, una historia del libro de Génesis capítulo 11. En un análisis profundo, podemos leer que la Torre de Babel explica los intentos vagos del hombre por ser más grande que Dios, construyendo una torre que llegue hasta el cielo. Al final de la historia, Dios destruye la torre y confunde las lenguas de sus habitantes dispersándolos por el mundo. En un sentido espiritual, este capítulo descubre las razones de por qué Dios debe ejecutar el juicio final y evitar que la maldad siga poblando la Tierra. En la película, el mutante juega el papel de Dios al afirmar que nunca podrán herirlo desde la Torre de Babel.  
   
-Recomiendo leer: [La Interpretación Oculta De La Película "Cisne Negro" Y Su Mensaje Sobre El Negocio Del Entretenimiento](http://www.ritualypropaganda.com/2011/02/la-interpretacion-oculta-de-la-pelicula.html)  
+Recomiendo leer: [La Interpretación Oculta De La Película "Cisne Negro" Y Su Mensaje Sobre El Negocio Del Entretenimiento](/estudios/la-interpretacion-oculta-de-la-pelicula)  
   
 Luego de secuestrar a Xavier, Apocalipsis envía un mensaje mundial en diferentes lenguas a absolutamente todos los habitantes de la Tierra. (¿Proyecto Bluebeam?) Además de anunciar sus planes de extinción a todos los no mutantes, él menciona:
 

@@ -82,7 +82,7 @@ El Melquisedec de Coelho va en contra de Dios recomendando presagios y dando con
 > "PORQUE ESTO ES BUENO Y AGRADABLE DELANTE DE DIOS NUESTRO SALVADOR, ÉL QUIERE QUE TODOS LOS HOMBRES SE SALVEN Y QUE VENGAN AL CONOCIMIENTO DE LA VERDAD." - 1 TIMOTEO 2:3-4
 
   
-Este falso Melquisedec no tiene semejanza con el verdadero, y es usado por Coelho como un apoyo para articular sus creencias de la **[Nueva Era](http://www.ritualypropaganda.com/2017/04/10-ideas-falsas-nueva-era-sobre-dios.html)** y la autoayuda. Usar un personaje bíblico para representar valores que van contra Dios es un movimiento de arrogancia y desafío. En el libro Melquisedec se presenta como todo un sabio cuando, de hecho, él representa la sabiduría del mundo en contraposición a la sabiduría de Dios.  
+Este falso Melquisedec no tiene semejanza con el verdadero, y es usado por Coelho como un apoyo para articular sus creencias de la **[Nueva Era](/estudios/10-ideas-falsas-nueva-era-sobre-dios)** y la autoayuda. Usar un personaje bíblico para representar valores que van contra Dios es un movimiento de arrogancia y desafío. En el libro Melquisedec se presenta como todo un sabio cuando, de hecho, él representa la sabiduría del mundo en contraposición a la sabiduría de Dios.  
 
 > **"¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el disputador de este siglo? ¿No ha enloquecido Dios la sabiduría del mundo? Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios mediante la sabiduría, agradó a Dios salvar a los creyentes por la locura de la predicación." \- 1 Corintios 1:20-21**
 
@@ -93,9 +93,9 @@ Este falso Melquisedec no tiene semejanza con el verdadero, y es usado por Coelh
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFdzhuQ7TcIy8feJVnM1nhZ2AVDCCx8P9LPy_YGJnjxVLnlrVErzg6eXd-byE2JtzB9ltSmhz4O-PRNjGJncPUR9tqLnsIui7IIEO3FMSnLuOEyjLfw2meQckjotF5FW_PdK5Y2SVZhSo/s1600/hombre-ingles.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFdzhuQ7TcIy8feJVnM1nhZ2AVDCCx8P9LPy_YGJnjxVLnlrVErzg6eXd-byE2JtzB9ltSmhz4O-PRNjGJncPUR9tqLnsIui7IIEO3FMSnLuOEyjLfw2meQckjotF5FW_PdK5Y2SVZhSo/s1600/hombre-ingles.jpg)
 
   
-No debemos olvidar el título de este libro. Santiago se encuentra con un inglés que viaja a un oasis en busca de un alquimista de 200 años. La **[alquimia](http://www.ritualypropaganda.com/2015/07/inteligencia-artificial-ai-gnosticismo.html)** supuestamente puede dar inmortalidad, y el inglés está en una búsqueda para encontrar la Piedra Filosofal y el Elixir de la Vida. Ambos se originan en el arte oculto de la alquimia, que buscaba convertir los metales básicos en oro. Sin embargo, la alquimia era más que eso.  
+No debemos olvidar el título de este libro. Santiago se encuentra con un inglés que viaja a un oasis en busca de un alquimista de 200 años. La **[alquimia](/estudios/inteligencia-artificial-ai-gnosticismo)** supuestamente puede dar inmortalidad, y el inglés está en una búsqueda para encontrar la Piedra Filosofal y el Elixir de la Vida. Ambos se originan en el arte oculto de la alquimia, que buscaba convertir los metales básicos en oro. Sin embargo, la alquimia era más que eso.  
   
-La Piedra Filosofal debe sonar en nuestra cultura debido al título del primer libro de **[Harry Potter](http://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html)**, Harry Potter y la Piedra Filosofal (publicado en el Reino Unido bajo el título original y más exacto de Harry Potter y la Piedra del Hechicero).  
+La Piedra Filosofal debe sonar en nuestra cultura debido al título del primer libro de **[Harry Potter](/estudios/analisis-de-los-simbolos-ocultos-en)**, Harry Potter y la Piedra Filosofal (publicado en el Reino Unido bajo el título original y más exacto de Harry Potter y la Piedra del Hechicero).  
   
 La "Piedra Filosofal" forma parte de la tradición de la alquimia y la hechicería medieval, y supuestamente era una piedra que podía usarse para convertir el metal base en oro, y era el Santo Grial de la brujería (Bill Whitcomb, The Magician's Companion, St. Paul : Llewellyn, 1994, pp. 351, 485, 527. Del artículo de CANA, "Harry Potter, Sorcery, and Fantasy").  
   
@@ -144,7 +144,7 @@ Por esto, creo que él está diciendo que la adivinación oculta es un medio por
   
 Es como sentir un flujo invisible y caer en su ritmo con una capacidad extrasensorial (aunque no creo que esta capacidad exista, sino que el vidente está recibiendo información de sus guías, ángeles caídos).  
   
-Al leer las palabras de Coelho, creo que está expresando esta opinión. Dado que Coelho estuvo profundamente involucrado en el ocultismo, y estudió las enseñanzas del mago ritualista **[Aleister Crowley](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**, no es sorprendente que tenga esta cosmovisión oculta.  
+Al leer las palabras de Coelho, creo que está expresando esta opinión. Dado que Coelho estuvo profundamente involucrado en el ocultismo, y estudió las enseñanzas del mago ritualista **[Aleister Crowley](/estudios/aleister-crowley-666-biografia-cultura-popular)**, no es sorprendente que tenga esta cosmovisión oculta.  
   
 
 ## Más mal uso de la Biblia

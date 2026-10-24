@@ -25,7 +25,7 @@ tags: ["Sociedad", "Codex Magica", "Masonería", "Simbolismo"]
 **Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
 
   
-Pero los **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** no están de acuerdo. Toda su doctrina insana se basa en la suposición de que el negro es blanco, que el bien es mal, que dos más dos es igual a cinco. Son hombres de mentes insanas. Y han desarrollado un sistema "científico" igualmente deshonesto, diseñado para reprogramar y recrear el material social y la realidad espiritual para ajustarla a su teología pervertida y viceversa.  
+Pero los **[Illuminati](/estudios/quienes-son-los-illuminati)** no están de acuerdo. Toda su doctrina insana se basa en la suposición de que el negro es blanco, que el bien es mal, que dos más dos es igual a cinco. Son hombres de mentes insanas. Y han desarrollado un sistema "científico" igualmente deshonesto, diseñado para reprogramar y recrear el material social y la realidad espiritual para ajustarla a su teología pervertida y viceversa.  
   
 
 ## Movimiento Universal: Alquimia y Magia
@@ -45,7 +45,7 @@ Pike reveló este último objetivo de subordinar a los iluministas en la página
 
 ## Arruinando la Creación de Dios
 
-Ezequiel 28 nos dice que, como fue creado por primera vez por Dios, **[Lucifer](http://www.ritualypropaganda.com/2014/01/quien-es-lucifer-una-historia-de.html)** era una bella criatura, una de las más hermosas del Cielo. Su cuerpo no era de carne, sino que estaba hecho de gemas y joyas reales. Aún más fantásticos, instrumentos musicales se incorporaron a su ser. Una belleza para contemplar.  
+Ezequiel 28 nos dice que, como fue creado por primera vez por Dios, **[Lucifer](/estudios/quien-es-lucifer-una-historia-de)** era una bella criatura, una de las más hermosas del Cielo. Su cuerpo no era de carne, sino que estaba hecho de gemas y joyas reales. Aún más fantásticos, instrumentos musicales se incorporaron a su ser. Una belleza para contemplar.  
   
 Pero entonces el engañoso Lucifer se rebeló, llevando consigo un tercio de los ángeles. Él y ellos aparentemente se convirtieron en seres viles, feos y deformes, apareciendo en formas grotescas apropiadas a sus deformidades mentales y espirituales.  
   
@@ -334,7 +334,7 @@ En las cartas de tarot, una de las cartas representa "El Mago" (también llamado
 
 Este diseño ilustra la blasfemia de su mensaje, que es que Satanás es la deidad del universo, que será rey sobre todos los reinos, arriba y abajo, y que el reino de él, la serpiente, permanecerá por toda la eternidad. El libro de texto del Rito Escocés, un puente a la luz, por Rex Hutchens, 33ro grado, bosqueja los conocimientos y los símbolos usados para los diversos grados de la masonería.  
   
-En este libro, Hutchens reafirma los principios del clásico del siglo XIX de Albert Pike, Morales y Dogma. Según estos principios, la **[serpiente de los ouroboros](http://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html)** mostrada en este diseño (la magia oculta de Levi de "como arriba, es abajo") representa la eternidad y el Espíritu Santo de la trinidad. En otras palabras, los iluministas están declarando que la serpiente, identificada en las Escrituras como el diablo, es, en su religión, el Espíritu Santo divino!  
+En este libro, Hutchens reafirma los principios del clásico del siglo XIX de Albert Pike, Morales y Dogma. Según estos principios, la **[serpiente de los ouroboros](/estudios/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros)** mostrada en este diseño (la magia oculta de Levi de "como arriba, es abajo") representa la eternidad y el Espíritu Santo de la trinidad. En otras palabras, los iluministas están declarando que la serpiente, identificada en las Escrituras como el diablo, es, en su religión, el Espíritu Santo divino!  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcSGlVLNg4b4pnAczOq9DbELwc40GVMcQQkiCgplhBk9pPrgZS3vbXSYO-CBX1Pu49KbZ1nvSdNoC5dKqDBmK1z-otAoDq6VaMp1p6qn2Jv7eWbeB3mav4mHb0Uo8P1AhPl8LlsXZsQs/s1600/ccodex_26.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcSGlVLNg4b4pnAczOq9DbELwc40GVMcQQkiCgplhBk9pPrgZS3vbXSYO-CBX1Pu49KbZ1nvSdNoC5dKqDBmK1z-otAoDq6VaMp1p6qn2Jv7eWbeB3mav4mHb0Uo8P1AhPl8LlsXZsQs/s1600/ccodex_26.jpg)

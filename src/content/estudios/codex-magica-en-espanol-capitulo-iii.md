@@ -159,7 +159,7 @@ Algunos líderes islámicos (maestros) predican que la mano de Fátima, la hija 
   
 Una mano con el dedo en contacto con el labio indica, "Cállate". Un dedo que toca o que apunta a la cabeza significa "inteligencia o sabiduría."  
   
-Las imágenes e ilustraciones de esta sección y las siguientes dan evidencia de la importancia de cómo los esbirros **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** hacen uso de las manos, ya sea en un apretón, puños, o en diferentes poses. La vieja frase, "a mano alzada" sin duda tiene múltiples significados para los miembros de las sociedades secretas.  
+Las imágenes e ilustraciones de esta sección y las siguientes dan evidencia de la importancia de cómo los esbirros **[Illuminati](/estudios/quienes-son-los-illuminati)** hacen uso de las manos, ya sea en un apretón, puños, o en diferentes poses. La vieja frase, "a mano alzada" sin duda tiene múltiples significados para los miembros de las sociedades secretas.  
   
 
 ## ¿Abiertos a la interpretación?
@@ -176,7 +176,7 @@ Sin embargo, aun teniendo en cuenta el factor humano, es posible identificar muc
   
 
   
-Muchas **[órdenes secretas y sociedades](http://www.ritualypropaganda.com/2015/09/las-10-sociedades-secretas-que-influyen.html)** visualizan y utilizan saludos secretos y señales. En Gales (Gran Bretaña) la Orden de los Verdaderos Ivorites se estableció en 1836 y prosperó durante muchos años. Algunos creen que dos logias de Ivorites todavía existen hoy. En este documento fueron fotografiados algunos de sus signos y saludos secretos.  
+Muchas **[órdenes secretas y sociedades](/estudios/las-10-sociedades-secretas-que-influyen)** visualizan y utilizan saludos secretos y señales. En Gales (Gran Bretaña) la Orden de los Verdaderos Ivorites se estableció en 1836 y prosperó durante muchos años. Algunos creen que dos logias de Ivorites todavía existen hoy. En este documento fueron fotografiados algunos de sus signos y saludos secretos.  
   
   
 **Referencias:**  

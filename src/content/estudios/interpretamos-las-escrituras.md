@@ -20,7 +20,7 @@ Incluso la palabra "Revelación" (apokalupsis), significa "desvelar, revelar o q
   
 Desafortunadamente, muchas falsas doctrinas nacen de la idea de que los pasajes proféticos deben espiritualizarse o interpretarse de manera puramente figurativa.  
   
-Por ejemplo, [el preterismo](https://www.ritualypropaganda.com/2021/11/preterismo-anticristo.html), que afirma que la mayoría de profecías del fin ya se cumplieron en el pasado. También podemos incluir las falsas doctrinas del amilenialismo y posmilenialismo, que usualmente vienen vinculadas a [la doctrina del Reino Ahora](https://www.gotquestions.org/Espanol/reino-ahora.html). Todas rechazan la literalidad consistente de las Escrituras.  
+Por ejemplo, [el preterismo](/estudios/preterismo-anticristo), que afirma que la mayoría de profecías del fin ya se cumplieron en el pasado. También podemos incluir las falsas doctrinas del amilenialismo y posmilenialismo, que usualmente vienen vinculadas a [la doctrina del Reino Ahora](https://www.gotquestions.org/Espanol/reino-ahora.html). Todas rechazan la literalidad consistente de las Escrituras.  
   
 Como el profesor Dr. Roy B. Zuck, experto en hermenéutica, escribió en su libro La Interpretación Básica de la Biblia: “Las normas de interpretación gramatical deben aplicarse tanto a la literatura profética como a la no profética”.
 
@@ -42,7 +42,7 @@ La interpretación literal no es literalismo ilógico; simplemente debemos enten
 3.  Contextual: de acuerdo con su contexto  
     
 
-Otra confirmación de la interpretación literal es examinar cómo se cumplieron [las profecías pasadas](https://www.ritualypropaganda.com/2022/08/piezas-rompecabezas.html). En la primera venida de Cristo, se cumplieron por completo más de 300 profecías. Tales predicciones se cumplieron al pie de la letra, y así también se cumplirán en Su segunda venida.
+Otra confirmación de la interpretación literal es examinar cómo se cumplieron [las profecías pasadas](/estudios/piezas-rompecabezas). En la primera venida de Cristo, se cumplieron por completo más de 300 profecías. Tales predicciones se cumplieron al pie de la letra, y así también se cumplirán en Su segunda venida.
 
   
 Por ejemplo, el profeta Miqueas predijo, con setecientos años de antelación, que el Mesías nacería en Belén:  
@@ -53,7 +53,7 @@ Por ejemplo, el profeta Miqueas predijo, con setecientos años de antelación, q
 El Mesías nació literalmente en Belén. No fue simbólico. El cumplimiento literal de la profecía pasada significa que debemos interpretar la profecía futura de la misma forma.
 
   
-Si Zacarías 14:4 dice que [Jesús regresará al Monte de los Olivos](https://www.ritualypropaganda.com/2022/08/monte-de-los-olivos.html), entonces la profecía significa que ocurrirá exactamente eso. Juan dice que cuando Jesús venga, los ejércitos se reunirán en Armagedón en el norte de Israel (Revelación 16:12). También lo tomamos literalmente.
+Si Zacarías 14:4 dice que [Jesús regresará al Monte de los Olivos](/estudios/monte-de-los-olivos), entonces la profecía significa que ocurrirá exactamente eso. Juan dice que cuando Jesús venga, los ejércitos se reunirán en Armagedón en el norte de Israel (Revelación 16:12). También lo tomamos literalmente.
 
 No tenemos más razón para espiritualizar las palabras sobre el fin de los tiempos que la que tenemos para decir que Belén era solo figurativo en la profecía de Miqueas.
 

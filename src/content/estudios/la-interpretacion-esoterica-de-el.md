@@ -196,7 +196,7 @@ Mientras vemos a Ofelia ensangrentada en el suelo, ella también se muestra en o
   
 Todo el palacio tiene la forma de una vesica piscis, un antiguo símbolo oculto que representa la vulva, la entrada de la matriz y la puerta de otro mundo. De pie sobre tres pilares, el padre, la madre y la que pronto será princesa forman la trinidad de los infiernos. El fauno de Ofelia aparece, diciéndole que ella hizo bien yendo en contra de sus órdenes y sacrificando su vida para proteger a su hermano inocente. De hecho, una fuerte voluntad, el sacrificio y el renacimiento son necesarios para la realización de una iniciación en los misterios ocultos.  
   
-Ofelia después se muestra otra vez tirada en el suelo con sangre, por lo que los espectadores se preguntan: ¿Esto realmente sucede o es todo en la imaginación de la niña? (**[Programación Monarca](https://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)**).  
+Ofelia después se muestra otra vez tirada en el suelo con sangre, por lo que los espectadores se preguntan: ¿Esto realmente sucede o es todo en la imaginación de la niña? (**[Programación Monarca](/estudios/origenes-y-tecnica-del-control-mental)**).  
   
 
 ## En Conclusión

@@ -36,7 +36,7 @@ Las bayas, por ejemplo, son extraordinariamente bajas en calorías, altas en fib
   
 La palabra _proteína_ viene de una palabra griega que significa "de gran importancia", es una característica de todas las dietas saludables jamás estudiadas. La carne, en contra de su terrible reputación, puede ser un alimento saludable si -y esto es un gran condicional- la carne procede de animales que han sido criados en pastos, nunca han estado en el interior de una granja de engorde y nunca han consumido antibióticos y hormonas.  
   
-**Recomiendo leer: [Tres Alimentos Saludables De La Antigüedad Con Beneficios Milagrosos](http://www.ritualypropaganda.com/2015/08/tres-alimentos-saludables-de-la.html)**  
+**Recomiendo leer: [Tres Alimentos Saludables De La Antigüedad Con Beneficios Milagrosos](/estudios/tres-alimentos-saludables-de-la)**  
   
 Lo mismo ocurre con la leche cruda, que se cree generalmente es una de las bebidas más saludables del planeta por innumerables devotos que suelen pagar un gran costo y molestias para obtenerla de las pequeñas granjas sostenibles. El salmón salvaje, cuyos ácidos grasos omega-3 son consistentemente más altos que sus menos afortunados hermanos criados en granjas, obtiene su color rojo de un poderoso antioxidante llamado astaxantina. La combinación de proteínas, ácidos grasos omega-3 y antioxidantes hace que el salmón salvaje sea un competidor para la lista de cualquiera de los grandes alimentos.  
   

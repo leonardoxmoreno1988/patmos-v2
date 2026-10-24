@@ -16,7 +16,7 @@ Hombres y mujeres que realizaban sus labores cotidianas, comprando, trabajando o
 
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/491/original/venezuela.jpg)
 
-Esta rápida interrupción de la vida nos obliga a despojarnos de la ilusión de control que el mundo moderno nos vende. La muerte no es un evento lejano ni negociable, sino una verdad que expone lo efímero de nuestro paso por este [**cuerpo mortal**](https://www.ritualypropaganda.com/2022/05/cuerpo-resurreccion.html) (1 Corintios 15:53).
+Esta rápida interrupción de la vida nos obliga a despojarnos de la ilusión de control que el mundo moderno nos vende. La muerte no es un evento lejano ni negociable, sino una verdad que expone lo efímero de nuestro paso por este [**cuerpo mortal**](/estudios/cuerpo-resurreccion) (1 Corintios 15:53).
 
 > **"Vosotros que no sabéis lo que será mañana. Porque, ¿qué es vuestra vida? Ciertamente es un vapor que se aparece por un poco de tiempo, y después se desvanece."**
 > 
@@ -24,7 +24,7 @@ Esta rápida interrupción de la vida nos obliga a despojarnos de la ilusión de
 
 Es precisamente esta perspectiva sobre lo transitorio de la vida y la severidad de la [**Palabra de Dios**](https://www.patmosresearch.com/leer/genesis/1) lo que nos lleva a examinar cómo el Señor entiende los días del hombre, incluso entre las figuras fieles que le sirvieron en el Antiguo Testamento.
 
-El análisis de la vida de Moisés a menudo pasa por alto una realidad: el juicio de Dios requirió su muerte en dos incidentes distintos. Las lecturas superficiales suelen retratar a Moisés como el líder que [**hacía milagros**](https://www.ritualypropaganda.com/2022/11/moises-encuentros-cercanos.html), pero el texto bíblico revela algo mucho más estricto.
+El análisis de la vida de Moisés a menudo pasa por alto una realidad: el juicio de Dios requirió su muerte en dos incidentes distintos. Las lecturas superficiales suelen retratar a Moisés como el líder que [**hacía milagros**](/estudios/moises-encuentros-cercanos), pero el texto bíblico revela algo mucho más estricto.
 
 Incluso este hombre elegido para liberar a una nación estuvo bajo la letal demanda de la santidad de Dios cuando ignoró voluntariamente los principios del pacto y la profecía.
 
@@ -40,7 +40,7 @@ La teología superficial suele alegar que Moisés simplemente enfermó de graved
 
 Cuando Dios se manifiesta de esta forma en el Antiguo Testamento para blandir la espada o bloquear el paso de los hombres, lo hace invariablemente como el Ángel de Jehová (Salmos 34:7). Estamos, por tanto, ante una cristofanía de juicio.
 
-Es el mismo personaje celestial que se interpuso con una espada desenvainada en el [**camino de Balaam**](https://www.ritualypropaganda.com/2025/05/un-asna-que-habla-y-balaam.html) para matarlo por su codicia (Números 22:22-31), y que más tarde se presentaría ante Josué como el Príncipe de los ejércitos de Jehová (Josué 5:13-15).
+Es el mismo personaje celestial que se interpuso con una espada desenvainada en el [**camino de Balaam**](/estudios/un-asna-que-habla-y-balaam) para matarlo por su codicia (Números 22:22-31), y que más tarde se presentaría ante Josué como el Príncipe de los ejércitos de Jehová (Josué 5:13-15).
 
 En la penumbra de aquella posada, Dios como ejecutor divino se presentó dispuesto a terminar con la vida de Moisés. Este carácter físico, visible e inminente es lo único que explica la reacción desesperada de su esposa Séfora.
 
@@ -54,7 +54,7 @@ Al comprender la naturaleza exacta de la aparición, Séfora tomó un pedernal a
 > 
 > **–Éxodo 4:25**
 
-Fue este contacto con la sangre del pacto lo que provocó que el Señor apartara Su juicio y lo dejara ir. El evento prefiguró de manera perfecta que solo la [**sangre aplicada**](https://www.ritualypropaganda.com/2023/11/la-puerta-oriental-sera-derribada-por.html) apacigua el juicio del Dios que servimos (Hebreos 9:14).
+Fue este contacto con la sangre del pacto lo que provocó que el Señor apartara Su juicio y lo dejara ir. El evento prefiguró de manera perfecta que solo la [**sangre aplicada**](/estudios/la-puerta-oriental-sera-derribada-por) apacigua el juicio del Dios que servimos (Hebreos 9:14).
 
 El segundo evento donde Dios decreta la muerte de Moisés ocurre hacia el final de su ministerio en el desierto (Deuteronomio 34:5). En esta segunda ocasión, a diferencia de la anterior, la sentencia de muerte y la prohibición de entrar a la Tierra Prometida fueron ejecutadas de forma irrevocable.
 
@@ -64,11 +64,11 @@ El Señor le había ordenado explícitamente a Moisés que le hablara a la roca 
 
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/493/original/moises-golpeando-roca.jpg)
 
-Pablo revelaría siglos después que [**la roca**](https://www.ritualypropaganda.com/2023/11/y-sobre-esta-roca-edificare-mi-iglesia.html) era una tipología inconfundible de Jesucristo (1 Corintios 10:1-4). Esta identificación no es una coincidencia literaria, sino un diseño preciso del plan de salvación.
+Pablo revelaría siglos después que [**la roca**](/estudios/y-sobre-esta-roca-edificare-mi-iglesia) era una tipología inconfundible de Jesucristo (1 Corintios 10:1-4). Esta identificación no es una coincidencia literaria, sino un diseño preciso del plan de salvación.
 
 En el primer encuentro en Horeb, el Señor le había ordenado a Moisés golpear la roca porque Dios mismo sería la roca, absorbiendo tipológicamente el golpe del juicio en lugar de la nación (Éxodo 17:6).
 
-La roca que fue golpeada en el inicio del Éxodo representaba a Cristo sufriendo la ira en [**el Calvario**](https://www.ritualypropaganda.com/2023/07/ciertamente-no-estas-en-el-medio.html). Ahora sabemos que la obra de la crucifixión establece con claridad que Cristo debía ser herido una sola vez y para siempre por los pecados del mundo (Hebreos 10:8-12).
+La roca que fue golpeada en el inicio del Éxodo representaba a Cristo sufriendo la ira en [**el Calvario**](/estudios/ciertamente-no-estas-en-el-medio). Ahora sabemos que la obra de la crucifixión establece con claridad que Cristo debía ser herido una sola vez y para siempre por los pecados del mundo (Hebreos 10:8-12).
 
 > **"Así también Cristo habiendo sido ofrecido una sola vez para cargar con los pecados de muchos; la segunda vez aparecerá sin pecado a los que le aguardan para salud."**
 > 

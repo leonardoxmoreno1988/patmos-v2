@@ -75,7 +75,7 @@ Para que usted entienda, el Mithra romano era el más conocido por su acto de ma
   
 Y para hacer las cosas más complejas, sus seguidores en Irán, a diferencia de los mitristas romanos, no adoraban en habitaciones parecidas a cavernas (aunque Porfirio pensaba, incorrectamente, que Zoroastro, el "putativo fundador del culto" originó la idea de las cuevas como una imagen del cosmos - Beck.PO, 8), Diseñar niveles de iniciación, o perseguir el secreto. \[Ulan.OMM, 8\]  
   
-Simplemente no existía una conexión sólida entre las dos religiones, excepto el nombre del dios central, alguna terminología y la sabiduría astrológica del tipo que se importó ampliamente en el Imperio Romano de **[Babilonia](http://www.ritualypropaganda.com/2017/07/creacion-del-genesis-mito-babilonico.html)** \[Beck.PO, 87\].  
+Simplemente no existía una conexión sólida entre las dos religiones, excepto el nombre del dios central, alguna terminología y la sabiduría astrológica del tipo que se importó ampliamente en el Imperio Romano de **[Babilonia](/estudios/creacion-del-genesis-mito-babilonico)** \[Beck.PO, 87\].  
   
 Sin embargo, debido a que Cumont estaba encerrado en la noción de la continuidad, asumió (por ejemplo) que el iraní Mithra debió haber matado toros en alguna parte de la línea de tiempo, y moldeó la evidencia para ajustarla a su tesis, esforzándose por encontrar un mito iraní que involucrara una matanza de toros (esto no fue hecho por Mithra, sino por Ahriman) y suponiendo que había alguna conexión o historia desconocida en la que el Mithra iraní mató a un toro.  
   

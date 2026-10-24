@@ -51,7 +51,7 @@ Dios permite que el profeta vea hacia el futuro, cuando Jesucristo derrotará a 
   
 En el tiempo de la tribulación, el Anticristo es descrito también como "la bestia que sube del mar" (Revelación 13:1), una proyección de la persona de Satanás y su semilla humana que vendrá a engañar al mundo (Revelación 20:10).  
   
-La famosa ocultista y bruja [Madame Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html) anunciaba que en el futuro la humanidad entraría a la Era del Acuario. Un tiempo de desarrollo espiritual como se vivió en la antigua Atlántida. Blavatsky, quien era asesorada por ángeles caídos y/o demonios, ya relacionaba el agua y el signo del acuario con el gobierno de Satanás.  
+La famosa ocultista y bruja [Madame Blavatsky](/estudios/blavatsky-madame-nueva-era) anunciaba que en el futuro la humanidad entraría a la Era del Acuario. Un tiempo de desarrollo espiritual como se vivió en la antigua Atlántida. Blavatsky, quien era asesorada por ángeles caídos y/o demonios, ya relacionaba el agua y el signo del acuario con el gobierno de Satanás.  
   
 Los que conocen la doctrina de Blavatsky recordarán que ella se refiere a sus "guías" o "hermanos mayores" como seres de galaxias lejanas, elementos que la nueva era ha relacionado directamente con el fenómeno OVNI y la canalización de mensajes extraterrestres.  
   
@@ -72,7 +72,7 @@ Lo que es innegable también es que el engaño de la serpiente en el Edén produ
 > “Y como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del Hombre sea levantado, para que todo aquel que en él cree, no se pierda, más tenga vida eterna."  
 > –Juan 3:14-15
 
-Nacimos como hijos del diablo (Juan 8:42-44) pero ahora podemos ser hijos de Dios por medio de la muerte del salvador. Cristo remueve la naturaleza de la serpiente de nosotros, espiritual y físicamente. El cuerpo y nuestra genética física cambiará en [el rapto y la resurrección de los muertos](https://www.ritualypropaganda.com/2022/02/rapto-arrebatamiento.html) (1 Corintios 15:53-55).  
+Nacimos como hijos del diablo (Juan 8:42-44) pero ahora podemos ser hijos de Dios por medio de la muerte del salvador. Cristo remueve la naturaleza de la serpiente de nosotros, espiritual y físicamente. El cuerpo y nuestra genética física cambiará en [el rapto y la resurrección de los muertos](/estudios/rapto-arrebatamiento) (1 Corintios 15:53-55).  
   
 Esta batalla entre la serpiente y Dios llega a su apogeo al final de siglo. Revelación 12 describe una batalla en el cielo, donde el dragón o el Leviatán pelea contra Miguel en lo que será una batalla literal de estos dos ángeles y sus ejércitos, siendo Satanás temporalmente derrotado y arrojado a la Tierra.  
 

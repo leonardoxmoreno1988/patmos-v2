@@ -26,7 +26,7 @@ La palabra que asociamos con la Iglesia está estrechamente ligada a la diosa et
 
 El Estado de la Ciudad del Vaticano fue fundado el 11 de febrero de 1929. Situado en Roma, Italia, es el país independiente más pequeño del mundo por población y superficie. La ciudad tiene una población de alrededor de 840 y un área de aproximadamente 108 acres (44 hectáreas).  
   
-**[El Vaticano](http://www.ritualypropaganda.com/2014/06/el-vaticano-prepara-la-humanidad-para.html)** es un símbolo de la fe católica y su poder e influencia en las personas religiosas no se puede negar, y la autoridad de la Santa Sede se extiende sobre los católicos de todo el mundo. El Palacio del Vaticano, al norte de la basílica de San Pedro, es la residencia del Papa dentro de los muros de la ciudad.  
+**[El Vaticano](/estudios/el-vaticano-prepara-la-humanidad-para)** es un símbolo de la fe católica y su poder e influencia en las personas religiosas no se puede negar, y la autoridad de la Santa Sede se extiende sobre los católicos de todo el mundo. El Palacio del Vaticano, al norte de la basílica de San Pedro, es la residencia del Papa dentro de los muros de la ciudad.  
   
 
 **Nota:** Si deseas recibir más contenido sobre el ocultismo en la iglesia católica, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
@@ -62,7 +62,7 @@ En 1881, el Papa León XIII permitió a los estudiosos visitar los archivos priv
 
 ## Vatika, la Diosa Etrusca del Inframundo
 
-El nombre **[Vaticano](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)** es un verdadero misterio.  
+El nombre **[Vaticano](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-1)** es un verdadero misterio.  
   
 No tiene nada que ver con la Biblia, ni con las lenguas griega o latín. Como muchas otras tradiciones y costumbres cristianas, el nombre que asociamos con la Iglesia tiene un origen pagano.  
   

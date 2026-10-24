@@ -120,7 +120,7 @@ Nada de esto es por accidente. Recuerda siempre, todo el planeta es una etapa ri
 
 La diosa suprema egipcia viste en su cabeza la diabólica e invertida estrella del pentagrama. Observe que los rayos de luz emanan de los dos puntos "cuerno", creando un efecto "V".  
   
-Vea el **[Capítulo 25 de Codex Magica para la discusión de la "V" satánica](https://www.ritualypropaganda.com/2018/08/codex-magica-25-la-senal-v-churchill-druida.html)**. (Ilustración "Isis graba sus misterios". De Histoire de la Magie, por Paul Christian, París, Francia).  
+Vea el **[Capítulo 25 de Codex Magica para la discusión de la "V" satánica](/estudios/codex-magica-25-la-senal-v-churchill-druida)**. (Ilustración "Isis graba sus misterios". De Histoire de la Magie, por Paul Christian, París, Francia).  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDOn8h3ANC3Xgsqz0ZmJ0OS4T7StkA20qoXRMYRgmgd_1Xh6sl8oH3we9accZrVd10_ligg0ChBl_upWTeh-NYWow188Q6qnMWzylbE2nQHYsGs2nWJQOLxY5WMEfhTFUaGUYtzSeG7d4/s1600/codex_134.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDOn8h3ANC3Xgsqz0ZmJ0OS4T7StkA20qoXRMYRgmgd_1Xh6sl8oH3we9accZrVd10_ligg0ChBl_upWTeh-NYWow188Q6qnMWzylbE2nQHYsGs2nWJQOLxY5WMEfhTFUaGUYtzSeG7d4/s1600/codex_134.jpg)
@@ -156,7 +156,7 @@ De hecho, el motivo del asesinato era satánico, no racial. John William King, u
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6MldDxRlBDNubdcJ71YU5ZMhN6wyzAXsd_Sx975oRBjS4cTOUG3zw3K1ODwK3aENf36tD3JXvv8XDXPzXpsDZdfl_uzrFYZjO57_2-i2_G-Auk_dQVl8JoZCqQvYQ9sXSO-7P29nu1o/s1600/codex_138-er1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6MldDxRlBDNubdcJ71YU5ZMhN6wyzAXsd_Sx975oRBjS4cTOUG3zw3K1ODwK3aENf36tD3JXvv8XDXPzXpsDZdfl_uzrFYZjO57_2-i2_G-Auk_dQVl8JoZCqQvYQ9sXSO-7P29nu1o/s1600/codex_138-er1.jpg)
 
   
-Un practicante de la Wicca (defensor de la brujería) rompe una Biblia por la mitad en una reunión de comisionados del condado en Florida. El hombre estaba exigiendo que la Biblia fuera eliminada de la biblioteca pública. Noten la estrella del pentáculo que cuelga de su cuello, un símbolo que representa la adoración del sol. A la izquierda, el mismo hombre se sienta en la audiencia realizando una oración pagana mientras muestra el familiar **[símbolo de "cuernos"](https://www.ritualypropaganda.com/2016/11/codex-magica-7-el-significado-de-la.html)** con ambas manos. Aun así, el abogado de brujas protestó que no practica ni practicará el satanismo o la magia negra.  
+Un practicante de la Wicca (defensor de la brujería) rompe una Biblia por la mitad en una reunión de comisionados del condado en Florida. El hombre estaba exigiendo que la Biblia fuera eliminada de la biblioteca pública. Noten la estrella del pentáculo que cuelga de su cuello, un símbolo que representa la adoración del sol. A la izquierda, el mismo hombre se sienta en la audiencia realizando una oración pagana mientras muestra el familiar **[símbolo de "cuernos"](/estudios/codex-magica-7-el-significado-de-la)** con ambas manos. Aun así, el abogado de brujas protestó que no practica ni practicará el satanismo o la magia negra.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjekQdxuPYGPmUUcRUGlntm9iij1Rtb78u-_Sn1Gk3GzS3BpuIgf3rSrVMS3yRpAOt4orK01l4MzmcMXYXN9dUe69rP4MaMDIsmLcRXdbWDpj0xG0DVqh8P0k0NCwYcJ1zob74kbPBKBIY/s1600/codex_139.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjekQdxuPYGPmUUcRUGlntm9iij1Rtb78u-_Sn1Gk3GzS3BpuIgf3rSrVMS3yRpAOt4orK01l4MzmcMXYXN9dUe69rP4MaMDIsmLcRXdbWDpj0xG0DVqh8P0k0NCwYcJ1zob74kbPBKBIY/s1600/codex_139.jpg)

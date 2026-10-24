@@ -34,7 +34,7 @@ Una sola mano levantada con la palma hacia afuera representa una mano al cielo r
 
 El faraón Ramsés que rinde homenaje al dios Horus, hijo de Osiris, divinidad del sol simbolizada como el ojo que todo lo ve en el reverso del dólar de los EE. UU.  
   
-Posiblemente, el Signo de Admiración y Asombro de los Masones provino de prácticas propias de las antiguas Religiones Místicas de [**Babilonia**](http://www.ritualypropaganda.com/2017/07/creacion-del-genesis-mito-babilonico.html) y Egipto. (Del libro, Otros mundos, de Hilary Evans, Readers Digest Books, 1998)  
+Posiblemente, el Signo de Admiración y Asombro de los Masones provino de prácticas propias de las antiguas Religiones Místicas de [**Babilonia**](/estudios/creacion-del-genesis-mito-babilonico) y Egipto. (Del libro, Otros mundos, de Hilary Evans, Readers Digest Books, 1998)  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn_mA5lWoJtGHBwIFw8CYfmAtLmGV9OPtIfhFe86RzfmxEv2bcOtPIy_NXgJkGSljDcxLzZ3C606J_pQ1tf2P1Gt158fJztUbyoT2oONBqQrokUEEGLLmbTh7pBpIRVaplbLY1MdwUZE/s1600/bcodex_95.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn_mA5lWoJtGHBwIFw8CYfmAtLmGV9OPtIfhFe86RzfmxEv2bcOtPIy_NXgJkGSljDcxLzZ3C606J_pQ1tf2P1Gt158fJztUbyoT2oONBqQrokUEEGLLmbTh7pBpIRVaplbLY1MdwUZE/s1600/bcodex_95.jpg)
@@ -115,7 +115,7 @@ Signo de Admiración, o Asombro, como se practica en el sexto grado de la Real M
 
   
 
-El Consejo de Relaciones Exteriores (CFR), una organización iluminista con sede en Nueva York, tiene en su logo oficial a un **[hombre conquistador y desnudo sobre un caballo blanco](https://www.ritualypropaganda.com/2017/11/el-consejo-de-relaciones-exteriores-cfr.html)**, mientras efectúa la señal de Admiración y Asombro. Los dedos de la mano están apuntando al maestro oculto en las estrellas del CFR. El príncipe de la potestad del aire (Lúcifer). Noten también el gran círculo negro y la inscripción críptica en latín: _ubique_, que significa “en todas partes”.  
+El Consejo de Relaciones Exteriores (CFR), una organización iluminista con sede en Nueva York, tiene en su logo oficial a un **[hombre conquistador y desnudo sobre un caballo blanco](/estudios/el-consejo-de-relaciones-exteriores-cfr)**, mientras efectúa la señal de Admiración y Asombro. Los dedos de la mano están apuntando al maestro oculto en las estrellas del CFR. El príncipe de la potestad del aire (Lúcifer). Noten también el gran círculo negro y la inscripción críptica en latín: _ubique_, que significa “en todas partes”.  
   
 Este logotipo fue impreso en cada edición de las publicaciones oficiales del CFR llamada Foreign Affairs. La temática del hombre sobre el caballo blanco, creo personalmente, viene del capítulo 6 del libro de Revelación: los cuatro jinetes del apocalipsis. El primer jinete viene en un caballo blanco y proclama al mundo “paz”, cuya promesa resulta ser una tremenda mentira.  
   

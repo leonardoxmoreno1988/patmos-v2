@@ -150,7 +150,7 @@ Annie Besant, una comasona (rama femenina), se hizo cargo del culto de la Teosof
 
   
 
-Otra foto de Annie Besant dando la señal. Besant, al igual que sus mentores, el Coronel Olcott y la mística rusa **[Helena Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html)**, creía en la "doctrina pura" de Lucifer, que llamaron la filosofía perenne y la "Doctrina Secreta".  
+Otra foto de Annie Besant dando la señal. Besant, al igual que sus mentores, el Coronel Olcott y la mística rusa **[Helena Blavatsky](/estudios/blavatsky-madame-nueva-era)**, creía en la "doctrina pura" de Lucifer, que llamaron la filosofía perenne y la "Doctrina Secreta".  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQPBWdgRnpGKHGmPDOChvO4Sh-Ousl4qlCRlH8DehzCaSmP05I_Zk41c8w6DKAqG3JrQkJLxCpWeo12XPdCi-oSEKWAIjbC-b59HxdQkeDPkSuJs0XLNrTu9-JjqUVLwPUVi7jj_mylDc/s1600/coodex_67_small.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQPBWdgRnpGKHGmPDOChvO4Sh-Ousl4qlCRlH8DehzCaSmP05I_Zk41c8w6DKAqG3JrQkJLxCpWeo12XPdCi-oSEKWAIjbC-b59HxdQkeDPkSuJs0XLNrTu9-JjqUVLwPUVi7jj_mylDc/s1600/coodex_67_small.jpg)

@@ -186,7 +186,7 @@ La disociación es lograda traumatizando a un sujeto, mediante el abuso sistemá
   
 Los “alters” creados se pueden acceder usando palabras o símbolos de "gatillos" programados en la psique del sujeto por el controlador.  
   
-Algunas de las imágenes internas más comunes entre los esclavos de control mental son árboles, el Árbol cabalístico de la vida, lazos infinitos, antiguos símbolos y letras, telas de araña, espejos, cristales rotos, máscaras, castillos, **[laberintos](http://www.ritualypropaganda.com/2011/10/la-interpretacion-esoterica-de-el.html)**, demonios, mariposas, relojes de arena, relojes y robots.  
+Algunas de las imágenes internas más comunes entre los esclavos de control mental son árboles, el Árbol cabalístico de la vida, lazos infinitos, antiguos símbolos y letras, telas de araña, espejos, cristales rotos, máscaras, castillos, **[laberintos](/estudios/la-interpretacion-esoterica-de-el)**, demonios, mariposas, relojes de arena, relojes y robots.  
   
 Estos símbolos se suelen insertar en películas de la cultura popular y de vídeos por dos razones: para desensibilizar a la mayoría de la población, utilizando subliminales y programación neurolingüística, y para construir deliberadamente desencadenantes específicos y claves para la programación base de niños MONARCA. Algunas de las películas usadas en la programación Monarca incluyen El mago de Oz, Alicia en el País de las Maravillas, Pinocho y la Bella Durmiente.  
   

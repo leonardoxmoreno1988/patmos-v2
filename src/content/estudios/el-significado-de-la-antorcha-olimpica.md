@@ -37,7 +37,7 @@ El origen de la antorcha olímpica proviene de la mitología griega, directament
 
   
 
-Simbólicamente el acto de sostener la antorcha simboliza la adquisición de la "chispa divina", necesaria para convertirse en su propio "dios". Este es el eje central de diversas escuelas místicas y sociedades secretas como la masonería, el rosacrucismo y los **[illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)**. Esta es la antorcha de la iluminación mediante el conocimiento, una iluminación dada también por **[Lucifer](http://www.ritualypropaganda.com/2014/01/quien-es-lucifer-una-historia-de.html)**, que en latín significa "el portador de la luz". Esta supuesta coincidencia se debe a que los dioses griegos eran las mismas entidades mencionadas en la Biblia como dioses paganos, falsos dioses o demonios. Durante el viaje de Pablo para anunciar el evangelio, se encontró con los diversos dioses griegos y las filosofías humanas que estos veneraban.  
+Simbólicamente el acto de sostener la antorcha simboliza la adquisición de la "chispa divina", necesaria para convertirse en su propio "dios". Este es el eje central de diversas escuelas místicas y sociedades secretas como la masonería, el rosacrucismo y los **[illuminati](/estudios/quienes-son-los-illuminati)**. Esta es la antorcha de la iluminación mediante el conocimiento, una iluminación dada también por **[Lucifer](/estudios/quien-es-lucifer-una-historia-de)**, que en latín significa "el portador de la luz". Esta supuesta coincidencia se debe a que los dioses griegos eran las mismas entidades mencionadas en la Biblia como dioses paganos, falsos dioses o demonios. Durante el viaje de Pablo para anunciar el evangelio, se encontró con los diversos dioses griegos y las filosofías humanas que estos veneraban.  
 
 > **"Mientras Pablo los esperaba en Atenas, su espíritu se enardecía viendo la ciudad entregada a la idolatría." - Actos 17:16**
 
@@ -62,7 +62,7 @@ Mucho simbolismo acerca de Prometeo puede ser visto en la sociedad y los medios 
 
   
 
-Como los lectores recurrentes de este blog ya saben, la industria del cine es usada para impulsar estas doctrinas bajo una selección de simbolismos masónicos. Pueden leer acerca del gnosticismo en los artículos sobre las películas "300", "La Invención de Hugo Cabret", "**[Fight Club](http://www.ritualypropaganda.com/2011/11/el-significado-oculto-de-fight-club-y.html)**" y "V for Vendetta". También existen otras representaciones de Prometeo en el cine:  
+Como los lectores recurrentes de este blog ya saben, la industria del cine es usada para impulsar estas doctrinas bajo una selección de simbolismos masónicos. Pueden leer acerca del gnosticismo en los artículos sobre las películas "300", "La Invención de Hugo Cabret", "**[Fight Club](/estudios/el-significado-oculto-de-fight-club-y)**" y "V for Vendetta". También existen otras representaciones de Prometeo en el cine:  
   
   
 
@@ -103,13 +103,13 @@ Muchos podrían pensar que es una exageración llamar a este símbolo "satánico
 
 En los últimos años se ha visto el esfuerzo de los medios masivos por relacionar esta "iluminación" con el contacto extraterrestre, ya sean representados como una amenaza o salvadores de la humanidad, las connotaciones que rodean el tema extraterrestre tratan de ser dirigidas a nuevos descubrimientos de la historia y la evolución humana. La mayoría de estos mensajes son enfocados en asimilar que las antiguas civilizaciones tuvieron contacto con seres extraterrestres, nuevamente bajo la idea de un Dios que desciende del cielo para ayudarlos en su proceso de "iluminación". La más destacable que he visto hasta ahora parece ser la película "Prometheus" de Ridley Scott, aunque la película aún no se estrena, podemos ver en el trailer esta conexión extraterrestre=dioses antiguos=conocimiento.  
   
-Personalmente creo que esta es una gran mentira, no es difícil concluir, con base en la agenda illuminati, que no existen extraterrestres buenos, los **[extraterrestres en general son demonios](http://www.ritualypropaganda.com/2017/02/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados.html)** tomando nuevas formas de acuerdo a los años y de acuerdo al público, en parte ayudados y promovidos por los illuminati y su influencia en los medios de comunicación. Este tema es muy extenso y será tratado a detalle en un próximo artículo sobre la nueva religión mundial.  
+Personalmente creo que esta es una gran mentira, no es difícil concluir, con base en la agenda illuminati, que no existen extraterrestres buenos, los **[extraterrestres en general son demonios](/estudios/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados)** tomando nuevas formas de acuerdo a los años y de acuerdo al público, en parte ayudados y promovidos por los illuminati y su influencia en los medios de comunicación. Este tema es muy extenso y será tratado a detalle en un próximo artículo sobre la nueva religión mundial.  
   
   
 
 ## Olimpiadas de Londres 2012
 
-Respecto al megaevento deportivo Londres 2012 muchas teorías se crearon con base en su simbolismo y su coincidencia con el calendario maya que anunciaba el fin de los tiempos en 2012, algunos mencionaban que podría ser el inicio de la tercera guerra mundial, otros que sería el primer contacto extraterrestre masivo y televisado. Todos estos muy convenientes respecto a la agenda illuminati y sus planes para un **[nuevo orden mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)**. Lo que sí es una realidad es como Londres 2012 fue usado para predisponer a las masas en las enseñanzas esotéricas de la "iluminación".  
+Respecto al megaevento deportivo Londres 2012 muchas teorías se crearon con base en su simbolismo y su coincidencia con el calendario maya que anunciaba el fin de los tiempos en 2012, algunos mencionaban que podría ser el inicio de la tercera guerra mundial, otros que sería el primer contacto extraterrestre masivo y televisado. Todos estos muy convenientes respecto a la agenda illuminati y sus planes para un **[nuevo orden mundial](/estudios/que-es-el-nuevo-orden-mundial)**. Lo que sí es una realidad es como Londres 2012 fue usado para predisponer a las masas en las enseñanzas esotéricas de la "iluminación".  
   
   
 
@@ -135,7 +135,7 @@ A diferencia de otras olimpiadas pasadas, existe un interés en Londres 2012 por
 
 **Las mascotas oficiales de Londres 2012 hacen una obvia referencia al "Ojo Que Todo Lo Ve", un símbolo ancestral sobre la iluminación.**
 
-En el primer corto de animación se ve como estos seres son creación de un padre jubilado que decide darles un obsequio a sus hijos. Estos seres luego cobran vida gracias a un arcoiris que los provee según parece de un alma. Todo este "mágico" cuento es realmente otra adaptación de la historia cabalística del homúnculo, explicado en el análisis "[**La Invención de Hugo Cabret, Un Homenaje Al Control Mental Y El Ocultismo Secreto En Hollywood**](http://www.ritualypropaganda.com/2012/04/la-invencion-de-hugo-cabret-un-homenaje.html)". Luego de cobrar vida estos seres empiezan a sobrevolar Londres y luego por todo el mundo.  
+En el primer corto de animación se ve como estos seres son creación de un padre jubilado que decide darles un obsequio a sus hijos. Estos seres luego cobran vida gracias a un arcoiris que los provee según parece de un alma. Todo este "mágico" cuento es realmente otra adaptación de la historia cabalística del homúnculo, explicado en el análisis "[**La Invención de Hugo Cabret, Un Homenaje Al Control Mental Y El Ocultismo Secreto En Hollywood**](/estudios/la-invencion-de-hugo-cabret-un-homenaje)". Luego de cobrar vida estos seres empiezan a sobrevolar Londres y luego por todo el mundo.  
   
   
 

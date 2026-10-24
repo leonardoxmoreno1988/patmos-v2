@@ -15,7 +15,7 @@ tags: ["Cine y Cultura", "Magia", "Esoterismo", "Illuminati"]
 
   
   
-En la [primera parte](http://www.ritualypropaganda.com/2013/09/ahora-me-ves-el-origen-de-la-magia-y-el.html) exploramos parte de la simbología illuminati de la película "**Now You See Me**". En mucho de su contenido esotérico la verdadera magia se revelaba una sociedad secreta que controla los eventos masivos más importantes. En la segunda parte nos enfocaremos en su fuente de poder y el hermetismo de "El Ojo".
+En la [primera parte](/estudios/ahora-me-ves-el-origen-de-la-magia-y-el-significado-esoterico-de-sus-simbolos-2013-09) exploramos parte de la simbología illuminati de la película "**Now You See Me**". En mucho de su contenido esotérico la verdadera magia se revelaba una sociedad secreta que controla los eventos masivos más importantes. En la segunda parte nos enfocaremos en su fuente de poder y el hermetismo de "El Ojo".
 
   
 
@@ -123,7 +123,7 @@ La magia, al ser prohibida en diversos libros de la Biblia, toma parte del conoc
 
 En la misma línea de tiempo tenemos a Thaddeus Bradley (Dios), quien termina encarcelado por el robo de Dylan Rhodes y los cuatro jinetes. En un claro ejemplo de gnosticismo podemos ver como se invierte la historia, ya que al final de los tiempos, realmente es Satanás quien termina encerrado en el abismo (**[Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** 20:1-3). La película simbólicamente invierte el futuro de las profecías haciendo ganador a Lúcifer y a sus seguidores. Esto se denomina hermenéutica invertida, y como se ha demostrado en varios artículos, es muy usada hasta el cansancio en las películas illuminati.  
   
-Nota: El actor Morgan Freeman, como muchos actores, está muy vinculado con personajes gnósticos. Fue literalmente "dios" en la película "Todopoderoso" junto a Jim Carrey y también toma el papel de Lúcifer en el análisis de la película ["Oblivion": Una Versión Postapocalíptica Sobre La Manipulación Genética](https://www.ritualypropaganda.com/2013/05/oblivion-una-version-post-apocaliptica.html)  
+Nota: El actor Morgan Freeman, como muchos actores, está muy vinculado con personajes gnósticos. Fue literalmente "dios" en la película "Todopoderoso" junto a Jim Carrey y también toma el papel de Lúcifer en el análisis de la película ["Oblivion": Una Versión Postapocalíptica Sobre La Manipulación Genética](/estudios/oblivion-una-version-post-apocaliptica)  
 
 ## La Ley Definitiva
 

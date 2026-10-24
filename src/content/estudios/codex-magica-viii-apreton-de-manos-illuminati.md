@@ -50,7 +50,7 @@ Por ejemplo, el Dr. Burns cita a Albert Mackey, 33 °, ex Soberano Gran Comandan
 > **"La mano derecha ha sido considerada en todas las edades como un emblema de la fidelidad, y nuestros antiguos hermanos adoraban a la Deidad bajo el nombre de Fides o Fidelity, que a veces era representada por dos manos derechas unidas..." (1)**
 
   
-Numa fue el primero en erigir un altar a Fides bajo cuyo nombre se adoraba a la diosa de los **[Juramentos](http://www.ritualypropaganda.com/2017/07/codex-magica-14-silencio-senal-significado.html)** y la Honestidad.  
+Numa fue el primero en erigir un altar a Fides bajo cuyo nombre se adoraba a la diosa de los **[Juramentos](/estudios/codex-magica-14-silencio-senal-significado)** y la Honestidad.  
   
 Burns señala que esta referencia a la adoración de la diosa pagana romana es literalmente repetida por el iniciado en el primer grado del ritual masónico.  
   
@@ -104,7 +104,7 @@ He hecho todo lo posible por tener en cuenta todos estos factores incontrolables
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQXNEGeSOMv3d3tD2gPDhrH4GAWjTJPx0Ko18aCaKlEm-OKqf2jbKTcPD2im02biPXO7De5TN9FgDdGEq571-_sPx68PKhtuDcl4JoWNO7UGzlyrlz-onvALi8yZawBW0IeTWmPsbe4I/s1600/gadafi-toni-blair-masones.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQXNEGeSOMv3d3tD2gPDhrH4GAWjTJPx0Ko18aCaKlEm-OKqf2jbKTcPD2im02biPXO7De5TN9FgDdGEq571-_sPx68PKhtuDcl4JoWNO7UGzlyrlz-onvALi8yZawBW0IeTWmPsbe4I/s1600/gadafi-toni-blair-masones.jpg)
 
 >   
-> El 26 de marzo, los periódicos británicos llevaron un cuadro enorme del "momento del apretón" de Tony Blair con el dictador libio, Muammar Qadhaffi. Antes de proseguir, hay que decir que estos primeros planos del rostro de Qadhaffi revelan que este hombre está cargado con las fisiognomías más malignas registradas - mucho más desagradables que las de **[Adolf Hitler](http://www.ritualypropaganda.com/2017/05/hitler-era-cristiano-historiadores-dicen-no.html)** y Saddam Hussein combinadas: de hecho, Saddam parece bastante benevolente al lado de este criatura.  
+> El 26 de marzo, los periódicos británicos llevaron un cuadro enorme del "momento del apretón" de Tony Blair con el dictador libio, Muammar Qadhaffi. Antes de proseguir, hay que decir que estos primeros planos del rostro de Qadhaffi revelan que este hombre está cargado con las fisiognomías más malignas registradas - mucho más desagradables que las de **[Adolf Hitler](/estudios/hitler-era-cristiano-historiadores-dicen-no)** y Saddam Hussein combinadas: de hecho, Saddam parece bastante benevolente al lado de este criatura.  
 >   
 > Por su parte, Blair parecía extremadamente incómodo, con los ojos llorosos, y su cara se tensó después de lo que pudo haber sido algún encuentro indescriptible (peor escenario). Debajo de la imagen principal, The Times se tomó la molestia de darnos tres primeros planos más pequeños del "momento del apretón" - la dirección del periódico estaba claramente firmada, de antemano, con la importancia de estos nuevos apretones de manos de la Orden del Submundo.
 
@@ -500,7 +500,7 @@ El presidente Bill Clinton se reúne en 1995 con el Papa Juan Pablo II. El Papa 
   
 "Algunos cristianos se han preguntado por qué el Papa Juan Pablo II parecía usar un gesto de mano cuando fue fotografiado con Gorbachov en 1989 que era similar al apretón real del Maestro Masón (un apretón mostrado en Duncan's Masonic Ritual and Monitor, edición 3d, 1976) y Star Trek Spock 'Vulcan Salute' ".  
   
-(Dr. Dennis Cuddy, Ahora es el amanecer del Nuevo Orden Mundial de la _[Nueva Era](http://www.ritualypropaganda.com/2017/04/10-ideas-falsas-nueva-era-sobre-dios.html)_, Hearthstone Pub., Oklahoma City, OK, 1991, página 387)  
+(Dr. Dennis Cuddy, Ahora es el amanecer del Nuevo Orden Mundial de la _[Nueva Era](/estudios/10-ideas-falsas-nueva-era-sobre-dios)_, Hearthstone Pub., Oklahoma City, OK, 1991, página 387)  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBP3QqWn6HmLGr7rr7VOf8Qf97XHLN1sGcjBljkIh77nfwhtckj-UkjFJaUGrTm5lw08nGdPsazYzmzKK6Vi5UO8CBOXs3chrHJha6q7rtU9hsPJ5mkJxR0h1wwZo-BX79OFH-CMoED2s/s1600/acodex_88.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBP3QqWn6HmLGr7rr7VOf8Qf97XHLN1sGcjBljkIh77nfwhtckj-UkjFJaUGrTm5lw08nGdPsazYzmzKK6Vi5UO8CBOXs3chrHJha6q7rtU9hsPJ5mkJxR0h1wwZo-BX79OFH-CMoED2s/s1600/acodex_88.jpg)

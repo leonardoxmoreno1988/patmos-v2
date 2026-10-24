@@ -34,7 +34,7 @@ No es su culpa que el padre fuera un criminal. No es culpa suya el haber sido co
   
 La administración de la pena capital podría justificarse para el violador, pero no para el niño inocente. En casos de violación, las mujeres necesitan toda la comunidad y todos los recursos familiares disponibles para reunirse a su alrededor. Las víctimas de violación necesitan mucho tiempo, mucha comprensión.  
   
-Y no hay manera de deshacer lo que se ha hecho. Pero **[matar a un bebé](http://www.ritualypropaganda.com/2017/03/bebe-en-utero-aquello-que-se-aborta.html)** añade injusticia a la injusticia, ¿no? La madre ya ha sido victimizada, no puede ser mejor el victimizar a otra persona.  
+Y no hay manera de deshacer lo que se ha hecho. Pero **[matar a un bebé](/estudios/bebe-en-utero-aquello-que-se-aborta)** añade injusticia a la injusticia, ¿no? La madre ya ha sido victimizada, no puede ser mejor el victimizar a otra persona.  
   
 Además, el aborto es el mejor amigo del violador. El aborto destruye la evidencia, que efectivamente silencia a dos testigos. Y permite que la apariencia del embarazo sea borrada antes de que se pregunten: "¿Quién es el padre?"  
   

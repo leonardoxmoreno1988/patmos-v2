@@ -44,7 +44,7 @@ El portavoz del Partido Republicano y ex Presidente de la Cámara Newt Gingrich,
   
 Jason Alexander, quien interpretó al adorable perdedor "George Costanza" en el programa, posó para la revista TV Guide en una descarada posición de cuerpo cabalístico. Además, sus manos izquierda y derecha dieron el signo con cuernos "El Diablo" en un gesto de "Como es arriba, es abajo".  
   
-Michael Richards, quien interpretó al pícaro "Kramer" en Seinfeld, también parece entusiasmarse al dar **[saludos de mano y gestos masculinos y masónicos](http://www.ritualypropaganda.com/2016/12/codex-magica-viii-apreton-de-manos-illuminati.html)**. Richards fue fotografiado en la portada del Scottish Rite Journal, y dentro de la publicación, contó lo satisfecho que está de ser un masón. **(3)**  
+Michael Richards, quien interpretó al pícaro "Kramer" en Seinfeld, también parece entusiasmarse al dar **[saludos de mano y gestos masculinos y masónicos](/estudios/codex-magica-viii-apreton-de-manos-illuminati)**. Richards fue fotografiado en la portada del Scottish Rite Journal, y dentro de la publicación, contó lo satisfecho que está de ser un masón. **(3)**  
   
 Leonard Nimoy de Star Trek ("Mr. Spock") es avistado constantemente en poses cabalísticas. Su famoso signo de mano Vulcano en la serie de televisión fue en realidad la letra hebrea, Shin. **(4)**  
   
@@ -83,7 +83,7 @@ Lamentablemente, las abominaciones se multiplican en la religión judía del sig
 
 ## La Logía Masónica y La Cabala
 
-La **[masonería ha elogiado a la Cábala](http://www.ritualypropaganda.com/2017/04/plan-de-lucifer-impulso-cabala-francmasoneria.html)**, y sus altos funcionarios han admitido que los rituales y las enseñanzas de la Logia no son más que el fruto de la tradición judía. Albert Pike, ex Soberano Gran Comandante del Rito Escocés, escribió: "Uno está lleno de admiración, al penetrar en el Santuario de la Cábala". **(6**)  
+La **[masonería ha elogiado a la Cábala](/estudios/plan-de-lucifer-impulso-cabala-francmasoneria)**, y sus altos funcionarios han admitido que los rituales y las enseñanzas de la Logia no son más que el fruto de la tradición judía. Albert Pike, ex Soberano Gran Comandante del Rito Escocés, escribió: "Uno está lleno de admiración, al penetrar en el Santuario de la Cábala". **(6**)  
   
 El estudio del grado de los Caballeros de Kadosh (30 °) ilustra la cantidad que la Masonería le debe a la Cábala. Ed Decker, director de _Free the Masons Ministries_, informa que los adornos de este ritual de grado son "abiertamente siniestros" e incorporan un "alto nivel de simbolismo cabalístico".  
   
@@ -115,7 +115,7 @@ El periódico Jewish Tribune, en 1927, en un editorial, declaró:
   
 Ray Novosel, escribiendo desde Australia en 2004, declara:  
   
-Los líderes mundiales sionistas, hombres en posiciones influyentes con las diversas organizaciones masónicas en todas partes, han trabajado "mano a mano" para una revolución mundial universal, que traerá la Iglesia Unica Mundial y un **[Gobierno Mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)**. Muchas logias masónicas son exclusivamente judías, al igual que las B'nai B'rith Lodges que controlan, la madre de la infame y muy peligrosa Liga contra la Difamación (ADL). **(12)**  
+Los líderes mundiales sionistas, hombres en posiciones influyentes con las diversas organizaciones masónicas en todas partes, han trabajado "mano a mano" para una revolución mundial universal, que traerá la Iglesia Unica Mundial y un **[Gobierno Mundial](/estudios/que-es-el-nuevo-orden-mundial)**. Muchas logias masónicas son exclusivamente judías, al igual que las B'nai B'rith Lodges que controlan, la madre de la infame y muy peligrosa Liga contra la Difamación (ADL). **(12)**  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvdFdT493H4umjgfXicIJSFf4Bz_MbeyH_XgSMAzqCtZchrmec65W61JtS9mk6dWS1MQ8O1b2XHt5gFAnpnM5c_ujQ4meY4yxVzeijMy8ILwwUNFEEgtDieUlmUqrg9GFIH7O6GV81GM/s1600/fcodex_94.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvdFdT493H4umjgfXicIJSFf4Bz_MbeyH_XgSMAzqCtZchrmec65W61JtS9mk6dWS1MQ8O1b2XHt5gFAnpnM5c_ujQ4meY4yxVzeijMy8ILwwUNFEEgtDieUlmUqrg9GFIH7O6GV81GM/s1600/fcodex_94.png)

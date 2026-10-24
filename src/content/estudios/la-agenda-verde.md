@@ -43,7 +43,7 @@ La conciencia ambiental se considera la marca de cualquier buen ciudadano honest
 
 > **"Nos enfrentamos a un colapso ecológico catastrófico inminente" y "nuestra única esperanza es transformar a la humanidad en una sociedad global interdependiente sostenible, basada en el respeto y la reverencia por la Tierra"**
 
-Al final, hay dos conclusiones: o el CDR escribió todos estos informes y creó una amplia red de organizaciones de apoyo solo por diversión o realmente creen lo que han escrito y están trabajando arduamente para cumplir su papel como los autoproclamados salvadores de [Gaia](https://www.ritualypropaganda.com/2017/08/gaia-la-religion-pagana-de-la-madre.html).
+Al final, hay dos conclusiones: o el CDR escribió todos estos informes y creó una amplia red de organizaciones de apoyo solo por diversión o realmente creen lo que han escrito y están trabajando arduamente para cumplir su papel como los autoproclamados salvadores de [Gaia](/estudios/gaia-la-religion-pagana-de-la-madre).
 
 Entonces, ¿Qué es exactamente el Club de Roma y quiénes son sus miembros? Fundado en 1968 en la finca de David Rockefeller en Bellagio, Italia, el CDR se describe a sí mismo como "un grupo de ciudadanos del mundo, que comparten una preocupación común por el futuro de la humanidad". Se compone de Jefes de Estado actuales y anteriores, burócratas de la ONU, políticos de alto nivel y funcionarios gubernamentales, diplomáticos, científicos, economistas y líderes empresariales de todo el mundo.
 

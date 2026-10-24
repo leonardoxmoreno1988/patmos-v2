@@ -32,7 +32,7 @@ Paradójicamente, cuando las hembras rechazan al macho, usurpan el papel masculi
 
 ## Lilith, la primera feminista
 
-Inocentes como Anna Montrose son las víctimas del feminismo, que tiene sus raíces en la tradición cabalística oculta y gnóstica que desplaza a Dios y rechaza el matrimonio y la familia como impedimentos al sexo libre y el control de la sociedad oculta. (**[La Cábala](http://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html)** y el gnosticismo son la base de la masonería, a su vez, la base del liberalismo moderno, el comunismo, el socialismo, el fascismo, el sionismo y el feminismo.)  
+Inocentes como Anna Montrose son las víctimas del feminismo, que tiene sus raíces en la tradición cabalística oculta y gnóstica que desplaza a Dios y rechaza el matrimonio y la familia como impedimentos al sexo libre y el control de la sociedad oculta. (**[La Cábala](/estudios/significado-cabala-peligros-respuestas)** y el gnosticismo son la base de la masonería, a su vez, la base del liberalismo moderno, el comunismo, el socialismo, el fascismo, el sionismo y el feminismo.)  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvElgll3RiOwkNNKkEHoJZ0dgwlqfQXFddGk2Kp6uLiTCl8cutP57UTo5zsMNHh7366BIOsPCTvaM_38A-8QzeQeP7ta9IQTcFnejGiKcJHvAgtfSuxMxZU5oz1BE3uDCdzc7qreoMadQ/s1600/lilith1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvElgll3RiOwkNNKkEHoJZ0dgwlqfQXFddGk2Kp6uLiTCl8cutP57UTo5zsMNHh7366BIOsPCTvaM_38A-8QzeQeP7ta9IQTcFnejGiKcJHvAgtfSuxMxZU5oz1BE3uDCdzc7qreoMadQ/s1600/lilith1.jpg)
@@ -53,7 +53,7 @@ La negativa de Lilith de estar debajo de Adán es el equivalente en la tierra de
   
 El hombre sirve a Dios. La mujer sirve a la familia. De esta manera, ambos son útiles y sus vidas tienen significado.  
   
-Recomiendo leer: [La "Magia Es Ciencia" Y Como Hollywood Prepara La Nueva Doctrina Masónica](http://www.ritualypropaganda.com/2011/09/la-magia-es-ciencia-y-como-hollywood.html)  
+Recomiendo leer: [La "Magia Es Ciencia" Y Como Hollywood Prepara La Nueva Doctrina Masónica](/estudios/la-magia-es-ciencia-y-como-hollywood)  
   
 Pero la tradición gnóstica / kabalística desea derrocar a Dios y la naturaleza y sustituir la regla de (algunos) hombres. El nuevo orden mundial es la culminación de esta tradición satánica.  
   

@@ -54,13 +54,13 @@ Cooper fue asesinado por un equipo combinado de la policía federal y local que 
 
   
 
-> **"Según miembros de la comunidad de inteligencia, cuando el [Nuevo Orden Mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html) se solidifique, las reliquias se eliminarán, se unirán con la Lanza del Destino y, según la leyenda, darán al gobernante del mundo poder absoluto... De nuevo, te recuerdo que no hace ni un ápice de diferencia lo que crees. Si ellos (los Illuminati) lo creen, te verás afectado." (3)**
+> **"Según miembros de la comunidad de inteligencia, cuando el [Nuevo Orden Mundial](/estudios/que-es-el-nuevo-orden-mundial) se solidifique, las reliquias se eliminarán, se unirán con la Lanza del Destino y, según la leyenda, darán al gobernante del mundo poder absoluto... De nuevo, te recuerdo que no hace ni un ápice de diferencia lo que crees. Si ellos (los Illuminati) lo creen, te verás afectado." (3)**
 
   
 
 ## La lanza como pentagrama y Trueno
 
-La lanza es un símbolo de larga data en las antiguas religiones paganas y misteriosas. En la religión egipcia, se llamaba la Flecha de Re, o Ra, el Dios Sol, que también se llamaba Horus, hijo de Osiris y su reencarnación, que tenía el **[ojo que todo lo ve](http://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html)**.  
+La lanza es un símbolo de larga data en las antiguas religiones paganas y misteriosas. En la religión egipcia, se llamaba la Flecha de Re, o Ra, el Dios Sol, que también se llamaba Horus, hijo de Osiris y su reencarnación, que tenía el **[ojo que todo lo ve](/estudios/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros)**.  
   
 Anton LaVey, en su libro _Satan Speaks_, señala que el signo de la lanza es en realidad el pentagrama invertido. A su vez, el pentagrama **(4)** (la estrella satánica de cinco puntas), según LaVey, representa:
 
@@ -113,7 +113,7 @@ Cuando se coloca en o cerca del área de la vulva femenina o el área genital ma
 
   
 
-Página de título del _Diccionario de símbolos y objetos sagrados para mujeres_ de Barbara Walker. Dentro, Walker identificó el símbolo que se muestra como el **[Ojo del Dragón](http://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html)**. Ella informa que el Ojo del Dragón forma un triple **[triángulo](http://www.ritualypropaganda.com/2017/10/codex-magica-17-triangulos.html)**, sagrado para la Diosa, y que este símbolo aparece a menudo en los libros medievales de magia, para invocar la protección de espíritus y entidades femeninas.  
+Página de título del _Diccionario de símbolos y objetos sagrados para mujeres_ de Barbara Walker. Dentro, Walker identificó el símbolo que se muestra como el **[Ojo del Dragón](/estudios/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros)**. Ella informa que el Ojo del Dragón forma un triple **[triángulo](http://www.ritualypropaganda.com/2017/10/codex-magica-17-triangulos.html)**, sagrado para la Diosa, y que este símbolo aparece a menudo en los libros medievales de magia, para invocar la protección de espíritus y entidades femeninas.  
   
 
 De hecho, el Ojo del Dragón tiene un notable parecido con el Signo de la Punta de Lanza, y el nombre Ojo de Dragón es apropiado, de hecho.
@@ -232,7 +232,7 @@ El actor Jack Bolger, que interpretó al Hombre de hojalata en el clásico drama
 
   
 
-El actor Danny Glover, notorio por su activismo político liberal marxista, envía un mensaje cabalístico a través de la revista AARP, también conocida por su **[agenda marxista y judía](http://www.ritualypropaganda.com/2016/09/la-serpiente-es-simbolo-del-judaismo.html)**. Glover está señalando a los espíritus ocultistas profundos para potenciar su búsqueda.
+El actor Danny Glover, notorio por su activismo político liberal marxista, envía un mensaje cabalístico a través de la revista AARP, también conocida por su **[agenda marxista y judía](/estudios/la-serpiente-es-simbolo-del-judaismo)**. Glover está señalando a los espíritus ocultistas profundos para potenciar su búsqueda.
 
   
 

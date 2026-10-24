@@ -53,8 +53,8 @@ La sede de la **[Internacional Comunista Capitalista](http://www.savethemales.ca
   
 ¿Fue Canaris un Illuminati o un incauto illuminati? Al parecer quería derrocar a Hitler y poner fin a la guerra pronto, pero los aliados insistieron en la "rendición incondicional", es decir, la máxima masacre. Ninguna fuerza nacionalista debía permanecer. El ejército alemán no tuvo más remedio que luchar hasta el final.  
   
-**También Leer: [La Mano Oculta Que Moldeó La Historia](http://www.ritualypropaganda.com/2011/11/la-mano-oculta-que-moldeo-la-historia.html)**  
+**También Leer: [La Mano Oculta Que Moldeó La Historia](/estudios/la-mano-oculta-que-moldeo-la-historia)**  
   
 No veo la Segunda Guerra Mundial como "la guerra buena". Fue fabricada para concentrar la riqueza y el poder, y para degradar y desmoralizar a la humanidad. Ambas partes eran culpables de atrocidades indecibles.  
   
-Las dos grandes guerras, y la potencial tercera, se destinarán a promover la dictadura Illuminati de un solo mundo y bajo su **[control mental](http://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html)**. La humanidad está en las garras de una conspiración diabólica multigeneracional, y está demasiado fascinada por el sexo y el dinero para darse cuenta de ello.
+Las dos grandes guerras, y la potencial tercera, se destinarán a promover la dictadura Illuminati de un solo mundo y bajo su **[control mental](/estudios/significado-cabala-peligros-respuestas)**. La humanidad está en las garras de una conspiración diabólica multigeneracional, y está demasiado fascinada por el sexo y el dinero para darse cuenta de ello.

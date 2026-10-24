@@ -66,7 +66,7 @@ Podría ser interesante tener en cuenta que Lippmann es uno de los padres fundad
 
   
 
-Algunos miembros actuales de la CFR incluyen a David Rockefeller, Dick Cheney, Barack Obama, Hillary Clinton, el pastor Rick Warren y los directores ejecutivos de grandes corporaciones como CBS, Nike, [**Coca-Cola**](https://www.ritualypropaganda.com/2012/04/verdades-que-usted-debe-conocer-antes.html) y Visa.
+Algunos miembros actuales de la CFR incluyen a David Rockefeller, Dick Cheney, Barack Obama, Hillary Clinton, el pastor Rick Warren y los directores ejecutivos de grandes corporaciones como CBS, Nike, [**Coca-Cola**](/estudios/verdades-que-usted-debe-conocer-antes) y Visa.
 
   
 

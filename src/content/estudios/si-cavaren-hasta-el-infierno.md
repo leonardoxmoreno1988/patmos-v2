@@ -35,7 +35,7 @@ El origen del infierno fue el resultado de la devastación que sobrevino tras el
   
 Aunque Satanás no está encerrado en el infierno ahora, lo estará en el futuro, durante el tiempo del Milenio (Revelación 20:1-3). Los ángeles caídos sí están en el infierno, “reservados al juicio” (2 Pedro 2:4), y en el Juicio del Trono Blanco, el infierno será “lanzado en el lago de fuego” (Revelación 20:14).  
   
-Relacionado con esto, la Biblia enseña que el hombre tiene [cuerpo, alma y espíritu](https://www.ritualypropaganda.com/2023/02/cuerpo-alma-espiritu.html) (1 Tesalonicenses 5:23). Al morir, el alma se separa del cuerpo (Génesis 35:18; Lucas 12:20; 2 Corintios 12:2-3; Filipenses 1:23). En toda la historia las almas perdidas van al infierno cuando el cuerpo muere (Salmo 9:17; 55:15; Lucas 16:22-23).  
+Relacionado con esto, la Biblia enseña que el hombre tiene [cuerpo, alma y espíritu](/estudios/cuerpo-alma-espiritu) (1 Tesalonicenses 5:23). Al morir, el alma se separa del cuerpo (Génesis 35:18; Lucas 12:20; 2 Corintios 12:2-3; Filipenses 1:23). En toda la historia las almas perdidas van al infierno cuando el cuerpo muere (Salmo 9:17; 55:15; Lucas 16:22-23).  
   
 Incluso cuando un hombre justo moría antes de la Era de la Iglesia, iba al “paraíso” si era gentil (Lucas 23:43) y al “seno de Abraham” si era judío (Lucas 16:22).  
   
@@ -50,7 +50,7 @@ Cuando descendió a las partes más bajas de la tierra (Efesios 4:9), llevó cau
 > "Y el que subió, ¿qué es, sino que también había descendido primero a las partes inferiores de la tierra?"  
 > –Efesios 4:9
 
-En el Hades Cristo también predicó a los espíritus encarcelados (1 Pedro 3:19). Estos espíritus provienen de la época de Noé (1 Pedro 3:20) y podrían ser los hijos caídos de Dios (Génesis 6:2-4), ya que a los ángeles también se les llama espíritus (Hebreos 1:7), y sabemos que los ángeles caídos están reservados para juicio en [prisiones eternas](http://www.ritualypropaganda.com/2022/04/angeles-no-guardaron-dignidad.html) (2 Pedro 2:4; Judas 6).  
+En el Hades Cristo también predicó a los espíritus encarcelados (1 Pedro 3:19). Estos espíritus provienen de la época de Noé (1 Pedro 3:20) y podrían ser los hijos caídos de Dios (Génesis 6:2-4), ya que a los ángeles también se les llama espíritus (Hebreos 1:7), y sabemos que los ángeles caídos están reservados para juicio en [prisiones eternas](/estudios/angeles-no-guardaron-dignidad) (2 Pedro 2:4; Judas 6).  
   
 También es posible que tales espíritus encarcelados sean los descendientes de “los hijos de Dios” y “las hijas de los hombres”, llamados Nefilim (Génesis 6:1-4).  
   

@@ -59,7 +59,7 @@ La llegada del gobierno mundial se está creando en la arena política bajo la b
 
 [Los Illuminati y el Nuevo Orden Mundial](http://www.tiemposprofeticos.org/los-illuminatis-y-el-nuevo-orden-mundial/)  
 [La Profecía Bíblica y El Nuevo Orden Mundial (Video)](http://www.ritualypropaganda.com/2016/02/profecia-biblica-nuevo-orden-mundial.html)  
-[H.G. Wells Profeta Del Nuevo Orden Mundial](http://www.ritualypropaganda.com/2011/05/hg-wells-profeta-del-nuevo-orden.html)  
+[H.G. Wells Profeta Del Nuevo Orden Mundial](/estudios/hg-wells-profeta-del-nuevo-orden)  
   
   
 
@@ -71,7 +71,7 @@ Han surgido muchas sociedades secretas durante la historia que han aportado para
 
 ### Los Illuminati de Baviera
 
-Sociedad que fue fundada en la década de 1760 por un hombre llamado Adam Weishaupt, quién desertó de la iglesia católica y organizó la sociedad de **[los Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)**, financiado por los banqueros internacionales. Desde entonces, de acuerdo con los Illuminati, su principal meta ha sido lograr un "gobierno mundial " y someter a todas las religiones y los gobiernos en el proceso. Por tanto, a los Illuminati se les atribuyen todas las guerras desde la Revolución Francesa como si hubieran sido fomentada por ellos en la búsqueda de sus objetivos.
+Sociedad que fue fundada en la década de 1760 por un hombre llamado Adam Weishaupt, quién desertó de la iglesia católica y organizó la sociedad de **[los Illuminati](/estudios/quienes-son-los-illuminati)**, financiado por los banqueros internacionales. Desde entonces, de acuerdo con los Illuminati, su principal meta ha sido lograr un "gobierno mundial " y someter a todas las religiones y los gobiernos en el proceso. Por tanto, a los Illuminati se les atribuyen todas las guerras desde la Revolución Francesa como si hubieran sido fomentada por ellos en la búsqueda de sus objetivos.
 
   
 
@@ -243,9 +243,9 @@ Otras organizaciones, entidades y grupos religiosos pueden verse en el Organigra
   
   
 **Recomiendo leer:**  
-[**Las 10 Sociedades Secretas Que Influyen En Tu Vida Y Debes Conocer**](http://www.ritualypropaganda.com/2015/09/las-10-sociedades-secretas-que-influyen.html)  
-[**J.R.R Tolkien Y Las Connotaciones Ocultas Del "Señor De Los Anillos"**](http://www.ritualypropaganda.com/2011/08/jrr-tolkien-y-las-connotaciones-ocultas.html)  
-**[La Mentalidad Illuminati](http://www.ritualypropaganda.com/2012/03/la-mentalidad-illuminati.html)**  
+[**Las 10 Sociedades Secretas Que Influyen En Tu Vida Y Debes Conocer**](/estudios/las-10-sociedades-secretas-que-influyen)  
+[**J.R.R Tolkien Y Las Connotaciones Ocultas Del "Señor De Los Anillos"**](/estudios/jrr-tolkien-y-las-connotaciones-ocultas)  
+**[La Mentalidad Illuminati](/estudios/la-mentalidad-illuminati)**  
   
   
 

@@ -299,7 +299,7 @@ Helen Keller con Alexander Graham Bell. Keller escribió un libro, _My Religion_
 
   
 
-Estos sellos postales estadounidenses que representan la señal de "Yo te amo" de los sordos son impactantes, por decir lo menos. La inventora del sistema de señas fue la misma ocultista y devota de la Teosofía, el grupo hindú/oculto fundado por la mística rusa **[Helena Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html)**, autora de _La Doctrina Secreta_.  
+Estos sellos postales estadounidenses que representan la señal de "Yo te amo" de los sordos son impactantes, por decir lo menos. La inventora del sistema de señas fue la misma ocultista y devota de la Teosofía, el grupo hindú/oculto fundado por la mística rusa **[Helena Blavatsky](/estudios/blavatsky-madame-nueva-era)**, autora de _La Doctrina Secreta_.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEPEba1VjKsTIwbTeHVEuNLMsMczGr19Fl7rwXmYMZVTORQyzfOS4kTthZSRGWCedoYbHPHlgIwwSKYgApvxChNu8iDsJNxmapOF1i7rPm6lCI8xU0VRDDgLYu0duJGKwemokI04haoSI/s1600/acodex_25_small.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEPEba1VjKsTIwbTeHVEuNLMsMczGr19Fl7rwXmYMZVTORQyzfOS4kTthZSRGWCedoYbHPHlgIwwSKYgApvxChNu8iDsJNxmapOF1i7rPm6lCI8xU0VRDDgLYu0duJGKwemokI04haoSI/s1600/acodex_25_small.jpg)

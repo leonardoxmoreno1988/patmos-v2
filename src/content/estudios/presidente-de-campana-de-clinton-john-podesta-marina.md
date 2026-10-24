@@ -51,7 +51,7 @@ Sí, el proceso involucra cubos de sangre de cerdo congelada. Marina pinta en la
 
   
 
-"Cena Espiritual" se refiere "a un sacramento en la religión de Thelema que fue fundado por **[Aleister Crowley](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**" e implica el funcionamiento oculto durante el cual la sangre menstrual, la leche materna, la orina y el esperma se utilizan para crear una "pintura".  
+"Cena Espiritual" se refiere "a un sacramento en la religión de Thelema que fue fundado por **[Aleister Crowley](/estudios/aleister-crowley-666-biografia-cultura-popular)**" e implica el funcionamiento oculto durante el cual la sangre menstrual, la leche materna, la orina y el esperma se utilizan para crear una "pintura".  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4pVrQPNJr_fpQ5Bq0OMZ0vzgTBpogbT8O3KZm7Id3jIHq1y9urlHhvWlclhdSoM2h3bZUTRDI8f0ZamzekAUoptv4O-jqC3YkgpW6qcA1PB0AbnrmupyJElwN8ej9eJ-PvKF46LZYQHY/s1600/cocina-sangre2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4pVrQPNJr_fpQ5Bq0OMZ0vzgTBpogbT8O3KZm7Id3jIHq1y9urlHhvWlclhdSoM2h3bZUTRDI8f0ZamzekAUoptv4O-jqC3YkgpW6qcA1PB0AbnrmupyJElwN8ej9eJ-PvKF46LZYQHY/s1600/cocina-sangre2.jpg)

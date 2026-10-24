@@ -37,7 +37,7 @@ El primero es la corrupción y la violencia. El Génesis dice que el mundo estab
 > “Y corrompióse la tierra delante de Dios, e hinchióse la tierra de violencia. Y vió Dios la tierra, y he aquí que estaba corrompida, porque toda carne había corrompido su camino sobre la tierra. Y dijo Dios a Noé: El fin de toda carne ha venido delante de mí: porque la tierra está llena de violencia delante de ellos: y he aquí que yo los destruyo a ellos con la tierra.”  
 > –Génesis 6:11-13
 
-No necesitamos convencernos de que nuestro mundo es como una manzana en descomposición. Desde la agenda LGTB+, hasta los [asesinatos de bebés](https://www.ritualypropaganda.com/2015/09/institucion-pro-abortos-planned.html) por medio del aborto, llegando a los crímenes de guerra que se están cometiendo ahora mismo en distintos países, no es exagerado describir nuestro mundo como uno violento y amoral. La tecnología avanza al mismo tiempo que la humanidad decae al punto de no retorno (Daniel 12:4).  
+No necesitamos convencernos de que nuestro mundo es como una manzana en descomposición. Desde la agenda LGTB+, hasta los [asesinatos de bebés](/estudios/institucion-pro-abortos-planned) por medio del aborto, llegando a los crímenes de guerra que se están cometiendo ahora mismo en distintos países, no es exagerado describir nuestro mundo como uno violento y amoral. La tecnología avanza al mismo tiempo que la humanidad decae al punto de no retorno (Daniel 12:4).  
   
 El segundo paralelo es un remanente fiel. A pesar de la violencia y la inmoralidad de la época de Noé, quedó un remanente justo que vivía para Dios. Noé caminó con Dios, al igual que los miembros de su familia. Un remanente de cristianos todavía existe hoy (Romanos 11:4-5). Dependiendo de dónde viva, esto puede ser difícil de creer.  
   
@@ -46,7 +46,7 @@ Pero en el mundo moderno muchos se autodenominan cristianos. ¿Son todos salvos?
 Estamos hablando del rebaño del cual Jesús dijo: "Mis ovejas oyen mi voz, y yo las conozco, y me siguen" (Juan 10:27). Es el Señor mismo quien los pastorea y los guía, a menudo en dirección contraria al mundo dirigido por Satanás. Pero ellos le siguen, porque "no conocen la voz de los extraños" (Juan 10:5). Estos son días de apostasía, pero todavía existe tal remanente.
 
   
-El tercer paralelo señala que el remanente no estará aquí permanentemente. Enoc fue arrebatado al cielo antes del diluvio de Noé como un tipo del arrebatamiento de la Iglesia (Génesis 5:24). Como defensor de la postura pretribulacionista, creo que la trompeta sonará y el **[rapto ocurrirá](https://www.ritualypropaganda.com/2022/02/rapto-arrebatamiento.html)** en “un abrir y cerrar de ojos”. Los seguidores de Cristo desaparecerán (1 Corintios 15:52).  
+El tercer paralelo señala que el remanente no estará aquí permanentemente. Enoc fue arrebatado al cielo antes del diluvio de Noé como un tipo del arrebatamiento de la Iglesia (Génesis 5:24). Como defensor de la postura pretribulacionista, creo que la trompeta sonará y el **[rapto ocurrirá](/estudios/rapto-arrebatamiento)** en “un abrir y cerrar de ojos”. Los seguidores de Cristo desaparecerán (1 Corintios 15:52).  
   
 La Biblia no comparte muchos detalles sobre lo que estaba pasando cuando Noé cerró la puerta del Arca. Esos detalles son difíciles de confirmar. Pero si se acercaba la inundación, uno podría imaginar a algunas personas rogando que las dejaran subir a bordo. Personas que posiblemente se burlaron de Noé durante la construcción del Arca.  
 

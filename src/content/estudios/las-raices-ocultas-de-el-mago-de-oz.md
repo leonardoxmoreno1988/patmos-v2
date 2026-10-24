@@ -38,7 +38,7 @@ L. Frank Baum, autor de El Mago de Oz, era miembro de la Sociedad Teosófica, un
 
   
 
-La Sociedad Teosófica es una organización oculta, basada principalmente en las enseñanzas de [Helena P. Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html), que trata de extraer las raíces comunes de todas las religiones a fin de formar una doctrina universal.
+La Sociedad Teosófica es una organización oculta, basada principalmente en las enseñanzas de [Helena P. Blavatsky](/estudios/blavatsky-madame-nueva-era), que trata de extraer las raíces comunes de todas las religiones a fin de formar una doctrina universal.
 
 >   
 > “Pero tal vez sea conveniente indicar de manera inequívoca que las enseñanzas, no obstante fragmentarias e incompletas, que figuran en estos volúmenes, no pertenecen ni a la hindú, la de Zoroastro, el caldeo, ni la religión egipcia, ni con el budismo, el islam, el judaísmo ni el cristianismo exclusivamente. La Doctrina Secreta es la esencia de todos ellos. Surgidos de ella en sus orígenes, los diversos sistemas religiosos se fusionan ahora en su elemento original, de los cuales cada misterio y dogma ha crecido, desarrollado, y materializado”.  
@@ -149,7 +149,7 @@ He aquí una explicación de la espiral como un símbolo de lo oculto:
 Antes de emprender su viaje, a Dorothy le dan los “zapatos de plata”, que representan el “cordón de plata” de las Escuelas de Misterio (Dorothy usaba zapatillas de rubí en la película debido a un cambio de última hora por el director, quien pensó que el color rubí parecía mejor contra el camino de ladrillos amarillos). En las escuelas de ocultismo, el cordón de plata es considerado como el vínculo entre nuestra identidad material y espiritual.  
   
 
-> “En la Teosofía, el cuerpo físico y el cuerpo astral están conectados a través de una cuerda de “plata”, un vínculo mítico inspirado en un pasaje de la Biblia que habla de un regreso de una búsqueda espiritual. Una vez que el cordón de plata se rompe, dice el libro de Eclesiastés, “Entonces el polvo vuelva a la tierra, como era y el espíritu vuelva a Dios que lo dio”. En la propia escritura de Frank Baum, el cordón de plata de los [viajes astrales](https://www.ritualypropaganda.com/2016/05/proyeccion-astral-al-descubierto.html) inspiraría a los zapatos de plata que conceden poderes especiales a quien los usa.”  
+> “En la Teosofía, el cuerpo físico y el cuerpo astral están conectados a través de una cuerda de “plata”, un vínculo mítico inspirado en un pasaje de la Biblia que habla de un regreso de una búsqueda espiritual. Una vez que el cordón de plata se rompe, dice el libro de Eclesiastés, “Entonces el polvo vuelva a la tierra, como era y el espíritu vuelva a Dios que lo dio”. En la propia escritura de Frank Baum, el cordón de plata de los [viajes astrales](/estudios/proyeccion-astral-al-descubierto) inspiraría a los zapatos de plata que conceden poderes especiales a quien los usa.”  
 > \-Evan I. Schwartz, Finding Oz: How L. Frank Baum Discovered the Great American Story
 
   

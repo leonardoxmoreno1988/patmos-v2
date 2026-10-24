@@ -160,7 +160,7 @@ Harpócrates, el dios egipcio del secreto y el ocultamiento, tallado en una pequ
 
   
 
-La forma egipcia del dios Harpócrates que da la señal de silencio se muestra en este dibujo antiguo. Abajo y apoyando a Harpócrates está el dios-león y lo que lo rodea es la deidad suprema, **[los Oroboros](https://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html)**, o serpiente.
+La forma egipcia del dios Harpócrates que da la señal de silencio se muestra en este dibujo antiguo. Abajo y apoyando a Harpócrates está el dios-león y lo que lo rodea es la deidad suprema, **[los Oroboros](/estudios/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros)**, o serpiente.
 
   
 

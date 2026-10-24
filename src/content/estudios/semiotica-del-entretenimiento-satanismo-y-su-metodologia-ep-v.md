@@ -77,7 +77,7 @@ La nueva serie de HBO, "Westworld", sobre inteligencia artificial, utiliza la im
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji0jtQd6DZxdCQPHLnrruAQFXEXb1KawPMIVjdTCYL9KrAcIHYbnr3Hff5Tte_D275ifPRlpvrLUo3XPrgMSEF5zW_d7gpCnQg8PMXPK52CVSTPCpDu7fmCJmw9Qeq0vTyyDGJgNQJRlU/s1600/westworld-dios.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji0jtQd6DZxdCQPHLnrruAQFXEXb1KawPMIVjdTCYL9KrAcIHYbnr3Hff5Tte_D275ifPRlpvrLUo3XPrgMSEF5zW_d7gpCnQg8PMXPK52CVSTPCpDu7fmCJmw9Qeq0vTyyDGJgNQJRlU/s1600/westworld-dios.jpg)
 
-**El Dr. Robert Ford, dueño del parque y representante del dios Demiurgo (el que tiene el poder de crear). En el fondo se ve otro simbolismo sobre [control mental](http://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html) y la creación de alter personas (humanos robots = humanos bajo control mental basado en el trauma).**
+**El Dr. Robert Ford, dueño del parque y representante del dios Demiurgo (el que tiene el poder de crear). En el fondo se ve otro simbolismo sobre [control mental](/estudios/origenes-y-tecnica-del-control-mental) y la creación de alter personas (humanos robots = humanos bajo control mental basado en el trauma).**
 
   
 

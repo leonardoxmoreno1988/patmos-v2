@@ -18,7 +18,7 @@ La mayoría de los estadounidenses se burlan de la mención de la **conspiració
 Paul Revere, George Washington y la mayoría de sus generales, todos eran masones. El marqués de Lafayette fue rechazado hasta que fue un iniciado. Al menos 20 de los 42 presidentes de Estados Unidos eran "Hermanos".  
 
   
-La masonería es la Iglesia de Lucifer disfrazada de orden místico filantrópico. Un frente para los banqueros centrales que comenzaron los EEUU como vehículo para avanzar en su **[nuevo orden mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)**. En palabras de el anciano masón Manly P. Hall,  
+La masonería es la Iglesia de Lucifer disfrazada de orden místico filantrópico. Un frente para los banqueros centrales que comenzaron los EEUU como vehículo para avanzar en su **[nuevo orden mundial](/estudios/que-es-el-nuevo-orden-mundial)**. En palabras de el anciano masón Manly P. Hall,  
 
 > **"También debemos perfeccionar el plan de las edades, estableciendo aquí el mecanismo para una hermandad mundial de naciones y razas".**
 

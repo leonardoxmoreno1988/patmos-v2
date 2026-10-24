@@ -89,7 +89,7 @@ La actriz **Celia Imrie** (El diario de Bridget Jones, Star Wars: Episodio I, La
 >   
 > Desesperados, mis padres decidieron mandarme lejos al Hospital St Thomas en Londres, para entrar en una de las salas especiales pertenecientes al Departamento de Medicina Psicológica. Y una vez allí fui puesta bajo el cuidado del mundialmente famoso psiquiatra William Sargant. Yo tenía 14 años.  
 >   
-> Ahora, más de 20 años después de su muerte, Sargant es conocido por su trabajo para el MI5 y la CIA, particularmente, en el programa encubierto de **[control mental](http://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html)** MK-ULTRA.
+> Ahora, más de 20 años después de su muerte, Sargant es conocido por su trabajo para el MI5 y la CIA, particularmente, en el programa encubierto de **[control mental](/estudios/origenes-y-tecnica-del-control-mental)** MK-ULTRA.
 > 
 >   
 > 

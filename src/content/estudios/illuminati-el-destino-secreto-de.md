@@ -21,7 +21,7 @@ tags: ["Sociedad", "Illuminati", "Masonería", "Estados Unidos"]
 
   
 
-Durante siglos, los estadounidenses se han enorgullecido de ser una nación secular, con un gobierno divorciado de la dominación de cualquier grupo religioso. En realidad, Estados Unidos siempre ha sido una expresión de las creencias ocultistas de las escuelas de misterio [Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html).  
+Durante siglos, los estadounidenses se han enorgullecido de ser una nación secular, con un gobierno divorciado de la dominación de cualquier grupo religioso. En realidad, Estados Unidos siempre ha sido una expresión de las creencias ocultistas de las escuelas de misterio [Illuminati](/estudios/quienes-son-los-illuminati).  
   
 En Destino Secreto de Estados Unidos (1944), Manly Hall (abajo, izquierda) reveló que los planificadores de Estados Unidos y los fundadores fueron ocultistas trabajando para la construcción de un Nuevo Orden Mundial satánico.  
   

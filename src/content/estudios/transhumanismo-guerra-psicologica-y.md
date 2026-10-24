@@ -30,7 +30,7 @@ Black Eyed Peas "Imma Be / Rock That Body" es una obra maestra de vídeo, de alt
 
 ## La Agenda del Transhumanismo
 
-El [transhumanismo](http://www.ritualypropaganda.com/2017/07/transhumanismo-industria-musical-y-el-futuro.html) es el nombre de un movimiento que pretende apoyar el uso de todas las formas de la tecnología para mejorar a los seres humanos. Es mucho más que un montón de inofensivos nerds soñando con películas de ciencia ficción y robots.  
+El [transhumanismo](/estudios/transhumanismo-industria-musical-y-el-futuro) es el nombre de un movimiento que pretende apoyar el uso de todas las formas de la tecnología para mejorar a los seres humanos. Es mucho más que un montón de inofensivos nerds soñando con películas de ciencia ficción y robots.  
   
   
 

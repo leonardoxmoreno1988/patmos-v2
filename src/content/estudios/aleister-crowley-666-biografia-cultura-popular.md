@@ -226,7 +226,7 @@ El escritor y guionista de historietas, Alan Moore, conocido por su trabajo en W
   
 
   
-Una de sus principales obras titulada, From Hell está llena de referencias ocultistas mientras expone una supuesta conspiración detrás de Jack el destripador. En V from Vendetta, un revolucionario vigilante derroca un gobierno fascista sublevando a todos los ciudadanos. En este caso, la historia  esconde una fábula gnóstica donde Lucifer es dios. Recomiendo leer el artículo **[Las Referencias Gnósticas De "V For Vendetta" Y Como La Elite Controla La Oposición](http://www.ritualypropaganda.com/2012/05/las-referencias-gnosticas-de-v-for.html)**.  
+Una de sus principales obras titulada, From Hell está llena de referencias ocultistas mientras expone una supuesta conspiración detrás de Jack el destripador. En V from Vendetta, un revolucionario vigilante derroca un gobierno fascista sublevando a todos los ciudadanos. En este caso, la historia  esconde una fábula gnóstica donde Lucifer es dios. Recomiendo leer el artículo **[Las Referencias Gnósticas De "V For Vendetta" Y Como La Elite Controla La Oposición](/estudios/las-referencias-gnosticas-de-v-for)**.  
   
 Una foto de Aleyster Crowley a los 14 años de edad fue usada por Moore para una de sus novelas ocultistas.  
   

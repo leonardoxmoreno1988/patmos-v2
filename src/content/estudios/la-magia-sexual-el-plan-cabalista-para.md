@@ -44,7 +44,7 @@ En un artículo reciente, "El hombre/niño en la Tierra Prometida", el investiga
   
 "En 1970, el 69% de los jóvenes con 25 años de edad y el 85% de los jóvenes con 30 años de edad, se casaron, en 2000, sólo el 33 por ciento y 58 por ciento lo hicieron, respectivamente."  
   
-**Recomiendo leer: [Playboy, Alfred Kinsey Y La Revolución (Homo) Sexual](http://www.ritualypropaganda.com/2015/08/playboy-alfred-kinsey-y-la-revolucion.html)**  
+**Recomiendo leer: [Playboy, Alfred Kinsey Y La Revolución (Homo) Sexual](/estudios/playboy-alfred-kinsey-y-la-revolucion)**  
   
 "¿Qué clase de hombre lee Playboy?" La mejor descripción se ajusta a un homosexual. Mientras tanto las mujeres han pospuesto el matrimonio y usurpado el rol masculino como protector y proveedor.  
   

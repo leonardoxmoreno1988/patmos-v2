@@ -31,7 +31,7 @@ La respuesta es tangible ahora, la tecnología permite ver qué ocurre en casi t
   
 El hecho de que todo el mundo sea parte de un mismo evento, no solo demuestra el nivel de globalización que se tendrá durante el gobierno mundial del Anticristo, sino la capacidad de las naciones para unirse en contra de Dios.  
   
-En ese [nuevo orden tecnocrático](https://www.ritualypropaganda.com/2021/09/tecnocracia-bestia-dragon.html), el gobierno podrá escuchar todas las llamadas telefónicas. Colocarán transmisores en cada persona para realizar un seguimiento de ellos. Los cristianos descubiertos serán asesinados cuando no renuncien a su fe en Jesucristo.  
+En ese [nuevo orden tecnocrático](/estudios/tecnocracia-bestia-dragon), el gobierno podrá escuchar todas las llamadas telefónicas. Colocarán transmisores en cada persona para realizar un seguimiento de ellos. Los cristianos descubiertos serán asesinados cuando no renuncien a su fe en Jesucristo.  
   
 Pero la tecnología del futuro no solo estará en dispositivos avanzados, estará integrada en el cuerpo de las personas, el sueño transhumanista oculto. La marca de la bestia será una forma de transhumanismo (Revelación 13:16-17), un pedazo de tecnología en la frente o en la mano que no solo brindará acceso a un sistema económico mundial, sino que otorgará capacidades sobrehumanas (Revelación 9:6).  
   
@@ -56,7 +56,7 @@ Pero existe otra señal importante en el versículo 43, donde se dice "se mezcla
 
 Esta no es solo una alianza política de dos partes, sino una que involucra algo más siniestro. Se habla de la "simiente humana", el barro, mezclada con otra simiente distinta, la cual es un misterio, pero se ejemplifica como el bronce. Esta revelación implica una mezcla genética.  
   
-La última vez que la simiente humana se mezcló con otra, fue en Génesis 6, cuando ángeles descendieron del cielo y se procrearon con mujeres humanas, la simiente humana se mezcló con la simiente angélica, [produciendo gigantes](https://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html).  
+La última vez que la simiente humana se mezcló con otra, fue en Génesis 6, cuando ángeles descendieron del cielo y se procrearon con mujeres humanas, la simiente humana se mezcló con la simiente angélica, [produciendo gigantes](/estudios/nefilim-antiguo-testamento).  
   
 El hierro tiene muchas connotaciones negativas en la Biblia, como la punta de lanza de Goliat hecha de hierro (1 Samuel 17:7). En Canaán los primeros en usar el hierro fueron los filisteos, enemigos de Israel. Casualmente Goliat fue descendiente de los gigantes.  
   
@@ -74,7 +74,7 @@ Este término fue presentado por Manfred Clynes y Nathan Kline en 1960 para refe
   
 El deseo está presente. En todo el mundo hombres y mujeres están ampliando los límites de la robótica. Las potencias mundiales están pensando en formas nuevas de crear sistemas tecnológicos que caminen, hablen, vean y se comuniquen entre sí.  
   
-Sea cual fuere el escenario final, es más seguro mantener el lenguaje bíblico y entender que son los ['hijos de Dios'](https://www.ritualypropaganda.com/2022/04/angeles-no-guardaron-dignidad.html) los que llegarán a la Tierra y se mezclarán con mujeres humanas, independientemente de si utilizan cuerpos tecnológicos o biológicos.  
+Sea cual fuere el escenario final, es más seguro mantener el lenguaje bíblico y entender que son los ['hijos de Dios'](/estudios/angeles-no-guardaron-dignidad) los que llegarán a la Tierra y se mezclarán con mujeres humanas, independientemente de si utilizan cuerpos tecnológicos o biológicos.  
   
 Cuando leemos que el barro no se mezcla con el hierro, Dios está condenando cualquier forma de unión entre el cuerpo biológico y la tecnología. Es por eso que esta creación no prosperará, ya que Jesús los destruirá en la batalla final en Meguido (Revelación 16:12-16).  
   

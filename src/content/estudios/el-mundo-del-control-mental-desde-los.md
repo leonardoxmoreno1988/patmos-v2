@@ -111,7 +111,7 @@ Otra pieza realizada por Bonny, irónicamente llamado I-Test, simbólicamente re
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin9vRFLU5w9hFZKc0J_vR4X6nNQXGX_sR1V0QCnJ0_2AIl2OY2zhMPpifnrQzmFWfDTANjQAyRPFFy5v3BAzgZTi0ZM-ZihilfkAeZdu4R8QcylvWCHpnU1jOrZi694won6ywQHDwxTQEj/)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin9vRFLU5w9hFZKc0J_vR4X6nNQXGX_sR1V0QCnJ0_2AIl2OY2zhMPpifnrQzmFWfDTANjQAyRPFFy5v3BAzgZTi0ZM-ZihilfkAeZdu4R8QcylvWCHpnU1jOrZi694won6ywQHDwxTQEj/)
 
-**Un rostro agrietado en un cartel promocional del [Cisne Negro](https://www.ritualypropaganda.com/2011/02/la-interpretacion-oculta-de-la-pelicula.html) - otra película con fuertes elementos de control mental.**
+**Un rostro agrietado en un cartel promocional del [Cisne Negro](/estudios/la-interpretacion-oculta-de-la-pelicula) - otra película con fuertes elementos de control mental.**
 
 ## Golden Dawn
 

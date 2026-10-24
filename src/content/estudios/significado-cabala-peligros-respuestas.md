@@ -24,7 +24,7 @@ El Centro de Cábala también vende agua de Kabbalah, supuestamente cargada de "
   
 El Centro de Cábala, dirigido por el rabino Philip Berg (que escribe como el Ravino PS Berg), tiene al menos cincuenta sedes alrededor del mundo y ha distribuido millones de libros traducidos a veinte lenguas (Michael Berg, The Secret \[NY, NY: The Kabbalah Centre, 2004\], 89). Uno de los hijos de Berg es el rabino Yehuda Berg, autor de El Poder de la Cábala y Los 72 Nombres de Dios: Tecnología para el Alma (Kabbalah Publishing, 2003).  
   
-El rabino Michael Berg, el otro hijo de Berg, es el editor de los 22 volúmenes del **[Zohar](http://www.ritualypropaganda.com/2015/07/el-zohar-en-los-tiempos-finales-por.html)**, el texto sagrado de la Cábala, y ha escrito también libros, incluyendo "El secreto y cómo convertirse en Dios". Una cita promocional de la página 16 de este libro, publicada en septiembre de 2004, dice:  
+El rabino Michael Berg, el otro hijo de Berg, es el editor de los 22 volúmenes del **[Zohar](/estudios/el-zohar-en-los-tiempos-finales-por)**, el texto sagrado de la Cábala, y ha escrito también libros, incluyendo "El secreto y cómo convertirse en Dios". Una cita promocional de la página 16 de este libro, publicada en septiembre de 2004, dice:  
 
 >   
 > "LA VERDAD ES, QUE ESTAMOS DESTINADOS A CONVERTIRNOS EN DIOS, PERO COMO HORMIGAS, ESTAMOS INDIFERENTES A LA PROPAGACIÓN MAGNÍFICA ENTRE LO QUE SOMOS Y LO QUE PODEMOS SER".
@@ -151,7 +151,7 @@ Según la Cábala, una persona debe ascender metafórica y espiritualmente los 1
   
 Así, el Árbol de la Vida simboliza al Ser Divino, y ofrece el camino de regreso para que los seres humanos se reúnan con la fuente de donde vino. La Cábala, según un escritor, no se refiere a la adoración o a una creencia, sino que "se convierte en un camino directo de comunión entre el individuo y lo Divino" (Harvey, 86).  
   
-El Árbol de la Vida y las sefirot se han utilizado en la **[Nueva Era](http://www.ritualypropaganda.com/2017/05/thoth-las-tablas-de-esmeralda.html)** y las enseñanzas ocultas, y se han alineado con herramientas ocultistas como el Tarot. De hecho, la Cábala ha sido una base para la enseñanza oculta occidental durante varios siglos, aunque debe señalarse que muchos cabalistas y rabinos cabalistas no sancionan tal actividad.
+El Árbol de la Vida y las sefirot se han utilizado en la **[Nueva Era](/estudios/thoth-las-tablas-de-esmeralda)** y las enseñanzas ocultas, y se han alineado con herramientas ocultistas como el Tarot. De hecho, la Cábala ha sido una base para la enseñanza oculta occidental durante varios siglos, aunque debe señalarse que muchos cabalistas y rabinos cabalistas no sancionan tal actividad.
 
   
 

@@ -28,7 +28,7 @@ La película hará un paralelismo simbólico sobre el fin de los tiempos, el sex
 
 El protagonista, Ryland Grace, despierta en una nave espacial sin recordar quién es, ni por qué los dos compañeros de tripulación están muertos. A medida que recupera la memoria, recuerda que él es la última "esperanza de la humanidad". Su misión es viajar a un sistema estelar lejano (**[Tau Ceti](https://es.wikipedia.org/wiki/Tau_Ceti)**) para descubrir por qué esa estrella es la única que parece ser inmune a los Astrófagos.  
   
-La película se desarrolla principalmente en el espacio astronómico, o lo que la Biblia llama el "segundo cielo". Esto será importante debido a su futuro encuentro con un ser de otro planeta quien lo ayudará en su misión de salvar el mundo. En las Escrituras, el espacio o segundo cielo es donde los **[ángeles rebeldes](https://www.ritualypropaganda.com/2022/11/moises-encuentros-cercanos.html)** pueden ejercer poder y manifestarse visiblemente.  
+La película se desarrolla principalmente en el espacio astronómico, o lo que la Biblia llama el "segundo cielo". Esto será importante debido a su futuro encuentro con un ser de otro planeta quien lo ayudará en su misión de salvar el mundo. En las Escrituras, el espacio o segundo cielo es donde los **[ángeles rebeldes](/estudios/moises-encuentros-cercanos)** pueden ejercer poder y manifestarse visiblemente.  
 
 > "Porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra huestes espirituales de maldad en las regiones celestes."  
 > –Efesios 6:12
@@ -51,7 +51,7 @@ Si la Biblia establece que el **[espacio astronómico](https://www.gaceta.unam.m
 
   
 
-Lucifer es técnicamente un "extra-terrestre" en el sentido de que fue creado fuera del planeta la tierra y cronológicamente antes de Adán. Los "Hijos de Dios" de **[Génesis 6](https://www.ritualypropaganda.com/2022/04/angeles-no-guardaron-dignidad.html)** descendieron a la tierra de la misma forma que lo hacen las representaciones del cine de extraterrestres llegando a la tierra.
+Lucifer es técnicamente un "extra-terrestre" en el sentido de que fue creado fuera del planeta la tierra y cronológicamente antes de Adán. Los "Hijos de Dios" de **[Génesis 6](/estudios/angeles-no-guardaron-dignidad)** descendieron a la tierra de la misma forma que lo hacen las representaciones del cine de extraterrestres llegando a la tierra.
 
   
 
@@ -65,7 +65,7 @@ Jesucristo es la roca (1 Corintios 10:4), pero Satanás es el segundo ser más p
 
   
 
-Otro detalle relevante sobre su anatomía extraterrestre en la película es que produce **[sonidos musicales](https://www.ritualypropaganda.com/2026/04/con-bocina-salterio-arpa-y-cimbalos.html)**, como las notas de una flauta o un sintetizador. Sus "palabras" no son solo sonidos individuales, sino acordes musicales melodiosos, un recurso que la película utiliza para transmitir diferentes emociones al público a través de una banda sonora sublime. La segunda parte de Ezequiel 28:13 menciona:
+Otro detalle relevante sobre su anatomía extraterrestre en la película es que produce **[sonidos musicales](/estudios/con-bocina-salterio-arpa-y-cimbalos)**, como las notas de una flauta o un sintetizador. Sus "palabras" no son solo sonidos individuales, sino acordes musicales melodiosos, un recurso que la película utiliza para transmitir diferentes emociones al público a través de una banda sonora sublime. La segunda parte de Ezequiel 28:13 menciona:
 
 > **"las obras de tus atambores y de tus pífanos estuvieron apercibidas en tí el día que fuiste creado."**  
 > –**Ezequiel 28:13b**

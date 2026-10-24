@@ -23,7 +23,7 @@ Nada en la tierra es tan fina. En este continente, no hay nada tan raro. Los com
   
 El feminismo no es acerca de la igualdad de oportunidades para las mujeres. Se trata de un matona síntesis del marxismo y el lesbianismo utilizados por las élites gobernantes para socavar a los individuos y rediseñar la sociedad. Es a la sociedad lo que el SIDA es para el cuerpo.  
   
-**También Leer: [La Mano Oculta Que Moldeó La Historia](http://www.ritualypropaganda.com/2011/11/la-mano-oculta-que-moldeo-la-historia.html)**  
+**También Leer: [La Mano Oculta Que Moldeó La Historia](/estudios/la-mano-oculta-que-moldeo-la-historia)**  
   
 Pero los hombres también son responsables. Hemos aceptado la mentira feminista de que las mujeres deberían ser independientes y seguir ese camino. Hemos abandonado a muchas dóciles y cariñosas mujeres que instintivamente quieren construir sus vidas alrededor de un hombre. Hemos seguido a las ocupadas, neuróticas y extremadamente competentes mujeres que nos garantizan el desengaño, el divorcio y a la familia quebrantada.  
   

@@ -177,7 +177,7 @@ En respuesta, estoy feliz de responder al señalar que:
 -   La mayoría de los escritores de deportes nunca han jugado fútbol o béisbol para reportar y hacer comentarios sobre el mismo
 -   La mayoría de los funcionarios de prisiones nunca han sido a su vez encerrados como convictos
 - Ningún historiador ha vivido los siglos pasados de la historia
-- No hace falta ser un monstruo para saber que existen monstruos humanos ni un asesino en serie para saber que el asesinato de personas inocentes es malo. Y hay abundante evidencia sobre la existencia de los **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** y las sociedades secretas de manera que no tenemos que unirnos y participar en estos grupos repugnantes para saber de qué se trata.
+- No hace falta ser un monstruo para saber que existen monstruos humanos ni un asesino en serie para saber que el asesinato de personas inocentes es malo. Y hay abundante evidencia sobre la existencia de los **[Illuminati](/estudios/quienes-son-los-illuminati)** y las sociedades secretas de manera que no tenemos que unirnos y participar en estos grupos repugnantes para saber de qué se trata.
 
   
 

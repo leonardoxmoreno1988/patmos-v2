@@ -13,7 +13,7 @@ Estimado lector,
   
 Dado que la Biblia siempre da por sentada la existencia literal y personal de Satanás, los creyentes verdaderos de la Biblia también seguimos su ejemplo.  
   
-Las referencias a su personalidad y obra son demasiado numerosas y negarse a admitir su [presencia y control global](https://www.ritualypropaganda.com/2014/01/quien-es-lucifer-una-historia-de.html) es exponerse negativamente en el ámbito espiritual.  
+Las referencias a su personalidad y obra son demasiado numerosas y negarse a admitir su [presencia y control global](/estudios/quien-es-lucifer-una-historia-de) es exponerse negativamente en el ámbito espiritual.  
   
 Jesús se refiere a él constantemente (Mateo 12:26; Mateo 16:23; Lucas 10:18), y nunca se refiere a él sólo como una “influencia” o “principio” del mal (Mateo 25:41).  
   
@@ -26,7 +26,7 @@ Es por eso que cuando Jesús se interna en el desierto cuarenta días, Él es te
 
 El número cuarenta significa en las Escrituras “tiempo de prueba”. Elías y Moisés pasan cuarenta días y cuarenta noches sin comer cuando se presentan ante el Señor en el monte.  
   
-También vemos que [Satanás](https://www.ritualypropaganda.com/2023/08/entronizado-entre-los-poderosos.html), de acuerdo con su carácter engañoso, es un escéptico nato. Él inicia con “Si eres…”. Cada vez que habla dentro de las Escrituras, está cuestionando la Palabra de Dios (Génesis 3:1; Job 1-2; Mateo 4:3).  
+También vemos que [Satanás](/estudios/entronizado-entre-los-poderosos), de acuerdo con su carácter engañoso, es un escéptico nato. Él inicia con “Si eres…”. Cada vez que habla dentro de las Escrituras, está cuestionando la Palabra de Dios (Génesis 3:1; Job 1-2; Mateo 4:3).  
   
 Los fariseos también representan esta actitud de Satanás hacia el Mesías que envió el Señor: “Si eres el Hijo de Dios…” (Mateo 27:40).  
   
@@ -36,24 +36,24 @@ Si leemos Revelación 12:1–12, encontramos a Israel (no “María” o la “I
   
 Por tanto, la primera tentación de Satanás no es simplemente algo en contra de la naturaleza de Cristo, fue algo que las Escrituras le ordenaron hacer, pero en el momento equivocado, ya que es un evento futuro.  
   
-Un estudio de las tres tentaciones revela que todas tienen esta característica. Todos son milagros y señales de la [Segunda Venida](https://www.ritualypropaganda.com/2022/05/jesus-lee-isaias.html) que las Escrituras le ordenan a Cristo cumplir.  
+Un estudio de las tres tentaciones revela que todas tienen esta característica. Todos son milagros y señales de la [Segunda Venida](/estudios/jesus-lee-isaias) que las Escrituras le ordenan a Cristo cumplir.  
   
 La tentación engañosa de Satanás está tan bien alineada con las Escrituras que aquí se revela cómo puede tentarnos a hacer lo correcto, pero en el tiempo y momento equivocado.  
   
-Esta es una realidad cuando se aplica al cristianismo moderno, porque casi todas las denominaciones, incluidas muchas de las [iglesias cristianas](https://www.ritualypropaganda.com/2023/04/el-problema-con-las-iglesias-modernas.html), han caído en la trampa de una línea de tiempo falsa.  
+Esta es una realidad cuando se aplica al cristianismo moderno, porque casi todas las denominaciones, incluidas muchas de las [iglesias cristianas](/estudios/el-problema-con-las-iglesias-modernas), han caído en la trampa de una línea de tiempo falsa.  
   
-Están ocupadas “disponiendo un reino”, pretendiendo que el reino de Cristo está presente en la Tierra, cuando [aún es futuro](https://www.ritualypropaganda.com/2023/01/1000-anos-reinado-futuro.html). Esta teología incluye amilenialistas, postmilenialistas, preteristas, carismáticos y defensores de la teología del "reino ahora".  
+Están ocupadas “disponiendo un reino”, pretendiendo que el reino de Cristo está presente en la Tierra, cuando [aún es futuro](/estudios/1000-anos-reinado-futuro). Esta teología incluye amilenialistas, postmilenialistas, preteristas, carismáticos y defensores de la teología del "reino ahora".  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/429/original/corona.jpg)  
   
-Tal visión del mundo está en el corazón de los humanistas; en su intento de “mejorar el mundo”, se autoengañan con una actitud [profética errónea](https://www.ritualypropaganda.com/2022/09/diferencias-importantes.html), dispuestos a abordar un trabajo que no fueron llamados a realizar.  
+Tal visión del mundo está en el corazón de los humanistas; en su intento de “mejorar el mundo”, se autoengañan con una actitud [profética errónea](/estudios/diferencias-importantes), dispuestos a abordar un trabajo que no fueron llamados a realizar.  
   
 Jesucristo más bien rechazó los privilegios de la Segunda Venida que acompañan a la corona. Nuestro salvador prefirió tomar el camino de la cruz (Romanos 8:17; 2 Timoteo 2:12). Cristo responde: “Escrito está: No con solo el pan vivirá el hombre; mas con toda palabra que sale por la boca de Dios" (Mateo 4:4).  
 
 > "Entónces el diablo le pasa a la santa ciudad; y le puso sobre las almenas del templo, Y le dijo: Si eres Hijo de Dios, échate de aquí abajo: que escrito está: Que a sus ángeles te encomendará; y te alzarán en sus manos, para que nunca hieras tu pié en piedra."  
 > –Mateo 4:5-6
 
-Nuevamente, la tentación se refiere a la Segunda Venida. Note la referencia a Cristo [descendiendo de los cielos](https://www.ritualypropaganda.com/2022/08/monte-de-los-olivos.html) (Actos 1:11; Mateo 24:30) y el lugar del Templo en esta profecía (Malaquías 3:1).  
+Nuevamente, la tentación se refiere a la Segunda Venida. Note la referencia a Cristo [descendiendo de los cielos](/estudios/monte-de-los-olivos) (Actos 1:11; Mateo 24:30) y el lugar del Templo en esta profecía (Malaquías 3:1).  
   
 Si un cristiano rechaza la literalidad y el tiempo de la Segunda Venida tal como se revela en [la revelación de Jesucristo](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html) (Revelación 1:1), no podrá comprender nunca el Antiguo Testamento.  
   

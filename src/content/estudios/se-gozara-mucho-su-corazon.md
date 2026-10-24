@@ -36,14 +36,14 @@ El otro cambio que deberá hacerse es el de reemplazar los [pensamientos negativ
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/421/original/gratitud.jpg)  
   
-Y no hablamos solo de nuestra [salvación en Cristo](https://www.ritualypropaganda.com/2023/07/ciertamente-no-estas-en-el-medio.html) o la vida eterna, sino de cosas tangibles y que tenemos en este mundo terrenal: salud, trabajo, familia, compañerismo, amor, una iglesia, etc.  
+Y no hablamos solo de nuestra [salvación en Cristo](/estudios/ciertamente-no-estas-en-el-medio) o la vida eterna, sino de cosas tangibles y que tenemos en este mundo terrenal: salud, trabajo, familia, compañerismo, amor, una iglesia, etc.  
   
-Ahora, existe un factor profético para sobrellevar el desánimo y tener pensamientos positivos, esto es recordar que la pequeña fracción de tiempo que experimentemos en esta tierra no se compara a los [mil años](https://www.ritualypropaganda.com/2023/01/1000-anos-reinado-futuro.html) que estaremos con Cristo.  
+Ahora, existe un factor profético para sobrellevar el desánimo y tener pensamientos positivos, esto es recordar que la pequeña fracción de tiempo que experimentemos en esta tierra no se compara a los [mil años](/estudios/1000-anos-reinado-futuro) que estaremos con Cristo.  
 
 > "Vosotros pues también ahora a la verdad tenéis tristeza; mas otra vez os veré, y se gozará vuestro corazón, y nadie quitará de vosotros vuestro gozo."  
 > –Juan 16:22
 
-Por eso esperamos la [Segunda Venida de Cristo](https://www.ritualypropaganda.com/2022/08/monte-de-los-olivos.html), quien nos consolará y no volveremos a experimentar pena, depresión, tristeza ni llanto (Isaías 65:17). Sino que seremos premiados y completos en Cristo (1 Corintios 9:24-25).  
+Por eso esperamos la [Segunda Venida de Cristo](/estudios/monte-de-los-olivos), quien nos consolará y no volveremos a experimentar pena, depresión, tristeza ni llanto (Isaías 65:17). Sino que seremos premiados y completos en Cristo (1 Corintios 9:24-25).  
   
 Por más que en esta tierra vivamos aflicciones por 80 o 90 años, nada se iguala con 1,000 años de perfección y gozo, seguidos de la ETERNIDAD, de la cual no sabemos mucho, pero se nos dice será increíble.  
 
@@ -54,7 +54,7 @@ Debido al pecado, el ser humano está hecho para enfocarse en lo malo que percib
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/422/original/time.jpg)  
   
-Sin duda llegará el día cuando todas nuestras aflicciones y angustias [van a desaparecer](https://www.ritualypropaganda.com/2022/09/diferencias-importantes.html), pero esto no ocurrirá hasta que estemos en el cielo nuevo y la tierra nueva, donde "las primeras cosas pasaron".  
+Sin duda llegará el día cuando todas nuestras aflicciones y angustias [van a desaparecer](/estudios/diferencias-importantes), pero esto no ocurrirá hasta que estemos en el cielo nuevo y la tierra nueva, donde "las primeras cosas pasaron".  
   
 Si pese a todo, aún le es difícil manejar el desánimo y la ansiedad, la Biblia deja claro que Dios usa las tribulaciones para una mejor ganancia: nuestro propio crecimiento espiritual. Al igual que una mujer que da a luz, luego del dolor llega la felicidad y la satisfacción (Juan 16:21-22).  
 

@@ -29,28 +29,28 @@ En el camino te darás cuenta por qué el presidente John F. Kennedy y la actriz
 CAPÍTULOS ONLINE:  
  
 
-**[1: El Linaje Astor](https://www.ritualypropaganda.com/2012/04/linajes-de-los-illuminati-de-fritz.html)**
+**[1: El Linaje Astor](/estudios/linajes-de-los-illuminati-de-fritz)**
 
-**[2: El Linaje Bundy](https://www.ritualypropaganda.com/2012/04/linajes-de-los-illuminati-el-linaje.html)**
+**[2: El Linaje Bundy](/estudios/linajes-de-los-illuminati-el-linaje-bundy)**
 
-**[3: El Linaje Collins](https://www.ritualypropaganda.com/2012/04/linajes-de-los-illuminati-el-linaje_30.html)**
+**[3: El Linaje Collins](/estudios/linajes-de-los-illuminati-el-linaje-30)**
 
-**[4: El Linaje Dupont](https://www.ritualypropaganda.com/2012/05/linajes-de-los-illuminati-el-linaje.html)**
+**[4: El Linaje Dupont](/estudios/linajes-de-los-illuminati-el-linaje-dupont)**
 
-**[5: El Linaje Freeman](https://www.ritualypropaganda.com/2012/05/linajes-de-los-illuminati-el-linaje_26.html)**
+**[5: El Linaje Freeman](/estudios/linajes-de-los-illuminati-el-linaje-26)**
 
-**[6: El Linaje Kennedy](https://www.ritualypropaganda.com/2012/06/linajes-de-los-illuminati-el-linaje.html)** 
+**[6: El Linaje Kennedy](/estudios/linajes-de-los-illuminati-el-linaje-kennedy)** 
 
-**[7: El Linaje Li](https://www.ritualypropaganda.com/2012/06/linajes-de-los-illuminati-el-linaje-li.html)**
+**[7: El Linaje Li](/estudios/linajes-de-los-illuminati-el-linaje-li)**
 
-**[8: El Linaje Onassis](https://www.ritualypropaganda.com/2012/07/linajes-de-los-illuminati-el-linaje.html)**
+**[8: El Linaje Onassis](/estudios/linajes-de-los-illuminati-el-linaje-onassis)**
 
-**[9: El Linaje Reynolds](https://www.ritualypropaganda.com/2012/08/linajes-de-los-illuminati-el-linaje.html)**
+**[9: El Linaje Reynolds](/estudios/linajes-de-los-illuminati-el-linaje-reynolds)**
 
-**[10: El Linaje Rockefeller](https://www.ritualypropaganda.com/2012/09/linajes-de-los-illuminati-el-linaje.html)**
+**[10: El Linaje Rockefeller](/estudios/linajes-de-los-illuminati-el-linaje-rockefeller)**
 
-**[11: El Linaje Rothschild](https://www.ritualypropaganda.com/2013/02/linajes-de-los-illuminati-el-linaje_6.html)**
+**[11: El Linaje Rothschild](/estudios/linajes-de-los-illuminati-el-linaje-6)**
 
-**[12: El Linaje Russell](https://www.ritualypropaganda.com/2013/10/linajes-de-los-illuminati-el-linaje_2.html)**
+**[12: El Linaje Russell](/estudios/linajes-de-los-illuminati-el-linaje-2)**
 
-**[13: El Linaje Van Duyn](https://www.ritualypropaganda.com/2014/03/linajes-de-los-illuminati-el-linaje-van.html)**
+**[13: El Linaje Van Duyn](/estudios/linajes-de-los-illuminati-el-linaje-van)**

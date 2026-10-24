@@ -102,7 +102,7 @@ Es interesante también que en la historia original, Pinocho queda atrapado [den
 > "Porque como estuvo Jonás en el vientre de la ballena tres dias y tres noches, así estará el Hijo del hombre en el corazón de la tierra tres dias y tres noches."  
 > –Mateo 12:40
 
-En este lenguaje, la historia de Pinocho toma la forma del futuro [hombre de pecado](https://www.ritualypropaganda.com/2022/06/hombre-de-pecado.html), quien como el títere de madera, recibiendo el aliento de vida del hada, recibirá el poder de Satanás para volver a vivir y engañar a las naciones (Revelación 20:8).  
+En este lenguaje, la historia de Pinocho toma la forma del futuro [hombre de pecado](/estudios/hombre-de-pecado), quien como el títere de madera, recibiendo el aliento de vida del hada, recibirá el poder de Satanás para volver a vivir y engañar a las naciones (Revelación 20:8).  
   
 Pero esto es invisible para los ojos del que rechaza a Cristo, incluso la película de Guillermo del Toro fue premiada como la "Mejor Película Animada" en los Oscars. No dudemos de que el dragón es quien tiene el dominio y la gloria de este mundo, y a quien él quiere se lo da (Lucas 4:6).  
   

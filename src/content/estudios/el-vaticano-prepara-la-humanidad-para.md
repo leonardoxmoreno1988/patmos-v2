@@ -13,7 +13,7 @@ tags: ["Falsas Doctrinas", "Apologética", "Extraterrestres", "Papa Francisco"]
 
   
 
-El autor **Fritz Springmeier** hace una precisa conclusión sobre los últimos comentarios del papa Francisco acerca del tema extraterrestre. Este también complementa lo expuesto en el artículo publicado hace un tiempo: **[La Farsa Extraterrestre Parte III](https://www.ritualypropaganda.com/2013/12/la-farsa-extraterrestre-predisponiendo.html)**, donde se detalla los intereses del Vaticano frente al tema OVNI.
+El autor **Fritz Springmeier** hace una precisa conclusión sobre los últimos comentarios del papa Francisco acerca del tema extraterrestre. Este también complementa lo expuesto en el artículo publicado hace un tiempo: **[La Farsa Extraterrestre Parte III](/estudios/la-farsa-extraterrestre-predisponiendo-a-las-masas-para-la-aceptacion-de-vida-en-2013-12)**, donde se detalla los intereses del Vaticano frente al tema OVNI.
 
 
 

@@ -126,7 +126,7 @@ Los Salmos también dicen que Dios asigna sus propios nombres a las estrellas (S
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiINIKLqJIbWVnIaQpgtYSYhioYjNmL5019yApU4Eg1I1zlKACwTPkJpOXjW34gwIf4YxRW9DTqwcqun_QvudhXzT_p5cqnkZPmUCPHxSFxm83gT5s0Aru6bU1FAt-VGafCuxozmDFV8NLxD0zVmRyuROkkySkP387bgurO2NmHLluEUXD0q-NTtMw0/s16000/zodiac.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiINIKLqJIbWVnIaQpgtYSYhioYjNmL5019yApU4Eg1I1zlKACwTPkJpOXjW34gwIf4YxRW9DTqwcqun_QvudhXzT_p5cqnkZPmUCPHxSFxm83gT5s0Aru6bU1FAt-VGafCuxozmDFV8NLxD0zVmRyuROkkySkP387bgurO2NmHLluEUXD0q-NTtMw0/s700/zodiac.jpg)
 
   
-Los autores aclaran significativamente que estas señales (constelaciones, eclipses, [lunas de sangre](https://www.ritualypropaganda.com/2022/03/lunas-de-sangre.html)) fueron diseñadas para los judíos (1 Corintios 1:22) y no se defiende como una doctrina relevante para la iglesia actual, quienes andamos por fe y no por vista.  
+Los autores aclaran significativamente que estas señales (constelaciones, eclipses, [lunas de sangre](/estudios/lunas-de-sangre)) fueron diseñadas para los judíos (1 Corintios 1:22) y no se defiende como una doctrina relevante para la iglesia actual, quienes andamos por fe y no por vista.  
   
 En ese caso, tal vez los signos de las estrellas sirvieron como ayuda para la memoria antes de que las Escrituras estuvieran disponibles. Es decir, con la llegada de la palabra escrita de Dios, el mensaje del Evangelio en las estrellas ya no fue necesario.  
   

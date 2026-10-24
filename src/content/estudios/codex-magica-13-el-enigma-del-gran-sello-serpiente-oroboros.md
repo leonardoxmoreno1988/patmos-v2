@@ -73,7 +73,7 @@ Tener poca o ninguna "luz" y sin la iluminación espiritual ofrecida por las Rel
   
 En muchas religiones paganas este concepto del áspero contra el sillar perfecto fue enseñado. En la Francmasonería, se enfatiza mucho. La estructura de la pirámide está equipada sólo con piedras de sillar perfectas, se dice, escogidas meticulosamente por "Los Constructores" que vigilan los defectos y rechazan el asfalto áspero o imperfecto.  
   
-Del mismo modo, los masones de nivel superior descubren que la pirámide refleja, o hace paralelismos, de el **[Nuevo Orden Mundial](http://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html)** (Novus Ordo Seclorum) que ellos y sus superiores iluminados están construyendo bajo el ojo vigilante del Gran Arquitecto del Universo, cuyo nombre secreto y sagrado, el masón real del arco aprende, es Jahbuhlun.  
+Del mismo modo, los masones de nivel superior descubren que la pirámide refleja, o hace paralelismos, de el **[Nuevo Orden Mundial](/estudios/que-es-el-nuevo-orden-mundial)** (Novus Ordo Seclorum) que ellos y sus superiores iluminados están construyendo bajo el ojo vigilante del Gran Arquitecto del Universo, cuyo nombre secreto y sagrado, el masón real del arco aprende, es Jahbuhlun.  
   
 Los Constructores (los Sillares Perfectos), entonces, son los Illuminati y sus secuaces. Su proyecto de construcción es la renovación y reconstrucción (Perestroika o Tikkun Olam) de toda la tierra. Por supuesto, para construir el Nuevo Acuerdo de las Edades, primero deben derribar lo viejo. La civilización tal como la conocemos hoy debe ser arrasada y destruida por el caos dialéctico, para que el nuevo orden pueda ser introducido: Ordo Ab Chao.  
   
@@ -113,7 +113,7 @@ Recuerde que en todos sus escritos, los más reverenciados eruditos masónicos -
 > **"No hay duda de que la culminación de los misterios fue la adoración de Satanás mismo." (5)**
 
   
-También recordarás nuestra discusión en otra parte de este libro que la teología iluminista y masónica está sólidamente basada en la **[cábala judía](http://www.ritualypropaganda.com/2017/03/significado-cabala-peligros-respuestas.html)** (Kaballah o Quaballah). De hecho, casi todos los sistemas de creencias ocultas y mágicas se basan en los principios y enseñanzas de la Cábala judía. En su libro más famoso, La Doctrina Secreta, Helena Blavatsky elogió a Satanás como el maestro de la humanidad. **(6)** Debe ser agradecido, dice Blavatsky, por establecer a los hombres en el camino hacia la divinidad y la libertad. Es, enfatiza, la Cábala la que "revela el secreto". ¿A qué secreto se refiere?  
+También recordarás nuestra discusión en otra parte de este libro que la teología iluminista y masónica está sólidamente basada en la **[cábala judía](/estudios/significado-cabala-peligros-respuestas)** (Kaballah o Quaballah). De hecho, casi todos los sistemas de creencias ocultas y mágicas se basan en los principios y enseñanzas de la Cábala judía. En su libro más famoso, La Doctrina Secreta, Helena Blavatsky elogió a Satanás como el maestro de la humanidad. **(6)** Debe ser agradecido, dice Blavatsky, por establecer a los hombres en el camino hacia la divinidad y la libertad. Es, enfatiza, la Cábala la que "revela el secreto". ¿A qué secreto se refiere?  
   
 Escuche, como Blavatsky dice claramente la doctrina central de los misterios, del ocultismo, del Iluminismo:  
   
@@ -149,7 +149,7 @@ En Occult Geometry, A.S. Raleigh examina el símbolo del círculo. El escribe:
   
 Más adelante, en las fotos e ilustraciones presentadas en este capítulo, descubrirá la sorprendente obra de arte en la postal del Año Nuevo por el artista judío Alain Roth en 1915. El diseño muestra a la Serpiente Ouroboros (Satanás) rodeando y conquistando toda la tierra. ¿Feliz año nuevo?  
   
-Como he comprobado una y otra vez por la preponderancia de la documentación, no podemos separar las metas asesinas y las actividades de los **[Illuminati](http://www.ritualypropaganda.com/2017/05/quienes-son-los-illuminati.html)** de su sistema de creencias religiosas. Su inspiración, su fanatismo, proviene de su maestro, Satanás, que les ha dado un conjunto completo de instrucciones, una Antibiblia si se quiere, en la Cábala Judía. En esta Antibiblia, la Serpiente juega el papel clave. Él es elogiado como la "Serpiente de la Sabiduría". Se dice que el destino de los Illuminati y del mundo entero está en sus manos.  
+Como he comprobado una y otra vez por la preponderancia de la documentación, no podemos separar las metas asesinas y las actividades de los **[Illuminati](/estudios/quienes-son-los-illuminati)** de su sistema de creencias religiosas. Su inspiración, su fanatismo, proviene de su maestro, Satanás, que les ha dado un conjunto completo de instrucciones, una Antibiblia si se quiere, en la Cábala Judía. En esta Antibiblia, la Serpiente juega el papel clave. Él es elogiado como la "Serpiente de la Sabiduría". Se dice que el destino de los Illuminati y del mundo entero está en sus manos.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS_WBawPPvMxGibjAQHmLYdgzIV5NAc3mExXoifeCGncjwQRZwWHAls3mwFCBcy4kodM6SyXYcTJnryLw_INxMdWZAgyWsugvX3Ovj_HYs-Nv_gO_7uPR_IJmS41hOJMpdDqwK0AGpI78/s1600/ccodex_100.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS_WBawPPvMxGibjAQHmLYdgzIV5NAc3mExXoifeCGncjwQRZwWHAls3mwFCBcy4kodM6SyXYcTJnryLw_INxMdWZAgyWsugvX3Ovj_HYs-Nv_gO_7uPR_IJmS41hOJMpdDqwK0AGpI78/s1600/ccodex_100.jpg)
@@ -289,7 +289,7 @@ La Serpiente llluminati: En _Las Dos Babilonias_, Hislop escribe:
 
 Dibujo revelador de una publicación mágica de la nueva era, levantamiento de la luna nueva. El círculo yin / yang en la parte superior tiene la "S" hacia atrás y la idea del negro es blanco y el blanco es negro; También descubrimos a la diosa velada, además de dos serpientes enfrentadas.  
   
-Una vez más, esto enfatiza el principio oculto de unirse o integrar los opuestos. El autor del **[Codex Magica](http://www.ritualypropaganda.com/2016/03/codex-magica-en-espanol-introduccion.html)** podría dar una serie de lecturas de 60 horas dedicadas exclusivamente al significado de todos los símbolos en esta pieza seductivamente grotesca de arte oculto.  
+Una vez más, esto enfatiza el principio oculto de unirse o integrar los opuestos. El autor del **[Codex Magica](/estudios/codex-magica-en-espanol-introduccion)** podría dar una serie de lecturas de 60 horas dedicadas exclusivamente al significado de todos los símbolos en esta pieza seductivamente grotesca de arte oculto.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBpQtC10RCyanxvHkP6K9g3cHG_NAReykeM7u7Ms08-QWNpWaq9HISD_0dZjFsKM0vZWz2tHEv3GCVEcqNYwqZsmHqItSbCelhw2u7xrdrYDK60MOQrBqdAh5vYjkeiTDpBwa1XtZkwfQ/s1600/ccodex_118.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBpQtC10RCyanxvHkP6K9g3cHG_NAReykeM7u7Ms08-QWNpWaq9HISD_0dZjFsKM0vZWz2tHEv3GCVEcqNYwqZsmHqItSbCelhw2u7xrdrYDK60MOQrBqdAh5vYjkeiTDpBwa1XtZkwfQ/s1600/ccodex_118.jpg)

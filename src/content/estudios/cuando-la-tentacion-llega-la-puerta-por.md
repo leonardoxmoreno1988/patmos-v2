@@ -32,7 +32,7 @@ Keanu Reeves interpreta a Evan Webber, un exitoso hombre de Los Ángeles, arquit
   
 En un fin de semana cuando la esposa y los niños están lejos, dos jovencitas aparecen en la puerta pidiendo utilizar su ordenador para buscar direcciones. Mientras esperaban por un taxi, las dos niñas dejan claro que están orgullosas de ser putas. "Todos somos animales; está en nuestro ADN", dicen los Illuminati reflejando al credo satanista: "Haz lo que quieras, será toda la ley."  
   
-**Recomiendo leer: [Playboy, Alfred Kinsey Y La Revolución (Homo) Sexual](http://www.ritualypropaganda.com/2015/08/playboy-alfred-kinsey-y-la-revolucion.html)**  
+**Recomiendo leer: [Playboy, Alfred Kinsey Y La Revolución (Homo) Sexual](/estudios/playboy-alfred-kinsey-y-la-revolucion)**  
   
 Weber hace un esfuerzo valiente para resistir, lanzándose cautelosamente de silla en silla, pero inevitablemente él sucumbe ante lo que parece un inofensivo ménage à trois. El sexo libre se convierte en horror cuando se sabe que las niñas habían apuntado a Evan Weber y su familia. Haciendo su negocio de probar hombres felizmente casados y castigan a aquellos que fallan.  
   

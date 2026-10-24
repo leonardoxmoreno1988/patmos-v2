@@ -66,7 +66,7 @@ La imagen que se construirá en nombre del anticristo tendrá "vida" artificial,
 
 La ciencia hará que la magia sea real, convertirá simples humanos en magos, a través de la síntesis de la mente, el cuerpo y la tecnología. En lugar de rudimentos mágicos para la realización de los trucos, tendrán la ciencia avanzada.  
   
-No es una sorpresa que Daniel, el profeta que vivió bajo la demanda del [sistema babilónico](https://www.ritualypropaganda.com/2023/01/sociedades-misterios-babilonia.html) de adorar a la imagen del rey Nabucodonosor (Daniel 3:12-30), sea quien recibió gran parte de la revelación de los últimos tiempos.  
+No es una sorpresa que Daniel, el profeta que vivió bajo la demanda del [sistema babilónico](/estudios/sociedades-misterios-babilonia) de adorar a la imagen del rey Nabucodonosor (Daniel 3:12-30), sea quien recibió gran parte de la revelación de los últimos tiempos.  
   
 Pese a que la imagen no es una creación orgánica, actuará como si lo fuera, asombrando a las naciones. Los demonios ya pueden en cierto grado habitar la tecnología actual, no hay duda de que lo harán en su forma completa en el futuro.  
   

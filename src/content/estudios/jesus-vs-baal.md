@@ -44,7 +44,7 @@ Livingstone informa que los eruditos posteriores (van Soden, Postgate) reexamina
 
 El comentario de Livingstone es definitivamente de interés. Las referencias a otra deidad y su centro de culto afirman que el punto es que la estatua de Baal es lo que ha sido capturada, y de eso se trata la obra. Otro dios, Nabu, sale y rocía estambres de palmeras datileras como una especie de rebelión; de esta manera se convierte en el otro "criminal" de la historia.
 
-Más tarde, los atletas reciben el encargo de proteger a Baal mientras está en prisión, por orden de Assur (otro dios; nuevamente reflejando la captura de la estatua de Baal). La discordia en la ciudad también se relaciona claramente con la discordia causada por la invasión; aquí no se puede encontrar ningún paralelo con **[la historia de la oscuridad sobre la tierra](https://www.ritualypropaganda.com/2021/09/thallus-menciona-oscuridad.html)**, etc. en la crucifixión de Jesús.
+Más tarde, los atletas reciben el encargo de proteger a Baal mientras está en prisión, por orden de Assur (otro dios; nuevamente reflejando la captura de la estatua de Baal). La discordia en la ciudad también se relaciona claramente con la discordia causada por la invasión; aquí no se puede encontrar ningún paralelo con **[la historia de la oscuridad sobre la tierra](/estudios/thallus-menciona-oscuridad)**, etc. en la crucifixión de Jesús.
 
 Las líneas críticas (59-67) se refieren a alguien que es “invocado para mantenerse vivo y no asesinado” y otro que pide “que se le permita llorar y ser enterrado”. Los nombres de estas personas no se conservan. Baal está claramente en peligro, pero no hay ningún registro real de su ejecución.
 

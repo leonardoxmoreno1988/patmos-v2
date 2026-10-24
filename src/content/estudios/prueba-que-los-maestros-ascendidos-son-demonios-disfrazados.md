@@ -26,7 +26,7 @@ Hay 7 rayos de ascensión y todos los supuestos maestros ascendidos se clasifica
   
 Las iniciaciones son niveles de conciencia y etapas de desarrollo del alma, y cuanto más universal se convierta tu conciencia, más alto subes las filas de iniciación hasta alcanzar el cuarto nivel de iniciación donde ya no es necesario reencarnar. En el sexto nivel de iniciación ha logrado la unidad con el "Yo Soy" llegando así a la categoría de ser un "maestro ascendido".  
   
-La gente medita para ponerse en contacto con los maestros ascendidos, orar a los maestros ascendidos, e incluso usar las cartas del oráculo del maestro ascendido para la guía espiritual y la sabiduría. En la comunidad de la **[Nueva Era](http://www.ritualypropaganda.com/2017/04/10-ideas-falsas-nueva-era-sobre-dios.html)**, casi se han convertido en algún tipo de dioses que algunas personas incluso rezan por protección de la oscuridad y **[espíritus negativos en los planos astrales](https://www.ritualypropaganda.com/2016/05/proyeccion-astral-al-descubierto.html)**.  
+La gente medita para ponerse en contacto con los maestros ascendidos, orar a los maestros ascendidos, e incluso usar las cartas del oráculo del maestro ascendido para la guía espiritual y la sabiduría. En la comunidad de la **[Nueva Era](/estudios/10-ideas-falsas-nueva-era-sobre-dios)**, casi se han convertido en algún tipo de dioses que algunas personas incluso rezan por protección de la oscuridad y **[espíritus negativos en los planos astrales](/estudios/proyeccion-astral-al-descubierto)**.  
   
 Esto se considera algo totalmente inofensivo y espiritualmente seguro. Pero como estamos a punto de ver, los Maestros Ascendidos tienen orígenes mucho más oscuros.  
 
@@ -34,9 +34,9 @@ Esto se considera algo totalmente inofensivo y espiritualmente seguro. Pero como
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEianO-c4wp-vVDzJ55-Wx6tAi9j5wU3z6WXFgnyCv2ufHhuLYpRrePMvUCsik5wAQlRqe0C2dWwVO9inWmqKaNYuH13N_kwbngna8g0jE8emgaIbwA7RNGvW5ErbGCkm3zXp6iw28_zWyE/s1600/aliester-crowley.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEianO-c4wp-vVDzJ55-Wx6tAi9j5wU3z6WXFgnyCv2ufHhuLYpRrePMvUCsik5wAQlRqe0C2dWwVO9inWmqKaNYuH13N_kwbngna8g0jE8emgaIbwA7RNGvW5ErbGCkm3zXp6iw28_zWyE/s1600/aliester-crowley.jpg)
 
-Crowley era un famoso ocultista y satanista de los años 1900. Se refirió a sí mismo como "**[La Bestia 666](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**" y una vez dijo: "No me contentaba con creer en Satanás, quería ser su jefe de personal".  
+Crowley era un famoso ocultista y satanista de los años 1900. Se refirió a sí mismo como "**[La Bestia 666](/estudios/aleister-crowley-666-biografia-cultura-popular)**" y una vez dijo: "No me contentaba con creer en Satanás, quería ser su jefe de personal".  
   
-Solía torturar y matar animales, usar sangre menstrual para lanzar hechizos, admitió abiertamente que sacrificaba sangre a demonios, y realizaba **[magia sexual](http://www.ritualypropaganda.com/2015/10/la-magia-sexual-el-plan-cabalista-para.html)** en sus amantes, 5 de los cuales terminaron suicidándose. Él también era un francmasón de grado 33, un adicto a la heroína, y creía que:  
+Solía torturar y matar animales, usar sangre menstrual para lanzar hechizos, admitió abiertamente que sacrificaba sangre a demonios, y realizaba **[magia sexual](/estudios/la-magia-sexual-el-plan-cabalista-para)** en sus amantes, 5 de los cuales terminaron suicidándose. Él también era un francmasón de grado 33, un adicto a la heroína, y creía que:  
   
 
 > "PARA EL MÁS ALTO TRABAJO ESPIRITUAL DEBE DE ESCOGER A ESA VÍCTIMA QUE CONTIENE LA FORMA MÁS GRANDE Y PURA. UN NIÑO MASCULINO DE INOCENCIA PERFECTA Y ALTA INTELIGENCIA ES LA VICTIMA MÁS SATISFACTORIA Y ADECUADA... PORQUE PARA TODOS LOS PROPÓSITOS RELACIONADOS CON LA MAGIA, EL SACRIFICIO HUMANO ES EL MEJOR. "- CAPÍTULO 12 DEL SANGRADO SACRIFICIO: Y CUESTIONES RELACIONADAS.
@@ -58,7 +58,7 @@ publicó su primer trabajo sobre el concepto de rayos, las iniciaciones, y la Gr
   
 Este libro fue publicado bajo la editorial "Lucifer publishing Co.", que fue nombrada a partir de la revista original de la Sociedad Teosófica titulada "Lucifer". Alice Bailey era un miembro de la sociedad teosófica y esta sociedad se considera típicamente como lo que comenzó el movimiento entero de la nueva era. La Sociedad Teosófica era una escuela del misterio que enseñaba conocimiento esotérico y misterios antiguos.  
   
-La fundadora de la Sociedad Teosófica fue una descarada satanista llamada **[Helena Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html)**, que era una freemasona del grado 32. Aquí hay algunas citas del Volumen II de su libro La Doctrina Secreta, que por cierto fue un libro favorito de **[Adolf Hitler](http://www.ritualypropaganda.com/2017/05/hitler-era-cristiano-historiadores-dicen-no.html)**:  
+La fundadora de la Sociedad Teosófica fue una descarada satanista llamada **[Helena Blavatsky](/estudios/blavatsky-madame-nueva-era)**, que era una freemasona del grado 32. Aquí hay algunas citas del Volumen II de su libro La Doctrina Secreta, que por cierto fue un libro favorito de **[Adolf Hitler](/estudios/hitler-era-cristiano-historiadores-dicen-no)**:  
   
 "En este caso es natural, incluso desde el punto de vista de la carta muerta, ver a Satanás, la Serpiente del Génesis, como el verdadero creador y benefactor, el Padre de la humanidad Espiritual. Pues es él quien fue el "Portador de la Luz", luminoso y radiante Lucifer, quien abrió los ojos del autómata creado por Jehová, según lo alegado; Y el que fue el primero en susurrar: "en el día que comáis de él seréis como Elohim, conociendo el bien y el mal" - sólo puede considerarse a la luz de un Salvador."  
   
@@ -70,7 +70,7 @@ La fundadora de la Sociedad Teosófica fue una descarada satanista llamada **[He
   
 "Dios creó a Satanás, el más bello y más sabio de todas sus criaturas en esta parte de Su Universo, y lo convirtió en Príncipe del Mundo y del Poder del Aire ... Así, Satanás siendo perfecto en sabiduría y belleza, Su vasto imperio Es nuestra tierra, si no todo el sistema solar. . . . Ciertamente ningún otro poder angélico de mayor o igual dignidad nos ha sido revelado "(p.222).  
   
-Hay más de 100 referencias a Satanás en La Doctrina Secreta, que fue la obra principal de la fundadora de la Sociedad Teosófica. Y de acuerdo con "Ponder of This" de Alice Bailey, la mayor parte de la Doctrina Secreta fue canalizada a Helena por un Maestro Ascendido llamado Djwal Khul. Para leer más citas de ella sobre Satanás puede hacer **[clic aquí](http://www.ritualypropaganda.com/2014/01/quien-es-lucifer-una-historia-de.html)**.  
+Hay más de 100 referencias a Satanás en La Doctrina Secreta, que fue la obra principal de la fundadora de la Sociedad Teosófica. Y de acuerdo con "Ponder of This" de Alice Bailey, la mayor parte de la Doctrina Secreta fue canalizada a Helena por un Maestro Ascendido llamado Djwal Khul. Para leer más citas de ella sobre Satanás puede hacer **[clic aquí](/estudios/quien-es-lucifer-una-historia-de)**.  
   
 Así que la idea de los maestros ascendidos salió por primera vez de una escuela de misterio iniciada por un satanista y una editorial que lleva el nombre de Lucifer. Pero se pone peor.  
   
@@ -171,7 +171,7 @@ De acuerdo con Iniciación Solar y Humana, el Maestro Jesús fue encarnado anter
   
 Jesús entonces reencarnó otra vez como Jesús de Nazaret, y otra vez como el filósofo griego Apolonio de Tyana inmediatamente después de su muerte física alrededor de la mitad del primer siglo. Después de que él murió como Apollonios, se convirtió en un iniciado del 5.º nivel. Luego encarnó de nuevo como el filósofo hindú, Ramanuja.  
   
-Recomiendo leer: [La Farsa Extraterrestre: Predisponiendo A Las Masas Para La Aceptación De Vida En Otros Planetas - Parte I](http://www.ritualypropaganda.com/2012/06/la-farsa-extraterrestre-predisponiendo.html)  
+Recomiendo leer: [La Farsa Extraterrestre: Predisponiendo A Las Masas Para La Aceptación De Vida En Otros Planetas - Parte I](/estudios/la-farsa-extraterrestre-predisponiendo-a-las-masas-para-la-aceptacion-de-vida-en-2012-06)  
   
 Según la profeta Elizabeth Clare, la falsa profeta de la **[Church Universal and Triumphant](https://en.wikipedia.org/wiki/Church_Universal_and_Triumphant)**, la más grande religión sobre maestros ascendidos, el Maestro Jesús encarnó dos veces como el Emperador de la Atlántida, una vez en 33,050 a. C. y de nuevo en 15000 a. C.  
   
@@ -252,7 +252,7 @@ Si sientes una convicción en tu espíritu o una luz roja que se apaga en tu rad
   
 Sus enseñanzas son malas y no son de Dios. Son ángeles caídos que sirven al Señor del Mundo que ahora conocemos como Satanás, según los mismos teósofos.  
   
-Recomiendo leer: [Teorías De Control Mental Y Técnicas Utilizadas Por Los Medios Masivos](http://www.ritualypropaganda.com/2011/05/teorias-de-control-mental-y-tecnicas.html)  
+Recomiendo leer: [Teorías De Control Mental Y Técnicas Utilizadas Por Los Medios Masivos](/estudios/teorias-de-control-mental-y-tecnicas)  
   
 Como Jesús dijo en Mateo 24:24 "Porque falsos mesías y falsos profetas aparecerán y harán grandes señales y prodigios para engañar, si es posible, a los elegidos. Mira, lo he anunciado antes de tiempo". "Satanás mismo se disfraza de ángel de luz. No es de sorprender, entonces, que sus siervos también se disfracen como siervos de justicia." 2 Corintios 11:14-15.  
   

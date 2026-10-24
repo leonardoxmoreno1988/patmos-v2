@@ -20,7 +20,7 @@ tags: ["Sociedad", "Codex Magica", "Ocultismo", "Simbolismo"]
 > **"Karl Marx fue un adorador de Satanás... se unió a una secta satánica que usaban largas barbas descuidadas. Cada imagen de Karl Marx representa esto."\- Ralph Epperson, _Sociedades Secretas_ (cinta de audio de 1987)**
 
   
-El hombre cree que el satanismo y el culto luciferino está muy lejos respecto a los rituales, prácticas y filosofías de las sociedades secretas y la Orden de los Illuminati. De hecho, no hay distinción real entre estos grupos. Como el Dr. Michael Aquino, satanista importante y fundador del Templo de Set, una vez reconocido, los satanistas tienen una comprensión meramente "más precisa" de la realidad oculta. **[Aleister Crowley](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)**, satanista británico, que disfrutó de llamarse a sí mismo, "el hombre más malvado del planeta", sin duda habría estado de acuerdo con Aquino.  
+El hombre cree que el satanismo y el culto luciferino está muy lejos respecto a los rituales, prácticas y filosofías de las sociedades secretas y la Orden de los Illuminati. De hecho, no hay distinción real entre estos grupos. Como el Dr. Michael Aquino, satanista importante y fundador del Templo de Set, una vez reconocido, los satanistas tienen una comprensión meramente "más precisa" de la realidad oculta. **[Aleister Crowley](/estudios/aleister-crowley-666-biografia-cultura-popular)**, satanista británico, que disfrutó de llamarse a sí mismo, "el hombre más malvado del planeta", sin duda habría estado de acuerdo con Aquino.  
   
 **Nota:** Si deseas recibir más contenido sobre el ocultismo en la sociedad, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
   
@@ -64,7 +64,7 @@ Sin duda, el Círculo Interno de los Illuminati tienen objetivos específicos en
 
 El  juego es inspirar a los hombres a rechazar las leyes de Dios y golpear por una libertad, haciendo nuestros propios asuntos independientemente. En otras palabras, vivir libres más allá de los límites de la moral o del decoro. La lujuria, el sexo libre, conducta inmoral, violación, pillaje, saqueo—todo está permitido el nuevo hombre de la razón. Como el gran mandamiento de Crowley menciona, "Haz lo que desees será la totalidad de la ley."  
   
-Ahora Baphomet, el andrógino de cuernos, mitad hombre mujer, mitad cabra-dios de los caballeros templarios medievales, inculcaba esta filosofía de "Hagan sus propia cosas" del Iluminismo. Él es la imagen misma de la librepensador, el mason e iluminista que plantea la "**[antorcha de la libertad](http://www.ritualypropaganda.com/2012/05/el-significado-de-la-antorcha-olimpica.html)**", el fuego del infierno y la luz de Lucifer. La Orden del Temple, predecesora de los francmasones de hoy, veneraba a Baphomet como la deidad de la sabiduría. Mira de cerca el reverso del billete de un dólar EE.UU. y encontrará los cuernos de Baphomet meticulosamente diseñados y encajados.  
+Ahora Baphomet, el andrógino de cuernos, mitad hombre mujer, mitad cabra-dios de los caballeros templarios medievales, inculcaba esta filosofía de "Hagan sus propia cosas" del Iluminismo. Él es la imagen misma de la librepensador, el mason e iluminista que plantea la "**[antorcha de la libertad](/estudios/el-significado-de-la-antorcha-olimpica)**", el fuego del infierno y la luz de Lucifer. La Orden del Temple, predecesora de los francmasones de hoy, veneraba a Baphomet como la deidad de la sabiduría. Mira de cerca el reverso del billete de un dólar EE.UU. y encontrará los cuernos de Baphomet meticulosamente diseñados y encajados.  
   
 En este capítulo, usted descubrirá más sobre Baphomet; sobre el Hombre Verde; sobre Pan, la diosa bruja con cuernos; y de Crowley y su Ordo Templi Orientis (O.T.O.). Desde la época de Alejandro Magno, el dios de cuernos ha sido adorado por una porción significativa de la humanidad. La Biblia registra, por ejemplo, el culto de Baal, dios del fuego con cuernos.  
   
@@ -121,7 +121,7 @@ En las ceremonias de las religiones paganas, bautismos—falsificaciones del sac
 
 ## Un generación hipnotizada 
 
-Recientemente, numerosos jóvenes han sido llevados hacia el reino de Satanás a través de películas, dibujos animados, videojuegos, cómics y otros medios. Los **[libros de brujería de Harry Potter](http://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html)** han iniciado a muchos en los elementos más oscuros de infierno. Las películas de fantasía ocultas (Star Wars, Jedi, etc.) han borrado cualquier concepción de los absolutos y han traído cada vez más jóvenes hacia las filosofías satánicas.  
+Recientemente, numerosos jóvenes han sido llevados hacia el reino de Satanás a través de películas, dibujos animados, videojuegos, cómics y otros medios. Los **[libros de brujería de Harry Potter](/estudios/analisis-de-los-simbolos-ocultos-en)** han iniciado a muchos en los elementos más oscuros de infierno. Las películas de fantasía ocultas (Star Wars, Jedi, etc.) han borrado cualquier concepción de los absolutos y han traído cada vez más jóvenes hacia las filosofías satánicas.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiowiDpfBlYiawFXxl0iwn9CApjjoYAgzMft-M06ZPX-jbHKzPeDzsJPH5kF0mscWwDZIv54P7w2eGc-2tXf62SPA5h8HlJadSDul9LW-LhUlpaIgSiRR-2WQMiTpohU4t2vYIWOILcZfM/s400/coodex_78_small.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiowiDpfBlYiawFXxl0iwn9CApjjoYAgzMft-M06ZPX-jbHKzPeDzsJPH5kF0mscWwDZIv54P7w2eGc-2tXf62SPA5h8HlJadSDul9LW-LhUlpaIgSiRR-2WQMiTpohU4t2vYIWOILcZfM/s1600/coodex_78_small.jpg)
@@ -238,7 +238,7 @@ De acuerdo con esta noticia de The Associated Press (1 de abril, 1995), la tumba
 
   
 
-Los adoradores del conquistador griego, Alejandro Magno, le atribuyeron cuernos. Esto se cree que es emblemático de la energía divina de una persona y la perspicacia espiritual. Las monedas con el rostro de Alexander retrataron al líder militar griego como un toro con los cuernos y una **[antorcha](http://www.ritualypropaganda.com/2012/05/el-significado-de-la-antorcha-olimpica.html)** encendida en su cabeza.  
+Los adoradores del conquistador griego, Alejandro Magno, le atribuyeron cuernos. Esto se cree que es emblemático de la energía divina de una persona y la perspicacia espiritual. Las monedas con el rostro de Alexander retrataron al líder militar griego como un toro con los cuernos y una **[antorcha](/estudios/el-significado-de-la-antorcha-olimpica)** encendida en su cabeza.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQLobeOadZt2TMVKnh0tBPftARp3Il4olaD-A6-YsKqHlgX-650le_iplWS3MCdC1n0IhkG8mFsCtyWs1klRA9KhSm5Eh0GjX666447AOmkZxwBKwQshTh0X13JE9NCK5_1fjAas2KqA/s1600/moises-cuernos.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQLobeOadZt2TMVKnh0tBPftARp3Il4olaD-A6-YsKqHlgX-650le_iplWS3MCdC1n0IhkG8mFsCtyWs1klRA9KhSm5Eh0GjX666447AOmkZxwBKwQshTh0X13JE9NCK5_1fjAas2KqA/s1600/moises-cuernos.jpg)

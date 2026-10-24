@@ -31,7 +31,7 @@ Pocos saben que desde 1940 hasta su muerte en 1966, Walt Disney sirvió en [secr
   
 Después de abrir Disneyland en California, Disney quería seguir creciendo su imperio e imaginó, no solo crear otro parque temático, sino levantar toda una ciudad "mágica" en Orlando, Florida. Para comprar el terreno que necesitaría para este enorme proyecto, contó con la [ayuda de la CIA](https://www.thedailybeast.com/how-the-cia-helped-disney-conquer-florida).  
   
-Debido a la amistad con estas agencias secretas, la corporación Disney también parece haberlas ayudado en sus programas de control mental. Las obras hechas por Disney, como Alicia en el país de las maravillas (1951) y El mago de Oz (1939), se usaron y muy probablemente aún se usan para condicionar niños durante los programas [MK-Ultra](https://en.wikipedia.org/wiki/Project_MKUltra) y [Monarca](https://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html) de la CIA. Esto ha sido expuesto por víctimas como Cathy O'Brien y el autor de Linajes de los Illuminati, Fritz Springmeier.
+Debido a la amistad con estas agencias secretas, la corporación Disney también parece haberlas ayudado en sus programas de control mental. Las obras hechas por Disney, como Alicia en el país de las maravillas (1951) y El mago de Oz (1939), se usaron y muy probablemente aún se usan para condicionar niños durante los programas [MK-Ultra](https://en.wikipedia.org/wiki/Project_MKUltra) y [Monarca](/estudios/origenes-y-tecnica-del-control-mental) de la CIA. Esto ha sido expuesto por víctimas como Cathy O'Brien y el autor de Linajes de los Illuminati, Fritz Springmeier.
 
   
 

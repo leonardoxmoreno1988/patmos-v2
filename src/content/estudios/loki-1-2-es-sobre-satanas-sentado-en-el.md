@@ -46,13 +46,13 @@ Al final, Loki y Sylvie llegan a la fuente original de la sagrada línea del tie
 
 Sylvie asesina a "Aquel que permanece", pero todo era parte de su plan, ya que él sigue viviendo en otros tiempos y otras variantes. Su muerte solo protege la línea de tiempo original y destruye las otras.  
   
-La serie promueve el concepto que tanto el pasado como el futuro están conectados, de tal forma que la realidad es una serie de eventos circulares sin fin. Esta es una enseñanza de las escuelas de misterio, muchas veces representada con el símbolo satánico del [Ouroboros](https://www.ritualypropaganda.com/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html). La serpiente mordiendo su cola.  
+La serie promueve el concepto que tanto el pasado como el futuro están conectados, de tal forma que la realidad es una serie de eventos circulares sin fin. Esta es una enseñanza de las escuelas de misterio, muchas veces representada con el símbolo satánico del [Ouroboros](/estudios/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros). La serpiente mordiendo su cola.  
   
 La muerte de "Aquel que permanece" ocasiona la creación de muchas líneas de tiempo alternas, y la inminente destrucción de todas estas líneas debido a una sobrecarga dentro del sistema de la TVA. Loki y sus aliados deben evitar este colapso y la "muerte de millones de personas" que habitan en esas realidades. Otra representación del [final de los tiempos](https://www.culturaocio.com/tv/noticia-productor-loki-explica-apocalipsis-cuarto-episodio-si-alguien-sigue-vivo-20231030105722.html) y el Apocalipsis.  
   
 Loki obtiene la capacidad de volver al pasado, intentando una y otra vez que el sistema no se sobrecargue y desintegre a todos. Él falla en cada ocasión, repitiendo el ciclo una y otra vez sin poder evitar el fin de todos estos universos. Él, al igual que Lucifer, tiene la capacidad de vivir sobre el tiempo que percibimos como humanos.  
   
-Al final entiende que la única opción que puede evitar la destrucción total es el autosacrificio (Efesios 5:2), tomando la [figura crística](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html) en su totalidad. Él, como villano original, se redime hacia una forma de héroe (2 Corintios 11:14).  
+Al final entiende que la única opción que puede evitar la destrucción total es el autosacrificio (Efesios 5:2), tomando la [figura crística](/estudios/anticristo-en-el-cine) en su totalidad. Él, como villano original, se redime hacia una forma de héroe (2 Corintios 11:14).  
   
 ![](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/433/original/loki-trono.jpg)  
   
@@ -66,7 +66,7 @@ Al ocupar el trono y sostener todas las ramas del tiempo, el personaje se hace u
 > "el cual, siendo el resplandor de su gloria, y la imagen misma de su sustancia, y quien sustenta todas las cosas con la palabra de su poder, habiendo efectuado la purificación de nuestros pecados por medio de sí mismo, se sentó a la diestra de la Majestad en las alturas,"  
 > –Hebreos 1:3
 
-En su objetivo de salvar todas las realidades alternas, Loki y sus aliados manipulan [la tecnología](https://www.ritualypropaganda.com/2023/05/inteligencia-artificial-2.html), la magia y la ciencia (Daniel 12:4) como uno solo, lo que expone cómo estos tres elementos evolucionarán como parte de las señales de los tiempos finales.  
+En su objetivo de salvar todas las realidades alternas, Loki y sus aliados manipulan [la tecnología](/estudios/inteligencia-artificial-2), la magia y la ciencia (Daniel 12:4) como uno solo, lo que expone cómo estos tres elementos evolucionarán como parte de las señales de los tiempos finales.  
   
 En resumen, usando este tipo de series de ficción, Satanás justifica su deseo de sentarse en el trono de Dios (Isaías 14:13-15). Sin embargo, sabemos que, al igual que Loki, él es solo el dios del engaño y la mentira (Juan 8:44).  
   

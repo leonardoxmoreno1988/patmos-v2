@@ -20,7 +20,7 @@ Al profesor Gallagher no le falta experiencia en este tema: "Durante las última
 
   
 
-Él es consciente de que esto es "un papel poco usual para un médico académico, pero no veo estos dos aspectos de mi carrera en conflicto. Los mismos hábitos que configuran lo que hago como profesor y psiquiatra -la mentalidad abierta, el respeto por la evidencia y la compasión por un pueblo que sufre- me llevaron a ayudar en el trabajo de discernir ataques de lo que yo creo son **[espíritus malignos](http://www.ritualypropaganda.com/2017/03/demonios-que-son-diferentes-tipos.html)** y, diferenciando estos eventos extremadamente raros de las condiciones médicas".
+Él es consciente de que esto es "un papel poco usual para un médico académico, pero no veo estos dos aspectos de mi carrera en conflicto. Los mismos hábitos que configuran lo que hago como profesor y psiquiatra -la mentalidad abierta, el respeto por la evidencia y la compasión por un pueblo que sufre- me llevaron a ayudar en el trabajo de discernir ataques de lo que yo creo son **[espíritus malignos](/estudios/demonios-que-son-diferentes-tipos)** y, diferenciando estos eventos extremadamente raros de las condiciones médicas".
 
   
 
@@ -72,7 +72,7 @@ Pero Gallagher es muy consciente de la falsedad y, lo que se conoce como "pseudo
 
   
 
-Los médicos ven pacientes psicóticos todo el tiempo que afirman ver u oír a los **[demonios](http://www.ritualypropaganda.com/2017/03/demonios-que-son-diferentes-tipos.html)**; histriónicos o sumamente sugestionables, como los que padecen síndromes de identidad disociativos; y pacientes con trastornos de la personalidad que son propensos a malinterpretar sentimientos destructivos".
+Los médicos ven pacientes psicóticos todo el tiempo que afirman ver u oír a los **[demonios](/estudios/demonios-que-son-diferentes-tipos)**; histriónicos o sumamente sugestionables, como los que padecen síndromes de identidad disociativos; y pacientes con trastornos de la personalidad que son propensos a malinterpretar sentimientos destructivos".
 
   
 

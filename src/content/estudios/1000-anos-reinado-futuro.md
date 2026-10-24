@@ -53,9 +53,9 @@ Si uno toma la profecía bíblica literalmente, se hace evidente que el mundo se
   
 Este reino solo iniciará cuando el Señor regrese a la tierra en su Segunda Venida y establezca su reino de justicia y paz en la tierra (Revelación 5:10).  
   
-Muchos de los defensores de un [gobierno mundial](https://www.ritualypropaganda.com/2016/07/que-es-el-nuevo-orden-mundial.html) hoy en día creen que la única esperanza para la paz en nuestro tiempo es tener un líder mundial. Pero ningún simple ser humano es competente para ocupar este puesto.  
+Muchos de los defensores de un [gobierno mundial](/estudios/que-es-el-nuevo-orden-mundial) hoy en día creen que la única esperanza para la paz en nuestro tiempo es tener un líder mundial. Pero ningún simple ser humano es competente para ocupar este puesto.  
   
-[El Anticristo](https://www.ritualypropaganda.com/2021/09/anticristo-en-el-cine.html) tendrá el papel de gobernante mundial durante el período de la Tribulación, por lo que inevitablemente todo empezará a colapsar para la humanidad.  
+[El Anticristo](/estudios/anticristo-en-el-cine) tendrá el papel de gobernante mundial durante el período de la Tribulación, por lo que inevitablemente todo empezará a colapsar para la humanidad.  
   
 La Tierra requiere un líder santo y justo que tenga la capacidad de liderar el planeta. Solo Jesucristo tiene las aptitudes para ese rol, y hasta que Él venga, el mundo nunca conocerá la paz.  
   

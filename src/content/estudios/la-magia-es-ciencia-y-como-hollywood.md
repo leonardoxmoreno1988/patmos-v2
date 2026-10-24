@@ -31,7 +31,7 @@ Por ahora veremos solo algunas producciones de Hollywood, su simbología illumin
 
 ## Thor (2011)
 
-Una de las películas que sobresale por la definición de esta doctrina es Thor, basado en un personaje de Marvel Comics -Pueden leer el artículo [Las Conspiraciones de Marvel y los New Avenger Illuminati](https://www.ritualypropaganda.com/2009/09/conspiraciones-de-marvel-y-los-new.html)\- En este film Thor es el Dios del trueno que cae a la tierra al ser desterrado por su padre.
+Una de las películas que sobresale por la definición de esta doctrina es Thor, basado en un personaje de Marvel Comics -Pueden leer el artículo [Las Conspiraciones de Marvel y los New Avenger Illuminati](/estudios/conspiraciones-de-marvel-y-los-new)\- En este film Thor es el Dios del trueno que cae a la tierra al ser desterrado por su padre.
 
   
   
@@ -56,7 +56,7 @@ Básicamente Thor es el hijo de Odín, el cual cae a la tierra como un rayo, rep
 
   
 
-Al igual que expliqué en el artículo de [Harry Potter y las Reliquias de la Muerte](http://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html), en esta película también se maneja el dualismo y la inversión de Cristo/Lucifer, como fue en Harry/Voldemort, es en este caso Thor/Loki. Mientras que Loki hace el papel del hijo traidor -con traje de cuernos- que se revela y se vuelve al mal, Thor se compadece de la raza humana y decide sacrificarse por ella, esta semejanza con Cristo se hace más evidente cuando resucita de la muerte y regresa a pelear con su hermano en los "cielos" que es representado como Asgard. Tener en cuenta también la mitología egipcia de los hermanos Horus y Seth.  
+Al igual que expliqué en el artículo de [Harry Potter y las Reliquias de la Muerte](/estudios/analisis-de-los-simbolos-ocultos-en), en esta película también se maneja el dualismo y la inversión de Cristo/Lucifer, como fue en Harry/Voldemort, es en este caso Thor/Loki. Mientras que Loki hace el papel del hijo traidor -con traje de cuernos- que se revela y se vuelve al mal, Thor se compadece de la raza humana y decide sacrificarse por ella, esta semejanza con Cristo se hace más evidente cuando resucita de la muerte y regresa a pelear con su hermano en los "cielos" que es representado como Asgard. Tener en cuenta también la mitología egipcia de los hermanos Horus y Seth.  
   
 La historia de "Thor" forma la gran narrativa del Dios Padre (Odín), redimiendo a la humanidad a través de su hijo, Jesucristo. Esto también se ve en "The Matrix", mediante Neo, el cual no es un paralelo perfecto, ni una alegoría tan trabajada como el León Aslan en "Las Crónicas de Narnia", pero es más que una coincidencia.  
   
@@ -130,11 +130,11 @@ En la película Capitán América vemos a Steve Rogers, un joven que debido a su
 
   
 
-Estos experimentos para crear a los supersoldados realmente se efectuaron y si estuvieron muy relacionados con la segunda guerra mundial, el proyecto MK ULTRA nació debido a decenas de científicos Nazis que el gobierno estadounidense deportó a sus propias bases subterráneas. El trato era de seguir con su experimentación en humanos y el control de la mente. Esta práctica sádica consistía en la fragmentación de la mente mediante torturas, violación y castigos físicos que llevaban a la víctima a desarrollar un desorden de personalidad múltiple (MPD). Pueden leer más acerca de esto en [Origen y Técnicas del Control Mental Monarca](http://www.ritualypropaganda.com/2011/06/origenes-y-tecnica-del-control-mental.html). Mientras que miles de mujeres se programaron para ser esclavas sexuales, algunos hombres formaron parte del Proyecto Talent o Proyecto Mannequin para crear supersoldados y espías. En la película podemos ver diversas sugerencia al control de la mente y su relación con la experimentación Nazi.
+Estos experimentos para crear a los supersoldados realmente se efectuaron y si estuvieron muy relacionados con la segunda guerra mundial, el proyecto MK ULTRA nació debido a decenas de científicos Nazis que el gobierno estadounidense deportó a sus propias bases subterráneas. El trato era de seguir con su experimentación en humanos y el control de la mente. Esta práctica sádica consistía en la fragmentación de la mente mediante torturas, violación y castigos físicos que llevaban a la víctima a desarrollar un desorden de personalidad múltiple (MPD). Pueden leer más acerca de esto en [Origen y Técnicas del Control Mental Monarca](/estudios/origenes-y-tecnica-del-control-mental). Mientras que miles de mujeres se programaron para ser esclavas sexuales, algunos hombres formaron parte del Proyecto Talent o Proyecto Mannequin para crear supersoldados y espías. En la película podemos ver diversas sugerencia al control de la mente y su relación con la experimentación Nazi.
 
   
 
-Otro hecho basado en la realidad y llevado a la película fue una división de los Nazis llamada Cráneo Rojo, encargada de buscar nuevas fuentes del conocimiento oculto para ganar la guerra. Johann Schmidt es el líder de Cráneo Rojo, un ser que en la película busca una fuente de poder inagotable y que le daría ventaja en la guerra incluso por encima de [Adolf Hitler](http://www.ritualypropaganda.com/2017/05/hitler-era-cristiano-historiadores-dicen-no.html). Este personaje, al igual que su organización sí existieron en la historia con el nombre de Sociedad Thule. Esta sociedad fue literalmente ocultista y basaba sus creencias en rituales de magia y la brujería. La Sociedad Thule afirmaba que la raza aria era una de las descendientes de la Atlántida y que debido a su pureza era la única que debía prevalecer, esta estrecha relación con el racismo la llevó a fusionarse con el Partido Nazi de Hitler. Muchas teorías afirman que la Sociedad Thule no dejo de existir, sino que se volvió una división interna del Partido Nazi, muchos de los miembros se volvieron funcionarios de alto rango de Hitler y se dice que lo adiestraron en el ocultismo y sus doctrinas místicas. Heinrich Himmler era uno de ellos y fácilmente podría ser el Johann Schmidt que vemos en la película.  
+Otro hecho basado en la realidad y llevado a la película fue una división de los Nazis llamada Cráneo Rojo, encargada de buscar nuevas fuentes del conocimiento oculto para ganar la guerra. Johann Schmidt es el líder de Cráneo Rojo, un ser que en la película busca una fuente de poder inagotable y que le daría ventaja en la guerra incluso por encima de [Adolf Hitler](/estudios/hitler-era-cristiano-historiadores-dicen-no). Este personaje, al igual que su organización sí existieron en la historia con el nombre de Sociedad Thule. Esta sociedad fue literalmente ocultista y basaba sus creencias en rituales de magia y la brujería. La Sociedad Thule afirmaba que la raza aria era una de las descendientes de la Atlántida y que debido a su pureza era la única que debía prevalecer, esta estrecha relación con el racismo la llevó a fusionarse con el Partido Nazi de Hitler. Muchas teorías afirman que la Sociedad Thule no dejo de existir, sino que se volvió una división interna del Partido Nazi, muchos de los miembros se volvieron funcionarios de alto rango de Hitler y se dice que lo adiestraron en el ocultismo y sus doctrinas místicas. Heinrich Himmler era uno de ellos y fácilmente podría ser el Johann Schmidt que vemos en la película.  
   
 Una escena muy simbólica se puede ver al comienzo cuando Johann Schmidt entra abruptamente a un castillo para robar "el cubo". El anciano que resguarda este artefacto sostiene una pequeña conversación con Schmidt antes de su muerte. 
 
@@ -177,7 +177,7 @@ Después de robar el cubo, Schmidt es visitado por Nazis para ver los avances de
 > "Y suponemos que espera ganar esta guerra con magia..."  
 > "¡Ciencia! Pero entiendo su confusión, el poder causa ese efecto en los hombres primitivos."
 
-Luego se rebela contra los propios Nazis y los asesina, creando su propio ejército y con sus propios métodos de conquista mundial. La intención de interpretar la magia como ciencia es muy constante durante el avance de la película y como también hemos visto en casi todas las últimas producciones de Marvel, en el caso de Iron Man es mediante el [transhumanismo](http://www.ritualypropaganda.com/2017/07/transhumanismo-industria-musical-y-el-futuro.html) y su vínculo con el dios Prometeo.
+Luego se rebela contra los propios Nazis y los asesina, creando su propio ejército y con sus propios métodos de conquista mundial. La intención de interpretar la magia como ciencia es muy constante durante el avance de la película y como también hemos visto en casi todas las últimas producciones de Marvel, en el caso de Iron Man es mediante el [transhumanismo](/estudios/transhumanismo-industria-musical-y-el-futuro) y su vínculo con el dios Prometeo.
 
 ## El Aprendiz de Brujo (2010)
 
@@ -231,7 +231,7 @@ Después de una escena superheróica, este la derrota usando sus conocimientos d
 
   
 
-Resumiendo, la película es otro intento de la élite por combinar la ciencia con las prácticas ocultistas realizadas desde hace miles de años. La magia negra y la hechicería son algo muy mencionado en las películas de Disney, y muestra su gran esfuerzo por incorporar la nueva doctrina illuminati. Para muchos incluso desarrolló el concepto de mago bueno versus mago malo, sin embargo no existe mago bueno, ya que la misma práctica de la hechicería requiere trabajar sobre el canal de [espíritus astrales](https://www.ritualypropaganda.com/2016/05/proyeccion-astral-al-descubierto.html) o demonios en otros planos.
+Resumiendo, la película es otro intento de la élite por combinar la ciencia con las prácticas ocultistas realizadas desde hace miles de años. La magia negra y la hechicería son algo muy mencionado en las películas de Disney, y muestra su gran esfuerzo por incorporar la nueva doctrina illuminati. Para muchos incluso desarrolló el concepto de mago bueno versus mago malo, sin embargo no existe mago bueno, ya que la misma práctica de la hechicería requiere trabajar sobre el canal de [espíritus astrales](/estudios/proyeccion-astral-al-descubierto) o demonios en otros planos.
 
   
 
@@ -265,7 +265,7 @@ Fue una escritora, ocultista y teósofa rusa. Fue también una de las fundadoras
 [![](https://freemasonrywatch.org/pics/crowleytriangle.jpg)](http://freemasonrywatch.org/pics/crowleytriangle.jpg)
 
   
-Autodenominado The Great Beast ([La Gran Bestia](http://www.ritualypropaganda.com/2017/07/aleister-crowley-666-biografia-cultura-popular.html)), fue un influyente ocultista, místico y mago ceremonial, que fundó la filosofía religiosa de Thelema. Fue miembro de la organización esotérica Hermetic Order of the Golden Dawn, además de co-fundador de la A∴A∴ y, finalmente, líder de la Ordo Templi Orientis (O.T.O.). Actualmente es conocido por sus escritos sobre magia, especialmente por El Libro de la Ley, el libro sagrado del Thelema.  
+Autodenominado The Great Beast ([La Gran Bestia](/estudios/aleister-crowley-666-biografia-cultura-popular)), fue un influyente ocultista, místico y mago ceremonial, que fundó la filosofía religiosa de Thelema. Fue miembro de la organización esotérica Hermetic Order of the Golden Dawn, además de co-fundador de la A∴A∴ y, finalmente, líder de la Ordo Templi Orientis (O.T.O.). Actualmente es conocido por sus escritos sobre magia, especialmente por El Libro de la Ley, el libro sagrado del Thelema.  
 
 > "Sin lugar a dudas, la magia es una de las más sutiles y más difíciles de las ciencias y las artes. Hay más probabilidad para los errores de comprensión, juicio y práctica que en cualquier otra rama de la física."  
 > \- Aleister Crowley - 777 And Other Qabalistic Writings

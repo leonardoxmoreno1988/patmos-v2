@@ -9,7 +9,7 @@ description: "Un cómic de la serie Los Cruzados que expone la historia de los j
 tags: ["Falsas Doctrinas", "Apologética", "Jesuitas", "Cómic"]
 ---
 
-En este interesante cómic de la serie **"Los Cruzados"** (Previamente visto en la serie de **[Alberto Rivera](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)**) se expone la historia de los **Jesuitas**, sus planes secretos y cómo esta propia institución religiosa vive dentro de otra, La Iglesia Católica Romana.
+En este interesante cómic de la serie **"Los Cruzados"** (Previamente visto en la serie de **[Alberto Rivera](/estudios/alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-1)**) se expone la historia de los **Jesuitas**, sus planes secretos y cómo esta propia institución religiosa vive dentro de otra, La Iglesia Católica Romana.
 
   
 

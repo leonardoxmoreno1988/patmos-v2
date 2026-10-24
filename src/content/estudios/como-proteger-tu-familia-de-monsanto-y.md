@@ -34,7 +34,7 @@ Pero no teníamos idea de que lo que estábamos sirviendo era veneno.
   
 Yo no sabía que mis palomitas "Simple Salt" de la marca Orville Redenbacher fueron modificadas genéticamente. El embalaje parecía tan sencillo, con colores terrosos y la palabra "Naturals" en grandes letras marrones. He estado comprando este alimento contaminado durante años y alimentando a mi hijo.  
   
-**También leer: [Los Alimentos Más Saludables del Planeta y la Dieta Sana](http://www.ritualypropaganda.com/2015/09/los-alimentos-mas-saludables-del-planeta.html)**  
+**También leer: [Los Alimentos Más Saludables del Planeta y la Dieta Sana](/estudios/los-alimentos-mas-saludables-del-planeta)**  
   
 Hago un esfuerzo para ser una compradora responsable. He leído mis etiquetas de pan y paso todo lo "enriquecido", nunca compro productos con edulcorantes falsos e intento comprar frutas y verduras orgánicas. Mi hijo es un delicado con la comida, así que compré productos con bajo contenido de azúcar. Pensé que una galleta de trigo era un bocado decente porque estas eran las golosinas que mi madre me dio.  
   
@@ -66,7 +66,7 @@ El uso de ambos, neonicotinoides y cultivos transgénicos, está prohibido en Eu
   
 Monsanto también ha formado una sociedad con una compañía farmacéutica llamada Alnylam Farmacéuticos Inc. para crear bioplaguicidas. Alnylam también tiene medicamentos avanzados para el tratamiento de cánceres de hígado y tumores. Monsanto produce el alimento que causa enfermedades y luego se asocia con las empresas que las curan.  
   
-**También leer: [Los Alimentos Más Saludables del Planeta y la Dieta Sana](http://www.ritualypropaganda.com/2015/09/los-alimentos-mas-saludables-del-planeta.html)**  
+**También leer: [Los Alimentos Más Saludables del Planeta y la Dieta Sana](/estudios/los-alimentos-mas-saludables-del-planeta)**  
   
 La semana pasada, vacié mis gabinetes de la cocina. Me sorprendí al ver la cantidad de cosas en mis armarios que fueron modificados genéticamente.  
   
@@ -166,7 +166,7 @@ Chunky
 
   
 
-**[Coca Cola](http://www.ritualypropaganda.com/2012/04/verdades-que-usted-debe-conocer-antes.html)**
+**[Coca Cola](/estudios/verdades-que-usted-debe-conocer-antes)**
 
   
 

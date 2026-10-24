@@ -21,7 +21,7 @@ De todos los **engaños** que envuelven hoy en día a la humanidad, no he descub
 
   
 
-Desde los que saludan con el “Namaste”, sin saber qué es lo que dicen exactamente y cual es el origen del uso, tan extendido en nuestros días, de esa palabra; a los que hablan de un tal “Maitreya” sin conocerlo, pasando por los que se apuntan a talleres de Kabalah, a los que creen que profundizan en su sabiduría si aprenden a “canalizar” a “sabios maestros del más allá”, o los que leen a **[Helena Blavatsky](https://www.ritualypropaganda.com/2021/04/blavatsky-madame-nueva-era.html)** creyendo que era una santa y pura, todos han caído, en un grado o en otro, en alguna trampa de la Nueva Era, y su nueva religión mundial.  
+Desde los que saludan con el “Namaste”, sin saber qué es lo que dicen exactamente y cual es el origen del uso, tan extendido en nuestros días, de esa palabra; a los que hablan de un tal “Maitreya” sin conocerlo, pasando por los que se apuntan a talleres de Kabalah, a los que creen que profundizan en su sabiduría si aprenden a “canalizar” a “sabios maestros del más allá”, o los que leen a **[Helena Blavatsky](/estudios/blavatsky-madame-nueva-era)** creyendo que era una santa y pura, todos han caído, en un grado o en otro, en alguna trampa de la Nueva Era, y su nueva religión mundial.  
 
   
 
@@ -175,7 +175,7 @@ Blavatsky escribió entre otras cosas lo siguiente:
   
 “Satán, la Serpiente del Génesis, es el creador real y el benefactor, el Padre de la humanidad Espiritual. Por esa razón abrió los ojos del autómata (Adam) creado por Yahweh, siendo un adversario para éste. Aun hoy permanece en la Verdad Esotérica el mensajero siempre amado, que confirió a la humanidad la inmortalidad espiritual, en lugar de la inmortalidad física”.  
   
-Ella aseguraba que había tenido experiencias con **[proyecciones astrales](https://www.ritualypropaganda.com/2016/05/proyeccion-astral-al-descubierto.html)** y la capacidad de comunicar cuando quisiera con el mundo espiritual. Sus libros, “Isis Sin Velo” y sus “la Doctrina Secreta” de 3 volúmenes, fueron escritos, supuestamente por medio de su canalización de los “Maestros de la Sabiduría”, “hombres sagrados” tibetanos, que cualquier cristiano, judío o musulmán reconocería fácilmente con el sinónimo de demonios.  
+Ella aseguraba que había tenido experiencias con **[proyecciones astrales](/estudios/proyeccion-astral-al-descubierto)** y la capacidad de comunicar cuando quisiera con el mundo espiritual. Sus libros, “Isis Sin Velo” y sus “la Doctrina Secreta” de 3 volúmenes, fueron escritos, supuestamente por medio de su canalización de los “Maestros de la Sabiduría”, “hombres sagrados” tibetanos, que cualquier cristiano, judío o musulmán reconocería fácilmente con el sinónimo de demonios.  
   
  En su libro, “La Doctrina Secreta”, Blavatsky escribió:  
   
@@ -210,7 +210,7 @@ Este “plan” consiste en llegar a la “Convergencia Harmónica”, también 
   
 Cuando el Gobierno Mundial y la religión mundial se hayan alcanzado finalmente, la Nueva Era, o la Era de Acuario, habrá sido alcanzada. Sólo entonces, aparecerá el Cambio (el Avatar) y la implementación del Nuevo Orden Mundial comenzará completamente.  
   
-Este “Cristo” es también conocido como Lord (Señor) Maitreya, del cual ellos dicen que es también esperado por los judíos, musulmanes, budistas e hindúes, aunque es conocido por estos creyentes respectivamente como el Mesías, el Imán Mahdi, el quinto Buda, o **[Krishna](http://www.ritualypropaganda.com/2017/03/muerte-resurreccion-jesus-copiada-krishna.html)**.  
+Este “Cristo” es también conocido como Lord (Señor) Maitreya, del cual ellos dicen que es también esperado por los judíos, musulmanes, budistas e hindúes, aunque es conocido por estos creyentes respectivamente como el Mesías, el Imán Mahdi, el quinto Buda, o **[Krishna](/estudios/muerte-resurreccion-jesus-copiada-krishna)**.  
   
 Bailey deja muy claro que habrá también una religión mundial:  
   

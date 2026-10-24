@@ -76,7 +76,7 @@ El aumento es increíblemente notorio de jóvenes que se identificaron como neop
 con la promoción de la Wicca.**
 
   
-En los últimos años, Hollywood ha dirigido a nuestra juventud a través de un largo desfile de producciones subversivas ocultas. Más allá de las dos primeras entregas de Crepúsculo y una procesión interminable de películas de [Harry Potter](http://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html), otros títulos incluyen The Craft, Practical Magic, Embrujadas, Buffy the Vampire Slayer, Sabrina la bruja adolescente, Los Hechiceros de Waverly Place, y la lista sigue y sigue. Dichas películas, junto con los dibujos animados y la música popular para glorificar lo oculto, han sido armas poderosas en el arsenal de Satanás y se utilizan como herramientas para seducir a jóvenes impresionables a su reino, desde la cuna hasta la tumba.  
+En los últimos años, Hollywood ha dirigido a nuestra juventud a través de un largo desfile de producciones subversivas ocultas. Más allá de las dos primeras entregas de Crepúsculo y una procesión interminable de películas de [Harry Potter](/estudios/analisis-de-los-simbolos-ocultos-en), otros títulos incluyen The Craft, Practical Magic, Embrujadas, Buffy the Vampire Slayer, Sabrina la bruja adolescente, Los Hechiceros de Waverly Place, y la lista sigue y sigue. Dichas películas, junto con los dibujos animados y la música popular para glorificar lo oculto, han sido armas poderosas en el arsenal de Satanás y se utilizan como herramientas para seducir a jóvenes impresionables a su reino, desde la cuna hasta la tumba.  
   
 Cuando se produjo nuestro documental sobre Harry Potter, advirtió sobre que una reactivación oculta pudiera producirse como consecuencia de tales producciones infames. Si bien muchos afirmaron que Harry Potter era de algún modo seguro, el trágico resultado fue un reclutamiento masivo de nuestra juventud hacia la Wicca y a otras construcciones ocultas neopaganas. Aunque parezca increíble, la evidencia es evidente de un renacimiento de neopaganos... incluso MTV reconoció que nuestro ministerio y otros que habían previsto este tipo de advertencias resultaron ser correctas.  
   
@@ -243,7 +243,7 @@ Mientras Satanás aparece para premiar a algunos de sus funcionarios así (tempo
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixx0fhSsZohaTPrAj-hEn-mv4SpH9WMMwbxhXQZGwT9RVqnpXA34K2MYGXhxzH6qPBvdH4DQaG0gNoMQdD-rggqSwOAoZ70u4zYXNlCc93tqP3Oa4fNlhjMkWj4_MVySJ7X7EKC2yKTlU/s1600/harry-potter-reliquias-muerte-2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixx0fhSsZohaTPrAj-hEn-mv4SpH9WMMwbxhXQZGwT9RVqnpXA34K2MYGXhxzH6qPBvdH4DQaG0gNoMQdD-rggqSwOAoZ70u4zYXNlCc93tqP3Oa4fNlhjMkWj4_MVySJ7X7EKC2yKTlU/s1600/harry-potter-reliquias-muerte-2.jpg)
 
-**(Símbolo de las reliquias de la muerte como el ojo que todo lo ve. Para mayor entendimiento leer el artículo "[Análisis De Los Símbolos Ocultos en Harry Potter Y Las Reliquias De La Muerte](http://www.ritualypropaganda.com/2011/05/analisis-de-los-simbolos-ocultos-en.html)".)**
+**(Símbolo de las reliquias de la muerte como el ojo que todo lo ve. Para mayor entendimiento leer el artículo "[Análisis De Los Símbolos Ocultos en Harry Potter Y Las Reliquias De La Muerte](/estudios/analisis-de-los-simbolos-ocultos-en)".)**
 
 ## La Luz Verdadera
 

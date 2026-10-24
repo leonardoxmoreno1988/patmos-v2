@@ -11,7 +11,7 @@ tags: ["Escatología", "Arrebatamiento", "Segunda Venida", "Tribulación"]
 
 Estimado lector,  
   
-Los que unen el arrebatamiento y la [Segunda Venida de Cristo](https://www.ritualypropaganda.com/2022/08/monte-de-los-olivos.html) al final de la Tribulación se oponen a la idea de que pueda haber dos etapas o fases de un solo evento. Sostienen que esto en realidad enseña dos venidas futuras de Cristo, asegurando que la Biblia enseña solo una.  
+Los que unen el arrebatamiento y la [Segunda Venida de Cristo](/estudios/monte-de-los-olivos) al final de la Tribulación se oponen a la idea de que pueda haber dos etapas o fases de un solo evento. Sostienen que esto en realidad enseña dos venidas futuras de Cristo, asegurando que la Biblia enseña solo una.  
   
 Pero es importante observar que también hubo múltiples aspectos o fases de la primera venida de Cristo: Su nacimiento, su ministerio muchos años después, su muerte y resurrección, y su ascensión.  
   
@@ -21,7 +21,7 @@ Sabemos que su espíritu dejó su cuerpo después de la muerte y regresó en el 
 
   
 
-De la misma manera, las Escrituras sugieren que hay dos aspectos de la Segunda Venida del Señor: [el rapto o arrebatamiento](https://www.ritualypropaganda.com/2022/02/rapto-arrebatamiento.html), que tiene lugar en el aire, y el regreso visible, que comienza en el aire pero termina con los pies de Cristo en la tierra (Zacarías 14:4).  
+De la misma manera, las Escrituras sugieren que hay dos aspectos de la Segunda Venida del Señor: [el rapto o arrebatamiento](/estudios/rapto-arrebatamiento), que tiene lugar en el aire, y el regreso visible, que comienza en el aire pero termina con los pies de Cristo en la tierra (Zacarías 14:4).  
   
 Pero incluso aceptando la noción de que el rapto (harpazo) pre-tribulacional no forma parte de la Segunda Venida, no podemos negar la diferencia de estos dos eventos que se describen en la Biblia. Hay tres pasajes principales del rapto en el Nuevo Testamento: Juan 14:1-3; 1 Corintios 15:51-55; 1 Tesalonicenses 4:13-18. Mientras que los principales pasajes de la Segunda Venida son Zacarías 14:1-21; Mateo 24:29-31; Marcos 13:24-27; Lucas 21:25-27; y Revelación 19:11-21.  
   
@@ -31,11 +31,11 @@ Por ejemplo, en el rapto no hay señales que deban tener lugar antes. Es inminen
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2KnDtaIXCHrRY0IgG-NbxEzI0dvL_415hrrH0FunqjIECRfusSz9HMfHQh1RhbZNThsp4B1vRZchPk70EPV9dTAkUMB3wI0h-3_-ZZhIkFaQIa8jEGGaGW-Nt84zdC02MOLvKYvDnaSKrH48uMbW9OKhAMdCDbM6fekR4i5_xy1WMlmZTuvP6tdUY/s16000/red-moon.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2KnDtaIXCHrRY0IgG-NbxEzI0dvL_415hrrH0FunqjIECRfusSz9HMfHQh1RhbZNThsp4B1vRZchPk70EPV9dTAkUMB3wI0h-3_-ZZhIkFaQIa8jEGGaGW-Nt84zdC02MOLvKYvDnaSKrH48uMbW9OKhAMdCDbM6fekR4i5_xy1WMlmZTuvP6tdUY/s700/red-moon.jpg)
 
   
-En el rapto los cristianos se encuentran con el Señor en el aire (1 Tesalonicenses 4:16-17). Jesús nunca pone un pie en la tierra en ninguno de los pasajes del rapto. Pero en la Segunda Venida, Cristo sí desciende a la tierra con sus santos, poniendo [sus pies en el Monte de los Olivos](https://www.ritualypropaganda.com/2022/08/monte-de-los-olivos.html) en Jerusalén (Zacarías 14:2-4; Revelación 19:14).  
+En el rapto los cristianos se encuentran con el Señor en el aire (1 Tesalonicenses 4:16-17). Jesús nunca pone un pie en la tierra en ninguno de los pasajes del rapto. Pero en la Segunda Venida, Cristo sí desciende a la tierra con sus santos, poniendo [sus pies en el Monte de los Olivos](/estudios/monte-de-los-olivos) en Jerusalén (Zacarías 14:2-4; Revelación 19:14).  
   
 En el rapto Cristo mismo viene y saca a los creyentes del mundo (Juan 14:1-3; 1 Tesalonicenses 4:16-17). Pero en la Segunda Venida, Cristo deriva esta tarea a sus ángeles, la de reunir a sus escogidos en la tierra (Mateo 24:31).  
   
-En el rapto los cristianos son quitados del planeta, mientras que los incrédulos son dejados atrás (1 Tesalonicenses 4:17). En la Segunda Venida, los cristianos sobrevivientes de la [Tribulación](https://www.ritualypropaganda.com/2022/05/cronologia-de-los-eventos-por-venir.html) son dejados en la Tierra para entrar en el reino mesiánico, mientras que los incrédulos son llevados a juicio (Mateo 13:41-42; 49-50).  
+En el rapto los cristianos son quitados del planeta, mientras que los incrédulos son dejados atrás (1 Tesalonicenses 4:17). En la Segunda Venida, los cristianos sobrevivientes de la [Tribulación](/estudios/cronologia-de-los-eventos-por-venir) son dejados en la Tierra para entrar en el reino mesiánico, mientras que los incrédulos son llevados a juicio (Mateo 13:41-42; 49-50).  
   
 En el rapto no se hace mención del juicio de Dios ni de ninguna angustia. Más bien se hace referencia a diversas promesas de bendición y salvación. En la Segunda Venida se menciona Tribulación, ira, angustia y juicio (Zacarías 14:2-4; Mateo 25:31-46; Revelación 19:11-21).  
   
@@ -45,7 +45,7 @@ En el rapto, la resurrección de los muertos ocurre durante el descenso de Crist
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwj8ZgSG2Xc2LAJrD_NIhFw45y5F6HnkQcTIRGlR0VeUPoin6TFBFdZc30d2WVhK6OHIk_K-XeO_lYdyt60T856bqvFnO9_PV1XFBO6ZfpWeDrQJkWwsyc5O-OpFn91h9_wkOMbjkA_o5yv9TVVRjjDjEpOMsmenwU7-kkpMne4UcmT7rOB_7GEczy/s16000/cloud.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwj8ZgSG2Xc2LAJrD_NIhFw45y5F6HnkQcTIRGlR0VeUPoin6TFBFdZc30d2WVhK6OHIk_K-XeO_lYdyt60T856bqvFnO9_PV1XFBO6ZfpWeDrQJkWwsyc5O-OpFn91h9_wkOMbjkA_o5yv9TVVRjjDjEpOMsmenwU7-kkpMne4UcmT7rOB_7GEczy/s700/cloud.jpg)
 
   
-En el rapto solo los cristianos ven a Cristo y están involucrados (Juan 14:1-3; 1 Tesalonicenses 4:16-17). En la Segunda Venida, todas las personas [ven venir a Jesús](https://www.ritualypropaganda.com/2022/05/jesus-lee-isaias.html) y se involucran. Todos en la tierra serán impactados, ya que todo ojo lo verá (Revelación 1:7; 19:11-21).  
+En el rapto solo los cristianos ven a Cristo y están involucrados (Juan 14:1-3; 1 Tesalonicenses 4:16-17). En la Segunda Venida, todas las personas [ven venir a Jesús](/estudios/jesus-lee-isaias) y se involucran. Todos en la tierra serán impactados, ya que todo ojo lo verá (Revelación 1:7; 19:11-21).  
   
 En el rapto todos los pasajes relevantes guardan silencio sobre cualquier cambio topográfico en la tierra. En los pasajes de la Segunda Venida, ocurren cambios masivos en el planeta debido a la magnitud del evento (Zacarías 14:1-11).  
   

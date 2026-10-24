@@ -40,7 +40,7 @@ El comunismo era judío desde cero. El punto de vista de Marx y sus textos clás
   
 De Lenin a Putin, tenemos una sucesión en línea recta del cabalismo judío bajo el disfraz del comunismo y ahora, el "Capitalismo Democrático" bajo Gorbachov, Yeltsin y Putin. **(3)**  
   
-Escribiendo en su exposición provocadora y llena de hechos, **[Linajes de los Illuminati](https://www.ritualypropaganda.com/2013/10/linajes-de-los-illuminati-fritz.html)**, el investigador Fritz Springmeier revela cuán incestuosamente judíos han sido los gobernantes de Rusia, incluidos sus cónyuges. Primero, señala que Stalin se casó con la hija de su hombre número 2, el judío Kaganovich.  
+Escribiendo en su exposición provocadora y llena de hechos, **[Linajes de los Illuminati](/estudios/linajes-de-los-illuminati-fritz)**, el investigador Fritz Springmeier revela cuán incestuosamente judíos han sido los gobernantes de Rusia, incluidos sus cónyuges. Primero, señala que Stalin se casó con la hija de su hombre número 2, el judío Kaganovich.  
   
 También:  
   
@@ -138,7 +138,7 @@ Sarah Terry, un miembro del grupo alineado con Masones, la Estrella del Este, tr
 
 ## Estrella Roja
 
-La estrella roja es quizás el símbolo más conocido del comunismo. He examinado el **[significado ocultista de la estrella de cinco puntas](https://www.ritualypropaganda.com/2018/09/codex-magica-26-significado-pentagrama.html)** en capítulos anteriores, así que simplemente reitero aquí que la estrella es un signo de dioses falsos y específicamente del dios del Iluminismo,  
+La estrella roja es quizás el símbolo más conocido del comunismo. He examinado el **[significado ocultista de la estrella de cinco puntas](/estudios/codex-magica-26-significado-pentagrama)** en capítulos anteriores, así que simplemente reitero aquí que la estrella es un signo de dioses falsos y específicamente del dios del Iluminismo,  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDOy3Hfn_VDE4ep-pf-zN3g11jYtfssgr0yan4NGuOKoUam3t0oS9cuXVE4rQNY9DtCeKA9A2TkXVk2iTsxu-FRFXgr-4WbqANC5DD9XubRT0wHwyaEheX6hMMxVwgT00Qtv3H7ZxIxE/s640/codex_169.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDOy3Hfn_VDE4ep-pf-zN3g11jYtfssgr0yan4NGuOKoUam3t0oS9cuXVE4rQNY9DtCeKA9A2TkXVk2iTsxu-FRFXgr-4WbqANC5DD9XubRT0wHwyaEheX6hMMxVwgT00Qtv3H7ZxIxE/s1600/codex_169.jpg)
@@ -362,7 +362,7 @@ El presidente ruso Boris Yeltsin muestra el puño del comunismo soviético mient
 
 Los comunistas adoptaron tanto la hoz y el martillo como la estrella roja para sus logotipos o símbolos oficiales. Se decía que el antiguo Dios Saturno, representado aquí en un dibujo del siglo XV, llevaba la hoz como símbolo de la muerte.  
   
-Note también la estrella radiante en el área genital de Saturno, los cuernos de la cabra (Satanás) y el portador de agua (la Era astrológica de Acuario de Satanás). Los ocultistas ven **[el planeta Saturno como la representación de Satanás](https://www.ritualypropaganda.com/2017/08/el-cubo-negro-de-saturno-adoracion_8.html)**, porque es el sexto planeta desde el hijo y por el papel de Saturno como se enseña en las mitologías.  
+Note también la estrella radiante en el área genital de Saturno, los cuernos de la cabra (Satanás) y el portador de agua (la Era astrológica de Acuario de Satanás). Los ocultistas ven **[el planeta Saturno como la representación de Satanás](/estudios/el-cubo-negro-de-saturno-adoracion-8)**, porque es el sexto planeta desde el hijo y por el papel de Saturno como se enseña en las mitologías.  
   
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNxyjQzPlPNj5tlcEVPZCHt32iPjerL95EFAzulWVZ1s5h5sDhkSqVSxi7sB-t070bFve_OFcQtg2oHYKm10LEfOXmVp08Y0KMIDjMuCHZC8dQHXJz2W8gho1uZJwVTI8AVNmx3EgPnsc/s640/codex_193.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNxyjQzPlPNj5tlcEVPZCHt32iPjerL95EFAzulWVZ1s5h5sDhkSqVSxi7sB-t070bFve_OFcQtg2oHYKm10LEfOXmVp08Y0KMIDjMuCHZC8dQHXJz2W8gho1uZJwVTI8AVNmx3EgPnsc/s1600/codex_193.jpg)
@@ -392,7 +392,7 @@ La estatua se llama "Dama de la Paz", justo cuando la Unión Sociética se autod
 
   
 
-En su libro reflexivo y revelador, _Scarlet and the Beast_, el experto escritor e investigador de conspiraciones John Daniel ilustra la conexión comunista con la Francmasonería. El emblema más prominente de la francmasonería universal es la escuadra y el compás con la letra "G" dentro del triángulo interno. Daniel señala que esto representa las herramientas utilizadas por el Gran Arquitecto de la Logia (dios falso) para crear los cielos y la tierra. En realidad, la letra "G" representa el **[gnosticismo](https://www.ritualypropaganda.com/2012/02/el-gnosticismo-oculto-en-hollywood-y-su.html)**, la doctrina central de la Masonería y el proceso generativo (acto sexual). La masonería es, como dice Daniel, un culto sexual.  
+En su libro reflexivo y revelador, _Scarlet and the Beast_, el experto escritor e investigador de conspiraciones John Daniel ilustra la conexión comunista con la Francmasonería. El emblema más prominente de la francmasonería universal es la escuadra y el compás con la letra "G" dentro del triángulo interno. Daniel señala que esto representa las herramientas utilizadas por el Gran Arquitecto de la Logia (dios falso) para crear los cielos y la tierra. En realidad, la letra "G" representa el **[gnosticismo](/estudios/el-gnosticismo-oculto-en-hollywood-y-su)**, la doctrina central de la Masonería y el proceso generativo (acto sexual). La masonería es, como dice Daniel, un culto sexual.  
   
 Sin embargo, la Francmasonería inglesa (la Logia Unida de Gran Bretaña) sustituye un brazo humano que empuña un martillo en lugar de la "G". Este brazo y martillo representa al Masón como el Constructor, como "el hombre en el trabajo" creando los cielos y la tierra. Por lo tanto, el hombre se convierte en Dios. El brazo y el martillo son de origen socialista / comunista. El mismo símbolo se encuentra en una marca de bicarbonato de sodio de mayor venta. El reconocido presidente comunista y presidente de la corporación petrolera, Armand Hammer, recibió su nombre en honor al movimiento comunista. Tenga en cuenta también que el símbolo del brazo y el martillo dentro del cuadrado y la brújula se configura como una "G".  
   

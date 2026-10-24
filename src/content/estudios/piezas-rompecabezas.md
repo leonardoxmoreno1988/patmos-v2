@@ -38,7 +38,7 @@ Dios habla a través de David en Salmo 2:7 y dice “Tú eres mi hijo”. Alrede
   
 Isaías 53:3 profetiza que el Mesías será “[despreciado y desechado](https://www.biblegateway.com/passage/?search=Isa%C3%ADas%2053%3A3-10&version=RVR1960)”. Casi 750 años después, Juan 1:11 menciona que “Los suyos no le recibieron”, refiriéndose al pueblo judío rechazando a Cristo.  
   
-Las profecías son como piezas de un rompecabezas. Cada una presenta un elemento distinto de la vida de Cristo, pero el cuadro completo solo se puede ver después de su cumplimiento. Las características divinas del príncipe venidero nos revelan a uno que es más que un simple hombre. Él era hijo de David (humano) e [Hijo de Dios](https://www.ritualypropaganda.com/2022/07/jesucristo-centro-cristianismo.html) (divino) al mismo tiempo.  
+Las profecías son como piezas de un rompecabezas. Cada una presenta un elemento distinto de la vida de Cristo, pero el cuadro completo solo se puede ver después de su cumplimiento. Las características divinas del príncipe venidero nos revelan a uno que es más que un simple hombre. Él era hijo de David (humano) e [Hijo de Dios](/estudios/jesucristo-centro-cristianismo) (divino) al mismo tiempo.  
   
 Dios planeó nuestra redención desde el jardín de Edén (Génesis 3:15), siendo la muerte y resurrección de Jesús uno de los eventos más importantes de la historia. No sorprende que Dios nos dé las señales de sus planes a lo largo de la cronología humana.  
   
