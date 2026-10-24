@@ -6,7 +6,7 @@ author: "Philip Jones"
 slug: "el-cara-oculta-de-la-nueva-era-y-la"
 redirectFrom: "/2012/01/el-cara-oculta-de-la-nueva-era-y-la.html"
 description: "De todos los engaños que envuelven hoy en día a la humanidad, no he descubierto aún ninguno que haya engañado hasta la fecha a tantas personas de tantos y tan…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

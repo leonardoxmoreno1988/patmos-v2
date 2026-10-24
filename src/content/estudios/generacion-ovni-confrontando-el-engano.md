@@ -6,7 +6,7 @@ author: "Kevin Farringdon"
 slug: "generacion-ovni-confrontando-el-engano"
 redirectFrom: "/2017/12/generacion-ovni-confrontando-el-engano.html"
 description: "Los secuestros de OVNIS no son un fenómeno raro y se estima que se han producido a tres millones de estadounidenses. Cada año más y más personas afirman haber…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 Los secuestros de **OVNIS** no son un fenómeno raro y se estima que se han producido a tres millones de estadounidenses. Cada año más y más personas afirman haber tenido contacto que los deja ansiosos, desorientados y confundidos. Durante décadas, la comunidad científica ha tratado casos de **abducción** como evidencia de psicosis, pero esta visión ahora está empezando a cambiar.  

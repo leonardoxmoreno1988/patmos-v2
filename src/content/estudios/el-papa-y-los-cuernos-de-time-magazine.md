@@ -6,7 +6,7 @@ author: "Jhonkbn"
 slug: "el-papa-y-los-cuernos-de-time-magazine"
 redirectFrom: "/2015/07/el-papa-y-los-cuernos-de-time-magazine.html"
 description: "Tras solo cuatro meses como Papa, Francisco I obtiene su segunda portada en la Revista \"Time\". Esta vez como el \"Papa del Pueblo\" y narrando su protagonismo en…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

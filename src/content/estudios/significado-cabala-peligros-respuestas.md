@@ -6,7 +6,7 @@ author: "Marcia Montenegro"
 slug: "significado-cabala-peligros-respuestas"
 redirectFrom: "/2017/03/significado-cabala-peligros-respuestas.html"
 description: "Por un lapso tiempo en el 2004, las tiendas de descuento Target vendían una pulsera roja como parte de un paquete Red String por $ 25.99. El origen de esa…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 Por un lapso tiempo en el 2004, las tiendas de descuento _Target_ vendían una **pulsera roja** como parte de un paquete **Red String** por $ 25.99. El origen de esa pulsera era el **Centro de Cábala** en Los Ángeles (Heather Svokos, "Brazaletes de Cábala" encadenados en un serio debate religioso", Fort Worth Star-Telegram, 18 de agosto de 2004).  

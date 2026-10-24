@@ -6,7 +6,7 @@ author: "Leonardo Moreno"
 slug: "preterismo-anticristo"
 redirectFrom: "/2021/11/preterismo-anticristo.html"
 description: "La falsa doctrina del preterismo enseña que el Anticristo fue el emperador Tito (39-81 d. C.), que trajo la Gran Tribulación en la forma de la…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 Estimado lector,

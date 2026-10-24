@@ -6,7 +6,7 @@ author: "Leonardo Moreno"
 slug: "alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-2-la-cruz-doble"
 redirectFrom: "/2013/07/alberto-rivera-ex-jesuita-y-su-historia.html"
 description: "La Cruz Doble sigue contando las experiencias del ex jesuita Alberto Romero Rivera, su persecución por parte de la Iglesia Católica, la búsqueda de su hermana…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 \>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)

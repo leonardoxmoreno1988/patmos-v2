@@ -6,7 +6,7 @@ author: "Kevin Farringdon"
 slug: "apariciones-fatima-paradigma-ovni"
 redirectFrom: "/2017/07/apariciones-fatima-paradigma-ovni.html"
 description: "El cristianismo es una fuente de una gran cantidad de evidencia para los encuentros entre seres humanos y seres humanos dotados de poderes místicos como…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 El **cristianismo** es una fuente de una gran cantidad de evidencia para los encuentros entre seres humanos y seres humanos dotados de poderes místicos como **Fátima**. La **Iglesia Católica Romana**, en particular, ha desarrollado una vasta literatura sobre este tema, y hay mucho escrito sobre las opiniones católicas sobre súcubos e íncubos.  

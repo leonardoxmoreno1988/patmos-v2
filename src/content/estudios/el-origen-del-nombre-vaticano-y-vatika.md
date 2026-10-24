@@ -6,7 +6,7 @@ author: "Ellen Lloyd"
 slug: "el-origen-del-nombre-vaticano-y-vatika"
 redirectFrom: "/2017/05/el-origen-del-nombre-vaticano-y-vatika.html"
 description: "El Vaticano es un símbolo del cristianismo. Hoy estamos tan acostumbrados al nombre que difícilmente pensamos en cómo obtuvo su nombre \"Vaticano\". La verdad es…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 El **Vaticano** es un símbolo del cristianismo. Hoy estamos tan acostumbrados al **nombre** que difícilmente pensamos en cómo obtuvo su nombre "**Vaticano"**. La verdad es que el nombre Vaticano no es ni latín ni griego y no se puede remontar a la Biblia tampoco.  

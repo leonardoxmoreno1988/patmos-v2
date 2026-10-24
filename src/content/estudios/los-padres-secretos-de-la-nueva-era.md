@@ -6,7 +6,7 @@ author: "Kevin Farringdon"
 slug: "los-padres-secretos-de-la-nueva-era"
 redirectFrom: "/2017/12/los-padres-secretos-de-la-nueva-era.html"
 description: "Muchos artículos sobre la historia del movimiento de la nueva era convergerán en una serie de personas influyentes como Helena Blavatsky y Alice Bailey…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 Muchos artículos sobre la historia del movimiento de la **nueva era** convergerán en una serie de personas influyentes como **Helena Blavatsky** y **Alice Bailey**, siguiendo el nacimiento y el surgimiento de los movimientos de la nueva era con estos dos individuos. Ellas han sido claramente escritoras prolíficas y canalizadoras de información del mundo oculto. Sus libros _Externalización de la Jerarquía_ y _La Doctrina Secreta_ son obras gigantescas en el área de lo oculto y proporcionan ideas significativas sobre el objetivo religioso detrás de la agenda del orden mundial.  

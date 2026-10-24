@@ -6,7 +6,7 @@ author: "Josh Peck"
 slug: "las-propiedades-extra-dimensionales-de"
 redirectFrom: "/2017/02/las-propiedades-extra-dimensionales-de.html"
 description: "¿Cómo puede parecer algo hecho de material sólido, pero comportarse como si fuera más bien un líquido? Es un fenómeno que ha sido reportado, documentado y…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 ¿Cómo puede parecer algo hecho de material sólido, pero comportarse como si fuera más bien un líquido? Es un fenómeno que ha sido reportado, **documentado** y discutido desde hace algún tiempo en relación con las hazañas extrañas y aparentemente imposibles que ciertos **OVNIs** son capaces de lograr. Por supuesto, la cantidad de videos que se encuentran en sitios web como YouTube es enorme y la clasificación de estos puede ser una hazaña ardua en sí misma.  

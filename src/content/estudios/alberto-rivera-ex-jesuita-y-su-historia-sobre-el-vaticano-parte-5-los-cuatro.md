@@ -6,7 +6,7 @@ author: "Leonardo Moreno"
 slug: "alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-5-los-cuatro"
 redirectFrom: "/2013/11/alberto-rivera-ex-jesuita-y-su-historia.html"
 description: "He aquí una descripción clara de cómo el papado cumple las profecías bíblicas del anticristo. ¿Quiénes son los cuatro jinetes de Revelación? ¿A quién…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

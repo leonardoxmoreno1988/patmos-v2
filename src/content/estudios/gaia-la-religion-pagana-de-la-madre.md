@@ -6,7 +6,7 @@ author: "Kevin Farringdon"
 slug: "gaia-la-religion-pagana-de-la-madre"
 redirectFrom: "/2017/08/gaia-la-religion-pagana-de-la-madre.html"
 description: "Cualquiera que haya estudiado el movimiento verde global sin duda alguna ha oído hablar de Gaia. Los creyentes en Gaia, o \"Gaianos\", como a menudo se refieren…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 Cualquiera que haya estudiado el movimiento verde global sin duda alguna ha oído hablar de **Gaia**. Los creyentes en Gaia, o "**Gaianos**", como a menudo se refieren a sí mismos, afirman que la **tierra** es un ser viviente, un antiguo espíritu de la **diosa**, merecedor de adoración y reverencia.  

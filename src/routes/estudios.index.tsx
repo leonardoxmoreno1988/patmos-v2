@@ -62,15 +62,8 @@ const metaText = new Map(
 );
 const loadContentIndex = () => import("virtual:estudios-search").then((m) => m.default);
 
-/** Every tag used by a post, most used first. */
-const TAGS = (() => {
-  const counts = new Map<string, number>();
-  for (const post of estudios)
-    for (const tag of post.tags) counts.set(tag, (counts.get(tag) ?? 0) + 1);
-  return [...counts.entries()]
-    .sort(([a, x], [b, y]) => y - x || a.localeCompare(b, "es"))
-    .map(([tag]) => tag);
-})();
+// Only these tags get a filter pill. Other tags (e.g. "Profecía", "Ezequiel") stay searchable via metaText.
+const CATEGORIES = ["Sociedad", "Cine y Cultura", "Apologética", "Escatología"] as const;
 
 /** Blogger image URLs carry their size in the path ("/s1600/"); ask for one fit for a wide card. */
 const featuredImage = (url: string) => url.replace(/\/s\d+(-c)?\//, "/s1200/");
@@ -159,22 +152,20 @@ function EstudiosIndex() {
             ) : null}
           </div>
 
-          {TAGS.length > 0 ? (
-            <div
-              role="group"
-              aria-label="Filtrar por categoría"
-              className="-mx-4 mt-4 flex gap-2 overflow-x-auto px-4 pb-1 scrollbar-none sm:mx-0 sm:flex-wrap sm:px-0"
-            >
-              {[null, ...TAGS].map((value) => (
-                <TagChip
-                  key={value ?? "*"}
-                  label={value ?? "Todos"}
-                  active={tag === value}
-                  onClick={() => selectTag(value)}
-                />
-              ))}
-            </div>
-          ) : null}
+          <div
+            role="group"
+            aria-label="Filtrar por categoría"
+            className="-mx-4 mt-4 flex gap-2 overflow-x-auto px-4 pb-1 scrollbar-none sm:mx-0 sm:flex-wrap sm:px-0"
+          >
+            {[null, ...CATEGORIES].map((value) => (
+              <TagChip
+                key={value ?? "*"}
+                label={value ?? "Todos"}
+                active={tag === value}
+                onClick={() => selectTag(value)}
+              />
+            ))}
+          </div>
 
           <p className="mt-4 text-sm text-muted-foreground" aria-live="polite">
             {filtered

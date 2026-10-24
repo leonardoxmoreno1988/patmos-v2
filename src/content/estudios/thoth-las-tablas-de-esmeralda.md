@@ -6,7 +6,7 @@ author: "Steven Bancarz"
 slug: "thoth-las-tablas-de-esmeralda"
 redirectFrom: "/2017/05/thoth-las-tablas-de-esmeralda.html"
 description: "Thoth es probablemente el más popular de todos los dioses egipcios, especialmente dentro de los dominios de la metafísica y el movimiento de la Nueva Era. Él es…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 **Thoth** es probablemente el más popular de todos los **dioses egipcios**, especialmente dentro de los dominios de la metafísica y el movimiento de la **Nueva Era**. Él es representado como carismático, portador de sabiduría, y un maestro que está aquí para ayudarnos a entender los misterios del universo. Antes de hablar un poco más en profundidad sobre el papel que este dios juega en el mundo espiritual de nuestros días, echemos un breve vistazo a sus atributos de acuerdo con la mitología egipcia.  

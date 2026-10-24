@@ -6,7 +6,7 @@ author: "Kieran Dunn"
 slug: "el-papa-francisco-habla-sobre-todo"
 redirectFrom: "/2015/09/el-papa-francisco-habla-sobre-todo.html"
 description: "El Papa Francisco promueve la salvación secular masónica. ¿En qué momento dijo: \"Has dejado de lado las enseñanzas de Jesucristo y ahora se le trata como una…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

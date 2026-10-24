@@ -6,7 +6,7 @@ author: "Marcia Montenegro"
 slug: "el-alquimista-paulo-coelho-falsateologia"
 redirectFrom: "/2017/02/el-alquimista-paulo-coelho-falsateologia.html"
 description: "\"Cuando quieres algo, todo el universo conspira para ayudarte a lograrlo\". El objetivo de este libro es seguir un sueño, y eso es lo que \"Dios\" quiere que…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 > "Cuando quieres algo, todo el universo conspira para ayudarte a lograrlo".

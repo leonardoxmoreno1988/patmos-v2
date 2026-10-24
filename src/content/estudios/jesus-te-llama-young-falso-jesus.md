@@ -6,7 +6,7 @@ author: "Marcia Montenegro"
 slug: "jesus-te-llama-young-falso-jesus"
 redirectFrom: "/2017/05/jesus-te-llama-young-falso-jesus.html"
 description: "Jesús Te Llama (Jesus Calling) de Sarah Young, y otros libros similares escritos por ella, se han multiplicado en un imperio editorial con versiones de Jesús…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 **Jesús Te Llama** (Jesus Calling) de Sarah Young, y otros libros similares escritos por ella, se han multiplicado en un imperio editorial con versiones de **Jesús Te Llama** para adolescentes, para niños, calendarios, ediciones especiales, revistas que la acompañan, un Libro de la Biblia de Jesús Te Llama e incluso un Jesús Te Llama: **Biblia Devocional**.  

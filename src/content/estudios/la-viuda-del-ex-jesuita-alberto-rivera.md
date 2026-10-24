@@ -6,7 +6,7 @@ author: "Greg Szymanski"
 slug: "la-viuda-del-ex-jesuita-alberto-rivera"
 redirectFrom: "/2016/10/la-viuda-del-ex-jesuita-alberto-rivera.html"
 description: "Nury Rivera le dice a los estadounidenses cómo su marido fue perseguido y asesinado por intentar contar los secretos del Vaticano sobre la forma en que se…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 **Nury Rivera** le dice a los estadounidenses cómo su marido fue perseguido y asesinado por intentar contar los secretos del **Vaticano** sobre la forma en que se **infiltran en las iglesias** y el gobierno de EE.UU. También habla sobre cómo ella ha sido acosada, atacada y amenazada por agentes del Vaticano y la **Orden Jesuita**.  

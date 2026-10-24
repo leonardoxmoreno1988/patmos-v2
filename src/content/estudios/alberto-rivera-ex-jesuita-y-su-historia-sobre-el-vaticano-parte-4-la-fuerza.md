@@ -6,7 +6,7 @@ author: "Leonardo Moreno"
 slug: "alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-4-la-fuerza"
 redirectFrom: "/2013/10/alberto-rivera-ex-jesuita-y-su-historia.html"
 description: "Este cómic revela cómo el Vaticano está utilizando su fuerza oculta para engañar a millones. Es la \"morada de los demonios\" descrita en Revelación 18:2. Las…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

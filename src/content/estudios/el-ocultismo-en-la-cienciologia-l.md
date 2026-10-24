@@ -6,7 +6,7 @@ author: "Kevin Farringdon"
 slug: "el-ocultismo-en-la-cienciologia-l"
 redirectFrom: "/2018/07/el-ocultismo-en-la-cienciologia-l.html"
 description: "¿La Iglesia de la Cienciología gana o pierde miembros e influencia? La respuesta a esa pregunta puede depender de a quién le pregunte sobre este movimiento…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

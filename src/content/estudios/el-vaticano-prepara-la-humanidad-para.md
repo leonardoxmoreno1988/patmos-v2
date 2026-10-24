@@ -6,7 +6,7 @@ author: "Leonardo Moreno"
 slug: "el-vaticano-prepara-la-humanidad-para"
 redirectFrom: "/2014/06/el-vaticano-prepara-la-humanidad-para.html"
 description: "El autor Fritz Springmeier hace una precisa conclusión sobre los últimos comentarios del papa Francisco acerca del tema extraterrestre. Este también…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

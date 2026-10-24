@@ -6,7 +6,7 @@ author: "Chick Publications"
 slug: "la-historia-de-los-jesuitas-secretos"
 redirectFrom: "/2016/09/la-historia-de-los-jesuitas-secretos.html"
 description: "En este interesante comic de la serie \"Los Cruzados\" (Previamente visto en la serie de Alberto Rivera) se expone la historia de los Jesuitas, sus planes…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 En este interesante cómic de la serie **"Los Cruzados"** (Previamente visto en la serie de **[Alberto Rivera](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)**) se expone la historia de los **Jesuitas**, sus planes secretos y cómo esta propia institución religiosa vive dentro de otra, La Iglesia Católica Romana.

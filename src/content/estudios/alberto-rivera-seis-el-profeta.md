@@ -6,7 +6,7 @@ author: "Leonardo Moreno"
 slug: "alberto-rivera-seis-el-profeta"
 redirectFrom: "/2017/03/alberto-rivera-seis-el-profeta.html"
 description: "En este sexto comic llamado El Profeta, el ex jesuita Alberto Rivera explica cómo el papado ayudó a iniciar el Islam, sólo para que esta nueva hija se rebelara…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 En este sexto cómic llamado **El Profeta**, el exjesuita **Alberto Rivera** explica cómo el papado ayudó a iniciar el **Islam**, solo para que esta nueva hija se rebelara contra este. También entenderás el papel del mundo árabe en la profecía bíblica. Lea cómo la Virgen María está siendo utilizada para traer a esa hija rebelde, el Islam, de vuelta a la cooperación con la "Iglesia Matriz". La "superiglesia" global está formándose.

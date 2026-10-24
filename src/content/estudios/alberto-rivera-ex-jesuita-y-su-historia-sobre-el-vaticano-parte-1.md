@@ -6,7 +6,7 @@ author: "Leonardo Moreno"
 slug: "alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-1"
 redirectFrom: "/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html"
 description: "Alberto Romero Rivera, español y ex católico, aseguró hasta su muerte en 1997 haber pertenecido a la Orden de los Jesuitas y haber recibido de primera mano los…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -6,7 +6,7 @@ author: "Kevin Farringdon"
 slug: "los-jesuitas-el-opus-dei-y-los"
 redirectFrom: "/2017/11/los-jesuitas-el-opus-dei-y-los.html"
 description: "La Orden de los Jesuitas es una entidad encubierta, geopolítica y exclusivamente masculina de casi 500 años de antigüedad, estructurada como una operación…"
-tags: ["Falsas Doctrinas"]
+tags: ["Falsas Doctrinas", "Apologética"]
 ---
 
 La Orden de los **Jesuitas** es una entidad encubierta, geopolítica y exclusivamente masculina de casi 500 años de antigüedad, estructurada como una operación militar secreta: exigir **juramentos secretos** y obediencia completa a su superior directo, que es el Superior General (a menudo apodado como el **Papa Negro**, ya que se viste de negro y "vive en la sombra" del Papa blanco).  
