@@ -262,7 +262,7 @@ function FeaturedEstudio({ post }: { post: EstudioSummary }) {
         className={`flex flex-col justify-center p-6 sm:p-10 lg:p-12 ${post.image ? "" : "md:col-span-2"}`}
       >
         <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
-          Último estudio{post.tags[0] ? ` · ${post.tags[0]}` : ""}
+          Último estudio
         </p>
         <h2 className="mt-4 text-2xl font-bold leading-tight tracking-tight text-foreground/85 transition-colors duration-150 group-hover:text-foreground sm:text-3xl">
           {post.title}
@@ -293,9 +293,6 @@ function EstudioCard({ post }: { post: EstudioSummary }) {
       params={{ slug: post.slug }}
       className="group flex h-full flex-col rounded-lg border border-border p-5 transition-colors hover:border-foreground/25"
     >
-      {post.tags.length > 0 ? (
-        <p className="mb-2 text-xs font-medium text-muted-foreground">{post.tags.join(" · ")}</p>
-      ) : null}
       <h2 className="text-lg font-semibold leading-snug text-foreground/85 transition-colors duration-150 group-hover:text-foreground">
         {post.title}
       </h2>
