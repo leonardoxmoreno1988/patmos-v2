@@ -1,12 +1,12 @@
 ---
-title: "Por Qué El Remake De \"El Planeta De Los Simios\" Es Sobre Iluminación Esotérica"
+title: "Remake de El planeta de los simios: iluminación esotérica"
 date: "2014-07-31"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "porque-el-remake-de-el-planeta-de-los"
 redirectFrom: "/2014/07/porque-el-remake-de-el-planeta-de-los.html"
-description: "El concepto parece simple, los simios evolucionan y la humanidad se extingue. Pero dentro de este mundo -que exalta los principios darwinianos- el conocimiento…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, el remake de El planeta de los simios, que exalta el darwinismo, presenta el conocimiento esotérico como única forma de redención posible."
+tags: ["Cine y Cultura", "El planeta de los simios", "Esoterismo", "Darwinismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

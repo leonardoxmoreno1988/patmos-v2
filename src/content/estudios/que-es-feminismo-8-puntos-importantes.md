@@ -1,12 +1,12 @@
 ---
-title: "¿Qué es Feminismo? 8 Puntos Importantes"
+title: "¿Qué es el feminismo? 8 puntos importantes"
 date: "2014-10-01"
 updated: "2023-07-21"
 author: "Henry Makow"
 slug: "que-es-feminismo-8-puntos-importantes"
 redirectFrom: "/2014/10/que-es-feminismo-8-puntos-importantes.html"
-description: "\"Una mujer femenina tiene el efecto de un amanecer en el alma del hombre.\" En palabras del novelista Alec Waugh, ella dibuja un hombre \"en un círculo mágico…"
-tags: ["Sociedad"]
+description: "Ocho puntos para entender el feminismo, con una reflexión inicial sobre la feminidad, el papel de la mujer y su lugar en la sociedad, según el autor."
+tags: ["Sociedad", "Feminismo", "Género", "Familia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  

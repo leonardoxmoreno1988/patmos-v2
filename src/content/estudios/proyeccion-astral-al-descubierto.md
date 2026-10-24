@@ -1,12 +1,12 @@
 ---
-title: "Peligros De Los Viajes Astrales: Demonios Disfrazados (Testimonios)"
+title: "Peligros de los viajes astrales: demonios disfrazados"
 date: "2016-05-04"
 updated: "2023-07-21"
 author: "Steven Bancarz"
 slug: "proyeccion-astral-al-descubierto"
 redirectFrom: "/2016/05/proyeccion-astral-al-descubierto.html"
-description: "La proyección astral el acto de ser consciente mientras viaja fuera de su cuerpo físico. No existen límites claros sobre qué tipo de experiencias se pueden…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "La proyección astral, experiencia de conciencia fuera del cuerpo, y los testimonios sobre demonios disfrazados que el artículo describe como peligro."
+tags: ["Falsas Doctrinas", "Apologética", "Proyección astral", "Demonios"]
 ---
 
 La **proyección astral** el acto de ser consciente mientras viaja fuera de su cuerpo físico. No existen límites claros sobre qué tipo de experiencias se pueden clasificar como proyecciones astrales. Algunas personas dicen que el **sueño lúcido**, un falso despertar, y las **experiencias extracorporales** cuentan como formas de proyección astral, en virtud del hecho de que se encuentran consientes fuera de su cuerpo. No estoy necesariamente de acuerdo en que todos estos son formas de **proyección astral** (especialmente el sueño lúcido), pero el consenso general es que la proyección astral es la experiencia de ser consciente de sí mismo en una dimensión de la realidad que no es física.  

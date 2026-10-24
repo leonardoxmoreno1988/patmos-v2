@@ -1,12 +1,12 @@
 ---
-title: "Proyecto Bluebeam: La Farsa Para La Instauración De La Única Religión"
+title: "Proyecto Bluebeam: la farsa de la religión única"
 date: "2011-04-18"
 updated: "2024-08-30"
 author: "Biblioteca Pléyades"
 slug: "proyecto-blubeam-la-farsa-para-la"
 redirectFrom: "/2011/04/proyecto-blubeam-la-farsa-para-la.html"
-description: "Desde mediados de la década de 1990 han abundado susurros en los círculos militares \"Intel\" y de la comunidad científica acerca de una extraña serie de…"
-tags: ["Sociedad"]
+description: "Según el artículo, el supuesto Proyecto Bluebeam, rumorado en círculos militares desde los años noventa, sería una farsa para instaurar una religión única."
+tags: ["Sociedad", "Bluebeam", "Religión única", "Nuevo Orden Mundial"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

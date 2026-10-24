@@ -1,12 +1,12 @@
 ---
-title: "Los OVNIs traerán la mentira de la evolución"
+title: "Los OVNIs y la mentira de la evolución"
 date: "2022-06-05"
 updated: "2026-01-30"
 author: "Leonardo Moreno"
 slug: "ovnis-mentira-evolucion"
 redirectFrom: "/2022/06/ovnis-mentira-evolucion.html"
-description: "Muchas personas en el mundo simpatizan con la idea de vida extraterrestre en otros planetas. Y esto incluye la convicción de que algún día civilizaciones más…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Según el artículo, la creencia en vida extraterrestre y en visitas de civilizaciones avanzadas podría reforzar la evolución. Análisis bíblico."
+tags: ["Falsas Doctrinas", "Apologética", "OVNIs", "Evolución"]
 ---
 
 Estimado lector,

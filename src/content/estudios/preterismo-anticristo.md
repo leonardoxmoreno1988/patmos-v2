@@ -1,12 +1,12 @@
 ---
-title: "Como el 'preterismo' facilitará la aceptación del jinete blanco"
+title: "Preterismo y la aceptación del jinete blanco"
 date: "2021-11-12"
 updated: "2026-01-13"
 author: "Leonardo Moreno"
 slug: "preterismo-anticristo"
 redirectFrom: "/2021/11/preterismo-anticristo.html"
-description: "La falsa doctrina del preterismo enseña que el Anticristo fue el emperador Tito (39-81 d. C.), que trajo la Gran Tribulación en la forma de la…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "El preterismo enseña que el Anticristo fue el emperador Tito. Según el autor, esta doctrina facilitaría la aceptación del jinete blanco de Revelación."
+tags: ["Falsas Doctrinas", "Apologética", "Preterismo", "Anticristo"]
 ---
 
 Estimado lector,

@@ -1,12 +1,12 @@
 ---
-title: "El Psiquiatra Y Profesor Dr. Gallagher Explica Sus Encuentros Con Posesiones Demoníacas"
+title: "Dr. Richard Gallagher y sus encuentros con posesiones"
 date: "2017-03-20"
 updated: "2023-07-20"
 author: "James Bishop"
 slug: "psiquiatra-dr-gallagher-posesiones-demoniacas"
 redirectFrom: "/2017/03/psiquiatra-dr-gallagher-posesiones-demoniacas.html"
-description: "Richard Gallagher es psiquiatra certificado por el consejo y profesor de psiquiatría clínica en el New York Medical College. Al profesor Gallagher no le falta…"
-tags: ["Apologética"]
+description: "El psiquiatra Richard Gallagher, profesor en el New York Medical College, relata sus experiencias con casos de posesiones demoníacas y su diagnóstico."
+tags: ["Apologética", "Posesión demoníaca", "Richard Gallagher", "Psiquiatría"]
 ---
 
 **Richard Gallagher** es **psiquiatra** certificado por el consejo y profesor de psiquiatría clínica en el New York Medical College.

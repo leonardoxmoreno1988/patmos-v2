@@ -1,12 +1,12 @@
 ---
-title: "¿Qué Ocurre En La Oral Roberts University? Una Universidad Cristiana Acusada De Satanismo y Pedofilia"
+title: "Oral Roberts University: acusaciones de satanismo y abuso"
 date: "2014-02-19"
 updated: "2024-09-02"
 author: "Jhonkbn"
 slug: "que-ocurre-en-la-oral-roberts"
 redirectFrom: "/2014/02/que-ocurre-en-la-oral-roberts.html"
-description: "Con un campus de 1.06 km2 en Tulsa, Oklahoma, la universidad cristiana Oral Roberts ha sido catalogada como una de las mejores instituciones norteamericanas en…"
-tags: ["Sociedad"]
+description: "La universidad cristiana Oral Roberts, en Tulsa, catalogada entre las mejores de EE. UU. en 2012, y las acusaciones de satanismo y pedofilia reportadas."
+tags: ["Sociedad", "Oral Roberts", "Universidades", "Acusaciones"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

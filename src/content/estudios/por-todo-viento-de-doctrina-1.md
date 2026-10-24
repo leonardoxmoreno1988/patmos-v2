@@ -1,12 +1,12 @@
 ---
-title: "Por todo viento de doctrina (1)"
+title: "Por todo viento de doctrina (1): ¿qué es una secta?"
 date: "2026-01-30"
 updated: "2026-04-11"
 author: "Leonardo Moreno"
 slug: "por-todo-viento-de-doctrina-1"
 redirectFrom: "/2026/04/por-todo-viento-de-doctrina-1.html"
-description: "Un diccionario común define la palabra \"secta\" como un sistema religioso falso o no genuino. Desde un punto de vista bíblico, hablamos de una religión falsa…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Primera parte del estudio de sectas: qué es una secta según el diccionario y según la perspectiva bíblica de una religión falsa o no genuina."
+tags: ["Falsas Doctrinas", "Apologética", "Sectas", "Discernimiento"]
 ---
 
 Estimado lector,  

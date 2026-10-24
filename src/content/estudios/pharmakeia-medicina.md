@@ -1,12 +1,12 @@
 ---
-title: "'Pharmakeia', medicina y otras influencias modernas"
+title: "Pharmakeia: medicina, hechicería e influencias modernas"
 date: "2022-06-19"
 updated: "2025-05-24"
 author: "Leonardo Moreno"
 slug: "pharmakeia-medicina"
 redirectFrom: "/2022/06/pharmakeia-medicina.html"
-description: "La palabra griega 'pharmakeia' se usa en las Escrituras para describir hechicería, brujería o magia. En el Nuevo Testamento la palabra aparece tres veces…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "El término griego pharmakeia, usado en el Nuevo Testamento para hechicería, y su relación con la medicina y otras influencias modernas, según el artículo."
+tags: ["Falsas Doctrinas", "Apologética", "Pharmakeia", "Hechicería"]
 ---
 
 Estimado lector,

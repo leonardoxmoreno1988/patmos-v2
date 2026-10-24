@@ -1,12 +1,12 @@
 ---
-title: "Píldora Roja Y Gnosticismo: El Significado Esotérico De La Película Matrix"
+title: "Píldora roja y gnosticismo en la película Matrix"
 date: "2013-03-28"
 updated: "2024-09-02"
 author: "Jhonkbn"
 slug: "pildora-roja-y-gnosticismo-la"
 redirectFrom: "/2013/03/pildora-roja-y-gnosticismo-la.html"
-description: "La película Matrix de 1999 generó más de 5 000 millones de dólares, ganó 4 premios de la Academia y es considerada una de las películas más influyentes de los…"
-tags: ["Cine y Cultura"]
+description: "La película Matrix (1999) y su significado gnóstico y esotérico, según el autor, en la imagen de la píldora roja, la realidad oculta y el despertar."
+tags: ["Cine y Cultura", "Matrix", "Gnosticismo", "Esoterismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

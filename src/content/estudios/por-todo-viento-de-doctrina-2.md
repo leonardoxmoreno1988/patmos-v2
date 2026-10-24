@@ -1,12 +1,12 @@
 ---
-title: "Por todo viento de doctrina (2)"
+title: "Por todo viento de doctrina (2): Testigos de Jehová"
 date: "2026-04-03"
 updated: "2026-04-17"
 author: "Leonardo Moreno"
 slug: "por-todo-viento-de-doctrina-2"
 redirectFrom: "/2026/04/por-todo-viento-de-doctrina-2.html"
-description: "Esta es la parte II del estudio de sectas. Los Testigos de Jehová son un grupo que comenzó como estudio bíblico en Pensilvania, EEUU, en la década de 1870. Se…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Segunda parte del estudio de sectas: los Testigos de Jehová, un grupo que comenzó como estudio bíblico, evaluado a la luz de la doctrina y su historia."
+tags: ["Falsas Doctrinas", "Apologética", "Testigos de Jehová", "Sectas"]
 ---
 
 Estimado lector,  

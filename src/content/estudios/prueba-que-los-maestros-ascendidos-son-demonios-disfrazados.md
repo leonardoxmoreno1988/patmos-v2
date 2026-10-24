@@ -1,12 +1,12 @@
 ---
-title: "Prueba de que los Maestros Ascendidos son Demonios Disfrazados"
+title: "Maestros ascendidos: ¿demonios disfrazados?"
 date: "2017-02-17"
 updated: "2023-07-20"
 author: "Steven Bancarz"
 slug: "prueba-que-los-maestros-ascendidos-son-demonios-disfrazados"
 redirectFrom: "/2017/02/prueba-que-los-maestros-ascendidos-son-demonios-disfrazados.html"
-description: "¿Quiénes son los maestros ascendidos? Si está familiarizado con el movimiento Nueva Era, puede haber escuchado el término usado antes para describir seres como…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Qué son los maestros ascendidos del movimiento Nueva Era, como Buda, Jesús y San Germán, y por qué el artículo sostiene que son demonios disfrazados."
+tags: ["Falsas Doctrinas", "Apologética", "Nueva Era", "Maestros ascendidos"]
 ---
 
 ¿Quiénes son los maestros ascendidos? Si está familiarizado con el movimiento **Nueva Era**, puede haber escuchado el término usado antes para describir seres como Buda, Jesús y San Germán. La afirmación en este artículo no es que Buda y Jesús son demonios, sino que los "Maestros Ascendidos" que se han disfrazado de Jesús y Buda, en el **material esotérico** donde esta idea se originó, se han revelado completamente como ángeles caídos.  

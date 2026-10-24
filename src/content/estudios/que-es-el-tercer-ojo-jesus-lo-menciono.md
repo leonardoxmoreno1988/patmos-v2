@@ -1,12 +1,12 @@
 ---
-title: "¿Qué Es El Tercer Ojo? ¿Jesús Lo Mencionó?"
+title: "¿Qué es el tercer ojo? ¿Jesús lo mencionó?"
 date: "2021-04-06"
 updated: "2023-07-17"
 author: "Mike Shreve"
 slug: "que-es-el-tercer-ojo-jesus-lo-menciono"
 redirectFrom: "/2021/05/que-es-el-tercer-ojo-jesus-lo-menciono.html"
-description: "La mayoría de los practicantes de yoga creen en siete centros de energía invisibles en el cuerpo llamados chakras. Curiosamente, una pequeña nota aquí al…"
-tags: ["Apologética"]
+description: "Qué es el tercer ojo del yoga y los chakras, y si Jesús lo mencionó, a partir de la enseñanza bíblica sobre el ojo como lámpara del cuerpo (Mateo 6:22)."
+tags: ["Apologética", "Yoga", "Chakras", "Mateo 6"]
 ---
 
 La mayoría de los practicantes de yoga creen en siete centros de energía invisibles en el cuerpo llamados chakras. Curiosamente, una pequeña nota aquí al principio, el gurú con el que estudié en 1969-70 enseñó que los chakras eran simplemente "imaginarios y nada más". (1) Aparentemente, los consideraba solo una ayuda para la meditación, pero en realidad no existían. Por supuesto, muchos defensores de este concepto los consideran reales.  

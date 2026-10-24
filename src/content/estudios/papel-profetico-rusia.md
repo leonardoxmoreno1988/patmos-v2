@@ -1,12 +1,12 @@
 ---
-title: "Entendiendo El Papel Profético Que Tendrá Rusia En El Futuro"
+title: "El papel profético de Rusia en el futuro"
 date: "2017-06-21"
 updated: "2023-07-20"
 author: "Kevin Farringdon"
 slug: "papel-profetico-rusia"
 redirectFrom: "/2018/06/papel-profetico-rusia.html"
-description: "La profecía bíblica es clara sobre el papel que Rusia y sus socios asiáticos y del medio oriente jugarán en la Tercera Guerra Mundial: la guerra más sangrienta…"
-tags: ["Escatología"]
+description: "La profecía bíblica sobre el papel que Rusia y sus socios asiáticos y de Oriente Medio jugarán en la Tercera Guerra Mundial, según el autor."
+tags: ["Escatología", "Rusia", "Profecía", "Guerra"]
 ---
 
 La **profecía bíblica** es clara sobre el papel que **Rusia** y sus socios asiáticos y del medio oriente jugarán en la Tercera Guerra Mundial: la guerra más sangrienta que jamás la humanidad haya experimentado.  

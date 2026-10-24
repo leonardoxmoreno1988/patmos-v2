@@ -5,8 +5,8 @@ updated: "2025-05-25"
 author: "Leonardo Moreno"
 slug: "piezas-rompecabezas"
 redirectFrom: "/2022/08/piezas-rompecabezas.html"
-description: "Ciertos hombres escogidos por Dios lograron predecir el futuro con precisión. Esto es gracias al espíritu de Dios que les permitió hacerlo, muchas veces…"
-tags: ["Escatología"]
+description: "Hombres escogidos por Dios predijeron el futuro con precisión, y el artículo explica cómo las profecías bíblicas encajan como piezas de un rompecabezas."
+tags: ["Escatología", "Profecía", "Cumplimiento profético", "Biblia"]
 ---
 
 Estimado lector,  

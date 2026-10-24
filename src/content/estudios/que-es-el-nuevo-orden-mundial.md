@@ -1,12 +1,12 @@
 ---
-title: "¿Qué Es El Nuevo Orden Mundial?"
+title: "¿Qué es el nuevo orden mundial? Origen y debate"
 date: "2016-07-15"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "que-es-el-nuevo-orden-mundial"
 redirectFrom: "/2016/07/que-es-el-nuevo-orden-mundial.html"
-description: "Una búsqueda mundial en Google puede atraer instantáneamente hasta 760 millones de resultados del término nuevo orden mundial, en comparación con los 719…"
-tags: ["Sociedad"]
+description: "Por qué el término nuevo orden mundial genera cientos de millones de búsquedas, qué significa y de dónde proviene, según el análisis del artículo."
+tags: ["Sociedad", "Nuevo Orden Mundial", "Globalismo", "Política"]
 ---
 
 Una búsqueda mundial en Google puede atraer instantáneamente hasta 760 millones de resultados del término **nuevo orden mundial**, en comparación con los 719 millones de la palabra "política". Parece bastante claro que el concepto no es algo nuevo, y más bien es un tema muy discutido y reconocido dentro de la conciencia en el mundo.  

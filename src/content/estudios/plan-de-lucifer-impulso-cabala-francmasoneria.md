@@ -1,12 +1,12 @@
 ---
-title: "Cómo El Plan De Lúcifer Impulsó La Cábala Y La Francmasonería"
+title: "El plan de Lucifer: la cábala y la francmasonería"
 date: "2018-02-08"
 updated: "2023-07-20"
 author: "Rema Marketing"
 slug: "plan-de-lucifer-impulso-cabala-francmasoneria"
 redirectFrom: "/2017/04/plan-de-lucifer-impulso-cabala-francmasoneria.html"
-description: "Desde la llamada \"Ilustración\", la humanidad ha caído gradualmente bajo el hechizo de la Cábala (también deletreada como Kabbalah). Lo que se nos ha enseñado a…"
-tags: ["Sociedad"]
+description: "Según el artículo, desde la Ilustración la humanidad cayó bajo el hechizo de la cábala, algo que se enseña como progreso y se relaciona con la masonería."
+tags: ["Sociedad", "Cábala", "Masonería", "Ilustración"]
 ---
 
 Desde la llamada "Ilustración", la humanidad ha caído gradualmente bajo el hechizo de la **Cábala** (también deletreada como Kabbalah). Lo que se nos ha enseñado a creer que es "progreso" es en realidad el resurgimiento de un antiguo culto a la fertilidad pagana satánica, personificado por la Cábala. El "dios" de la Cábala no es un dios en absoluto. Es **Lucifer**. Los judíos Illuminati y sus aliados masónicos están sigilosamente erigiendo un nuevo orden mundial dedicado a Lucifer.  

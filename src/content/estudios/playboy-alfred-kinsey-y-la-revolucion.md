@@ -1,12 +1,12 @@
 ---
-title: "Playboy, Alfred Kinsey Y La Revolución (Homo) Sexual"
+title: "Playboy, Alfred Kinsey y la revolución sexual"
 date: "2015-08-29"
 updated: "2023-07-21"
 author: "Henry Makow"
 slug: "playboy-alfred-kinsey-y-la-revolucion"
 redirectFrom: "/2015/08/playboy-alfred-kinsey-y-la-revolucion.html"
-description: "En unos 50 años, la homosexualidad pasó de ser universalmente estigmatizada a ser enseñada y promovida en las escuelas públicas. ¿Qué hay detrás de este cambio…"
-tags: ["Sociedad"]
+description: "En unos 50 años la homosexualidad pasó de estar estigmatizada a enseñarse en escuelas. El artículo examina el papel de Playboy y de Kinsey, según el autor."
+tags: ["Sociedad", "Alfred Kinsey", "Playboy", "Revolución sexual"]
 ---
 
 En unos 50 años, la homosexualidad pasó de ser universalmente estigmatizada a ser  

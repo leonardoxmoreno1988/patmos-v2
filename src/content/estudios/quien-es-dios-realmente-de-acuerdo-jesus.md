@@ -1,12 +1,12 @@
 ---
-title: "Quién Es Dios Realmente, De Acuerdo A Jesús"
+title: "Quién es Dios realmente, según Jesús"
 date: "2016-08-16"
 updated: "2023-07-21"
 author: "Steven Bancarz"
 slug: "quien-es-dios-realmente-de-acuerdo-jesus"
 redirectFrom: "/2017/08/quien-es-dios-realmente-de-acuerdo-jesus.html"
-description: "¿Quién es Dios? Más específicamente, ¿de quién es el Padre del que Jesús hablaba? ¿Cuál es la identidad de Dios revelada por Jesús? ¿Cuál era Él? En otras…"
-tags: ["Apologética"]
+description: "¿De quién es el Padre del que hablaba Jesús? Un estudio sobre la identidad de Dios revelada por Jesús y cómo la describe el Nuevo Testamento."
+tags: ["Apologética", "Dios", "Padre", "Jesús"]
 ---
 
 ¿Quién es Dios? Más específicamente, ¿de quién es el **Padre** del que **Jesús** hablaba? ¿Cuál es la identidad de Dios revelada por Jesús? ¿Cuál era Él?  

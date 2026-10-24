@@ -1,12 +1,12 @@
 ---
-title: "Presidente De Campaña de Clinton, John Podesta, Fue Invitado A Una Cena Ocultista De Marina Abramović"
+title: "John Podesta y la cena ocultista de Marina Abramović"
 date: "2016-11-05"
 updated: "2023-07-20"
 author: "Vigilant Citizen"
 slug: "presidente-de-campana-de-clinton-john-podesta-marina"
 redirectFrom: "/2016/11/presidente-de-campana-de-clinton-john-podesta-marina.html"
-description: "Los e-mails de Podesta publicados por Wikileaks contienen varias entradas extrañas, incluyendo una invitación a una \"Cena Espiritual\" de la notoria ocultista…"
-tags: ["Sociedad"]
+description: "Según correos de Podesta publicados por WikiLeaks, el jefe de campaña de Clinton fue invitado a una Cena Espiritual de la artista Marina Abramović."
+tags: ["Sociedad", "John Podesta", "Marina Abramović", "WikiLeaks"]
 ---
 
 Los e-mails de **Podesta** publicados por **Wikileaks** contienen varias entradas extrañas, incluyendo una invitación a una "Cena Espiritual" de la notoria ocultista **Marina Abramović.** Estas fiestas incluyen sangre, semen, leche materna... y no sabemos qué más.  

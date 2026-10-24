@@ -1,12 +1,12 @@
 ---
-title: "Project 'Hail Mary' y el sol como saco de cilicio"
+title: "Project Hail Mary y el sol como saco de cilicio"
 date: "2026-04-12"
 updated: "2026-04-13"
 author: "Leonardo Moreno"
 slug: "project-hail-mary-y-el-sol-como-saco-de"
 redirectFrom: "/2026/04/project-hail-mary-y-el-sol-como-saco-de.html"
-description: "Aunque la información bíblica sobre Satanás antes de su caída suele considerarse un tema de libre interpretación, analizar el lenguaje simbólico de la película…"
-tags: ["Cine y Cultura"]
+description: "Análisis simbólico de la película Project Hail Mary y de la imagen del sol como saco de cilicio, en relación con la caída de Satanás según la Biblia."
+tags: ["Cine y Cultura", "Project Hail Mary", "Satanás", "Simbolismo"]
 ---
 
 Estimado lector,

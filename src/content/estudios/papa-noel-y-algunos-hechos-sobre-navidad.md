@@ -1,12 +1,12 @@
 ---
-title: "Papá Noel y algunos hechos sobre Navidad"
+title: "Papá Noel y los orígenes de la Navidad"
 date: "2022-12-24"
 updated: "2025-05-26"
 author: "Leonardo Moreno"
 slug: "papa-noel-y-algunos-hechos-sobre-navidad"
 redirectFrom: "/2023/01/papa-noel-y-algunos-hechos-sobre-navidad.html"
-description: "Lo que muchos niños entienden por Papá Noel, es en realidad una evolución del culto a San Nicolás, personaje que la historia describe como un famoso obispo que…"
-tags: ["Cine y Cultura"]
+description: "De San Nicolás a Santa Claus: el artículo recorre la evolución del culto a San Nicolás hasta la figura de Papá Noel y algunos hechos sobre la Navidad."
+tags: ["Cine y Cultura", "Navidad", "Papá Noel", "San Nicolás"]
 ---
 
 Estimado lector,  

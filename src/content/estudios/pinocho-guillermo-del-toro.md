@@ -1,12 +1,12 @@
 ---
-title: "Pinocho de Guillermo del Toro, un culto a lo satánico"
+title: "Pinocho de Guillermo del Toro: el mesías imperfecto"
 date: "2023-04-03"
 updated: "2026-08-06"
 author: "Leonardo Moreno"
 slug: "pinocho-guillermo-del-toro"
 redirectFrom: "/2023/04/pinocho-guillermo-del-toro.html"
-description: "El director de cine Guillermo del Toro dijo que en su nueva película quería retratar al títere de madera como la figura del \"mesías imperfecto\" ¿Qué significa…"
-tags: ["Cine y Cultura"]
+description: "Guillermo del Toro describió su Pinocho como un mesías imperfecto. Según el autor, esta lectura del cuento merece un análisis de su significado religioso."
+tags: ["Cine y Cultura", "Guillermo del Toro", "Pinocho", "Mesianismo"]
 ---
 
 Estimado lector,  
