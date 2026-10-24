@@ -1,125 +1,100 @@
 ---
 title: "The Shack: herejía, universalismo y falso evangelio"
+description: "Análisis teológico de The Shack (La Cabaña): examen del universalismo, el sabelianismo y la negación de la expiación penal sustitutiva en la obra."
 date: "2017-04-25"
 updated: "2023-07-20"
 author: "Steven Bancarz"
 slug: "the-shack-heresia-universalismo-y-falso"
 redirectFrom: "/2017/04/the-shack-heresia-universalismo-y-falso.html"
-description: "Análisis de The Shack, libro de más de 23 millones de copias que, según el autor, enseña universalismo y un falso evangelio que la película reproduce."
 tags: ["Falsas Doctrinas", "Apologética", "The Shack", "Universalismo"]
 ---
 
-**The Shack** (La Cabaña) es un libro que ha vendido más de 23 millones de copias, y que recientemente se ha convertido en una gran película. Como alguien que no había leído el libro, estaba emocionado de ver la película. El trailer parecía lo suficientemente bueno, la cinematografía parecía ser agradable, y la **historia** realmente podría iniciar una sanación en la vida de muchas personas.  
-  
+*The Shack* (*La Cabaña*), novela de William Paul Young que ha superado los 23 millones de ejemplares vendidos y cuya adaptación cinematográfica alcanzó una difusión masiva, suele ser presentada como una historia de consuelo, sanación interior y restauración emocional frente a la tragedia. Sin embargo, bajo una narrativa conmovedora, la obra introduce desviaciones doctrinales sistemáticas que subvierten los fundamentos del Evangelio bíblico.
 
-[![imagen promocional de the shack o la cabaña](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw4o1FNF8G3DqBQDVOXrXRt3drD3XPEJn8j6TtY5fpcL1Ocw0WlDvCtHYXhYd6UUsC2Qlqm2gv1W31sSfV3ZPnpfHIunb07bRz8f8WqZH7HnjXYTt2m0H9jyHdRLRIz_fdsH6m87-0XbM/s1600/the-shack-la-caban%25CC%2583a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw4o1FNF8G3DqBQDVOXrXRt3drD3XPEJn8j6TtY5fpcL1Ocw0WlDvCtHYXhYd6UUsC2Qlqm2gv1W31sSfV3ZPnpfHIunb07bRz8f8WqZH7HnjXYTt2m0H9jyHdRLRIz_fdsH6m87-0XbM/s1600/the-shack-la-caban%25CC%2583a.jpg)
+![Póster promocional de la adaptación cinematográfica de The Shack (La Cabaña)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw4o1FNF8G3DqBQDVOXrXRt3drD3XPEJn8j6TtY5fpcL1Ocw0WlDvCtHYXhYd6UUsC2Qlqm2gv1W31sSfV3ZPnpfHIunb07bRz8f8WqZH7HnjXYTt2m0H9jyHdRLRIz_fdsH6m87-0XbM/s1600/the-shack-la-caban%25CC%2583a.jpg)
 
-  
-En realidad fui a ver la película durante una tormenta de lluvia y un corte de luz, porque realmente estaba deseando ver mi primera película "cristiana" en más de una década y quería ver de qué se trataba toda esta propaganda.  
+Cualquier ambigüedad teológica presente en la novela quedó disipada con la publicación del ensayo de Paul Young, *Lies We Believe About God* (*Mentiras que creemos sobre Dios*, 2017). En dicho texto, el autor abraza de manera explícita el universalismo, niega que el pecado separe al ser humano de Dios, descarta la expiación penal sustitutiva y sostiene la salvación universal incondicional, sugiriendo la posibilidad de reconciliación post mortem al margen de la fe en Cristo en esta vida. 
 
-  
-Este libro ha tenido un impacto positivo en muchas personas, que creo que han recibido la sanación y la restauración a través de este libro de alguna manera. Pero desafortunadamente, la película contenía visos de herejía que son tan opuestos a la Escritura que es difícil respaldarla. Hay algunas cosas que son tan directas que son impactantes, y algunas cosas que son menos directas pero son muy resbaladizas y sugestivas.
+Al evaluar las tesis de la obra a la luz de las Escrituras, surgen contradicciones doctrinales irreconciliables con la fe apostólica histórica.
 
-  
+---
 
-**Nota:** Si deseas recibir más contenido sobre apostasía, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
-  
-Paul Young (autor de The Shack) publicó recientemente un libro titulado Lies We Believe About God (Mentiras que creemos de Dios), donde elimina cualquier confusión que podamos tener sobre lo que The Shack enseña negando la existencia del Infierno, negando que el pecado nos separa de Dios, negando que debemos creer en Jesús para ser salvo (ya que piensa que todos somos ya salvos), negando que Jesús fue un sacrificio por nuestros pecados, y al afirmar que podemos arrepentirnos y ser restaurados a Dios aun después de la muerte.  
-  
-Mientras que The Shack no enseña todas estas herejías, sugiere algunas de ellas implícitamente. Una línea que "Papá" dice en la cabaña se opone a unos 100 versículos de las Escrituras y niega el corazón del Evangelio. Vamos a echar un vistazo a algunas herejías en la película The Shack, y veremos claramente que este no es el Dios revelado en las Escrituras.  
-  
+## 1. El patripasianismo: afirmar que el Padre fue crucificado
 
-## 1\. El Padre fue crucificado con el Hijo.
+En el diálogo de la cabaña, el personaje que personifica a Dios Padre («Papá») afirma haber sufrido las heridas de los clavos y haber sido crucificado junto con el Hijo en el Calvario. Cuando el teólogo Matt Slick (CARM) cuestionó a Paul Young sobre este punto, el autor ratificó su postura: *«Seguro... el Padre estaba en el Hijo cuando el Hijo colgaba en la cruz... Él pasó por la crucifixión con el Hijo»*.
 
-The Shack enseña que el Padre fue crucificado en la cruz con Jesús, sufriendo por los pecados del mundo. Sabemos por las Escrituras que el Padre estaba en el Cielo mientras Jesús estaba en la tierra:  
-  
+Esta formulación revive una de las herejías más tempranas refutadas por la Iglesia primitiva: el **patripasianismo** (variante del modalismo sabeliano del siglo III), que confunde las personas de la Trinidad y sostiene que el Padre padeció el suplicio físico de la cruz.
 
-> "PORQUE QUIEN HACE LA VOLUNTAD DE MI PADRE EN EL CIELO ES MI HERMANO, HERMANA Y MADRE." - MATEO 12:50 (ESV)
+![Esquema histórico del modalismo y el sabelianismo frente a la doctrina bíblica de la Trinidad](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi168_DxtTeC8utddutshvz7XBpKHdDUmDJj-tVAv0WZk5sqMM5C5EmR7pLFjCpDpqzSjoKBNE6pfNkDpzhHIhWUe6JjBfaGP1YR_tPYoHwQ5yzjA7CadNQ7ZF42xBoJYhiZtEUVsQpqDE/s1600/sabelianismo.jpg)
 
-  
-Fue el Hijo quien fue enviado por el Padre por los pecados de la humanidad. El Padre envió al Hijo (Juan 3:16), el Padre permaneció en el Cielo (Mateo 6:9, Mateo 7:11, etc.); el Hijo volvió al Padre (Juan 14:12, Juan 14:28). Creer que el Padre sufrió por los pecados del mundo corresponde a la falsa teología conocida como sabelianismo:  
-  
+La revelación bíblica distingue con precisión la obra y posición de cada persona de la Deidad:
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi168_DxtTeC8utddutshvz7XBpKHdDUmDJj-tVAv0WZk5sqMM5C5EmR7pLFjCpDpqzSjoKBNE6pfNkDpzhHIhWUe6JjBfaGP1YR_tPYoHwQ5yzjA7CadNQ7ZF42xBoJYhiZtEUVsQpqDE/s1600/sabelianismo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi168_DxtTeC8utddutshvz7XBpKHdDUmDJj-tVAv0WZk5sqMM5C5EmR7pLFjCpDpqzSjoKBNE6pfNkDpzhHIhWUe6JjBfaGP1YR_tPYoHwQ5yzjA7CadNQ7ZF42xBoJYhiZtEUVsQpqDE/s1600/sabelianismo.jpg)
+* **La encarnación y el padecimiento pertenecen exclusivamente al Hijo:** Fue el Hijo quien asumió naturaleza humana y derramó su sangre (Hebreos 2:14; 1 Pedro 2:24).
+* **El Padre envió al Hijo y permaneció en su morada celestial:** El Padre comisiona (Juan 3:16; Gálatas 4:4), recibe el sacrificio (Efesios 5:2) y escucha el clamor de Jesús desde el madero: *«Dios mío, Dios mío, ¿por qué me has desamparado?»* (Mateo 27:46).
+* **La distinción de personas en la cruz:** Atribuir el padecimiento físico y la expiación al Padre anula la naturaleza vicaria del sacrificio: el Hijo se entregó a sí mismo a Dios como ofrenda inmaculada (Hebreos 9:14).
 
-  
-Cuando se le preguntó en una **[entrevista por Matt Slick de CARM](https://carm.org/the-shack)** si el Padre fue crucificado con el Hijo, Paul Young finalmente dice: "Seguro... el Padre estaba en el hijo cuando el hijo colgaba en la cruz... Él pasó por la crucifixión con el hijo". Mientras la película afirma a tres personas distintas en la Trinidad, es un error bastante grande creer que el Padre sufrió en la cruz.  
-  
-Realmente no puedo ver ninguna razón para incluir esto en el libro o en la película aparte de hacer un llamamiento al emocionalismo a expensas de la exactitud bíblica. Aquí está la escena de la película donde "Papá" dice que ella estaba en la cruz con Jesús:  
-  
-  
+---
 
-## 2\. Dios no castiga el pecado.
+## 2. La negación del juicio de Dios sobre el pecado
 
-Esta línea casi me hizo caer de mi asiento. Cuando Mackenzie (el personaje principal) pregunta a Papá (el Padre) si alguna vez tiene ira contra el pecado y castiga a la gente por ella, ella responde:  
-  
-"No soy quien crees que soy, Mackenzie. No necesito castigar a la gente por el pecado. El pecado es su propio castigo, devorando desde el interior. No es mi propósito castigar; es mi alegría curarla". (1)  
-  
-La Biblia dice unas 100 veces que Dios castiga el pecado. Sólo Jeremías contiene más de 30 referencias a Dios castigando el pecado usando la palabra "castigar" específicamente:  
+Uno de los puntos más graves de la obra ocurre cuando el protagonista, Mackenzie, pregunta al Padre si su furor se enciende contra la maldad humana y si castiga a los transgresores. La figura que representa a Dios responde:
 
->   
-> "YO TE CASTIGARÉ SEGÚN EL FRUTO DE TUS OBRAS, DECLARA EL SEÑOR" - JEREMÍAS 21:14
+> *«No soy quien crees que soy, Mackenzie. No necesito castigar a la gente por el pecado. El pecado es su propio castigo, devorando desde el interior. Mi propósito no es castigar; mi gozo es sanarlo».*
 
-  
-Sólo Ezequiel contiene más de 15 referencias directas a Dios castigando el pecado, usando la palabra "castigar", mientras Amós (10), Oseas (9), Zacarías (6) e Isaías (6) también están llenos de estas referencias específicas:  
-  
+Esta premisa redefine el carácter santo de Dios. La Escritura declara en centenares de pasajes que el Creador es un Juez moral perfecto que castiga y juzga activamente el pecado:
 
-> "AHORA PRONTO DERRAMARÉ MI FUROR SOBRE TI Y DESCARGARÉ MI IRA CONTRA TI; TE JUZGARÉ CONFORME A TUS CAMINOS Y TRAERÉ SOBRE TI TODAS TUS ABOMINACIONES." - EZEQUIEL 7:8
+* *«Yo los castigaré conforme al fruto de sus obras, declara el Señor»* (Jeremías 21:14).
+* *«Ahora pronto derramaré mi furor sobre ti y descargaré mi ira contra ti; te juzgaré conforme a tus caminos y traeré sobre ti todas tus abominaciones»* (Ezequiel 7:8).
 
-  
-Si añadimos en las referencias adicionales la ira general de Dios contra el pecado, estamos mirando un número mucho, MUCHO más grande. Esta línea niega el corazón del Evangelio. El resultado del pecado es la muerte, somos pecadores que merecemos la justicia de Dios, pero Jesús tomó nuestro castigo y juicio en nuestro lugar para que pudiéramos ser perdonados una vez que la justicia de Dios estuviera satisfecha. Dice en Isaías que:  
-  
+Despojar a Dios de su justicia retributiva desmantela por completo la necesidad del Calvario. Si el pecado no demanda juicio divino, la muerte expiatoria de Cristo pierde su propósito salvífico.
 
-> **"Ciertamente llevó él nuestras enfermedades, y sufrió nuestros dolores; y nosotros le tuvimos por azotado, por herido de Dios y abatido. Mas él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él, y por su llaga fuimos nosotros curados." - Isaías 53:4-5**
+### El núcleo del Evangelio: la expiación penal sustitutiva
 
-  
-Jesús fue una propiciación por nuestros pecados (1 Juan 2:2), fue una ofrenda fragante (Efesios 5:2) y sacrificio a Dios (Hebreos 10:12). Jesús murió por nuestros pecados (1 Corintios 15:3), y fue la expiación por nuestros pecados contra Dios (Romanos 3:25).  
-  
-Esto es de lo que trata todo el tema de la "justificación": que hemos sido declarados justos y no culpables a través del sacrificio expiatorio de Jesús en la cruz. Fuimos redimidos, comprados con precio, y rescatados por la muerte de Jesús. Él guardó la ley perfectamente, se nos imputa su justicia por medio de la fe, y estamos hechos justos con Dios ya que la justicia de Dios contra nuestros pecados se ha completado en la obra de Cristo.  
-  
-Así que si The Shack enseña que Dios nunca castiga el pecado, y la Biblia enseña 100 veces que Dios castiga el pecado y que Jesús fue castigado por nuestros pecados, entonces tenemos un problema aquí. Este no es el mismo Dios de la Biblia. Llano y simple.  
-  
+La justificación bíblica se fundamenta en que Jesucristo asumió voluntariamente el juicio que la humanidad merecía:
 
-## Paul Young enseña un falso evangelio
+* **Sustitución profética:** *«Ciertamente llevó él nuestras enfermedades, y sufrió nuestros dolores; y nosotros le tuvimos por azotado, por herido de Dios y abatido. Mas él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él, y por su llaga fuimos nosotros curados»* (Isaías 53:4-5).
+* **Propiciación judicial:** Dios exhibió a Jesús públicamente como propiciación por su sangre mediante la fe, para manifestar su perfecta justicia (Romanos 3:25-26; 1 Juan 2:2).
+* **Imputación:** Cristo, que no conoció pecado, fue hecho pecado por nosotros, para que fuésemos hechos justicia de Dios en él (2 Corintios 5:21).
 
-  
+Si Dios nunca castiga el pecado, como afirma *The Shack*, la cruz deja de ser el altar donde la justicia y la misericordia divinas se reconcilian (Salmos 85:10), reduciéndose a un mero espectáculo trágico sin eficacia expiatoria.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkkGF2MCkFf2hYrsZ38vAIYi4r9NqnJ3Q7MIIj3Z0wCKfssbupp9iP2qNEqpYXrOrZLt6T9BvNND_FWy38m9n_a0ju6MMujrPo4kjrb3LpF22_9mEkR_vou7mI6JCbjkcD65zP9kCS3Wg/s320/paul-young.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkkGF2MCkFf2hYrsZ38vAIYi4r9NqnJ3Q7MIIj3Z0wCKfssbupp9iP2qNEqpYXrOrZLt6T9BvNND_FWy38m9n_a0ju6MMujrPo4kjrb3LpF22_9mEkR_vou7mI6JCbjkcD65zP9kCS3Wg/s1600/paul-young.jpg)
+---
 
-¿Cómo puedes creer que Jesús murió por nuestros pecados sin creer que Dios castiga el pecado? No puedes. Usted debe adoptar un falso Evangelio con el fin de reconciliar estos dos juntos. Paul Young cree que todo el mundo ya está salvado ahora mismo, y que sólo estamos resistiendo la relación, pero podemos elegir la relación en cualquier momento (incluso después de la muerte).  
-  
-Paul no cree que Dios envió a Jesús a morir por nuestros pecados, y este falso evangelio de universalismo que él enseña es la columna vertebral de esta polémica cinta en The Shack. Esto da contexto y claridad a la línea que "Papá" dice a Mackenzie. Paul Young dice lo siguiente sobre esta comprensión tradicional del Evangelio:  
-  
-**"Dios nunca ha querido sacrificio. Nunca. Eso nunca ha sido una parte del plan de Dios. \[Jesús\] vino a sacarnos de este castigo retributivo y punitivo. Y esto no es una nueva doctrina, ésta es la iglesia primitiva. La iglesia primitiva no creía que el Padre matara a su Hijo. Tenemos a Dios el Padre que es el antiséptico, el que necesita ser apaciguado y que tenemos que sacrificar y Jesús se provee a sí mismo para que Dios el Padre no sea golpeado brutalmente como se hizo con él.**  
-**¿Tú entiendes? ¿Qué locura es esta? Y quién sabe dónde está el Espíritu Santo. ¿Está el Espíritu Santo tratando de proteger al Hijo del Padre abusador, o el Espíritu Santo está en silencio de pie siendo un facilitador para el Padre?" (2)**  
-  
-Cuando se le preguntó si creía que la cruz era un lugar de castigo por nuestro pecado, respondió diciendo:  
+## 3. El universalismo explícito de Paul Young
 
->   
-> "NO. NO SOY UNA SUSTITUCIÓN PENAL, REFORMACIÓN... NO VEO QUE SEA NECESARIO QUE EL PADRE SEA CASTIGADO, EN ESE CASO, EL HIJO." (3)
+La negación del castigo judicial en *The Shack* no es un descuido literario, sino el reflejo de la soteriología de su autor.
 
-  
-Así que esta línea en The Shack es suficiente para socavar todo el Evangelio, la obra que Jesús hizo en la cruz y el Dios de la Biblia. Esto, para mí, es la peor herejía de toda la película y el libro. Usted no puede tener el Evangelio tal como está revelado en las Escrituras si usted no tiene a Jesús pagando el precio por nuestros pecados.  
-  
-Hay otra escena que parece sugerir que Dios no envía a la gente al infierno, hay una escena en la que Jesús dice que no es un "cristiano" y no le importa si los demás se llaman a sí mismos cristianos, otra donde el Padre dice que los hombres son "idiotas" a veces, y cómo podemos dejar de lado que el Padre está siendo representado por una mujer cuando Jesús dice que nadie ha visto al Padre (Juan 6:46) y Dios dice que nadie puede ver su rostro y vivir (Éxodo 33:20).  
-  
-Publiqué una reseña completa de la película donde repasamos algunas de estas cosas más a fondo, miramos los problemas adicionales en la película, así como algunas más de las declaraciones de Paul Young y cómo se relacionan con las escenas en la película:  
-  
-  
-  
-Esto no es una película/libro que represente con precisión al Dios de las Escrituras, niega el corazón de la Buena Nueva y la cruz, y derriba la justicia de Dios a nada más que universalismo. Aunque puede ser psicológica y emocionalmente curativa, enseña una versión diferente de Dios que contradice al Padre que Jesús nos reveló.  
-  
-Paul Young ha asumido las cuentas, la justicia y la verdadera naturaleza de Dios y la reemplazó por algo más sabroso. The Shack es un excelente concepto para una película, tiene una gran historia, e incluso me llevó a las lágrimas durante una escena. Me trae un cierto nivel de tristeza porque veo el enorme potencial en esta historia, pero teológicamente está demasiado lejos de la base para ser manejable.  
-  
+![El autor William Paul Young, defensor de la reconciliación universal y crítico de la sustitución penal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkkGF2MCkFf2hYrsZ38vAIYi4r9NqnJ3Q7MIIj3Z0wCKfssbupp9iP2qNEqpYXrOrZLt6T9BvNND_FWy38m9n_a0ju6MMujrPo4kjrb3LpF22_9mEkR_vou7mI6JCbjkcD65zP9kCS3Wg/s1600/paul-young.jpg)
 
-> "AMADOS, NO CREAN A TODO ESPÍRITU, SINO PRUEBEN LOS ESPÍRITUS PARA VER SI SON DE DIOS, PORQUE MUCHOS FALSOS PROFETAS HAN SALIDO AL MUNDO." - 1 JUAN 4:1
+En declaraciones públicas y conferencias, Paul Young ha rechazado abiertamente la doctrina de la sustitución penal, calificándola con términos despectivos:
 
-  
+> *«Dios nunca ha demandado sacrificio. Jamás. Eso nunca formó parte del propósito divino. Jesús vino a liberarnos de esa idea de un castigo retributivo y punitivo... Proyectamos a un Dios Padre antiséptico que necesita ser apaciguado, y a Jesús interponiéndose para evitar que el Padre nos destruya. ¿Qué clase de atrocidad es esa? ¿Acaso el Espíritu Santo intenta proteger al Hijo de un Padre abusador?».*
 
-**Referencias**  
-  
-The Shack, Windblown Media, 2007, págs. 120-121  
-  
-"Una entrevista con Wm. Paul Young (Parte 2) - Iglesia Comunitaria de Orchard Grove MI - Feb 2017 ", YouTube, 2017  
-  
-"Episodio de wretched - El autor de The Shack es universalista", wretched. Youtube. 2009.
+Al ser consultado sobre si la crucifixión constituyó un acto de expiación penal por el pecado, Young concluyó categóricamente: *«No. No creo en la sustitución penal... No veo necesario que el Padre deba castigar al Hijo»*.
+
+Bajo este esquema universalista, toda la humanidad ya se encuentra reconciliada y salva automáticamente; la fe y el arrepentimiento dejan de ser indispensables para escapar de la condenación eterna (Juan 3:18, 3:36), convirtiéndose en simples etapas de asimilación relacional que pueden posponerse incluso después de la muerte física.
+
+---
+
+## 4. Representaciones antibíblicas de la Deidad
+
+Además de las distorsiones soteriológicas y trinitarias nucleares, la obra acumula elementos narrativos incompatibles con la reverencia debida al Creador:
+
+* **Representación antropomórfica del Padre:** La personificación visual del Padre como una figura femenina contradice el mandamiento explícito contra fabricar imágenes de Dios (Éxodo 20:4) y la revelación apostólica: *«Al Rey de los siglos, inmortal, invisible, al único sabio Dios, sea honor y gloria por los siglos de los siglos»* (1 Timoteo 1:17; Juan 1:18).
+* **Relativización del testimonio cristiano:** En la narración, la figura de Jesús relativiza la identidad de sus seguidores, afirmando que no le interesa que las personas se identifiquen como cristianas ni pretende convertirlas a una fe específica, diluyendo el mandato de la Gran Comisión (Mateo 28:19; Hechos 11:26).
+* **Omisión deliberada del infierno:** Se soslaya la doctrina del juicio venidero y la condenación eterna de los impenitentes, doctrina enseñada profusamente por el propio Jesús en los Evangelios (Mateo 25:46; Marcos 9:43-48; Lucas 16:19-31).
+
+---
+
+Aunque *The Shack* recurre a resortes narrativos capaces de apelar a la sensibilidad de lectores que atraviesan duelo o trauma, el consuelo que ofrece descansa sobre una teología fabricada que desfigura la santidad, la justicia y la gracia del Dios de la Biblia. Ante doctrinas que diluyen la gravedad del pecado y el costo del Calvario, permanece vigente la advertencia apostólica:
+
+> *«Amados, no creáis a todo espíritu, sino probad los espíritus si son de Dios; porque muchos falsos profetas han salido por el mundo»* (1 Juan 4:1).
+
+---
+
+### Referencias
+
+1. Young, Wm. Paul. *The Shack*. Windblown Media, 2007, pp. 120-121.
+2. Young, Wm. Paul. Entrevista en Orchard Grove Community Church, Michigan, febrero de 2017.
+3. Entrevista a Wm. Paul Young en el programa *Wretched*, 2009.
+4. Young, Wm. Paul. *Lies We Believe About God*. Atria Books, 2017.
