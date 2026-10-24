@@ -9,96 +9,72 @@ description: "J. P. Holding responde a la tesis de que Jesús copió a la deidad
 tags: ["Apologética", "Tammuz", "Mitos paganos", "Jesús"]
 ---
 
-La antigua deidad sumeria **Tammuz**, o **Dumuzi**, ha sido utilizada en los últimos años como una posible fuente para la creencia de la copia pagana **cristiana,** pero con pocas pruebas específicas.  
-  
+La antigua deidad sumeria **Tammuz** (conocida en los textos mesopotámicos tempranos como **Dumuzi**) ha sido utilizada frecuentemente por corrientes escépticas y partidarias de la teoría del mito de Cristo para sostener que el cristianismo primitivo copió arquetipos de religiones paganas precedentes. Sin embargo, al examinar la literatura asiriológica y las fuentes históricas primarias, la pretendida correlación carece de sustento documental.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj70DnMmSeq72yWiP9bVgqJR2NWxUOPhH4DsNxBxWUo67nQrzZtxCMJFJw94tlatrntynv9Fk0u8gfNgRlvIRtloCiVB-FJXznmBLu9Zh1RDPltWm3yL7VkSpds2IYt0a-xtpmxGnXDPAY/s1600/tammuz-jesus.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj70DnMmSeq72yWiP9bVgqJR2NWxUOPhH4DsNxBxWUo67nQrzZtxCMJFJw94tlatrntynv9Fk0u8gfNgRlvIRtloCiVB-FJXznmBLu9Zh1RDPltWm3yL7VkSpds2IYt0a-xtpmxGnXDPAY/s1600/tammuz-jesus.jpg)
+![Relieve sumerio antiguo representando a la deidad pastoril Dumuzi o Tammuz](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj70DnMmSeq72yWiP9bVgqJR2NWxUOPhH4DsNxBxWUo67nQrzZtxCMJFJw94tlatrntynv9Fk0u8gfNgRlvIRtloCiVB-FJXznmBLu9Zh1RDPltWm3yL7VkSpds2IYt0a-xtpmxGnXDPAY/s1600/tammuz-jesus.jpg)
 
-  
-[](https://www.blogger.com/null)Un crítico se refiere a Tammuz como "el dios salvador adorado en Jerusalén" (aunque nunca dicen de qué salvó a las personas, ni cómo fue un salvador), o como el "dios sol salvador de la fertilidad que anualmente murió y resucitó" (veremos esta afirmación más adelante) y usa juegos de palabras para insinuar que está representado por el apóstol Tomás, aunque este punto no está desarrollado, mucho menos probado lingüística o históricamente.  
-  
-Se atribuye simplemente, sin una nota de pie de página, que a través de la indicación, Tomás predicó a los partos y persas, y que de alguna manera estos grupos eran seguidores de Tammuz. Las afirmaciones más extensas sobre Tammuz sostienen que:  
-  
+Ciertos críticos catalogan a Tammuz como «el dios salvador adorado en Jerusalén» o como un «dios solar de la fertilidad que moría y resucitaba anualmente», llegando incluso a proponer juegos de palabras no demostrados para vincularlo con el apóstol Tomás. 
 
-  
+Entre las afirmaciones más difundidas en obras de mitología comparada (como las de Acharya S / D.M. Murdock), se alega que:
 
-1.  En un tiempo sagrado de su "pasión en Jerusalén", él llevaba una "corona de espinas" hecha de mirra.
-2.  Fue sacrificado anualmente en el Templo de Jerusalén.
-3.  Fue llamado "Hijo unigénito" e "Hijo de la Sangre"; así como Sanador, Salvador, Pastor Celestial y Ungido.
-4.  Él "cuidaba las ovejas de las estrellas, que eran consideradas almas de los muertos en el cielo".
-5.  Acharya añade que Tammuz / Adonis era "representante del espíritu del maíz" y esto se conecta con Bethelehem que significa "Casa de Pan" o "Casa de Maíz".
-6.  Esta también añade que Tammuz "nació en la misma cueva en Belén ahora considerada el lugar de nacimiento de Jesús".
+1. Llevaba una «corona de espinas» confeccionada con ramas de mirra durante su supuesta pasión.
+2. Era sacrificado anualmente en el Templo de Jerusalén.
+3. Ostentaba títulos como «Hijo unigénito», «Hijo de la sangre», «Sanador», «Salvador» y «Pastor celestial».
+4. Pastoreaba las estrellas como almas de los difuntos en las regiones celestiales.
+5. Encarnaba el «espíritu del grano», conectándolo etimológicamente con Belén (*Beit Léjem*, «Casa del pan»).
+6. Habría nacido exactamente en la misma gruta de Belén atribuida al nacimiento de Jesús.
 
-  
-  
-Poco se dirá en respuesta de esto, porque francamente, gran parte de esto está o bien sin fundamento o bien nunca ocurrió. La literatura erudita sobre Tammuz no es común, pero lo que he encontrado no ofrece ninguna confirmación o referencia a ninguna de estas afirmaciones, con dos excepciones: la identidad de Tammuz como pastor y su muerte y "resurrección".
+La investigación asiriológica y las fuentes documentales no ofrecen evidencia alguna que corrobore estas aseveraciones, con excepción de dos elementos descontextualizados: el rol de Tammuz como pastor y el ciclo mítico de su muerte y regreso temporal del inframundo.
 
-  
+---
 
-**Nota:** Si deseas recibir más contenido sobre apologética, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
-  
-Así que echemos un vistazo a lo que los académicos de la literatura tienen que decir respecto a estas afirmaciones.  
-  
+## Examen de los títulos atribuidos a Tammuz
 
-## Análisis de las reclamaciones
+En la literatura sumeria previa al 3000 a. C., Tammuz era reverenciado primariamente como una divinidad vinculada a la fertilidad agraria y la regeneración de la naturaleza (Jacobsen, *Toward the Image of Tammuz*, p. 28; Langdon, *Tammuz and Ishtar*, pp. 2-3).
 
-El dios Tammuz era conocido como un dios sumerio de la fertilidad y de la nueva vida \[ImT, 28\] antes del 3000 a. C. \[Lang.TI, 2-3\]. De hecho, fue conocido por dos de los nombres de arriba: fue llamado pastor, pero eso fue sólo porque él era literalmente un pastor (ImT, 29). Su carga específica fue la producción de corderos y leche de oveja.  
-  
-Por supuesto, notaríamos que en una sociedad pastoral antigua, no sería ninguna sorpresa para cualquier figura principal (política, religiosa, o lo que sea) ser llamado un "pastor" - pero en este caso, el paralelo no está ni siquiera allí, porque el título es literal.  
-  
-Tammuz también fue llamado un "sanador" (como profesión médica), y considerado como un salvador, pero como Langdon señala \[Lang.TI, 34\], aquellos que se refieren a Tammuz con estos nombres "no tienen las doctrinas espirituales que estas palabras transmiten en la doctrina cristiana", sino que usan las palabras "en el sentido de que toda la vida dependía de su sacrificio y especialmente de su regreso del infierno". (Como recordatorio, eso es algo que Jesús no hizo).  
-  
-Tammuz sanó médicamente, pero como Langdon nos recuerda, "Toda deidad, hombre o mujer, poseía este poder", por lo que Tammuz no es nada especial, o inesperado para un dios verdadero o falso, como es el caso.  
+* **El título de «pastor»:** Dumuzi es catalogado como pastor en los textos mesopotámicos debido a que su dominio específico era el cuidado de los rebaños, la parición de corderos y la producción de leche de oveja. En las sociedades ganaderas del Cercano Oriente antiguo, el epíteto de pastor constituía una metáfora gubernamental y profesional habitual; en Tammuz, el término refleja una función zoológica y agrícola directa, carente de la dimensión soteriológica de Cristo como el Buen Pastor (Juan 10:11).
+* **«Sanador» y «salvador»:** Como documenta el asiriólogo Stephen Langdon (*Tammuz and Ishtar*, p. 34), cuando los himnos mesopotámicos emplean conceptos de curación o preservación, no aluden a doctrinas de salvación espiritual o perdón de faltas morales:
 
->   
-> TAMMUZ SALVADOR, PERO NO DEL PECADO: SALVÓ DE LA VIDA Y DE LA MUERTE FÍSICA. NUNCA FUE CONSIDERADO PARA RESCATE DE LA DAMNIFICACIÓN ETERNA.
+> *«Aquellos que se refieren a Tammuz con estos términos no poseen las nociones doctrinales que estas palabras transmiten en la teología cristiana; las emplean en el sentido de que la fertilidad de la tierra y la subsistencia biológica dependían de su retorno del mundo subterráneo».*
 
-  
+El papel curativo de Tammuz respondía a la creencia politeísta común de que cualquier deidad patronal podía intervenir frente a enfermedades físicas o plagas de los campos, sin implicar una redención de la condenación eterna.
 
-## Tammuz muerte y "resurrección"
+---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNyiUWLegRLqvTEmrDtLZrbH1zRsU0pXL6trXMiKaZ8kVD0m9VGIRAqCkc0quiVCGiE6tOfVWQcyH368uo1hTcajURi-U0iCT27rmeGWgoTLqpb92BPrvHwqm9DR4_aNKH54P7CJq_YHE/s1600/tammuz.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNyiUWLegRLqvTEmrDtLZrbH1zRsU0pXL6trXMiKaZ8kVD0m9VGIRAqCkc0quiVCGiE6tOfVWQcyH368uo1hTcajURi-U0iCT27rmeGWgoTLqpb92BPrvHwqm9DR4_aNKH54P7CJq_YHE/s1600/tammuz.jpg)
+## Muerte estacional frente a resurrección corporal
 
-  
+El ciclo mítico de Tammuz no describe una resurrección en el sentido bíblico del término. Mark S. Smith (*The Origins of Biblical Monotheism*, p. 112) aclara que los textos aluden a un ritual de evocación estacional donde la deidad, retenida en el inframundo, es manifestada temporalmente.
 
-Ahora esto conduce a la muerte y el regreso a la vida de Tammuz, y de hecho existe, aunque llamarla una "resurrección" (como lo hace Langdon) es eliminar todo significado de la palabra.  
-  
-Smith en los orígenes del monoteísmo bíblico \[112\] señala que los medios de Tammuz para volver a la vida son desconocidos, pero añade que la descripción apunta a su "participación en un ritual en el que los muertos fueron invocados y luego manifestados temporalmente".  
-  
-El culto de Tammuz se centró en el matrimonio de Tammuz con Inanna, y fue el lamento de esta por la muerte temprana de Tammuz lo que las mujeres imitaron.  
-  
+![Representación iconográfica del ciclo de descenso y retorno del inframundo de Tammuz](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNyiUWLegRLqvTEmrDtLZrbH1zRsU0pXL6trXMiKaZ8kVD0m9VGIRAqCkc0quiVCGiE6tOfVWQcyH368uo1hTcajURi-U0iCT27rmeGWgoTLqpb92BPrvHwqm9DR4_aNKH54P7CJq_YHE/s1600/tammuz.jpg)
 
-> LA MUERTE DE TAMMUZ FUE GENERALMENTE ATRIBUIDA A LOS LADRONES DEL MUNDO INFERIOR QUE LO ATACARON Y ROBARON SU OVEJA.
+El culto se articulaba en torno al duelo de su consorte, la diosa Inanna (Ishtar), cuyo lamento ritual por la pérdida de Tammuz era emulado por mujeres durante el verano (episodio censurado en Ezequiel 8:14):
 
-  
-A partir de entonces fue llorado por su madre, hermana y viuda. \[ImT, 29, 54\] Pero buenas noticias para ellas: Tammuz no permaneció muerto.  
-  
-Él regresó más tarde, rescatado por su consorte y algunos demonios que le cantaban. \[LangTI, 20-1\] El mecanismo por el cual esto se logró, sin embargo, no se describe, y obviamente es mucho menos comparable a la resurrección judía.  
-  
-Los estudiosos de la religión y de Tammuz reconocen esta historia como representativa del habitual ciclo de nacimiento y muerte de la vegetación. (Como tal, fue llamado "el hijo fiel", pero de "las aguas frescas que vienen de la tierra" \[Lang.TI, 6n\]).  
-  
-Este es el título más cercano que podría encontrar a los otros títulos de "hijo" más arriba. Sus otros títulos incluyen "Madre-lactante", "dios de las palmeras de la fecha", e "imagen de Ea".  
-  
+1. **La causa de la muerte:** El mito narra que Tammuz fue asaltado y derribado por demonios o bandidos del inframundo (*galla*) que pretendían arrebatar sus rebaños (Jacobsen, pp. 29, 54).
+2. **El rescate cíclico:** Su regreso temporal era posible mediante intercambios pactados en el inframundo con su hermana Geshtinanna, turnándose seis meses cada uno en las profundidades de la tierra para permitir el florecimiento de la vegetación (Langdon, pp. 20-21).
+3. **El ciclo agrícola:** La partida y retorno de Tammuz representaba la sequía del estío y el renacer invernal de las aguas subterráneas y las cosechas. 
 
-> LA MUERTE Y "RESURRECCIÓN" DE TAMMUZ OCURRE CADA AÑO Y CORRESPONDE AL CICLO NATURAL DE LA VEGETACIÓN. ESTO NO OFRECE NINGÚN PARALELISMO CON LA RELIGIÓN CRISTIANA, SOLO ESPERA REDEFINIR EL TÉRMINO "RESURRECCIÓN" A NO SÓLO UN CONCEPTO JUDÍO ESPECÍFICO, SINO CUALQUIER TRANSICIÓN (MUERTE-VIDA) E IGNORANDO DIFERENCIAS VISIBLES EN SU SIGNIFICADO.
+Equiparar este ciclo vegetativo perpetuo con la resurrección histórica de Jesús desvirtúa el concepto bíblico: la resurrección de Cristo es un acontecimiento único en el tiempo, corporal, acontecido una sola vez y orientado a la victoria definitiva sobre la muerte y el pecado (Romanos 6:9-10).
 
-  
-También he visto que algunos señalan la supuesta simbolización de Tammuz con el tau, o T, como un supuesto paralelo a la cruz, pero nadie fue empalado en el símbolo alfabético de Tammuz. Como les he preguntado una vez: ¿los romanos y los persas robaron esto de Tammuz porque creían que era una buena forma para crucificar a la gente?  
-  
-Finalmente, Langdon, aunque no como una copia, se refiere repetidamente a la "madre virgen" de Tammuz. En este caso refiere a la tierra, no a una figura femenina que literalmente dio a luz a Tammuz. Este es un uso ilícito de la terminología, aunque Langdon no sugiere un paralelo o influencia.  
-  
-En cuanto a la supuesta similitud de lugar de nacimiento entre Jesús y Tammuz, esta fue una integración pagana que ocurrió después del nacimiento y la muerte de Jesús para pervertir la santidad del Cristo:  
-  
-La referencia en Jerónimo sobre Tammuz y la cueva de nacimiento de Jesús puede encontrarse en la **[Epístola a Paulino 58.3](http://www.ccel.org/ccel/schaff/npnf206.toc.html#P75_1065)** de las cartas de Jerónimo. Jerónimo dice:  
-  
-Desde el tiempo de Adriano hasta el reinado de Constantino, en un período de ciento ochenta años, en el lugar donde se había presenciado la resurrección estaba una figura de Júpiter; mientras que en la roca donde había estado la cruz, había una estatua de mármol de Venus que fue establecida por los paganos y se convirtió en objeto de adoración.  
-  
-Los perseguidores originales, en efecto, supusieron que contaminando nuestros lugares santos nos privarían de nuestra fe en la pasión y en la resurrección. Incluso el propio Belén, tal como es ahora, el lugar más venerable en todo el mundo del que canta el salmista: "la verdad surgió de la tierra", fue eclipsado por un patio de Tammuz, que es el mismo Adonis; y la cueva donde el infante Cristo había pronunciado su primer lamento, fue dedicada para la amante del dios Venus. 1767-1771  
-  
-**Fuentes**  
-  
-\[ImT\] Hacia la imagen de Tammuz y otros ensayos sobre la historia y la cultura de Mesopotamia. Thorkild Jacobsen, editor. Harvard U. Press, 1976.  
-  
-\[Lang. TI\] Langdon, S. Tammuz e Ishtar. Oxford: Clarendon, 1914.  
-  
-Este artículo fue presentado originalmente en Tektonics.org y fue reeditado con permiso del autor.
+Asimismo, pretender trazar paralelismos entre el patíbulo romano y la letra semítica *tau* (T) ignora que la crucifixión era una pena de ejecución imperial persa y romana diseñada para la humillación pública, no una derivación ritual de la iconografía cuneiforme sumeria.
+
+---
+
+## La cueva de Belén y la profanación de Adriano
+
+La afirmación de que Jesús y Tammuz compartían el mismo lugar sagrado de nacimiento en Belén responde a una inversión cronológica de los hechos históricos. La fuente primaria de este relato se encuentra en las cartas de Jerónimo de Estridón (*Epistola ad Paulinum*, 58.3):
+
+> *«Desde los días de Adriano hasta el reinado de Constantino, por un espacio de unos ciento ochenta años, en el lugar de la resurrección se rendía culto a una estatua de Júpiter, y en la roca de la cruz los paganos erigieron una figura de mármol de Venus... Incluso Belén, el lugar más venerable del orbe, quedó ensombrecido por una arboleda consagrada a Tammuz (Adonis), y en la misma cueva donde el infante Cristo prorrumpió en llanto, se celebraban los lamentos por el amante de Venus».*
+
+El testimonio histórico demuestra que no fue el cristianismo el que asimiló una gruta sagrada de Tammuz para ubicar la Natividad. Fue el emperador romano Adriano quien, tras sofocar la rebelión de Bar Kojba (135 d. C.), confiscó y profanó sistemáticamente los santuarios venerados por los primeros cristianos en Judea —plantando arboledas sagradas paganas sobre el Calvario, el Santo Sepulcro y la gruta de Belén— para erradicar el culto cristiano primitivo.
+
+---
+
+Al igual que en los supuestos paralelismos con [Baal](/estudios/jesus-vs-baal) o [Krishna](/estudios/muerte-resurreccion-jesus-copiada-krishna), la pretendida dependencia entre Jesús y Tammuz se desmorona ante el análisis filológico: Dumuzi fue un arquetipo agrícola de la fertilidad estacional sumeria, cuya mitología no guarda relación con la redención vicaria ni con la resurrección del Nuevo Testamento.
+
+---
+
+### Fuentes consultadas
+
+* **Jacobsen, Thorkild.** *Toward the Image of Tammuz and Other Essays on Mesopotamian History and Culture*. Cambridge: Harvard University Press, 1976.
+* **Langdon, Stephen.** *Tammuz and Ishtar: A Monograph on Babylonian Religion and Poetry*. Oxford: Clarendon Press, 1914.
+* **Smith, Mark S.** *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*. Oxford: Oxford University Press, 2001.

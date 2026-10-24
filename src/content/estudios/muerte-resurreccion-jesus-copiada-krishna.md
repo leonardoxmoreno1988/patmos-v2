@@ -9,74 +9,55 @@ description: "Kersey Graves afirmó hace más de cien años que los relatos de l
 tags: ["Apologética", "Krishna", "Resurrección", "Mitos paganos"]
 ---
 
-¿Qué dirías si alguien te dijera que los relatos evangélicos de la muerte y resurrección de **Jesús** fueron copiados de historias paganas anteriores? Hace más de 100 años, un tipo llamado Kersey Graves habló de **Jesús** y **Krishna**.  
-  
+La afirmación de que los relatos evangélicos sobre la muerte y resurrección de Jesucristo fueron copiados de mitos paganos u orientales es un argumento frecuente en la literatura del misticismo comparado. Uno de los principales difusores de esta tesis fue Kersey Graves en su obra *The World's Sixteen Crucified Saviors* (1875), donde sostuvo que Jesús no constituía una figura singular entre las [figuras religiosas de la historia](/estudios/jesus-vs-buda-evidencia-historica), alegando que la deidad hindú Krishna habría sido concebida siglos antes como un salvador crucificado y resucitado.
 
-[![ilustracion de jesus y krishna sosteniéndose de la mano](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivhH6DZIOHELwXdyrwsUrIv4LJoAXVxsJajz-w1gpCZoWk_Lj7K15WGA5pr3o-XREl8Oeh-c-jTX7-w5_uZmmSHhK9Mxqcysj91Idz3Qz4DuhVx6oof4uURpGvmZBxuck58E7qL6Syh7Q/s1600/jesus-krishna.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivhH6DZIOHELwXdyrwsUrIv4LJoAXVxsJajz-w1gpCZoWk_Lj7K15WGA5pr3o-XREl8Oeh-c-jTX7-w5_uZmmSHhK9Mxqcysj91Idz3Qz4DuhVx6oof4uURpGvmZBxuck58E7qL6Syh7Q/s1600/jesus-krishna.png)
+A través del examen de las fuentes primarias de la literatura védica —en particular la gran epopeya del *Mahabharata*— frente al registro del Nuevo Testamento, es posible determinar si existe algún fundamento histórico y documental para sostener esta pretendida dependencia o si se trata de una correlación infundada.
 
-  
-Dijo que Jesús no era único entre las **[figuras religiosas](/estudios/jesus-vs-buda-evidencia-historica)**. Los fans de su obra estaban convencidos de que la figura hindú Krishna no era sólo un dios moribundo y ascendente, sino también un salvador crucificado.  
+![Ilustración comparativa entre las representaciones tradicionales de Jesucristo y Krishna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivhH6DZIOHELwXdyrwsUrIv4LJoAXVxsJajz-w1gpCZoWk_Lj7K15WGA5pr3o-XREl8Oeh-c-jTX7-w5_uZmmSHhK9Mxqcysj91Idz3Qz4DuhVx6oof4uURpGvmZBxuck58E7qL6Syh7Q/s1600/jesus-krishna.png)
 
-  
-Tal vez usted no ha escuchado este desafío preciso sobre Jesús y Krishna antes. Pero la idea de que la historia de Jesús fue arrancada de los antiguos mitos paganos se repite una y otra vez en las conversaciones sobre la literatura religiosa mundial.
+---
 
-  
+## La muerte de Krishna: ¿crucifixión o accidente de caza?
 
-**Nota:** Si deseas recibir más contenido sobre la persona de Jesús, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  
-  
-Enseño un curso de Religión Mundial en la Universidad William Jessup y recientemente tuve la oportunidad de colaborar en este tema con mi amigo Daniel Lee, quien actualmente está estudiando Apologética Cristiana con otro amigo de mis días en Biola, el Dr. Sean McDowell.  
-  
-En este post, mostraremos cómo al comparar la historia de Krishna con los relatos bíblicos de Jesús demuestran que la muerte y resurrección de Jesús no fue copiada del hinduismo. Primero, compararemos la historia de la muerte de Jesús con la historia de la muerte de Krishna. ¿Fue copiada la muerte de Jesús de Krishna? Luego, compararemos la idea de la resurrección en cada una de estas historias. ¿Era Krishna realmente un salvador crucificado?  
-  
+En *The World's Sixteen Crucified Saviors*, Graves aseguró que Krishna fue crucificado en un madero entre dos ladrones. Sin embargo, ningún manuscrito hindú, tradición védica o texto clásico sostiene que Krishna haya muerto mediante crucifixión.
 
-## ¿Fue la muerte de Jesús copiada de Krishna?
+El registro más detallado sobre el final terrenal de Krishna se encuentra en el **[Mahabharata (Libro 16: Mausala Parva)](http://www.sacred-texts.com/hin/m16/m16004.htm)**. Lejos de describir un juicio penal romano o un suplicio en un patíbulo público, el texto narra un incidente accidental durante una cacería en el bosque:
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtjUHB2kYmjs-FOOufeFZiRRuJa1uDFqBK2xOBjGB2NWrCURjZ33Rc28vlg8K8Bcbt6dpyy7o_GzwPalyk9tMnPbWx0p2p4t0KzIJjZqkEJiPzetGc_ejbhijsxRS0smYiFT2N-pLOMAk/s1600/crucificcion.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtjUHB2kYmjs-FOOufeFZiRRuJa1uDFqBK2xOBjGB2NWrCURjZ33Rc28vlg8K8Bcbt6dpyy7o_GzwPalyk9tMnPbWx0p2p4t0KzIJjZqkEJiPzetGc_ejbhijsxRS0smYiFT2N-pLOMAk/s1600/crucificcion.png)
+> **"El cazador, confundiéndolo [a Krishna] con un ciervo, lo traspasó con una flecha e inmediatamente se aproximó al lugar para capturar a su presa. Al llegar, Jara [el cazador] vio a un hombre vestido con ropas amarillas, absorto en yoga y dotado de muchos brazos. Reconociéndose culpable y lleno de temor, tocó los pies de Krishna, quien lo consoló y luego ascendió... Al arribar a las regiones celestiales, se reunió con las deidades."**
 
-  
-Comparemos a Jesús y a Krishna. En **[Los Dieciséis Salvadores Crucificados del Mundo](https://www.amazon.com/Worlds-Sixteen-Crucified-Saviors-Christianity/dp/1585090182/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=ag-post-20&linkId=4e79ffc95058dc4c9c39a244a2dfa0ae)**, Graves escribió que Krishna fue crucificado entre dos ladrones (p.140). ¡Pero ningún texto hindú dice que Krishna fue crucificado en absoluto! Sin embargo, algunos se preguntan si hay un paralelo entre la forma en que Jesús y Krishna murieron. Han escuchado que mucho antes de la muerte de Jesús, había un viejo mito indio sobre el dios hindú Krishna que fue perforado y resucitado. ¿Verdad?  
-  
-Suena curioso cuando se pone así. Después de todo, los cristianos enlazan Isaías 53:5 con la muerte de Jesús por medio de la crucifixión: "Pero él fue traspasado por nuestras transgresiones ... con sus heridas fuimos curados" (Compare esto con 1 Pedro 2:24). Pero aquí está la cosa: ¡Todas las cosas pueden parecer similares si ignoras las diferencias!  
-  
-Lee por ti mismo lo que el poema épico indio llamado **[Mahabharata (Libro 16: Mausala Parva)](http://www.sacred-texts.com/hin/m16/m16004.htm)** dice acerca de Krishna. No fue crucificado. En cambio, le dispararon en un accidente de caza.  
-  
+![Representación artística de la crucifixión histórica de Jesús en el Gólgota](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtjUHB2kYmjs-FOOufeFZiRRuJa1uDFqBK2xOBjGB2NWrCURjZ33Rc28vlg8K8Bcbt6dpyy7o_GzwPalyk9tMnPbWx0p2p4t0KzIJjZqkEJiPzetGc_ejbhijsxRS0smYiFT2N-pLOMAk/s1600/crucificcion.png)
 
-> **"El cazador, confundiéndolo \[Krishna\]... con un ciervo, lo traspasó con un vástago y rápidamente llegó a ese lugar para capturar a su presa. Al llegar, Jara \[el cazador\] vio a un hombre vestido con batas amarillas, extasiado en yoga y dotado de muchas armas. Sintiéndose a sí mismo un ofensor, y lleno de miedo, tocó los pies de Krishna, que lo consoló y luego ascendió... Cuando llegó al cielo \[él\] se reunió con las deidades..."**
+Ciertos autores escépticos intentan forzar una analogía apoyándose en la idea de que Krishna fue «traspasado», buscando asociarlo con textos proféticos como Isaías 53:5 (*«Él fue traspasado por nuestras rebeliones»*) o 1 Pedro 2:24. No obstante, la similitud verbal superficial se disuelve ante el contexto:
 
-  
-Sí, Krishna fue traspasado. Pero él fue traspasado por una flecha cuando le dispararon en el pie. Krishna no fue crucificado. Y ciertamente no fue crucificado entre dos ladrones.  
-  
-Así que, ¿fue la muerte de Jesús por la crucifixión copiada de Krishna? No. Resulta que no hay crucifixión en la historia de Krishna. Simplemente no vemos un paralelo significativo entre Jesús y Krishna en este sentido. ¿Y la idea de Graves de que Krishna era un salvador resucitado?  
-  
+* **Mecanismo:** Krishna recibe el impacto fortuito de una flecha en el talón mientras descansa en el bosque; Jesús es sometido a un proceso judicial formal y clavado a un madero de ejecución romana.
+* **Compañeros de muerte:** No existe ningún registro de ladrones o ajusticiados junto a Krishna; la presencia de dos malhechores es exclusiva de los relatos de los Evangelios.
+* **Propósito:** La muerte de Krishna no reviste ningún carácter expiatorio ni de rescate por el pecado humano, sino el cumplimiento de una maldición mitológica previa (*la maldición de Gandhari*).
 
-## ¿Fue copiada la resurrección de Jesús de Krishna?
+---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsfGicV41Jx15gwU4pf_MhwbbJ50erNJ87iImwihy3qUQaefVwJwxWODZP3hlFWORiKvzMt10KD81c3Ic2eVF2R8x79P2XlbdjDL7HwMeyXwJbvC5gVFTB2XH5VaoFY7Ee4H9Ri8WTXvk/s1600/resurreccion-jesus-krishna.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsfGicV41Jx15gwU4pf_MhwbbJ50erNJ87iImwihy3qUQaefVwJwxWODZP3hlFWORiKvzMt10KD81c3Ic2eVF2R8x79P2XlbdjDL7HwMeyXwJbvC5gVFTB2XH5VaoFY7Ee4H9Ri8WTXvk/s1600/resurreccion-jesus-krishna.jpg)
+## La resurrección corporal frente a la ascensión mística
 
-Podríamos estar equivocados acerca de esto, pero no está claro que Krishna realmente murió cuando Jara le disparó en el pie. Si realmente no murió, no podría haberse levantado de entre los muertos. Pero vamos a dar a Graves el beneficio de la duda y decir que Krishna murió cuando le dispararon en el pie y de alguna manera volvió a la vida justo después de recibir un disparo.  
-  
-Todavía no hay un paralelo significativo con la resurrección de Jesús. Según las primeras fuentes cristianas, Jesús fue enterrado y su tumba fue descubierta vacía por algunas mujeres seguidoras tres días después. Durante un período de 40 días, convenció a individuos y grupos que Dios lo resucitó de los muertos antes de ascender al cielo. Esto es totalmente diferente de la historia de Krishna.  
-  
-Pero lo que es más importante, los cristianos vinculan la muerte y resurrección de Jesús con la posibilidad de perdón del pecado y de la vida eterna. En cambio, ningún texto hindú vincula la escena de Krishna a la posibilidad de que los seres humanos alcancen el perdón de los pecados o alcancen la vida eterna. ¿En qué sentido, entonces, Krishna era un salvador?  
-  
-Entonces, ¿fue la resurrección de Jesús copiada de Krishna? No. No es claro que Krishna fuera resucitado en el mito y ningún hindú vincula el accidente de caza de Krishna con el perdón de los pecados o la vida eterna.  
-  
+La tesis del paralelismo sostiene igualmente que Krishna regresó corporalmente de la tumba antes de ascender al cielo. Sin embargo, la concepción del desenlace de Krishna en el hinduismo difiere ontológicamente de la resurrección cristiana.
 
-## Jesús y Krishna: Ningún Paralelo Significativo
+![Contraste visual entre la ascensión del espíritu de Krishna y la resurrección de Cristo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsfGicV41Jx15gwU4pf_MhwbbJ50erNJ87iImwihy3qUQaefVwJwxWODZP3hlFWORiKvzMt10KD81c3Ic2eVF2R8x79P2XlbdjDL7HwMeyXwJbvC5gVFTB2XH5VaoFY7Ee4H9Ri8WTXvk/s1600/resurreccion-jesus-krishna.jpg)
 
-Las personas que quieren forzar un paralelo dicen que Jesús y Krishna fueron reconstruidos y resucitados de entre los muertos. Pero de nuevo, casi cualquier cosa puede parecer similar si se ignora las diferencias. El punto clave de la historia del Evangelio es que Dios usó la resurrección de Jesús para validar sus pretensiones divinas.  
-  
-Además, el Nuevo Testamento vincula la muerte y resurrección de Jesús a los creyentes que reciben el perdón de los pecados y la vida eterna. De hecho, el significado cristiano de este evento no tiene paralelo significativo con la historia hindú de Krishna. Como concluye mi amigo Daniel:  
+1. **Abandono del cuerpo vs. resurrección física:** En el relato hindú, Krishna abandona su envoltura mortal para regresar a su condición espiritual suprema. Su cuerpo material perece y es incinerado conforme a los ritos fúnebres védicos (*Mausala Parva*, sección 7). En contraste, el cristianismo proclama la resurrección corporal: el sepulcro de Jesús queda vacío, y su cuerpo glorificado puede ser palpado por sus discípulos (Lucas 24:39; Juan 20:27).
+2. **Naturaleza soteriológica:** El Nuevo Testamento establece que la resurrección de Cristo es la garantía de la justificación del creyente, la victoria sobre la muerte y la remisión de los pecados (Romanos 4:25; 1 Corintios 15:17). En el pensamiento hindú, el cese terrenal de Krishna no otorga perdón de faltas morales, justificación imputada ni liberación del ciclo del *karma* para sus devotos.
 
->   
-> "ESTAS HISTORIAS E IMPLICACIONES SON TAN SIMILARES COMO UNA HORMIGA Y UN ELEFANTE."
+---
 
-  
-Curiosamente, los primeros críticos del cristianismo nunca dijeron que la historia de Jesús fue arrancada del hinduismo. Desde el principio, el apóstol Pablo reconoció que los gentiles consideraban difícil aceptar la idea de un salvador crucificado (1 Corintios 1:23), no como si fuera un tema común en la mitología pagana. Incluso en el siglo II, el apologista griego Justino Mártir hizo una observación similar en **[Apología I](http://www.earlychristianwritings.com/text/justinmartyr-firstapology.html)**: Los escépticos dijeron que la idea de un salvador crucificado era absolutamente loca (13.4).  
-  
+## La reacción del mundo antiguo ante el mensaje de la cruz
 
-## La historia de Jesús no fue copiada de Krishna
+Si el concepto de un dios salvador crucificado y resucitado hubiese sido un arquetipo universal prestado del hinduismo o del misticismo oriental, los intelectuales del Imperio grecorromano lo habrían asimilado como una noción corriente.
 
-Conclusión: ¿Krishna fue crucificado? No. No en ninguna historia hindú en ninguna parte. ¿Resucitó Krishna? Tal vez. Pero a pesar de lo que Graves insiste, Krishna no fue un ejemplo precristiano de un **[salvador](/estudios/en-las-profundidades-de-kripton-la)** crucificado.  
-  
-No hay salvación, perdón de pecados (o escape del karma para esa materia) o esperanza de vida eterna vinculada a ella. Sólo comparar las historias de Jesús y Krishna muestra que Graves está equivocado en este caso. Puede estar seguro de que la muerte y resurrección de Jesús no fue copiada de Krishna.
+La evidencia histórica demuestra exactamente lo contrario:
+
+* El apóstol Pablo registró que la predicación de Cristo crucificado resultaba un **«tropezadero para los judíos, y para los gentiles una locura»** (1 Corintios 1:23).
+* En el siglo II, filósofos y críticos del cristianismo como Celso o Luciano de Samosata atacaron la fe cristiana calificando de absurda la adoración de un hombre que murió ajusticiado en una cruz.
+* El apologista cristiano Justino Mártir señaló en su **[Primera Apología](http://www.earlychristianwritings.com/text/justinmartyr-firstapology.html)** (capítulo 13) que los detractores consideraban un extravío mental colocar a un crucificado al lado del Dios Creador inmutable.
+
+Ningún polemista pagano de los primeros cuatro siglos acusó jamás a los cristianos de haber tomado la historia de la cruz de las tradiciones de la India, acusación que surgió únicamente con la literatura secular del siglo XIX.
+
+---
+
+El cotejo filológico e histórico desmiente la hipótesis de Kersey Graves: Krishna no murió en una cruz, no fue ajusticiado entre ladrones y su partida al plano celestial no constituye una resurrección física vicaria. Al igual que en las comparaciones con [Baal](/estudios/jesus-vs-baal) o [Tammuz](/estudios/desacreditando-conexion-jesus-tammuz), las presuntas semejanzas se basan en extrapolaciones que ignoran el testimonio de las fuentes originales.

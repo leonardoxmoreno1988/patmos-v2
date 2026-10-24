@@ -9,45 +9,52 @@ description: "Baal, figura del Antiguo Testamento que algunos proponen como para
 tags: ["Apologética", "Baal", "Paralelos", "Antiguo Testamento"]
 ---
 
-**Baal** es una figura conocida del Antiguo Testamento que a veces se afirma que es otro paralelo de Cristo. Echemos un vistazo a esto: nuestra fuente es _Orígenes del Monoteísmo Bíblico de Smith_ \[104ff\].
+**Baal** es una deidad recurrente en el Antiguo Testamento que ciertos sectores críticos presentan como un paralelo directo de la figura de Cristo. Para evaluar estas afirmaciones, examinaremos la evidencia histórica basándonos en fuentes académicas como *Orígenes del Monoteísmo Bíblico* de Mark S. Smith.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8d8bcLOMDXpNGMxZnFe2MWWxpnGIq0TmfQvZWMNTxb-TP9AR_-jEwSCe5gk7bJwMEU7EOyt5FRGhgF80l52NDoO6zP0iPYymqdGwhZSRtucyrgxAls6j4XUq-M1xxlK1HHR6szkScmmE/s16000/baal-jesus.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8d8bcLOMDXpNGMxZnFe2MWWxpnGIq0TmfQvZWMNTxb-TP9AR_-jEwSCe5gk7bJwMEU7EOyt5FRGhgF80l52NDoO6zP0iPYymqdGwhZSRtucyrgxAls6j4XUq-M1xxlK1HHR6szkScmmE/s590/baal-jesus.jpg)
+![Representación antigua de la deidad cananea Baal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8d8bcLOMDXpNGMxZnFe2MWWxpnGIq0TmfQvZWMNTxb-TP9AR_-jEwSCe5gk7bJwMEU7EOyt5FRGhgF80l52NDoO6zP0iPYymqdGwhZSRtucyrgxAls6j4XUq-M1xxlK1HHR6szkScmmE/s16000/baal-jesus.jpg)
 
-  
-A veces se considera a Baal como uno de aquellos "dioses muertos y resucitados". Primero debe notarse que las tablillas reales que describen la historia de Baal en realidad no conservan un relato de la muerte de Baal y su supuesto regreso a la vida; esa parte de las tablillas se pierde y los eventos se infieren de las partes restantes de la historia.
+## El mito de la muerte y resurrección de Baal
 
-En lo que tenemos, Baal es descubierto muerto y luego es enterrado; pero más adelante en la narración, reaparece vivo. En otras obras, si cierto verbo se lee como si fuera pasivo, PUEDE referirse a Baal como "traído a la vida", pero también puede ser un verbo activo que describe a Baal como alguien que "da vida".
+Frecuentemente se clasifica a Baal dentro de la categoría de «dioses que mueren y resucitan». Sin embargo, es imperativo señalar que las tablillas originales que documentan el ciclo de Baal **no conservan un relato explícito de su muerte ni de su supuesto regreso a la vida**. Esa sección específica de las tablillas está perdida, y los eventos son meramente inferidos a partir de los fragmentos restantes del texto.
 
-En segundo lugar, una de las hijas de Baal se llama "Terrenal", pero el nombre PUEDE significar "Inframundo". Y esa es la suma y el total de la evidencia. En más de 70 otros textos sobre Baal, no se menciona su muerte en absoluto.
+En la porción conservada, Baal es descubierto sin vida y posteriormente sepultado. Más adelante en la narración, reaparece vivo. En textos complementarios, si un verbo específico se traduce en voz pasiva, *podría* interpretarse que Baal es «devuelto a la vida», pero el mismo vocablo en voz activa describe a Baal como aquel que «imparte vida».
 
-**Nota:** Si deseas recibir más contenido sobre la persona de Jesucristo, profecía bíblica y teología, suscríbete **[desde este enlace](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
+Adicionalmente, una de las hijas de Baal lleva un nombre que *podría* traducirse como «Inframundo» o simplemente «Terrenal». Esa es la totalidad de la evidencia textual. En más de 70 textos ugaríticos adicionales sobre Baal, no existe mención alguna a su muerte.
 
-¿Alguna relación con Cristo? En absoluto, solo superficialmente con el tema esperado de la resurrección como el espectáculo de moda definitivo; no es más una imitación de Cristo con la misma fidelidad de una criatura zombi. Smith, aparentemente pensando en los mitos paganos, escribe: "... cualquier intento de hacer una reconstrucción de la muerte y regreso de Baal no debe hacer suposiciones sobre la naturaleza de esta última". \[120\]
+¿Existe entonces alguna relación con Cristo? En absoluto. La supuesta resurrección no pasa de ser una extrapolación moderna. El académico Mark S. Smith advierte contra la imposición de narrativas externas: 
 
-También han circulado algunas afirmaciones sobre una supuesta “Pasión” de Baal con detalles muy cercanos al de la Pasión de Jesús. Un investigador asociado nos ha enviado copias de algún material que trata sobre este tema y aborda la cuestión.
+> *«...cualquier intento de hacer una reconstrucción de la muerte y regreso de Baal no debe hacer suposiciones sobre la naturaleza de esta última basándose en mitos paganos ajenos».*
 
-En una edición de 1921 del _Journal of the Royal Asiatic Society_, un erudito llamado H. Zimmern reclamó un hallazgo de "direcciones escénicas para una especie de obra milagrosa" realizada en el templo de Bel-Marduk (es decir, Baal) anualmente. En esta obra, se alega que Baal fue "atado y llevado ante el tribunal que aguarda a la humanidad en la orilla del río de la muerte". Fue azotado, condenado a muerte y luego llevado a una prisión.
+---
 
-Otro "malhechor también fue llevado a la ejecución", mientras que un segundo fue puesto en libertad.
+## La supuesta «Pasión» de Baal
 
-Una vez que Baal fue encarcelado, “la ciudad quedó sumida en la confusión” y le quitaron la ropa a su cadáver. Luego, una diosa lavó la sangre que había brotado de una "herida en el costado" de Baal; y finalmente resucitó de entre los muertos después de que sus seguidores se lamentaran. También se alega un paralelo en el hecho de que Baal "descendió a los infiernos" y fue recibido por los otros espíritus.
+En el ámbito de la mitología comparada, han circulado afirmaciones sobre una «Pasión de Baal» con detalles sospechosamente similares a los de la Pasión de Jesús.
 
-Incluso superficialmente, hay algunos problemas aquí con una comparación con la Pasión de Jesús. Los "malhechores" no encajarían con los dos ladrones en la cruz, sino tal vez con un ladrón y Barrabás; falta un tercero.
+El origen de esta teoría se remonta a una edición de 1921 del *Journal of the Royal Asiatic Society*. El erudito H. Zimmern afirmó haber descubierto «direcciones escénicas para una especie de obra milagrosa» realizada anualmente en el templo de Bel-Marduk (Baal). 
 
-El problema es que este informe de Zimmern fue recogido acríticamente por el Christ-Myther GRS Mead, quien en su periódico _The Quest_, aunque admitió la naturaleza altamente fragmentaria del texto y consideró "quizás una temeridad" hacer comentarios, no obstante crea dos columnas paralelas en las que encuentra más de una docena de paralelismos entre Jesús y Baal basándose en este texto.
+Según la reconstrucción de Zimmern, en esta representación Baal fue:
+* «Atado y llevado ante el tribunal».
+* Azotado, condenado a muerte y llevado a prisión.
+* Procesado junto a otros dos malhechores (uno ejecutado, el otro liberado).
+* Despojado de su ropa tras una supuesta herida en el costado, cuya sangre fue lavada por una diosa.
+* Resucitado de entre los muertos tras descender a los infiernos.
 
-Una vez más, muchas comparaciones no encajan, sin embargo, son del tipo de CUALQUIER prisionero en el mundo antiguo condenado a muerte (ser llevado; ser juzgado ante funcionarios; ser azotado como parte del ritual normal de degradación del estatus; dividir la ropa; el cuidado del cuerpo).
+Incluso en una lectura superficial, las comparaciones presentan asimetrías evidentes (por ejemplo, el escenario de los malhechores encaja más con la figura de Barrabás que con los dos ladrones crucificados simultáneamente con Jesús).
 
-Aparte de esto, Mead también salta de un Evangelio a otro, tratándolos como un todo para poder comparar a los guardias en la tumba del libro de Mateo con los que guardan a Baal en la prisión; y también usa el episodio singular de Juan de María Magdalena como un paralelo al lamento de una seguidora de Baal (aunque es dudoso que Mead haya visto una tradición unificada detrás de los cuatro evangelios). Sin embargo, las correcciones provienen primero de las advertencias anteriores de que el texto es fragmentario; segundo, de la actualización de _Alasdair Livingstone en Mystical and Mythological Explanatory Works of Assyrian and Babylonian Scholars_ (Clarendon, 1986) que modera algunos de los entusiasmos de Zimmern.
+### La refutación de la asiriología moderna
 
-Livingstone informa que los eruditos posteriores (van Soden, Postgate) reexaminaron el texto y no encontraron nada sobre la muerte de Baal ni una resurrección; relacionaron el texto con la destrucción de Babilonia en 689 a. C. y la "deportación de la estatua o símbolo de Marduk \[Baal\] a Asiria". El propio Livingstone considera que se trata de una composición asiria, fechada no más tarde del 612 a. C.
+El verdadero problema surgió cuando el reporte de Zimmern fue adoptado acríticamente por defensores del «mito de Cristo» como G.R.S. Mead, quien en su publicación *The Quest*, ignorando la naturaleza fragmentaria del texto, construyó dos columnas de paralelismos directos entre Jesús y Baal.
 
-El comentario de Livingstone es definitivamente de interés. Las referencias a otra deidad y su centro de culto afirman que el punto es que la estatua de Baal es lo que ha sido capturada, y de eso se trata la obra. Otro dios, Nabu, sale y rocía estambres de palmeras datileras como una especie de rebelión; de esta manera se convierte en el otro "criminal" de la historia.
+Mead incurrió en falacias metodológicas: saltó arbitrariamente de un Evangelio a otro para construir un relato compuesto, y catalogó como «paralelismos asombrosos» lo que en realidad eran **procedimientos penales universales** en el mundo antiguo (ser arrestado, comparecer ante funcionarios, sufrir azotes como degradación ritual, la división de las ropas del ejecutado).
 
-Más tarde, los atletas reciben el encargo de proteger a Baal mientras está en prisión, por orden de Assur (otro dios; nuevamente reflejando la captura de la estatua de Baal). La discordia en la ciudad también se relaciona claramente con la discordia causada por la invasión; aquí no se puede encontrar ningún paralelo con **[la historia de la oscuridad sobre la tierra](/estudios/thallus-menciona-oscuridad)**, etc. en la crucifixión de Jesús.
+La rectificación definitiva provino de la asiriología contemporánea. En su obra *Mystical and Mythological Explanatory Works of Assyrian and Babylonian Scholars* (Oxford, 1986), Alasdair Livingstone detalla cómo eruditos modernos (van Soden, Postgate) reexaminaron las tablillas originales y **no hallaron mención alguna a la muerte o resurrección de Baal**. 
 
-Las líneas críticas (59-67) se refieren a alguien que es “invocado para mantenerse vivo y no asesinado” y otro que pide “que se le permita llorar y ser enterrado”. Los nombres de estas personas no se conservan. Baal está claramente en peligro, pero no hay ningún registro real de su ejecución.
+El texto original no es una narrativa de pasión divina, sino un registro histórico fechado antes del 612 a. C. que relata **la destrucción de Babilonia (689 a. C.) y la deportación de la estatua física de Marduk/Baal hacia Asiria**.
 
-Quienquiera que murió, su ropa está recogida (línea 84) pero tampoco es claramente la de Baal. La razón por la que no se puede hacer una identificación clara es que, si bien Baal es de hecho un criminal en esta historia, también lo es Nabu, y Livingstone señala que puede haber otros criminales presentes.
+* El encarcelamiento y juicio en el texto se refieren a la captura de la estatua del dios por tropas invasoras.
+* El otro «criminal» de la historia es la deidad Nabu, cuya estatua protagoniza un intento de rebelión ritual.
+* La confusión en la ciudad corresponde al caos literal de la invasión asiria, sin ninguna relación con [la oscuridad sobre la tierra](/estudios/thallus-menciona-oscuridad) registrada durante la crucifixión.
+* Las líneas fragmentarias que mencionan ropa recogida o lamentos fúnebres no identifican a Baal como el sujeto, ya que el relato involucra a múltiples entidades criminalizadas por el imperio asirio.
 
-En conclusión, cualquier intento de comparar las "pasiones" de Baal y Jesús debe tener en cuenta la naturaleza clara de la historia de Baal como una alegoría elaborada de lo que sucedió cuando Babilonia fue invadida y la estatua de Baal fue tomada, así como considerar que la mayoría de los paralelos trazados por Mead involucran prácticas “universales” en el mundo antiguo.
+En conclusión, los intentos de trazar paralelismos entre Baal y Jesús fracasan al ignorar la naturaleza del texto asirio (una alegoría política sobre el robo de una estatua) y al forzar similitudes basándose en prácticas judiciales y penales comunes de la antigüedad.
