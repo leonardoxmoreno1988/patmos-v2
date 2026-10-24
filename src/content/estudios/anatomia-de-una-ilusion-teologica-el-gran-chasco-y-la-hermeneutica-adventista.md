@@ -1,11 +1,11 @@
 ---
-title: "Por todo viento de doctrina (3)"
+title: "Gran Chasco y adventismo: viento de doctrina (3)"
 date: "2026-07-22"
 author: "Leonardo Moreno"
 slug: "anatomia-de-una-ilusion-teologica-el-gran-chasco-y-la-hermeneutica-adventista"
 redirectFrom: "/2026/07/por-todo-viento-de-doctrina-3.html"
-description: "Un examen bíblico y dispensacional de los tres pilares del adventismo nacidos tras el chasco de 1844: el sábado ceremonial, el sueño del alma y el aniquilacionismo."
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Examen bíblico y dispensacional del adventismo nacido tras el Gran Chasco de 1844: el sábado ceremonial, el sueño del alma y el aniquilacionismo."
+tags: ["Falsas Doctrinas", "Apologética", "Adventismo", "Profecía"]
 ---
 
 Estimado lector,

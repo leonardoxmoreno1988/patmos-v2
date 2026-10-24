@@ -1,12 +1,12 @@
 ---
-title: "Análisis De Los Símbolos Ocultos En \"Harry Potter Y Las Reliquias De La Muerte\""
+title: "Símbolos ocultos en Harry Potter y las Reliquias"
 date: "2011-05-31"
 updated: "2023-07-23"
 author: "Jhonkbn"
 slug: "analisis-de-los-simbolos-ocultos-en"
 redirectFrom: "/2011/05/analisis-de-los-simbolos-ocultos-en.html"
-description: "Está claro que Harry Potter es una de las sagas juveniles más exitosas de la literatura moderna, las obras, así como las películas, han generado sumas…"
-tags: ["Cine y Cultura"]
+description: "Análisis de la primera parte de Harry Potter y las Reliquias de la Muerte: símbolos, magia negra y su relación con antiguas escuelas de misterio."
+tags: ["Cine y Cultura", "Harry Potter", "Ocultismo", "Símbolos"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

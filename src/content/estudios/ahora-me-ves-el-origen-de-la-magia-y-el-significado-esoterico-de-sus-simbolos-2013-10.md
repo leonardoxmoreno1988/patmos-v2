@@ -1,12 +1,12 @@
 ---
-title: "\"Ahora Me Ves\", El Origen De La Magia Y El Significado Esotérico De Sus Símbolos - Parte II"
+title: "Ahora me ves: la sociedad secreta de El Ojo, parte II"
 date: "2013-10-08"
 updated: "2024-09-02"
 author: "Jhonkbn"
 slug: "ahora-me-ves-el-origen-de-la-magia-y-el-significado-esoterico-de-sus-simbolos-2013-10"
 redirectFrom: "/2013/10/ahora-me-ves-el-origen-de-la-magia-y-el.html"
-description: "En la primera parte exploramos parte de la simbología illuminati de la película \"Now You See Me\". En mucho de su contenido esotérico la verdadera magia se…"
-tags: ["Cine y Cultura"]
+description: "Segunda parte: la simbología illuminati de Now You See Me, la fuente de poder de El Ojo y el hermetismo de una sociedad que controla eventos masivos."
+tags: ["Cine y Cultura", "Magia", "Esoterismo", "Illuminati"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

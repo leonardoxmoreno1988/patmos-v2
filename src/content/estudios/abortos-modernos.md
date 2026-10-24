@@ -1,12 +1,12 @@
 ---
-title: "Los abortos modernos reflejan los antiguos sacrificios a Moloch"
+title: "El aborto y el sacrificio de niños a Moloch"
 date: "2023-03-07"
 updated: "2023-07-11"
 author: "Leonardo Moreno"
 slug: "abortos-modernos"
 redirectFrom: "/2023/03/abortos-modernos.html"
-description: "La antigua práctica del sacrificio de niños se ha reanudado con el aborto legal en muchos países, solo que ya no es un ritual masivo, sino que está oculto a…"
-tags: ["Sociedad"]
+description: "¿Por qué el aborto legal repite los antiguos sacrificios de niños a Moloch y Baal? Un análisis bíblico sobre la vida, a partir de Deuteronomio 30:19."
+tags: ["Sociedad", "Ética", "Moloch", "Vida"]
 ---
 
 Estimado lector,  

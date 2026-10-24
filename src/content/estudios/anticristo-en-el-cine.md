@@ -1,12 +1,12 @@
 ---
-title: "El Anticristo En El Cine"
+title: "El Anticristo en el cine: héroes y programación"
 date: "2021-10-01"
 updated: "2024-03-27"
 author: "Leonardo Moreno"
 slug: "anticristo-en-el-cine"
 redirectFrom: "/2021/09/anticristo-en-el-cine.html"
-description: "En las páginas de este libro se describe por primera vez con gran detalle la figura mesiánica del Anticristo en el cine. A partir de un análisis de héroes…"
-tags: ["Cine y Cultura"]
+description: "Análisis de más de 58 películas de la cultura popular que preparan la figura mesiánica del Anticristo mediante un sistema de programación predictiva."
+tags: ["Cine y Cultura", "Anticristo", "Escatología", "Películas"]
 ---
 
 En las páginas de este libro se describe por primera vez con gran detalle la figura mesiánica del Anticristo en el cine. A partir de un análisis de héroes cinematográficos de la cultura popular, el autor incluye más de 58 películas que exponen un sistema de programación predictiva. Múltiples mensajes que intentan librar una guerra mental contra Dios, preparando a su vez una plataforma global para la aparición del Anticristo.

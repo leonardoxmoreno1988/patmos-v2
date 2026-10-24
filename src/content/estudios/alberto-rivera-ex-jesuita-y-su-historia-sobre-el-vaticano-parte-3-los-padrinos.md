@@ -1,12 +1,12 @@
 ---
-title: "Alberto Rivera, Ex Jesuita Y Su Historia Sobre El Vaticano - Parte 3 (Los Padrinos)"
+title: "Alberto Rivera: Los padrinos, parte 3"
 date: "2013-08-20"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-3-los-padrinos"
 redirectFrom: "/2013/08/alberto-rivera-ex-jesuita-y-su-historia.html"
-description: "En este tercer capítulo se expone como la Institución Católica Romana, la \"Madre de las Abominaciones\" (Revelación 17), causó muchas guerras. Este es el libro…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "¿Fue el Vaticano responsable de las guerras mundiales? Tercera parte del testimonio de Alberto Rivera, con el caso del cardenal Pacelli y Adolfo Hitler."
+tags: ["Falsas Doctrinas", "Apologética", "Catolicismo", "Historia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

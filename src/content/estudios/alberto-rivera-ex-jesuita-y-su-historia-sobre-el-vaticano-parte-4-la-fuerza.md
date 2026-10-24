@@ -1,12 +1,12 @@
 ---
-title: "Alberto Rivera, Ex Jesuita Y Su Historia Sobre El Vaticano - Parte 4 (La Fuerza)"
+title: "Alberto Rivera: La Fuerza, parte 4"
 date: "2013-10-05"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-4-la-fuerza"
 redirectFrom: "/2013/10/alberto-rivera-ex-jesuita-y-su-historia.html"
-description: "Este cómic revela cómo el Vaticano está utilizando su fuerza oculta para engañar a millones. Es la \"morada de los demonios\" descrita en Revelación 18:2. Las…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Cuarta parte del testimonio de Alberto Rivera: la morada de los demonios de Revelación 18:2, el mito del exorcismo y el poder oculto del Vaticano."
+tags: ["Falsas Doctrinas", "Apologética", "Catolicismo", "Revelación"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

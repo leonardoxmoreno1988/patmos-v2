@@ -1,12 +1,12 @@
 ---
-title: "Algunos problemas bíblicos con el mormonismo"
+title: "Problemas bíblicos del mormonismo: doctrina y Escrituras"
 date: "2025-05-27"
 updated: "2026-04-10"
 author: "Leonardo Moreno"
 slug: "algunos-problemas-biblicos-con-el"
 redirectFrom: "/2025/05/algunos-problemas-biblicos-con-el.html"
-description: "El mormonismo, formalmente denominado como La Iglesia de Jesucristo de los Santos de los Últimos Días, representa un movimiento religioso con un importante…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Un análisis de la coherencia doctrinal del mormonismo y de su fidelidad a las Escrituras, con foco en su canon y en sus distintivos frente a la Biblia."
+tags: ["Falsas Doctrinas", "Apologética", "Mormonismo", "Escrituras"]
 ---
 
 Estimado lector,  

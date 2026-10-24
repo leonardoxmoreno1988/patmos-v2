@@ -1,12 +1,12 @@
 ---
-title: "10 Ideas Falsas Y Erróneas De La Nueva Era Sobre Dios"
+title: "10 ideas falsas de la Nueva Era sobre Dios"
 date: "2017-04-10"
 updated: "2023-07-20"
 author: "Steven Bancarz"
 slug: "10-ideas-falsas-nueva-era-sobre-dios"
 redirectFrom: "/2017/04/10-ideas-falsas-nueva-era-sobre-dios.html"
-description: "¿Quien es Dios? ¿Cómo podemos conocer a Dios? ¿Los hindúes tienen razón? ¿Los cristianos, o los budistas? ¿Y cómo sabemos la respuesta correcta a cualquiera de…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "¿Quién es Dios y cómo podemos conocerlo? Analizamos diez ideas de la Nueva Era sobre la divinidad y las comparamos con lo que enseña la Biblia."
+tags: ["Falsas Doctrinas", "Apologética", "Nueva Era", "Dios"]
 ---
 
 ¿Quien es **Dios**? ¿Cómo podemos conocer a Dios? ¿Los **hindúes** tienen razón? ¿Los **cristianos**, o los **budistas**? ¿Y cómo sabemos la respuesta correcta a cualquiera de estos tipos de preguntas? La gente, especialmente los implicados en el movimiento de la **nueva era**, piensan en esta pregunta con bastante frecuencia.  

@@ -1,12 +1,12 @@
 ---
-title: "10 Razones Para Aceptar La Resurrección De Jesús Como Un Hecho"
+title: "10 razones para creer en la resurrección de Jesús"
 date: "2017-06-09"
 updated: "2023-07-20"
 author: "Brian Chilton"
 slug: "10-razones-para-aceptar-la-resurreccion"
 redirectFrom: "/2017/06/10-razones-para-aceptar-la-resurreccion.html"
-description: "Cuando dejé el ministerio debido a mi escepticismo, uno de los factores involucrados en mi partida se refería a la confiabilidad de los documentos del Nuevo…"
-tags: ["Apologética"]
+description: "Diez argumentos históricos sobre la resurrección corporal de Jesús de Nazaret, desde la confiabilidad de los documentos del Nuevo Testamento."
+tags: ["Apologética", "Resurrección", "Nuevo Testamento", "Jesús"]
 ---
 
 Cuando dejé el ministerio debido a mi escepticismo, uno de los factores involucrados en mi partida se refería a la confiabilidad de los documentos del Nuevo Testamento y la **resurrección** de **Jesús**. La gente del Seminario me preguntó si podía confiar en lo que decía el Nuevo Testamento y si realmente podía aceptar la **resurrección** corporal literal de Jesús de Nazaret.  

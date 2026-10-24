@@ -1,12 +1,12 @@
 ---
-title: "06 McMotivos Para No Comer en McDonalds"
+title: "6 motivos para no comer en McDonald's"
 date: "2012-05-23"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "06-mcmotivos-para-no-comer-en-mcdonalds"
 redirectFrom: "/2012/05/06-mcmotivos-para-no-comer-en-mcdonalds.html"
-description: "Este artículo presenta una muestra más de los venenos químicos que nos introducen las multinacionales alimentarias en sus productos, tanto a mayores como a…"
-tags: ["Sociedad"]
+description: "Los químicos que las multinacionales alimentarias añaden a sus productos y su vínculo con enfermedades crónicas desde la infancia, con el caso McDonald's."
+tags: ["Sociedad", "Alimentación", "Salud", "Multinacionales"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

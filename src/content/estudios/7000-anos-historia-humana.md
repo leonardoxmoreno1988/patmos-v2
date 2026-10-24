@@ -1,12 +1,12 @@
 ---
-title: "Dios y los 7,000 años de historia humana"
+title: "7000 años de historia humana según la Biblia"
 date: "2022-07-24"
 updated: "2025-05-24"
 author: "Leonardo Moreno"
 slug: "7000-anos-historia-humana"
 redirectFrom: "/2022/07/7000-anos-historia-humana.html"
-description: "Contrario a los postulados de que la historia humana involucra millones de años de evolución darwiniana, la Biblia enseña solo 7.000 años del ser humano sobre…"
-tags: ["Apologética"]
+description: "Las genealogías bíblicas, 2 Pedro 3:8 y los siete días de la creación como marco de los siete milenios de la historia humana, frente a la evolución."
+tags: ["Apologética", "Creación", "Génesis", "Profecía"]
 ---
 
 Estimado lector,  

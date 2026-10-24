@@ -1,12 +1,12 @@
 ---
-title: "Alberto Rivera, Ex Jesuita Y Su Historia Sobre El Vaticano - Parte 5 (Los Cuatro Jinetes)"
+title: "Alberto Rivera: Los cuatro jinetes, parte 5"
 date: "2013-11-04"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-5-los-cuatro"
 redirectFrom: "/2013/11/alberto-rivera-ex-jesuita-y-su-historia.html"
-description: "He aquí una descripción clara de cómo el papado cumple las profecías bíblicas del anticristo. ¿Quiénes son los cuatro jinetes de Revelación? ¿A quién…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Quinta parte: cómo el papado cumple las profecías bíblicas sobre el anticristo, quiénes son los cuatro jinetes de Revelación y qué dijo Lutero al respecto."
+tags: ["Falsas Doctrinas", "Apologética", "Anticristo", "Revelación"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

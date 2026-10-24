@@ -1,12 +1,12 @@
 ---
-title: "\"Ahora Me Ves\", El Origen De La Magia Y El Significado Esotérico De Sus Símbolos - Parte I"
+title: "Ahora me ves: magia y símbolos esotéricos, parte I"
 date: "2013-09-19"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "ahora-me-ves-el-origen-de-la-magia-y-el-significado-esoterico-de-sus-simbolos-2013-09"
 redirectFrom: "/2013/09/ahora-me-ves-el-origen-de-la-magia-y-el.html"
-description: "¿Es la magia una fuerza capaz de dirigir el mundo? En este sentido la película \"Ahora Me Ves\" (Now You See Me) llama a esta erudición \"El Ojo\"; una antigua…"
-tags: ["Cine y Cultura"]
+description: "¿Es la magia una fuerza capaz de dirigir el mundo? Analizamos la película Ahora me ves, el origen esotérico de sus símbolos y la sociedad de El Ojo."
+tags: ["Cine y Cultura", "Magia", "Esoterismo", "Illuminati"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

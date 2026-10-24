@@ -1,12 +1,12 @@
 ---
-title: "10 Señales De Una Secta Religiosa"
+title: "10 señales de una secta o culto religioso"
 date: "2017-06-05"
 updated: "2023-07-20"
 author: "Brian Chilton"
 slug: "10-senales-de-una-secta-o-culto-religioso"
 redirectFrom: "/2017/06/10-senales-de-una-secta-o-culto-religioso.html"
-description: "Hace unas semanas atrás, me preocupé al oír hablar de una congregación llamada Word of Faith en Spindale, Carolina del Norte, que era culpable de abusar de sus…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Cómo reconocer una secta por el control sobre sus miembros y el abuso de sus líderes, a partir del caso de Word of Faith en Carolina del Norte."
+tags: ["Falsas Doctrinas", "Apologética", "Sectas", "Discernimiento"]
 ---
 
 Hace unas semanas atrás, me preocupé al oír hablar de una congregación llamada **Word of Faith** en Spindale, Carolina del Norte, que era culpable de abusar de sus miembros. Los informes incluían a **niños pequeños** que eran **golpeados** por el líder mientras que eran llamados satanistas. Jane Whaley y su esposo están en el centro de estas acusaciones. Se puede acceder al **[informe completo aquí](http://wspa.com/2017/02/27/spindale-church-accused-of-abuse-responds-to-accusations/)**.  

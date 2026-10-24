@@ -1,12 +1,12 @@
 ---
-title: "Aleister Crowley 666: Biografía Y Su Influencia En La Cultura Popular"
+title: "Aleister Crowley 666: biografía y legado oculto"
 date: "2017-07-17"
 updated: "2023-07-20"
 author: "Jhonkbn"
 slug: "aleister-crowley-666-biografia-cultura-popular"
 redirectFrom: "/2017/07/aleister-crowley-666-biografia-cultura-popular.html"
-description: "Aleister Crowley fue un mago gnóstico conocido por ser un ocultista infame y autor del Libro de la Ley, que introdujo a Thelema al mundo. Sin dejar esto de…"
-tags: ["Cine y Cultura"]
+description: "Biografía del mago gnóstico Aleister Crowley, autor del Libro de la Ley y promotor de Thelema, y su influencia en la cultura popular y la élite luciferina."
+tags: ["Cine y Cultura", "Ocultismo", "Luciferianismo", "Biografía"]
 ---
 
 **Aleister Crowley** fue un mago gnóstico conocido por ser un ocultista infame y autor del Libro de la Ley, que introdujo a **Thelema** al mundo. Sin dejar esto de lado, Crowley también fue un inspirador para aquellos que decidieron servir a la **élite luciferina**. Él es, de muchas formas, la gran mente que descifró los secretos de hombre y los compartió tanto con sus seguidores (luciferinos) contemporáneos como con los que vendrían años después de él. En este artículo evaluamos su vida y su legado hasta la actualidad.  

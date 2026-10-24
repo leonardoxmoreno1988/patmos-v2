@@ -1,12 +1,12 @@
 ---
-title: "Alberto Rivera, Ex Jesuita Y Su Historia Sobre El Vaticano - Parte 1"
+title: "Alberto Rivera, ex jesuita: el Vaticano, parte 1"
 date: "2013-05-24"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "alberto-rivera-ex-jesuita-y-su-historia-sobre-el-vaticano-parte-1"
 redirectFrom: "/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html"
-description: "Alberto Romero Rivera, español y ex católico, aseguró hasta su muerte en 1997 haber pertenecido a la Orden de los Jesuitas y haber recibido de primera mano los…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "El testimonio de Alberto Romero Rivera, ex jesuita español, sobre los planes de una conspiración masónica y jesuita para una nueva religión mundial."
+tags: ["Falsas Doctrinas", "Apologética", "Catolicismo", "Jesuitas"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

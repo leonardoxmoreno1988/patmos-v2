@@ -1,12 +1,12 @@
 ---
-title: "Advertencia De Una Madre Blogger: \"Disney Está Arruinando A Mi Hija\""
+title: "Advertencia de una madre sobre la programación de Disney"
 date: "2014-05-02"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "advertencia-de-una-madre-blogger-disney"
 redirectFrom: "/2014/05/advertencia-de-una-madre-blogger-disney.html"
-description: "Desde el blog, indeediam.com una madre escribe sobre su experiencia personal con su hija y la programación de Disney Channel. En este mensaje se hace más…"
-tags: ["Cine y Cultura"]
+description: "Una madre relata cómo Disney Channel incorpora mensajes destructivos y de doble moral en los niños, bajo una fachada de inocencia. Advertencia para padres."
+tags: ["Cine y Cultura", "Disney", "Infancia", "Medios"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

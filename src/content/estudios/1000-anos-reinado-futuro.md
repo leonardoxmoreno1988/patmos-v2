@@ -1,12 +1,12 @@
 ---
-title: "1000 años del futuro reino de Cristo"
+title: "Mil años: el reino futuro de Cristo en la Tierra"
 date: "2023-01-05"
 updated: "2026-04-10"
 author: "Leonardo Moreno"
 slug: "1000-anos-reinado-futuro"
 redirectFrom: "/2023/01/1000-anos-reinado-futuro.html"
-description: "En lo personal, no me resulta fácil presenciar escenas de desigualdad y pobreza, algo común en América Latina. Las diferencias socioeconómicas en muchos países…"
-tags: ["Escatología"]
+description: "Qué enseñan las Escrituras sobre el reinado futuro de Jesucristo en la Tierra, un tiempo de justicia que responde a la desigualdad del mundo."
+tags: ["Escatología", "Milenio", "Reino de Cristo", "Profecía"]
 ---
 
 Estimado lector,  

@@ -1,12 +1,12 @@
 ---
-title: "Las Apariciones De Fátima: ¿Un Paradigma OVNI?"
+title: "Las apariciones de Fátima: ¿un paradigma OVNI?"
 date: "2017-07-29"
 updated: "2023-07-20"
 author: "Kevin Farringdon"
 slug: "apariciones-fatima-paradigma-ovni"
 redirectFrom: "/2017/07/apariciones-fatima-paradigma-ovni.html"
-description: "El cristianismo es una fuente de una gran cantidad de evidencia para los encuentros entre seres humanos y seres humanos dotados de poderes místicos como…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Repaso de las apariciones de Fátima de 1917 a Lucía, Francisco y Jacinta, y por qué este relato es relevante para la cuestión OVNI y los seres místicos."
+tags: ["Falsas Doctrinas", "Apologética", "Fátima", "OVNI"]
 ---
 
 El **cristianismo** es una fuente de una gran cantidad de evidencia para los encuentros entre seres humanos y seres humanos dotados de poderes místicos como **Fátima**. La **Iglesia Católica Romana**, en particular, ha desarrollado una vasta literatura sobre este tema, y hay mucho escrito sobre las opiniones católicas sobre súcubos e íncubos.  

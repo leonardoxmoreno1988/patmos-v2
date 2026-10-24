@@ -1,12 +1,12 @@
 ---
-title: "Aquella Tenebrosa Canción de Dumbo Que Cantaba Sobre Satanás"
+title: "La canción de Dumbo sobre Satanás y Disney"
 date: "2016-05-26"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "aquella-cancion-de-dumbo-sobre-satanas"
 redirectFrom: "/2016/05/aquella-cancion-de-dumbo-sobre-satanas.html"
-description: "Muy cercano a un viaje por LSD la escena del elefante alcoholizado en Dumbo de 1941 deja diversas pistas sobre lo retorcido de Disney y sus vínculos con la…"
-tags: ["Cine y Cultura"]
+description: "La escena del elefante alcoholizado en Dumbo (1941), sus vínculos con Disney y la francmasonería, y el proyecto MK Ultra de la CIA en la cultura infantil."
+tags: ["Cine y Cultura", "Disney", "Masonería", "Control mental"]
 ---
 
 Muy cercano a un viaje por LSD la escena del elefante alcoholizado en **Dumbo** de 1941 deja diversas pistas sobre lo retorcido de **Disney** y sus vínculos con la **francmasonería**. ¿Debió formar esto parte de nuestra cultura infantil?

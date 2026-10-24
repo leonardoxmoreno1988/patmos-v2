@@ -1,12 +1,12 @@
 ---
-title: "Sobre los ángeles que no guardaron su dignidad"
+title: "Los ángeles que no guardaron su dignidad"
 date: "2022-04-03"
 updated: "2026-04-15"
 author: "Leonardo Moreno"
 slug: "angeles-no-guardaron-dignidad"
 redirectFrom: "/2022/04/angeles-no-guardaron-dignidad.html"
-description: "En el libro del Génesis, hay una advertencia relevante para la humanidad. La Biblia deja muy claro que hay otra especie seudohumana que fue manipulada…"
-tags: ["Apologética"]
+description: "¿Quiénes eran los hijos de Dios de Génesis 6 y los nefilim? Un estudio bíblico sobre los ángeles que no guardaron su dignidad y sus consecuencias."
+tags: ["Apologética", "Angelología", "Génesis", "Nefilim"]
 ---
 
 Estimado lector,
