@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 25: La Señal En Forma De V: Sir Winston Churchill y Otros Sacerdotes Druidas Y Servidores Illuminati"
+title: "Codex Magica 25: la señal en V de Churchill"
 date: "2018-06-06"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-25-la-senal-v-churchill-druida"
 redirectFrom: "/2018/08/codex-magica-25-la-senal-v-churchill-druida.html"
-description: "\"Algo notable ocurrió con la mano levantada, y es que su sombra se asemeja a la cabeza y los cuernos de la Cabra de Baphomet ... el símbolo de la magia negra.\"…"
-tags: ["Sociedad"]
+description: "¿Por qué Winston Churchill hacía la señal en V? Codex Magica 25 examina el gesto, su vínculo con el druidismo y el símbolo de la cabra de Baphomet."
+tags: ["Sociedad", "Codex Magica", "Illuminati", "Simbolismo"]
 ---
 
 > **"Algo notable ocurrió con la mano levantada, y es que su sombra se asemeja a la cabeza y los cuernos de la Cabra de Baphomet ... el símbolo de la magia negra."**  

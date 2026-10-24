@@ -1,12 +1,12 @@
 ---
-title: "Ciencia Babilónica, Tecnología Y Humanismo En Los Tiempos Finales"
+title: "Ciencia babilónica y humanismo en los tiempos finales"
 date: "2021-05-12"
 updated: "2023-07-17"
 author: "Kevin Farringdon"
 slug: "ciencia-babilonica-tecnologia-y"
 redirectFrom: "/2021/05/ciencia-babilonica-tecnologia-y.html"
-description: "Cuando la serpiente le dijo a Adán y Eva que, si comían del Árbol del Conocimiento del Bien y del Mal, se convertirían en dioses, él plantaría un…"
-tags: ["Sociedad"]
+description: "El deseo de ser como dioses, nacido en el Edén, se refleja hoy en la ciencia, la tecnología y el humanismo de los tiempos finales, según la Biblia."
+tags: ["Sociedad", "Escatología", "Humanismo", "Tecnología"]
 ---
 
 Cuando la serpiente le dijo a **Adán y Eva** que, si comían del Árbol del Conocimiento del Bien y del Mal, se convertirían en dioses, él plantaría un deseo generacional en la psique de la conciencia humana. Este deseo mantendría un dominio absoluto en las generaciones futuras y causaría un conflicto significativo entre los seres humanos y Dios. En algunos casos, el conflicto llegó al punto en que Dios literalmente tuvo que destruir la agenda del hombre, como se vio en la **Torre de Babel** y la destrucción del mundo antiguo durante la era antediluviana.

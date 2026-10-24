@@ -1,12 +1,12 @@
 ---
-title: "Brice Taylor: \"Gracias Por Los Recuerdos\" y Su Testimonio Sobre Control Mental"
+title: "Brice Taylor y su testimonio sobre control mental"
 date: "2011-10-18"
 updated: "2023-07-22"
 author: "Uri Dowbenko"
 slug: "brice-taylor-gracias-por-los-recuerdos"
 redirectFrom: "/2011/10/brice-taylor-gracias-por-los-recuerdos.html"
-description: "Brice Taylor es una superviviente del control mental basado en el trauma. Después de haber soportado una vida de esclavitud de alta tecnología, ha escrito un…"
-tags: ["Sociedad"]
+description: "El testimonio de Brice Taylor, superviviente del control mental basado en el trauma, según su libro Gracias por los recuerdos y sus denuncias."
+tags: ["Sociedad", "Control mental", "Trauma", "Testimonio"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

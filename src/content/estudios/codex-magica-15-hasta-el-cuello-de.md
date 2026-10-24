@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 15: Hasta El Cuello De Malicia - El Significado De La Mano En La Garganta"
+title: "Codex Magica 15: la mano en la garganta y su significado"
 date: "2017-07-06"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-15-hasta-el-cuello-de"
 redirectFrom: "/2017/08/codex-magica-15-hasta-el-cuello-de.html"
-description: "\"Cuando es su cuello el que está en la mesa de cortar, usted no querrá una espada torpe.\" - Espectador anónimo en una ejecución por guillotina, París, Francia…"
-tags: ["Sociedad"]
+description: "La expresión hasta el cuello de malicia, la mano en la garganta y su presencia en las sociedades secretas de la élite illuminati, con ejemplos concretos."
+tags: ["Sociedad", "Codex Magica", "Illuminati", "Simbolismo"]
 ---
 
 > **"Cuando es su cuello el que está en la mesa de cortar, usted no querrá una espada torpe."\- Espectador anónimo en una ejecución por guillotina, París, Francia, 1789**

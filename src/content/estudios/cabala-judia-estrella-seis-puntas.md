@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 21: Señales Mágicas De La Cábala Judía - La Estrella De Seis Puntas Y La Brujería Babilónica"
+title: "Codex Magica 21: la cábala y la estrella de seis puntas"
 date: "2017-09-01"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "cabala-judia-estrella-seis-puntas"
 redirectFrom: "/2018/03/cabala-judia-estrella-seis-puntas.html"
-description: "\"Él me dijo además: Hijo de hombre, ¿ves lo que hacen? incluso las grandes abominaciones que la casa de Israel comete aquí...\"- Ezequiel 8:6 \"El cabalismo es…"
-tags: ["Sociedad"]
+description: "Codex Magica 21 examina la estrella de seis puntas, la cábala judía y su relación con la brujería, a la luz de Ezequiel 8:6 y de la masonería."
+tags: ["Sociedad", "Codex Magica", "Simbolismo", "Ocultismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

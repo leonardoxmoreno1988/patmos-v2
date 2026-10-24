@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 14: \"¡Silencio Esclavos, O Le Cortaremos La Garganta De Una Oreja A Otra!\""
+title: "Codex Magica 14: el signo del silencio masónico"
 date: "2017-07-04"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-14-silencio-senal-significado"
 redirectFrom: "/2017/07/codex-magica-14-silencio-senal-significado.html"
-description: "\"... atándome a mí mismo bajo pena no menor que la de cortar mi garganta...\"- Juramento de la Francmasonería del Aprendiz Iniciado (1°) \"Pero sobre todas las…"
-tags: ["Sociedad"]
+description: "El juramento masónico del aprendiz, la señal de la garganta y su contraste con Santiago 5:12 sobre no jurar. Qué significa el silencio en la masonería."
+tags: ["Sociedad", "Codex Magica", "Masonería", "Simbolismo"]
 ---
 
 > **"... atándome a mí mismo bajo pena no menor que la de cortar mi garganta..."\- Juramento de la Francmasonería del Aprendiz Iniciado (1°)**

@@ -1,12 +1,12 @@
 ---
-title: "Casi 70 Años Después - El FBI Desclasifica Documentos Que Sugieren El Escape de Hitler A La Argentina"
+title: "FBI: documentos sobre el supuesto escape de Hitler"
 date: "2014-03-17"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "casi-70-anos-despues-el-fbi"
 redirectFrom: "/2014/03/casi-70-anos-despues-el-fbi.html"
-description: "En este interesante artículo se muestra que tanto los gobiernos pueden ocultar información y dejar a las masas con versiones oficiales de cero credibilidad. Si…"
-tags: ["Sociedad"]
+description: "Documentos del FBI desclasificados sugieren que el gobierno sabía del escape de Hitler a Argentina. No prueban su supervivencia, pero abren preguntas."
+tags: ["Sociedad", "Historia", "Hitler", "Secretos de Estado"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

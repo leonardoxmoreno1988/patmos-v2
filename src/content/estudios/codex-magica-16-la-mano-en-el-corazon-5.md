@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 16: La Mano En El Corazón - Signo De Devoción A Los Jefes"
+title: "Codex Magica 16: la mano en el corazón como señal"
 date: "2017-07-08"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-16-la-mano-en-el-corazon-5"
 redirectFrom: "/2017/09/codex-magica-16-la-mano-en-el-corazon_5.html"
-description: "El homenaje de la masonería al Signo de la Mano sobre el Corazón puede entenderse mejor por el hecho de que los líderes de la Logia Masónica se jactan de que…"
-tags: ["Sociedad"]
+description: "El signo de la mano sobre el corazón en la masonería, su vínculo con la religión egipcia y el Libro de los Muertos, y su uso como devoción a los jefes."
+tags: ["Sociedad", "Codex Magica", "Masonería", "Egipto"]
 ---
 
 El homenaje de la **masonería** al Signo de la **Mano** sobre el **Corazón** puede entenderse mejor por el hecho de que los líderes de la Logia Masónica se jactan de que los ritos de la Francmasonería obedecen a la antigua **religión egipcia**. El Libro Egipcio de los Muertos dirigió oraciones a "El corazón de mi madre... mi corazón de transformaciones", que significa la fuente de los renacimientos.  

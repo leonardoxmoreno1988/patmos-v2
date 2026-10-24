@@ -1,12 +1,12 @@
 ---
-title: "Astronomía y cómo Dios cuelga la Tierra sobre nada"
+title: "Astronomía: cómo Dios cuelga la Tierra sobre nada"
 date: "2022-08-24"
 updated: "2025-05-25"
 author: "Leonardo Moreno"
 slug: "astronomia-tierra-sobre-nada"
 redirectFrom: "/2022/08/astronomia-tierra-sobre-nada.html"
-description: "Se ha dicho que la Biblia no es un libro de ciencia. Esto es cierto, los libros de ciencias se basan en las ideas de seres humanos que no lo saben todo y que a…"
-tags: ["Apologética"]
+description: "La Biblia no es un libro de ciencia, pero describe la Tierra suspendida sobre nada. Qué dice la astronomía moderna y por qué la Escritura permanece firme."
+tags: ["Apologética", "Ciencia y fe", "Creación", "Astronomía"]
 ---
 
 Estimado lector,  

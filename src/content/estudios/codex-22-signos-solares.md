@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 22: Educados Por El Sol - Signos Solares, Círculos Y Serpientes"
+title: "Codex Magica 22: signos solares, círculos y serpientes"
 date: "2017-12-01"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-22-signos-solares"
 redirectFrom: "/2018/04/codex-22-signos-solares.html"
-description: "\"Es Él (Dios) el que se sienta sobre el círculo de la tierra...\" - Isaías 40:22 (Escrito unos 1,000 años antes de que Colón probara que la tierra no era plana)…"
-tags: ["Sociedad"]
+description: "Codex Magica 22 analiza los signos solares, los círculos y la serpiente en la simbología de los iluminados, a la luz de Isaías 40:22 y de la Biblia."
+tags: ["Sociedad", "Codex Magica", "Simbolismo", "Illuminati"]
 ---
 
 > **"Es Él (Dios) el que se sienta sobre el círculo de la tierra..."  

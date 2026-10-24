@@ -1,12 +1,12 @@
 ---
-title: "Celebraciones Illuminati: Días Festivos, Su Origen Y Su Significado Oculto"
+title: "Celebraciones illuminati: días festivos y simbolismo"
 date: "2016-10-13"
 updated: "2023-07-20"
 author: "Rema Marketing"
 slug: "celebraciones-illuminati-dias-festivos-13"
 redirectFrom: "/2017/10/celebraciones-illuminati-dias-festivos_13.html"
-description: "En este artículo intentamos transmitir el simbolismo que se encuentra en prácticamente todas las fiestas y la importancia oculta que cada uno de ellas tiene…"
-tags: ["Sociedad"]
+description: "Qué simbolismo oculto hay en las fiestas que celebramos, desde el conejo que pone huevos hasta otras fechas, y por qué importa a la manipulación social."
+tags: ["Sociedad", "Illuminati", "Simbolismo", "Días festivos"]
 ---
 
 En este artículo intentamos transmitir el simbolismo que se encuentra en prácticamente todas las **fiestas** y la importancia oculta que cada uno de ellas tiene. Cuando usted da un paso atrás e intenta mirar el propósito de la **simbología** extraña que se encuentra en nuestros **días festivos** (por ejemplo, ¿Por qué un conejo pondría huevos?), Comenzará a entender la manipulación que sucede en todos los niveles a nuestro alrededor. Verás que las fiestas tienen su propio rol que jugar en la adoración oculta del antiguo dios pagano **Nimrod** y la diosa **Semiramis**.  

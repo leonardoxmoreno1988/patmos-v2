@@ -1,12 +1,12 @@
 ---
-title: "Bebé En Útero ¿Qué Es Aquello Que Se Aborta?"
+title: "Bebé en útero: qué es aquello que se aborta"
 date: "2017-03-28"
 updated: "2023-07-20"
 author: "Dr. John Ferrer"
 slug: "bebe-en-utero-aquello-que-se-aborta"
 redirectFrom: "/2017/03/bebe-en-utero-aquello-que-se-aborta.html"
-description: "¿Es un feto? ¿Es un bebé? ¿Es una persona, un niño, o tal vez un ser humano? En los debates éticos sobre el aborto, el estatus del individuo abortado no es una…"
-tags: ["Sociedad"]
+description: "¿Es un feto, un bebé o un ser humano? El debate ético sobre el aborto gira en torno al estatus del individuo abortado y a la terminología que se usa."
+tags: ["Sociedad", "Aborto", "Ética", "Vida"]
 ---
 
 ¿Es un **feto**? ¿Es un **bebé**? ¿Es una persona, un niño, o tal vez un ser humano? En los debates éticos sobre el **aborto**, el estatus del individuo abortado no es una cuestión insignificante. Si esa entidad es un individuo que tiene derechos, entonces el aborto tiene un peso ético mayor que de otra manera.  

@@ -1,12 +1,12 @@
 ---
-title: "\"El Bebé de Rosemary\" De Román Polanski Y El Lado Oscuro De Hollywood"
+title: "El bebé de Rosemary: Polanski y el lado oscuro"
 date: "2017-06-10"
 updated: "2023-07-20"
 author: "Vigilant Citizen"
 slug: "bebe-de-rosemary-de-roman-polanski-y"
 redirectFrom: "/2017/06/bebe-de-rosemary-de-roman-polanski-y.html"
-description: "La película de 1968 \"Rosemary's Baby\" es una de las producciones más románticas y aclamadas de Román Polanski. La película describe la manipulación de una…"
-tags: ["Cine y Cultura"]
+description: "La película de 1968 Rosemary's Baby muestra la manipulación de una joven por un clan de brujos de alta sociedad. Análisis de su premisa ocultista."
+tags: ["Cine y Cultura", "Ocultismo", "Brujería", "Román Polanski"]
 ---
 
 La película de 1968 **"Rosemary's Baby"** es una de las producciones más románticas y aclamadas de **Román Polanski**. La película describe la manipulación de una mujer joven por un clan de brujos ocultistas de la alta sociedad para propósitos ritualísticos. La inquietante calidad de la película no depende de la sangre y del derramamiento de sangre, sino de su premisa realista, que obliga a los espectadores a reflexionar sobre la probabilidad de la existencia de **sociedades secretas** de élite. Aún más inquietante son los misteriosos eventos de la vida real que rodearon la película involucrando asesinatos ritualísticos y **MK Ultra**. Vamos a ver el significado simbólico de "**El Bebé de Rosemary**" y lo más extraño, los eventos que siguieron a su lanzamiento.

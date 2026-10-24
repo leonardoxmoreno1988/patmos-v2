@@ -1,12 +1,12 @@
 ---
-title: "Ciertamente no estás en el medio"
+title: "Los dos ladrones de la cruz: uno creyó, otro no"
 date: "2023-07-11"
 updated: "2026-04-17"
 author: "Leonardo Moreno"
 slug: "ciertamente-no-estas-en-el-medio"
 redirectFrom: "/2023/07/ciertamente-no-estas-en-el-medio.html"
-description: "Cuando el Señor Jesucristo estaba en una cruz sostenido por tres clavos, dos delincuentes lo acompañaban (Marcos 15:27). Dos transgresores de la ley romana…"
-tags: ["Apologética"]
+description: "Dos malhechores fueron crucificados junto a Cristo, pero solo uno lo reconoció como Mesías (Lucas 23:39-43). Una lección sobre la decisión que nadie evita."
+tags: ["Apologética", "Evangelio", "Lucas", "Salvación"]
 ---
 
 Estimado lector,  

@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 10: Juro En Verdad Que Estoy En La Plaza — Más Señales Reveladoras De Los Illuminati"
+title: "Codex Magica 10: saludos secretos de los illuminati"
 date: "2017-03-10"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-10-juro-en-verdad"
 redirectFrom: "/2017/03/codex-magica-10-juro-en-verdad.html"
-description: "Los iluministas utilizan una serie de saludos para indicar su lealtad a su Orden y demostrar su conocimiento, ya que divulgar sus secretos traerá una…"
-tags: ["Sociedad"]
+description: "Los saludos secretos de los iluministas y su lealtad a la Orden, con el gesto del presidente Nixon al renunciar en 1974 y el signo masónico del Arco Real."
+tags: ["Sociedad", "Codex Magica", "Illuminati", "Masonería"]
 ---
 
 Los **iluministas** utilizan una serie de **[saludos](http://www.ritualypropaganda.com/2016/12/codex-magica-viii-apreton-de-manos-illuminati.html)** para indicar su lealtad a su Orden y demostrar su **conocimiento**, ya que divulgar sus secretos traerá una retribución horrible, rápida y quizás **fatal**.  

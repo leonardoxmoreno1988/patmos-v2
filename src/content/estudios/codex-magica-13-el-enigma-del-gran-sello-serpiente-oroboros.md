@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 13: El Enigma Del Gran Sello De Los Estados Unidos, El Ojo Y La Serpiente Ouróboros"
+title: "Codex Magica 13: el Gran Sello de Estados Unidos"
 date: "2017-07-01"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros"
 redirectFrom: "/2017/07/codex-magica-13-el-enigma-del-gran-sello-serpiente-oroboros.html"
-description: "\"Y el gran dragón fue echado fuera, esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero...\" - Revelación 12:9 \"La gran serpiente del…"
-tags: ["Sociedad"]
+description: "Qué significan el ojo y la serpiente ouróboros del Gran Sello de Estados Unidos, sus símbolos arcanos y quién lo diseñó. Un análisis de sus símbolos."
+tags: ["Sociedad", "Codex Magica", "Simbolismo", "Gran Sello"]
 ---
 
 > **"Y el gran dragón fue echado fuera, esa vieja serpiente, llamada Diablo, y Satanás, que engaña al mundo entero..."** 

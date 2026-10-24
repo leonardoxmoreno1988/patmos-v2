@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 17: Triángulos Arriba, Triángulos Abajo, Triángulos Por Todos Lados"
+title: "Codex Magica 17: triángulos por todos lados"
 date: "2017-07-16"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-17-triangulos-arriba"
 redirectFrom: "/2017/10/codex-magica-17-triangulos-arriba.html"
-description: "En todas partes donde uno voltee el triángulo se ve. En la televisión, en el arte, la arquitectura, el diseño de productos, la publicidad, los envases…"
-tags: ["Sociedad"]
+description: "El triángulo aparece en la televisión, el arte, la publicidad y la religión. Un análisis de este símbolo y de su efecto místico sobre la mente humana."
+tags: ["Sociedad", "Codex Magica", "Simbolismo", "Publicidad"]
 ---
 
 En todas partes donde uno voltee el **triángulo** se ve. En la televisión, en el arte, la arquitectura, el diseño de productos, la publicidad, los envases comerciales, y en la **religió**n es omnipresente. Estoy convencido de que este dispositivo simple, pero profundo, el triángulo, de alguna manera tiene un efecto místico, hipnotizante en la mente de los hombres. La interminable ventisca de **diseños triangulares** que encontramos diariamente está destinada a inducir un estado de trance en aquellos que son bombardeados día y noche por ella.  

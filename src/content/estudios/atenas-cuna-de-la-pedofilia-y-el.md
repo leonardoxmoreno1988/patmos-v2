@@ -1,12 +1,12 @@
 ---
-title: "Atenas: Cuna De La Pedofilia Y El Control Mental"
+title: "Atenas: democracia, esclavitud y control mental"
 date: "2016-12-01"
 updated: "2023-07-20"
 author: "Henry Makow"
 slug: "atenas-cuna-de-la-pedofilia-y-el"
 redirectFrom: "/2016/12/atenas-cuna-de-la-pedofilia-y-el.html"
-description: "Se supone que la democracia nació en la antigua Atenas. Muchas personas dicen que debemos volver al modelo ateniense de democracia directa, no representativa…"
-tags: ["Sociedad"]
+description: "La democracia ateniense fue real solo para unos 6.000 ciudadanos de unos 600.000 adultos. Análisis de su esclavitud y de las tesis de control mental."
+tags: ["Sociedad", "Historia", "Democracia", "Control mental"]
 ---
 
 Se supone que la **democracia** nació en la antigua **Atenas**. Muchas personas dicen que debemos volver al **modelo ateniense** de democracia directa, no representativa.  

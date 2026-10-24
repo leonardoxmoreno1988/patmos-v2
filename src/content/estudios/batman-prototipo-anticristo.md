@@ -1,12 +1,12 @@
 ---
-title: "\"The Batman\" como prototipo del Anticristo"
+title: "The Batman como prototipo del Anticristo"
 date: "2022-03-27"
 updated: "2026-01-13"
 author: "Leonardo Moreno"
 slug: "batman-prototipo-anticristo"
 redirectFrom: "/2022/03/Batman-prototipo-anticristo.html"
-description: "Después de 83 años de diversas adaptaciones, tanto infantiles como tipo PG-13, Batman puede ser percibido como uno de los héroes de ficción más emblemáticos y…"
-tags: ["Cine y Cultura"]
+description: "Batman, el héroe más popular de la ficción, actúa y luce como Satanás en la última adaptación de Matt Reeves. Un análisis de su mensaje anticristo."
+tags: ["Cine y Cultura", "Anticristo", "Escatología", "Batman"]
 ---
 
 Estimado lector,

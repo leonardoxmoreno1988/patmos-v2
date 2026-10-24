@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 24: El Significado De La Señal OK"
+title: "Codex Magica 24: el significado de la señal OK"
 date: "2018-05-03"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-24-ok-el-signo-del-rey"
 redirectFrom: "/2018/07/codex-magica-24-ok-el-signo-del-rey.html"
-description: "\"Annuit Coeptus - Él aprueba nuestro compromiso.\"- Inscripción en latín sobre el ojo que todo lo ve en el billete de un dólar de EE. UU. Los occidentales lo…"
-tags: ["Sociedad"]
+description: "Del signo OK con los dedos al ojo que todo lo ve del billete de un dólar: el gesto y la inscripción Annuit Coeptus, según Codex Magica 24 y sus citas."
+tags: ["Sociedad", "Codex Magica", "Illuminati", "Simbolismo"]
 ---
 
 > **"Annuit Coeptus - Él aprueba nuestro compromiso."\- Inscripción en latín sobre el ojo que todo lo ve en el billete de un dólar de EE. UU.**

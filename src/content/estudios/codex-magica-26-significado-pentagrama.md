@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 26: \"Todo Hombre Y Mujer Es Una Estrella\" – El Significado Del Pentagrama"
+title: "Codex Magica 26: el significado del pentagrama"
 date: "2018-07-16"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-26-significado-pentagrama"
 redirectFrom: "/2018/09/codex-magica-26-significado-pentagrama.html"
-description: "\"Antes bien, llevabais el tabernáculo de vuestro Moloc y Quiún, ídolos vuestros, la estrella de vuestros dioses que os hicisteis.\" - Amós 5:26 \"Todo hombre y…"
-tags: ["Sociedad"]
+description: "Por qué la estrella tiene gran significado para satanistas y ocultistas, desde Aleister Crowley hasta la mención de Amós 5:26 sobre la estrella."
+tags: ["Sociedad", "Codex Magica", "Ocultismo", "Simbolismo"]
 ---
 
 > "Antes bien, llevabais el tabernáculo de vuestro Moloc y Quiún, ídolos vuestros, la estrella de vuestros dioses que os hicisteis."  

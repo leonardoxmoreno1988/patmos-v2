@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 28: Rojo Sangre - Estrellas Rojas, Puños Apretados, Martillos y Hoces, Y Otros Signos Y Símbolos De Asesinos Y Matones Comunistas"
+title: "Codex Magica 28: símbolos del comunismo y sus crímenes"
 date: "2018-08-31"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-28-comunismo-punos-cerrados"
 redirectFrom: "/2018/10/codex-magica-28-comunismo-punos-cerrados.html"
-description: "\"¡Cómo se corta y rompe el martillo de toda la tierra! ¡cómo se convierte Babilonia en desolación entre las naciones! ... Esta es la obra del Señor Dios de los…"
-tags: ["Sociedad"]
+description: "Estrellas rojas, puños cerrados, martillos y hoces: los signos del comunismo que Codex Magica 28 vincula con el régimen soviético y su violencia."
+tags: ["Sociedad", "Codex Magica", "Comunismo", "Simbolismo"]
 ---
 
 > "¡Cómo se corta y rompe el martillo de toda la tierra! ¡cómo se convierte Babilonia en desolación entre las naciones! ... Esta es la obra del Señor Dios de los ejércitos ..."- Jeremías 50:23, 25  

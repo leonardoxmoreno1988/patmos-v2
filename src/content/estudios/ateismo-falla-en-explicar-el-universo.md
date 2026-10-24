@@ -1,12 +1,12 @@
 ---
-title: "Cómo El Ateísmo Falla En Explicar El Origen Del Universo"
+title: "Por qué el ateísmo falla al explicar el universo"
 date: "2017-05-05"
 updated: "2023-07-20"
 author: "James Bishop"
 slug: "ateismo-falla-en-explicar-el-universo"
 redirectFrom: "/2017/05/ateismo-falla-en-explicar-el-universo.html"
-description: "Mi intención aquí es tocar brevemente los problemas que tienen los ateos al explicar el inicio del universo, especialmente por sus explicaciones propuestas. El…"
-tags: ["Apologética"]
+description: "El origen del universo pone en apuros al ateísmo: el regreso infinito de causas y el inicio del tiempo y el espacio. Un repaso breve de sus explicaciones."
+tags: ["Apologética", "Ateísmo", "Cosmología", "Creación"]
 ---
 
 Mi intención aquí es tocar brevemente los problemas que tienen los **ateos** al explicar el inicio del **universo**, especialmente por sus explicaciones propuestas.  

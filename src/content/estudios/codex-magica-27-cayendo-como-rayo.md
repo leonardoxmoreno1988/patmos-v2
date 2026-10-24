@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 27: Relámpago Cayendo Del Cielo – El Símbolo Del Rayo"
+title: "Codex Magica 27: el símbolo del rayo y Lucifer"
 date: "2018-08-09"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-27-cayendo-como-rayo"
 redirectFrom: "/2018/09/codex-magica-27-cayendo-como-rayo.html"
-description: "\"Y él les dijo: Yo veía a Satanás caer del cielo como un rayo. He aquí, te doy poder para hollar serpientes y escorpiones, y sobre todo el poder del enemigo; y…"
-tags: ["Sociedad"]
+description: "El rayo como símbolo de Lucifer para los illuminati, frente a Lucas 10:18, donde Jesús ve caer a Satanás como un rayo. Así analiza su simbolismo."
+tags: ["Sociedad", "Codex Magica", "Illuminati", "Lucifer"]
 ---
 
 > **"Y él les dijo: Yo veía a Satanás caer del cielo como un rayo. He aquí, te doy poder para hollar serpientes y escorpiones, y sobre todo el poder del enemigo; y nada te dañará de ninguna manera." \- Lucas 10:18-19**
