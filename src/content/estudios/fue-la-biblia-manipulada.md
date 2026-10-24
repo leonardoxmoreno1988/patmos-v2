@@ -1,12 +1,12 @@
 ---
-title: "¿Fue la Biblia Manipulada? Por qué uso la Reina Valera 1865"
+title: "¿Fue manipulada la Biblia? Reina Valera 1865"
 date: "2022-05-29"
 updated: "2026-10-19"
 author: "Leonardo Moreno"
 slug: "fue-la-biblia-manipulada"
 redirectFrom: "/2022/05/fue-la-biblia-manipulada.html"
 description: "¿Fue alterado el texto bíblico? Descubre la diferencia histórica entre el Texto Recibido, los manuscritos alejandrinos y la preservación del canon."
-tags: ["Apologética"]
+tags: ["Apologética", "Biblia", "Manuscritos", "Canon"]
 ---
 
 Estimado lector,

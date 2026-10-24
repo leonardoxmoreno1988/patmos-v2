@@ -1,12 +1,12 @@
 ---
-title: "Triángulos, Brujería y Magia Negra Masónica | Patmos"
+title: "Triángulos, brujería y magia negra masónica"
 date: "2017-07-18"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-18-triangulos-magia-negra"
 redirectFrom: "/2017/11/codex-magica-18-triangulos-magia-negra.html"
 description: "Descubre el significado de los triángulos en la brujería, el esoterismo masónico y la magia negra según Texe Marrs en el capítulo 18 de Codex Magica."
-tags: ["Sociedad"]
+tags: ["Sociedad", "Simbología", "Ocultismo", "Codex Magica"]
 ---
 
 > **"¿Alguna vez se preguntó por qué los masones instalaron la estatua de una mujer de piedra sobre el edificio del Capitolio de Estados Unidos en Washington, DC, y la estatua de una mujer llamada "Libertad" en el puerto de la ciudad de Nueva York? Bueno, ahora lo sabes. América, conoce a tu amante satánica, Isis."  

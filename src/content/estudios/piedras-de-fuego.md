@@ -1,5 +1,5 @@
 ---
-title: "Entre las piedras de fuego se paseaba: Ezequiel 28 y Lucifer"
+title: "Ezequiel 28 y Lucifer: las piedras de fuego"
 date: "2023-03-19"
 updated: "2026-10-24"
 author: "Leonardo Moreno"
