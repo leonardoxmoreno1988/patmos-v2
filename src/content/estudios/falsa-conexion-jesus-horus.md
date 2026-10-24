@@ -1,12 +1,12 @@
 ---
-title: "Exponiendo La Falsa Conexión Entre Jesús y Horus - 8 Afirmaciones Incorrectas"
+title: "Falsa conexión entre Jesús y Horus: 8 afirmaciones"
 date: "2016-04-17"
 updated: "2023-07-21"
 author: "Steven Bancarz"
 slug: "falsa-conexion-jesus-horus"
 redirectFrom: "/2016/04/falsa-conexion-jesus-horus.html"
-description: "Muchos ateos, neopaganos y otros incrédulos del cristianismo afirman que la historia de Jesucristo fue tomada de mitologías anteriores. En los últimos años…"
-tags: ["Apologética"]
+description: "Ocho afirmaciones incorrectas sobre la supuesta copia de Jesús del dios egipcio Horus, usadas por ateos y neopaganos para tildar el cristianismo de mito."
+tags: ["Apologética", "Horus", "Mitos paganos", "Jesús"]
 ---
 
 Muchos ateos, neopaganos y otros incrédulos del cristianismo afirman que la historia de **Jesucristo** fue tomada de **mitologías anteriores**. En los últimos años, muchas afirmaciones se basan en que la historia de Jesús proviene del dios egipcio, **Horus**.  

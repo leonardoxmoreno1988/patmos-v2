@@ -5,8 +5,8 @@ updated: "2026-04-15"
 author: "Leonardo Moreno"
 slug: "entronizado-entre-los-poderosos"
 redirectFrom: "/2023/08/entronizado-entre-los-poderosos.html"
-description: "Esto podría considerarse una extensión del estudio de Revelación de la semana pasada y la parte 2 del newsletter № 47. “Jehová de los ejércitos, Dios de…"
-tags: ["Escatología"]
+description: "Un estudio sobre Jehová de los ejércitos, que mora entre los querubines, como extensión de una serie sobre el libro de Revelación y su trono."
+tags: ["Escatología", "Querubines", "Revelación", "Trono de Dios"]
 ---
 
 Estimado lector,  

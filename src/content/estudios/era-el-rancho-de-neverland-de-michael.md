@@ -1,12 +1,12 @@
 ---
-title: "¿Era El Rancho de Neverland de Michael Jackson Un Centro de Programación Mental?"
+title: "Neverland: ¿centro de programación mental?"
 date: "2016-07-20"
 updated: "2023-07-21"
 author: "Vigilant Citizen"
 slug: "era-el-rancho-de-neverland-de-michael"
 redirectFrom: "/2016/07/era-el-rancho-de-neverland-de-michael.html"
-description: "Un informe del 2003 publicado recientemente por la policía revela imágenes de sexualidad en menores de edad, elementos de sangre, tortura, sacrificios de…"
-tags: ["Sociedad"]
+description: "Un informe policial de 2003 sobre el rancho Neverland de Michael Jackson y la tesis de que el lugar fue un centro de programación mental, según su autor."
+tags: ["Sociedad", "Michael Jackson", "Control mental", "Historia"]
 ---
 
 Un informe del 2003 publicado recientemente por la policía revela que en el rancho de **Neverland** de **Michael Jackson** se encontraron imágenes de sexualidad en **menores de edad**, elementos de sangre, tortura, sacrificios de animales, S&M y más material perturbador. Estos artículos apuntan a que la hacienda fue utilizada como un sitio de programación MK-ULTRA.  

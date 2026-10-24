@@ -1,12 +1,12 @@
 ---
-title: "El Zohar En Los Tiempos Finales"
+title: "El Zohar en los tiempos finales"
 date: "2015-08-08"
 updated: "2023-07-21"
 author: "Fritz Springmeier"
 slug: "el-zohar-en-los-tiempos-finales-por"
 redirectFrom: "/2015/07/el-zohar-en-los-tiempos-finales-por.html"
-description: "Este post busca atar varios hilos de otros artículos recientes y shows de radio en los que he participado de manera reciente sobre el Zohar, en orden de…"
-tags: ["Sociedad"]
+description: "Un análisis del Zohar, libro místico judío que, según el autor, fue escrito en el siglo XIII, y de sus supuestos secretos sobre los tiempos finales."
+tags: ["Sociedad", "Zohar", "Cábala", "Tiempos finales"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

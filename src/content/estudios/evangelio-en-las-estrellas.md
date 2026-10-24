@@ -1,12 +1,12 @@
 ---
-title: "La teoría del evangelio en las estrellas o \"Mazzaroth\""
+title: "La teoría del evangelio en las estrellas (Mazzaroth)"
 date: "2022-11-13"
 updated: "2025-05-26"
 author: "Leonardo Moreno"
 slug: "evangelio-en-las-estrellas"
 redirectFrom: "/2022/11/evangelio-en-las-estrellas.html"
-description: "Es digno de mención en este reporte el libro Story in the Stars de Joe Amaral, donde se propone la teoría que las constelaciones exponen una forma de Evangelio…"
-tags: ["Apologética"]
+description: "La tesis de Joe Amaral en Story in the Stars: las constelaciones como una forma de evangelio primitivo que Dios dio a los primeros hombres en el cielo."
+tags: ["Apologética", "Mazzaroth", "Astronomía", "Evangelio"]
 ---
 
 Estimado lector,  

@@ -1,12 +1,12 @@
 ---
-title: "En Las Profundidades De Krypton: La Interpretación Mesiánica De \"Man Of Steel\""
+title: "Man of Steel: interpretación mesiánica del Hombre de Acero"
 date: "2013-06-24"
 updated: "2024-09-02"
 author: "Jhonkbn"
 slug: "en-las-profundidades-de-kripton-la"
 redirectFrom: "/2013/06/en-las-profundidades-de-kripton-la.html"
-description: "La última película de Zack Snyder, El Hombre de Acero, ostenta todo lo que uno se podría imaginar en cuanto efectos especiales y escenas de acción imponentes…"
-tags: ["Cine y Cultura"]
+description: "La última película de Zack Snyder, El Hombre de Acero, como narrativa simbólica y ambigua sobre un Cristo extraterrestre en su propio género."
+tags: ["Cine y Cultura", "Man of Steel", "Mesianismo", "Zack Snyder"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

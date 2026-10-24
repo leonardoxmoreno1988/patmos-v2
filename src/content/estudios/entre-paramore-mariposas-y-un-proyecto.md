@@ -1,12 +1,12 @@
 ---
-title: "Entre Paramore, Mariposas Y Un Proyecto Llamado \"Monarca\""
+title: "Paramore, mariposas y el proyecto Monarca"
 date: "2010-03-27"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "entre-paramore-mariposas-y-un-proyecto"
 redirectFrom: "/2010/03/entre-paramore-mariposas-y-un-proyecto.html"
-description: "“Brick by Boring Brick” de Paramore describe las aventuras de una niña en una tierra de fantasía. La maravilla se convierte rápidamente en una pesadilla y las…"
-tags: ["Cine y Cultura"]
+description: "El significado del video Brick by Boring Brick de Paramore, una fantasía que se vuelve pesadilla, y su relación con el proyecto de control mental Monarca."
+tags: ["Cine y Cultura", "Paramore", "Control mental", "Monarca"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

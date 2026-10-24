@@ -1,12 +1,12 @@
 ---
-title: "¿Son Los Extraterrestres Ángeles Caídos?"
+title: "¿Son los extraterrestres ángeles caídos?"
 date: "2026-10-11"
 updated: "2026-10-11"
 author: "Leonardo Moreno"
 slug: "extraterrestres-angeles-caidos"
 redirectFrom: "/p/extraterrestres-angeles-caidos.html"
-description: "Estudio sobre los extraterrestres y la perspectiva bíblica de los ángeles caídos."
-tags: ["Apologética"]
+description: "Basado en Invasores espaciales de William Schnoebelen, el artículo analiza si los OVNIs y los extraterrestres son los nefilim o ángeles caídos bíblicos."
+tags: ["Apologética", "Ángeles caídos", "Nephilim", "OVNIs"]
 ---
 
 ![Pintura de ángeles caídos con apariencia de extraterrestres en el infierno con serpientes y un ovni](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLy2xiywMxOZdYNyFJNB6cQS1qCtwpClahzzVuhPIU19sj7o9kyJTLCSpmgoUJLE1Coot3xjg5LowvzEubUpYbFCFWSiwpU3-Z30pDOJc79qobh-QDXI_SfaZQYLnGkaRDJ-5tgs04pZk/s1600/Fallen_Angels.jpg)

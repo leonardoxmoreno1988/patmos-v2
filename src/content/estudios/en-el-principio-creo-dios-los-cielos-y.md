@@ -1,12 +1,12 @@
 ---
-title: "En el principio creó Dios los cielos y la tierra"
+title: "En el principio creó Dios: el número siete en Génesis 1:1"
 date: "2023-07-16"
 updated: "2026-04-17"
 author: "Leonardo Moreno"
 slug: "en-el-principio-creo-dios-los-cielos-y"
 redirectFrom: "/2023/07/en-el-principio-creo-dios-los-cielos-y.html"
-description: "La primera línea del Génesis (1:1) demuestra quién es Dios de manera evidente. Hay siete palabras en el texto hebreo. Esta coincidencia es notable cuando uno…"
-tags: ["Apologética"]
+description: "Génesis 1:1 tiene siete palabras en hebreo, una coincidencia que el autor relaciona con el número siete, símbolo de perfección en las Escrituras."
+tags: ["Apologética", "Génesis", "Creación", "Números bíblicos"]
 ---
 
 Estimado lector,  

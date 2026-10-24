@@ -1,12 +1,12 @@
 ---
-title: "Estudiante Brasileño Desaparece Dejando Atrás Una Habitación Cubierta De Textos Codificados Y Símbolos Ocultos"
+title: "Estudiante brasileño desaparece entre textos codificados"
 date: "2017-04-05"
 updated: "2023-07-20"
 author: "Vigilant Citizen"
 slug: "estudiante-brasileno-desaparece-simbolos"
 redirectFrom: "/2017/04/estudiante-brasileno-desaparece-simbolos.html"
-description: "Un estudiante brasileño ha desaparecido misteriosamente, dejando atrás una habitación cerrada llena de textos encriptados, 14 libros manuscritos y una enorme…"
-tags: ["Sociedad"]
+description: "Bruno Borges, estudiante brasileño de 24 años, desapareció dejando textos encriptados, 14 libros manuscritos y una estatua de Giordano Bruno."
+tags: ["Sociedad", "Giordano Bruno", "Símbolos ocultos", "Misterio"]
 ---
 
 Un **estudiante brasileño** ha desaparecido misteriosamente, dejando atrás una habitación cerrada llena de textos encriptados, 14 libros manuscritos y una enorme estatua del ocultista **Giordano Bruno**.  

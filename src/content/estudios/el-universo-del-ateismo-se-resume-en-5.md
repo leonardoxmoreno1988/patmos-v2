@@ -1,12 +1,12 @@
 ---
-title: "El Universo Del Ateísmo Se Resume En Una Parábola India"
+title: "El universo del ateísmo: la parábola india del río"
 date: "2017-03-05"
 updated: "2023-07-20"
 author: "James Bishop"
 slug: "el-universo-del-ateismo-se-resume-en-5"
 redirectFrom: "/2017/03/el-universo-del-ateismo-se-resume-en_5.html"
-description: "El triste concepto del universo ateísta es bien captado por un simple relato popular indio (1). \"Hay un viejo cuento popular indio acerca de un joven que…"
-tags: ["Apologética"]
+description: "Una parábola popular india, la del joven que navega un río en balsa, ilustra cómo el ateísmo explica el universo y por qué el relato resulta insuficiente."
+tags: ["Apologética", "Ateísmo", "Parábola", "Creación"]
 ---
 
 El triste concepto del universo **ateísta** es bien captado por un simple relato **popular indio** (1).  

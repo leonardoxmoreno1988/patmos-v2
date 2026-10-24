@@ -5,8 +5,8 @@ updated: "2025-05-26"
 author: "Leonardo Moreno"
 slug: "falsos-dioses-en-la-tierra"
 redirectFrom: "/2022/09/falsos-dioses-en-la-tierra.html"
-description: "El libro de Revelación expone que el ateísmo en el futuro se extinguirá. La interacción de los seres angelicales, tanto de parte de Dios, como de Satanás, será…"
-tags: ["Escatología"]
+description: "Según Revelación, el ateísmo se extinguirá y los seres angelicales de Dios y de Satanás interactuarán con frecuencia durante la Tribulación."
+tags: ["Escatología", "Tribulación", "Falsos dioses", "Revelación"]
 ---
 
 Estimado lector,  

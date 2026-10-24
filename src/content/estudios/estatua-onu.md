@@ -1,12 +1,12 @@
 ---
-title: "¿Una escultura del \"fin de los tiempos\" en la ONU?"
+title: "¿Una escultura del fin de los tiempos en la ONU?"
 date: "2022-01-09"
 updated: "2025-05-23"
 author: "Leonardo Moreno"
 slug: "estatua-onu"
 redirectFrom: "/2022/01/estatua-onu.html"
-description: "El mes pasado la ONU colocó una extraña estatua en su sede principal de New York, la cual trajo muchas comparaciones con la visión del profeta Daniel en Daniel…"
-tags: ["Sociedad"]
+description: "Una estatua colocada en la sede de la ONU en Nueva York se compara con la visión de Daniel 7 y Revelación 13 sobre la bestia que parecía un leopardo."
+tags: ["Sociedad", "ONU", "Escatología", "Profecía"]
 ---
 
 Estimado lector,

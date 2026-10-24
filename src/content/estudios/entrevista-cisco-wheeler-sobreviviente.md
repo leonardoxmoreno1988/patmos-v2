@@ -1,12 +1,12 @@
 ---
-title: "Entrevista a Cisco Wheeler: Sobreviviente del Proyecto Mk-Ultra De La CIA"
+title: "Cisco Wheeler: entrevista sobre el proyecto MK Ultra"
 date: "2012-08-23"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "entrevista-cisco-wheeler-sobreviviente"
 redirectFrom: "/2012/08/entrevista-cisco-wheeler-sobreviviente.html"
-description: "Cisco Wheeler es una sobreviviente del Proyecto MK Ultra y co-autora del libro \"La Formula Illuminati Utilizada Para Crear Esclavos Indetectables de Control…"
-tags: ["Sociedad"]
+description: "Entrevista radiofónica de 1988 con Cisco Wheeler, sobreviviente de MK Ultra y coautora de un libro sobre técnicas de control mental y sus efectos."
+tags: ["Sociedad", "MK Ultra", "Control mental", "Entrevista"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

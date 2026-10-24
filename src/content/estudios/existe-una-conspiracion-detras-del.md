@@ -1,12 +1,12 @@
 ---
-title: "¿Existe Una Conspiración Detrás Del Movimiento Gay? 5 Conclusiones Personales"
+title: "Movimiento LGTB y nuevo orden mundial: cinco tesis"
 date: "2013-07-16"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "existe-una-conspiracion-detras-del"
 redirectFrom: "/2013/07/existe-una-conspiracion-detras-del.html"
-description: "Pese a la explícita diferencia de opiniones y \"susceptibilidad\" de algunos lectores, el autor del blog trata de explicar la relación del nuevo orden mundial…"
-tags: ["Sociedad"]
+description: "Un blog plantea la relación entre el nuevo orden mundial, el movimiento LGTB y el matrimonio homosexual, con cinco conclusiones personales de su autor."
+tags: ["Sociedad", "Nuevo Orden Mundial", "Movimiento LGTB", "Matrimonio"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

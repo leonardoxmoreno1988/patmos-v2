@@ -1,12 +1,12 @@
 ---
-title: "Esquizofrenia Y Control Mental: El Significado Oculto De Donnie Darko - Parte I"
+title: "Donnie Darko: esquizofrenia y control mental, parte I"
 date: "2014-09-15"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "esquizofrenia-y-control-mental-el-significado-oculto-de-donnie-darko-parte-i"
 redirectFrom: "/2014/09/esquizofrenia-y-control-mental-el.html"
-description: "Muy recomendado por su complejo argumento, Donnie Darko explora las teorías sobre viajes en el tiempo y universos tangentes mientras narra el dilema de un…"
-tags: ["Cine y Cultura"]
+description: "Análisis de Donnie Darko, película de viajes en el tiempo y universos tangentes, y su posible significado oculto sobre el control mental. Parte I."
+tags: ["Cine y Cultura", "Donnie Darko", "Control mental", "Esquizofrenia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  

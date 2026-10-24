@@ -1,12 +1,12 @@
 ---
-title: "Esclavas De Control Mental MK Ultra Revelan Conclusiones Preocupantes"
+title: "Esclavas de control mental MK Ultra: sus denuncias"
 date: "2015-08-15"
 updated: "2023-07-21"
 author: "Henry Makow"
 slug: "esclavas-de-control-mental-mk-ultra"
 redirectFrom: "/2015/08/esclavas-de-control-mental-mk-ultra.html"
-description: "Hay un dicho griego según el cual un pescado se pudre desde la cabeza hacia abajo. Si este artículo es correcto, entonces el liderazgo político está mucho más…"
-tags: ["Sociedad"]
+description: "Testimonios de supuestas víctimas de MK Ultra que acusan a líderes políticos de abuso. El texto advierte que se trata de acusaciones sin verificar."
+tags: ["Sociedad", "MK Ultra", "Control mental", "Testimonio"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  

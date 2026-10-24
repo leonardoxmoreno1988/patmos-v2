@@ -1,12 +1,12 @@
 ---
-title: "El fin del efectivo está cerca"
+title: "El fin del efectivo y el futuro del dinero digital"
 date: "2022-01-02"
 updated: "2026-01-13"
 author: "Leonardo Moreno"
 slug: "fin-del-efectivo"
 redirectFrom: "/2022/01/fin-del-efectivo.html"
-description: "El economista Eswar Prasad es profesor de política comercial de la Universidad de Cornell y exjefe de la división de China del Fondo Monetario Internacional y…"
-tags: ["Sociedad"]
+description: "El economista Eswar Prasad, de Cornell, anticipa en una entrevista el cambio hacia los pagos digitales y el fin del efectivo. Qué implica para la sociedad."
+tags: ["Sociedad", "Economía", "Dinero digital", "Efectivo"]
 ---
 
 Estimado lector,

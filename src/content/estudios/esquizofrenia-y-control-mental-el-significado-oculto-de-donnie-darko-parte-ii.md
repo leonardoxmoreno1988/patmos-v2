@@ -1,12 +1,12 @@
 ---
-title: "Esquizofrenia Y Control Mental: El Significado Oculto De Donnie Darko Parte II"
+title: "Donnie Darko: esquizofrenia y control mental, parte II"
 date: "2014-10-29"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "esquizofrenia-y-control-mental-el-significado-oculto-de-donnie-darko-parte-ii"
 redirectFrom: "/2014/10/esquizofrenia-y-control-mental-el.html"
-description: "En la primera parte el personaje de Donnie Darko es manipulado por un macabro conejo quien lo trastorna con el significado de los viajes en el tiempo, los…"
-tags: ["Cine y Cultura"]
+description: "Segunda parte del análisis de Donnie Darko: el conejo manipulador, el héroe acuariano y el significado oculto de los viajes en el tiempo y de Dios."
+tags: ["Cine y Cultura", "Donnie Darko", "Control mental", "Esquizofrenia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

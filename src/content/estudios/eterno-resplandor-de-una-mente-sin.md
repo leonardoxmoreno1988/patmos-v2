@@ -1,12 +1,12 @@
 ---
-title: "\"Eterno Resplandor De Una Mente Sin Recuerdos\" Y Su Mensaje Oculto Sobre Control Mental"
+title: "Eterno resplandor y el control mental en Hollywood"
 date: "2011-03-03"
 updated: "2023-07-23"
 author: "Jhonkbn"
 slug: "eterno-resplandor-de-una-mente-sin"
 redirectFrom: "/2011/03/eterno-resplandor-de-una-mente-sin.html"
-description: "Uno de los mensajes ocultos más recurrentes en Hollywood es el control mental basado en el trauma. Un sistema que fue y es usado por la CIA para crear esclavas…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, la película Eterno resplandor de una mente sin recuerdos oculta un mensaje sobre el control mental basado en el trauma en Hollywood."
+tags: ["Cine y Cultura", "Control mental", "Hollywood", "Trauma"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -1,11 +1,11 @@
 ---
-title: "En una posada le encontró Jehová, y le quiso matar"
+title: "Fragilidad de la vida: en una posada le encontró Jehová"
 date: "2026-07-05"
 author: "Leonardo Moreno"
 slug: "en-una-posada-le-encontro-jehova-y-le-quiso-matar"
 redirectFrom: "/2026/07/en-una-posada-le-encontro-jehova-y-le-quiso-matar.html"
-description: "Un análisis tipológico de los dos incidentes donde Dios demandó la muerte de Moisés: la manifestación en Éxodo 4 y la transgresión de la roca en Números 20."
-tags: ["Apologética"]
+description: "Tras el terremoto en Venezuela, una reflexión sobre la fragilidad de la vida terrenal y el encuentro con Dios que relata el texto bíblico de la posada."
+tags: ["Apologética", "Vida", "Biblia", "Fe"]
 ---
 
 Estimado lector,

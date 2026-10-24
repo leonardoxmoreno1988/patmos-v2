@@ -1,12 +1,12 @@
 ---
-title: "Análisis De La Película \"Get Out\": Control Mental Monarca Y Satanismo"
+title: "Get Out: control mental monarca y satanismo"
 date: "2017-05-25"
 updated: "2023-07-20"
 author: "Jhonkbn"
 slug: "explicacion-get-out-sobre-control-mental-monarca"
 redirectFrom: "/2017/05/explicacion-get-out-sobre-control-mental-monarca.html"
-description: "La película Get Out o \"¡Huye!\" en español ha impresionado por su intrigante argumento y su crudo mensaje sobre racismo. Pero hay algo más en la trama que no…"
-tags: ["Cine y Cultura"]
+description: "Análisis de la película Get Out (¡Huye!), que según su autor contiene un mensaje oculto sobre control mental monarca y satanismo más allá del racismo."
+tags: ["Cine y Cultura", "Get Out", "Control mental", "Satanismo"]
 ---
 
 La película **Get Out** o "**¡Huye!**" en español ha impresionado por su intrigante argumento y su crudo mensaje sobre **racismo**. Pero hay algo más en la trama que no pasa desapercibido, y es que Chris, en su viaje de supervivencia, ha sido sometido al trauma del **control mental monarca**.  

@@ -1,12 +1,12 @@
 ---
-title: "El 'Hijo del Hombre' tiene vida en sí mismo"
+title: "El Hijo del Hombre y la vida en sí mismo"
 date: "2022-12-07"
 updated: "2025-05-29"
 author: "Leonardo Moreno"
 slug: "elon-kanye-tweet"
 redirectFrom: "/2022/12/elon-kanye-tweet.html"
-description: "El mayor problema de un mundo en ceguera espiritual no es la ignorancia de la figura de Jesucristo, sino desconocer lo que Él dijo de sí mismo y de lo que…"
-tags: ["Escatología"]
+description: "Un intercambio en redes sociales sirve para explicar lo que Jesús dijo de sí mismo y de lo que sucederá con la humanidad en su Segunda Venida."
+tags: ["Escatología", "Hijo del Hombre", "Segunda Venida", "Jesús"]
 ---
 
 Estimado lector,  

@@ -1,12 +1,12 @@
 ---
-title: "El Vaticano Prepara A La Humanidad Para Los Extraterrestres"
+title: "El Vaticano y los extraterrestres: la postura de Francisco"
 date: "2014-03-12"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "el-vaticano-prepara-la-humanidad-para"
 redirectFrom: "/2014/06/el-vaticano-prepara-la-humanidad-para.html"
-description: "El autor Fritz Springmeier hace una precisa conclusión sobre los últimos comentarios del papa Francisco acerca del tema extraterrestre. Este también…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Fritz Springmeier comenta los recientes dichos del papa Francisco sobre los extraterrestres y los relaciona con la serie La Farsa Extraterrestre."
+tags: ["Falsas Doctrinas", "Apologética", "Extraterrestres", "Papa Francisco"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
