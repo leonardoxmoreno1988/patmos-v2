@@ -165,7 +165,7 @@ Mientras que los libertadores son presentados con trajes negros, el Capitolio lu
 
   
 
-El asociar estas ideas de un gobierno injusto con los conceptos que las personas tienen de Dios no son casuales. Katniss Everdeen es otra imagen de anticristo que como predice la Biblia en **[Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** 16:14 pondrá a los habitantes del planeta en rebelión contra Dios. La imaginería que utiliza la película sobre las alas del sinsajo es bien sutil, pero a su vez solo una bien pensada estrategia para incorporar el mensaje espiritual y esotérico en la cinta. El símbolo no es un sinsajo, para los entendidos en enigmas es un ángel caído.
+El asociar estas ideas de un gobierno injusto con los conceptos que las personas tienen de Dios no son casuales. Katniss Everdeen es otra imagen de anticristo que como predice la Biblia en **[Revelación](/leer/revelacion/1)** 16:14 pondrá a los habitantes del planeta en rebelión contra Dios. La imaginería que utiliza la película sobre las alas del sinsajo es bien sutil, pero a su vez solo una bien pensada estrategia para incorporar el mensaje espiritual y esotérico en la cinta. El símbolo no es un sinsajo, para los entendidos en enigmas es un ángel caído.
 
   
 
@@ -213,7 +213,7 @@ Específicamente sobre _Drácula: la Historia Jamás Contada_, el personaje de V
 La historia jamás contada: Lúcifer es el héroe.  
 
   
-Al igual que en _Maléfica_ y _Los Juegos del Hambre_ la contraparte al liberador luciferiano encierra símbolos propios del cristianismo. Dando a entender de forma sugestiva la inversión de los roles. Revisando la descripción que **[el libro de Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** hace sobre la batalla final contra la bestia, se toman muchas alegorías para asociar a Satanás, entre ellos a la del dragón escarlata, el cual tratara de hacer guerra contra Jesucristo. En el film, vemos que ambos bandos utilizan trajes con estas analogías.
+Al igual que en _Maléfica_ y _Los Juegos del Hambre_ la contraparte al liberador luciferiano encierra símbolos propios del cristianismo. Dando a entender de forma sugestiva la inversión de los roles. Revisando la descripción que **[el libro de Revelación](/leer/revelacion/1)** hace sobre la batalla final contra la bestia, se toman muchas alegorías para asociar a Satanás, entre ellos a la del dragón escarlata, el cual tratara de hacer guerra contra Jesucristo. En el film, vemos que ambos bandos utilizan trajes con estas analogías.
 
   
 

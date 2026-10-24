@@ -139,7 +139,7 @@ Otro personaje bíblico que podemos identificar es el de Cypher, que luego traic
 
 ## La Dama de Rojo
 
-"La dama de rojo" simboliza el aspecto carnal del ser humano, siempre con la promesa de una mejor vida, fama, fortuna, deseo sexual y poder. Todo ser humano deberá poner su lado carnal de lado para poder emprender el viaje de la "iluminación". Esta interpretación gnóstica por supuesto es una forma de tratar el pecado sin la necesidad del arrepentimiento ni la fe en Cristo. El capítulo 17 de **[Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** atribuye estos deseos con el personaje de La Mujer Escarlata.
+"La dama de rojo" simboliza el aspecto carnal del ser humano, siempre con la promesa de una mejor vida, fama, fortuna, deseo sexual y poder. Todo ser humano deberá poner su lado carnal de lado para poder emprender el viaje de la "iluminación". Esta interpretación gnóstica por supuesto es una forma de tratar el pecado sin la necesidad del arrepentimiento ni la fe en Cristo. El capítulo 17 de **[Revelación](/leer/revelacion/1)** atribuye estos deseos con el personaje de La Mujer Escarlata.
 
   
 

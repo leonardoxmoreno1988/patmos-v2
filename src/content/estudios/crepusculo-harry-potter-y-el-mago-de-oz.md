@@ -114,7 +114,7 @@ Starling, otro líder de la Wicca, admitió:
 
 > "En realidad, esto podría ofender a algunos, pero esconde una de las grandes verdades de la brujería, que no es blanca o negra, sólo hay magia ..." (Starling, mensaje # 1420, 22 de noviembre de 2001, publicado en Perspectivas de Pagan.)
 
-Este reconocimiento está en realidad de acuerdo con la Palabra de Dios, que establece que toda la magia tal tiene sus raíces en el poder de Satanás (1 Juan 5:19, **[Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** 12:9). La magia "blanca" es simplemente una táctica que Satanás usa para atraer a su presa desprevenida, como él los lleva a creer que pueden usar los poderes ocultos con fines altruistas. La Palabra de Dios revela que Satanás no suelen aparecer en toda su deformidad desnuda, pero aparece con más frecuencia como un ángel de la luz:  
+Este reconocimiento está en realidad de acuerdo con la Palabra de Dios, que establece que toda la magia tal tiene sus raíces en el poder de Satanás (1 Juan 5:19, **[Revelación](/leer/revelacion/1)** 12:9). La magia "blanca" es simplemente una táctica que Satanás usa para atraer a su presa desprevenida, como él los lleva a creer que pueden usar los poderes ocultos con fines altruistas. La Palabra de Dios revela que Satanás no suelen aparecer en toda su deformidad desnuda, pero aparece con más frecuencia como un ángel de la luz:  
 
 > "Y no es maravilla, porque el mismo Satanás se disfraza como ángel de luz. Por lo tanto, no es de extrañar que sus servidores, también, se disfrazan como ministros de justicia. Cuyo fin será conforme a sus obras."  
 > \-2 Corintios 11:14-15
@@ -256,7 +256,7 @@ Jesucristo dijo:
 > "Porque tanto amó Dios al mundo, que dio a su Hijo unigénito, para que todo aquel que en él cree no se pierda, mas tenga vida eterna. Porque Dios no envió a su Hijo al mundo para condenar al mundo, sino para que el mundo se salve por Él. El que cree en él no es condenado, pero el que no cree ya está condenado, porque no ha creído en el nombre del unigénito Hijo de Dios, y esta es la condenación: que la luz vino al mundo, y los hombres amaron más las tinieblas que la luz... porque sus obras eran malas. Porque todos los que hacen el mal, aborrecen la luz y no viene a la luz, para sus acciones no sean expuestas. Pero el que obra en la verdad, viene a la luz, para que pueda ver claramente que sus obras han sido hechas en Dios."  
 > \-Juan 3:16-21
 
-El Señor Jesucristo advirtió en **[el libro de Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** que en el Juicio Final, justo antes de crear un cielo nuevo y una tierra nueva, todos los que practican artes mágicas (es decir, los wiccanos, la nueva era, los astrólogos, neopaganos, etc) van a ser condenados al lago de fuego:  
+El Señor Jesucristo advirtió en **[el libro de Revelación](/leer/revelacion/1)** que en el Juicio Final, justo antes de crear un cielo nuevo y una tierra nueva, todos los que practican artes mágicas (es decir, los wiccanos, la nueva era, los astrólogos, neopaganos, etc) van a ser condenados al lago de fuego:  
 
 > **"Los cobardes e incrédulos, los abominables, los asesinos, los fornicarios y los hechiceros, los idólatras y todos los mentirosos tendrán su parte en el lago que arde con fuego y azufre. Esta es la muerte segunda."  
 > \-Revelación 21:08**

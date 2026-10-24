@@ -22,7 +22,7 @@ En la película "**Oblivion**", protagonizada por Tom Cruise, se expone un mensa
 
   
 
-Debo admitir que minutos antes de ver la película, me preparaba para una fiesta de simbología illuminati y gnosticismo. En los primeros 40 minutos fue exactamente eso: "Oblivion", al igual que otras producciones, expone a un Cristo cinemático interpretado por Tom Cruise que viene a salvar a la humanidad del **[apocalipsis extraterrestre](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)**. Todo bien escenificado para ilustrar al Dios bíblico como el opresor y al revolucionario (Morgan Freeman) como el portador de la luz. Pero al final de la película un mensaje nuevo se asomaba y que casualmente contenía un factor clave del lavado de cerebro illuminati. Tom Cruise no es solo una representación del anticristo, es una campaña publicitaria para la aceptación de humanos genéticamente manipulados.  
+Debo admitir que minutos antes de ver la película, me preparaba para una fiesta de simbología illuminati y gnosticismo. En los primeros 40 minutos fue exactamente eso: "Oblivion", al igual que otras producciones, expone a un Cristo cinemático interpretado por Tom Cruise que viene a salvar a la humanidad del **[apocalipsis extraterrestre](/leer/revelacion/1)**. Todo bien escenificado para ilustrar al Dios bíblico como el opresor y al revolucionario (Morgan Freeman) como el portador de la luz. Pero al final de la película un mensaje nuevo se asomaba y que casualmente contenía un factor clave del lavado de cerebro illuminati. Tom Cruise no es solo una representación del anticristo, es una campaña publicitaria para la aceptación de humanos genéticamente manipulados.  
   
 
 ## Un Futuro Postapocalíptico
@@ -111,7 +111,7 @@ Uno de los giros inesperados de "Oblivion" es el hecho de que Jack realmente es 
 
 > "Entonces Dios formó al hombre del polvo de la tierra, sopló en su nariz aliento de vida y fue el hombre un ser viviente." -Génesis 2:7
 
-El hecho de soplar "aliento de vida" deja en claro que solo Dios puede crear un ser humano con alma y conforme a los estatutos morales del creador. Para los illuminati y las fuerzas espirituales que los manejan es muy importante ir en contra de esto, primero porque necesitan abominaciones genéticas para su nuevo orden mundial, y segundo porque alejará espiritualmente al hombre de su creador. Si no existe un alma que habite a los clones, ¿qué es lo que está dentro de este? La Biblia vuelve a mencionar sobre el aliento de vida en **[Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)**:  
+El hecho de soplar "aliento de vida" deja en claro que solo Dios puede crear un ser humano con alma y conforme a los estatutos morales del creador. Para los illuminati y las fuerzas espirituales que los manejan es muy importante ir en contra de esto, primero porque necesitan abominaciones genéticas para su nuevo orden mundial, y segundo porque alejará espiritualmente al hombre de su creador. Si no existe un alma que habite a los clones, ¿qué es lo que está dentro de este? La Biblia vuelve a mencionar sobre el aliento de vida en **[Revelación](/leer/revelacion/1)**:  
 
 > "Y se le permitió infundir aliento a la imagen de la bestia, para que la imagen hablase e hiciese matar a todo el que no la adorase." -Revelación 13:15
 

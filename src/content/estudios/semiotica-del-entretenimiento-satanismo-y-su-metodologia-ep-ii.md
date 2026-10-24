@@ -23,7 +23,7 @@ tags: ["Cine y Cultura", "Semiótica", "Satanismo", "Aleister Crowley"]
 
 **[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1nSTMd3J4wXUCTxmzk6WP_88fJssFJhRgH0UH-17T4lJT2NxkaW2o1HfZyWHkmS7Berrhb8Rzuchl_t1vDUDI7VETXv75l1ZDWBoELshSMTTNekakGIz3LQtYR3_uqAQUPbQj_5vBLUs/s1600/darkhorse3.jpg)](https://www.blogger.com/u/1/#)**
 
-**Un caballo negro posiblemente tomado del [libro de Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html) como el jinete que representa el hambre. Igual de importante, la cruz de los templarios en su pecho recuerda que el poder de estas sociedades prevalece en los medios.**
+**Un caballo negro posiblemente tomado del [libro de Revelación](/leer/revelacion/1) como el jinete que representa el hambre. Igual de importante, la cruz de los templarios en su pecho recuerda que el poder de estas sociedades prevalece en los medios.**
 
 **[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQEo1DhmBbjYS6z2Cyis0yUDbjJ8eHfdVLuUOrsjzPULgHsbW_JPTH3QYRPBLBw_Je9w25r4kGrW_oN-UuLV9Yjxo4O2ESCISoNhUMXjxrCkHw-53u2BjkmkyDGvGqBUBnbUxtm3tvyNA/s1600/dark-horse-sp-010914.jpg)](https://www.blogger.com/u/1/#)**
 

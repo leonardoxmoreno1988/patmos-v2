@@ -269,7 +269,7 @@ John sigue la pista de la hija de Lucinda Embry, Diana, y regresan a la casa mó
 
 **"Miré, y he aquí que un viento huracanado venía del norte, una gran nube con fuego fulgurante y un resplandor a su alrededor, y en su centro, algo como metal refulgente en medio del fuego. En su centro había figuras semejantes a cuatro seres vivientes. Y este era su aspecto: tenían forma humana. Tenía cada uno cuatro caras, y cuatro alas cada uno de ellos." -Ezequiel 1:4,6**
 
-Cuando uno hace un estudio completo y sistemático de la Biblia es claro que este no se refiere a naves extraterrestres, sino una evocación a ángeles que tan bien son descritos por el profeta Daniel y Juan en **[el libro de Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)**. De la misma forma la simetría que se desarrolla entre la película y la Biblia están intencionalmente tratando de reducir las escrituras a simples mitos tribales y revelarlos como eventos históricos y futuros que necesitan una explicación científica.
+Cuando uno hace un estudio completo y sistemático de la Biblia es claro que este no se refiere a naves extraterrestres, sino una evocación a ángeles que tan bien son descritos por el profeta Daniel y Juan en **[el libro de Revelación](/leer/revelacion/1)**. De la misma forma la simetría que se desarrolla entre la película y la Biblia están intencionalmente tratando de reducir las escrituras a simples mitos tribales y revelarlos como eventos históricos y futuros que necesitan una explicación científica.
 
   
 

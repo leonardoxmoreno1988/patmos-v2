@@ -196,7 +196,7 @@ Cuando Loki se propone a matarlo el Capitán América llega para salvar la situa
 
 > "Cuando Jesús estaba por emprender su camino a Jerusalén, un hombre se le acercó corriendo, se arrodilló y le preguntó: —Maestro bueno, ¿qué debo hacer para heredar la vida eterna?" -Marcos 10:16-18 
 
-Lo que esta escena expresa, y en general todas en las que Loki se proclama como rey, es que someterse a la voluntad de Dios es para débiles. Según las doctrinas gnósticas, la rebelión al “Demiurgo” (Dios) es el camino que debemos tomar para alcanzar la libertad. Por otro lado, el Capitán América no solo representa a Lúcifer, el ángel caído que llega para “rescatar a la humanidad”. Sino que él es el símbolo literal de EEUU y que se unirá como dice el libro de **[Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** con la Nueva Babilonia.
+Lo que esta escena expresa, y en general todas en las que Loki se proclama como rey, es que someterse a la voluntad de Dios es para débiles. Según las doctrinas gnósticas, la rebelión al “Demiurgo” (Dios) es el camino que debemos tomar para alcanzar la libertad. Por otro lado, el Capitán América no solo representa a Lúcifer, el ángel caído que llega para “rescatar a la humanidad”. Sino que él es el símbolo literal de EEUU y que se unirá como dice el libro de **[Revelación](/leer/revelacion/1)** con la Nueva Babilonia.
 
   
 

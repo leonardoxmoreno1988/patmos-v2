@@ -25,7 +25,7 @@ El principal argumento teológico del preterismo es Mateo 24:34, donde Cristo pa
 
   
 
-La teología preterista une aquel pasaje con la visión de Juan en el [Libro de Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html) para asegurar que tales eventos se cumplieron con la caída de Jerusalén y la destrucción del Templo en 70 d. C. en manos de los romanos. Debido a que esto ocurrió durante la generación que vio a Cristo, ellos unen todos estos eventos, incluyendo las profecías de Daniel.  
+La teología preterista une aquel pasaje con la visión de Juan en el [Libro de Revelación](/leer/revelacion/1) para asegurar que tales eventos se cumplieron con la caída de Jerusalén y la destrucción del Templo en 70 d. C. en manos de los romanos. Debido a que esto ocurrió durante la generación que vio a Cristo, ellos unen todos estos eventos, incluyendo las profecías de Daniel.  
 
   
 

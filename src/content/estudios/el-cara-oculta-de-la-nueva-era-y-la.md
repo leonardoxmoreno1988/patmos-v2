@@ -129,7 +129,7 @@ Observa la realidad desde fuera y no te dejes engañar.
   
 Artículo por Philip Jones.
 
-> **¡Que se alegren entonces el cielo y sus habitantes, pero ay de ustedes, tierra y mar,porque el Diablo ha descendido hasta ustedes con todo su furor, sabiendo que le queda poco tiempo!”. [Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html) 12:12**
+> **¡Que se alegren entonces el cielo y sus habitantes, pero ay de ustedes, tierra y mar,porque el Diablo ha descendido hasta ustedes con todo su furor, sabiendo que le queda poco tiempo!”. [Revelación](/leer/revelacion/1) 12:12**
 
   
 

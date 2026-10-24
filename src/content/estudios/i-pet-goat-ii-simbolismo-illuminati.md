@@ -152,7 +152,7 @@ Frente a sus ojos corren las palabras "Market Plunge" (Colapso del Mercado) y "W
 **El sujeto con el martillo y la hoz sugiere que el comunismo y específicamente Rusia y el islam se consumirían. ¿El color verde podría representar el uso de armas biológicas?**
 
   
-No debemos olvidar que muchos de estos detalles de la tribulación figuran en **[el libro de Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** y las visiones de los profetas Daniel y Ezequiel que veremos en otros artículos.
+No debemos olvidar que muchos de estos detalles de la tribulación figuran en **[el libro de Revelación](/leer/revelacion/1)** y las visiones de los profetas Daniel y Ezequiel que veremos en otros artículos.
 
 
 
@@ -168,7 +168,7 @@ No debemos olvidar que muchos de estos detalles de la tribulación figuran en **
 
 **Paralelamente, Vishnu o Shiva, la diosa hindú, parece realizar diversas danzas y rituales para facilitar la transición del anticristo a la tierra.**
 
-Algo interesante es que el corto toma diversos símbolos de diversas religiones y los une para representar que todos tendrán parte de este evento cósmico. Vemos la luna del islam, el yin yang, la flor de loto, los dioses hindúes y la cruz cristiana. Como sabemos, la nueva religión mundial del anticristo que se predice en **[Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** será una fusión de todas las religiones que negarán al verdadero Dios.  
+Algo interesante es que el corto toma diversos símbolos de diversas religiones y los une para representar que todos tendrán parte de este evento cósmico. Vemos la luna del islam, el yin yang, la flor de loto, los dioses hindúes y la cruz cristiana. Como sabemos, la nueva religión mundial del anticristo que se predice en **[Revelación](/leer/revelacion/1)** será una fusión de todas las religiones que negarán al verdadero Dios.  
   
 Mientras tanto el falso Cristo parece estar saliendo de la boca de una bestia en medio de llamas. Durante su viaje astral muchos son engañados con estas falsas enseñanzas.  
   

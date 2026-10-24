@@ -103,7 +103,7 @@ La historia continúa y vemos al emisario de Jerjes acercándose a los espartano
 
 > **"Soy el emisario del gobernador de todo el mundo. El dios de los dioses, el rey de reyes".**
 
-Algunos pueden reconocer esto como una alusión bíblica, **[Revelación](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html)** 17:14:  
+Algunos pueden reconocer esto como una alusión bíblica, **[Revelación](/leer/revelacion/1)** 17:14:  
 
 > "Pelearán contra el Cordero, y el Cordero los vencerá, porque él es Señor de señores y Rey de reyes, y los que están con él son llamados y elegidos y fieles."
 

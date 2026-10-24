@@ -55,7 +55,7 @@ Jesucristo más bien rechazó los privilegios de la Segunda Venida que acompaña
 
 Nuevamente, la tentación se refiere a la Segunda Venida. Note la referencia a Cristo [descendiendo de los cielos](/estudios/monte-de-los-olivos) (Actos 1:11; Mateo 24:30) y el lugar del Templo en esta profecía (Malaquías 3:1).  
   
-Si un cristiano rechaza la literalidad y el tiempo de la Segunda Venida tal como se revela en [la revelación de Jesucristo](https://www.ritualypropaganda.com/p/apocalipsis-verso-verso.html) (Revelación 1:1), no podrá comprender nunca el Antiguo Testamento.  
+Si un cristiano rechaza la literalidad y el tiempo de la Segunda Venida tal como se revela en [la revelación de Jesucristo](/leer/revelacion/1) (Revelación 1:1), no podrá comprender nunca el Antiguo Testamento.  
   
 Ahora sepamos que cada doctrina falsa proviene de una de tres maneras de administrar mal las Escrituras:
 
