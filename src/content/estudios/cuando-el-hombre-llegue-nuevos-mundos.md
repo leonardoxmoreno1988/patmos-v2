@@ -1,12 +1,12 @@
 ---
-title: "\"Cuando El Hombre Llegue A Nuevos Mundos, La Masonería Estará Allí\""
+title: "Masonería en la conquista espacial: nuevos mundos"
 date: "2014-07-23"
 updated: "2023-07-21"
 author: "Conspiracy Archive"
 slug: "cuando-el-hombre-llegue-nuevos-mundos"
 redirectFrom: "/2014/07/cuando-el-hombre-llegue-nuevos-mundos.html"
-description: "Lo anterior fue una cita de la edición de diciembre de 1969 The New Age Magazine, la revista oficial del Consejo Supremo de grado 33° A. & A. o Rito Escocés de…"
-tags: ["Sociedad"]
+description: "Una cita de The New Age Magazine de 1969 sobre la masonería y la llegada del hombre a nuevos mundos, y la visita de Edwin Aldrin al Rito Escocés."
+tags: ["Sociedad", "Masonería", "Espacio", "Historia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

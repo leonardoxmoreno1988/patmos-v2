@@ -5,8 +5,8 @@ updated: "2025-05-29"
 author: "Leonardo Moreno"
 slug: "cronologia-de-los-eventos-por-venir"
 redirectFrom: "/2022/05/cronologia-de-los-eventos-por-venir.html"
-description: "En este newsletter explico la cronología de los eventos por venir y cómo las profecías detallan hechos importantes futuros, tanto antes como después de la…"
-tags: ["Escatología"]
+description: "Un consolidado de los eventos proféticos futuros, antes y después de la Segunda Venida de Cristo, según las profecías bíblicas. Sin todos los detalles."
+tags: ["Escatología", "Profecía", "Segunda Venida", "Tiempos finales"]
 ---
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-qmcqVIlXL7nAXWBORHO_d4jwRIs32Qh_Z4NYhsMccykBI-oDI_2Sae_1LsRIQJeVgLmevgnmGLkZk98w3JyJgNaHGwFLTvZYT_3a3nCfkvlBzEPhpgr-k8aGA4NT1Wo7L4Y_5ga5zHBihC98pnF_9PW9WAULALVv5_yDqd_2nRscWyoLyzu46ep/s16000/caballo-blanco.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-qmcqVIlXL7nAXWBORHO_d4jwRIs32Qh_Z4NYhsMccykBI-oDI_2Sae_1LsRIQJeVgLmevgnmGLkZk98w3JyJgNaHGwFLTvZYT_3a3nCfkvlBzEPhpgr-k8aGA4NT1Wo7L4Y_5ga5zHBihC98pnF_9PW9WAULALVv5_yDqd_2nRscWyoLyzu46ep/s725/caballo-blanco.jpg)

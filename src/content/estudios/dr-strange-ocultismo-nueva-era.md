@@ -1,12 +1,12 @@
 ---
-title: "\"Dr. Strange\" de Marvel Promoverá el Ocultismo y la Nueva Era a las Masas"
+title: "Dr. Strange de Marvel y el ocultismo de la Nueva Era"
 date: "2016-04-18"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "dr-strange-ocultismo-nueva-era"
 redirectFrom: "/2016/04/dr-strange-ocultismo-nueva-era.html"
-description: "Marvel en su intento por incrementar su universo cinematográfico está desarrollando personajes más complejos y a su vez usando muchas connotaciones ocultistas…"
-tags: ["Cine y Cultura"]
+description: "Marvel usa connotaciones ocultistas y de la Nueva Era en su película Dr. Strange, y el autor advierte que llegarán a las masas. Un análisis."
+tags: ["Cine y Cultura", "Marvel", "Nueva Era", "Ocultismo"]
 ---
 
 Marvel en su intento por incrementar su universo cinematográfico está desarrollando personajes más complejos y a su vez usando muchas connotaciones **ocultistas** propias de la **[nueva era](http://www.ritualypropaganda.com/2017/04/10-ideas-falsas-nueva-era-sobre-dios.html)** y el **misticismo**. Es por esto que su próxima película titulada **Dr. Strange** refleja el condicionamiento masivo de la sociedad hacia las prácticas esotéricas demoniacas.  

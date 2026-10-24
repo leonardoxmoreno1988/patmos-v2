@@ -1,12 +1,12 @@
 ---
-title: "Crepúsculo, Harry Potter Y El Mago De Oz: Fundamentos Para El Renacimiento De La Wicca"
+title: "Crepúsculo, Harry Potter y el renacimiento de la Wicca"
 date: "2012-03-04"
 updated: "2024-08-30"
 author: "Joe Schimmel"
 slug: "crepusculo-harry-potter-y-el-mago-de-oz"
 redirectFrom: "/2012/03/crepusculo-harry-potter-y-el-mago-de-oz.html"
-description: "¿Es cierto que las grandes producciones como Crepúsculo y Harry Potter están jugando un papel decidido en seducir a los jóvenes en el satanismo y la brujería?…"
-tags: ["Cine y Cultura"]
+description: "¿Están Crepúsculo y Harry Potter seduciendo a los jóvenes hacia el satanismo? Revisa la tesis de Joe Schimmel sobre estas películas y la Wicca."
+tags: ["Cine y Cultura", "Wicca", "Harry Potter", "Brujería"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

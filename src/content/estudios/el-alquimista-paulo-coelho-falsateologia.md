@@ -1,12 +1,12 @@
 ---
-title: "El Alquimista Por Paulo Coelho: Falsa Teología y Hechicería"
+title: "El alquimista de Paulo Coelho: falsa teología y hechicería"
 date: "2017-02-27"
 updated: "2023-07-20"
 author: "Marcia Montenegro"
 slug: "el-alquimista-paulo-coelho-falsateologia"
 redirectFrom: "/2017/02/el-alquimista-paulo-coelho-falsateologia.html"
-description: "\"Cuando quieres algo, todo el universo conspira para ayudarte a lograrlo\". El objetivo de este libro es seguir un sueño, y eso es lo que \"Dios\" quiere que…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Análisis de El alquimista de Paulo Coelho: su mensaje de seguir la Leyenda Personal y el universo que conspira, visto desde la mirada cristiana."
+tags: ["Falsas Doctrinas", "Apologética", "Paulo Coelho", "Nueva Era"]
 ---
 
 > "Cuando quieres algo, todo el universo conspira para ayudarte a lograrlo".

@@ -1,12 +1,12 @@
 ---
-title: "Diferencias importantes sobre nuestra reunión con Él"
+title: "Arrebatamiento y Segunda Venida: diferencias importantes"
 date: "2022-09-21"
 updated: "2025-05-26"
 author: "Leonardo Moreno"
 slug: "diferencias-importantes"
 redirectFrom: "/2022/09/diferencias-importantes.html"
-description: "Los que unen el arrebatamiento y la Segunda Venida de Cristo al final de la Tribulación se oponen a la idea de que pueda haber dos etapas o fases de un solo…"
-tags: ["Escatología"]
+description: "Por qué algunos sostienen que el arrebatamiento y la Segunda Venida son dos venidas distintas, frente a quienes los unen en una sola fase final."
+tags: ["Escatología", "Arrebatamiento", "Segunda Venida", "Tribulación"]
 ---
 
 Estimado lector,  

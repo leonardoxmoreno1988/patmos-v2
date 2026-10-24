@@ -1,12 +1,12 @@
 ---
-title: "\"Cuando La Tentación Llega A La Puerta\" Por Henry Makow"
+title: "Cuando la tentación llega a la puerta: Knock Knock"
 date: "2015-10-28"
 updated: "2023-07-21"
 author: "Henry Makow"
 slug: "cuando-la-tentacion-llega-la-puerta-por"
 redirectFrom: "/2015/10/cuando-la-tentacion-llega-la-puerta-por.html"
-description: "¿Cuántos hombres casados pueden resistir cuando dos bellas jóvenes empapadas en la lluvia tocan tu puerta pidiendo ayuda? La película \"Knock Knock\" (2015)…"
-tags: ["Sociedad"]
+description: "La película Knock Knock (2015) como retrato de un matrimonio tentado en medio de lo que Henry Makow llama un culto satanista sexual en la sociedad."
+tags: ["Cine y Cultura", "Sociedad", "Matrimonio", "Películas"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

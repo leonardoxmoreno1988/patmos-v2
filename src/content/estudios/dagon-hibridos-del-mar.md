@@ -5,8 +5,8 @@ updated: "2025-05-18"
 author: "Leonardo Moreno"
 slug: "dagon-hibridos-del-mar"
 redirectFrom: "/2021/12/dagon-hibridos-del-mar.html"
-description: "El autor de novelas de terror H. P. Lovecraft no limitó sus personajes a simples quimeras, él prefirió desarrollar todo un universo de criaturas míticas, dioses…"
-tags: ["Cine y Cultura"]
+description: "Dagón, el dios filisteo de la Biblia, y las criaturas marinas de H. P. Lovecraft: un repaso por los híbridos del mar y su presencia en la cultura pop."
+tags: ["Cine y Cultura", "Dagón", "Lovecraft", "Biblia"]
 ---
 
 Estimado lector,

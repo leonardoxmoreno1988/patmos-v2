@@ -1,12 +1,12 @@
 ---
-title: "El Consumismo Irracional y Las Pocas Empresas Que Alimentan Al Mundo"
+title: "Consumismo y las pocas empresas que alimentan al mundo"
 date: "2011-08-11"
 updated: "2023-07-22"
 author: "Vigilant Citizen"
 slug: "el-consumismo-irracional-y-las-pocas"
 redirectFrom: "/2011/04/el-consumismo-irracional-y-las-pocas.html"
-description: "No mucha gente se da cuenta de que la mayoría de los alimentos procesados en el mercado, ya sea en tiendas de alimentos o en cadenas de comida rápida, todos provienen de las…"
-tags: ["Sociedad"]
+description: "La mayoría de los alimentos procesados y de comida rápida provienen de unas pocas empresas, actores clave en las élites que deciden sobre el consumo."
+tags: ["Sociedad", "Alimentación", "Multinacionales", "Consumismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

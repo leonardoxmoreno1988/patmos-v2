@@ -1,12 +1,12 @@
 ---
-title: "Guardando irreprensible el cuerpo, el alma y el espíritu"
+title: "Cuerpo, alma y espíritu: el hombre según Pablo"
 date: "2023-02-05"
 updated: "2025-05-27"
 author: "Leonardo Moreno"
 slug: "cuerpo-alma-espiritu"
 redirectFrom: "/2023/02/cuerpo-alma-espiritu.html"
-description: "Para comprender íntegramente la repercusión de la muerte de Cristo en la cruz, debemos entender nuestro estado vigente y quienes somos como creación de Dios…"
-tags: ["Apologética"]
+description: "Por qué Pablo enseña que el ser humano tiene tres partes: cuerpo, alma y espíritu, y qué significa para entender la muerte de Cristo en la cruz."
+tags: ["Apologética", "Antropología", "Pablo", "Salvación"]
 ---
 
 Estimado lector,  

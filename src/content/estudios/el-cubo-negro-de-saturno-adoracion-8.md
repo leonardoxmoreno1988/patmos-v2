@@ -1,12 +1,12 @@
 ---
-title: "El Cubo Negro De Saturno: Adoración Oculta Global"
+title: "El cubo negro de Saturno y la adoración oculta global"
 date: "2016-08-08"
 updated: "2023-07-21"
 author: "Kevin Farringdon"
 slug: "el-cubo-negro-de-saturno-adoracion-8"
 redirectFrom: "/2017/08/el-cubo-negro-de-saturno-adoracion_8.html"
-description: "El simbolismo de los Illuminati está presente a nuestro alrededor. Aunque se podría argumentar que los símbolos del triángulo, la pirámide o el ojo que ve…"
-tags: ["Sociedad"]
+description: "El simbolismo illuminati presente en logos, películas y vídeos, y el cubo negro de Saturno como ejemplo de adoración oculta en la cultura global."
+tags: ["Sociedad", "Illuminati", "Simbolismo", "Cultura pop"]
 ---
 
 El simbolismo de los **Illuminati** está presente a nuestro alrededor. Aunque se podría argumentar que los símbolos del triángulo, la **pirámide** o el ojo que todo lo ve son meras ideas delirantes paranoicas, también plantea la pregunta de por qué vemos las mismas formas de imágenes en logos corporativos, películas y videos musicales. Este artículo intenta explorar los diversos símbolos que representan el **cubo**, y por qué se considera parte del simbolismo Illuminati.  

@@ -1,12 +1,12 @@
 ---
-title: "Estructura poética y revelación del futuro"
+title: "Salmos: estructura poética y revelación del futuro"
 date: "2026-04-18"
 updated: "2026-07-05"
 author: "Leonardo Moreno"
 slug: "desde-los-cielos-hiciste-oir-juicio"
 redirectFrom: "/2026/04/desde-los-cielos-hiciste-oir-juicio.html"
-description: "El libro de los Salmos constituye el himnario más extenso de las Escrituras, está compuesto por cantos, oraciones e himnos espirituales, y es donde se nos…"
-tags: ["Escatología"]
+description: "Cómo la estructura poética de los Salmos, el himnario de las Escrituras, se relaciona con la revelación de eventos futuros y el juicio de Dios."
+tags: ["Escatología", "Salmos", "Profecía", "Poesía bíblica"]
 ---
 
 Estimado lector,

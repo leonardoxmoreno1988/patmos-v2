@@ -1,11 +1,11 @@
 ---
-title: "De los árboles también disputó"
+title: "Los árboles en la Biblia: símbolo de la condición humana"
 date: "2026-08-22"
 author: "Leonardo Moreno"
 slug: "de-los-arboles-tambien-disputo"
 redirectFrom: "/2026/08/de-los-arboles-tambien-disputo.html"
-description: "Un análisis tipológico de la flora en las Escrituras: el simbolismo de los cedros, la higuera, el olivo, la vid y la madera del madero en la crucifixión."
-tags: ["Apologética"]
+description: "Los árboles y bosques como símbolos bíblicos de la condición moral del ser humano, desde Oseas 12:10 hasta la representación de realidades espirituales."
+tags: ["Apologética", "Simbolismo", "Biblia", "Creación"]
 ---
 
 Estimado lector,

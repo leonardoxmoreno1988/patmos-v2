@@ -1,12 +1,12 @@
 ---
-title: "Culto Sexual Se Expande Entre Las Celebridades: O.T.O. de Aleister Crowley"
+title: "O.T.O. de Crowley: el culto sexual entre celebridades"
 date: "2013-05-04"
 updated: "2023-07-22"
 author: "Dailymail"
 slug: "culto-sexual-se-expande-entre-las"
 redirectFrom: "/2013/05/culto-sexual-se-expande-entre-las.html"
-description: "O.T.O. fue más conocida gracias a los escritos de Aleister Crowley. Entre las prácticas religiosas de sus seguidores hay: rituales sexuales sadomasoquistas…"
-tags: ["Sociedad"]
+description: "Según el Daily Mail, la O.T.O. de Aleister Crowley gana adeptos entre celebridades mientras la Cienciología pierde terreno. Qué enseña este reporte."
+tags: ["Sociedad", "Aleister Crowley", "Ocultismo", "Celebridades"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

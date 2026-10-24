@@ -1,12 +1,12 @@
 ---
-title: "La Cara Oculta De La Nueva Era, La ONU y La Religión Mundial"
+title: "La Nueva Era, la ONU y la religión mundial"
 date: "2012-01-07"
 updated: "2024-08-30"
 author: "Philip Jones"
 slug: "el-cara-oculta-de-la-nueva-era-y-la"
 redirectFrom: "/2012/01/el-cara-oculta-de-la-nueva-era-y-la.html"
-description: "De todos los engaños que envuelven hoy en día a la humanidad, no he descubierto aún ninguno que haya engañado hasta la fecha a tantas personas de tantos y tan…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Cómo la Nueva Era, su saludo Namaste y la ONU forman parte de una religión mundial que engaña a personas de todos los credos, según Philip Jones."
+tags: ["Falsas Doctrinas", "Apologética", "Nueva Era", "ONU"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

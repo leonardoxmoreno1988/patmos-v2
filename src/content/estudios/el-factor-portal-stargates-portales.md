@@ -1,12 +1,12 @@
 ---
-title: "El Factor Portal: Stargates, Puertas Estelares Y Su Relevancia Pasada"
+title: "El factor portal: stargates y puertas estelares"
 date: "2021-10-22"
 updated: "2023-07-17"
 author: "Kevin Farringdon"
 slug: "el-factor-portal-stargates-portales"
 redirectFrom: "/2021/10/el-factor-portal-stargates-portales.html"
-description: "Los eruditos de la Biblia están de acuerdo en que el cielo, el mar y la tierra física contienen fuerzas espirituales detrás de barreras o 'puertas'. En el…"
-tags: ["Sociedad"]
+description: "Qué enseña la Biblia sobre fuerzas espirituales tras las puertas del cielo, el mar y la tierra, desde Revelación 9:14 y Job 26:5. Un repaso del tema."
+tags: ["Sociedad", "Portales", "Apologética", "Revelación"]
 ---
 
 Los eruditos de la Biblia están de acuerdo en que el cielo, el mar y la tierra física contienen fuerzas espirituales detrás de barreras o **'puertas'**. En el libro de Revelación 9:14, leemos acerca de “los cuatro ángeles que están atados junto al gran río Éufrates”. Asimismo, en Job 26:5, la traducción literal hebrea dice: "Los rephaim (ángeles caídos) son hechos para retorcerse debajo de las aguas".

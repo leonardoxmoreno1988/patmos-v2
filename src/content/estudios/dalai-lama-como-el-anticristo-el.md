@@ -1,12 +1,12 @@
 ---
-title: "Dalai Lama Como El Anticristo - El Budismo Tibetano Como Modelo Del NOM"
+title: "Dalai Lama como el Anticristo y el budismo tibetano"
 date: "2016-09-06"
 updated: "2023-07-21"
 author: "Henry Makow"
 slug: "dalai-lama-como-el-anticristo-el"
 redirectFrom: "/2016/09/dalai-lama-como-el-anticristo-el.html"
-description: "La gente sabe sobre el poder judío, pero pocos han imaginado que los Sabios de Sion tienen la intención de poner el NOM en las manos de un monje tibetano…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Henry Makow sostiene que el Dalai Lama sería un instrumento del NOM, la nueva religión mundial, y que el budismo tibetano sería su modelo. Análisis."
+tags: ["Falsas Doctrinas", "Apologética", "Anticristo", "Budismo"]
 ---
 
 La gente sabe sobre el poder judío, pero pocos han imaginado que los **Sabios de Sion** tienen la intención de poner el **NOM** en las manos de un monje tibetano llamado **Dalai Lama**.  

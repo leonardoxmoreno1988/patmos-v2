@@ -1,12 +1,12 @@
 ---
-title: "El Consejo de Relaciones Exteriores (CFR) Y El Significado De Su Caballo Blanco"
+title: "El CFR y el significado de su caballo blanco"
 date: "2016-11-13"
 updated: "2023-07-20"
 author: "Kevin Farringdon"
 slug: "el-consejo-de-relaciones-exteriores-cfr"
 redirectFrom: "/2017/11/el-consejo-de-relaciones-exteriores-cfr.html"
-description: "\"Y vi, y he aquí un caballo blanco; y el que estaba sentado sobre él tenía un arco; y le fue dada una corona, y salió venciendo y para vencer\" - Revelación 6…"
-tags: ["Sociedad"]
+description: "Análisis del Consejo de Relaciones Exteriores (CFR) y su caballo blanco, el símbolo que, según el autor, se relaciona con Revelación 6:2 y la conquista."
+tags: ["Sociedad", "Revelación", "Illuminati", "Política"]
 ---
 
 > **"Y vi, y he aquí un caballo blanco; y el que estaba sentado sobre él tenía un arco; y le fue dada una corona, y salió venciendo y para vencer" - Revelación 6:2**

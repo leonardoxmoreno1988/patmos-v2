@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 20: La Dinastía Merovingia, El Priorato de Sión y La Lanza De Longinus"
+title: "Codex Magica 20: dinastía merovingia y Priorato de Sión"
 date: "2017-08-11"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "dinastia-merovingia-priorato-sion"
 redirectFrom: "/2018/02/dinastia-merovingia-priorato-sion.html"
-description: "Se dice que el Priorato de Sión (también el Prieure de Sion) es la \"sociedad secreta de las sociedades\" (1). Baigent, Leigh y Lincoln, autores de un aclamado…"
-tags: ["Sociedad"]
+description: "El Priorato de Sión y el supuesto linaje real merovingio, con la lanza de Longinus, según Codex Magica 20 y el libro Holy Blood, Holy Grail."
+tags: ["Sociedad", "Codex Magica", "Illuminati", "Historia"]
 ---
 
 Se dice que el **Priorato de Sión** (también el Prieure de Sion) es la "**sociedad secreta** de las sociedades" **(1)**. Baigent, Leigh y Lincoln, autores de un aclamado libro, _Holy Blood, Holy Grail_, escriben que la hermandad del Priorato de Sión se ha conservado durante dos milenios.

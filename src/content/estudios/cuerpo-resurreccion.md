@@ -1,12 +1,12 @@
 ---
-title: "El verdadero superhombre y el cuerpo de resurrección"
+title: "Cuerpo de resurrección: el verdadero superhombre"
 date: "2022-05-01"
 updated: "2026-04-15"
 author: "Leonardo Moreno"
 slug: "cuerpo-resurreccion"
 redirectFrom: "/2022/05/cuerpo-resurreccion.html"
-description: "Una de las verdades extraordinarias de la resurrección de Jesús es la promesa de que los cuerpos de los que confían en Él también resucitarán un día, como…"
-tags: ["Escatología"]
+description: "La promesa de que los creyentes resucitarán con cuerpos nuevos y transformados, aptos para la eternidad, a partir de la resurrección de Jesús."
+tags: ["Escatología", "Resurrección", "Cuerpo glorificado", "Jesús"]
 ---
 
 Estimado lector,

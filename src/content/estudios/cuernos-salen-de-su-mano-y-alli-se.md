@@ -1,12 +1,12 @@
 ---
-title: "Cuernos salen de su mano, y allí se oculta su poder"
+title: "Cuernos salen de su mano: el simbolismo del cuerno"
 date: "2026-01-10"
 updated: "2026-04-11"
 author: "Leonardo Moreno"
 slug: "cuernos-salen-de-su-mano-y-alli-se"
 redirectFrom: "/2026/01/cuernos-salen-de-su-mano-y-alli-se.html"
-description: "Dios es llamado el cuerno de salvación en Salmo 18:2. Así como también se describe que cuernos salen de la mano del Señor en Habacuc 3:4. Como veremos, la…"
-tags: ["Escatología"]
+description: "El cuerno en la Biblia como símbolo de salvación y de poder, desde Salmo 18:2 y Habacuc 3:4 hasta su papel en la profecía bíblica sobre el fin."
+tags: ["Escatología", "Profecía", "Simbolismo", "Habacuc"]
 ---
 
 Estimado lector,

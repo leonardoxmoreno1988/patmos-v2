@@ -1,12 +1,12 @@
 ---
-title: "Desacreditando La Conexión Entre Jesús Y Tammuz"
+title: "Desacreditando la conexión entre Jesús y Tammuz"
 date: "2017-06-24"
 updated: "2023-07-20"
 author: "J.P. Holding"
 slug: "desacreditando-conexion-jesus-tammuz"
 redirectFrom: "/2017/06/desacreditando-conexion-jesus-tammuz.html"
-description: "La antigua deidad sumeria Tammuz, o Dumuzi, ha sido utilizada en los últimos años como una posible fuente para la creencia de la copia pagana cristiana, pero…"
-tags: ["Apologética"]
+description: "J. P. Holding responde a la tesis de que Jesús copió a la deidad sumeria Tammuz, una idea que, según él, carece de pruebas específicas y de fuentes."
+tags: ["Apologética", "Tammuz", "Mitos paganos", "Jesús"]
 ---
 
 La antigua deidad sumeria **Tammuz**, o **Dumuzi**, ha sido utilizada en los últimos años como una posible fuente para la creencia de la copia pagana **cristiana,** pero con pocas pruebas específicas.  

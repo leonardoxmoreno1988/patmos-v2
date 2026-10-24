@@ -1,12 +1,12 @@
 ---
-title: "Demonios: Diferentes Tipos, Su Identidad Y Su Caída"
+title: "Demonios: tipos, identidad y caída según la Biblia"
 date: "2017-03-08"
 updated: "2023-07-20"
 author: "Brian Chilton"
 slug: "demonios-que-son-diferentes-tipos"
 redirectFrom: "/2017/03/demonios-que-son-diferentes-tipos.html"
-description: "Hollywood a menudo presenta a los demonios como entidades que son casi imposibles de combatir. Recientemente, se han mostrado figuras interesantes en videos…"
-tags: ["Apologética"]
+description: "Qué dice la Biblia sobre los demonios, sus diferentes tipos, su identidad y su caída, frente a la forma en que Hollywood los presenta como invencibles."
+tags: ["Apologética", "Demonios", "Angelología", "Biblia"]
 ---
 
 Hollywood a menudo presenta a los **demonios** como entidades que son casi imposibles de combatir. Recientemente, se han mostrado figuras interesantes en videos musicales y películas que encuentran paralelos con algunas de las **entidades demoníacas** que se encuentran en la Biblia.  

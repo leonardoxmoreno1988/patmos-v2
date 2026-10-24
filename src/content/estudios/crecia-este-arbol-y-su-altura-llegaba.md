@@ -1,12 +1,12 @@
 ---
-title: "Crecía este árbol y su altura llegaba hasta el cielo"
+title: "Dragon Ball, el árbol que llegaba hasta el cielo"
 date: "2025-05-04"
 updated: "2026-04-10"
 author: "Leonardo Moreno"
 slug: "crecia-este-arbol-y-su-altura-llegaba"
 redirectFrom: "/2025/05/crecia-este-arbol-y-su-altura-llegaba.html"
-description: "Era el año 1998 cuando asistí al estreno de la película de Dragón Ball: El Árbol de la Esencia Sagrada, en una de las diversas visitas que hacíamos con mi…"
-tags: ["Cine y Cultura"]
+description: "Del recuerdo de la película Dragon Ball: El Árbol de la Esencia Sagrada a la imagen bíblica de un árbol cuya altura llegaba hasta el cielo. Un análisis."
+tags: ["Cine y Cultura", "Dragon Ball", "Biblia", "Simbolismo"]
 ---
 
 Estimado lector,  
