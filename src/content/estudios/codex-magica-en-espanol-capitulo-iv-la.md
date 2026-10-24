@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 4: La Mano Oculta Masónica de los Hombres de Jahbulon"
+title: "Codex Magica 4: la mano oculta masónica de Jahbulón"
 date: "2016-04-26"
 updated: "2023-07-21"
 author: "Texe Marrs"
 slug: "codex-magica-en-espanol-capitulo-iv-la"
 redirectFrom: "/2016/04/codex-magica-en-espanol-capitulo-iv-la.html"
-description: "\"Debido a que la Trinidad superior del ser humano debe estar presente antes de que la unión del alma puede tener lugar... el creador Real Arco Mundial sólo se…"
-tags: ["Sociedad"]
+description: "La palabra Jahbulón y el saludo de las manos derechas en el ritual del Real Arco masónico, según Codex Magica 4 y la obra de C.C. Zain sobre Dios."
+tags: ["Sociedad", "Codex Magica", "Masonería", "Simbolismo"]
 ---
 
 > **"Debido a que la Trinidad superior del ser humano debe estar presente antes de que la unión del alma puede tener lugar... el creador Real Arco Mundial sólo se puede darse en grupos de tres... Sus manos derechas son entonces elevadas por encima de la cabeza o se pronuncia en un aliento suave la palabra: Jah-buh-lun, Je-ho-vah, D-I-O-S."\- C.C. Zain, Masonería Antigua**

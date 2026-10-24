@@ -1,12 +1,12 @@
 ---
-title: "Construcciones Zodiacales: Astrología y Geomancia Iluminista"
+title: "Construcciones zodiacales: astrología y geomancia"
 date: "2016-09-14"
 updated: "2023-07-21"
 author: "Kevin Farringdon"
 slug: "construcciones-zodiacales-astrologia-y"
 redirectFrom: "/2017/09/construcciones-zodiacales-astrologia-y.html"
-description: "¿Es la arquitectura iluminista nada menos que lugares de morada para los demonios? ¿Es un edificio arquitectónico iluminista u otro edificio, como sus…"
-tags: ["Sociedad"]
+description: "¿Es la arquitectura iluminista morada de demonios? Un análisis de los monumentos de poder oculto y su simbolismo astrológico en edificios de poder."
+tags: ["Sociedad", "Illuminati", "Astrología", "Arquitectura"]
 ---
 
 ¿Es la **arquitectura iluminista** nada menos que lugares de morada para los **demonios**? ¿Es un edificio arquitectónico iluminista u otro edificio, como sus arquitectos y constructores tan a menudo afirman, una inteligencia viva; es decir, una especie de entidad robótica, pero **mística**? En este artículo exploramos el tema de los **monumentos** del poder ocultistas, qué simbolizan y por qué la **astrología** es una parte esencial de su proceso de construcción.  

@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica en Español: Introducción"
+title: "Codex Magica: introducción a los signos illuminati"
 date: "2016-03-08"
 updated: "2023-07-21"
 author: "Texe Marrs"
 slug: "codex-magica-en-espanol-introduccion"
 redirectFrom: "/2016/03/codex-magica-en-espanol-introduccion.html"
-description: "En este libro completamente ilustrado y fotográfico titulado \"Codex Magica: Signos Secretos, Símbolos Misteriosos y Códigos Secretos de los Illuminati\" el…"
-tags: ["Sociedad"]
+description: "Introducción al libro Codex Magica de Texe Marrs, un recorrido ilustrado por los signos secretos, los símbolos misteriosos y los códigos de los illuminati."
+tags: ["Sociedad", "Codex Magica", "Illuminati", "Símbolos"]
 ---
 
 En este libro completamente ilustrado y fotográfico titulado "Codex Magica: Signos Secretos, Símbolos Misteriosos y Códigos Secretos de los Illuminati" el autor Texe Marrs expone la complejidad de los símbolos ocultistas y los personajes que están detrás del telón moviendo una conspiración satánica de grandes magnitudes. Mediante estos capítulos muy bien documentados usted tendrá una enorme cantidad de claridad y comprensión de lo que está pasando en el mundo de hoy.  

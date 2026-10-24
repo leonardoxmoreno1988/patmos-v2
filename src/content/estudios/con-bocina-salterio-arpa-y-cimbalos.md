@@ -1,12 +1,12 @@
 ---
-title: "Con bocina, salterio, arpa y címbalos resonantes"
+title: "Alabanza con bocina, salterio, arpa y címbalos"
 date: "2026-03-13"
 updated: "2026-04-11"
 author: "Leonardo Moreno"
 slug: "con-bocina-salterio-arpa-y-cimbalos"
 redirectFrom: "/2026/04/con-bocina-salterio-arpa-y-cimbalos.html"
-description: "La música es un lenguaje en sí mismo. Cuando el apóstol enseña en Efesios 5:19 y Colosenses 3:16 a cantar con \"salmos\", nos está mostrando un manual de…"
-tags: ["Apologética"]
+description: "Qué enseña la Biblia sobre la música en la alabanza: los salmos de Efesios 5:19 y Colosenses 3:16 y los instrumentos del rey David en el culto."
+tags: ["Apologética", "Alabanza", "Música", "Salmos"]
 ---
 
 Estimado lector,  

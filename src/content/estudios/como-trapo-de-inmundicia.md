@@ -1,12 +1,12 @@
 ---
-title: "Como trapo de inmundicia"
+title: "Trapo de inmundicia: la ropa y la desnudez en la Biblia"
 date: "2026-07-05"
 updated: "2026-08-06"
 author: "Leonardo Moreno"
 slug: "como-trapo-de-inmundicia"
 redirectFrom: "/2026/07/como-trapo-de-inmundicia.html"
-description: "La Biblia establece que la ropa y la desnudez operan como tipos de la condición espiritual del hombre y de la provisión de Dios. La desnudez está…"
-tags: ["Apologética"]
+description: "La Biblia usa la ropa y la desnudez como tipos de la condición espiritual del hombre, de la vergüenza del estado caído y de la provisión de Dios."
+tags: ["Apologética", "Biblia", "Génesis", "Simbolismo"]
 ---
 
 Estimado lector,  

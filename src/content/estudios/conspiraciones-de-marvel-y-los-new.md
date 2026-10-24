@@ -1,12 +1,12 @@
 ---
-title: "Conspiraciones De Marvel Y Los \"New Avengers Illuminati\""
+title: "Conspiraciones de Marvel y los New Avengers Illuminati"
 date: "2010-02-11"
 updated: "2023-07-23"
 author: "Jhonkbn"
 slug: "conspiraciones-de-marvel-y-los-new"
 redirectFrom: "/2009/09/conspiraciones-de-marvel-y-los-new.html"
-description: "Desde los años 60 la Marvel Comics constituye una de las mayores editoriales de este género. Es conocida popularmente como \"La casa de las ideas\" por la…"
-tags: ["Cine y Cultura"]
+description: "Cómo Marvel Comics integra en sus historias a los Illuminati y a los New Avengers, y qué conspiraciones hay tras sus macrosagas de superhéroes."
+tags: ["Cine y Cultura", "Marvel", "Illuminati", "Cultura pop"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

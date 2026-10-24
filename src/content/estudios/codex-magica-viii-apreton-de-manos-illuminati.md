@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 8: Apretón De Manos Secretos De Los Iluminados"
+title: "Codex Magica 8: el apretón de manos de los iluminados"
 date: "2016-12-21"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-viii-apreton-de-manos-illuminati"
 redirectFrom: "/2016/12/codex-magica-viii-apreton-de-manos-illuminati.html"
-description: "Se cree que los saludos en la mano de los iluministas ponen a trabajar la magia, sirve para evocar a seres sobrenaturales y, por supuesto, para comunicar…"
-tags: ["Sociedad"]
+description: "Según la tradición oculta, los saludos de mano de los iluminados sirven para evocar seres sobrenaturales y reconocer el grado ritual de cada masón."
+tags: ["Sociedad", "Codex Magica", "Masonería", "Illuminati"]
 ---
 
 Se cree que los **saludos** en la mano de los **iluministas** ponen a trabajar la magia, sirve para evocar a seres sobrenaturales y, por supuesto, para comunicar mensajes. Por ejemplo, un grado superior **mason, rosacruz** u otro **iluminista** puede discernir a qué nivel ritual está un hermano en la magia al probar su apretón de manos. Es, por lo tanto, un modo importante de reconocimiento. La frase comúnmente usada, "apretón de manos" tiene orígenes masónicos.  

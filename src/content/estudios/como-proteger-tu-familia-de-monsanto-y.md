@@ -1,12 +1,12 @@
 ---
-title: "Cómo Proteger a Tu Familia de Monsanto y Los Alimentos Genéticamente Modificados"
+title: "Proteger a tu familia de Monsanto y los transgénicos"
 date: "2015-09-20"
 updated: "2023-07-21"
 author: "Marylee Fairbanks"
 slug: "como-proteger-tu-familia-de-monsanto-y"
 redirectFrom: "/2015/09/como-proteger-tu-familia-de-monsanto-y.html"
-description: "OGM significa Organismo Genéticamente Modificado. Al parecer, a la naturaleza le salió todo mal porque los cultivos OGM están hechos con el objetivo de añadir…"
-tags: ["Sociedad"]
+description: "Qué significan los OGM (organismos genéticamente modificados) y cómo reducir en casa el consumo de alimentos transgénicos, según una madre de familia."
+tags: ["Sociedad", "Alimentación", "OGM", "Salud"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

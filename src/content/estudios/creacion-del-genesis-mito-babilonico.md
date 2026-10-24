@@ -1,12 +1,12 @@
 ---
-title: "¿Fue La Historia De La Creación Del Génesis Robada De Los Mitos Babilonios?"
+title: "¿Se robó Génesis la creación del mito babilónico?"
 date: "2017-07-21"
 updated: "2023-07-20"
 author: "J.P. Holding"
 slug: "creacion-del-genesis-mito-babilonico"
 redirectFrom: "/2017/07/creacion-del-genesis-mito-babilonico.html"
-description: "En algunos círculos escépticos, todavía está de moda afirmar que el relato de la creación de Génesis fue en cierto sentido tomado del relato babilónico de la…"
-tags: ["Apologética"]
+description: "Analiza si el relato de la creación de Génesis fue tomado del Enuma Elish babilónico, con la respuesta de J.P. Holding a los defensores de esta tesis."
+tags: ["Apologética", "Génesis", "Creación", "Babilonia"]
 ---
 
 En algunos círculos escépticos, todavía está de moda afirmar que el relato de la **creación** de **Génesis** fue en cierto sentido tomado del **relato babilónico** de la creación: **Enuma Elish** (en adelante EE, los que sostienen esta visión serán en adelante "defensores del EE").  

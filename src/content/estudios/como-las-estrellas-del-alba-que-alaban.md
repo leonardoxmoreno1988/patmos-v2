@@ -1,12 +1,12 @@
 ---
-title: "Como las estrellas del alba que alaban"
+title: "Ángeles como estrellas del alba que alaban"
 date: "2023-11-13"
 updated: "2026-04-15"
 author: "Leonardo Moreno"
 slug: "como-las-estrellas-del-alba-que-alaban"
 redirectFrom: "/2023/11/como-las-estrellas-del-alba-que-alaban.html"
-description: "En Judas 1:6 se habla de ángeles que abandonaron su morada, su habitación original, para cometer actos indebidos en el mundo terrenal (Génesis 6:12). Aquel…"
-tags: ["Apologética"]
+description: "Judas 1:6 y Génesis 1:16: ¿por qué la Biblia llama estrellas a los ángeles? Estudio sobre su morada celestial y su relación con las estrellas."
+tags: ["Apologética", "Angelología", "Génesis", "Judas"]
 ---
 
 En Judas 1:6 se habla de ángeles que abandonaron su morada, su habitación original, para cometer actos indebidos en el mundo terrenal (Génesis 6:12). Aquel lugar de origen o morada celestial es señalado arriba en las estrellas.  

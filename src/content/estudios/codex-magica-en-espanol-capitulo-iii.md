@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 3: Los Mensajes Ocultos y La Importancia De Los Símbolos Para Los Illuminati"
+title: "Codex Magica 3: mensajes ocultos y símbolos illuminati"
 date: "2016-04-12"
 updated: "2023-07-21"
 author: "Texe Marrs"
 slug: "codex-magica-en-espanol-capitulo-iii"
 redirectFrom: "/2016/04/codex-magica-en-espanol-capitulo-iii.html"
-description: "\"Y hacía que a todos, pequeños y grandes, ricos y pobres, libres y esclavos, se les pusiese una marca en la mano derecha, o en la frente...\" - Revelación 13:16…"
-tags: ["Sociedad"]
+description: "La marca de Revelación 13:16 y los gestos que, según Codex Magica 3, comunican mensajes ocultos entre los illuminati, con ejemplos de su simbolismo."
+tags: ["Sociedad", "Codex Magica", "Illuminati", "Simbolismo"]
 ---
 
 > **"Y hacía que a todos, pequeños y grandes, ricos y pobres, libres y esclavos, se les pusiese una marca en la mano derecha, o en la frente..."\- Revelación 13:16**

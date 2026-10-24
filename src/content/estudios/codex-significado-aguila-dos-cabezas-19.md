@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 12: Ese Pájaro Voraz - El Significado Del Águila de Dos Cabezas De Los llluminati"
+title: "Codex Magica 12: el águila de dos cabezas illuminati"
 date: "2017-06-19"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-significado-aguila-dos-cabezas-19"
 redirectFrom: "/2017/06/codex-significado-aguila-dos-cabezas_19.html"
-description: "\"Y clamó poderosamente con voz fuerte, diciendo: Babilonia la Grande ha caído, ha caído, y ha llegado a ser morada de demonios, y contención de todo espíritu…"
-tags: ["Sociedad"]
+description: "El águila de dos cabezas de los illuminati y su Secreto Real, a la luz de Revelación 18:2 sobre Babilonia, morada de demonios y jaula de aves inmundas."
+tags: ["Sociedad", "Codex Magica", "Masonería", "Simbolismo"]
 ---
 
 > **"Y clamó poderosamente con voz fuerte, diciendo: Babilonia la Grande ha caído, ha caído, y ha llegado a ser morada de demonios, y contención de todo espíritu inmundo, y jaula de toda ave inmunda y odiosa."\- Revelación 18:2**

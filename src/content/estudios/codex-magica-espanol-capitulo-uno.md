@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 1: ¡Precaución! - Usted está entrando ahora en la zona prohibida"
+title: "Codex Magica 1: la zona prohibida de los illuminati"
 date: "2016-03-11"
 updated: "2023-07-21"
 author: "Texe Marrs"
 slug: "codex-magica-espanol-capitulo-uno"
 redirectFrom: "/2016/03/codex-magica-espanol-capitulo-uno.html"
-description: "\"Solamente los secretos insignificantes necesitan protección. Los grandes encubrimientos están protegidos por la incredulidad pública.\"- Marshall McLuhan ¿Qué…"
-tags: ["Sociedad"]
+description: "Introducción a Codex Magica, un libro sobre los signos, símbolos y secretos de los illuminati, con citas de Marshall McLuhan y Helena Blavatsky."
+tags: ["Sociedad", "Codex Magica", "Illuminati", "Símbolos"]
 ---
 
 > **"Solamente los secretos insignificantes necesitan protección. Los grandes encubrimientos están protegidos por la incredulidad pública."\- Marshall McLuhan**

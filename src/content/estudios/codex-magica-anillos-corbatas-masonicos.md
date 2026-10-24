@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 23: \"Caí En Un Anillo Ardiente De Fuego\": Mensajes Misteriosos Sobre Anillos Masónicos Y Corbatas De La Élite"
+title: "Codex Magica 23: anillos y corbatas masónicos de la élite"
 date: "2018-03-06"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-anillos-corbatas-masonicos"
 redirectFrom: "/2018/06/codex-magica-anillos-corbatas-masonicos.html"
-description: "\"Un anillo para gobernarlos a todos ... Un anillo para encontrarlos ... Un anillo para traerlos a todos y en la oscuridad atarlos.\"- J.R.R. Tolkien, El Señor…"
-tags: ["Sociedad"]
+description: "Los illuminati tienen un apego llamativo a los anillos y corbatas masónicas. Codex Magica 23 explica los mensajes que, según su autor, transmiten."
+tags: ["Sociedad", "Codex Magica", "Masonería", "Simbolismo"]
 ---
 
 > **"Un anillo para gobernarlos a todos ... Un anillo para encontrarlos ... Un anillo para traerlos a todos y en la oscuridad atarlos."\- J.R.R. Tolkien, El Señor de los Anillos"Caí en un anillo de fuego ardiendo. Bajé, baje, baje y las llamas subieron ..." \-Johnny Cash, Anillo de fuego**

@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 5: El Signo de la Garra del Diablo por los Hombres del Oficio"
+title: "Codex Magica 5: el signo de la garra del diablo"
 date: "2016-05-23"
 updated: "2023-07-21"
 author: "Texe Marrs"
 slug: "codex-magica-en-espanol-capitulo-cinco"
 redirectFrom: "/2016/05/codex-magica-en-espanol-capitulo-cinco.html"
-description: "\"El hombre malo, el hombre depravado, anda en perversidad de boca; guiña sus ojos, habla con sus pies, indica con sus dedos...\" - Proverbios 6:12-13 Si bien…"
-tags: ["Sociedad"]
+description: "La palabra oficio en el mundo oculto y el signo de la garra del diablo entre los hombres del oficio, a la luz de Proverbios 6:12-13 y la masonería."
+tags: ["Sociedad", "Codex Magica", "Masonería", "Simbolismo"]
 ---
 
 > **"El hombre malo, el hombre depravado, anda en perversidad de boca; guiña sus ojos, habla con sus pies, indica con sus dedos..." \- Proverbios 6:12-13**

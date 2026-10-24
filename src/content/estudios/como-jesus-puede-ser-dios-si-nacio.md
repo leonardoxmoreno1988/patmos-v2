@@ -1,12 +1,12 @@
 ---
-title: "¿Cómo Jesús Puede Ser Dios Si Tuvo Que Nacer?"
+title: "Cómo puede Jesús ser Dios si tuvo que nacer"
 date: "2017-06-16"
 updated: "2023-07-20"
 author: "George Mitrakos"
 slug: "como-jesus-puede-ser-dios-si-nacio"
 redirectFrom: "/2017/06/como-jesus-puede-ser-dios-si-nacio.html"
-description: "\"Una cosa que sabemos de las Escrituras es que Dios no puede nacer. Dios no vino a la existencia, sino que siempre ha existido. Él no vino a la existencia…"
-tags: ["Apologética"]
+description: "Respuesta apologética a la objeción de que Dios no puede nacer: Cristo es eterno y existió antes de todo tiempo, según las Escrituras y su argumento."
+tags: ["Apologética", "Cristología", "Trinidad", "Encarnación"]
 ---
 
 > "Una cosa que sabemos de las Escrituras es que Dios no puede nacer. Dios no vino a la existencia, sino que siempre ha existido. Él no vino a la existencia desde la no-existencia. Él no nació y no fue creado. Siempre estuvo aquí antes de que hubiera una cosa llamada tiempo." - Joshua Evans.

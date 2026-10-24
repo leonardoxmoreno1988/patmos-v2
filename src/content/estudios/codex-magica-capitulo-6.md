@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 6: Bestias Cornudas, Cabras Brincadoras, Barbas y Otros Mensajes Satánicos"
+title: "Codex Magica 6: cabras, barbas y mensajes satánicos"
 date: "2016-08-05"
 updated: "2023-07-21"
 author: "Texe Marrs"
 slug: "codex-magica-capitulo-6"
 redirectFrom: "/2016/08/codex-magica-capitulo-6.html"
-description: "\"Poseo más títulos de lo que he podido contar. Se supone que debo conocer más signos secretos, señales, contraseñas, claves, saludos, y así sucesivamente, de…"
-tags: ["Sociedad"]
+description: "Cabras, barbas y bestias cornudas como señales ocultas. Codex Magica 6 recoge el testimonio de Aleister Crowley sobre los signos que debía conocer."
+tags: ["Sociedad", "Codex Magica", "Ocultismo", "Simbolismo"]
 ---
 
 > "Poseo más títulos de lo que he podido contar. Se supone que debo conocer más signos secretos, señales, contraseñas, claves, saludos, y así sucesivamente, de lo que en realidad podría aprender en una docena de vidas. Un elefante se vendría abajo con la cantidad de insignias que debo llevar."  

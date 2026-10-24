@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 2: La Megalomanía Y La Rabia De Los Psicópatas ¿Por Qué Los Illuminati Hacen Lo Que Hacen?"
+title: "Codex Magica 2: megalomanía y motivos de los illuminati"
 date: "2016-03-29"
 updated: "2023-07-21"
 author: "Texe Marrs"
 slug: "codex-magica-en-espanol-capitulo-dos-la"
 redirectFrom: "/2016/03/codex-magica-en-espanol-capitulo-dos-la.html"
-description: "\"Todos mis métodos son racionales, solamente mis objetivos están desquiciados.\"- Capitán Ahab en Moby Dick de Herman Melville ¿Por qué los Illuminati hacen lo…"
-tags: ["Sociedad"]
+description: "¿Por qué los illuminati actúan como actúan? Codex Magica 2 examina su megalomanía, sus objetivos y su conducta a la luz de la psicología de sus líderes."
+tags: ["Sociedad", "Codex Magica", "Illuminati", "Psicología"]
 ---
 
 > **"Todos mis métodos son racionales, solamente mis objetivos están desquiciados."\- Capitán Ahab en Moby Dick de Herman Melville**

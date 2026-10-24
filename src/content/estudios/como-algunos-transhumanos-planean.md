@@ -1,12 +1,12 @@
 ---
-title: "Cómo Algunos Transhumanos Planean Dominar El Mundo"
+title: "Cómo algunos transhumanos planean dominar el mundo"
 date: "2013-02-19"
 updated: "2023-07-22"
 author: "Helium"
 slug: "como-algunos-transhumanos-planean"
 redirectFrom: "/2013/02/como-algunos-transhumanos-planean.html"
-description: "La Tierra: 2100. El mundo es gobernado por superhumanos con IQ superior a 1.000. Desde sus altas torres ellos gestionan al enjambre de humanos. Masas de…"
-tags: ["Sociedad"]
+description: "Un texto que imagina el año 2100, con superhumanos de IQ superior a 1.000 que gobiernan a las masas. Reflexión sobre el transhumanismo y el control social."
+tags: ["Sociedad", "Transhumanismo", "Control social", "Tecnología"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

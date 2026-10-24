@@ -1,12 +1,12 @@
 ---
-title: "Conocimiento y ciencia brotan de sus labios"
+title: "Versículos sobre pecado, muerte y salvación en Cristo"
 date: "2023-11-11"
 updated: "2026-04-15"
 author: "Leonardo Moreno"
 slug: "conocimiento-y-ciencia-brotan-de-sus"
 redirectFrom: "/2023/11/conocimiento-y-ciencia-brotan-de-sus.html"
-description: "Esta semana me fue muy complejo completar algún material, pero les comparto este esquema de versículos que nos sirve para la vida diaria: Pecado Romanos…"
-tags: ["Apologética"]
+description: "Un esquema de versículos bíblicos para la vida diaria sobre el pecado, la muerte y el infierno, y la obra de Cristo que trae salvación a los pecadores."
+tags: ["Apologética", "Salvación", "Versículos", "Evangelio"]
 ---
 
 Estimado lector,  

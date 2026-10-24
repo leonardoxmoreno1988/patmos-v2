@@ -1,12 +1,12 @@
 ---
-title: "Con Astucia De Serpiente Y Sencillez De Paloma"
+title: "Con astucia de serpiente y sencillez de paloma"
 date: "2013-02-17"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "con-astucia-de-serpiente-y-sencillez-de"
 redirectFrom: "/2013/02/con-astucia-de-serpiente-y-sencillez-de.html"
-description: "¿Podría alguien que busca el carácter de Cristo necesitar la actitud de una serpiente? Entre las muchas indicaciones que dio Jesús sobre la predicación del…"
-tags: ["Apologética"]
+description: "Mateo 10:16 y el mandato de Jesús a sus discípulos: ser astutos como serpientes y sencillos como palomas al predicar el evangelio frente al enemigo."
+tags: ["Apologética", "Evangelismo", "Mateo", "Discernimiento"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

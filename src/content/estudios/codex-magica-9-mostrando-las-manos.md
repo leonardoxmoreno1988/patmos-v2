@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 9: Mostrando Las Manos - La Señal De La Admiración y El Asombro"
+title: "Codex Magica 9: la señal de la admiración y el asombro"
 date: "2017-02-15"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-9-mostrando-las-manos"
 redirectFrom: "/2017/02/codex-magica-9-mostrando-las-manos.html"
-description: "\"Todo depende de lo que es.\"- El Presidente Bill Clinton, en respuesta a una pregunta del Fiscal Especial \"Una rosa con cualquier otro nombre es todavía una…"
-tags: ["Sociedad"]
+description: "El significado de mostrar las manos en la masonería: la señal de la admiración y el asombro en el ritual del Más Excelente Amo, según el Monitor."
+tags: ["Sociedad", "Codex Magica", "Masonería", "Simbolismo"]
 ---
 
 > **"Todo depende de lo que es." \- El Presidente Bill Clinton, en respuesta a una pregunta del Fiscal Especial**

@@ -1,12 +1,12 @@
 ---
-title: "Codex Magica 7: El Significado De La Mano Cornuda o La Señal De \"El Diablo\""
+title: "Codex Magica 7: la mano cornuda y la señal del diablo"
 date: "2016-11-14"
 updated: "2023-07-20"
 author: "Texe Marrs"
 slug: "codex-magica-7-el-significado-de-la"
 redirectFrom: "/2016/11/codex-magica-7-el-significado-de-la.html"
-description: "\"Las personas que son cristianos ahora, pero eran satanistas, reconocieron la señal del presidente Clinton en su inauguración como la señal de Satanás. Eso…"
-tags: ["Sociedad"]
+description: "Codex Magica 7 analiza la mano cornuda, llamada señal del diablo, y el gesto que, según la cita de un testigo, hizo Clinton en su toma de posesión."
+tags: ["Sociedad", "Codex Magica", "Simbolismo", "Política"]
 ---
 
 > **"Las personas que son cristianos ahora, pero eran satanistas, reconocieron la señal del presidente Clinton en su inauguración como la señal de Satanás. Eso parece bastante directo y crudo y lo es. Clinton comunicó lo que quería a la gente a la que quería comunicárselo. Todo el asunto de él mostrando el signo de la mano satánica sólo tomó un par de segundos."** 

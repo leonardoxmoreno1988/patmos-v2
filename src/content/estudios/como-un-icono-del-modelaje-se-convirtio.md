@@ -1,12 +1,12 @@
 ---
-title: "Como Un Icono Del Modelaje Se Convirtió En Un Experimento Del Control Mental De La CIA"
+title: "Candy Jones, modelo y víctima del control mental MKULTRA"
 date: "2011-03-20"
 updated: "2023-07-23"
 author: "Leonardo Moreno"
 slug: "como-un-icono-del-modelaje-se-convirtio"
 redirectFrom: "/2011/03/como-un-icono-del-modelaje-se-convirtio.html"
-description: "Un artículo de Fortean Times de 2001 describe el infame caso de Candy Jones, una modelo que se convirtió en una víctima MKULTRA. Este es uno de los casos más…"
-tags: ["Sociedad"]
+description: "El caso de Candy Jones, modelo de moda convertida en víctima de MKULTRA, según un artículo de Fortean Times de 2001 sobre el control mental."
+tags: ["Sociedad", "Control mental", "MKUltra", "Historia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
