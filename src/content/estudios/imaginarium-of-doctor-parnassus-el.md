@@ -1,12 +1,12 @@
 ---
-title: "\"The Imaginarium Of Doctor Parnassus\" El Sacrificio De Heath Ledger"
+title: "The Imaginarium of Doctor Parnassus y Heath Ledger"
 date: "2011-07-10"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "imaginarium-of-doctor-parnassus-el"
 redirectFrom: "/2010/04/imaginarium-of-doctor-parnassus-el.html"
-description: "La última película de Heath Ledger es muy imaginativa. Desde su historia enigmática y misteriosa que rodeó su producción, \"The Imaginarium of Doctor Parnassus\"…"
-tags: ["Cine y Cultura"]
+description: "La última película de Heath Ledger, The Imaginarium of Doctor Parnassus, y una lectura de su rico simbolismo y de la historia que rodeó su producción."
+tags: ["Cine y Cultura", "Heath Ledger", "Simbolismo", "Películas"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

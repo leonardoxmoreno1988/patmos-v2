@@ -1,12 +1,12 @@
 ---
-title: "Religiones Paganas Y Cristianismo: La Verdad Histórica"
+title: "Religiones paganas y cristianismo: la verdad histórica"
 date: "2017-06-06"
 updated: "2023-07-20"
 author: "Kevin Farringdon"
 slug: "isis-y-horus-maria-y-jesus-la-verdad-26"
 redirectFrom: "/2018/02/isis-y-horus-maria-y-jesus-la-verdad_26.html"
-description: "Durante la primera mitad del siglo XX, varios autores y profesores liberales afirmaron que las enseñanzas del Nuevo Testamento sobre la muerte y resurrección…"
-tags: ["Apologética"]
+description: "Respuesta histórica a la tesis liberal del siglo XX de que la muerte, resurrección y prácticas cristianas del Nuevo Testamento vienen del paganismo."
+tags: ["Apologética", "Isis", "Horus", "Historia"]
 ---
 
 Durante la primera mitad del siglo XX, varios autores y profesores liberales afirmaron que las enseñanzas del **Nuevo Testamento** sobre la muerte y resurrección de **Jesús**, el Nuevo Nacimiento y las prácticas cristianas del bautismo y la Cena del Señor derivaban de las **religiones paganas** de misterio. De mayor preocupación en todo esto es la acusación de que la doctrina de la salvación del Nuevo Testamento es paralela a los temas comúnmente encontrados en las **religiones de misterio**: un dios salvador muere violentamente por aquellos a quienes eventualmente liberará, después de lo cual ese dios será restaurado.  

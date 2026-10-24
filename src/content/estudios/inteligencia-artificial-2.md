@@ -1,12 +1,12 @@
 ---
-title: "La inteligencia artificial y cómo la ciencia aumentará (2)"
+title: "La inteligencia artificial y la profecía (2)"
 date: "2023-05-20"
 updated: "2026-04-17"
 author: "Leonardo Moreno"
 slug: "inteligencia-artificial-2"
 redirectFrom: "/2023/05/inteligencia-artificial-2.html"
-description: "El Anticristo usará la tecnología para empujar su agenda contra Dios. Vemos esto en Revelación 11, cuando el mundo usa la tecnología para glorificar la muerte…"
-tags: ["Sociedad"]
+description: "Segunda parte del estudio: según el autor, el Anticristo usará la tecnología contra Dios, como muestra Revelación 11 con la muerte de los dos testigos."
+tags: ["Sociedad", "Inteligencia artificial", "Profecía", "Revelación"]
 ---
 
 Estimado lector,  

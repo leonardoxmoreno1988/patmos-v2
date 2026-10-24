@@ -1,12 +1,12 @@
 ---
-title: "Genética Angelical: Por Qué Los Nefilim Eran Gigantes Físicos"
+title: "Genética angelical: por qué los nefilim eran gigantes"
 date: "2017-03-14"
 updated: "2023-07-20"
 author: "Josh Peck"
 slug: "genetica-angelical-por-que-los-nefilim-son-gigantes"
 redirectFrom: "/2017/03/genetica-angelical-por-que-los-nefilim-son-gigantes.html"
-description: "Los temas de los ángeles caídos y sus descendientes nefilim son de hecho extraños. La mayoría de los investigadores en este campo conocen la historia básica…"
-tags: ["Apologética"]
+description: "Los ángeles caídos y sus descendientes nefilim, y la explicación que el autor da para que fueran gigantes físicos en el relato de Génesis 6."
+tags: ["Apologética", "Nephilim", "Ángeles caídos", "Génesis"]
 ---
 
 Los temas de los **ángeles caídos** y sus descendientes **[nefilim](http://www.ritualypropaganda.com/2017/02/nefilim-antiguo-testamento.html)** son de hecho extraños. La mayoría de los investigadores en este campo conocen la historia básica. Hace mucho tiempo, ángeles rebeldes descendieron a la Tierra para procrear con mujeres humanas. El resultado de este acto fue la creación de híbridos **gigantes** de ángel y humano.  

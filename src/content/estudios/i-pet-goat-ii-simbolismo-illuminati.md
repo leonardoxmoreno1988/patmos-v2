@@ -1,12 +1,12 @@
 ---
-title: "El Significado Profético De \"I, Pet Goat II\" Y Su Visión Sobre El Nuevo Orden Mundial"
+title: "I, Pet Goat II: simbolismo illuminati y nuevo orden"
 date: "2012-07-09"
 updated: "2024-09-02"
 author: "Jhonkbn"
 slug: "i-pet-goat-ii-simbolismo-illuminati"
 redirectFrom: "/2012/07/i-pet-goat-ii-simbolismo-illuminati.html"
-description: "\"I, Pet Goat II\" es una extraña animación que expresa en lenguaje simbólico los mayores eventos de la última década. Este también parece conocer al detalle cómo…"
-tags: ["Cine y Cultura"]
+description: "La animación I, Pet Goat II, que según el autor expresa en símbolos los eventos de la última década y la agenda illuminati hacia el nuevo orden mundial."
+tags: ["Cine y Cultura", "I Pet Goat", "Illuminati", "Nuevo Orden Mundial"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

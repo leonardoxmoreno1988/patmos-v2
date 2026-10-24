@@ -1,12 +1,12 @@
 ---
-title: "El Significado de Inteligencia Artificial (A.I.) y la Búsqueda de La Transformación Alquímica"
+title: "IA y la transformación alquímica en Spielberg"
 date: "2015-07-13"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "inteligencia-artificial-ai-gnosticismo"
 redirectFrom: "/2015/07/inteligencia-artificial-ai-gnosticismo.html"
-description: "En 2001 la producción de Spielberg/Kubrick, Inteligencia Artificial, mostraba a un equipo de científicos trabajando para crear un robot con sentimientos, la…"
-tags: ["Cine y Cultura"]
+description: "El film Inteligencia Artificial de Spielberg y Kubrick y su búsqueda de la transformación alquímica, de robot a hombre y de hombre a dios, según el autor."
+tags: ["Cine y Cultura", "Inteligencia artificial", "Gnosticismo", "Alquimia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

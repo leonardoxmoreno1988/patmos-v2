@@ -5,8 +5,8 @@ updated: "2025-12-28"
 author: "Leonardo Moreno"
 slug: "impulso-diez-cuernos"
 redirectFrom: "/2022/03/impulso-diez-cuernos.html"
-description: "Hemos experimentado dos aceleradores, primero la pandemia y ahora la guerra. Ambos eventos llevan al mundo a una fase medianamente nueva. Dos cortos años…"
-tags: ["Escatología"]
+description: "La pandemia y la guerra como aceleradores de un mundo que entra en una fase nueva, y su lectura profética en relación con los diez cuernos de Daniel."
+tags: ["Escatología", "Profecía", "Diez cuernos", "Tiempos finales"]
 ---
 
 Estimado lector,

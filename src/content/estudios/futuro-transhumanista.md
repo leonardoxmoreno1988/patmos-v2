@@ -1,12 +1,12 @@
 ---
-title: "Advertencias sobre un “futuro transhumanista”"
+title: "Advertencias sobre el futuro transhumanista"
 date: "2022-03-06"
 updated: "2025-05-23"
 author: "Leonardo Moreno"
 slug: "futuro-transhumanista"
 redirectFrom: "/2022/03/futuro-transhumanista.html"
-description: "Gracias a la profecía bíblica podemos asegurar que los intentos de fusionar la tecnología informática con cerebros humanos, tendrán consecuencias perjudiciales…"
-tags: ["Sociedad"]
+description: "Según el autor, la profecía bíblica advierte que fusionar la informática con el cerebro humano tendrá consecuencias perjudiciales para la humanidad."
+tags: ["Sociedad", "Transhumanismo", "Profecía", "Tecnología"]
 ---
 
 Estimado lector,

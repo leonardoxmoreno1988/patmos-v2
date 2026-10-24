@@ -1,12 +1,12 @@
 ---
-title: "La Humanidad 2.0 y la verdadera restauración"
+title: "Humanidad 2.0 y la verdadera restauración"
 date: "2022-11-27"
 updated: "2025-05-26"
 author: "Leonardo Moreno"
 slug: "humanidad-2-0-restauracion"
 redirectFrom: "/2022/11/humanidad-2.0-restauracion.html"
-description: "El transhumanismo, o lo recientemente llamado humanidad 2.0, es el intento de mejorar las habilidades físicas y/o mentales ya sea mediante modificación…"
-tags: ["Sociedad"]
+description: "El transhumanismo, o humanidad 2.0, busca mejorar las capacidades humanas con genética y tecnología. Qué ofrece la Biblia como verdadera restauración."
+tags: ["Sociedad", "Transhumanismo", "Restauración", "Tecnología"]
 ---
 
 Estimado lector,  

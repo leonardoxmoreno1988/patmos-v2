@@ -1,12 +1,12 @@
 ---
-title: "Los Gigantes Y El Encubrimiento Del Smithsoniano"
+title: "Los gigantes y el encubrimiento del Smithsoniano"
 date: "2021-08-29"
 updated: "2023-07-17"
 author: "Kevin Farringdon"
 slug: "gigantes-encubrimiento-smithsoniano"
 redirectFrom: "/2021/08/gigantes-encubrimiento-smithsoniano.html"
-description: "Hay muchas traducciones y explicaciones modernas para historias contadas en la Biblia. Entre ellas se encuentra el relato de los gigantes que vivían entre los…"
-tags: ["Sociedad"]
+description: "Las traducciones modernas de Génesis 6:4 sobre los gigantes entre los humanos, y la denuncia de un supuesto encubrimiento del Smithsoniano sobre ellos."
+tags: ["Sociedad", "Gigantes", "Génesis 6", "Nephilim"]
 ---
 
 [![Instituto smithsoniano con dibujo de gigante detrás](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQ_ctTlvLuEJHRnEgMNzG6ocECbTbSBBAyrys_EjpPub96vfry2nqncyOirw0iujQQetCnSldT7vS9WtxZBdjxlBsDOddWmMA4J0v9DoSj9ZmguVSmHAVVbUKRZrxzqY-TP3w1EGTT_I/s16000/gigantes.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQ_ctTlvLuEJHRnEgMNzG6ocECbTbSBBAyrys_EjpPub96vfry2nqncyOirw0iujQQetCnSldT7vS9WtxZBdjxlBsDOddWmMA4J0v9DoSj9ZmguVSmHAVVbUKRZrxzqY-TP3w1EGTT_I/s641/gigantes.jpeg)

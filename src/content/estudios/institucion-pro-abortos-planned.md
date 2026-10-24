@@ -1,12 +1,12 @@
 ---
-title: "Institución Pro Abortos \"Planned Parenthood\" Vende Partes De Bebé: El Nuevo Culto A Baal"
+title: "Planned Parenthood y el nuevo culto a Baal"
 date: "2015-09-01"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "institucion-pro-abortos-planned"
 redirectFrom: "/2015/09/institucion-pro-abortos-planned.html"
-description: "La demanda de aborto es el culto a Baal en los tiempos modernos. El rey Acab y la reina Jezabel llevaron a los israelitas en el culto a Baal y el sacrificio de…"
-tags: ["Sociedad"]
+description: "El autor compara la demanda de aborto con el culto a Baal del Antiguo Testamento y acusa a Planned Parenthood de vender partes de bebés humanos."
+tags: ["Sociedad", "Aborto", "Baal", "Planned Parenthood"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

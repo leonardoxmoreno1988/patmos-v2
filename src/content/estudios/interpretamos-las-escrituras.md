@@ -1,12 +1,12 @@
 ---
-title: "Sobre como interpretamos las Escrituras"
+title: "Cómo interpretamos las Escrituras y la profecía"
 date: "2022-10-16"
 updated: "2025-05-26"
 author: "Leonardo Moreno"
 slug: "interpretamos-las-escrituras"
 redirectFrom: "/2022/10/interpretamos-las-escrituras.html"
-description: "Los principios y bases de interpretación que debemos usar sobre las Escrituras son fundamentales para determinar qué significa un versículo o libro completo de…"
-tags: ["Apologética"]
+description: "Los principios de interpretación de la Biblia determinan el sentido de un versículo o libro, y la profecía bíblica exige cuidado con sus símbolos."
+tags: ["Apologética", "Interpretación bíblica", "Hermenéutica", "Profecía"]
 ---
 
 Estimado lector,  

@@ -1,12 +1,12 @@
 ---
-title: "La inteligencia artificial y cómo la ciencia aumentará (3)"
+title: "La inteligencia artificial y la profecía (3)"
 date: "2023-06-03"
 updated: "2026-04-17"
 author: "Leonardo Moreno"
 slug: "inteligencia-artificial-3"
 redirectFrom: "/2023/06/inteligencia-artificial-3.html"
-description: "En esta última parte del estudio sobre la tecnología, es oportuno hablar acerca del fenómeno físico que lo hace posible, la electricidad. Fluido vital que…"
-tags: ["Sociedad"]
+description: "Tercera parte del estudio sobre la electricidad como fluido vital que hace posible el avance tecnológico, a la luz de las imágenes proféticas."
+tags: ["Sociedad", "Inteligencia artificial", "Profecía", "Tecnología"]
 ---
 
 Estimado lector,  

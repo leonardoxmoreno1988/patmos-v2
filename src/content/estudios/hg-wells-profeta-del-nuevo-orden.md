@@ -1,12 +1,12 @@
 ---
-title: "H.G. Wells Profeta Del Nuevo Orden Mundial"
+title: "H. G. Wells: profeta del nuevo orden mundial"
 date: "2011-05-16"
 updated: "2023-07-23"
 author: "Fritz Springmeier"
 slug: "hg-wells-profeta-del-nuevo-orden"
 redirectFrom: "/2011/05/hg-wells-profeta-del-nuevo-orden.html"
-description: "¿Hay alguna prueba de que los acontecimientos en el mundo están siguiendo un guión? La pregunta me ha intrigado porque muchas personas con conocimientos…"
-tags: ["Sociedad"]
+description: "¿Siguen los acontecimientos mundiales un guión escrito? Análisis de H. G. Wells como supuesto profeta del nuevo orden mundial y de su visión del futuro."
+tags: ["Sociedad", "Nuevo Orden Mundial", "H. G. Wells", "Profecía"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -1,12 +1,12 @@
 ---
-title: "¿Hitler Era Cristiano? Los Historiadores Dicen Que No"
+title: "¿Hitler era cristiano? Lo que dicen los historiadores"
 date: "2017-05-17"
 updated: "2023-07-20"
 author: "James Bishop"
 slug: "hitler-era-cristiano-historiadores-dicen-no"
 redirectFrom: "/2017/05/hitler-era-cristiano-historiadores-dicen-no.html"
-description: "Muchos ateos afirman que Hitler era cristiano y que sus acciones eran un acto de fundamentalismo cristiano. Evil Bible, un sitio web fundamentalista ateo…"
-tags: ["Apologética"]
+description: "Responde a la afirmación de sitios ateos, como Evil Bible, de que Hitler era cristiano, con lo que dicen los historiadores sobre su religión."
+tags: ["Apologética", "Hitler", "Historia", "Cristianismo"]
 ---
 
 Muchos ateos afirman que **Hitler** era **cristiano** y que sus acciones eran un acto de fundamentalismo cristiano. _Evil Bible_, un sitio web fundamentalista ateo, afirma que: "La historia está siendo distorsionada por los millones de cristianos que mienten para hacernos creer que el Holocausto no fue una **obra cristiana**".  

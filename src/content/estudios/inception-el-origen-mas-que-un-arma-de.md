@@ -1,12 +1,12 @@
 ---
-title: "\"Inception\" Un Film Sobre Sueños, Realidad Y Control Mental"
+title: "Inception: sueños, realidad y control mental"
 date: "2010-12-17"
 updated: "2023-07-23"
 author: "Jhonkbn"
 slug: "inception-el-origen-mas-que-un-arma-de"
 redirectFrom: "/2010/12/inception-el-origen-mas-que-un-arma-de.html"
-description: "Inception (El Origen) es un thriller psicológico y de ciencia ficción basado en un hecho quizás no tan ficticio, la posibilidad de extraer e inducir información…"
-tags: ["Cine y Cultura"]
+description: "Inception, thriller sobre extraer e inducir información en los sueños, y su lectura como film sobre control mental, según el autor del artículo."
+tags: ["Cine y Cultura", "Inception", "Control mental", "Sueños"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

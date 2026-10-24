@@ -1,12 +1,12 @@
 ---
-title: "Fraternidades Universitarias Y Sus Vínculos Con La Francmasonería"
+title: "Fraternidades universitarias y la francmasonería"
 date: "2011-12-05"
 updated: "2023-07-22"
 author: "Fritz Springmeier"
 slug: "fraternidades-universitarias-y-sus"
 redirectFrom: "/2011/05/fraternidades-universitarias-y-sus.html"
-description: "\"Durante la semana del infierno, los postulantes son ridiculizados para \"romperlos\" en actos de sumisión a su fraternidad o hermandad. Fidelidad eterna es…"
-tags: ["Sociedad"]
+description: "Los vínculos entre las fraternidades universitarias y la francmasonería, con los juramentos e iniciaciones que, según Fritz Springmeier, las caracterizan."
+tags: ["Sociedad", "Masonería", "Fraternidades", "Iniciación"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -1,12 +1,12 @@
 ---
-title: "¿Fue El \"Tiroteo De Batman\" Un Asesinato Ritual Llevado A Cabo Por Una Víctima De Control Mental?"
+title: "¿Fue el tiroteo de Batman un asesinato ritual?"
 date: "2012-07-25"
 updated: "2023-07-22"
 author: "Vigilant Citizen"
 slug: "fue-el-tiroteo-de-batman-un-asesinato"
 redirectFrom: "/2012/07/fue-el-tiroteo-de-batman-un-asesinato.html"
-description: "Cuando acontecimientos terribles como el de los asesinatos en el estreno de The Dark Knight se producen, tiendo a no tener una reacción instintiva de gritar \"Es…"
-tags: ["Sociedad"]
+description: "Examina la tesis de que el tiroteo en el estreno de The Dark Knight fue un asesinato ritual cometido por una víctima de control mental, según su autor."
+tags: ["Sociedad", "Control mental", "The Dark Knight", "Conspiración"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

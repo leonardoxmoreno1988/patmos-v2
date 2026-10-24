@@ -1,12 +1,12 @@
 ---
-title: "La inteligencia artificial y cómo la ciencia aumentará (1)"
+title: "La inteligencia artificial y la profecía (1)"
 date: "2023-04-30"
 updated: "2026-04-17"
 author: "Leonardo Moreno"
 slug: "inteligencia-artificial-ciencia"
 redirectFrom: "/2023/04/inteligencia-artificial-ciencia.html"
-description: "Durante décadas, la inteligencia artificial ha ido avanzando a una velocidad vertiginosa, prometiendo revolucionar el futuro del ser humano como lo conocemos…"
-tags: ["Sociedad"]
+description: "Primera parte de un estudio sobre el avance vertiginoso de la inteligencia artificial y el futuro que, según el autor, anticipa la profecía bíblica."
+tags: ["Sociedad", "Inteligencia artificial", "Profecía", "Tecnología"]
 ---
 
 Estimado lector,  

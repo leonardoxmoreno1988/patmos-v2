@@ -1,12 +1,12 @@
 ---
-title: "Illuminati: El Destino Secreto De América"
+title: "Illuminati: el destino secreto de América"
 date: "2011-10-07"
 updated: "2023-07-22"
 author: "David Richards"
 slug: "illuminati-el-destino-secreto-de"
 redirectFrom: "/2011/10/illuminati-el-destino-secreto-de.html"
-description: "George Washington, en la parte inferior, en traje masónico. En la parte inferior derecha de la foto hay una colmena, un símbolo masónico que representa la…"
-tags: ["Sociedad"]
+description: "Análisis de una fotografía con George Washington en traje masónico y de la colmena como símbolo de una sociedad socialista, según la lectura del autor."
+tags: ["Sociedad", "Illuminati", "Masonería", "Estados Unidos"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

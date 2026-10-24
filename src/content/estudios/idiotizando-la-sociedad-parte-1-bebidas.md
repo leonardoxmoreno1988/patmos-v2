@@ -1,12 +1,12 @@
 ---
-title: "Idiotizando A La Sociedad, Parte 1: Bebidas, Alimentos Y Fármacos"
+title: "Idiotizando a la sociedad, parte 1: bebidas y alimentos"
 date: "2010-12-26"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "idiotizando-la-sociedad-parte-1-bebidas"
 redirectFrom: "/2010/12/idiotizando-la-sociedad-parte-1-bebidas.html"
-description: "¿Hay un esfuerzo deliberado por el gobierno para idiotizar a las masas? La afirmación es difícil de probar, pero hay una gran cantidad de datos que muestran…"
-tags: ["Sociedad"]
+description: "¿Existe un esfuerzo deliberado del gobierno para idiotizar a las masas? La primera parte examina bebidas, alimentos y fármacos, según el autor."
+tags: ["Sociedad", "Alimentación", "Salud pública", "Gobierno"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

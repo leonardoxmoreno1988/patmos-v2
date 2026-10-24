@@ -1,12 +1,12 @@
 ---
-title: "Generación OVNI: Confrontando El Engaño Espiritual Y Las Abducciones"
+title: "Generación OVNI: engaño espiritual y abducciones"
 date: "2016-12-17"
 updated: "2023-07-20"
 author: "Kevin Farringdon"
 slug: "generacion-ovni-confrontando-el-engano"
 redirectFrom: "/2017/12/generacion-ovni-confrontando-el-engano.html"
-description: "Los secuestros de OVNIS no son un fenómeno raro y se estima que se han producido a tres millones de estadounidenses. Cada año más y más personas afirman haber…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Según una estimación citada, unos tres millones de estadounidenses reportan abducciones por OVNIs. El artículo examina el engaño espiritual detrás de ello."
+tags: ["Falsas Doctrinas", "Apologética", "OVNIs", "Engaño espiritual"]
 ---
 
 Los secuestros de **OVNIS** no son un fenómeno raro y se estima que se han producido a tres millones de estadounidenses. Cada año más y más personas afirman haber tenido contacto que los deja ansiosos, desorientados y confundidos. Durante décadas, la comunidad científica ha tratado casos de **abducción** como evidencia de psicosis, pero esta visión ahora está empezando a cambiar.  

@@ -1,12 +1,12 @@
 ---
-title: "El futuro declive de Estados Unidos"
+title: "El futuro declive de Estados Unidos en la profecía"
 date: "2022-04-24"
 updated: "2025-12-29"
 author: "Leonardo Moreno"
 slug: "futuro"
 redirectFrom: "/2022/04/futuro.html"
-description: "En sus muchos pasajes proféticos, la Biblia habla de naciones específicas, y algunos con nombres reconocibles. Israel está claramente identificado, al igual…"
-tags: ["Escatología"]
+description: "Las naciones que la profecía bíblica identifica, como Israel, Irán y Libia, y lo que, según el autor, anticipa para el declive de Estados Unidos."
+tags: ["Escatología", "Profecía", "Estados Unidos", "Naciones"]
 ---
 
 Estimado lector,
