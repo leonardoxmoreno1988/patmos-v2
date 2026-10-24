@@ -5,8 +5,8 @@ updated: "2025-05-26"
 author: "Leonardo Moreno"
 slug: "viajes-tiempo"
 redirectFrom: "/2022/10/viajes-tiempo.html"
-description: "Cuando Dios habla en tiempo pasado, a veces son eventos que ocurrirán en el futuro. Es decir, lo que para el hombre es aún inexistente, para Dios ya es un…"
-tags: ["Escatología"]
+description: "Cuando Dios habla en tiempo pasado de eventos futuros, para Él el futuro ya es histórico. Un análisis bíblico del paradigma de los viajes en el tiempo."
+tags: ["Escatología", "Profecía", "Tiempo", "Teología"]
 ---
 
 Estimado lector,

@@ -1,12 +1,12 @@
 ---
-title: "Xscape Y Porque Michael Jackson Fue Revivido En Forma De Holograma"
+title: "Xscape y el holograma de Michael Jackson"
 date: "2014-03-31"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "xscape-y-porque-michael-jackson-es"
 redirectFrom: "/2014/05/xscape-y-porque-michael-jackson-es.html"
-description: "Luego de su muerte en 2009 Michael Jackson no ha dejado de generar grandes ingresos para Sony, no solo con el lanzamiento de un nuevo álbum con canciones…"
-tags: ["Cine y Cultura"]
+description: "Tras su muerte en 2009, Michael Jackson sigue generando ingresos con nuevos álbumes y su regreso en holograma, según el artículo sobre Xscape."
+tags: ["Cine y Cultura", "Michael Jackson", "Xscape", "Holograma"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

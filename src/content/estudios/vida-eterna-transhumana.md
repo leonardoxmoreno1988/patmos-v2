@@ -1,12 +1,12 @@
 ---
-title: "Vida Eterna Transhumana: Transhumanismo Hacia El Final De Los Tiempos"
+title: "Vida eterna transhumana y el final de los tiempos"
 date: "2020-10-11"
 updated: "2023-07-17"
 author: "Kevin Farringdon"
 slug: "vida-eterna-transhumana"
 redirectFrom: "/2020/10/vida-eterna-transhumana.html"
-description: "Esta generación es testigo del surgimiento de un nuevo movimiento social radical conocido como transhumanismo. Al expresar una fe inquebrantable en el avance…"
-tags: ["Sociedad"]
+description: "El transhumanismo como movimiento que cree en el avance de la tecnología hacia la vida eterna, y su lectura desde el final de los tiempos y la profecía."
+tags: ["Sociedad", "Transhumanismo", "Vida eterna", "Tiempos finales"]
 ---
 
 [![Rostro femenino robótico que expone los circuitos y conexiones internas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqQr6XFnLeXUTVGw0GO2iMUTHcKMFHJ_haVybBga6f4PG3xu9tfp3KYZwNCEdYRktUiL5kY5ehHV16dofrpach8iZG22PnCezl8obd9ZPJuBdyHk3iSXF8Aa-l5eSg4uYPRqtrZ6NYJEk/s16000/transhumanismo.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqQr6XFnLeXUTVGw0GO2iMUTHcKMFHJ_haVybBga6f4PG3xu9tfp3KYZwNCEdYRktUiL5kY5ehHV16dofrpach8iZG22PnCezl8obd9ZPJuBdyHk3iSXF8Aa-l5eSg4uYPRqtrZ6NYJEk/s590/transhumanismo.jpg)

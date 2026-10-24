@@ -1,12 +1,12 @@
 ---
-title: "Teorías De Control Mental Y Técnicas Utilizadas Por Los Medios Masivos"
+title: "Teorías de control mental y técnicas de los medios"
 date: "2011-05-07"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "teorias-de-control-mental-y-tecnicas"
 redirectFrom: "/2011/05/teorias-de-control-mental-y-tecnicas.html"
-description: "Los medios de comunicación son la herramienta más poderosa usada por la clase dominante para manipular a las masas. Da forma y moldea las opiniones y…"
-tags: ["Sociedad"]
+description: "Según el autor, los medios de comunicación son la herramienta más poderosa de la clase dominante para moldear opiniones y definir lo normal y aceptable."
+tags: ["Sociedad", "Control mental", "Medios de comunicación", "Manipulación"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

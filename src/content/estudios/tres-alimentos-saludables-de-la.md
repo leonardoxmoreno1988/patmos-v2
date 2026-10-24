@@ -1,12 +1,12 @@
 ---
-title: "Tres Alimentos Saludables De La Antigüedad Con Beneficios Milagrosos"
+title: "Tres alimentos saludables de la antigüedad"
 date: "2015-08-21"
 updated: "2023-07-21"
 author: "Vigilant Citizen"
 slug: "tres-alimentos-saludables-de-la"
 redirectFrom: "/2015/08/tres-alimentos-saludables-de-la.html"
-description: "Consumidos durante miles de años en diversas partes del mundo, estos tres simples alimentos eran valorados por las antiguas civilizaciones por sus poderes…"
-tags: ["Sociedad"]
+description: "Tres alimentos que las civilizaciones antiguas valoraban por sus poderes curativos, y los beneficios que el artículo les atribuye según la ciencia moderna."
+tags: ["Sociedad", "Alimentación", "Salud", "Civilizaciones antiguas"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

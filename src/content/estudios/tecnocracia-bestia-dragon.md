@@ -1,12 +1,12 @@
 ---
-title: "Tecnocracia, Teocracia, La Bestia Y El Dragón"
+title: "Tecnocracia, teocracia, la bestia y el dragón"
 date: "2021-09-16"
 updated: "2023-07-17"
 author: "Kevin Farringdon"
 slug: "tecnocracia-bestia-dragon"
 redirectFrom: "/2021/09/tecnocracia-bestia-dragon.html"
-description: "Una figura importante en el desarrollo de la ciencia occidental moderna es Francis Bacon. En opinión de Bacon, la ciencia se limita principalmente a la…"
-tags: ["Sociedad"]
+description: "Un análisis de la tecnocracia desde Francis Bacon y la ciencia moderna, y su relación con la bestia y el dragón de Revelación, según el autor."
+tags: ["Sociedad", "Tecnocracia", "Revelación", "Francis Bacon"]
 ---
 
 Una figura importante en el desarrollo de la ciencia occidental moderna es Francis Bacon. En opinión de Bacon, la ciencia se limita principalmente a la construcción y el empleo de las artes mecánicas. Un ávido lector del libro de Revelación, el vizconde de St. Albans advirtió al público cristiano en Inglaterra sobre la aparición del **Anticristo**. Escribió que “el Anticristo usará estos medios libre y eficazmente, para que pueda aplastar y confundir el poder de este mundo ... la Iglesia debería considerar el uso de estos inventos debido a los peligros futuros en los tiempos del Anticristo que con la gracia de Dios serían fácil de encontrar, si los prelados y los príncipes promovieran el estudio e investigaran los secretos de esta naturaleza”.

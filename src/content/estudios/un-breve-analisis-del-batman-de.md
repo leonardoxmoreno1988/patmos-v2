@@ -1,12 +1,12 @@
 ---
-title: "Un Breve Análisis Del Batman de Christopher Nolan (Trilogía Invertida de Lo Real)"
+title: "Batman de Nolan: la trilogía invertida de lo real"
 date: "2015-03-06"
 updated: "2023-07-21"
 author: "SuperOhkan"
 slug: "un-breve-analisis-del-batman-de"
 redirectFrom: "/2015/03/un-breve-analisis-del-batman-de.html"
-description: "Empezamos la historia con Batman Begins en la que además del nacimiento del “héroe” se nos presenta el verdadero motor de la trilogía: me refiero a la sociedad…"
-tags: ["Cine y Cultura"]
+description: "Análisis de la trilogía de Christopher Nolan y de la sociedad secreta La Liga de las Sombras, que el autor presenta como motor de la trilogía."
+tags: ["Cine y Cultura", "Batman", "Christopher Nolan", "La Liga de las Sombras"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  

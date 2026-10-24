@@ -1,12 +1,12 @@
 ---
-title: "Tres paralelos a los días de Noé"
+title: "Tres paralelos a los días de Noé en Lucas 17"
 date: "2022-04-10"
 updated: "2025-12-28"
 author: "Leonardo Moreno"
 slug: "tres-paralelos-noe"
 redirectFrom: "/2022/04/tres-paralelos-noe.html"
-description: "En Lucas 17, Jesús les da a los discípulos una descripción gráfica de los últimos tiempos y especialmente de los momentos previos a la Tribulación. Les dice a…"
-tags: ["Escatología"]
+description: "En Lucas 17, Jesús describe los últimos tiempos y los momentos previos a la Tribulación, y el artículo traza tres paralelos con los días de Noé."
+tags: ["Escatología", "Lucas 17", "Días de Noé", "Tribulación"]
 ---
 
 Estimado lector,

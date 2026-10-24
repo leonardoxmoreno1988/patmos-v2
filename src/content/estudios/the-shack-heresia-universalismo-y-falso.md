@@ -1,12 +1,12 @@
 ---
-title: "'The Shack' - Herejía, Universalismo y Falso Evangelio"
+title: "The Shack: herejía, universalismo y falso evangelio"
 date: "2017-04-25"
 updated: "2023-07-20"
 author: "Steven Bancarz"
 slug: "the-shack-heresia-universalismo-y-falso"
 redirectFrom: "/2017/04/the-shack-heresia-universalismo-y-falso.html"
-description: "The Shack (La Cabaña) es un libro que ha vendido más de 23 millones de copias, y que recientemente se ha convertido en una gran película. Como alguien que no…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Análisis de The Shack, libro de más de 23 millones de copias que, según el autor, enseña universalismo y un falso evangelio que la película reproduce."
+tags: ["Falsas Doctrinas", "Apologética", "The Shack", "Universalismo"]
 ---
 
 **The Shack** (La Cabaña) es un libro que ha vendido más de 23 millones de copias, y que recientemente se ha convertido en una gran película. Como alguien que no había leído el libro, estaba emocionado de ver la película. El trailer parecía lo suficientemente bueno, la cinematografía parecía ser agradable, y la **historia** realmente podría iniciar una sanación en la vida de muchas personas.  

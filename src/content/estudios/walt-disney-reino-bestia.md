@@ -5,8 +5,8 @@ updated: "2025-05-23"
 author: "Leonardo Moreno"
 slug: "walt-disney-reino-bestia"
 redirectFrom: "/2022/04/walt-disney-reino-bestia.html"
-description: "Walt Disney irrumpió el panorama cultural estadounidense del siglo XX, produciendo una centena de dibujos animados que influyeron en el mundo. Cuando murió en…"
-tags: ["Cine y Cultura"]
+description: "Walt Disney, creador de cien dibujos animados que influyeron en el mundo, y la lectura del autor sobre el reino mágico de la bestia en su obra."
+tags: ["Cine y Cultura", "Walt Disney", "Animación", "Simbolismo"]
 ---
 
 Estimado lector,

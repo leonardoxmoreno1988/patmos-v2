@@ -1,12 +1,12 @@
 ---
-title: "System Of A Down \"Aerials\", el precio de ser un títere de la industria"
+title: "System of a Down y Aerials: títeres de la industria"
 date: "2010-07-04"
 updated: "2026-10-10"
 author: "Jhonkbn"
 slug: "system-of-down-aerials-el-precio-de-ser"
 redirectFrom: "/2010/07/system-of-down-aerials-el-precio-de-ser.html"
-description: "Quizás alguien que no esté relacionado con las técnicas de control mental illuminati no entenderá por completo la complejidad de este video, pero será un aporte…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, la canción Aerials de System of a Down refleja técnicas de control mental illuminati y el precio de ser títere de la industria musical."
+tags: ["Cine y Cultura", "System of a Down", "Control mental", "Industria musical"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

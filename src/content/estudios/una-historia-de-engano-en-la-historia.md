@@ -1,12 +1,12 @@
 ---
-title: "Una historia de engaño en \"La Historia Sin Fin\""
+title: "Engaño en La historia interminable: análisis"
 date: "2023-08-06"
 updated: "2026-04-15"
 author: "Leonardo Moreno"
 slug: "una-historia-de-engano-en-la-historia"
 redirectFrom: "/2023/08/una-historia-de-engano-en-la-historia.html"
-description: "Al ser un niño de los 80s, la película de misterio oscuro, La Historia Sin Fin, fue parte de la ficción que consumimos muchos en mi generación. Una generación…"
-tags: ["Cine y Cultura"]
+description: "Un análisis de la película La historia interminable, cuyo misterio oscuro marcó a la generación de los ochenta, y del engaño que el autor señala en ella."
+tags: ["Cine y Cultura", "La historia interminable", "Simbolismo", "Engaño"]
 ---
 
 Estimado lector,  

@@ -1,12 +1,12 @@
 ---
-title: "12 Verdades Que Usted Debe Conocer Antes De Consumir Una Coca-Cola"
+title: "12 verdades antes de beber una Coca-Cola"
 date: "2012-04-25"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "verdades-que-usted-debe-conocer-antes"
 redirectFrom: "/2012/04/verdades-que-usted-debe-conocer-antes.html"
-description: "Detrás de los hipnotizantes y emocionales comerciales de Coca Cola existe una realidad menos cautivadora para el consumo de esta bebida. Doce razones por la…"
-tags: ["Sociedad"]
+description: "Doce razones que el artículo presenta para dejar de consumir Coca-Cola, detrás de sus comerciales hipnotizantes y emocionales de la marca y su publicidad."
+tags: ["Sociedad", "Coca-Cola", "Salud", "Publicidad"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

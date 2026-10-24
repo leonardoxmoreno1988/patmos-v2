@@ -1,12 +1,12 @@
 ---
-title: "\"Víspera De Todos Los Santos\", Las Raíces Ocultas Del Halloween"
+title: "Halloween y las raíces de la Víspera de Todos los Santos"
 date: "2013-10-31"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "vispera-del-todos-los-santos-las-raices"
 redirectFrom: "/2013/10/vispera-del-todos-los-santos-las-raices.html"
-description: "Celebrado en diversos países y en su mayoría por jóvenes y niños, el Halloween posee muchas características que suelen subestimarse. Pero ¿es el Día de Brujas…"
-tags: ["Cine y Cultura"]
+description: "¿Es el Día de Brujas una fiesta de adoración pagana? Un análisis de las raíces del Halloween, celebrado sobre todo por jóvenes y niños en diversos países."
+tags: ["Cine y Cultura", "Halloween", "Paganismo", "Víspera de Todos los Santos"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

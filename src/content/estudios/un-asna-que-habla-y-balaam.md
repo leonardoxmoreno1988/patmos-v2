@@ -1,12 +1,12 @@
 ---
-title: "Un asna que habla y Balaam"
+title: "Un asna que habla y el profeta Balaam"
 date: "2025-05-04"
 updated: "2026-04-10"
 author: "Leonardo Moreno"
 slug: "un-asna-que-habla-y-balaam"
 redirectFrom: "/2025/05/un-asna-que-habla-y-balaam.html"
-description: "El profeta Balaam es un interesante ejemplo de un servidor de Dios que caminó en la peligrosa senda de la tibieza. No es estuvo tan comprometido con el Señor…"
-tags: ["Apologética"]
+description: "El profeta Balaam, ejemplo de un siervo de Dios que caminó en la senda de la tibieza, y el episodio del asna que habla en Números 22 y su lección."
+tags: ["Apologética", "Balaam", "Números 22", "Tibieza"]
 ---
 
 Estimado lector,  

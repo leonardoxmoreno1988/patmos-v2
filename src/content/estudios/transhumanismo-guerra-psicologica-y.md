@@ -1,12 +1,12 @@
 ---
-title: "Transhumanismo, Guerra Psicológica Y Black Eyed Peas \"Imma Be/Rock That Body\""
+title: "Transhumanismo y guerra psicológica en Black Eyed Peas"
 date: "2010-04-18"
 updated: "2023-07-23"
 author: "Leonardo Moreno"
 slug: "transhumanismo-guerra-psicologica-y"
 redirectFrom: "/2010/04/transhumanismo-guerra-psicologica-y.html"
-description: "Este artículo explora brevemente el tema del video transhumanista de Black Eyed Peas \"Imma Be / Rock That Body\". Vigilant Citizen colaborando con LVB se…"
-tags: ["Cine y Cultura"]
+description: "El videoclip transhumanista de Black Eyed Peas, Imma Be / Rock That Body, que Vigilant Citizen analiza como guerra psicológica, según el artículo."
+tags: ["Cine y Cultura", "Black Eyed Peas", "Transhumanismo", "Guerra psicológica"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

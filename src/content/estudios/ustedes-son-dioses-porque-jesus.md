@@ -1,12 +1,12 @@
 ---
-title: "\"Ustedes Son Dioses\": ¿Qué Quería Decir Jesús?"
+title: "¿Qué quiso decir Jesús con 'ustedes son dioses'?"
 date: "2021-02-18"
 updated: "2023-07-17"
 author: "Steven Bancarz"
 slug: "ustedes-son-dioses-porque-jesus"
 redirectFrom: "/2017/07/ustedes-son-dioses-porque-jesus.html"
-description: "Uno de los versos más confusos en el Nuevo Testamento que a menudo se tuerce en un contexto gnóstico / místico es algo que Jesús dice en Juan capítulo 10: \"Los…"
-tags: ["Apologética"]
+description: "El verso de Juan 10 en que Jesús llama dioses a sus oyentes, a menudo torcido en un contexto gnóstico o místico, y su sentido en el texto bíblico."
+tags: ["Apologética", "Juan 10", "Gnosticismo", "Cristología"]
 ---
 
 Uno de los versos más confusos en el **Nuevo Testamento** que a menudo se tuerce en un contexto gnóstico / místico es algo que **Jesús** dice en Juan capítulo 10:  

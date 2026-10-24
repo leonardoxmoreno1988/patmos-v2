@@ -1,12 +1,12 @@
 ---
-title: "Promotores Del Transhumanismo: Cómo La Industria Musical Programa Nuestro Futuro"
+title: "Transhumanismo en la industria musical y el futuro"
 date: "2017-03-13"
 updated: "2023-07-20"
 author: "Kevin Farringdon"
 slug: "transhumanismo-industria-musical-y-el-futuro"
 redirectFrom: "/2017/07/transhumanismo-industria-musical-y-el-futuro.html"
-description: "En abril de 2017 apareció un artículo en The Guardian titulado \"Dios en la máquina: mi extraño viaje al transhumanismo\". El artículo fue escrito por una ex…"
-tags: ["Cine y Cultura"]
+description: "Un artículo de The Guardian de 2017, escrito por una exevangélica, sobre el transhumanismo, y cómo la industria musical promueve ese futuro."
+tags: ["Cine y Cultura", "Transhumanismo", "Industria musical", "Tecnología"]
 ---
 
 En abril de 2017 apareció un artículo en The Guardian titulado "Dios en la máquina: mi extraño viaje al **transhumanismo**". El artículo fue escrito por una ex cristiana evangélica que pierde su fe y luego encuentra consuelo en una **filosofía tecnológica radical** que promete la **inmortalidad** y la trascendencia espiritual a pesar de que tales conceptos para ella parecían inquietantemente familiares.  

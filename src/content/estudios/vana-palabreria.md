@@ -1,12 +1,12 @@
 ---
-title: "Se han apartado hacia una vana palabrería"
+title: "Vana palabrería: experiencias espirituales sectarias"
 date: "2023-12-27"
 updated: "2026-04-13"
 author: "Leonardo Moreno"
 slug: "vana-palabreria"
 redirectFrom: "/2023/12/vana-palabreria.html"
-description: "1 Juan 4:1-6 enseña que los verdaderos creyentes de la Biblia no debemos aceptar experiencias espirituales que se deriven de tradiciones sectarias, porque…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "1 Juan 4:1-6 advierte que no debemos aceptar experiencias espirituales de tradiciones sectarias, porque Satanás imita la obra genuina de Dios."
+tags: ["Falsas Doctrinas", "Apologética", "1 Juan 4", "Discernimiento"]
 ---
 
 Estimado lector,  

@@ -1,12 +1,12 @@
 ---
-title: "¿Son Las Guerras Mundiales Orquestadas? Almirante Alemán Expone Dato Importante"
+title: "¿Fueron orquestadas las guerras mundiales?"
 date: "2015-10-16"
 updated: "2023-07-21"
 author: "Henry Makow"
 slug: "son-las-guerras-mundiales-orquestradas"
 redirectFrom: "/2015/10/son-las-guerras-mundiales-orquestradas.html"
-description: "Un detalle en el libro acertadamente titulado El Suicidio de Europa (1968) de Michel Sturdza encendió mis campanas de alarma. En agosto de 1940, cuando Europa…"
-tags: ["Sociedad"]
+description: "Un detalle del libro El suicidio de Europa (1968), de Michel Sturdza, lleva al autor a preguntarse si las guerras mundiales fueron orquestadas."
+tags: ["Sociedad", "Guerras mundiales", "Historia", "Michel Sturdza"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -1,12 +1,12 @@
 ---
-title: "El Historiador Romano Thallus Menciona La Oscuridad Durante La Crucifixión De Jesús"
+title: "Thallus y la oscuridad en la crucifixión de Jesús"
 date: "2021-10-11"
 updated: "2023-07-17"
 author: "Erik Manning"
 slug: "thallus-menciona-oscuridad"
 redirectFrom: "/2021/09/thallus-menciona-oscuridad.html"
-description: "Los escépticos nos dicen que una de las razones por las que no podemos confiar en los Evangelios es porque cometen muchos errores históricos. En particular…"
-tags: ["Apologética"]
+description: "Según el artículo, el historiador romano Thallus menciona una oscuridad durante la crucifixión de Jesús, frente a las críticas de los escépticos."
+tags: ["Apologética", "Thallus", "Crucifixión", "Evidencia histórica"]
 ---
 
 Los escépticos nos dicen que una de las razones por las que no podemos confiar en los Evangelios es porque cometen muchos errores históricos. En particular, los evangelistas nos cuentan historias lejanas que no han sido corroboradas por otros historiadores contemporáneos. Una de esas historias es la **oscuridad** que sucedió durante la **crucifixión** de Jesús, según Mateo, Marcos y Lucas.

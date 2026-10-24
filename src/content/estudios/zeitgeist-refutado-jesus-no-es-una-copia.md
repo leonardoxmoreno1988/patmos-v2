@@ -1,12 +1,12 @@
 ---
-title: "Zeitgeist Refutado: Jesús No Es Una Copia De Dioses Paganos"
+title: "Zeitgeist refutado: Jesús no es copia de dioses paganos"
 date: "2017-05-31"
 updated: "2023-07-20"
 author: "Steven Bancarz"
 slug: "zeitgeist-refutado-jesus-no-es-una-copia"
 redirectFrom: "/2017/05/zeitgeist-refutado-jesus-no-es-una-copia.html"
-description: "A menudo se afirma que la historia de Jesús fue plagiada o adoptada de las deidades paganas. Que las ideas de su nacimiento virginal, su bautismo, su reunión…"
-tags: ["Apologética"]
+description: "Respuesta a la afirmación, sostenida en Zeitgeist, de que la historia de Jesús fue copiada de deidades paganas, incluidos su nacimiento y sus milagros."
+tags: ["Apologética", "Zeitgeist", "Mitos paganos", "Jesús"]
 ---
 
 A menudo se afirma que la historia de **Jesús** fue plagiada o adoptada de las **deidades paganas**. Que las ideas de su nacimiento virginal, su bautismo, su reunión de discípulos, sus milagros, su título de hijo de Dios, su muerte y su resurrección son ideas que fueron tomadas de los **mitos paganos** pre-cristianos y mezcladas juntas para darnos la historia original y reciclada de otra figura salvadora que murió y se levantó: Jesucristo.  

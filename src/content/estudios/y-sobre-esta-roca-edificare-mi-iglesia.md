@@ -1,12 +1,12 @@
 ---
-title: "Y sobre esta Roca edificaré mi iglesia"
+title: "“Sobre esta roca” y el catolicismo en América"
 date: "2023-11-10"
 updated: "2026-04-15"
 author: "Leonardo Moreno"
 slug: "y-sobre-esta-roca-edificare-mi-iglesia"
 redirectFrom: "/2023/11/y-sobre-esta-roca-edificare-mi-iglesia.html"
-description: "El catolicismo llegó a América hace más de 500 años. Tras levantar muchas iglesias, escuelas y conventos, más de seis generaciones viven la influencia del…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "El catolicismo llegó a América hace más de 500 años. El artículo examina la afirmación de Mateo 16:18 sobre la roca y su interpretación en la historia."
+tags: ["Falsas Doctrinas", "Apologética", "Mateo 16", "Catolicismo"]
 ---
 
 Estimado lector,  

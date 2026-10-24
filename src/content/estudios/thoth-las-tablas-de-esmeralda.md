@@ -1,12 +1,12 @@
 ---
-title: "Thoth & Las Tablas De Esmeralda: Un Demonio Vestido De Oveja"
+title: "Thoth y las Tablas de Esmeralda en la Nueva Era"
 date: "2017-05-28"
 updated: "2023-07-20"
 author: "Steven Bancarz"
 slug: "thoth-las-tablas-de-esmeralda"
 redirectFrom: "/2017/05/thoth-las-tablas-de-esmeralda.html"
-description: "Thoth es probablemente el más popular de todos los dioses egipcios, especialmente dentro de los dominios de la metafísica y el movimiento de la Nueva Era. Él es…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Thoth, dios egipcio popular en la Nueva Era, y las Tablas de Esmeralda, que el artículo presenta como un demonio vestido de oveja según el autor."
+tags: ["Falsas Doctrinas", "Apologética", "Thoth", "Nueva Era"]
 ---
 
 **Thoth** es probablemente el más popular de todos los **dioses egipcios**, especialmente dentro de los dominios de la metafísica y el movimiento de la **Nueva Era**. Él es representado como carismático, portador de sabiduría, y un maestro que está aquí para ayudarnos a entender los misterios del universo. Antes de hablar un poco más en profundidad sobre el papel que este dios juega en el mundo espiritual de nuestros días, echemos un breve vistazo a sus atributos de acuerdo con la mitología egipcia.  

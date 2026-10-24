@@ -5,8 +5,8 @@ updated: "2026-01-09"
 author: "Leonardo Moreno"
 slug: "zacarias-14-predice-un-explosion-nuclear"
 redirectFrom: "/2022/05/zacarias-14-predice-un-explosion-nuclear.html"
-description: "Los residentes de Hiroshima, Japón, apenas comenzaban su rutina matutina cuando la primera bomba atómica del mundo arrasó la ciudad en expansión. La explosión…"
-tags: ["Escatología"]
+description: "Tras el bombardeo atómico de Hiroshima, que mató a unas 70.000 personas, el artículo examina si Zacarías 14 describe una explosión nuclear final."
+tags: ["Escatología", "Zacarías 14", "Profecía", "Armas nucleares"]
 ---
 
 Estimado lector,
