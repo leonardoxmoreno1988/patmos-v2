@@ -42,3 +42,6 @@ redirects.json
 
 # Blogger backup (input to scripts/parse-blogger-export.mjs): contains reader comments and drafts
 blogger-export.xml
+
+*storybook.log
+storybook-static

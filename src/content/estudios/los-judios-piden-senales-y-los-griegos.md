@@ -1,83 +1,88 @@
 ---
-title: "Los judíos piden señales y los griegos buscan sabiduría"
+title: "Los Judíos Piden Señales y los Griegos Buscan Sabiduría"
 date: "2025-05-04"
-updated: "2026-04-10"
+updated: "2026-10-24"
 author: "Leonardo Moreno"
 slug: "los-judios-piden-senales-y-los-griegos"
 redirectFrom: "/2025/05/los-judios-piden-senales-y-los-griegos.html"
-description: "Cuando hablamos sobre los dones con señal (don de lenguas, milagros y sanaciones) es mi postura que no continúan en la iglesia, sino que cesaron con los…"
-tags: ["Apologética"]
+description: "¿Por qué los judíos piden señales? Descubre por qué los dones de lenguas y sanidades eran señales para Israel y la razón bíblica de su cese en la Iglesia."
+tags: ["Apologética", "Cesacionismo", "Dones Espirituales", "Dispensacionalismo", "1 Corintios"]
 ---
 
-Estimado lector,
+Al examinar los llamados «dones con señal» (el hablar en lenguas auténticas, los prodigios visibles y las sanidades instantáneas), el testimonio de las Escrituras enseña que estas manifestaciones extraordinarias no fueron instituidas como una función normativa perpetua para el cuerpo de Cristo, sino que tuvieron un propósito testimonial delimitado que cesó con los apóstoles originales y el cierre del canon bíblico (Efesios 2:20).
 
-  
+Bíblicamente, estas señales milagrosas se agrupan en tres operaciones específicas:
 
-Cuando hablamos sobre los dones con señal (don de lenguas, milagros y sanaciones) es mi postura que no continúan en la iglesia, sino que cesaron con los apóstoles y sus discípulos directos. Estas señales son:
+1. **Don de lenguas:** la capacidad dada por el Espíritu Santo de hablar idiomas humanos reales previamente desconocidos para el hablante.
+2. **Milagros:** intervenciones visibles y tangibles sobre la creación que suspenden temporalmente las leyes naturales de la física.
+3. **Dones de sanidad:** la potestad apostólica de curar enfermedades de forma instantánea, completa y verificable.
 
-  
+---
 
-1.  Don de lenguas: hablar idiomas desconocidos repentinamente.
-2.  Milagros: manifestaciones tangibles y visibles que van en contra de las leyes de la física.
-3.  Sanaciones: que una persona tenga la capacidad de sanar enfermedades milagrosamente.
+## Las Señales son para los Incrédulos de Israel
 
-Todos estos dones son lo que la Biblia describe como "señales": 
+El apóstol Pablo establece con precisión el destinatario teológico de estos dones:
 
-> “Así que las lenguas por señal son, no a los que creen, sino a los incrédulos”  
-> –1 Corintios 14:22a.
+> “Así que las lenguas por señal son, no a los que creen, sino a los incrédulos.”  
+> — **1 Corintios 14:22a**
 
-Pablo enseña que las lenguas son una señal a los incrédulos, y en el mismo capítulo de Corintios se menciona sobre aquellos que no creen.
+El contexto de la primera carta a los Corintios clarifica a qué grupo corresponde esta necesidad de confirmación empírica:
 
-> "Porque los Judíos piden señales, y los Griegos buscan sabiduría; Mas nosotros predicamos a Cristo crucificado, que es a los Judíos ciertamente tropezadero, y a los Griegos insensatez:”  
-> –1 Corintios 1:22-23
+> “Porque los Judíos piden señales, y los Griegos buscan sabiduría; mas nosotros predicamos a Cristo crucificado, que es a los Judíos ciertamente tropezadero, y a los Griegos insensatez.”  
+> — **1 Corintios 1:22-23**
 
-Si vamos a hablar de señales, tenemos que hablar de Israel, porque las señales son para ellos. Inició con los judíos, y cuando Dios dejó de tratar con ellos como nación, las señales fueron desapareciendo. En Éxodo 4:8-9 vemos a Moisés, un líder judío que sacó a los judíos de Egipto y que fue el primer hombre registrado en la Biblia en realizar milagros y señales.
+Para comprender los milagros apostólicos es indispensable comprender la historia de Israel: el origen del pueblo judío estuvo marcado por señales físicas desde su gestación. Cuando Dios comenzó a tratar con Israel como nación, las señales fueron el instrumento de acreditación divina; de igual forma, cuando Dios detuvo temporalmente su trato nacional con ellos para abrir el paréntesis de la Iglesia gentil, las señales fueron declinando hasta desaparecer.
 
-  
+![Moisés y las señales milagrosas de la vara y la lepra en Éxodo 4](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNGk0ovYhzog16rkSWGhcQCzUkG5zun6alr7-8DDf0GF78O7BqL-7dhOguMaUZCQ7TTdKf7cUYTu5d6xxj00_O2-bu8V_93P-a1OW0SfJtfu-TSsgKySXK4-brsanflWdiuliiV0fdB1BMONd_P0ElZhW7Zclj7lF470SCMG0xcV9ZmxBvDPwqjjl9LM/s1106/Screenshot%202025-05-04%20at%209.50.59%E2%80%AFAM.png)
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNGk0ovYhzog16rkSWGhcQCzUkG5zun6alr7-8DDf0GF78O7BqL-7dhOguMaUZCQ7TTdKf7cUYTu5d6xxj00_O2-bu8V_93P-a1OW0SfJtfu-TSsgKySXK4-brsanflWdiuliiV0fdB1BMONd_P0ElZhW7Zclj7lF470SCMG0xcV9ZmxBvDPwqjjl9LM/w640-h510/Screenshot%202025-05-04%20at%209.50.59%E2%80%AFAM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNGk0ovYhzog16rkSWGhcQCzUkG5zun6alr7-8DDf0GF78O7BqL-7dhOguMaUZCQ7TTdKf7cUYTu5d6xxj00_O2-bu8V_93P-a1OW0SfJtfu-TSsgKySXK4-brsanflWdiuliiV0fdB1BMONd_P0ElZhW7Zclj7lF470SCMG0xcV9ZmxBvDPwqjjl9LM/s1106/Screenshot%202025-05-04%20at%209.50.59%E2%80%AFAM.png)
+En Éxodo 4:8-9 presenciamos el ministerio de Moisés, el libertador que guió a los hebreos fuera de Egipto y el primer hombre registrado en las Escrituras a quien Dios facultó para operar señales milagrosas. Ante sus dudas respecto a si el pueblo le creería, Dios le ordenó arrojar su vara, transformándola en serpiente, y luego introducir su mano en su seno, sacándola cubierta de lepra para devolverla inmediatamente sana:
 
-  
+> “Si aconteciere que no te creyeren ni obedecieren a la voz de la primera señal, creerán a la voz de la postrera.”  
+> — **Éxodo 4:8**
 
-En ese capítulo del Éxodo, Moisés está dudando del llamado que le está haciendo Dios, y el Señor le dice que tome su vara y la arroje al suelo. La vara se convierte en una serpiente. Luego Dios le dice que tome su mano y la esconda en su seno. El Señor le dice que la saque, y su mano estaba leprosa completamente. Dios le vuelve a decir que meta la mano en su pecho y la vuelva a sacar, siendo totalmente curado.
+El pueblo judío quedó históricamente condicionado por Dios a exigir señales para validar a un profeta. Su pacto fundacional incluyó diez plagas, la partición del Mar Rojo (Éxodo 14:21), el brote de agua viva desde una roca (Éxodo 17:6), el maná cotidiano en el desierto (Éxodo 16:31) y las columnas de nube y fuego (Éxodo 13:17-22). Este patrón se extendió hasta el ministerio terrenal del Mesías prometido, quien acreditó su deidad mediante prodigios irrepetibles (Mateo 16:4).
 
-  
-Las señales de curación comienzan con Moisés. Es decir, el primer hombre que se enfermó fue un judío, y el primer hombre que fue sanado fue un judío.
+---
 
-> "Si aconteciere, que no te creyeren, ni obedecieren a la voz de la primera señal, creerán a la voz de la postrera."  
-> –Éxodo 4:8
+## Las Tres Ocasiones del Don de Lenguas en el Libro de Hechos
 
-Debemos saber que “los judíos requieren una señal” porque su nación comienza con señales. Estas señales incluyen diversas plagas, abrir el Mar Rojo en dos (Éxodo 14:21), sacar agua de una roca (Éxodo 17:6), el maná que cae del cielo (Éxodo 16:31), columnas de fuego y nube (Éxodo 13:17-22), etc.
+El Nuevo Testamento no describe el hablar en lenguas como una experiencia devocional indiscriminada. A lo largo del libro de los Hechos de los Apóstoles, el fenómeno solo ocurre en tres instancias específicas, y en cada una de ellas operó como testimonio directo para observadores judíos:
 
-  
-Un judío está condicionado a ver señales. Su origen nacional comienza con señales y estas se manifiestan hasta la llegada de Jesucristo, quien también realizó señales y milagros (Mateo 16:4). También debemos saber que no hay ningún otro lugar en la Biblia donde se registre que alguien haya hablado en lenguas más que en Actos 2, 10 y 19.
+| Pasaje en Hechos | Destinatarios del evento | Propósito bíblico como señal |
+| :--- | :--- | :--- |
+| **Hechos 2** (Pentecostés) | Judíos devotos reunidos en Jerusalén de todas las naciones | Acreditar que el Jesús crucificado por la nación era el Mesías resucitado |
+| **Hechos 10** (Casa de Cornelio) | Pedro y los creyentes judíos circuncidados presentes | Confirmar a los apóstoles judíos que los gentiles habían recibido el mismo Espíritu |
+| **Hechos 19** (Éfeso) | Discípulos remanentes del bautismo preparatorio de Juan el Bautista | Demostrar que la promesa de Juan se había cumplido plenamente en Cristo Jesús |
 
-   
-En Actos 2 es una señal para ciertos judíos incrédulos que asesinaron a Cristo y no creían que Él era el Mesías. En Actos 10 es una señal para los judíos que no creían que los gentiles podían recibir el Espíritu Santo. En Actos 19 hubo algunos discípulos de Juan que hablaron en lenguas para evidenciar que Cristo realmente les había dado el Espíritu Santo.
+En ninguno de estos escenarios las lenguas constituyeron un balbuceo extático o privado; fueron idiomas extranjeros inteligibles concedidos como advertencia o confirmación a los hijos de Israel.
 
-   
-Los cristianos que creen en los dones con señal para la Iglesia no están entendiendo el tiempo de salvación por medio de la fe y no por vista (2 Corintios 5:7). No están entendiendo que el tiempo de la Iglesia es una burbuja de tiempo, un paréntesis que separa la semana 69 de la semana 70 de Daniel (Daniel 9:20-27).
+---
 
-  
-Cuando la semana 70 de Daniel inicie, esto es, en el tiempo de la Tribulación, los dones con señal regresarán, no solo porque Dios volverá a tratar con los judíos, sino por el ministerio de milagros y señales que tendrá el Anticristo.
+## El Paréntesis Dispensacional y el Ocaso de los Dones
 
-> "A aquel cuya venida será según la operación de Satanás, con toda potencia, y señales, y milagros mentirosos,"  
-> –2 Tesalonicenses 2:9
+Al asumir que las señales apostólicas deben seguir vigentes de forma permanente en la congregación, se pierde de vista el carácter de la dispensación de la gracia. La Iglesia actual no camina por señales visibles, sino por una economía de salvación por medio de la fe: *«porque por fe andamos, no por vista»* (2 Corintios 5:7).
 
-Si leemos Revelación, los dos testigos hacen señales, los ángeles de Dios hacen señales, de igual forma, el Anticristo, el falso profeta y Satanás con sus ángeles, muestran señales.
+El tiempo de la Iglesia constituye un paréntesis profético ubicado entre la semana 69 y la [semana 70 de la profecía de Daniel](/estudios/la-cuenta-regresiva-de-las-70-semanas) (Daniel 9:20-27). Durante este período transitorio, el trato directo con Israel quedó en suspenso y las señales milagrosas disminuyeron gradualmente conforme el canon de las Escrituras quedaba registrado por los apóstoles.
 
-  
-Hasta que eso suceda, la palabra escrita de Dios es la forma en que Él trata con la Iglesia, no las señales. Es claro que estos dones estaban disminuyendo incluso en la época de Pablo.
+Esta mengua es visible en los últimos escritos paulinos. Mientras que en sus primeros viajes misioneros hasta los pañuelos que tocaban a Pablo sanaban a los enfermos (Hechos 19:12), hacia el final de su ministerio el apóstol no pudo sanar milagrosamente a sus colaboradores más cercanos:
 
-> "No bebas de aquí adelante agua, sino usa de un poco de vino por causa del estómago, y de tus continuas enfermedades"  
-> –1 Timoteo 5:23
+> “No bebas de aquí adelante agua, sino usa de un poco de vino por causa del estómago, y de tus continuas enfermedades.”  
+> — **1 Timoteo 5:23**
 
-La razón por la que Pablo le dice a Timoteo que tome medicamento cuando tenga dolor de estómago es porque para cuando esta carta se escribe, los dones con señal ya habían cesado. Leer también 2 Timoteo 4:20.
+De igual modo, en 2 Timoteo 4:20 deja constancia de su limitación: *«A Trófimo dejé en Mileto enfermo»*. Si el don de sanidad apostólico hubiera sido un poder constante e indefinido, la medicación para Timoteo y el abandono de Trófimo en convalecencia habrían sido innecesarios.
 
-  
-Creo que Dios en su soberanía puede sanar y hacer milagros, pero no creo en ningún hombre que diga poseer el don de las señales como lo hicieron los discípulos originales (Efesios 2:20).  
-Saludos y buena semana.
+---
 
-  
+## El Retorno de las Señales en la Tribulación
 
-Leonardo M.
+Cuando se reanude el cronograma de Dios con la nación judía durante la septuagésima semana de Daniel (el período de la Gran Tribulación), los prodigios públicos regresarán a la escena profética por dos razones:
+
+1. **El testimonio divino hacia Israel:** Los dos testigos profetizarán en Jerusalén realizando prodigios sobrenaturales idénticos a los de Moisés y Elías (Revelación 11:3-6).
+2. **El engaño del sistema apóstata:** El adversario replicará la fascinación por los milagros para engañar al mundo. El [hombre de pecado](/estudios/hombre-de-pecado) y el [falso profeta](/estudios/el-falso-profeta) levantarán un imperio cimentado en la fascinación visual:
+
+> “A aquel cuya venida será según la operación de Satanás, con toda potencia, y señales, y milagros mentirosos.”  
+> — **2 Tesalonicenses 2:9**
+
+---
+
+Dios, en su soberanía eterna y misericordia, tiene el poder absoluto para responder oraciones, sanar cuerpos y obrar milagros providenciales en cualquier época. Sin embargo, transferir la potestad de las señales fundacionales a ministros modernos contradice el testimonio bíblico: los dones con señal pertenecieron a los testigos oculares de la resurrección para validar el mensaje fundacional sobre el cual la Iglesia fue edificada una vez y para siempre.

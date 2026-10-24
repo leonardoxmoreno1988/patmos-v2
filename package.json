@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "NITRO_PRESET=vercel vite build && mkdir -p .vercel/output/static .vercel/output/functions/__server.func && cp -R dist/client/* .vercel/output/static/ && cp -R dist/server/* .vercel/output/functions/__server.func/ && cp -R node_modules .vercel/output/functions/__server.func/ && node -e \"require('fs').writeFileSync('.vercel/output/config.json', JSON.stringify({version:3,routes:[{handle:'filesystem'},{src:'/(.*)',dest:'/__server'}]}))\" && node -e \"require('fs').writeFileSync('.vercel/output/functions/__server.func/.vc-config.json', JSON.stringify({runtime:'nodejs22.x',handler:'server.js',launcherType:'Nodejs'}))\" && node -e \"require('fs').writeFileSync('.vercel/output/functions/__server.func/package.json', JSON.stringify({type:'module'}))\" && node scripts/merge-vercel-redirects.mjs",
     "postinstall": "node -e \"const fs=require('fs'); const p='node_modules/tslib/package.json'; if(fs.existsSync(p)){ const j=JSON.parse(fs.readFileSync(p)); j.exports['.'].import='./tslib.es6.js'; fs.writeFileSync(p, JSON.stringify(j,null,2)); }\"",
-    "start": "vite preview"
+    "start": "vite preview",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
   },
   "dependencies": {
     "@ai-sdk/openai": "^4.0.75",
@@ -97,6 +99,17 @@
     "turndown": "^7.2.4",
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.56.1",
-    "vite": "^8.2.0"
+    "vite": "^8.2.0",
+    "storybook": "^10.6.3",
+    "@storybook/tanstack-react": "^10.6.3",
+    "@chromatic-com/storybook": "latest",
+    "@storybook/addon-vitest": "^10.6.3",
+    "@storybook/addon-a11y": "^10.6.3",
+    "@storybook/addon-docs": "^10.6.3",
+    "eslint-plugin-storybook": "^10.6.3",
+    "vitest": "latest",
+    "@vitest/browser-playwright": "latest",
+    "@vitest/coverage-v8": "latest",
+    "playwright": "latest"
   }
 }

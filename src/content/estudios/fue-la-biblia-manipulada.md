@@ -6,7 +6,7 @@ author: "Leonardo Moreno"
 slug: "fue-la-biblia-manipulada"
 redirectFrom: "/2022/05/fue-la-biblia-manipulada.html"
 description: "¿Fue alterado el texto bíblico? Descubre la diferencia histórica entre el Texto Recibido, los manuscritos alejandrinos y la preservación del canon."
-tags: ["Apologética", "Manuscritos", "Doctrina"]
+tags: ["Apologética"]
 ---
 
 Estimado lector,

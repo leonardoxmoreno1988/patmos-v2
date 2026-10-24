@@ -42,6 +42,7 @@ export const Route = createFileRoute("/estudios/$slug")({
           inLanguage: "es",
           image: post.image ?? `${SITE_URL}/og-image.png`,
           author: { "@type": "Person", name: post.author },
+          keywords: post.tags?.length ? post.tags.join(", ") : undefined,
           publisher: ORGANIZATION,
           isPartOf: { "@id": `${SITE_URL}/#website` },
         },

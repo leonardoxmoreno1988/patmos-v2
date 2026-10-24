@@ -239,7 +239,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 					</CommandList>
 
 				{hasMore ? (
-					<div className="flex-shrink-0 mt-auto w-full border-t border-slate-100 bg-white p-4 dark:border-slate-800 dark:bg-slate-900">
+					<div className="flex-shrink-0 mt-auto w-full border-t border-border bg-background/50 p-4">
 						<button
 							type="button"
 							onClick={goToSearchPage}
