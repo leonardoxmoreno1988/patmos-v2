@@ -1,12 +1,12 @@
 ---
-title: "El Ocultismo Simbólico de la Película \"Metropolis\" y su Importancia en la Cultura Popular"
+title: "Ocultismo simbólico en Metrópolis, de Fritz Lang"
 date: "2015-09-11"
 updated: "2023-07-21"
 author: "Vigilant Citizen"
 slug: "el-ocultismo-simbolico-de-metropolis"
 redirectFrom: "/2015/09/el-ocultismo-simbolico-de-metropolis.html"
-description: "La película de 1927 \"Metropolis\" de Fritz Lang es uno de esos clásicos atemporales que resisten la prueba del tiempo. En lugar de quedar olvidado y obsoleto…"
-tags: ["Cine y Cultura"]
+description: "El simbolismo oculto de la película Metrópolis (1927) de Fritz Lang y por qué, según el autor, sus predicciones se están cumpliendo en la actualidad."
+tags: ["Cine y Cultura", "Metrópolis", "Ocultismo", "Fritz Lang"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

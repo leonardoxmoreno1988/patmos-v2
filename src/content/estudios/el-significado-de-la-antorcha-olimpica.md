@@ -1,12 +1,12 @@
 ---
-title: "El Significado Oculto De La Antorcha Olímpica"
+title: "El significado oculto de la antorcha olímpica"
 date: "2012-05-17"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "el-significado-de-la-antorcha-olimpica"
 redirectFrom: "/2012/05/el-significado-de-la-antorcha-olimpica.html"
-description: "Tras varios años de los Juegos Olímpicos, mucho simbolismo ha sido expuesto en sus diversos eventos y campañas de publicidad. Algunos de estos, si bien son de…"
-tags: ["Sociedad"]
+description: "Un análisis del simbolismo ancestral de la antorcha olímpica y de las campañas publicitarias de los Juegos Olímpicos, moldeadas para el público moderno."
+tags: ["Sociedad", "Juegos Olímpicos", "Simbolismo", "Publicidad"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

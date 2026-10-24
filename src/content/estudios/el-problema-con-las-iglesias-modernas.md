@@ -1,12 +1,12 @@
 ---
-title: "El problema con las iglesias modernas"
+title: "El problema de las iglesias neoevangélicas modernas"
 date: "2023-04-23"
 updated: "2026-08-06"
 author: "Leonardo Moreno"
 slug: "el-problema-con-las-iglesias-modernas"
 redirectFrom: "/2023/04/el-problema-con-las-iglesias-modernas.html"
-description: "Existen diversas iglesias que se dedican a compartir enseñanzas de la Biblia usando medios y métodos modernos. A tales se le podría llamar, iglesias…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Las iglesias neoevangélicas que usan medios y métodos modernos para enseñar la Biblia, y los problemas que, según el autor, implica ese enfoque."
+tags: ["Falsas Doctrinas", "Apologética", "Iglesias modernas", "Neoevangelicalismo"]
 ---
 
 Estimado lector,  

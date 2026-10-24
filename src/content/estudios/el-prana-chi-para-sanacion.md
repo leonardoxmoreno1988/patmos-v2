@@ -1,12 +1,12 @@
 ---
-title: "El poder del chi, prana o \"la fuerza\" para sanación"
+title: "El chi y el prana: la fuerza para la sanación"
 date: "2022-10-30"
 updated: "2025-05-26"
 author: "Leonardo Moreno"
 slug: "el-prana-chi-para-sanacion"
 redirectFrom: "/2022/10/el-prana-chi-para-sanacion.html"
-description: "Debido a la apostasía actual, muchas iglesias han introducido un sincretismo entre el cristianismo y los métodos de sanación del medio oriente, atribuyéndolos…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Muchas iglesias mezclan el cristianismo con métodos de sanación orientales basados en el chi o prana, atribuyéndolos a Dios. Qué advierte la Biblia."
+tags: ["Falsas Doctrinas", "Apologética", "Sanidad", "Nueva Era"]
 ---
 
 Estimado lector,  

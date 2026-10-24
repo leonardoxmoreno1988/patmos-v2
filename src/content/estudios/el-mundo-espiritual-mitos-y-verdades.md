@@ -1,12 +1,12 @@
 ---
-title: "El Mundo Angelical: Mitos y Verdades Según La Biblia"
+title: "El mundo angelical: mitos y verdades según la Biblia"
 date: "2015-10-02"
 updated: "2023-07-21"
 author: "Ciudadano Uno"
 slug: "el-mundo-espiritual-mitos-y-verdades"
 redirectFrom: "/2015/10/el-mundo-espiritual-mitos-y-verdades.html"
-description: "El mundo espiritual ha sido siempre un gran misterio para los humanos. La inquietud por querer conectarnos con estos seres siempre nos ha llevado muchas…"
-tags: ["Apologética"]
+description: "Qué enseña la Biblia sobre el mundo espiritual y los ángeles, frente a los mitos y rituales con los que las personas buscan conectar con esos seres."
+tags: ["Apologética", "Angelología", "Mitos", "Biblia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

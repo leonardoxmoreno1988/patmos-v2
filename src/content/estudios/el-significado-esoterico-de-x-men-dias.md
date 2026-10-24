@@ -1,12 +1,12 @@
 ---
-title: "El Significado Esotérico De \"X-Men: Días Del Futuro Pasado\" Y La Agenda Homosexual"
+title: "X-Men: Días del futuro pasado y su mensaje oculto"
 date: "2014-06-24"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "el-significado-esoterico-de-x-men-dias"
 redirectFrom: "/2014/06/el-significado-esoterico-de-x-men-dias.html"
-description: "Con un argumento sacado de las páginas del cómic original de 1980, X-Men: Días del Futuro Pasado nos muestra una realidad alterna sobre un futuro devastado por…"
-tags: ["Cine y Cultura"]
+description: "El argumento de X-Men: Días del futuro pasado y las referencias religiosas y de manipulación genética que, según el autor, contiene su mensaje filosófico."
+tags: ["Cine y Cultura", "X-Men", "Cine", "Simbolismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

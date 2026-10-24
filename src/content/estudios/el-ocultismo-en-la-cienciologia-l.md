@@ -1,12 +1,12 @@
 ---
-title: "El Ocultismo En La Cienciología: L. Ronald Hubbard y Aleister Crowley"
+title: "Ocultismo en la Cienciología: Hubbard y Crowley"
 date: "2016-02-01"
 updated: "2023-07-21"
 author: "Kevin Farringdon"
 slug: "el-ocultismo-en-la-cienciologia-l"
 redirectFrom: "/2018/07/el-ocultismo-en-la-cienciologia-l.html"
-description: "¿La Iglesia de la Cienciología gana o pierde miembros e influencia? La respuesta a esa pregunta puede depender de a quién le pregunte sobre este movimiento…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Según desertores de la Cienciología, la iglesia pierde influencia. El artículo examina la relación de L. Ronald Hubbard con el ocultismo de Crowley."
+tags: ["Falsas Doctrinas", "Apologética", "Cienciología", "Aleister Crowley"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

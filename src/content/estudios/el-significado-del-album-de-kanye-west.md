@@ -1,12 +1,12 @@
 ---
-title: "El Significado Del Álbum De Kanye West \"Yeezus\" Y El Porqué Trajo A \"Jesús\" Al Escenario"
+title: "Yeezus, Kanye West y Jesús en el escenario"
 date: "2013-11-07"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "el-significado-del-album-de-kanye-west"
 redirectFrom: "/2013/11/el-significado-del-album-de-kanye-west.html"
-description: "Muchos cristianos e incluso no cristianos han tenido una actitud confusa con el nuevo disco de Kanye West \"Yeezus\", este disco ha tomado aún más popularidad al…"
-tags: ["Cine y Cultura"]
+description: "El disco Yeezus de Kanye West y la presentación de un Jesús 'real' en su gira de Seattle, y la confusión que generó entre cristianos y no cristianos."
+tags: ["Cine y Cultura", "Kanye West", "Música", "Jesús"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

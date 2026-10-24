@@ -1,12 +1,12 @@
 ---
-title: "¿Quién es el falso profeta de Revelación 13?"
+title: "El falso profeta de Revelación 13: ¿quién es?"
 date: "2022-01-23"
 updated: "2025-05-25"
 author: "Leonardo Moreno"
 slug: "el-falso-profeta"
 redirectFrom: "/2022/01/el-falso-profeta.html"
-description: "La imagen del falso profeta puede parecer incierta, algunos lo atribuyen a falsos maestros, otros dicen que es el Papa, pero no ignoremos las descripciones…"
-tags: ["Escatología"]
+description: "Revelación 13 describe al falso profeta, la segunda bestia. Algunos lo identifican con falsos maestros y otros con el Papa. Qué dice el texto bíblico."
+tags: ["Escatología", "Profecía", "Revelación", "Anticristo"]
 ---
 
 Estimado lector,

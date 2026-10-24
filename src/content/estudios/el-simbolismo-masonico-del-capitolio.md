@@ -1,12 +1,12 @@
 ---
-title: "El Simbolismo Masónico Del Capitolio De Los Estados Unidos"
+title: "El simbolismo masónico del Capitolio de Estados Unidos"
 date: "2017-05-30"
 updated: "2023-07-20"
 author: "Vigilant Citizen"
 slug: "el-simbolismo-masonico-del-capitolio"
 redirectFrom: "/2017/05/el-simbolismo-masonico-del-capitolio.html"
-description: "El Capitolio de los Estados Unidos no es simplemente otro edificio gubernamental. Es el centro espiritual de los Estados Unidos. Su estructura, su arte y sus…"
-tags: ["Sociedad"]
+description: "La estructura, el arte y los símbolos del Capitolio de Estados Unidos y el papel que, según el autor, tienen las fraternidades secretas en su gobierno."
+tags: ["Sociedad", "Masonería", "Capitolio", "Símbolos"]
 ---
 
 El **Capitolio** de los **Estados Unidos** no es simplemente otro edificio gubernamental. Es el centro espiritual de los Estados Unidos. Su estructura, su arte y sus **símbolos** revelan la gran importancia de las fraternidades secretas en la conformación del gobierno más poderoso del mundo. Exploraremos el **Capitolio** y descubriremos las características que hacen de este edificio un lugar **masónico**, un Templo Americano de Salomón.  

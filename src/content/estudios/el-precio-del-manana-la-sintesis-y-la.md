@@ -1,12 +1,12 @@
 ---
-title: "El Precio Del Mañana, El Fin De La Síntesis Y La Marca De La Bestia"
+title: "El Precio del Mañana y la marca de la bestia"
 date: "2012-03-26"
 updated: "2024-08-30"
 author: "Jhonkbn"
 slug: "el-precio-del-manana-la-sintesis-y-la"
 redirectFrom: "/2012/03/el-precio-del-manana-la-sintesis-y-la.html"
-description: "Sería fácil pensar que Hollywood trabaja para una élite de capitalistas que aborrecen toda idea comunista. Incluso con respecto al comunismo, las fuerzas…"
-tags: ["Cine y Cultura"]
+description: "Análisis de la película In Time y su tesis y antítesis, que según el autor oculta una estrategia de engaño de Hollywood sobre el comunismo y el capital."
+tags: ["Cine y Cultura", "In Time", "Marca de la bestia", "Escatología"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

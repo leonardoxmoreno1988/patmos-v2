@@ -1,12 +1,12 @@
 ---
-title: "El Gnosticismo Oculto En Hollywood Y Su Significado En La Película \"300\""
+title: "Gnosticismo oculto en Hollywood: la película 300"
 date: "2012-02-24"
 updated: "2024-08-30"
 author: "Jhonkbn"
 slug: "el-gnosticismo-oculto-en-hollywood-y-su"
 redirectFrom: "/2012/02/el-gnosticismo-oculto-en-hollywood-y-su.html"
-description: "Muchos conocen la obra de Zack Snyder \"300\", sin embargo, muy pocos son los que han reconocido su vínculo con el gnosticismo y la importancia que tiene en la…"
-tags: ["Cine y Cultura"]
+description: "El vínculo de la película 300 de Zack Snyder con el gnosticismo y el concepto de dualidad en la industria del cine, y su influencia en la cultura popular."
+tags: ["Cine y Cultura", "Gnosticismo", "300", "Dualidad"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

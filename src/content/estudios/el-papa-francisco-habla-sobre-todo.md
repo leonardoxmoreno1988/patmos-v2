@@ -1,12 +1,12 @@
 ---
-title: "El Papa Francisco Habla Sobre Todo Excepto de Cristo"
+title: "El Papa Francisco y el silencio sobre Cristo"
 date: "2015-09-30"
 updated: "2023-07-21"
 author: "Kieran Dunn"
 slug: "el-papa-francisco-habla-sobre-todo"
 redirectFrom: "/2015/09/el-papa-francisco-habla-sobre-todo.html"
-description: "El Papa Francisco promueve la salvación secular masónica. ¿En qué momento dijo: \"Has dejado de lado las enseñanzas de Jesucristo y ahora se le trata como una…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Análisis de la acusación de que el Papa Francisco promueve una salvación secular masónica y deja de lado las enseñanzas de Jesucristo en sus discursos."
+tags: ["Falsas Doctrinas", "Apologética", "Papa Francisco", "Catolicismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

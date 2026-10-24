@@ -1,12 +1,12 @@
 ---
-title: "El Gobierno Canadiense Compensa En Silencio A La Hija De Víctima MK Ultra"
+title: "Gobierno canadiense compensa a hija de víctima de MK Ultra"
 date: "2016-11-02"
 updated: "2023-07-20"
 author: "Vigilant Citizen"
 slug: "el-gobierno-canadiense-compensa-en"
 redirectFrom: "/2017/11/el-gobierno-canadiense-compensa-en.html"
-description: "La víctima MK Ultra fue mantenida en un sueño inducido químicamente durante semanas y sometida a descargas de electroshocks, drogas experimentales y mensajes…"
-tags: ["Sociedad"]
+description: "Según el reporte, Canadá compensa en silencio a la hija de una víctima de MK Ultra, mantenida en un sueño inducido químicamente durante semanas."
+tags: ["Sociedad", "MK Ultra", "Control mental", "Historia"]
 ---
 
 La víctima **MK Ultra** fue mantenida en un sueño inducido químicamente durante semanas y sometida a descargas de **electroshocks**, drogas experimentales y mensajes grabados en cintas que fueron reproducidas sin parar.  

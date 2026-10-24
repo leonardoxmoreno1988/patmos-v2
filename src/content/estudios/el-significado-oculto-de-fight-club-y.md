@@ -1,12 +1,12 @@
 ---
-title: "El Significado Oculto de \"Fight Club\" y su Relación con el Nuevo Orden Mundial"
+title: "El significado oculto de Fight Club y el Nuevo Orden"
 date: "2011-11-21"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "el-significado-oculto-de-fight-club-y"
 redirectFrom: "/2011/11/el-significado-oculto-de-fight-club-y.html"
-description: "Catalogada como una de las mejores películas de los años 90, Fight Club (El Club de la Pelea) trae una crítica a la sociedad actual materialista, tratando de…"
-tags: ["Cine y Cultura"]
+description: "Fight Club como crítica a la sociedad materialista y, según el autor, su relación con el Nuevo Orden Mundial más allá de su supuesto mensaje antisistema."
+tags: ["Cine y Cultura", "Fight Club", "Nuevo Orden Mundial", "Cine"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

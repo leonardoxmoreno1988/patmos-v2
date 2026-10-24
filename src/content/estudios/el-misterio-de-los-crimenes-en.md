@@ -1,12 +1,12 @@
 ---
-title: "La Verdad Sobre El Sacrificio Ritual Satánico En Matamoros, México (1989)"
+title: "Sacrificio ritual satánico en Matamoros, México (1989)"
 date: "2015-09-02"
 updated: "2023-07-21"
 author: "Good Fight Ministries"
 slug: "el-misterio-de-los-crimenes-en"
 redirectFrom: "/2015/09/el-misterio-de-los-crimenes-en.html"
-description: "\"Creo que los sospechosos fueron poseídos por el demonio. Esa sería la única explicación para este tipo de acciones extrañas.\" Así se expresó la madre de…"
-tags: ["Sociedad"]
+description: "El caso de Mark Kilroy, asesinado en Matamoros, México, en 1989, presentado como un supuesto sacrificio ritual satánico y lo que se sabe de él."
+tags: ["Sociedad", "Matamoros", "Sacrificio ritual", "Satanismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

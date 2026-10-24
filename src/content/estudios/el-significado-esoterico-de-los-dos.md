@@ -1,12 +1,12 @@
 ---
-title: "El Significado Esotérico De Los Dos Pilares Masónicos: Boaz Y Jaquín"
+title: "Los dos pilares masónicos: Boaz y Jaquín"
 date: "2011-07-02"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "el-significado-esoterico-de-los-dos"
 redirectFrom: "/2011/07/el-significado-esoterico-de-los-dos.html"
-description: "Desde los albores de la civilización, la entrada de los lugares sagrados y misteriosos ha sido custodiada por dos pilares. Ya sea en el arte o la…"
-tags: ["Sociedad"]
+description: "El significado esotérico de los pilares masónicos Boaz y Jaquín y su simbolismo como puerta de entrada a lo desconocido en la arquitectura sagrada."
+tags: ["Sociedad", "Masonería", "Simbolismo", "Arquitectura"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -1,12 +1,12 @@
 ---
-title: "El Papa Y Los \"Cuernos\" De Time Magazine"
+title: "El Papa Francisco y los cuernos de Time Magazine"
 date: "2015-07-05"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "el-papa-y-los-cuernos-de-time-magazine"
 redirectFrom: "/2015/07/el-papa-y-los-cuernos-de-time-magazine.html"
-description: "Tras solo cuatro meses como Papa, Francisco I obtiene su segunda portada en la Revista \"Time\". Esta vez como el \"Papa del Pueblo\" y narrando su protagonismo en…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "La portada de Time con Francisco I como Papa del Pueblo tras la Jornada de la Juventud de Río de Janeiro, y la polémica por el detalle de sus cuernos."
+tags: ["Falsas Doctrinas", "Apologética", "Papa Francisco", "Simbolismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

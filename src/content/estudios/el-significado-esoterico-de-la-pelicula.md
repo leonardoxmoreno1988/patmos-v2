@@ -1,12 +1,12 @@
 ---
-title: "El Significado Esotérico De La Película \"Noé\" ¿Historia Bíblica O Fábula Gnóstica?"
+title: "La película Noé: ¿historia bíblica o fábula gnóstica?"
 date: "2014-04-07"
 updated: "2023-07-21"
 author: "Jhonkbn"
 slug: "el-significado-esoterico-de-la-pelicula"
 redirectFrom: "/2014/04/el-significado-esoterico-de-la-pelicula.html"
-description: "Estrenada en marzo de 2014, la película de Darren Aronofsky, Noé, levantó diversos cuestionamientos sobre los intereses de Hollywood frente a las historias…"
-tags: ["Cine y Cultura"]
+description: "Estrenada en 2014, la película Noé de Darren Aronofsky plantea si es historia bíblica o fábula gnóstica. Se expone el trasfondo espiritual del film."
+tags: ["Cine y Cultura", "Noé", "Gnosticismo", "Biblia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -1,12 +1,12 @@
 ---
-title: "El Origen Del Nombre Vaticano Y La Diosa Etrusca \"Vatika\""
+title: "El origen del nombre Vaticano y la diosa Vatika"
 date: "2019-02-21"
 updated: "2023-07-17"
 author: "Ellen Lloyd"
 slug: "el-origen-del-nombre-vaticano-y-vatika"
 redirectFrom: "/2017/05/el-origen-del-nombre-vaticano-y-vatika.html"
-description: "El Vaticano es un símbolo del cristianismo. Hoy estamos tan acostumbrados al nombre que difícilmente pensamos en cómo obtuvo su nombre \"Vaticano\". La verdad es…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "El nombre Vaticano no es latín ni griego ni viene de la Biblia. Según el artículo, su origen se remonta a la diosa etrusca Vatika y a su culto."
+tags: ["Falsas Doctrinas", "Apologética", "Vaticano", "Etruscos"]
 ---
 
 El **Vaticano** es un símbolo del cristianismo. Hoy estamos tan acostumbrados al **nombre** que difícilmente pensamos en cómo obtuvo su nombre "**Vaticano"**. La verdad es que el nombre Vaticano no es ni latín ni griego y no se puede remontar a la Biblia tampoco.  

@@ -1,12 +1,12 @@
 ---
-title: "El Misterio Del Patrón En El Pavimento Masónico"
+title: "El patrón de cuadros del pavimento masónico"
 date: "2011-06-17"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "el-misterio-del-patron-en-el-pavimento"
 redirectFrom: "/2011/06/el-misterio-del-patron-en-el-pavimento.html"
-description: "El piso a cuadros blanco y negro ha existido en los templos desde los tiempos del antiguo Egipto. Más que una simple decoración, el pavimento de mosaico tiene…"
-tags: ["Sociedad"]
+description: "El piso de cuadros blancos y negros de los templos desde el antiguo Egipto y su significado esotérico como uno de los símbolos de la masonería."
+tags: ["Sociedad", "Masonería", "Simbolismo", "Egipto"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

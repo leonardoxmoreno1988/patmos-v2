@@ -1,12 +1,12 @@
 ---
-title: "El Templo Satánico Revela Una Enorme Estatua De Baphomet En Detroit"
+title: "Estatua de Baphomet del Templo Satánico en Detroit"
 date: "2015-08-04"
 updated: "2023-07-21"
 author: "Vigilant Citizen"
 slug: "el-templo-satanico-revela-una-enorme"
 redirectFrom: "/2015/08/el-templo-satanico-revela-una-enorme.html"
-description: "La inauguración de la estatua de 9 pies de altura y 1,5 toneladas de Baphomet tuvo lugar en Detroit y fue apodada \"el evento satánico más grande de la…"
-tags: ["Sociedad"]
+description: "El Templo Satánico develó en Detroit una estatua de bronce de Baphomet de 9 pies y 1,5 toneladas, a la que se llamó el evento satánico más grande."
+tags: ["Sociedad", "Baphomet", "Satanismo", "Detroit"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**  

@@ -1,12 +1,12 @@
 ---
-title: "El Futuro De Las Ideas Religiosas"
+title: "El futuro de las ideas religiosas según Springmeier"
 date: "2014-09-04"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "el-futuro-de-las-ideas-religiosas"
 redirectFrom: "/2014/09/el-futuro-de-las-ideas-religiosas.html"
-description: "El autor del libro Ser Prudentes Como Las Serpientes, Fritz Springmeier, comparte algunos pensamientos sobre la futura manipulación de las religiones hacia una…"
-tags: ["Sociedad"]
+description: "Fritz Springmeier, autor de Ser prudentes como las serpientes, expone su visión de una futura religión masónica y de la infiltración en la iglesia."
+tags: ["Sociedad", "Masonería", "Nueva religión mundial", "Iglesia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

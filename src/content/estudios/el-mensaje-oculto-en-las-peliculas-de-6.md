@@ -1,12 +1,12 @@
 ---
-title: "El Mensaje Oculto En Las Películas de Pixar"
+title: "El mensaje oculto en las películas de Pixar"
 date: "2012-10-06"
 updated: "2023-07-22"
 author: "Discover Magazine"
 slug: "el-mensaje-oculto-en-las-peliculas-de-6"
 redirectFrom: "/2012/10/el-mensaje-oculto-en-las-peliculas-de_6.html"
-description: "He aquí un interesante artículo sobre los mensajes subyacentes filosóficos que se encuentran en diversas películas de Pixar. El autor del artículo descubrió un…"
-tags: ["Cine y Cultura"]
+description: "Un análisis de los mensajes filosóficos y del tema transhumanista que, según su autor, recorre la mayoría de las películas de Pixar y su visión humana."
+tags: ["Cine y Cultura", "Pixar", "Transhumanismo", "Películas"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

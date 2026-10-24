@@ -1,12 +1,12 @@
 ---
-title: "El Mundo Del Control Mental Desde Los Ojos De Una Artista Con 13 Alters"
+title: "Kim Noble: control mental y arte con 13 alters"
 date: "2011-09-27"
 updated: "2023-07-22"
 author: "Vigilant Citizen"
 slug: "el-mundo-del-control-mental-desde-los"
 redirectFrom: "/2011/09/el-mundo-del-control-mental-desde-los.html"
-description: "Kim Noble es un caso raro: una sobreviviente del control mental basado en el trauma con más de 13 alters modificados que no se conocen entre sí, pero que todos…"
-tags: ["Sociedad"]
+description: "La historia de Kim Noble, sobreviviente de control mental basado en el trauma, con más de 13 alters que pintan y una vida con trastorno disociativo."
+tags: ["Sociedad", "Control mental", "Trauma", "Arte"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**
