@@ -1,12 +1,12 @@
 ---
-title: "Los Hashish Asesinos y el Legendario Viejo de la Montaña"
+title: "Los hashishin y el legendario Viejo de la Montaña"
 date: "2013-05-28"
 updated: "2023-07-22"
 author: "Fritz Springmeier"
 slug: "los-hashish-asesinos-y-el-legendario"
 redirectFrom: "/2013/05/los-hashish-asesinos-y-el-legendario.html"
-description: "\"El área que hoy se conoce como Turquía ha jugado un gran rol en las religiones de misterio. El uso de drogas para crear \"experiencias religiosas\" fue…"
-tags: ["Sociedad"]
+description: "Los asesinos hashishin, su legendario líder el Viejo de la Montaña y el uso de drogas en las religiones de misterio, según el texto citado en el artículo."
+tags: ["Sociedad", "Hashishin", "Religiones de misterio", "Historia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

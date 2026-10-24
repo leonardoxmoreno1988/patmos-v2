@@ -1,12 +1,12 @@
 ---
-title: "Los 10 Grandes Mitos y Mentiras Acerca De La Sobrepoblación"
+title: "Los 10 mitos sobre la sobrepoblación del planeta"
 date: "2013-11-15"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "los-10-grandes-mitos-y-mentiras-acerca"
 redirectFrom: "/2013/11/los-10-grandes-mitos-y-mentiras-acerca.html"
-description: "Luego de que diversos personajes de élite como Al Gore y Bill Gates señalaran que parte de los problemas mundiales se debían a una sobrepoblación, se…"
-tags: ["Sociedad"]
+description: "Diez argumentos sobre la sobrepoblación que se propagaron tras declaraciones de Al Gore y Bill Gates. Un repaso crítico de cada uno de los mitos señalados."
+tags: ["Sociedad", "Sobrepoblación", "Al Gore", "Bill Gates"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

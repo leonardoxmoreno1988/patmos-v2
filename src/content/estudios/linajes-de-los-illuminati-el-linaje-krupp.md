@@ -1,12 +1,12 @@
 ---
-title: "\"Linajes De Los Illuminati\": El Linaje Krupp"
+title: "Linajes de los Illuminati: el linaje Krupp"
 date: "2014-07-08"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-krupp"
 redirectFrom: "/2014/07/linajes-de-los-illuminati-el-linaje.html"
-description: "En este capítulo de \"Bloodlines of the Illuminati\", el Linaje Krupp se expone como una de estas familias alemanas interconectadas a los Illuminati. Descubra su…"
-tags: ["Sociedad"]
+description: "Un capítulo sobre el linaje Krupp, familia alemana que, según Springmeier, estaría conectada con los Illuminati y con el ascenso de Hitler al poder."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

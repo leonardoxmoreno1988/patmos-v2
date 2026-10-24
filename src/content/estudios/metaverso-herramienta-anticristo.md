@@ -1,12 +1,12 @@
 ---
-title: "El metaverso: ¿Una futura herramienta del Anticristo?"
+title: "El metaverso: ¿una futura herramienta del Anticristo?"
 date: "2021-12-19"
 updated: "2026-01-13"
 author: "Leonardo Moreno"
 slug: "metaverso-herramienta-anticristo"
 redirectFrom: "/2021/12/metaverso-herramienta-anticristo.html"
-description: "Con millones de vistas en internet, Facebook anunció el mes pasado que la compañía cambiaría su nombre a Meta Platforms Inc., o \"Meta\" para abreviar. El CEO…"
-tags: ["Sociedad"]
+description: "Tras el cambio de nombre de Facebook a Meta, el artículo se pregunta si el metaverso podría ser una herramienta del Anticristo, desde una mirada profética."
+tags: ["Sociedad", "Metaverso", "Anticristo", "Tecnología"]
 ---
 
 Estimado lector,

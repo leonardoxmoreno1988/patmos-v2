@@ -1,12 +1,12 @@
 ---
-title: "\"Linajes De Los Illuminati\": El Linaje Collins"
+title: "Linajes de los Illuminati: el linaje Collins"
 date: "2012-04-30"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-30"
 redirectFrom: "/2012/04/linajes-de-los-illuminati-el-linaje_30.html"
-description: "En este capítulo de \"Linaje de los Illuminati\" el Linaje Collins revela todo el ocultismo en el que el linaje estuvo involucrado por generaciones y se expone a…"
-tags: ["Sociedad"]
+description: "El capítulo sobre el linaje Collins describe el ocultismo que, según Springmeier, marcó a la familia durante generaciones, incluido el caso de John Todd."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

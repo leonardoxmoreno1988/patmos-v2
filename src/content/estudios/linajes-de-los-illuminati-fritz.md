@@ -1,12 +1,12 @@
 ---
-title: "Linajes De Los Illuminati (Online) Por Fritz Springmeier"
+title: "Linajes de los Illuminati: libro de Fritz Springmeier"
 date: "2013-10-08"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-fritz"
 redirectFrom: "/2013/10/linajes-de-los-illuminati-fritz.html"
-description: "¿Quién controla realmente los acontecimientos del mundo por detrás de la escena ? Años de extensa investigación han sido incluidos en este trabajo documentado…"
-tags: ["Sociedad"]
+description: "El libro en línea Linajes de los Illuminati, de 624 páginas, que según su presentación documenta quién controla los acontecimientos del mundo."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 [![Portada del libro Linaje de los Illuminati de Fritz Springmeier](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4ABM2IQukAD7v54Eq7xbbnV1-ArpCitfx5xr_G8Q9r2jOpYT1SPynlgjlzlp0VwZYmd4amREiUCtKLbQjlkphoc4hzsfaFDaeVhrNK0Eu8anlECINRHaYDzxdgU3mG5hhWmyZ8lhyphenhyphen3mg/s16000/bloodlines.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4ABM2IQukAD7v54Eq7xbbnV1-ArpCitfx5xr_G8Q9r2jOpYT1SPynlgjlzlp0VwZYmd4amREiUCtKLbQjlkphoc4hzsfaFDaeVhrNK0Eu8anlECINRHaYDzxdgU3mG5hhWmyZ8lhyphenhyphen3mg/s614/bloodlines.jpg)

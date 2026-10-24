@@ -1,12 +1,12 @@
 ---
-title: "Los Padres Secretos De La Nueva Era: Swedenborg, Mesmer, Bacon y Quimby"
+title: "Padres de la Nueva Era: Swedenborg y Mesmer"
 date: "2016-12-02"
 updated: "2023-07-20"
 author: "Kevin Farringdon"
 slug: "los-padres-secretos-de-la-nueva-era"
 redirectFrom: "/2017/12/los-padres-secretos-de-la-nueva-era.html"
-description: "Muchos artículos sobre la historia del movimiento de la nueva era convergerán en una serie de personas influyentes como Helena Blavatsky y Alice Bailey…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Figuras influyentes de la historia de la Nueva Era, como Swedenborg, Mesmer, Bacon y Quimby, antes del auge de Helena Blavatsky y Alice Bailey."
+tags: ["Falsas Doctrinas", "Apologética", "Nueva Era", "Swedenborg"]
 ---
 
 Muchos artículos sobre la historia del movimiento de la **nueva era** convergerán en una serie de personas influyentes como **Helena Blavatsky** y **Alice Bailey**, siguiendo el nacimiento y el surgimiento de los movimientos de la nueva era con estos dos individuos. Ellas han sido claramente escritoras prolíficas y canalizadoras de información del mundo oculto. Sus libros _Externalización de la Jerarquía_ y _La Doctrina Secreta_ son obras gigantescas en el área de lo oculto y proporcionan ideas significativas sobre el objetivo religioso detrás de la agenda del orden mundial.  

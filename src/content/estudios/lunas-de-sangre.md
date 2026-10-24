@@ -1,12 +1,12 @@
 ---
-title: "El sorprendente propósito de las lunas de sangre"
+title: "Lunas de sangre: el propósito profético"
 date: "2022-03-13"
 updated: "2025-05-23"
 author: "Leonardo Moreno"
 slug: "lunas-de-sangre"
 redirectFrom: "/2022/03/lunas-de-sangre.html"
-description: "Desde los primeros días después de la creación, los seres humanos han estado fascinados por lo que vemos en el firmamento. Señales inusuales en los cielos…"
-tags: ["Escatología"]
+description: "Desde la creación, las señales en el firmamento han fascinado a la humanidad. Un estudio de las lunas de sangre en el marco de la profecía bíblica."
+tags: ["Escatología", "Lunas de sangre", "Profecía", "Señales"]
 ---
 
 Estimado lector,

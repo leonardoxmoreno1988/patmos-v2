@@ -1,12 +1,12 @@
 ---
-title: "\"Linajes De Los Illuminati\": El Linaje Rothschild"
+title: "Linajes de los Illuminati: el linaje Rothschild"
 date: "2013-02-06"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-6"
 redirectFrom: "/2013/02/linajes-de-los-illuminati-el-linaje_6.html"
-description: "Luego de un largo periodo retomamos el 11vo capítulo de \"Bloodlines of the Illuminati\", el Linaje Rothschild, uno de los más poderosos linajes que es expuesto…"
-tags: ["Sociedad"]
+description: "El capítulo 11 de Bloodlines of the Illuminati, dedicado al linaje Rothschild, una de las familias más poderosas que Fritz Springmeier expuso con detalle."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Rothschild"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

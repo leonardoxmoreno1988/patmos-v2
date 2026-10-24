@@ -1,12 +1,12 @@
 ---
-title: "Cómo Los EE. UU. Fueron Fundados Por La Masonería"
+title: "Cómo Estados Unidos fue fundado por la masonería"
 date: "2017-05-22"
 updated: "2023-07-20"
 author: "Kevin Farringdon"
 slug: "los-eeuu-fueron-fundados-por-la-masoneria"
 redirectFrom: "/2017/05/los-eeuu-fueron-fundados-por-la-masoneria.html"
-description: "La mayoría de los estadounidenses se burlan de la mención de la conspiración, pero su país fue creado por la masonería y no tienen ni idea. Los francmasones…"
-tags: ["Sociedad"]
+description: "Según el artículo, los francmasones redactaron la Constitución y firmaron la Declaración de Independencia, un hecho que, según el texto, pocos conocen."
+tags: ["Sociedad", "Masonería", "Estados Unidos", "Constitución"]
 ---
 
 La mayoría de los estadounidenses se burlan de la mención de la **conspiración**, pero su país fue creado por la **masonería** y no tienen ni idea. Los francmasones redactaron la Constitución y firmaron la Declaración de Independencia. Masones disfrazados de indios instigaron el **[motín del té](https://es.wikipedia.org/wiki/Mot%C3%ADn_del_t%C3%A9)** en el puerto de Boston.  

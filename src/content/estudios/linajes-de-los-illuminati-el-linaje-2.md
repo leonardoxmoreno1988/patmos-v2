@@ -1,12 +1,12 @@
 ---
-title: "\"Linajes De Los Illuminati\": El Linaje Russell"
+title: "Linajes de los Illuminati: el linaje Russell"
 date: "2013-10-02"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-2"
 redirectFrom: "/2013/10/linajes-de-los-illuminati-el-linaje_2.html"
-description: "Nuevamente, luego de un largo periodo y gracias a la página Fritz Springmeier en Español, retomamos el 12vo capítulo de \"Bloodlines of the Illuminati\": el…"
-tags: ["Sociedad"]
+description: "El capítulo 12 de Bloodlines of the Illuminati, dedicado al linaje Russell y a su vínculo directo con otro de los linajes, según Fritz Springmeier."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

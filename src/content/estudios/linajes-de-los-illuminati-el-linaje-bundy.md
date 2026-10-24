@@ -1,12 +1,12 @@
 ---
-title: "\"Linajes De Los Illuminati\": El Linaje Bundy"
+title: "Linajes de los Illuminati: el linaje Bundy"
 date: "2012-04-25"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-bundy"
 redirectFrom: "/2012/04/linajes-de-los-illuminati-el-linaje.html"
-description: "En este capítulo de \"Linajes de los Illuminati\" el Linaje Bundy es expuesto no solo por tener un extraño vínculo con el asesino en serie más famoso de los 80s…"
-tags: ["Sociedad"]
+description: "Según Springmeier, el linaje Bundy tiene un extraño vínculo con el asesino en serie Ted Bundy y un satanismo generacional que el capítulo describe."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

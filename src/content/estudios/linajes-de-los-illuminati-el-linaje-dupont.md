@@ -1,12 +1,12 @@
 ---
-title: "\"Linajes De Los Illuminati\": El Linaje DuPont"
+title: "Linajes de los Illuminati: el linaje DuPont"
 date: "2012-05-09"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-dupont"
 redirectFrom: "/2012/05/linajes-de-los-illuminati-el-linaje.html"
-description: "En este 4to capítulo del libro \"Linajes De Los Illuminati\" se revela los vínculos del Linaje DuPont con el satanismo generacional y de como la empresas Dupont…"
-tags: ["Sociedad"]
+description: "El cuarto capítulo sobre el linaje DuPont: sus vínculos con el satanismo generacional y el papel que, según el autor, juega la empresa en el nuevo orden."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -1,12 +1,12 @@
 ---
-title: "Lo Oculto De Jay-Z \"On To The Next One\""
+title: "Jay-Z y el simbolismo oculto de On to the Next One"
 date: "2010-01-26"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "lo-oculto-de-jay-z-on-to-next-one"
 redirectFrom: "/2010/01/lo-oculto-de-jay-z-on-to-next-one.html"
-description: "Al ver \"On to the Next One\" (Hacia lo siguiente) mucha gente se pregunta cuál es el significado detrás de las imágenes espeluznantes. La mejor manera de…"
-tags: ["Cine y Cultura"]
+description: "El videoclip On to the Next One de Jay-Z y sus imágenes perturbadoras, que el autor interpreta a partir del contexto oculto de sus símbolos."
+tags: ["Cine y Cultura", "Jay-Z", "Simbolismo", "Música"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

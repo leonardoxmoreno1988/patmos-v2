@@ -1,12 +1,12 @@
 ---
-title: "Linajes De Los Illuminati: El Linaje Rockefeller"
+title: "Linajes de los Illuminati: el linaje Rockefeller"
 date: "2012-09-21"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-rockefeller"
 redirectFrom: "/2012/09/linajes-de-los-illuminati-el-linaje.html"
-description: "Uno de los 13 linajes Satánicos que gobiernan el mundo es el Linaje Rockefeller. Hoy en día, hay alrededor de 190 miembros de esta familia con el nombre…"
-tags: ["Sociedad"]
+description: "Según el autor, el linaje Rockefeller es uno de los trece linajes satánicos que gobiernan el mundo, con unos 190 miembros con ese apellido y otros afines."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Rockefeller"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

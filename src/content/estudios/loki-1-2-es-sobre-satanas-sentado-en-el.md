@@ -1,12 +1,12 @@
 ---
-title: "'Loki 1-2' es sobre Satanás sentado en el trono de Dios"
+title: "Loki y Satanás sentado en el trono de Dios"
 date: "2023-11-26"
 updated: "2026-04-13"
 author: "Leonardo Moreno"
 slug: "loki-1-2-es-sobre-satanas-sentado-en-el"
 redirectFrom: "/2023/11/loki-1-2-es-sobre-satanas-sentado-en-el.html"
-description: "La serie del dios nórdico, Loki, termina con este mismo sentándose en el trono de Dios, haciéndose pasar por Dios. Otra proyección de Satanás en la futura…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, el final de la serie Loki muestra a Satanás sentado en el trono de Dios, una proyección de su papel en la futura tribulación."
+tags: ["Cine y Cultura", "Loki", "Satanás", "Tribulación"]
 ---
 
 Estimado lector,  

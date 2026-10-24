@@ -1,12 +1,12 @@
 ---
-title: "Linajes De Los Illuminati: El Linaje Reynolds"
+title: "Linajes de los Illuminati: el linaje Reynolds"
 date: "2012-08-21"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-reynolds"
 redirectFrom: "/2012/08/linajes-de-los-illuminati-el-linaje.html"
-description: "En este 9to capítulo del libro \"Linajes De Los Illuminati\" se revelan los vínculos del Linaje Reynolds con las demás familias Illuminati y su poder en el Medio…"
-tags: ["Sociedad"]
+description: "El noveno capítulo revela los vínculos del linaje Reynolds con otras familias illuminati, su poder en el Medio Sur y su participación en la banca."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

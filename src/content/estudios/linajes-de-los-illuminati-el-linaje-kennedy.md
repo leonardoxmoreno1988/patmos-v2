@@ -1,12 +1,12 @@
 ---
-title: "\"Linajes De Los Illuminati\": El Linaje Kennedy"
+title: "Linajes de los Illuminati: el linaje Kennedy"
 date: "2012-06-12"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-kennedy"
 redirectFrom: "/2012/06/linajes-de-los-illuminati-el-linaje.html"
-description: "En este 6to capítulo de \"Linajes De Los Illuminati\" se expone los lazos familiares del Linaje Kennedy. También los vínculos de J.F. Kennedy con personajes como…"
-tags: ["Sociedad"]
+description: "El sexto capítulo expone los lazos familiares del linaje Kennedy y sus vínculos con Anton LaVey, fundador de la Iglesia de Satán, según Springmeier."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 En este 6to capítulo de **"Linajes De Los Illuminati"** se expone los lazos familiares del Linaje Kennedy. También los vínculos de J.F. Kennedy con personajes como Anton Lavey, fundador de la Iglesia de Satán, la víctima mk ultra Marilyn Monroe y como su muerte estuvo directamente involucrada con la agenda illuminati.  

@@ -1,12 +1,12 @@
 ---
-title: "Evitando Los Transgénicos: Los Alimentos Más Saludables del Planeta y la Dieta Sana"
+title: "Los alimentos más saludables y evitar transgénicos"
 date: "2015-09-13"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "los-alimentos-mas-saludables-del-planeta"
 redirectFrom: "/2015/09/los-alimentos-mas-saludables-del-planeta.html"
-description: "¿Cuál es la mejor dieta para los seres humanos? ¿Vegetariano? ¿Vegano? ¿Alto contenido de proteínas? ¿Bajo en grasa? ¿Lácteos? Aférrate a tu carro de compras…"
-tags: ["Sociedad"]
+description: "¿Cuál es la mejor dieta? Un repaso de los alimentos más saludables del planeta y de cómo evitar los transgénicos en una alimentación sana y variada."
+tags: ["Sociedad", "Alimentación", "Transgénicos", "Salud"]
 ---
 
 ¿Cuál es la **mejor dieta** para los seres humanos? ¿Vegetariano? ¿Vegano? ¿Alto contenido de proteínas? ¿Bajo en grasa? ¿Lácteos? Aférrate a tu carro de compras: No hay una **dieta perfecta** para los seres humanos. Por lo menos no uno que se basa en la **cantidad de proteína**, grasa o carbohidratos que se consumen.  

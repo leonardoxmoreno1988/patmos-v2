@@ -1,12 +1,12 @@
 ---
-title: "\"Linajes De Los Illuminati\": El Linaje Freeman"
+title: "Linajes de los Illuminati: el linaje Freeman"
 date: "2012-05-26"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-26"
 redirectFrom: "/2012/05/linajes-de-los-illuminati-el-linaje_26.html"
-description: "En este 5to capítulo del libro \"Linajes De Los Illuminati\" se revela los vínculos del Linaje Freeman con el Priorato de Zión, los Caballeros Templarios, la…"
-tags: ["Sociedad"]
+description: "El capítulo 5 examina el linaje Freeman y sus vínculos con el Priorato, los templarios y Skull and Bones, según la obra de Fritz Springmeier."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

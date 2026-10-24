@@ -1,12 +1,12 @@
 ---
-title: "Los Jesuitas, El Opus Dei Y Los Caballeros De Malta, Diferente Disfraz, Mismo Centro De Control"
+title: "Jesuitas, Opus Dei y Caballeros de Malta: un solo centro"
 date: "2016-11-07"
 updated: "2023-07-20"
 author: "Kevin Farringdon"
 slug: "los-jesuitas-el-opus-dei-y-los"
 redirectFrom: "/2017/11/los-jesuitas-el-opus-dei-y-los.html"
-description: "La Orden de los Jesuitas es una entidad encubierta, geopolítica y exclusivamente masculina de casi 500 años de antigüedad, estructurada como una operación…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Un artículo describe a los jesuitas como orden encubierta con juramentos secretos y sostiene que el Opus Dei y los Caballeros de Malta comparten centro."
+tags: ["Falsas Doctrinas", "Apologética", "Jesuitas", "Opus Dei"]
 ---
 
 La Orden de los **Jesuitas** es una entidad encubierta, geopolítica y exclusivamente masculina de casi 500 años de antigüedad, estructurada como una operación militar secreta: exigir **juramentos secretos** y obediencia completa a su superior directo, que es el Superior General (a menudo apodado como el **Papa Negro**, ya que se viste de negro y "vive en la sombra" del Papa blanco).  

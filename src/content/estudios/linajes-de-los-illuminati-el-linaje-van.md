@@ -1,12 +1,12 @@
 ---
-title: "\"Linajes De Los Illuminati\": El Linaje Van Duyn"
+title: "Linajes de los Illuminati: el linaje Van Duyn"
 date: "2014-03-25"
 updated: "2023-07-21"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-van"
 redirectFrom: "/2014/03/linajes-de-los-illuminati-el-linaje-van.html"
-description: "Siendo uno de los últimos capítulos de \"Bloodlines of the Illuminati\", el Linaje Van Duyn es expuesto como una de las familias más poderosas de Holanda…"
-tags: ["Sociedad"]
+description: "Uno de los últimos capítulos, dedicado al linaje Van Duyn, familia holandesa que, según el autor, impulsa estrategias de despoblación mundial."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

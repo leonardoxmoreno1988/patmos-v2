@@ -1,12 +1,12 @@
 ---
-title: "\"Linajes De Los Illuminati\": El Linaje Onassis"
+title: "Linajes de los Illuminati: el linaje Onassis"
 date: "2012-07-20"
 updated: "2023-07-22"
 author: "Leonardo Moreno"
 slug: "linajes-de-los-illuminati-el-linaje-onassis"
 redirectFrom: "/2012/07/linajes-de-los-illuminati-el-linaje.html"
-description: "En este 8vo capítulo de \"Linajes De Los Illuminati\" el Linaje Onassis expone sus vínculos con diversos grupos del poder y de la mafia. Las actividades de su…"
-tags: ["Sociedad"]
+description: "El octavo capítulo expone los vínculos del linaje Onassis con grupos de poder y con la mafia, a partir de las actividades de Aristóteles Onassis."
+tags: ["Sociedad", "Illuminati", "Fritz Springmeier", "Linajes"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

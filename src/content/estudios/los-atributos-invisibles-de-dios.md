@@ -1,12 +1,12 @@
 ---
-title: "Los atributos invisibles de Dios"
+title: "Atributos invisibles de Dios y la revelación general"
 date: "2023-06-17"
 updated: "2026-04-17"
 author: "Leonardo Moreno"
 slug: "los-atributos-invisibles-de-dios"
 redirectFrom: "/2023/06/los-atributos-invisibles-de-dios.html"
-description: "Si Jesús es el único camino a Dios (Juan 14:6) ¿Qué pasa con el miembro de la tribu amazónica, el budista de algún rincón de Asia, o el habitante de una isla…"
-tags: ["Apologética"]
+description: "Si Jesús es el único camino a Dios (Juan 14:6), ¿qué pasa con quienes nunca oyeron el evangelio? Un análisis de los atributos invisibles de Dios."
+tags: ["Apologética", "Revelación general", "Juan 14:6", "Salvación"]
 ---
 
 Estimado lector,  
