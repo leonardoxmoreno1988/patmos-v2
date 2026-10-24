@@ -1,12 +1,12 @@
 ---
-title: "Infiltración Y Conquista Jesuita De América Latina"
+title: "Infiltración y conquista jesuita de América Latina"
 date: "2021-01-17"
 updated: "2023-07-17"
 author: "Leonardo Moreno"
 slug: "jesuitas-en-latinoamerica"
 redirectFrom: "/2021/01/jesuitas-en-latinoamerica.html"
-description: "En 1545 comenzó la respuesta católica a la reforma de Lutero. Poco antes de esta campaña de reforma romana (El Concilio de Trento) surgió un hombre llamado…"
-tags: ["Sociedad"]
+description: "Desde Ignacio de Loyola y la respuesta católica a Lutero en 1545, un repaso de la presencia jesuita en América Latina según la visión del autor."
+tags: ["Sociedad", "Jesuitas", "Catolicismo", "Historia"]
 ---
 
 [![Jesuitas evangelizando a indigenas en latinoamerica](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEK2uC8Mkk1ASGbzNn4yAzQPLQAmPXbGoEaTNSeKICJg7qRIxi6oSPVhLvfTDo5VFCtSLb9wyG09kmrC6nvyus8xif_heV2NO0zDnrGpwdD0Zlraj1jPF3OnP3QTzeXX9Ivv77BJ81Uo8/s16000/jesuitas.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEK2uC8Mkk1ASGbzNn4yAzQPLQAmPXbGoEaTNSeKICJg7qRIxi6oSPVhLvfTDo5VFCtSLb9wyG09kmrC6nvyus8xif_heV2NO0zDnrGpwdD0Zlraj1jPF3OnP3QTzeXX9Ivv77BJ81Uo8/s550/jesuitas.jpg)

@@ -1,12 +1,12 @@
 ---
-title: "Jesús Vs Los Crímenes Cometidos En El Nombre De Jesús"
+title: "Jesús y los crímenes cometidos en su nombre"
 date: "2017-05-14"
 updated: "2023-07-20"
 author: "George Mitrakos"
 slug: "jesus-vs-los-crimenes-cometidos-en-el"
 redirectFrom: "/2017/05/jesus-vs-los-crimenes-cometidos-en-el.html"
-description: "\"¿Jesús? ¿Paz? ¿Y qué hay de todos esos crímenes cometidos en su nombre? ¡Supongo que no es tan pacífico como creen los cristianos! \"¡Oh muchacho! Puedo oír…"
-tags: ["Apologética"]
+description: "Respuesta a la objeción de que los crímenes cometidos en nombre de Jesús demuestran que el cristianismo no es pacífico, con un análisis histórico."
+tags: ["Apologética", "Historia de la Iglesia", "Violencia", "Jesús"]
 ---
 
 "¿**Jesús**? ¿Paz? ¿Y qué hay de todos esos **crímenes cometidos** en su nombre? ¡Supongo que no es tan pacífico como creen los **cristianos**!" ¡Oh, muchacho! Puedo oír los suspiros ahora mismo. Verá, hay un número considerable dentro de la comunidad cristiana que se ha encontrado con tales declaraciones. ¿Y quién puede estar sorprendido de esto?  

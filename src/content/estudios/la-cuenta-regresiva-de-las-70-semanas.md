@@ -1,12 +1,12 @@
 ---
-title: "La cuenta regresiva de las 70 semanas"
+title: "La cuenta regresiva de las 70 semanas de Daniel"
 date: "2022-01-16"
 updated: "2025-05-23"
 author: "Leonardo Moreno"
 slug: "la-cuenta-regresiva-de-las-70-semanas"
 redirectFrom: "/2022/01/la-cuenta-regresiva-de-las-70-semanas.html"
-description: "No muchas profecías en la Biblia son tan descriptivas en cuanto a tiempo como lo son las 70 semanas de Daniel, por lo que creo que esta publicación será útil…"
-tags: ["Escatología"]
+description: "Un estudio de las 70 semanas de Daniel 9, una profecía de tiempo muy descriptiva sobre el final de los tiempos y la venida del Mesías prometido."
+tags: ["Escatología", "Daniel", "Profecía", "Tiempos finales"]
 ---
 
 Estimado lector,

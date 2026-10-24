@@ -1,12 +1,12 @@
 ---
-title: "J.R.R Tolkien Y  Las Connotaciones Ocultas Del \"Señor De Los Anillos\""
+title: "Tolkien: connotaciones ocultas de El Señor de los Anillos"
 date: "2011-08-01"
 updated: "2023-07-23"
 author: "Wes Penre"
 slug: "jrr-tolkien-y-las-connotaciones-ocultas"
 redirectFrom: "/2011/08/jrr-tolkien-y-las-connotaciones-ocultas.html"
-description: "Sin duda, hay muchos vínculos evidentes entre el mundo imaginario de Tolkien y las enseñanzas ocultas de las distintas sociedades secretas. Los que han leído…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, el mundo imaginario de Tolkien guarda vínculos con las enseñanzas ocultas de las sociedades secretas, visibles en El Señor de los Anillos."
+tags: ["Cine y Cultura", "Tolkien", "Ocultismo", "Literatura"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

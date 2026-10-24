@@ -1,12 +1,12 @@
 ---
-title: "La Historia De Los Jesuitas: Secretos Revelados (Comic)"
+title: "Los jesuitas: secretos revelados en el cómic Los Cruzados"
 date: "2016-09-26"
 updated: "2023-07-21"
 author: "Chick Publications"
 slug: "la-historia-de-los-jesuitas-secretos"
 redirectFrom: "/2016/09/la-historia-de-los-jesuitas-secretos.html"
-description: "En este interesante comic de la serie \"Los Cruzados\" (Previamente visto en la serie de Alberto Rivera) se expone la historia de los Jesuitas, sus planes…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Un cómic de la serie Los Cruzados que expone la historia de los jesuitas, con los mismos temas que la serie sobre el testimonio de Alberto Rivera."
+tags: ["Falsas Doctrinas", "Apologética", "Jesuitas", "Cómic"]
 ---
 
 En este interesante cómic de la serie **"Los Cruzados"** (Previamente visto en la serie de **[Alberto Rivera](http://www.ritualypropaganda.com/2013/05/alberto-rivera-ex-jesuita-y-su-historia.html)**) se expone la historia de los **Jesuitas**, sus planes secretos y cómo esta propia institución religiosa vive dentro de otra, La Iglesia Católica Romana.

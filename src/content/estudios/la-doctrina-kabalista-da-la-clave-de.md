@@ -1,12 +1,12 @@
 ---
-title: "La Doctrina Kabalista Da La Clave De Los Eventos Del Mundo De Hoy"
+title: "La doctrina cabalística y los eventos del mundo"
 date: "2013-04-18"
 updated: "2023-07-22"
 author: "Henry Makow"
 slug: "la-doctrina-kabalista-da-la-clave-de"
 redirectFrom: "/2013/04/la-doctrina-kabalista-da-la-clave-de.html"
-description: "Según la Cábala, que es la doctrina secreta del judaísmo y la masonería, “El Mal y la catástrofe son factores endémicos en el proceso de creación. Sin mal no…"
-tags: ["Sociedad"]
+description: "Un artículo que cita a la Cábala como doctrina secreta del judaísmo y la masonería para explicar los eventos del mundo de hoy y el papel del mal."
+tags: ["Sociedad", "Cábala", "Masonería", "Judaísmo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

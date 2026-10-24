@@ -1,12 +1,12 @@
 ---
-title: "La Farsa Extraterrestre: Predisponiendo A Las Masas Para La Aceptación De Vida En Otros Planetas - Parte II"
+title: "La farsa extraterrestre (II): satanismo y control mental"
 date: "2012-09-18"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "la-farsa-extraterrestre-predisponiendo-18"
 redirectFrom: "/2012/09/la-farsa-extraterrestre-predisponiendo_18.html"
-description: "En la oscura nave de un ser interplanetario se manejan cosas muy espirituales, el desarrollo de la sugestión, el satanismo y el control mental preparan una muy…"
-tags: ["Cine y Cultura"]
+description: "Segunda parte: la sugestión, el satanismo y el control mental que, según el autor, preparan la aceptación de vida en otros planetas en el cine."
+tags: ["Cine y Cultura", "Extraterrestres", "Control mental", "Satanismo"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

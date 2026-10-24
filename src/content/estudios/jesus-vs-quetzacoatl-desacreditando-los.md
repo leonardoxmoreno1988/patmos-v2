@@ -1,12 +1,12 @@
 ---
-title: "Jesús Vs Quetzalcóatl - Desacreditando Los Supuestos Paralelos"
+title: "Jesús vs Quetzalcóatl: desacreditando paralelos"
 date: "2021-04-09"
 updated: "2023-07-17"
 author: "J.P. Holding"
 slug: "jesus-vs-quetzacoatl-desacreditando-los"
 redirectFrom: "/2021/04/jesus-vs-quetzacoatl-desacreditando-los.html"
-description: "De todos nuestros artículos sobre el “Cristo imitador pagano” hasta ahora, el de Quetzalcóatl tiene que ser, y probablemente siempre será, el más inusual, porque…"
-tags: ["Apologética"]
+description: "El caso de Quetzalcóatl como supuesto Cristo imitador pagano, que el autor analiza frente a las dos posturas que discuten ese paralelo en la historia."
+tags: ["Apologética", "Quetzalcóatl", "Paralelos", "Mitología"]
 ---
 
 De todos nuestros artículos sobre el **“Cristo imitador pagano”** hasta ahora, el de Quetzalcóatl tiene que ser, y probablemente siempre será, el más inusual, porque en realidad estamos discutiendo en contra de dos lados con ideas diferentes. Pero resulta que la misma solución simple los hunde a ambos.

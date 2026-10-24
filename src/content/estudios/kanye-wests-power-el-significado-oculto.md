@@ -1,12 +1,12 @@
 ---
-title: "Kanye West’s “Power”: El Significado Oculto De Su Simbología"
+title: "Power, de Kanye West: significado oculto de sus símbolos"
 date: "2010-09-12"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "kanye-wests-power-el-significado-oculto"
 redirectFrom: "/2010/09/kanye-wests-power-el-significado-oculto.html"
-description: "\"Power\" de Kanye West es un corto, casi estacionario vídeo que logra contar una historia profunda en el lenguaje simbólico. Al decodificar el significado…"
-tags: ["Cine y Cultura"]
+description: "El videoclip Power de Kanye West como historia simbólica, cuyo significado oculto el autor decodifica a partir de sus símbolos, imágenes y escenas."
+tags: ["Cine y Cultura", "Kanye West", "Simbolismo", "Música"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

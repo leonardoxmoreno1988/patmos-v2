@@ -1,12 +1,12 @@
 ---
-title: "La Farsa Extraterrestre: Predisponiendo A Las Masas Para La Aceptación De Vida En Otros Planetas - Parte III"
+title: "La farsa extraterrestre (III): el Vaticano y los OVNIs"
 date: "2013-12-12"
 updated: "2024-09-02"
 author: "Jhonkbn"
 slug: "la-farsa-extraterrestre-predisponiendo-a-las-masas-para-la-aceptacion-de-vida-en-2013-12"
 redirectFrom: "/2013/12/la-farsa-extraterrestre-predisponiendo.html"
-description: "Según narra la historia, en Julio de 1959 el Papa Juan XXIII sostuvo un encuentro cercano del tercer tipo en uno de sus paseos por los jardines de Castel…"
-tags: ["Cine y Cultura"]
+description: "Según la historia que narra el autor, el papa Juan XXIII tuvo un encuentro con un OVNI en 1959, y la relación entre el Vaticano, Hollywood y los OVNIs."
+tags: ["Cine y Cultura", "Extraterrestres", "Vaticano", "OVNIs"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -1,12 +1,12 @@
 ---
-title: "La Guerra Contra El Efectivo: El Plan Para Vaciar Su Billetera Y Ser Dueño De Su Futuro Financiero, Y Por Qué Debe Luchar Contra Él"
+title: "La guerra contra el efectivo y el control financiero"
 date: "2019-04-03"
 updated: "2023-07-17"
 author: "Ross Clark"
 slug: "la-guerra-contra-el-efectivo-el-plan"
 redirectFrom: "/2020/02/la-guerra-contra-el-efectivo-el-plan.html"
-description: "Constantemente se nos dice que estamos en la cúspide de una sociedad sin dinero. A la industria de servicios financieros le gustaría verlo de esa manera…"
-tags: ["Sociedad"]
+description: "Según el artículo, la guerra contra el efectivo busca controlar el futuro financiero de las personas mediante tarjetas, pagos móviles y aplicaciones."
+tags: ["Sociedad", "Efectivo", "Economía", "Control financiero"]
 ---
 
 Constantemente se nos dice que estamos en la cúspide de una sociedad sin dinero. A la industria de servicios financieros le gustaría verlo de esa manera. Estamos siendo atraídos con tarjetas sin contacto, aplicaciones de pago por teléfono móvil, y métodos de transferencia bancaria: todo, aparentemente, para nuestra conveniencia.

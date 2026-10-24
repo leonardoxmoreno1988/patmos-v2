@@ -1,12 +1,12 @@
 ---
-title: "La Importancia De La Promiscuidad Sexual En La Agenda Illuminati"
+title: "La promiscuidad sexual en la agenda illuminati"
 date: "2011-12-30"
 updated: "2023-07-22"
 author: "Jhonkbn"
 slug: "la-importancia-de-la-promiscuidad"
 redirectFrom: "/2011/12/la-importancia-de-la-promiscuidad.html"
-description: "Durante todo este año hemos visto cómo las comedias románticas acerca del \"encontrar el verdadero amor\" han tenido su parte en las salas de cine. Lo que fue…"
-tags: ["Sociedad"]
+description: "Según el autor, las comedias románticas y Hollywood impulsan una forma de promiscuidad sexual como parte de la agenda illuminati. Un análisis del tema."
+tags: ["Cine y Cultura", "Illuminati", "Promiscuidad", "Sociedad"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

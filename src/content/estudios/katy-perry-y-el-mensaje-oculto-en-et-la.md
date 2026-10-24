@@ -1,12 +1,12 @@
 ---
-title: "Katy Perry Y El Mensaje Oculto En  \"E.T\" La Instauración De La Nueva Doctrina"
+title: "Katy Perry y el mensaje oculto en E.T."
 date: "2011-04-09"
 updated: "2023-07-23"
 author: "Jhonkbn"
 slug: "katy-perry-y-el-mensaje-oculto-en-et-la"
 redirectFrom: "/2011/04/katy-perry-y-el-mensaje-oculto-en-et-la.html"
-description: "El nuevo video de Katy Perry \"E.T\" está cargado de mucho simbolismo oculto, mensajes que continúan la misma agenda de adoctrinamiento y proyectando las mismas…"
-tags: ["Cine y Cultura"]
+description: "Según el autor, el videoclip E.T. de Katy Perry está cargado de simbolismo que transmite una agenda de adoctrinamiento y de ideologías ocultas."
+tags: ["Cine y Cultura", "Katy Perry", "Simbolismo", "Música"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

@@ -1,12 +1,12 @@
 ---
-title: "Jesucristo como centro del cristianismo"
+title: "Jesucristo, centro inamovible del cristianismo"
 date: "2022-07-02"
 updated: "2025-05-24"
 author: "Leonardo Moreno"
 slug: "jesucristo-centro-cristianismo"
 redirectFrom: "/2022/07/jesucristo-centro-cristianismo.html"
-description: "Un breve recordatorio de que Jesucristo es el centro inamovible del cristianismo. Cualquier religión actual podría sobrevivir si se remueve a su profeta…"
-tags: ["Apologética"]
+description: "Un breve recordatorio de que Jesucristo es el centro del cristianismo: sin él como profeta, sus códigos éticos quedarían como una religión sin fundamento."
+tags: ["Apologética", "Cristología", "Cristianismo", "Jesucristo"]
 ---
 
 Estimado lector,

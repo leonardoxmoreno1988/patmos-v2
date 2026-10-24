@@ -1,12 +1,12 @@
 ---
-title: "Jesús vs Mahoma: 33 Diferencias Sorprendentes"
+title: "Jesús vs Mahoma: 33 diferencias sorprendentes"
 date: "2017-03-23"
 updated: "2023-07-20"
 author: "James Bishop"
 slug: "jesus-vs-mahoma-33-diferencias-23"
 redirectFrom: "/2017/03/jesus-vs-mahoma-33-diferencias_23.html"
-description: "Muchos se sorprenderán de lo diferentes que eran Jesús y Mahoma realmente como figuras históricas. Ambos han tenido un enorme impacto en la forma en que muchas…"
-tags: ["Apologética"]
+description: "Un repaso de las 33 diferencias entre Jesús y Mahoma como figuras históricas, desde sus seguidores hasta el impacto que han tenido en la forma de vivir."
+tags: ["Apologética", "Islam", "Mahoma", "Comparativa"]
 ---
 
 Muchos se sorprenderán de lo diferentes que eran **Jesús** y **Mahoma** realmente como figuras históricas. Ambos han tenido un enorme impacto en la forma en que muchas personas eligen vivir sus vidas. Los seguidores de Jesús abrazan el **amor** y la **aceptación**, mientras que la enseñanza de Mahoma es la razón por la que el 70% (1) de los refugiados del mundo son musulmanes que intentan huir de las teocracias islámicas.  

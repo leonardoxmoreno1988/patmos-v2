@@ -1,12 +1,12 @@
 ---
-title: "Jesús Vs Osiris: Desmintiendo Los Supuestos Paralelos"
+title: "Jesús vs Osiris: desmintiendo los paralelos"
 date: "2016-09-01"
 updated: "2023-07-21"
 author: "J.P. Holding"
 slug: "jesus-vs-osiris-desmintiendo-los-1"
 redirectFrom: "/2017/09/jesus-vs-osiris-desmintiendo-los_1.html"
-description: "De todos los candidatos a copias paganas, Osiris es una de las correlaciones más populares ofrecidas. Egipto, después de todo, no está lejos de Palestina, y…"
-tags: ["Apologética"]
+description: "Osiris es una de las correlaciones más populares como copia pagana de Jesús. Se examina por qué esa comparación no se sostiene históricamente."
+tags: ["Apologética", "Osiris", "Paralelos", "Egipto"]
 ---
 
 De todos los candidatos a copias paganas, **Osiris** es una de las correlaciones más populares ofrecidas. **Egipto**, después de todo, no está lejos de Palestina, y los judíos vivían en Egipto; no es teóricamente improbable que pudieran robar esta idea para un **Jesús** en este lugar.  

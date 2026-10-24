@@ -1,12 +1,12 @@
 ---
-title: "La Farsa Extraterrestre: Predisponiendo A Las Masas Para La Aceptación De Vida En Otros Planetas - Parte I"
+title: "La farsa extraterrestre (I): la guerra de los mundos"
 date: "2012-06-03"
 updated: "2024-09-02"
 author: "Jhonkbn"
 slug: "la-farsa-extraterrestre-predisponiendo-a-las-masas-para-la-aceptacion-de-vida-en-2012-06"
 redirectFrom: "/2012/06/la-farsa-extraterrestre-predisponiendo.html"
-description: "El 30 de octubre de 1938 \"La Guerra de los Mundos\" de Orson Welles fue transmitida por la BBC causando pánico en las calles de Nueva York y New Jersey. Los…"
-tags: ["Cine y Cultura"]
+description: "La transmisión de La guerra de los mundos de Orson Welles en 1938 y el pánico que causó, según el autor, como punto de partida de la farsa extraterrestre."
+tags: ["Cine y Cultura", "Extraterrestres", "Control mental", "Historia"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

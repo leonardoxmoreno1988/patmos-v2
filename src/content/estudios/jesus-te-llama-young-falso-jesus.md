@@ -1,12 +1,12 @@
 ---
-title: "Jesús Te Llama de Sarah Young: Canalizando Un Falso Cristo"
+title: "Jesús te llama de Sarah Young: un falso Cristo"
 date: "2017-05-04"
 updated: "2023-07-20"
 author: "Marcia Montenegro"
 slug: "jesus-te-llama-young-falso-jesus"
 redirectFrom: "/2017/05/jesus-te-llama-young-falso-jesus.html"
-description: "Jesús Te Llama (Jesus Calling) de Sarah Young, y otros libros similares escritos por ella, se han multiplicado en un imperio editorial con versiones de Jesús…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Un análisis crítico de Jesús te llama, de Sarah Young, y de su imperio editorial, con la tesis de que sus devocionales canalizan un falso Cristo."
+tags: ["Falsas Doctrinas", "Apologética", "Sarah Young", "Devocionales"]
 ---
 
 **Jesús Te Llama** (Jesus Calling) de Sarah Young, y otros libros similares escritos por ella, se han multiplicado en un imperio editorial con versiones de **Jesús Te Llama** para adolescentes, para niños, calendarios, ediciones especiales, revistas que la acompañan, un Libro de la Biblia de Jesús Te Llama e incluso un Jesús Te Llama: **Biblia Devocional**.  

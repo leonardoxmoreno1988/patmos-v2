@@ -1,12 +1,12 @@
 ---
-title: "¿Fue Jesús Un Yogui Que Enseñó Yoga?"
+title: "¿Fue Jesús un yogui que enseñó yoga?"
 date: "2021-04-07"
 updated: "2023-07-17"
 author: "Mike Shreve"
 slug: "jesus-enseno-yoga"
 redirectFrom: "/2021/04/jesus-enseno-yoga.html"
-description: "Algunos no cristianos, especialmente aquellos comprometidos con una cosmovisión de la Nueva Era o del lejano oriente, podrían responder a esta pregunta…"
-tags: ["Apologética"]
+description: "Respuesta a quienes sostienen que Jesús enseñó yoga porque la palabra significa yugo o unión, con una mirada desde la Nueva Era y el lejano oriente."
+tags: ["Apologética", "Yoga", "Nueva Era", "Jesús"]
 ---
 
 Algunos no cristianos, especialmente aquellos comprometidos con una cosmovisión de la **Nueva Era** o del lejano oriente, podrían responder a esta pregunta explicando: “La palabra 'yoga' significa yugo o unión y Jesús enseñó que debemos estar en yugo con Dios (en unión con Dios), así que sí, debe haber enseñado **yoga**".

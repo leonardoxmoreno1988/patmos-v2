@@ -1,12 +1,12 @@
 ---
-title: "Jesús vs Buda: Evidencia Histórica Comparativa"
+title: "Jesús vs Buda: evidencia histórica comparada"
 date: "2016-11-09"
 updated: "2023-07-20"
 author: "James Bishop"
 slug: "jesus-vs-buda-evidencia-historica"
 redirectFrom: "/2016/11/jesus-vs-buda-evidencia-historica.html"
-description: "Lo que sigue es una comparación histórica entre Jesús y Buda para ver cuál de estos dos es el mejor atestiguado y tiene mejor evidencia de su existencia…"
-tags: ["Apologética"]
+description: "Comparación histórica entre Jesús y Buda para determinar cuál de los dos está mejor atestiguado y tiene mejor evidencia de su existencia histórica."
+tags: ["Apologética", "Buda", "Historicidad", "Evidencia"]
 ---
 
 Lo que sigue es una comparación histórica entre **Jesús** y **Buda** para ver cuál de estos dos es el mejor **atestiguado** y tiene mejor evidencia de su **existencia histórica**.  

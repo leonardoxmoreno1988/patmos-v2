@@ -1,12 +1,12 @@
 ---
-title: "La Agenda Verde: El Engaño Del Ecologismo"
+title: "La agenda verde y el engaño del ecologismo"
 date: "2021-09-07"
 updated: "2023-07-17"
 author: "Kevin Farringdon"
 slug: "la-agenda-verde"
 redirectFrom: "/2021/09/la-agenda-verde.html"
-description: "Durante la última década, las Naciones Unidas se han re-inventado descaradamente en un gobierno global, esforzándose por obtener el marco legal, los recursos…"
-tags: ["Sociedad"]
+description: "Según el autor, las Naciones Unidas buscan un gobierno global mediante la agenda verde, con marco legal, recursos financieros y apoyo de base."
+tags: ["Sociedad", "Agenda verde", "ONU", "Gobierno global"]
 ---
 
 Durante la última década, las Naciones Unidas se han re-inventado descaradamente en un gobierno global, esforzándose por obtener el marco legal, los recursos financieros y el apoyo de base para implementar sus políticas. Se ha apoderado efectivamente del control legal y regulatorio en muchos países, a través de la **Agenda 21**, y ha desarrollado una Constitución, la **Carta de la Tierra**, para su visión sobre una sociedad global interdependiente transformada.

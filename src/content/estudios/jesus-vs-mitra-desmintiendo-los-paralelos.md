@@ -1,12 +1,12 @@
 ---
-title: "Jesús vs Mitra – Desmintiendo Los Supuestos Paralelos"
+title: "Jesús vs Mitra: desmintiendo los paralelos"
 date: "2017-04-20"
 updated: "2023-07-20"
 author: "J.P. Holding"
 slug: "jesus-vs-mitra-desmintiendo-los-paralelos"
 redirectFrom: "/2017/04/jesus-vs-mitra-desmintiendo-los-paralelos.html"
-description: "En la época romana, el mitraísmo era quizá el principal competidor del cristianismo en los corazones y las mentes de los demás. Hoy en día, el mitraísmo…"
-tags: ["Apologética"]
+description: "El mitraísmo, principal competidor del cristianismo en la Roma antigua, y por qué los supuestos paralelos con Jesús no se sostienen, según el autor."
+tags: ["Apologética", "Mitraísmo", "Paralelos", "Roma"]
 ---
 
 En la época romana, el **mitraísmo** era quizá el principal competidor del **cristianismo** en los corazones y las mentes de los demás. Hoy en día, el mitraísmo religiosamente no es un factor, pero todavía "compite" con el cristianismo, dicho de otra manera: es un principal candidato para la tesis de la "copia pagana" que sirvió como una supuesta fuente para el cristianismo.  
