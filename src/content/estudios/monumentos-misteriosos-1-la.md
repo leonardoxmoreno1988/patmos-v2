@@ -1,12 +1,12 @@
 ---
-title: "Monumentos Misteriosos 1: La Arquitectura Illuminati Y El Camino Hacia La Utopía"
+title: "Monumentos misteriosos 1: arquitectura illuminati y utopía"
 date: "2019-03-14"
 updated: "2023-07-17"
 author: "Texe Marrs"
 slug: "monumentos-misteriosos-1-la"
 redirectFrom: "/2019/07/monumentos-misteriosos-1-la.html"
-description: "\"El camino al infierno en la tierra es recorrido por el camino a la utopía.\" - Michael A. Hoffman II, Sociedades secretas y guerra psicológica. ¿Existe hoy en…"
-tags: ["Sociedad"]
+description: "Primera parte: ¿existe una cábala encubierta en la arquitectura illuminati? Un análisis del camino a la utopía, con una cita de Michael A. Hoffman II."
+tags: ["Sociedad", "Illuminati", "Arquitectura", "Cábala"]
 ---
 
 > **"El camino al infierno en la tierra es recorrido por el camino a la utopía." \- Michael A. Hoffman II, Sociedades secretas y guerra psicológica.**

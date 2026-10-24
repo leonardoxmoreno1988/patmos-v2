@@ -1,12 +1,12 @@
 ---
-title: "Modelos Denuncian Las Prácticas Sádicas Del Mundo De La Moda"
+title: "Modelos denuncian prácticas sádicas en la moda"
 date: "2017-03-22"
 updated: "2023-07-20"
 author: "Vigilant Citizen"
 slug: "modelos-denuncian-las-practicas-sadicas"
 redirectFrom: "/2017/03/modelos-denuncian-las-practicas-sadicas.html"
-description: "Después de años de silencio, los modelos están hablando contra el comportamiento sádico de las personas en la industria de la moda donde el abuso, la…"
-tags: ["Cine y Cultura"]
+description: "Tras años de silencio, modelos denuncian abuso, explotación y tortura en la industria de la moda, según un reportaje que el autor comparte aquí."
+tags: ["Cine y Cultura", "Industria de la moda", "Abuso", "Denuncias"]
 ---
 
 Después de años de silencio, los **modelos** están hablando contra el comportamiento **sádico** de las personas en la **industria de la moda** donde el abuso, la explotación, e incluso la tortura es rampante. Y eso es sólo la punta del iceberg.  

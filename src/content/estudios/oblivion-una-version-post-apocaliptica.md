@@ -1,12 +1,12 @@
 ---
-title: "\"Oblivion\": Una Versión Postapocalíptica Sobre La Manipulación Genética"
+title: "Oblivion: manipulación genética y control mental"
 date: "2013-05-11"
 updated: "2024-09-02"
 author: "Jhonkbn"
 slug: "oblivion-una-version-post-apocaliptica"
 redirectFrom: "/2013/05/oblivion-una-version-post-apocaliptica.html"
-description: "En la película \"Oblivion\", protagonizada por Tom Cruise, se expone un mensaje subyacente sobre gnosticismo, control mental basado en el trauma y transhumanismo…"
-tags: ["Cine y Cultura"]
+description: "En la película Oblivion, protagonizada por Tom Cruise, el autor identifica mensajes sobre gnosticismo, control mental y transhumanismo tras su trama."
+tags: ["Cine y Cultura", "Oblivion", "Transhumanismo", "Control mental"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

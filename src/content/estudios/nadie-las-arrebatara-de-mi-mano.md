@@ -1,12 +1,12 @@
 ---
-title: "Nadie las arrebatará de mi mano"
+title: "Nadie las arrebatará de mi mano: seguridad eterna"
 date: "2025-12-28"
 updated: "2026-04-11"
 author: "Leonardo Moreno"
 slug: "nadie-las-arrebatara-de-mi-mano"
 redirectFrom: "/2026/01/nadie-las-arrebatara-de-mi-mano.html"
-description: "La seguridad eterna del cristiano no es un asunto superficial. Se trata del fundamento sobre el que se construye una sólida confianza y comprensión de la misma…"
-tags: ["Apologética"]
+description: "La seguridad eterna del cristiano, fundada en la obra de quien lo salvó. Un estudio sobre si uno puede caminar seguro de su salvación en Cristo y por qué."
+tags: ["Apologética", "Seguridad eterna", "Salvación", "Evangelio"]
 ---
 
 Estimado lector,

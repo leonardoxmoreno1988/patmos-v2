@@ -5,8 +5,8 @@ updated: "2025-05-29"
 author: "Leonardo Moreno"
 slug: "monte-de-los-olivos"
 redirectFrom: "/2022/08/monte-de-los-olivos.html"
-description: "El libro de Zacarías narra de forma impactante cómo Jesucristo descenderá del cielo y pondrá sus pies sobre un lugar en específico (Zacarías 14:4). Este lugar…"
-tags: ["Escatología"]
+description: "Zacarías 14:4 anuncia que Jesucristo pondrá sus pies sobre el monte de los Olivos al descender. Qué significa esta profecía para el fin de los tiempos."
+tags: ["Escatología", "Zacarías 14", "Segunda Venida", "Monte de los Olivos"]
 ---
 
 Estimado lector,

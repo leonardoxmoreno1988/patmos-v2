@@ -1,12 +1,12 @@
 ---
-title: "\"El Ojo Que Todo Lo Ve\", Orígenes Y Significado De La Señal De Un Ojo"
+title: "El ojo que todo lo ve: orígenes y significado"
 date: "2021-10-08"
 updated: "2023-07-17"
 author: "Colin Morris"
 slug: "ojo-que-todo-lo-ve"
 redirectFrom: "/2021/09/ojo-que-todo-lo-ve.html"
-description: "¿Por qué hay tantas fotos de celebridades ocultando un ojo? Definitivamente no es aleatorio. De hecho, el signo de un ojo tiene un significado profundo y…"
-tags: ["Cine y Cultura"]
+description: "Por qué celebridades ocultan un ojo en sus fotos y qué significa el signo del ojo que todo lo ve, según el autor, sobre los poderes fácticos."
+tags: ["Cine y Cultura", "Ojo que todo lo ve", "Simbolismo", "Illuminati"]
 ---
 
 ¿Por qué hay tantas fotos de celebridades ocultando un ojo? Definitivamente no es aleatorio. De hecho, el **signo de un ojo** tiene un significado profundo y demuestra un hecho importante sobre los poderes fácticos. Este artículo analiza los orígenes y el significado del signo ineludible de Un Ojo.

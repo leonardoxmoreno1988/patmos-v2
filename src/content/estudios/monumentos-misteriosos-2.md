@@ -1,12 +1,12 @@
 ---
-title: "Monumentos Misteriosos 2: Arquitectura Illuminati Como Campo de Batalla Global"
+title: "Monumentos misteriosos 2: arquitectura y guerra global"
 date: "2020-06-06"
 updated: "2023-07-17"
 author: "Texe Marrs"
 slug: "monumentos-misteriosos-2"
 redirectFrom: "/2020/06/monumentos-misteriosos-2.html"
-description: "\"La arquitectura es la voluntad de la época concebida en términos espirituales.\" - Ludwig Mies van der Rohe \"Y los otros hombres que no fueron muertos con…"
-tags: ["Sociedad"]
+description: "Segunda parte: la arquitectura illuminati como campo de batalla global, a partir de la cita de Mies van der Rohe sobre la voluntad espiritual de la época."
+tags: ["Sociedad", "Illuminati", "Arquitectura", "Guerra psicológica"]
 ---
 
 > **"La arquitectura es la voluntad de la época concebida en términos espirituales."**  

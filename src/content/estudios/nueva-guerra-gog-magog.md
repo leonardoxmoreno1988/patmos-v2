@@ -1,12 +1,12 @@
 ---
-title: "Una nueva guerra en Europa ¿Inicio de la alianza de Gog-Magog?"
+title: "Guerra en Europa y la alianza de Gog y Magog"
 date: "2022-02-27"
 updated: "2025-05-23"
 author: "Leonardo Moreno"
 slug: "nueva-guerra-gog-magog"
 redirectFrom: "/2022/02/nueva-guerra-gog-magog.html"
-description: "Rusia continúa con la invasión de Ucrania. Kiev y Jarkov son los puntos actuales de lucha en estos momentos. La respuesta de Europa ha sido imponer sanciones…"
-tags: ["Escatología"]
+description: "Rusia continúa su invasión de Ucrania, y el artículo se pregunta si este conflicto es el inicio de la alianza de Gog y Magog de Ezequiel 38."
+tags: ["Escatología", "Gog y Magog", "Ezequiel 38", "Profecía"]
 ---
 
 Estimado lector,

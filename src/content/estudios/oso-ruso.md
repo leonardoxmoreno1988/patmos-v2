@@ -1,12 +1,12 @@
 ---
-title: "El oso ruso al acecho – Ezequiel 38"
+title: "El oso ruso al acecho: Ezequiel 38 y Ucrania"
 date: "2022-01-29"
 updated: "2026-01-13"
 author: "Leonardo Moreno"
 slug: "oso-ruso"
 redirectFrom: "/2022/01/oso-ruso.html"
-description: "Las noticias recientes han mostrado el interés estratégico del presidente Putin en Ucrania, trayendo constantes rumores de guerra y un conflicto que tiene el…"
-tags: ["Escatología"]
+description: "Ante la guerra en Ucrania, el artículo se pregunta si el interés estratégico de Putin es una señal de Ezequiel 38 y de una posible crisis global."
+tags: ["Escatología", "Ezequiel 38", "Rusia", "Profecía"]
 ---
 
 Estimado lector,

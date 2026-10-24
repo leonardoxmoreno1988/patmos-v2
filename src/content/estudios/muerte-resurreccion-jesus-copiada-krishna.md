@@ -1,12 +1,12 @@
 ---
-title: "¿Fue La Muerte Y Resurrección De Jesús Copiada De Krishna?"
+title: "La muerte y resurrección de Jesús, ¿copiada de Krishna?"
 date: "2017-03-30"
 updated: "2023-07-20"
 author: "Mikel Del Rosario"
 slug: "muerte-resurreccion-jesus-copiada-krishna"
 redirectFrom: "/2017/03/muerte-resurreccion-jesus-copiada-krishna.html"
-description: "¿Qué dirías si alguien te dijera que los relatos evangélicos de la muerte y resurrección de Jesús fueron copiados de historias paganas anteriores? Hace más de…"
-tags: ["Apologética"]
+description: "Kersey Graves afirmó hace más de cien años que los relatos de la muerte y resurrección de Jesús fueron copiados de Krishna. Un examen de esa afirmación."
+tags: ["Apologética", "Krishna", "Resurrección", "Mitos paganos"]
 ---
 
 ¿Qué dirías si alguien te dijera que los relatos evangélicos de la muerte y resurrección de **Jesús** fueron copiados de historias paganas anteriores? Hace más de 100 años, un tipo llamado Kersey Graves habló de **Jesús** y **Krishna**.  

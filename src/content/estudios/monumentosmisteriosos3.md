@@ -1,12 +1,12 @@
 ---
-title: "Monumentos Misteriosos 3: Arquitectura Mística y Sabiduría Oculta"
+title: "Monumentos misteriosos 3: arquitectura mística y gnosis"
 date: "2021-01-15"
 updated: "2023-07-17"
 author: "Texe Marrs"
 slug: "monumentosmisteriosos3"
 redirectFrom: "/2020/10/monumentosmisteriosos3.html"
-description: "\"Todas las sociedades secretas espirituales se suscriben a los misterios gnósticos; es decir, postulan una Sabiduría Divina que se puede lograr a través de los…"
-tags: ["Sociedad"]
+description: "Tercera parte: la arquitectura mística y la sabiduría oculta de las sociedades secretas, que según una cita se suscriben a los misterios gnósticos."
+tags: ["Sociedad", "Gnosticismo", "Arquitectura", "Sociedades secretas"]
 ---
 
 > **"Todas las sociedades secretas espirituales se suscriben a los misterios gnósticos; es decir, postulan una Sabiduría Divina que se puede lograr a través de los propios esfuerzos del hombre."**

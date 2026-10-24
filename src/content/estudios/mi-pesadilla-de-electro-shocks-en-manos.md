@@ -1,12 +1,12 @@
 ---
-title: "Mi Pesadilla De Electro-Shocks En Manos De Un Malvado Doctor De La CIA"
+title: "Celia Imrie y su testimonio sobre electroshocks"
 date: "2011-04-14"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "mi-pesadilla-de-electro-shocks-en-manos"
 redirectFrom: "/2011/04/mi-pesadilla-de-electro-shocks-en-manos.html"
-description: "La actriz Celia Imrie (El diario de Bridget Jones, Star Wars: Episodio I, La Niñera Mágica), recientemente escribió un artículo para el Daily Mail narrando su…"
-tags: ["Sociedad"]
+description: "La actriz Celia Imrie relata en el Daily Mail sus electroshocks a manos de un psiquiatra que, según el artículo, estaba vinculado al programa MK Ultra."
+tags: ["Sociedad", "Celia Imrie", "MK Ultra", "Control mental"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

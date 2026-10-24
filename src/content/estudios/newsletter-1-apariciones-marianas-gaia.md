@@ -1,12 +1,12 @@
 ---
-title: "Apariciones Marianas, \"Gaia\" Y El Tema OVNI"
+title: "Apariciones marianas, Gaia y el tema OVNI"
 date: "2020-10-13"
 updated: "2023-07-17"
 author: "Leonardo Moreno"
 slug: "newsletter-1-apariciones-marianas-gaia"
 redirectFrom: "/2021/06/newsletter-1-apariciones-marianas-gaia.html"
-description: "Un informe católico mostró que las apariciones marianas están aumentando década por década. Hay pocas experiencias de personas que cuentan encuentros…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Un informe católico señala que las apariciones marianas aumentan década tras década. El boletín las relaciona con Gaia, la fe y el tema OVNI actual."
+tags: ["Falsas Doctrinas", "Apologética", "Apariciones marianas", "OVNIs"]
 ---
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiJ_uBD8ea8bXL-2Oi26gn2eRuitEr9oOQNz4rY0Z3crksZ71Le8zSH8QNOv0-gM6YfzbvnRW-qw1g5Eb_ry45iO_N5zZWvVZxmVwC7x60lgcSeC2g4bsG7I8_2jDWUtt4WoU7Yu2Kilk/s16000/mary.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiJ_uBD8ea8bXL-2Oi26gn2eRuitEr9oOQNz4rY0Z3crksZ71Le8zSH8QNOv0-gM6YfzbvnRW-qw1g5Eb_ry45iO_N5zZWvVZxmVwC7x60lgcSeC2g4bsG7I8_2jDWUtt4WoU7Yu2Kilk/s900/mary.jpg)  

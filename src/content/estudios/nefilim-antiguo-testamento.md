@@ -1,12 +1,12 @@
 ---
-title: "Los Nefilim Del Antiguo Testamento: ¿Quiénes Son, Qué Están Haciendo Y Por Qué?"
+title: "Nefilim del Antiguo Testamento: quiénes son y qué hacen"
 date: "2017-02-23"
 updated: "2023-07-20"
 author: "Josh Peck"
 slug: "nefilim-antiguo-testamento"
 redirectFrom: "/2017/02/nefilim-antiguo-testamento.html"
-description: "A la luz del interés creciente por los Nefilim de Génesis 6, decidí compartir parte de mi investigación sobre el asunto. El lector promedio puede haber oído…"
-tags: ["Apologética"]
+description: "Investigación sobre los nefilim de Génesis 6: quiénes eran, qué hicieron y por qué despiertan un interés creciente entre los lectores, según el autor."
+tags: ["Apologética", "Nephilim", "Génesis 6", "Ángeles caídos"]
 ---
 
 A la luz del interés creciente por los **Nefilim** de **Génesis 6**, decidí compartir parte de mi investigación sobre el asunto. El lector promedio puede haber oído hablar algunas de las cosas contenidas en este artículo, pero estoy dispuesto a apostar que hay otros puntos que serán nuevos para la gran mayoría.  

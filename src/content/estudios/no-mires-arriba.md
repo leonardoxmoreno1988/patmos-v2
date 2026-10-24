@@ -1,12 +1,12 @@
 ---
-title: "El fin del mundo según la película 'Don't Look Up'"
+title: "No mires arriba: el fin del mundo según la película"
 date: "2022-02-05"
 updated: "2025-05-23"
 author: "Leonardo Moreno"
 slug: "no-mires-arriba"
 redirectFrom: "/2022/02/no-mires-arriba.html"
-description: "Cuando una película reúne a cuatro ganadores del Oscar para hacer una sátira del fin del mundo, da por sentado que tiene un significado oculto. Don’t Look Up o…"
-tags: ["Cine y Cultura"]
+description: "La sátira de Netflix No mires arriba (Don't Look Up), con cuatro ganadores del Oscar, y su mensaje sobre el fin del mundo, según el análisis del autor."
+tags: ["Cine y Cultura", "No mires arriba", "Fin del mundo", "Escatología"]
 ---
 
 Estimado lector,

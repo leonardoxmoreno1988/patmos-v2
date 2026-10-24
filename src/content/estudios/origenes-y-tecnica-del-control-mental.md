@@ -1,12 +1,12 @@
 ---
-title: "Orígenes Y Técnica Del Control Mental Monarca"
+title: "Orígenes y técnica del control mental Monarca"
 date: "2011-06-25"
 updated: "2023-07-23"
 author: "Vigilant Citizen"
 slug: "origenes-y-tecnica-del-control-mental"
 redirectFrom: "/2011/06/origenes-y-tecnica-del-control-mental.html"
-description: "La Programación Monarca es un método de control mental utilizado por numerosas organizaciones con fines encubiertos (gobierno oscuro). Es una continuación del…"
-tags: ["Sociedad"]
+description: "La programación Monarca como método de control mental que, según el artículo, continúa el proyecto MK-Ultra y es usado por organizaciones encubiertas."
+tags: ["Sociedad", "Control mental", "Monarca", "MK Ultra"]
 ---
 
 **\>> [Suscríbete al newsletter semanal](https://ritualypropaganda.ipzmarketing.com/f/R0TgFPyMCUc)**

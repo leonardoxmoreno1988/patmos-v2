@@ -1,12 +1,12 @@
 ---
-title: "\"Nope\" señala a Dios como un depredador sangriento"
+title: "Nope: Dios como depredador sangriento en el cine"
 date: "2022-08-14"
 updated: "2026-01-13"
 author: "Leonardo Moreno"
 slug: "nope-dios-depredador"
 redirectFrom: "/2022/08/nope-dios-depredador.html"
-description: "Desde el estreno de El Platillo Volador en 1950, la ciencia ficción se ha desarrollado tanto en efectos CGI como en su significado respecto al cristianismo. La…"
-tags: ["Cine y Cultura"]
+description: "Según el análisis, Nope, de Jordan Peele, señala a Dios como depredador sangriento, leída desde la ciencia ficción y el cristianismo del cine."
+tags: ["Cine y Cultura", "Nope", "Jordan Peele", "Ciencia ficción"]
 ---
 
 Estimado lector,

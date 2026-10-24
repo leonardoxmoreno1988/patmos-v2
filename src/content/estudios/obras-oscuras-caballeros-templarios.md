@@ -1,12 +1,12 @@
 ---
-title: "Obras Oscuras De Los Caballeros Templarios, Su Ascenso Y Corrupción"
+title: "Obras oscuras de los Caballeros templarios y su corrupción"
 date: "2021-03-01"
 updated: "2023-07-17"
 author: "Kevin Farringdon"
 slug: "obras-oscuras-caballeros-templarios"
 redirectFrom: "/2021/02/obras-oscuras-caballeros-templarios.html"
-description: "No mucha gente sabe que los orígenes de la masonería residen en un grupo que durante la época medieval eran conocidos como los Caballeros Templarios. Este…"
-tags: ["Sociedad"]
+description: "Según el artículo, los orígenes de la masonería están en los Caballeros Templarios medievales, un grupo que, según el texto, luego se corrompió."
+tags: ["Sociedad", "Caballeros templarios", "Masonería", "Historia"]
 ---
 
 No mucha gente sabe que los orígenes de la **masonería** residen en un grupo que durante la época medieval eran conocidos como los **Caballeros Templarios**. Este grupo controvertido inicialmente ayudó a cumplir con la solicitud del Papa Urbano II de conquistar las tierras santas (Jerusalén) en nombre del cristianismo solo para terminar siendo perseguido por la misma Iglesia que habían protegido durante cientos de años.  

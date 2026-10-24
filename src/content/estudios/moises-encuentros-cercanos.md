@@ -1,12 +1,12 @@
 ---
-title: "Moisés y Encuentros Cercanos del Tercer Tipo (1977)"
+title: "Moisés y Encuentros cercanos del tercer tipo (1977)"
 date: "2022-11-20"
 updated: "2025-05-26"
 author: "Leonardo Moreno"
 slug: "moises-encuentros-cercanos"
 redirectFrom: "/2022/11/moises-encuentros-cercanos.html"
-description: "La película Encuentros Cercanos del Tercer Tipo (1977) contiene paralelos con la experiencia de Moisés en el monte Sinaí, y en general, grandes paralelos con…"
-tags: ["Cine y Cultura"]
+description: "La película Encuentros cercanos del tercer tipo (1977) y sus paralelos con la experiencia de Moisés en el monte Sinaí y con las manifestaciones angélicas."
+tags: ["Cine y Cultura", "Moisés", "Sinaí", "Ángeles"]
 ---
 
 Estimado lector,

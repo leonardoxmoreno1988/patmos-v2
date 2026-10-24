@@ -1,12 +1,12 @@
 ---
-title: "No creyendo a cualquier espíritu engañoso"
+title: "No creer a cualquier espíritu engañoso: apariciones"
 date: "2022-09-04"
 updated: "2025-05-25"
 author: "Leonardo Moreno"
 slug: "no-creyendo-espiritu-enganoso"
 redirectFrom: "/2022/09/no-creyendo-espiritu-enganoso.html"
-description: "En la tradición católica, hay muchas apariciones reportadas de María, ángeles y/o santos apareciendo y entregando un mensaje de Dios. Es probable que en…"
-tags: ["Falsas Doctrinas", "Apologética"]
+description: "Muchas apariciones de María, ángeles y santos en la tradición católica entregan mensajes; el artículo advierte que algunas pueden ser engañosas."
+tags: ["Falsas Doctrinas", "Apologética", "Apariciones", "Discernimiento"]
 ---
 
 Estimado lector,  

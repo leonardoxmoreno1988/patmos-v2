@@ -1,12 +1,12 @@
 ---
-title: "Los números de Revelación ¿Literales o simbólicos?"
+title: "Los números de Revelación: ¿literales o simbólicos?"
 date: "2022-06-12"
 updated: "2026-01-04"
 author: "Leonardo Moreno"
 slug: "numeros-apocalipsis"
 redirectFrom: "/2022/06/numeros-apocalipsis.html"
-description: "El libro de Revelación contiene 254 números. Eso es más de un número por cada dos versículos. La presencia de estas cifras (2, 3, 3 ½, 4, 5, 6, 7, 10, 12, 24…"
-tags: ["Escatología"]
+description: "Revelación contiene 254 números, más de uno por cada dos versículos. Un análisis de si estas cifras deben leerse de forma literal o simbólica."
+tags: ["Escatología", "Revelación", "Números bíblicos", "Simbolismo"]
 ---
 
 Estimado lector,

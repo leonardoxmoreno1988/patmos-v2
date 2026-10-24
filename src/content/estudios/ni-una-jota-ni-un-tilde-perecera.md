@@ -1,12 +1,12 @@
 ---
-title: "Ni una jota, ni un tilde perecerá"
+title: "Ni una jota ni un tilde perecerá: la Palabra y la iglesia"
 date: "2026-02-16"
 updated: "2026-04-11"
 author: "Leonardo Moreno"
 slug: "ni-una-jota-ni-un-tilde-perecera"
 redirectFrom: "/2026/04/ni-una-jota-ni-un-tilde-perecera.html"
-description: "Cuando nos detenemos a observar la historia de la iglesia primitiva, es imposible no sentirnos sorprendidos. Lo que comenzó como un pensamiento lleno de…"
-tags: ["Apologética"]
+description: "Un análisis de la iglesia primitiva, que comenzó con sacrificio y terminó como un sistema religioso gigantesco, a la luz de Mateo 5:18 y de la historia."
+tags: ["Apologética", "Iglesia primitiva", "Mateo 5:18", "Palabra de Dios"]
 ---
 
 Estimado lector,  
