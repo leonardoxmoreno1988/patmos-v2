@@ -9,98 +9,79 @@ description: "Cómo la estructura poética de los Salmos, el himnario de las Esc
 tags: ["Escatología", "Salmos", "Profecía", "Poesía bíblica"]
 ---
 
-Estimado lector,
+El libro de los Salmos constituye el himnario más extenso de las Sagradas Escrituras. Compuesto por cánticos, oraciones e himnos espirituales, es el texto donde se exhorta al creyente a entonar un «cántico nuevo» (Salmo 149:1). Sin embargo, aunque su redacción recurre a una estructura poética y métrica, su naturaleza trasciende la mera clasificación secular de poesía lírica.
 
-  
+La literatura bíblica a menudo expresa verdades profundas mediante el paralelismo y el lenguaje poético hebreo, lo que induce a la erudición racionalista a desestimar su contenido tratándolo como simple hipérbole o recurso artístico, ignorando su peso profético literal.
 
-El libro de los Salmos constituye el himnario más extenso de las Escrituras, está compuesto por cantos, oraciones e himnos espirituales, y es donde se nos ordena cantar "canción nueva" (Salmo 149:1). Pero aunque el texto emplea una **[estructura poética](https://es.wikipedia.org/wiki/Poes%C3%ADa)** y musical, su naturaleza trasciende la simple clasificación secular de "poesía".  
-  
-Las Escrituras presentan ciertas verdades con forma poética para que aquellos que carecen de fe no las tomen como historia o profecía literal y no las consideren con la seriedad debida. El problema ocurre cuando la mayoría de los **[eruditos](https://share.google/aimode/EhPeiLnPfD8mUF6LX)** fallan en comprender el verdadero significado de estos versículos debido a que los abordan como solo poesía o "imágenes poéticas".  
-  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3L8kk3UP8Lj0SPtNluQ6boxyQDKwCIqGeezxvBdvgiA5NN8F5Jh-DJDTLqPEf-YAXH4dYOBHd5gCyE2EK-9rsGrLKnHlSSs0ZLiNwKzlEudIlE9lzVVq5XLajdHf8tjbYTCJhXmGbtGZtg-vcGnbppCy1K9hyphenhyphenttzn_-fO7YNTSHtMV68Zvke342lF6ZU/s800/salmos001.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3L8kk3UP8Lj0SPtNluQ6boxyQDKwCIqGeezxvBdvgiA5NN8F5Jh-DJDTLqPEf-YAXH4dYOBHd5gCyE2EK-9rsGrLKnHlSSs0ZLiNwKzlEudIlE9lzVVq5XLajdHf8tjbYTCJhXmGbtGZtg-vcGnbppCy1K9hyphenhyphenttzn_-fO7YNTSHtMV68Zvke342lF6ZU/s800/salmos001.jpg)  
-  
-Hablamos de que la tendencia de algunas traducciones de categorizar los Salmos bajo un simple género poético puede inducir al cristiano al error de ignorar su relevante peso profético. Los Salmos contienen capítulos enteros que detallan como el Señor Jesucristo va a regresar por segunda vez a la tierra, y otorgan detalles del establecimiento de su **[reino terrenal físico](/estudios/1000-anos-reinado-futuro)**.  
-  
-En la división hebrea del Antiguo Testamento, la cual fue validada por el mismo Cristo al hablar de la Ley, los Profetas y los Salmos, este libro representa la sección de los Escritos o "Kethubim".
+![Manuscrito antiguo del libro de los Salmos destacando su estructura poética y profética](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3L8kk3UP8Lj0SPtNluQ6boxyQDKwCIqGeezxvBdvgiA5NN8F5Jh-DJDTLqPEf-YAXH4dYOBHd5gCyE2EK-9rsGrLKnHlSSs0ZLiNwKzlEudIlE9lzVVq5XLajdHf8tjbYTCJhXmGbtGZtg-vcGnbppCy1K9hyphenhyphenttzn_-fO7YNTSHtMV68Zvke342lF6ZU/s800/salmos001.jpg)
 
-> "Y les dijo: Estas son las palabras que os hablé estando aun con vosotros: Que era necesario que se cumpliesen todas las cosas que están escritas en la ley de Moisés, y en los profetas, y en los Salmos de mí."  
-> –Lucas 24:44
+La tendencia de algunas corrientes académicas a confinar los Salmos a un género meramente estético oculta su contenido escatológico: el libro preserva descripciones explícitas del Segundo Advenimiento de Cristo y el establecimiento de su [reino terrenal físico](/estudios/1000-anos-reinado-futuro).
 
-Debemos saber que debido a que David era un profeta de Dios que previó la resurrección y el reinado de Cristo (Actos 2:29-30), el contenido de los Salmos se entrelaza profundamente con el ministerio profético de las Escrituras, es decir, habla en demasía sobre el futuro.
+---
 
-  
+## El testimonio de Cristo y el oficio profético de David
 
-Aunque el libro emplea poesía y cánticos como forma de expresión aprobada por el Espíritu de Dios, su utilidad es la de validar la fiabilidad de las Escrituras mediante el conocimiento del futuro, y su lectura debe tener un entendimiento que va mucho más allá de la simple impresión musical.  
-  
-Por eso se tienen múltiples ejemplos donde los Salmos ocultan verdades proféticas literales sobre el Primer y **[Segundo Advenimiento](/estudios/diferencias-importantes)** de Cristo, así como eventos precisos de la Tribulación y el Milenio. El Salmo 2 describe proféticamente la Segunda Venida y el establecimiento del reino terrenal, mostrando a Jesucristo recibiendo a las naciones por herencia y gobernándolas con vara de hierro desde el monte de Sion.  
+En la división canónica del Antiguo Testamento hebreo (*Tanaj*), ratificada por Jesucristo al mencionar «la Ley, los Profetas y los Salmos», este libro encabeza la sección de los Escritos (*Ketuvim*):
 
-> **"Y yo te establecí mi rey sobre Sión, el monte de mi santidad. Yo recitaré el decreto. Jehová me dijo: Mi hijo eres tú: yo te engendré hoy. Demándame, y yo daré las gentes por tu heredad, y por tu posesión los cabos de la tierra. Quebrantarlos has con vara de hierro: como vaso de ollero los desmenuzarás."  
-> –Salmo 2:6-9**
+> *«Y les dijo: Estas son las palabras que os hablé estando aún con vosotros: Que era necesario que se cumpliesen todas las cosas que están escritas en la ley de Moisés, y en los profetas, y en los Salmos de mí»* (Lucas 24:44).
 
-Asimismo, el Salmo 110 es importante porque revela al Padre diciéndole al Hijo que se siente a Su diestra temporalmente hasta que Sus enemigos sean puestos por estrado de Sus pies (Salmo 110:1), detallando luego cómo el Señor herirá a los reyes gentiles en el día de Su ira durante Su retorno a la tierra.
+El apóstol Pedro aclaró en Pentecostés que el rey David no operaba únicamente como monarca o músico de Israel, sino formalmente como **profeta de Dios**, dotado de revelación previa sobre la resurrección y la entronización corporal del Mesías (Hechos 2:29-30). Por ende, los cánticos davídicos contienen oráculos futuros que validan la infalibilidad bíblica.
 
-> **"El Señor está a tu diestra: herirá a los reyes en el día de su furor. Juzgará en las naciones; henchirá de cuerpos muertos: herirá la cabeza sobre mucha tierra. Del arroyo, beberá en el camino; por lo cual ensalzará la cabeza."  
-> –Salmo 110:5-6**
+---
 
-El Salmo 22 y el Salmo 69 describen literalmente el trato físico a Cristo durante Su juicio y crucifixión, ilustrando a sus enemigos rodeándolo y los escarnios recibidos.  
+## Profecías del Primer Advenimiento: crucifixión y resurrección
 
-> "Rodeáronme muchos toros: fuertes toros de Basán me cercaron."  
-> –Salmo 22:12  
->   
-> "Porque me rodearon perros: cercáronme cuadrilla de malignos: horadaron mis manos y mis pies."  
-> –Salmo 22:16  
->   
-> "La afrenta ha quebrantado mi corazón; y he tenido dolor; y he esperado quien se compadeciese de mí, y no lo hubo, y consoladores, y no hallé."  
-> –Salmo 69:20  
+El Salterio describe con detalle anatómico y forense los padecimientos físicos del Calvario siglos antes de que el Imperio romano introdujera la crucifixión en Judea:
 
-De igual forma, la resurrección corporal del Mesías, asegurando que Su alma no sería dejada en el infierno, es profetizada de manera indiscutible en estos capítulos.
+* **Los vituperios y la crucifixión:** El Salmo 22 y el Salmo 69 retratan el cerco de los enemigos, la sed, el escarnio público y la horadación del cuerpo:
+  > *«Porque me rodearon perros: cercáronme cuadrilla de malignos: horadaron mis manos y mis pies»* (Salmo 22:16).  
+  > *«La afrenta ha quebrantado mi corazón; y he tenido dolor; y he esperado quien se compadeciese de mí, y no lo hubo, y consoladores, y no hallé»* (Salmo 69:20).
+* **La preservación y resurrección corporal:** El Salmo 16 profetizó que el Mesías vencería el sepulcro sin experimentar la corrupción biológica:
+  > *«Porque no dejarás mi alma en el sepulcro: ni darás tu Santo para que vea corrupción. Hacerme has saber la senda de la vida; hartura de alegrías hay con tu rostro: deleites en tu diestra para siempre»* (Salmo 16:10-11).
 
-> "Porque no dejarás mi alma en el sepulcro: ni darás tu Santo para que vea corrupción. Hacerme has saber la senda de la vida, hartura de alegrías hay con tu rostro: deleites en tu diestra para siempre."  
-> –Salmo 16:10-11
+Este cumplimiento no fue alegórico ni simbólico; aconteció con absoluta literalidad histórica en la resurrección de Jesús.
 
-Simultáneamente, profetiza que Su cuerpo físico, depositado en la tumba, no experimentaría el proceso natural de descomposición, puesto que resucitaría triunfante antes de que la corrupción física pudiera afectarlo.
+---
 
-  
+## Escatología en los Salmos: el Segundo Advenimiento y el juicio a las naciones
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPoJnZZUrhlk9Q9ErxeIQ0lUdHmXsDCZpKiu3uoi9-QLVCdNLYsu-kcyDQW_DsVns4daWqublJt9brcZbrFkxrTXY2U9L3fBiNu5qtGQB59t5sxNDswGFtVIURa1NzZqa_alefWF4I-JREwjDY7-lNs2pbw_HJ8lOnL1MtDnc4t20F6uLxzoaNrgfkXl0/w640-h402/juicio.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0D6K9YAduJ80kwypVlZR6cfSmJK3y0vY88Kt8EhAw7X64jyJO44Bs1mtWD4dT1WyafugDK7_CaT00wSfhWAuzzmpr1VErRuXtrFpt8INwG90AkW563vUB4tu46nZF1uULHWwKAJWsNUdAkYWGGRapVQ0VijbJe2EIYvxXk52h0RixevgQjfwkKOwYD6c/s800/juicio.jpg)
+Del mismo modo en que los Salmos anticiparon el Primer Advenimiento, contienen descripciones del [Segundo Advenimiento de Cristo](/estudios/diferencias-importantes), los juicios de la Gran Tribulación y la victoria final sobre las naciones rebeldes.
 
-  
-Existen salmos que describen la Batalla de Armagedón y el período de la Gran Tribulación. El Salmo 76 ilustra a Dios juzgando desde los cielos para salvar a los mansos de la tierra, quebrando las flechas, el escudo y la espada de guerra en Sion y cortando el espíritu de los príncipes.
+![Representación artística del juicio divino y la Segunda Venida manifestada desde los cielos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0D6K9YAduJ80kwypVlZR6cfSmJK3y0vY88Kt8EhAw7X64jyJO44Bs1mtWD4dT1WyafugDK7_CaT00wSfhWAuzzmpr1VErRuXtrFpt8INwG90AkW563vUB4tu46nZF1uULHWwKAJWsNUdAkYWGGRapVQ0VijbJe2EIYvxXk52h0RixevgQjfwkKOwYD6c/s800/juicio.jpg)
 
-> **"Y en Salem está su tabernáculo: y su habitación en Sión. Allí quebró las saetas del arco: el escudo, y la espada, y la guerra. Selah."  
-> –Salmo 76:2-3**
-> 
-> **"Desde los cielos hiciste oír juicio: la tierra tuvo temor, y cesó, Cuando, o! Dios, te levantaste al juicio, para salvar a todos los mansos de la tierra. Selah."  
-> –Salmo 76:8-9**
+### 1. El gobierno mesiánico con vara de hierro (Salmo 2)
+El Salmo 2 describe la conspiración de los reyes de la tierra contra el Ungido de Jehová y la proclamación del decreto divino que establece al Rey en Sion:
 
-El Salmo 118 describe la situación de la nación de Israel rodeada por las naciones gentiles al final de la Tribulación, proclamando la victoria mesiánica al declarar que en el nombre del Señor estas naciones serán destruidas.
+> *«Y yo te establecí mi rey sobre Sión, el monte de mi santidad. Yo recitaré el decreto. Jehová me dijo: Mi hijo eres tú: yo te engendré hoy. Demándame, y yo daré las gentes por tu heredad, y por tu posesión los cabos de la tierra. Quebrantarlos has con vara de hierro: como vaso de ollero los desmenuzarás»* (Salmo 2:6-9).
 
-> **"Todas las gentes me cercaron: en nombre de Jehová, que yo los talaré. Cercáronme, y tornáronme a cercar: en nombre de Jehová, que yo los talaré. Cercáronme como abejas, fueron apagados como fuego de espinos: en nombre de Jehová, que yo los talaré."  
-> –Salmo 118:10-12**
+### 2. El estrado de sus pies y la derrota de los reyes (Salmo 110)
+El Salmo 110 presenta al Mesías a la diestra del Padre, en espera del momento de la intervención judicial sobre la tierra:
 
-El Salmo 68 presenta a Dios en Su Segunda Venida, dispersando a Sus enemigos como humo que se desvanece y derritiendo a los impíos como cera, al mismo tiempo que muestra al Señor ascendiendo a lo alto para llevar cautiva la cautividad.
+> *«El Señor está a tu diestra: herirá a los reyes en el día de su furor. Juzgará en las naciones; henchirá de cuerpos muertos: herirá la cabeza sobre mucha tierra»* (Salmo 110:5-6).
 
-> **"Levántese Dios, espárzanse sus enemigos: y huyan los que le aborrecen delante de él. Como es lanzado el humo, los lanzarás: como se derrite la cera delante del fuego, así perecerán los impíos delante de Dios."  
-> –Salmo 68:1-2**
-> 
-> **"Subiste a lo alto, cautivaste cautividad, tomaste dones para los hombres: y también los rebeldes para que habiten, o! JAH Dios."  
-> –Salmo 68:18**
+### 3. La intervención final en Sion (Salmo 76)
+El Salmo 76 ilustra la manifestación del Señor poniendo fin definitivo a los ejércitos de la guerra y juzgando a los gobernantes de la tierra:
 
-Estos ejemplos demuestran que reducir el contenido del libro de los Salmos a una simple lista de poesías destruye la interpretación bíblica y oculta la revelación de los eventos futuros que el texto preserva para un propósito. El rey David compuso los salmos bajo un contexto histórico, devocional y profético multifacético, operando simultáneamente como rey, sacerdote y profeta (Actos 2:29-30).
+> *«Y en Salem está su tabernáculo: y su habitación en Sión. Allí quebró las saetas del arco: el escudo, y la espada, y la guerra. Selah... Desde los cielos hiciste oír juicio: la tierra tuvo temor, y cesó, cuando, ¡oh Dios!, te levantaste al juicio, para salvar a todos los mansos de la tierra»* (Salmo 76:2-3, 8-9).
 
-Esta misma dinámica se observa en el cántico de Débora y Barac (Jueces 5), el cual describe proféticamente la venida del Señor para ejecutar venganza y el derramamiento de sangre en la batalla, a pesar de estar estructurado como un cántico de alabanza. Igualmente, el libro de Habacuc concluye con una larga profecía sobre la Segunda Venida presentada en forma de oración y diseñada específicamente para ser interpretada con instrumentos de cuerda (Habacuc 3:1-19).
+### 4. La victoria sobre el cerco de los gentiles (Salmo 118 y Salmo 68)
+El Salmo 118:10-12 describe a Israel rodeado por las naciones al final de la Tribulación y liberado por el brazo de Jehová (*«Cercáronme como abejas, fueron apagados como fuego de espinos: en nombre de Jehová, que yo los talaré»*). Paralelamente, el Salmo 68:1-2 muestra a Dios dispersando a los impíos como cera derretida ante el fuego en su venida triunfante.
 
-La negación de las profecías del Segundo Advenimiento en estos libros por parte de ciertos cristianos radica principalmente en su **[método de interpretación](https://es.wikipedia.org/wiki/Interpretaci%C3%B3n_aleg%C3%B3rica_de_la_Biblia)**, el cual reduce estos textos a simple literatura o expresiones simbólicas. Pero como se mencionó, es interesante que Dios usa este formato en Su Palabra de manera deliberada, de modo que aquellos individuos que carecen de fe, no tomen estas revelaciones como verdad y se mantengan en la ignorancia.
+---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkYAkAVOSj8rNdeQlZVKslX5a2LTbLsFd3cWLdnrf8ZxzdaFOFadwKp73NelT2GgCseTNG98H8JQCEK9IHaGnjQ-ifp6gqufuHtf4uzvYu_y78FqQ-nsm7oLTqTr6nCvRWv4XQbVGn7AxgicWrJYJzd84C8wdQ2TU3jrLmweSSpr94_qp1C1itg2EsYE/w640-h342/salmos-david.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkYAkAVOSj8rNdeQlZVKslX5a2LTbLsFd3cWLdnrf8ZxzdaFOFadwKp73NelT2GgCseTNG98H8JQCEK9IHaGnjQ-ifp6gqufuHtf4uzvYu_y78FqQ-nsm7oLTqTr6nCvRWv4XQbVGn7AxgicWrJYJzd84C8wdQ2TU3jrLmweSSpr94_qp1C1itg2EsYE/s800/salmos-david.jpg)
+## La poesía lírica como instrumento de profecía en el canon bíblico
 
-Para evadir las implicaciones proféticas literales del Antiguo Testamento, muchos eruditos y comentaristas incrédulos emplean la espiritualización y la alegorización de los versículos. Aplican conceptos racionalistas a la lectura de la Biblia y descartan como hecho real cualquier evento profético que les resulte difícil de creer, atribuyéndolo simplemente a **[expresiones metafóricas](https://es.wikipedia.org/wiki/Met%C3%A1fora)**.
+El uso de estructuras líricas para vehicular oráculos de juicio y redención no es privativo de David. Es una metodología recurrente en la revelación divina:
 
-A través de esta visión humanista, se rechaza el cumplimiento futuro de capítulos enteros en los Salmos e Isaías que describen detalladamente eventos literales como la manifestación del Anticristo y el establecimiento del reino terrenal.
+* **El cántico de Débora y Barac (Jueces 5):** Estructurado como un himno de alabanza militar, describe la marcha cósmica de Dios, el temblor de la tierra y la venganza sangrienta sobre los enemigos de su pueblo.
+* **La oración de Habacuc (Habacuc 3):** Concluye con un cántico diseñado para instrumentos de cuerda que describe la Segunda Venida del Señor desde Temán y el monte de Parán, hendiendo la tierra con ríos y trillando a las naciones con ira (Habacuc 3:3-12).
 
-Tales teólogos intentan forzar la idea de que toda profecía del Antiguo Testamento sobre el reino mesiánico terrenal ya fue cumplida histórica o espiritualmente durante eventos pasados, tales como el nacimiento de la iglesia en Pentecostés (Actos 2:1-4), a pesar de que los sucesos descritos apuntan a eventos aún sin cumplimiento.
+![Ilustración del rey David componiendo los Salmos bajo inspiración profética y sacerdotal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkYAkAVOSj8rNdeQlZVKslX5a2LTbLsFd3cWLdnrf8ZxzdaFOFadwKp73NelT2GgCseTNG98H8JQCEK9IHaGnjQ-ifp6gqufuHtf4uzvYu_y78FqQ-nsm7oLTqTr6nCvRWv4XQbVGn7AxgicWrJYJzd84C8wdQ2TU3jrLmweSSpr94_qp1C1itg2EsYE/s800/salmos-david.jpg)
 
-Gracias por leer este mensaje. No olvide compartir el material con sus familiares y cercanos.  
-  
+---
 
-Leonardo M.
+## El reduccionismo teológico de la alegorización
+
+Para eludir las implicaciones del gobierno terrenal de Cristo profetizado en el Antiguo Testamento, sectores del amilenialismo y la teología liberal recurren a la alegorización de los textos. Al catalogar estas profecías como licencias poéticas o imágenes metafóricas, reducen los oráculos a experiencias pasadas (como la fundación de la iglesia en Pentecostés) o a abstracciones morales.
+
+Sin embargo, las mismas reglas hermenéuticas que confirmaron el cumplimiento literal del sufrimiento mesiánico en el Calvario exigen aceptar el cumplimiento literal del Salterio respecto a su reino milenial futuro: el Señor gobernará sobre las naciones con vara de hierro desde Sion, ejecutando el juicio decretado desde los cielos.
