@@ -8,7 +8,8 @@ import {
 import { VerseSheet, type PreviewTarget } from "@/components/reader/verse-preview";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { slugifyBook } from "@/lib/bible";
-import { localeParam, type Lang } from "@/i18n";
+import type { Lang } from "@/i18n";
+import { readerPathForSlug } from "@/lib/bible-slugs";
 
 /** Estudios are Spanish-only; always preview / link RV1865 via `/leer/...`. */
 const STUDY_LANG: Lang = "es";
@@ -192,15 +193,7 @@ export function EstudioProse({ html, className }: { html: string; className?: st
           onGoToChapter={() => {
             const ref = sheet;
             setSheet(null);
-            void navigate({
-              to: "/{-$locale}/leer/$libro/$cap",
-              params: {
-                locale: localeParam(STUDY_LANG),
-                libro: slugifyBook(ref.book),
-                cap: String(ref.chapter),
-              },
-              hash: `verse-${ref.verse}`,
-            });
+            void navigate({ href: readerPathForSlug(STUDY_LANG, slugifyBook(ref.book), ref.chapter, ref.verse) });
           }}
         />
       ) : null}

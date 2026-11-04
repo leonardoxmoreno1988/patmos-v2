@@ -30,7 +30,8 @@ import {
 import { supabase } from "@/lib/supabase";
 import { linkifyScriptureMarkdown } from "@/lib/scripture-refs";
 import { localizeBookName } from "@/lib/bible";
-import { localeParam, useI18n, type Lang } from "@/i18n";
+import { useI18n, type Lang } from "@/i18n";
+import { readerPathForSlug, type SlugLang } from "@/lib/bible-slugs";
 
 const CHECKOUT_URL = (userId: string) =>
   `https://patmos.lemonsqueezy.com/checkout/buy/4beafe1a-6811-457e-b7b5-02e216f8aeef?checkout[custom][user_id]=${encodeURIComponent(userId)}&embed=1`;
@@ -381,13 +382,10 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
     (href: string) => {
       onOpenChange(false);
       const [path, hash] = href.split("#");
-      const leer = path?.match(/^(?:\/en)?\/leer\/([^/]+)\/([^/]+)/);
+      const leer = path?.match(/^(\/en)?\/(?:leer|read)\/([^/]+)\/([^/]+)/);
       if (leer) {
-        void navigate({
-          to: "/{-$locale}/leer/$libro/$cap",
-          params: { locale: localeParam(lang), libro: leer[1]!, cap: leer[2]! },
-          ...(hash ? { hash } : {}),
-        });
+        const linkLang: SlugLang = leer[1] ? "en" : "es";
+        void navigate({ href: readerPathForSlug(linkLang, leer[2]!, Number(leer[3])) + (hash ? `#${hash}` : "") });
       } else {
         void navigate({ href });
       }

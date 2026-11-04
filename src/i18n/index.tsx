@@ -2,6 +2,7 @@ import { createContext, useCallback, useContext, useEffect, useMemo, useState, t
 import { useMatch, useNavigate } from "@tanstack/react-router";
 import { es, type Dictionary } from "./es";
 import { en } from "./en";
+import { readerPathForSlug } from "@/lib/bible-slugs";
 
 export type Lang = "es" | "en";
 
@@ -42,27 +43,34 @@ function getBrowserLang(): Lang {
 /** Explicit choice first, then the browser language on a first visit. Client-only. */
 const getPreferredLang = (): Lang => getSavedLang() ?? getBrowserLang();
 
-/** Route whose URL carries the language: Spanish at /leer/..., English at /en/leer/... */
-export const READER_ROUTE = "/{-$locale}/leer/$libro/$cap";
+/** The reader routes: the language is part of the path (/leer/... Spanish, /en/read/... English). */
+export const READER_ROUTES = { es: "/leer/$libro/$cap", en: "/en/read/$libro/$cap" } as const;
 
-/** The `locale` path param for a language (Spanish, the default, has no prefix). */
-export const localeParam = (lang: Lang): "en" | undefined => (lang === "en" ? "en" : undefined);
+/** The reader page the URL is on (its language, book slug, and chapter), or null on other pages. */
+export function useReaderMatch(): { lang: Lang; libro: string; cap: string } | null {
+  const es = useMatch({ from: READER_ROUTES.es, shouldThrow: false });
+  const en = useMatch({ from: READER_ROUTES.en, shouldThrow: false });
+  const lang: Lang | null = en ? "en" : es ? "es" : null;
+  const params = en?.params ?? es?.params;
+  const libro = params?.libro;
+  const cap = params?.cap;
+  return useMemo(
+    () => (lang && libro !== undefined && cap !== undefined ? { lang, libro, cap } : null),
+    [lang, libro, cap],
+  );
+}
 
-/** The language a `locale` path param stands for. */
-export const langFromLocale = (locale: string | undefined): Lang => (locale === "en" ? "en" : DEFAULT_LANG);
-
-/** Language fixed by the current URL (the reader routes), or null on pages without a locale in the path. */
+/** Language fixed by the current URL (the reader routes), or null on pages without one. */
 export function useUrlLang(): Lang | null {
-  const match = useMatch({ from: READER_ROUTE, shouldThrow: false });
-  return match ? langFromLocale(match.params.locale) : null;
+  return useReaderMatch()?.lang ?? null;
 }
 
 /**
  * Language resolution, highest priority first:
- * 1. The URL on reader routes (/leer/... is Spanish, /en/leer/... English). It is never overridden
+ * 1. The URL on reader routes (/leer/... is Spanish, /en/read/... English). It is never overridden
  *    and never redirected, so shared links open in their own language and the server renders them
  *    in it.
- * 2. Elsewhere, the language of the reader page this tab came from, so leaving /en/leer/... for the
+ * 2. Elsewhere, the language of the reader page this tab came from, so leaving /en/read/... for the
  *    dashboard stays in English.
  * 3. The choice saved by a language switcher.
  * 4. The browser/OS language (first visit).
@@ -70,8 +78,8 @@ export function useUrlLang(): Lang | null {
  * DEFAULT_LANG on pages without a URL language, keeping hydration identical to the cached HTML.
  */
 export function LanguageProvider({ children }: { children: ReactNode }) {
-  const readerMatch = useMatch({ from: READER_ROUTE, shouldThrow: false });
-  const urlLang = readerMatch ? langFromLocale(readerMatch.params.locale) : null;
+  const reader = useReaderMatch();
+  const urlLang = reader?.lang ?? null;
   const navigate = useNavigate();
   // null until mounted. Visiting a reader URL updates it for this tab but doesn't save it: only an
   // explicit switch does, so opening a shared Spanish link doesn't replace an English OS default.
@@ -86,7 +94,6 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     document.documentElement.lang = lang;
   }, [lang]);
 
-  const readerParams = readerMatch?.params;
   const setLang = useCallback(
     (next: Lang) => {
       setSessionLang(next);
@@ -95,15 +102,12 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
       } catch {
         /* choice still applies for this session */
       }
-      if (readerParams && langFromLocale(readerParams.locale) !== next) {
-        void navigate({
-          to: READER_ROUTE,
-          params: { ...readerParams, locale: localeParam(next) },
-          hash: true,
-        });
+      // Same book and chapter in the other language; the current verse anchor carries over.
+      if (reader && reader.lang !== next) {
+        void navigate({ href: readerPathForSlug(next, reader.libro, Number(reader.cap)) + window.location.hash });
       }
     },
-    [navigate, readerParams],
+    [navigate, reader],
   );
 
   const value = useMemo(() => ({ lang, setLang, t: DICTIONARIES[lang] }), [lang, setLang]);

@@ -117,7 +117,7 @@ function RootShell({ children }: { children: ReactNode }) {
   // first in <head>, so the font handshakes start before the render-blocking CSS is requested.
   preconnect("https://fonts.googleapis.com");
   preconnect("https://fonts.gstatic.com", { crossOrigin: "anonymous" });
-  // Pages whose URL fixes the language (/en/leer/...) declare it in the server HTML.
+  // Pages whose URL fixes the language (/en/read/...) declare it in the server HTML.
   const lang = useUrlLang() ?? DEFAULT_LANG;
   return (
     // The theme script adds class="dark" before hydration; suppressHydrationWarning covers that one

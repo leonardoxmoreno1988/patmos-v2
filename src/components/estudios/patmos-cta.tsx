@@ -2,7 +2,8 @@ import { Link } from "@tanstack/react-router";
 import { BookOpen, MessageSquare } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
-import { localeParam, useI18n } from "@/i18n";
+import { useI18n } from "@/i18n";
+import { readerLinkProps } from "@/lib/reader-links";
 
 interface PatmosCtaProps {
   title: string;
@@ -44,7 +45,7 @@ export function PatmosCta({
           size="sm"
           className="rounded-full px-4 dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
         >
-          <Link to="/{-$locale}/leer/$libro/$cap" params={{ locale: localeParam(lang), libro: "genesis", cap: "1" }}>
+          <Link {...readerLinkProps(lang, "genesis", 1)}>
             <BookOpen /> Lector Bíblico
           </Link>
         </Button>

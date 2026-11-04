@@ -14,7 +14,8 @@ import {
 import { Dialog, DialogContent } from "@/components/ui/dialog";
 import { BOOKS, CHAPTER_COUNTS, bookName, localizeBookName, slugifyBook, type BookInfo } from "@/lib/bible";
 import { allChapterNotesQuery } from "@/lib/bible-notes";
-import { localeParam, useI18n } from "@/i18n";
+import { useI18n } from "@/i18n";
+import { readerPathForSlug } from "@/lib/bible-slugs";
 import {
 	allBooksQuery,
 	matchIndex,
@@ -107,9 +108,7 @@ export function GlobalSearch({ open, onOpenChange }: { open: boolean; onOpenChan
 	const go = (book: string, chapter: number, verse?: number, notes = false) => {
 		onOpenChange(false);
 		navigate({
-			to: "/{-$locale}/leer/$libro/$cap",
-			params: { locale: localeParam(lang), libro: slugifyBook(book), cap: String(chapter) },
-			...(verse ? { hash: `verse-${verse}` } : notes ? { hash: "notas" } : {}),
+			href: readerPathForSlug(lang, slugifyBook(book), chapter) + (verse ? `#verse-${verse}` : notes ? "#notas" : ""),
 		});
 	};
 

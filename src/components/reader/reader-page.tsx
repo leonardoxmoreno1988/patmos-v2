@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
-import { createFileRoute, Link, notFound, redirect, useNavigate, useRouterState } from "@tanstack/react-router";
+import { Link, useNavigate, useRouterState } from "@tanstack/react-router";
 
-import { useQueryClient, useQuery } from "@tanstack/react-query";
+import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { ChevronLeft, ChevronRight, MessageSquare, StickyNote } from "lucide-react";
 
 import { useAuth } from "@/components/auth/auth-provider";
@@ -9,16 +9,17 @@ import { AuthModal } from "@/components/auth/auth-modal";
 import { VerseActionBar } from "@/components/reader/verse-tools";
 import { HIGHLIGHT_CLASS, chapterMarksQuery } from "@/lib/user-marks";
 
-import { BOOKS, CHAPTER_COUNTS, bookName, bookFromSlug, slugifyBook, type Verse } from "@/lib/bible";
+import { BOOKS, CHAPTER_COUNTS, bookName, slugifyBook, type Verse } from "@/lib/bible";
 import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
-import { adjacentChapters, notesCacheTag, notesToHtml } from "@/lib/bible-notes";
-import { readerChapterQuery } from "@/lib/reader-chapter";
-import { langFromLocale, useI18n } from "@/i18n";
-import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, brandTitle, excerpt, plainText, seoHead } from "@/lib/seo";
+import { adjacentChapters, notesToHtml } from "@/lib/bible-notes";
+import { bookIdOf, readerPath, type SlugLang } from "@/lib/bible-slugs";
+import { readerChapterQuery, type ReaderChapter } from "@/lib/reader-chapter";
+import { useI18n } from "@/i18n";
+import { plainText } from "@/lib/seo";
 import { recordReadChapter } from "@/lib/reading-progress";
 
 function truncateWords(text: string, maxWords: number) {
@@ -28,100 +29,6 @@ function truncateWords(text: string, maxWords: number) {
   ? `${words.slice(0, maxWords).join(" ")}...`
   : clean;
 }
-
-
-
-// Spanish lives at /leer/..., English at /en/leer/...; the language comes from the URL so the
-// server renders each version in its own language.
-export const Route = createFileRoute("/{-$locale}/leer/$libro/$cap")({
- staticData: { sitemap: true },
- beforeLoad: ({ params }) => {
-  if (params.locale === undefined || params.locale === "en") return;
-  // /es/leer/... is the Spanish page under a redundant prefix; any other prefix isn't a language.
-  if (params.locale === "es") {
-   throw redirect({ to: "/{-$locale}/leer/$libro/$cap", params: { ...params, locale: undefined }, statusCode: 301 });
-  }
-  throw notFound();
- },
- // The chapter's text and notes resolve on the server, so the HTML already contains both. Visited
- // chapters stay in the query cache for the session, so going back to one resolves immediately.
- loader: async ({ context, params }) => {
-  const book = bookFromSlug(params.libro) ?? BOOKS[0]!;
-  const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
-  const lang = langFromLocale(params.locale);
-  const page = await context.queryClient.ensureQueryData(readerChapterQuery(book.bookid, chapter, lang));
-  return { lang, bookId: book.bookid, chapter, ...page };
- },
- headers: ({ params }) => {
-  const book = bookFromSlug(params.libro) ?? BOOKS[0]!;
-  const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
-  // Lets /admin/notas purge just this page from the CDN after an edit.
-  return { ...PUBLIC_PAGE_HEADERS, "Vercel-Cache-Tag": notesCacheTag(book.code, chapter) };
- },
- head: ({ params, loaderData }) => {
-  const lang = langFromLocale(params.locale);
-  const info = bookFromSlug(params.libro) ?? BOOKS[0]!;
-  const book = bookName(info, lang);
-  const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
-  const notes = loaderData?.notes;
-  const en = lang === "en";
-  const description = notes?.length
-   ? excerpt(plainText(notes.map((n) => n.body_html).join(" ")), 150)
-   : en
-    ? `Read ${book} ${chapter} in the King James Version with study notes and doctrinal analysis.`
-    : `Lee ${book} ${chapter} en la Reina-Valera 1865 con notas de estudio y análisis doctrinal.`;
-  const title = en
-   ? `${book} ${chapter} - Reading and Study (KJV)`
-   : `${book} ${chapter} - Lectura y Estudio (RV1865)`;
-  // Both versions share the Spanish book slug; only the /en prefix differs.
-  const esPath = `/leer/${slugifyBook(info.name)}/${chapter}`;
-  const alternates = { es: `${SITE_URL}${esPath}`, en: `${SITE_URL}/en${esPath}` };
-  const url = alternates[lang];
-  return seoHead({
-   title,
-   description,
-   canonical: url,
-   lang,
-   alternates,
-   ogType: "article",
-   // Chapters without commentary (e.g. public-domain English text) stay out of the index. A failed
-   // notes fetch (null) keeps the page indexable, so a transient error isn't cached as noindex.
-   noindex: notes?.length === 0,
-   jsonLd: [
-    {
-     "@type": "Article",
-     headline: brandTitle(title),
-     description,
-     url,
-     mainEntityOfPage: url,
-     inLanguage: lang,
-     image: `${SITE_URL}/og-image.png`,
-     author: { "@type": "Person", name: "Leonardo Moreno" },
-     publisher: ORGANIZATION,
-     isPartOf: { "@id": `${SITE_URL}/#website` },
-     about: {
-      "@type": "Chapter",
-      name: `${book} ${chapter}`,
-      position: chapter,
-      isPartOf: {
-       "@type": "Book",
-       name: en ? `${book} — King James Bible` : `${book} — Biblia Reina-Valera 1865`,
-       inLanguage: lang,
-      },
-     },
-    },
-    {
-     "@type": "BreadcrumbList",
-     itemListElement: [
-      { "@type": "ListItem", position: 1, name: en ? "Home" : "Inicio", item: `${SITE_URL}/` },
-      { "@type": "ListItem", position: 2, name: `${book} ${chapter}`, item: url },
-     ],
-    },
-   ],
-  });
- },
- component: Reader,
-});
 
 function VerseText({
  verse,
@@ -190,11 +97,18 @@ function VerseText({
  );
 }
 
-function Reader() {
- const params = Route.useParams();
- const libro = bookFromSlug(params.libro)?.name ?? "Génesis";
- const cap = Math.max(1, Math.floor(Number(params.cap)) || 1);
- const navigate = useNavigate({ from: Route.fullPath });
+/** One chapter as the loader returns it, plus the language and position the URL fixes. */
+export interface ReaderPageData extends ReaderChapter {
+ lang: SlugLang;
+ bookId: number;
+ chapter: number;
+}
+
+export function ReaderPage({ page }: { page: ReaderPageData }) {
+ const { bookId, lang } = page;
+ const cap = page.chapter;
+ const libro = BOOKS[bookId - 1]!.name;
+ const navigate = useNavigate();
  const [history, setHistory] = useState<
   { book: string; chapter: number; verse: number; originId?: string }[]
  >([]);
@@ -206,15 +120,13 @@ function Reader() {
  const hash = useRouterState({ select: (s) => s.location.hash });
 
 
- const book = BOOKS.find((b) => b.name === libro) ?? BOOKS[0]!;
- const bookId = book.bookid;
+ const book = BOOKS[bookId - 1]!;
  const chapter = cap;
-  const { t, lang } = useI18n();
+  const { t } = useI18n();
   // Text and notes come from the loader (server-rendered); the router keeps the previous page on
   // screen until the next chapter's loader resolves.
-  const loaderData = Route.useLoaderData();
-  const verses = loaderData.verses;
-  const noteSections = loaderData.notes ?? [];
+  const verses = page.verses;
+  const noteSections = page.notes ?? [];
  const hasNotes = noteSections.length > 0;
   const queryClient = useQueryClient();
   // Prefetch the neighbouring chapters so the prev/next arrows don't wait on the server.
@@ -283,7 +195,7 @@ function Reader() {
    el.scrollIntoView({ behavior: "smooth", block: "center" });
   }, 80);
   return () => window.clearTimeout(t);
- }, [libro, cap, loaderData.notes, verses]);
+ }, [libro, cap, page.notes, verses]);
 
  /** Deep linking: scrolls to and flashes the element referenced by the URL hash. */
  useEffect(() => {
@@ -312,7 +224,7 @@ function Reader() {
    }
   }, 120);
   return () => window.clearTimeout(t);
- }, [hash, libro, cap, verses, loaderData.notes]);
+ }, [hash, libro, cap, verses, page.notes]);
 
  // Notes render only when the chapter has some; a failed fetch shows a message instead.
  const renderNotes = () => (
@@ -326,7 +238,7 @@ function Reader() {
  const goTo = (nextBook: number, nextChapter: number) => {
   const target = BOOKS.find((b) => b.bookid === nextBook);
   if (!target) return;
-  void navigate({ params: (p) => ({ ...p, libro: slugifyBook(target.name), cap: String(nextChapter) }) });
+  void navigate({ href: readerPath(lang, target.bookid, nextChapter) });
   if (typeof window !== "undefined") window.scrollTo({ top: 0, behavior: "smooth" });
  };
 
@@ -335,8 +247,10 @@ function Reader() {
    requestAnimationFrame(() => scrollToVerse(verse));
    return;
   }
+  const targetId = bookIdOf(bookName);
+  if (targetId === null) return;
   pendingVerse.current = verse;
-  void navigate({ params: (p) => ({ ...p, libro: slugifyBook(bookName), cap: String(nextChapter) }) });
+  void navigate({ href: readerPath(lang, targetId, nextChapter) });
  };
 
  const goToReference = (ref: {
@@ -371,7 +285,8 @@ function Reader() {
     }
    }
    pendingElId.current = last.originId;
-   void navigate({ params: (p) => ({ ...p, libro: slugifyBook(last.book), cap: String(last.chapter) }) });
+   const lastId = bookIdOf(last.book);
+   if (lastId !== null) void navigate({ href: readerPath(lang, lastId, last.chapter) });
    return;
   }
   goToVerse(last.book, last.chapter, last.verse);
@@ -545,7 +460,7 @@ function Reader() {
         {renderNotes()}
        </div>
      </section>
-    ) : loaderData.notes === null ? (
+    ) : page.notes === null ? (
      <p className="text-sm text-muted-foreground lg:col-span-5">{t.reader.loadError}</p>
     ) : null}
    </main>

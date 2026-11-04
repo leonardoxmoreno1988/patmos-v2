@@ -7,7 +7,8 @@ import { SiteHeader } from "@/components/reader/site-header";
 import { trackUmamiEvent } from "@/lib/analytics";
 import { slugifyBook } from "@/lib/bible";
 import { allChapterNotesQuery } from "@/lib/bible-notes";
-import { localeParam, useI18n } from "@/i18n";
+import { useI18n } from "@/i18n";
+import { readerLinkProps } from "@/lib/reader-links";
 import { allBooksQuery, matchIndex, searchNotes, searchVerses, type Hit } from "@/lib/search";
 import { cn } from "@/lib/utils";
 import { PUBLIC_PAGE_HEADERS, seoHead } from "@/lib/seo";
@@ -152,9 +153,7 @@ function SearchPage() {
 					{pageHits.map((h) => (
 						<li key={h.key}>
 							<Link
-								to="/{-$locale}/leer/$libro/$cap"
-								params={{ locale: localeParam(lang), libro: slugifyBook(h.book), cap: String(h.chapter) }}
-								hash={h.verse ? `verse-${h.verse}` : "notas"}
+								{...readerLinkProps(lang, slugifyBook(h.book), h.chapter, h.verse ? `verse-${h.verse}` : "notas")}
 								className="flex items-start gap-3 py-4 transition-colors hover:bg-muted/40"
 							>
 								{h.verse ? (

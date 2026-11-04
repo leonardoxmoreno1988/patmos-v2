@@ -14,7 +14,8 @@ import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
 import { BOOKS, BOOK_GROUPS, CHAPTER_COUNTS, bookFromSlug, bookName, slugifyBook, type BookInfo } from "@/lib/bible";
 import { SiteHeader } from "@/components/reader/site-header";
 import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_NAME, SITE_URL, seoHead } from "@/lib/seo";
-import { localeParam, useI18n } from "@/i18n";
+import { useI18n } from "@/i18n";
+import { readerLinkProps } from "@/lib/reader-links";
 
 export const Route = createFileRoute('/dashboard')({
   staticData: { sitemap: true },
@@ -143,7 +144,7 @@ function Home() {
   
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <Button asChild size="lg" className="h-11 rounded-full px-6 dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100">
-              <Link to="/{-$locale}/leer/$libro/$cap" params={{ locale: localeParam(lang), libro: last.libro, cap: last.cap }}>
+              <Link {...readerLinkProps(lang, last.libro, Number(last.cap))}>
                 <BookOpen /> {t.home.continueReading} ({lastBook} {last.cap})
               </Link>
             </Button>
@@ -241,8 +242,7 @@ function BookCard({ book, coverage }: { book: BookInfo; coverage: NotesCoverage 
 
   return (
     <Link
-      to="/{-$locale}/leer/$libro/$cap"
-      params={{ locale: localeParam(lang), libro: slugifyBook(book.name), cap: "1" }}
+      {...readerLinkProps(lang, slugifyBook(book.name), 1)}
       className="group flex h-full flex-col rounded-md border border-border bg-transparent p-3 transition-all hover:border-foreground/25 cursor-pointer"
     >
       <div className="flex flex-1 flex-col gap-2">

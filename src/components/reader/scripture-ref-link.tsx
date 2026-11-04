@@ -3,7 +3,8 @@ import { Link } from "@tanstack/react-router";
 import { HoverCard, HoverCardContent, HoverCardTrigger } from "@/components/ui/hover-card";
 import { slugifyBook } from "@/lib/bible";
 import type { ScriptureRef } from "@/lib/scripture-refs";
-import { localeParam, useI18n, type Lang } from "@/i18n";
+import { useI18n, type Lang } from "@/i18n";
+import { readerLinkProps } from "@/lib/reader-links";
 import { useVerseText, type PreviewTarget } from "./verse-preview";
 
 export type ScriptureRefToken = ScriptureRef & { id: string; label: string };
@@ -43,9 +44,7 @@ export function DesktopRefLink({
       <HoverCardTrigger asChild>
         <Link
           id={token.id}
-          to="/{-$locale}/leer/$libro/$cap"
-          params={{ locale: localeParam(lang), libro: slugifyBook(token.book), cap: String(token.chapter) }}
-          hash={`verse-${token.verse}`}
+          {...readerLinkProps(lang, slugifyBook(token.book), token.chapter, `verse-${token.verse}`)}
           className={SCRIPTURE_REF_LINK_CLASS}
           data-ref-book={token.book}
           data-ref-chapter={String(token.chapter)}

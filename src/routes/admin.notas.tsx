@@ -14,6 +14,7 @@ import { fetchChapterNotes, type BibleNote } from "@/lib/bible-notes";
 import { NOTE_KINDS, anchorProblem, parseAnchor, parseNoteText, type NoteKind } from "@/lib/note-anchors";
 import { isOwnerEmail } from "@/lib/patmos/premium";
 import type { SaveChapterNotes, SaveChapterNotesResult } from "@/lib/patmos/admin-notes.server";
+import { readerLinkProps } from "@/lib/reader-links";
 import { seoHead } from "@/lib/seo";
 import { supabase } from "@/lib/supabase";
 import { cn } from "@/lib/utils";
@@ -283,8 +284,7 @@ function AdminNotes() {
             </SelectContent>
           </Select>
           <Link
-            to="/{-$locale}/leer/$libro/$cap"
-            params={{ libro: slugifyBook(book.name), cap: String(cap) }}
+            {...readerLinkProps("es", slugifyBook(book.name), Number(cap))}
             target="_blank"
             className="inline-flex items-center gap-1 text-sm text-muted-foreground underline-offset-4 hover:underline"
           >

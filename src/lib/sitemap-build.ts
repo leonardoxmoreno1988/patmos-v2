@@ -1,16 +1,22 @@
 import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { join, resolve } from "node:path";
 
-import type { Plugin } from "vite";
+import { createClient } from "@supabase/supabase-js";
+import { loadEnv, type Plugin } from "vite";
 
-import { BOOKS, CHAPTER_COUNTS, slugifyBook } from "./bible.ts";
+import { BOOKS, CHAPTER_COUNTS } from "./bible.ts";
+import { bookSlug, type SlugLang } from "./bible-slugs.ts";
 import { readEstudios } from "./estudios-build.ts";
 import { SITE_URL } from "./seo.ts";
 import { sitemapXML, type SitemapEntry } from "./sitemap.ts";
 
 const ROUTES_DIR = resolve(import.meta.dirname, "../routes");
 const OUTPUT_FILE = resolve(import.meta.dirname, "../../public/sitemap.xml");
-const CHAPTER_ROUTE = "/{-$locale}/leer/$libro/$cap";
+const CHAPTER_ROUTE = "/leer/$libro/$cap";
+const PAGE_SIZE = 1000;
+
+/** "bookid:chapter" keys of the chapters that have study notes, per language. */
+export type NotesCoverage = Record<SlugLang, Set<string>>;
 
 /** Route paths whose file declares `staticData: { sitemap: true }`. */
 function includedRoutePaths(dir: string = ROUTES_DIR): string[] {
@@ -29,7 +35,35 @@ function includedRoutePaths(dir: string = ROUTES_DIR): string[] {
   return paths.sort();
 }
 
-export function buildSitemapEntries(): SitemapEntry[] {
+/**
+ * Chapters with at least one note in each language. A chapter without notes is noindex on the
+ * page (see readerHead), so it's left out of the sitemap too.
+ */
+export async function fetchNotesCoverage(url: string, anonKey: string): Promise<NotesCoverage> {
+  const supabase = createClient(url, anonKey, { auth: { persistSession: false } });
+  const coverage: NotesCoverage = { es: new Set(), en: new Set() };
+  const bookByCode = new Map(BOOKS.map((b) => [b.code, b.bookid]));
+  for (const lang of ["es", "en"] as const) {
+    for (let from = 0; ; from += PAGE_SIZE) {
+      const { data, error } = await supabase
+        .from("bible_notes")
+        .select("book_usfm, chapter")
+        .eq("lang", lang)
+        .order("book_usfm")
+        .order("chapter")
+        .range(from, from + PAGE_SIZE - 1);
+      if (error) throw new Error(`notes coverage (${lang}): ${error.message}`);
+      for (const row of data ?? []) {
+        const bookid = bookByCode.get(row.book_usfm as string);
+        if (bookid !== undefined) coverage[lang].add(`${bookid}:${row.chapter}`);
+      }
+      if ((data?.length ?? 0) < PAGE_SIZE) break;
+    }
+  }
+  return coverage;
+}
+
+export function buildSitemapEntries(coverage: NotesCoverage): SitemapEntry[] {
   const routes = includedRoutePaths();
   const entries: SitemapEntry[] = routes
     .filter((path) => !/[$*]/.test(path))
@@ -39,8 +73,9 @@ export function buildSitemapEntries(): SitemapEntry[] {
     for (const book of BOOKS) {
       const chapters = CHAPTER_COUNTS[book.bookid] ?? 0;
       for (let chapter = 1; chapter <= chapters; chapter++) {
-        const path = `/leer/${slugifyBook(book.name)}/${chapter}`;
-        entries.push({ path }, { path: `/en${path}` });
+        const key = `${book.bookid}:${chapter}`;
+        if (coverage.es.has(key)) entries.push({ path: `/leer/${bookSlug(book.bookid, "es")}/${chapter}` });
+        if (coverage.en.has(key)) entries.push({ path: `/en/read/${bookSlug(book.bookid, "en")}/${chapter}` });
       }
     }
   }
@@ -56,12 +91,30 @@ export function buildSitemapEntries(): SitemapEntry[] {
  */
 export function sitemapPlugin(): Plugin {
   let written = false;
+  let env: Record<string, string> = {};
   return {
     name: "patmos:sitemap",
-    buildStart() {
+    configResolved(config) {
+      env = loadEnv(config.mode, config.envDir || config.root, "VITE_");
+    },
+    async buildStart() {
       if (written) return;
       written = true;
-      const entries = buildSitemapEntries();
+      const url = env["VITE_SUPABASE_URL"] ?? process.env["VITE_SUPABASE_URL"];
+      const anonKey = env["VITE_SUPABASE_ANON_KEY"] ?? process.env["VITE_SUPABASE_ANON_KEY"];
+      if (!url || !anonKey) {
+        this.warn("public/sitemap.xml not updated: Supabase settings are missing for the notes filter");
+        return;
+      }
+      let coverage: NotesCoverage;
+      try {
+        coverage = await fetchNotesCoverage(url, anonKey);
+      } catch (error) {
+        // Keep the last sitemap rather than publish one with every chapter or none of them.
+        this.warn(`public/sitemap.xml not updated: ${(error as Error).message}`);
+        return;
+      }
+      const entries = buildSitemapEntries(coverage);
       if (entries.length === 0) throw new Error("Sitemap is empty: no routes declare staticData.sitemap = true");
       writeFileSync(OUTPUT_FILE, sitemapXML(`${SITE_URL}/`, entries));
       this.info(`wrote public/sitemap.xml (${entries.length} URLs)`);
