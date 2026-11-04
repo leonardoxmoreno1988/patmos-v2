@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { createFileRoute, Link, notFound, redirect, useNavigate, useRouterState } from "@tanstack/react-router";
 
-import { keepPreviousData, useQuery, useQueryClient } from "@tanstack/react-query";
+import { useQueryClient, useQuery } from "@tanstack/react-query";
 import { ChevronLeft, ChevronRight, MessageSquare, StickyNote } from "lucide-react";
 
 import { useAuth } from "@/components/auth/auth-provider";
@@ -9,13 +9,14 @@ import { AuthModal } from "@/components/auth/auth-modal";
 import { VerseActionBar } from "@/components/reader/verse-tools";
 import { HIGHLIGHT_CLASS, chapterMarksQuery } from "@/lib/user-marks";
 
-import { BOOKS, bookName, bookQuery, bookFromSlug, slugifyBook, type Verse } from "@/lib/bible";
+import { BOOKS, CHAPTER_COUNTS, bookName, bookFromSlug, slugifyBook, type Verse } from "@/lib/bible";
 import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
 import { EtsyArtCarousel } from "@/components/EtsyArtCarousel";
 import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
-import { adjacentChapters, chapterNotesQuery, notesCacheTag, notesToHtml } from "@/lib/bible-notes";
+import { adjacentChapters, notesCacheTag, notesToHtml } from "@/lib/bible-notes";
+import { readerChapterQuery } from "@/lib/reader-chapter";
 import { langFromLocale, useI18n } from "@/i18n";
 import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, brandTitle, excerpt, plainText, seoHead } from "@/lib/seo";
 import { recordReadChapter } from "@/lib/reading-progress";
@@ -42,17 +43,14 @@ export const Route = createFileRoute("/{-$locale}/leer/$libro/$cap")({
   }
   throw notFound();
  },
- // Loads this chapter's notes in the URL's language. Visited chapters stay in the query cache for
- // the session, so going back to one resolves immediately.
+ // The chapter's text and notes resolve on the server, so the HTML already contains both. Visited
+ // chapters stay in the query cache for the session, so going back to one resolves immediately.
  loader: async ({ context, params }) => {
   const book = bookFromSlug(params.libro) ?? BOOKS[0]!;
   const chapter = Math.max(1, Math.floor(Number(params.cap)) || 1);
   const lang = langFromLocale(params.locale);
-  // A failed fetch must not take the page down; the component query retries it.
-  const notes = await context.queryClient
-   .ensureQueryData(chapterNotesQuery(book.code, chapter, lang))
-   .catch(() => null);
-  return { lang, notes };
+  const page = await context.queryClient.ensureQueryData(readerChapterQuery(book.bookid, chapter, lang));
+  return { lang, bookId: book.bookid, chapter, ...page };
  },
  headers: ({ params }) => {
   const book = bookFromSlug(params.libro) ?? BOOKS[0]!;
@@ -208,31 +206,21 @@ function Reader() {
  const bookId = book.bookid;
  const chapter = cap;
   const { t, lang } = useI18n();
-  const bookData = useQuery({ ...bookQuery(bookId, lang), placeholderData: keepPreviousData });
-  // The loader already resolved the study notes on the server; seeding the
-  // client cache with that result keeps the first browser paint identical to
-  // the server HTML (otherwise the notes section hydrates empty and React
-  // throws a hydration mismatch that blanks the page). The loader reads the
-  // language from the URL, so it only differs from `lang` mid-navigation.
+  // Text and notes come from the loader (server-rendered); the router keeps the previous page on
+  // screen until the next chapter's loader resolves.
   const loaderData = Route.useLoaderData();
-  const studyNotes = useQuery({
-    ...chapterNotesQuery(book.code, chapter, lang),
-    ...(loaderData.lang === lang && loaderData.notes ? { initialData: loaderData.notes } : {}),
-  });
-  const noteSections = studyNotes.data ?? [];
+  const verses = loaderData.verses;
+  const noteSections = loaderData.notes ?? [];
   const queryClient = useQueryClient();
-  // Prefetch the neighbouring chapters so the prev/next arrows don't wait on Supabase.
+  // Prefetch the neighbouring chapters so the prev/next arrows don't wait on the server.
   useEffect(() => {
     for (const n of adjacentChapters(bookId, chapter)) {
-      void queryClient.prefetchQuery(chapterNotesQuery(n.bookUsfm, n.chapter, lang));
+      const neighbour = BOOKS.find((b) => b.code === n.bookUsfm);
+      if (neighbour) void queryClient.prefetchQuery(readerChapterQuery(neighbour.bookid, n.chapter, lang));
     }
   }, [queryClient, bookId, chapter, lang]);
- const chapters = bookData.data ?? [];
- const chapterCount = chapters.length || 1;
- const current = chapters.find((c) => c.chapter === chapter) ?? chapters[0];
- const verses = current?.verses ?? [];
- const loading =
-  bookData.isFetching || bookData.isPlaceholderData || studyNotes.isFetching;
+ const chapterCount = CHAPTER_COUNTS[bookId] ?? 1;
+ const loading = useRouterState({ select: (s) => s.isLoading });
 
  const { user } = useAuth();
  const userId = user?.id ?? null;
@@ -278,7 +266,6 @@ function Reader() {
   pendingVerse.current = null;
   const t = window.setTimeout(() => scrollToVerse(target), 60);
   return () => window.clearTimeout(t);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
  }, [verses, libro, cap]);
 
  useEffect(() => {
@@ -291,8 +278,7 @@ function Reader() {
    el.scrollIntoView({ behavior: "smooth", block: "center" });
   }, 80);
   return () => window.clearTimeout(t);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
- }, [libro, cap, studyNotes.data, verses]);
+ }, [libro, cap, loaderData.notes, verses]);
 
  /** Deep linking: scrolls to and flashes the element referenced by the URL hash. */
  useEffect(() => {
@@ -300,15 +286,12 @@ function Reader() {
   const raw = (hash || window.location.hash).replace(/^#/, "");
   if (!raw) return;
   const t = window.setTimeout(() => {
-   const targets =
-    raw === "notas" || raw.startsWith("note")
-     ? ["study-notes-desktop", "study-notes-section"]
-     : [raw];
-   const el = targets
-    .map((id) => document.getElementById(id))
-    .find((n): n is HTMLElement => !!n && n.getClientRects().length > 0);
+   // "#notas" and the older notes anchors all point at the single notes section.
+   const isNotes = raw === "notas" || raw.startsWith("note") || raw.startsWith("study-notes");
+   const el = document.getElementById(isNotes ? "study-notes" : raw);
    if (!el) return;
-   el.scrollIntoView({ behavior: "smooth", block: "center" });
+   // The notes section is taller than the screen, so centering it would hide its heading.
+   el.scrollIntoView({ behavior: "smooth", block: isNotes ? "start" : "center" });
    const verseMatch = /^verse-(\d+)$/.exec(raw);
    if (verseMatch) {
     const n = Number(verseMatch[1]);
@@ -320,22 +303,26 @@ function Reader() {
    }
   }, 120);
   return () => window.clearTimeout(t);
- }, [hash, libro, cap, verses, studyNotes.data]);
+ }, [hash, libro, cap, verses, loaderData.notes]);
 
 
 
- const renderNotes = () =>
-  noteSections.length ? (
+ const renderNotes = () => {
+  if (loaderData.notes === null) {
+   return <p className="py-4 text-sm text-muted-foreground">{t.reader.loadError}</p>;
+  }
+  return noteSections.length ? (
    <StudyNoteCard
     notes={noteSections}
     onRefClick={goToReference}
     onVerseClick={scrollToVerse}
    />
-  ) : studyNotes.isPending ? null : (
+  ) : (
     <p className="py-4 text-sm italic text-muted-foreground/70">
      {t.reader.noNotes}
     </p>
   );
+ };
  const goTo = (nextBook: number, nextChapter: number) => {
   const target = BOOKS.find((b) => b.bookid === nextBook);
   if (!target) return;
@@ -391,8 +378,6 @@ function Reader() {
  };
 
  const lastOrigin = history[history.length - 1];
- const notesContent = renderNotes();
-
  const prev = () => {
   if (chapter > 1) return goTo(bookId, chapter - 1);
   const prevBook = BOOKS[bookId - 2];
@@ -489,7 +474,7 @@ function Reader() {
        </h1>
        <button
         type="button"
-        onClick={() => scrollToId("study-notes-section")}
+        onClick={() => scrollToId("study-notes")}
         className="cursor-pointer text-sm font-medium text-[#000f37] underline underline-offset-4 decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] lg:hidden"
        >
         {t.reader.goToNotes}
@@ -501,12 +486,7 @@ function Reader() {
         loading ? "pointer-events-none opacity-40" : "opacity-100"
        }`}
       >
-       {bookData.isError ? (
-        <p className="text-sm text-muted-foreground">
-         {t.reader.loadError}
-        </p>
-       ) : (
-        <div className="space-y-1.5 tracking-[-0.01em] text-foreground">
+       <div className="space-y-1.5 tracking-[-0.01em] text-foreground">
          {verses.map((v) => {
           const noteContent = marks.notes[v.verse]?.content;
           return (
@@ -538,49 +518,30 @@ function Reader() {
            />
           );
          })}
-        </div>
-       )}
+       </div>
       </div>
 
      </article>
 
-    <section id="study-notes-section" className="scroll-mt-[8rem] lg:hidden">
-     <div className="mt-10 w-full border-t border-[#000f37] pt-8 dark:border-[#7c7b82]" />
+    {/* One notes section for every breakpoint: stacked under the text on mobile, a sticky column beside it on lg+. */}
+    <section
+     id="study-notes"
+     aria-labelledby="study-notes-heading"
+     className="scroll-mt-[8rem] border-t border-[#000f37] pt-8 dark:border-[#7c7b82] lg:sticky lg:top-[8rem] lg:col-span-5 lg:max-h-[calc(100vh-9rem)] lg:self-start lg:overflow-y-auto lg:border-l lg:border-t-0 lg:border-[#000f37]/50 lg:pb-16 lg:pl-8 lg:pt-0 lg:dark:border-[#bcbecd]/50 scrollbar-none"
+    >
       <div className="mb-3">
-       <h2 className="text-lg font-bold text-foreground lg:text-[20px]">
-        {t.reader.notes}
-       </h2>
-     </div>
-     <div
-      className={`space-y-6 transition-opacity duration-200 ${
-       loading ? "pointer-events-none opacity-40" : "opacity-100"
-      } ${flashNotes ? "flash-target" : ""}`}
-     >
-       {notesContent}
-      </div>
-     </section>
-
-     <aside className="hidden space-y-6 lg:col-span-5 lg:block lg:sticky lg:top-[8rem] lg:self-start lg:max-h-[calc(100vh-9rem)] lg:overflow-y-auto scrollbar-none">
-     <div
-      id="study-notes-desktop"
-      className="min-h-full scroll-mt-[8rem] border-l border-[#000f37]/50 bg-transparent pt-0 pb-16 pl-6 shadow-none dark:border-[#bcbecd]/50 lg:pl-8"
-     >
-
-      <div className="mb-3">
-       <h2 className="text-lg font-bold text-foreground lg:text-[20px]">
+       <h2 id="study-notes-heading" className="text-lg font-bold text-foreground lg:text-[20px]">
         {t.reader.notes}
        </h2>
       </div>
       <div
-       className={`transition-opacity duration-200 ${
+       className={`space-y-6 transition-opacity duration-200 ${
         loading ? "pointer-events-none opacity-40" : "opacity-100"
        } ${flashNotes ? "flash-target" : ""}`}
       >
-
-        {renderNotes()}
-       </div>
+       {renderNotes()}
       </div>
-      </aside>
+    </section>
    </main>
 
    <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 mt-6">
@@ -647,11 +608,7 @@ function Reader() {
     book={book.name}
     chapter={chapter}
     verses={selectedVerses}
-    // Right after a language switch the reader still shows the previous translation as placeholder
-    // data; send no chapter text then rather than RV1865 in an English (KJV) consultation.
-    chapterText={
-     bookData.isPlaceholderData ? "" : verses.map((v) => `${v.verse} ${v.text}`).join("\n")
-    }
+    chapterText={verses.map((v) => `${v.verse} ${v.text}`).join("\n")}
     chapterNotes={plainText(notesToHtml(noteSections))}
     onRequireAuth={() => {
      setConsultaOpen(false);

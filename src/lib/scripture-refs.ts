@@ -174,27 +174,26 @@ function refTarget(book: string, chapter: string, verse: string | undefined) {
 const LINK_CLASS =
   "font-medium underline underline-offset-2 text-[#000f37] decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] cursor-pointer";
 
-/** Wraps scripture references inside a sanitized HTML string with clickable anchors. */
-export function linkifyScriptureRefs(html: string): string {
-  let n = 0;
-  return html
-    .split(/(<[^>]*>)/g)
-    .map((part) => {
-      if (part.startsWith("<")) return part;
-      return part.replace(
-        REF_RE,
-        (_match, pre, book, chapter, _vpart, verse, range) => {
-          const target = canonicalBook(book);
-          const label = verse
-            ? `${book} ${chapter}:${verse}${range ? String(range).replace(/\s/g, "") : ""}`
-            : `${book} ${chapter}`;
-          const to = refTarget(target, chapter, verse);
-          const id = `ref-link-${n++}`;
-          return `${pre}<a id="${id}" role="button" tabindex="0" class="${LINK_CLASS}" data-ref-book="${target}" data-ref-chapter="${to.chapter}" data-ref-verse="${to.verse ?? 1}">${label}</a>`;
-        },
-      );
-    })
-    .join("");
+export type ScriptureRefPart = string | (ScriptureRef & { label: string });
+
+/** Splits plain text into text runs and scripture references (for the reader's study notes). */
+export function splitScriptureRefs(text: string): ScriptureRefPart[] {
+  const parts: ScriptureRefPart[] = [];
+  let last = 0;
+  for (const m of text.matchAll(REF_RE)) {
+    const [match, pre = "", book = "", chapter = "", , verse, range] = m;
+    const start = m.index + pre.length;
+    if (start > last) parts.push(text.slice(last, start));
+    const target = canonicalBook(book);
+    const label = verse
+      ? `${book} ${chapter}:${verse}${range ? String(range).replace(/\s/g, "") : ""}`
+      : `${book} ${chapter}`;
+    const to = refTarget(target, chapter, verse);
+    parts.push({ book: target, chapter: Number(to.chapter), verse: Number(to.verse ?? 1), label });
+    last = m.index + match.length;
+  }
+  if (last < text.length) parts.push(text.slice(last));
+  return parts;
 }
 
 const slug = (name: string) =>

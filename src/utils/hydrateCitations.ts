@@ -1,6 +1,9 @@
 import type { Lang } from "@/i18n";
-import { BOOKS, bookName, fetchBook } from "@/lib/bible";
+import { BOOKS, bookName, fetchBook, type Chapter } from "@/lib/bible";
 import { canonicalBook } from "@/lib/scripture-refs";
+
+/** Loads a whole book in one translation; the browser default fetches the USFM, the server reads it. */
+export type BookLoader = (bookid: number, lang: Lang) => Promise<Chapter[]>;
 
 export interface ParsedReference {
 	book: string;
@@ -39,9 +42,9 @@ export function parseReference(input: string): ParsedReference | null {
 	};
 }
 
-async function verseText(ref: ParsedReference, lang: Lang): Promise<string | null> {
+async function verseText(ref: ParsedReference, lang: Lang, loadBook: BookLoader): Promise<string | null> {
 	try {
-		const chapters = await fetchBook(BOOKS.find((b) => b.name === ref.book)!.bookid, lang);
+		const chapters = await loadBook(BOOKS.find((b) => b.name === ref.book)!.bookid, lang);
 		const chapter = chapters.find((c) => c.chapter === ref.chapter);
 		if (!chapter) return null;
 		const verses = chapter.verses.filter(
@@ -61,7 +64,11 @@ async function verseText(ref: ParsedReference, lang: Lang): Promise<string | nul
  * When a fragment is given, only that substring is quoted, preserving the
  * official casing and punctuation found in the text (case-insensitive lookup).
  */
-export async function hydrateCitations(rawHtml: string, lang: Lang = "es"): Promise<string> {
+export async function hydrateCitations(
+	rawHtml: string,
+	lang: Lang = "es",
+	loadBook: BookLoader = fetchBook,
+): Promise<string> {
 	const re = /\{\{cita:([^|}]+?)(?:\|([^}]*?))?\}\}/g;
 	const matches = [...rawHtml.matchAll(re)];
 	if (matches.length === 0) return rawHtml;
@@ -70,7 +77,7 @@ export async function hydrateCitations(rawHtml: string, lang: Lang = "es"): Prom
 		matches.map(async (m) => {
 			const ref = parseReference(m[1] ?? "");
 			if (!ref) return m[0];
-			const full = await verseText(ref, lang);
+			const full = await verseText(ref, lang, loadBook);
 			if (!full) return m[0];
 			const fragment = m[2]?.trim();
 			let quote = full;
