@@ -13,6 +13,7 @@ import { preconnect } from "react-dom";
 
 import appCss from "../styles.css?url";
 import { AuthProvider } from "@/components/auth/auth-provider";
+import { applyUmamiQueryOverride, umamiAllowed, umamiScriptAttributes } from "@/lib/analytics";
 import { THEME_INIT_SCRIPT } from "@/hooks/use-theme";
 import { DEFAULT_LANG, LanguageProvider, useUrlLang } from "@/i18n";
 import { Toaster } from "@/components/ui/sonner";
@@ -136,11 +137,14 @@ function RootShell({ children }: { children: ReactNode }) {
 
 function useUmamiOnInteraction() {
   useEffect(() => {
+    applyUmamiQueryOverride();
+    if (!umamiAllowed()) return;
     const inject = () => {
       const s = document.createElement("script");
-      s.src = "https://cloud.umami.is/script.js";
       s.defer = true;
-      s.setAttribute("data-website-id", "bdfd0465-45a8-47d8-8cc0-076ed1c98361");
+      for (const [name, value] of Object.entries(umamiScriptAttributes)) {
+        s.setAttribute(name, value);
+      }
       document.head.appendChild(s);
     };
     const events = ["mousemove", "scroll", "keydown", "touchstart", "click"] as const;

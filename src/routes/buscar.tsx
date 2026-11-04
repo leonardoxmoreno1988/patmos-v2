@@ -4,6 +4,7 @@ import { useQuery } from "@tanstack/react-query";
 import { BookOpen, NotebookPen, Search } from "lucide-react";
 
 import { SiteHeader } from "@/components/reader/site-header";
+import { trackUmamiEvent } from "@/lib/analytics";
 import { slugifyBook } from "@/lib/bible";
 import { allChapterNotesQuery } from "@/lib/bible-notes";
 import { localeParam, useI18n } from "@/i18n";
@@ -107,9 +108,7 @@ function SearchPage() {
 					onSubmit={(e) => {
 						e.preventDefault();
 						const term = input.trim();
-						if (typeof window !== "undefined" && (window as typeof window & { umami?: { track: (event: string, data?: Record<string, unknown>) => void } }).umami) {
-							(window as typeof window & { umami?: { track: (event: string, data?: Record<string, unknown>) => void } }).umami!.track("Search", { query: term });
-						}
+						trackUmamiEvent("Search", { query: term });
 						setSearch({ q: term });
 					}}
 				>

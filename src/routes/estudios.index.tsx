@@ -252,11 +252,15 @@ function FeaturedEstudio({ post }: { post: EstudioSummary }) {
       className="group grid overflow-hidden rounded-xl border border-border transition-colors hover:border-foreground/25 md:grid-cols-2"
     >
       {post.image ? (
-        <img
-          src={featuredImage(post.image)}
-          alt=""
-          className="aspect-[16/9] h-full w-full object-cover md:aspect-auto md:max-h-[380px]"
-        />
+        // The wrapper stretches to the row height on md+; the image fills it absolutely so its
+        // intrinsic size can't leave a gap under the text column.
+        <div className="relative aspect-[16/9] overflow-hidden md:aspect-auto md:min-h-full">
+          <img
+            src={featuredImage(post.image)}
+            alt=""
+            className="absolute inset-0 h-full w-full object-cover"
+          />
+        </div>
       ) : null}
       <div
         className={`flex flex-col justify-center p-6 sm:p-10 lg:p-12 ${post.image ? "" : "md:col-span-2"}`}

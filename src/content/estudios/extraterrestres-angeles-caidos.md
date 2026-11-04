@@ -1,7 +1,7 @@
 ---
 title: "¿Son los extraterrestres ángeles caídos?"
-date: "2026-10-11"
-updated: "2026-10-11"
+date: "2024-10-11"
+updated: "2024-10-11"
 author: "Leonardo Moreno"
 slug: "extraterrestres-angeles-caidos"
 redirectFrom: "/p/extraterrestres-angeles-caidos.html"

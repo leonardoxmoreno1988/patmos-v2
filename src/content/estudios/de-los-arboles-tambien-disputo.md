@@ -1,6 +1,6 @@
 ---
 title: "Los árboles en la Biblia: símbolo de la condición humana"
-date: "2026-08-22"
+date: "2026-11-04"
 author: "Leonardo Moreno"
 slug: "de-los-arboles-tambien-disputo"
 redirectFrom: "/2026/08/de-los-arboles-tambien-disputo.html"
