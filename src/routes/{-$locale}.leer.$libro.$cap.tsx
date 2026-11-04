@@ -84,6 +84,9 @@ export const Route = createFileRoute("/{-$locale}/leer/$libro/$cap")({
    lang,
    alternates,
    ogType: "article",
+   // Chapters without commentary (e.g. public-domain English text) stay out of the index. A failed
+   // notes fetch (null) keeps the page indexable, so a transient error isn't cached as noindex.
+   noindex: notes?.length === 0,
    jsonLd: [
     {
      "@type": "Article",
@@ -197,6 +200,7 @@ function Reader() {
  >([]);
  const [flashVerse, setFlashVerse] = useState<number | null>(null);
  const [flashNotes, setFlashNotes] = useState(false);
+ const [flashNoteId, setFlashNoteId] = useState<string | null>(null);
  const pendingVerse = useRef<number | null>(null);
  const pendingElId = useRef<string | null>(null);
  const hash = useRouterState({ select: (s) => s.location.hash });
@@ -211,6 +215,7 @@ function Reader() {
   const loaderData = Route.useLoaderData();
   const verses = loaderData.verses;
   const noteSections = loaderData.notes ?? [];
+ const hasNotes = noteSections.length > 0;
   const queryClient = useQueryClient();
   // Prefetch the neighbouring chapters so the prev/next arrows don't wait on the server.
   useEffect(() => {
@@ -290,13 +295,17 @@ function Reader() {
    const isNotes = raw === "notas" || raw.startsWith("note") || raw.startsWith("study-notes");
    const el = document.getElementById(isNotes ? "study-notes" : raw);
    if (!el) return;
-   // The notes section is taller than the screen, so centering it would hide its heading.
-   el.scrollIntoView({ behavior: "smooth", block: isNotes ? "start" : "center" });
+   // Sections and the notes block are taller than the screen, so they align to the top instead.
+   const isNoteSection = raw.startsWith("nota-");
+   el.scrollIntoView({ behavior: "smooth", block: isNotes || isNoteSection ? "start" : "center" });
    const verseMatch = /^verse-(\d+)$/.exec(raw);
    if (verseMatch) {
     const n = Number(verseMatch[1]);
     setFlashVerse(n);
     window.setTimeout(() => setFlashVerse((c) => (c === n ? null : c)), 2400);
+   } else if (isNoteSection) {
+    setFlashNoteId(raw);
+    window.setTimeout(() => setFlashNoteId((c) => (c === raw ? null : c)), 2400);
    } else {
     setFlashNotes(true);
     window.setTimeout(() => setFlashNotes(false), 2400);
@@ -305,24 +314,15 @@ function Reader() {
   return () => window.clearTimeout(t);
  }, [hash, libro, cap, verses, loaderData.notes]);
 
-
-
- const renderNotes = () => {
-  if (loaderData.notes === null) {
-   return <p className="py-4 text-sm text-muted-foreground">{t.reader.loadError}</p>;
-  }
-  return noteSections.length ? (
-   <StudyNoteCard
-    notes={noteSections}
-    onRefClick={goToReference}
-    onVerseClick={scrollToVerse}
-   />
-  ) : (
-    <p className="py-4 text-sm italic text-muted-foreground/70">
-     {t.reader.noNotes}
-    </p>
-  );
- };
+ // Notes render only when the chapter has some; a failed fetch shows a message instead.
+ const renderNotes = () => (
+  <StudyNoteCard
+   notes={noteSections}
+   flashedId={flashNoteId}
+   onRefClick={goToReference}
+   onVerseClick={scrollToVerse}
+  />
+ );
  const goTo = (nextBook: number, nextChapter: number) => {
   const target = BOOKS.find((b) => b.bookid === nextBook);
   if (!target) return;
@@ -472,13 +472,15 @@ function Reader() {
        <h1 className="text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
         {bookName(book, lang)} {chapter}
        </h1>
-       <button
-        type="button"
-        onClick={() => scrollToId("study-notes")}
-        className="cursor-pointer text-sm font-medium text-[#000f37] underline underline-offset-4 decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] lg:hidden"
-       >
-        {t.reader.goToNotes}
-       </button>
+       {hasNotes ? (
+        <button
+         type="button"
+         onClick={() => scrollToId("study-notes")}
+         className="cursor-pointer text-sm font-medium text-[#000f37] underline underline-offset-4 decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] lg:hidden"
+        >
+         {t.reader.goToNotes}
+        </button>
+       ) : null}
       </div>
 
       <div
@@ -524,24 +526,28 @@ function Reader() {
      </article>
 
     {/* One notes section for every breakpoint: stacked under the text on mobile, a sticky column beside it on lg+. */}
-    <section
-     id="study-notes"
-     aria-labelledby="study-notes-heading"
-     className="scroll-mt-[8rem] border-t border-[#000f37] pt-8 dark:border-[#7c7b82] lg:sticky lg:top-[8rem] lg:col-span-5 lg:max-h-[calc(100vh-9rem)] lg:self-start lg:overflow-y-auto lg:border-l lg:border-t-0 lg:border-[#000f37]/50 lg:pb-16 lg:pl-8 lg:pt-0 lg:dark:border-[#bcbecd]/50 scrollbar-none"
-    >
-      <div className="mb-3">
-       <h2 id="study-notes-heading" className="text-lg font-bold text-foreground lg:text-[20px]">
-        {t.reader.notes}
-       </h2>
-      </div>
-      <div
-       className={`space-y-6 transition-opacity duration-200 ${
-        loading ? "pointer-events-none opacity-40" : "opacity-100"
-       } ${flashNotes ? "flash-target" : ""}`}
-      >
-       {renderNotes()}
-      </div>
-    </section>
+    {hasNotes ? (
+     <section
+      id="study-notes"
+      aria-labelledby="study-notes-heading"
+      className="scroll-mt-[8rem] border-t border-[#000f37] pt-8 dark:border-[#7c7b82] lg:sticky lg:top-[8rem] lg:col-span-5 lg:max-h-[calc(100vh-9rem)] lg:self-start lg:overflow-y-auto lg:border-l lg:border-t-0 lg:border-[#000f37]/50 lg:pb-16 lg:pl-8 lg:pt-0 lg:dark:border-[#bcbecd]/50 scrollbar-none"
+     >
+       <div className="mb-3">
+        <h2 id="study-notes-heading" className="text-lg font-bold text-foreground lg:text-[20px]">
+         {t.reader.notes}
+        </h2>
+       </div>
+       <div
+        className={`space-y-6 transition-opacity duration-200 ${
+         loading ? "pointer-events-none opacity-40" : "opacity-100"
+        } ${flashNotes ? "flash-target" : ""}`}
+       >
+        {renderNotes()}
+       </div>
+     </section>
+    ) : loaderData.notes === null ? (
+     <p className="text-sm text-muted-foreground lg:col-span-5">{t.reader.loadError}</p>
+    ) : null}
    </main>
 
    <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 mt-6">

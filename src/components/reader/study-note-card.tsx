@@ -1,6 +1,6 @@
 import { createElement, useState, type ReactNode } from "react";
 
-import { noteLabel } from "@/lib/bible-notes";
+import { noteLabel, type BibleNote } from "@/lib/bible-notes";
 import type { NoteNode, StudyNote } from "@/lib/reader-chapter";
 import type { ScriptureRef } from "@/lib/scripture-refs";
 import { useIsMobile } from "@/hooks/use-mobile";
@@ -30,19 +30,50 @@ function renderNodes(
   });
 }
 
-/** One section per verse range; ids and ref-link ids are assigned once on the server. */
+const slugify = (value: string) =>
+  value
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+
+/**
+ * Stable anchor per note: `nota-3-5` for a verse range, `nota-estructura-del-libro` for a topical
+ * heading. Built from the same data on the server and the client, so the ids always match.
+ */
+export function noteAnchorIds(notes: Pick<BibleNote, "id" | "verse_start" | "verse_end" | "verse_anchor" | "position">[]) {
+  const used = new Set<string>();
+  const ids = new Map<string, string>();
+  for (const note of notes) {
+    const base =
+      note.verse_start !== null
+        ? `nota-${note.verse_start}-${note.verse_end ?? note.verse_start}`
+        : `nota-${slugify(note.verse_anchor) || "seccion"}`;
+    const id = used.has(base) ? `${base}-${note.position}` : base;
+    used.add(id);
+    ids.set(note.id, id);
+  }
+  return ids;
+}
+
+/** One section per verse range or topical heading. */
 export function StudyNoteCard({
   notes,
+  flashedId,
   onRefClick,
   onVerseClick,
 }: {
   notes: StudyNote[];
+  /** Anchor id of the section to flash after a hash jump. */
+  flashedId?: string | null;
   onRefClick?: (ref: ScriptureRef & { originId?: string }) => void;
   /** Called with the first verse of a section when its "[3-5]" label is clicked. */
   onVerseClick?: (verse: number) => void;
 }) {
   const isMobile = useIsMobile();
   const [sheet, setSheet] = useState<PreviewTarget | null>(null);
+  const anchors = noteAnchorIds(notes);
 
   const renderRef = (token: ScriptureRefToken, key: string) => (
     <ScriptureRefLink
@@ -60,23 +91,33 @@ export function StudyNoteCard({
         {notes.map((note) => {
           const label = noteLabel(note);
           const verse = note.verse_start;
+          const id = anchors.get(note.id) ?? note.id;
           return (
-            <div key={note.id} data-verse-start={verse ?? undefined} data-verse-end={note.verse_end ?? undefined}>
+            <section
+              key={note.id}
+              id={id}
+              data-verse-start={verse ?? undefined}
+              data-verse-end={note.verse_end ?? undefined}
+              className={`scroll-mt-[8rem] ${flashedId === id ? "flash-target" : ""}`}
+            >
               {label ? (
-                verse !== null && onVerseClick ? (
-                  <button
-                    type="button"
-                    onClick={() => onVerseClick(verse)}
-                    className="cursor-pointer font-semibold text-foreground hover:underline hover:underline-offset-2"
-                  >
-                    {label}
-                  </button>
-                ) : (
-                  <b>{label}</b>
-                )
+                // Inline, so the heading flows with the note text exactly as the old <b> label did.
+                <h3 className={verse !== null && onVerseClick ? "inline" : "inline font-bold"}>
+                  {verse !== null && onVerseClick ? (
+                    <button
+                      type="button"
+                      onClick={() => onVerseClick(verse)}
+                      className="cursor-pointer font-semibold text-foreground hover:underline hover:underline-offset-2"
+                    >
+                      {label}
+                    </button>
+                  ) : (
+                    label
+                  )}
+                </h3>
               ) : null}{" "}
               {renderNodes(note.nodes, renderRef, note.id)}
-            </div>
+            </section>
           );
         })}
       </div>
