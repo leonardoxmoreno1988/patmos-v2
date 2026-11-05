@@ -69,6 +69,8 @@ export const es = {
     unavailable: "Versículo no disponible.",
     goToChapter: "Ir al capítulo",
     close: "Cerrar",
+    moreVerses: (n: number) => `+ ${n} versículos más`,
+    viewRemainingVerses: (n: number) => `Ver los ${n} versículos restantes`,
   },
   verseTools: {
     highlightIn: (color: string) => `Resaltar en ${color}`,

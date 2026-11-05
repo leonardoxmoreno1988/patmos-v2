@@ -5,23 +5,32 @@ import { slugifyBook } from "@/lib/bible";
 import type { ScriptureRef } from "@/lib/scripture-refs";
 import { useI18n, type Lang } from "@/i18n";
 import { readerLinkProps } from "@/lib/reader-links";
-import { useVerseText, type PreviewTarget } from "./verse-preview";
+import { useVerseText, VerseExcerpt, type PreviewTarget } from "./verse-preview";
 
 export type ScriptureRefToken = ScriptureRef & { id: string; label: string };
 
 export const SCRIPTURE_REF_LINK_CLASS =
   "font-medium underline underline-offset-2 text-[#000f37] decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] cursor-pointer";
 
-function RefPreview({ target, lang }: { target: ScriptureRef; lang?: Lang }) {
-  const { display, label } = useVerseText(target, lang);
+/** Range-aware preview: up to three verses, then a link to the full passage when there are more. */
+function RefPreview({ target, lang }: { target: ScriptureRef; lang: Lang }) {
+  const { t } = useI18n();
+  const { verses, remaining, message, label } = useVerseText(target, lang);
   return (
     <>
       <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-slate-600 dark:text-[#85878c]">
         {label}
       </p>
-      <p className="text-[15px] leading-relaxed text-slate-900 dark:text-[#bbbece]">
-        {display}
-      </p>
+      <VerseExcerpt verses={verses} message={message}>
+        {remaining > 0 ? (
+          <Link
+            {...readerLinkProps(lang, slugifyBook(target.book), target.chapter, `verse-${target.verse}`)}
+            className="mt-2.5 block cursor-pointer border-t border-white/10 pt-2 text-xs text-muted-foreground transition-colors hover:text-foreground hover:underline underline-offset-2"
+          >
+            {t.verse.viewRemainingVerses(remaining)}
+          </Link>
+        ) : null}
+      </VerseExcerpt>
     </>
   );
 }
@@ -64,7 +73,7 @@ export function DesktopRefLink({
       <HoverCardContent
         side="top"
         align="center"
-        className="w-[340px] rounded-xl border-none bg-white p-4 shadow-[0_8px_30px_rgba(0,0,0,0.35)] text-slate-900 dark:bg-[#1c1b2d] dark:text-[#bbbece]"
+        className="w-[340px] max-w-md max-h-72 overflow-y-auto rounded-xl border-none bg-white p-4 shadow-[0_8px_30px_rgba(0,0,0,0.35)] text-slate-900 dark:bg-[#1c1b2d] dark:text-[#bbbece]"
       >
         <RefPreview target={token} lang={lang} />
       </HoverCardContent>
@@ -90,6 +99,7 @@ export function MobileRefButton({
           book: token.book,
           chapter: token.chapter,
           verse: token.verse,
+          ...(token.verseEnd !== undefined ? { verseEnd: token.verseEnd } : {}),
           originId: token.id,
         })
       }

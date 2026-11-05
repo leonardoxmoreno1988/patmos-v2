@@ -9,7 +9,7 @@ export type NoteNode =
   | { kind: "text"; text: string }
   | { kind: "br" }
   | { kind: "el"; tag: string; children: NoteNode[] }
-  | { kind: "ref"; id: string; label: string; book: string; chapter: number; verse: number };
+  | { kind: "ref"; id: string; label: string; book: string; chapter: number; verse: number; verseEnd?: number };
 
 export interface StudyNote extends BibleNote {
   nodes: NoteNode[];

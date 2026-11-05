@@ -3,7 +3,16 @@ import { BOOKS, CHAPTER_COUNTS, bookFromSlug } from "./bible";
 export interface ScriptureRef {
   book: string;
   chapter: number;
+  /** First verse of the reference ("Mateo 27:50-51" -> 50). */
   verse: number;
+  /** Last verse of a range ("Mateo 27:50-51" -> 51); absent for a single verse. */
+  verseEnd?: number;
+}
+
+/** The last verse of a range label ("Éxodo 30:11-16" -> 16); undefined for a single verse. */
+export function rangeEndOf(text: string): number | undefined {
+  const m = /[-–]\s*(\d+)\s*$/.exec(text);
+  return m ? Number(m[1]) : undefined;
 }
 
 const escape = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
@@ -189,7 +198,14 @@ export function splitScriptureRefs(text: string): ScriptureRefPart[] {
       ? `${book} ${chapter}:${verse}${range ? String(range).replace(/\s/g, "") : ""}`
       : `${book} ${chapter}`;
     const to = refTarget(target, chapter, verse);
-    parts.push({ book: target, chapter: Number(to.chapter), verse: Number(to.verse ?? 1), label });
+    const end = verse ? rangeEndOf(label) : undefined;
+    parts.push({
+      book: target,
+      chapter: Number(to.chapter),
+      verse: Number(to.verse ?? 1),
+      label,
+      ...(end !== undefined && end > Number(verse) ? { verseEnd: end } : {}),
+    });
     last = m.index + match.length;
   }
   if (last < text.length) parts.push(text.slice(last));
@@ -231,7 +247,7 @@ const escapeAttr = (s: string) =>
  * anchors so client hydration can attach the verse HoverCard / sheet. Spanish RV1865 only.
  */
 export function annotateScriptureAnchors(html: string): string {
-  return html.replace(/<a(\s+)href="(\/leer\/[^"]+)"([^>]*)>/gi, (full, sp, href, rest) => {
+  return html.replace(/<a(\s+)href="(\/leer\/[^"]+)"([^>]*)>([^<]*)<\/a>/gi, (full, sp, href, rest, label: string) => {
     if (/\bdata-ref-book=/.test(rest)) return full;
     const m = /^\/leer\/([^/#]+)\/(\d+)(?:#verse-(\d+))?$/.exec(href);
     if (!m) return full;
@@ -239,8 +255,10 @@ export function annotateScriptureAnchors(html: string): string {
     if (!book) return full;
     const chapter = m[2]!;
     const verse = m[3] ?? "1";
+    const end = m[3] ? rangeEndOf(label) : undefined;
+    const endAttr = end !== undefined && end > Number(verse) ? ` data-ref-verse-end="${end}"` : "";
     const attrs = /\bclass=/.test(rest) ? rest : ` class="${LINK_CLASS}"${rest}`;
-    return `<a${sp}href="${href}" data-ref-book="${escapeAttr(book.name)}" data-ref-chapter="${chapter}" data-ref-verse="${verse}"${attrs}>`;
+    return `<a${sp}href="${href}" data-ref-book="${escapeAttr(book.name)}" data-ref-chapter="${chapter}" data-ref-verse="${verse}"${endAttr}${attrs}>${label}</a>`;
   });
 }
 
@@ -253,5 +271,12 @@ export function readRefFromEvent(
   const chapter = Number(el.dataset["refChapter"]);
   const verse = Number(el.dataset["refVerse"]);
   if (!book || !Number.isFinite(chapter) || !Number.isFinite(verse)) return null;
-  return { book: canonicalBook(book), chapter, verse, ...(el.id ? { originId: el.id } : {}) };
+  const verseEnd = Number(el.dataset["refVerseEnd"]);
+  return {
+    book: canonicalBook(book),
+    chapter,
+    verse,
+    ...(Number.isFinite(verseEnd) && verseEnd > verse ? { verseEnd } : {}),
+    ...(el.id ? { originId: el.id } : {}),
+  };
 }

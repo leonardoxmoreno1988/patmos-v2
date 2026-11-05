@@ -22,7 +22,14 @@ function renderNodes(
     if (node.kind === "br") return <br key={key} />;
     if (node.kind === "ref") {
       return renderRef(
-        { id: node.id, label: node.label, book: node.book, chapter: node.chapter, verse: node.verse },
+        {
+          id: node.id,
+          label: node.label,
+          book: node.book,
+          chapter: node.chapter,
+          verse: node.verse,
+          ...(node.verseEnd !== undefined ? { verseEnd: node.verseEnd } : {}),
+        },
         key,
       );
     }

@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, type ReactNode } from "react";
 import { useQuery } from "@tanstack/react-query";
 
 import { BOOKS, bookQuery, localizeBookName } from "@/lib/bible";
@@ -10,30 +10,75 @@ export interface PreviewTarget extends ScriptureRef {
   rect?: { top: number; bottom: number; left: number; width: number };
 }
 
-/** Optional `lang` forces a translation (estudios always pass `"es"` / RV1865). */
+/** Most verses a reference preview shows before pointing to the full passage. */
+export const PREVIEW_MAX_VERSES = 3;
+
+export interface PreviewVerse {
+  verse: number;
+  text: string;
+}
+
+/**
+ * Verse text for a reference, covering its whole range ("Mateo 27:50-51" -> verses 50 and 51).
+ * Shows at most PREVIEW_MAX_VERSES verses; `remaining` counts the rest. Optional `langOverride`
+ * forces a translation (estudios always pass `"es"` / RV1865).
+ */
 export function useVerseText(ref: ScriptureRef | null, langOverride?: Lang) {
   const bookid = ref ? (BOOKS.find((b) => b.name === ref.book)?.bookid ?? 0) : 0;
   const { t, lang: i18nLang } = useI18n();
   const lang = langOverride ?? i18nLang;
   const query = useQuery({ ...bookQuery(bookid, lang), enabled: bookid > 0 });
   const chapter = query.data?.find((c) => c.chapter === ref?.chapter);
-  const verse = chapter?.verses.find((v) => v.verse === ref?.verse);
-  const text = verse?.text ?? "";
-  const loading = query.isPending || query.isFetching;
-  const missing = !!query.data && !verse;
+  const from = ref?.verse ?? 0;
+  const to = ref?.verseEnd ?? from;
+  const found: PreviewVerse[] = (chapter?.verses ?? [])
+    .filter((v) => v.verse >= from && v.verse <= to)
+    .map((v) => ({ verse: v.verse, text: v.text }));
+  const verses = found.slice(0, PREVIEW_MAX_VERSES);
+  const remaining = found.length - verses.length;
+  const missing = !!query.data && found.length === 0;
   return {
-    text,
-    loading,
-    missing,
-    /** Verse text, or the localized loading / not-available message. */
-    display: text || (!loading && missing ? t.verse.unavailable : t.verse.loading),
-    label: ref ? `${localizeBookName(ref.book, lang)} ${ref.chapter}:${ref.verse}` : "",
+    verses,
+    remaining,
+    /** Localized loading / not-available message; null once verse text is shown. */
+    message: found.length > 0 ? null : missing ? t.verse.unavailable : t.verse.loading,
+    label: ref
+      ? `${localizeBookName(ref.book, lang)} ${ref.chapter}:${from}${to > from ? `-${to}` : ""}`
+      : "",
   };
+}
+
+/** Numbered verses, one per paragraph, or the loading / unavailable message. */
+export function VerseExcerpt({
+  verses,
+  message,
+  size = "text-[15px]",
+  children,
+}: {
+  verses: PreviewVerse[];
+  message: string | null;
+  size?: string;
+  children?: ReactNode;
+}) {
+  if (message) return <p className={`${size} leading-relaxed`}>{message}</p>;
+  return (
+    <>
+      <div className={`space-y-2 ${size} leading-relaxed text-slate-900 dark:text-[#bbbece]`}>
+        {verses.map((v) => (
+          <p key={v.verse}>
+            <sup className="mr-1 text-xs text-muted-foreground">{v.verse}</sup>
+            {v.text}
+          </p>
+        ))}
+      </div>
+      {children}
+    </>
+  );
 }
 
 /** Floating hover popover (desktop). */
 export function VersePopover({ target }: { target: PreviewTarget }) {
-  const { display, label } = useVerseText(target);
+  const { verses, message, label } = useVerseText(target);
   const rect = target.rect;
   const [mounted, setMounted] = useState(false);
 
@@ -61,16 +106,14 @@ export function VersePopover({ target }: { target: PreviewTarget }) {
         ...(above ? { bottom: `calc(100vh - ${rect.top}px + 10px)` } : { top: rect.bottom + 10 }),
         zIndex: 60,
       }}
-      className={`pointer-events-none rounded-xl border-none bg-white p-4 shadow-[0_8px_30px_rgba(0,0,0,0.35)] transition-all duration-150 text-slate-900 dark:bg-[#1c1b2d] dark:text-[#bbbece] ${
+      className={`pointer-events-none max-h-72 overflow-y-auto rounded-xl border-none bg-white p-4 shadow-[0_8px_30px_rgba(0,0,0,0.35)] transition-all duration-150 text-slate-900 dark:bg-[#1c1b2d] dark:text-[#bbbece] ${
         mounted ? "translate-y-0 opacity-100" : "translate-y-1 opacity-0"
       }`}
     >
       <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-slate-600 dark:text-[#85878c]">
         {label}
       </p>
-      <p className="text-[15px] leading-relaxed text-slate-900 dark:text-[#bbbece]">
-        {display}
-      </p>
+      <VerseExcerpt verses={verses} message={message} />
     </div>
   );
 }
@@ -89,7 +132,7 @@ export function VerseSheet({
   lang?: Lang;
 }) {
   const { t } = useI18n();
-  const { display, label } = useVerseText(target, lang);
+  const { verses, remaining, message, label } = useVerseText(target, lang);
   const [open, setOpen] = useState(false);
   const [dragY, setDragY] = useState(0);
 
@@ -125,7 +168,7 @@ export function VerseSheet({
         aria-modal="true"
         aria-label={label}
         style={{ transform: `translateY(${open ? dragY : 400}px)` }}
-        className="absolute inset-x-0 bottom-0 rounded-t-2xl border-none bg-white px-5 pb-8 pt-3 shadow-[0_-8px_30px_rgba(0,0,0,0.35)] transition-transform duration-200 ease-out text-slate-900 dark:bg-[#1c1b2d] dark:text-[#bbbece]"
+        className="absolute inset-x-0 bottom-0 max-h-[80vh] overflow-y-auto rounded-t-2xl border-none bg-white px-5 pb-8 pt-3 shadow-[0_-8px_30px_rgba(0,0,0,0.35)] transition-transform duration-200 ease-out text-slate-900 dark:bg-[#1c1b2d] dark:text-[#bbbece]"
         onTouchStart={(e) => {
           startY = e.touches[0]?.clientY ?? 0;
         }}
@@ -142,9 +185,11 @@ export function VerseSheet({
         <p className="mb-2 text-[11px] font-semibold uppercase tracking-wide text-slate-500 dark:text-[#85878c]">
           {label}
         </p>
-        <p className="text-[17px] leading-relaxed text-slate-900 dark:text-[#bbbece]">
-          {display}
-        </p>
+        <VerseExcerpt verses={verses} message={message} size="text-[17px]">
+          {remaining > 0 ? (
+            <p className="mt-3 text-sm text-slate-500 dark:text-[#85878c]">{t.verse.moreVerses(remaining)}</p>
+          ) : null}
+        </VerseExcerpt>
         <button
           type="button"
           onClick={onGoToChapter}

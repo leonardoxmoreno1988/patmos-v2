@@ -81,6 +81,7 @@ function renderEstudioNodes(
           book: el.dataset["refBook"]!,
           chapter: Number(el.dataset["refChapter"]),
           verse: Number(el.dataset["refVerse"]),
+          ...(el.dataset["refVerseEnd"] ? { verseEnd: Number(el.dataset["refVerseEnd"]) } : {}),
         },
         key,
       );

@@ -70,6 +70,8 @@ export const en: Dictionary = {
     unavailable: "Verse not available.",
     goToChapter: "Go to chapter",
     close: "Close",
+    moreVerses: (n: number) => `+ ${n} more verses`,
+    viewRemainingVerses: (n: number) => `View the ${n} remaining verses`,
   },
   verseTools: {
     highlightIn: (color: string) => `Highlight in ${color}`,

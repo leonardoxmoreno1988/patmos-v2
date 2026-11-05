@@ -62,7 +62,7 @@ const textOf = (nodes: ChildNode[]): string =>
   nodes.map((n) => (isText(n) ? n.value : isElement(n) ? textOf(n.childNodes) : "")).join("");
 
 function refNode(
-  ref: { book: string; chapter: number; verse: number; label: string },
+  ref: { book: string; chapter: number; verse: number; verseEnd?: number; label: string },
   ctx: Ctx,
 ): NoteNode {
   return { kind: "ref", id: `ref-link-${ctx.refs++}`, ...ref };
