@@ -1,16 +1,17 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { ArrowRight, Download, Quote } from "lucide-react";
+import { ArrowRight, Download } from "lucide-react";
 
 import { SiteHeader } from "@/components/reader/site-header";
 import { LibroBreadcrumb } from "@/components/libro/libro-breadcrumb";
 import { Button } from "@/components/ui/button";
 import { LIBRO_1865, type Chapter } from "@/data/libro-1865";
-import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, excerpt, seoHead } from "@/lib/seo";
+import { ORGANIZATION, PUBLIC_PAGE_HEADERS, SITE_URL, seoHead } from "@/lib/seo";
 
 const BOOK_PATH = `/libros/${LIBRO_1865.slug}`;
 const COVER_URL = `${SITE_URL}${LIBRO_1865.coverImage}`;
 const TITLE = `${LIBRO_1865.title} — Enrique Ginocchio | Patmos Research`;
-const DESCRIPTION = excerpt(LIBRO_1865.synopsis, 160);
+const DESCRIPTION =
+  "Siete evidencias históricas y teológicas de la infalible palabra de Dios en castellano. Lee online o descarga el PDF de la Biblia RV1865 gratis.";
 
 export const Route = createFileRoute("/libros/muchas-pero-solo-una/")({
   staticData: { sitemap: true },
@@ -21,6 +22,7 @@ export const Route = createFileRoute("/libros/muchas-pero-solo-una/")({
       description: DESCRIPTION,
       canonical: BOOK_PATH,
       ogImage: COVER_URL,
+      ogType: "book",
       jsonLd: [
         {
           "@type": "Book",
@@ -114,7 +116,12 @@ function BookHub() {
 
         <section className="mt-16 sm:mt-20">
           <div className="flex gap-4 rounded-xl border border-border p-6 sm:p-8">
-            <Quote className="mt-1 size-6 shrink-0 text-muted-foreground" aria-hidden="true" />
+            <img
+              src="/resources/ginocchio.png"
+              alt="Pastor Enrique Ginocchio R."
+              loading="lazy"
+              className="w-14 h-14 sm:w-16 sm:h-16 rounded-full object-cover shrink-0 border border-border/40 shadow-sm"
+            />
             <div className="space-y-2">
               <p className="text-sm font-semibold uppercase tracking-wide text-muted-foreground">Sobre el autor</p>
               <h2 className="text-xl font-bold text-foreground">{LIBRO_1865.author.name}</h2>

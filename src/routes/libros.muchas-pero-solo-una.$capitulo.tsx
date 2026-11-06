@@ -58,7 +58,7 @@ export const Route = createFileRoute("/libros/muchas-pero-solo-una/$capitulo")({
         {
           "@type": "BreadcrumbList",
           itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Inicio", item: `${SITE_URL}/` },
+            { "@type": "ListItem", position: 1, name: "Inicio", item: `${SITE_URL}/dashboard` },
             { "@type": "ListItem", position: 2, name: LIBRO_1865.title, item: `${SITE_URL}${BOOK_PATH}` },
             { "@type": "ListItem", position: 3, name: chapter.title, item: `${SITE_URL}${path}` },
           ],

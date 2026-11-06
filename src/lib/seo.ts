@@ -16,7 +16,7 @@ export interface SeoInput {
  canonical?: string;
  /** Absolute https URL of a share-sized image; defaults to DEFAULT_OG_IMAGE */
  ogImage?: string;
- ogType?: "website" | "article";
+ ogType?: "website" | "article" | "book";
  /** Set true for utility pages that shouldn't be indexed */
  noindex?: boolean;
  /** Structured data for this page */
