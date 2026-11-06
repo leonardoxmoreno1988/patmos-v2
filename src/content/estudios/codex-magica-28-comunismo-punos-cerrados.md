@@ -40,7 +40,7 @@ El comunismo era judío desde cero. El punto de vista de Marx y sus textos clás
   
 De Lenin a Putin, tenemos una sucesión en línea recta del cabalismo judío bajo el disfraz del comunismo y ahora, el "Capitalismo Democrático" bajo Gorbachov, Yeltsin y Putin. **(3)**  
   
-Escribiendo en su exposición provocadora y llena de hechos, **[Linajes de los Illuminati](/estudios/linajes-de-los-illuminati-fritz)**, el investigador Fritz Springmeier revela cuán incestuosamente judíos han sido los gobernantes de Rusia, incluidos sus cónyuges. Primero, señala que Stalin se casó con la hija de su hombre número 2, el judío Kaganovich.  
+Escribiendo en su exposición provocadora y llena de hechos, **Linajes de los Illuminati**, el investigador Fritz Springmeier revela cuán incestuosamente judíos han sido los gobernantes de Rusia, incluidos sus cónyuges. Primero, señala que Stalin se casó con la hija de su hombre número 2, el judío Kaganovich.  
   
 También:  
   

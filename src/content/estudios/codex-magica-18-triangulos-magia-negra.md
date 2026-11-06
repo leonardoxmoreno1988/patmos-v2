@@ -686,7 +686,7 @@ Los tres super ricos hermanos Hunt en una composición de triángulo descendente
 
   
 
-Fritz Springmeier, autor del best seller **[Linajes de los Illuminati](/estudios/linajes-de-los-illuminati-fritz),** hizo este dibujo basado en un ritual real conducido por una secta satánica conocida como Ordo Saturnus (Orden de Saturno).
+Fritz Springmeier, autor del best seller **Linajes de los Illuminati,** hizo este dibujo basado en un ritual real conducido por una secta satánica conocida como Ordo Saturnus (Orden de Saturno).
 
   
 

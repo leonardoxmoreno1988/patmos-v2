@@ -430,6 +430,13 @@ function HomePage() {
                 Blog de estudios
               </a>
               {' '}·{' '}
+              <a
+                href="/libros"
+                className="text-[#000f37] font-semibold underline underline-offset-4 decoration-2 decoration-[#000f37]/30 hover:decoration-[#000f37] transition-colors dark:text-foreground dark:decoration-foreground/30 dark:hover:decoration-foreground"
+              >
+                Libros
+              </a>
+              {' '}·{' '}
             </>
           )}
           

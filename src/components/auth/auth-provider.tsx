@@ -20,6 +20,7 @@ import {
   type SubscriptionAccess,
 } from "@/lib/patmos/premium";
 import { hasSeenWelcome, markWelcomeSeen } from "@/lib/ebook";
+import { readerPath } from "@/lib/bible-slugs";
 
 interface AuthContextValue {
   user: User | null;
@@ -78,18 +79,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       setUser(nextSession?.user ?? null);
       setLoading(false);
       const u = nextSession?.user;
-      if (event === "SIGNED_IN" && u && isDemoUser(u)) {
+      // First sign-in on this device: brand-new accounts land in the Bible reader.
+      if (event === "SIGNED_IN" && u && !hasSeenWelcome(u.id)) {
         markWelcomeSeen(u.id);
-        if (window.location.pathname === "/welcome") {
-          setTimeout(() => void navigate({ to: "/" }), 0);
-        }
-      } else if (event === "SIGNED_IN" && u && !hasSeenWelcome(u.id)) {
         const created = u.created_at ? Date.parse(u.created_at) : 0;
         const isNew = Date.now() - created < 7 * 24 * 60 * 60 * 1000;
-        if (isNew) {
-          setTimeout(() => void navigate({ to: "/welcome" }), 0);
-        } else {
-          markWelcomeSeen(u.id);
+        if (isNew && !isDemoUser(u)) {
+          setTimeout(() => void navigate({ href: readerPath("es", 1, 1) }), 0);
         }
       }
     });

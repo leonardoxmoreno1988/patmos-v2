@@ -6,6 +6,7 @@ import { loadEnv, type Plugin } from "vite";
 
 import { BOOKS, CHAPTER_COUNTS } from "./bible.ts";
 import { bookSlug, type SlugLang } from "./bible-slugs.ts";
+import { LIBRO_1865 } from "../data/libro-1865.ts";
 import { readEstudios } from "./estudios-build.ts";
 import { SITE_URL } from "./seo.ts";
 import { sitemapXML, type SitemapEntry } from "./sitemap.ts";
@@ -78,6 +79,9 @@ export function buildSitemapEntries(coverage: NotesCoverage): SitemapEntry[] {
         if (coverage.en.has(key)) entries.push({ path: `/en/read/${bookSlug(book.bookid, "en")}/${chapter}` });
       }
     }
+  }
+  for (const chapter of LIBRO_1865.chapters) {
+    entries.push({ path: `/libros/${LIBRO_1865.slug}/${chapter.slug}` });
   }
   for (const post of readEstudios()) {
     entries.push({ path: `/estudios/${post.slug}`, lastmod: post.updated ?? post.date });

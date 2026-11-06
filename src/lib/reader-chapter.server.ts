@@ -5,6 +5,7 @@ import { BOOKS, parseUsfm, type Chapter, type Verse } from "@/lib/bible";
 import { fetchChapterNotes, type BibleNote } from "@/lib/bible-notes";
 import { splitScriptureRefs } from "@/lib/scripture-refs";
 import type { NoteNode, ReaderChapter, StudyNote } from "@/lib/reader-chapter";
+import { verseKey, type VerseRange } from "@/lib/libro-footnotes";
 import { hydrateCitations } from "@/utils/hydrateCitations";
 
 type ChildNode = DefaultTreeAdapterMap["childNode"];
@@ -134,4 +135,15 @@ export async function loadReaderChapter(bookid: number, chapter: number, lang: L
       .catch(() => null),
   ]);
   return { verses, notes };
+}
+
+/** RV1865 verses for each range, keyed by `verseKey`; a range with no text is left out. */
+export async function loadVerseRanges(ranges: VerseRange[]): Promise<Record<string, { verse: number; text: string }[]>> {
+  const out: Record<string, { verse: number; text: string }[]> = {};
+  for (const r of ranges) {
+    const verses = await chapterVerses(r.bookid, r.chapter, "es");
+    const found = verses.filter((v) => v.verse >= r.from && v.verse <= r.to).map((v) => ({ verse: v.verse, text: v.text }));
+    if (found.length > 0) out[verseKey(r)] = found;
+  }
+  return out;
 }

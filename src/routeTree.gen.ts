@@ -13,7 +13,6 @@ import { Route as IndexRouteImport } from './routes/index'
 import { Route as BuscarRouteImport } from './routes/buscar'
 import { Route as DashboardRouteImport } from './routes/dashboard'
 import { Route as NewsletterRouteImport } from './routes/newsletter'
-import { Route as WelcomeRouteImport } from './routes/welcome'
 import { Route as AdminNotasRouteImport } from './routes/admin.notas'
 import { Route as ApiBillingRouteImport } from './routes/api/billing'
 import { Route as ApiChatRouteImport } from './routes/api/chat'
@@ -21,10 +20,13 @@ import { Route as ApiConsultaRouteImport } from './routes/api/consulta'
 import { Route as ApiHistoryRouteImport } from './routes/api/history'
 import { Route as EstudiosIndexRouteImport } from './routes/estudios.index'
 import { Route as EstudiosSlugRouteImport } from './routes/estudios.$slug'
+import { Route as LibrosIndexRouteImport } from './routes/libros.index'
 import { Route as ApiAdminNotesRouteImport } from './routes/api/admin.notes'
 import { Route as ApiWebhooksLemonsqueezyRouteImport } from './routes/api/webhooks.lemonsqueezy'
 import { Route as EnLeerIndexRouteImport } from './routes/en.leer.index'
 import { Route as LeerLibroCapRouteImport } from './routes/leer.$libro.$cap'
+import { Route as LibrosMuchasPeroSoloUnaIndexRouteImport } from './routes/libros.muchas-pero-solo-una.index'
+import { Route as LibrosMuchasPeroSoloUnaCapituloRouteImport } from './routes/libros.muchas-pero-solo-una.$capitulo'
 import { Route as EnLeerLibroCapRouteImport } from './routes/en.leer.$libro.$cap'
 import { Route as EnReadLibroCapRouteImport } from './routes/en.read.$libro.$cap'
 import { Route as EsLeerLibroCapRouteImport } from './routes/es.leer.$libro.$cap'
@@ -47,11 +49,6 @@ const DashboardRoute = DashboardRouteImport.update({
 const NewsletterRoute = NewsletterRouteImport.update({
   id: '/newsletter',
   path: '/newsletter',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const WelcomeRoute = WelcomeRouteImport.update({
-  id: '/welcome',
-  path: '/welcome',
   getParentRoute: () => rootRouteImport,
 } as any)
 const AdminNotasRoute = AdminNotasRouteImport.update({
@@ -89,6 +86,11 @@ const EstudiosSlugRoute = EstudiosSlugRouteImport.update({
   path: '/estudios/$slug',
   getParentRoute: () => rootRouteImport,
 } as any)
+const LibrosIndexRoute = LibrosIndexRouteImport.update({
+  id: '/libros/',
+  path: '/libros/',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ApiAdminNotesRoute = ApiAdminNotesRouteImport.update({
   id: '/api/admin/notes',
   path: '/api/admin/notes',
@@ -109,6 +111,18 @@ const LeerLibroCapRoute = LeerLibroCapRouteImport.update({
   path: '/leer/$libro/$cap',
   getParentRoute: () => rootRouteImport,
 } as any)
+const LibrosMuchasPeroSoloUnaIndexRoute =
+  LibrosMuchasPeroSoloUnaIndexRouteImport.update({
+    id: '/libros/muchas-pero-solo-una/',
+    path: '/libros/muchas-pero-solo-una/',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const LibrosMuchasPeroSoloUnaCapituloRoute =
+  LibrosMuchasPeroSoloUnaCapituloRouteImport.update({
+    id: '/libros/muchas-pero-solo-una/$capitulo',
+    path: '/libros/muchas-pero-solo-una/$capitulo',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 const EnLeerLibroCapRoute = EnLeerLibroCapRouteImport.update({
   id: '/en/leer/$libro/$cap',
   path: '/en/leer/$libro/$cap',
@@ -130,7 +144,6 @@ export interface FileRoutesByFullPath {
   '/buscar': typeof BuscarRoute
   '/dashboard': typeof DashboardRoute
   '/newsletter': typeof NewsletterRoute
-  '/welcome': typeof WelcomeRoute
   '/admin/notas': typeof AdminNotasRoute
   '/api/billing': typeof ApiBillingRoute
   '/api/chat': typeof ApiChatRoute
@@ -138,10 +151,13 @@ export interface FileRoutesByFullPath {
   '/api/history': typeof ApiHistoryRoute
   '/estudios/$slug': typeof EstudiosSlugRoute
   '/estudios/': typeof EstudiosIndexRoute
+  '/libros/': typeof LibrosIndexRoute
   '/api/admin/notes': typeof ApiAdminNotesRoute
   '/api/webhooks/lemonsqueezy': typeof ApiWebhooksLemonsqueezyRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
+  '/libros/muchas-pero-solo-una/$capitulo': typeof LibrosMuchasPeroSoloUnaCapituloRoute
   '/en/leer/': typeof EnLeerIndexRoute
+  '/libros/muchas-pero-solo-una/': typeof LibrosMuchasPeroSoloUnaIndexRoute
   '/en/leer/$libro/$cap': typeof EnLeerLibroCapRoute
   '/en/read/$libro/$cap': typeof EnReadLibroCapRoute
   '/es/leer/$libro/$cap': typeof EsLeerLibroCapRoute
@@ -151,7 +167,6 @@ export interface FileRoutesByTo {
   '/buscar': typeof BuscarRoute
   '/dashboard': typeof DashboardRoute
   '/newsletter': typeof NewsletterRoute
-  '/welcome': typeof WelcomeRoute
   '/admin/notas': typeof AdminNotasRoute
   '/api/billing': typeof ApiBillingRoute
   '/api/chat': typeof ApiChatRoute
@@ -159,10 +174,13 @@ export interface FileRoutesByTo {
   '/api/history': typeof ApiHistoryRoute
   '/estudios/$slug': typeof EstudiosSlugRoute
   '/estudios': typeof EstudiosIndexRoute
+  '/libros': typeof LibrosIndexRoute
   '/api/admin/notes': typeof ApiAdminNotesRoute
   '/api/webhooks/lemonsqueezy': typeof ApiWebhooksLemonsqueezyRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
+  '/libros/muchas-pero-solo-una/$capitulo': typeof LibrosMuchasPeroSoloUnaCapituloRoute
   '/en/leer': typeof EnLeerIndexRoute
+  '/libros/muchas-pero-solo-una': typeof LibrosMuchasPeroSoloUnaIndexRoute
   '/en/leer/$libro/$cap': typeof EnLeerLibroCapRoute
   '/en/read/$libro/$cap': typeof EnReadLibroCapRoute
   '/es/leer/$libro/$cap': typeof EsLeerLibroCapRoute
@@ -173,7 +191,6 @@ export interface FileRoutesById {
   '/buscar': typeof BuscarRoute
   '/dashboard': typeof DashboardRoute
   '/newsletter': typeof NewsletterRoute
-  '/welcome': typeof WelcomeRoute
   '/admin/notas': typeof AdminNotasRoute
   '/api/billing': typeof ApiBillingRoute
   '/api/chat': typeof ApiChatRoute
@@ -181,10 +198,13 @@ export interface FileRoutesById {
   '/api/history': typeof ApiHistoryRoute
   '/estudios/$slug': typeof EstudiosSlugRoute
   '/estudios/': typeof EstudiosIndexRoute
+  '/libros/': typeof LibrosIndexRoute
   '/api/admin/notes': typeof ApiAdminNotesRoute
   '/api/webhooks/lemonsqueezy': typeof ApiWebhooksLemonsqueezyRoute
   '/leer/$libro/$cap': typeof LeerLibroCapRoute
+  '/libros/muchas-pero-solo-una/$capitulo': typeof LibrosMuchasPeroSoloUnaCapituloRoute
   '/en/leer/': typeof EnLeerIndexRoute
+  '/libros/muchas-pero-solo-una/': typeof LibrosMuchasPeroSoloUnaIndexRoute
   '/en/leer/$libro/$cap': typeof EnLeerLibroCapRoute
   '/en/read/$libro/$cap': typeof EnReadLibroCapRoute
   '/es/leer/$libro/$cap': typeof EsLeerLibroCapRoute
@@ -196,7 +216,6 @@ export interface FileRouteTypes {
     | '/buscar'
     | '/dashboard'
     | '/newsletter'
-    | '/welcome'
     | '/admin/notas'
     | '/api/billing'
     | '/api/chat'
@@ -204,10 +223,13 @@ export interface FileRouteTypes {
     | '/api/history'
     | '/estudios/$slug'
     | '/estudios/'
+    | '/libros/'
     | '/api/admin/notes'
     | '/api/webhooks/lemonsqueezy'
     | '/leer/$libro/$cap'
+    | '/libros/muchas-pero-solo-una/$capitulo'
     | '/en/leer/'
+    | '/libros/muchas-pero-solo-una/'
     | '/en/leer/$libro/$cap'
     | '/en/read/$libro/$cap'
     | '/es/leer/$libro/$cap'
@@ -217,7 +239,6 @@ export interface FileRouteTypes {
     | '/buscar'
     | '/dashboard'
     | '/newsletter'
-    | '/welcome'
     | '/admin/notas'
     | '/api/billing'
     | '/api/chat'
@@ -225,10 +246,13 @@ export interface FileRouteTypes {
     | '/api/history'
     | '/estudios/$slug'
     | '/estudios'
+    | '/libros'
     | '/api/admin/notes'
     | '/api/webhooks/lemonsqueezy'
     | '/leer/$libro/$cap'
+    | '/libros/muchas-pero-solo-una/$capitulo'
     | '/en/leer'
+    | '/libros/muchas-pero-solo-una'
     | '/en/leer/$libro/$cap'
     | '/en/read/$libro/$cap'
     | '/es/leer/$libro/$cap'
@@ -238,7 +262,6 @@ export interface FileRouteTypes {
     | '/buscar'
     | '/dashboard'
     | '/newsletter'
-    | '/welcome'
     | '/admin/notas'
     | '/api/billing'
     | '/api/chat'
@@ -246,10 +269,13 @@ export interface FileRouteTypes {
     | '/api/history'
     | '/estudios/$slug'
     | '/estudios/'
+    | '/libros/'
     | '/api/admin/notes'
     | '/api/webhooks/lemonsqueezy'
     | '/leer/$libro/$cap'
+    | '/libros/muchas-pero-solo-una/$capitulo'
     | '/en/leer/'
+    | '/libros/muchas-pero-solo-una/'
     | '/en/leer/$libro/$cap'
     | '/en/read/$libro/$cap'
     | '/es/leer/$libro/$cap'
@@ -260,7 +286,6 @@ export interface RootRouteChildren {
   BuscarRoute: typeof BuscarRoute
   DashboardRoute: typeof DashboardRoute
   NewsletterRoute: typeof NewsletterRoute
-  WelcomeRoute: typeof WelcomeRoute
   AdminNotasRoute: typeof AdminNotasRoute
   ApiBillingRoute: typeof ApiBillingRoute
   ApiChatRoute: typeof ApiChatRoute
@@ -268,10 +293,13 @@ export interface RootRouteChildren {
   ApiHistoryRoute: typeof ApiHistoryRoute
   EstudiosSlugRoute: typeof EstudiosSlugRoute
   EstudiosIndexRoute: typeof EstudiosIndexRoute
+  LibrosIndexRoute: typeof LibrosIndexRoute
   ApiAdminNotesRoute: typeof ApiAdminNotesRoute
   ApiWebhooksLemonsqueezyRoute: typeof ApiWebhooksLemonsqueezyRoute
   LeerLibroCapRoute: typeof LeerLibroCapRoute
+  LibrosMuchasPeroSoloUnaCapituloRoute: typeof LibrosMuchasPeroSoloUnaCapituloRoute
   EnLeerIndexRoute: typeof EnLeerIndexRoute
+  LibrosMuchasPeroSoloUnaIndexRoute: typeof LibrosMuchasPeroSoloUnaIndexRoute
   EnLeerLibroCapRoute: typeof EnLeerLibroCapRoute
   EnReadLibroCapRoute: typeof EnReadLibroCapRoute
   EsLeerLibroCapRoute: typeof EsLeerLibroCapRoute
@@ -305,13 +333,6 @@ declare module '@tanstack/react-router' {
       path: '/newsletter'
       fullPath: '/newsletter'
       preLoaderRoute: typeof NewsletterRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/welcome': {
-      id: '/welcome'
-      path: '/welcome'
-      fullPath: '/welcome'
-      preLoaderRoute: typeof WelcomeRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/admin/notas': {
@@ -363,6 +384,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof EstudiosSlugRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/libros/': {
+      id: '/libros/'
+      path: '/libros'
+      fullPath: '/libros/'
+      preLoaderRoute: typeof LibrosIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/api/admin/notes': {
       id: '/api/admin/notes'
       path: '/api/admin/notes'
@@ -389,6 +417,20 @@ declare module '@tanstack/react-router' {
       path: '/leer/$libro/$cap'
       fullPath: '/leer/$libro/$cap'
       preLoaderRoute: typeof LeerLibroCapRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/libros/muchas-pero-solo-una/': {
+      id: '/libros/muchas-pero-solo-una/'
+      path: '/libros/muchas-pero-solo-una'
+      fullPath: '/libros/muchas-pero-solo-una/'
+      preLoaderRoute: typeof LibrosMuchasPeroSoloUnaIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/libros/muchas-pero-solo-una/$capitulo': {
+      id: '/libros/muchas-pero-solo-una/$capitulo'
+      path: '/libros/muchas-pero-solo-una/$capitulo'
+      fullPath: '/libros/muchas-pero-solo-una/$capitulo'
+      preLoaderRoute: typeof LibrosMuchasPeroSoloUnaCapituloRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/en/leer/$libro/$cap': {
@@ -420,7 +462,6 @@ const rootRouteChildren: RootRouteChildren = {
   BuscarRoute: BuscarRoute,
   DashboardRoute: DashboardRoute,
   NewsletterRoute: NewsletterRoute,
-  WelcomeRoute: WelcomeRoute,
   AdminNotasRoute: AdminNotasRoute,
   ApiBillingRoute: ApiBillingRoute,
   ApiChatRoute: ApiChatRoute,
@@ -428,10 +469,13 @@ const rootRouteChildren: RootRouteChildren = {
   ApiHistoryRoute: ApiHistoryRoute,
   EstudiosSlugRoute: EstudiosSlugRoute,
   EstudiosIndexRoute: EstudiosIndexRoute,
+  LibrosIndexRoute: LibrosIndexRoute,
   ApiAdminNotesRoute: ApiAdminNotesRoute,
   ApiWebhooksLemonsqueezyRoute: ApiWebhooksLemonsqueezyRoute,
   LeerLibroCapRoute: LeerLibroCapRoute,
+  LibrosMuchasPeroSoloUnaCapituloRoute: LibrosMuchasPeroSoloUnaCapituloRoute,
   EnLeerIndexRoute: EnLeerIndexRoute,
+  LibrosMuchasPeroSoloUnaIndexRoute: LibrosMuchasPeroSoloUnaIndexRoute,
   EnLeerLibroCapRoute: EnLeerLibroCapRoute,
   EnReadLibroCapRoute: EnReadLibroCapRoute,
   EsLeerLibroCapRoute: EsLeerLibroCapRoute,

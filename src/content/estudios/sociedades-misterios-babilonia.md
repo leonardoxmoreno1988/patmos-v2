@@ -35,7 +35,7 @@ No debemos olvidar también que esta "cábala secreta" es solo una continuación
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmi0LgUHpUDp3QBww3oG0KnOXdEH--WivF2ABQ8OTlSx6NLMbiREjINsItCx93gqv5e7_So-nnE8LoxbOotQ2Wp3kSKBqbyWpk8ALlEoApJAKaVPrdHCfZH0U71CNJ114nhzgOdYjsjoFr95eIewXHUEcCRXJs0JNNNlxEiaEFHkZ0CrvlaFlyVQHG/s16000/babilonia.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmi0LgUHpUDp3QBww3oG0KnOXdEH--WivF2ABQ8OTlSx6NLMbiREjINsItCx93gqv5e7_So-nnE8LoxbOotQ2Wp3kSKBqbyWpk8ALlEoApJAKaVPrdHCfZH0U71CNJ114nhzgOdYjsjoFr95eIewXHUEcCRXJs0JNNNlxEiaEFHkZ0CrvlaFlyVQHG/s700/babilonia.jpg)
 
   
-Los líderes de esta rebelión han estado operando en secreto durante milenios y han transmitido los conocimientos de las religiones de misterio babilónicas a través de una serie de sociedades secretas y [linajes](/estudios/linajes-de-los-illuminati-fritz). El apóstol Juan se refirió a este sistema religioso de organizaciones como “El misterio de Babilonia”.  
+Los líderes de esta rebelión han estado operando en secreto durante milenios y han transmitido los conocimientos de las religiones de misterio babilónicas a través de una serie de sociedades secretas y linajes. El apóstol Juan se refirió a este sistema religioso de organizaciones como “El misterio de Babilonia”.  
 
 > "Y la mujer estaba vestida de púrpura y escarlata, y adornada de oro, de piedras preciosas y de perlas, y tenía en la mano un cáliz de oro lleno de abominaciones y de la inmundicia de su fornicación; 5 y en su frente un nombre escrito, un misterio: BABILONIA LA GRANDE, LA MADRE DE LAS RAMERAS Y DE LAS ABOMINACIONES DE LA TIERRA."  
 > –Revelación 17:4-5

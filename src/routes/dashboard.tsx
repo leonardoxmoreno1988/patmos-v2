@@ -177,11 +177,12 @@ function Home() {
               </div>
   
               <Button
-                type="button"
-                onClick={() => (user ? void navigate({ to: "/welcome" }) : setSignupOpen(true))}
+                asChild
                 className="h-10 w-full shrink-0 rounded-full px-5 sm:w-auto dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
               >
-                {t.home.downloadBook} <ArrowRight />
+                <Link to="/libros">
+                  {t.home.booksCta} <ArrowRight />
+                </Link>
               </Button>
             </div>
           </section>
@@ -215,6 +216,13 @@ function Home() {
             className="font-medium text-foreground underline underline-offset-2 transition-opacity hover:opacity-80"
           >
             Blog de estudios
+          </Link>{" "}
+          ·{" "}
+          <Link
+            to="/libros"
+            className="font-medium text-foreground underline underline-offset-2 transition-opacity hover:opacity-80"
+          >
+            Libros
           </Link>{" "}
           · {t.footer.rights}
         </div>

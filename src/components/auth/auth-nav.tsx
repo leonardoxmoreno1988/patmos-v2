@@ -3,9 +3,9 @@ import { useNavigate } from "@tanstack/react-router";
 import {
   BookOpen,
   CreditCard,
-  Download,
   Globe,
   History,
+  NotebookPen,
   Library,
   LogIn,
   LogOut,
@@ -23,11 +23,10 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { isDemoUser, useAuth } from "./auth-provider";
+import { useAuth } from "./auth-provider";
 import { AuthModal } from "./auth-modal";
 import { AccountModal } from "./account-modal";
 import { LibrarySheet } from "@/components/library/library-sheet";
-import { ResourcesSheet } from "@/components/library/resources-sheet";
 import { LANGS, useI18n } from "@/i18n";
 import { readerPathForSlug } from "@/lib/bible-slugs";
 import { useTheme } from "@/hooks/use-theme";
@@ -73,7 +72,6 @@ export function AuthNav() {
   const [authOpen, setAuthOpen] = useState(false);
   const [accountOpen, setAccountOpen] = useState(false);
   const [libraryOpen, setLibraryOpen] = useState(false);
-  const [resourcesOpen, setResourcesOpen] = useState(false);
 
   const openBilling = async () => {
     const portal = window.open("", "_blank");
@@ -152,6 +150,12 @@ export function AuthNav() {
               <Globe /> {lang === 'es' ? "Sitio Web" : "Home Page"}
             </DropdownMenuItem>
 
+            <DropdownMenuItem onSelect={() => {
+              window.location.href = "/libros";
+            }}>
+              <Library /> {lang === 'es' ? "Libros" : "Books"}
+            </DropdownMenuItem>
+
             <DropdownMenuItem className="font-medium" onSelect={() => setAuthOpen(true)}>
               <LogIn /> {t.auth.signIn}
             </DropdownMenuItem>
@@ -210,6 +214,10 @@ export function AuthNav() {
             <BookOpen /> {t.auth.bibleReader}
           </DropdownMenuItem>
 
+          <DropdownMenuItem onSelect={() => void navigate({ to: "/libros" })}>
+            <Library /> {lang === 'es' ? "Libros" : "Books"}
+          </DropdownMenuItem>
+
           <DropdownMenuItem onSelect={() => {
             void navigate({ to: "/dashboard", search: { consulta: "history" } });
           }}>
@@ -217,15 +225,9 @@ export function AuthNav() {
           </DropdownMenuItem>
           
           <DropdownMenuItem onSelect={() => setLibraryOpen(true)}>
-            <Library /> {t.auth.myLibrary}
+            <NotebookPen /> {t.auth.myLibrary}
           </DropdownMenuItem>
           
-          {!isDemoUser(user!) && (
-            <DropdownMenuItem onSelect={() => setResourcesOpen(true)}>
-              <Download /> {t.auth.resources}
-            </DropdownMenuItem>
-          )}
-
           {/* ITEM MOVIDO: Sitio Web (después de Recursos y antes del separador) */}
           <DropdownMenuItem onSelect={() => {
             window.location.href = "/";
@@ -248,7 +250,6 @@ export function AuthNav() {
       </DropdownMenu>
       <AccountModal open={accountOpen} onOpenChange={setAccountOpen} />
       <LibrarySheet open={libraryOpen} onOpenChange={setLibraryOpen} />
-      <ResourcesSheet open={resourcesOpen} onOpenChange={setResourcesOpen} />
     </>
   );
 }
