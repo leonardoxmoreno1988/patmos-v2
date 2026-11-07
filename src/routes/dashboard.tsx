@@ -135,11 +135,11 @@ function Home() {
           
           {/* Título visible únicamente en desktop */}
           <p aria-hidden="true" className="hidden md:block font-bold tracking-tight text-foreground mb-6 text-4xl md:text-5xl lg:text-6xl">
-            {t.home.heroTitle}
+            {t.dashboard.title}
           </p>
   
           <p className="mx-auto max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
-            {t.home.heroDescription}
+            {t.dashboard.subtitle}
           </p>
   
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">

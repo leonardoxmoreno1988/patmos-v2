@@ -213,6 +213,13 @@ export const es = {
     remove: "Eliminar",
     removed: "Eliminado",
   },
+  landing: {
+    heroTitle: "Plataforma de Estudio Bíblico",
+  },
+  dashboard: {
+    title: "Panel de Control",
+    subtitle: "Accede a tus herramientas de estudio, lecturas bíblicas y notas personales.",
+  },
   footer: {
     rights: "Todos los derechos reservados.",
   },

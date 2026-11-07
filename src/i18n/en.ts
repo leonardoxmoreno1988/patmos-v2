@@ -214,6 +214,13 @@ export const en: Dictionary = {
     remove: "Delete",
     removed: "Deleted",
   },
+  landing: {
+    heroTitle: "Bible Study Platform",
+  },
+  dashboard: {
+    title: "Dashboard",
+    subtitle: "Access your research tools, scripture reading, and personal notes.",
+  },
   footer: {
     rights: "All rights reserved.",
   },
