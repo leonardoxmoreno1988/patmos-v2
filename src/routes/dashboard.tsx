@@ -10,6 +10,7 @@ import metaEn from "@/data/meta_en.json";
 import { isDemoUser, useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
 import { EBOOK_COVER, EBOOK_TITLE } from "@/lib/ebook";
+import { getDailyVerse } from "@/data/daily-verses";
 
 import { BOOKS, BOOK_GROUPS, CHAPTER_COUNTS, bookFromSlug, bookName, slugifyBook, type BookInfo } from "@/lib/bible";
 import { SiteHeader } from "@/components/reader/site-header";
@@ -71,6 +72,7 @@ function bookProgress(coverage: NotesCoverage, book: BookInfo) {
 function Home() {
   const { user } = useAuth();
   const { t, lang } = useI18n();
+  const dailyVerse = getDailyVerse(new Date(), lang);
   const navigate = useNavigate({ from: "/dashboard" });
   const search = useSearch({ from: "/dashboard" });
   const [signupOpen, setSignupOpen] = useState(false);
@@ -131,11 +133,21 @@ function Home() {
   
       <main className="mx-auto max-w-6xl px-6">
         <section className="flex flex-col gap-4 border-b border-border/40 pt-8 pb-6 mb-8 md:flex-row md:items-center md:justify-between md:pt-10">
-          <div className="min-w-0">
-            <h1 className="text-2xl font-bold tracking-tight text-foreground">{t.dashboard.title}</h1>
-            <p className="text-xs sm:text-sm text-muted-foreground mt-0.5">
-              {lang === "es" ? "Reina-Valera 1865 · Sesión activa: " : "Reina-Valera 1865 · Active session: "}
-              {lastBook} {last.cap}
+          <div className="min-w-0 max-w-xl flex flex-col items-start">
+            <h1 className="sr-only">{t.dashboard.title}</h1>
+            <div className="flex flex-wrap items-center gap-2.5">
+              <span className="text-[11px] font-semibold tracking-wider uppercase px-2 py-0.5 rounded-full border border-primary/20 bg-primary/10 text-primary">
+                {lang === "es" ? "Versículo del día" : "Verse of the day"}
+              </span>
+              <a
+                href={dailyVerse.readerUrl}
+                className="text-xs font-medium text-muted-foreground hover:text-foreground hover:underline underline-offset-2"
+              >
+                {dailyVerse.reference} · {dailyVerse.version} <span aria-hidden="true">↗</span>
+              </a>
+            </div>
+            <p className="mt-1 text-sm sm:text-base italic text-foreground/90 font-serif leading-snug line-clamp-2">
+              “{dailyVerse.text}”
             </p>
           </div>
           <div className="flex items-center gap-2.5 flex-wrap">
