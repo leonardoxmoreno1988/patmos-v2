@@ -85,7 +85,7 @@ function HomePage() {
         
         <div className="flex items-center gap-1.5 sm:gap-3">
           {/* Selector de idioma redondeado (el globo se oculta en móvil para ganar espacio) */}
-          <div className="inline-flex items-center border border-[#000f37] px-2.5 sm:px-3 gap-1 bg-transparent h-8 sm:h-9 md:h-7 box-sizing-border rounded-full transition-colors duration-300 hover:bg-[#000f37]/5 dark:border-foreground/40 dark:hover:bg-foreground/10">
+          <div className="inline-flex items-center border border-[#000f37] px-2.5 sm:px-3 gap-1 bg-transparent h-8 sm:h-9 md:h-7 box-sizing-border rounded-lg transition-colors duration-300 hover:bg-[#000f37]/5 dark:border-foreground/40 dark:hover:bg-foreground/10">
             <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="hidden sm:block" aria-hidden="true" style={{ opacity: 0.8 }}>
               <circle cx="12" cy="12" r="10"/>
               <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20M2 12h20"/>
@@ -295,7 +295,7 @@ function HomePage() {
         </p>
       </div>
       {/* Reducido mt-10 a mt-8 y py-4 a py-2.5 con text-sm */}
-      <a href="/dashboard" className="block w-full text-center mt-8 border border-[#000f37] py-2.5 text-sm font-semibold rounded-full hover:bg-gray-50 transition-colors dark:border-foreground/40 dark:hover:bg-accent">
+      <a href="/dashboard" className="block w-full text-center mt-8 border border-[#000f37] py-2.5 text-sm font-semibold rounded-lg hover:bg-gray-50 transition-colors dark:border-foreground/40 dark:hover:bg-accent">
         {lang === 'es' ? "Comenzar a Leer" : "Start Reading"}
       </a>
     </div>
