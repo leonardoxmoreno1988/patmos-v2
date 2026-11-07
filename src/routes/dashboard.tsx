@@ -194,7 +194,7 @@ function Home() {
   
               <Button
                 asChild
-                className="h-10 w-full shrink-0 rounded-full px-5 sm:w-auto dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
+                className="h-10 w-full shrink-0 rounded-lg px-5 sm:w-auto dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
               >
                 <Link to="/libros">
                   {t.home.booksCta} <ArrowRight />

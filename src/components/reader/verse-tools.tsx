@@ -302,7 +302,7 @@ export function NoteDialog({
               type="button"
               disabled={saving || !value.trim()}
               onClick={() => onSave?.(value.trim())}
-              className="inline-flex h-10 items-center justify-center rounded-full bg-primary px-5 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90 disabled:opacity-50"
+              className="inline-flex h-10 items-center justify-center rounded-lg bg-primary px-5 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90 disabled:opacity-50"
             >
               {saving ? t.verseTools.saving : t.verseTools.saveNote}
             </button>

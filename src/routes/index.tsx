@@ -107,7 +107,7 @@ function HomePage() {
           {/* Botón Ir al Lector redondeado (etiqueta corta en móvil) */}
           <a 
             href="/dashboard" 
-            className="text-[10px] font-bold uppercase tracking-wider sm:tracking-widest border border-[#000f37] text-[#000f37] px-3 sm:px-4 py-1.5 sm:py-2.5 md:py-1 rounded-full transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] flex items-center justify-center whitespace-nowrap min-h-[32px] sm:min-h-[36px] md:min-h-[28px] dark:border-foreground/40 dark:text-foreground dark:hover:bg-foreground dark:hover:text-background"
+            className="text-[10px] font-bold uppercase tracking-wider sm:tracking-widest border border-[#000f37] text-[#000f37] px-3 sm:px-4 py-1.5 sm:py-2.5 md:py-1 rounded-lg transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] flex items-center justify-center whitespace-nowrap min-h-[32px] sm:min-h-[36px] md:min-h-[28px] dark:border-foreground/40 dark:text-foreground dark:hover:bg-foreground dark:hover:text-background"
           >
             <span className="sm:hidden">{lang === 'es' ? "Panel de control" : "Dashboard"}</span>
             <span className="hidden sm:inline">{lang === 'es' ? "Ir al panel de control" : "Go to Dashboard"}</span>
@@ -139,7 +139,7 @@ function HomePage() {
         <div className="mt-6 flex flex-col sm:flex-row gap-4">
           <a 
             href="/dashboard" 
-            className="inline-flex items-center justify-center bg-[#000f37] text-[#f9fafb] text-base font-semibold px-8 py-3.5 rounded-full hover:bg-black transition-all dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100"
+            className="inline-flex items-center justify-center bg-[#000f37] text-[#f9fafb] text-base font-semibold px-8 py-3.5 rounded-lg hover:bg-black transition-all dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100"
           >
             {lang === 'es' ? "Usar Patmos Gratis →" : "Use Patmos for Free →"}
           </a>
@@ -319,7 +319,7 @@ function HomePage() {
       </div>
       
       {/* Reducido mt-10 a mt-8 y py-4 a py-2.5 con text-sm */}
-      <button onClick={handleCheckout} className="block w-full text-center mt-8 bg-[#000f37] text-white py-2.5 text-sm font-semibold rounded-full hover:bg-black border-none cursor-pointer outline-none transition-all shadow-md dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100">
+      <button onClick={handleCheckout} className="block w-full text-center mt-8 bg-[#000f37] text-white py-2.5 text-sm font-semibold rounded-lg hover:bg-black border-none cursor-pointer outline-none transition-all shadow-md dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100">
         {lang === 'es' ? "Obtener Acceso Ilimitado" : "Unlock Unlimited Access"}
       </button>
     </div>

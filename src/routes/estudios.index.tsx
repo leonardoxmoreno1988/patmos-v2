@@ -206,7 +206,7 @@ function EstudiosIndex() {
             <Button
               type="button"
               variant="outline"
-              className="h-11 rounded-full px-6"
+              className="h-11 rounded-lg px-6"
               onClick={() => setLimit((n) => n + PAGE_SIZE)}
             >
               Cargar más estudios

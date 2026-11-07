@@ -181,7 +181,7 @@ function SearchPage() {
 							type="button"
 							disabled={current <= 1}
 							onClick={() => navigate({ search: (p) => ({ ...p, page: current - 1 }) })}
-							className="rounded-full bg-muted px-4 py-2 text-sm font-medium disabled:opacity-40"
+							className="rounded-lg bg-muted px-4 py-2 text-sm font-medium disabled:opacity-40"
 						>
 							Anterior
 						</button>
@@ -192,7 +192,7 @@ function SearchPage() {
 							type="button"
 							disabled={current >= pages}
 							onClick={() => navigate({ search: (p) => ({ ...p, page: current + 1 }) })}
-							className="rounded-full bg-muted px-4 py-2 text-sm font-medium disabled:opacity-40"
+							className="rounded-lg bg-muted px-4 py-2 text-sm font-medium disabled:opacity-40"
 						>
 							Siguiente
 						</button>

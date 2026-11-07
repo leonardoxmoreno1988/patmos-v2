@@ -193,7 +193,7 @@ export function VerseSheet({
         <button
           type="button"
           onClick={onGoToChapter}
-          className="mt-6 flex h-12 w-full items-center justify-center rounded-full bg-[#0F172A] text-sm font-medium text-white dark:bg-white dark:text-[#000f37]"
+          className="mt-6 flex h-12 w-full items-center justify-center rounded-lg bg-[#0F172A] text-sm font-medium text-white dark:bg-white dark:text-[#000f37]"
         >
           {t.verse.goToChapter}
         </button>

@@ -78,7 +78,7 @@ const BOOKS: CatalogBook[] = [
 ];
 
 const PRIMARY_CTA =
-  "h-11 rounded-full bg-zinc-900 text-white hover:bg-zinc-800 dark:bg-white dark:text-zinc-950 dark:hover:bg-zinc-200";
+  "h-11 rounded-lg bg-zinc-900 text-white hover:bg-zinc-800 dark:bg-white dark:text-zinc-950 dark:hover:bg-zinc-200";
 
 function LibrosCatalog() {
   return (
@@ -128,7 +128,7 @@ function LibrosCatalog() {
                     <Button asChild size="lg" className={PRIMARY_CTA}>
                       <Link to="/libros/muchas-pero-solo-una">Empezar a leer online</Link>
                     </Button>
-                    <Button asChild size="lg" variant="outline" className="h-11 rounded-full">
+                    <Button asChild size="lg" variant="outline" className="h-11 rounded-lg">
                       <a href={LIBRO_1865.pdfUrl} download>
                         <Download className="size-4" /> Descargar PDF
                       </a>

@@ -75,12 +75,12 @@ function BookHub() {
               {LIBRO_1865.year} · Lima, Perú · {LIBRO_1865.pageCount} páginas
             </p>
             <div className="flex flex-col gap-3">
-              <Button asChild size="lg" className="h-11 rounded-full bg-zinc-950 text-white hover:bg-zinc-800 dark:bg-white dark:text-zinc-950 dark:hover:bg-zinc-200">
+              <Button asChild size="lg" className="h-11 rounded-lg bg-zinc-950 text-white hover:bg-zinc-800 dark:bg-white dark:text-zinc-950 dark:hover:bg-zinc-200">
                 <a href={LIBRO_1865.pdfUrl} download>
                   <Download className="size-4" /> Descargar PDF completo
                 </a>
               </Button>
-              <Button asChild size="lg" variant="outline" className="h-11 rounded-full">
+              <Button asChild size="lg" variant="outline" className="h-11 rounded-lg">
                 <Link to="/libros/muchas-pero-solo-una/$capitulo" params={{ capitulo: chapters[0]!.slug }}>
                   Empezar a leer online <ArrowRight className="size-4" />
                 </Link>

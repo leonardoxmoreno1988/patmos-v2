@@ -101,7 +101,7 @@ function NewsletterPage() {
        />
        <button
         type="submit"
-        className="w-full whitespace-nowrap rounded-full bg-white px-6 py-3.5 text-sm font-bold text-neutral-900 transition-opacity hover:opacity-90 sm:w-auto sm:bg-primary sm:py-3 sm:text-primary-foreground"
+        className="w-full whitespace-nowrap rounded-lg bg-white px-6 py-3.5 text-sm font-bold text-neutral-900 transition-opacity hover:opacity-90 sm:w-auto sm:bg-primary sm:py-3 sm:text-primary-foreground"
        >
         {sent ? "¡Gracias!" : "Suscribirme"}
        </button>

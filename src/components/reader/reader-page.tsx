@@ -513,8 +513,8 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
      aria-label={consultaOpen ? t.reader.closeConsulta : t.reader.openConsulta}
                className={
                  consultaOpen
-                   ? "fixed bottom-6 z-[60] inline-flex items-center gap-2 rounded-full bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90 max-sm:hidden sm:right-[29.5rem]"
-                   : "fixed bottom-6 right-6 z-40 inline-flex items-center gap-2 rounded-full bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90"
+                   ? "fixed bottom-6 z-[60] inline-flex items-center gap-2 rounded-lg bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90 max-sm:hidden sm:right-[29.5rem]"
+                   : "fixed bottom-6 right-6 z-40 inline-flex items-center gap-2 rounded-lg bg-fab px-4 py-2.5 text-sm font-medium text-fab-foreground shadow-xl transition-colors hover:bg-fab/90"
                }
              >
                <MessageSquare className="h-4 w-4 shrink-0" aria-hidden="true" />

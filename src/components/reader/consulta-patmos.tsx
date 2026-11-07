@@ -117,7 +117,7 @@ export function ConsultaPatmos(props: Props) {
             <button
               type="button"
               onClick={props.onRequireAuth}
-              className="h-9 rounded-full bg-[#000f37] px-5 text-sm font-medium text-white hover:opacity-90 dark:bg-white dark:text-[#000f37]"
+              className="h-9 rounded-lg bg-[#000f37] px-5 text-sm font-medium text-white hover:opacity-90 dark:bg-white dark:text-[#000f37]"
             >
               {t.consulta.signIn}
             </button>
@@ -683,7 +683,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                 href={CHECKOUT_URL(userId)}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="lemonsqueezy-button mt-3 inline-flex h-9 items-center rounded-full bg-[#000f37] px-4 text-sm font-medium text-white hover:opacity-90 dark:bg-[#d9b36a] dark:text-[#141321]"
+                className="lemonsqueezy-button mt-3 inline-flex h-9 items-center rounded-lg bg-[#000f37] px-4 text-sm font-medium text-white hover:opacity-90 dark:bg-[#d9b36a] dark:text-[#141321]"
               >
                 {t.consulta.upgrade}
               </a>
@@ -735,7 +735,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
                 if (pendingExternal) window.open(pendingExternal, "_blank", "noopener,noreferrer");
                 setPendingExternal(null);
               }}
-              className="rounded-full bg-[#000f37] px-4 py-2 text-sm font-medium text-white hover:opacity-90 dark:bg-[#d9b36a] dark:text-[#141321]"
+              className="rounded-lg bg-[#000f37] px-4 py-2 text-sm font-medium text-white hover:opacity-90 dark:bg-[#d9b36a] dark:text-[#141321]"
             >
               {t.consulta.openLink}
             </button>

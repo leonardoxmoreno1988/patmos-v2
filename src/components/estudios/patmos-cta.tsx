@@ -43,14 +43,14 @@ export function PatmosCta({
         <Button
           asChild
           size="sm"
-          className="rounded-full px-4 dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
+          className="rounded-lg px-4 dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
         >
           <Link {...readerLinkProps(lang, "genesis", 1)}>
             <BookOpen /> Lector Bíblico
           </Link>
         </Button>
         {showAssistant ? (
-          <Button asChild size="sm" variant="outline" className="rounded-full px-4">
+          <Button asChild size="sm" variant="outline" className="rounded-lg px-4">
             <Link to="/dashboard" search={{ consulta: "chat" }}>
               <MessageSquare /> Consultar Patmos
             </Link>
