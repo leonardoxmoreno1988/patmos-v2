@@ -141,7 +141,7 @@ function HomePage() {
             href="/dashboard" 
             className="inline-flex items-center justify-center bg-[#000f37] text-[#f9fafb] text-base font-semibold px-8 py-3.5 rounded-full hover:bg-black transition-all dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100"
           >
-            {lang === 'es' ? "Abrir el Lector Gratis →" : "Open Reader for Free →"}
+            {lang === 'es' ? "Usar Patmos Gratis →" : "Use Patmos for Free →"}
           </a>
         </div>
 
