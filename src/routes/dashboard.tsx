@@ -192,14 +192,14 @@ function Home() {
                 </div>
               </div>
   
-              <Button
+              {lang === "es" && (              <Button
                 asChild
                 className="h-10 w-full shrink-0 rounded-lg px-5 sm:w-auto dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100"
               >
                 <Link to="/libros">
                   {t.home.booksCta} <ArrowRight />
                 </Link>
-              </Button>
+              </Button>)}
             </div>
           </section>
         )}
@@ -226,7 +226,7 @@ function Home() {
 
       <footer className="border-border py-8 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm">
         <div className="mx-auto max-w-6xl px-6">
-          © Patmos 2026 ·{" "}
+          © Patmos 2026 ·{" "}{lang === "es" && (<>
           <Link
             to="/estudios"
             className="font-medium text-foreground underline underline-offset-2 transition-opacity hover:opacity-80"
@@ -240,7 +240,7 @@ function Home() {
           >
             Libros
           </Link>{" "}
-          · {t.footer.rights}
+          · </>)}{t.footer.rights}
         </div>
       </footer>
     </div>

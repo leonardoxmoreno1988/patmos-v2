@@ -150,11 +150,13 @@ export function AuthNav() {
               <Globe /> {lang === 'es' ? "Sitio Web" : "Home Page"}
             </DropdownMenuItem>
 
+            {lang === 'es' && (
             <DropdownMenuItem onSelect={() => {
               window.location.href = "/libros";
             }}>
               <Library /> {lang === 'es' ? "Libros" : "Books"}
             </DropdownMenuItem>
+            )}
 
             <DropdownMenuItem className="font-medium" onSelect={() => setAuthOpen(true)}>
               <LogIn /> {t.auth.signIn}
@@ -214,9 +216,11 @@ export function AuthNav() {
             <BookOpen /> {t.auth.bibleReader}
           </DropdownMenuItem>
 
+          {lang === 'es' && (
           <DropdownMenuItem onSelect={() => void navigate({ to: "/libros" })}>
             <Library /> {lang === 'es' ? "Libros" : "Books"}
           </DropdownMenuItem>
+          )}
 
           <DropdownMenuItem onSelect={() => {
             void navigate({ to: "/dashboard", search: { consulta: "history" } });
