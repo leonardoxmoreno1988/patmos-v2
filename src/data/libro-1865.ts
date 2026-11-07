@@ -1405,12 +1405,29 @@ export const LIBRO_1865: Book = {
     number: 9,
     title: "Conclusión pastoral",
     summary: "Conclusión pastoral: la Biblia de 1865 es, según el autor, la palabra inspirada de Dios en castellano. Invita al lector a estudiar las siete evidencias y comprobarlo por sí mismo. Incluye la biografía del autor.",
-    readingTimeMinutes: 1,
-    content: [
-      "En medio de innumerables versiones de la Biblia en idioma castellano, hay una sola que lleva el sello de Dios porque ha salido de la boca de Dios mismo.",
-      "Cada palabra que está escrita en ella, en la Biblia Reina-Valera revisión de 1865, es la respiración de Dios; cada palabra de ella lleva la vida que le impartió el Espíritu Santo porque fue inspirada por el Espiritu de Dios.",
-      "Este libro lo demuestra a través de siete evidencias de la inspiración divina y de la infalibilidad de la Biblia de 1865. El desafío es que usted las estudie y lo compruebe por sí mismo.",
-      "El Pastor Enrique Ginocchio lleva más de cuarenta años ejerciendo la labor Pastoral, y actualmente dirige la Iglesia Bautista ubicada en San Fernando en Chosica - Lima, Perú.",
+    readingTimeMinutes: 2,
+    content: [],
+    blocks: [
+      {
+        "type": "paragraph",
+        "text": "En medio de innumerables versiones de la Biblia en idioma castellano, hay una sola que lleva el sello de Dios porque ha salido de la boca de Dios mismo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cada palabra que está escrita en ella, en la Biblia Reina-Valera revisión de 1865, es la respiración de Dios; cada palabra de ella lleva la vida que le impartió el Espíritu Santo porque fue inspirada por el Espíritu de Dios."
+      },
+      {
+        "type": "paragraph",
+        "text": "Este libro lo demuestra a través de siete evidencias de la inspiración divina y de la infalibilidad de la Biblia de 1865. El desafío es que usted las estudie y lo compruebe por sí mismo."
+      },
+      {
+        "type": "subheading",
+        "text": "Sobre el autor"
+      },
+      {
+        "type": "paragraph",
+        "text": "El Pastor Enrique Ginocchio lleva más de cuarenta años ejerciendo la labor Pastoral, y actualmente dirige la Iglesia Bautista ubicada en San Fernando en Chosica - Lima, Perú."
+      }
     ],
   },
   ],
