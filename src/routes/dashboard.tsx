@@ -132,7 +132,7 @@ function Home() {
       <SiteHeader />
   
       <main className="mx-auto max-w-6xl px-6">
-        <section className="flex flex-col gap-4 border-b border-border/40 pt-8 pb-6 mb-8 md:flex-row md:items-center md:justify-between md:pt-10">
+        <section className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 pt-8 pb-6 mb-6 border-b border-border/40 md:pt-10">
           <div className="min-w-0 max-w-xl flex flex-col items-start">
             <h1 className="sr-only">{t.dashboard.title}</h1>
             <div className="flex flex-wrap items-center gap-2.5">
@@ -196,7 +196,7 @@ function Home() {
           </section>
         )}
 
-        <section className="py-12 pb-24">
+        <section className="pt-2 pb-24">
           <div className="mb-7 flex items-end justify-between gap-4 border-b border-border pb-4">
             <div><h2 className="text-xl font-semibold text-foreground">{t.home.notesProgress}</h2><p className="mt-1 text-sm text-muted-foreground">{t.home.notesProgressSubtitle}</p></div>
           </div>
