@@ -1311,21 +1311,59 @@ export const LIBRO_1865: Book = {
     number: 7,
     title: "Sexta evidencia: la poderosa expresividad de la Biblia 1865",
     summary: "Muestra cómo las revisiones modernas han perdido la fuerza de las expresiones de 1865; por ejemplo, la palabra \"carga\" en los profetas, reemplazada por \"profecía\" en 1960.",
-    readingTimeMinutes: 2,
-    content: [
-      "Con las traducciones modernas se ha perdido muchísimo de la fuerza de las expresiones con que el Espíritu Santo habla en la antigua revisión de ese año. Y en muchos casos no ha sido solamente reemplazar palabras antiguas con palabras modernas sino también ha sido TRASTOCAR las palabras por otras que no corresponden con el mismo significado.",
-      "Un claro ejemplo de esto es la palabra carga, que bastantes veces es usada en los libros de los profetas, pero que a partir de la revisión de 1960 ha sido reemplazada por la palabra “profecía”. Veamos algunos casos:",
-      "Carga de Babilonia, que vio Isaías, hijo de Amós. 38",
-      "En el año que murió el rey Acaz fue esta carga: 39",
-      "Y cuando te preguntare este pueblo, o el profeta, o el sacerdote, diciendo: ¿Qué es la carga de Jehová? decirles has: ¿Qué carga? Dejaros he, dijo Jehová. 40",
-      "En todos estos casos, desviando el significado de la palabra, se ha reemplazado con otro término muy diferente: “profecía”.",
-      "Otro caso semejante es el de una expresión bastante fuerte que Dios utiliza pero la cual ha sido “suavizada” en las versiones modernas:",
-      "Así haga Dios, y así añada a los enemigos de David, que no tengo de dejar de todo lo que fuere suyo de aquí a mañana meante a la pared. 41",
-      "He aquí, yo traigo mal sobre ti, y barreré tu posteridad, y talaré de Acab todo meante a la pared, al guardado, y al desamparado en Israel. 42",
-      "38 Isaías 13:1 39 Isaías 14:28",
-      "40 Jeremías 23:33 41 1 Samuel 25:22",
-      "42 1 Reyes 21:21",
-      "En estos y otros casos de la forma divina de la expresión: meante a la pared, esta ha sido cambiada por simplemente “varón” y claro, eso es lo que significa, pero el Espíritu Santo no escogió poner “varón” sino meante a la pared. ¡Dios sabe perfectamente bien por qué usa una expresión tan fuerte, pero los traductores del tiempo de Laodicea quieren “corregir” las palabras del Espíritu Santo!!!",
+    readingTimeMinutes: 4,
+    content: [],
+    blocks: [
+      {
+        "type": "paragraph",
+        "text": "Con las traducciones modernas se ha perdido muchísimo de la fuerza de las expresiones con que el Espíritu Santo habla en la antigua revisión de ese año. Y en muchos casos no ha sido solamente reemplazar palabras antiguas con palabras modernas sino también ha sido TRASTOCAR las palabras por otras que no corresponden con el mismo significado."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un claro ejemplo de esto es la palabra *carga*, que bastantes veces es usada en los libros de los profetas, pero que a partir de la revisión de 1960 ha sido reemplazada por la palabra “profecía”. Veamos algunos casos:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Isaías 13:1",
+        "version": "RV1865",
+        "text": "Carga de Babilonia, que vio Isaías, hijo de Amós."
+      },
+      {
+        "type": "scripture",
+        "reference": "Isaías 14:28",
+        "version": "RV1865",
+        "text": "En el año que murió el rey Acaz fue esta carga:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Jeremías 23:33",
+        "version": "RV1865",
+        "text": "Y cuando te preguntare este pueblo, o el profeta, o el sacerdote, diciendo: ¿Qué es la carga de Jehová? decirles has: ¿Qué carga? Dejaros he, dijo Jehová."
+      },
+      {
+        "type": "paragraph",
+        "text": "En todos estos casos, desviando el significado de la palabra, se ha reemplazado con otro término muy diferente: “profecía”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Otro caso semejante es el de una expresión bastante fuerte que Dios utiliza pero la cual ha sido “suavizada” en las versiones modernas:"
+      },
+      {
+        "type": "scripture",
+        "reference": "1 Samuel 25:22",
+        "version": "RV1865",
+        "text": "Así haga Dios, y así añada a los enemigos de David, que no tengo de dejar de todo lo que fuere suyo de aquí a mañana meante a la pared."
+      },
+      {
+        "type": "scripture",
+        "reference": "1 Reyes 21:21",
+        "version": "RV1865",
+        "text": "He aquí, yo traigo mal sobre ti, y barreré tu posteridad, y talaré de Acab todo meante a la pared, al guardado, y al desamparado en Israel."
+      },
+      {
+        "type": "paragraph",
+        "text": "En estos y otros casos de la forma divina de la expresión: *meante a la pared*, esta ha sido cambiada por simplemente “varón” y claro, eso es lo que significa, pero el Espíritu Santo no escogió poner “varón” sino *meante a la pared*. ¡Dios sabe perfectamente bien por qué usa una expresión tan fuerte, pero los traductores del tiempo de Laodicea quieren “corregir” las palabras del Espíritu Santo!"
+      }
     ],
   },
   {
@@ -1333,14 +1371,33 @@ export const LIBRO_1865: Book = {
     number: 8,
     title: "Sétima evidencia: la evidencia milagrosa",
     summary: "Presenta como evidencia milagrosa los patrones que el autor atribuye a la King James en inglés, según investigaciones con software que él mismo remite a un canal de video en inglés.",
-    readingTimeMinutes: 2,
-    content: [
-      "Al llegar a esta evidencia diremos que es una prueba milagrosa y divina de que hay una versión traducida de la Biblia, la King James en inglés, la cual contiene a través de todo su texto pruebas absolutamente innegables de su procedencia divina.",
-      "Al encontrar tales evidencias nos llenamos de un asombro gigantesco al ver la mano misma de Dios en la Biblia King James. Por supuesto, estas pruebas efectuadas por medio de software no han sido aplicadas a la Biblia 1865. ¡No es necesario!. Es suficiente que Dios haya puesto su sello milagroso en la King James. Si sucede o no lo mismo con la Biblia 1865, no tiene importancia porque es suficiente con que Dios nos lo haya mostrado en la versión King James.",
-      "Estas investigaciones se encuentran (en inglés) en el canal de youtube llamado Truth is Christ (La verdad es Cristo). Aunque hay innumerables muestras del sello milagroso de Dios en la King James, mostraremos solo una de ellas, que se llama “La anomalía de Elton”.",
-      "La anomalía de Elton consiste en el conteo total de números y palabras en la Biblia King James, la cual arroja con total precisión el numero 7 elevado a la potencia 7 (Como sabemos, el número 7 en la Biblia es el número de Dios mismo). Así que el total de palabras y números en la Biblia King James es la siguiente multiplicación: 7 x 7 x 7 x 7 x 7 x 7 x 7 que es lo mismo que decir 7 elevado a la sétima potencia, y el resultado exactísimo es el número 823,543.",
-      "Usted puede investigar mucho más en el canal mencionado de youtube, porque las “coincidencias” matemáticas encontradas en la Biblia King James no son tales: son el sello incontrovertible que Dios ha dejado en su palabra, y como para que NO QUEDE NINGUNA DUDA, EL SELLO DE DIOS LO LLEVA UNA BIBLIA TRADUCIDA, LA KING JAMES EN IDIOMA INGLÉS.",
-      "Hemos llegado hasta aquí querido hermano Lugardo, y tengo la esperanza de que muchísimos hermanos junto con usted hayan podido discernir y sobre todo LLEGAR A CREER (Lo cual es lo que Dios quiere) que él nos entregó una Biblia perfecta e infalible en idioma español. DIOS LE BENDIGA.",
+    readingTimeMinutes: 3,
+    content: [],
+    blocks: [
+      {
+        "type": "paragraph",
+        "text": "Al llegar a esta evidencia diremos que es una prueba milagrosa y divina de que hay una versión traducida de la Biblia, la *King James* en inglés, la cual contiene a través de todo su texto pruebas absolutamente innegables de su procedencia divina."
+      },
+      {
+        "type": "paragraph",
+        "text": "Al encontrar tales evidencias nos llenamos de un asombro gigantesco al ver la mano misma de Dios en la Biblia *King James*. Por supuesto, estas pruebas efectuadas por medio de software no han sido aplicadas a la Biblia 1865. ¡No es necesario! Es suficiente que Dios haya puesto su sello milagroso en la *King James*. Si sucede o no lo mismo con la Biblia 1865, no tiene importancia porque es suficiente con que Dios nos lo haya mostrado en la versión *King James*."
+      },
+      {
+        "type": "paragraph",
+        "text": "Estas investigaciones se encuentran (en inglés) en el canal de YouTube llamado *Truth is Christ* (La verdad es Cristo). Aunque hay innumerables muestras del sello milagroso de Dios en la *King James*, mostraremos solo una de ellas, que se llama “La anomalía de Elton”."
+      },
+      {
+        "type": "paragraph",
+        "text": "La anomalía de Elton consiste en el conteo total de números y palabras en la Biblia *King James*, la cual arroja con total precisión el numero 7 elevado a la potencia 7 (Como sabemos, el número 7 en la Biblia es el número de Dios mismo). Así que el total de palabras y números en la Biblia *King James* es la siguiente multiplicación: 7 x 7 x 7 x 7 x 7 x 7 x 7 que es lo mismo que decir 7 elevado a la sétima potencia, y el resultado exactísimo es el número 823,543."
+      },
+      {
+        "type": "paragraph",
+        "text": "Usted puede investigar mucho más en el canal mencionado de YouTube, porque las “coincidencias” matemáticas encontradas en la Biblia *King James* no son tales: son el sello incontrovertible que Dios ha dejado en su palabra, y como para que NO QUEDE NINGUNA DUDA, EL SELLO DE DIOS LO LLEVA UNA BIBLIA TRADUCIDA, LA KING JAMES EN IDIOMA INGLÉS."
+      },
+      {
+        "type": "paragraph",
+        "text": "Hemos llegado hasta aquí querido hermano Lugardo, y tengo la esperanza de que muchísimos hermanos junto con usted hayan podido discernir y sobre todo LLEGAR A CREER (Lo cual es lo que Dios quiere) que Él nos entregó una Biblia perfecta e infalible en idioma español. DIOS LE BENDIGA."
+      }
     ],
   },
   {
