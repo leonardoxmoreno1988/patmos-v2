@@ -69,7 +69,7 @@ function BookHub() {
             <img
               src={LIBRO_1865.coverImage}
               alt={`Portada de ${LIBRO_1865.title}`}
-              className="w-full rounded-[8px] overflow-hidden border border-border object-cover shadow-2xl"
+              className="w-full rounded-none border border-border object-cover shadow-2xl"
             />
             <p className="text-sm text-muted-foreground">
               {LIBRO_1865.year} · Lima, Perú · {LIBRO_1865.pageCount} páginas

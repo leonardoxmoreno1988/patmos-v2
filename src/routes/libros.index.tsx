@@ -102,7 +102,7 @@ function LibrosCatalog() {
                 <img
                   src={book.cover}
                   alt={`Portada de ${book.title}`}
-                  className="h-40 w-28 shrink-0 rounded-lg object-cover shadow-md"
+                  className="h-40 w-28 shrink-0 rounded-none object-cover shadow-md"
                 />
                 <div className="space-y-2">
                   <h2 className="text-xl font-bold leading-snug text-foreground">{book.title}</h2>
