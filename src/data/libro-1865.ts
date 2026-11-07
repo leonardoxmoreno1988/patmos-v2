@@ -1,9 +1,10 @@
 /** One element of a chapter in reading order. */
 export type ChapterBlock =
-  | { type: "paragraph"; text: string; variant?: "quote" | "lyrics" }
+  | { type: "paragraph"; text: string; variant?: "lyrics" }
   | { type: "subheading"; text: string }
   | { type: "scripture"; reference: string; version: string; text: string }
-  | { type: "ordered-list"; items: string[] };
+  | { type: "ordered-list"; items: string[] }
+  | { type: "quote"; text: string; author?: string; source?: string; sourceUrl?: string };
 
 export interface Chapter {
   slug: string;
@@ -257,9 +258,11 @@ export const LIBRO_1865: Book = {
         "text": "Pero volviendo al asunto que nos ocupa que es en esto la misma tibieza de los cristianos de Laodicea. Se le ha restado valor a la palabra de Dios de tal manera de afirmar que “NINGUNA BIBLIA ES LA VERDADERA”. Escuchémoslo en las propias palabras de Alfredo Tepox Varela, Traductor y Consultor de Sociedades Bíblicas y quien fue parte del Equipo de elaboración de varias de las versiones contemporáneas:"
       },
       {
-        "type": "paragraph",
-        "text": "“Ante esta miríada de versiones de la Biblia, no faltará quien se pregunte: «Si es verdad que la Biblia es la Palabra de Dios, ¿cuál de todas estas versiones es esa Palabra?» La respuesta puede parecer desconcertante: todas ellas en conjunto, y ninguna de ellas en particular. «Pero ¿cómo puede ser eso posible?», objetará alguien más. Y la respuesta es que debemos entender que cuando confesamos que la Biblia es la Palabra de Dios, no estamos limitando el sentido de «palabra» a la simple unidad fónica o léxica, hablada o escrita. De ninguna manera. La «palabra», en relación con Dios, aunque humana, es también divina; y aunque divina, es también humana. Y la Biblia, como Palabra de Dios, es algo más, mucho más, que una etiqueta pegada a un objeto.”",
-        "variant": "quote"
+        "type": "quote",
+        "text": "Ante esta miríada de versiones de la Biblia, no faltará quien se pregunte: «Si es verdad que la Biblia es la Palabra de Dios, ¿cuál de todas estas versiones es esa Palabra?» La respuesta puede parecer desconcertante: todas ellas en conjunto, y ninguna de ellas en particular. «Pero ¿cómo puede ser eso posible?», objetará alguien más. Y la respuesta es que debemos entender que cuando confesamos que la Biblia es la Palabra de Dios, no estamos limitando el sentido de «palabra» a la simple unidad fónica o léxica, hablada o escrita. De ninguna manera. La «palabra», en relación con Dios, aunque humana, es también divina; y aunque divina, es también humana. Y la Biblia, como Palabra de Dios, es algo más, mucho más, que una etiqueta pegada a un objeto.",
+        "author": "Alfredo Tepox Varela, Traductor y Consultor de Sociedades Bíblicas",
+        "source": "Historia de la Biblia (2018)",
+        "sourceUrl": "https://luzparalasnacionesinternacional.wordpress.com/2018/01/26/muchas-versiones-distintas-una-sola-palabra-verdadera/"
       },
       {
         "type": "paragraph",
@@ -268,7 +271,7 @@ export const LIBRO_1865: Book = {
       {
         "type": "ordered-list",
         "items": [
-          "Ante la pregunta de cuál de las muchas versiones en castellano es la verdadera palabra de Dios, responde que ninguna de ellas. (Aunque diga que todas ellas lo son, sigue afirmando que ninguna lo es).",
+          "Ante la pregunta de cuál de las muchas versiones en castellano es la verdadera palabra de Dios, responde que *ninguna de ellas*. (Aunque diga que todas ellas lo son, sigue afirmando que ninguna lo es).",
           "Notemos que en ningún momento el autor se refiere a las palabras individuales. Solamente menciona “palabra” para referirse a la Biblia como un todo, o sea la Biblia completa. Esto es típico de los eruditos modernos, quienes NUNCA PUEDEN CONFESAR QUE CADA PALABRA ESCRITA EN ELLA ES DIVINA. ¡NO LO CREEN!."
         ]
       },
@@ -323,9 +326,11 @@ export const LIBRO_1865: Book = {
         "text": "Tenemos por ejemplo lo que afirma Calvin George, Misionero y autor de varios libros cristianos, en su libro titulado “La controversia Reina-Valera en el fundamentalismo”:"
       },
       {
-        "type": "paragraph",
-        "text": "“Enseñé en ese libro tal como sigo creyendo, que todas las traducciones pueden contener error humano (por el hecho de que no se hicieron bajo inspiración divina), pero que yo estaba dispuesto a darle el “beneficio de la duda” a las traducciones confiables que utilizo en inglés y español.”",
-        "variant": "quote"
+        "type": "quote",
+        "text": "Enseñé en ese libro tal como sigo creyendo, que todas las traducciones pueden contener error humano (por el hecho de que no se hicieron bajo inspiración divina), pero que yo estaba dispuesto a darle el «beneficio de la duda» a las traducciones confiables que utilizo en inglés y español.",
+        "author": "Calvin George",
+        "source": "La controversia Reina-Valera en el fundamentalismo (6.ª ed., 2023)",
+        "sourceUrl": "https://literaturabautista.com"
       },
       {
         "type": "paragraph",

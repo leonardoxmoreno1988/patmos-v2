@@ -9,6 +9,40 @@ import { bookIdOf, readerPath } from "@/lib/bible-slugs";
 import { isFootnoteBlock, parseFootnoteBlock, verseKey, type FootnoteEntry } from "@/lib/libro-footnotes";
 import { splitScriptureRefs, type ScriptureRef } from "@/lib/scripture-refs";
 
+/** Text with *emphasis* spans rendered as italics. */
+function renderEmphasis(text: string): ReactNode[] {
+  return text.split(/\*([^*]+)\*/).map((part, i) => (i % 2 === 1 ? <em key={i}>{part}</em> : part));
+}
+
+/** Editorial callout for a quoted author, with its source and an optional link. */
+function BibliographicQuote({ block }: { block: Extract<ChapterBlock, { type: "quote" }> }) {
+  return (
+    <figure className="my-6 border-l-2 border-foreground/30 bg-muted/30 p-4 rounded-r-lg">
+      <blockquote className="text-base italic leading-relaxed text-foreground/90 sm:text-lg">{block.text}</blockquote>
+      {block.author || block.source || block.sourceUrl ? (
+        <figcaption className="mt-3 text-sm text-muted-foreground">
+          {block.author ? <span className="font-medium text-foreground/80">{block.author}</span> : null}
+          {block.author && block.source ? " · " : null}
+          {block.source ? <cite className="not-italic">{block.source}</cite> : null}
+          {block.sourceUrl ? (
+            <>
+              {" "}
+              <a
+                href={block.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline underline-offset-2 hover:text-foreground"
+              >
+                [Fuente ↗]
+              </a>
+            </>
+          ) : null}
+        </figcaption>
+      ) : null}
+    </figure>
+  );
+}
+
 /** Reader URL for the first reference of a quote, e.g. "2 Crónicas 18:14-22, 25-27" → chapter 18, verse 14. */
 function readerLinkFor(reference: string): string | null {
   const [first] = splitScriptureRefs(reference).filter((p): p is ScriptureRef & { label: string } => typeof p !== "string");
@@ -24,10 +58,10 @@ export function ChapterBlocks({ blocks }: { blocks: ChapterBlock[] }) {
       {blocks.map((block, i) => {
         if (block.type === "ordered-list") {
           return (
-            <ol key={i} className="list-decimal list-outside pl-6 my-4 space-y-3 leading-relaxed text-foreground/90">
+            <ol key={i} className="list-decimal list-outside pl-6 my-4 space-y-2 text-foreground/90 leading-relaxed">
               {block.items.map((item, idx) => (
                 <li key={idx} className="pl-1">
-                  {item}
+                  {renderEmphasis(item)}
                 </li>
               ))}
             </ol>
@@ -66,12 +100,8 @@ export function ChapterBlocks({ blocks }: { blocks: ChapterBlock[] }) {
             </section>
           );
         }
-        if (block.variant === "quote") {
-          return (
-            <blockquote key={i} className="border-l-2 border-border pl-4 text-base italic leading-relaxed text-foreground/85 sm:text-lg">
-              {block.text}
-            </blockquote>
-          );
+        if (block.type === "quote") {
+          return <BibliographicQuote key={i} block={block} />;
         }
         if (block.variant === "lyrics") {
           return (
