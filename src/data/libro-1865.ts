@@ -57,7 +57,6 @@ export const LIBRO_1865: Book = {
     slug: "el-hermano-lugardo",
     number: 1,
     title: "El hermano Lugardo",
-    subtitle: "Uno contra cuatrocientos",
     summary: "Carta a Lugardo Rossini, un hermano que hace muchas preguntas, para explicar el propósito del libro: siete evidencias de que la Biblia Reina-Valera de 1865 es la palabra de Dios en castellano. Abre con la persecución del justo, desde Abel en adelante.",
     readingTimeMinutes: 8,
     content: [],
@@ -78,7 +77,7 @@ export const LIBRO_1865: Book = {
       },
       {
         "type": "subheading",
-        "text": "“Uno contra cuatrocientos”"
+        "text": "Uno contra cuatrocientos"
       },
       {
         "type": "paragraph",
