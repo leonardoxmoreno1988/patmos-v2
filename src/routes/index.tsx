@@ -109,8 +109,8 @@ function HomePage() {
             href="/dashboard" 
             className="text-[10px] font-bold uppercase tracking-wider sm:tracking-widest border border-[#000f37] text-[#000f37] px-3 sm:px-4 py-1.5 sm:py-2.5 md:py-1 rounded-full transition-all duration-300 hover:bg-[#000f37] hover:text-[#f9fafb] flex items-center justify-center whitespace-nowrap min-h-[32px] sm:min-h-[36px] md:min-h-[28px] dark:border-foreground/40 dark:text-foreground dark:hover:bg-foreground dark:hover:text-background"
           >
-            <span className="sm:hidden">{lang === 'es' ? "Lector" : "Reader"}</span>
-            <span className="hidden sm:inline">{lang === 'es' ? "Ir al Lector" : "Go to Reader"}</span>
+            <span className="sm:hidden">{lang === 'es' ? "Panel de control" : "Dashboard"}</span>
+            <span className="hidden sm:inline">{lang === 'es' ? "Ir al panel de control" : "Go to Dashboard"}</span>
           </a>
         </div>
       </header>
@@ -119,7 +119,7 @@ function HomePage() {
      <main className="flex-1 w-full max-w-[700px] flex flex-col justify-center py-16">
         <div className="mb-6">
           <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight text-[#000f37] dark:text-foreground">
-            {lang === 'es' ? <>RV1865 + Notas</> : <>KJV + Notes</>}
+            {lang === 'es' ? <>Plataforma de Estudio Bíblico</> : <>Bible Study Platform</>}
           </h1>
         </div>
 
@@ -130,7 +130,7 @@ function HomePage() {
             </>
           ) : (
             <>
-              Study the pure Word (<span className="font-bold">KJV / RV1865</span>) with advanced tools, personal notes, and doctrinal assistance in one bilingual ecosystem.
+              Study the pure Word of God (<span className="font-bold">RV1865 / KJV</span>) with advanced research tools, personal notes, and doctrinal assistance in a unified bilingual ecosystem.
             </>
           )}
         </p>
