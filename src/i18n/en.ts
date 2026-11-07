@@ -219,6 +219,8 @@ export const en: Dictionary = {
   },
   dashboard: {
     title: "Study Workspace",
+    verseOfDayLabel: "Verse of the day",
+    activeSessionLabel: "Active session",
   },
   footer: {
     rights: "All rights reserved.",

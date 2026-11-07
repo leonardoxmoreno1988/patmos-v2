@@ -132,38 +132,41 @@ function Home() {
       <SiteHeader />
   
       <main className="mx-auto max-w-6xl px-6">
-        <section className="grid grid-cols-1 lg:grid-cols-12 gap-4 pt-8 mb-8 md:pt-10">
-          <div className="lg:col-span-8 rounded-xl border border-white/5 bg-card/60 backdrop-blur-sm p-5 flex flex-col justify-between">
-            <div className="flex flex-wrap items-center justify-between gap-2.5">
-              <span className="text-[11px] font-semibold tracking-wider uppercase px-2 py-0.5 rounded-full border border-primary/20 bg-primary/10 text-primary">
-                {lang === "es" ? "Versículo del día" : "Verse of the day"}
-              </span>
-              <a href={dailyVerse.readerUrl} className="text-xs font-medium text-muted-foreground hover:text-foreground hover:underline underline-offset-2">
-                {dailyVerse.reference} · {dailyVerse.version} <span aria-hidden="true">↗</span>
-              </a>
+        <section className="grid grid-cols-1 lg:grid-cols-12 gap-4 pt-8 mb-8 md:pt-10 items-stretch">
+          <div className="lg:col-span-8 flex flex-col">
+            <div className="rounded-xl border border-border bg-card text-card-foreground p-5 flex flex-col justify-between shadow-sm transition-colors h-full">
+              <div className="flex flex-wrap items-center justify-between gap-2.5">
+                <span className="text-[11px] font-semibold tracking-wider uppercase px-2.5 py-0.5 rounded-full border border-primary/20 bg-primary/10 text-primary">
+                  {t.dashboard.verseOfDayLabel}
+                </span>
+                <a href={dailyVerse.readerUrl} className="text-xs font-medium text-muted-foreground hover:text-foreground transition-colors">
+                  {dailyVerse.reference} · {dailyVerse.version} <span aria-hidden="true">↗</span>
+                </a>
+              </div>
+              <p className="mt-3 text-sm sm:text-base font-serif italic text-foreground/90 leading-relaxed">
+                “{dailyVerse.text}”
+              </p>
             </div>
-            <p className="text-sm sm:text-base font-serif italic text-foreground/90 leading-relaxed mt-2">
-              “{dailyVerse.text}”
-            </p>
           </div>
-          <div className="lg:col-span-4 rounded-xl border border-white/5 bg-card/60 backdrop-blur-sm p-5 flex flex-col justify-between gap-3">
-            <div>
-              <p className="text-[11px] font-semibold tracking-wider uppercase text-muted-foreground">
-                {lang === "es" ? "Sesión activa" : "Active session"}
-              </p>
-              <p className="mt-1 text-base font-medium text-foreground flex items-center gap-2">
-                <BookOpen className="size-4 shrink-0" aria-hidden="true" /> {lastBook} {last.cap}
-              </p>
-            </div>
-            <div className="flex flex-col gap-2.5">
-              <Button asChild className="h-10 w-full rounded-full dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100">
-                <Link {...readerLinkProps(lang, last.libro, Number(last.cap))}>
-                  <BookOpen /> {t.home.continueReading}
+          <div className="lg:col-span-4 flex flex-col">
+            <div className="rounded-xl border border-border bg-card text-card-foreground p-5 flex flex-col justify-between shadow-sm transition-colors h-full">
+              <div>
+                <p className="text-[11px] font-semibold tracking-wider uppercase text-muted-foreground">{t.dashboard.activeSessionLabel}</p>
+                <p className="text-sm sm:text-base font-medium text-foreground flex items-center gap-2 mt-1">
+                  <BookOpen className="size-4 shrink-0" aria-hidden="true" /> {lastBook} {last.cap}
+                </p>
+              </div>
+              <div className="mt-4 flex flex-col gap-2 w-full">
+                <Link
+                  {...readerLinkProps(lang, last.libro, Number(last.cap))}
+                  className="w-full h-9 rounded-lg font-medium text-xs sm:text-sm bg-primary text-primary-foreground hover:bg-primary/90 flex items-center justify-center gap-2 shadow-sm transition-colors"
+                >
+                  <BookOpen className="size-4" aria-hidden="true" /> {t.home.continueReading}
                 </Link>
-              </Button>
-              <Button variant="outline" size="lg" className="h-10 w-full rounded-full" onPointerEnter={preloadConsulta} onFocus={preloadConsulta} onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
+                <Button variant="outline" className="w-full h-9 rounded-lg font-medium text-xs sm:text-sm border border-border bg-background hover:bg-accent hover:text-accent-foreground text-foreground flex items-center justify-center gap-2 transition-colors" onPointerEnter={preloadConsulta} onFocus={preloadConsulta} onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
               <MessageSquare /> {t.home.askPatmos}
             </Button>
+              </div>
             </div>
           </div>
         </section>

@@ -218,6 +218,8 @@ export const es = {
   },
   dashboard: {
     title: "Panel de Estudio",
+    verseOfDayLabel: "Versículo del día",
+    activeSessionLabel: "Sesión activa",
   },
   footer: {
     rights: "Todos los derechos reservados.",
