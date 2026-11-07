@@ -4,6 +4,7 @@ export type ChapterBlock =
   | { type: "subheading"; text: string }
   | { type: "scripture"; reference: string; version: string; text: string }
   | { type: "ordered-list"; items: string[] }
+  | { type: "bullet-list"; items: string[] }
   | { type: "quote"; text: string; author?: string; source?: string; sourceUrl?: string };
 
 export interface Chapter {
@@ -423,101 +424,324 @@ export const LIBRO_1865: Book = {
     number: 3,
     title: "Segunda evidencia: los hombres de la Biblia en castellano",
     summary: "Usa la analogía de contratar a un constructor para examinar la competencia y la confiabilidad de los hombres que transmitieron la Biblia en castellano.",
-    readingTimeMinutes: 23,
-    content: [
-      "Hermano Lugardo, estoy seguro que usted comprenderá perfectamente la siguiente analogía. Que cuando buscamos a alguien por ejemplo para que construya nuestra casa, queremos saber quién es la persona o personas que se ofrecen para construirla. Las siguientes preguntas serán indispensables:",
-      "1. ¿Cuánto tiempo de experiencia tiene en el área de construcción civil?",
-      "2. ¿Hay trabajos previos que él haya hecho, que yo pueda verificar que son de muy buena reputación?",
-      "3. ¿Su presupuesto es razonable o es muy bajo o es muy alto?",
-      "4. ¿Hay alguien de mucha confianza que yo conozco y que me pueda recomendar a esta persona?",
-      "5. ¿Qué impresión tengo yo (mi opinión personal) sobre él? ¿Me inspira confianza o me deja un poco de dudas?",
-      "Las mismas interrogantes se plantean en cuanto a los traductores que recibieron esa tarea de la mano de Dios, la de poner la Biblia en el idioma de los que hablan español en medio del mundo.",
-      "Hay algunas cosas sumamente importantes que comparten las tres personas principales que Dios escogió para entregarnos su palabra en castellano (Casiodoro de Reina, Cipriano de Valera y Ángel Herreros de Mora): 14",
-      "1. Todos pertenecían a la época espiritual de Filadelfia.",
-      "2. Todos eran españoles.",
-      "3. Todos habían sido monjes o religiosos dentro del catolicismo pero se habían convertido a Cristo. Los dos primeros, Reina y Valera, llegaron",
-      "14 Estas características son mencionadas (y damos el crédito) por el Profesor Enrique Chi en el Curso “Historia de la Biblia y de la Iglesia” en 1997, de la Escuela Pastoral de Kansas City Baptist Temple en Kansas City, Missouri, USA. (Hoy conocida como Graceway Church).",
-      "a conocer el evangelio por medio de los escritos de Erasmo de Rotterdam.",
-      "4. Todos eran verdaderos eruditos, entendiendo esto en el sentido de ser hombres temerosos de Dios y al mismo tiempo con mucho conocimiento bíblico. Los dos primeros dominaban los idiomas bíblicos y también el idioma latín.",
-      "5. Todos fueron perseguidos y estuvieron cerca de morir en manos de la Inquisición española.",
-      "6. Todos tuvieron que huir de España y la Biblia fue publicada siempre fuera de España. La “Biblia del Oso”, la de 1569, se publicó en Basilea en Suiza; la “Biblia del Cántaro”, la de 1602, en Amsterdam en los Países Bajos; y la última revisión, la de 1865, fue publicada por la Sociedad Bíblica Americana de Nueva York en los Estados Unidos.",
-      "7. Todos tuvieron como objetivo hacer llegar las Escrituras al vasto campo de los hispanohablantes a pesar de la feroz persecución.",
-      "Así que hay mucha semejanza entre aquellos tres varones de Dios que fueron instrumento divino para que recibamos la Biblia en español.",
-      "El requisito de que amaran la palabra de Dios hasta el punto de estar al filo de la muerte por causa de ella, es algo que los eruditos y traductores del tiempo de ahora no podrían cumplir ni de lejos.",
-      "Casiodoro de Reina nació alrededor de 1520. Él y Cipriano de Valera habían sido frailes jerónimos en el monasterio de San Isidoro del Campo en Sevilla. Citamos a continuación (traducido) un fragmento del libro “The Spanish Fountain: A History and Review of the Reina-Valera Version” por Thomas Holland:",
-      "El prior del monasterio era el Dr. Blanco Garcia Arias, quien había sido influenciado por la Antigua Biblia Latina de los Valdenses y su predicación, la cual había infiltrado la mano de hierro de Roma dentro de España. Arias se convirtió en creyente y comenzó a leer a sus estudiantes los escritos de los Reformadores. Reina escuchaba con mucho ahínco las enseñanzas de los Reformadores y se llegó a convertir. En este punto de su vida inició la proclamación pública del tema de la Reforma “La justificación por la fe”. Y es innecesario decir que esto no le cayó nada bien a la Iglesia Católica Romana. Vino la persecución y Reina huyó de su tierra natal para nunca volver. 15",
-      "Al ser advertidos de que la Inquisición planeaba capturarlos, en 1557 un grupo de monjes, entre ellos Casiodoro de Reina y Cipriano de Valera, huyeron en distintas direcciones hacia ciudades de Europa en donde pudieran salvar la vida.",
-      "Casiodoro de Reina completó la traducción de la Biblia en un total de doce años, y lo hizo huyendo de una ciudad a otra en Europa porque la Inquisición le seguía los pasos para llevarlo a la hoguera. El 28 de Abril de 1562, al no poder capturarlo, el tribunal de la Inquisición quemó su efigie en un acto público en Sevilla.",
-      "Este valeroso hombre de Dios sufrió tremendas penurias pero nunca se rindió en su tarea de completar la traducción de la Biblia al español. Entre otras cosas fue calumniado, acusado de pecados que eran inexistentes, porque no encontraban otra forma de alcanzarlo.",
-      "Leemos una parte del propio testimonio de Casiodoro en su introducción a la Biblia de 1569:",
-      "“(...) el dolor de la falta que la Iglesia padecia en esta parte, nos puso el animo que nunca nos pusiera la sola consideracion de nuestras fuerzas, ansi para comenzarla, como para llegarla a este punto: y ninguna dubda tenemos de que nuestro trabajo no aya sido agradable a Dios, por la continua assistencia de su favor con que avemos podido llevar una carga tan pesada, tan estorvada de Satanas, tan poco ayudada de Hermanos, y por tantos dias. La obra nos ha durado entre las manos enteros doze años. Sacado el tiempo que nos han llevado o enfermedades, o viajes, o otras occupaciones necessarias en nuestro destierro y pobreza, podemos affirmar, que han sido bien los nueve, que no hemos soltado la pluma de la mano, ni affloxado el estudio en quanto las fuerzas ansi del cuerpo como del animo nos han alcanzado. Parte de tan luenga tardanza ha sido la falta de nuestra erudicion para tan grande obra, lo qual ha sido menester recompensar con casi doblado trabajo: parte tambien ha sido la estima que Dios nos ha dado",
-      "15 Tomado del URL http://www.biblebelievers.com/Holland2.html de la misma obra, y el zelo de tratarla con toda limpieza, con la qual obligacion có ninguna erudita ni luenga diligencia se puede asaz satisffazer.”",
-      "Hay un abismo de diferencia entre Casiodoro de Reina -su ardiente amor por el Señor y por su palabra, su extremo cuidado al tomar la tarea de traducir las palabras divinas, su sacrificio en muchos obstáculos, su entrega a la tarea que Dios le dio- y las alegres afirmaciones de los eruditos y traductores actuales de la Biblia.",
-      "Haremos una comparación entre las cosas que dice Casiodoro (notando su temor y temblor al tratar con las palabras de Dios) y aquellas que audazmente habla un erudito actual sobre el mismo tema. Se trata de la traducción del nombre de Dios en el Antiguo Testamento, mencionada por Casiodoro en su introducción:",
-      "“Avemos retenido el nóbre (Iehova) no sin gravisimas causas. Primeramente porque donde quiera que se hallará en nuestra version, esta en el texto Hebreo, y nos parecio que no lo podiamos dexar, ni mudar en otro sin infidelidad y sacrilegio singular cótra la Ley de Dios, en la qual se máda que no se le quite, ni se le añada.”",
-      "Sobre esta declaración y sobre la manera cómo Casiodoro tradujo el nombre “Jehová” se manifiesta Alfredo Tepox Varela, traductor de varias versiones modernas, teniendo en poco no solo a Casiodoro de Reina sino también a Cipriano de Valera:",
-      "(...) “Y entonces se ve que la intención nunca fue que se leyeran las vocales, sino más bien que esas vocales fueran evocativas de otra palabra que sí pudieran pronunciar. Aquí tenemos e, o, a. Esta es una e como la e francesa, pero es una e. Entonces tenemos e, o. Vienen los traductores Casiodoro de Reina y Valera, que por cierto en su prefacio defienden el hecho de haber transliterado Jehová. Se defienden ellos. ¿Y qué hacen ellos? ¿Ven esto? Esta es Y, esta es H, esta es V y esta es H. La vocalizan, dicen “Ah, pues esta es e, esta es o, esta es a, sale Jehovah”. Por el cambio lingüístico que ha habido en nuestra lengua, la Y llega a ser J. Y tenemos entonces ya Jehovah con la h final y al final de cuentas tenemos Jehová ya sin la h final.",
-      "Entonces eso nos ha llevado a pensar que este es el nombre de Dios y tengo que decirlo, no es el nombre de Dios. Pueden seguir usando, podemos seguir hablando de Jehová porque es una forma tan legítima como cualquier otra, pero no es el nombre de Dios. La intención de ellos era que si veían e, o, a, pensaran en una palabra que pudieran pronunciar y una podría ser El Olam y El Olam quiere decir Dios eterno.” 16",
-      "Los señores de la ciencia bíblica actual jamás están dispuestos a reconocer que CADA PALABRA escrita en la Biblia es divina, es perfecta, es infalible. Por eso es que a propósito eluden mencionar LAS PALABRAS, solamente dicen la palabra (la Biblia como un todo). En otra Conferencia del mismo autor le escuchamos decir lo siguiente:",
-      "(...) pero bueno, lo curioso es que el Señor nos habla en su palabra -en su palabra y no en las palabras que están allí- hay una diferencia, sin embargo entramos aquí al tema de revisión… 17",
-      "(El subrayado es mío).",
-      "Fíjese con cuidado hermano Lugardo lo que este biblista moderno está afirmando: que Dios nos habla en su palabra (la Biblia entera) pero ¡NO NOS HABLA EN LAS PALABRAS QUE ESTÁN ALLÍ!!!",
-      "Nunca son capaces de confesar (reconocer) el hecho de que Dios nos habla en CADA PALABRA de la Biblia, mientras el Espíritu Santo testifica algo totalmente diferente a lo que enseñan ellos!!!:",
-      "Ahora han ya conocido que todas las cosas que me diste, son de ti. Porque las palabras que me diste, les he dado; y ellos las recibieron, y han conocido verdaderamente que salí de ti, y han creído que tú me enviaste. 18",
-      "El cual tendrá consigo, y leerá en él todos los días de su vida, para que aprenda a temer a Jehová su Dios, para guardar todas",
-      "16 Grabación en youtube, con el siguiente URL: https://www.youtube.com/watch?v=uccam0guldw. Corresponde a una Conferencia por Alfredo Tepox Varela en Santiago de Chile el 23 de Julio de 2015. 17 Transcrito de la Conferencia por el Dr. Alfredo Tepox el 2 de Agosto del 2019 en el auditorio de la Sociedad Bíblica de México. URL: https://www.youtube.com/watch?v=ClZoIppHsiU 18 Juan 17:7-8 las palabras de aquesta ley, y estos estatutos para hacerlos; 19",
-      "Maldito el que no confirmare las palabras de esta ley para hacerlas. Y dirá todo el pueblo: Amén. 20",
-      "Y, he aquí que yo entro hoy por el camino de toda la tierra; sabed pues con todo vuestro corazón, y con toda vuestra alma, que no se ha perdido una palabra de todas las palabras buenas que Jehová vuestro Dios ha dicho de vosotros: todas os han venido, no se ha perdido de ellas ni una. 21",
-      "Las palabras de Jehová, palabras limpias: plata refinada en horno de tierra: colada siete veces. 22",
-      "Resulta, pues, que con toda su ciencia los señores eruditos del día de hoy desconocen la Escritura al desconocer (o negar, en realidad) el poder divino de CADA PALABRA que hay en ella.",
-      "Se repite la condición espiritual de los escribas a quienes el Señor reprendió:",
-      "Entonces respondiendo Jesús, les dijo: Erráis, ignorando las escrituras, y el poder de Dios. 23",
-      "Ahora pasemos a hablar de la siguiente persona que Dios escogió para la magna tarea de la Biblia en español, quien fue Cipriano de Valera. Después de huir de Sevilla junto con Casiodoro de Reina, en 1588 publicó un libro sobre los engaños del catolicismo, especialmente en los asuntos del papado y de la misa. También publicó otros libros de similar estilo. Como resultado su efigie fue quemada en 1562, junto con la de Casiodoro, y los libros de Cipriano de Valera fueron colocados en el index de libros prohibidos por la Inquisición, llamándosele a él “el hereje español”.",
-      "Siempre a una persona se le conoce por sus palabras, o sea por lo que él mismo dice. Si examinamos cuidadosamente el prefacio de la revisión de la Biblia de 1602 de Cipriano de Valera llamada “EXHORTACION Al Christiano",
-      "19 Deuteronomio 17:19 20 Deuteronomio 27:26",
-      "21 Josué 23:14 22 Salmos 12:6",
-      "23 Mateo 22:29",
-      "Lector…” etc., hallamos cosas muy importantes que él consigna y que nos muestran elocuentemente su manera de ser:",
-      "Resta ahora dar cuenta que nos aya movido á hazer esta segunda Edicion. Cassiodoro de Reyna movido de un pio zelo de adelantar la gloria de Dios, y de hazer un señalado servicio á su nacion, en viendo se en tierra de libertad para hablar y tratar de las cosas de Dios, comenzó á darse á la traslación de la Biblia. La cual traduxo; y assi año de 1569 imprimió dos mil y seyscientos exemplares: Los quales por la misericordia de Dios se han repartido por muchas regiones. De tal manera q hoy casi no se hallan exemplares, si alguno los quiere comprar. Paraque pues nuestra nacion Española no careciesse de un tan gran thesoro, como es la Biblia en su lengua, avemos tomado la pena de leer la y releerla una y muchas vezes, y la avemos enriquecido con nuevas notas y aun algunas vezes avemos alterado el texto. Lo qual avemos hecho con maduro consejo y deliberacion: y no fiando nos de nosotros mismos (porque nuestra consciencia nos testifica quan pequeño sea nuestro caudal) lo avemos conferido con hombres doctos y pios, y con diversas traslaciones, que por la misericordia de Dios ay en diversas lenguas el dia de hoy. Quanto á lo demas, la version, [Nota: se refiere a la traducción de Reina de 1569] conforme á mi juyzio, y al juyzio de todos los que la entienden, es excelente: y assi la avemos seguido, quanto avemos podido, palabra por palabra. La palabra Por ventura, por saber á Gentilidad la avemos quitado, tambien avemos quitado el nombre Capullo, y en su lugar puesto Prepucio; que es vocablo admitido ya mucho tiempo ha, en la Iglesia Christiana. Tambien avemos quitado todo lo añidido de los 70 interpretes, ó de la vulgata, que no se halla en el texto Hebreo. Lo qual principalmente aconteció en los Proverbios de Salomon. Esto digo, paraque si alguno confiriere esta version con la que llaman vulgata, y no halláre en esta todo lo que ay en aquella, no se maraville. Porque nuestro intento no es trasladar lo que los hombres han añidido á la palabra de Dios, sino lo que Dios ha revelado en sus sanctas Escripturas.",
-      "Entendemos por qué Dios se valió de instrumentos humanos como Cipriano de Valera, un hombre que comprendía -al igual que su antecesor Casiodoro de Reina- el valor altísimo de lo que llevaba entre las manos, el poder trabajar con cada palabra de Dios escrita en la Biblia.",
-      "En las líneas anteriores Valera muestra algunas modificaciones de ciertas palabras. También quisiera mostrar un ejemplo de otra modificación. En muchos lugares donde aparece “Jesús el Cristo” en la Biblia de 1569, Cipriano de Valera lo simplifica a “Jesu Cristo”. ¿Por qué la modificación?",
-      "● Cuando Casiodoro de Reina en 1569 consigna “Jesús el Cristo” eso es correcto porque la palabra “Cristo” no es el nombre del Señor Jesús, es más bien su título como Mesías (en realidad “Cristo” es la misma palabra “Mesías” pero en griego). De manera que decir “El Cristo” era comparable a decir “El Alcalde” o “El Magistrado”, aunque estos son títulos diferentes.",
-      "● Cipriano de Valera decidió simplificar la frase, entonces cada vez que en la Biblia de 1569 decía “Jesús el Cristo” ahora en la revisión de 1602 llega a decir “Jesu Cristo”, y así se ha mantenido en la última revisión, la de 1865.",
-      "● ¿Fue correcta la modificación? La respuesta es la siguiente: DIOS MISMO LE GUIÓ A REALIZAR ESTA MODIFICACIÓN COMO TAMBIÉN OTRAS QUE VALERA HIZO, ALGUNAS DE LAS CUALES ÉL MENCIONA EN EL PREFACIO QUE ACABAMOS DE CITAR. Este punto acerca de cómo el Espíritu Santo guió a los traductores y a los revisores, lo vamos a explicar en detalle más adelante.",
-      "La tercera persona a quien Dios usó como instrumento escogido fue Ángel Herreros de Mora, para la revisión de 1865.",
-      "Debemos explicar que al principio Ángel de Mora no fue el único a quien se le diera el encargo de esta revisión. La tarea había sido encomendada por la Sociedad Bíblica Americana a dos personas, y la segunda era Henry Barrington Pratt, Misionero enviado de Estados Unidos a Colombia.",
-      "Sin embargo todo indica que la participación de Henry Pratt (cuyo idioma nativo no era el castellano) llegó a ser mínima. Los cuatro años que tomó la revisión, de 1861 a 1865, fueron los mismos cuatro años que duró la guerra civil, aquella guerra interna dentro de Estados Unidos, y Pratt se vio obligado a dejar la tarea tempranamente.",
-      "Sabemos esto porque existe un documento en inglés titulado “ABS Historical Essay # 16, IV Text and Translation, 1860-1900” (Ensayo Histórico de la SBA",
-      "# 16, IV Texto y Traducción, 1860-1900” cuya autora es Margaret T. Hills, fechado en Enero de 1966. (Las siglas ABS corresponden a “American Bible Society” - “Sociedad Bíblica Americana”). Transcribimos (traducido) un fragmento de las páginas 25 y 26:",
-      "“…Temprano en 1860 al Comité de Versiones le fue solicitado otra vez acerca de nuevas y mejoradas Biblias en Español, en conformidad literal con el Hebreo y el Griego. Había la impresión de que existían eruditos Españoles que podrían poner en ropaje moderno la excelente versión de Cypriano de Valera de 1602, así que se recomendó que se tomaran medidas a tal objetivo (V 1.12.1860). En Marzo ellos recomendaron que los servicios del Sr. de Mora, de Madrid, y del Rev. H.B. Pratt de Bogota, trabajando junto con el Sr. Brigham, sean contratados para producir una Biblia en Español, cuya remuneración sería considerada más adelante y que toda modificación del texto u otras, se propone que sean sometidas al Comité de Versiones para su consideración y aprobación. (V 3.19, 9.24).",
-      "(...) Los salarios del Sr. Pratt y del Sr. Mora fueron fijados en 1,200 dólares (C 2.22.1861) por año para cada uno. Entonces algunos problemas de la vista y la ruptura de las comunicaciones por la Guerra Civil hicieron necesario que el Sr. Pratt (En Carolina del Norte) se tuviera que retirar.",
-      "Este retiro forzoso del Sr. Pratt había causado que el Comité de Versiones considerara por un tiempo dejar de lado el proyecto.”",
-      "Sin embargo el proyecto siguió adelante a pesar del retiro temprano de Henry Pratt. Hay indicaciones (las cuales veremos más adelante) de que Pratt volvió a participar pero solo de forma accesoria. La casi totalidad de la tarea de revisión recayó en Ángel de Mora.",
-      "De Mora había nacido en Madrid alrededor de 1815 en el seno de una importante familia. Leemos algunos fragmentos de su biografía, gracias a la recopilación de Gabino Fernández Campos:",
-      "A los dieciséis años ingresó en los Dominicos de Ocaña (Toledo) y profesó en el Convento de Santo Tomás, de su ciudad natal. Ejerció como coadjutor en la Parroquia madrileña de San Sebastián y fue",
-      "Profesor de Moral y Filosofía en el Colegio Hispano, privado, y en Instituciones reconocidas por la Universidad local. 24",
-      "Más adelante conoció el evangelio y se convirtió a Cristo, dejando el catolicismo. William H. Rule fue alguien que tuvo mucha influencia en su conversión. En 1854 Mora publicó un libro titulado “La terrible y poderosa secta llamada la Sociedad de Jesús”, en donde desenmascaró valerosamente las muchas intrigas y artimañas de los Jesuitas. Por esa razón la Inquisición católica (que ya había sido abolida en España en 1834, pero pretendía seguir actuando) le puso en la mira y en Agosto de 1856 le capturaron en Madrid golpeándole cruelmente para luego dejarlo preso durante cuatro meses. Con ayuda de hermanos de Inglaterra consiguió escapar y así salvar la vida. 25",
-      "Residió en Inglaterra y más adelante en Nueva York en los Estados Unidos y es allí donde participó en la revisión de la Biblia española durante cuatro años, de 1861 a 1865.",
-      "Ángel de Mora también ejerció el Pastorado de Iglesias evangélicas durante muchos años y otra de sus obras, publicada en 1869, se titula “La Iglesia de Jesu-Cristo en España” la cual es de carácter histórico.",
-      "Estos son solo algunos detalles destacados de la vida de este gran hombre de Dios que fue Ángel Herreros de Mora. Intentó volver a su natal España pero nunca lo consiguió, falleciendo en 1876 mientras era Pastor de la Iglesia Evangélica Española en Lisboa en Portugal. Un hecho muy de notar es que en la congregación que Mora pastoreaba llegaron a ser miembros de ella ocho ex-sacerdotes católicos convertidos al evangelio. 26",
-      "Así que estos tres varones de Dios -Casiodoro de Reina, Cipriano de Valera y Ángel de Mora- fueron aquellos instrumentos que Dios usó para darnos su palabra en castellano. Como ya hemos visto, compartieron muchas cosas en común pero la más importante de todas fue que trabajaron con LAS",
-      "24 Citado de un artículo de Gabino Fernández Campos en fecha de “Invierno de 2013” de la revista Puerta Abierta, el cual es una reseña biográfica de Ángel Herreros de Mora. Algunos datos biográficos los hemos tomado de esta revista. 25 Referencia del libro “A Narrative by Dn. Angel Herreros de Mora of his imprisonment by the “Tribunal of the Faith” and escape from Spain.” por W. H. Rule, London, 1856. Tomado de la versión digital del libro (Kindle) de Amazon. 26 Datos biográficos que se encuentran en la revista digital con el siguiente URL: https://protestantedigital.com/orbayu/1307/herreros-de-mora-una-vida-vinculada-a-la-iee de fecha 12 de Noviembre de 2012.",
-      "PALABRAS DE DIOS en la Biblia conscientes de que tenían en sus manos una tarea divina y no humana.",
-      "No podemos terminar esta sección referente a los hombres de la Biblia en español sin haber mencionado a algunos que pertenecen más bien a nuestra época. Uno de ellos fue Jeff McArdle, Misionero entre la gente hispana a quienes amaba con todo su corazón. El hermano Jeff partió al hogar del Padre Celestial de manera repentina en el año 2014 pero su profundo amor por la Biblia 1865 ha quedado como un legado indeleble.",
-      "También es necesario mencionar que con la Biblia 1865 sucedió algo semejante a lo que aconteció en los días del rey Josías (2 Reyes 22:3-13) cuando la Biblia había desaparecido completamente de la vida de la nación de Israel, tanto que el mismo rey desconocía de su existencia. Fueron los sacerdotes y levitas quienes la “descubrieron” en los rincones del templo y se la mostraron a un asombradísimo rey Josías.",
-      "A pesar de que esta versión había sido la única que tuvo enorme circulación en toda América Latina desde los inicios del campo misionero en nuestros países a partir de 1865 y durante más de 60 años, las Sociedades Bíblicas la dejaron al olvido. Por ejemplo en la versión Reina-Valera revisada de 1960, en la primera página se lee lo siguiente:",
-      "“Antigua Versión de Casiodoro de Reina (1569). Revisada por Cipriano de Valera (1602). Otras Revisiones: 1862, 1909 y 1960.”",
-      "Allí es mencionada solamente la revisión de 1862 cuyo autor fue Lorenzo Lucena Pedrosa, pero esta se publicó en Europa y no llegó a tener la enorme circulación de la de 1865, esta última auspiciada por la Sociedad Bíblica Americana de Nueva York debido a la gran demanda de Biblias en nuestros países que por primera vez recibían el evangelio desde los años de 1840 aproximadamente.",
-      "Fue por esta razón (que la Biblia 1865 no era ni siquiera mencionada) que Jeff McArdle, buscando una Biblia fiel y verdadera que ya hubiera existido en idioma castellano, no tenía ni idea de la existencia de ella.",
-      "Así que al igual que en los días de Josías rey de Israel, en las cercanías del año 2,000 nadie sabía que había existido durante más de 60 años una Biblia usada por Dios grandemente para la evangelización de todos los países de habla castellana en el continente americano.",
-      "Para muchos Misioneros de Estados Unidos que trabajaban con gente hispanohablante, era una enorme pregunta aquella que también se planteaba Jeff McArdle. ¿Cuál es la Biblia fiel, la de Dios mismo en idioma español? ¿Existió alguna vez esa Biblia?",
-      "Y es que tanto él como muchos otros Misioneros sabían a ciencia cierta que las Biblias modernas en castellano a partir de la revisión conocida como la de 1909 (que no se publicó en 1909 sino en 1923) estaban lejos de ser fieles al Textus Receptus y más bien se desviaban basándose en los Textos Alejandrinos. Por lo tanto ninguna de estas podía ser la palabra fiel de Dios en nuestro idioma.",
-      "Pero el Hno. Jeff fue el único que comprendió cabalmente la respuesta de Dios. Ninguno como él había anhelado tanto resolver la gran pregunta de la Biblia verdadera en castellano. ¡Durante quince años estuvo pidiendo en oración que Dios se lo mostrara!!!: (1) Que si existía una Biblia en español -la verdadera, la de Dios- que el Señor se la mostrara. (2) Si nunca hubo una Biblia verdadera en castellano, entonces que Dios le diera una solución al problema. 27",
-      "La respuesta divina llegó de la manera más inesperada. El hno. Jeff McArdle y algunos otros asistieron, casi por mera casualidad, en 1999 a una Conferencia Misionera en la Iglesia North Avenue Baptist Church en Whitesboro, Texas, del Pastor Ernest Sigrest. En el curso de la Conferencia un Misionero hispano que trabajaba en México tenía un muestrario de varias Biblias antiguas en castellano. Entonces el Hno. Jeff le preguntó directamente: “De todas estas que usted tiene aquí, ¿Cuál es la Biblia fiel y verdadera?” Y el Misionero contestó sin dudar ni un solo segundo: “Es esta”, señalando a la versión de 1865, un ejemplar que él tenía de la impresión de 1911. Varios de los asistentes a la Conferencia ni siquiera sabían el español pero Jeff McArdle y Paul García que le acompañaba sí lo hablaban.",
-      "El hermano Jeff quedó absolutamente impresionado por la versión de 1865 (Igual que sucedió con el rey Josías cuando vio por primera vez el rollo de la",
-      "27 Agradecemos al Dr. Philip Robinson por varios de estos datos históricos que él dio a conocer en una Conferencia que impartió en la Iglesia Bíblica Bautista de Hialeah en Miami, FL, USA, en Marzo de 2024.",
-      "Biblia) y de allí en adelante cambió del todo el asunto de la incertidumbre acerca de la Biblia de Dios en español. ¡Dios había contestado su oración en la que había perseverado por quince años!. Por supuesto el Hno. Jeff y varios otros con él comenzaron a investigar la Biblia que recién acababa de conocer, y después de escudriñar concienzudamente y examinar las evidencias llegaron a la conclusión de que, efectivamente esa era (la única) que Dios entregó para el pueblo hispanohablante en medio del mundo.",
-      "A partir del año 2001 se han realizado varias reimpresiones de la Bibla 1865, siendo la última la de 2019, y al presente (2026) se encuentra en proyecto una nueva reimpresión que se hace muy necesaria.",
+    readingTimeMinutes: 14,
+    content: [],
+    blocks: [
+      {
+        "type": "paragraph",
+        "text": "Hermano Lugardo, estoy seguro que usted comprenderá perfectamente la siguiente analogía. Que cuando buscamos a alguien por ejemplo para que construya nuestra casa, queremos saber quién es la persona o personas que se ofrecen para construirla. Las siguientes preguntas serán indispensables:"
+      },
+      {
+        "type": "ordered-list",
+        "items": [
+          "¿Cuánto tiempo de experiencia tiene en el área de construcción civil?",
+          "¿Hay trabajos previos que él haya hecho, que yo pueda verificar que son de muy buena reputación?",
+          "¿Su presupuesto es razonable o es muy bajo o es muy alto?",
+          "¿Hay alguien de mucha confianza que yo conozco y que me pueda recomendar a esta persona?",
+          "¿Qué impresión tengo yo (mi opinión personal) sobre él? ¿Me inspira confianza o me deja un poco de dudas?"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Las mismas interrogantes se plantean en cuanto a los traductores que recibieron esa tarea de la mano de Dios, la de poner la Biblia en el idioma de los que hablan español en medio del mundo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Hay algunas cosas sumamente importantes que comparten las tres personas principales que Dios escogió para entregarnos su palabra en castellano (Casiodoro de Reina, Cipriano de Valera y Ángel Herreros de Mora):"
+      },
+      {
+        "type": "ordered-list",
+        "items": [
+          "Todos pertenecían a la época espiritual de Filadelfia.",
+          "Todos eran españoles.",
+          "Todos habían sido monjes o religiosos dentro del catolicismo pero se habían convertido a Cristo. Los dos primeros, Reina y Valera, llegaron a conocer el evangelio por medio de los escritos de Erasmo de Rotterdam.",
+          "Todos eran verdaderos eruditos, entendiendo esto en el sentido de ser hombres temerosos de Dios y al mismo tiempo con mucho conocimiento bíblico. Los dos primeros dominaban los idiomas bíblicos y también el idioma latín.",
+          "Todos fueron perseguidos y estuvieron cerca de morir en manos de la Inquisición española.",
+          "Todos tuvieron que huir de España y la Biblia fue publicada siempre fuera de España. La “Biblia del Oso”, la de 1569, se publicó en Basilea en Suiza; la “Biblia del Cántaro”, la de 1602, en Amsterdam en los Países Bajos; y la última revisión, la de 1865, fue publicada por la Sociedad Bíblica Americana de Nueva York en los Estados Unidos.",
+          "Todos tuvieron como objetivo hacer llegar las Escrituras al vasto campo de los hispanohablantes a pesar de la feroz persecución."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Así que hay mucha semejanza entre aquellos tres varones de Dios que fueron instrumento divino para que recibamos la Biblia en español."
+      },
+      {
+        "type": "paragraph",
+        "text": "El requisito de que amaran la palabra de Dios hasta el punto de estar al filo de la muerte por causa de ella, es algo que los eruditos y traductores del tiempo de ahora no podrían cumplir ni de lejos."
+      },
+      {
+        "type": "subheading",
+        "text": "Casiodoro de Reina"
+      },
+      {
+        "type": "paragraph",
+        "text": "Casiodoro de Reina nació alrededor de 1520. Él y Cipriano de Valera habían sido frailes jerónimos en el monasterio de San Isidoro del Campo en Sevilla. Citamos a continuación un fragmento del libro *The Spanish Fountain: A History and Review of the Reina-Valera Version* por Thomas Holland:"
+      },
+      {
+        "type": "quote",
+        "text": "El prior del monasterio era el Dr. Blanco Garcia Arias, quien había sido influenciado por la Antigua Biblia Latina de los Valdenses y su predicación, la cual había infiltrado la mano de hierro de Roma dentro de España. Arias se convirtió en creyente y comenzó a leer a sus estudiantes los escritos de los Reformadores. Reina escuchaba con mucho ahínco las enseñanzas de los Reformadores y se llegó a convertir. En este punto de su vida inició la proclamación pública del tema de la Reforma “La justificación por la fe”. Y es innecesario decir que esto no le cayó nada bien a la Iglesia Católica Romana. Vino la persecución y Reina huyó de su tierra natal para nunca volver.",
+        "author": "Thomas Holland",
+        "source": "The Spanish Fountain: A History and Review of the Reina-Valera Version",
+        "sourceUrl": "http://www.biblebelievers.com/Holland2.html"
+      },
+      {
+        "type": "paragraph",
+        "text": "Al ser advertidos de que la Inquisición planeaba capturarlos, en 1557 un grupo de monjes, entre ellos Casiodoro de Reina y Cipriano de Valera, huyeron en distintas direcciones hacia ciudades de Europa en donde pudieran salvar la vida."
+      },
+      {
+        "type": "paragraph",
+        "text": "Casiodoro de Reina completó la traducción de la Biblia en un total de doce años, y lo hizo huyendo de una ciudad a otra en Europa porque la Inquisición le seguía los pasos para llevarlo a la hoguera. El 28 de Abril de 1562, al no poder capturarlo, el tribunal de la Inquisición quemó su efigie en un acto público en Sevilla."
+      },
+      {
+        "type": "paragraph",
+        "text": "Este valeroso hombre de Dios sufrió tremendas penurias pero nunca se rindió en su tarea de completar la traducción de la Biblia al español. Entre otras cosas fue calumniado, acusado de pecados que eran inexistentes, porque no encontraban otra forma de alcanzarlo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Leemos una parte del propio testimonio de Casiodoro en su introducción a la Biblia de 1569:"
+      },
+      {
+        "type": "quote",
+        "text": "(...) el dolor de la falta que la Iglesia padecia en esta parte, nos puso el animo que nunca nos pusiera la sola consideracion de nuestras fuerzas, ansi para comenzarla, como para llegarla a este punto: y ninguna dubda tenemos de que nuestro trabajo no aya sido agradable a Dios, por la continua assistencia de su favor con que avemos podido llevar una carga tan pesada, tan estorvada de Satanas, tan poco ayudada de Hermanos, y por tantos dias. La obra nos ha durado entre las manos enteros doze años. Sacado el tiempo que nos han llevado o enfermedades, o viajes, o otras occupaciones necessarias en nuestro destierro y pobreza, podemos affirmar, que han sido bien los nueve, que no hemos soltado la pluma de la mano, ni affloxado el estudio en quanto las fuerzas ansi del cuerpo como del animo nos han alcanzado. Parte de tan luenga tardanza ha sido la falta de nuestra erudicion para tan grande obra, lo qual ha sido menester recompensar con casi doblado trabajo: parte tambien ha sido la estima que Dios nos ha dado de la misma obra, y el zelo de tratarla con toda limpieza, con la qual obligacion có ninguna erudita ni luenga diligencia se puede asaz satisffazer.",
+        "author": "Casiodoro de Reina",
+        "source": "Introducción a la Biblia del Oso (Basilea, 1569)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hay un abismo de diferencia entre Casiodoro de Reina —su ardiente amor por el Señor y por su palabra, su extremo cuidado al tomar la tarea de traducir las palabras divinas, su sacrificio en muchos obstáculos, su entrega a la tarea que Dios le dio— y las alegres afirmaciones de los eruditos y traductores actuales de la Biblia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Haremos una comparación entre las cosas que dice Casiodoro (notando su temor y temblor al tratar con las palabras de Dios) y aquellas que audazmente habla un erudito actual sobre el mismo tema. Se trata de la traducción del nombre de Dios en el Antiguo Testamento, mencionada por Casiodoro en su introducción:"
+      },
+      {
+        "type": "quote",
+        "text": "Avemos retenido el nóbre (Iehova) no sin gravisimas causas. Primeramente porque donde quiera que se hallará en nuestra version, esta en el texto Hebreo, y nos parecio que no lo podiamos dexar, ni mudar en otro sin infidelidad y sacrilegio singular cótra la Ley de Dios, en la qual se máda que no se le quite, ni se le añada.",
+        "author": "Casiodoro de Reina",
+        "source": "Introducción a la Biblia del Oso (1569)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sobre esta declaración y sobre la manera cómo Casiodoro tradujo el nombre “Jehová” se manifiesta Alfredo Tepox Varela, traductor de varias versiones modernas, teniendo en poco no solo a Casiodoro de Reina sino también a Cipriano de Valera:"
+      },
+      {
+        "type": "quote",
+        "text": "(...) Y entonces se ve que la intención nunca fue que se leyeran las vocales, sino más bien que esas vocales fueran evocativas de otra palabra que sí pudieran pronunciar. Aquí tenemos e, o, a. Esta es una e como la e francesa, pero es una e. Entonces tenemos e, o. Vienen los traductores Casiodoro de Reina y Valera, que por cierto en su prefacio defienden el hecho de haber transliterado Jehová. Se defienden ellos. ¿Y qué hacen ellos? ¿Ven esto? Esta es Y, esta es H, esta es V y esta es H. La vocalizan, dicen “Ah, pues esta es e, esta es o, esta es a, sale Jehovah”. Por el cambio lingüístico que ha habido en nuestra lengua, la Y llega a ser J. Y tenemos entonces ya Jehovah con la h final y al final de cuentas tenemos Jehová ya sin la h final. Entonces eso nos ha llevado a pensar que este es el nombre de Dios y tengo que decirlo, no es el nombre de Dios. Pueden seguir usando, podemos seguir hablando de Jehová porque es una forma tan legítima como cualquier otra, pero no es el nombre de Dios. La intención de ellos era que si veían e, o, a, pensaran en una palabra que pudieran pronunciar y una podría ser El Olam y El Olam quiere decir Dios eterno.",
+        "author": "Alfredo Tepox Varela",
+        "source": "Conferencia en Santiago de Chile (23 de Julio de 2015)",
+        "sourceUrl": "https://www.youtube.com/watch?v=uccam0guldw"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los señores de la ciencia bíblica actual jamás están dispuestos a reconocer que CADA PALABRA escrita en la Biblia es divina, es perfecta, es infalible. Por eso es que a propósito eluden mencionar LAS PALABRAS, solamente dicen la palabra (la Biblia como un todo). En otra Conferencia del mismo autor le escuchamos decir lo siguiente:"
+      },
+      {
+        "type": "quote",
+        "text": "(...) pero bueno, lo curioso es que el Señor nos habla en su palabra —en su palabra y no en las palabras que están allí— hay una diferencia, sin embargo entramos aquí al tema de revisión…",
+        "author": "Dr. Alfredo Tepox Varela",
+        "source": "Conferencia en la Sociedad Bíblica de México (2 de Agosto de 2019)",
+        "sourceUrl": "https://www.youtube.com/watch?v=ClZoIppHsiU"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fíjese con cuidado hermano Lugardo lo que este biblista moderno está afirmando: que Dios nos habla en su palabra (la Biblia entera) pero ¡NO NOS HABLA EN LAS PALABRAS QUE ESTÁN ALLÍ!"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nunca son capaces de confesar (reconocer) el hecho de que Dios nos habla en CADA PALABRA de la Biblia, mientras el Espíritu Santo testifica algo totalmente diferente a lo que enseñan ellos:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Juan 17:7-8",
+        "version": "RV1865",
+        "text": "Ahora han ya conocido que todas las cosas que me diste, son de ti. Porque las palabras que me diste, les he dado; y ellos las recibieron, y han conocido verdaderamente que salí de ti, y han creído que tú me enviaste."
+      },
+      {
+        "type": "scripture",
+        "reference": "Deuteronomio 17:19",
+        "version": "RV1865",
+        "text": "El cual tendrá consigo, y leerá en él todos los días de su vida, para que aprenda a temer a Jehová su Dios, para guardar todas las palabras de aquesta ley, y estos estatutos para hacerlos;"
+      },
+      {
+        "type": "scripture",
+        "reference": "Deuteronomio 27:26",
+        "version": "RV1865",
+        "text": "Maldito el que no confirmare las palabras de esta ley para hacerlas. Y dirá todo el pueblo: Amén."
+      },
+      {
+        "type": "scripture",
+        "reference": "Josué 23:14",
+        "version": "RV1865",
+        "text": "Y, he aquí que yo entro hoy por el camino de toda la tierra; sabed pues con todo vuestro corazón, y con toda vuestra alma, que no se ha perdido una palabra de todas las palabras buenas que Jehová vuestro Dios ha dicho de vosotros: todas os han venido, no se ha perdido de ellas ni una."
+      },
+      {
+        "type": "scripture",
+        "reference": "Salmos 12:6",
+        "version": "RV1865",
+        "text": "Las palabras de Jehová, palabras limpias: plata refinada en horno de tierra: colada siete veces."
+      },
+      {
+        "type": "paragraph",
+        "text": "Resulta, pues, que con toda su ciencia los señores eruditos del día de hoy desconocen la Escritura al desconocer (o negar, en realidad) el poder divino de CADA PALABRA que hay en ella."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se repite la condición espiritual de los escribas a quienes el Señor reprendió:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Mateo 22:29",
+        "version": "RV1865",
+        "text": "Entonces respondiendo Jesús, les dijo: Erráis, ignorando las escrituras, y el poder de Dios."
+      },
+      {
+        "type": "subheading",
+        "text": "Cipriano de Valera"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ahora pasemos a hablar de la siguiente persona que Dios escogió para la magna tarea de la Biblia en español, quien fue Cipriano de Valera. Después de huir de Sevilla junto con Casiodoro de Reina, en 1588 publicó un libro sobre los engaños del catolicismo, especialmente en los asuntos del papado y de la misa. También publicó otros libros de similar estilo. Como resultado su efigie fue quemada en 1562, junto con la de Casiodoro, y los libros de Cipriano de Valera fueron colocados en el index de libros prohibidos por la Inquisición, llamándosele a él “el hereje español”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Siempre a una persona se le conoce por sus palabras, o sea por lo que él mismo dice. Si examinamos cuidadosamente el prefacio de la revisión de la Biblia de 1602 de Cipriano de Valera llamada “EXHORTACION Al Christiano Lector…”, hallamos cosas muy importantes que él consigna y que nos muestran elocuentemente su manera de ser:"
+      },
+      {
+        "type": "quote",
+        "text": "Resta ahora dar cuenta que nos aya movido á hazer esta segunda Edicion. Cassiodoro de Reyna movido de un pio zelo de adelantar la gloria de Dios, y de hazer un señalado servicio á su nacion, en viendo se en tierra de libertad para hablar y tratar de las cosas de Dios, comenzó á darse á la traslación de la Biblia. La cual traduxo; y assi año de 1569 imprimió dos mil y seyscientos exemplares: Los quales por la misericordia de Dios se han repartido por muchas regiones. De tal manera q hoy casi no se hallan exemplares, si alguno los quiere comprar. Paraque pues nuestra nacion Española no careciesse de un tan gran thesoro, como es la Biblia en su lengua, avemos tomado la pena de leer la y releerla una y muchas vezes, y la avemos enriquecido con nuevas notas y aun algunas vezes avemos alterado el texto. Lo qual avemos hecho con maduro consejo y deliberacion: y no fiando nos de nosotros mismos (porque nuestra consciencia nos testifica quan pequeño sea nuestro caudal) lo avemos conferido con hombres doctos y pios, y con diversas traslaciones, que por la misericordia de Dios ay en diversas lenguas el dia de hoy. Quanto á lo demas, la version [se refiere a la traducción de Reina de 1569], conforme á mi juyzio, y al juyzio de todos los que la entienden, es excelente: y assi la avemos seguido, quanto avemos podido, palabra por palabra. La palabra Por ventura, por saber á Gentilidad la avemos quitado, tambien avemos quitado el nombre Capullo, y en su lugar puesto Prepucio; que es vocablo admitido ya mucho tiempo ha, en la Iglesia Christiana. Tambien avemos quitado todo lo añidido de los 70 interpretes, ó de la vulgata, que no se halla en el texto Hebreo. Lo qual principalmente aconteció en los Proverbios de Salomon. Esto digo, paraque si alguno confiriere esta version con la que llaman vulgata, y no halláre en esta todo lo que ay en aquella, no se maraville. Porque nuestro intento no es trasladar lo que los hombres han añidido á la palabra de Dios, sino lo que Dios ha revelado en sus sanctas Escripturas.",
+        "author": "Cipriano de Valera",
+        "source": "Prefacio a la Biblia del Cántaro (Amsterdam, 1602)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Entendemos por qué Dios se valió de instrumentos humanos como Cipriano de Valera, un hombre que comprendía —al igual que su antecesor Casiodoro de Reina— el valor altísimo de lo que llevaba entre las manos, el poder trabajar con cada palabra de Dios escrita en la Biblia."
+      },
+      {
+        "type": "paragraph",
+        "text": "En las líneas anteriores Valera muestra algunas modificaciones de ciertas palabras. También quisiera mostrar un ejemplo de otra modificación. En muchos lugares donde aparece “Jesús el Cristo” en la Biblia de 1569, Cipriano de Valera lo simplifica a “Jesu Cristo”. ¿Por qué la modificación?"
+      },
+      {
+        "type": "bullet-list",
+        "items": [
+          "Cuando Casiodoro de Reina en 1569 consigna “Jesús el Cristo” eso es correcto porque la palabra “Cristo” no es el nombre del Señor Jesús, es más bien su título como Mesías (en realidad “Cristo” es la misma palabra “Mesías” pero en griego). De manera que decir “El Cristo” era comparable a decir “El Alcalde” o “El Magistrado”, aunque estos son títulos diferentes.",
+          "Cipriano de Valera decidió simplificar la frase, entonces cada vez que en la Biblia de 1569 decía “Jesús el Cristo” ahora en la revisión de 1602 llega a decir “Jesu Cristo”, y así se ha mantenido en la última revisión, la de 1865.",
+          "¿Fue correcta la modificación? La respuesta es la siguiente: DIOS MISMO LE GUIÓ A REALIZAR ESTA MODIFICACIÓN COMO TAMBIÉN OTRAS QUE VALERA HIZO, ALGUNAS DE LAS CUALES ÉL MENCIONA EN EL PREFACIO QUE ACABAMOS DE CITAR. Este punto acerca de cómo el Espíritu Santo guió a los traductores y a los revisores, lo vamos a explicar en detalle más adelante."
+        ]
+      },
+      {
+        "type": "subheading",
+        "text": "Ángel Herreros de Mora"
+      },
+      {
+        "type": "paragraph",
+        "text": "La tercera persona a quien Dios usó como instrumento escogido fue Ángel Herreros de Mora, para la revisión de 1865."
+      },
+      {
+        "type": "paragraph",
+        "text": "Debemos explicar que al principio Ángel de Mora no fue el único a quien se le diera el encargo de esta revisión. La tarea había sido encomendada por la Sociedad Bíblica Americana a dos personas, y la segunda era Henry Barrington Pratt, Misionero enviado de Estados Unidos a Colombia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sin embargo todo indica que la participación de Henry Pratt (cuyo idioma nativo no era el castellano) llegó a ser mínima. Los cuatro años que tomó la revisión, de 1861 a 1865, fueron los mismos cuatro años que duró la guerra civil dentro de Estados Unidos, y Pratt se vio obligado a dejar la tarea tempranamente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sabemos esto porque existe un documento titulado *ABS Historical Essay # 16, IV Text and Translation, 1860-1900* de Margaret T. Hills (Enero de 1966). Transcribimos un fragmento de las páginas 25 y 26:"
+      },
+      {
+        "type": "quote",
+        "text": "…Temprano en 1860 al Comité de Versiones le fue solicitado otra vez acerca de nuevas y mejoradas Biblias en Español, en conformidad literal con el Hebreo y el Griego. Había la impresión de que existían eruditos Españoles que podrían poner en ropaje moderno la excelente versión de Cypriano de Valera de 1602, así que se recomendó que se tomaran medidas a tal objetivo (V 1.12.1860). En Marzo ellos recomendaron que los servicios del Sr. de Mora, de Madrid, y del Rev. H.B. Pratt de Bogota, trabajando junto con el Sr. Brigham, sean contratados para producir una Biblia en Español, cuya remuneración sería considerada más adelante y que toda modificación del texto u otras, se propone que sean sometidas al Comité de Versiones para su consideración y aprobación. (V 3.19, 9.24). (...) Los salarios del Sr. Pratt y del Sr. Mora fueron fijados en 1,200 dólares (C 2.22.1861) por año para cada uno. Entonces algunos problemas de la vista y la ruptura de las comunicaciones por la Guerra Civil hicieron necesario que el Sr. Pratt (En Carolina del Norte) se tuviera que retirar. Este retiro forzoso del Sr. Pratt había causado que el Comité de Versiones considerara por un tiempo dejar de lado el proyecto.",
+        "author": "Margaret T. Hills",
+        "source": "American Bible Society Historical Essay #16 (1966)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sin embargo el proyecto siguió adelante a pesar del retiro temprano de Henry Pratt. Hay indicaciones (las cuales veremos más adelante) de que Pratt volvió a participar pero solo de forma accesoria. La casi totalidad de la tarea de revisión recayó en Ángel de Mora."
+      },
+      {
+        "type": "paragraph",
+        "text": "De Mora había nacido en Madrid alrededor de 1815 en el seno de una importante familia. Leemos algunos fragmentos de su biografía recopilada por Gabino Fernández Campos:"
+      },
+      {
+        "type": "quote",
+        "text": "A los dieciséis años ingresó en los Dominicos de Ocaña (Toledo) y profesó en el Convento de Santo Tomás, de su ciudad natal. Ejerció como coadjutor en la Parroquia madrileña de San Sebastián y fue Profesor de Moral y Filosofía en el Colegio Hispano, privado, y en Instituciones reconocidas por la Universidad local.",
+        "author": "Gabino Fernández Campos",
+        "source": "Revista Puerta Abierta (Invierno de 2013)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Más adelante conoció el evangelio y se convirtió a Cristo, dejando el catolicismo. William H. Rule fue alguien que tuvo mucha influencia en su conversión. En 1854 Mora publicó un libro titulado *La terrible y poderosa secta llamada la Sociedad de Jesús*, en donde desenmascaró valerosamente las muchas intrigas y artimañas de los Jesuitas. Por esa razón la Inquisición católica (que ya había sido abolida en España en 1834, pero pretendía seguir actuando) le puso en la mira y en Agosto de 1856 le capturaron en Madrid golpeándole cruelmente para luego dejarlo preso durante cuatro meses. Con ayuda de hermanos de Inglaterra consiguió escapar y así salvar la vida."
+      },
+      {
+        "type": "paragraph",
+        "text": "Residió en Inglaterra y más adelante en Nueva York en los Estados Unidos y es allí donde participó en la revisión de la Biblia española durante cuatro años, de 1861 a 1865."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ángel de Mora también ejerció el Pastorado de Iglesias evangélicas durante muchos años y otra de sus obras, publicada en 1869, se titula *La Iglesia de Jesu-Cristo en España*, la cual es de carácter histórico."
+      },
+      {
+        "type": "paragraph",
+        "text": "Estos son solo algunos detalles destacados de la vida de este gran hombre de Dios que fue Ángel Herreros de Mora. Intentó volver a su natal España pero nunca lo consiguió, falleciendo en 1876 mientras era Pastor de la Iglesia Evangélica Española en Lisboa, Portugal. Un hecho muy de notar es que en la congregación que Mora pastoreaba llegaron a ser miembros de ella ocho ex-sacerdotes católicos convertidos al evangelio."
+      },
+      {
+        "type": "paragraph",
+        "text": "Así que estos tres varones de Dios —Casiodoro de Reina, Cipriano de Valera y Ángel de Mora— fueron aquellos instrumentos que Dios usó para darnos su palabra en castellano. Como ya hemos visto, compartieron muchas cosas en común pero la más importante de todas fue que trabajaron con LAS PALABRAS DE DIOS en la Biblia conscientes de que tenían en sus manos una tarea divina y no humana."
+      },
+      {
+        "type": "subheading",
+        "text": "El redescubrimiento de la Biblia 1865"
+      },
+      {
+        "type": "paragraph",
+        "text": "No podemos terminar esta sección referente a los hombres de la Biblia en español sin haber mencionado a algunos que pertenecen más bien a nuestra época. Uno de ellos fue Jeff McArdle, Misionero entre la gente hispana a quienes amaba con todo su corazón. El hermano Jeff partió al hogar del Padre Celestial de manera repentina en el año 2014 pero su profundo amor por la Biblia 1865 ha quedado como un legado indeleble."
+      },
+      {
+        "type": "paragraph",
+        "text": "También es necesario mencionar que con la Biblia 1865 sucedió algo semejante a lo que aconteció en los días del rey Josías (2 Reyes 22:3-13) cuando la Biblia había desaparecido completamente de la vida de la nación de Israel, tanto que el mismo rey desconocía de su existencia. Fueron los sacerdotes y levitas quienes la “descubrieron” en los rincones del templo y se la mostraron a un asombradísimo rey Josías."
+      },
+      {
+        "type": "paragraph",
+        "text": "A pesar de que esta versión había sido la única que tuvo enorme circulación en toda América Latina desde los inicios del campo misionero en nuestros países a partir de 1865 y durante más de 60 años, las Sociedades Bíblicas la dejaron al olvido. Por ejemplo en la versión Reina-Valera revisada de 1960, en la primera página se lee lo siguiente:"
+      },
+      {
+        "type": "quote",
+        "text": "Antigua Versión de Casiodoro de Reina (1569). Revisada por Cipriano de Valera (1602). Otras Revisiones: 1862, 1909 y 1960.",
+        "author": "Sociedades Bíblicas Unidas",
+        "source": "Página preliminar de la versión Reina-Valera 1960"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fue por esta razón (que la Biblia 1865 no era ni siquiera mencionada) que Jeff McArdle, buscando una Biblia fiel y verdadera que ya hubiera existido en idioma castellano, no tenía ni idea de la existencia de ella."
+      },
+      {
+        "type": "paragraph",
+        "text": "Así que al igual que en los días de Josías rey de Israel, en las cercanías del año 2,000 nadie sabía que había existido durante más de 60 años una Biblia usada por Dios grandemente para la evangelización de todos los países de habla castellana en el continente americano."
+      },
+      {
+        "type": "paragraph",
+        "text": "Para muchos Misioneros de Estados Unidos que trabajaban con gente hispanohablante, era una enorme pregunta aquella que también se planteaba Jeff McArdle. ¿Cuál es la Biblia fiel, la de Dios mismo en idioma español? ¿Existió alguna vez esa Biblia?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Y es que tanto él como muchos otros Misioneros sabían a ciencia cierta que las Biblias modernas en castellano a partir de la revisión conocida como la de 1909 (que no se publicó en 1909 sino en 1923) estaban lejos de ser fieles al Textus Receptus y más bien se desviaban basándose en los Textos Alejandrinos. Por lo tanto ninguna de estas podía ser la palabra fiel de Dios en nuestro idioma."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pero el Hno. Jeff fue el único que comprendió cabalmente la respuesta de Dios. Ninguno como él había anhelado tanto resolver la gran pregunta de la Biblia verdadera en castellano. ¡Durante quince años estuvo pidiendo en oración que Dios se lo mostrara!: (1) Que si existía una Biblia en español —la verdadera, la de Dios— que el Señor se la mostrara. (2) Si nunca hubo una Biblia verdadera en castellano, entonces que Dios le diera una solución al problema."
+      },
+      {
+        "type": "paragraph",
+        "text": "La respuesta divina llegó de la manera más inesperada. El hno. Jeff McArdle y algunos otros asistieron, casi por mera casualidad, en 1999 a una Conferencia Misionera en la Iglesia North Avenue Baptist Church en Whitesboro, Texas, del Pastor Ernest Sigrest. En el curso de la Conferencia un Misionero hispano que trabajaba en México tenía un muestrario de varias Biblias antiguas en castellano. Entonces el Hno. Jeff le preguntó directamente: “De todas estas que usted tiene aquí, ¿Cuál es la Biblia fiel y verdadera?” Y el Misionero contestó sin dudar ni un solo segundo: “Es esta”, señalando a la versión de 1865, un ejemplar que él tenía de la impresión de 1911. Varios de los asistentes a la Conferencia ni siquiera sabían el español pero Jeff McArdle y Paul García que le acompañaba sí lo hablaban."
+      },
+      {
+        "type": "paragraph",
+        "text": "El hermano Jeff quedó absolutamente impresionado por la versión de 1865 (igual que sucedió con el rey Josías cuando vio por primera vez el rollo de la Biblia) y de allí en adelante cambió del todo el asunto de la incertidumbre acerca de la Biblia de Dios en español. ¡Dios había contestado su oración en la que había perseverado por quince años! Por supuesto el Hno. Jeff y varios otros con él comenzaron a investigar la Biblia que recién acababa de conocer, y después de escudriñar concienzudamente y examinar las evidencias llegaron a la conclusión de que, efectivamente esa era (la única) que Dios entregó para el pueblo hispanohablante en medio del mundo."
+      },
+      {
+        "type": "paragraph",
+        "text": "A partir del año 2001 se han realizado varias reimpresiones de la Biblia 1865, siendo la última la de 2019, y al presente (2026) se encuentra en proyecto una nueva reimpresión que se hace muy necesaria."
+      }
     ],
   },
   {

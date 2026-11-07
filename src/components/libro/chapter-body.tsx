@@ -100,6 +100,17 @@ export function ChapterBlocks({ blocks }: { blocks: ChapterBlock[] }) {
             </section>
           );
         }
+        if (block.type === "bullet-list") {
+          return (
+            <ul key={i} className="list-disc list-outside pl-6 my-4 space-y-2 text-foreground/90 leading-relaxed">
+              {block.items.map((item, idx) => (
+                <li key={idx} className="pl-1">
+                  {renderEmphasis(item)}
+                </li>
+              ))}
+            </ul>
+          );
+        }
         if (block.type === "quote") {
           return <BibliographicQuote key={i} block={block} />;
         }
@@ -112,7 +123,7 @@ export function ChapterBlocks({ blocks }: { blocks: ChapterBlock[] }) {
         }
         return (
           <p key={i} className="text-base leading-relaxed text-foreground/90 sm:text-lg dark:text-zinc-200">
-            {block.text}
+            {renderEmphasis(block.text)}
           </p>
         );
       })}
