@@ -1,3 +1,9 @@
+/** One element of a chapter in reading order. */
+export type ChapterBlock =
+  | { type: "paragraph"; text: string }
+  | { type: "subheading"; text: string }
+  | { type: "scripture"; reference: string; version: string; text: string };
+
 export interface Chapter {
   slug: string;
   number: number;
@@ -7,6 +13,8 @@ export interface Chapter {
   readingTimeMinutes: number;
   /** Every complete paragraph extracted from the PDF, without truncation. */
   content: string[];
+  /** Structured chapter text. When present, the reader renders these blocks instead of `content`. */
+  blocks?: ChapterBlock[];
 }
 
 export interface Book {
@@ -52,33 +60,100 @@ export const LIBRO_1865: Book = {
     subtitle: "Uno contra cuatrocientos",
     summary: "Carta a Lugardo Rossini, un hermano que hace muchas preguntas, para explicar el propósito del libro: siete evidencias de que la Biblia Reina-Valera de 1865 es la palabra de Dios en castellano. Abre con la persecución del justo, desde Abel en adelante.",
     readingTimeMinutes: 8,
-    content: [
-      "Lugardo Rossini es un amado hermano de la Iglesia Bautista de San Fernando en Chosica, Lima, Perú. Lo considero mi hijo espiritual, aunque él tiene unos cuantos años más que yo. Los dos somos “setentones” pero yo acabo de cumplir recién los 70. No hay nadie dentro de la Iglesia más preguntador que el hermano Lugardo. ¡Y eso no es un defecto, es una virtud!. Porque él aprende mucho preguntando. Yo mismo le he animado a él y a los demás hermanos de la Escuela Pastoral de nuestra Iglesia a plantear todas las preguntas que ellos quieran, pero advirtiéndoles que algunas veces no tenemos ninguna respuesta, porque la Biblia habla de ciertas cosas secretas que solamente pertenecen a Dios: Las cosas secretas pertenecen a Jehová nuestro Dios: mas las reveladas son para nosotros y para nuestros hijos para siempre, para que hagamos todas las palabras de esta ley. 1",
-      "Este libro presenta siete evidencias acerca de la Biblia Reina-Valera revisada en 1865 como la única y perfecta palabra de Dios en castellano. Está escrito como un mensaje al hermano Lugardo. Si Dios me permite lograr el objetivo de que él entienda cabalmente la explicación, estoy seguro de que muchos otros miles de amados hermanos alrededor de América Latina o de España, o de otros lugares del mundo donde se habla español, también podrán entender. Porque el hermano de nuestra Iglesia a quien escribo estas cartas es una persona real -no es imaginario- que no ha tenido de manera formal una “educación teológica” como a veces así le llaman, tampoco es un “profesional” entendiendo esto como aquellos que tienen una carrera universitaria. Mi mayor placer es hacerlo así!!! Lograr que muchísimos hermanos en Cristo puedan ser instruidos de la manera más sencilla posible en el campo de la fe.",
-      "Apreciado hermano Lugardo: A lo largo de la historia tanto el hombre justo como la verdad que él proclama han sido objeto de persecución. El primer acontecimiento dentro de la primera familia humana fue el asesinato del justo",
-      "1 Deuteronomio 29:29.",
-      "Abel a manos de su hermano Caín. Y Dios nos explica que el motivo de haberlo matado fue porque las acciones de su hermano eran justas.",
-      "No como Caín, que era del maligno, y mató a su hermano. ¿Y por qué causa le mató? Porque sus obras eran malas, y las de su hermano eran justas. Hermanos míos, no os maravilléis si el mundo os aborrece. 2",
-      "¡Semejante motivo de ser asesinado, porque sus acciones eran justas!. Lo cual apunta y señala, por supuesto, a que un día aquel Santo y Justo, aquel Hijo de Dios enviado del cielo, sería asesinado a manos de los incrédulos y perversos.",
-      "Este cuadro se ha repetido innumerables veces en la historia del hombre. Uno de aquellos acontecimientos en donde la verdad y el hombre que proclama la verdad son perseguidos, se ubica en tiempos de apostasía. Acab fue uno de los más perversos reyes que tuvo Israel, y Josafat rey de Judá, un hombre temeroso de Dios, se junta con él para batallar contra los sirios.",
-      "Como era siempre necesario, Acab rey de Israel consulta (o pretende consultar) a Dios por medio de los profetas. Entonces cuatrocientos profetas le anuncian que Dios ha respondido positivamente, y que saldrá victorioso. Pero Josafat, sospechando de aquello, pregunta si hay todavía otro profeta a quién consultar.",
-      "Entonces el rey de Israel juntó cuatrocientos varones profetas, y díjoles: ¿Iremos a la guerra contra Ramot de Galaad, o reposarnos hemos? Y ellos dijeron: Sube; que Dios los entregará en mano del rey. Y Josafat dijo: ¿Hay aún aquí algún profeta de Jehová, para que por él preguntemos? Y el rey de Israel respondió a Josafat: Aún hay aquí un hombre por el cual podemos preguntar a Jehová: mas yo le aborrezco, porque nunca me profetiza cosa buena, sino toda su vida por mal: este es Miqueas, hijo de Jemla. Y respondió Josafat: No hable el rey así. 3",
-      "(Hermano Lugardo, nos damos el tiempo de analizar esta historia porque tiene que ver directamente con nosotros y con nuestro tiempo).",
-      "2 1 Juan 3:12-13",
-      "3 2 Crónicas 18:5-7",
-      "Entonces Miqueas, el profeta de quien Acab dice nunca me profetiza cosa buena es traído a la presencia del rey, y efectivamente, le dice la verdad pero la verdad de Dios es menospreciada y Acab prefiere seguir el engaño de los otros cuatrocientos. Su orgullo le lleva a desembocar en la muerte tal como Miqueas, el solitario profeta, de parte de Dios se lo había anunciado.",
-      "Y el rey le dijo: Miqueas, ¿iremos a pelear contra Ramot de Galaad, o dejarlo hemos? Y él respondió: Subid; que seréis prosperados; que serán entregados en vuestras manos. Y el rey le dijo: ¿Hasta cuántas veces te conjuraré por el nombre de Jehová, que no me hables sino la verdad? Entonces él dijo: Yo he visto a todo Israel derramado por los montes, como ovejas sin pastor: y dijo Jehová: Estos no tienen señor: vuélvase cada uno en paz a su casa.",
-      "Y el rey de Israel dijo a Josafat: ¿No te había yo dicho, que este no me profetizará bien, sino mal? Entonces él dijo: Oíd pues palabra de Jehová: Yo he visto a Jehová asentado en su trono, y todo el ejército de los cielos estaba a su mano derecha y a su mano izquierda. Y Jehová dijo: ¿Quién inducirá a Acab rey de Israel, para que suba, y caiga en Ramot de Galaad? Y este decía así, y el otro decía así. Mas salió un espíritu, que se puso delante de Jehová, y dijo: Yo le induciré. Y Jehová le dijo: ¿De qué manera? Y él dijo: Saldré; y seré espíritu de mentira en la boca de todos sus profetas. Y Jehová dijo: Induce, y también prevalece: sal, y hazlo así. Y, he aquí, ahora Jehová ha puesto espíritu de mentira en la boca de estos tus profetas: mas Jehová ha hablado contra ti mal. (...)",
-      "Entonces el rey de Israel dijo: Tomad a Miqueas, y volvedle a Amón el gobernador de la ciudad, y a Joas, hijo del rey; Y diréis: El rey ha dicho así: Poned a este en la cárcel, hacedle comer pan de aflicción, y agua de angustia, hasta que yo vuelva en paz. Y Miqueas dijo: Si volviendo volvieres en paz, Jehová no ha hablado por mí. Y dijo también: Oíd esto todos los pueblos. 4",
-      "En ese mismo día el rey Acab murió en la batalla e Israel fue derrotado.",
-      "4 2 Crónicas 18:14-22 y 25-27",
-      "Cuatrocientos profetas lo estaban engañando y uno solo de parte de Dios anunciaba la verdad. El anuncio del profeta se cumplió, por supuesto, pero él fue metido en la cárcel con pan de aflicción, y agua de angustia.",
-      "¿No le parece bastante familiar, bastante parecido este acontecimiento, hermano Lugardo, con lo que atravesamos el día de hoy?",
-      "Mientras todos los demás grupos e Iglesias cristianas, empezando por los “eruditos bíblicos” afirman que todas las versiones de la Biblia en castellano “son buenas” pero “no hay ninguna que sea la única, la verdadera”, nosotros en cambio creemos y proclamamos otra cosa: que Dios se ha manifestado a los muchos millones de personas que en el mundo hablan español, exclusivamente por medio de una versión: aquella que había sido primero publicada en 1569 por Casiodoro de Reina, después perfeccionada por Cipriano de Valera en 1602, y por último la revisión de la cual el principal participante fue Ángel Herreros de Mora en 1865.",
-      "Somos uno contra cuatrocientos.",
-      "Y nos agrada que nos llamen CREYENTES DE LA BIBLIA, porque creemos en ella. Creemos que Dios nos ha hablado en castellano de manera perfecta e infalible por medio de la Biblia de 1865.",
-      "Además mientras TODOS los demás grupos y denominaciones cristianas, todos los señores de la erudición bíblica, creen que ninguna traducción es perfecta y que solamente “los manuscritos originales” fueron inspirados por Dios y por lo tanto fueron divinos e infalibles, nosotros creemos y afirmamos algo muy diferente: que en la Biblia 1865 CADA PALABRA que se encuentra escrita en ella en idioma español es divina, es la respiración de Dios y por tanto la vida de Dios, y al ser divina es perfecta e infalible.",
-      "También sabemos que Dios ha hecho lo mismo en muchos idiomas del mundo, esto es, hablar sus palabras exactas, perfectas e infalibles en el idioma traducido y no solamente en el hebreo y el griego, los originales de la Biblia. Pero por supuesto ¡No se refiere esto a la multitud de versiones modernas!. Dios siempre ha tenido UN SOLO TESTIMONIO DE SU VERDAD; UNA SOLA BIBLIA. En el caso del idioma inglés de manera incontrovertible la única Biblia que lleva el sello de Dios porque su origen es divino, viene a ser la que se conoce como la King James Bible, la que fue publicada por primera vez en 1611.",
+    content: [],
+    blocks: [
+      {
+        "type": "paragraph",
+        "text": "Lugardo Rossini es un amado hermano de la Iglesia Bautista de San Fernando en Chosica, Lima, Perú. Lo considero mi hijo espiritual, aunque él tiene unos cuantos años más que yo. Los dos somos “setentones” pero yo acabo de cumplir recién los 70. No hay nadie dentro de la Iglesia más preguntador que el hermano Lugardo. ¡Y eso no es un defecto, es una virtud!. Porque él aprende mucho preguntando. Yo mismo le he animado a él y a los demás hermanos de la Escuela Pastoral de nuestra Iglesia a plantear todas las preguntas que ellos quieran, pero advirtiéndoles que algunas veces no tenemos ninguna respuesta, porque la Biblia habla de ciertas cosas secretas que solamente pertenecen a Dios:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Deuteronomio 29:29",
+        "version": "RV1865",
+        "text": "Las cosas secretas pertenecen a Jehová nuestro Dios: mas las reveladas son para nosotros y para nuestros hijos para siempre, para que hagamos todas las palabras de esta ley."
+      },
+      {
+        "type": "paragraph",
+        "text": "Este libro presenta siete evidencias acerca de la Biblia Reina-Valera revisada en 1865 como la única y perfecta palabra de Dios en castellano. Está escrito como un mensaje al hermano Lugardo. Si Dios me permite lograr el objetivo de que él entienda cabalmente la explicación, estoy seguro de que muchos otros miles de amados hermanos alrededor de América Latina o de España, o de otros lugares del mundo donde se habla español, también podrán entender. Porque el hermano de nuestra Iglesia a quien escribo estas cartas es una persona real -no es imaginario- que no ha tenido de manera formal una “educación teológica” como a veces así le llaman, tampoco es un “profesional” entendiendo esto como aquellos que tienen una carrera universitaria. Mi mayor placer es hacerlo así!!! Lograr que muchísimos hermanos en Cristo puedan ser instruidos de la manera más sencilla posible en el campo de la fe."
+      },
+      {
+        "type": "subheading",
+        "text": "“Uno contra cuatrocientos”"
+      },
+      {
+        "type": "paragraph",
+        "text": "Apreciado hermano Lugardo: A lo largo de la historia tanto el hombre justo como la verdad que él proclama han sido objeto de persecución. El primer acontecimiento dentro de la primera familia humana fue el asesinato del justo Abel a manos de su hermano Caín. Y Dios nos explica que el motivo de haberlo matado fue porque las acciones de su hermano eran justas."
+      },
+      {
+        "type": "scripture",
+        "reference": "1 Juan 3:12-13",
+        "version": "RV1865",
+        "text": "No como Caín, que era del maligno, y mató a su hermano. ¿Y por qué causa le mató? Porque sus obras eran malas, y las de su hermano eran justas. Hermanos míos, no os maravilléis si el mundo os aborrece."
+      },
+      {
+        "type": "paragraph",
+        "text": "¡Semejante motivo de ser asesinado, porque sus acciones eran justas!. Lo cual apunta y señala, por supuesto, a que un día aquel Santo y Justo, aquel Hijo de Dios enviado del cielo, sería asesinado a manos de los incrédulos y perversos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Este cuadro se ha repetido innumerables veces en la historia del hombre. Uno de aquellos acontecimientos en donde la verdad y el hombre que proclama la verdad son perseguidos, se ubica en tiempos de apostasía. Acab fue uno de los más perversos reyes que tuvo Israel, y Josafat rey de Judá, un hombre temeroso de Dios, se junta con él para batallar contra los sirios."
+      },
+      {
+        "type": "paragraph",
+        "text": "Como era siempre necesario, Acab rey de Israel consulta (o pretende consultar) a Dios por medio de los profetas. Entonces cuatrocientos profetas le anuncian que Dios ha respondido positivamente, y que saldrá victorioso. Pero Josafat, sospechando de aquello, pregunta si hay todavía otro profeta a quién consultar."
+      },
+      {
+        "type": "scripture",
+        "reference": "2 Crónicas 18:5-7",
+        "version": "RV1865",
+        "text": "Y el rey de Israel juntó cuatrocientos varones profetas, y díjoles: ¿Iremos a la guerra contra Ramot de Galaad, o reposarnos hemos? Y ellos dijeron: Sube; que Dios los entregará en mano del rey. Y Josafat dijo: ¿Hay aún aquí algún profeta de Jehová, para que por él preguntemos? Y el rey de Israel respondió a Josafat: Aún hay aquí un hombre por el cual podemos preguntar a Jehová: mas yo le aborrezco, porque nunca me profetiza cosa buena, sino toda su vida por mal: este es Miqueas, hijo de Jemla. Y respondió Josafat: No hable el rey así."
+      },
+      {
+        "type": "paragraph",
+        "text": "(Hermano Lugardo, nos damos el tiempo de analizar esta historia porque tiene que ver directamente con nosotros y con nuestro tiempo)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Entonces Miqueas, el profeta de quien Acab dice nunca me profetiza cosa buena es traído a la presencia del rey, y efectivamente, le dice la verdad pero la verdad de Dios es menospreciada y Acab prefiere seguir el engaño de los otros cuatrocientos. Su orgullo le lleva a desembocar en la muerte tal como Miqueas, el solitario profeta, de parte de Dios se lo había anunciado."
+      },
+      {
+        "type": "scripture",
+        "reference": "2 Crónicas 18:14-22, 25-27",
+        "version": "RV1865",
+        "text": "Y el rey le dijo: Miqueas, ¿iremos a pelear contra Ramot de Galaad, o dejarlo hemos? Y él respondió: Subid; que seréis prosperados; que serán entregados en vuestras manos. Y el rey le dijo: ¿Hasta cuántas veces te conjuraré por el nombre de Jehová, que no me hables sino la verdad? Entonces él dijo: Yo he visto a todo Israel derramado por los montes, como ovejas sin pastor: y dijo Jehová: Estos no tienen señor: vuélvase cada uno en paz a su casa.\n\nY el rey de Israel dijo a Josafat: ¿No te había yo dicho, que este no me profetizará bien, sino mal? Entonces él dijo: Oíd pues palabra de Jehová: Yo he visto a Jehová asentado en su trono, y todo el ejército de los cielos estaba a su mano derecha y a su mano izquierda. Y Jehová dijo: ¿Quién inducirá a Acab rey de Israel, para que suba, y caiga en Ramot de Galaad? Y este decía así, y el otro decía así. Mas salió un espíritu, que se puso delante de Jehová, y dijo: Yo le induciré. Y Jehová le dijo: ¿De qué manera? Y él dijo: Saldré; y seré espíritu de mentira en la boca de todos sus profetas. Y Jehová dijo: Induce, y también prevalece: sal, y hazlo así. Y, he aquí, ahora Jehová ha puesto espíritu de mentira en la boca de estos tus profetas: mas Jehová ha hablado contra ti mal. (...)\n\nEntonces el rey de Israel dijo: Tomad a Miqueas, y volvedle a Amón el gobernador de la ciudad, y a Joas, hijo del rey; Y diréis: El rey ha dicho así: Poned a este en la cárcel, hacedle comer pan de aflicción, y agua de angustia, hasta que yo vuelva en paz. Y Miqueas dijo: Si volviendo volvieres en paz, Jehová no ha hablado por mí. Y dijo también: Oíd esto todos los pueblos."
+      },
+      {
+        "type": "paragraph",
+        "text": "En ese mismo día el rey Acab murió en la batalla e Israel fue derrotado."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cuatrocientos profetas lo estaban engañando y uno solo de parte de Dios anunciaba la verdad. El anuncio del profeta se cumplió, por supuesto, pero él fue metido en la cárcel con pan de aflicción, y agua de angustia."
+      },
+      {
+        "type": "paragraph",
+        "text": "¿No le parece bastante familiar, bastante parecido este acontecimiento, hermano Lugardo, con lo que atravesamos el día de hoy?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mientras todos los demás grupos e Iglesias cristianas, empezando por los “eruditos bíblicos” afirman que todas las versiones de la Biblia en castellano “son buenas” pero “no hay ninguna que sea la única, la verdadera”, nosotros en cambio creemos y proclamamos otra cosa: que Dios se ha manifestado a los muchos millones de personas que en el mundo hablan español, exclusivamente por medio de una versión: aquella que había sido primero publicada en 1569 por Casiodoro de Reina, después perfeccionada por Cipriano de Valera en 1602, y por último la revisión de la cual el principal participante fue Ángel Herreros de Mora en 1865."
+      },
+      {
+        "type": "paragraph",
+        "text": "Somos uno contra cuatrocientos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Y nos agrada que nos llamen CREYENTES DE LA BIBLIA, porque creemos en ella. Creemos que Dios nos ha hablado en castellano de manera perfecta e infalible por medio de la Biblia de 1865."
+      },
+      {
+        "type": "paragraph",
+        "text": "Además mientras TODOS los demás grupos y denominaciones cristianas, todos los señores de la erudición bíblica, creen que ninguna traducción es perfecta y que solamente “los manuscritos originales” fueron inspirados por Dios y por lo tanto fueron divinos e infalibles, nosotros creemos y afirmamos algo muy diferente: que en la Biblia 1865 CADA PALABRA que se encuentra escrita en ella en idioma español es divina, es la respiración de Dios y por tanto la vida de Dios, y al ser divina es perfecta e infalible."
+      },
+      {
+        "type": "paragraph",
+        "text": "También sabemos que Dios ha hecho lo mismo en muchos idiomas del mundo, esto es, hablar sus palabras exactas, perfectas e infalibles en el idioma traducido y no solamente en el hebreo y el griego, los originales de la Biblia. Pero por supuesto ¡No se refiere esto a la multitud de versiones modernas!. Dios siempre ha tenido UN SOLO TESTIMONIO DE SU VERDAD; UNA SOLA BIBLIA. En el caso del idioma inglés de manera incontrovertible la única Biblia que lleva el sello de Dios porque su origen es divino, viene a ser la que se conoce como la King James Bible, la que fue publicada por primera vez en 1611."
+      }
     ],
   },
   {

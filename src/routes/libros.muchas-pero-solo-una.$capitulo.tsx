@@ -1,7 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { ArrowLeft, ArrowRight, Download } from "lucide-react";
 
-import { ChapterBody } from "@/components/libro/chapter-body";
+import { ChapterBlocks, ChapterBody } from "@/components/libro/chapter-body";
 import { SiteHeader } from "@/components/reader/site-header";
 import { LibroBreadcrumb } from "@/components/libro/libro-breadcrumb";
 import { getChapterBySlug, LIBRO_1865 } from "@/data/libro-1865";
@@ -116,7 +116,11 @@ function ChapterPage() {
         </header>
 
         <article className="mt-10">
-          <ChapterBody paragraphs={chapter.content} verseTexts={verseTexts} />
+          {chapter.blocks ? (
+            <ChapterBlocks blocks={chapter.blocks} />
+          ) : (
+            <ChapterBody paragraphs={chapter.content} verseTexts={verseTexts} />
+          )}
         </article>
 
         <footer className="mt-16 space-y-8 border-t border-border pt-8">

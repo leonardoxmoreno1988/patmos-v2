@@ -1,11 +1,69 @@
 import type { ReactNode } from "react";
 import { BookOpen } from "lucide-react";
 
+import type { ChapterBlock } from "@/data/libro-1865";
+
 import { SCRIPTURE_REF_LINK_CLASS } from "@/components/reader/scripture-ref-link";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { bookIdOf, readerPath } from "@/lib/bible-slugs";
 import { isFootnoteBlock, parseFootnoteBlock, verseKey, type FootnoteEntry } from "@/lib/libro-footnotes";
 import { splitScriptureRefs, type ScriptureRef } from "@/lib/scripture-refs";
+
+/** Reader URL for the first reference of a quote, e.g. "2 Crónicas 18:14-22, 25-27" → chapter 18, verse 14. */
+function readerLinkFor(reference: string): string | null {
+  const [first] = splitScriptureRefs(reference).filter((p): p is ScriptureRef & { label: string } => typeof p !== "string");
+  if (!first) return null;
+  const bookid = bookIdOf(first.book);
+  return bookid === null ? null : readerPath("es", bookid, first.chapter, first.verse);
+}
+
+/** Renders a chapter whose text is already structured (paragraphs, subheadings, quotes). */
+export function ChapterBlocks({ blocks }: { blocks: ChapterBlock[] }) {
+  return (
+    <div className="space-y-6">
+      {blocks.map((block, i) => {
+        if (block.type === "subheading") {
+          return (
+            <h2 key={i} className="pt-4 text-2xl font-bold tracking-tight text-foreground">
+              {block.text}
+            </h2>
+          );
+        }
+        if (block.type === "scripture") {
+          const href = readerLinkFor(block.reference);
+          return (
+            <section key={i} className="my-6 rounded-lg border border-border/40 bg-muted/20 p-4 shadow-sm sm:p-5 dark:bg-zinc-900/60">
+              <header className="flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-primary/80">
+                <BookOpen className="size-3.5 shrink-0" aria-hidden="true" />
+                <span>{block.reference} · {block.version}</span>
+              </header>
+              <p className="mt-2.5 whitespace-pre-line text-base italic leading-relaxed text-foreground/90 sm:text-lg dark:text-zinc-200">
+                {block.text}
+              </p>
+              {href ? (
+                <div className="mt-3 flex justify-end">
+                  <a
+                    href={href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 text-xs text-muted-foreground transition-colors hover:text-foreground hover:underline underline-offset-2"
+                  >
+                    Abrir en el Lector ↗
+                  </a>
+                </div>
+              ) : null}
+            </section>
+          );
+        }
+        return (
+          <p key={i} className="text-base leading-relaxed text-foreground/90 sm:text-lg dark:text-zinc-200">
+            {block.text}
+          </p>
+        );
+      })}
+    </div>
+  );
+}
 
 /** RV1865 verses per range, keyed by `verseKey` (filled by the chapter loader on the server). */
 export type VerseTexts = Record<string, { verse: number; text: string }[]>;
