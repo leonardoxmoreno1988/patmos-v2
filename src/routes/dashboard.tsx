@@ -141,7 +141,7 @@ function Home() {
                   <span>{dailyVerse.reference} · {dailyVerse.version}</span><span aria-hidden="true" className="text-[10px]">↗</span>
                 </a>
               </div>
-              <p className="mt-3 text-sm sm:text-base font-serif italic text-foreground/90 leading-relaxed">
+              <p className="mt-3 text-sm sm:text-base font-serif italic font-normal text-foreground/90 leading-relaxed">
                 “{dailyVerse.text}”
               </p>
             </div>
