@@ -1283,10 +1283,6 @@ export const LIBRO_1865: Book = {
         "text": "Como ya hemos mencionado anteriormente, la Biblia 1865 fue prácticamente borrada de la memoria, es decir de la historia de los primeros años del evangelio en América Latina. Pero borrar su memoria no es lo mismo que poder negar los frutos evidentes de esta Biblia en todos los países de habla española en el continente americano."
       },
       {
-        "type": "subheading",
-        "text": "Diego Thomson y los inicios en el Perú"
-      },
-      {
         "type": "paragraph",
         "text": "Cuando Diego Thomson llegó al Perú en 1822 como colportor de la Biblia y fue bienvenido por el libertador José de San Martín, no existía una versión “protestante” de la Biblia en castellano. Se sabe que Diego Thomson trajo en su labor de colportor una versión producida por el catolicismo que era la de Scío de San Miguel, la cual ha sido calificada por muchos como una traducción pésima, y una de las razones fue que no había sido traducida del hebreo y el griego sino de la vulgata latina."
       },
@@ -1295,21 +1291,18 @@ export const LIBRO_1865: Book = {
         "text": "Fue recién a partir más o menos de 1840 que comenzó a activarse el gran campo misionero que constituía América Latina, y efectivamente por la gran demanda de Biblias es que la Sociedad Bíblica Americana se preocupó en producir una versión actualizada de aquella que había quedado desde la revisión de Valera de 1602, la que ya no circulaba en nuevas impresiones. Entonces entre 1861 y 1865 se produjo la nueva revisión destinada para toda América Hispana."
       },
       {
-        "type": "subheading",
-        "text": "Francisco Penzotti y la distribución bíblica"
-      },
-      {
         "type": "paragraph",
         "text": "Cuando Francisco Penzotti, otro colportor bíblico vino al Perú en 1888, indudablemente trajo la Biblia de 1865. Existe el siguiente testimonio sobre la obra de Penzotti, quien había recorrido muchos lugares y países en América del Sur:"
       },
       {
         "type": "quote",
         "text": "Penzotti en sus distintas giras por los países latinoamericanos, vendió personalmente 125.000 libros, y bajo su dirección se distribuyeron en América Hispana más de dos millones de ejemplares de Biblias.",
-        "source": "Citado por Calvin George en «Los Colportores» (2026)"
+        "author": "A. Pereira Alves",
+        "source": "Semblanzas Evangélicas (1963), pág. 96 / Citado por Calvin George en «Los Colportores» (2026)"
       },
       {
         "type": "paragraph",
-        "text": "Así que hasta los años de 1920 (la última impresión conocida de la Biblia 1865 fue en 1912) la Biblia Reina-Valera de 1865 fue la única usada como instrumento de Dios para la evangelización de toda Latinoamérica."
+        "text": "Así que hasta los años de 1920 (La última impresión conocida de la Biblia 1865 fue en 1912) la Biblia Reina-Valera de 1865 fue la única usada como instrumento de Dios para la evangelización de toda Latinoamérica."
       }
     ],
   },
