@@ -2,7 +2,8 @@
 export type ChapterBlock =
   | { type: "paragraph"; text: string; variant?: "quote" | "lyrics" }
   | { type: "subheading"; text: string }
-  | { type: "scripture"; reference: string; version: string; text: string };
+  | { type: "scripture"; reference: string; version: string; text: string }
+  | { type: "ordered-list"; items: string[] };
 
 export interface Chapter {
   slug: string;
@@ -262,7 +263,14 @@ export const LIBRO_1865: Book = {
       },
       {
         "type": "paragraph",
-        "text": "Notemos que el autor afirma aquí dos cosas que contradicen el testimonio de la Biblia acerca de las palabras que están escritas en ella:\n\n1. Ante la pregunta de cuál de las muchas versiones en castellano es la verdadera palabra de Dios, responde que ninguna de ellas. (Aunque diga que todas ellas lo son, sigue afirmando que ninguna lo es).\n\n2. Notemos que en ningún momento el autor se refiere a las palabras individuales. Solamente menciona “palabra” para referirse a la Biblia como un todo, o sea la Biblia completa. Esto es típico de los eruditos modernos, quienes NUNCA PUEDEN CONFESAR QUE CADA PALABRA ESCRITA EN ELLA ES DIVINA. ¡NO LO CREEN!."
+        "text": "Notemos que el autor afirma aquí dos cosas que contradicen el testimonio de la Biblia acerca de las palabras que están escritas en ella:"
+      },
+      {
+        "type": "ordered-list",
+        "items": [
+          "Ante la pregunta de cuál de las muchas versiones en castellano es la verdadera palabra de Dios, responde que ninguna de ellas. (Aunque diga que todas ellas lo son, sigue afirmando que ninguna lo es).",
+          "Notemos que en ningún momento el autor se refiere a las palabras individuales. Solamente menciona “palabra” para referirse a la Biblia como un todo, o sea la Biblia completa. Esto es típico de los eruditos modernos, quienes NUNCA PUEDEN CONFESAR QUE CADA PALABRA ESCRITA EN ELLA ES DIVINA. ¡NO LO CREEN!."
+        ]
       },
       {
         "type": "paragraph",

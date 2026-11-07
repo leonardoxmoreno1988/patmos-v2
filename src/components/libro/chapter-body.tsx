@@ -22,6 +22,17 @@ export function ChapterBlocks({ blocks }: { blocks: ChapterBlock[] }) {
   return (
     <div className="space-y-6">
       {blocks.map((block, i) => {
+        if (block.type === "ordered-list") {
+          return (
+            <ol key={i} className="list-decimal list-outside pl-6 my-4 space-y-3 leading-relaxed text-foreground/90">
+              {block.items.map((item, idx) => (
+                <li key={idx} className="pl-1">
+                  {item}
+                </li>
+              ))}
+            </ol>
+          );
+        }
         if (block.type === "subheading") {
           return (
             <h2 key={i} className="pt-4 text-2xl font-bold tracking-tight text-foreground">
