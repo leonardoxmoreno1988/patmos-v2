@@ -62,7 +62,7 @@
   --color-surface: var(--surface);
   --color-verse-number: var(--verse-number);
   --font-sans: "Inter", sans-serif;
-  --font-serif: Georgia, Charter, "Times New Roman", serif;
+  --font-serif: "Inter", sans-serif;
   --shadow-float: var(--shadow-float);
   --shadow-soft: var(--shadow-soft);
 }
