@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import { BookOpen } from "lucide-react";
+import { ArrowUpRight, BookOpen } from "lucide-react";
 
 import type { ChapterBlock } from "@/data/libro-1865";
 
@@ -33,7 +33,7 @@ function BibliographicQuote({ block }: { block: Extract<ChapterBlock, { type: "q
                 rel="noopener noreferrer"
                 className="underline underline-offset-2 hover:text-foreground"
               >
-                [Fuente ↗]
+                Fuente <ArrowUpRight className="h-3 w-3 inline-block align-[-1px]" aria-hidden="true" />
               </a>
             </>
           ) : null}
@@ -93,7 +93,7 @@ export function ChapterBlocks({ blocks }: { blocks: ChapterBlock[] }) {
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 text-xs text-muted-foreground transition-colors hover:text-foreground hover:underline underline-offset-2"
                   >
-                    Abrir en el Lector ↗
+                    Abrir en el Lector <ArrowUpRight className="h-3 w-3 inline-block align-[-1px]" aria-hidden="true" />
                   </a>
                 </div>
               ) : null}
@@ -214,7 +214,7 @@ function InlineScripture({
           rel="noopener noreferrer"
           className="mt-4 block text-xs font-medium underline underline-offset-2 hover:text-foreground"
         >
-          Abrir capítulo completo en el Lector ↗
+          Abrir capítulo completo en el Lector <ArrowUpRight className="h-3 w-3 inline-block align-[-1px]" aria-hidden="true" />
         </a>
       </PopoverContent>
     </Popover>
@@ -262,7 +262,7 @@ function ScriptureCard({ entry, verses }: { entry: FootnoteEntry; verses: { vers
           rel="noopener noreferrer"
           className="text-xs text-muted-foreground hover:text-foreground hover:underline underline-offset-2"
         >
-          Abrir en el Lector ↗
+          Abrir en el Lector <ArrowUpRight className="h-3 w-3 inline-block align-[-1px]" aria-hidden="true" />
         </a>
       </div>
     </section>

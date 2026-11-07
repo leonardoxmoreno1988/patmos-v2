@@ -1,3 +1,4 @@
+import { ArrowRight } from "lucide-react";
 import { useEffect, useState } from 'react';
 import { createFileRoute } from '@tanstack/react-router';
 import { createClient } from '@supabase/supabase-js';
@@ -141,7 +142,7 @@ function HomePage() {
             href="/dashboard" 
             className="inline-flex items-center justify-center bg-[#000f37] text-[#f9fafb] text-base font-semibold px-8 py-3.5 rounded-lg hover:bg-black transition-all dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100"
           >
-            {lang === 'es' ? "Usar Patmos Gratis →" : "Use Patmos for Free →"}
+            {lang === 'es' ? "Usar Patmos Gratis" : "Use Patmos for Free"}<ArrowRight className="ml-2 h-4 w-4" aria-hidden="true" />
           </a>
         </div>
 

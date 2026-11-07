@@ -1,3 +1,4 @@
+import { ArrowRight } from "lucide-react";
 import { useI18n, type Lang } from "@/i18n";
 import { localizeBookName } from "@/lib/bible";
 
@@ -134,7 +135,7 @@ export function EtsyArtCarousel() {
                   {localizeReference(artwork.reference, lang)}
                 </p>
                 <p className="text-xs font-medium text-primary transition-colors hover:underline dark:text-white dark:hover:text-white/90">
-                  {t.etsy.viewOnEtsy}
+                  {t.etsy.viewOnEtsy} <ArrowRight className="inline-block h-3 w-3 align-[-1px]" aria-hidden="true" />
                 </p>
               </div>
             </a>

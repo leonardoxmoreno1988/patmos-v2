@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { createFileRoute } from "@tanstack/react-router";
-import { Star } from "lucide-react";
+import { ArrowLeft, Star } from "lucide-react";
 
 import { SiteHeader } from "@/components/reader/site-header";
 import { PUBLIC_PAGE_HEADERS, seoHead } from "@/lib/seo";
@@ -69,7 +69,7 @@ function NewsletterPage() {
 
  return (
   <div className="min-h-screen bg-background">
-   <SiteHeader rightLink={{ to: "/", label: "← Volver al lector" }} />
+   <SiteHeader rightLink={{ to: "/", label: <><ArrowLeft className="inline-block h-3.5 w-3.5 align-[-2px]" aria-hidden="true" /> Volver al lector</> }} />
 
 
    <main className="mx-auto max-w-3xl px-4 py-12">

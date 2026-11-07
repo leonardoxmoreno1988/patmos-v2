@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { createFileRoute, Link, useNavigate, useSearch } from "@tanstack/react-router";
-import { ArrowRight, BookOpen, MessageSquare } from "lucide-react";
+import { ArrowRight, ArrowUpRight, BookOpen, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { LazyConsultaPatmos, preloadConsulta } from "@/components/reader/consulta-patmos-lazy";
 import { useQuery } from "@tanstack/react-query";
@@ -138,7 +138,7 @@ function Home() {
               <div className="flex flex-wrap items-center justify-between gap-2.5">
                 <span className="text-[11px] font-semibold tracking-wider uppercase text-muted-foreground">{t.dashboard.verseOfDayLabel}</span>
                 <a href={dailyVerse.readerUrl} className="text-xs font-medium text-muted-foreground hover:text-foreground transition-colors inline-flex items-center gap-1">
-                  <span>{dailyVerse.reference} · {dailyVerse.version}</span><span aria-hidden="true" className="text-[10px]">↗</span>
+                  <span>{dailyVerse.reference} · {dailyVerse.version}</span><ArrowUpRight aria-hidden="true" className="h-3 w-3 shrink-0 opacity-70" />
                 </a>
               </div>
               <p className="mt-3 text-base sm:text-lg md:text-xl italic text-foreground/90 leading-relaxed font-normal">

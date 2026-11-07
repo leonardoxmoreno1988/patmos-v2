@@ -98,7 +98,7 @@ export const es = {
   etsy: {
     region: "Láminas e ilustraciones teológicas",
     heading: "Descarga Digital",
-    viewOnEtsy: "Ver en Etsy →",
+    viewOnEtsy: "Ver en Etsy",
   },
   authModal: {
     title: "Tu cuenta",

@@ -1,4 +1,4 @@
-import { lazy, Suspense, useEffect, useState } from "react";
+import { lazy, Suspense, useEffect, useState, type ReactNode } from "react";
 import { Link } from "@tanstack/react-router";
 import { PatmosWordmark } from "@/components/brand/patmos-wordmark";
 
@@ -11,7 +11,7 @@ const loadGlobalSearch = () => import("./global-search");
 const GlobalSearch = lazy(() => loadGlobalSearch().then((m) => ({ default: m.GlobalSearch })));
 
 interface SiteHeaderProps {
-  rightLink?: { to: string; label: string };
+  rightLink?: { to: string; label: ReactNode };
 }
 
 export function SiteHeader({

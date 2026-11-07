@@ -99,7 +99,7 @@ export const en: Dictionary = {
   etsy: {
     region: "Theological prints and illustrations",
     heading: "Digital Download",
-    viewOnEtsy: "View on Etsy →",
+    viewOnEtsy: "View on Etsy",
   },
   authModal: {
     title: "Your Account",
