@@ -217,8 +217,7 @@ export const es = {
     heroTitle: "Plataforma de Estudio Bíblico",
   },
   dashboard: {
-    title: "Panel de Control",
-    subtitle: "Accede a tus herramientas de estudio, lecturas bíblicas y notas personales.",
+    title: "Panel de Estudio",
   },
   footer: {
     rights: "Todos los derechos reservados.",

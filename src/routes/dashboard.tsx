@@ -130,25 +130,21 @@ function Home() {
       <SiteHeader />
   
       <main className="mx-auto max-w-6xl px-6">
-        <section className="py-14 text-center md:py-20">
-          <h1 className="sr-only">{t.home.srTitle}</h1>
-          
-          {/* Título visible únicamente en desktop */}
-          <p aria-hidden="true" className="hidden md:block font-bold tracking-tight text-foreground mb-6 text-4xl md:text-5xl lg:text-6xl">
-            {t.dashboard.title}
-          </p>
-  
-          <p className="mx-auto max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
-            {t.dashboard.subtitle}
-          </p>
-  
-          <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
-            <Button asChild size="lg" className="h-11 rounded-full px-6 dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100">
+        <section className="flex flex-col gap-4 border-b border-border/40 pt-8 pb-6 mb-8 md:flex-row md:items-center md:justify-between md:pt-10">
+          <div className="min-w-0">
+            <h1 className="text-2xl font-bold tracking-tight text-foreground">{t.dashboard.title}</h1>
+            <p className="text-xs sm:text-sm text-muted-foreground mt-0.5">
+              {lang === "es" ? "Reina-Valera 1865 · Sesión activa: " : "Reina-Valera 1865 · Active session: "}
+              {lastBook} {last.cap}
+            </p>
+          </div>
+          <div className="flex items-center gap-2.5 flex-wrap">
+            <Button asChild className="h-10 rounded-full px-5 dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100">
               <Link {...readerLinkProps(lang, last.libro, Number(last.cap))}>
-                <BookOpen /> {t.home.continueReading} ({lastBook} {last.cap})
+                <BookOpen /> {t.home.continueReading} <span className="text-xs opacity-80">({lastBook} {last.cap})</span>
               </Link>
             </Button>
-            <Button variant="outline" size="lg" className="h-11 rounded-full px-6" onPointerEnter={preloadConsulta} onFocus={preloadConsulta} onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
+            <Button variant="outline" size="lg" className="h-10 rounded-full px-5" onPointerEnter={preloadConsulta} onFocus={preloadConsulta} onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
               <MessageSquare /> {t.home.askPatmos}
             </Button>
           </div>

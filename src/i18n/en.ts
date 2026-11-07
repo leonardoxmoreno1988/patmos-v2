@@ -218,8 +218,7 @@ export const en: Dictionary = {
     heroTitle: "Bible Study Platform",
   },
   dashboard: {
-    title: "Dashboard",
-    subtitle: "Access your research tools, scripture reading, and personal notes.",
+    title: "Study Workspace",
   },
   footer: {
     rights: "All rights reserved.",
