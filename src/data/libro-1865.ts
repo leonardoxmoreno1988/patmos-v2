@@ -1030,61 +1030,244 @@ export const LIBRO_1865: Book = {
     number: 5,
     title: "Cuarta evidencia: la fidelidad del texto",
     summary: "Plantea que ninguna traducción transmite con exactitud todo el significado del original, y defiende la fidelidad de cada palabra de la Biblia Reina-Valera de 1865.",
-    readingTimeMinutes: 14,
-    content: [
-      "Al entrar a hablar del texto, de las palabras y de cada palabra escrita en la Biblia Reina-Valera 1865, se plantea algo muy importante en cuanto a las traducciones en general.",
-      "Es el hecho de que ninguna traducción es perfecta en el sentido de poder trasladar de un idioma a otro el cien por ciento del significado original, incluyendo los matices especiales del significado de la palabra o frase original, las connotaciones culturales, etc. En ese sentido es completamente cierto que ninguna traducción es perfecta.",
-      "Notemos, querido hermano Lugardo, que es por esa razón que la abrumadora mayoría ¿O todas? las Confesiones de Fe de las diversas denominaciones cristianas rehúsan reconocer que las palabras de la Biblia TRADUCIDAS sean consideradas divinas, inspiradas por Dios, perfectas e infalibles.",
-      "Hasta el momento yo no he podido encontrar una Declaración de Fe (aparte de la de nosotros como Creyentes de la Biblia) en donde ellos confiesen que NO SOLAMENTE los manuscritos originales son inspirados por Dios sino también una Biblia traducida.",
-      "¡Claro! Una de las razones principales de no querer reconocer que una Biblia traducida es inspirada por Dios y por lo tanto perfecta y sin errores, es que al hacerlo NECESARIAMENTE DEBEN RECONOCER Y CREER QUE HAY UNA SOLA VERSIÓN VENIDA DE DIOS MISMO EN CADA IDIOMA. Porque si una sola de las traducciones es inspirada por Dios, ¡TODAS LAS DEMÁS VERSIONES QUEDAN EXCLUIDAS!!!",
-      "Es por eso que para el idioma español o castellano nosotros como Creyentes de la Biblia creemos y proclamamos que la revisión de 1865 de la traducción de Reina y Valera es precisamente aquella que fue inspirada por Dios EN LA TRADUCCIÓN AL CASTELLANO y no únicamente en los manuscritos originales. Esto excluye a toda otra versión como inspirada por Dios.",
-      "Bueno, hermano Lugardo, examinaremos con cuidado los dos conceptos que estamos manejando aquí. Uno de ellos es acerca de la traducción, y el otro acerca de la doble inspiración de la Biblia.",
-      "Pues estábamos diciendo primero que ninguna traducción es perfecta. Entonces ¿Cómo podemos decir que las palabras de Dios de la Biblia 1865 en castellano son perfectas y divinas, si la traducción del hebreo y el griego al español (o a cualquier idioma) no puede ser perfecta?",
-      "La respuesta es sencilla de entender: una vez que Dios ha usado como instrumento divino a los mejores hombres que Él ha tenido para dicha tarea, generando una traducción lo más fiel que sea posible a los originales en hebreo y en griego, entonces ESAS PALABRAS TRADUCIDAS SON LAS MISMAS Y EXACTAS PALABRAS DE DIOS, INSPIRADAS POR EL ESPÍRITU SANTO PERO ESTA VEZ EN UN IDIOMA DIFERENTE.",
-      "Al llegar a este punto se marca la diferencia entre la fe verdadera de un cristiano y los conceptos “académicos” que manejan, llenos de soberbia, los señores de la ciencia bíblica contemporánea. Cualquier erudito del día de hoy, tal como lo califica Dios en Revelación (Apocalipsis) 3:17c y 18c es cuitado, y miserable, y pobre, y ciego, y desnudo. (...) y unge tus ojos con colirio, para que veas.",
-      "Ya hemos hablado de cómo los líderes del pueblo cristiano, los eruditos y doctores, confiesan ellos mismos que no hay ninguna Biblia perfecta. En la enseñanza de ellos al pueblo evangélico, nosotros tenemos LA CASI-BIBLIA pero no tenemos LA BIBLIA. Según proclaman ellos, nuestra Biblia (cualquier versión) es CONFIABLE (¿Qué porcentaje tiene de confiabilidad? ¿Tal vez 90 por ciento confiable? ¿O tal vez 95 por ciento?) Pero no es PERFECTA. Es por eso que podrían llamarle LA CASI-BIBLIA. Porque nunca entienden y nunca lo creen, que Dios no es como el hombre que hace las cosas imperfectas e incompletas.",
-      "Se confirma pues, exactamente como Dios lo diagnostica, a los creyentes del tiempo de Laodicea (nuestro tiempo) como cristianos que no conocen en absoluto el poder de Dios, y la razón de no conocerlo es por su incredulidad.",
-      "A continuación vamos a mostrar un ejemplo palpable de aquella incredulidad de los grandes líderes cristianos del tiempo actual de Laodicea.",
-      "Mencionaremos lo que afirma Samuel Escobar, connotado Autor y Conferencista cristiano y uno de los fundadores de la FTL (Fraternidad Teológica Latinoamericana), en una pequeña entrevista que dio en el año 2013: 35",
-      "(Pregunta de la entrevistadora): “Y dígame en cuanto a esto que hacía referencia también hace unos momentos de que en realidad todo esto que la ciencia va descubriendo ¿No diverge tanto de lo que la Biblia explica en cuanto a la sucesión y al orden de aparición en la tierra de vida, no?”",
-      "(Respuesta de Samuel Escobar): “Sí, eso es algo notable que la ciencia, vamos a decir, nos ha permitido entender cómo se formó la tierra, cómo ha evolucionado, cómo hemos ido pasando de la materia inorgánica a la materia viva y luego a las diferentes especies y el relato que nos ofrece la Biblia, digamos, sigue el mismo orden pero es un relato que tiene 2,000 años, más de 2,000 años de antigüedad antes que existiera la ciencia y todo eso, el relato bíblico nos da una idea que no entra en contradicción abierta con lo que sostiene la ciencia.”",
-      "Aunque la pregunta que le hacen no es directamente acerca de qué es la Biblia, la respuesta de Samuel Escobar, líder muy conocido en el campo evangélico, nos muestra su posición y la de muchos otros: que lo que está narrado en los primeros capítulos de Génesis acerca de la creación en realidad es algo parecido a una “historia mitológica” porque Dios no creó el mundo en siete días, ya que eso fue escrito (dice) miles de años atrás cuando todavía no existía la ciencia. ¿Se da cuenta hermano Lugardo? Pueden creer a pie juntillas el cuento fantasioso y engañador de la evolución pero son incrédulos respecto a lo que Dios ha escrito en su palabra. ¡No creen la Biblia, por lo tanto no conocen al Dios de la Biblia!!!. Se cumple en ellos las palabras del Señor Jesús:",
-      "En aquel tiempo respondiendo Jesús, dijo: Gracias te doy, Padre, Señor del cielo y de la tierra, porque escondiste estas cosas a los sabios y entendidos, y las has revelado a los niños. Así, Padre, pues que así agradó a tus ojos. 36",
-      "35 Entrevista grabada en el siguiente URL: https://www.youtube.com/watch?v=xRKkWbnun70&t=307s",
-      "36 Mateo 11:25-26",
-      "Quienes nos llamamos Creyentes de la Biblia somos objeto de burla de los demás cristianos. ¡Gloria a Dios por eso!. Somos iguales a los niños a quienes menciona el Señor en este pasaje: llenos de fe en la palabra de Dios, entendiendo cabalmente sus misterios mientras los “CREYENTES INCRÉDULOS” del tiempo de Laodicea, que se consideran a sí mismos sabios y entendidos, no comprenden nada de las maravillas de Dios.",
-      "De manera, pues, que acabamos de hablar acerca de que, no obstante que al traducir del hebreo y el griego al castellano no se puede traspasar el cien por ciento del significado original de esos idiomas al español, sin embargo las palabras que quedaron traducidas CONSTITUYEN LAS MISMAS Y EXACTAS PALABRAS DE DIOS, PERFECTAS E INFALIBLES, PERO ESTA VEZ EN IDIOMA CASTELLANO.",
-      "Eso nos lleva a definir lo que a veces se conoce como la DOBLE INSPIRACIÓN DE LAS ESCRITURAS. Significando que al igual que los manuscritos originales fueron inspirados por Dios (en griego y en hebreo) de la misma manera DIOS INSPIRÓ DIRECTAMENTE A LOS FIELES TRADUCTORES QUE ÉL MISMO ESCOGIÓ, EN EL PROCESO DE TRASLADAR DE UN IDIOMA AL OTRO.",
-      "Por supuesto es necesario explicar que hay una diferencia entre los dos niveles de inspiración: porque en el segundo caso (Dios inspiró la traducción) el proceso no consistió en generar nuevas revelaciones ni nuevas palabras sino en TRASPASAR DE LA MANERA MÁS FIEL Y EXACTA POSIBLE LAS PALABRAS QUE YA ERAN INSPIRADAS POR DIOS EN HEBREO Y EN GRIEGO, AL IDIOMA CASTELLANO.",
-      "También entendemos que las palabras originales de Dios, que constituyen la base para toda traducción a cualquier idioma, han sido y seguirán siendo aquellas que Dios nos reveló por medio de los idiomas originales: hebreo en el Antiguo Testamento, y griego en el caso del Nuevo Testamento.",
-      "Ahora bien, quisiera decirle a continuación hermano Lugardo algo que verdaderamente va a sacudir bastante una tradición grandemente arraigada en el campo cristiano, y es el uso de los idiomas originales en el estudio de la Biblia.",
-      "Entendemos y creemos que Dios sabe hablar perfectamente bien el idioma español y que por eso nos habla directamente en nuestro idioma. Y que cada palabra en la Biblia 1865 es exacta, es perfecta, es divina, es infalible.",
-      "Entonces la conclusión es bastante lógica: si Dios nos ha hablado directamente en castellano, ¿CUÁL ES LA NECESIDAD DE RECURRIR A LOS IDIOMAS ORIGINALES HEBREO Y GRIEGO CON TAL DE ENTENDER PROFUNDAMENTE LA BIBLIA???",
-      "Los originales de la Biblia en hebreo y griego seguirán siendo la base para nuevas traducciones (en idiomas que aún no tienen la Biblia). Pero ¿qué necesidad tenemos nosotros de recurrir al hebreo y al griego??? ¿O es que no creemos realmente que Dios nos ha hablado en español???",
-      "En realidad romper con las tradiciones “cristianas” es tan duro ahora como lo fue en los días del Señor Jesús. Los estudiosos de los idiomas bíblicos (que no lleva nada de malo el serlo) han hecho creer a los creyentes que NO SE PUEDE ENTENDER REALMENTE LAS ESCRITURAS SI NO ES POR EL DOMINIO DEL HEBREO Y DEL GRIEGO.",
-      "Entonces la tradición ha continuado durante años y años. Cada predicador se esmera en analizar la raíz original de cierta palabra, explicando la conjugación del verbo en griego, etc., y lo hace así en cada predicación, de manera que la impresión que deja en todos los oyentes es la siguiente: que estudiar la Biblia en español (o en inglés, o en cualquier idioma) es como estudiar una Biblia “de segunda categoría” ya que en realidad NO SE COMPRENDE CABALMENTE LA BIBLIA, SUPUESTAMENTE, SI NO ES POR ACUDIR (RETROCEDER) A LOS IDIOMAS ORIGINALES.",
-      "¡Nosotros queremos romper esa larga tradición, hermano Lugardo!!! A mí personalmente me encanta romper las tradiciones cuando encuentro que no concuerdan con la Biblia. Si Dios nos ha hablado EN ESPAÑOL hay que estudiar las conjugaciones, los matices de significado de cada palabra en castellano, no en griego ni en hebreo.",
-      "Otro punto necesario de tratar aquí es en cuanto a una de las líneas prevalecientes más destacadas en medio del mundo en la época de Laodicea: EL RELATIVISMO, el cual influye en todas las áreas de pensamiento actualmente. El concepto es el siguiente: que LA VERDAD NO EXISTE, y por lo tanto todo lo que hay es relativo, NADA ES ABSOLUTO, NADA ES VERDADERO.",
-      "Según el relativismo, como la verdad no existe, entonces tú tienes tu propia verdad, mi vecino tiene la suya, y yo la mía. Cada uno inventa su propia verdad. La clave está en que nos respetemos unos a otros, y no interesa en qué creamos, da lo mismo que creamos en cualquier cosa, porque LA VERDAD QUE ES UNA SOLA PARA TODOS, LA VERDAD ABSOLUTA, simplemente no existe.",
-      "Los eruditos bíblicos de nuestra época pueden afirmar que ellos creen en la palabra de Dios, y ante el pueblo cristiano aparentan ser fieles a la Biblia, pero en términos reales NO LA CREEN. Han sido ganados completamente por el relativismo.",
-      "La persona que más ha influenciado en la filosofía de los traductores bíblicos del tiempo presente ha sido Eugenio (Eugene) Nida. Hacia los inicios de los años 60 Eugenio Nida comenzó a enseñar un concepto de su creación llamado la Equivalencia Dinámica en el campo de la lingüística y de la traducción. De tal manera que la enorme mayoría de las versiones bíblicas modernas se han elaborado siguiendo los conceptos de la Equivalencia Dinámica de Eugenio Nida.",
-      "EL RELATIVISMO ES LA BASE Y EL CIMIENTO DE LA EQUIVALENCIA DINÁMICA. Como “No existe ninguna verdad absoluta” entonces esto se aplica en el campo de la lingüística restándole valor a las palabras individuales del idioma (porque si no hay verdad absoluta, tampoco las palabras tienen valor absoluto). Históricamente los traductores en el mundo entero aplicaban durante muchos siglos el concepto de EQUIVALENCIA FORMAL hasta la llegada de Eugenio Nida quien trastocó el entendimiento de la ciencia de la traducción. La Equivalencia Formal significaba traducir “palabra por palabra” de un idioma a otro. Es decir, encontrar la palabra más fiel y exacta posible equivalente a la palabra original, en el idioma que se traduce. Por supuesto que no en todos los casos es esto posible, ya que por ejemplo a veces una sola palabra en el idioma original equivale a dos o tres palabras en el idioma traducido si se trata de ser fiel al significado.",
-      "Nida cambió totalmente las cosas RELATIVIZANDO EL VALOR DE CADA PALABRA. Según su Equivalencia Dinámica, no hay que traducir palabra por palabra sino idea por idea, o concepto por concepto. Es decir, NO IMPORTA MUCHO QUÉ PALABRAS SE USEN PORQUE LO QUE INTERESA REALMENTE NO SON LAS PALABRAS SINO LAS IDEAS.",
-      "¿Cómo es posible que nadie se dé cuenta de que la Equivalencia Dinámica es una simple falacia? Porque si hablamos de las ideas o conceptos, estos conceptos o ideas no flotan sueltos en el aire. CADA IDEA DEPENDE ABSOLUTAMENTE DE LA PALABRA QUE SE USE. ¿Cómo entonces se puede trasladar de un idioma al otro la idea exacta si no es por una palabra que conlleve la misma idea de la manera más fiel posible???",
-      "Finalmente, vamos a mostrar varios ejemplos de la exactitud y fidelidad de las palabras que Dios nos ha dado en la Biblia de 1865.",
-      "Uno de ellos es el texto de Actos (Hechos) 20:28:",
-      "Por tanto mirad por vosotros, y por todo el rebaño sobre el que el Espíritu Santo os ha puesto por sobreveedores, para apacentar la iglesia de Dios, la cual él ganó con su propia sangre.",
-      "La palabra Dios en este caso en varias de las versiones modernas ha sido reemplazada por la palabra “Señor” lo cual es una abierta adulteración de la palabra original en griego. Como vemos, este versículo está afirmando de manera enfática la divinidad del Señor Jesús.",
-      "También lo vemos en Lucas 2:22-23, después del nacimiento del Señor Jesús:",
-      "Y como se cumplieron los días de la purificación de María conforme a la ley de Moisés, le trajeron a Jerusalem para presentarle al Señor,",
-      "La Biblia 1865 es también aquí sumamente fiel y exacta porque la que debía purificarse era LA MADRE, después del parto, y no el marido ni tampoco el recién nacido. Pero la versión Reina-Valera de 1960 (y también varias otras versiones) lo cambian sin ningún temor de Dios poniendo lo siguiente:",
-      "Y cuando se cumplieron los días de la purificación de ellos, conforme a la ley de Moisés, le trajeron a Jerusalén para presentarle al Señor.",
-      "Aunque no lo sabemos a ciencia cierta, tal vez el catolicismo influyó en adulterar este versículo de manera descarada, ya que los católicos no pueden aceptar el hecho de que María tenía que purificarse. Si así fuera cierto no sería de extrañar ya que Eugenio Nida, uno de los responsables de la revisión de 1960, tenía amistad con los católicos.",
-      "Otro ejemplo de la falta de temor de Dios alterando las palabras de la Biblia es el de Actos (Hechos) 23:5 que dice lo siguiente:",
-      "Y Pablo dijo: No sabía yo, hermanos, que era el sumo sacerdote; porque escrito está: No hablarás mal del gobernador de tu pueblo.",
-      "La versión Reina-Valera de 1960 y con ella otras también, ponen lo siguiente:",
-      "Pablo dijo: No sabía, hermanos, que era el sumo sacerdote; pues escrito está: No maldecirás a un príncipe de tu pueblo.",
-      "Si nos atenemos a la cita del Antiguo Testamento, en Éxodo 22:28, efectivamente allí se usa la palabra “maldecirás”. Pero en Actos 23:5 NO ES LA PALABRA MALDECIRÁS (En el original griego) sino tal como se encuentra en la Biblia 1865 No hablarás mal. Quienes hicieron la revisión de 1960 trataron de “corregir” las palabras que Dios usa en Actos 23:5 para hacerlas concordar con Éxodo 22:28.",
+    readingTimeMinutes: 10,
+    content: [],
+    blocks: [
+      {
+        "type": "paragraph",
+        "text": "Al entrar a hablar del texto, de las palabras y de cada palabra escrita en la Biblia Reina-Valera 1865, se plantea algo muy importante en cuanto a las traducciones en general."
+      },
+      {
+        "type": "paragraph",
+        "text": "Es el hecho de que ninguna traducción es perfecta en el sentido de poder trasladar de un idioma a otro el cien por ciento del significado original, incluyendo los matices especiales del significado de la palabra o frase original, las connotaciones culturales, etc. En ese sentido es completamente cierto que ninguna traducción es perfecta."
+      },
+      {
+        "type": "paragraph",
+        "text": "Notemos, querido hermano Lugardo, que es por esa razón que la abrumadora mayoría ¿O todas? las Confesiones de Fe de las diversas denominaciones cristianas rehúsan reconocer que las palabras de la Biblia TRADUCIDAS sean consideradas divinas, inspiradas por Dios, perfectas e infalibles."
+      },
+      {
+        "type": "paragraph",
+        "text": "Hasta el momento yo no he podido encontrar una Declaración de Fe (aparte de la de nosotros como Creyentes de la Biblia) en donde ellos confiesen que NO SOLAMENTE los manuscritos originales son inspirados por Dios sino también una Biblia traducida."
+      },
+      {
+        "type": "paragraph",
+        "text": "¡Claro! Una de las razones principales de no querer reconocer que una Biblia traducida es inspirada por Dios y por lo tanto perfecta y sin errores, es que al hacerlo NECESARIAMENTE DEBEN RECONOCER Y CREER QUE HAY UNA SOLA VERSIÓN VENIDA DE DIOS MISMO EN CADA IDIOMA. Porque si una sola de las traducciones es inspirada por Dios, ¡TODAS LAS DEMÁS VERSIONES QUEDAN EXCLUIDAS!"
+      },
+      {
+        "type": "paragraph",
+        "text": "Es por eso que para el idioma español o castellano nosotros como Creyentes de la Biblia creemos y proclamamos que la revisión de 1865 de la traducción de Reina y Valera es precisamente aquella que fue inspirada por Dios EN LA TRADUCCIÓN AL CASTELLANO y no únicamente en los manuscritos originales. Esto excluye a toda otra versión como inspirada por Dios."
+      },
+      {
+        "type": "subheading",
+        "text": "La traducción y la doble inspiración"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bueno, hermano Lugardo, examinaremos con cuidado los dos conceptos que estamos manejando aquí. Uno de ellos es acerca de la traducción, y el otro acerca de la doble inspiración de la Biblia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pues estábamos diciendo primero que ninguna traducción es perfecta. Entonces ¿Cómo podemos decir que las palabras de Dios de la Biblia 1865 en castellano son perfectas y divinas, si la traducción del hebreo y el griego al español (o a cualquier idioma) no puede ser perfecta?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La respuesta es sencilla de entender: una vez que Dios ha usado como instrumento divino a los mejores hombres que Él ha tenido para dicha tarea, generando una traducción lo más fiel que sea posible a los originales en hebreo y en griego, entonces ESAS PALABRAS TRADUCIDAS SON LAS MISMAS Y EXACTAS PALABRAS DE DIOS, INSPIRADAS POR EL ESPÍRITU SANTO PERO ESTA VEZ EN UN IDIOMA DIFERENTE."
+      },
+      {
+        "type": "paragraph",
+        "text": "Al llegar a este punto se marca la diferencia entre la fe verdadera de un cristiano y los conceptos “académicos” que manejan, llenos de soberbia, los señores de la ciencia bíblica contemporánea. Cualquier erudito del día de hoy, tal como lo califica Dios en Revelación 3:17-18, es *cuitado, y miserable, y pobre, y ciego, y desnudo (...) y unge tus ojos con colirio, para que veas*."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ya hemos hablado de cómo los líderes del pueblo cristiano, los eruditos y doctores, confiesan ellos mismos que no hay ninguna Biblia perfecta. En la enseñanza de ellos al pueblo evangélico, nosotros tenemos LA CASI-BIBLIA pero no tenemos LA BIBLIA. Según proclaman ellos, nuestra Biblia (cualquier versión) es CONFIABLE (¿Qué porcentaje tiene de confiabilidad? ¿Tal vez 90 por ciento confiable? ¿O tal vez 95 por ciento?) Pero no es PERFECTA. Es por eso que podrían llamarle LA CASI-BIBLIA. Porque nunca entienden y nunca lo creen, que Dios no es como el hombre que hace las cosas imperfectas e incompletas."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se confirma pues, exactamente como Dios lo diagnostica, a los creyentes del tiempo de Laodicea (nuestro tiempo) como cristianos que no conocen en absoluto el poder de Dios, y la razón de no conocerlo es por su incredulidad."
+      },
+      {
+        "type": "subheading",
+        "text": "La incredulidad contemporánea y la ciencia"
+      },
+      {
+        "type": "paragraph",
+        "text": "A continuación vamos a mostrar un ejemplo palpable de aquella incredulidad de los grandes líderes cristianos del tiempo actual de Laodicea. Mencionaremos lo que afirma Samuel Escobar, connotado autor y conferencista cristiano y uno de los fundadores de la FTL (Fraternidad Teológica Latinoamericana), en una entrevista dada en el año 2013:"
+      },
+      {
+        "type": "quote",
+        "text": "Sí, eso es algo notable que la ciencia, vamos a decir, nos ha permitido entender cómo se formó la tierra, cómo ha evolucionado, cómo hemos ido pasando de la materia inorgánica a la materia viva y luego a las diferentes especies y el relato que nos ofrece la Biblia, digamos, sigue el mismo orden pero es un relato que tiene 2,000 años, más de 2,000 años de antigüedad antes que existiera la ciencia y todo eso, el relato bíblico nos da una idea que no entra en contradicción abierta con lo que sostiene la ciencia.",
+        "author": "Samuel Escobar",
+        "source": "Entrevista FTL (2013)",
+        "sourceUrl": "https://www.youtube.com/watch?v=xRKkWbnun70&t=307s"
+      },
+      {
+        "type": "paragraph",
+        "text": "Aunque la pregunta que le hacen no es directamente acerca de qué es la Biblia, la respuesta de Samuel Escobar, líder muy conocido en el campo evangélico, nos muestra su posición y la de muchos otros: que lo que está narrado en los primeros capítulos de Génesis acerca de la creación en realidad es algo parecido a una “historia mitológica” porque Dios no creó el mundo en siete días, ya que eso fue escrito (dice) miles de años atrás cuando todavía no existía la ciencia. ¿Se da cuenta hermano Lugardo? Pueden creer a pie juntillas el cuento fantasioso y engañador de la evolución pero son incrédulos respecto a lo que Dios ha escrito en su palabra. ¡No creen la Biblia, por lo tanto no conocen al Dios de la Biblia! Se cumple en ellos las palabras del Señor Jesús:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Mateo 11:25-26",
+        "version": "RV1865",
+        "text": "En aquel tiempo respondiendo Jesús, dijo: Gracias te doy, Padre, Señor del cielo y de la tierra, porque escondiste estas cosas a los sabios y entendidos, y las has revelado a los niños. Así, Padre, pues que así agradó a tus ojos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quienes nos llamamos Creyentes de la Biblia somos objeto de burla de los demás cristianos. ¡Gloria a Dios por eso! Somos iguales a los niños a quienes menciona el Señor en este pasaje: llenos de fe en la palabra de Dios, entendiendo cabalmente sus misterios mientras los “CREYENTES INCRÉDULOS” del tiempo de Laodicea, que se consideran a sí mismos sabios y entendidos, no comprenden nada de las maravillas de Dios."
+      },
+      {
+        "type": "subheading",
+        "text": "La doble inspiración de las Escrituras"
+      },
+      {
+        "type": "paragraph",
+        "text": "De manera, pues, que acabamos de hablar acerca de que, no obstante que al traducir del hebreo y el griego al castellano no se puede traspasar el cien por ciento del significado original de esos idiomas al español, sin embargo las palabras que quedaron traducidas CONSTITUYEN LAS MISMAS Y EXACTAS PALABRAS DE DIOS, PERFECTAS E INFALIBLES, PERO ESTA VEZ EN IDIOMA CASTELLANO."
+      },
+      {
+        "type": "paragraph",
+        "text": "Eso nos lleva a definir lo que a veces se conoce como la DOBLE INSPIRACIÓN DE LAS ESCRITURAS. Significando que al igual que los manuscritos originales fueron inspirados por Dios (en griego y en hebreo) de la misma manera DIOS INSPIRÓ DIRECTAMENTE A LOS FIELES TRADUCTORES QUE ÉL MISMO ESCOGIÓ, EN EL PROCESO DE TRASLADAR DE UN IDIOMA AL OTRO."
+      },
+      {
+        "type": "paragraph",
+        "text": "Por supuesto es necesario explicar que hay una diferencia entre los dos niveles de inspiración: porque en el segundo caso (Dios inspiró la traducción) el proceso no consistió en generar nuevas revelaciones ni nuevas palabras sino en TRASPASAR DE LA MANERA MÁS FIEL Y EXACTA POSIBLE LAS PALABRAS QUE YA ERAN INSPIRADAS POR DIOS EN HEBREO Y EN GRIEGO, AL IDIOMA CASTELLANO."
+      },
+      {
+        "type": "paragraph",
+        "text": "También entendemos que las palabras originales de Dios, que constituyen la base para toda traducción a cualquier idioma, han sido y seguirán siendo aquellas que Dios nos reveló por medio de los idiomas originales: hebreo en el Antiguo Testamento, y griego en el caso del Nuevo Testamento."
+      },
+      {
+        "type": "subheading",
+        "text": "¿Por qué prescindir del hebreo y del griego?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ahora bien, quisiera decirle a continuación hermano Lugardo algo que verdaderamente va a sacudir bastante una tradición grandemente arraigada en el campo cristiano, y es el uso de los idiomas originales en el estudio de la Biblia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Entendemos y creemos que Dios sabe hablar perfectamente bien el idioma español y que por eso nos habla directamente en nuestro idioma. Y que cada palabra en la Biblia 1865 es exacta, es perfecta, es divina, es infalible."
+      },
+      {
+        "type": "paragraph",
+        "text": "Entonces la conclusión es bastante lógica: si Dios nos ha hablado directamente en castellano, ¿CUÁL ES LA NECESIDAD DE RECURRIR A LOS IDIOMAS ORIGINALES HEBREO Y GRIEGO CON TAL DE ENTENDER PROFUNDAMENTE LA BIBLIA?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los originales de la Biblia en hebreo y griego seguirán siendo la base para nuevas traducciones (en idiomas que aún no tienen la Biblia). Pero ¿qué necesidad tenemos nosotros de recurrir al hebreo y al griego? ¿O es que no creemos realmente que Dios nos ha hablado en español?"
+      },
+      {
+        "type": "paragraph",
+        "text": "En realidad romper con las tradiciones “cristianas” es tan duro ahora como lo fue en los días del Señor Jesús. Los estudiosos de los idiomas bíblicos (que no lleva nada de malo el serlo) han hecho creer a los creyentes que NO SE PUEDE ENTENDER REALMENTE LAS ESCRITURAS SI NO ES POR EL DOMINIO DEL HEBREO Y DEL GRIEGO."
+      },
+      {
+        "type": "paragraph",
+        "text": "Entonces la tradición ha continuado durante años y años. Cada predicador se esmera en analizar la raíz original de cierta palabra, explicando la conjugación del verbo en griego, etc., y lo hace así en cada predicación, de manera que la impresión que deja en todos los oyentes es la siguiente: que estudiar la Biblia en español (o en inglés, o en cualquier idioma) es como estudiar una Biblia “de segunda categoría” ya que en realidad NO SE COMPRENDE CABALMENTE LA BIBLIA, SUPUESTAMENTE, SI NO ES POR ACUDIR (RETROCEDER) A LOS IDIOMAS ORIGINALES."
+      },
+      {
+        "type": "paragraph",
+        "text": "¡Nosotros queremos romper esa larga tradición, hermano Lugardo! A mí personalmente me encanta romper las tradiciones cuando encuentro que no concuerdan con la Biblia. Si Dios nos ha hablado EN ESPAÑOL hay que estudiar las conjugaciones, los matices de significado de cada palabra en castellano, no en griego ni en hebreo."
+      },
+      {
+        "type": "subheading",
+        "text": "El relativismo y la Equivalencia Dinámica de Eugene Nida"
+      },
+      {
+        "type": "paragraph",
+        "text": "Otro punto necesario de tratar aquí es en cuanto a una de las líneas prevalecientes más destacadas en medio del mundo en la época de Laodicea: EL RELATIVISMO, el cual influye en todas las áreas de pensamiento actualmente. El concepto es el siguiente: que LA VERDAD NO EXISTE, y por lo tanto todo lo que hay es relativo, NADA ES ABSOLUTO, NADA ES VERDADERO."
+      },
+      {
+        "type": "paragraph",
+        "text": "Según el relativismo, como la verdad no existe, entonces tú tienes tu propia verdad, mi vecino tiene la suya, y yo la mía. Cada uno inventa su propia verdad. La clave está en que nos respetemos unos a otros, y no interesa en qué creamos, da lo mismo que creamos en cualquier cosa, porque LA VERDAD QUE ES UNA SOLA PARA TODOS, LA VERDAD ABSOLUTA, simplemente no existe."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los eruditos bíblicos de nuestra época pueden afirmar que ellos creen en la palabra de Dios, y ante el pueblo cristiano aparentan ser fieles a la Biblia, pero en términos reales NO LA CREEN. Han sido ganados completamente por el relativismo."
+      },
+      {
+        "type": "paragraph",
+        "text": "La persona que más ha influenciado en la filosofía de los traductores bíblicos del tiempo presente ha sido Eugenio (Eugene) Nida. Hacia los inicios de los años 60 Eugenio Nida comenzó a enseñar un concepto de traducción conocido como la Equivalencia Dinámica."
+      },
+      {
+        "type": "paragraph",
+        "text": "EL RELATIVISMO ES LA BASE Y EL CIMIENTO DE LA EQUIVALENCIA DINÁMICA. Como “no existe ninguna verdad absoluta” entonces esto se aplica en el campo de la lingüística restándole valor a las palabras individuales del idioma (porque si no hay verdad absoluta, tampoco las palabras tienen valor absoluto). Históricamente los traductores en el mundo entero aplicaban durante muchos siglos el concepto de EQUIVALENCIA FORMAL hasta la llegada de Eugenio Nida quien trastocó el entendimiento de la ciencia de la traducción. La Equivalencia Formal significaba traducir “palabra por palabra” de un idioma a otro. Es decir, encontrar la palabra más fiel y exacta posible equivalente a la palabra original, en el idioma que se traduce. Por supuesto que no en todos los casos es esto posible, ya que por ejemplo a veces una sola palabra en el idioma original equivale a dos o tres palabras en el idioma traducido si se trata de ser fiel al significado."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nida cambió totalmente las cosas RELATIVIZANDO EL VALOR DE CADA PALABRA. Según su Equivalencia Dinámica, no hay que traducir palabra por palabra sino idea por idea, o concepto por concepto. Es decir, NO IMPORTA MUCHO QUÉ PALABRAS SE USEN PORQUE LO QUE INTERESA REALMENTE NO SON LAS PALABRAS SINO LAS IDEAS."
+      },
+      {
+        "type": "paragraph",
+        "text": "¿Cómo es posible que nadie se dé cuenta de que la Equivalencia Dinámica es una simple falacia? Porque si hablamos de las ideas o conceptos, estos conceptos o ideas no flotan sueltos en el aire. CADA IDEA DEPENDE ABSOLUTAMENTE DE LA PALABRA QUE SE USE. ¿Cómo entonces se puede trasladar de un idioma al otro la idea exacta si no es por una palabra que conlleve la misma idea de la manera más fiel posible?"
+      },
+      {
+        "type": "subheading",
+        "text": "Tres pruebas textuales de fidelidad en la Biblia 1865"
+      },
+      {
+        "type": "paragraph",
+        "text": "Finalmente, vamos a mostrar varios ejemplos de la exactitud y fidelidad de las palabras que Dios nos ha dado en la Biblia de 1865."
+      },
+      {
+        "type": "paragraph",
+        "text": "Uno de ellos es el texto de Actos 20:28:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Actos 20:28",
+        "version": "RV1865",
+        "text": "Por tanto mirad por vosotros, y por todo el rebaño sobre el que el Espíritu Santo os ha puesto por sobreveedores, para apacentar la iglesia de Dios, la cual él ganó con su propia sangre."
+      },
+      {
+        "type": "paragraph",
+        "text": "La palabra *Dios* en este caso en varias de las versiones modernas ha sido reemplazada por la palabra “Señor” lo cual es una abierta adulteración de la palabra original en griego. Como vemos, este versículo está afirmando de manera enfática la divinidad del Señor Jesús."
+      },
+      {
+        "type": "paragraph",
+        "text": "También lo vemos en Lucas 2:22, después del nacimiento del Señor Jesús:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Lucas 2:22",
+        "version": "RV1865",
+        "text": "Y como se cumplieron los días de la purificación de María conforme a la ley de Moisés, le trajeron a Jerusalem para presentarle al Señor,"
+      },
+      {
+        "type": "paragraph",
+        "text": "La Biblia 1865 es también aquí sumamente fiel y exacta porque la que debía purificarse era LA MADRE, después del parto, y no el marido ni tampoco el recién nacido. Pero la versión Reina-Valera de 1960 (y también varias otras versiones) lo cambian sin ningún temor de Dios poniendo lo siguiente:"
+      },
+      {
+        "type": "quote",
+        "text": "Y cuando se cumplieron los días de la purificación de ellos, conforme a la ley de Moisés, le trajeron a Jerusalén para presentarle al Señor.",
+        "author": "Reina-Valera 1960",
+        "source": "Lucas 2:22 (Variante textual moderna)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Aunque no lo sabemos a ciencia cierta, tal vez el catolicismo influyó en adulterar este versículo de manera descarada, ya que los católicos no pueden aceptar el hecho de que María tenía que purificarse. Si así fuera cierto no sería de extrañar ya que Eugenio Nida, uno de los responsables de la revisión de 1960, tenía amistad con los católicos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Otro ejemplo de la falta de temor de Dios alterando las palabras de la Biblia es el de Actos 23:5:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Actos 23:5",
+        "version": "RV1865",
+        "text": "Y Pablo dijo: No sabía yo, hermanos, que era el sumo sacerdote; porque escrito está: No hablarás mal del gobernador de tu pueblo."
+      },
+      {
+        "type": "paragraph",
+        "text": "La versión Reina-Valera de 1960 y con ella otras también, ponen lo siguiente:"
+      },
+      {
+        "type": "quote",
+        "text": "Pablo dijo: No sabía, hermanos, que era el sumo sacerdote; pues escrito está: No maldecirás a un príncipe de tu pueblo.",
+        "author": "Reina-Valera 1960",
+        "source": "Actos 23:5 (Variante textual moderna)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Si nos atenemos a la cita del Antiguo Testamento, en Éxodo 22:28, efectivamente allí se usa la palabra “maldecirás”. Pero en Actos 23:5 NO ES LA PALABRA MALDECIRÁS (en el original griego) sino tal como se encuentra en la Biblia 1865: *No hablarás mal*. Quienes hicieron la revisión de 1960 trataron de “corregir” las palabras que Dios usa en Actos 23:5 para hacerlas concordar con Éxodo 22:28."
+      }
     ],
   },
   {
