@@ -134,7 +134,7 @@ function Home() {
       <main className="mx-auto max-w-6xl px-6">
         <section className="grid grid-cols-1 lg:grid-cols-12 gap-4 pt-8 mb-8 md:pt-10 items-stretch">
           <div className="lg:col-span-8 flex flex-col">
-            <div className="rounded-xl border border-border bg-card text-card-foreground p-5 flex flex-col justify-between shadow-sm transition-colors h-full">
+            <div className="rounded-xl border-0 dark:border-transparent bg-muted/70 dark:bg-card text-card-foreground p-5 flex flex-col justify-between shadow-none transition-colors h-full">
               <div className="flex flex-wrap items-center justify-between gap-2.5">
                 <span className="text-[11px] font-semibold tracking-wider uppercase px-2.5 py-0.5 rounded-full border border-primary/20 bg-primary/10 text-primary">
                   {t.dashboard.verseOfDayLabel}
@@ -149,7 +149,7 @@ function Home() {
             </div>
           </div>
           <div className="lg:col-span-4 flex flex-col">
-            <div className="rounded-xl border border-border bg-card text-card-foreground p-5 flex flex-col justify-between shadow-sm transition-colors h-full">
+            <div className="rounded-xl border-0 dark:border-transparent bg-muted/70 dark:bg-card text-card-foreground p-5 flex flex-col justify-between shadow-none transition-colors h-full">
               <div>
                 <p className="text-[11px] font-semibold tracking-wider uppercase text-muted-foreground">{t.dashboard.activeSessionLabel}</p>
                 <p className="text-sm sm:text-base font-medium text-foreground flex items-center gap-2 mt-1">
@@ -159,11 +159,11 @@ function Home() {
               <div className="mt-4 flex flex-col gap-2 w-full">
                 <Link
                   {...readerLinkProps(lang, last.libro, Number(last.cap))}
-                  className="w-full h-9 rounded-lg font-medium text-xs sm:text-sm bg-primary text-primary-foreground hover:bg-primary/90 flex items-center justify-center gap-2 shadow-sm transition-colors"
+                  className="w-full h-9 rounded-lg font-medium text-xs sm:text-sm bg-primary text-primary-foreground hover:bg-primary/90 flex items-center justify-center gap-2 shadow-none transition-colors"
                 >
                   <BookOpen className="size-4" aria-hidden="true" /> {t.home.continueReading}
                 </Link>
-                <Button variant="outline" className="w-full h-9 rounded-lg font-medium text-xs sm:text-sm border border-border bg-background hover:bg-accent hover:text-accent-foreground text-foreground flex items-center justify-center gap-2 transition-colors" onPointerEnter={preloadConsulta} onFocus={preloadConsulta} onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
+                <Button variant="outline" className="w-full h-9 rounded-lg font-medium text-xs sm:text-sm border border-border bg-background shadow-none hover:bg-accent hover:text-accent-foreground text-foreground flex items-center justify-center gap-2 transition-colors" onPointerEnter={preloadConsulta} onFocus={preloadConsulta} onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
               <MessageSquare /> {t.home.askPatmos}
             </Button>
               </div>
