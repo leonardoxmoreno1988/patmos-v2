@@ -1,6 +1,6 @@
 /** One element of a chapter in reading order. */
 export type ChapterBlock =
-  | { type: "paragraph"; text: string }
+  | { type: "paragraph"; text: string; variant?: "quote" | "lyrics" }
   | { type: "subheading"; text: string }
   | { type: "scripture"; reference: string; version: string; text: string };
 
@@ -160,84 +160,249 @@ export const LIBRO_1865: Book = {
     number: 2,
     title: "Primera evidencia: la época",
     summary: "Examina la época actual: el declive del cristianismo y el rechazo de la palabra de Dios en los países desarrollados, y la relación de ese panorama con lo que la Biblia anticipa.",
-    readingTimeMinutes: 17,
-    content: [
-      "La evidencia de la época proviene de la misma Biblia pero también puede ser sustentada en los hechos históricos sin ninguna dificultad, ya que es algo bastante evidente.",
-      "Nadie puede negar que la época nuestra es de terrible declinación en cuanto al cristianismo. Quedaron muy atrás en los siglos anteriores los grandes avivamientos cristianos: George Whitefield, Jonathan Edwards, John Wesley, Dwight Moody y otros. En el tiempo presente no hay ningún avivamiento espiritual porque nadie tiene hambre de la palabra de Dios.",
-      "En los países ricos y desarrollados el rechazo de todo lo que tenga que ver con Dios y con su palabra va aumentando a pasos agigantados. Europa se ha convertido en “la tumba del evangelio”. La generación joven del tiempo de hoy es absolutamente incrédula en cuanto a Dios. La fuerte declinación en la asistencia de las Iglesias es un índice bastante real del alejamiento de esta generación en cuanto a las cosas divinas.",
-      "El Señor Jesús ya lo había anunciado, en el tiempo final vendría la apostasía de la última generación:",
-      "Empero el Hijo del hombre, cuando viniere, ¿hallará fe en la tierra? 5",
-      "La palabra de Dios señala con claridad que han existido siete etapas en la historia de la Iglesia a lo largo de dos mil años, y esa secuencia profética la encontramos en los capítulos 2 y 3 del libro de Revelación (Apocalipsis).",
-      "Es algo muy conocido que las Escrituras proféticas como el libro de Revelación tienen frecuentemente una doble referencia; una referencia cercana y otra lejana. En estos capítulos hay siete mensajes para siete Iglesias locales de la región de Asia, que existían en el primer siglo cuando el Apóstol Juan escribió. Pero la segunda referencia es lejana y es profética (como todo el libro de Apocalipsis) y se refiere al transcurso de siete épocas en la historia de la Iglesia cristiana hasta llegar al momento de la venida del Señor.",
-      "5 Lucas 18:8b",
-      "El mensaje, pues, para la última etapa histórica de la Iglesia, llamada Laodicea (el tiempo actual) es de una fuertísima reprensión de Dios contra ella. Veamos la primera parte de este mensaje:",
-      "Y escribe al ángel de la iglesia de los Laodicenses: Estas cosas dice el Amén, el testigo fiel y verdadero, el principio de la creación de Dios: Yo conozco tus obras: que ni eres frío, ni caliente. Ojalá fueses frío, o hirviente; Mas porque eres tibio, y no frío ni hirviente, yo te vomitaré de mi boca. 6",
-      "Se puede trazar el inicio de la etapa histórica de Laodicea en el año 1881. Fue allí cuando salió publicado un Nuevo Testamento en griego compilado por dos autores apellidados Westcott y Hort. La intención de publicarlo era reemplazar el texto fiel y exacto del Nuevo Testamento, llamado el Textus Receptus (Texto Recibido) y que había salido a la imprenta desde 1516, con un texto griego bastante adulterado, el de Westcott y Hort, que tenía como base los manuscritos Alejandrinos que de por sí están llenos de cambios y corrupciones en el texto.",
-      "A partir de la publicación del Nuevo Testamento griego adulterado de Westcott y Hort en 1881, todo el campo de los traductores bíblicos se volcó a favor de ellos y dejó de lado la fidelidad del Textus Receptus. Sucedió exactamente como estaba predicho en 2 Timoteo 4:3-4:",
-      "Porque vendrá tiempo cuando no sufrirán la sana doctrina, antes teniendo comezón en las orejas, se amontonarán maestros que les hablen conforme a sus mismas concupiscencias. Y así apartarán de la verdad el oído, y se volverán a las fábulas.",
-      "De manera que una característica principal de Laodicea, la Iglesia de nuestro tiempo (comenzando en 1881) es su TIBIEZA ESPIRITUAL. Así está diagnosticada por el Señor, quien prueba su sabor espiritual y le sabe tan desagradable que la vomita de su boca.",
-      "Uno de los aspectos en donde se puede notar claramente la tibieza espiritual del cristianismo de nuestro tiempo es en el aspecto de la música, de la alabanza a Dios. Todo el campo evangélico se ha desviado hacia una música complaciente, acomodada al mundo, desprovista del poder transformador del Espíritu Santo.",
-      "6 Revelación (Apocalipsis) 3:14-16",
-      "Veamos la diferencia en lo que expresa la letra de un canto típico del estilo actual, comparado con la letra de los himnos antiguos. Transcribimos a continuación lo que se canta un domingo en la Iglesia Camino de Vida, una Iglesia evangélica en una de sus sedes en Lima, con grandes números de asistencia. El ambiente del salón permanece oscuro (¿por qué oscuro?) y hay luces tenues adelante en el estrado en donde un grupo de músicos y cantantes interpretan la siguiente alabanza: 7",
-      "Bendice, alma mía, a Jehová,\nEres más de lo que puedo ver,\nMucho más que algo que comprender,\nEsta vida yo la vivo en fe, no pararé.",
-      "Eres fiel con cada amanecer,\nSigues siendo el mismo que ayer,\nEsta vida yo la vivo en fe,\nNo pararé, yo seguiré.",
-      "Anclado estoy, mi esperanza en ti está,\nMe aferro a ti en la tempestad,\nEn tu amor ya no existe más temor,\nEn todo, Dios, confiaré en ti.",
-      "Tu promesa, esperanza al mundo da,\nLo entregaste todo por la humanidad,\nMi esperanza anclada en ti está,\nMi Dios, tú nunca cambiarás.",
-      "No sé si usted hermano Lugardo se da cuenta pero la expresión espiritual de estas estrofas es vaga, es “diluída”, nunca expresa con claridad ni con firmeza las verdades acerca de Dios. Eso es algo típico de los cantos cristianos actuales. Comparémosla con un himno que en nuestra congregación en Chosica lo hemos cantado muchas veces. Este himno es representativo del repertorio que usamos en la alabanza a Dios los días domingos. El autor y compositor fue Robert Harkness y el himno proviene de hace más de 100 años:",
-      "7 La letra del canto ha sido recopilada de un video titulado “Revive noches CDV” del 20 de setiembre del 2026, con el URL https://www.youtube.com/watch?v=Phskz-d_JKE&list=PLWALqhLPv75ZCv1aIrZrDlklntMruHt2w",
-      "Crucificado por mí fue Jesús,\nDe tal manera me amó;\nSin murmurar fue llevado a la cruz,\nDe tal manera me amó.",
-      "De tal manera me amó,\nDe tal manera me amó;\nCristo en la cruz del Calvario murió,\nDe tal manera me amó.",
-      "El inocente Cordero de Dios, De tal manera me amó Que por salvarme sufrió muerte atroz, De tal manera me amó.",
-      "En mi lugar padeció aflicción,\nDe tal manera me amó;\nYa consumó mi eternal salvación,\nDe tal manera me amó.",
-      "Y claro, la diferencia no es solamente en la letra sino además en el estilo musical. Muchos de los himnos antiguos llevan un ritmo similar al ritmo de marcha, lo cual permite que la congregación los entone al unísono. Y la línea melódica también es altamente expresiva de nuestro reconocimiento de Dios como el único soberano, el único que merece gloria y honra y obediencia. Una sola persona puede dirigir el canto y es muy destacable que se trata de un solo canto entonado por toda la audiencia.",
-      "Pero el estilo de la música cristiana contemporánea es deplorable. Personalmente yo no puedo ocultar el desagrado que me produce ver el salón de la Iglesia a oscuras mientras en la parte delantera un grupo de músicos entonan una alabanza que en lugar de tocar profundamente el corazón para rendir nuestra voluntad al Señor, parece más bien ARRULLAR el alma y eso concuerda con la tibieza de la expresión de la letra del canto.",
-      "En el otro extremo está la locura de los ritmos carnales del mundo usados en el culto y que se pretende aplicar como si fuera alabanza cristiana, mientras muchos de los presentes “danzan” y resuena a gran volumen una música estridente y escandalosa.",
-      "Pero volviendo al asunto que nos ocupa que es en cuanto a la palabra de Dios, se puede observar en esto la misma tibieza de los cristianos de Laodicea. Se le ha restado valor a la palabra de Dios de tal manera de afirmar que “NINGUNA BIBLIA ES LA VERDADERA”. Escuchémoslo en las propias palabras de Alfredo Tepox Varela, Traductor y Consultor de Sociedades Bíblicas y quien fue parte del Equipo de elaboración de varias de las versiones contemporáneas:",
-      "“Ante esta miríada de versiones de la Biblia, no faltará quien se pregunte: «Si es verdad que la Biblia es la Palabra de Dios, ¿cuál de todas estas versiones es esa Palabra?» La respuesta puede parecer desconcertante: todas ellas en conjunto, y ninguna de ellas en particular. «Pero ¿cómo puede ser eso posible?», objetará alguien más. Y la respuesta es que debemos entender que cuando confesamos que la Biblia es la Palabra de Dios, no estamos limitando el sentido de «palabra» a la simple unidad fónica o léxica, hablada o escrita. De ninguna manera. La «palabra», en relación con Dios, aunque humana, es también divina; y aunque divina, es también humana. Y la Biblia, como Palabra de Dios, es algo más, mucho más, que una etiqueta pegada a un objeto.” 8",
-      "Notemos que el autor afirma aquí dos cosas que contradicen el testimonio de la Biblia acerca de las palabras que están escritas en ella:",
-      "1. Ante la pregunta de cuál de las muchas versiones en castellano es la verdadera palabra de Dios, responde que ninguna de ellas. (Aunque diga que todas ellas lo son, sigue afirmando que ninguna lo es).",
-      "2. Notemos que en ningún momento el autor se refiere a las palabras individuales. Solamente menciona “palabra” para referirse a la Biblia como un todo, o sea la Biblia completa. Esto es típico de los eruditos modernos, quienes NUNCA PUEDEN CONFESAR QUE CADA PALABRA ESCRITA EN ELLA ES DIVINA. ¡NO LO CREEN!.",
-      "Continuemos con el mensaje del Señor a Laodicea:",
-      "8 Tomado del siguiente URL: https://luzparalasnacionesinternacional.wordpress.com/2018/01/26/muchas-versiones-distintas-una-sola-pal abra-verdadera/. Aparentemente la cita viene de un libro (o de un artículo, no se explica cuál) llamado “Historia de la Biblia” del autor Alfredo Tepox Varela. Publicado en internet en el citado URL el 26 de Enero de 2018.",
-      "Porque tú dices: Yo soy rico, y soy enriquecido, y no tengo necesidad de ninguna cosa; y no conoces que tú eres cuitado, y miserable, y pobre, y ciego, y desnudo. Yo te aconsejo que de mí compres oro afinado en el fuego, para que seas hecho rico; y vestiduras blancas, para que seas vestido, y que la vergüenza de tu desnudez no se descubra; y unge tus ojos con colirio, para que veas. Yo reprendo y castigo a todos los que amo: sé pues zeloso, y arrepiéntete. 9",
-      "Entendemos aquí por supuesto que Dios no se está refiriendo a riquezas materiales ni a la miseria por falta de dinero. Pero una de las cosas que es objeto de “satisfacción”, digamos, (entre los que promueven las muchas versiones de la Biblia) es su idea de que la gran cantidad de diferentes versiones enriquece el entendimiento de la palabra de Dios.",
-      "Vamos a plantear un cuadro imaginario pero que nos va a servir mucho para entender el error de aquel planteamiento.",
-      "Si nosotros viviéramos en el tiempo del primer siglo y tuviéramos uno de los libros del Nuevo Testamento en su manuscrito original, por ejemplo el libro de Romanos, ¿Nos atreveríamos a crear diferentes versiones del libro de Romanos en idioma griego? Pues con toda seguridad eso sería considerado una profanación a las palabras de Dios, sería considerado un terrible pecado, el de QUERER CAMBIAR las palabras originales que Dios pronunció. Nadie se hubiera atrevido a hacerlo, a producir una versión diferente del libro de Romanos.",
-      "¿Entonces por qué en castellano (o en francés, o en italiano, o en cualquier idioma) se producen con gran celebración muchas versiones diferentes de la Biblia?",
-      "La razón es, supuestamente, porque ninguna traducción es perfecta, entonces pueden existir diferentes traducciones (versiones) sin que ninguna de ellas llegue a traducir con cien por ciento de exactitud el significado original del griego o del hebreo al idioma castellano.",
-      "¡De ahí entonces el concepto que acabamos de mencionar, el expresado por Alfredo Tepox Varela, de que ninguna de todas las versiones de la Biblia es la verdadera palabra de Dios!.",
-      "9 Revelación (Apocalipsis) 3:17-19",
-      "Los eruditos de la época de Laodicea (Desde 1881 hasta el día de hoy) que traducen la Biblia produciendo muchas versiones diferentes, consideran que están produciendo mucha riqueza espiritual al hacerlo. Pero Dios califica al cristianismo de nuestra época como cuitado, (desdichado, en desgracia) y miserable, y pobre, y ciego, y desnudo.",
-      "No solamente está en la miseria espiritual, dice el Señor; también está en la CEGUERA espiritual.",
-      "Su ceguera significa que los señores eruditos bíblicos de nuestra época (y junto con ellos los creyentes que los siguen) perdieron completamente la capacidad de discernimiento en cuanto a la Biblia. No saben discernir que la Biblia, aun traducida, puede ser la palabra infalible de Dios. Son tan ciegos que enseñan que SOLAMENTE los manuscritos originales -que ya no existen desde hace muchos siglos- fueron las palabras perfectas de Dios.",
-      "Tenemos por ejemplo lo que afirma Calvin George, Misionero y autor de varios libros cristianos, en su libro titulado “La controversia Reina-Valera en el fundamentalismo”",
-      "“Enseñé en ese libro tal como sigo creyendo, que todas las traducciones pueden contener error humano (por el hecho de que no se hicieron bajo inspiración divina), pero que yo estaba dispuesto a darle el “beneficio de la duda” a las traducciones confiables que utilizo en inglés y español.” 10",
-      "Observemos que este autor le atribuye a la Biblia en español, en primer lugar que todas las traducciones pueden contener errores, y en segundo lugar que de todas maneras se les puede considerar “confiables”.",
-      "Pues por las mismas palabras del autor sabemos que al llamarle “confiable” a la Biblia en español, le está atribuyendo que no es enteramente pura, tampoco es exacta ni perfecta, puede contener errores. Su enseñanza es la típica posición que adoptan los eruditos de la Biblia en la época de Laodicea. QUE TENEMOS UNA “CASI-BIBLIA” PERO NO TENEMOS LA BIBLIA. He ahí la ceguera de los creyentes del siglo 20 y siglo 21.",
-      "10 Citado de una copia digital (pdf) del mencionado libro, sexta edición de 2023, que ha sido publicado por literaturabautista.com",
-      "Así que como conclusión el cristianismo de la época de Laodicea, que ha corrido desde 1881 hasta nuestros días, está completamente descalificado para ser instrumento en las manos de Dios a fin de producir una traducción (versión) que haya sido obra del Espíritu Santo. Las propias palabras que pronuncian los eruditos de nuestra época los muestran como son.",
-      "DIOS YA SE ENCARGÓ ÉL MISMO DE ENTREGARNOS EN SU TIEMPO Y A SU PROPIA MANERA Y CON LAS PERSONAS QUE ÉL ESCOGIÓ, LA BIBLIA PERFECTA Y QUE CONTIENE CADA PALABRA INSPIRADA POR EL ESPÍRITU SANTO EN IDIOMA CASTELLANO: LA VERSIÓN DE REINA Y VALERA REVISADA EN 1865.",
-      "Ahora pasemos a examinar el mensaje del Señor a Filadelfia, la etapa de la historia de la Iglesia anterior a nosotros, que no contiene ninguna reprensión. Al contrario, Filadelfia ES FELICITADA DOS VECES POR HABER GUARDADO LA PALABRA DE DIOS:",
-      "Y escribe al ángel de la iglesia que está en Filadelfia: El Santo y Verdadero, el que tiene la llave de David; el que abre, y ninguno cierra; el que cierra, y ninguno abre, dice estas cosas: Yo conozco tus obras: he aquí, te he dado una puerta abierta delante de ti, y ninguno la puede cerrar; porque tú tienes una poquita de potencia, y has guardado mi palabra, y no has negado mi nombre.",
-      "He aquí, yo doy de la sinagoga de Satanás, los que se dicen ser Judíos, y no lo son, mas mienten: he aquí, yo los constreñiré a que vengan, y adoren delante de tus pies, y sepan que yo te he amado. Porque has guardado la palabra de mi paciencia, yo también te guardaré de la hora de la tentación, que ha de venir sobre todo el universo mundo, para probar los que moran en la tierra. Cata, que yo vengo prestamente: ten lo que tienes, para que ninguno tome tu corona. 11",
-      "El tiempo histórico de Filadelfia transcurrió aproximadamente desde 1500 hasta cerca del inicio del siglo XX, siendo el año de 1881 más o menos el término de esta etapa como ya hemos indicado.",
-      "Y aunque Filadelfia terminó en 1881, el mismo pasaje bíblico que acabamos de citar nos muestra que un pequeño remanente de Filadelfia ha continuado",
-      "11 Revelación (Apocalipsis) 3:7-11 y seguirá hasta el día del rapto de la Iglesia: Porque has guardado la palabra de mi paciencia, yo también te guardaré de la hora de la tentación, que ha de venir sobre todo el universo mundo, para probar los que moran en la tierra. Refiriéndose estas palabras, sin que haya ninguna duda, a que Dios le librará de la tribulación.",
-      "Fue en la época de Filadelfia cuando se produjo una enorme difusión de la Biblia en el mundo entero por primera vez, a través del uso de la imprenta. Y esto porque se tradujo la palabra de Dios a muchos idiomas del mundo, teniendo como base para el Antiguo Testamento el Texto Masorético en hebreo, y para el Nuevo Testamento el Textus Receptus (Texto Recibido) en idioma griego. Es decir aquel que fue publicado (El Nuevo Testamento en griego) por Erasmo de Rotterdam por primera vez en 1516 aunque hubo subsiguientes ediciones del mismo en los años posteriores.",
-      "Todas las traducciones de la Biblia en la etapa histórica de Filadelfia se produjeron teniendo como base el texto fiel, el que fue preservado por Dios mismo a través de los siglos y que más tarde se conoció como el Textus Receptus, en cuanto al Nuevo Testamento.",
-      "Pero llegando al cambio de época en 1881 con la publicación del texto corrupto del Nuevo Testamento en griego de Westcott y Hort, se cumplió lo que la Biblia ya había anunciado de antemano en cuanto a la peor época de todas, la de Laodicea, cuando el cristianismo se ha desviado en pos de la incredulidad y de la apostasía.",
-      "La etapa histórica de Filadelfia fue también la de los mayores avances mundiales en el campo misionero, y es por eso que el Señor le promete una puerta abierta delante de ti, y ninguno la puede cerrar.",
-      "De manera que es completamente lógico que haya sido en la época de Filadelfia cuando Dios trajo para todos los que hablan español en medio del mundo su palabra fiel y perfecta e infalible, teniendo como instrumentos divinos a los santos hombres que la tradujeron y la revisaron, hombres que ERAN PRODUCTO DE SU ÉPOCA, UNA ÉPOCA DE GRAN FIDELIDAD Y DE ARDIENTE AMOR A LA PALABRA DE DIOS.",
-      "¡Hombres como Casiodoro de Reina y Cipriano de Valera y Ángel Herreros de Mora nunca hubieran surgido en la época apóstata en la cual nos encontramos el día de hoy!",
-      "Mencionaremos de manera muy breve también que han surgido intentos ACTUALES de producir una traducción fiel y exacta de la palabra de Dios. Este es el caso de la versión que ha sido llamada Reina-Valera-Gómez, y asimismo la que es llamada “Valera 1602 Purificada”.",
-      "A esto debemos explicar que todo intento actual de hacerlo tropieza con el hecho de que DIOS YA SE ENCARGÓ DE LLEVARLO A CABO EN EL TIEMPO INDICADO, A LA MANERA DE DIOS MISMO Y CON LOS INSTRUMENTOS (LAS PERSONAS) QUE EL SEÑOR MISMO ESCOGIÓ.",
-      "Para ilustrar este caso mencionaremos que los escribas del pueblo judío sabían con toda certeza que posteriormente al profeta Malaquías (400 años antes de Cristo) no había venido NINGUNA revelación proveniente de Dios. Es por eso que ellos rechazaron tajantemente que los libros llamados “apócrifos” (que eran posteriores a Malaquías) fuesen considerados como Escritura divina.",
-      "Aunque no sea el mismo caso pero hay una semejanza en cuanto a la Biblia en español. Debemos recordar que Dios trazó senderos antiguos que no deben ser traspasados:",
-      "No traspases el término antiguo que hicieron tus padres. 12",
-      "No traspases el término antiguo, ni entres en la heredad de los huérfanos. 13",
-      "No hemos de tratar de corregir lo que Dios ya estableció.",
-      "12 Proverbios 22:28",
-      "13 Proverbios 23:10",
+    readingTimeMinutes: 10,
+    content: [],
+    blocks: [
+      {
+        "type": "paragraph",
+        "text": "La evidencia de la época proviene de la misma Biblia pero también puede ser sustentada en los hechos históricos sin ninguna dificultad, ya que es algo bastante evidente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nadie puede negar que la época nuestra es de terrible declinación en cuanto al cristianismo. Quedaron muy atrás en los siglos anteriores los grandes avivamientos cristianos: George Whitefield, Jonathan Edwards, John Wesley, Dwight Moody y otros. En el tiempo presente no hay ningún avivamiento espiritual porque nadie tiene hambre de la palabra de Dios."
+      },
+      {
+        "type": "paragraph",
+        "text": "En los países ricos y desarrollados el rechazo de todo lo que tenga que ver con Dios y con su palabra va aumentando a pasos agigantados. Europa se ha convertido en “la tumba del evangelio”. La generación joven del tiempo de hoy es absolutamente incrédula en cuanto a Dios. La fuerte declinación en la asistencia de las Iglesias es un índice bastante real del alejamiento de esta generación en cuanto a las cosas divinas."
+      },
+      {
+        "type": "paragraph",
+        "text": "El Señor Jesús ya lo había anunciado, en el tiempo final vendría la apostasía de la última generación:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Lucas 18:8",
+        "version": "RV1865",
+        "text": "Empero el Hijo del hombre, cuando viniere, ¿hallará fe en la tierra?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La palabra de Dios señala con claridad que han existido siete etapas en la historia de la Iglesia a lo largo de dos mil años, y esa secuencia profética la encontramos en los capítulos 2 y 3 del libro de Revelación (Apocalipsis)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Es algo muy conocido que las Escrituras proféticas como el libro de Revelación tienen frecuentemente una doble referencia; una referencia cercana y otra lejana. Son cartas para siete Iglesias locales de la región de Asia, que existían en el primer siglo cuando el Apóstol Juan escribió. Pero la segunda referencia es lejana y es profética (como todo el libro de Apocalipsis) y se refiere al transcurso de siete épocas en la historia de la Iglesia cristiana hasta llegar al momento de la venida del Señor."
+      },
+      {
+        "type": "paragraph",
+        "text": "El mensaje, pues, para la última etapa histórica de la Iglesia, llamada Laodicea (el tiempo actual) es de una fuertísima reprensión de Dios contra ella. Veamos la primera parte de este mensaje:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Revelación 3:14-16",
+        "version": "RV1865",
+        "text": "Y escribe al ángel de la iglesia de los Laodicenses: Estas cosas dice el Amén, el testigo fiel y verdadero, el principio de la creación de Dios: Yo conozco tus obras: que ni eres frío, ni caliente. Ojalá fueses frío, o hirviente; Mas porque eres tibio, y no frío ni hirviente, yo te vomitaré de mi boca."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se puede trazar el inicio de la etapa histórica de Laodicea en el año 1881. Fue allí cuando salió publicado un Nuevo Testamento en griego compilado por dos autores apellidados Westcott y Hort. La intención de publicarlo era reemplazar el texto fiel y exacto del Nuevo Testamento, llamado el Textus Receptus (Texto Recibido) y que había salido a la imprenta desde 1516, con un texto griego bastante adulterado, el de Westcott y Hort, que tenía como base los manuscritos Alejandrinos que de por sí están llenos de cambios y corrupciones en el texto."
+      },
+      {
+        "type": "paragraph",
+        "text": "A partir de la publicación del Nuevo Testamento griego adulterado de Westcott y Hort en 1881, todo el campo de los traductores bíblicos se volcó a favor de ellos y dejó de lado la fidelidad del Textus Receptus. Sucedió exactamente como estaba predicho en 2 Timoteo 4:3-4:"
+      },
+      {
+        "type": "scripture",
+        "reference": "2 Timoteo 4:3-4",
+        "version": "RV1865",
+        "text": "Porque vendrá tiempo cuando no sufrirán la sana doctrina, antes teniendo comezón en las orejas, se amontonarán maestros que les hablen conforme a sus mismas concupiscencias. Y así apartarán de la verdad el oído, y se volverán a las fábulas."
+      },
+      {
+        "type": "paragraph",
+        "text": "De manera que una característica principal de Laodicea, la Iglesia de nuestro tiempo (comenzando en 1881) es su TIBIEZA ESPIRITUAL. Así está diagnosticada por el Señor, quien prueba su sabor espiritual y le sabe tan desagradable que la vomita de su boca."
+      },
+      {
+        "type": "paragraph",
+        "text": "Uno de los aspectos en donde se puede notar claramente la tibieza espiritual del cristianismo de nuestro tiempo es en el aspecto de la música, de la alabanza a Dios. Todo el campo evangélico se ha desviado hacia una música complaciente, acomodada al mundo, desprovista del poder transformador del Espíritu Santo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Veamos la diferencia en lo que expresa la letra de un canto típico del estilo actual, comparado con la letra de los himnos antiguos. Transcribimos a continuación lo que se canta un domingo en la Iglesia Camino de Vida, una Iglesia evangélica en una de sus sedes en Lima, con grandes números de asistencia. El ambiente del salón permanece oscuro (¿por qué oscuro?) y hay luces tenues adelante en el estrado en donde un grupo de músicos y cantantes interpretan la siguiente alabanza:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bendice, alma mía, a Jehová,\nEres más de lo que puedo ver,\nMucho más que algo que comprender,\nEsta vida yo la vivo en fe, no pararé.\n\nEres fiel con cada amanecer,\nSigues siendo el mismo que ayer,\nEsta vida yo la vivo en fe,\nNo pararé, yo seguiré.\n\nAnclado estoy, mi esperanza en ti está,\nMe aferro a ti en la tempestad,\nEn tu amor ya no existe más temor,\nEn todo, Dios, confiaré en ti.\n\nTu promesa, esperanza al mundo da,\nLo entregaste todo por la humanidad,\nMi esperanza anclada en ti está,\nMi Dios, tú nunca cambiarás.",
+        "variant": "lyrics"
+      },
+      {
+        "type": "paragraph",
+        "text": "No sé si usted hermano Lugardo se da cuenta pero la expresión espiritual de estas estrofas es vaga, es “diluída”, nunca expresa con claridad ni con firmeza las verdades acerca de Dios. Eso es algo típico de los cantos actuales. Todos lo hemos cantado muchas veces. Este himno es representativo del repertorio que usamos en la alabanza a Dios los días domingos. El autor y compositor fue Robert Harkness y el himno proviene de hace más de 100 años:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Crucificado por mí fue Jesús,\nDe tal manera me amó;\nSin murmurar fue llevado a la cruz,\nDe tal manera me amó.\n\nDe tal manera me amó,\nDe tal manera me amó;\nCristo en la cruz del Calvario murió,\nDe tal manera me amó.\n\nEl inocente Cordero de Dios,\nDe tal manera me amó\nQue por salvarme sufrió muerte atroz,\nDe tal manera me amó.\n\nEn mi lugar padeció aflicción,\nDe tal manera me amó;\nYa consumó mi eternal salvación,\nDe tal manera me amó.",
+        "variant": "lyrics"
+      },
+      {
+        "type": "paragraph",
+        "text": "Y claro, la diferencia no es solamente en la letra sino además en el estilo musical. Muchos de los himnos antiguos llevan un ritmo similar al ritmo de marcha, lo cual permite que la congregación los entone al unísono. Y la línea melódica también es altamente expresiva de nuestro reconocimiento de Dios como el único soberano, el único que merece gloria y honra y obediencia. Una sola persona puede dirigir el canto y es muy destacable que se trata de un solo canto entonado por toda la audiencia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pero el estilo de la música cristiana contemporánea es deplorable. Personalmente yo no puedo ocultar el desagrado que me produce ver el salón de la Iglesia a oscuras mientras en la parte delantera un grupo de músicos entonan una alabanza que en lugar de tocar profundamente el corazón para rendir nuestra voluntad al Señor, parece más bien ARRULLAR el alma y eso concuerda con la tibieza de la expresión de la letra del canto. En el otro extremo está la locura de los ritmos carnales del mundo usados en el culto y que se pretende aplicar como si fuera alabanza cristiana, mientras muchos de los presentes “danzan” y resuena a gran volumen una música estridente y escandalosa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pero volviendo al asunto que nos ocupa que es en esto la misma tibieza de los cristianos de Laodicea. Se le ha restado valor a la palabra de Dios de tal manera de afirmar que “NINGUNA BIBLIA ES LA VERDADERA”. Escuchémoslo en las propias palabras de Alfredo Tepox Varela, Traductor y Consultor de Sociedades Bíblicas y quien fue parte del Equipo de elaboración de varias de las versiones contemporáneas:"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Ante esta miríada de versiones de la Biblia, no faltará quien se pregunte: «Si es verdad que la Biblia es la Palabra de Dios, ¿cuál de todas estas versiones es esa Palabra?» La respuesta puede parecer desconcertante: todas ellas en conjunto, y ninguna de ellas en particular. «Pero ¿cómo puede ser eso posible?», objetará alguien más. Y la respuesta es que debemos entender que cuando confesamos que la Biblia es la Palabra de Dios, no estamos limitando el sentido de «palabra» a la simple unidad fónica o léxica, hablada o escrita. De ninguna manera. La «palabra», en relación con Dios, aunque humana, es también divina; y aunque divina, es también humana. Y la Biblia, como Palabra de Dios, es algo más, mucho más, que una etiqueta pegada a un objeto.”",
+        "variant": "quote"
+      },
+      {
+        "type": "paragraph",
+        "text": "Notemos que el autor afirma aquí dos cosas que contradicen el testimonio de la Biblia acerca de las palabras que están escritas en ella:\n\n1. Ante la pregunta de cuál de las muchas versiones en castellano es la verdadera palabra de Dios, responde que ninguna de ellas. (Aunque diga que todas ellas lo son, sigue afirmando que ninguna lo es).\n\n2. Notemos que en ningún momento el autor se refiere a las palabras individuales. Solamente menciona “palabra” para referirse a la Biblia como un todo, o sea la Biblia completa. Esto es típico de los eruditos modernos, quienes NUNCA PUEDEN CONFESAR QUE CADA PALABRA ESCRITA EN ELLA ES DIVINA. ¡NO LO CREEN!."
+      },
+      {
+        "type": "paragraph",
+        "text": "Continuemos con el mensaje del Señor a Laodicea:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Revelación 3:17-19",
+        "version": "RV1865",
+        "text": "Porque tú dices: Yo soy rico, y soy enriquecido, y no tengo necesidad de ninguna cosa; y no conoces que tú eres cuitado, y miserable, y pobre, y ciego, y desnudo. Yo te aconsejo que de mí compres oro afinado en el fuego, para que seas hecho rico; y vestiduras blancas, para que seas vestido, y que la vergüenza de tu desnudez no se descubra; y unge tus ojos con colirio, para que veas. Yo reprendo y castigo a todos los que amo: sé pues zeloso, y arrepiéntete."
+      },
+      {
+        "type": "paragraph",
+        "text": "Entendemos aquí por supuesto que Dios no se está refiriendo a riquezas materiales ni a la miseria por falta de dinero. Pero una de las cosas que es objeto de “satisfacción”, digamos, (entre los que promueven las muchas versiones de la Biblia) es su idea de que la gran cantidad de diferentes versiones enriquece el entendimiento de la palabra de Dios."
+      },
+      {
+        "type": "paragraph",
+        "text": "Vamos a plantear un cuadro imaginario pero que nos va a servir mucho para entender el error de aquel planteamiento."
+      },
+      {
+        "type": "paragraph",
+        "text": "Si nosotros viviéramos en el tiempo del primer siglo y tuviéramos uno de los libros del Nuevo Testamento en su manuscrito original, por ejemplo el libro de Romanos, ¿Nos atreveríamos a crear diferentes versiones del libro de Romanos en idioma griego? Pues con toda seguridad eso sería considerado una profanación a las palabras de Dios, sería considerado un terrible pecado, el de QUERER CAMBIAR las palabras originales que Dios pronunció. Nadie se hubiera atrevido a hacerlo, a producir una versión diferente del libro de Romanos."
+      },
+      {
+        "type": "paragraph",
+        "text": "¿Entonces por qué en castellano (o en francés, o en italiano, o en cualquier idioma) se producen con gran celebración muchas versiones diferentes de la Biblia?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La razón es, supuestamente, porque ninguna traducción es perfecta, entonces pueden existir diferentes traducciones (versiones) sin que ninguna de ellas llegue a traducir con cien por ciento de exactitud el significado original del griego o del hebreo al idioma castellano."
+      },
+      {
+        "type": "paragraph",
+        "text": "¡De ahí entonces el concepto que acabamos de mencionar, el expresado por Alfredo Tepox Varela, de que ninguna de todas las versiones de la Biblia es la verdadera palabra de Dios!."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los eruditos de la época de Laodicea (Desde 1881 hasta el día de hoy) que traducen la Biblia produciendo muchas versiones diferentes, consideran que están produciendo mucha riqueza espiritual al hacerlo. Pero Dios califica al cristianismo de nuestra época como cuitado, (desdichado, en desgracia) y miserable, y pobre, y ciego, y desnudo."
+      },
+      {
+        "type": "paragraph",
+        "text": "No solamente está en la miseria espiritual, dice el Señor; también está en la CEGUERA espiritual."
+      },
+      {
+        "type": "paragraph",
+        "text": "Su ceguera significa que los señores eruditos bíblicos de nuestra época (y junto con ellos los creyentes que los siguen) perdieron completamente la capacidad de discernimiento en cuanto a la Biblia. No saben discernir que la Biblia, aun traducida, puede ser la palabra infalible de Dios. Son tan ciegos que enseñan que SOLAMENTE los manuscritos originales -que ya no existen desde hace muchos siglos- fueron las palabras perfectas de Dios."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tenemos por ejemplo lo que afirma Calvin George, Misionero y autor de varios libros cristianos, en su libro titulado “La controversia Reina-Valera en el fundamentalismo”:"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Enseñé en ese libro tal como sigo creyendo, que todas las traducciones pueden contener error humano (por el hecho de que no se hicieron bajo inspiración divina), pero que yo estaba dispuesto a darle el “beneficio de la duda” a las traducciones confiables que utilizo en inglés y español.”",
+        "variant": "quote"
+      },
+      {
+        "type": "paragraph",
+        "text": "Observemos que este autor le atribuye a la Biblia en español, en primer lugar que todas las traducciones pueden contener errores, y en segundo lugar que de todas maneras se les puede considerar “confiables”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pues por las mismas palabras del autor sabemos que al llamarle “confiable” a la Biblia en español, le está atribuyendo que no es enteramente pura, tampoco es exacta ni perfecta, puede contener errores. Su enseñanza es la típica posición que adoptan los eruditos de la Biblia en la época de Laodicea. QUE TENEMOS UNA “CASI-BIBLIA” PERO NO TENEMOS LA BIBLIA. He ahí la ceguera de los creyentes del siglo 20 y siglo 21."
+      },
+      {
+        "type": "paragraph",
+        "text": "Así que como conclusión el cristianismo de la época de Laodicea, que ha corrido desde 1881 hasta nuestros días, está completamente descalificado para ser instrumento en las manos de Dios a fin de producir una traducción (versión) que haya sido obra del Espíritu Santo. Las propias palabras que pronuncian los eruditos de nuestra época los muestran como son."
+      },
+      {
+        "type": "paragraph",
+        "text": "DIOS YA SE ENCARGÓ ÉL MISMO DE ENTREGARNOS EN SU TIEMPO Y A SU PROPIA MANERA Y CON LAS PERSONAS QUE ÉL ESCOGIÓ, LA BIBLIA PERFECTA Y QUE CONTIENE CADA PALABRA INSPIRADA POR EL ESPÍRITU SANTO EN IDIOMA CASTELLANO: LA VERSIÓN DE REINA Y VALERA REVISADA EN 1865."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ahora pasemos a examinar el mensaje del Señor a Filadelfia, la etapa de la historia de la Iglesia anterior a nosotros, que no contiene ninguna reprensión. Al contrario, Filadelfia ES FELICITADA DOS VECES POR HABER GUARDADO LA PALABRA DE DIOS:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Revelación 3:7-11",
+        "version": "RV1865",
+        "text": "Y escribe al ángel de la iglesia que está en Filadelfia: El Santo y Verdadero, el que tiene la llave de David; el que abre, y ninguno cierra; el que cierra, y ninguno abre, dice estas cosas: Yo conozco tus obras: he aquí, te he dado una puerta abierta delante de ti, y ninguno la puede cerrar; porque tú tienes una poquita de potencia, y has guardado mi palabra, y no has negado mi nombre. He aquí, yo doy de la sinagoga de Satanás, los que se dicen ser Judíos, y no lo son, mas mienten: he aquí, yo los constreñiré a que vengan, y adoren delante de tus pies, y sepan que yo te he amado. Porque has guardado la palabra de mi paciencia, yo también te guardaré de la hora de la tentación, que ha de venir sobre todo el universo mundo, para probar los que moran en la tierra. Cata, que yo vengo prestamente: ten lo que tienes, para que ninguno tome tu corona."
+      },
+      {
+        "type": "paragraph",
+        "text": "El tiempo histórico de Filadelfia transcurrió aproximadamente desde 1500 hasta cerca del inicio del siglo XX, siendo el año de 1881 más o menos el término de esta etapa como ya hemos indicado."
+      },
+      {
+        "type": "paragraph",
+        "text": "Y aunque Filadelfia terminó en 1881, el mismo pasaje bíblico que acabamos de citar nos muestra que un pequeño remanente de Filadelfia ha continuado y seguirá hasta el día del rapto de la Iglesia: Porque has guardado la palabra de mi paciencia, yo también te guardaré de la hora de la tentación, que ha de venir sobre todo el universo mundo, para probar los que moran en la tierra. Refiriéndose estas palabras, sin que haya ninguna duda, a que Dios le librará de la tribulación."
+      },
+      {
+        "type": "paragraph",
+        "text": "Fue en la época de Filadelfia cuando se produjo una enorme difusión de la Biblia en el mundo entero por primera vez, a través del uso de la imprenta. Y esto porque se tradujo la palabra de Dios a muchos idiomas del mundo, teniendo como base para el Antiguo Testamento el Texto Masorético en hebreo, y para el Nuevo Testamento el Textus Receptus (Texto Recibido) en idioma griego. Es decir aquel que fue publicado (El Nuevo Testamento en griego) por Erasmo de Rotterdam por primera vez en 1516 aunque hubo subsiguientes ediciones del mismo en los años posteriores."
+      },
+      {
+        "type": "paragraph",
+        "text": "Todas las traducciones de la Biblia en la etapa histórica de Filadelfia se produjeron teniendo como base el texto fiel, el que fue preservado por Dios mismo a través de los siglos y que más tarde se conoció como el Textus Receptus, en cuanto al Nuevo Testamento."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pero llegando al cambio de época en 1881 con la publicación del texto corrupto del Nuevo Testamento en griego de Westcott y Hort, se cumplió lo que la Biblia ya había anunciado de antemano en cuanto a la peor época de todas, la de Laodicea, cuando el cristianismo se ha desviado en pos de la incredulidad y de la apostasía."
+      },
+      {
+        "type": "paragraph",
+        "text": "La etapa histórica de Filadelfia fue también la de los mayores avances mundiales en el campo misionero, y es por eso que el Señor le promete una puerta abierta delante de ti, y ninguno la puede cerrar."
+      },
+      {
+        "type": "paragraph",
+        "text": "De manera que es completamente lógico que haya sido en la época de Filadelfia cuando Dios trajo para todos los que hablan español en medio del mundo su palabra fiel y perfecta e infalible, teniendo como instrumentos divinos a los santos hombres que la tradujeron y la revisaron, hombres que ERAN PRODUCTO DE SU ÉPOCA, UNA ÉPOCA DE GRAN FIDELIDAD Y DE ARDIENTE AMOR A LA PALABRA DE DIOS."
+      },
+      {
+        "type": "paragraph",
+        "text": "¡Hombres como Casiodoro de Reina y Cipriano de Valera y Ángel Herreros de Mora nunca hubieran surgido en la época apóstata en la cual nos encontramos el día de hoy!"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mencionaremos de manera muy breve también que han surgido intentos ACTUALES de producir una traducción fiel y exacta de la palabra de Dios. Este es el caso de la versión que ha sido llamada Reina-Valera-Gómez, y asimismo la que es llamada “Valera 1602 Purificada”."
+      },
+      {
+        "type": "paragraph",
+        "text": "A esto debemos explicar que todo intento actual de hacerlo tropieza con el hecho de que DIOS YA SE ENCARGÓ DE LLEVARLO A CABO EN EL TIEMPO INDICADO, A LA MANERA DE DIOS MISMO Y CON LOS INSTRUMENTOS (LAS PERSONAS) QUE EL SEÑOR MISMO ESCOGIÓ."
+      },
+      {
+        "type": "paragraph",
+        "text": "Para ilustrar este caso mencionaremos que los escribas del pueblo judío sabían con toda certeza que posteriormente al profeta Malaquías (400 años antes de Cristo) no había venido NINGUNA revelación proveniente de Dios. Es por eso que ellos rechazaron tajantemente que los libros llamados “apócrifos” (que eran posteriores a Malaquías) fuesen considerados como Escritura divina."
+      },
+      {
+        "type": "paragraph",
+        "text": "Aunque no sea el mismo caso pero hay una semejanza en cuanto a la Biblia en español. Debemos recordar que Dios trazó senderos antiguos que no deben ser traspasados:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Proverbios 22:28; 23:10",
+        "version": "RV1865",
+        "text": "No traspases el término antiguo que hicieron tus padres.\n\nNo traspases el término antiguo, ni entres en la heredad de los huérfanos."
+      },
+      {
+        "type": "paragraph",
+        "text": "No hemos de tratar de corregir lo que Dios ya estableció."
+      }
     ],
   },
   {

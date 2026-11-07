@@ -55,6 +55,20 @@ export function ChapterBlocks({ blocks }: { blocks: ChapterBlock[] }) {
             </section>
           );
         }
+        if (block.variant === "quote") {
+          return (
+            <blockquote key={i} className="border-l-2 border-border pl-4 text-base italic leading-relaxed text-foreground/85 sm:text-lg">
+              {block.text}
+            </blockquote>
+          );
+        }
+        if (block.variant === "lyrics") {
+          return (
+            <p key={i} className="whitespace-pre-line text-center text-base italic leading-relaxed text-foreground/85 sm:text-lg">
+              {block.text}
+            </p>
+          );
+        }
         return (
           <p key={i} className="text-base leading-relaxed text-foreground/90 sm:text-lg dark:text-zinc-200">
             {block.text}
