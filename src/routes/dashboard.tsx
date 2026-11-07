@@ -150,8 +150,8 @@ function Home() {
             <div className="rounded-xl border-0 dark:border-transparent bg-muted/70 dark:bg-card text-card-foreground p-5 flex flex-col justify-between shadow-none transition-colors h-full">
               <div>
                 <p className="text-[11px] font-semibold tracking-wider uppercase text-muted-foreground">{t.dashboard.activeSessionLabel}</p>
-                <p className="text-sm sm:text-base font-medium text-foreground flex items-center gap-2 mt-1">
-                  <BookOpen className="size-4 shrink-0" aria-hidden="true" /> {lastBook} {last.cap}
+                <p className="text-sm sm:text-base font-medium text-foreground mt-1">
+                  {lastBook} {last.cap}
                 </p>
               </div>
               <div className="mt-4 flex flex-col gap-2 w-full">
