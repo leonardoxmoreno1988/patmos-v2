@@ -45,8 +45,8 @@ const DAILY_VERSES: SeedVerse[] = [
   },
   {
     book: "2 Timoteo", chapter: 3, verse: 16,
-    rv1865: "Toda la Escritura es inspirada divinamente, y es útil para enseñar, para reprender, para corregir, para instituir en justicia,",
-    kjv: "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
+    rv1865: "Toda la Escritura es inspirada divinamente, y es útil para enseñar, para reprender, para corregir, para instituir en justicia.",
+    kjv: "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness.",
   },
   {
     book: "Salmos", chapter: 23, verse: 1,
@@ -90,7 +90,7 @@ const DAILY_VERSES: SeedVerse[] = [
   },
   {
     book: "Isaías", chapter: 26, verse: 3,
-    rv1865: "Sentencia firme: Que guardarás paz, paz; porque en ti se han confiado,",
+    rv1865: "Sentencia firme: Que guardarás paz, paz; porque en ti se han confiado.",
     kjv: "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.",
   },
   {
@@ -161,7 +161,7 @@ const DAILY_VERSES: SeedVerse[] = [
   {
     book: "Salmos", chapter: 103, verse: 1, verseEnd: 2,
     rv1865: "Bendice, alma mía, a Jehová, y todas mis entrañas a su nombre santo. Bendice, alma mía, a Jehová, y no te olvides de todos sus beneficios.",
-    kjv: "Bless the LORD, O my soul: and all that is within me, bless his holy name. Bless the LORD, O my soul, and forget not all his benefits:",
+    kjv: "Bless the LORD, O my soul: and all that is within me, bless his holy name. Bless the LORD, O my soul, and forget not all his benefits.",
   },
   {
     book: "Miqueas", chapter: 6, verse: 8,
