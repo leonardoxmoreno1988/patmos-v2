@@ -749,70 +749,280 @@ export const LIBRO_1865: Book = {
     number: 4,
     title: "Tercera evidencia: las fuentes originales de la Biblia",
     summary: "Antes de hablar de los manuscritos, establece dos conceptos: la preservación divina de las Escrituras y la necesidad de creerla, en un tiempo de incredulidad.",
-    readingTimeMinutes: 15,
-    content: [
-      "Querido hermano Lugardo: cuando llegamos a este punto referido a los manuscritos originales de la Biblia, necesitamos entender previamente algunos conceptos.",
-      "EL PRIMER CONCEPTO ES LA PRESERVACIÓN DIVINA DE LAS ESCRITURAS.",
-      "Es sumamente importante entenderlo, y más que entenderlo es asunto de CREERLO. Como ya hemos visto, nos encontramos en el siglo de la incredulidad y la época en la que estamos nunca enfatiza la necesidad de creer, de TENER FE EN LO QUE DIOS HA DICHO. Por lo contrario, y especialmente en los círculos de “erudición” de la Biblia, la actitud general que ellos despliegan hacia la Biblia no es la fe sino la ANTI-FE (la incredulidad) y esta incredulidad está disfrazada con palabras rimbombantes como la “alta crítica”, la “baja crítica” y otras por el estilo.",
-      "Mucho se habla acerca de los errores que se produjeron en el proceso de copiar y volver a copiar y volver a copiar -a mano- los pergaminos, los rollos de la Biblia durante largos siglos antes de la invención de la imprenta hacia 1440.",
-      "Sin embargo en medio de todo esto hay un hecho que no se puede negar aunque los enemigos de la Biblia lo quieran hacer: DIOS TOMÓ EN SUS PROPIAS MANOS LA PRESERVACIÓN DE SU PALABRA a pesar de los errores de copiado, a pesar de los intentos diabólicos de destruir la Biblia, a pesar de la prohibición de leerla que implantó el catolicismo bajo pena de muerte y a pesar de la incredulidad de los eruditos actuales.",
-      "LA PRESERVACIÓN DIVINA DE LAS ESCRITURAS puede ser demostrada en el pasaje de 2 Timoteo 3:14-17:",
-      "Así que tú está firme en lo que has aprendido, y de que has sido persuadido, sabiendo de quién has aprendido; Y que desde la niñez has sabido las sagradas Escrituras, las cuales te pueden hacer sabio para la salud por medio de la fe que es en Cristo Jesús. Toda la Escritura es inspirada divinamente, y es útil para enseñar, para reprender, para corregir, para instituir en justicia, Para que el hombre de Dios sea perfecto, perfectamente instruido para toda buena obra.",
-      "Las Escrituras de las que aprendió Timoteo desde su niñez eran copias-de-copias-de-copias-de-copias-de-copias-de-copias. Los originales del Antiguo Testamento ya en el tiempo de Timoteo provenían de miles de años atrás y ¡hacía muchos siglos que aquellos manuscritos originales ya no existían, cuando Timoteo manejaba las Escrituras!.",
-      "Pero notemos cómo Dios les llama A LAS COPIAS EN MANOS DE TIMOTEO Toda la Escritura es inspirada divinamente. ¡No está refiriéndose a los manuscritos originales!. Sin embargo allí tenemos a los eruditos de las ciencias bíblicas del tiempo de Laodicea afirmando llenos de incredulidad que la Biblia es inspirada divinamente y sin errores “Únicamente en los manuscritos originales”. Es por eso que el Espíritu Santo les reprende con toda dureza: unge tus ojos con colirio, para que veas. Yo reprendo y castigo a todos los que amo: sé pues zeloso, y arrepiéntete. 28",
-      "También Dios nos asegura la integridad, la exactitud y la fidelidad de la Biblia a lo largo de los siglos:",
-      "El cielo y la tierra perecerán, mas mis palabras no perecerán. 29",
-      "Hermano Lugardo, tome nota de esto: el Señor Jesús no dice “mi palabra” sino mis palabras, es decir cada una de las aproximadamente 800,000 palabras que están escritas en la Biblia.",
-      "EL SEGUNDO CONCEPTO ES LA EXISTENCIA DE MANUSCRITOS FIELES Y DE MANUSCRITOS CORRUPTOS.",
-      "La historia de adulterar y cambiar las palabras de Dios no es nada nuevo. Es algo tan antiguo como el hombre mismo. El primer adulterador de lo que Dios había dicho fue Satanás en persona, desde los primeros días de la habitación de Adán y Eva en el huerto de Edén. Veamos lo que Dios pronunció y cómo el diablo cambió perversamente las palabras divinas:",
-      "Dios había dicho exactamente lo siguiente:",
-      "28 Revelación (Apocalipsis) 3:18c-19",
-      "29 Mateo 24:35",
-      "Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto comerás: Mas del árbol de ciencia de bien y de mal, no comerás de él: porque el día que de él comieres, morirás. 30",
-      "Ahora Satanás pervierte las palabras de Dios:",
-      "Empero la serpiente era astuta más que todos los animales del campo, que Jehová Dios había hecho: la cual dijo a la mujer: Cuanto más que Dios dijo: No comáis de todo árbol del huerto.",
-      "Así que no es nada extraño lo que ha sucedido a lo largo de los siglos, o sea ADULTERAR la Biblia agregando, quitando o cambiando. Pero entonces aquí recordamos que Dios en persona se ha encargado de la preservación fiel de sus Escrituras, por lo tanto SIEMPRE SE PUEDE IDENTIFICAR LOS TEXTOS FIELES Y VERDADEROS PARA DISTINGUIRLOS DE LOS TEXTOS CORRUPTOS.",
-      "En cuanto al texto griego en el cual fue escrito el Nuevo Testamento, hay dos tipos principales de manuscritos antiguos (Es decir aquellos escritos a mano antes de la invención de la imprenta). Estos son los siguientes:",
-      "1. Los del Texto Mayoritario, también llamado la familia textual de tipo Bizantino. El nombre “mayoritario” proviene del hecho de que existen más de 5,500 manuscritos antiguos de este tipo, que van desde pequeños fragmentos hasta copias enteras o casi completas del Nuevo Testamento en su idioma original. Generalmente su antigüedad proviene desde el siglo cuarto en adelante.",
-      "2. Los textos Alejandrinos, nombrados así por la ciudad egipcia de Alejandría. Los manuscritos que pertenecen a este tipo son muy pocos, algunos autores dicen que apenas hay “unos cuantos” de ellos, otros autores les atribuyen ser hasta 200.",
-      "Aparte de estas dos familias de manuscritos hay algunos otros también pero los dos mencionados son los más importantes.",
-      "Ahora bien, aunque algunos estudiosos pretenden mantenerse “neutrales” en cuanto a defender o el uno o el otro de estas familias de manuscritos,",
-      "30 Génesis 2:16-17 delante de LA VERDAD no existe nada parecido a la neutralidad. O estamos con la verdad o estamos en contra de ella. ¡No existe un punto medio, un punto neutral! Y el Señor Jesús así lo dice:",
-      "El que no es conmigo, contra mí es; y el que conmigo no coge, derrama. 31",
-      "Como siempre sucede en el campo de la verdad, es necesario preguntarse: ¿Cuál de estas dos familias de manuscritos es la que se mantuvo fiel a la palabra de Dios? Y la respuesta no es nada complicada de encontrarla. Analizaremos las diferencias.",
-      "Empezando por el nombre, los manuscritos relacionados a la ciudad de Alejandría inmediatamente nos encienden una luz roja dentro de la misma Biblia. Alejandría era la capital de Egipto en el tiempo antiguo. A través de toda la Biblia Egipto figura en la Biblia identificada como el mundo enemigo de Dios. Tanto era así que después que los israelitas salieron de Egipto hacia la tierra prometida, Dios les prohibió terminantemente que volvieran a Egipto de donde habían salido.",
-      "Y existe un principio del estudio bíblico que no es muy conocido pero que no por eso deja de ser real. Es el principio de “la primera mención”. Significa que cuando Dios menciona en la Biblia algún asunto por primera vez, esa primera mención traza un patrón que permanece inalterable en toda la Biblia. Por ejemplo, la primera mención de la serpiente se encuentra en Génesis capítulo 3 (el diablo engañando a Eva) y a partir de allí SIEMPRE que la Biblia menciona a la serpiente lo hace relacionándola con Satanás.",
-      "¡En la Biblia ningún detalle es de casualidad!!! Y resulta que la primera mención bíblica a la ciudad de Alejandría está ligada directamente a los enemigos de la palabra de Dios:",
-      "Empero Esteban, lleno de fe y de poder, hacía prodigios y milagros grandes entre el pueblo. Levantáronse entonces unos de la sinagoga que se llama de los Libertinos, y Cireneos, y Alejandrinos, y de los que eran de Cilicia, y de Asia, disputando con Esteban. Mas no podían resistir a la sabiduría, y al Espíritu con que él hablaba. Entonces sobornaron a unos que dijesen que",
-      "31 Lucas 11:23 le habían oído hablar palabras de blasfemia contra Moisés, y contra Dios. Y conmovieron al pueblo, y a los ancianos, y a los escribas; y arremetiendo, le arrebataron, y le trajeron al concilio. Y pusieron testigos falsos que dijesen: Este hombre no cesa de hablar palabras de blasfemia contra este lugar santo, y contra la ley; Porque le hemos oído decir: Que este Jesús Nazareno destruirá este lugar, y mudará las costumbres que nos dio Moisés. Entonces todos los que estaban sentados en el concilio, puestos los ojos en él, vieron su rostro como el rostro de un ángel. 32",
-      "Esos judíos de Alejandría junto con otros más disputaban con Esteban pero no podían vencer la sabiduría del mensaje de Dios que él proclamaba. Entonces trajeron testigos falsos para acusarle, y Esteban termina apedreado y muerto. Así pues, el nombre de la ciudad de Alejandría lleva en la Biblia un significado ligado directamente a los enemigos de la palabra de Dios, lo mismo que el nombre Egipto, país del cual Alejandría era la antigua capital.",
-      "Los manuscritos de origen Alejandrino, entre ellos los llamados “Códice Vaticano” y “Códice Sinaítico” están plagados de adulteraciones y de errores en el texto bíblico que supuestamente transmiten.",
-      "Tampoco es difícil saber la razón de tales corrupciones. Uno de los hombres a quien se le podría llamar el padre de la gran mayoría de cambios, omisiones y adulteraciones en los manuscritos bíblicos fue Orígenes Adamantius, también conocido como Orígenes de Alejandría. Nacido hacia el año 185 después de Cristo, Orígenes fue alguien que profesaba ser cristiano pero que en lugar de creer las Escrituras lo que seguía, amaba y creía era la filosofía de los griegos. De ahí su intento de “concordar” la Biblia con la filosofía griega.",
-      "La antigua ciudad de Alejandría en Egipto llegó a ser famosa por su gran biblioteca. La ciudad era un enorme centro “cultural” y de ahí el objetivo de reunir todo el saber y el conocimiento en aquella biblioteca llena de miles de libros (manuscritos). Era el equivalente exacto de las grandes universidades del día de hoy que supuestamente reúnen todo el saber humano.",
-      "Fue en base a ambas familias de manuscritos, que se originaron dos ramas",
-      "32 Actos (Hechos) 6:8-15 del texto griego del Nuevo Testamento.",
-      "La primera de ellas es la que se basa en gran medida en los manuscritos de tipo bizantino, que también se llama el texto mayoritario. En este caso para el cristiano estudioso de la Biblia no es difícil distinguir que al hablar del texto mayoritario estamos hablando de los manuscritos FIELES A LA PALABRA DE DIOS. Y la razón es que aquí (en la trasmisión y copiado de estos textos) no intervinieron los académicos, los doctores de aquel tiempo, sino que se fueron copiando y transmitiendo por mano de los creyentes de las Iglesias locales (Y recuerde hermano Lugardo, en realidad lo que intervino en este caso fue la mano de Dios mismo para preservar fielmente su palabra).",
-      "Más de 5,500 manuscritos antiguos del tipo bizantino han quedado como aquellos numerosísimos testigos de la fidelidad del texto del Nuevo Testamento (por eso su nombre también: texto mayoritario) mientras en la otra familia de textos llamados Alejandrinos, el número de ellos es sumamente pequeño en comparación, aparte del hecho de que se desvían completamente de la fidelidad, estando llenos de corrupciones en el texto.",
-      "Fue en base a este texto mayoritario o bizantino que Erasmo de Rotterdam, gran erudito de idiomas bíblicos y un hombre realmente temeroso de Dios, hizo la compilación por primera vez en forma de libro, del texto griego del Nuevo Testamento. Su primera edición vio la luz en 1516 aunque luego hubo varias ediciones posteriores. Más adelante el texto compilado por Erasmo quedó con el nombre de Textus Receptus (que significa Texto Recibido).",
-      "Durante varios siglos, hasta antes del siglo XIX, el Textus Receptus fue la base de las traducciones de la Biblia a muchos idiomas en el mundo, entre ellas la realizada por Casiodoro de Reina al español en 1569, como también la conocida como King James Bible en inglés, en el año 1611.",
-      "¡Estaba transcurriendo en esos tiempos toda la época histórica de Filadelfia a la que Dios felicita por haber guardado su palabra!.",
-      "Pero llegando al inicio de la época apóstata de la Iglesia, la de Laodicea, los llamados doctores de la Biblia dejaron de lado la verdad del Textus Receptus y se volcaron a las fábulas (2 Timoteo 4:4) de los textos Alejandrinos.",
-      "Casi se puede marcar con exactitud el inicio de Laodicea con la publicación del Nuevo Testamento en griego (adulterado, basado en los manuscritos de Alejandría) elaborado por dos hombres apellidados Westcott y Hort. Esto fue en 1881.",
-      "A partir del Nuevo Testamento corrupto de Westcott y Hort, TODO el campo de los traductores bíblicos, dejando de lado la verdad, se inclinaron a seguir la falsedad de ese texto y a publicar las nuevas traducciones (versiones) de la Biblia basándose en los textos Alejandrinos, lo cual CONTINÚA DE LA MISMA MANERA HASTA EL DÍA DE HOY. Es por eso exactamente que Dios califica al cristianismo del tiempo actual de Laodicea como cuitado, y miserable, y pobre, y ciego, y desnudo. 33",
-      "También a partir de Westcott y Hort, o un poco antes de ellos, se comenzó a usar el término “crítico” que no es otra cosa que la incredulidad y la apostasía disimulada con un nombre atractivo. Es por eso que en contraposición al Textus Receptus (basado en el texto bizantino o mayoritario) comenzaron a usar ahora el “Texto Crítico” compilado en base al corrupto texto Alejandrino.",
-      "Las versiones en castellano posteriores a la de 1865 comenzaron a inclinarse invariablemente hacia el “Texto Crítico”. Pero para el tiempo de nuestra Biblia la Sociedad Bíblica Americana todavía no había tomado ese camino. Eso se puede distinguir claramente porque la revisión de 1865 no tiene nada que ver con los Textos Alejandrinos ni con Westcott y Hort que vinieron después.",
-      "Las actas de reuniones de la Sociedad Bíblica Americana durante el proceso de la revisión así lo muestran, por ejemplo (párrafos traducidos):",
-      "“…Temprano en 1860 al Comité de Versiones le fue solicitado otra vez acerca de nuevas y mejoradas Biblias en Español, en conformidad literal con el Hebreo y el Griego. (Subrayado nuestro).",
-      "Más adelante las actas registran incluso que la revisión en español se había adherido a no apartarse del texto en inglés de la Biblia King James, la cual era considerada como un importantísimo referente en lo que concierne a la fidelidad de los manuscritos en los cuales se basaba:",
-      "33 Revelación (Apocalipsis) 3:17c",
-      "“Ellos habían seguido el texto en Inglés tanto como el estilo idiomático lo permitiera. El Comité agradeció al Sub-Comité, especialmente al Dr. Schmidt, y recomendó una gratificación de 1,000 dólares a De Mora, y el agradecimiento y una Biblia hermosamente encuadernada al Dr. Schmidt con una copia de la resolución. El libro fue publicado en 1865 con grandes esperanzas de su amplio uso a través de América Hispana.” (Subrayado nuestro).",
-      "Y en realidad fue Dios quien apartó de la tarea principal a Henry Barrington Pratt (recordando de nuevo el principio de la Preservación Divina de las Escrituras). Decimos esto porque Henry Pratt se había comenzado a inclinar a usar las herramientas de la “crítica” en cuanto a la Biblia, y más adelante en 1893 publicó su propia revisión de la Biblia a la cual llamó “La Versión Moderna” y en ella Pratt se basó en los Textos Alejandrinos, aquellos conocidos como el “Texto Crítico”.",
-      "Henry Pratt se quejó de que Ángel De Mora “no tenía una clara noción de la exactitud crítica” pero ¡Todo esto fue controlado por Dios! teniendo como principal participante a De Mora, alejado del todo de las pretensiones de la corriente de la “crítica” que no es otra cosa que la incredulidad disfrazada. En los párrafos siguientes transcribimos las quejas de Pratt acerca de que De Mora no sabía nada del “estudio crítico” de las Escrituras.",
-      "Mi buen amigo Mora, tal como mi larga e íntima familiaridad con él me permite saberlo, era más que un ordinario experto del Español, pero no había tenido ni podría tener una clara noción de la exactitud crítica en cuanto concierne al sentido. En nuestra propia división del trabajo, él era el responsable del lenguaje, y yo de la exactitud crítica de la revisión.",
-      "Después se lee unos párrafos más adelante:",
-      "(...) Él (Henry Pratt) hizo notar que la versión de Valera original había sido publicada nueve años antes de la Biblia King James, y que el Sr. Mora no tenía conocimiento crítico de la Escritura, ni siquiera en referencia a la presente versión en Inglés. (Nota: se refiere a la Biblia King James). 34",
-      "34 Las cuatro últimas citas son tomadas (traducidas) del documento ya mencionado titulado “ABS Historical Essay # 16, IV Text and Translation, 1860-1900” por Margaret T. Hills, Enero de 1966, de las páginas 26 y 27.",
-      "¡Está muy bien registrado que Ángel Herreros de Mora, el principal revisor de la Biblia 1865, no sabía nada de las artimañas de la “crítica” de la Biblia! Lo cual es, una vez más, motivo de agradecimiento a Dios aunque ni Pratt ni los otros lo entendieran así.",
+    readingTimeMinutes: 12,
+    content: [],
+    blocks: [
+      {
+        "type": "paragraph",
+        "text": "Querido hermano Lugardo: cuando llegamos a este punto referido a los manuscritos originales de la Biblia, necesitamos entender previamente algunos conceptos."
+      },
+      {
+        "type": "subheading",
+        "text": "La preservación divina de las Escrituras"
+      },
+      {
+        "type": "paragraph",
+        "text": "Es sumamente importante entenderlo, y más que entenderlo es asunto de CREERLO. Como ya hemos visto, nos encontramos en el siglo de la incredulidad y la época en la que estamos nunca enfatiza la necesidad de creer, de TENER FE EN LO QUE DIOS HA DICHO. Por lo contrario, y especialmente en los círculos de “erudición” de la Biblia, la actitud general que ellos despliegan hacia la Biblia no es la fe sino la ANTI-FE (la incredulidad) y esta incredulidad está disfrazada con palabras rimbombantes como la “alta crítica”, la “baja crítica” y otras por el estilo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mucho se habla acerca de los errores que se produjeron en el proceso de copiar y volver a copiar y volver a copiar —a mano— los pergaminos, los rollos de la Biblia durante largos siglos antes de la invención de la imprenta hacia 1440."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sin embargo en medio de todo esto hay un hecho que no se puede negar aunque los enemigos de la Biblia lo quieran hacer: DIOS TOMÓ EN SUS PROPIAS MANOS LA PRESERVACIÓN DE SU PALABRA a pesar de los errores de copiado, a pesar de los intentos diabólicos de destruir la Biblia, a pesar de la prohibición de leerla que implantó el catolicismo bajo pena de muerte y a pesar de la incredulidad de los eruditos actuales."
+      },
+      {
+        "type": "paragraph",
+        "text": "LA PRESERVACIÓN DIVINA DE LAS ESCRITURAS puede ser demostrada en el pasaje de 2 Timoteo 3:14-17:"
+      },
+      {
+        "type": "scripture",
+        "reference": "2 Timoteo 3:14-17",
+        "version": "RV1865",
+        "text": "Así que tú está firme en lo que has aprendido, y de que has sido persuadido, sabiendo de quién has aprendido; Y que desde la niñez has sabido las sagradas Escrituras, las cuales te pueden hacer sabio para la salud por medio de la fe que es en Cristo Jesús. Toda la Escritura es inspirada divinamente, y es útil para enseñar, para reprender, para corregir, para instituir en justicia, Para que el hombre de Dios sea perfecto, perfectamente instruido para toda buena obra."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las Escrituras de las que aprendió Timoteo desde su niñez eran copias-de-copias-de-copias-de-copias-de-copias-de-copias. Los originales del Antiguo Testamento ya en el tiempo de Timoteo provenían de miles de años atrás y ¡hacía muchos siglos que aquellos manuscritos originales ya no existían, cuando Timoteo manejaba las Escrituras!."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pero notemos cómo Dios les llama A LAS COPIAS EN MANOS DE TIMOTEO: *Toda la Escritura es inspirada divinamente*. ¡No está refiriéndose a los manuscritos originales!. Sin embargo allí tenemos a los eruditos de las ciencias bíblicas del tiempo de Laodicea afirmando llenos de incredulidad que la Biblia es inspirada divinamente y sin errores “Únicamente en los manuscritos originales”. Es por eso que el Espíritu Santo les reprende con toda dureza:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Revelación 3:18-19",
+        "version": "RV1865",
+        "text": "Yo te aconsejo que de mí compres oro afinado en el fuego, para que seas hecho rico; y vestiduras blancas, para que seas vestido, y que la vergüenza de tu desnudez no se descubra; y unge tus ojos con colirio, para que veas. Yo reprendo y castigo a todos los que amo: sé pues zeloso, y arrepiéntete."
+      },
+      {
+        "type": "paragraph",
+        "text": "También Dios nos asegura la integridad, la exactitud y la fidelidad de la Biblia a lo largo de los siglos:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Mateo 24:35",
+        "version": "RV1865",
+        "text": "El cielo y la tierra perecerán, mas mis palabras no perecerán."
+      },
+      {
+        "type": "paragraph",
+        "text": "Hermano Lugardo, tome nota de esto: el Señor Jesús no dice “mi palabra” sino *mis palabras*, es decir cada una de las aproximadamente 800,000 palabras que están escritas en la Biblia."
+      },
+      {
+        "type": "subheading",
+        "text": "La existencia de manuscritos fieles y de manuscritos corruptos"
+      },
+      {
+        "type": "paragraph",
+        "text": "La historia de adulterar y cambiar las palabras de Dios no es nada nuevo. Es algo tan antiguo como el hombre mismo. El primer adulterador de lo que Dios había dicho fue Satanás en persona, desde los primeros días de la habitación de Adán y Eva en el huerto de Edén. Veamos lo que Dios pronunció y cómo el diablo cambió perversamente las palabras divinas:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dios había dicho exactamente lo siguiente:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Génesis 2:16-17",
+        "version": "RV1865",
+        "text": "Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto comerás: Mas del árbol de ciencia de bien y de mal, no comerás de él: porque el día que de él comieres, morirás."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ahora Satanás pervierte las palabras de Dios:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Génesis 3:1",
+        "version": "RV1865",
+        "text": "Empero la serpiente era astuta más que todos los animales del campo, que Jehová Dios había hecho: la cual dijo a la mujer: ¿Conque Dios ha dicho: No comáis de todo árbol del huerto?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Así que no es nada extraño lo que ha sucedido a lo largo de los siglos, o sea ADULTERAR la Biblia agregando, quitando o cambiando. Pero entonces aquí recordamos que Dios en persona se ha encargado de la preservación fiel de sus Escrituras, por lo tanto SIEMPRE SE PUEDE IDENTIFICAR LOS TEXTOS FIELES Y VERDADEROS PARA DISTINGUIRLOS DE LOS TEXTOS CORRUPTOS."
+      },
+      {
+        "type": "paragraph",
+        "text": "En cuanto al texto griego en el cual fue escrito el Nuevo Testamento, hay dos tipos principales de manuscritos antiguos (es decir aquellos escritos a mano antes de la invención de la imprenta). Estos son los siguientes:"
+      },
+      {
+        "type": "ordered-list",
+        "items": [
+          "Los del Texto Mayoritario, también llamado la familia textual de tipo Bizantino. El nombre “mayoritario” proviene del hecho de que existen más de 5,500 manuscritos antiguos de este tipo, que van desde pequeños fragmentos hasta copias enteras o casi completas del Nuevo Testamento en su idioma original. Generalmente su antigüedad proviene desde el siglo cuarto en adelante.",
+          "Los textos Alejandrinos, nombrados así por la ciudad egipcia de Alejandría. Los manuscritos que pertenecen a este tipo son muy pocos, algunos autores dicen que apenas hay “unos cuantos” de ellos, otros autores les atribuyen ser hasta 200."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Aparte de estas dos familias de manuscritos hay algunos otros también pero los dos mencionados son los más importantes."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ahora bien, aunque algunos estudiosos pretenden mantenerse “neutrales” en cuanto a defender o el uno o el otro de estas familias de manuscritos, delante de LA VERDAD no existe nada parecido a la neutralidad. O estamos con la verdad o estamos en contra de ella. ¡No existe un punto medio, un punto neutral! Y el Señor Jesús así lo dice:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Lucas 11:23",
+        "version": "RV1865",
+        "text": "El que no es conmigo, contra mí es; y el que conmigo no coge, derrama."
+      },
+      {
+        "type": "subheading",
+        "text": "El testimonio bíblico sobre Alejandría y Egipto"
+      },
+      {
+        "type": "paragraph",
+        "text": "Como siempre sucede en el campo de la verdad, es necesario preguntarse: ¿Cuál de estas dos familias de manuscritos es la que se mantuvo fiel a la palabra de Dios? Y la respuesta no es nada complicada de encontrarla. Analizaremos las diferencias."
+      },
+      {
+        "type": "paragraph",
+        "text": "Empezando por el nombre, los manuscritos relacionados a la ciudad de Alejandría inmediatamente nos encienden una luz roja dentro de la misma Biblia. Alejandría era la capital de Egipto en el tiempo antiguo. A través de toda la Biblia Egipto figura identificada como el mundo enemigo de Dios. Tanto era así que después que los israelitas salieron de Egipto hacia la tierra prometida, Dios les prohibió terminantemente que volvieran a Egipto de donde habían salido."
+      },
+      {
+        "type": "paragraph",
+        "text": "Y existe un principio del estudio bíblico que no es muy conocido pero que no por eso deja de ser real: el principio de “la primera mención”. Significa que cuando Dios menciona en la Biblia algún asunto por primera vez, esa primera mención traza un patrón que permanece inalterable en toda la Biblia. Por ejemplo, la primera mención de la serpiente se encuentra en Génesis capítulo 3 (el diablo engañando a Eva) y a partir de allí SIEMPRE que la Biblia menciona a la serpiente lo hace relacionándola con Satanás."
+      },
+      {
+        "type": "paragraph",
+        "text": "¡En la Biblia ningún detalle es de casualidad! Y resulta que la primera mención bíblica a la ciudad de Alejandría está ligada directamente a los enemigos de la palabra de Dios:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Actos 6:8-15",
+        "version": "RV1865",
+        "text": "Empero Esteban, lleno de fe y de poder, hacía prodigios y milagros grandes entre el pueblo. Levantáronse entonces unos de la sinagoga que se llama de los Libertinos, y Cireneos, y Alejandrinos, y de los que eran de Cilicia, y de Asia, disputando con Esteban. Mas no podían resistir a la sabiduría, y al Espíritu con que él hablaba. Entonces sobornaron a unos que dijesen que le habían oído hablar palabras de blasfemia contra Moisés, y contra Dios. Y conmovieron al pueblo, y a los ancianos, y a los escribas; y arremetiendo, le arrebataron, y le trajeron al concilio. Y pusieron testigos falsos que dijesen: Este hombre no cesa de hablar palabras de blasfemia contra este lugar santo, y contra la ley; Porque le hemos oído decir: Que este Jesús Nazareno destruirá este lugar, y mudará las costumbres que nos dio Moisés. Entonces todos los que estaban sentados en el concilio, puestos los ojos en él, vieron su rostro como el rostro de un ángel."
+      },
+      {
+        "type": "paragraph",
+        "text": "Esos judíos de Alejandría junto con otros más disputaban con Esteban pero no podían vencer la sabiduría del mensaje de Dios que él proclamaba. Entonces trajeron testigos falsos para acusarle, y Esteban termina apedreado y muerto. Así pues, el nombre de la ciudad de Alejandría lleva en la Biblia un significado ligado directamente a los enemigos de la palabra de Dios, lo mismo que el nombre Egipto, país del cual Alejandría era la antigua capital."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los manuscritos de origen Alejandrino, entre ellos los llamados “Códice Vaticano” y “Códice Sinaítico”, están plagados de adulteraciones y de errores en el texto bíblico que supuestamente transmiten."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tampoco es difícil saber la razón de tales corrupciones. Uno de los hombres a quien se le podría llamar el padre de la gran mayoría de cambios, omisiones y adulteraciones en los manuscritos bíblicos fue Orígenes Adamantius, también conocido como Orígenes de Alejandría. Nacido hacia el año 185 después de Cristo, Orígenes fue alguien que profesaba ser cristiano pero que en lugar de creer las Escrituras lo que seguía, amaba y creía era la filosofía de los griegos. De ahí su intento de “concordar” la Biblia con la filosofía griega."
+      },
+      {
+        "type": "paragraph",
+        "text": "La antigua ciudad de Alejandría en Egipto llegó a ser famosa por su gran biblioteca. La ciudad era un enorme centro cultural y de ahí el objetivo de reunir todo el saber y el conocimiento en aquella biblioteca llena de miles de libros manuscritos. Era el equivalente exacto de las grandes universidades del día de hoy que supuestamente reúnen todo el saber humano."
+      },
+      {
+        "type": "subheading",
+        "text": "El Texto Mayoritario y el Textus Receptus"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fue en base a ambas familias de manuscritos que se originaron dos ramas del texto griego del Nuevo Testamento."
+      },
+      {
+        "type": "paragraph",
+        "text": "La primera de ellas es la que se basa en gran medida en los manuscritos de tipo bizantino, que también se llama el texto mayoritario. En este caso para el cristiano estudioso de la Biblia no es difícil distinguir que al hablar del texto mayoritario estamos hablando de los manuscritos FIELES A LA PALABRA DE DIOS. Y la razón es que aquí (en la transmisión y copiado de estos textos) no intervinieron los académicos, los doctores de aquel tiempo, sino que se fueron copiando y transmitiendo por mano de los creyentes de las Iglesias locales (y recuerde hermano Lugardo, en realidad lo que intervino en este caso fue la mano de Dios mismo para preservar fielmente su palabra)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Más de 5,500 manuscritos antiguos del tipo bizantino han quedado como aquellos numerosísimos testigos de la fidelidad del texto del Nuevo Testamento (por eso su nombre: texto mayoritario), mientras en la otra familia de textos llamados Alejandrinos, el número de ellos es sumamente pequeño en comparación, aparte del hecho de que se desvían completamente de la fidelidad, estando llenos de corrupciones en el texto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Fue en base a este texto mayoritario o bizantino que Erasmo de Rotterdam, gran erudito de idiomas bíblicos y un hombre realmente temeroso de Dios, hizo la compilación por primera vez en forma de libro del texto griego del Nuevo Testamento. Su primera edición vio la luz en 1516 aunque luego hubo varias ediciones posteriores. Más adelante el texto compilado por Erasmo quedó con el nombre de *Textus Receptus* (que significa Texto Recibido)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Durante varios siglos, hasta antes del siglo XIX, el *Textus Receptus* fue la base de las traducciones de la Biblia a muchos idiomas en el mundo, entre ellas la realizada por Casiodoro de Reina al español en 1569, como también la conocida como *King James Bible* en inglés, en el año 1611."
+      },
+      {
+        "type": "paragraph",
+        "text": "¡Estaba transcurriendo en esos tiempos toda la época histórica de Filadelfia a la que Dios felicita por haber guardado su palabra!"
+      },
+      {
+        "type": "subheading",
+        "text": "El desvío hacia el Texto Crítico en 1881"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pero llegando al inicio de la época apóstata de la Iglesia, la de Laodicea, los llamados doctores de la Biblia dejaron de lado la verdad del *Textus Receptus* y se volcaron a las fábulas (2 Timoteo 4:4) de los textos Alejandrinos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Casi se puede marcar con exactitud el inicio de Laodicea con la publicación del Nuevo Testamento en griego (adulterado, basado en los manuscritos de Alejandría) elaborado por dos hombres apellidados Westcott y Hort. Esto fue en 1881."
+      },
+      {
+        "type": "paragraph",
+        "text": "A partir del Nuevo Testamento corrupto de Westcott y Hort, TODO el campo de los traductores bíblicos, dejando de lado la verdad, se inclinaron a seguir la falsedad de ese texto y a publicar las nuevas traducciones (versiones) de la Biblia basándose en los textos Alejandrinos, lo cual CONTINÚA DE LA MISMA MANERA HASTA EL DÍA DE HOY. Es por eso exactamente que Dios califica al cristianismo del tiempo actual de Laodicea como cuitado, y miserable, y pobre, y ciego, y desnudo:"
+      },
+      {
+        "type": "scripture",
+        "reference": "Revelación 3:17",
+        "version": "RV1865",
+        "text": "Porque tú dices: Yo soy rico, y soy enriquecido, y no tengo necesidad de ninguna cosa; y no conoces que tú eres cuitado, y miserable, y pobre, y ciego, y desnudo."
+      },
+      {
+        "type": "paragraph",
+        "text": "También a partir de Westcott y Hort, o un poco antes de ellos, se comenzó a usar el término “crítico” que no es otra cosa que la incredulidad y la apostasía disimulada con un nombre atractivo. Es por eso que en contraposición al *Textus Receptus* (basado en el texto bizantino o mayoritario) comenzaron a usar ahora el “Texto Crítico” compilado en base al corrupto texto Alejandrino."
+      },
+      {
+        "type": "subheading",
+        "text": "La Biblia 1865 y las actas de la Sociedad Bíblica Americana"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las versiones en castellano posteriores a la de 1865 comenzaron a inclinarse invariablemente hacia el “Texto Crítico”. Pero para el tiempo de nuestra Biblia la Sociedad Bíblica Americana todavía no había tomado ese camino. Eso se puede distinguir claramente porque la revisión de 1865 no tiene nada que ver con los Textos Alejandrinos ni con Westcott y Hort que vinieron después."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las actas de reuniones de la Sociedad Bíblica Americana durante el proceso de la revisión así lo muestran:"
+      },
+      {
+        "type": "quote",
+        "text": "…Temprano en 1860 al Comité de Versiones le fue solicitado otra vez acerca de nuevas y mejoradas Biblias en Español, en conformidad literal con el Hebreo y el Griego.",
+        "author": "Comité de Versiones de la Sociedad Bíblica Americana",
+        "source": "Actas del Comité de Versiones (Enero de 1860) / ABS Historical Essay #16"
+      },
+      {
+        "type": "paragraph",
+        "text": "Más adelante las actas registran incluso que la revisión en español se había adherido a no apartarse del texto en inglés de la Biblia King James, la cual era considerada como un importantísimo referente en lo que concierne a la fidelidad de los manuscritos en los cuales se basaba:"
+      },
+      {
+        "type": "quote",
+        "text": "Ellos habían seguido el texto en Inglés tanto como el estilo idiomático lo permitiera. El Comité agradeció al Sub-Comité, especialmente al Dr. Schmidt, y recomendó una gratificación de 1,000 dólares a De Mora, y el agradecimiento y una Biblia hermosamente encuadernada al Dr. Schmidt con una copia de la resolución. El libro fue publicado en 1865 con grandes esperanzas de su amplio uso a través de América Hispana.",
+        "author": "Comité de Versiones de la Sociedad Bíblica Americana",
+        "source": "Resolución del Comité de Versiones (1865) / ABS Historical Essay #16, pág. 26"
+      },
+      {
+        "type": "paragraph",
+        "text": "Y en realidad fue Dios quien apartó de la tarea principal a Henry Barrington Pratt (recordando de nuevo el principio de la Preservación Divina de las Escrituras). Decimos esto porque Henry Pratt se había comenzado a inclinar a usar las herramientas de la “crítica” en cuanto a la Biblia, y más adelante en 1893 publicó su propia revisión de la Biblia a la cual llamó “La Versión Moderna” y en ella Pratt se basó en los Textos Alejandrinos, aquellos conocidos como el “Texto Crítico”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Henry Pratt se quejó de que Ángel De Mora “no tenía una clara noción de la exactitud crítica” pero ¡todo esto fue controlado por Dios!, teniendo como principal participante a De Mora, alejado del todo de las pretensiones de la corriente de la “crítica” que no es otra cosa que la incredulidad disfrazada."
+      },
+      {
+        "type": "paragraph",
+        "text": "En los párrafos siguientes transcribimos las quejas de Pratt acerca de que De Mora no sabía nada del “estudio crítico” de las Escrituras:"
+      },
+      {
+        "type": "quote",
+        "text": "Mi buen amigo Mora, tal como mi larga e íntima familiaridad con él me permite saberlo, era más que un ordinario experto del Español, pero no había tenido ni podría tener una clara noción de la exactitud crítica en cuanto concierne al sentido. En nuestra propia división del trabajo, él era el responsable del lenguaje, y yo de la exactitud crítica de la revisión.",
+        "author": "Henry Barrington Pratt",
+        "source": "Citado en ABS Historical Essay #16 por Margaret T. Hills (1966), pág. 26"
+      },
+      {
+        "type": "paragraph",
+        "text": "Después se lee unos párrafos más adelante:"
+      },
+      {
+        "type": "quote",
+        "text": "(...) Él [Henry Pratt] hizo notar que la versión de Valera original había sido publicada nueve años antes de la Biblia King James, y que el Sr. Mora no tenía conocimiento crítico de la Escritura, ni siquiera en referencia a la presente versión en Inglés.",
+        "author": "Margaret T. Hills",
+        "source": "ABS Historical Essay #16, IV Text and Translation, 1860-1900 (1966), pág. 27"
+      },
+      {
+        "type": "paragraph",
+        "text": "¡Está muy bien registrado que Ángel Herreros de Mora, el principal revisor de la Biblia 1865, no sabía nada de las artimañas de la “crítica” de la Biblia! Lo cual es, una vez más, motivo de agradecimiento a Dios aunque ni Pratt ni los otros lo entendieran así."
+      }
     ],
   },
   {
