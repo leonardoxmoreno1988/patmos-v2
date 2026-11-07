@@ -136,11 +136,9 @@ function Home() {
           <div className="lg:col-span-8 flex flex-col">
             <div className="rounded-xl border-0 dark:border-transparent bg-muted/70 dark:bg-card text-card-foreground p-5 flex flex-col justify-between shadow-none transition-colors h-full">
               <div className="flex flex-wrap items-center justify-between gap-2.5">
-                <span className="text-[11px] font-semibold tracking-wider uppercase px-2.5 py-0.5 rounded-full border border-primary/20 bg-primary/10 text-primary">
-                  {t.dashboard.verseOfDayLabel}
-                </span>
-                <a href={dailyVerse.readerUrl} className="text-xs font-medium text-muted-foreground hover:text-foreground transition-colors">
-                  {dailyVerse.reference} · {dailyVerse.version} <span aria-hidden="true">↗</span>
+                <span className="text-[11px] font-semibold tracking-wider uppercase text-muted-foreground">{t.dashboard.verseOfDayLabel}</span>
+                <a href={dailyVerse.readerUrl} className="text-xs font-medium text-muted-foreground hover:text-foreground transition-colors inline-flex items-center gap-1">
+                  <span>{dailyVerse.reference} · {dailyVerse.version}</span><span aria-hidden="true" className="text-[10px]">↗</span>
                 </a>
               </div>
               <p className="mt-3 text-sm sm:text-base font-serif italic text-foreground/90 leading-relaxed">
@@ -159,7 +157,7 @@ function Home() {
               <div className="mt-4 flex flex-col gap-2 w-full">
                 <Link
                   {...readerLinkProps(lang, last.libro, Number(last.cap))}
-                  className="w-full h-9 rounded-lg font-medium text-xs sm:text-sm bg-primary text-primary-foreground hover:bg-primary/90 flex items-center justify-center gap-2 shadow-none transition-colors"
+                  className="w-full h-9 rounded-lg font-medium text-xs sm:text-sm bg-neutral-900 text-white hover:bg-neutral-800 dark:bg-white dark:text-neutral-950 dark:hover:bg-neutral-100 flex items-center justify-center gap-2 transition-colors shadow-none border-0"
                 >
                   <BookOpen className="size-4" aria-hidden="true" /> {t.home.continueReading}
                 </Link>
@@ -207,7 +205,7 @@ function Home() {
         )}
 
         <section className="pt-2 pb-24">
-          <div className="mb-7 flex items-end justify-between gap-4 border-b border-border pb-4">
+          <div className="mb-7 flex items-end justify-between gap-4">
             <div><h2 className="text-xl font-semibold text-foreground">{t.home.notesProgress}</h2><p className="mt-1 text-sm text-muted-foreground">{t.home.notesProgressSubtitle}</p></div>
           </div>
           <ul className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
