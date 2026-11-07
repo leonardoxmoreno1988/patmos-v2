@@ -132,35 +132,42 @@ function Home() {
       <SiteHeader />
   
       <main className="mx-auto max-w-6xl px-6">
-        <section className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 pt-8 pb-6 mb-6 border-b border-border/40 md:pt-10">
-          <div className="min-w-0 max-w-xl flex flex-col items-start">
-            <h1 className="sr-only">{t.dashboard.title}</h1>
-            <div className="flex flex-wrap items-center gap-2.5">
+        <section className="grid grid-cols-1 lg:grid-cols-12 gap-4 pt-8 mb-8 md:pt-10">
+          <div className="lg:col-span-8 rounded-xl border border-white/5 bg-card/60 backdrop-blur-sm p-5 flex flex-col justify-between">
+            <div className="flex flex-wrap items-center justify-between gap-2.5">
               <span className="text-[11px] font-semibold tracking-wider uppercase px-2 py-0.5 rounded-full border border-primary/20 bg-primary/10 text-primary">
                 {lang === "es" ? "Versículo del día" : "Verse of the day"}
               </span>
-              <a
-                href={dailyVerse.readerUrl}
-                className="text-xs font-medium text-muted-foreground hover:text-foreground hover:underline underline-offset-2"
-              >
+              <a href={dailyVerse.readerUrl} className="text-xs font-medium text-muted-foreground hover:text-foreground hover:underline underline-offset-2">
                 {dailyVerse.reference} · {dailyVerse.version} <span aria-hidden="true">↗</span>
               </a>
             </div>
-            <p className="mt-1 text-sm sm:text-base italic text-foreground/90 font-serif leading-snug line-clamp-2">
+            <p className="text-sm sm:text-base font-serif italic text-foreground/90 leading-relaxed mt-2">
               “{dailyVerse.text}”
             </p>
           </div>
-          <div className="flex items-center gap-2.5 flex-wrap">
-            <Button asChild className="h-10 rounded-full px-5 dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100">
-              <Link {...readerLinkProps(lang, last.libro, Number(last.cap))}>
-                <BookOpen /> {t.home.continueReading} <span className="text-xs opacity-80">({lastBook} {last.cap})</span>
-              </Link>
-            </Button>
-            <Button variant="outline" size="lg" className="h-10 rounded-full px-5" onPointerEnter={preloadConsulta} onFocus={preloadConsulta} onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
+          <div className="lg:col-span-4 rounded-xl border border-white/5 bg-card/60 backdrop-blur-sm p-5 flex flex-col justify-between gap-3">
+            <div>
+              <p className="text-[11px] font-semibold tracking-wider uppercase text-muted-foreground">
+                {lang === "es" ? "Sesión activa" : "Active session"}
+              </p>
+              <p className="mt-1 text-base font-medium text-foreground flex items-center gap-2">
+                <BookOpen className="size-4 shrink-0" aria-hidden="true" /> {lastBook} {last.cap}
+              </p>
+            </div>
+            <div className="flex flex-col gap-2.5">
+              <Button asChild className="h-10 w-full rounded-full dark:border-transparent dark:bg-white dark:text-slate-900 hover:dark:bg-slate-100">
+                <Link {...readerLinkProps(lang, last.libro, Number(last.cap))}>
+                  <BookOpen /> {t.home.continueReading}
+                </Link>
+              </Button>
+              <Button variant="outline" size="lg" className="h-10 w-full rounded-full" onPointerEnter={preloadConsulta} onFocus={preloadConsulta} onClick={() => { setConsultaView("chat"); setConsultaKey((k) => k + 1); setConsultaOpen(true); }}>
               <MessageSquare /> {t.home.askPatmos}
             </Button>
+            </div>
           </div>
         </section>
+
   
         {/* Banner del E-book gratuito — oculto temporalmente; poner SHOW_EBOOK_BANNER en true para reactivarlo */}
         {SHOW_EBOOK_BANNER && !isDemoUser(user) && (
