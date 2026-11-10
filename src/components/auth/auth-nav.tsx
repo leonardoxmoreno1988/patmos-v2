@@ -180,7 +180,7 @@ export function AuthNav() {
             aria-label={`${t.menu.open} (${displayName})`}
             className="h-9 w-9 rounded-full p-1 hover:bg-foreground/5"
           >
-            <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-white text-neutral-950 font-semibold text-xs sm:text-sm border border-border/40 select-none shadow-none">
+            <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-foreground text-xs font-semibold text-background">
               {initial}
             </span>
           </Button>
