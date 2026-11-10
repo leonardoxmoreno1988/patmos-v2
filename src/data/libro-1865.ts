@@ -470,10 +470,6 @@ export const LIBRO_1865: Book = {
         "text": "El requisito de que amaran la palabra de Dios hasta el punto de estar al filo de la muerte por causa de ella, es algo que los eruditos y traductores del tiempo de ahora no podrían cumplir ni de lejos."
       },
       {
-        "type": "subheading",
-        "text": "Casiodoro de Reina"
-      },
-      {
         "type": "paragraph",
         "text": "Casiodoro de Reina nació alrededor de 1520. Él y Cipriano de Valera habían sido frailes jerónimos en el monasterio de San Isidoro del Campo en Sevilla. Citamos a continuación un fragmento del libro *The Spanish Fountain: A History and Review of the Reina-Valera Version* por Thomas Holland:"
       },
@@ -595,10 +591,6 @@ export const LIBRO_1865: Book = {
         "text": "Entonces respondiendo Jesús, les dijo: Erráis, ignorando las escrituras, y el poder de Dios."
       },
       {
-        "type": "subheading",
-        "text": "Cipriano de Valera"
-      },
-      {
         "type": "paragraph",
         "text": "Ahora pasemos a hablar de la siguiente persona que Dios escogió para la magna tarea de la Biblia en español, quien fue Cipriano de Valera. Después de huir de Sevilla junto con Casiodoro de Reina, en 1588 publicó un libro sobre los engaños del catolicismo, especialmente en los asuntos del papado y de la misa. También publicó otros libros de similar estilo. Como resultado su efigie fue quemada en 1562, junto con la de Casiodoro, y los libros de Cipriano de Valera fueron colocados en el index de libros prohibidos por la Inquisición, llamándosele a él “el hereje español”."
       },
@@ -627,10 +619,6 @@ export const LIBRO_1865: Book = {
           "Cipriano de Valera decidió simplificar la frase, entonces cada vez que en la Biblia de 1569 decía “Jesús el Cristo” ahora en la revisión de 1602 llega a decir “Jesu Cristo”, y así se ha mantenido en la última revisión, la de 1865.",
           "¿Fue correcta la modificación? La respuesta es la siguiente: DIOS MISMO LE GUIÓ A REALIZAR ESTA MODIFICACIÓN COMO TAMBIÉN OTRAS QUE VALERA HIZO, ALGUNAS DE LAS CUALES ÉL MENCIONA EN EL PREFACIO QUE ACABAMOS DE CITAR. Este punto acerca de cómo el Espíritu Santo guió a los traductores y a los revisores, lo vamos a explicar en detalle más adelante."
         ]
-      },
-      {
-        "type": "subheading",
-        "text": "Ángel Herreros de Mora"
       },
       {
         "type": "paragraph",
@@ -687,10 +675,6 @@ export const LIBRO_1865: Book = {
       {
         "type": "paragraph",
         "text": "Así que estos tres varones de Dios —Casiodoro de Reina, Cipriano de Valera y Ángel de Mora— fueron aquellos instrumentos que Dios usó para darnos su palabra en castellano. Como ya hemos visto, compartieron muchas cosas en común pero la más importante de todas fue que trabajaron con LAS PALABRAS DE DIOS en la Biblia conscientes de que tenían en sus manos una tarea divina y no humana."
-      },
-      {
-        "type": "subheading",
-        "text": "El redescubrimiento de la Biblia 1865"
       },
       {
         "type": "paragraph",
@@ -757,10 +741,6 @@ export const LIBRO_1865: Book = {
         "text": "Querido hermano Lugardo: cuando llegamos a este punto referido a los manuscritos originales de la Biblia, necesitamos entender previamente algunos conceptos."
       },
       {
-        "type": "subheading",
-        "text": "La preservación divina de las Escrituras"
-      },
-      {
         "type": "paragraph",
         "text": "Es sumamente importante entenderlo, y más que entenderlo es asunto de CREERLO. Como ya hemos visto, nos encontramos en el siglo de la incredulidad y la época en la que estamos nunca enfatiza la necesidad de creer, de TENER FE EN LO QUE DIOS HA DICHO. Por lo contrario, y especialmente en los círculos de “erudición” de la Biblia, la actitud general que ellos despliegan hacia la Biblia no es la fe sino la ANTI-FE (la incredulidad) y esta incredulidad está disfrazada con palabras rimbombantes como la “alta crítica”, la “baja crítica” y otras por el estilo."
       },
@@ -809,10 +789,6 @@ export const LIBRO_1865: Book = {
       {
         "type": "paragraph",
         "text": "Hermano Lugardo, tome nota de esto: el Señor Jesús no dice “mi palabra” sino *mis palabras*, es decir cada una de las aproximadamente 800,000 palabras que están escritas en la Biblia."
-      },
-      {
-        "type": "subheading",
-        "text": "La existencia de manuscritos fieles y de manuscritos corruptos"
       },
       {
         "type": "paragraph",
@@ -868,10 +844,6 @@ export const LIBRO_1865: Book = {
         "text": "El que no es conmigo, contra mí es; y el que conmigo no coge, derrama."
       },
       {
-        "type": "subheading",
-        "text": "El testimonio bíblico sobre Alejandría y Egipto"
-      },
-      {
         "type": "paragraph",
         "text": "Como siempre sucede en el campo de la verdad, es necesario preguntarse: ¿Cuál de estas dos familias de manuscritos es la que se mantuvo fiel a la palabra de Dios? Y la respuesta no es nada complicada de encontrarla. Analizaremos las diferencias."
       },
@@ -910,10 +882,6 @@ export const LIBRO_1865: Book = {
         "text": "La antigua ciudad de Alejandría en Egipto llegó a ser famosa por su gran biblioteca. La ciudad era un enorme centro cultural y de ahí el objetivo de reunir todo el saber y el conocimiento en aquella biblioteca llena de miles de libros manuscritos. Era el equivalente exacto de las grandes universidades del día de hoy que supuestamente reúnen todo el saber humano."
       },
       {
-        "type": "subheading",
-        "text": "El Texto Mayoritario y el Textus Receptus"
-      },
-      {
         "type": "paragraph",
         "text": "Fue en base a ambas familias de manuscritos que se originaron dos ramas del texto griego del Nuevo Testamento."
       },
@@ -938,10 +906,6 @@ export const LIBRO_1865: Book = {
         "text": "¡Estaba transcurriendo en esos tiempos toda la época histórica de Filadelfia a la que Dios felicita por haber guardado su palabra!"
       },
       {
-        "type": "subheading",
-        "text": "El desvío hacia el Texto Crítico en 1881"
-      },
-      {
         "type": "paragraph",
         "text": "Pero llegando al inicio de la época apóstata de la Iglesia, la de Laodicea, los llamados doctores de la Biblia dejaron de lado la verdad del *Textus Receptus* y se volcaron a las fábulas (2 Timoteo 4:4) de los textos Alejandrinos."
       },
@@ -962,10 +926,6 @@ export const LIBRO_1865: Book = {
       {
         "type": "paragraph",
         "text": "También a partir de Westcott y Hort, o un poco antes de ellos, se comenzó a usar el término “crítico” que no es otra cosa que la incredulidad y la apostasía disimulada con un nombre atractivo. Es por eso que en contraposición al *Textus Receptus* (basado en el texto bizantino o mayoritario) comenzaron a usar ahora el “Texto Crítico” compilado en base al corrupto texto Alejandrino."
-      },
-      {
-        "type": "subheading",
-        "text": "La Biblia 1865 y las actas de la Sociedad Bíblica Americana"
       },
       {
         "type": "paragraph",
@@ -1058,10 +1018,6 @@ export const LIBRO_1865: Book = {
         "text": "Es por eso que para el idioma español o castellano nosotros como Creyentes de la Biblia creemos y proclamamos que la revisión de 1865 de la traducción de Reina y Valera es precisamente aquella que fue inspirada por Dios EN LA TRADUCCIÓN AL CASTELLANO y no únicamente en los manuscritos originales. Esto excluye a toda otra versión como inspirada por Dios."
       },
       {
-        "type": "subheading",
-        "text": "La traducción y la doble inspiración"
-      },
-      {
         "type": "paragraph",
         "text": "Bueno, hermano Lugardo, examinaremos con cuidado los dos conceptos que estamos manejando aquí. Uno de ellos es acerca de la traducción, y el otro acerca de la doble inspiración de la Biblia."
       },
@@ -1084,10 +1040,6 @@ export const LIBRO_1865: Book = {
       {
         "type": "paragraph",
         "text": "Se confirma pues, exactamente como Dios lo diagnostica, a los creyentes del tiempo de Laodicea (nuestro tiempo) como cristianos que no conocen en absoluto el poder de Dios, y la razón de no conocerlo es por su incredulidad."
-      },
-      {
-        "type": "subheading",
-        "text": "La incredulidad contemporánea y la ciencia"
       },
       {
         "type": "paragraph",
@@ -1115,10 +1067,6 @@ export const LIBRO_1865: Book = {
         "text": "Quienes nos llamamos Creyentes de la Biblia somos objeto de burla de los demás cristianos. ¡Gloria a Dios por eso! Somos iguales a los niños a quienes menciona el Señor en este pasaje: llenos de fe en la palabra de Dios, entendiendo cabalmente sus misterios mientras los “CREYENTES INCRÉDULOS” del tiempo de Laodicea, que se consideran a sí mismos sabios y entendidos, no comprenden nada de las maravillas de Dios."
       },
       {
-        "type": "subheading",
-        "text": "La doble inspiración de las Escrituras"
-      },
-      {
         "type": "paragraph",
         "text": "De manera, pues, que acabamos de hablar acerca de que, no obstante que al traducir del hebreo y el griego al castellano no se puede traspasar el cien por ciento del significado original de esos idiomas al español, sin embargo las palabras que quedaron traducidas CONSTITUYEN LAS MISMAS Y EXACTAS PALABRAS DE DIOS, PERFECTAS E INFALIBLES, PERO ESTA VEZ EN IDIOMA CASTELLANO."
       },
@@ -1133,10 +1081,6 @@ export const LIBRO_1865: Book = {
       {
         "type": "paragraph",
         "text": "También entendemos que las palabras originales de Dios, que constituyen la base para toda traducción a cualquier idioma, han sido y seguirán siendo aquellas que Dios nos reveló por medio de los idiomas originales: hebreo en el Antiguo Testamento, y griego en el caso del Nuevo Testamento."
-      },
-      {
-        "type": "subheading",
-        "text": "¿Por qué prescindir del hebreo y del griego?"
       },
       {
         "type": "paragraph",
@@ -1167,10 +1111,6 @@ export const LIBRO_1865: Book = {
         "text": "¡Nosotros queremos romper esa larga tradición, hermano Lugardo! A mí personalmente me encanta romper las tradiciones cuando encuentro que no concuerdan con la Biblia. Si Dios nos ha hablado EN ESPAÑOL hay que estudiar las conjugaciones, los matices de significado de cada palabra en castellano, no en griego ni en hebreo."
       },
       {
-        "type": "subheading",
-        "text": "El relativismo y la Equivalencia Dinámica de Eugene Nida"
-      },
-      {
         "type": "paragraph",
         "text": "Otro punto necesario de tratar aquí es en cuanto a una de las líneas prevalecientes más destacadas en medio del mundo en la época de Laodicea: EL RELATIVISMO, el cual influye en todas las áreas de pensamiento actualmente. El concepto es el siguiente: que LA VERDAD NO EXISTE, y por lo tanto todo lo que hay es relativo, NADA ES ABSOLUTO, NADA ES VERDADERO."
       },
@@ -1197,10 +1137,6 @@ export const LIBRO_1865: Book = {
       {
         "type": "paragraph",
         "text": "¿Cómo es posible que nadie se dé cuenta de que la Equivalencia Dinámica es una simple falacia? Porque si hablamos de las ideas o conceptos, estos conceptos o ideas no flotan sueltos en el aire. CADA IDEA DEPENDE ABSOLUTAMENTE DE LA PALABRA QUE SE USE. ¿Cómo entonces se puede trasladar de un idioma al otro la idea exacta si no es por una palabra que conlleve la misma idea de la manera más fiel posible?"
-      },
-      {
-        "type": "subheading",
-        "text": "Tres pruebas textuales de fidelidad en la Biblia 1865"
       },
       {
         "type": "paragraph",
