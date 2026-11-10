@@ -127,11 +127,11 @@ function HomePage() {
         <p className="text-lg md:text-xl leading-relaxed text-[#000f37] max-w-2xl font-normal dark:text-foreground">
           {lang === 'es' ? (
             <>
-              Estudia la Palabra pura (<span className="font-bold">RV1865 / KJV</span>) con herramientas avanzadas, notas personales y asistencia doctrinal en un solo ecosistema bilingüe.
+              Estudia la Palabra pura (<span className="font-bold">Reina Valera 1865</span>) con herramientas avanzadas, notas personales y asistencia doctrinal en un solo ecosistema bilingüe.
             </>
           ) : (
             <>
-              Study the pure Word of God (<span className="font-bold">RV1865 / KJV</span>) with advanced research tools, personal notes, and doctrinal assistance in a unified bilingual ecosystem.
+              Study the pure Word of God (<span className="font-bold">King James Version</span>) with advanced research tools, personal notes, and doctrinal assistance in a unified bilingual ecosystem.
             </>
           )}
         </p>
