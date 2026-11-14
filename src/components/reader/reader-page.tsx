@@ -538,7 +538,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
      >
        <div className="mb-3">
         <h2 id="study-notes-heading" className="hidden text-lg font-bold text-foreground lg:block lg:text-[20px]">
-         {t.reader.notes}
+         {t.reader.tabNotes}
         </h2>
         {hasNotes ? <p className="mt-1 mb-6 text-xs tracking-wide text-muted-foreground">{t.funnel.notesSubtitle}</p> : null}
        </div>
