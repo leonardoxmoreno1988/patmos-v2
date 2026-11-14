@@ -2,11 +2,11 @@ import { useEffect, useRef, useState } from "react";
 import { Link, useNavigate, useRouterState } from "@tanstack/react-router";
 
 import { useQuery, useQueryClient } from "@tanstack/react-query";
-import { ChevronLeft, ChevronRight, MessageSquare, StickyNote } from "lucide-react";
+import { Check, ChevronLeft, ChevronRight, MessageSquare, StickyNote } from "lucide-react";
 
 import { useAuth } from "@/components/auth/auth-provider";
 import { AuthModal } from "@/components/auth/auth-modal";
-import { VerseActionBar } from "@/components/reader/verse-tools";
+import { VerseActionBar, formatVerseList } from "@/components/reader/verse-tools";
 import { HIGHLIGHT_CLASS, chapterMarksQuery } from "@/lib/user-marks";
 
 import { BOOKS, CHAPTER_COUNTS, TRANSLATIONS, bookName, slugifyBook, type Verse } from "@/lib/bible";
@@ -147,6 +147,27 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
  const [authOpen, setAuthOpen] = useState(false);
  const [openNoteVerse, setOpenNoteVerse] = useState<number | null>(null);
  const [consultaOpen, setConsultaOpen] = useState(false);
+  // Sign-in / sign-up modal: the tab and an optional line explaining why it opened.
+  const [authTab, setAuthTab] = useState<"signin" | "signup">("signin");
+  const [authContext, setAuthContext] = useState<string | undefined>(undefined);
+  // Ask Patmos: a question to pre-fill, and a key that remounts the panel to apply it.
+  const [consultaQuestion, setConsultaQuestion] = useState("");
+  const [consultaKey, setConsultaKey] = useState(0);
+  const openAuth = (tab: "signin" | "signup", context?: string) => {
+    setAuthTab(tab);
+    setAuthContext(context);
+    setAuthOpen(true);
+  };
+  // Signed-out readers are asked to create an account first; signed-in readers get the panel.
+  const askPatmos = (question: string) => {
+    if (!userId) {
+      openAuth("signup", t.funnel.askContext);
+      return;
+    }
+    setConsultaQuestion(question);
+    setConsultaKey((k) => k + 1);
+    setConsultaOpen(true);
+  };
 
  useEffect(() => {
   setSelectedVerses([]);
@@ -472,6 +493,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
         <h2 id="study-notes-heading" className="text-lg font-bold text-foreground lg:text-[20px]">
          {t.reader.notes}
         </h2>
+        {hasNotes ? <p className="mt-1 mb-6 text-xs tracking-wide text-muted-foreground">{t.funnel.notesSubtitle}</p> : null}
        </div>
        <div
         className={`space-y-6 transition-opacity duration-200 ${
@@ -480,6 +502,45 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
        >
         {renderNotes()}
        </div>
+       {hasNotes ? (
+        <div className="mt-10">
+         <p className="text-[11px] font-semibold uppercase tracking-wider text-muted-foreground">{t.funnel.explore}</p>
+         <div className="mt-3 flex flex-col items-start gap-2">
+          {t.funnel.pills(bookName(book, lang), chapter).map((question) => (
+           <button
+            key={question}
+            type="button"
+            onClick={() => askPatmos(question)}
+            className="rounded-full border border-black/15 bg-black/[0.02] px-3.5 py-1.5 text-left text-xs text-foreground/90 transition-colors hover:bg-black/[0.06] dark:border-white/15 dark:bg-white/[0.03] dark:hover:bg-white/[0.08]"
+           >
+            {question}
+           </button>
+          ))}
+         </div>
+        </div>
+       ) : null}
+       {hasNotes && !userId ? (
+        <div className="mt-8 rounded-xl border border-black/15 bg-black/[0.02] p-5 sm:p-6 dark:border-white/15 dark:bg-white/[0.02]">
+         <h3 className="text-lg font-semibold text-foreground" style={{ fontFamily: "Georgia, Charter, 'Times New Roman', serif" }}>
+          {t.funnel.conversionTitle}
+         </h3>
+         <ul className="mt-4 space-y-2 text-sm text-foreground/85">
+          {t.funnel.conversionPoints.map((point) => (
+           <li key={point} className="flex items-start gap-2">
+            <Check className="mt-0.5 h-4 w-4 shrink-0" aria-hidden="true" />
+            <span>{point}</span>
+           </li>
+          ))}
+         </ul>
+         <button
+          type="button"
+          onClick={() => openAuth("signup")}
+          className="mt-5 w-full rounded-lg bg-foreground px-4 py-2.5 text-xs font-medium text-background transition-opacity hover:opacity-90 sm:w-auto"
+         >
+          {t.funnel.conversionCta}
+         </button>
+        </div>
+       ) : null}
      </section>
     )}
    </main>
@@ -510,7 +571,10 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
       setSelectedVerses([]);
       setOpenNoteVerse(null);
      }}
-     onRequireAuth={() => setAuthOpen(true)}
+     onRequireAuth={() => openAuth("signin")}
+     onAsk={() =>
+      askPatmos(t.funnel.verseQuestion(bookName(book, lang), chapter + ":" + formatVerseList(selectedVerses)))
+     }
     />
    ) : null}
 
@@ -521,7 +585,10 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
               data-consulta-fab=""
               onPointerEnter={preloadConsulta}
               onFocus={preloadConsulta}
-              onClick={() => setConsultaOpen((o) => !o)}
+              onClick={() => {
+                setConsultaQuestion("");
+                setConsultaOpen((o) => !o);
+              }}
      aria-label={consultaOpen ? t.reader.closeConsulta : t.reader.openConsulta}
                className={
                  consultaOpen
@@ -535,6 +602,8 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
    ) : null}
 
    <LazyConsultaPatmos
+    key={consultaKey}
+    initialQuestion={consultaQuestion}
     open={consultaOpen}
     onOpenChange={setConsultaOpen}
     userId={userId}
@@ -545,11 +614,11 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
     chapterNotes={plainText(notesToHtml(noteSections))}
     onRequireAuth={() => {
      setConsultaOpen(false);
-     setAuthOpen(true);
+     openAuth("signin");
     }}
    />
 
-   <AuthModal open={authOpen} onOpenChange={setAuthOpen} />
+   <AuthModal open={authOpen} onOpenChange={setAuthOpen} defaultTab={authTab} subtitle={authContext} />
   </div>
  );
 }

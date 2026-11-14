@@ -67,6 +67,24 @@ export const es = {
     noBooksFound: "No se encontraron libros",
     clearSearch: "Borrar búsqueda",
   },
+  funnel: {
+    notesSubtitle: "Estudio Exegético RV1865 · Patmos Research",
+    explore: "Profundiza en este capítulo",
+    pills: (book: string, chapter: number) => [
+      `Temas doctrinales clave en ${book} ${chapter}`,
+      `Tipología y referencias cruzadas en ${book} ${chapter}`,
+      `Contexto histórico y dispensacional de ${book} ${chapter}`,
+    ],
+    askContext: "Crea una cuenta gratis para consultar a Patmos, resaltar versículos y guardar notas.",
+    verseQuestion: (book: string, ref: string) => `Explica ${book} ${ref} en su contexto`,
+    conversionTitle: "Continúa tu estudio bíblico con Patmos",
+    conversionPoints: [
+      "Registra tu progreso de lectura en los 66 libros",
+      "Resalta versículos y guarda apuntes en tu Cuaderno de Estudio",
+      "Profundiza con consultas bíblicas fundamentadas en la Escritura",
+    ],
+    conversionCta: "Crear cuenta gratis",
+  },
   verse: {
     loading: "Cargando…",
     unavailable: "Versículo no disponible.",
@@ -82,6 +100,7 @@ export const es = {
     addNote: "Añadir nota",
     bookmark: "Marcador",
     removeBookmark: "Quitar marcador",
+    askPatmos: "Consultar a Patmos",
     copyVerse: "Copiar versículo",
     close: "Cerrar",
     copiedOne: "Versículo copiado",

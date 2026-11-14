@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
-import { Bookmark, Copy, Eraser, NotebookPen, Trash2, X } from "lucide-react";
+import { Bookmark, Copy, Eraser, MessageSquare, NotebookPen, Trash2, X } from "lucide-react";
 import { toast } from "sonner";
 
 import {
@@ -45,6 +45,8 @@ interface Props {
   onClose: () => void;
   onRequireAuth: () => void;
   initialNoteOpen?: boolean;
+  /** Opens Ask Patmos about the selected verses (the caller handles sign-in). */
+  onAsk?: () => void;
 }
 
 export function VerseActionBar({
@@ -56,6 +58,7 @@ export function VerseActionBar({
   onClose,
   onRequireAuth,
   initialNoteOpen,
+  onAsk,
 }: Props) {
   const queryClient = useQueryClient();
   const { t, lang } = useI18n();
@@ -121,7 +124,7 @@ export function VerseActionBar({
   return (
     <>
       <div className="pointer-events-none fixed inset-x-0 bottom-0 z-[60] flex justify-center px-4 pb-5">
-        <div className="pointer-events-auto flex max-w-full items-center gap-1 overflow-x-auto rounded-full border border-border/60 bg-popover/95 px-2 py-2 shadow-[0_10px_40px_rgba(0,0,0,0.25)] backdrop-blur-md">
+        <div className="pointer-events-auto flex max-w-[calc(100vw-2rem)] items-center gap-0.5 overflow-x-auto sm:gap-1 rounded-full border border-border/60 bg-popover/95 px-2 py-2 shadow-[0_10px_40px_rgba(0,0,0,0.25)] backdrop-blur-md">
           <span className="shrink-0 whitespace-nowrap px-2 text-xs font-semibold text-muted-foreground">
             {label}
           </span>
@@ -170,6 +173,11 @@ export function VerseActionBar({
               className={`h-[18px] w-[18px] ${bookmarked ? "fill-current" : ""}`}
             />
           </IconButton>
+          {onAsk ? (
+            <IconButton label={t.verseTools.askPatmos} onClick={onAsk}>
+              <MessageSquare className="h-[18px] w-[18px]" />
+            </IconButton>
+          ) : null}
           <IconButton label={t.verseTools.copyVerse} onClick={() => void copyVerse()}>
             <Copy className="h-[18px] w-[18px]" />
           </IconButton>

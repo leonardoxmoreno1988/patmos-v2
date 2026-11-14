@@ -50,6 +50,8 @@ interface Props {
   onRequireAuth: () => void;
   initialView?: "chat" | "history";
   initialScope?: "passage" | "bible";
+  /** Pre-fills the question box when the panel opens. */
+  initialQuestion?: string;
 }
 
 type Status = "ready" | "submitted" | "streaming" | "error";
@@ -138,6 +140,7 @@ function ConsultaChat({
   onOpenChange,
   initialView,
   initialScope,
+  initialQuestion,
 }: Props & { userId: string }) {
   const navigate = useNavigate();
   const { t, lang } = useI18n();
@@ -699,6 +702,7 @@ a{color:inherit}.meta{font-size:12px;color:#666}</style></head><body>
         <PromptInput onSubmit={({ text }) => void send(text)}>
           <PromptInputTextarea
             ref={textareaRef}
+            defaultValue={initialQuestion}
             placeholder={t.consulta.inputPlaceholder}
             disabled={!hasCredits}
           />

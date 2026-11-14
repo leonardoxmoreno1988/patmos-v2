@@ -68,6 +68,24 @@ export const en: Dictionary = {
     noBooksFound: "No books found",
     clearSearch: "Clear search",
   },
+  funnel: {
+    notesSubtitle: "KJV Exegetical Study · Patmos Research",
+    explore: "Explore this chapter",
+    pills: (book: string, chapter: number) => [
+      `Key doctrinal themes in ${book} ${chapter}`,
+      `Christological typology & cross-references in ${book} ${chapter}`,
+      `Historical and dispensational context of ${book} ${chapter}`,
+    ],
+    askContext: "Create a free account to ask Patmos, highlight verses, and save study notes.",
+    verseQuestion: (book: string, ref: string) => `Explain ${book} ${ref} in its KJV context`,
+    conversionTitle: "Continue your KJV study with Patmos",
+    conversionPoints: [
+      "Track your reading progress across all 66 books",
+      "Highlight verses and save insights in your Study Notebook",
+      "Research deeper with KJV-grounded biblical queries",
+    ],
+    conversionCta: "Create free account",
+  },
   verse: {
     loading: "Loading…",
     unavailable: "Verse not available.",
@@ -83,6 +101,7 @@ export const en: Dictionary = {
     addNote: "Add note",
     bookmark: "Bookmark",
     removeBookmark: "Remove bookmark",
+    askPatmos: "Ask Patmos",
     copyVerse: "Copy verse",
     close: "Close",
     copiedOne: "Verse copied",

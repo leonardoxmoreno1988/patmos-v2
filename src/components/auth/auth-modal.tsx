@@ -42,9 +42,11 @@ interface AuthModalProps {
   open: boolean;
   onOpenChange: (open: boolean) => void;
   defaultTab?: "signin" | "signup";
+  /** Overrides the default subtitle, e.g. to explain why sign-up was asked for. */
+  subtitle?: string | undefined;
 }
 
-export function AuthModal({ open, onOpenChange, defaultTab = "signin" }: AuthModalProps) {
+export function AuthModal({ open, onOpenChange, defaultTab = "signin", subtitle }: AuthModalProps) {
   const { signInWithEmail, signUpWithEmail, signInWithGoogle, user } = useAuth();
   const { t } = useI18n();
   const [tab, setTab] = useState<"signin" | "signup">(defaultTab);
@@ -116,7 +118,7 @@ export function AuthModal({ open, onOpenChange, defaultTab = "signin" }: AuthMod
         <DialogHeader>
           <DialogTitle>{t.authModal.title}</DialogTitle>
           <DialogDescription>
-            {t.authModal.subtitle}
+            {subtitle ?? t.authModal.subtitle}
           </DialogDescription>
         </DialogHeader>
 
