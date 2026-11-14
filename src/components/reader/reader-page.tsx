@@ -477,7 +477,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
           mobileTab === tab ? "border-foreground font-medium text-foreground" : "border-transparent text-muted-foreground hover:text-foreground"
          }`}
         >
-         {tab === "text" ? t.reader.tabText : t.reader.notes}
+         {tab === "text" ? t.reader.tabText : t.reader.tabNotes}
         </button>
        ))}
       </div>
