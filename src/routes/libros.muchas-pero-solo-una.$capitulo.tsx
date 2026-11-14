@@ -1,5 +1,5 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { ArrowLeft, ArrowRight, Download } from "lucide-react";
+import { ArrowLeft, ArrowRight, Download, List } from "lucide-react";
 
 import { ChapterBlocks, ChapterBody } from "@/components/libro/chapter-body";
 import { SiteHeader } from "@/components/reader/site-header";
@@ -124,41 +124,29 @@ function ChapterPage() {
           )}
         </article>
 
-        <footer className="mt-16 space-y-8 border-t border-border pt-8">
-          <div className="grid grid-cols-3 items-center gap-3 text-sm">
-            <div className="justify-self-start">
-              {prev ? (
-                <Link
-                  to="/libros/muchas-pero-solo-una/$capitulo"
-                  params={{ capitulo: prev.slug }}
-                  className="inline-flex items-center gap-1.5 hover:text-foreground"
-                >
-                  <ArrowLeft className="size-4" /> Capítulo anterior
-                </Link>
-              ) : null}
-            </div>
-            <div className="justify-self-center">
-              <Link to="/libros/muchas-pero-solo-una" className="hover:text-foreground hover:underline underline-offset-2">
-                Índice del libro
+        <footer className="mt-16 border-t border-border pt-8">
+          <nav aria-label="Navegación de capítulos" className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+            {prev ? (
+              <Link to="/libros/muchas-pero-solo-una/$capitulo" params={{ capitulo: prev.slug }} className="flex flex-col items-start text-left rounded-lg border border-border/60 bg-card/30 hover:bg-muted/40 hover:border-border p-4 transition-colors">
+                <span className="inline-flex items-center gap-1.5 text-xs text-muted-foreground"><ArrowLeft className="size-3.5" aria-hidden="true" /> Capítulo anterior</span>
+                <span className="mt-1 line-clamp-1 font-medium text-foreground">{prev.title}</span>
               </Link>
-            </div>
-            <div className="justify-self-end">
-              {next ? (
-                <Link
-                  to="/libros/muchas-pero-solo-una/$capitulo"
-                  params={{ capitulo: next.slug }}
-                  className="inline-flex items-center gap-1.5 hover:text-foreground"
-                >
-                  Capítulo siguiente <ArrowRight className="size-4" />
-                </Link>
-              ) : null}
-            </div>
+            ) : (
+              <div className="hidden sm:block" />
+            )}
+            {next ? (
+              <Link to="/libros/muchas-pero-solo-una/$capitulo" params={{ capitulo: next.slug }} className="flex flex-col items-end text-right rounded-lg border border-border/60 bg-card/30 hover:bg-muted/40 hover:border-border p-4 transition-colors">
+                <span className="inline-flex items-center gap-1.5 text-xs text-muted-foreground">Capítulo siguiente <ArrowRight className="size-3.5" aria-hidden="true" /></span>
+                <span className="mt-1 line-clamp-1 font-medium text-foreground">{next.title}</span>
+              </Link>
+            ) : (
+              <div className="hidden sm:block" />
+            )}
+          </nav>
+          <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
+            <Link to="/libros/muchas-pero-solo-una" className="inline-flex items-center gap-1.5 rounded-lg border border-border/50 px-3.5 py-2 text-xs text-muted-foreground hover:text-foreground hover:bg-muted/30 transition-colors"><List className="size-3.5" aria-hidden="true" /> Índice del libro</Link>
+            <a href={LIBRO_1865.pdfUrl} download className="inline-flex items-center gap-1.5 rounded-lg border border-border/50 px-3.5 py-2 text-xs text-muted-foreground hover:text-foreground hover:bg-muted/30 transition-colors"><Download className="size-3.5" aria-hidden="true" /> Descargar libro en PDF</a>
           </div>
-          <p className="text-center text-xs text-muted-foreground">
-            <a href={LIBRO_1865.pdfUrl} download className="inline-flex items-center gap-1.5 hover:text-foreground hover:underline underline-offset-2">
-              <Download className="size-3.5" /> Descargar el libro completo en PDF
-            </a>
-          </p>
         </footer>
       </main>
 
