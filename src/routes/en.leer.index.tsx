@@ -4,6 +4,6 @@ import { createFileRoute, redirect } from "@tanstack/react-router";
 export const Route = createFileRoute("/en/leer/")({
  staticData: { sitemap: false },
  beforeLoad: () => {
-  throw redirect({ to: "/en/read/$libro/$cap", params: { libro: "genesis", cap: "1" }, statusCode: 301 });
+  throw redirect({ to: "/en/read/$libro/$cap", params: { libro: "genesis", cap: "1" }, search: true, statusCode: 301 });
  },
 });

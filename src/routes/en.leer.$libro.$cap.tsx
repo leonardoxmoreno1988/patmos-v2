@@ -8,6 +8,6 @@ export const Route = createFileRoute("/en/leer/$libro/$cap")({
  staticData: { sitemap: false },
  beforeLoad: ({ params }) => {
   const { bookid, chapter } = resolveReaderParams(params);
-  throw redirect({ to: "/en/read/$libro/$cap", params: { libro: bookSlug(bookid, "en"), cap: String(chapter) }, statusCode: 301 });
+  throw redirect({ to: "/en/read/$libro/$cap", params: { libro: bookSlug(bookid, "en"), cap: String(chapter) }, search: true, statusCode: 301 });
  },
 });
