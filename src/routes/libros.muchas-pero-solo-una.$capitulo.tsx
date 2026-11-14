@@ -129,7 +129,7 @@ function ChapterPage() {
             {prev ? (
               <Link to="/libros/muchas-pero-solo-una/$capitulo" params={{ capitulo: prev.slug }} className="flex flex-col items-start text-left rounded-lg border border-border/60 bg-card/30 hover:bg-muted/40 hover:border-border p-4 transition-colors">
                 <span className="inline-flex items-center gap-1.5 text-xs text-muted-foreground"><ArrowLeft className="size-3.5" aria-hidden="true" /> Capítulo anterior</span>
-                <span className="mt-1 line-clamp-1 font-medium text-foreground">{prev.title}</span>
+                <span className="mt-1 line-clamp-2 font-medium text-foreground">{prev.title}</span>
               </Link>
             ) : (
               <div className="hidden sm:block" />
@@ -137,15 +137,16 @@ function ChapterPage() {
             {next ? (
               <Link to="/libros/muchas-pero-solo-una/$capitulo" params={{ capitulo: next.slug }} className="flex flex-col items-end text-right rounded-lg border border-border/60 bg-card/30 hover:bg-muted/40 hover:border-border p-4 transition-colors">
                 <span className="inline-flex items-center gap-1.5 text-xs text-muted-foreground">Capítulo siguiente <ArrowRight className="size-3.5" aria-hidden="true" /></span>
-                <span className="mt-1 line-clamp-1 font-medium text-foreground">{next.title}</span>
+                <span className="mt-1 line-clamp-2 font-medium text-foreground">{next.title}</span>
               </Link>
             ) : (
               <div className="hidden sm:block" />
             )}
           </nav>
           <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
-            <Link to="/libros/muchas-pero-solo-una" className="inline-flex items-center gap-1.5 rounded-lg border border-border/50 px-3.5 py-2 text-xs text-muted-foreground hover:text-foreground hover:bg-muted/30 transition-colors"><List className="size-3.5" aria-hidden="true" /> Índice del libro</Link>
-            <a href={LIBRO_1865.pdfUrl} download className="inline-flex items-center gap-1.5 rounded-lg border border-border/50 px-3.5 py-2 text-xs text-muted-foreground hover:text-foreground hover:bg-muted/30 transition-colors"><Download className="size-3.5" aria-hidden="true" /> Descargar libro en PDF</a>
+            <Link to="/libros/muchas-pero-solo-una" className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"><List className="h-3.5 w-3.5" aria-hidden="true" /> Índice del libro</Link>
+            <span className="text-muted-foreground/40" aria-hidden="true">·</span>
+            <a href={LIBRO_1865.pdfUrl} download className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"><Download className="h-3.5 w-3.5" aria-hidden="true" /> Descargar libro en PDF</a>
           </div>
         </footer>
       </main>
