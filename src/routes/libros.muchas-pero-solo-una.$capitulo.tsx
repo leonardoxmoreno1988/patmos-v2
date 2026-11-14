@@ -1,5 +1,5 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { ArrowLeft, ArrowRight, Download, List } from "lucide-react";
+import { ArrowLeft, ArrowRight, Download } from "lucide-react";
 
 import { ChapterBlocks, ChapterBody } from "@/components/libro/chapter-body";
 import { SiteHeader } from "@/components/reader/site-header";
@@ -144,8 +144,6 @@ function ChapterPage() {
             )}
           </nav>
           <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
-            <Link to="/libros/muchas-pero-solo-una" className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"><List className="h-3.5 w-3.5" aria-hidden="true" /> Índice del libro</Link>
-            <span className="text-muted-foreground/40" aria-hidden="true">·</span>
             <a href={LIBRO_1865.pdfUrl} download className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"><Download className="h-3.5 w-3.5" aria-hidden="true" /> Descargar libro en PDF</a>
           </div>
         </footer>
