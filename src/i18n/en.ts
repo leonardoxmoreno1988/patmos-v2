@@ -64,6 +64,8 @@ export const en: Dictionary = {
     consulta: "Ask Patmos",
     openConsulta: "Open Patmos consultations",
     closeConsulta: "Close Patmos consultations",
+    searchBook: "Search book...",
+    noBooksFound: "No books found",
   },
   verse: {
     loading: "Loading…",

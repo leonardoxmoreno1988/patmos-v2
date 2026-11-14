@@ -63,6 +63,8 @@ export const es = {
     consulta: "Consulta Patmos",
     openConsulta: "Abrir Consultas Patmos",
     closeConsulta: "Cerrar Consultas Patmos",
+    searchBook: "Buscar libro...",
+    noBooksFound: "No se encontraron libros",
   },
   verse: {
     loading: "Cargando…",

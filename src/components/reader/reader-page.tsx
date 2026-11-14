@@ -326,8 +326,15 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
        <Selector
         label={t.reader.book}
         value={bookId}
-        options={BOOKS.map((b) => ({ value: b.bookid, label: bookName(b, lang) }))}
+        options={BOOKS.map((b) => ({
+         value: b.bookid,
+         label: bookName(b, lang),
+         aliases: b.name === "Revelación" ? ["Apocalipsis", "Apocalypse"] : undefined,
+        }))}
         onSelect={(v) => goTo(v, 1)}
+        searchable
+        searchPlaceholder={t.reader.searchBook}
+        emptyMessage={t.reader.noBooksFound}
        />
        <Selector
         label={t.reader.chapter}
