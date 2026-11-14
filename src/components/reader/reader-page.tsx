@@ -447,7 +447,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
     </nav>
    </div>
 
-   <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-4 sm:pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
+   <main className="mx-auto grid max-w-7xl grid-cols-1 gap-0 px-6 pb-24 pt-4 sm:pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
      <article id="bible-text-section" className="scroll-mt-[8rem] lg:col-span-7">
       <div className="mb-6 flex flex-wrap items-baseline justify-between gap-2">
        <div className="flex min-w-0 flex-1 items-baseline justify-between gap-4">
@@ -533,7 +533,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
       ref={notesScrollRef}
       onScroll={updateCanScrollDown}
       aria-labelledby="study-notes-heading"
-      className="scroll-mt-[8rem] border-t border-[#000f37] pt-8 dark:border-[#7c7b82] lg:h-full lg:overflow-y-auto lg:border-l lg:border-t-0 lg:border-[#000f37]/50 lg:pb-24 lg:pl-8 lg:pt-0 lg:dark:border-[#bcbecd]/50 scrollbar-none"
+      className="scroll-mt-[8rem] pt-0 lg:h-full lg:overflow-y-auto lg:border-l lg:border-t-0 lg:border-[#000f37]/50 lg:pb-24 lg:pl-8 lg:pt-0 lg:dark:border-[#bcbecd]/50 scrollbar-none"
      >
        <div className="mb-3">
         <h2 id="study-notes-heading" className="hidden text-lg font-bold text-foreground lg:block lg:text-[20px]">
