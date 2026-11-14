@@ -153,6 +153,25 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
   // Ask Patmos: a question to pre-fill, and a key that remounts the panel to apply it.
   const [consultaQuestion, setConsultaQuestion] = useState("");
   const [consultaKey, setConsultaKey] = useState(0);
+  // Bottom fade on the notes column: shown only while there is more text below.
+  const notesScrollRef = useRef<HTMLElement>(null);
+  const [canScrollDown, setCanScrollDown] = useState(false);
+  const updateCanScrollDown = () => {
+    const el = notesScrollRef.current;
+    if (el) setCanScrollDown(el.scrollTop + el.clientHeight < el.scrollHeight - 12);
+  };
+  useEffect(() => {
+    const frame = requestAnimationFrame(updateCanScrollDown);
+    const el = notesScrollRef.current;
+    const observer = el && typeof ResizeObserver !== "undefined" ? new ResizeObserver(updateCanScrollDown) : null;
+    if (el && observer) observer.observe(el);
+    window.addEventListener("resize", updateCanScrollDown);
+    return () => {
+      cancelAnimationFrame(frame);
+      observer?.disconnect();
+      window.removeEventListener("resize", updateCanScrollDown);
+    };
+  }, [bookId, chapter, page.notes, userId]);
   const openAuth = (tab: "signin" | "signup", context?: string) => {
     setAuthTab(tab);
     setAuthContext(context);
@@ -486,6 +505,8 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
     ) : (
      <section
       id="study-notes"
+      ref={notesScrollRef}
+      onScroll={updateCanScrollDown}
       aria-labelledby="study-notes-heading"
       className="scroll-mt-[8rem] border-t border-[#000f37] pt-8 dark:border-[#7c7b82] lg:sticky lg:top-[8rem] lg:col-span-5 lg:max-h-[calc(100vh-9rem)] lg:self-start lg:overflow-y-auto lg:border-l lg:border-t-0 lg:border-[#000f37]/50 lg:pb-16 lg:pl-8 lg:pt-0 lg:dark:border-[#bcbecd]/50 scrollbar-none"
      >
@@ -541,6 +562,10 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
          </button>
         </div>
        ) : null}
+       <div
+        aria-hidden="true"
+        className={`pointer-events-none hidden lg:-mt-16 lg:sticky lg:bottom-0 lg:block lg:h-16 bg-linear-to-t from-background via-background/80 to-transparent transition-opacity duration-200 ${canScrollDown ? "opacity-100" : "opacity-0"}`}
+       />
      </section>
     )}
    </main>
