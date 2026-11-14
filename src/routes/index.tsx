@@ -315,7 +315,7 @@ function HomePage() {
         </div>
         
         <p className="mt-4 text-sm leading-relaxed text-[#4b5563] dark:text-muted-foreground">
-          {lang === 'es' ? "Desbloquea el poder total del motor Patmos y apoya el desarrollo continuo de software bíblico independiente." : "Unlock the full power of the Patmos engine and support the continuous development of independent biblical software."}
+          {lang === 'es' ? "Usa todas las herramientas de Patmos y apoya el desarrollo continuo de software bíblico independiente." : "Use all of Patmos's tools and support the continuous development of independent biblical software."}
         </p>
       </div>
       
