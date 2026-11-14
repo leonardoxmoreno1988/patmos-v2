@@ -112,8 +112,8 @@ export function Selector({
               onSelect(o.value);
               close();
             }}
-            className={`flex min-h-11 items-center justify-between gap-2 rounded-xl text-left text-[16px] sm:text-[17px] font-medium py-2.5 px-3 transition-colors ${searchable ? "hover:bg-white/10" : "hover:bg-accent"} ${itemClassName} ${
-              active ? (searchable ? "bg-white/10 font-semibold text-white" : "bg-accent font-semibold") : ""
+            className={`flex min-h-11 items-center justify-between gap-2 rounded-xl text-left text-[16px] sm:text-[17px] font-medium py-2.5 px-3 transition-colors ${searchable ? "hover:bg-black/[0.04] dark:hover:bg-white/[0.06] text-foreground" : "hover:bg-accent"} ${itemClassName} ${
+              active ? (searchable ? "bg-black/[0.06] text-foreground font-medium dark:bg-white/10 dark:text-white" : "bg-accent font-semibold") : ""
             }`}
           >
             <span className="truncate">{o.label}</span>
@@ -144,32 +144,34 @@ export function Selector({
         className="w-[min(22rem,calc(100vw-2rem))] rounded-2xl border-border/60 p-2 shadow-[var(--shadow-float)]"
       >
         {searchable ? (
-          <div className="relative border-b border-border/50 pb-2">
-            <input
-              ref={inputRef}
-              type="text"
-              value={query}
-              onChange={(event) => setQuery(event.target.value)}
-              onKeyDown={onSearchKeyDown}
-              placeholder={searchPlaceholder}
-              aria-label={searchPlaceholder}
-              autoComplete="off"
-              spellCheck={false}
-              className="h-9 w-full rounded-lg border border-white/20 bg-transparent pl-3 pr-9 text-sm text-foreground outline-none placeholder:text-muted-foreground focus:border-white/75 focus:outline-none focus-visible:ring-0 focus:ring-0"
-            />
-            {query ? (
-              <button
-                type="button"
-                aria-label={clearLabel}
-                onClick={() => {
-                  setQuery("");
-                  inputRef.current?.focus();
-                }}
-                className="absolute right-2 top-1/2 -translate-y-1/2 p-1 text-white/70 transition-colors hover:text-white"
-              >
-                <X className="h-3.5 w-3.5" aria-hidden="true" />
-              </button>
-            ) : null}
+          <div className="border-b border-border/50 pb-2">
+            <div className="flex items-center justify-between gap-2 rounded-lg border border-black/15 px-3 py-2 focus-within:border-black/50 dark:border-white/20 dark:focus-within:border-white/75">
+              <input
+                ref={inputRef}
+                type="text"
+                value={query}
+                onChange={(event) => setQuery(event.target.value)}
+                onKeyDown={onSearchKeyDown}
+                placeholder={searchPlaceholder}
+                aria-label={searchPlaceholder}
+                autoComplete="off"
+                spellCheck={false}
+                className="w-full min-w-0 bg-transparent text-sm text-foreground outline-none placeholder:text-muted-foreground focus:outline-none focus:ring-0"
+              />
+              {query ? (
+                <button
+                  type="button"
+                  aria-label={clearLabel}
+                  onClick={() => {
+                    setQuery("");
+                    inputRef.current?.focus();
+                  }}
+                  className="inline-flex h-5 w-5 shrink-0 items-center justify-center rounded text-black/50 transition-colors hover:text-black dark:text-white/70 dark:hover:text-white"
+                >
+                  <X className="h-3.5 w-3.5" aria-hidden="true" />
+                </button>
+              ) : null}
+            </div>
           </div>
         ) : null}
         <div
