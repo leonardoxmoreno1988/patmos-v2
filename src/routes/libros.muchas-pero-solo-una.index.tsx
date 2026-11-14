@@ -2,6 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { ArrowRight, Download } from "lucide-react";
 
 import { SiteHeader } from "@/components/reader/site-header";
+import { SiteFooter } from "@/components/site-footer";
 import { LibroBreadcrumb } from "@/components/libro/libro-breadcrumb";
 import { Button } from "@/components/ui/button";
 import { LIBRO_1865, type Chapter } from "@/data/libro-1865";
@@ -133,6 +134,8 @@ function BookHub() {
           </div>
         </section>
       </main>
+
+      <SiteFooter />
     </div>
   );
 }

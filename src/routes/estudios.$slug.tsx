@@ -4,6 +4,7 @@ import { ArrowLeft, Link2, Share2 } from "lucide-react";
 import { toast } from "sonner";
 
 import { SiteHeader } from "@/components/reader/site-header";
+import { SiteFooter } from "@/components/site-footer";
 import { EstudioProse } from "@/components/estudios/estudio-prose";
 import { AuthorBox } from "@/components/estudios/author-box";
 import { PatmosCta } from "@/components/estudios/patmos-cta";
@@ -113,6 +114,8 @@ function EstudioPage() {
 
         {post.author === HOUSE_AUTHOR ? <AuthorBox /> : null}
       </main>
+
+      <SiteFooter />
     </div>
   );
 }

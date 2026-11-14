@@ -3,6 +3,7 @@ import { ArrowLeft, ArrowRight, Download } from "lucide-react";
 
 import { ChapterBlocks, ChapterBody } from "@/components/libro/chapter-body";
 import { SiteHeader } from "@/components/reader/site-header";
+import { SiteFooter } from "@/components/site-footer";
 import { LibroBreadcrumb } from "@/components/libro/libro-breadcrumb";
 import { getChapterBySlug, LIBRO_1865 } from "@/data/libro-1865";
 import { collectVerseRanges } from "@/lib/libro-footnotes";
@@ -160,6 +161,8 @@ function ChapterPage() {
           </p>
         </footer>
       </main>
+
+      <SiteFooter />
     </div>
   );
 }

@@ -4,6 +4,7 @@ import { ArrowRight, Search, X } from "lucide-react";
 import estudios from "virtual:estudios";
 
 import { SiteHeader } from "@/components/reader/site-header";
+import { SiteFooter } from "@/components/site-footer";
 import { PatmosCta } from "@/components/estudios/patmos-cta";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -215,6 +216,8 @@ function EstudiosIndex() {
           </div>
         ) : null}
       </main>
+
+      <SiteFooter />
     </div>
   );
 }

@@ -3,6 +3,7 @@ import { Download } from "lucide-react";
 
 import { LibroBreadcrumb } from "@/components/libro/libro-breadcrumb";
 import { SiteHeader } from "@/components/reader/site-header";
+import { SiteFooter } from "@/components/site-footer";
 import { Button } from "@/components/ui/button";
 import { LIBRO_1865 } from "@/data/libro-1865";
 import { EBOOK_COVER, EBOOK_TITLE, EBOOK_URL } from "@/lib/ebook";
@@ -146,6 +147,8 @@ function LibrosCatalog() {
           ))}
         </div>
       </main>
+
+      <SiteFooter />
     </div>
   );
 }
