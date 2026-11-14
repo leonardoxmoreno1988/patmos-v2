@@ -104,6 +104,47 @@ export interface ReaderPageData extends ReaderChapter {
  chapter: number;
 }
 
+/** Lowercase, accent-free, single-spaced text, for matching. */
+const normalizeForMatch = (text: string) =>
+ text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/\s+/g, " ").trim();
+
+/** The URL asks for the notes outright: #notes, a note anchor, or ?tab=notes. */
+function urlAsksForNotes(): boolean {
+ const hash = window.location.hash.toLowerCase();
+ const tab = new URLSearchParams(window.location.search).get("tab");
+ return hash === "#notes" || hash === "#study-notes" || hash.startsWith("#nota") || tab === "notes";
+}
+
+/** The visitor came from a search engine results page. */
+function cameFromSearchEngine(): boolean {
+ try {
+  const host = new URL(document.referrer).hostname;
+  return /(google|bing|duckduckgo|search\.yahoo|ecosia)\./.test(host);
+ } catch {
+  return false;
+ }
+}
+
+/** A Google-style text fragment (#:~:text=…) quotes something from the notes, not from the verses. */
+function textFragmentIsInNotes(notesText: string, versesText: string): boolean {
+ try {
+  const entry = performance.getEntriesByType("navigation")[0] as PerformanceNavigationTiming | undefined;
+  const url = entry?.name ?? "";
+  const at = url.indexOf("#:~:text=");
+  if (at < 0) return false;
+  const raw = url.slice(at + "#:~:text=".length).split("&")[0] ?? "";
+  const snippets = raw
+   .split(",")
+   .map((part) => normalizeForMatch(decodeURIComponent(part)).replace(/^-+|-+$/g, "").trim())
+   .filter((snippet) => snippet.length > 3);
+  const notes = normalizeForMatch(notesText);
+  const verses = normalizeForMatch(versesText);
+  return snippets.some((snippet) => notes.includes(snippet) && !verses.includes(snippet));
+ } catch {
+  return false;
+ }
+}
+
 export function ReaderPage({ page }: { page: ReaderPageData }) {
  const { bookId, lang } = page;
  const cap = page.chapter;
@@ -156,8 +197,27 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
   // Mobile only: which column is showing. Desktop shows both regardless.
   const [mobileTab, setMobileTab] = useState<"text" | "notes">("text");
   const tabBarRef = useRef<HTMLDivElement>(null);
+  // The tab a visitor should see. Search-engine landings and note links open on the notes, but
+  // only when the chapter has notes; moving between chapters inside the app opens the text.
+  const landedOn = useRef<string | null>(null);
   useEffect(() => {
-    setMobileTab("text");
+    const key = `${bookId}:${chapter}`;
+    if (landedOn.current === key) return;
+    const firstVisit = landedOn.current === null;
+    landedOn.current = key;
+    if (!hasNotes) {
+     setMobileTab("text");
+     return;
+    }
+    if (urlAsksForNotes()) {
+     setMobileTab("notes");
+     return;
+    }
+    const notesText = plainText(notesToHtml(noteSections));
+    const versesText = verses.map((v) => v.text).join(" ");
+    const landedFromSearch =
+     firstVisit && (cameFromSearchEngine() || textFragmentIsInNotes(notesText, versesText));
+    setMobileTab(landedFromSearch ? "notes" : "text");
   }, [bookId, chapter]);
   const selectMobileTab = (tab: "text" | "notes") => {
     if (tab === "notes") setSelectedVerses([]);
