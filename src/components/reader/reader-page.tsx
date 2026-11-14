@@ -503,12 +503,13 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
     {page.notes === null ? (
      <p className="text-sm text-muted-foreground lg:col-span-5">{t.reader.loadError}</p>
     ) : (
+     <div className="relative lg:col-span-5 lg:sticky lg:top-[8rem] lg:h-[calc(100vh-8rem)]">
      <section
       id="study-notes"
       ref={notesScrollRef}
       onScroll={updateCanScrollDown}
       aria-labelledby="study-notes-heading"
-      className="scroll-mt-[8rem] border-t border-[#000f37] pt-8 dark:border-[#7c7b82] lg:sticky lg:top-[8rem] lg:col-span-5 lg:max-h-[calc(100vh-9rem)] lg:self-start lg:overflow-y-auto lg:border-l lg:border-t-0 lg:border-[#000f37]/50 lg:pb-16 lg:pl-8 lg:pt-0 lg:dark:border-[#bcbecd]/50 scrollbar-none"
+      className="scroll-mt-[8rem] border-t border-[#000f37] pt-8 dark:border-[#7c7b82] lg:h-full lg:overflow-y-auto lg:border-l lg:border-t-0 lg:border-[#000f37]/50 lg:pb-24 lg:pl-8 lg:pt-0 lg:dark:border-[#bcbecd]/50 scrollbar-none"
      >
        <div className="mb-3">
         <h2 id="study-notes-heading" className="text-lg font-bold text-foreground lg:text-[20px]">
@@ -562,11 +563,12 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
          </button>
         </div>
        ) : null}
-       <div
-        aria-hidden="true"
-        className={`pointer-events-none hidden lg:-mt-16 lg:sticky lg:bottom-0 lg:block lg:h-16 bg-linear-to-t from-background via-background/80 to-transparent transition-opacity duration-200 ${canScrollDown ? "opacity-100" : "opacity-0"}`}
-       />
      </section>
+     <div
+      aria-hidden="true"
+      className={`pointer-events-none absolute inset-x-0 bottom-0 z-10 hidden h-20 bg-linear-to-t from-background via-background/85 to-transparent transition-opacity duration-200 lg:block ${canScrollDown ? "opacity-100" : "opacity-0"}`}
+     />
+     </div>
     )}
    </main>
 
