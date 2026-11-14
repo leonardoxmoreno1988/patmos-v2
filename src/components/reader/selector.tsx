@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { Check, ChevronDown } from "lucide-react";
+import { Check, ChevronDown, X } from "lucide-react";
 import {
   Popover,
   PopoverContent,
@@ -27,6 +27,7 @@ export function Selector({
   searchable = false,
   searchPlaceholder = "",
   emptyMessage = "",
+  clearLabel = "",
 }: {
   label: string;
   value: number;
@@ -39,6 +40,7 @@ export function Selector({
   searchable?: boolean;
   searchPlaceholder?: string;
   emptyMessage?: string;
+  clearLabel?: string;
 }) {
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState("");
@@ -110,8 +112,8 @@ export function Selector({
               onSelect(o.value);
               close();
             }}
-            className={`flex min-h-11 items-center justify-between gap-2 rounded-xl text-left text-[16px] sm:text-[17px] font-medium py-2.5 px-3 transition-colors hover:bg-accent ${itemClassName} ${
-              active ? "bg-accent font-semibold" : ""
+            className={`flex min-h-11 items-center justify-between gap-2 rounded-xl text-left text-[16px] sm:text-[17px] font-medium py-2.5 px-3 transition-colors ${searchable ? "hover:bg-white/10" : "hover:bg-accent"} ${itemClassName} ${
+              active ? (searchable ? "bg-white/10 font-semibold text-white" : "bg-accent font-semibold") : ""
             }`}
           >
             <span className="truncate">{o.label}</span>
@@ -142,18 +144,32 @@ export function Selector({
         className="w-[min(22rem,calc(100vw-2rem))] rounded-2xl border-border/60 p-2 shadow-[var(--shadow-float)]"
       >
         {searchable ? (
-          <div className="border-b border-border/50 pb-2">
+          <div className="relative border-b border-border/50 pb-2">
             <input
               ref={inputRef}
-              type="search"
+              type="text"
               value={query}
               onChange={(event) => setQuery(event.target.value)}
               onKeyDown={onSearchKeyDown}
               placeholder={searchPlaceholder}
               aria-label={searchPlaceholder}
               autoComplete="off"
-              className="h-9 w-full rounded-lg border border-border/60 bg-transparent px-3 text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring"
+              spellCheck={false}
+              className="h-9 w-full rounded-lg border border-white/20 bg-transparent pl-3 pr-9 text-sm text-foreground outline-none placeholder:text-muted-foreground focus:border-white/75 focus:outline-none focus-visible:ring-0 focus:ring-0"
             />
+            {query ? (
+              <button
+                type="button"
+                aria-label={clearLabel}
+                onClick={() => {
+                  setQuery("");
+                  inputRef.current?.focus();
+                }}
+                className="absolute right-2 top-1/2 -translate-y-1/2 p-1 text-white/70 transition-colors hover:text-white"
+              >
+                <X className="h-3.5 w-3.5" aria-hidden="true" />
+              </button>
+            ) : null}
           </div>
         ) : null}
         <div

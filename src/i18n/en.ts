@@ -66,6 +66,7 @@ export const en: Dictionary = {
     closeConsulta: "Close Patmos consultations",
     searchBook: "Search book...",
     noBooksFound: "No books found",
+    clearSearch: "Clear search",
   },
   verse: {
     loading: "Loading…",

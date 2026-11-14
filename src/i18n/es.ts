@@ -65,6 +65,7 @@ export const es = {
     closeConsulta: "Cerrar Consultas Patmos",
     searchBook: "Buscar libro...",
     noBooksFound: "No se encontraron libros",
+    clearSearch: "Borrar búsqueda",
   },
   verse: {
     loading: "Cargando…",

@@ -335,6 +335,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
         searchable
         searchPlaceholder={t.reader.searchBook}
         emptyMessage={t.reader.noBooksFound}
+        clearLabel={t.reader.clearSearch}
        />
        <Selector
         label={t.reader.chapter}
