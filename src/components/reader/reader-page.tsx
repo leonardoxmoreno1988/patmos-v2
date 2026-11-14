@@ -227,13 +227,16 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
  }, [hash, libro, cap, verses, page.notes]);
 
  // Notes render only when the chapter has some; a failed fetch shows a message instead.
- const renderNotes = () => (
+ const renderNotes = () =>
+ hasNotes ? (
   <StudyNoteCard
    notes={noteSections}
    flashedId={flashNoteId}
    onRefClick={goToReference}
    onVerseClick={scrollToVerse}
   />
+ ) : (
+  <p className="text-sm text-muted-foreground">{t.reader.noNotes}</p>
  );
  const goTo = (nextBook: number, nextChapter: number) => {
   const target = BOOKS.find((b) => b.bookid === nextBook);
@@ -441,7 +444,9 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
      </article>
 
     {/* One notes section for every breakpoint: stacked under the text on mobile, a sticky column beside it on lg+. */}
-    {hasNotes ? (
+    {page.notes === null ? (
+     <p className="text-sm text-muted-foreground lg:col-span-5">{t.reader.loadError}</p>
+    ) : (
      <section
       id="study-notes"
       aria-labelledby="study-notes-heading"
@@ -460,9 +465,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
         {renderNotes()}
        </div>
      </section>
-    ) : page.notes === null ? (
-     <p className="text-sm text-muted-foreground lg:col-span-5">{t.reader.loadError}</p>
-    ) : null}
+    )}
    </main>
 
    <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 mt-6">
