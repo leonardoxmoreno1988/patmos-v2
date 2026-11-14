@@ -71,13 +71,14 @@ function EstudioPage() {
       <SiteHeader />
 
       <main className="mx-auto max-w-2xl px-4 pb-20 pt-6 sm:px-6 sm:pt-10">
-        <Button asChild variant="ghost" size="sm" className="-ml-3 text-muted-foreground">
-          <Link to="/estudios">
-            <ArrowLeft /> Volver a Estudios
-          </Link>
-        </Button>
+        <Link
+          to="/estudios"
+          className="mb-8 inline-flex items-center gap-1.5 text-sm text-muted-foreground transition-colors hover:text-foreground"
+        >
+          <ArrowLeft className="h-4 w-4" aria-hidden="true" /> Estudios
+        </Link>
 
-        <article ref={articleRef} className="mt-6">
+        <article ref={articleRef}>
           <header className="border-b border-border pb-6">
             <h1 className="text-[28px] font-bold leading-tight tracking-tight text-foreground sm:text-4xl">
               {post.title}
