@@ -422,25 +422,7 @@ function HomePage() {
           {/* Cached HTML can be from the previous year; the browser's value wins without a hydration error. */}
           © Patmos <span suppressHydrationWarning>{new Date().getFullYear()}</span> ·{' '}
           
-          {lang === 'es' && (
-            <>
-              <a 
-                href="/estudios" 
-                className="text-[#000f37] font-semibold underline underline-offset-4 decoration-2 decoration-[#000f37]/30 hover:decoration-[#000f37] transition-colors dark:text-foreground dark:decoration-foreground/30 dark:hover:decoration-foreground"
-              >
-                Blog de estudios
-              </a>
-              {' '}·{' '}
-              <a
-                href="/libros"
-                className="text-[#000f37] font-semibold underline underline-offset-4 decoration-2 decoration-[#000f37]/30 hover:decoration-[#000f37] transition-colors dark:text-foreground dark:decoration-foreground/30 dark:hover:decoration-foreground"
-              >
-                Libros
-              </a>
-              {' '}·{' '}
-            </>
-          )}
-          
+                    
           {lang === 'es' ? "Todos los derechos reservados." : "All rights reserved."}
         </p>
       </footer>

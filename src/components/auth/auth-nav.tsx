@@ -3,6 +3,7 @@ import { useNavigate } from "@tanstack/react-router";
 import {
   BookOpen,
   CreditCard,
+  FileText,
   Globe,
   History,
   NotebookPen,
@@ -157,6 +158,13 @@ export function AuthNav() {
               <Library /> {lang === 'es' ? "Libros" : "Books"}
             </DropdownMenuItem>
             )}
+            {lang === 'es' && (
+            <DropdownMenuItem onSelect={() => {
+              window.location.href = "/estudios";
+            }}>
+              <FileText /> Blog de estudios
+            </DropdownMenuItem>
+            )}
 
             <DropdownMenuItem className="font-medium" onSelect={() => setAuthOpen(true)}>
               <LogIn /> {t.auth.signIn}
@@ -219,6 +227,11 @@ export function AuthNav() {
           {lang === 'es' && (
           <DropdownMenuItem onSelect={() => void navigate({ to: "/libros" })}>
             <Library /> {lang === 'es' ? "Libros" : "Books"}
+          </DropdownMenuItem>
+          )}
+          {lang === 'es' && (
+          <DropdownMenuItem onSelect={() => void navigate({ to: "/estudios" })}>
+            <FileText /> Blog de estudios
           </DropdownMenuItem>
           )}
 

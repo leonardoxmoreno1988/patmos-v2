@@ -474,14 +474,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
 
    <footer className="mt-20 border-t-0 border-border py-8 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm sm:leading-normal">
     <div className="mx-auto max-w-7xl px-4 sm:px-6">
-     © Patmos 2026 ·{" "}{lang === "es" && (<>
-     <Link
-      to="/estudios"
-      className="font-medium text-foreground underline underline-offset-2 transition-opacity hover:opacity-80"
-     >
-      Blog de estudios
-     </Link>{" "}
-     · </>)}{t.footer.rights}
+     © Patmos 2026 ·{" "}{t.footer.rights}
     </div>
    </footer>
 

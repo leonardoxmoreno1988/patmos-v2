@@ -226,21 +226,7 @@ function Home() {
 
       <footer className="border-border py-8 text-center text-xs leading-relaxed text-muted-foreground sm:text-sm">
         <div className="mx-auto max-w-6xl px-6">
-          © Patmos 2026 ·{" "}{lang === "es" && (<>
-          <Link
-            to="/estudios"
-            className="font-medium text-foreground underline underline-offset-2 transition-opacity hover:opacity-80"
-          >
-            Blog de estudios
-          </Link>{" "}
-          ·{" "}
-          <Link
-            to="/libros"
-            className="font-medium text-foreground underline underline-offset-2 transition-opacity hover:opacity-80"
-          >
-            Libros
-          </Link>{" "}
-          · </>)}{t.footer.rights}
+          © Patmos 2026 ·{" "}{t.footer.rights}
         </div>
       </footer>
     </div>
