@@ -302,7 +302,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
 
  const goToVerse = (bookName: string, nextChapter: number, verse: number) => {
   if (bookName === book.name && nextChapter === chapter) {
-   requestAnimationFrame(() => scrollToVerse(verse));
+   window.setTimeout(() => scrollToVerse(verse), 0);
    return;
   }
   const targetId = bookIdOf(bookName);
@@ -318,6 +318,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
   originId?: string;
  }) => {
   if (!BOOKS.some((b) => b.name === ref.book)) return;
+  setMobileTab("text");
   setHistory((h) => [
    ...h,
    {
