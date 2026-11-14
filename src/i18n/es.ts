@@ -55,6 +55,7 @@ export const es = {
     back: "Volver",
     prevChapter: "Capítulo anterior",
     nextChapter: "Capítulo siguiente",
+    tabText: "Texto bíblico",
     goToNotes: "Ir a las notas",
     notes: "Notas",
     noNotes: "Aún no hay notas registradas para este capítulo. Trabajo en progreso.",

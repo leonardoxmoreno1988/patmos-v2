@@ -56,6 +56,7 @@ export const en: Dictionary = {
     back: "Back",
     prevChapter: "Previous chapter",
     nextChapter: "Next chapter",
+    tabText: "Biblical Text",
     goToNotes: "Go to notes",
     notes: "Notes",
     noNotes: "No notes have been added for this chapter yet. Work in progress.",

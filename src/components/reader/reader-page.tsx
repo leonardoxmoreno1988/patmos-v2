@@ -153,6 +153,21 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
   // Ask Patmos: a question to pre-fill, and a key that remounts the panel to apply it.
   const [consultaQuestion, setConsultaQuestion] = useState("");
   const [consultaKey, setConsultaKey] = useState(0);
+  // Mobile only: which column is showing. Desktop shows both regardless.
+  const [mobileTab, setMobileTab] = useState<"text" | "notes">("text");
+  const tabBarRef = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    setMobileTab("text");
+  }, [bookId, chapter]);
+  const selectMobileTab = (tab: "text" | "notes") => {
+    if (tab === "notes") setSelectedVerses([]);
+    setMobileTab(tab);
+    const bar = tabBarRef.current;
+    if (bar) {
+      const top = bar.getBoundingClientRect().top;
+      if (top < 0) window.scrollTo({ top: window.scrollY + top - 8, behavior: "smooth" });
+    }
+  };
   // Bottom fade on the notes column: shown only while there is more text below.
   const notesScrollRef = useRef<HTMLElement>(null);
   const [canScrollDown, setCanScrollDown] = useState(false);
@@ -446,21 +461,30 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
          {TRANSLATIONS[lang]}
         </span>
        </div>
-       {hasNotes ? (
+      </div>
+
+      <div
+       ref={tabBarRef}
+       className="sticky top-0 z-20 -mx-4 mb-5 flex gap-6 border-b border-black/10 bg-background/95 px-4 backdrop-blur-sm dark:border-white/10 lg:hidden"
+      >
+       {(["text", "notes"] as const).map((tab) => (
         <button
+         key={tab}
          type="button"
-         onClick={() => scrollToId("study-notes")}
-         className="cursor-pointer text-sm font-medium text-[#000f37] underline underline-offset-4 decoration-[#000f37] hover:text-[#000f37] hover:decoration-[#000f37] dark:text-[#ffffff] dark:decoration-[#ffffff] dark:hover:text-[#ffffff] dark:hover:decoration-[#ffffff] lg:hidden"
+         onClick={() => selectMobileTab(tab)}
+         className={`-mb-px border-b-2 py-3 text-sm transition-colors ${
+          mobileTab === tab ? "border-foreground font-medium text-foreground" : "border-transparent text-muted-foreground hover:text-foreground"
+         }`}
         >
-         {t.reader.goToNotes}
+         {tab === "text" ? t.reader.tabText : t.reader.notes}
         </button>
-       ) : null}
+       ))}
       </div>
 
       <div
        className={`mt-8 transition-opacity duration-200 ${
         loading ? "pointer-events-none opacity-40" : "opacity-100"
-       }`}
+       } ${mobileTab === "notes" ? "hidden lg:block" : ""}`}
       >
        <div className="space-y-1.5 tracking-[-0.01em] text-foreground">
          {verses.map((v) => {
@@ -503,7 +527,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
     {page.notes === null ? (
      <p className="text-sm text-muted-foreground lg:col-span-5">{t.reader.loadError}</p>
     ) : (
-     <div className="relative lg:col-span-5 lg:sticky lg:top-[8rem] lg:h-[calc(100vh-8rem)]">
+     <div className={`relative lg:col-span-5 lg:sticky lg:top-[8rem] lg:h-[calc(100vh-8rem)] ${mobileTab === "notes" ? "block" : "hidden lg:block"}`}>
      <section
       id="study-notes"
       ref={notesScrollRef}
@@ -512,7 +536,7 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
       className="scroll-mt-[8rem] border-t border-[#000f37] pt-8 dark:border-[#7c7b82] lg:h-full lg:overflow-y-auto lg:border-l lg:border-t-0 lg:border-[#000f37]/50 lg:pb-24 lg:pl-8 lg:pt-0 lg:dark:border-[#bcbecd]/50 scrollbar-none"
      >
        <div className="mb-3">
-        <h2 id="study-notes-heading" className="text-lg font-bold text-foreground lg:text-[20px]">
+        <h2 id="study-notes-heading" className="hidden text-lg font-bold text-foreground lg:block lg:text-[20px]">
          {t.reader.notes}
         </h2>
         {hasNotes ? <p className="mt-1 mb-6 text-xs tracking-wide text-muted-foreground">{t.funnel.notesSubtitle}</p> : null}
