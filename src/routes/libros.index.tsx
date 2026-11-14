@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { Download, ArrowUpRight } from "lucide-react";
+import { Download } from "lucide-react";
 
 import { LibroBreadcrumb } from "@/components/libro/libro-breadcrumb";
 import { SiteHeader } from "@/components/reader/site-header";
@@ -38,7 +38,7 @@ export const Route = createFileRoute("/libros/")({
             {
               "@type": "Book",
               name: EBOOK_TITLE,
-              url: EBOOK_URL,
+              url: `${SITE_URL}${EBOOK_URL}`,
             },
           ],
         },
@@ -136,8 +136,8 @@ function LibrosCatalog() {
                   </>
                 ) : (
                   <Button asChild size="lg" className={PRIMARY_CTA}>
-                    <a href={EBOOK_URL} target="_blank" rel="noopener noreferrer">
-                      Descargar desde Drive <ArrowUpRight className="size-4" />
+                    <a href={EBOOK_URL} download>
+                      <Download className="size-4" /> Descargar PDF
                     </a>
                   </Button>
                 )}

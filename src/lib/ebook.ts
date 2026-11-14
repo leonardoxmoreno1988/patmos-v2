@@ -1,5 +1,4 @@
-export const EBOOK_URL =
-  "https://drive.google.com/file/d/1gC_qykQa0p4zCXUbuYlXnH-CcvCzVpvn/view?usp=sharing";
+export const EBOOK_URL = "/resources/segunda-venida-cristo-religiones.pdf";
 export const EBOOK_TITLE = "La Segunda Venida de Cristo en las Religiones del Mundo";
 export const EBOOK_COVER = "/religiones-segunda-venida.jpg";
 
