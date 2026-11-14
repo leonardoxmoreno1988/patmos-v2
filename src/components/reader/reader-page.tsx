@@ -9,7 +9,7 @@ import { AuthModal } from "@/components/auth/auth-modal";
 import { VerseActionBar } from "@/components/reader/verse-tools";
 import { HIGHLIGHT_CLASS, chapterMarksQuery } from "@/lib/user-marks";
 
-import { BOOKS, CHAPTER_COUNTS, bookName, slugifyBook, type Verse } from "@/lib/bible";
+import { BOOKS, CHAPTER_COUNTS, TRANSLATIONS, bookName, slugifyBook, type Verse } from "@/lib/bible";
 import { Selector } from "@/components/reader/selector";
 import { SiteHeader } from "@/components/reader/site-header";
 import { StudyNoteCard } from "@/components/reader/study-note-card";
@@ -387,9 +387,14 @@ export function ReaderPage({ page }: { page: ReaderPageData }) {
    <main className="mx-auto grid max-w-7xl grid-cols-1 gap-12 px-6 pb-24 pt-4 sm:pt-6 lg:grid-cols-12 lg:items-start lg:gap-16">
      <article id="bible-text-section" className="scroll-mt-[8rem] lg:col-span-7">
       <div className="mb-6 flex flex-wrap items-baseline justify-between gap-2">
-       <h1 className="text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
-        {bookName(book, lang)} {chapter}
-       </h1>
+       <div className="flex items-center gap-3">
+        <h1 className="text-3xl font-bold tracking-tight text-foreground dark:text-white sm:text-4xl">
+         {bookName(book, lang)} {chapter}
+        </h1>
+        <span className="inline-flex items-center rounded-md border border-border/60 bg-muted/30 px-2 py-0.5 text-xs font-medium tracking-wider uppercase text-muted-foreground select-none">
+         {TRANSLATIONS[lang]}
+        </span>
+       </div>
        {hasNotes ? (
         <button
          type="button"
