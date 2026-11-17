@@ -1,15 +1,17 @@
 ---
-title: "Trapo de inmundicia: la ropa y la desnudez en la Biblia"
+title: "¿Qué Es un Trapo de Inmundicia en la Biblia? (Isaías 64:6)"
 date: "2026-07-05"
-updated: "2026-08-06"
+updated: "2026-11-16"
 author: "Leonardo Moreno"
 slug: "como-trapo-de-inmundicia"
 redirectFrom: "/2026/07/como-trapo-de-inmundicia.html"
-description: "La Biblia usa la ropa y la desnudez como tipos de la condición espiritual del hombre, de la vergüenza del estado caído y de la provisión de Dios."
+description: "Descubre qué significa «como trapo de inmundicia» en Isaías 64:6, el simbolismo bíblico de la desnudez desde el Edén y las vestiduras de justicia de Cristo."
 tags: ["Apologética", "Biblia", "Génesis", "Simbolismo"]
 ---
 
-Las Escrituras establecen que las vestiduras y la desnudez operan como tipos fundamentales de la condición espiritual del hombre y de la provisión redentora de Dios. En el texto bíblico, la desnudez se encuentra ligada a la vergüenza, a la caída moral e incluso a la influencia demoníaca (Génesis 3:7; Lucas 8:27).
+En la Biblia, la expresión **«como trapo de inmundicia»** ([Isaías 64:6](/leer/isaias/64#verse-6)) es una metáfora profética que compara las obras de autojustificación humana con un paño ceremonialmente manchado e impuro, demostrando que ningún mérito propio puede cubrir la vergüenza espiritual del hombre caído ante la santidad de Dios.
+
+A lo largo de todas las Escrituras, las vestiduras y la desnudez operan como tipos proféticos de la condición moral del ser humano, de su necesidad de un sacrificio sustitutorio y de la provisión redentora de Cristo ([Génesis 3:7](/leer/genesis/3#verse-7); [Lucas 8:27](/leer/lucas/8#verse-27)).
 
 Los intentos del ser humano por cubrir esta desnudez espiritual mediante delantales de hojas de higuera representan la autojustificación y los sistemas religiosos fundamentados en méritos propios, los cuales resultan insuficientes ante el juicio de Dios (Génesis 3:7).
 
@@ -68,3 +70,14 @@ Cuando los soldados despojaron al Salvador y sortearon su atuendo, representaron
 ![Esquema representativo de la túnica sin costura de Cristo y su paralelismo cósmico](https://assets.ipzmarketing.com/data/4868892196ea8a6adb791e7ba4d172452a496fa5/media_files/490/original/poncho.jpg)
 
 La túnica confeccionada desde arriba se relaciona con la estructura del orden creado. El universo asciende a través de las extensiones celestes hacia el norte o aquilón (Salmo 75:6-7; Isaías 14:13), coronado por la extensión descrita como un «mar de vidrio» (Revelación 4:6). En este orden, la abertura superior de la vestidura señala la preeminencia de Cristo: la cabeza soberana que gobierna sobre toda potestad en el cielo y en la tierra (Mateo 21:42; Efesios 5:23).
+
+---
+
+## Cuadro Resumen: Tipología Bíblica de las Vestiduras
+
+| Vestidura / Cobertura | Significado Espiritual y Profético | Pasaje Clave |
+| :--- | :--- | :--- |
+| **Delantales de hojas de higuera** | Autojustificación humana y religión por obras propias | [Génesis 3:7](/leer/genesis/3#verse-7) |
+| **Trapo de inmundicia** | Insuficiencia e impureza de las justicias humanas ante Dios | [Isaías 64:6](/leer/isaias/64#verse-6) |
+| **Túnicas de pieles / Vestiduras blancas** | Justicia imputada de Cristo mediante sacrificio sustitutorio | [Génesis 3:21](/leer/genesis/3#verse-21); [Revelación 3:18](/leer/revelacion/3#verse-18) |
+| **Lino fino y túnica sin costura** | Obras de santificación de los santos y soberanía cósmica de Cristo | [Revelación 19:8](/leer/revelacion/19#verse-8); [Juan 19:23](/leer/juan/19#verse-23) |
